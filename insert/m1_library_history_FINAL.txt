@@ -13,40 +13,40 @@
   JP : ＊力なきレジスタンスであったが / 彼らがひとつにまとまれたのは / 『英雄』と呼ばれた剣の存在が大きい
   LIT: Though a powerless resistance, they came together largely thanks to the blade called the "hero".
   EN : Weak at first, the rebels were united into a powerful resistance by a |hero.|
-  RE : A powerless resistance at first,
-       they were united by the blade
-       they called the |hero|.
+  RE : Though a powerless resistance, they
+       came together largely thanks to the
+       blade called the "hero".
 
 [US#831] (history book)
   JP : ＊平和を望む人々の願いは / やがてスレイハイム王を打倒し / 奇跡的な勝利をつかむこととなる
   LIT: The people's wish for peace toppled the king of Slayheim and seized a miraculous victory.
   EN : Driven by a fierce desire for peace, they overthrew the king and won a stunning victory.
-  RE : The people's wish for peace
-       toppled the king and seized
-       a miraculous victory.
+  RE : The people's wish for peace toppled
+       the king of Slayheim and seized a
+       miraculous victory.
 
 [US#832] (history book — the turn)
   JP : ＊だが、『英雄』は / 平時にあって / その意義を失ってしまう〜
   LIT: But in peacetime, the "hero" loses his purpose...
   EN : But the |hero| in war became unwanted in peacetime.
-  RE : But in peacetime, the |hero|
-       lost his purpose...
+  RE : But in peacetime, the "hero" loses
+       his purpose...
 
 [US#833] (history book — the erasure)
   JP : ＊戦争犯罪人として捕らえられた『英雄』は / こうして歴史から / 抹消されたのである
   LIT: Seized as a war criminal, the "hero" was thus erased from history.
   EN : The |hero| was charged as a war criminal, and erased from the annals of history.
   RE : Seized as a war criminal, the
-       |hero| was thus erased from
-       the pages of history.
+       "hero" was thus erased from
+       history.
 
 [US#834] (history book — the three nations)
   JP : ＊南の先進国シルヴァラントは / 肥沃な大地に恵まれ / 農業を守護している
   LIT: Sylvaland, the advanced nation to the south, is blessed with fertile land and guards agriculture.
   EN : Sylvaland, in the south, is blessed with fertile soil, and protects agriculture.
-  RE : Sylvaland to the south is
-       blessed with fertile soil,
-       and guards its agriculture.
+  RE : Sylvaland, the advanced nation to
+       the south, is blessed with fertile
+       land and guards agriculture.
 
 [US#835] (history book)
   JP : ＊北のギルドグラードは / 『化石』と呼ばれる古代生物の遺産を用い / 独自の生産技術を守護している
@@ -60,16 +60,16 @@
   JP : ＊西のスレイハイムは / 軍事力を / 守護していた
   LIT: Slayheim to the west guarded military might.
   EN : To the west is Slayheim, protector of military might.
-  RE : Slayheim to the west
-       guarded military might.
+  RE : Slayheim to the west guarded
+       military might.
 
 [US#837] (history book — the warning)
   JP : ＊だが、大きすぎる力は / いつしか肥大し / 国を滅びの道へと導いてしまう
   LIT: But power too great swells unchecked, and leads a nation down the road to ruin.
   EN : But power that grows too strong leads a nation down the path to its own destruction.
-  RE : But power grown too great
-       swells unchecked, and leads
-       a nation to its ruin.
+  RE : But power too great swells
+       unchecked, and leads a nation down
+       the road to ruin.
 
 # =========================================================================================
 # STATUS: Chateau library history books translated (8 boxes, US#830-837). Reconciled by construction.

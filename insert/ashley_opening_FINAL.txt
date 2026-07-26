@@ -15,8 +15,8 @@
   JP : 「これより、ミッションの最終確認を行うッ！
   LIT: We will now conduct the final mission check!
   EN : Time for the final mission check!
-  RE : We will now conduct the
-       final mission check!
+  RE : We will now conduct the final
+       mission check!
 
 [US#7217] (Commander)
   JP : 「新入りッ！　お前の名はッ！
@@ -28,23 +28,23 @@
   JP : 「隊の足をひっぱるなよ / わかったか、{0}ッ！
   LIT: Don't drag the squad down. Got it, {0}?!
   EN : Don't get in the way, understand, {0}?!
-  RE : Don't drag the squad down.
-       Got that, {0}?!
+  RE : Don't drag the squad down. Got it,
+       {0}?!
 
 [US#7219] (Commander)
   JP : 「すみやかに人質の安全を / 確保するところにある
   LIT: [The objective] is to swiftly secure the hostage's safety.
   EN : It's critical to secure the safety of the hostage first.
-  RE : The objective: secure the
-       hostage's safety, fast.
+  RE : [The objective] is to swiftly
+       secure the hostage's safety.
 
 [US#7220] (Commander)
   JP : 「遺跡街には / 多数のモンスターも確認されている / 各自、気を抜いてかかるなよ
   LIT: Numerous monsters are confirmed in the ruins district too. Each of you, don't let your guard down.
   EN : Numerous monsters have been sighted at the ruins, so don't let your guard down.
-  RE : Monsters have been confirmed
-       throughout the ruins. Every
-       one of you, stay sharp.
+  RE : Numerous monsters are confirmed in
+       the ruins district too. Each of
+       you, don't let your guard down.
 
 [US#7221] (Commander)
   JP : 「よし、突入開始だッ！
@@ -58,15 +58,14 @@
   JP : 「おそらく、封印されていたモンスターが / 何らかの事故で / 解放されたのではないかとッ！
   LIT: Most likely a sealed monster was set loose by some accident!
   EN : Most likely, the trapped monster was released by accident!
-  RE : A sealed monster was likely
-       set loose here by
-       some accident!
+  RE : Most likely a sealed monster was
+       set loose by some accident!
 
 [US#7223] (Radar Technician)
   JP : 「最悪なことに / モンスターから分泌される体液に / 揮発性の高い液体燃料も検出されました
   LIT: Worst of all, the fluid the monster secretes tested as a highly volatile liquid fuel.
   EN : Unfortunately, highly volatile liquid explosives have been found in the monster's secretions.
-  RE : Worse still: the fluid it
+  RE : Worst of all, the fluid the monster
        secretes tested as a highly
        volatile liquid fuel.
 
@@ -74,74 +73,72 @@
   JP : 「隊長〜 / このままでは〜
   LIT: Commander... at this rate...
   EN : Commander, at this rate...
-  RE : Commander...
-       at this rate...
+  RE : Commander... at this rate...
 
 [US#7225] (Radar Technician)
   JP : 「{?}周囲の{燃}発が考えられる以上 / 処理を地上で行うわけにはいかん
   LIT: With an explosion of the whole area possible, we can't deal with it above ground.
   EN : A huge explosion is possible, so we can't handle it above ground.
-  RE : With the whole area at risk
-       of blowing, we can't handle it
+  RE : With an explosion of the whole area
+       possible, we can't deal with it
        above ground.
 
 [US#7226] (Commander, the order)
   JP : 「被害を最小限に抑えるためにも / 遺跡街で一気に壊滅するッ！
   LIT: To keep casualties to a minimum, we wipe out the ruins district in one blow!
   EN : To minimize casualties, we must destroy the entire ruins at once.
-  RE : To keep casualties down, we
-       level the whole ruins
-       in one blow!
+  RE : To keep casualties to a minimum, we
+       wipe out the ruins district in one
+       blow!
 
 [US#7227] (Commander)
   JP : 「いざという時のために / 大型アームのセーフティを解除しておけ
   LIT: Just in case, take the large ARM off safety.
   EN : Release the safety on the large ARM.
-  RE : Take the big ARM off safety,
-       just in case.
+  RE : Just in case, take the large ARM
+       off safety.
 
 [US#7228] (Commander) — the 僕から "by my own hand" line
   JP : 「『リニアレールキャノン』の使用許可は / 僕から出しておく
   LIT: I'll issue the authorization for the "Linear Rail Cannon" myself.
   EN : I'll authorize the use of the Rail Gun.
-  RE : I'll issue clearance for the
-       Linear Rail Cannon myself.
+  RE : I'll issue the authorization for
+       the "Linear Rail Cannon" myself.
 
 [US#7229] (Ashley)
   JP : 「しかし遺跡街には / まだ多くの隊員が残っています
   LIT: But there are still many soldiers left in the ruins district.
   EN : But we still have soldiers left in the ruins.
-  RE : But many of our soldiers
-       are still inside the ruins.
+  RE : But there are still many soldiers
+       left in the ruins district.
 
 [US#7230] (Ashley)
   JP : 「彼ら全員の待避前に / モンスターが外に / 出てしまうかもしれません
   LIT: The monster may get outside before all of them can evacuate.
   EN : It's possible the monster could escape before all of them evacuate.
-  RE : The monster could break out
-       before all of them
-       can evacuate.
+  RE : The monster may get outside before
+       all of them can evacuate.
 
 [US#7231] (Ashley, the moral crux)
   JP : 「遺跡街で壊滅するためには / 彼らの待避が間に合いません… / 彼らを巻き込むつもりですかッ！
   LIT: To level the ruins now, their evacuation won't finish in time... You mean to catch them in it?!
   EN : By destroying the ruins, some soldiers won't escape in time. Are you going to let them die?
-  RE : Level it now and they can't
-       get clear in time... You mean
-       to catch our own men in it?!
+  RE : To level the ruins now, their
+       evacuation won't finish in time...
+       You mean to catch them in it?!
 
 [US#7232] (Commander)
   JP : 「責任は、僕が持つ
   LIT: I'll bear the responsibility.
   EN : I'll take full responsibility.
-  RE : The responsibility
-       will be mine.
+  RE : I'll bear the responsibility.
 
 [US#7234] (Commander)
   JP : 「〜信念はできています
   LIT: ...My mind is made up. (lit. my conviction is set)
   EN : I am prepared for my reprimand.
-  RE : ...My mind is made up.
+  RE : ...My mind is made up. (lit. my
+       conviction is set)
 
 [US#7235] — house arrest (aftermath, EN retained)
   "Your punishment for this incident will be forthcoming! Until then, you're under house arrest."

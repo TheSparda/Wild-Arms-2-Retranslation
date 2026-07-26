@@ -15,144 +15,139 @@
   JP : 「だけど、気分が悪い〜 / 吐きそうだ〜
   LIT: But I feel awful... like I'm going to be sick.
   EN : But I don't feel well. I feel like I'm going to puke.
-  RE : But I feel awful...
-       like I'm going to be sick.
+  RE : But I feel awful... like I'm going
+       to be sick.
 
 [US#5412] ({2} Lilka)
   JP : 「タラスクの攻撃を受けて / カラダの自由が奪われ / そして〜
   LIT: The Trask's attack hit me, my body wouldn't move, and then...
   EN : After I was attacked by the Trask, I couldn't move my body. Then...
-  RE : The Trask hit me, my body
+  RE : The Trask's attack hit me, my body
        wouldn't move, and then...
 
 [US#5413] ({2} Lilka)
   JP : 「朦朧とした意識の中 / 視界が白く抜けたところまでは / おぼえあるのだが〜
   LIT: In hazy consciousness, I remember up to when my vision went white...
   EN : Through a hazy consciousness I saw everything turn white. That's all I remember.
-  RE : In a haze, I remember my
-       sight going white. That's
-       all I've got.
+  RE : In hazy consciousness, I remember
+       up to when my vision went white...
 
 [US#5414] ({2} Lilka)
   JP : 「気がついたら / ここにブチ込まれていた
   LIT: When I came to, I'd been thrown in here.
   EN : When I came to, I was locked in here.
-  RE : When I came to, I'd been
-       thrown in here.
+  RE : When I came to, I'd been thrown in
+       here.
 
 [US#5415] ({1} Brad)
   JP : 「くそッ！ / こういうのばっかりだッ！
   LIT: Damn it! It's always something like this!
   EN : Darn! Things like this always happen to me.
-  RE : Damn it! It's always
-       something like this!
+  RE : Damn it! It's always something like
+       this!
 
 [US#5417] ({2} Lilka, uneasy)
   JP : 「どうしたんだろう、わたし〜 / 一瞬でも{0}を / あんな風に見まちがえるなんて〜
   LIT: What's wrong with me... to mistake {0} for something like that, even for an instant.
   EN : I wonder what happened to me. For example, maybe for a minute I thought {0}...
-  RE : What's wrong with me...
-       mistaking {0} like that,
-       even for a second.
+  RE : What's wrong with me... to mistake
+       {0} for something like that, even
+       for an instant.
 
 [US#5418] ({3} Marina)
   JP : 「何とかしなくちゃ / 〜ねッ？
   LIT: We've got to do something, right?
   EN : We've gotta do something. Right?
-  RE : We have to do something.
-       Right?
+  RE : We've got to do something, right?
 
 [US#5423] ({0} Ashley)
   JP : 「でもね / 待っていたのは、俺だけじゃないんだな / これが〜
   LIT: But I wasn't the only one waiting for you. That's the thing...
   EN : But... I wasn't the only one waiting for you. This...
-  RE : But I wasn't the only one
-       waiting for you. That's
-       the thing...
+  RE : But I wasn't the only one waiting
+       for you. That's the thing...
 
 [US#5424] ({3} Marina, the trap sprung)
   JP : 「さっき助けた村の人を人質にとられてしまったの / 『抵抗すれば皆殺しにする』って〜
   LIT: They took the villagers we just saved as hostages. "Resist and I'll kill them all," they said.
   EN : The villagers we just helped were taken as human shields. They said |resist and we kill them.|
-  RE : They took the villagers we
-       just saved as hostages.
-       |Resist and they all die.|
+  RE : They took the villagers we just
+       saved as hostages. "Resist and I'll
+       kill them all," they said.
 
 [US#5425] ({3} Marina)
   JP : 「これ全部、仕組まれたワナだったの / こいつの仕業なんだよッ！
   LIT: All of this was a set-up. This man did it!
   EN : All of this was a trick. He plotted all of this!
-  RE : This was all a trap.
-       This man set it up!
+  RE : All of this was a set-up. This man
+       did it!
 
 [US#5426] (the captor)
   JP : 「まだ、準備が調っていないのでね〜
   LIT: The preparations aren't finished yet, you see.
   EN : But the preparations aren't finished yet.
-  RE : The preparations
-       aren't finished yet.
+  RE : The preparations aren't finished
+       yet, you see.
 
 [US#5427] (the captor, on why)
   JP : 「多少、手間はかかったけれど / こうしてキミたちＡＲＭＳを / 捕らえたことには意味がある
   LIT: It took some effort, but there's real meaning in capturing you ARMS like this.
   EN : The plan got a little messed up, but there's a reason I captured you ARMS.
-  RE : It took some doing, but
-       capturing you ARMS
-       has its purpose.
+  RE : It took some effort, but there's
+       real meaning in capturing you ARMS
+       like this.
 
 [US#5428] (the captor, the plan)
   JP : 「派手に処刑することで / 俺たちの相を消すと同時に / オデッサの力をアピールするというわけだ
   LIT: A public execution wipes out our enemies and shows off Odessa's power at the same time.
   EN : By executing all of you publicly, I can rid myself of enemies and also show Odessa's power.
-  RE : A public execution clears
-       our enemies and flaunts
-       Odessa's power at once.
+  RE : A public execution wipes out our
+       enemies and shows off Odessa's
+       power at the same time.
 
 [US#5429] (the captor, on the hostages)
   JP : 「ハルメッツの住人を / 殺さずに捕らえていたのは / その瞬間の目撃者になってもらうためさ
   LIT: We took the Halmetz townsfolk alive so they'd be witnesses to that moment.
   EN : We didn't kill the people of Halmetz when we caught them so they'd witness the execution.
-  RE : We kept the Halmetz folk
-       alive to be witnesses
-       to the moment.
+  RE : We took the Halmetz townsfolk alive
+       so they'd be witnesses to that
+       moment.
 
 [US#5430] (the captor)
   JP : 「でもね、こっちにはこっちの / いろいろな理由があるんだよ / そのへんのところ理解してほしいな
   LIT: But we have our own various reasons. I'd like you to understand that much.
   EN : But, we have our reasons. I'd appreciate your understanding on this.
-  RE : But we have our own reasons.
-       I'd like you to understand
+  RE : But we have our own various
+       reasons. I'd like you to understand
        that much.
 
 [US#5433] (whisper)
   JP : （今、お前に必要なのは / 望むこと、欲すること〜）
   LIT: (What you need now is to hope, to desire.)
   EN : (What you need now is hope and desire.)
-  RE : (What you need now is
-       to hope, to desire.)
+  RE : (What you need now is to hope, to
+       desire.)
 
 [US#5434] ({0} Ashley, answering the whisper)
   JP : 「どんな脅威も / はねのけられるだけの『力』が〜 / そうすれば〜
   LIT: Enough "power" to fend off any threat... if I had that...
   EN : I want enough |power| to overcome any adversity. If I have that...
-  RE : Enough |power| to fend off
-       any threat... if only
-       I had that...
+  RE : Enough "power" to fend off any
+       threat... if I had that...
 
 [US#5435] (the captor)
   JP : 「作戦変更ッ！ / 人質を始末しろッ！
   LIT: Change of plans! Get rid of the hostages!
   EN : Change of plans! Kill all the hostages!
-  RE : Change of plans!
-       Kill the hostages!
+  RE : Change of plans! Get rid of the
+       hostages!
 
 [US#5439] ({0} Ashley, resolve)
   JP : 「この『痛み』と『形』は俺のものだ / 戦うための『力』だ
   LIT: This "pain" and this "form" are mine. They're my "power" to fight.
   EN : This |pain| and |form| are mine. It's the |power| to fight.
-  RE : This |pain| and |form| are
-       mine. They're my |power|
-       to fight.
+  RE : This "pain" and this "form" are
+       mine. They're my "power" to fight.
 
 # =========================================================================================
 # STATUS: Halmetz trap scene translated (19 story boxes, US#5406-5463 range). Reconciled by

@@ -13,104 +13,104 @@
   JP : ＊ファルガイア全域を / カバーすることができます / （天候などの条件で一部、念話の届かない地域もございます）
   LIT: Covers all of Filgaia. (Under some conditions, like weather, a few regions may not receive telepathy.)
   EN : We can cover all of Filgaia (In bad weather, some regions won't receive the transmission.)
-  RE : Covers all of Filgaia.
-       (In bad weather, some regions
-       won't receive the message.)
+  RE : Covers all of Filgaia. (Under some
+       conditions, like weather, a few
+       regions may not receive telepathy.)
 
 [US#5335] (the shock-attack skill)
   JP : ＊対象の振動に作用する / 衝撃攻撃を / 敵に与える
   LIT: Delivers to the enemy a shock attack that acts on the target's vibrations.
   EN : It delivers to the enemy a shock attack which acts on the target's vibrations.
-  RE : Deals the enemy a shock
-       attack that acts on the
-       target's vibrations.
+  RE : Delivers to the enemy a shock
+       attack that acts on the target's
+       vibrations.
 
 [US#5337] (history: Telepath Mage -> Empathite)
   JP : ＊その念話の性質は意外に古く / その発現者は『テレパスメイジ』と呼ばれる / やがて信応谷に取って代わられた
   LIT: Telepathy's nature is surprisingly old; its wielders were called "Telepath Mages," later replaced by Empathite.
   EN : Then, due to its peculiar nature, the Telepath Mage dwindled until he was replaced by the Empathite.
-  RE : Telepathy is surprisingly old.
-       Its wielders, the Telepath Mages,
-       were replaced by Empathite.
+  RE : Telepathy is surprisingly old. Its
+       wielders, the Telepath Mages, were
+       replaced by Empathite.
 
 [US#5338] (what Empathite does)
   JP : ＊信応谷は、人の思念を増幅し / 個々のパルスに / 変換する性質を持っている
   LIT: Empathite amplifies human thought and has the property of converting it into individual pulses.
   EN : The Empathite amplifies people's thoughts and has the ability to transform individual pulses.
-  RE : Empathite amplifies human
-       thought and converts it into
-       individual pulses.
+  RE : Empathite amplifies human thought
+       and has the property of converting
+       it into individual pulses.
 
 [US#5339] (resonance transmission)
   JP : ＊離れた場所の信応谷に共鳴させることで / 情報伝達システムとしての / 機能を発揮している
   LIT: By resonating with Empathite far away, it functions as an information-transmission system.
   EN : Some Empathite resonating with another piece far away can be used to transmit information.
-  RE : By resonating with distant
-       Empathite, it works as an
+  RE : By resonating with Empathite far
+       away, it functions as an
        information-transmission system.
 
 [US#5341] (Mt. Chug-Chug name origin)
   JP : ＊通称、チャグチャグ山 / その名は採掘機械の / 『チャグチャグ』という音に由来するという
   LIT: Alias Mt. Chug-Chug; the name is said to come from the "chug-chug" sound of the mining machinery.
   EN : Alias Mt. Chug-Chug. It's said that the name comes from the |Chug Chug| sound of the mining machinery.
-  RE : Alias Mt. Chug-Chug. The name
-       comes from the |chug-chug| of
-       the mining machinery, they say.
+  RE : Alias Mt. Chug-Chug; the name is
+       said to come from the "chug-chug"
+       sound of the mining machinery.
 
 [US#5342] (mining output)
   JP : ＊採掘量は少ないが / 最も質の高い信応谷がここで採れ / ファルガイア中に送られている
   LIT: Though the amount mined is small, the highest-quality Empathite is found here and sent across Filgaia.
   EN : While the amount mined is low, the best and purest Empathite is found here and sent all over Filgaia.
-  RE : Little is mined, but the purest
-       Empathite comes from here and
-       goes out across Filgaia.
+  RE : Though the amount mined is small,
+       the highest-quality Empathite is
+       found here and sent across Filgaia.
 
 [US#5343] (power formula 1)
   JP : ＊信応谷は、その大きさ・純度により / その出力が決まる
   LIT: Empathite's output is determined by its size and purity.
   EN : The Empathite's power is determined by its size and purity.
-  RE : Empathite's output is set
-       by its size and purity.
+  RE : Empathite's output is determined by
+       its size and purity.
 
 [US#5344] (power formula 2)
   JP : ＊大きさが倍になると、出力も倍に / 純度が倍になると、出力は倍倍になり / より大きく純度の高いものが求められている
   LIT: Double the size, double the output; double the purity, output multiplies; so bigger and purer is prized.
   EN : If size doubles, so does power. If purity doubles, power triples. So large, pure Empathite is best.
-  RE : Double the size, double the
-       output. Double the purity, more
-       still. So big and pure is best.
+  RE : Double the size, double the output.
+       Double the purity, more still. So
+       big and pure is best.
 
 [US#5345] (the Tower's crystal)
   JP : ＊現在、発見された中で最も出力の高い信応谷が / テレパスタワーで / 使用されている
   LIT: The highest-output Empathite yet discovered is currently used in the Telepath Tower.
   EN : Currently, the most powerful Empathite ever discovered is being used in the Telepath Tower.
-  RE : The most powerful Empathite yet
-       found is the one in use at the
+  RE : The highest-output Empathite yet
+       discovered is currently used in the
        Telepath Tower.
 
 [US#5347] (relay amplification)
   JP : ＊現在は、通信用信応谷の中継地帯として / 各々の信応谷の通信能力を高める / 出力増幅の役目を果たしている
   LIT: It now serves as a relay hub for communication Empathite, amplifying each piece's transmission power.
   EN : Communication Empathite at the broadcast location amplifies the power of the transmission.
-  RE : It now acts as a relay hub,
-       boosting the transmission
-       power of each Empathite.
+  RE : It now serves as a relay hub for
+       communication Empathite, amplifying
+       each piece's transmission power.
 
 [US#5348] (long-distance reach)
   JP : ＊これにより、信応谷を用いて / 遠距離や、これまで届かなかった地域への / 伝達が可能となった
   LIT: This made it possible to use Empathite to transmit long-distance, and to regions never reached before.
   EN : Now it's possible to use the Empathite to transmit long distance or to regions not reached before.
-  RE : Now Empathite can transmit
-       long distance, and to regions
-       never reached before.
+  RE : Now Empathite can transmit long
+       distance, and to regions never
+       reached before.
 
 [US#5349] (recycling)
   JP : ＊また、以前は廃棄されていた信応谷も / 資源のより効率的な活用により / 再利用が可能となった
   LIT: Also, Empathite once discarded can now be reused, thanks to more efficient use of resources.
   EN : Also, Empathite that used to be discarded can be reused, due to more efficient use of resources.
-  RE : Empathite once thrown away can
+  RE : Also, Empathite once discarded can
        now be reused, thanks to more
-       efficient resource use.
+       efficient use of resources.
 
 # =========================================================================================
 # STATUS: Telepath/Empathite lore scrolls translated (13 boxes, US#5334-5349, real blk29 slots).

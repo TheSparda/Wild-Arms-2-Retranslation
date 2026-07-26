@@ -18,136 +18,131 @@
   JP : 「今すぐ引き返すんだ / もう、わかっているだろう？ / ここは危険だッ！
   LIT: Turn back right now. You already know, don't you? It's dangerous here!
   EN : Turn back right now. You already know don't you? It's dangerous here!
-  RE : Turn back, now.
-       You already know, right?
-       It's dangerous here!
+  RE : Turn back right now. You already
+       know, don't you? It's dangerous
+       here!
 
 [US#5385] ({6} Ard)
   JP : 「これほど危険なのに / 我々だけ帰されるというのは / どうかと思いますが〜
   LIT: With it this dangerous, being sent back by ourselves seems ill-advised, in my view.
   EN : there's something wrong about sending us back alone when it's so dangerous.
-  RE : With it this dangerous,
-       sending us back alone
-       seems wrong to me.
+  RE : With it this dangerous, being sent
+       back by ourselves seems
+       ill-advised, in my view.
 
 [US#5386] ({5} Liz)
   JP : 「任務が終わるまでは / いっしょに行動だ
   LIT: Until the mission's over, we act together.
   EN : They'll have to come with us until our mission is finished.
-  RE : Until the mission's done,
-       we stick together.
+  RE : Until the mission's over, we act
+       together.
 
 [US#5387] ({2} the kid, proud)
   JP : 「現に、僕たちの力で / ここまでやってこれたってのに〜
   LIT: We actually made it this far on our own strength, after all.
   EN : In reality, we got this far on our own strength.
-  RE : We actually made it this
-       far on our own strength.
+  RE : We actually made it this far on our
+       own strength, after all.
 
 [US#5388] ({6} Ard, gently correcting)
   JP : 「『僕たちの力』ではなく / みんなの力だと思うのですが〜
   LIT: Not "our own strength," but everyone's strength, I'd say.
   EN : It wasn't |our own strength| but the strength of 3.
-  RE : Not |our own strength|.
-       Everyone's strength,
-       I'd say.
+  RE : Not "our own strength," but
+       everyone's strength, I'd say.
 
 [US#5389] ({2} Lilka)
   JP : 「これもさっきの / モンスターのせいなのかな〜ッ？
   LIT: Is this because of that monster from before, too?
   EN : Is it because of that monster?
-  RE : Is this because of
-       that monster earlier?
+  RE : Is this because of that monster
+       from before, too?
 
 [US#5390] ({2} Lilka)
   JP : 「だったら / こっちからエネルギーをあげれば / いいんじゃないかな
   LIT: If so, couldn't we just give it some energy from our side?
   EN : If so, can't we just give it some energy?
-  RE : If so, couldn't we just
-       give it some energy
-       from our end?
+  RE : If so, couldn't we just give it
+       some energy from our side?
 
 [US#5391] ({0} Ashley)
   JP : 「でも、ライブリフレクターって / 何で動いているんだ？
   LIT: But what do the Live Reflectors even run on?
   EN : But what do Live Reflectors run on?
-  RE : But what do the Live
-       Reflectors even run on?
+  RE : But what do the Live Reflectors
+       even run on?
 
 [US#5392] ({2} the girl, on her Medium)
   JP : 「母さんの遺してくれた / お守りのミーディアムが〜
   LIT: The protective charm Medium my mother left me...
   EN : The amulet my mother left me, the Medium...
-  RE : The charm Medium my
+  RE : The protective charm Medium my
        mother left me...
 
 [US#5393] ({2} the girl, the awakening)
   JP : 「生命のガーディアン / 『オードリューク』のミーディアムが / 開けようとしている〜
   LIT: The Guardian of Life, the Medium of "Odoryuk," is beginning to open.
   EN : The Guardian of Life, the |Odoryuk| Medium is opening up.
-  RE : The Guardian of Life,
-       the |Odoryuk| Medium,
-       is opening up.
+  RE : The Guardian of Life, the Medium of
+       "Odoryuk," is beginning to open.
 
 [US#5394] ({5} Liz)
   JP : 「しかし〜 / キミの力、あれはいったい…
   LIT: But... that power of yours, what on earth is it?
   EN : But, that power. What is it?
-  RE : But that power of yours...
-       what on earth is it?
+  RE : But... that power of yours, what on
+       earth is it?
 
 [US#5395] ({2} the girl)
   JP : 「母さんが言ってたんです / ミーディアムには力が秘められているって
   LIT: My mother told me the Medium holds a hidden power.
   EN : My mother told me the Medium's power is concealed.
-  RE : My mother told me the
-       Medium holds a hidden power.
+  RE : My mother told me the Medium holds
+       a hidden power.
 
 [US#5396] ({2} the girl)
   JP : 「…あれが、そうなのかな〜
   LIT: ...I wonder if that was it.
   EN : I wonder if that's it.
-  RE : ...I wonder if
-       that was it.
+  RE : ...I wonder if that was it.
 
 [US#5397] ({3} Marina, to Ashley)
   JP : 「{0}さん / 任務の途中なんでしょ / 急がなきゃ〜
   LIT: {0}, you're in the middle of a mission, right? We must hurry.
   EN : {0}, aren't you in the middle of a mission? Better hurry.
-  RE : {0}, you're mid-mission,
-       aren't you? We'd better
-       hurry.
+  RE : {0}, you're in the middle of a
+       mission, right? We must hurry.
 
 [US#5398] ({2} the girl, reassuring)
   JP : 「それに、あの『護りの光』が守ってくれるんだ / ここからタウンメリアに / 戻るくらい、わけないってば
   LIT: Besides, that "protecting light" will guard me. Getting back to Town Meria from here is nothing.
   EN : Besides, that |light| will protect me. Getting back to the Town of Meria from here is easy.
-  RE : Besides, that |light| protects
-       me. Getting back to Town Meria
-       from here is nothing.
+  RE : Besides, that "protecting light"
+       will guard me. Getting back to Town
+       Meria from here is nothing.
 
 [US#5399] ({0} Ashley)
   JP : 「相手はシルヴァラント王軍だ / これ以上、遅れるわけにはいかんだろう
   LIT: We're up against Sylvaland's royal army. We can't afford to fall behind any further.
   EN : The Sylvaland Ruling Family... we can't get there any later.
-  RE : We're up against Sylvaland's
-       royal army. We can't fall
+  RE : We're up against Sylvaland's royal
+       army. We can't afford to fall
        behind any further.
 
 [US#5400] ({5} Liz, to the kids)
   JP : 「俺たちがいない間 / 今度みたいなことするんじゃないぞ
   LIT: While we're gone, don't go pulling anything like this again.
   EN : Don't do anything like this while we're still away.
-  RE : While we're gone, don't go
-       pulling a stunt like this again.
+  RE : While we're gone, don't go pulling
+       anything like this again.
 
 [US#5401] (the kid, "young ARMS")
   JP : 「あんちゃんたちがいない間 / タウンメリアの警備は / 僕たち少数ＡＲＭＳに、まかせてくれたまえ
   LIT: While you're all away, leave guarding Town Meria to us, the little ARMS.
   EN : While they're away, we, the Young ARMS will maintain peace in the Town of Meria.
-  RE : While you're away, leave
-       guarding Town Meria to us,
-       the Young ARMS.
+  RE : While you're all away, leave
+       guarding Town Meria to us, the
+       little ARMS.
 
 # =========================================================================================
 # STATUS: Live Reflector continuation translated (18 boxes, US#5384-5401, all REAL blk31 slots).

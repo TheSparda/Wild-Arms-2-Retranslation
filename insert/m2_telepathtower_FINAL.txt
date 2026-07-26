@@ -85,8 +85,8 @@
   JP : 「それじゃあ、テレパスタワーを中継地にして / テロリストどもの決起表明が / ファルガイア中に流されたのかッ！
   LIT: So the terrorists' uprising declaration was broadcast across all Filgaia, relayed through the Telepath Tower?!
   EN : They used the Telepath Tower to send their terrorist message throughout Filgaia!
-  RE : So they used the Telepath Tower
-       as a relay, and blasted Odessa's
+  RE : So they used the Telepath Tower as
+       a relay, and blasted Odessa's
        uprising call across Filgaia?!
 
 [US#5332] ({0} Ashley)  # US#5332 = "Missed that!" only. The "command was to destroy the amplifier"
@@ -95,15 +95,17 @@
   JP : 「うかつッ！ (増幅装置の破壊がコマンドだったか… / 来るぞッ！ = surrounding event text)
   LIT: Careless! (The command was to destroy the amplifier... Here it comes!)
   EN : Missed that!
-  RE : Missed that!
+  RE : Careless! (The command was to
+       destroy the amplifier... Here it
+       comes!)
 
 [US#5333] ({1} Brad, resolve)
   JP : 「一度、ダムツェンに戻って / テレパスタワーの同胞に / 事情を説明しよう
   LIT: Let's head back to Damzen once and explain the situation to our Telepath Tower comrades.
   EN : Let's return to Damzen and explain the situation to the tower staff.
-  RE : Let's head back to Damzen and
-       explain what happened to the
-       tower's people.
+  RE : Let's head back to Damzen once and
+       explain the situation to our
+       Telepath Tower comrades.
 
 # =========================================================================================
 # STATUS: Telepath Tower generator-room scene translated (12 story boxes). JP block-decoded.

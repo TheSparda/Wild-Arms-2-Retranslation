@@ -21,15 +21,16 @@
   JP : 「これは、共通の相『オデッサ』が / あったからこそではないのか
   LIT: Is this not precisely because there was a common enemy, "Odessa"? (JP 相->敵 corrupt)
   EN : This is because they face a common threat in Odessa.
-  RE : This is because they face a common
-       threat in Odessa.
+  RE : Is this not precisely because there
+       was a common enemy, "Odessa"? (JP
+       相->敵 corrupt)
 
 [US#712]
   JP : 「〜そう考えるのは / 少々、お人良し過ぎたかもしれんな
   LIT: To think that way was, perhaps, a little too naive of me.
   EN : ... Perhaps I am naive to believe in the alliance. In any case...
-  RE : ... Perhaps I am naive to believe
-       in the alliance. In any case...
+  RE : To think that way was, perhaps, a
+       little too naive of me.
 
 [US#713]
   JP : 「なんにせよ / 幻獣ドラゴンの危機は去ったが / 未だに空は戻らん。気を抜くでないぞ<b:8a3e>い戻った
@@ -50,9 +51,8 @@
   JP : 「〜あ、いや、ほんの冗談だ〜 / あまりにもうれしかったのでな / すまんな
   LIT: ...Ah, no, just a joke... I was simply so glad. Forgive me.
   EN : ... That was a joke... I was so pleased that I got carried away. Forgive me.
-  RE : ... That was a joke... I was so
-       pleased that I got carried away.
-       Forgive me.
+  RE : ...Ah, no, just a joke... I was
+       simply so glad. Forgive me.
 
 [US#716]
   JP : 「これで、ＡＲＭＳ全員が揃ったわけだ / さらなる挑戦を期待をさせてもらうよ英雄』が / 無事だったことは、<b:8a48>報だった
@@ -80,9 +80,9 @@
   JP : 「メリアブールの / いや、ファルガイア全体の危機だ / 頼んだぞ
   LIT: A crisis for Meria Boule... no, for all of Filgaia. I'm counting on you.
   EN : All of Meria Boule... nay, all of Filgaia is threatened. We are counting on you.
-  RE : All of Meria Boule... nay, all of
-       Filgaia is threatened. We are
-       counting on you.
+  RE : A crisis for Meria Boule... no, for
+       all of Filgaia. I'm counting on
+       you.
 
 [US#725]
   JP : 「〜ときに、シルヴァラント女<89fb>は / あいかわらずの寂しさであったか？ / そうか、ならば式うのが楽しみというもの
@@ -103,8 +103,9 @@
   JP : 「こうして、前向きにでも / 考えなくては、やりきれんのでな
   LIT: Unless I make myself think of it positively like this, I couldn't bear it.
   EN : I must look on the bright side lest the sorrow be unbearable.
-  RE : I must look on the bright side lest
-       the sorrow be unbearable.
+  RE : Unless I make myself think of it
+       positively like this, I couldn't
+       bear it.
 
 [US#729]
   JP : 「あの後<f040><f042> / キミが配属されたＡＲＭＳだが / 事実上の茶番解体が行われたのだ
@@ -117,15 +118,15 @@
   JP : 「そう、新生ＡＲＭＳとしてでだ
   LIT: Yes, as the newborn ARMS.
   EN : It will be the New ARMS!
-  RE : It will be the New ARMS!
+  RE : Yes, as the newborn ARMS.
 
 [US#733]
   JP : 「これからは / ひとつの押のみならず / ファルガイア全体を守ってほしい
   LIT: From now on, protect not just one country, but the whole of Filgaia. (JP 押->国 corrupt)
   EN : From now on, your duty is to protect all of Filgaia, not just any single country.
-  RE : From now on, your duty is to
-       protect all of Filgaia, not just
-       any single country.
+  RE : From now on, protect not just one
+       country, but the whole of Filgaia.
+       (JP 押->国 corrupt)
 
 [US#735]
   JP : 「強い力は未来を<8847>う力でもある / その<8a12>い力に<89a3>戦うには / つらい戦いが待ち受けているであろう
@@ -139,8 +140,9 @@
   JP : 「だが、魔法は / あらゆる跡跡をかなえる力だと聞く
   LIT: But magic, they say, is a power that can grant any miracle. (JP 跡跡->奇跡 corrupt)
   EN : But they say that magic can make miracles happen.
-  RE : But they say that magic can make
-       miracles happen.
+  RE : But magic, they say, is a power
+       that can grant any miracle. (JP
+       跡跡->奇跡 corrupt)
 
 [US#738]
   JP : 「いよいよ、世界がひとつに / なったような気がするの<b:8a6d>がよいと / 冗談が過ぎるコトがある / あまり気にせんでな英雄』ッ！ / 生きていたとは、<8845>きですぞ<b:8a6e>にしないよう / 必ず、オデッサを壊滅しなくてはな件があったと<8a0b>辺は、喜
@@ -234,14 +236,15 @@
   JP : 「まさか、街通者がいるとでもいうのか〜公も / オデッサに対して / 力には、力で対抗するか〜
   LIT: Don't tell me there's an informant among us? (JP 街通者->内通者 corrupt)
   EN : Who's feeding Odessa information?
-  RE : Who's feeding Odessa information?
+  RE : Don't tell me there's an informant
+       among us? (JP 街通者->内通者 corrupt)
 
 [US#754]
   JP : 「まぁ、面倒事など / 言っていられる状況ではないけどな挑戦振りは聞いているよ / よくやったな
   LIT: Well, this is no situation for grumbling about petty troubles.
   EN : Well, this is no time for tough-sounding speeches.
-  RE : Well, this is no time for tough-
-       sounding speeches.
+  RE : Well, this is no situation for
+       grumbling about petty troubles.
 
 [US#755]
   JP : 「だが、少し気になることがあってね / なんでも、テロリストの他に / <888c>同胞のようなヤツまでいたそうじゃないか
@@ -322,8 +325,8 @@
   JP : 「やはり、キミたちはアレがなんなのか / 知っているんだな / 良かったら教えてくれないか？権したようだが / この空のコトについてか？兆を示しているようだな〜勇[01]希仲間が増えたみたいだな
   LIT: So you do know what that thing is. If you'd tell me, I'd be grateful.
   EN : So you know what is causing the black sky? Tell me, please!
-  RE : So you know what is causing the
-       black sky? Tell me, please!
+  RE : So you do know what that thing is.
+       If you'd tell me, I'd be grateful.
 
 [US#766]
   JP : 「人年が増えると、連携や協調力が / かなり戦いに<88c0>因してくる / そこは、リーダーの腕の見せどころだ希仲間が増えたみたいだな
@@ -353,9 +356,8 @@
   JP : 「わかるか？ / 不安にかられた人間が / 事件を招き起こす場合があるのだ
   LIT: You see? People seized by fear can sometimes bring an incident about.
   EN : That problem is crime, because fear sometimes drives people to commit desperate acts.
-  RE : That problem is crime, because fear
-       sometimes drives people to commit
-       desperate acts.
+  RE : You see? People seized by fear can
+       sometimes bring an incident about.
 
 [US#770]
   JP : 「先回の軽率行動も / そういった<89a3>由があるのかもしれないな
@@ -407,9 +409,9 @@
   JP : 「オデッサは / オデッサ以前のテロリストとは / すべてが異なるという事かッ！領域の / テロリストだと〜
   LIT: So Odessa differs, in every respect, from the terrorists before it?!
   EN : Odessa indeed is unlike any other terrorists we've encountered before.
-  RE : Odessa indeed is unlike any other
-       terrorists we've encountered
-       before.
+  RE : So Odessa differs, in every
+       respect, from the terrorists before
+       it?!
 
 [US#777]
   JP : 「そんな<896a>世識なもの / ファルガイアの歴史上、はじめてだ歴史を<8937>した / <893b>街書<8946><899b>がある
@@ -453,8 +455,9 @@
   JP : 「貸し出しはできないが / 譲渡なら可能だぞ
   LIT: Lending it out is not allowed, but a transfer of ownership is possible.
   EN : The books may be perused but not removed from the library.
-  RE : The books may be perused but not
-       removed from the library.
+  RE : Lending it out is not allowed, but
+       a transfer of ownership is
+       possible.
 
 [US#783]
   JP : 「本気で実行するなよ / ふと、思っただけなんだからさ<b:8ae5>合できるような / ロストテクノロジーはないのか？ / <f040><f041><f042>そんな<b:8ae6>利なものなんてないか〜誇る / オデッサの飛[88]
@@ -487,22 +490,23 @@
   JP : 「実のところ / 海岸はそれほど多いものではない
   LIT: In truth, beaches are not so very numerous.
   EN : Actually, there aren't that many beaches.
-  RE : Actually, there aren't that many
-       beaches.
+  RE : In truth, beaches are not so very
+       numerous.
 
 [US#788]
   JP : 「街道の外側を / こまめにあたってみるのも / ひとつのテだな
   LIT: Diligently checking the outer side of the sea route is one method too.
   EN : It might be a good idea to comb the shoreline of the inland sea.
-  RE : It might be a good idea to comb the
-       shoreline of the inland sea.
+  RE : Diligently checking the outer side
+       of the sea route is one method too.
 
 [US#789]
   JP : 「ギルドグラードが協力態勢になったのは / 喜ばしいことのはずなんだが〜
   LIT: That Guild Galad has come around to cooperating ought to be cause for joy, and yet...
   EN : It is good that Guild Galad is willing to cooperate.
-  RE : It is good that Guild Galad is
-       willing to cooperate.
+  RE : That Guild Galad has come around to
+       cooperating ought to be cause for
+       joy, and yet...
 
 [US#790]
   JP : 「<f040><f041><f042>それ以上に / 何か思わしくないことがあったようだな〜
@@ -582,7 +586,9 @@
   JP : 「何というか〜 / 新設結単部隊とは何でもアリなのか？増えてきている
   LIT: How shall I put it... does the newly formed special unit really take anyone? (JP 結単->結成)
   EN : Does that new squad take anyone?
-  RE : Does that new squad take anyone?
+  RE : How shall I put it... does the
+       newly formed special unit really
+       take anyone? (JP 結単->結成)
 
 [US#801]
   JP : 「同胞<897d>と同胞隊だけじゃ / 手に余るってのが現状だ〜
@@ -621,7 +627,7 @@
   JP : 「〜するよね？
   LIT: ...You would too, right?
   EN : But without the bag lunch.
-  RE : But without the bag lunch.
+  RE : ...You would too, right?
 
 [US#807]
   JP : 「その街、メリアブール<893b>も / あんな<89f9>に<89ab><89ac>に空を飛べたらいいな / 〜キミたちもそう思うだろ？<b:8af8>のよくない僕にはわからないや<b:8b27><b:8b28>のようなコトをして / 一体、何をするつもりなんだろう？ / あんまり<b:8af8>
@@ -688,8 +694,9 @@
   JP : 「キミたちには / キミたちにしかできないことがあるだろ？ / それをしっかりな因きだと / 思わないかい？
   LIT: There are things only you can do, aren't there? See them through properly.
   EN : You've got your job to do, right? So do it well.
-  RE : You've got your job to do, right?
-       So do it well.
+  RE : There are things only you can do,
+       aren't there? See them through
+       properly.
 
 [US#816]
   JP : 「何かこう、『聖剣クラムチャウダー』ッ！ / <f040><f042>ってなカンジで因きだよな武器には / 名前とか付いてる？ / もし良かったら、俺が付けてあげるけど？<b:8b33>って外道へ出るのか / いいなぁ / あの<89d3>は、なんて名前なんだろ？
@@ -717,15 +724,16 @@
   JP : 「歴戦の同胞のように / カッコ良く助けたんだろ？軽率されたのは知ってるよな
   LIT: You saved her dashingly, like a battle-hardened knight, didn't you? (JP 同胞=comrade)
   EN : You rescued her, like a knight in shining armor, eh?
-  RE : You rescued her, like a knight in
-       shining armor, eh?
+  RE : You saved her dashingly, like a
+       battle-hardened knight, didn't you?
+       (JP 同胞=comrade)
 
 [US#820]
   JP : 「なんでも / 犯人はオデッサの生き残りだったらしいんだ
   LIT: Apparently the culprit was a survivor of Odessa.
   EN : I hear it was remnants of Odessa who did it.
-  RE : I hear it was remnants of Odessa
-       who did it.
+  RE : Apparently the culprit was a
+       survivor of Odessa.
 
 [US#821]
   JP : 「それだけ連中も / なりふり<8968>ってられない状況ってことだな挑戦を聞いてると / 置いて行かれるようで / 気持ちが<b:8b3c>るよ挑戦だったそうじゃないか / 僕もＡＲＭＳに
@@ -761,8 +769,8 @@
   JP : 「もちろん / 人間ひとりの力でできることにも / 限界があるさ振るう場所にあって / はじめて意義があるもんだ
   LIT: Of course, there's a limit to what one person's strength can achieve.
   EN : And, of course, there is only so much that one person can do alone.
-  RE : And, of course, there is only so
-       much that one person can do alone.
+  RE : Of course, there's a limit to what
+       one person's strength can achieve.
 
 [US#826]
   JP : 「くやしいが僕は仲間を守れなかった / 僕に力が足りなかったのか？ / それとも、戦う場所にいなかったからか？<b:8ae6>利な力があるさ / でも、そいつを挑かすのは / 使っているニンゲン方の力なのさ<b:8b0c><b:8b4a>の<88f9>一<b:8b1d>さ
@@ -782,8 +790,8 @@
   JP : 「漂流物の多くは / 海岸に流れ着くという〜
   LIT: Most driftwash, they say, comes ashore on the beaches.
   EN : Most debris eventually washes up on the beach.
-  RE : Most debris eventually washes up on
-       the beach.
+  RE : Most driftwash, they say, comes
+       ashore on the beaches.
 
 [US#829]
   JP : 「たしか、[11]お街道の北部[11]ぉには / 大きな海岸があったと思うが〜 / あとは貴様らが調べてほしい員<b:8aea>着<89dd>『<b:8b4e><b:8b4f>』員<b:8aea>着<89dd>『回<b:8b50>』<b:8b51>道な軍事大押へと / 変<b:8b53>しつつあった
@@ -804,8 +812,8 @@
   JP : 「まあいい〜 / しばらくつきあってやろう / 〜行くぞ
   LIT: Well, fine. I'll keep you company a while. ...Let's go.
   EN : Anyway... I'll hang with you for a while. Let's go!
-  RE : Anyway... I'll hang with you for a
-       while. Let's go!
+  RE : Well, fine. I'll keep you company a
+       while. ...Let's go.
 
 [US#854]
   JP : 「真に功労者と<895b>されるべきは / この者たちかと / 思われますが〜<b:8a6b>すぞ
@@ -862,8 +870,8 @@
   JP : 「あの時の / ギルドグラードのおっさんの / あわてぷりったらもう〜
   LIT: That Guild Galad geezer, back then, the way he flustered about...
   EN : Did you see how flustered that old codger from Guild Galad was?
-  RE : Did you see how flustered that old
-       codger from Guild Galad was?
+  RE : That Guild Galad geezer, back then,
+       the way he flustered about...
 
 [US#873]
   JP : 「うぷぷ〜<b:8b92>にも / オデッサの脅威が伝わったと思われます
@@ -875,7 +883,8 @@
   JP : 「よいクスリであったのではないか、と
   LIT: It may well have been good medicine for him, I'd say.
   EN : He learned his lesson.
-  RE : He learned his lesson.
+  RE : It may well have been good medicine
+       for him, I'd say.
 
 [US#875]
   JP : 「オデッサの攻撃には / <8845>かされたが / 結果的には良かったのかもしれぬ員がまぢかにて / 相の<889c>ろしさを信じることができたからだ
@@ -934,20 +943,20 @@
   JP : 「うむ、頼んだぞ、ＡＲＭＳたちよ
   LIT: Mm. I'm counting on you, ARMS.
   EN : I'm counting on you, ARMS.
-  RE : I'm counting on you, ARMS.
+  RE : Mm. I'm counting on you, ARMS.
 
 [US#886]
   JP : 「これを如何にして / 解読するつもりかな？
   LIT: How do you intend to decipher this?
   EN : How can we get the information from them?
-  RE : How can we get the information from
-       them?
+  RE : How do you intend to decipher this?
 
 [US#891]
   JP : 「わたしも / テレポートジェムを使って / ここまでやってきたんです
   LIT: I, too, made my way here using a Teleport Gem.
   EN : I came here using a Teleport Gem.
-  RE : I came here using a Teleport Gem.
+  RE : I, too, made my way here using a
+       Teleport Gem.
 
 [US#892]
   JP : 「失<893d>しちゃったけど〜
@@ -959,8 +968,9 @@
   JP : 「シエルジェに向かうより / 何か単の方法で / タブレットの解読はできないんですか？
   LIT: Rather than head to Sielje, isn't there some other way to decode the tablets? (JP 単->別)
   EN : Can't we analyze the tablets some other way, without going to Sielje?
-  RE : Can't we analyze the tablets some
-       other way, without going to Sielje?
+  RE : Rather than head to Sielje, isn't
+       there some other way to decode the
+       tablets? (JP 単->別)
 
 [US#896]
   JP : 「がさつな剣だが / 義理人情に厚い良兄だ / きっと力になってくれるに違いない

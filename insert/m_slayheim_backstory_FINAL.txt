@@ -15,31 +15,31 @@
   JP : 「残されたひとり娘のエリザは / 解放軍に強い恨みを / いだいていたといいますが〜
   LIT: The one surviving daughter, Eliza, is said to have held a fierce hatred for the Liberation Army.
   EN : Only the daughter, Eliza, survived. She harbored a fierce hatred for the Liberation Army.
-  RE : The lone surviving daughter,
-       Eliza, held a fierce hatred
-       for the Liberation Army.
+  RE : The one surviving daughter, Eliza,
+       is said to have held a fierce
+       hatred for the Liberation Army.
 
 [US#4460] (townsperson)
   JP : 「街戦の終戦後、解放軍も瓦解してしまい / エリザの恨みははらせぬまま / 今にいたっているのです
   LIT: After the civil war ended, the Liberation Army fell apart, and Eliza's hatred was never avenged, right up to now.
   EN : After the civil war, the Liberation Army disbanded, and Eliza lost her chance to get revenge.
-  RE : After the war, the Liberation
-       Army fell apart, and Eliza's
-       hatred was never avenged.
+  RE : After the war, the Liberation Army
+       fell apart, and Eliza's hatred was
+       never avenged.
 
 [US#4516] (townsperson)
   JP : 「だが、その最後は / あまりにも悲惨で / あったという
   LIT: But their end, they say, was far too tragic.
   EN : But what happened to them after the war was tragic.
-  RE : But their end, they say,
-       was far too tragic.
+  RE : But their end, they say, was far
+       too tragic.
 
 [US#4517] (townsperson, on Vinsfeld)
   JP : 「リーダーのヴィンスフェルトは / 私的な目論見のために解放軍を利用しようと / たくらんでいたというではないか
   LIT: Their leader Vinsfeld, they say, schemed to use the Liberation Army for his own private ends.
   EN : Their leader, Vinsfeld, sought to use the Liberation Army for his own personal gain.
-  RE : Their leader Vinsfeld schemed
-       to use the Liberation Army
+  RE : Their leader Vinsfeld, they say,
+       schemed to use the Liberation Army
        for his own private ends.
 
 [US#4518] (townsperson, the betrayal)
@@ -47,63 +47,63 @@
   LIT: Worse, when his standing grew shaky as a war criminal after the war, he sold out the Liberation Army to save his own skin.
   EN : Some say he sold out the Liberation Army to avoid being condemned as a war criminal.
   RE : Worse: when he faced war-crime
-       charges, he sold out the
-       Army to save his own skin.
+       charges, he sold out the Army to
+       save his own skin.
 
 [US#4522] (townsperson, Eliza flees)
   JP : 「当主は処刑台の露と消え / 生き残ったひとり娘は解放軍を恨みながら / 行方をくらませた
   LIT: The head of the house vanished on the gallows; the one surviving daughter fled, hating the Liberation Army.
   EN : Only one escaped the guillotine, a young daughter who fled filled with hatred for the Liberation Army.
-  RE : The head of the house died on
-       the gallows; his daughter fled,
-       hating the Liberation Army.
+  RE : The head of the house died on the
+       gallows; his daughter fled, hating
+       the Liberation Army.
 
 [US#4539] ({0}? / a saved soldier, on the true hero)
   JP : 「だが、真に彼を / 英雄と呼ばしめる理由は / そこではないのだ
   LIT: But the real reason he's called a hero isn't that.
   EN : But that's not the real reason he deserves to be called a hero.
-  RE : But that's not the real reason
-       he's called a hero.
+  RE : But the real reason he's called a
+       hero isn't that.
 
 [US#4540] (saved soldier, the sacrifice)
   JP : 「あの裏切りによって売られた解放軍同胞を / 我が身を盾にして守り抜いたところこそ / 彼を英雄たらしめる
   LIT: What makes him a hero is that he shielded with his own body the comrades sold out by that betrayal.
   EN : He is a hero because he sacrificed himself to protect his war buddies after they were sold out.
-  RE : He's a hero because he shielded
-       with his own body the comrades
-       that betrayal had sold out.
+  RE : What makes him a hero is that he
+       shielded with his own body the
+       comrades sold out by that betrayal.
 
 [US#4541] (saved soldier)
   JP : 「でも、彼は、再び姿を現わすと / 追跡部隊から同胞の目をそらすため / 囮の役をかって出たんだ
   LIT: But he reappeared and volunteered to be the decoy, drawing the pursuit squad's eyes off his comrades.
   EN : But he reappeared and used himself as bait to save a group of his comrades from their pursuers.
-  RE : But he reappeared and made
-       himself the decoy, to draw the
-       pursuers off his comrades.
+  RE : But he reappeared and made himself
+       the decoy, to draw the pursuers off
+       his comrades.
 
 [US#4542] (saved soldier)
   JP : 「英雄の名前には価値があるから / 追っ手はこぞって / {1}をねらったという
   LIT: A hero's name has value, so the pursuers all went after {1}, they say.
   EN : Naturally, the pursuers went after {1} because they thought a |hero| would be more valuable.
-  RE : A |hero's| name has value, so
-       the pursuers all came after
-       {1} instead.
+  RE : A hero's name has value, so the
+       pursuers all went after {1}, they
+       say.
 
 [US#4543] (saved soldier)
   JP : 「彼のおかげで / 元解放軍に参加した民衆は / 追跡部隊から逃れることができたんだ
   LIT: Thanks to him, the common folk who'd joined the old Liberation Army could escape the pursuit squad.
   EN : He gave the ex-soldiers who were being chased a chance to escape. They were just peasants.
   RE : Thanks to him, the common folk
-       who'd joined the Army could
-       slip away from the pursuers.
+       who'd joined the Army could slip
+       away from the pursuers.
 
 [US#4544] (saved soldier, the reveal)
   JP : 「この僕も / 英雄{1}に救われた / 元スレイハイム解放軍なんだよ〜
   LIT: I too am a former Slayheim Liberation Army man, saved by {1} the hero.
   EN : I'm one of those former Slayheim Liberation Army soldiers who was saved by {1} the Hero.
-  RE : I'm one of them, an old Slayheim
-       Liberation Army man that
-       |hero| {1} saved.
+  RE : I too am a former Slayheim
+       Liberation Army man, saved by {1}
+       the hero.
 
 # =========================================================================================
 # STATUS: Slayheim Liberation Army backstory — DEEP RE (12 story boxes, block 18). US# reconciled

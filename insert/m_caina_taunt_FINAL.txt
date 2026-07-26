@@ -14,101 +14,99 @@
   JP : 「私の敬愛するヴィンスフェルト方を / 私のただひとつのよる辺を奪った / {0}・ウィンチェスターよ
   LIT: {0} Winchester, you who stole my beloved Sir Vinsfeld, my one and only anchor...
   EN : To {0} Winchester, the one who stole Sir Vinsfeld, the object of my affection...
-  RE : {0} Winchester, you who stole
-       my beloved Sir Vinsfeld,
-       my one and only anchor...
+  RE : {0} Winchester, you who stole my
+       beloved Sir Vinsfeld, my one and
+       only anchor...
 
 [US#6513] (Caina)
   JP : 「この氷結の地にて / お前とまみえることを / どれほど私が待ち望んだことか
   LIT: How I have longed to meet you here, in this frozen land.
   EN : I have long awaited the opportunity to have an audience with you in the Land of Ice.
-  RE : How I have longed to face you
-       here, in this frozen land.
+  RE : How I have longed to meet you here,
+       in this frozen land.
 
 [US#6514] (Caina, the challenge)
   JP : 「さあ、私のもとへと急げ / ここでお前のすべてを奪い去ってやる / 『お前のすべて』の墓標としてな
   LIT: Come, hurry to me. Here I will strip away your everything, and be the gravestone for "your everything".
   EN : Hurry to me, for I will bury your everything. Your tombstone will read |Your Everything.|
-  RE : Come, hurry to me. Here I'll
-       strip away your everything,
-       and be its gravestone.
+  RE : Come, hurry to me. Here I'll strip
+       away your everything, and be its
+       gravestone.
 
 [US#6515] (Caina)
   JP : 「すべてを喪失するという虚無と絶望を / 私だけでなく、お前も知るがいい
   LIT: The emptiness and despair of losing everything, let you know it too, not just me.
   EN : Soon, you will know as I have, how it feels to have lost everything.
-  RE : The emptiness of losing
-       everything, let you come to
-       know it too, as I have.
+  RE : The emptiness and despair of losing
+       everything, let you know it too,
+       not just me.
 
 [US#6521] ({0} Ashley, arriving)
   JP : 「来たぞ！　ここにいる！ / {2}を返してもらおうか
   LIT: I'm here! Right here! Now give {2} back.
   EN : I'm here! I'm right here! How about returning {2}?
-  RE : I'm here! Right here!
-       Now give {2} back.
+  RE : I'm here! Right here! Now give {2}
+       back.
 
 [US#6524] ({0} Ashley)
   JP : 「仇討ちを望むのなら / 相手になってやるッ！
   LIT: If it's revenge you want, I'll take you on!
   EN : If you want your revenge, I'll fight you!
-  RE : If it's revenge you want,
-       I'll take you on!
+  RE : If it's revenge you want, I'll take
+       you on!
 
 [US#6525] (Caina)
   JP : 「違うな〜 / 私が望むのは、そんなものではない / 望むのは、貴方に私と同じ想いを味わわせること
   LIT: No. What I want is not that. What I want is to make you taste the same feeling I did.
   EN : You've got it wrong. What I want isn't anything like that.
-  RE : No. What I want is nothing
-       like that. I want you to taste
-       the same feeling I did.
+  RE : No. What I want is not that. What I
+       want is to make you taste the same
+       feeling I did.
 
 [US#6528] (Caina)
   JP : 「貴方にも私と同じ / 大切なモノを失う想いを / 味わってもらうのさ
   LIT: I'll have you taste, as I did, the feeling of losing something precious.
   EN : I want you to experience losing something important just as I did.
-  RE : I'll have you taste, as I did,
-       the feeling of losing
-       something precious.
+  RE : I'll have you taste, as I did, the
+       feeling of losing something
+       precious.
 
 [US#6531] (Caina, revenge taken)
   JP : 「そうすることで、私の望みはかなう / 奪ってやったぞッ！ / お前の大切なモノを、この手でッ！
   LIT: And with that, my wish is granted. I've taken it! Your precious thing, with these very hands!
   EN : My wish has finally come true.
-  RE : At last, my wish comes true.
-       I've taken it, your precious
-       thing, with these very hands!
+  RE : And with that, my wish is granted.
+       I've taken it! Your precious thing,
+       with these very hands!
 
 [US#6532] (Caina, the hollow victory)
   JP : 「なのに、この空虚な想いは / いったい、何なのだ〜
   LIT: And yet... this hollow feeling. What on earth is it?
   EN : Yet, this hollow sensation inside... What could it be?
-  RE : And yet... this hollow
-       feeling inside. What on
-       earth is it?
+  RE : And yet... this hollow feeling.
+       What on earth is it?
 
 [US#6533] (Caina, breaking)
   JP : 「お教え、ください / ヴィンス、フェルト、方〜
   LIT: Tell me, please... Sir Vins... feld...
   EN : Please, tell me, Sir Vinsfeld.
-  RE : Tell me, please...
-       Sir Vins... feld...
+  RE : Tell me, please... Sir Vins...
+       feld...
 
 [US#6534] (Caina, to the thing wearing his shape)
   JP : 「{0}と同じ姿をとらないで / 同じ声でしゃべらないで / 優しい声をかけないで〜
   LIT: Don't take {0}'s shape. Don't speak in that same voice. Don't speak so tenderly to me...
   EN : Don't assume {0}'s shape. Don't speak with the same voice. Don't speak so tenderly.
-  RE : Don't take {0}'s shape. Don't
-       speak in that voice. Don't
-       speak so tenderly to me...
+  RE : Don't take {0}'s shape. Don't speak
+       in that same voice. Don't speak so
+       tenderly to me...
 
 [US#6535] (Caina, the plea)
   JP : 「お願いよ / ヴィンスフェルト方を返してよッ！
   LIT: Please... give Sir Vinsfeld back to me!
   EN : Please! Return {0} to me.
-  RE : Please... give
-       Sir Vinsfeld
-       back to me!
+  RE : Please... give Sir Vinsfeld back to
+       me!
 
 # =========================================================================================
 # STATUS: Caina's taunt + hollow-victory scene — DEEP RE (12 story boxes, block 53). US# reconciled

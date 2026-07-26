@@ -15,8 +15,8 @@
   JP : 「よし、ライブリフレクターを / 起動させるぞッ！
   LIT: All right, let's start up the Live Reflectors!
   EN : OK, I'm going to start-up the Live Reflectors!
-  RE : All right, starting up the
-       Live Reflectors now!
+  RE : All right, starting up the Live
+       Reflectors now!
 
 [NO-SLOT blk31] ({2} Lilka)
   JP : 「え？　なにッ！？ / なんだか、気が滅入っちゃう
@@ -29,16 +29,16 @@
   JP : 「なんか出てきたみたいだぞッ！ / モンスターか？
   LIT: Looks like something's coming out! A monster?
   EN : It looks like something's coming out of there! Is it a monster?
-  RE : Something's coming out
-       of there! A monster?
+  RE : Looks like something's coming out!
+       A monster?
 
 [US#5378] ({6} Ard, "creature" tic)
   JP : 「モンスターというよりも / むしろ『怪獣』と呼ぶべきではないかと / 思っちゃったりなんかしちゃったりして〜
   LIT: Rather than a monster, I find myself thinking it ought to be called a "creature," or some such.
   EN : Rather than a monster, it would be most appropriate for it to be called a |creature.|
-  RE : Rather than a monster, I do
-       rather think it ought to be
-       called a |creature|, and such.
+  RE : Rather than a monster, I do rather
+       think it ought to be called a
+       |creature|, and such.
 
 [NO-SLOT blk31] ({5} Liz, ribbing Ard)
   JP : 「ビビってるのか、ゲー？ / 話し方が変わってるぞッ！
@@ -102,23 +102,20 @@
   JP : 「だいじょうぶ / たぶん
   LIT: It's fine. Probably.
   EN : It's fine. Probably.
-  RE : It's fine.
-       Probably.
+  RE : It's fine. Probably.
 
 [NO-SLOT blk31] ({0} Ashley, finding signs of intrusion)
   JP : 「誰かが侵入した / 痕跡があるぞ
   LIT: There's evidence someone broke in.
   EN : There's evidence that someone broke in here.
-  RE : There's a sign someone
-       broke in here.
+  RE : There's evidence someone broke in.
 
 [US#5382] ({0} Ashley)
   JP : 「俺たち以外で / こんな所にやってくるとすれば〜 / 決まっているな
   LIT: The only ones who'd come to a place like this besides us... it's obvious.
   EN : Who else would come here besides us? It has to be...
-  RE : Who else would come to a
-       place like this but us?
-       It's obvious.
+  RE : Who else would come to a place like
+       this but us? It's obvious.
 
 [NO-SLOT blk31] ({2} Lilka)
   JP : 「この前の / テロリストたちかな？
@@ -131,16 +128,15 @@
   JP : 「ふむ… / 『オデッサ』かもしれん
   LIT: Hmm... it could be the "Odessa."
   EN : Hmm... It could be the |Odessa.|
-  RE : Hmm...
-       Could be |Odessa|.
+  RE : Hmm... it could be the "Odessa."
 
 [US#5383] (the kid, vowing to train)  [JP blk31 @0x3a80]
   JP : 「決めたんだ / 僕も修行はあんちゃんみたいに / 強くなるんだって〜
   LIT: I've decided. I'm going to train and get strong, just like my big brother.
   EN : I've decided that when I grow up, I'll be strong like you dude.
-  RE : I've decided. I'll train
-       and get strong, just like
-       my big brother.
+  RE : I've decided. I'm going to train
+       and get strong, just like my big
+       brother.
 
 # =========================================================================================
 # STATUS: Live Reflector scene translated (18 story boxes). JP block-decoded (cleanest block: 8

@@ -18,32 +18,31 @@
   JP : 「任務を放棄することはできないッ！
   LIT: We can't abandon the mission!
   EN : I refuse to abandon my mission!
-  RE : We can't just abandon
-       the mission!
+  RE : We can't abandon the mission!
 
 [US#5027] (Musketeer)
   JP : 「こんな危険な遺跡を / 野放しにしているから / モンスターが増えていくんだよ
   LIT: It's because dangerous ruins like this are left unchecked that the monsters keep multiplying.
   EN : The monsters are multiplying here because these treacherous ruins have been left unchecked.
   RE : It's because dangerous ruins like
-       this get left unchecked that the
+       this are left unchecked that the
        monsters keep multiplying.
 
 [US#5028] (Musketeer, to Ashley)
   JP : 「なあ、{5} / 遺跡漁りなんてのは『渡り鳥』の連中に / まかせた方がいいと思わねェか？
   LIT: Hey, {5}, don't you think ruin-scavenging is better left to the "Mercs"?
   EN : Hey, {0}. Shouldn't we leave the search of the ruins to the |Mercs?|
-  RE : Hey, {5}. Shouldn't we leave
-       ruin-picking to the |Mercs|,
-       don't you think?
+  RE : Hey, {5}, don't you think
+       ruin-scavenging is better left to
+       the "Mercs"?
 
 [US#5029] (Musketeer, on the culprits)
   JP : 「誘拐犯人グループは３人 / どうやらタウンメリアの場まで / 出稼ぎに来ていた季節労働者らしい
   LIT: The kidnapper group is three; laborers, it seems, who came as far as Town Meria for seasonal work.
   EN : The kidnappers are 3 guys who came to the Town of Meria as laborers to make money.
-  RE : The kidnappers are three seasonal
-       laborers who came to Town Meria
-       looking for work.
+  RE : The kidnapper group is three;
+       laborers, it seems, who came as far
+       as Town Meria for seasonal work.
 
 [US#5030] (Musketeer, on Slayheim)
   JP : 「犯人はもともとスレイハイム国の出身らしい / 〜数年前の街戦で、消失してしまった / あのスレイハイム国だ
@@ -57,55 +56,53 @@
   JP : 「世情が不安定になると / こういった事件も増えていくんだ
   LIT: When the state of the world grows unstable, incidents like this multiply too.
   EN : With the world so unstable, it'll only get worse.
-  RE : When the world grows this
+  RE : When the state of the world grows
        unstable, incidents like this
-       only multiply.
+       multiply too.
 
 [US#5036] (Musketeer, on the ruins)
   JP : 「この遺跡には / めぼしいお宝なんて / 残っていやしないぜ
   LIT: There's no treasure worth mentioning left in these ruins.
   EN : Gimel Coins are very valuable, so use them wisely. They should only be used as a last resort.
   RE : There's no treasure worth
-       mentioning left in these
-       ruins anymore.
+       mentioning left in these ruins.
 
 [US#5037] (Musketeer)
   JP : 「もう、ずっと前に『渡り鳥』と呼ばれる / 冒険者たちによって / あらかた探索されつくされているからな
   LIT: Long ago it was picked nearly clean by the adventurers called "Mercs".
   EN : The ruins have been searched already by the expedition team called |Merc.|
-  RE : The |Mercs|, those wandering
-       adventurers, picked it nearly
-       clean long ago.
+  RE : Long ago it was picked nearly clean
+       by the adventurers called "Mercs".
 
 [US#5038] (Musketeer)
   JP : 「ここが『枯れた遺跡』と / 呼ばれるのは / そういうことからさ
   LIT: That's why this place is called "the Withered Ruins".
   EN : That's why this place is called |The Withered Ruins.|
-  RE : That's why they call this place
-       |the Withered Ruins|.
+  RE : That's why this place is called
+       "the Withered Ruins".
 
 [US#5042] (Musketeer)
   JP : 「悪いが、方家を見てきてくれないか？
   LIT: Sorry, but could you go and take a look around?
   EN : Could you check it out?
-  RE : Sorry, but could you go
-       take a look around?
+  RE : Sorry, but could you go and take a
+       look around?
 
 [US#5043] (Musketeer, ribbing the recruit)
   JP : 「ここで目立った手柄でもたてて / ウワサの新設部隊への / 転属なんかねらっちまうからこのザマだ
   LIT: This is what you get for trying to score a flashy feat here and angle for a transfer to that rumored new unit.
   EN : It's because you tried to score big here so you'd be reassigned to the new unit that is forming.
-  RE : This is what you get for chasing
-       a flashy feat to angle for a
-       transfer to that rumored new unit.
+  RE : This is what you get for chasing a
+       flashy feat to angle for a transfer
+       to that rumored new unit.
 
 [US#5047] (henchman, panicking)
   JP : 「ガキを誘拐すれば / 大金が転がりこむって言ったのは！？ / ガンガル兄貴のアイデアなのに〜
   LIT: Who was it that said snatching a kid would bring big money rolling in?! And it was big-brother Gangal's idea, too...
   EN : Who said kidnapping would have us rolling in money!?
-  RE : Who said snatching a kid would
-       have money rolling in?! And it
-       was Gangal's idea, too...
+  RE : Who said snatching a kid would have
+       money rolling in?! And it was
+       Gangal's idea, too...
 
 [US#5048] (henchman)
   JP : 「まさか / こんなおおごとになるなんて / 思ってもみなかった〜
@@ -118,45 +115,42 @@
   JP : 「どうするんでヤンス、ガンガルの兄貴 / もうすぐ同胞隊のみなさんが / 突入してくる頃でヤンスよ
   LIT: What'll we do, big-brother Gangal? The Musketeers'll be storming in any moment now.
   EN : What do you plan on doing, boss? It's about time those Musketeer boys came charging in.
-  RE : What'll we do, boss? The
-       Musketeers'll come storming
-       in any moment now.
+  RE : What'll we do, big-brother Gangal?
+       The Musketeers'll be storming in
+       any moment now.
 
 [US#5051] (the idea man)
   JP : 「最初に話しませんでしたっけ？
   LIT: Didn't I say so at the very start?
   EN : Didn't I say that at the start?
-  RE : Didn't I say so
-       at the very start?
+  RE : Didn't I say so at the very start?
 
 [US#5052] (Gangal, blustering)
   JP : 「そんなことじゃ / 男（オトコ）がすたっちまうぜ / 〜ったくよぉ
   LIT: Carrying on like that, a man loses his name. ...Honestly.
   EN : What a waste of man power, wimping out like that. Really!
-  RE : Carrying on like that, a man
-       loses his good name. ...Honestly.
+  RE : Carrying on like that, a man loses
+       his name. ...Honestly.
 
 [US#5053] (Gangal)
   JP : 「逃げ切って見せるぜ
   LIT: I'll get clean away, just watch.
   EN : I'll get away no matter what.
-  RE : I'll get clean away,
-       just watch me.
+  RE : I'll get clean away, just watch.
 
 [US#5056] (Ashley, calling the bluff)
   JP : 「ホントは誘拐なんて / できる度胸も無いくせにッ！
   LIT: The truth is you haven't even got the nerve to pull off a kidnapping!
   EN : You don't have the guts to properly kidnap anyone!
-  RE : Truth is, you haven't even got
-       the nerve to pull off a
-       kidnapping!
+  RE : The truth is you haven't even got
+       the nerve to pull off a kidnapping!
 
 [US#5057] (Gangal, cornered)
   JP : 「お、おめぇら、このガキをとっつかまえて / だまらせろッ！
   LIT: Y-you two, grab this brat and shut him up!
   EN : Hey, you two, grab the brat and shut him up!!
-  RE : Y-you two! Grab this brat
-       and shut him up!
+  RE : Y-you two, grab this brat and shut
+       him up!
 
 # =========================================================================================
 # STATUS: Ashley's intro part 2 (Withered Ruins interior) — DEEP RE (19 story boxes, block 23).
