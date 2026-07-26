@@ -8,16 +8,20 @@ Their JP names are **トカ & ゲー** (*Toka & Gě*), a pun on **トカゲ** (*
 localization's **Liz + Ard = "Lizard"** is a genuine transcreation win, so we kept it. Liz is the
 pompous talker; Ard is the straight-"man" who can only ever say his own name, "translated" by Liz.
 In Japanese, Liz is a *coherent, rhythmic* blowhard; the loc kept his flowery vocabulary but
-dropped the connective logic, so he reads as nonsense. Our goal: make his lines *parse* again
-while keeping the pompous-scientist register. No invented jokes, no catchphrase.
+dropped the connective logic, so he reads as nonsense.
+
+**Our approach: favor the literal.** Where a faithful, plain translation of the Japanese already
+reads well and fits the box, that *is* our line — we don't reword for its own sake. Liz's pompous
+register is already in the source; we just let it through instead of scrambling it. Fixes are for
+clarity and the box limit (max 3 lines × 35 characters), nothing more.
 
 Each box is shown four ways:
 - **JP** — the original Japanese
 - **Literal** — a plain, meaning-first gloss
 - **Original loc** — the shipped English
-- **Ours** — our retranslation (must also fit the in-game box: max 3 lines × 35 characters)
+- **Ours** — our line (usually the literal, tidied to fit)
 
-Feedback very welcome, especially on whether Liz's voice lands.
+Feedback very welcome.
 
 ---
 
@@ -27,13 +31,13 @@ Feedback very welcome, especially on whether Liz's voice lands.
 - JP: 「それでは
 - Literal: Well then,
 - Original loc: And so...
-- **Ours:** Well then...
+- **Ours:** Well then...  *(only change: the box shouldn't end on a comma, so → ellipsis)*
 
 **US#5664 — Liz proposes teaming up**
 - JP: 「ここはひとつ / パーティーの戦力アップというのは / どうであろう？
-- Literal: How about this, we boost the party's fighting strength, hm?
+- Literal: How about this: we boost the party's fighting strength, hm?
 - Original loc: How about having a party to boost morale?
-- **Ours:** A proposal: let us bolster the party's fighting strength. Hm?
+- **Ours:** How about this: we boost the party's fighting strength, hm?
 
 *(The loc misread 戦力 "fighting strength" as throwing a party for "morale.")*
 
@@ -41,73 +45,73 @@ Feedback very welcome, especially on whether Liz's voice lands.
 - JP: 「さながら / カモシカのごとくッ！
 - Literal: Just like an antelope!
 - Original loc: Sounds just like an antelope!
-- **Ours:** Swift as an antelope, no less!
+- **Ours:** Just like an antelope!
 
 **US#5705 — Liz narrating the rescue like a critic**
 - JP: 「うむ、これぞ良質の / ヒューマンドラマである
-- Literal: Mm, now THIS is a quality human drama.
+- Literal: Mm, now THIS is a fine human drama.
 - Original loc: Now this is a top-notch human drama unfolding.
-- **Ours:** Mm. Now THIS is a fine human drama.
+- **Ours:** Mm, now THIS is a fine human drama.
 
 **US#5707 — Liz on being a supporting player**
 - JP: 「それに、名バイプレイヤーってのは / 自分の出番を心得て / なおかつキッチリこなすもんだと思うけど
 - Literal: Besides, a great supporting player knows his cue and nails it every time.
 - Original loc: Besides, good players anticipate their turn and perform with perfection.
-- **Ours:** Besides, a great supporting player knows his cue and delivers it flawlessly.
+- **Ours:** Besides, a great supporting player knows his cue and nails it every time.
 
 **US#5709 — Liz's mock-scholarly register**
 - JP: 「注目とくれば / いたし方ありませぬな / 注目者のはしくれとして
 - Literal: When it comes to [drawing] notice, there's no helping it, as a lowly man of [science].
 - Original loc: Science is unavoidable as a two-bit scientist.
-- **Ours:** When science calls, one cannot refuse. Not as a humble man of science.
+- **Ours:** When science calls, there's no helping it, as a lowly man of science.
 
 **US#5722 — Liz admits what he's really after**
 - JP: 「決まっておろう / ゲルマトロン渓谷よ / 知らぬ存ぜぬとは言わせんぞ
 - Literal: Isn't it obvious? The Germatron Valley. Don't play dumb with me.
 - Original loc: Why else would I be here? The Germatron, silly. You can't say you didn't know.
-- **Ours:** Isn't it obvious? The Germatron Valley. Do not play dumb with me.
+- **Ours:** Isn't it obvious? The Germatron Valley. Don't play dumb with me.
 
 **US#5729 — Liz declines to show off his best move**
 - JP: 「人知れず、そっと見せるにはもったいない / そんなスゴイ戦いの仕方 / よもや、こんな場発で使おうとはッ！
-- Literal: Too fine a fighting style to show in secret. To think of using it in a spot like this!
+- Literal: Too fine a fighting style to show in secret. And to use it in a spot like this!
 - Original loc: It's a move too good to waste for when no one's around. But this might not be the time.
-- **Ours:** A fighting style too fine to show unseen. And to unveil it in a spot like this!
+- **Ours:** Too fine a fighting style to show in secret. And to use it in a spot like this!
 
 ---
 
 ## Part 2 — the funniest disasters (JP still decoding)
 
-WA2 stores some kanji in a per-scene code table we're still reverse-engineering, so a few of
-this scene's boxes aren't cleanly readable from the disc yet. We refuse to reconstruct Japanese
-we can't verify, so these show the literal + loc + ours only, with the JP marked *pending*. These
-are the ones the localization mangled worst, which is exactly why they're worth showing.
+WA2 stores some kanji in a per-scene code table we're still reverse-engineering, so a few of this
+scene's boxes aren't cleanly readable from the disc yet. We refuse to reconstruct Japanese we
+can't verify, so these show the literal + loc + ours only, with the JP marked *pending*. These are
+the ones the localization mangled worst.
 
 **US#5669 — Liz's grand plan** *(JP: pending kanji decode)*
-- Literal: A vision flashed behind my eyes: me at the lever, floating like a butterfly, stinging like a bee.
+- Literal: A vision flashed behind my eyes: me hitting the lever, floating like a butterfly, stinging like a bee.
 - Original loc: A vision flashed on my lids of me pushing the lever like a bee, and dancing like a butterfly.
-- **Ours:** In my mind's eye: me at the lever, floating like a butterfly, stinging like a bee.
+- **Ours:** A vision flashed behind my eyes: me hitting the lever, floating like a butterfly, stinging like a bee.
 
-*(A deliberate Muhammad Ali riff in the JP; the loc swapped the bee and the butterfly.)*
+*(A deliberate Muhammad Ali riff; the loc swapped the bee and the butterfly.)*
 
 **US#5661 — the observatory's power source** *(JP: pending kanji decode)*
 - Literal: The energy pouring endlessly from the earth is ideal for peacetime research.
 - Original loc: The energy that continually spouts from the earth is perfect for an excursion in peacetime.
-- **Ours:** Endless energy, welling up from the very earth. Ideal for peacetime research.
+- **Ours:** The energy pouring endlessly from the earth is ideal for peacetime research.
 
 **US#5662 — Liz's mission statement** *(JP: pending kanji decode)*
-- Literal: This is a man of science's true ambition! It can't stop until it's fulfilled!
+- Literal: This is a scientist's ambition! It can't stop until it is fulfilled!
 - Original loc: This is a scientist's ambition! It can't be stopped until it's fulfilled!
-- **Ours:** Such is a man of science's ambition! It cannot rest until it is fulfilled!
+- **Ours:** This is a scientist's ambition! It can't stop until it is fulfilled!
 
 **US#5723 — the villain reveal** *(JP: pending kanji decode)*
-- Literal: My scheme to build an unearthly war-beast using the valley here is ruined.
+- Literal: My plan to use the Germatron at the lab is ruined. I'd have made a grand war beast.
 - Original loc: My plans to use the Germatron at the research lab are ruined. I was to make a grand war monster.
-- **Ours:** My scheme to forge a grand war-beast from the valley here is undone.
+- **Ours:** My plan to use the Germatron at the lab is ruined. I'd have made a grand war beast.
 
 **US#5731 — fleeing with dignity intact** *(JP: pending kanji decode)*
-- Literal: But this is no retreat. Later generations, any historian, would call it a brave withdrawal.
+- Literal: But we're not running. Any historian would call this a brave withdrawal.
 - Original loc: But we're not running away. Any historian would declare this as a brave withdrawal.
-- **Ours:** But we do not flee. Any historian would deem this a brave withdrawal.
+- **Ours:** But we're not running. Any historian would call this a brave withdrawal.
 
 ---
 
@@ -121,14 +125,13 @@ Ard can only ever say his own name; the loc nailed this and we kept it verbatim.
 ---
 
 ### Notes for commenters
-- **Voice, not gags.** We deliberately did NOT invent new jokes or give Liz a catchphrase. The
-  goal was to make his existing lines *parse* while keeping his pompous register. Too far? Not far
-  enough?
-- **Box limit.** Every line must fit the in-game text box (max 3 lines × 35 characters), so some
-  phrasings are tighter than we'd write in prose.
+- **Literal-first.** Our house rule is to use a faithful translation of the Japanese wherever it
+  reads well, rather than invent new phrasings. Most of Liz's lines above are exactly that — the
+  humor and pomposity are in the source; the loc just scrambled them.
+- **Box limit.** Every line must fit the in-game text box (max 3 lines × 35 characters).
 - **Why some JP is "pending."** WA2 encodes many kanji in per-scene tables; we've decoded most of
-  the game but this scene has holdouts with no cross-reference to confirm them. Rather than post
-  Japanese we can't verify, we mark those boxes pending. The literal/loc/ours lines for them are
-  grounded in the parts we *can* read plus the shipped English.
+  the game but this scene has holdouts we can't yet cross-reference. Rather than post Japanese we
+  can't verify, we mark those boxes pending; their literal/loc/ours lines are grounded in the
+  readable fragments plus the shipped English.
 
 *Full 72-box scene available on request.*
