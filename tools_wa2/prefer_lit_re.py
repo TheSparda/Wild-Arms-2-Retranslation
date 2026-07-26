@@ -50,6 +50,11 @@ def port_codes(lit, re_text):
 
 def process(path, dry):
     src=open(path).read().split('\n')
+    # VOICE-LOCK: a file may opt out of the prime directive (its RE is deliberately styled to a
+    # character's voice, not the flat literal). Respect the marker and skip the file entirely.
+    head='\n'.join(src[:20])
+    if 'VOICE-LOCK' in head or 'prime-directive EXCEPTION' in head:
+        return {'changed':0,'kept_overfit':0,'kept_no_lit':0,'ported':0,'total':0,'voicelock':True}, []
     out=[]; i=0
     stats={'changed':0,'kept_overfit':0,'kept_no_lit':0,'ported':0,'total':0}
     samples=[]
@@ -113,11 +118,16 @@ def main():
     dry='--dry' in sys.argv
     files=args if args else sorted(glob.glob('insert/*_FINAL.txt'))
     tot={'changed':0,'kept_overfit':0,'kept_no_lit':0,'ported':0,'total':0}
+    locked=[]
     for f in files:
         st,samp=process(f,dry)
+        if st.get('voicelock'):
+            locked.append(os.path.basename(f)); continue
         for k in tot: tot[k]+=st[k]
         if st['changed'] or st['kept_overfit']:
             print(f"{os.path.basename(f):40} changed {st['changed']:4}  kept-overfit {st['kept_overfit']:3}  ported-codes {st['ported']:3}")
+    if locked:
+        print(f"VOICE-LOCK (skipped, RE kept as-is): {', '.join(locked)}")
     print(f"\n{'DRY RUN — ' if dry else ''}TOTALS: {tot['total']} boxes | RE<-LIT changed {tot['changed']} | "
           f"kept (LIT over-budget) {tot['kept_overfit']} | kept (no usable LIT / already==) {tot['kept_no_lit']} | code-ports {tot['ported']}")
 

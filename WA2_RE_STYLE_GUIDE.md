@@ -48,6 +48,16 @@ should never disagree on the same box; if they do, the rule wins.
   line *after* the RE block, never appended to an RE line — the reflow will wrap it in and blow
   the box budget (this bit US#304's directions note).
 
+### VOICE-LOCK: opting a file out of the prime directive
+Some scenes live on their character voice, and a flat literal actively harms them (the Liz & Ard
+comedy at Raline Observatory is the type case — Liz is a pompous pseudo-scientist; the literal
+makes him generic). For these, the RE is deliberately styled, not literal. Mark the file by
+putting **`VOICE-LOCK`** in its header comment (first ~20 lines) with a one-line reason.
+`prefer_lit_re.py` skips VOICE-LOCK files entirely, so a global run won't revert the styled RE.
+Use this sparingly — only for genuinely voice-driven scenes, and still obey every §1–§2 rule
+(fit, no em dash / run-on / trailing comma, name codes). Voicing level for these: *moderate* by
+default (restore coherence + rhythm + register; keep puns/plot terms; no invented gags, no tic).
+
 ### Automating the prime directive
 `python3 tools_wa2/prefer_lit_re.py [--dry] [files...]` rewrites RE := reflowed LIT for every box
 where the LIT is real and fits, keeps the existing RE when the LIT is over-budget, and leaves
