@@ -13,3 +13,7 @@ WILDARM2.EXE
 
 # --- large regenerable font extraction images (keep the JSON tables) ---
 font_work/*.png
+
+# python bytecode
+__pycache__/
+*.pyc
