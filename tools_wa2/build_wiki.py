@@ -299,6 +299,23 @@ def build():
                 f'<p class="scenedesc">These English game-script lines (for this location) have no matching translated box yet. Placeholder reference.</p>'
                 f'<div class="gamescript">{"".join(rows)}</div></div>')
 
+    def area_has_gap(code):
+        """True if this area has a per-location transcript file with lines not yet covered by a box.
+        Used to asterisk translated/first-pass areas that still hold untranslated script lines."""
+        loc_path = os.path.join(GS_DIR, 'loc', code + '.txt')
+        if not os.path.exists(loc_path): return False
+        bw = area_words.get(code, set())
+        for ln in open(loc_path, encoding='utf-8').read().split('\n'):
+            if ln.startswith('#') or not ln.strip(): continue
+            s = ln.strip()
+            if s.startswith(('~~', '[', '->')) and not re.match(r'^[^:]{1,30}:', s): continue
+            m = re.match(r'^([^:]{1,30}):\s*(.*)$', s)
+            if not m: continue
+            nt = _norm(m.group(2)); wl = [w for w in nt.split() if len(w) > 2]
+            if len(nt) < 6 or not wl: continue
+            if sum(1 for w in wl if w in bw)/len(wl) < 0.6: return True
+        return False
+
     total_boxes = sum(sc['nboxes'] for scs in by_area.values() for sc in scs)
     fp_boxes = sum(sc['nboxes'] for scs in fp_area.values() for sc in scs)
     total_scenes = sum(len(scs) for scs in by_area.values())
@@ -318,7 +335,7 @@ def build():
         f'<div class="prog">'
         f'<div class="prog-lbl"><span>Progress</span><span>{done_areas} deep + {fp_areas} first-pass / {total_areas}</span></div>'
         f'<div class="prog-track"><div class="prog-fp" style="width:{covpct}%"></div><div class="prog-fill" style="width:{pct}%"></div></div>'
-        f'<div class="nav-legend"><span class="todotag star">*</span> English script available, not yet retranslated</div>'
+        f'<div class="nav-legend"><span class="todotag star">*</span> has untranslated English game-script lines</div>'
         f'</div>'
     ]
     for disc in sorted(GUIDE_AREAS):
@@ -337,12 +354,13 @@ def build():
             anc = area_anchor(disc, code)
             scs = by_area.get(code, [])
             fps = fp_area.get(code, [])
+            gap_star = ' <span class="todotag star" title="Has untranslated game-script lines (partial coverage)">*</span>' if area_has_gap(code) else ''
             if scs:
                 nb = sum(x['nboxes'] for x in scs)
-                nav_html.append(f'<a class="nav-scene done" href="#{anc}">{esc(aname)} <span class="cnt">{nb}</span></a>')
+                nav_html.append(f'<a class="nav-scene done" href="#{anc}">{esc(aname)} <span class="cnt">{nb}</span>{gap_star}</a>')
             elif fps:
                 nb = sum(x['nboxes'] for x in fps)
-                nav_html.append(f'<a class="nav-scene fp" href="#{anc}">{esc(aname)} <span class="cnt">{nb}◐</span></a>')
+                nav_html.append(f'<a class="nav-scene fp" href="#{anc}">{esc(aname)} <span class="cnt">{nb}◐</span>{gap_star}</a>')
             else:
                 # untranslated: * if we have English game-script placeholder text for this location
                 has_script = os.path.exists(os.path.join(GS_DIR, 'loc', code + '.txt'))
