@@ -315,6 +315,22 @@ def build():
     except Exception:
         AREA_TODO = {}
 
+    # ---- slot-level progress from the master DB (the honest project-wide numbers) ----
+    try:
+        _dbrows = json.load(open(os.path.join(GS_DIR, 'wa2_db.json')))['rows']
+    except Exception:
+        _dbrows = []
+    slot_total = len(_dbrows)
+    slot_deep = sum(1 for r in _dbrows if r.get('status') == 'deep')
+    slot_fp   = sum(1 for r in _dbrows if r.get('status') == 'firstpass')
+    slot_remaining = sum(1 for r in _dbrows if r.get('status') == 'placeholder'
+                         and r.get('en') and 'Demo Version' not in r['en'])
+    def _pct(x): return round(100 * x / slot_total) if slot_total else 0
+    # an area counts as "done" when it has translated boxes and NO clean-JP slots left to translate
+    # (remaining todo is only dirty-JP/unsolved-code or SFX slots we can't cleanly translate yet)
+    areas_complete = sum(1 for a, v in AREA_TODO.items()
+                         if v.get('done', 0) > 0 and v.get('todo_clean', 0) == 0)
+
     def area_anchor(disc, code): return f'a-{disc}-{code}'
 
     # ---- NAV: overall progress bar, then walk the guide spine ----
@@ -423,54 +439,6 @@ def build():
     if unregistered:
         unreg_html = '<p class="notewarn">Unregistered FINAL files (add to SCENES in build_wiki.py): ' + ', '.join(esc(u) for u in unregistered) + '</p>'
 
-    # ---- Remaining-work roadmap (figures pulled live where possible) ----
-    import json as _json
-    try:
-        _bt = _json.load(open(os.path.join(ROOT, 'font_work', 'block_tables.json')))
-        _localn = sum(len(v) for v in _bt.values()); _localb = len(_bt)
-    except Exception:
-        _localn = _localb = 0
-    try:
-        import importlib, wa2_kanji_map as _km; importlib.reload(_km); _globn = len(_km.KANJI)
-    except Exception:
-        _globn = 0
-    _unassigned = sum(1 for scs in by_area.values() for sc in scs for b in sc['boxes'] if b['noslot'])
-    ROADMAP = [
-      ('translation', 'Raw translation', 'in progress',
-       f'{done_areas}/{total_areas} guide areas have retranslated dialogue ({total_boxes} insert-ready boxes). '
-       'This is the visible work — but it is roughly a third of the total effort to ship a patch.'),
-      ('kanji', 'Kanji decoding (the JP source itself)', 'ongoing',
-       f'The JP script uses a custom two-tier kanji encoding. Global map: {_globn} kanji solved. '
-       f'Per-scene local tables: {_localn} readings across {_localb} blocks. Every new scene still needs a '
-       'solve pass before it reads cleanly — this is the hidden cost behind each translated area.'),
-      ('reconcile', 'US# slot reconciliation', 'per-scene, done as we go',
-       f'Each box must map to the exact US message slot it overwrites. Done for all translated scenes. '
-       f'{_unassigned} boxes are flagged as having NO insertable slot (event-embedded or localization-cut) — '
-       'those need an engine-level solution or must be dropped, not force-inserted.'),
-      ('insertion', 'ROM insertion + repointing tool', 'NOT STARTED',
-       'Nothing is in the ISO yet. Same-size text can be overwritten directly, but most retranslations differ '
-       'in length, which needs a pointer-recalculation tool (the gadesx/CUE approach). This is the single '
-       'biggest un-started engineering task.'),
-      ('sizing', 'Fit + line-break pass', 'enforced in drafting',
-       'Every box is authored to the real WA2 ceiling (≤3 lines × ~35 chars) with manual 0d line breaks. '
-       'Verified per-scene, but final wrapping only truly confirms in-engine.'),
-      ('menus', 'Non-dialogue text (menus, items, skills, bestiary)', 'NOT STARTED',
-       'Item names, equipment, Personal Skills, the Encyclopedia/Bestiary, battle strings and system menus '
-       'live outside STGEVT and are entirely untouched. A complete patch needs them too.'),
-      ('testing', 'Emulator / on-hardware testing', 'NOT STARTED',
-       'No build has been run. Needs a full playthrough to catch overflow, wrong-speaker slots, softlocks, '
-       'and control-code mistakes that only surface at runtime.'),
-      ('polish', 'Consistency + glossary polish', 'continuous',
-       'Name/term consistency (Empathite, Wandering Crows, |nuke|, Guardian/Medium terms) is tracked in the '
-       'name dictionary, but a full-script consistency pass comes after the bulk of translation is done.'),
-    ]
-    _statcls = {'in progress':'st-prog','ongoing':'st-prog','per-scene, done as we go':'st-done',
-                'enforced in drafting':'st-done','continuous':'st-prog','NOT STARTED':'st-todo'}
-    roadmap_html = '\n'.join(
-        f'<div class="rm-item {_statcls.get(st,"st-prog")}"><div class="rm-head">'
-        f'<span class="rm-title">{esc(title)}</span><span class="rm-status">{esc(st)}</span></div>'
-        f'<div class="rm-body">{esc(body_txt)}</div></div>'
-        for _id, title, st, body_txt in ROADMAP)
 
     doc = f'''<!DOCTYPE html>
 <html lang="en"><head>
@@ -485,8 +453,23 @@ body {{ margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 -apple-s
 #wrap {{ display:flex; min-height:100vh; }}
 #side {{ width:310px; flex:0 0 310px; background:var(--panel); border-right:1px solid var(--line);
          position:sticky; top:0; height:100vh; overflow:auto; padding:16px 12px; }}
-#side h1 {{ font-size:16px; margin:0 0 4px; color:var(--acc); }}
+#side h1 {{ font-size:16px; margin:0 0 8px; color:var(--acc); }}
 #side .sub {{ color:var(--dim); font-size:12px; margin-bottom:14px; }}
+.statuscard {{ background:var(--panel2); border:1px solid var(--line); border-radius:8px;
+               padding:10px 11px; margin:0 0 14px; font-size:11.5px; }}
+.statuscard .sc-row {{ display:flex; align-items:center; gap:6px; padding:1.5px 0; }}
+.statuscard .sc-k {{ color:var(--dim); flex:1; }}
+.statuscard .sc-v {{ color:var(--ink); font-variant-numeric:tabular-nums; font-weight:600; }}
+.statuscard .sc-bar {{ position:relative; height:7px; border-radius:4px; background:var(--bg);
+                       overflow:hidden; margin:5px 0 7px; border:1px solid var(--line); }}
+.statuscard .sc-fp {{ position:absolute; left:0; top:0; height:100%; background:var(--jp); opacity:.5; }}
+.statuscard .sc-deep {{ position:absolute; left:0; top:0; height:100%; background:var(--acc); z-index:1; }}
+.statuscard .sc-dot {{ width:8px; height:8px; border-radius:2px; flex:0 0 auto; }}
+.statuscard .sc-dot.deep {{ background:var(--acc); }}
+.statuscard .sc-dot.fp {{ background:var(--jp); opacity:.6; }}
+.statuscard .sc-dot.rem {{ background:var(--line); }}
+.statuscard .sc-sep {{ height:1px; background:var(--line); margin:7px 0; }}
+.statuscard .sc-note {{ color:var(--dim); font-size:10px; margin-top:6px; line-height:1.4; }}
 /* progress bar (overall) */
 .prog {{ margin:6px 0 14px; }}
 .prog-lbl {{ display:flex; justify-content:space-between; font-size:11px; color:var(--dim); margin-bottom:4px; }}
@@ -726,9 +709,20 @@ body.view-comments .controls {{ display:none; }}
 <div id="wrap">
 <nav id="side">
   <h1>WA2 Retranslation</h1>
-  <div class="sub">Interactive translation wiki<br>updated {now}</div>
+  <div class="statuscard">
+    <div class="sc-row"><span class="sc-k">Script</span><span class="sc-v">{slot_total:,} dialogue slots</span></div>
+    <div class="sc-bar" title="deep RE + first-pass of all script slots">
+      <span class="sc-deep" style="width:{_pct(slot_deep)}%"></span>
+      <span class="sc-fp" style="width:{_pct(slot_deep)+_pct(slot_fp)}%"></span>
+    </div>
+    <div class="sc-row"><span class="sc-dot deep"></span><span class="sc-k">Deep retranslation</span><span class="sc-v">{slot_deep:,} · {_pct(slot_deep)}%</span></div>
+    <div class="sc-row"><span class="sc-dot fp"></span><span class="sc-k">First-pass (fit)</span><span class="sc-v">{slot_fp:,} · {_pct(slot_fp)}%</span></div>
+    <div class="sc-row"><span class="sc-dot rem"></span><span class="sc-k">Untranslated</span><span class="sc-v">{slot_remaining:,} left</span></div>
+    <div class="sc-sep"></div>
+    <div class="sc-row"><span class="sc-k">Areas</span><span class="sc-v">{done_areas+fp_areas}/{total_areas} started · {areas_complete} done</span></div>
+    <div class="sc-note">{_pct(slot_deep)+_pct(slot_fp)}% of the script has insert-ready text · updated {now}</div>
+  </div>
   <a class="nav-special" id="nav-comments" href="#comments">💬 My Comments <span class="cnt" id="nav-ccount">0</span></a>
-  <a class="nav-special" id="nav-roadmap" href="#roadmap">🗺️ Remaining Work</a>
   <a class="nav-special" id="nav-scenes" href="#top">📖 Back to scenes</a>
   {nav_html}
 </nav>
@@ -759,11 +753,6 @@ body.view-comments .controls {{ display:none; }}
     </div>
     <div id="dash-list"></div>
     <p id="dash-empty" class="dash-empty">No comments yet. Click 💬 comment on any translation box to add feedback.</p>
-  </section>
-  <section id="roadmap-dash">
-    <h2>🗺️ Remaining Work — beyond raw translation</h2>
-    <p class="scenedesc">A fan retranslation is more than translating lines. Here's what still stands between the current state and a playable patched ISO. Status is honest, not optimistic.</p>
-    {roadmap_html}
   </section>
   {body}
   <footer>
@@ -865,9 +854,8 @@ function renderDash() {{
     list.appendChild(el);
   }});
 }}
-function showComments() {{ document.body.classList.remove('view-roadmap'); document.body.classList.add('view-comments'); renderDash(); window.scrollTo(0,0); }}
-function showRoadmap() {{ document.body.classList.remove('view-comments'); document.body.classList.add('view-roadmap'); window.scrollTo(0,0); }}
-function showScenes() {{ document.body.classList.remove('view-comments'); document.body.classList.remove('view-roadmap'); }}
+function showComments() {{ document.body.classList.add('view-comments'); renderDash(); window.scrollTo(0,0); }}
+function showScenes() {{ document.body.classList.remove('view-comments'); }}
 function renderSaved(key) {{
   var wrap = document.querySelector('.cwrap[data-key="' + cssEsc(key) + '"]');
   if (!wrap) return;
@@ -1010,7 +998,6 @@ document.getElementById('cexport').addEventListener('click', openExport);
 document.getElementById('dash-export').addEventListener('click', openExport);
 /* nav + dashboard controls */
 document.getElementById('nav-comments').addEventListener('click', function(e) {{ e.preventDefault(); showComments(); }});
-document.getElementById('nav-roadmap').addEventListener('click', function(e) {{ e.preventDefault(); showRoadmap(); }});
 document.getElementById('nav-scenes').addEventListener('click', function(e) {{ e.preventDefault(); showScenes(); window.scrollTo(0,0); }});
 document.getElementById('dash-clear').addEventListener('click', function() {{
   if (!confirm('Delete ALL saved comments? This cannot be undone.')) return;
