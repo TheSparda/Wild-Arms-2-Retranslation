@@ -333,15 +333,9 @@ def build():
 
     def area_anchor(disc, code): return f'a-{disc}-{code}'
 
-    # ---- NAV: overall progress bar, then walk the guide spine ----
-    pct = round(100 * done_areas / total_areas) if total_areas else 0
-    covpct = round(100 * (done_areas + fp_areas) / total_areas) if total_areas else 0
+    # ---- NAV: legend, then walk the guide spine (overall progress lives in the status card) ----
     nav_html = [
-        f'<div class="prog">'
-        f'<div class="prog-lbl"><span>Progress</span><span>{done_areas} deep + {fp_areas} first-pass / {total_areas}</span></div>'
-        f'<div class="prog-track"><div class="prog-fp" style="width:{covpct}%"></div><div class="prog-fill" style="width:{pct}%"></div></div>'
         f'<div class="nav-legend"><span class="todotag star">*N</span> N untranslated slots (NPC/ambient) still in this area</div>'
-        f'</div>'
     ]
     for disc in sorted(GUIDE_AREAS):
         areas = GUIDE_AREAS[disc]
@@ -719,7 +713,14 @@ body.view-comments .controls {{ display:none; }}
     <div class="sc-row"><span class="sc-dot fp"></span><span class="sc-k">First-pass (fit)</span><span class="sc-v">{slot_fp:,} · {_pct(slot_fp)}%</span></div>
     <div class="sc-row"><span class="sc-dot rem"></span><span class="sc-k">Untranslated</span><span class="sc-v">{slot_remaining:,} left</span></div>
     <div class="sc-sep"></div>
-    <div class="sc-row"><span class="sc-k">Areas</span><span class="sc-v">{done_areas+fp_areas}/{total_areas} started · {areas_complete} done</span></div>
+    <div class="sc-row"><span class="sc-k">Guide areas</span><span class="sc-v">{done_areas+fp_areas}/{total_areas} started</span></div>
+    <div class="sc-bar" title="{done_areas} deep + {fp_areas} first-pass of {total_areas} guide areas">
+      <span class="sc-deep" style="width:{round(100*done_areas/total_areas) if total_areas else 0}%"></span>
+      <span class="sc-fp" style="width:{round(100*(done_areas+fp_areas)/total_areas) if total_areas else 0}%"></span>
+    </div>
+    <div class="sc-row"><span class="sc-dot deep"></span><span class="sc-k">Deep</span><span class="sc-v">{done_areas}</span></div>
+    <div class="sc-row"><span class="sc-dot fp"></span><span class="sc-k">First-pass</span><span class="sc-v">{fp_areas}</span></div>
+    <div class="sc-row"><span class="sc-dot rem"></span><span class="sc-k">Complete (no clean-JP left)</span><span class="sc-v">{areas_complete}</span></div>
     <div class="sc-note">{_pct(slot_deep)+_pct(slot_fp)}% of the script has insert-ready text · updated {now}</div>
   </div>
   <a class="nav-special" id="nav-comments" href="#comments">💬 My Comments <span class="cnt" id="nav-ccount">0</span></a>
