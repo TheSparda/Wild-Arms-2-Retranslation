@@ -30,6 +30,26 @@ Order of preference for the RE:
 3. **A fresh line from the JP** — only when LIT genuinely fails.
 The current EN localization is a *cross-check only*, never the base (it's the thing we're fixing).
 
+### Traps when using LIT as RE (learned applying this at scale)
+- **A LIT is sometimes a translator NOTE, not the line.** e.g. a babble line whose LIT reads
+  `Ge-ge-ge... (Ard can only say his own name)` — the real dialogue is the RE, and copying that
+  LIT would destroy it. Skip any LIT that is empty, `pending`, `__LIT_TODO__`, starts with
+  `(literal ...`, or contains a parenthetical note like `(... can only ... )`, `(sfx ...)`,
+  `(lit. ...)`. `prefer_lit_re.py` already guards these; keep the guard if you extend it.
+- **Never let a LIT overwrite intentional non-dialogue.** Fixed NPC names spelled in the LIT are
+  fine to keep literal (Ard is an NPC, not a renameable party member).
+- **Notes never live inside the RE body.** An inline `# ...` annotation belongs on its own comment
+  line *after* the RE block, never appended to an RE line — the reflow will wrap it in and blow
+  the box budget (this bit US#304's directions note).
+
+### Automating the prime directive
+`python3 tools_wa2/prefer_lit_re.py [--dry] [files...]` rewrites RE := reflowed LIT for every box
+where the LIT is real and fits, keeps the existing RE when the LIT is over-budget, and leaves
+EN-anchored boxes (no usable LIT) alone. It is idempotent and `--dry` reports before changing.
+Name-code safety: it ports a spelled canonical name → `{n}` ONLY where the current RE already
+contains that `{n}` (so it never invents a code or hard-codes a renameable character). Always run
+`--dry` first, then re-run `reflow_re.py` + the validation checklist (§7) after applying.
+
 ---
 
 ## 1. Display / insertion budget (hard limits)
@@ -107,9 +127,11 @@ The current EN localization is a *cross-check only*, never the base (it's the th
 
 ## 7. Quick checklist before committing a FINAL file
 - [ ] Every RE is either LIT verbatim, LIT trimmed, or a justified fresh line (prime directive).
+- [ ] No RE was overwritten by a LIT that was actually a translator note (babble/sfx lines).
 - [ ] `reflow_re.py` reports all fit ≤3×35.
 - [ ] No em dashes, no `--`, no run-on comma chains.
-- [ ] Name/control codes `{n}` preserved verbatim.
+- [ ] Name/control codes `{n}` preserved verbatim; no spelled-out renameable name where a code belongs.
+- [ ] Any `#` annotation is on its own comment line, never inside an RE line.
 - [ ] Speaker taken from EN tags, not inferred.
 - [ ] Glossary names/terms correct.
 - [ ] Anchored in `build_db.py` SCENES; DB + wiki rebuilt.
