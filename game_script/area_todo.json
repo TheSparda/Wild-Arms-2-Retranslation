@@ -1,0 +1,282 @@
+{
+ "WR": {
+  "blocks": [
+   23,
+   70
+  ],
+  "done": 38,
+  "todo": 16,
+  "todo_clean": 10
+ },
+ "MP": {
+  "blocks": [
+   25
+  ],
+  "done": 20,
+  "todo": 5,
+  "todo_clean": 4
+ },
+ "BI": {
+  "blocks": [
+   24
+  ],
+  "done": 17,
+  "todo": 7,
+  "todo_clean": 5
+ },
+ "MR": {
+  "blocks": [
+   3
+  ],
+  "done": 16,
+  "todo": 169,
+  "todo_clean": 91
+ },
+ "SC": {
+  "blocks": [
+   5
+  ],
+  "done": 189,
+  "todo": 2,
+  "todo_clean": 1
+ },
+ "VC": {
+  "blocks": [
+   5
+  ],
+  "done": 189,
+  "todo": 2,
+  "todo_clean": 1
+ },
+ "WV": {
+  "blocks": [
+   5,
+   63
+  ],
+  "done": 202,
+  "todo": 25,
+  "todo_clean": 8
+ },
+ "TT": {
+  "blocks": [
+   29
+  ],
+  "done": 17,
+  "todo": 6,
+  "todo_clean": 3
+ },
+ "LR": {
+  "blocks": [
+   31
+  ],
+  "done": 23,
+  "todo": 2,
+  "todo_clean": 2
+ },
+ "HM": {
+  "blocks": [
+   32
+  ],
+  "done": 19,
+  "todo": 26,
+  "todo_clean": 6
+ },
+ "SY": {
+  "blocks": [
+   18
+  ],
+  "done": 138,
+  "todo": 4,
+  "todo_clean": 2
+ },
+ "LG": {
+  "blocks": [
+   53
+  ],
+  "done": 13,
+  "todo": 24,
+  "todo_clean": 7
+ },
+ "IP": {
+  "blocks": [
+   27
+  ],
+  "done": 48,
+  "todo": 1,
+  "todo_clean": 1
+ },
+ "GP": {
+  "blocks": [
+   27
+  ],
+  "done": 48,
+  "todo": 1,
+  "todo_clean": 1
+ },
+ "DZ": {
+  "blocks": [
+   12
+  ],
+  "done": 293,
+  "todo": 1,
+  "todo_clean": 0
+ },
+ "CC": {
+  "blocks": [
+   12
+  ],
+  "done": 293,
+  "todo": 1,
+  "todo_clean": 0
+ },
+ "UT": {
+  "blocks": [
+   13
+  ],
+  "done": 106,
+  "todo": 2,
+  "todo_clean": 1
+ },
+ "SD": {
+  "blocks": [
+   14
+  ],
+  "done": 197,
+  "todo": 1,
+  "todo_clean": 1
+ },
+ "HL": {
+  "blocks": [
+   14
+  ],
+  "done": 197,
+  "todo": 1,
+  "todo_clean": 1
+ },
+ "BV": {
+  "blocks": [
+   16
+  ],
+  "done": 281,
+  "todo": 3,
+  "todo_clean": 0
+ },
+ "HT": {
+  "blocks": [
+   16
+  ],
+  "done": 281,
+  "todo": 3,
+  "todo_clean": 0
+ },
+ "TS": {
+  "blocks": [
+   17
+  ],
+  "done": 269,
+  "todo": 12,
+  "todo_clean": 2
+ },
+ "SR": {
+  "blocks": [
+   17
+  ],
+  "done": 269,
+  "todo": 12,
+  "todo_clean": 2
+ },
+ "GB": {
+  "blocks": [
+   17
+  ],
+  "done": 269,
+  "todo": 12,
+  "todo_clean": 2
+ },
+ "GH": {
+  "blocks": [
+   17
+  ],
+  "done": 269,
+  "todo": 12,
+  "todo_clean": 2
+ },
+ "GG": {
+  "blocks": [
+   20
+  ],
+  "done": 209,
+  "todo": 1,
+  "todo_clean": 1
+ },
+ "AP": {
+  "blocks": [
+   20
+  ],
+  "done": 209,
+  "todo": 1,
+  "todo_clean": 1
+ },
+ "CE": {
+  "blocks": [
+   38
+  ],
+  "done": 76,
+  "todo": 1,
+  "todo_clean": 1
+ },
+ "DP": {
+  "blocks": [
+   39,
+   69
+  ],
+  "done": 109,
+  "todo": 3,
+  "todo_clean": 3
+ },
+ "DC": {
+  "blocks": [
+   39,
+   40
+  ],
+  "done": 147,
+  "todo": 3,
+  "todo_clean": 3
+ },
+ "DA": {
+  "blocks": [
+   39,
+   49
+  ],
+  "done": 206,
+  "todo": 3,
+  "todo_clean": 3
+ },
+ "HG": {
+  "blocks": [
+   44,
+   49
+  ],
+  "done": 141,
+  "todo": 2,
+  "todo_clean": 2
+ },
+ "LC": {
+  "blocks": [
+   45,
+   46,
+   47
+  ],
+  "done": 49,
+  "todo": 3,
+  "todo_clean": 3
+ },
+ "DJ": {
+  "blocks": [
+   49
+  ],
+  "done": 111,
+  "todo": 1,
+  "todo_clean": 1
+ }
+}
