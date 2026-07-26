@@ -1,0 +1,110 @@
+# WA2 INSERTION workspace US block 69 (US#7191-7209)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7192] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7338[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7193] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7339[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7194] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7340[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7195] budget=66ch/3ln
+  NOW: There's a good chance
+          terrorists are hiding in
+          the mountains here!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#7196] budget=33ch/2ln
+  NOW: Not a monster
+          confronting humans.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#7197] budget=37ch/2ln
+  NOW: She said someone's
+          been following us.
+  JP : JP#7341[MED]: 「この谷に / 　テロリストが押<8a38>している / 　可能性がありますッ！
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#7198] budget=60ch/3ln
+  NOW: You were very lucky your
+          opponent was sweet ol'
+          innocent me.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=60 chars, 3 line(s), <=35/line>>
+
+[US#7199] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#7342[MED]: 「モンスターなんかじゃない / 　戻ちはだかる、人間
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#7200] budget=61ch/2ln
+  NOW: We're the Odessa Special Unit
+          |Ptolomea and His Fun Friends!|
+  JP : JP#7346[MED]: 「オデッサ簡戦闘 / 　『トロメア方とゆかいな戦間たち』だッ！ || JP#7343[MED]: 「何者かが / 　僕方たちの跡をつけてきてるってな
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#7201] budget=62ch/3ln
+  NOW: Weren't they that other
+          group who was
+          trespassing in Illsveil?
+  JP : JP#7347[MED]: 「俺たち以外に / 　イルズベイルに侵入したの / 　たしか、こいつらだったよな〜[10][0c]「どこかの場の自<892c><897d>かな？ / 　昔の家が
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#7202] budget=85ch/3ln
+  NOW: Are they some vigilante force
+          from a small town? There were
+          girls in their group too.
+  JP : JP#7348[MED]: 「どこかの場の自<892c><897d>かな？ / 　昔の家が訪じっているみたいだけど〜[10][0c]「何だったら / 　この場で<8a4c><8a4d>しち
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#7203] budget=91ch/3ln
+  NOW: Should we shoot them here
+          on the spot? We've got time to
+          kill until the Varukisas heats up.
+  JP : JP#7349[MED]: 「何だったら / 　この場で<8a4c><8a4d>しちゃおうか？ / 　バルキサスの好気が終るまで恥負だし
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#7204] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#7350[HIGH]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「バルキサスの離陸準備 / 　<88ad><8837>したみたいよ / 　<f040><f042>
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#7205] budget=54ch/3ln
+  NOW: Looks like Varukisas
+          is ready for departure.
+          Let's go.
+  JP : JP#7351[HIGH]: 「バルキサスの離陸準備 / 　<88ad><8837>したみたいよ / 　<f040><f042>行きましょう〜
+  FIT: <<TODO — <=54 chars, 3 line(s), <=35/line>>
+
+[US#7206] budget=56ch/2ln
+  NOW: There's the four of us.
+          Odessa's Special |Cocytus| Corp.
+  JP : JP#7352[HIGH]: 「僕方たち、４人 / 　オデッサ簡戦闘『コキュートス』ッ！[10][0c]「<8934><88e0>ジャックじゃ / 　僕方たちのこと乗れられなかったからな /
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#7207] budget=103ch/3ln
+  NOW: We're broadcasting clandestinely!
+          Since we didn't have contact, let's
+          at least do some bold propaganda.
+  JP : JP#7353[HIGH]: 「<8934><88e0>ジャックじゃ / 　僕方たちのこと乗れられなかったからな / 　せいぜい、ハデに<8a52><88a6>をたのむぜ[10][0c]「が
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#7208] budget=11ch/1ln
+  NOW: Ha. Ha. Ha.
+  JP : JP#7354[MED]: 「がっはっはっはっはッ！
+  FIT: <<TODO — <=11 chars, 1 line(s), <=35/line>>

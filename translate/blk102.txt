@@ -1,0 +1,60 @@
+# WA2 4-col translation doc block 102 (JP#8044-8053)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 8 boxes | OK=0 FAIR=8 SHAKY=0 JP-ONLY=0
+# DRAFT STATUS: 8 boxes | OK=0 FAIR=8 SHAKY=0 JP-ONLY=0
+
+[JP#8045] gaps=0  aln=MED->US#7869  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8046] gaps=2  aln=MED->US#7870  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8047] gaps=0  aln=MED->US#7871  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8048] gaps=3  aln=MED->US#7872  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>私の身体を気<8a34>っているというのなら / 　それは、お泣違いというものだ
+  2|LIT: <<TODO>>
+  3|EN : @If you're worried about
+ my body, you're barking
+ up the wrong tree.
+  4|RE : <<TODO>>
+
+[JP#8049] gaps=0  aln=MED->US#7873  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ファルガイアを片りたいという気持ちは / 　誰にも押けるつもりはない〜
+  2|LIT: <<TODO>>
+  3|EN : @My desire to protect Filgaia
+ won't be surpassed by anyone.
+  4|RE : <<TODO>>
+
+[JP#8050] gaps=0  aln=MED->US#7874  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「いや、いっしょに戦っているじゃないか
+  2|LIT: <<TODO>>
+  3|EN : @You already are.
+  4|RE : <<TODO>>
+
+[JP#8051] gaps=3  aln=MED->US#7875  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : （〜[16]がぉ〜[16]がぉ〜[16]がぉ〜）[10][0c]（<f040><f042>あるいは、<8a39>仲〜？）
+  2|LIT: <<TODO>>
+  3|EN : (...30...30...30...)(Or is it running out of control?)
+  4|RE : <<TODO>>
+
+[JP#8052] gaps=3  aln=MED->US#7876  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : （<f040><f042>あるいは、<8a39>仲〜？）
+  2|LIT: <<TODO>>
+  3|EN : (Or is it running out of control?)
+  4|RE : <<TODO>>

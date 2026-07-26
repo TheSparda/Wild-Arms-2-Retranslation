@@ -1,0 +1,107 @@
+# WA2 4-col translation doc block 107 (JP#8119-8135)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 15 boxes | OK=0 FAIR=15 SHAKY=0 JP-ONLY=0
+# DRAFT STATUS: 15 boxes | OK=0 FAIR=15 SHAKY=0 JP-ONLY=0
+
+[JP#8120] gaps=0  aln=MED->US#7937  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8121] gaps=2  aln=MED->US#7938  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8122] gaps=0  aln=MED->US#7939  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8123] gaps=0  aln=MED->US#7941  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8124] gaps=2  aln=MED->US#7942  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8125] gaps=0  aln=MED->US#7943  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8126] gaps=0  aln=MED->US#7944  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8127] gaps=2  aln=MED->US#7945  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8128] gaps=0  aln=MED->US#7946  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8129] gaps=0  aln=MED->US#7947  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8130] gaps=2  aln=MED->US#7948  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8131] gaps=0  aln=MED->US#7949  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8132] gaps=0  aln=MED->US#7950  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8133] gaps=2  aln=MED->US#7951  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8134] gaps=0  aln=MED->US#7952  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>

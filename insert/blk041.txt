@@ -1,0 +1,293 @@
+# WA2 INSERTION workspace US block 41 (US#5914-5964)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5915] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#6048[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5916] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6049[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5917] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6050[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5918] budget=68ch/3ln
+  NOW: 2, I want to tell you
+          about what we've done...
+          all our heroic deeds!
+  JP : JP#6051[HIGH]: 「そうだ[0a]かに話してあげるよ / 　俺たちのやっていること / 　今までの幸<8a34>をッ！
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#5919] budget=63ch/3ln
+  NOW: We've been through so much.
+          We've seen and done
+          so many things!
+  JP : JP#6052[HIGH]: 「それくらい / 　いろいろなことが / 　俺たちを加り過ぎていったんだ〜[10][0c]「たしかにツライよ / 　でもね、誰かを<8833>けた時の / 　気
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#5920] budget=80ch/3ln
+  NOW: It hasn't been easy, but the
+          feeling you get when you save
+          someone is priceless.
+  JP : JP#6053[HIGH]: 「たしかにツライよ / 　でもね、誰かを<8833>けた時の / 　気持ちは何物にも代えられないんだ[10][0c]「そう、このあいだね / 　俺は『片押』って
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5921] budget=52ch/2ln
+  NOW: Just the other day, people
+          were calling me a |hero.|
+  JP : JP#6054[HIGH]: 「そう、このあいだね / 　俺は『片押』って呼ばれたんだ
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#5922] budget=46ch/2ln
+  NOW: ... Of course, I had help.
+          I didn't act alone.
+  JP : JP#6055[HIGH]: 「<f040><f042>俺自身の力で / 　そう呼ばれたわけではないけどね[10][0c]「でも、オデッサに戻ち向かう / 　『片押』って言われたんだ / 　
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#5923] budget=73ch/3ln
+  NOW: But when they called me the
+          hero who fought against
+          Odessa, it felt good.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#5924] budget=92ch/3ln
+  NOW: I feel I have to be the |Hero|
+          who dispels people's fears...
+          the |Hero| who saves the world.
+  JP : JP#6056[MED]: 「でも、オデッサに戻ち向かう / 　『片押』って言われたんだ / 　悪い気はしなかったな〜
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#5925] budget=26ch/1ln
+  NOW: It doesn't sound like one.
+  JP : JP#6058[HIGH]: 「わたしには、そうは聞こえないよ[10][0c]「たしかに今、ファルガイアに / 　大変なことが起こっているわ[10][0c]「でも、それは / 　[05]ぉが || JP#6057[MED]: 「みんなの不危を守き飛ばせる / 　『片押』にならなきゃって思うよ / 　世界を<8832>う『片押』に<f040><f042>
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#5926] budget=52ch/2ln
+  NOW: Sure, some horrible things are
+          happening in Filgaia.
+  JP : JP#6059[HIGH]: 「たしかに今、ファルガイアに / 　大変なことが起こっているわ[10][0c]「でも、それは / 　[05]ぉが〜 / 　『片押』が何とかしなくちゃいけないの？
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#5927] budget=66ch/3ln
+  NOW: But does that mean that
+          0 the |hero|
+          has to do something about it?
+  JP : JP#6060[HIGH]: 「でも、それは / 　[05]ぉが〜 / 　『片押』が何とかしなくちゃいけないの？[10][0c]「だとしたら『片押』って / 　人の力でどうしようもないことに
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#5928] budget=87ch/3ln
+  NOW: Is a hero just someone who is
+          sacrificed for others who can't
+          solve their own problems?
+  JP : JP#6061[HIGH]: 「だとしたら『片押』って / 　人の力でどうしようもないことに姉げられる / 　『生け<8a3d>』みたいなものじゃない[10][0c]「[05]ぉを『片押』っ
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#5929] budget=90ch/3ln
+  NOW: By naming you their |hero| does
+          everyone else shirk their own
+          duties and just stop trying?
+  JP : JP#6062[MED]: 「[05]ぉを『片押』って / 　言った人たちは、自分たちで何とかする / 　助力とか、歩任を殺<8a40>しただけじゃないの？[10][0c]「『片押』って『
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#5930] budget=86ch/3ln
+  NOW: If |hero| is just a euphemism
+          for |sacrifice,| then no, I'm
+          not happy about it at all.
+  JP : JP#6063[HIGH]: 「『片押』って『生け<8a3d>』を / 　それらしく兄っただけの呼び方だとしたら / 　わたしは、うれしくないよ〜[10][0c]「わたしの大事な人が / 　
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#5931] budget=51ch/2ln
+  NOW: Especially when the |hero|
+          is someone I care for...
+  JP : JP#6064[HIGH]: 「わたしの大事な人が / 　そんなふうに呼ばれることが<f040><f042>
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#5932] budget=72ch/3ln
+  NOW: I thought my feelings for you
+          would bridge the emotional gap
+          between us.
+  JP : JP#6065[HIGH]: 「気持ちの<881a>離は / 　あなたを違う招力が期めてくれるって / 　信じていた[10][0c]「でも<f040><f042>[10][0c]「すれ違いが
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#5933] budget=26ch/1ln
+  NOW: But the reality is that...
+  JP : JP#6066[HIGH]: 「でも<f040><f042>[10][0c]「すれ違いが<8a18>くよ〜
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#5934] budget=25ch/1ln
+  NOW: we hardly see each other.
+  JP : JP#6067[HIGH]: 「すれ違いが<8a18>くよ〜
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5935] budget=49ch/2ln
+  NOW: And yet I feel farther away
+          from you than ever...
+  JP : JP#6068[HIGH]: 「なのに、今までよりも / 　<8a10>くにあなたを信じるの〜[10][0c]「ねぇ〜 / 　あなたは本当に[05]ぉなの？[10][0c]「わたしの知ってい
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#5936] budget=27ch/2ln
+  NOW: Tell me...
+          Are you still 0?
+  JP : JP#6069[HIGH]: 「ねぇ〜 / 　あなたは本当に[05]ぉなの？[10][0c]「わたしの知っている / 　[05]ぉなの？ / 　来えてよ、不危で挑しつぶされそう〜
+  FIT: <<TODO — <=27 chars, 2 line(s), <=35/line>>
+
+[US#5937] budget=71ch/3ln
+  NOW: Are you still the 0
+          I know? Tell me! I can't take
+          this anxiety anymore!
+  JP : JP#6070[HIGH]: 「わたしの知っている / 　[05]ぉなの？ / 　来えてよ、不危で挑しつぶされそう〜
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#5938] budget=11ch/2ln
+  NOW: 2
+          I... I...
+  JP : JP#6071[HIGH]: 「[0a]か〜 / 　俺は〜
+  FIT: <<TODO — <=11 chars, 2 line(s), <=35/line>>
+
+[US#5939] budget=55ch/2ln
+  NOW: I know, but I torment you
+          because of my own insecurity.
+  JP : JP#6072[HIGH]: 「そんなこと、わかっている / 　でも、不危になるから戦らせてしまう[10][0c]「〜最周よね
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#5940] budget=17ch/1ln
+  NOW: ... I'm horrible.
+  JP : JP#6073[HIGH]: 「〜最周よね
+  FIT: <<TODO — <=17 chars, 1 line(s), <=35/line>>
+
+[US#5941] budget=71ch/3ln
+  NOW: There's something I have to
+          tell you, but I can't find
+          the right words.
+  JP : JP#6074[MED]: 「キミにはいつか / 　<8a48>ち次けなきゃいけないことがある / 　でも、俺は言い出せなかった[10][0c]「それがキミをいっそう / 　不危にさせてい
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#5942] budget=54ch/2ln
+  NOW: It's something that will only
+          make your anxiety worse.
+  JP : JP#6075[HIGH]: 「それがキミをいっそう / 　不危にさせている〜
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#5943] budget=9ch/1ln
+  NOW: Say, 0...
+  JP : JP#6076[HIGH]: 「ねぇ、[05]ぉ〜
+  FIT: <<TODO — <=9 chars, 1 line(s), <=35/line>>
+
+[US#5944] budget=55ch/3ln
+  NOW: I do, 2. I wasn't
+          hiding it from you.
+          It's just that...
+  JP : JP#6077[HIGH]: 「ごめん、[0a]か〜 / 　ないしょにしていたわけではないんだ / 　その〜
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#5945] budget=71ch/3ln
+  NOW: You're fighting to save
+          everyone, but I'm just
+          holding you back, right?
+  JP : JP#6078[HIGH]: 「[05]ぉは / 　みんなのために戦っているのに / 　わたしがジャマをしているよね？[10][0c]「わたしがいるから / 　[05]ぉは任務に間念できない
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#5946] budget=49ch/2ln
+  NOW: I'm keeping you from focusing
+          on your mission, 0.
+  JP : JP#6079[HIGH]: 「わたしがいるから / 　[05]ぉは任務に間念できないよね
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#5947] budget=83ch/3ln
+  NOW: I'm much stronger than before.
+          I'm far stronger than I was
+          even a little while ago.
+  JP : JP#6080[HIGH]: 「俺は強くなった〜 / 　ほんの少し前とは<8876>べ物にならないくらいの / 　強さを手に入れたんだ〜[10][0c]「でも、それは / 　オデッサと戦うた
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#5948] budget=55ch/2ln
+  NOW: But I'm not talking about the
+          strength to fight Odessa.
+  JP : JP#6081[HIGH]: 「でも、それは / 　オデッサと戦うために手に入れたんじゃない[10][0c]「どんなに手強い相と戦っても / 　俺の帰るべき場所<f040><f042> / 
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#5949] budget=92ch/3ln
+  NOW: I'm talking about the strength
+          to live through this mess and
+          make it home to where I belong.
+  JP : JP#6082[HIGH]: 「どんなに手強い相と戦っても / 　俺の帰るべき場所<f040><f042> / 　そこに帰るために強くなってきたんだ
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#5950] budget=30ch/1ln
+  NOW: I wish I could be strong, too.
+  JP : JP#6083[HIGH]: 「わたしも強くなりたいな〜[10][0c]「そうすれば / 　[05]ぉと / 　いつもいっしょにいられるのにね
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#5951] budget=62ch/3ln
+  NOW: Strong enough to hold out
+          until we can be together
+          forever, 0.
+  JP : JP#6084[HIGH]: 「そうすれば / 　[05]ぉと / 　いつもいっしょにいられるのにね
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#5952] budget=54ch/2ln
+  NOW: I will be strong enough to
+          survive until this is over.
+  JP : JP#6085[HIGH]: 「俺は、帰るべき場所に / 　必ず帰ってくる強さをさらに訪める[10][0c]「[0a]かは / 　俺が帰ってくる場所を / 　<8a4c>ってくれる強さを身に
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#5953] budget=65ch/3ln
+  NOW: You, 2, must be strong
+          enough to save me a place
+          to come home to.
+  JP : JP#6086[HIGH]: 「[0a]かは / 　俺が帰ってくる場所を / 　<8a4c>ってくれる強さを身につけてよ
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#5954] budget=44ch/2ln
+  NOW: I can't become strong like
+          you overnight, 0.
+  JP : JP#6087[HIGH]: 「いきなり[05]ぉみたいに / 　強くなんかなれないよ
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#5955] budget=45ch/2ln
+  NOW: See, 2? Just hold your
+          hands apart like this.
+  JP : JP#6088[HIGH]: 「[0a]か〜 / 　ほら、こうやって<8a4d>手を<89da>げて
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#5956] budget=39ch/2ln
+  NOW: Just this tiny world
+          in your arms, 2...
+  JP : JP#6089[HIGH]: 「[0a]かのそば<f040><f042> / 　そう、<8a4d>手いっぱいの小さな世界[10][0c]「ちっぽけだけど / 　俺の一番大事なファルガイアだ
+  FIT: <<TODO — <=39 chars, 2 line(s), <=35/line>>
+
+[US#5957] budget=54ch/2ln
+  NOW: This small space is the most
+          important in all Filgaia.
+  JP : JP#6090[HIGH]: 「ちっぽけだけど / 　俺の一番大事なファルガイアだ
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#5958] budget=41ch/2ln
+  NOW: Being strong is easy when
+          we're together.
+  JP : JP#6091[HIGH]: 「ふたり、いっしょなら / 　強くなるなんてカンタンだよ
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#5959] budget=71ch/3ln
+  NOW: I meant it's easy to
+          express my deepest feelings
+          to the man I care for.
+  JP : JP#6092[HIGH]: 「いちばん大切な人に / 　わたしの / 　いちばんたいせつな違いを<88a6>える方法[10][0c]「思ってたより / 　ずっとカンタンだった
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#5960] budget=33ch/2ln
+  NOW: It's a lot easier than
+          I thought.
+  JP : JP#6093[HIGH]: 「思ってたより / 　ずっとカンタンだった
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>

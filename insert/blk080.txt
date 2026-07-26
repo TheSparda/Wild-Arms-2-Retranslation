@@ -1,0 +1,22 @@
+# WA2 INSERTION workspace US block 80 (US#7441-7444)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7442] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7631[MED]: ＊進みますか？[18]か || JP#7630[MED]: 
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7443] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7632[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7444] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7633[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません || JP#7634[MED]: 
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>

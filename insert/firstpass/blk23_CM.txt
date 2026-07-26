@@ -1,0 +1,243 @@
+# WA2 — Closed Mine Shaft (CM) — block 23, US#5015-5062 — FIRST-PASS insert-ready
+# =========================================================================================
+# FIRST PASS (auto-generated): RE = the US localization reflowed to the display window
+#   (<=3 lines x <=35 chars), em dashes stripped, color-code artifacts removed. JP shown for
+#   reference (block-decoded; residual codes possible). This is NOT a deep literary
+#   retranslation — it gives Closed Mine Shaft valid insert text; flag for a deep RE pass later.
+# US# reconciled by construction (IDs are the real block-23 message slots).
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#5021]
+  JP : ＊ＨＰの回右<886f>は / ゲットしたジェムの大きさに比<8943>し / その乗果はパーティー全置におよびます着のふちに向かって / 方向キーを入れたままにすると / 『おっとっと』ポーズをとることがあります
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Gems heal all members of the party but the amount of HP restored depends on the size of the gem.
+  RE : Gems heal all members of the party
+       but the amount of HP restored
+       depends on the size of the gem.
+
+[US#5022]
+  JP : ＊『おっとっと』状態中に / [0b]かを押すことで / 発着を飛び降りることができます
+  LIT: *While in the 'wobble' state, press {button} to jump down from the ledge. (0b = button code; 発着->足場 'foothold/ledge')
+  EN : In the |oops| state, you can press the 2 button to go ahead and jump down.
+  RE : In the |oops| state, you can press
+       the 2 button to go ahead and jump
+       down.
+
+[US#5023]
+  JP : ＊発着に向かって、ダッシュ状態で搭乗すると / 『おっとっと』ポーズをとることなく / そのまま飛び降りることができます
+  LIT: *If you board the ledge while dashing, you can jump straight down without the 'wobble' pose. (発着->足場)
+  EN : You can also jump down by dashing off an edge without the |oops| action.
+  RE : You can also jump down by dashing
+       off an edge without the |oops|
+       action.
+
+[US#5026]
+  JP : 「任務を放棄することはできないッ！<b:8a65> / [ff][ff][0a]<b:8a65> / [ff][ff][0b]<b:8a65> / [ff][ff][0c]
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I refuse to abandon my mission!
+  RE : I refuse to abandon my mission!
+
+[US#5027]
+  JP : 「こんな危険な遺跡を / 野放しにしているから / モンスターが増えていくんだよ同胞隊置 / 「何だって僕たち同胞隊が / こんなトコまで出<b:8a3e>らなきゃいけないんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The monsters are multiplying here because these treacherous ruins have been left abandoned.
+  RE : The monsters are multiplying here
+       because these treacherous ruins
+       have been left abandoned.
+
+[US#5028]
+  JP : 「なあ、[05]ぉ / 遺跡漁りなんてのは『渡り烏』の連中に / まかせた方がいいと思わねェか？<b:8a41>きはしないぜ<b:8a42>れないヤツ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Hey, 0. Shouldn't we leave the search of the ruins to the |Mercs?|
+  RE : Hey, . Shouldn't we leave the
+       search of the ruins to the |Mercs?|
+
+[US#5029]
+  JP : 「誘拐犯人グループは３人 / どうやらタウンメリアの場まで / 出稼ぎに来ていた季節労働者らしい同胞隊置 / 「犯人はもともと / スレイハイム国の出身らしい
+  LIT: The kidnapper group is three men; laborers, it seems, who came to Town Meria for seasonal work. (bleed: the culprit is originally from Slayheim)
+  EN : The kidnappers are 3 guys who came to the Town of Meria as laborers to make money.
+  RE : The kidnappers are 3 guys who came
+       to the Town of Meria as laborers to
+       make money.
+
+[US#5030]
+  JP : 「〜<88d2>数前の街戦で、消失してしまった / あのスレイハイム国だ同胞隊置 / 「お前も気がついていると思うが / 最近、モンスターが増えてきているだろう？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Slayheim is the western country that was defeated in a war 5 years ago.
+  RE : Slayheim is the western country
+       that was defeated in a war 5 years
+       ago.
+
+[US#5031]
+  JP : 「世情が不安定になると / こういった事件も増えていくんだ
+  LIT: When the state of the world grows unstable, incidents like this increase too.
+  EN : With the world so unstable, it'll only get worse.
+  RE : With the world so unstable, it'll
+       only get worse.
+
+[US#5032]
+  JP : 「まだまだ増えるぜ / こういった輩がよ〜同胞隊置 / 「もしもバトルで倒れるようなことがあっても / 『コンティニュー』すればだいじょうぶだ
+  LIT: There'll be more and more of these types. (bleed tutorial: even if you fall in battle, 'Continue' and you're fine)
+  EN : There are going to be more and more people like this.
+  RE : There are going to be more and more
+       people like this.
+
+[US#5033]
+  JP : 「そのバトルに / 突入した時の状態まで戻るから / やりなおしができるのだ
+  LIT: You return to the state you were in when you entered that battle, so you can redo it.
+  EN : You'll return to the condition you were in before the battle and get to redo it.
+  RE : You'll return to the condition you
+       were in before the battle and get
+       to redo it.
+
+[US#5034]
+  JP : 「便利なシステム『コンティニュー』ッ！ / だけど、その使用回年には限りがある
+  LIT: The handy 'Continue' system! But the number of uses is limited. (回年->回数)
+  EN : The |Continue| system is convenient but its use is limited.
+  RE : The |Continue| system is convenient
+       but its use is limited.
+
+[US#5035]
+  JP : 「１回、コンティニューを行うたびに / アイテム『１ギミルコイン』を / ひとつ消費してしまうのだ
+  LIT: Each time you Continue once, it consumes one 'Gimel Coin' item.
+  EN : Each time you hit |Continue| one Gimel Coin is spent.
+  RE : Each time you hit |Continue| one
+       Gimel Coin is spent.
+
+[US#5036]
+  JP : 「１ギミルコインは貴重なアイテムだからな / その使いどきを誤るなよ / コンティニューは、最後の手段なのだッ！同胞隊置 / 「この遺跡には / めぼしいお<b:8a53>なんて残っていやしないぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Gimel Coins are very valuable, so use them wisely. They should only be used as a last resort!!
+  RE : Gimel Coins are very valuable, so
+       use them wisely. They should only
+       be used as a last resort!!
+
+[US#5037]
+  JP : 「もう、ずっと前に『渡り烏』と呼ばれる / <8a2b>険者たちによって / あらかた探<887e>されつくされているからな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The ruins have been searched already by the expedition team called |Merc.|
+  RE : The ruins have been searched
+       already by the expedition team
+       called |Merc.|
+
+[US#5038]
+  JP : 「ここが『枯れた遺跡』と呼ばれるのは / そういうことからさ同胞隊置 / 「どうやらこのあたりは / すでにモンスターのテリトリーらしい
+  LIT: That's why this is called 'the Withered Ruins'. (bleed: this area already seems to be monster territory)
+  EN : That's why this place is called |The Withered Ruins.|
+  RE : That's why this place is called
+       |The Withered Ruins.|
+
+[US#5039]
+  JP : 「気を招き締めていくぞッ！同胞隊置 / 「すでに調査<8994>みの遺跡だからって / 気は抜けないぞ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Brace yourself!
+  RE : Brace yourself!
+
+[US#5040]
+  JP : 「この先、どんな仕<89eb>けがあるのか / 見当もつかないからな同胞隊置 / 「すまない〜 / 世話をかけるな同胞隊置 / 「あのオッチョコチョイめ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I can't even imagine what kind of traps lie ahead.
+  RE : I can't even imagine what kind of
+       traps lie ahead.
+
+[US#5042]
+  JP : 「悪いが、方家を見てきてくれないか？同胞隊置 / 「ナイフくらい使いこなせないと / この先、カッコがつかないぞ
+  LIT: Sorry, but could you go check the place out? (bleed tutorial: you'd better be able to handle a knife)
+  EN : Could you check it out?
+  RE : Could you check it out?
+
+[US#5043]
+  JP : 「ここで目立った手柄でもたてて / ウワサの新設部隊への / 転属なんかねらっちまうからこのザマだ来るまでここにいた方がいい同胞隊置 / 「そうもしてらんねぇよ / ホラ、ちょっと見ておきなッ！同胞隊置 / 「〜〜ッ！[17]
+  LIT: This is what I get for trying to score a showy feat here and angle for a transfer to the rumored new unit. (heavy bleed)
+  EN : It's because you tried to score big here so you'd be reassigned to the new unit that is forming.
+  RE : It's because you tried to score big
+       here so you'd be reassigned to the
+       new unit that is forming.
+
+[US#5044]
+  JP : 「さっきのようにスイッチを入れる以外にも / 使い道があるかもしれんな〜 / そいつは自分で探すことだ同胞隊置 / 「ここの上の足場に気をつけろ / 崩れる前<b:8a5c>に<88f7>意を<b:8a5d>うのだッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It must have a use besides just turning the switch. You need to figure it out.
+  RE : It must have a use besides just
+       turning the switch. You need to
+       figure it out.
+
+[US#5045]
+  JP : 「うっかり落ちると手間取るぞ / 〜この僕みたいにな同胞隊置 / 「このあたりの足場は / 結にもろくなってるみたいだ
+  LIT: Fall carelessly and you'll waste time, like me. (bleed: the footing around here seems quite fragile; 結->結構)
+  EN : If you fall by mistake, you'll be held up like me.
+  RE : If you fall by mistake, you'll be
+       held up like me.
+
+[US#5046]
+  JP : 「あせらず〜 / ゆっくり〜 / 慎重に、だぞ〜
+  LIT: Don't rush; slowly; carefully, now.
+  EN : Don't sweat it, though. Take it slow and proceed with caution.
+  RE : Don't sweat it, though. Take it
+       slow and proceed with caution.
+
+[US#5047]
+  JP : 「ガキを誘拐すれば / 大金が転がりこむって言ったのはっ！？<b:8a5f>は / ガンガル兄貴のアイデアなのに・・・
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Who said kidnapping would have us rolling in money!?
+  RE : Who said kidnapping would have us
+       rolling in money!?
+
+[US#5048]
+  JP : 「まさか / こんなおおごとになるなんて / 思ってもみなかった・・・誘拐したって / リスクばっかり大きいだけなのによ・・・誘拐したからって / １ギャラの<b:8a61>けにもなりゃしないのにな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I never imagined it would turn into such a big deal.
+  RE : I never imagined it would turn into
+       such a big deal.
+
+[US#5050]
+  JP : 「どうするんでヤンス、ガンガルの兄貴 / もうすぐ同胞隊のみなさん / 突入してくる頃でヤンスよ<b:8a66>（オトコ）ってもんよ誘拐なんて無理だってコト〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What do you plan on doing, boss? It's about time those Musketeer boys came charging in.
+  RE : What do you plan on doing, boss?
+       It's about time those Musketeer
+       boys came charging in.
+
+[US#5051]
+  JP : 「最<b:8a67>に話しませんでしたっけ？<b:8a68>を出しちまうってのかい？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Didn't I say that at the start?
+  RE : Didn't I say that at the start?
+
+[US#5052]
+  JP : 「そんなことじゃ / <b:8a66>（オトコ）がすたっちまうぜ / 〜ったくよぉ<b:8a69>があるんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What a waste of man power, wimping out like that. Really!
+  RE : What a waste of man power, wimping
+       out like that. Really!
+
+[US#5053]
+  JP : 「<894f>げ切って見せるぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'll get away no matter what.
+  RE : I'll get away no matter what.
+
+[US#5055]
+  JP : （少数、名前は？）<b:8a6a>力してくれるかい？）<b:8a6b>同作戦だッ！）
+  LIT: (literal pending: JP has unsolved codes)
+  EN : (Do you have a name?)
+  RE : (Do you have a name?)
+
+[US#5056]
+  JP : 「ホントは誘拐なんて / できる度<89e5>も無いくせにッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You don't have the guts to properly kidnap anyone!
+  RE : You don't have the guts to properly
+       kidnap anyone!
+
+[US#5057]
+  JP : 「お、おめぇら、このガキをとっつかまえて / だまらせろッ！
+  LIT: H-hey, you two, grab this brat and shut him up!
+  EN : Hey, you two, grab the brat and shut him up!!
+  RE : Hey, you two, grab the brat and
+       shut him up!!
+
+# =========================================================================================
+# STATUS: 32 boxes first-passed (US#5015-5062, block 23). Em-dash-free, <=3x35.
+# =========================================================================================

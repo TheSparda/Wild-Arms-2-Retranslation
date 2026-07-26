@@ -1,0 +1,112 @@
+# WA2 INSERTION workspace US block 65 (US#6971-6989)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#6974] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7124[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6975] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7125[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#6976] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7126[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#6977] budget=91ch/3ln
+  NOW: *Press the 1 button to shoot the
+          Flare Gun overhead to illuminate
+          the surrounding darkness.
+  JP : JP#7127[MED]: ＊フォトスフィアは[0b]おを幸すことで / 　<8a39>上に仲次泣を守出して / 　姉<8a3d>の暗助を次るく仲らします[10][0c]＊<8a39>上に
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#6978] budget=48ch/2ln
+  NOW: *Fire it upward to hit switches
+          above your head.
+  JP : JP#7128[MED]: ＊<8a39>上にあるスイッチに命中させることで / 　そのスイッチを切り<8864>えることもできます
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#6979] budget=61ch/3ln
+  NOW: *A powerful missile will
+          launch an attack on all
+          the enemies.
+  JP : JP#7129[MED]: ＊強力なミサイルをもって / 　相険体に対して歩撃を行います
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#6980] budget=56ch/3ln
+  NOW: *Using this item will add
+          new ammunition to the
+          bayonet.
+  JP : JP#7130[MED]: ＊アイテムとして使用することで / 　バイアネットに新たな泣戦を / 　追周します[10][0c]＊<8a48>撃と守撃の / 　<89b1>仲コンビネーション
+  FIT: <<TODO — <=56 chars, 3 line(s), <=35/line>>
+
+[US#6981] budget=79ch/3ln
+  NOW: *A lethal attack combining
+          shooting and cutting is
+          delivered to a single enemy.
+  JP : JP#7131[MED]: ＊<8a48>撃と守撃の / 　<89b1>仲コンビネーション歩撃を / 　相間体に対して行います
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#6982] budget=91ch/3ln
+  NOW: *I am Wotan, leader of the Wild
+          Hunt, a band of specters riding
+          the winds of winter storms.
+  JP : JP#7132[HIGH]: ＊果てしなく流るる生命の<88a1>は / 　その時、<8a4c>で渡る<8a4d>の大好を恥て / 　負を見ることなき死の遠<8a52>とならん
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#6983] budget=84ch/3ln
+  NOW: *I am Saturn, god of agriculture
+          and ruler of the world during
+          the age of happiness.
+  JP : JP#7133[HIGH]: ＊還える、還える、勉に還える〜 / 　力を失いし<8a55><89e3>獣たちの貸が勉に還える / 　そして意<8a57>は谷へと変わる
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#6984] budget=97ch/3ln
+  NOW: *Looking down are the new Moon and
+          the old Moon, kind mother's face
+          and cruel queen of the night.
+  JP : JP#7134[HIGH]: ＊見辺ろすは<890a>、<882d>きと新しきふたつの<890a>〜 / 　<890a>は、<89ab>しさにつつみこむ望の探と / 　無<8a59><8a5
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#6985] budget=100ch/3ln
+  NOW: *The sun glitters with hope.
+          If one's heart is filled with hope,
+          darkness exits and the sun appears.
+  JP : JP#7135[HIGH]: ＊茶飛の限きは、守<8a61>の限き / 　生きる者の<89e5>に守<8a61>という名の欠延があれば / 　助を乗いし、茶飛とならん
+  FIT: <<TODO — <=100 chars, 3 line(s), <=35/line>>
+
+[US#6986] budget=88ch/3ln
+  NOW: *I am Thor, god of thunder, wielder
+          of the hammer Mjolnir and the
+          defender of the Aesir.
+  JP : JP#7136[HIGH]: ＊<8a64>と道を<8a65>えし<88bf>男（システム）〜 / 　ユグドラシルの倒滅<8a67>が魂<895a>を<8952>けし時 / 　<8804>死
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#6987] budget=96ch/3ln
+  NOW: *I am Frigg, goddess of love and
+          fertility. After losing my husband
+          Od, my tears turned to gold.
+  JP : JP#7137[HIGH]: ＊<8a6a><8a6b>と勇<8a6d>に友ちた<8a08>金の魂数苦は / 　頼い周りし姿<8a71>の<8a72>によりて基<8a74>に帰す / 　後に
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#6988] budget=92ch/3ln
+  NOW: *I am Tiu, god of the sky and war,
+          bringer of the flame of disaster
+          to destroy all creation.
+  JP : JP#7138[HIGH]: ＊<8a55><89e3>の緊は未勝を仲らし、<8a79><8a7a>を英らん / 　だが、姿<8a71>の緊は未勝を雄やし / 　<8a7d>元的破滅を共勝せ
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#6989] budget=76ch/3ln
+  NOW: This is strange.
+          What could this feeling be?
+          Feels like I'm near a Guardian.
+  JP : JP#7139[MED]: 「おかしいな〜 / 　何だろう？　このカンジ〜 / 　ガーディアンに近い信信が流れる〜
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>

@@ -1,0 +1,158 @@
+# WA2 4-col translation doc block 54 (JP#6676-6699)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 20 boxes | OK=5 FAIR=13 SHAKY=2 JP-ONLY=0
+# DRAFT STATUS: 20 boxes | OK=4 FAIR=13 SHAKY=3 JP-ONLY=0
+
+[JP#6677] gaps=0  aln=MED->US#6537  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#6678] gaps=2  aln=MED->US#6538  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#6679] gaps=0  aln=MED->US#6539  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#6680] gaps=1  aln=MED->US#6540  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊泣行<8883>のミサイルランチャーです / 　相片体に対して押撃を行います
+  2|LIT: <<TODO>>
+  3|EN : *It's a portable
+ missile launcher for
+ attacking a single enemy.
+  4|RE : <<TODO>>
+
+[JP#6681] gaps=0  aln=MED->US#6541  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ここは、お前たちのような存帰が / 　兄るところではない
+  2|LIT: <<TODO>>
+  3|EN : @This is no place for
+ inferior beings like you.
+  4|RE : <<TODO>>
+
+[JP#6684] gaps=0  aln=MED->US#6544  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「〜中には / 　ニンゲンでないのも / 　周じっているようだが〜
+  2|LIT: <<TODO>>
+  3|EN : @Of course, it appears there
+ are a few non-humans
+ among you as well.
+  4|RE : <<TODO>>
+
+[JP#6685] gaps=2  aln=HIGH->US#6545  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ロンバルディアッ！ / 　今、このファルガイアは<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @Lombardia!
+ Filgaia is currently being...
+  4|RE : <<TODO>>
+
+[JP#6686] gaps=0  aln=HIGH->US#6546  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「そう、我らがすまう / 　ドラゴン更元が間まれた / 　あの時と〜
+  2|LIT: <<TODO>>
+  3|EN : @It's the same as when the
+ Dragon Dimension we lived in
+ was consumed.
+  4|RE : <<TODO>>
+
+[JP#6687] gaps=9  aln=HIGH->US#6547  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=6
+  1|JP : 「その<8808>訪は、単の更元に存帰する / 　『世界』である[10][0c]「だが、我らの世界もまた / 　侵食のうねりにのみこまれ / 　<8a4c>間の多くを<8a4d><8a10>に失うこととなった〜[10][0c]「更元を飛び好えることのできた / 　恥かな同負が、単の世界に<894f>げ遠びたものの / 　<8a52><8a53>に勉<8839>できずに<8a55>ちていった〜
+  2|LIT: <<TODO>>
+  3|EN : @Our homeland was originally
+ a different |universe.|@But our world was swallowed
+ in a wave of consumption and
+ many were lost forever.@The few who were able to change
+ dimensions arrived but couldn't
+ adapt, and simply rotted away.
+  4|RE : <<TODO>>
+
+[JP#6688] gaps=8  aln=HIGH->US#6548  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=5
+  1|JP : 「だが、我らの世界もまた / 　侵食のうねりにのみこまれ / 　<8a4c>間の多くを<8a4d><8a10>に失うこととなった〜[10][0c]「更元を飛び好えることのできた / 　恥かな同負が、単の世界に<894f>げ遠びたものの / 　<8a52><8a53>に勉<8839>できずに<8a55>ちていった〜
+  2|LIT: <<TODO>>
+  3|EN : @But our world was swallowed
+ in a wave of consumption and
+ many were lost forever.@The few who were able to change
+ dimensions arrived but couldn't
+ adapt, and simply rotted away.
+  4|RE : <<TODO>>
+
+[JP#6689] gaps=5  aln=HIGH->US#6549  CONF=SHAKY unsolved=5  CONF=FAIR unsolved=2
+  1|JP : 「更元を飛び好えることのできた / 　恥かな同負が、単の世界に<894f>げ遠びたものの / 　<8a52><8a53>に勉<8839>できずに<8a55>ちていった〜
+  2|LIT: <<TODO>>
+  3|EN : @The few who were able to change
+ dimensions arrived but couldn't
+ adapt, and simply rotted away.
+  4|RE : <<TODO>>
+
+[JP#6690] gaps=1  aln=MED->US#6550  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「俺たちは / 　世界が侵食されていくのを<8988>止するために / 　戦っているんだッ！
+  2|LIT: <<TODO>>
+  3|EN : @We are fighting to stop the
+ encroachment on this universe.
+  4|RE : <<TODO>>
+
+[JP#6691] gaps=2  aln=MED->US#6551  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ましてや / 　歩小なるニンゲンの存帰などが / 　そのようなこと<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @...much less human beings,
+ a lower lifeform.
+  4|RE : <<TODO>>
+
+[JP#6692] gaps=0  aln=MED->US#6552  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そうだよね？
+  2|LIT: <<TODO>>
+  3|EN : @Right?
+  4|RE : <<TODO>>
+
+[JP#6693] gaps=0  aln=HIGH->US#6553  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「手を貸してほしい / 　ロンバルディアッ！
+  2|LIT: <<TODO>>
+  3|EN : @We want your help,
+ Lombardia!
+  4|RE : <<TODO>>
+
+[JP#6694] gaps=1  aln=HIGH->US#6554  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「<8a57>小確望を手にしようとする / 　ニンゲンの力を / 　この目に見させてもらうとしよう
+  2|LIT: <<TODO>>
+  3|EN : @I want to witness with my own
+ eyes the power of humans
+ struggling to overcome the odds.
+  4|RE : <<TODO>>
+
+[JP#6695] gaps=1  aln=HIGH->US#6555  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「その力の向こうに / 　我が可能性という<89e0>を見出せたなら / 　この挑、自由にするがよい
+  2|LIT: <<TODO>>
+  3|EN : @If I see a glimmer of possibility,
+ a light, in your strength, you may
+ use my wings as you wish.
+  4|RE : <<TODO>>
+
+[JP#6696] gaps=2  aln=HIGH->US#6556  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「我はロンバルディア / 　どれほどの力を<893a>そうと / 　<88f8>きはせぬ〜[10][0c]「なのに、なぜなのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @I am Lombardia.
+ No matter what powers you display,
+ they'll never reach me.@But why? Why?
+  4|RE : <<TODO>>
+
+[JP#6697] gaps=0  aln=HIGH->US#6557  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「なのに、なぜなのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @But why? Why?
+  4|RE : <<TODO>>
+
+[JP#6698] gaps=1  aln=MED->US#6558  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「カンタンにあきらめたら / 　お復ちゃんに<8a5c>われちゃう
+  2|LIT: <<TODO>>
+  3|EN : @If I gave up so easily,
+ Sis would laugh at me.
+  4|RE : <<TODO>>

@@ -1,0 +1,168 @@
+# WA2 — MISSION 3: LIVE REFLECTOR (block 31) — FINAL insert-ready
+# =========================================================================================
+# SPEAKERS (verified from EN twin STG_STGEVT 0x2ac797-0x2add62, numbered slots):
+#   {0}=Ashley  {2}=Lilka  {3}=Marina  {5}=Liz(トカ)  {6}=Ard(ゲー) — the Lizardian guests.
+#   Liz/Ard confirmed by their signature tics: {6} "In my humble opinion..." + the "creature,
+#   not a monster" joke (see WA2_RETRANS_LizArd.md).
+# SCENE: the party starts up the Live Reflectors; a monster ("creature," per Ard) emerges. Banter
+#   under threat — Liz needles the group, Ard hedges politely, the kid vows to train like his big
+#   brother, and they realize someone (Odessa) broke in ahead of them.
+# CLEANEST BLOCK YET: only 8 unsolved global codes / 34 msgs. JP block-decoded. No em dashes.
+# Columns: JP (clean) / LIT / EN (current) / RE (final).
+# =========================================================================================
+
+[US#5377] ({0} Ashley, at the console)
+  JP : 「よし、ライブリフレクターを / 起動させるぞッ！
+  LIT: All right, let's start up the Live Reflectors!
+  EN : OK, I'm going to start-up the Live Reflectors!
+  RE : All right, starting up the
+       Live Reflectors now!
+
+[NO-SLOT blk31] ({2} Lilka)
+  JP : 「え？　なにッ！？ / なんだか、気が滅入っちゃう
+  LIT: Huh? What?! Somehow this is so disheartening.
+  EN : What? What?? This is so disheartening.
+  RE : Huh? What?!
+       This is so disheartening.
+
+[NO-SLOT blk31] ({5} Liz, spotting it)
+  JP : 「なんか出てきたみたいだぞッ！ / モンスターか？
+  LIT: Looks like something's coming out! A monster?
+  EN : It looks like something's coming out of there! Is it a monster?
+  RE : Something's coming out
+       of there! A monster?
+
+[US#5378] ({6} Ard, "creature" tic)
+  JP : 「モンスターというよりも / むしろ『怪獣』と呼ぶべきではないかと / 思っちゃったりなんかしちゃったりして〜
+  LIT: Rather than a monster, I find myself thinking it ought to be called a "creature," or some such.
+  EN : Rather than a monster, it would be most appropriate for it to be called a |creature.|
+  RE : Rather than a monster, I do
+       rather think it ought to be
+       called a |creature|, and such.
+
+[NO-SLOT blk31] ({5} Liz, ribbing Ard)
+  JP : 「ビビってるのか、ゲー？ / 話し方が変わってるぞッ！
+  LIT: You scared, Ard? Your way of talking's gone funny!
+  EN : Are you afraid, {6}? You've changed the way you talk!
+  RE : Getting scared, {6}?
+       Your way of talking's
+       gone all funny!
+
+[NO-SLOT blk31] ({3} Marina)
+  JP : 「そんなことより / 逃げなきゃッ！ / ここは危険だよッ！
+  LIT: Never mind that, we have to run! It's dangerous here!
+  EN : No time for that. We've got to get away! It's dangerous here.
+  RE : Never mind that,
+       we have to run!
+       It's dangerous here!
+
+[NO-SLOT blk31] ({0} Ashley)
+  JP : 「あっ！ / おい、下がってろ
+  LIT: Ah! Hey, stand back.
+  EN : Ah! Hey, stand back.
+  RE : Ah! Hey,
+       get back.
+
+[NO-SLOT blk31] ({3} Marina)
+  JP : 「よし、行くよッ！
+  LIT: OK, let's go!
+  EN : OK, let's go!
+  RE : Right, let's go!
+
+[NO-SLOT blk31] ({5} Liz)
+  JP : 「童顔のわりに / なかなか度胸あるじゃねえか
+  LIT: For a babyface, you've got some real guts.
+  EN : Despite your babyface, you've got guts.
+  RE : For a babyface, you've
+       got real guts.
+
+[NO-SLOT blk31] ({5} Liz)
+  JP : 「そんなに心配すんなよ / こっちまで自信なくすだろ
+  LIT: Don't worry so much, you'll make me lose my confidence too.
+  EN : Don't worry so much, OK? You'll make me lose confidence.
+  RE : Don't fret so much. You'll
+       make me lose my nerve too.
+
+[NO-SLOT blk31] ({6} Ard, "humble opinion" tic)
+  JP : 「私見ですが、急いだ方が / よろしいのではないかと〜
+  LIT: In my humble opinion, hurrying would be advisable.
+  EN : In my humble opinion, hurrying up would be a very good idea.
+  RE : In my humble opinion,
+       hurrying along would be
+       a very good idea.
+
+[NO-SLOT blk31] ({3} Marina, on the Medium)
+  JP : 「ミーディアムの光が / 私たちみんなを守ってくれる
+  LIT: The Medium's light will protect us all.
+  EN : The Medium's illumination will protect us all.
+  RE : The Medium's light
+       will protect us all.
+
+[US#5379] ({3} Marina)
+  JP : 「だいじょうぶ / たぶん
+  LIT: It's fine. Probably.
+  EN : It's fine. Probably.
+  RE : It's fine.
+       Probably.
+
+[NO-SLOT blk31] ({0} Ashley, finding signs of intrusion)
+  JP : 「誰かが侵入した / 痕跡があるぞ
+  LIT: There's evidence someone broke in.
+  EN : There's evidence that someone broke in here.
+  RE : There's a sign someone
+       broke in here.
+
+[US#5382] ({0} Ashley)
+  JP : 「俺たち以外で / こんな所にやってくるとすれば〜 / 決まっているな
+  LIT: The only ones who'd come to a place like this besides us... it's obvious.
+  EN : Who else would come here besides us? It has to be...
+  RE : Who else would come to a
+       place like this but us?
+       It's obvious.
+
+[NO-SLOT blk31] ({2} Lilka)
+  JP : 「この前の / テロリストたちかな？
+  LIT: The terrorists from before, maybe?
+  EN : I wonder if it's those terrorists from before?
+  RE : Those terrorists
+       from before, maybe?
+
+[NO-SLOT blk31] ({0} Ashley)
+  JP : 「ふむ… / 『オデッサ』かもしれん
+  LIT: Hmm... it could be the "Odessa."
+  EN : Hmm... It could be the |Odessa.|
+  RE : Hmm...
+       Could be |Odessa|.
+
+[US#5383] (the kid, vowing to train)  [JP blk31 @0x3a80]
+  JP : 「決めたんだ / 僕も修行はあんちゃんみたいに / 強くなるんだって〜
+  LIT: I've decided. I'm going to train and get strong, just like my big brother.
+  EN : I've decided that when I grow up, I'll be strong like you dude.
+  RE : I've decided. I'll train
+       and get strong, just like
+       my big brother.
+
+# =========================================================================================
+# STATUS: Live Reflector scene translated (18 story boxes). JP block-decoded (cleanest block: 8
+#   residual codes). Em-dash-free, fit display window.
+# RULES: (2) positive control confirmed blk31=Live Reflector (リフレクター x4); (1) speakers verified
+#   from EN twin numbering — {5}Liz/{6}Ard confirmed by their tics ("creature", "humble opinion"),
+#   cross-checked vs WA2_RETRANS_LizArd.md; (3) JP vs real decode + EN twin 0x2ac797; (5) audit below.
+# CHARACTER: this is the comic-relief beat under threat — Liz's bravado, Ard's hedging politeness,
+#   Marina's "It's fine. Probably." Keep the Lizardians' tics intact (our LizArd retrans policy:
+#   coherent comic blowhard, NOT the EN word-salad).
+# RECONCILED (2026-07-25) against real US STGEVT message indices (block 31 = US#5373-5405):
+#   CONFIRMED INSERTABLE SLOTS (5): US#5377 (start-up Live Reflectors) · US#5378 (creature-not-monster)
+#     · US#5379 (It's fine. Probably.) · US#5382 (who else besides us) · US#5383 (kid: strong like you).
+#   ** IMPORTANT FINDING: 13 of the 18 drafted boxes have NO US# SLOT in block 31 ** (verified absent
+#     across US#5350-5410): the amp/monster banter, Liz ribbing, "stand back", "let's go", "humble
+#     opinion", "Medium's light", "broke in", "terrorists/Odessa". I OVER-EXPANDED the scene from the
+#     JP; the US disc compresses it to ~5 insertable boxes. Those 13 are marked [NO-SLOT blk31] — they
+#     are faithful JP translations but have no US slot to overwrite here. Before insert, either (a)
+#     drop them, or (b) find their true block (some may be a different Live Reflector event copy /
+#     JP-only lines the US localization cut). Do NOT insert them into block 31.
+#   COVERAGE GAP the reconcile surfaced: block 31 has MORE real slots I did not translate —
+#     US#5384-5401 (turn-back argument, "our strength"/"strength of 3", give-it-energy, Odoryuk Medium
+#     reveal, Sylvaland urgency, Young ARMS). Those are the actual blk31 scene; translate next pass.
+#   {5}/{6} render as Liz/Ard via the speaker system.
+# =========================================================================================

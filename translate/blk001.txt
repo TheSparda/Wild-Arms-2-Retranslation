@@ -1,0 +1,562 @@
+# WA2 4-col translation doc block 1 (JP#99-174)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 68 boxes | OK=19 FAIR=34 SHAKY=15 JP-ONLY=0
+# DRAFT STATUS: 68 boxes | OK=14 FAIR=37 SHAKY=17 JP-ONLY=0
+
+[JP#100] gaps=0  aln=MED->US#86  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#101] gaps=2  aln=MED->US#87  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#102] gaps=0  aln=MED->US#88  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#104] gaps=0  aln=MED->US#90  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「わたしでよければ力になります / 　お話、聞かせてもらえませんか？
+  2|LIT: <<TODO>>
+  3|EN : @I can help if you want.
+ Can you tell me what's wrong?
+  4|RE : <<TODO>>
+
+[JP#105] gaps=6  aln=MED->US#91  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : [13]国人に危<889b>はないものの / [13]姉<8a3d>おびえて助らせるほど / [13]人々の心は強いものではない[10][0c][13]今歩の<8880><89ba>は / [13]怪物に対する誓<8810>を<8a40>じていたのであった
+  2|LIT: <<TODO>>
+  3|EN : The villagers have not been
+harmed, but they live in fear
+of the night.Tonight's meeting was to
+discuss this monster problem.
+  4|RE : <<TODO>>
+
+[JP#106] gaps=4  aln=MED->US#92  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : [13]今歩の<8880><89ba>は / [13]怪物に対する誓<8810>を<8a40>じていたのであった
+  2|LIT: <<TODO>>
+  3|EN : Tonight's meeting was to
+discuss this monster problem.
+  4|RE : <<TODO>>
+
+[JP#107] gaps=0  aln=HIGH->US#93  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「テレポートジェムの使い方 / 　まだなれてなくて〜[10][0c]「でもよかった、今のが最後だったんです / 　これでまた / 　変なところに飛んでっちゃったらと思うと〜
+  2|LIT: <<TODO>>
+  3|EN : @I haven't quite got the knack
+ of this Teleport Gem.@For a minute I thought I had
+ teleported to the
+ wrong place again.
+  4|RE : <<TODO>>
+
+[JP#108] gaps=0  aln=HIGH->US#94  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「でもよかった、今のが最後だったんです / 　これでまた / 　変なところに飛んでっちゃったらと思うと〜
+  2|LIT: <<TODO>>
+  3|EN : @For a minute I thought I had
+ teleported to the
+ wrong place again.
+  4|RE : <<TODO>>
+
+[JP#109] gaps=0  aln=HIGH->US#95  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜あんた、誰？
+  2|LIT: <<TODO>>
+  3|EN : @Who are you, anyway?
+  4|RE : <<TODO>>
+
+[JP#110] gaps=0  aln=HIGH->US#96  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ダメなんですよねぇ / 　どうしてもテレポートジェム〜 / 　〜あ、間移用アイテム使うのニガテなんです[10][0c]「魔法を訪強しているんですけど / 　あのアイテムだけは / 　なんかもう、相性わるくて〜
+  2|LIT: <<TODO>>
+  3|EN : @I just can't get the hang of
+ the Teleport Gem, you know, an
+ item used for moving around.@I'm studying magic, and this
+ one item just seems to have it
+ in for me or something.
+  4|RE : <<TODO>>
+
+[JP#111] gaps=0  aln=HIGH->US#97  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「魔法を訪強しているんですけど / 　あのアイテムだけは / 　なんかもう、相性わるくて〜
+  2|LIT: <<TODO>>
+  3|EN : @I'm studying magic, and this
+ one item just seems to have it
+ in for me or something.
+  4|RE : <<TODO>>
+
+[JP#112] gaps=6  aln=HIGH->US#98  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「<8943>えばねー、<8a4c>りがどんなにうるさくても / 　自分の名前とか、<8a4d>きな人の<883f>とか / 　不思議と聞き分けられるでしょ？[10][0c]「あれも魔法みたいなものよ / 　<f040><f042>わかる？
+  2|LIT: <<TODO>>
+  3|EN : @For instance, you can pick
+ out a loved one's voice or
+ your own name in a noisy room.@That's a kind of magic, too.
+ Get it?
+  4|RE : <<TODO>>
+
+[JP#113] gaps=2  aln=HIGH->US#99  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「あれも魔法みたいなものよ / 　<f040><f042>わかる？
+  2|LIT: <<TODO>>
+  3|EN : @That's a kind of magic, too.
+ Get it?
+  4|RE : <<TODO>>
+
+[JP#114] gaps=2  aln=HIGH->US#100  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「でも、そのうちわかるよ / 　魔法はね、誰にでも使えて / 　そして<f040><f042>[10][0c]「何でもできる力なんだから〜
+  2|LIT: <<TODO>>
+  3|EN : @But you will someday.
+ Magic is a power that anyone
+ can use...@And magic can do anything.
+  4|RE : <<TODO>>
+
+[JP#115] gaps=0  aln=MED->US#101  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「何でもできる力なんだから〜
+  2|LIT: <<TODO>>
+  3|EN : @And magic can do anything.
+  4|RE : <<TODO>>
+
+[JP#116] gaps=1  aln=HIGH->US#102  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「お兄ちゃんみたいになれるんだ / 　だから、好中で<88ab>げ出さないッ！ / 　あきらめないッ
+  2|LIT: <<TODO>>
+  3|EN : @I'm going to be like you!
+ I'll work hard and I won't
+ give up -- ever!
+  4|RE : <<TODO>>
+
+[JP#117] gaps=1  aln=HIGH->US#103  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「お兄ちゃんみたいになれるんだ / 　だから、好中で<88ab>げ出さないッ！ / 　あきらめないッ
+  2|LIT: <<TODO>>
+  3|EN : @I'm going to be like you!
+ I'll work hard and I won't
+ give up -- ever!
+  4|RE : <<TODO>>
+
+[JP#118] gaps=6  aln=HIGH->US#104  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「<f040><f041><f042>ほうほう、空を元に戻す為に / 　レイポイントなるモノを探していると？ / 　それは、ご<8930><8931>なことだのう[10][0c]「ふ〜む、お前さんの探しているモノかどうか / 　分からんが、[11]お北の方[11]ぉに / 　なんでも、<8a53>を勉っておる所があるそうだよ
+  2|LIT: <<TODO>>
+  3|EN : @Looking for the Raypoints to
+ fix the sky, are you? Ha ha!
+ It's a fine thing you're doing.@I don't know if this will help,
+ but 1to the north0 is a place
+ where flame is worshipped.
+  4|RE : <<TODO>>
+
+[JP#119] gaps=1  aln=HIGH->US#105  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「ふ〜む、お前さんの探しているモノかどうか / 　分からんが、[11]お北の方[11]ぉに / 　なんでも、<8a53>を勉っておる所があるそうだよ
+  2|LIT: <<TODO>>
+  3|EN : @I don't know if this will help,
+ but 1to the north0 is a place
+ where flame is worshipped.
+  4|RE : <<TODO>>
+
+[JP#120] gaps=4  aln=HIGH->US#106  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「<f040><f041><f042>ほうほう / 　お前さんたちは空を元に戻す為に / 　レイポイントなるモノを探していると？[10][0c]「ふ〜む、お前さんの探しているモノかどうか / 　分からんが、[11]お北の方[11]ぉに / 　なんでも、<8a53>を勉っておる所があるそうだよ
+  2|LIT: <<TODO>>
+  3|EN : @Looking for the Raypoints to
+ fix the sky, are you? Ha ha!
+ It's a fine thing you're doing.@I don't know if this will help,
+ but 1to the north0 is a place
+ where flame is worshipped.
+  4|RE : <<TODO>>
+
+[JP#121] gaps=1  aln=HIGH->US#107  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「ふ〜む、お前さんの探しているモノかどうか / 　分からんが、[11]お北の方[11]ぉに / 　なんでも、<8a53>を勉っておる所があるそうだよ
+  2|LIT: <<TODO>>
+  3|EN : @I don't know if this will help,
+ but 1to the north0 is a place
+ where flame is worshipped.
+  4|RE : <<TODO>>
+
+[JP#122] gaps=1  aln=HIGH->US#108  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「遠の<8a57>り入れ時望と / 　ほぼ同じだったからよくおぼえているよ
+  2|LIT: <<TODO>>
+  3|EN : @I remember because it was the
+ start of the wheat harvest.
+  4|RE : <<TODO>>
+
+[JP#123] gaps=0  aln=HIGH->US#109  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「おひとり方につき一緒[02]ギャラ / 　[02]人方ですので、[02]ギャラとなります / 　よろしいですか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @The rate is  Gella/night per
+ person. So  people makes
+  Gella total. OK?2
+  4|RE : <<TODO>>
+
+[JP#124] gaps=1  aln=HIGH->US#110  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<8a5c>物茶の中は今 / 　パレス遠でいっぱいだよ
+  2|LIT: <<TODO>>
+  3|EN : @Now the granary is full of
+ Palace wheat!
+  4|RE : <<TODO>>
+
+[JP#125] gaps=2  aln=HIGH->US#111  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>で、今守は僕の番ってワケ / 　かったりぃよな、まったく〜
+  2|LIT: <<TODO>>
+  3|EN : @Tonight it's my turn.
+ Argh, I'm just bushed.
+  4|RE : <<TODO>>
+
+[JP#126] gaps=2  aln=HIGH->US#112  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「彼らなら、こんな誓<8810> / 　<8a65>男に解決してくれるだろうからね
+  2|LIT: <<TODO>>
+  3|EN : @I'm sure they can handle the
+ monsters with no problem.
+  4|RE : <<TODO>>
+
+[JP#127] gaps=2  aln=HIGH->US#113  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「ところで、お<8a6a>ちゃんは / 　どこから<8a55>たんだい？
+  2|LIT: <<TODO>>
+  3|EN : @So where do you come from,
+ young lady?
+  4|RE : <<TODO>>
+
+[JP#128] gaps=3  aln=HIGH->US#114  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「<8939>魂した遠は / 　<8a5c>物茶に / 　たっぷり<8a6b>えられているんだよ
+  2|LIT: <<TODO>>
+  3|EN : @The granary is chock
+ full of the wheat
+ we harvested.
+  4|RE : <<TODO>>
+
+[JP#129] gaps=4  aln=HIGH->US#115  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「あの家に<89ba>いに<8a55>てくれたの？ / 　多分、外にいると思うんだけど〜[10][0c]「空があんな<89f9>でしょ / 　外に出ちゃダメって言ってるのに / 　険<8844>聞いてくれないの
+  2|LIT: <<TODO>>
+  3|EN : @Did you come to see HIM?
+ He's probably outside.@I told him not to go outside
+ because of the strange sky
+ but he just won't listen.
+  4|RE : <<TODO>>
+
+[JP#130] gaps=2  aln=MED->US#116  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「空があんな<89f9>でしょ / 　外に出ちゃダメって言ってるのに / 　険<8844>聞いてくれないの
+  2|LIT: <<TODO>>
+  3|EN : @I told him not to go outside
+ because of the strange sky
+ but he just won't listen.
+  4|RE : <<TODO>>
+
+[JP#131] gaps=2  aln=MED->US#117  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「今回の事<8854>なんかには / 　<8a72>任なんだけど〜
+  2|LIT: <<TODO>>
+  3|EN : @They'd be perfect for a job
+ like this.
+  4|RE : <<TODO>>
+
+[JP#132] gaps=0  aln=MED->US#118  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「〜あのさ、この変な空も / 　お兄ちゃんの魔法で元どおりに / 　できないかな〜？
+  2|LIT: <<TODO>>
+  3|EN : @Can you, um, fix the sky
+ with your magic?
+  4|RE : <<TODO>>
+
+[JP#133] gaps=0  aln=HIGH->US#119  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜でも、空が変になってなければ / 　もっと良かったのにな〜
+  2|LIT: <<TODO>>
+  3|EN : @I'd be even happier if the sky
+ wasn't so weird now.
+  4|RE : <<TODO>>
+
+[JP#134] gaps=1  aln=HIGH->US#120  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「国の人はまだ、誰もケガしてないから / 　ひと危心だよね[10][0c]「でも、いつ<8a0a>われるかわからないから / 　今守もお押さんは / 　パトロールに出ているんだ
+  2|LIT: <<TODO>>
+  3|EN : @At least no one in the village
+ has been harmed so far.@But my dad is out patrolling
+ to make sure those monsters
+ don't try anything.
+  4|RE : <<TODO>>
+
+[JP#135] gaps=1  aln=HIGH->US#121  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「でも、いつ<8a0a>われるかわからないから / 　今守もお押さんは / 　パトロールに出ているんだ
+  2|LIT: <<TODO>>
+  3|EN : @But my dad is out patrolling
+ to make sure those monsters
+ don't try anything.
+  4|RE : <<TODO>>
+
+[JP#136] gaps=1  aln=HIGH->US#122  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「国のみんなに / 　いろいろ<8a7a>いてみたらどうかな？
+  2|LIT: <<TODO>>
+  3|EN : @So why not start by asking the
+ villagers what they know?
+  4|RE : <<TODO>>
+
+[JP#137] gaps=3  aln=HIGH->US#123  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「<8939>魂した遠は / 　ホラ、国の北側の<8a5c>物茶に / 　<8a6b>えられているんだよ
+  2|LIT: <<TODO>>
+  3|EN : @The wheat we harvested is in
+ the granary over there, in the
+ northeast part of the village.
+  4|RE : <<TODO>>
+
+[JP#138] gaps=6  aln=HIGH->US#124  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「知っているかな？ / 　その方級は<8a8c><8a6d>といって / 　良くないことがやってくる方級なんだ[10][0c]「ここ、パレスヴィレッジでは / 　<8a5c>物茶の<89c5>っているあたり〜 / 　<f040><f042>そう、北側のことだね
+  2|LIT: <<TODO>>
+  3|EN : @The northeast is an unlucky
+ direction. Bad things always
+ come from the northeast.@And guess where the granary
+ in Palace Village is. Right.
+ In the northeast part of town.
+  4|RE : <<TODO>>
+
+[JP#139] gaps=4  aln=HIGH->US#125  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ここ、パレスヴィレッジでは / 　<8a5c>物茶の<89c5>っているあたり〜 / 　<f040><f042>そう、北側のことだね
+  2|LIT: <<TODO>>
+  3|EN : @And guess where the granary
+ in Palace Village is. Right.
+ In the northeast part of town.
+  4|RE : <<TODO>>
+
+[JP#140] gaps=2  aln=HIGH->US#126  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「こんな村<8a8d>の国に / 　やって<8a55>るような『渡り挑』なんて / 　そうそういるもんじゃないさ
+  2|LIT: <<TODO>>
+  3|EN : @But there aren't many Mercs
+ who'd come to a backwater
+ like this village.
+  4|RE : <<TODO>>
+
+[JP#141] gaps=3  aln=HIGH->US#127  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「『食べ物の<8a8e>みは<889c>ろしい』〜ってね / 　よほど勝の怪物の / 　乗分された活いは強いらしいの[10][0c]「<8894>く気を集めて / 　空を元に戻してくれんかのぉ
+  2|LIT: <<TODO>>
+  3|EN : @I heard they used a strong
+ curse to get the monsters out
+ of the wheat fields.@I wish they'd settle down
+ and make the sky normal again.
+  4|RE : <<TODO>>
+
+[JP#142] gaps=1  aln=HIGH->US#128  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<8894>く気を集めて / 　空を元に戻してくれんかのぉ
+  2|LIT: <<TODO>>
+  3|EN : @I wish they'd settle down
+ and make the sky normal again.
+  4|RE : <<TODO>>
+
+[JP#143] gaps=2  aln=HIGH->US#129  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「この変な空の<89af><89b0>は / 　前に勝の怪物を乗分した活いに / 　違いあるまいてッ！
+  2|LIT: <<TODO>>
+  3|EN : @The curse they used to get the
+ monsters out of the fields is
+ what's making the sky weird!
+  4|RE : <<TODO>>
+
+[JP#144] gaps=2  aln=HIGH->US#130  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「勝の<8a91>ん中で / 　もんぎゅもんぎゅ、遠を食っている / 　谷のような怪物の<8a92>をッ！[10][0c]「この更はきっと / 　国の人間が / 　食われる番に違いあるまいてッ！
+  2|LIT: <<TODO>>
+  3|EN : @I saw a huge monster chomping
+ wheat right in the middle of
+ the wheat fields!@Next it's the villagers
+ who are going to be eaten!
+ I just know it!
+  4|RE : <<TODO>>
+
+[JP#145] gaps=0  aln=HIGH->US#131  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「この更はきっと / 　国の人間が / 　食われる番に違いあるまいてッ！
+  2|LIT: <<TODO>>
+  3|EN : @Next it's the villagers
+ who are going to be eaten!
+ I just know it!
+  4|RE : <<TODO>>
+
+[JP#146] gaps=3  aln=HIGH->US#132  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「こーいう時は国で一番可愛い<8a93>が / 　イケニエになるんだよね？ / 　ああ、わたしってば<8a94><8a95>のヒロインだわ
+  2|LIT: <<TODO>>
+  3|EN : @In times like this, they always
+ sacrifice the prettiest girl,
+ and that's me. Oh, poor me!
+  4|RE : <<TODO>>
+
+[JP#147] gaps=2  aln=MED->US#133  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「そうねぇ、おばあちゃんは / 　活いだタタリだって言ってるけど / 　わたしが可愛いから<8a96>方が珍<8a98>してるのよ
+  2|LIT: <<TODO>>
+  3|EN : @The old lady says it's a curse
+ but I think God is jealous of
+ of me for being so pretty.
+  4|RE : <<TODO>>
+
+[JP#148] gaps=0  aln=MED->US#134  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そうねぇ、わたしが何とかするって / 　いつも言ってたんだけど / 　パパとママが反対するのよ[10][0c]「だってホラ、わたしこんなに可愛いし〜
+  2|LIT: <<TODO>>
+  3|EN : @I kept saying I would get rid
+ of them, but mom and dad
+ wouldn't let me.@It's because I'm so pretty.
+  4|RE : <<TODO>>
+
+[JP#149] gaps=0  aln=HIGH->US#135  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「だってホラ、わたしこんなに可愛いし〜
+  2|LIT: <<TODO>>
+  3|EN : @It's because I'm so pretty.
+  4|RE : <<TODO>>
+
+[JP#150] gaps=1  aln=HIGH->US#136  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そんなのイヤよ / 　私、まだ<8a75>もロクにしてないのに〜
+  2|LIT: <<TODO>>
+  3|EN : @I won't allow it! I haven't
+ met my Prince Charming yet!
+  4|RE : <<TODO>>
+
+[JP#151] gaps=2  aln=HIGH->US#137  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「だって、遠勝ばかり<8a0a>われるんですもの / 　そう考える方が / 　<8a99>加だと思うんだけど
+  2|LIT: <<TODO>>
+  3|EN : @The monsters are raiding our
+ wheat. What's wrong with
+ looking at it that way?
+  4|RE : <<TODO>>
+
+[JP#152] gaps=2  aln=HIGH->US#138  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「パレス遠の<8939>魂で / 　<8a9f>ただしかったから / 　よくおぼえているよ
+  2|LIT: <<TODO>>
+  3|EN : @I remember it well because we
+ were busy harvesting the
+ Palace wheat.
+  4|RE : <<TODO>>
+
+[JP#153] gaps=2  aln=HIGH->US#139  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「あの加り空が変になってるけど / 　<8aa0><88cc>するわよ
+  2|LIT: <<TODO>>
+  3|EN : @As you see, the sky turned
+ weird, but I welcome it.
+  4|RE : <<TODO>>
+
+[JP#154] gaps=2  aln=HIGH->US#140  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「いえね、以前にこの国に<8aa3>れた昔の家が / 　怪物を乗分してくれたんですよ / 　とっても、元気な<8a93>でしたよ
+  2|LIT: <<TODO>>
+  3|EN : @A girl came to our village and
+ saved us from the monsters.
+ She was a spunky little thing.
+  4|RE : <<TODO>>
+
+[JP#155] gaps=1  aln=MED->US#141  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「これまでは / 　勝ばかりが<8aa5>らされていたからね
+  2|LIT: <<TODO>>
+  3|EN : @Only our fields were
+ damaged... so far.
+  4|RE : <<TODO>>
+
+[JP#156] gaps=0  aln=MED->US#142  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#157] gaps=16  aln=MED->US#143  CONF=SHAKY unsolved=16  CONF=SHAKY unsolved=15
+  1|JP : ＊<8aab>星と流星の違いを / 　ご存知だろうか？[10][0c]＊他<8aad>体の欠<8ab0>が / 　招力によって<8ab1>星に招きつけられ / 　大気<8ab2>に突入したものを『流星』と呼ぶ[10][0c]＊『<8aab>星』は<8ab3>星に対して / 　一奮の<8aac>道を運行する星を指し / 　<8a4c>望を持って現れるという〜[10][0c]＊多くの<8a48>を<8ab4>めた<8aab>星には / 　方々な<8ab5>話が残されている[10][0c]＊とくに、不<8ab6>の<8ab7>（しょう）と / 　<88a6>えられることもしばしばである / 　だが、その理由は次らかにされていない
+  2|LIT: <<TODO>>
+  3|EN : *But do you know the
+ difference between a comet
+ and a meteor?*A meteor is a meteoroid that
+ is drawn by gravity into the
+ atmosphere.*A comet, unlike a star,
+ travels in a fixed orbit and
+ appears at regular intervals.*Steeped in mystery, comets
+ have inspired many folk tales.*Some superstitions claim
+ comets to be bad omens,
+ but no one knows why.
+  4|RE : <<TODO>>
+
+[JP#158] gaps=15  aln=HIGH->US#144  CONF=SHAKY unsolved=15  CONF=SHAKY unsolved=14
+  1|JP : ＊他<8aad>体の欠<8ab0>が / 　招力によって<8ab1>星に招きつけられ / 　大気<8ab2>に突入したものを『流星』と呼ぶ[10][0c]＊『<8aab>星』は<8ab3>星に対して / 　一奮の<8aac>道を運行する星を指し / 　<8a4c>望を持って現れるという〜[10][0c]＊多くの<8a48>を<8ab4>めた<8aab>星には / 　方々な<8ab5>話が残されている[10][0c]＊とくに、不<8ab6>の<8ab7>（しょう）と / 　<88a6>えられることもしばしばである / 　だが、その理由は次らかにされていない
+  2|LIT: <<TODO>>
+  3|EN : *A meteor is a meteoroid that
+ is drawn by gravity into the
+ atmosphere.*A comet, unlike a star,
+ travels in a fixed orbit and
+ appears at regular intervals.*Steeped in mystery, comets
+ have inspired many folk tales.*Some superstitions claim
+ comets to be bad omens,
+ but no one knows why.
+  4|RE : <<TODO>>
+
+[JP#159] gaps=11  aln=HIGH->US#145  CONF=SHAKY unsolved=11  CONF=SHAKY unsolved=10
+  1|JP : ＊『<8aab>星』は<8ab3>星に対して / 　一奮の<8aac>道を運行する星を指し / 　<8a4c>望を持って現れるという〜[10][0c]＊多くの<8a48>を<8ab4>めた<8aab>星には / 　方々な<8ab5>話が残されている[10][0c]＊とくに、不<8ab6>の<8ab7>（しょう）と / 　<88a6>えられることもしばしばである / 　だが、その理由は次らかにされていない
+  2|LIT: <<TODO>>
+  3|EN : *A comet, unlike a star,
+ travels in a fixed orbit and
+ appears at regular intervals.*Steeped in mystery, comets
+ have inspired many folk tales.*Some superstitions claim
+ comets to be bad omens,
+ but no one knows why.
+  4|RE : <<TODO>>
+
+[JP#160] gaps=7  aln=HIGH->US#146  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : ＊多くの<8a48>を<8ab4>めた<8aab>星には / 　方々な<8ab5>話が残されている[10][0c]＊とくに、不<8ab6>の<8ab7>（しょう）と / 　<88a6>えられることもしばしばである / 　だが、その理由は次らかにされていない
+  2|LIT: <<TODO>>
+  3|EN : *Steeped in mystery, comets
+ have inspired many folk tales.*Some superstitions claim
+ comets to be bad omens,
+ but no one knows why.
+  4|RE : <<TODO>>
+
+[JP#161] gaps=3  aln=HIGH->US#147  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : ＊とくに、不<8ab6>の<8ab7>（しょう）と / 　<88a6>えられることもしばしばである / 　だが、その理由は次らかにされていない
+  2|LIT: <<TODO>>
+  3|EN : *Some superstitions claim
+ comets to be bad omens,
+ but no one knows why.
+  4|RE : <<TODO>>
+
+[JP#163] gaps=7  aln=HIGH->US#149  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「これって<8ab8>対 / 　国とか、国の人じゃなくて / 　<8939>魂した遠が<89d0>われているってことよね[10][0c]「<889a><889b>にあっているのが / 　遠や遠勝ばっかりで / 　国の人には危<889b>を<8ab9>えてないんだもの〜[10][0c]「そういえば / 　怪物が現われる場所って / 　北側の〜
+  2|LIT: <<TODO>>
+  3|EN : @The monsters aren't after the
+ village or the villagers. They
+ are after the wheat harvest.@No one has been hurt. The
+ damage is limited to the wheat
+ and the wheat field.@Come to think of it, the
+ monsters always appear
+ in the northeast.
+  4|RE : <<TODO>>
+
+[JP#164] gaps=4  aln=HIGH->US#150  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「<889a><889b>にあっているのが / 　遠や遠勝ばっかりで / 　国の人には危<889b>を<8ab9>えてないんだもの〜[10][0c]「そういえば / 　怪物が現われる場所って / 　北側の〜
+  2|LIT: <<TODO>>
+  3|EN : @No one has been hurt. The
+ damage is limited to the wheat
+ and the wheat field.@Come to think of it, the
+ monsters always appear
+ in the northeast.
+  4|RE : <<TODO>>
+
+[JP#165] gaps=0  aln=HIGH->US#151  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「そういえば / 　怪物が現われる場所って / 　北側の〜
+  2|LIT: <<TODO>>
+  3|EN : @Come to think of it, the
+ monsters always appear
+ in the northeast.
+  4|RE : <<TODO>>
+
+[JP#168] gaps=2  aln=MED->US#154  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「でも、ちょっとくらいは / 　落ち着いて<8aba><8abb>してくださーいッ！[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @Don't panic!
+ Just find someplace
+ safe to hide!
+  4|RE : <<TODO>>
+
+[JP#171] gaps=0  aln=HIGH->US#157  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「やっぱり、お兄ちゃんの魔法って / 　すごいんだッ！
+  2|LIT: <<TODO>>
+  3|EN : @Wow, your magic is
+ powerful after all!
+  4|RE : <<TODO>>
+
+[JP#172] gaps=1  aln=HIGH->US#158  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : ＊『本体』には、名前が表<893a>されており / 　ここのＨＰを０にすることで / 　ボスキャラクターを倒すことができます[10][0c]＊『苦字級』のＨＰを０にしても / 　ボスキャラクターを倒すことはできませんが / 　その分のＥＸＰやギャラを獲得できます
+  2|LIT: <<TODO>>
+  3|EN : *The body bears its name.
+ The boss monster is defeated
+ when the body HP reaches 0.*When a limb drops to 0 HP, the
+ Boss is not defeated but you
+ earn experience and Gella.
+  4|RE : <<TODO>>
+
+[JP#173] gaps=0  aln=MED->US#159  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊『苦字級』のＨＰを０にしても / 　ボスキャラクターを倒すことはできませんが / 　その分のＥＸＰやギャラを獲得できます
+  2|LIT: <<TODO>>
+  3|EN : *When a limb drops to 0 HP, the
+ Boss is not defeated but you
+ earn experience and Gella.
+  4|RE : <<TODO>>

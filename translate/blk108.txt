@@ -1,0 +1,509 @@
+# WA2 4-col translation doc block 108 (JP#8136-8194)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 57 boxes | OK=19 FAIR=13 SHAKY=25 JP-ONLY=0
+# DRAFT STATUS: 57 boxes | OK=19 FAIR=13 SHAKY=25 JP-ONLY=0
+
+[JP#8137] gaps=0  aln=HIGH->US#7960  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8138] gaps=2  aln=HIGH->US#7961  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8139] gaps=0  aln=HIGH->US#7962  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8140] gaps=9  aln=HIGH->US#7963  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=6
+  1|JP : 「ＡＲＭＳによる / 　伝ライブリフレクターの自由使用<88b2>が / 　幸<8a34>に<8978>泣されました[10][0c]「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @All three countries cede
+ the right to use the respective
+ Live Reflectors to the ARMS.@For the next 12 hours,
+ all the Live Reflectors are under
+ the control of the ARMS.@We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+  4|RE : <<TODO>>
+
+[JP#8141] gaps=6  aln=HIGH->US#7964  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=4
+  1|JP : 「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @For the next 12 hours,
+ all the Live Reflectors are under
+ the control of the ARMS.@We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8142] gaps=6  aln=HIGH->US#7965  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=4
+  1|JP : 「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8143] gaps=4  aln=MED->US#7966  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8144] gaps=3  aln=HIGH->US#7967  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8145] gaps=0  aln=HIGH->US#7968  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8146] gaps=0  aln=HIGH->US#7969  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8147] gaps=0  aln=HIGH->US#7970  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8148] gaps=0  aln=MED->US#7971  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8149] gaps=2  aln=MED->US#7971  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8150] gaps=0  aln=HIGH->US#7971  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8151] gaps=9  aln=HIGH->US#7972  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=6
+  1|JP : 「ＡＲＭＳによる / 　伝ライブリフレクターの自由使用<88b2>が / 　幸<8a34>に<8978>泣されました[10][0c]「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @All three countries cede
+ the right to use the respective
+ Live Reflectors to the ARMS.@For the next 12 hours,
+ all the Live Reflectors are under
+ the control of the ARMS.@We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+  4|RE : <<TODO>>
+
+[JP#8152] gaps=6  aln=HIGH->US#7973  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=4
+  1|JP : 「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @For the next 12 hours,
+ all the Live Reflectors are under
+ the control of the ARMS.@We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8153] gaps=6  aln=HIGH->US#7974  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=4
+  1|JP : 「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8154] gaps=4  aln=MED->US#7975  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8155] gaps=3  aln=HIGH->US#7976  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8156] gaps=0  aln=HIGH->US#7977  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8157] gaps=0  aln=HIGH->US#7978  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8158] gaps=0  aln=HIGH->US#7979  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8159] gaps=0  aln=MED->US#7980  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8160] gaps=2  aln=MED->US#7980  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8161] gaps=0  aln=HIGH->US#7980  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8162] gaps=9  aln=HIGH->US#7981  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=6
+  1|JP : 「ＡＲＭＳによる / 　伝ライブリフレクターの自由使用<88b2>が / 　幸<8a34>に<8978>泣されました[10][0c]「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @All three countries cede
+ the right to use the respective
+ Live Reflectors to the ARMS.@For the next 12 hours,
+ all the Live Reflectors are under
+ the control of the ARMS.@We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+  4|RE : <<TODO>>
+
+[JP#8163] gaps=6  aln=HIGH->US#7982  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=4
+  1|JP : 「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @For the next 12 hours,
+ all the Live Reflectors are under
+ the control of the ARMS.@We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8164] gaps=6  aln=HIGH->US#7983  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=4
+  1|JP : 「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8165] gaps=4  aln=MED->US#7984  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8166] gaps=3  aln=HIGH->US#7985  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8167] gaps=0  aln=HIGH->US#7986  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8168] gaps=0  aln=HIGH->US#7987  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8169] gaps=0  aln=HIGH->US#7988  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8170] gaps=0  aln=MED->US#7989  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8171] gaps=2  aln=MED->US#7989  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8172] gaps=0  aln=HIGH->US#7989  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8173] gaps=9  aln=HIGH->US#7990  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=6
+  1|JP : 「ＡＲＭＳによる / 　伝ライブリフレクターの自由使用<88b2>が / 　幸<8a34>に<8978>泣されました[10][0c]「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @All three countries cede
+ the right to use the respective
+ Live Reflectors to the ARMS.@For the next 12 hours,
+ all the Live Reflectors are under
+ the control of the ARMS.@We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+  4|RE : <<TODO>>
+
+[JP#8174] gaps=6  aln=HIGH->US#7991  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=4
+  1|JP : 「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @For the next 12 hours,
+ all the Live Reflectors are under
+ the control of the ARMS.@We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8175] gaps=6  aln=HIGH->US#7992  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=4
+  1|JP : 「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8176] gaps=4  aln=MED->US#7993  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8177] gaps=3  aln=HIGH->US#7994  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8178] gaps=0  aln=HIGH->US#7995  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8179] gaps=0  aln=HIGH->US#7996  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8180] gaps=0  aln=HIGH->US#7997  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8181] gaps=0  aln=MED->US#7998  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8182] gaps=2  aln=MED->US#7998  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8183] gaps=0  aln=HIGH->US#7998  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8184] gaps=9  aln=HIGH->US#7999  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=6
+  1|JP : 「ＡＲＭＳによる / 　伝ライブリフレクターの自由使用<88b2>が / 　幸<8a34>に<8978>泣されました[10][0c]「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @All three countries cede
+ the right to use the respective
+ Live Reflectors to the ARMS.@For the next 12 hours,
+ all the Live Reflectors are under
+ the control of the ARMS.@We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+  4|RE : <<TODO>>
+
+[JP#8185] gaps=6  aln=HIGH->US#8000  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=4
+  1|JP : 「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @For the next 12 hours,
+ all the Live Reflectors are under
+ the control of the ARMS.@We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8186] gaps=6  aln=HIGH->US#8001  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=4
+  1|JP : 「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8187] gaps=4  aln=MED->US#8002  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8188] gaps=3  aln=MED->US#8003  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  2|LIT: <<TODO>>
+  3|EN : @Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8189] gaps=0  aln=MED->US#8004  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8190] gaps=0  aln=MED->US#8005  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8191] gaps=0  aln=MED->US#8006  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : [10][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8193] gaps=0  aln=MED->US#8010  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : [07]アァ[80][02]ぉ#チ
+  2|LIT: <<TODO>>
+  3|EN : @We hereby commence the
+ maneuver to capture the encroaching
+ parallel universe, the Kuiper Belt!@Connect via the wireless
+ each Live Reflector to the Mana
+ released from the Raypoints.@Adjustment of the reflection angle
+ ...Imprisonment by the life energy
+ Mana... Deploy the Trapezohedron!
+  4|RE : <<TODO>>
+
+[JP#8194] gaps=0  aln=MED->US#8013  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : [07]アァ[80][02]ぉ#チ
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>

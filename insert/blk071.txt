@@ -1,0 +1,77 @@
+# WA2 INSERTION workspace US block 71 (US#7236-7248)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7237] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7385[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7238] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7386[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7239] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7387[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7240] budget=27ch/2ln
+  NOW: Haven't you heard
+          the plan?
+  JP : JP#7388[HIGH]: 「〜手はずを / 　聞いていないのか？
+  FIT: <<TODO — <=27 chars, 2 line(s), <=35/line>>
+
+[US#7241] budget=50ch/2ln
+  NOW: Looks like we've finally
+          been able to meet safely.
+  JP : JP#7389[HIGH]: 「どうやら無事に / 　出<8a34>えたようだな
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#7242] budget=75ch/3ln
+  NOW: |Everything is going according
+          to your plan.| Is that what you
+          were hoping?
+  JP : JP#7390[MED]: 「すべては / 　あなたの特泣どおり〜 / 　<f040><f042>と、いうわけですか〜？
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#7243] budget=89ch/3ln
+  NOW: I don't think anyone would object
+          if I said that getting 1
+          out of Illsveil was a success.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#7244] budget=45ch/2ln
+  NOW: need to do for the people is
+          trust your team!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#7245] budget=59ch/3ln
+  NOW: I won't permit you to
+          move us around like pawns
+          ever again!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#7246] budget=31ch/2ln
+  NOW: I can hardly walk without
+          them.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=31 chars, 2 line(s), <=35/line>>
+
+[US#7247] budget=33ch/1ln
+  NOW: Or was that merely a coincidence?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=33 chars, 1 line(s), <=35/line>>
+
+[US#7248] budget=17ch/1ln
+  NOW: Time to withdraw!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=17 chars, 1 line(s), <=35/line>>

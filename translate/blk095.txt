@@ -1,0 +1,212 @@
+# WA2 4-col translation doc block 95 (JP#7913-7948)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 30 boxes | OK=20 FAIR=5 SHAKY=5 JP-ONLY=0
+# DRAFT STATUS: 30 boxes | OK=20 FAIR=5 SHAKY=5 JP-ONLY=0
+
+[JP#7914] gaps=0  aln=HIGH->US#7727  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7915] gaps=2  aln=HIGH->US#7728  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7916] gaps=0  aln=HIGH->US#7729  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7917] gaps=0  aln=HIGH->US#7730  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「何よりも大きな力だ〜
+  2|LIT: <<TODO>>
+  3|EN : @It's the greatest power known!
+  4|RE : <<TODO>>
+
+[JP#7918] gaps=5  aln=HIGH->US#7731  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=3
+  1|JP : 「周魔<8a34><8883>の仲<8883>を / 　私たちに守<8842>したのでしょうか？[10][0c]「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  2|LIT: <<TODO>>
+  3|EN : @Did he urge the Demon
+ Summoning on us?@I can't believe that man
+ is sympathetic to our ideals.
+  4|RE : <<TODO>>
+
+[JP#7919] gaps=1  aln=MED->US#7732  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  2|LIT: <<TODO>>
+  3|EN : @I can't believe that man
+ is sympathetic to our ideals.
+  4|RE : <<TODO>>
+
+[JP#7921] gaps=0  aln=HIGH->US#7734  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7922] gaps=2  aln=HIGH->US#7735  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7923] gaps=0  aln=HIGH->US#7736  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7924] gaps=0  aln=HIGH->US#7737  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「何よりも大きな力だ〜
+  2|LIT: <<TODO>>
+  3|EN : @It's the greatest power known!
+  4|RE : <<TODO>>
+
+[JP#7925] gaps=5  aln=HIGH->US#7738  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=3
+  1|JP : 「周魔<8a34><8883>の仲<8883>を / 　私たちに守<8842>したのでしょうか？[10][0c]「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  2|LIT: <<TODO>>
+  3|EN : @Did he urge the Demon
+ Summoning on us?@I can't believe that man
+ is sympathetic to our ideals.
+  4|RE : <<TODO>>
+
+[JP#7926] gaps=1  aln=MED->US#7739  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  2|LIT: <<TODO>>
+  3|EN : @I can't believe that man
+ is sympathetic to our ideals.
+  4|RE : <<TODO>>
+
+[JP#7928] gaps=0  aln=HIGH->US#7741  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7929] gaps=2  aln=HIGH->US#7742  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7930] gaps=0  aln=HIGH->US#7743  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7931] gaps=0  aln=HIGH->US#7744  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「何よりも大きな力だ〜
+  2|LIT: <<TODO>>
+  3|EN : @It's the greatest power known!
+  4|RE : <<TODO>>
+
+[JP#7932] gaps=5  aln=HIGH->US#7745  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=3
+  1|JP : 「周魔<8a34><8883>の仲<8883>を / 　私たちに守<8842>したのでしょうか？[10][0c]「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  2|LIT: <<TODO>>
+  3|EN : @Did he urge the Demon
+ Summoning on us?@I can't believe that man
+ is sympathetic to our ideals.
+  4|RE : <<TODO>>
+
+[JP#7933] gaps=1  aln=MED->US#7746  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  2|LIT: <<TODO>>
+  3|EN : @I can't believe that man
+ is sympathetic to our ideals.
+  4|RE : <<TODO>>
+
+[JP#7935] gaps=0  aln=HIGH->US#7748  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7936] gaps=2  aln=HIGH->US#7749  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7937] gaps=0  aln=HIGH->US#7750  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7938] gaps=0  aln=HIGH->US#7751  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「何よりも大きな力だ〜
+  2|LIT: <<TODO>>
+  3|EN : @It's the greatest power known!
+  4|RE : <<TODO>>
+
+[JP#7939] gaps=5  aln=HIGH->US#7752  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=3
+  1|JP : 「周魔<8a34><8883>の仲<8883>を / 　私たちに守<8842>したのでしょうか？[10][0c]「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  2|LIT: <<TODO>>
+  3|EN : @Did he urge the Demon
+ Summoning on us?@I can't believe that man
+ is sympathetic to our ideals.
+  4|RE : <<TODO>>
+
+[JP#7940] gaps=1  aln=MED->US#7753  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  2|LIT: <<TODO>>
+  3|EN : @I can't believe that man
+ is sympathetic to our ideals.
+  4|RE : <<TODO>>
+
+[JP#7942] gaps=0  aln=HIGH->US#7755  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7943] gaps=2  aln=HIGH->US#7756  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7944] gaps=0  aln=HIGH->US#7757  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7945] gaps=0  aln=HIGH->US#7758  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「何よりも大きな力だ〜
+  2|LIT: <<TODO>>
+  3|EN : @It's the greatest power known!
+  4|RE : <<TODO>>
+
+[JP#7946] gaps=5  aln=HIGH->US#7759  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=3
+  1|JP : 「周魔<8a34><8883>の仲<8883>を / 　私たちに守<8842>したのでしょうか？[10][0c]「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  2|LIT: <<TODO>>
+  3|EN : @Did he urge the Demon
+ Summoning on us?@I can't believe that man
+ is sympathetic to our ideals.
+  4|RE : <<TODO>>
+
+[JP#7947] gaps=1  aln=MED->US#7760  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  2|LIT: <<TODO>>
+  3|EN : @I can't believe that man
+ is sympathetic to our ideals.
+  4|RE : <<TODO>>

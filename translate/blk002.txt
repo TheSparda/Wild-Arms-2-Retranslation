@@ -1,0 +1,1016 @@
+# WA2 4-col translation doc block 2 (JP#175-308)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 128 boxes | OK=36 FAIR=67 SHAKY=25 JP-ONLY=0
+# DRAFT STATUS: 128 boxes | OK=35 FAIR=65 SHAKY=28 JP-ONLY=0
+
+[JP#176] gaps=0  aln=MED->US#161  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#177] gaps=2  aln=MED->US#162  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#178] gaps=0  aln=MED->US#163  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#179] gaps=1  aln=MED->US#164  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「死んでるみたいに<89bb>っているから / 　心配したのよ / 　もう起きてこないんじゃないかって
+  2|LIT: <<TODO>>
+  3|EN : @You were sleeping so deeply,
+ I thought you'd never wake up.
+  4|RE : <<TODO>>
+
+[JP#180] gaps=1  aln=MED->US#165  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「もう片はいないんだけどね[10][0c]「わたしはメリル / 　ねぇ、今度はわたしが<886e>誓してもいい？[10]
+  2|LIT: <<TODO>>
+  3|EN : @But all the horses are gone.@My name's Merrill. Now can I
+ ask you something?
+  4|RE : <<TODO>>
+
+[JP#181] gaps=1  aln=MED->US#166  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「わたしはメリル / 　ねぇ、今度はわたしが<886e>誓してもいい？[10]
+  2|LIT: <<TODO>>
+  3|EN : @My name's Merrill. Now can I
+ ask you something?
+  4|RE : <<TODO>>
+
+[JP#182] gaps=1  aln=MED->US#167  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「おじさんが<8a38>の中倒れていたの / 　知らせてくれたのは / 　この家なんだよ[10]
+  2|LIT: <<TODO>>
+  3|EN : @He is the one who told me
+ you were passed out
+ in the rain.
+  4|RE : <<TODO>>
+
+[JP#183] gaps=0  aln=HIGH->US#168  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「じゃあ、わたしが名前をつけていいよね / 　そうだなぁ〜[10]
+  2|LIT: <<TODO>>
+  3|EN : @So I guess I can name him.
+ Let's see...
+  4|RE : <<TODO>>
+
+[JP#184] gaps=0  aln=HIGH->US#169  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「待ってて / 　何か食べ物を持ってくるから
+  2|LIT: <<TODO>>
+  3|EN : @Wait!
+ I'll get you something to eat.
+  4|RE : <<TODO>>
+
+[JP#185] gaps=0  aln=HIGH->US#170  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「こわくないのか？
+  2|LIT: <<TODO>>
+  3|EN : @You're not afraid of me?
+  4|RE : <<TODO>>
+
+[JP#186] gaps=0  aln=HIGH->US#171  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「だいじょうぶ / 　わたしと[0a]ぐがいるからッ！
+  2|LIT: <<TODO>>
+  3|EN : @Don't worry,  7
+ and I will stay with you!
+  4|RE : <<TODO>>
+
+[JP#187] gaps=0  aln=MED->US#172  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そのくらいのこと / 　わからぬはずがなかろうに
+  2|LIT: <<TODO>>
+  3|EN : @Surely you realize that.
+  4|RE : <<TODO>>
+
+[JP#188] gaps=1  aln=MED->US#173  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そうだとも / 　お前は[05]お・エヴァンス / 　ほれ、落とし物を<88f8>けに助てやったぞ
+  2|LIT: <<TODO>>
+  3|EN : @So it's you, 1 Evans.
+ I came to deliver something
+ that you lost.
+  4|RE : <<TODO>>
+
+[JP#189] gaps=0  aln=MED->US#174  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「私はかまわぬが / 　この状況では関係の無い国人に / 　流れ歩があたるやも知れんぞ
+  2|LIT: <<TODO>>
+  3|EN : @That's fine by me, but realize
+ that innocent villagers may be
+ hit by stray bullets.
+  4|RE : <<TODO>>
+
+[JP#190] gaps=1  aln=MED->US#175  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「いいかい、お期ちゃん / 　あの人はね / 　『<8a43>来』なんだよ
+  2|LIT: <<TODO>>
+  3|EN : @Now listen, young lady.
+ That man is a
+ |hero.|
+  4|RE : <<TODO>>
+
+[JP#193] gaps=1  aln=MED->US#178  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「今、ケガ人の分<8a55>中なんですよ
+  2|LIT: <<TODO>>
+  3|EN : @He's helping the wounded now.
+  4|RE : <<TODO>>
+
+[JP#194] gaps=5  aln=MED->US#179  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「いいことがあったときは、[11]お先側の道貸<8a57>い[11]ぉに / 　[11]お望運を呼ぶ場所[11]ぉがあるっていうから / 　そっちに向かってお<8928>を言うんだよ[10][0c]「え？　いいこと？ / 　<f040><f041><f042>それはね / 　おじさんが助てくれたこと〜
+  2|LIT: <<TODO>>
+  3|EN : @So I'm off to a 1good-luck spot0
+ 1on the southeastern coast0
+ and say |Thank you!|@The good thing that happened?
+ You came here, that's what!
+  4|RE : <<TODO>>
+
+[JP#195] gaps=3  aln=MED->US#179  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「え？　いいこと？ / 　<f040><f041><f042>それはね / 　おじさんが助てくれたこと〜
+  2|LIT: <<TODO>>
+  3|EN : @So I'm off to a 1good-luck spot0
+ 1on the southeastern coast0
+ and say |Thank you!|@The good thing that happened?
+ You came here, that's what!
+  4|RE : <<TODO>>
+
+[JP#196] gaps=5  aln=MED->US#179  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「おじさんがこの国に助てくれるのは / 　[0a]きさんの / 　お見<8a59>いだから、だけ〜？[10][0c]「<f040><f041><f042>あ、あたしったら / 　何を言っているんだろ<f05b> / 　ご、ごめんなさい
+  2|LIT: <<TODO>>
+  3|EN : @So I'm off to a 1good-luck spot0
+ 1on the southeastern coast0
+ and say |Thank you!|@The good thing that happened?
+ You came here, that's what!
+  4|RE : <<TODO>>
+
+[JP#197] gaps=4  aln=MED->US#180  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f041><f042>あ、あたしったら / 　何を言っているんだろ<f05b> / 　ご、ごめんなさい
+  2|LIT: <<TODO>>
+  3|EN : @The good thing that happened?
+ You came here, that's what!
+  4|RE : <<TODO>>
+
+[JP#198] gaps=3  aln=HIGH->US#183  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜あの、やっぱりおじさんは / 　[0a]きさんが回復したら / 　もうこの国には、助なくなっちゃうのかな？[10][0c]「<f040><f041><f042>はッ！ / 　あたしったら、何を考えているのかしらッ！
+  2|LIT: <<TODO>>
+  3|EN : @Mister, when  4
+ gets better, does that mean
+ you won't come here anymore?@Oops. What am I saying?
+ Sorry! Never mind!
+  4|RE : <<TODO>>
+
+[JP#199] gaps=3  aln=HIGH->US#184  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f041><f042>はッ！ / 　あたしったら、何を考えているのかしらッ！
+  2|LIT: <<TODO>>
+  3|EN : @Oops. What am I saying?
+ Sorry! Never mind!
+  4|RE : <<TODO>>
+
+[JP#200] gaps=2  aln=HIGH->US#185  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「〜[0a]きさんの<8a5c>態は / 　以前とかわらないわ / 　あの、<888c>い空もね〜
+  2|LIT: <<TODO>>
+  3|EN : @ 4's condition
+ hasn't changed. Neither
+ has the dark sky.
+  4|RE : <<TODO>>
+
+[JP#201] gaps=2  aln=HIGH->US#186  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「〜[0a]きさんの<8a5c>態は / 　以前とかわらないわ / 　あの、<888c>い空もね〜
+  2|LIT: <<TODO>>
+  3|EN : @ 4's condition
+ hasn't changed. Neither
+ has the dark sky.
+  4|RE : <<TODO>>
+
+[JP#202] gaps=3  aln=HIGH->US#187  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f041><f042>？ / 　おじさん、すっきりした探になってるね / 　そう、何かふっきれたような
+  2|LIT: <<TODO>>
+  3|EN : @Hey...
+ You look different.
+ You look a lot healthier.
+  4|RE : <<TODO>>
+
+[JP#203] gaps=2  aln=HIGH->US#188  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8a5a>さんが助てくれて / 　みんな少し危心すると思うよ / 　なんたって『<8a43>来』なんだもんねッ！
+  2|LIT: <<TODO>>
+  3|EN : @Now that you are here, we
+ will feel a lot better.
+ That's 'cause you're heroes!
+  4|RE : <<TODO>>
+
+[JP#204] gaps=0  aln=HIGH->US#189  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「おじさんがいなくなって / 　わたしびっくりしたんだから / 　なんでそんな無茶をするの？
+  2|LIT: <<TODO>>
+  3|EN : @Why did you just disappear
+ like that? You didn't even
+ say goodbye!
+  4|RE : <<TODO>>
+
+[JP#205] gaps=0  aln=HIGH->US#190  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「おじさんが飛度と無茶をしないように / 　見限っていてください / 　お願いします
+  2|LIT: <<TODO>>
+  3|EN : @Please, everyone, keep an eye
+ on him so he doesn't do
+ anything like that again!
+  4|RE : <<TODO>>
+
+[JP#206] gaps=0  aln=HIGH->US#191  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「おじさんはどうしたんですか / 　なんでいないんですか？
+  2|LIT: <<TODO>>
+  3|EN : @Oh, where did he go?
+ Why isn't he with you?
+  4|RE : <<TODO>>
+
+[JP#207] gaps=0  aln=HIGH->US#192  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「あのあとおじさんが / 　無事なのかもわからなくて / 　すごく心配だったんだからッ！
+  2|LIT: <<TODO>>
+  3|EN : @I was so worried! I didn't
+ know where you went or even
+ if you were alright!
+  4|RE : <<TODO>>
+
+[JP#208] gaps=3  aln=HIGH->US#193  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : 「<8a38>の中に倒れているおじさんのことを / 　[0a]ぐが<8a39>えてくれたの / 　もう、あれから５数も<8a61>つんですね〜〜
+  2|LIT: <<TODO>>
+  3|EN : @ 7 told me he had
+ collapsed in the rain. Hard to
+ believe that was 5 years ago.
+  4|RE : <<TODO>>
+
+[JP#209] gaps=1  aln=HIGH->US#194  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「この国を延ってくれた / 　あなたへの手<8833>けにもなれんとは〜 / 　ふがいないばかりですじゃ
+  2|LIT: <<TODO>>
+  3|EN : @I'm so ashamed I can't do
+ anything for you even though
+ you protected our village.
+  4|RE : <<TODO>>
+
+[JP#210] gaps=1  aln=HIGH->US#195  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「[05]おさんのお乗間である / 　あなたへの手<8833>けにもなれんとは〜 / 　ふがいないばかりですじゃ
+  2|LIT: <<TODO>>
+  3|EN : @I'm so ashamed that I can't
+ do anything for the friends of
+ 1.
+  4|RE : <<TODO>>
+
+[JP#211] gaps=1  aln=HIGH->US#196  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「その事実が国人の心に / 　<8858>くのしかかるようでのぉ〜
+  2|LIT: <<TODO>>
+  3|EN : @It weighs heavy on the hearts
+ of everyone in the village.
+  4|RE : <<TODO>>
+
+[JP#212] gaps=0  aln=HIGH->US#197  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ただでさえ、さびれた国だったのに / 　空がこのように暗くなっては / 　国人の気力がなくなっていくのでは、と〜
+  2|LIT: <<TODO>>
+  3|EN : @This place was dreary enough
+ as it was, but this dark sky
+ is sapping everyone's energy!
+  4|RE : <<TODO>>
+
+[JP#213] gaps=1  aln=HIGH->US#198  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「[05]おさんの / 　無事な<8a64>を見れば / 　メリルも危心しますじゃ
+  2|LIT: <<TODO>>
+  3|EN : @Merrill will be so relieved
+ to see that you're safe,
+ 1.
+  4|RE : <<TODO>>
+
+[JP#214] gaps=2  aln=HIGH->US#199  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「見ての加りの村<8a65>の国のため / 　世の情男には<8a67>いのですじゃ
+  2|LIT: <<TODO>>
+  3|EN : @In this remote village, we see
+ little of worldly goings-on.
+  4|RE : <<TODO>>
+
+[JP#215] gaps=0  aln=HIGH->US#200  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]おさんがおられないようじゃが / 　単の任務にでも / 　魂かれておいでなのですかな？
+  2|LIT: <<TODO>>
+  3|EN : @1 is gone.
+ Perhaps another mission
+ came up...
+  4|RE : <<TODO>>
+
+[JP#216] gaps=4  aln=HIGH->US#201  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「あなたの力を持ってすれば / 　<894f>げようと思えば<894f>げられたはず[10][0c]「ワシらのことを思って / 　<88ab>周してくださった / 　あなたは<89ab>しい方じゃ
+  2|LIT: <<TODO>>
+  3|EN : @Without your help, we could
+ not have escaped.@It was so kindhearted of
+ you to surrender
+ for our sake.
+  4|RE : <<TODO>>
+
+[JP#217] gaps=2  aln=HIGH->US#202  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ワシらのことを思って / 　<88ab>周してくださった / 　あなたは<89ab>しい方じゃ
+  2|LIT: <<TODO>>
+  3|EN : @It was so kindhearted of
+ you to surrender
+ for our sake.
+  4|RE : <<TODO>>
+
+[JP#218] gaps=5  aln=HIGH->US#203  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=3
+  1|JP : 「あろうことか、この国に１<8a6b>しかない<89d3>を / 　勇っていったのじゃ〜 / 　<8a6d>一の<8921>である<89d3>がなくなってしまっては〜
+  2|LIT: <<TODO>>
+  3|EN : @They robbed us of the village's
+ only boat. That was our only
+ means of transport.
+  4|RE : <<TODO>>
+
+[JP#219] gaps=2  aln=HIGH->US#204  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「だから、一番の<8a0e>姿だったあなたが / 　[0a]きさんの回復を信じて / 　<89ba>いにきてあげてください
+  2|LIT: <<TODO>>
+  3|EN : @As his dearest friend, please
+ come visit  4
+ in the hope he will recover.
+  4|RE : <<TODO>>
+
+[JP#220] gaps=2  aln=MED->US#205  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「でも<8a0e>姿だった[05]おさんが / 　お見<8a59>いにきてくれていれば / 　いつか回復すると信じてます
+  2|LIT: <<TODO>>
+  3|EN : @But now that 1, his
+ best friend, has come to visit
+ I know he will get better.
+  4|RE : <<TODO>>
+
+[JP#221] gaps=0  aln=HIGH->US#206  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「きっと[0a]きさんも / 　残念がることでしょうね
+  2|LIT: <<TODO>>
+  3|EN : @ 4 will be so
+ disappointed.
+  4|RE : <<TODO>>
+
+[JP#222] gaps=2  aln=HIGH->US#207  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「[0a]きさんのことは / 　心配しなくてもいいですよ / 　私たちがちゃんと<8a71><8a1c>しますから
+  2|LIT: <<TODO>>
+  3|EN : @Don't worry about
+  4.
+ We'll take good care of him.
+  4|RE : <<TODO>>
+
+[JP#223] gaps=2  aln=HIGH->US#208  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「なんでも[11]お東の<88db><88dc>[11]ぉに / 　向かったようですけど〜
+  2|LIT: <<TODO>>
+  3|EN : @They seemed to be heading for
+ 1the western desert0.
+  4|RE : <<TODO>>
+
+[JP#224] gaps=5  aln=HIGH->US#209  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「<8a72>の基を待っている、わたしの<8a64>と<8973>てて / 　ちょっと、<8a74><8a75>な気分ですね
+  2|LIT: <<TODO>>
+  3|EN : @She reminds me of me when I was
+ awaiting my husband's return.
+  4|RE : <<TODO>>
+
+[JP#225] gaps=1  aln=HIGH->US#210  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そうですか、それはありがたいことです / 　わたしたちにも<8964>に戻つことがあったら / 　何でも協力いたしますわ
+  2|LIT: <<TODO>>
+  3|EN : @That's wonderful!
+ Please let us know what we
+ can do! We'll do anything!
+  4|RE : <<TODO>>
+
+[JP#226] gaps=0  aln=HIGH->US#211  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]おさんのことになると / 　メリルったら心配性になるみたいで
+  2|LIT: <<TODO>>
+  3|EN : @That Merrill. She worries
+ about you so much, you know!
+  4|RE : <<TODO>>
+
+[JP#227] gaps=0  aln=HIGH->US#212  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「これからも / 　メリルと乗良くしてあげてください
+  2|LIT: <<TODO>>
+  3|EN : @Your friendship means so much
+ to her. Please be good to her!
+  4|RE : <<TODO>>
+
+[JP#228] gaps=0  aln=HIGH->US#213  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「５数前のあのとき以助 / 　メリルがあなたのことを心配してました / 　無事でなによりでしたわ
+  2|LIT: <<TODO>>
+  3|EN : @Merrill has worried about you
+ constantly for the past 5 years.
+ I'm so glad to see you!
+  4|RE : <<TODO>>
+
+[JP#229] gaps=1  aln=HIGH->US#214  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「とくに<8a77>のメリルは / 　[05]おさんのことを / 　しきりに気にしてましたので〜〜
+  2|LIT: <<TODO>>
+  3|EN : @Especially my daughter,
+ Merrill. There wasn't a day
+ she didn't think of you.
+  4|RE : <<TODO>>
+
+[JP#230] gaps=2  aln=HIGH->US#215  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「今までは、近くに山や道があるから / 　<88a1>だけは<8a7a>れることは、なかったんだけどな / 　なんでだろう？　あの空のせいかな？
+  2|LIT: <<TODO>>
+  3|EN : @The water has never run low before.
+ Why now? Does this have something
+ to do with the dark sky?
+  4|RE : <<TODO>>
+
+[JP#231] gaps=0  aln=HIGH->US#216  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「まあ、元から何もなかったからね
+  2|LIT: <<TODO>>
+  3|EN : @There's nothing to BE affected!
+  4|RE : <<TODO>>
+
+[JP#232] gaps=0  aln=HIGH->US#217  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「この国に残っているのは / 　この国を愛している / 　わずかなものたちだけです
+  2|LIT: <<TODO>>
+  3|EN : @The only ones left here are a
+ handful of those who love the
+ place too dearly to leave it.
+  4|RE : <<TODO>>
+
+[JP#233] gaps=6  aln=HIGH->US#218  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「彼らは少しだけ<89bf>むと / 　<8954><8a86>がかかるといって戻ち<8a87>りました / 　無事に<894f>げられたか知る<8a88>はありませんが
+  2|LIT: <<TODO>>
+  3|EN : @They just rested briefly and
+ then went on. I don't know if
+ they ever made it to safety.
+  4|RE : <<TODO>>
+
+[JP#234] gaps=2  aln=MED->US#219  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「このまま[11]お道貸<8a57>いを東[11]ぉに向かい / 　入り<89ad>から上陸して、[11]お北東のクアトリー[11]ぉって / 　場を目指すって言ってたよ
+  2|LIT: <<TODO>>
+  3|EN : @They plan to go 1west up the coast0
+ to an inlet, land, then go to
+ 1Quartly, in the northwest0.
+  4|RE : <<TODO>>
+
+[JP#235] gaps=1  aln=MED->US#220  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「この国が、世間から / 　かなり<8a0d>れていることを / 　あらためて思い知らされたよ〜
+  2|LIT: <<TODO>>
+  3|EN : @That shows just how behind
+ the rest of the world this
+ village is.
+  4|RE : <<TODO>>
+
+[JP#236] gaps=3  aln=MED->US#221  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<f040><f042>オレらには、世間がどうなっているのか / 　外から助た暮人に聞くしか / 　知る<8a88>が、ないのだよ
+  2|LIT: <<TODO>>
+  3|EN : @Wayfarers like ya are our only
+ source of information about
+ the outside world, ya know.
+  4|RE : <<TODO>>
+
+[JP#237] gaps=2  aln=MED->US#222  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「戦いがすんだら / 　お前さんもここで<8a8b>らさないかい？ / 　心を<89bf>めるにはいいところだよ
+  2|LIT: <<TODO>>
+  3|EN : @When the fighting is over,
+ why not stay here? This is
+ a nice, peaceful place.
+  4|RE : <<TODO>>
+
+[JP#238] gaps=2  aln=MED->US#223  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「また暮の<8a8c>中にでも / 　よっておくれな / 　<89fa>しみにしているから
+  2|LIT: <<TODO>>
+  3|EN : @Stop by again on your way
+ through these parts. We'll be
+ waiting for you!
+  4|RE : <<TODO>>
+
+[JP#239] gaps=3  aln=MED->US#224  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f041><f042>ほ？　おまえさんは / 　さっきのヤツラの乗間じゃないんだな？
+  2|LIT: <<TODO>>
+  3|EN : @We're the last residents. We
+ should consider it an honor.
+  4|RE : <<TODO>>
+
+[JP#240] gaps=2  aln=HIGH->US#226  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [07][14][10][0e][07]ソ<990b>&[10]わ[01]ソ<9908>[10][01]
+  2|LIT: <<TODO>>
+  3|EN :  �&v �
+  4|RE : <<TODO>>
+
+[JP#241] gaps=0  aln=HIGH->US#227  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [07][03]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#242] gaps=3  aln=HIGH->US#228  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f041><f042>ッ！
+  2|LIT: <<TODO>>
+  3|EN : @[Dumbfounded silence]
+  4|RE : <<TODO>>
+
+[JP#243] gaps=2  aln=HIGH->US#229  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「〜あ〜〜〜う〜〜 / 　〜〜〜<888c>い〜空が〜〜<89da>が〜って〜いく〜〜
+  2|LIT: <<TODO>>
+  3|EN : @Argh... The darkness in...
+ the sky... is spreading...
+  4|RE : <<TODO>>
+
+[JP#244] gaps=5  aln=HIGH->US#230  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「僕？　僕〜〜 / 　うぇ<f045><f045><f045><f045><f045>ん[10][0c]「ひっく、ひっく
+  2|LIT: <<TODO>>
+  3|EN : @I'm... I...
+ Ugh...@Hic! Hic!
+  4|RE : <<TODO>>
+
+[JP#245] gaps=0  aln=HIGH->US#231  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ひっく、ひっく
+  2|LIT: <<TODO>>
+  3|EN : @Hic! Hic!
+  4|RE : <<TODO>>
+
+[JP#246] gaps=0  aln=HIGH->US#232  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜〜そっちは、危ない〜〜 / 　ダメだ、ダメだ、ダメだ、ダメだ / 　ダメなんだよぉ
+  2|LIT: <<TODO>>
+  3|EN : @Stay away...
+ It's too dangerous!
+ No! No! No, no, no!
+  4|RE : <<TODO>>
+
+[JP#247] gaps=0  aln=HIGH->US#233  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「人が〜〜 / 　〜〜滅れる〜〜 / 　あはは〜〜
+  2|LIT: <<TODO>>
+  3|EN : @People...
+ ... people break...
+ Ha ha ha...
+  4|RE : <<TODO>>
+
+[JP#248] gaps=0  aln=HIGH->US#234  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「うううっ〜〜 / 　ひぃーっ！
+  2|LIT: <<TODO>>
+  3|EN : @Ugh...
+ Arrghh!
+  4|RE : <<TODO>>
+
+[JP#249] gaps=3  aln=HIGH->US#235  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : ＊エネルギー<8a91><8a92>歩による<8a93>撃を / 　相険体に対して行います
+  2|LIT: <<TODO>>
+  3|EN : *Its explosive rounds attack all
+ of your enemies at once.
+  4|RE : <<TODO>>
+
+[JP#250] gaps=2  aln=HIGH->US#236  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : （〜本当にそうなのか？）[10][0c]（『あの回』を<8a65>に、僕は変わったはずだ / 　そう、変わらないモノなど無い〜 / 　<8943>えそれが、どんなカタチであろうとも〜）
+  2|LIT: <<TODO>>
+  3|EN : (Could it still be the same?)(I have changed much since that day.
+ Nothing stays the same, no matter
+ what form it is...)
+  4|RE : <<TODO>>
+
+[JP#251] gaps=2  aln=MED->US#237  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : （『あの回』を<8a65>に、僕は変わったはずだ / 　そう、変わらないモノなど無い〜 / 　<8943>えそれが、どんなカタチであろうとも〜）
+  2|LIT: <<TODO>>
+  3|EN : (I have changed much since that day.
+ Nothing stays the same, no matter
+ what form it is...)
+  4|RE : <<TODO>>
+
+[JP#252] gaps=2  aln=MED->US#238  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「あんまりはしゃいでると / 　暮の人に<8954><8a86>でしょーッ！
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#254] gaps=0  aln=MED->US#239  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「わたしは？ / 　メリルのことも / 　おぼえているわよね？
+  2|LIT: <<TODO>>
+  3|EN : @It's me, Merrill!
+ You remember me,
+ right?
+  4|RE : <<TODO>>
+
+[JP#255] gaps=2  aln=MED->US#240  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、キミ〜
+  2|LIT: <<TODO>>
+  3|EN : @But you've changed so much...
+  4|RE : <<TODO>>
+
+[JP#256] gaps=1  aln=MED->US#241  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜わたしね / 　おじさんにもう一度<8a9f>いたいって / 　ずっと思ってたんだ
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@All this time, I had hoped
+ that we would get the chance
+ to meet again.
+  4|RE : <<TODO>>
+
+[JP#257] gaps=1  aln=MED->US#242  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「〜わたしね / 　おじさんにもう一度<8a9f>いたいって / 　ずっと思ってたんだ
+  2|LIT: <<TODO>>
+  3|EN : @All this time, I had hoped
+ that we would get the chance
+ to meet again.
+  4|RE : <<TODO>>
+
+[JP#258] gaps=1  aln=MED->US#242  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「５数<8a61>ったからって / 　[0a]ぐのこと忘れちゃうなんて
+  2|LIT: <<TODO>>
+  3|EN : @All this time, I had hoped
+ that we would get the chance
+ to meet again.
+  4|RE : <<TODO>>
+
+[JP#259] gaps=1  aln=HIGH->US#243  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜わたしね / 　おじさんにもう一度<8a9f>いたいって / 　ずっと思ってたんだ
+  2|LIT: <<TODO>>
+  3|EN : @30...30...30...@All this time, I had hoped
+ that we would get the chance
+ to meet again.
+  4|RE : <<TODO>>
+
+[JP#260] gaps=1  aln=HIGH->US#244  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「〜わたしね / 　おじさんにもう一度<8a9f>いたいって / 　ずっと思ってたんだ
+  2|LIT: <<TODO>>
+  3|EN : @All this time, I had hoped
+ that we would get the chance
+ to meet again.
+  4|RE : <<TODO>>
+
+[JP#261] gaps=1  aln=HIGH->US#245  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そして、『<8a43>来』がどうして / 　追われなきゃ / 　いけなかったのかってことも〜[10][0c]「〜でも、今はもう / 　おじさんは悪くないってわかったから / 　こうして、ここにいるんでしょ？
+  2|LIT: <<TODO>>
+  3|EN : @And I asked why a hero like
+ you would be chased down and
+ captured like that.@But you're not a bad man anymore,
+ right, Mister? That's why
+ you're here now, right?
+  4|RE : <<TODO>>
+
+[JP#262] gaps=0  aln=HIGH->US#246  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜でも、今はもう / 　おじさんは悪くないってわかったから / 　こうして、ここにいるんでしょ？
+  2|LIT: <<TODO>>
+  3|EN : @But you're not a bad man anymore,
+ right, Mister? That's why
+ you're here now, right?
+  4|RE : <<TODO>>
+
+[JP#263] gaps=1  aln=HIGH->US#247  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「僕は、ずっと<8aa1>られたままだ / 　『あの回』から〜
+  2|LIT: <<TODO>>
+  3|EN : @I've been a prisoner ever
+ since that day.
+  4|RE : <<TODO>>
+
+[JP#264] gaps=2  aln=HIGH->US#248  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「おじさんが連れて行かれた後 / 　[0a]ぐが山の中で / 　倒れていたのを<8a39>えてくれたの[10][0c]「その人も、おじさんと同じ / 　スレイハイム解殺<8a85>だと思うんだけど〜
+  2|LIT: <<TODO>>
+  3|EN : @After you were taken away,
+  7 told me he was
+ in the forest, unconscious.@I think he was in the Slayheim
+ Liberation Army, like you.
+  4|RE : <<TODO>>
+
+[JP#265] gaps=1  aln=HIGH->US#249  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「その人も、おじさんと同じ / 　スレイハイム解殺<8a85>だと思うんだけど〜
+  2|LIT: <<TODO>>
+  3|EN : @I think he was in the Slayheim
+ Liberation Army, like you.
+  4|RE : <<TODO>>
+
+[JP#266] gaps=1  aln=HIGH->US#250  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「こいつは / 　僕のかけがえの無い<8a0e>姿だ〜
+  2|LIT: <<TODO>>
+  3|EN : @He's a very close friend
+ of mine.
+  4|RE : <<TODO>>
+
+[JP#267] gaps=9  aln=HIGH->US#251  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=8
+  1|JP : 「この人、ケガと<8867><8868>で / 　<8937><89f1>の方がひどく<8aa2><8945>しているの[10][0c]「自分のことを / 　[05]お・エヴァンスだって / 　<8aa3>いていたわ〜[10][0c]「でも<8aa4>得 / 　おじさんの<8a0e>姿なんだもんね
+  2|LIT: <<TODO>>
+  3|EN : @But he must have amnesia from
+ his fever and injuries.@He keeps mumbling that his name
+ is 1 Evans.@Oh, well. If he's your friend,
+ that's enough for me.
+  4|RE : <<TODO>>
+
+[JP#268] gaps=3  aln=MED->US#252  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「自分のことを / 　[05]お・エヴァンスだって / 　<8aa3>いていたわ〜[10][0c]「でも<8aa4>得 / 　おじさんの<8a0e>姿なんだもんね
+  2|LIT: <<TODO>>
+  3|EN : @He keeps mumbling that his name
+ is 1 Evans.@Oh, well. If he's your friend,
+ that's enough for me.
+  4|RE : <<TODO>>
+
+[JP#269] gaps=2  aln=HIGH->US#253  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「でも<8aa4>得 / 　おじさんの<8a0e>姿なんだもんね
+  2|LIT: <<TODO>>
+  3|EN : @Oh, well. If he's your friend,
+ that's enough for me.
+  4|RE : <<TODO>>
+
+[JP#270] gaps=0  aln=HIGH->US#254  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「わたしたちでは / 　この人を分すことができなかったの / 　身体のケガも、心のケガも〜
+  2|LIT: <<TODO>>
+  3|EN : @We weren't able to heal
+ him...
+ in body or mind.
+  4|RE : <<TODO>>
+
+[JP#271] gaps=0  aln=HIGH->US#255  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜すまない、信頼している
+  2|LIT: <<TODO>>
+  3|EN : @I mean, I'm grateful to you.
+  4|RE : <<TODO>>
+
+[JP#272] gaps=9  aln=HIGH->US#256  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=9
+  1|JP : 「結果、その<8aa9><88ce>に反発をおぼえる者が / 　<8aaa>地で<8aab>負<8aac>起を行うが、<8aad>発する<8aae>度で / 　大きな男力には<88bd>らなかった[10][0c]「そんな時、ひとりの剣が現われ / 　反対男力を重ねあげ / 　スレイハイム解殺<8a85>を結成する〜[10][0c]「その剣とは〜 / 　ヴィンスフェルト・ラダマンテュス
+  2|LIT: <<TODO>>
+  3|EN : @Many small rebel groups staged
+ scattered uprisings, but they
+ were too unorganized.@There then appeared a man who
+ united the opposition into
+ the Slayheim Liberation Army.@That man's name was
+ Vinsfeld Rhadamanthus.
+  4|RE : <<TODO>>
+
+[JP#273] gaps=1  aln=HIGH->US#257  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そんな時、ひとりの剣が現われ / 　反対男力を重ねあげ / 　スレイハイム解殺<8a85>を結成する〜[10][0c]「その剣とは〜 / 　ヴィンスフェルト・ラダマンテュス
+  2|LIT: <<TODO>>
+  3|EN : @There then appeared a man who
+ united the opposition into
+ the Slayheim Liberation Army.@That man's name was
+ Vinsfeld Rhadamanthus.
+  4|RE : <<TODO>>
+
+[JP#274] gaps=0  aln=HIGH->US#258  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「その剣とは〜 / 　ヴィンスフェルト・ラダマンテュス
+  2|LIT: <<TODO>>
+  3|EN : @That man's name was
+ Vinsfeld Rhadamanthus.
+  4|RE : <<TODO>>
+
+[JP#275] gaps=3  aln=HIGH->US#259  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「なんで解殺<8a85>のリーダーだった人が / 　テロ<8ab0><8ab1>なんて作ったの！
+  2|LIT: <<TODO>>
+  3|EN : @Why would the Liberation Army
+ leader turn terrorist?
+  4|RE : <<TODO>>
+
+[JP#276] gaps=8  aln=HIGH->US#260  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : 「少年だった解殺<8a85>が / 　<8aaa>地で新<8ab2><8a85>を<8ab3>ち破っていったのは / 　ヴィンスフェルトのカリスマ性と〜[10][0c]「『<8a43>来』[05]お・エヴァンスと / 　乗間たちの<8ab4><8ab5>があったからだと
+  2|LIT: <<TODO>>
+  3|EN : @charisma and the bravery of
+ 1 Evans and
+ his companions...@...that enabled the Liberation
+ to defeat the military despite
+ their small numbers.
+  4|RE : <<TODO>>
+
+[JP#277] gaps=3  aln=MED->US#261  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「『<8a43>来』[05]お・エヴァンスと / 　乗間たちの<8ab4><8ab5>があったからだと
+  2|LIT: <<TODO>>
+  3|EN : @...that enabled the Liberation
+ to defeat the military despite
+ their small numbers.
+  4|RE : <<TODO>>
+
+[JP#278] gaps=6  aln=HIGH->US#262  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「だが、ファイナルオペレーションの<89d2> / 　こいつは行方不次に…[10][0c]「そして〜[10][0c]「生き残った解殺<8a85>と僕は / 　参戦のすべての<8ab6>任を<8ab7>わされて / 　戦犯として追われる身となってしまった〜[10][0c]「そう〜ッ！ / 　ヴィンスフェルトの / 　<899c><8a22>なワナによってなッ！
+  2|LIT: <<TODO>>
+  3|EN : @But he disappeared during
+ the Final Operation.@When the fighting was over...@we Liberation Army veterans were
+ blamed for the entire war. We
+ were treated like war criminals.@That's right. It was all a
+ clever trap set and
+ sprung by Vinsfeld.
+  4|RE : <<TODO>>
+
+[JP#279] gaps=5  aln=HIGH->US#263  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「そして〜[10][0c]「生き残った解殺<8a85>と僕は / 　参戦のすべての<8ab6>任を<8ab7>わされて / 　戦犯として追われる身となってしまった〜[10][0c]「そう〜ッ！ / 　ヴィンスフェルトの / 　<899c><8a22>なワナによってなッ！
+  2|LIT: <<TODO>>
+  3|EN : @When the fighting was over...@we Liberation Army veterans were
+ blamed for the entire war. We
+ were treated like war criminals.@That's right. It was all a
+ clever trap set and
+ sprung by Vinsfeld.
+  4|RE : <<TODO>>
+
+[JP#280] gaps=5  aln=HIGH->US#264  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「生き残った解殺<8a85>と僕は / 　参戦のすべての<8ab6>任を<8ab7>わされて / 　戦犯として追われる身となってしまった〜[10][0c]「そう〜ッ！ / 　ヴィンスフェルトの / 　<899c><8a22>なワナによってなッ！
+  2|LIT: <<TODO>>
+  3|EN : @we Liberation Army veterans were
+ blamed for the entire war. We
+ were treated like war criminals.@That's right. It was all a
+ clever trap set and
+ sprung by Vinsfeld.
+  4|RE : <<TODO>>
+
+[JP#281] gaps=2  aln=HIGH->US#265  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「そう〜ッ！ / 　ヴィンスフェルトの / 　<899c><8a22>なワナによってなッ！
+  2|LIT: <<TODO>>
+  3|EN : @That's right. It was all a
+ clever trap set and
+ sprung by Vinsfeld.
+  4|RE : <<TODO>>
+
+[JP#282] gaps=3  aln=MED->US#266  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「他の人たちが何と言おうと / 　わたしと[0a]ぐは / 　おじさんが悪い人じゃないってわかってる[10][0c]「５数前だって、国の人たちを延るために / 　何もしないで<88ab>周したんでしょ？[10][0c]「それだけじゃないよ / 　グリーンヘルでは / 　国から兄<8880>された人を<8833>けてくれたじゃない[10][0c]「おじさんが / 　悪い人だなんて思う人は / 　この国にはいないよ
+  2|LIT: <<TODO>>
+  3|EN : @I don't care what anyone says.
+  7 and I know
+ you're not a bad man.@Didn't you surrender to spare
+ our village, five years ago?@Besides, you helped the
+ recruits from our village
+ at Greenhell, right?@No one in the village
+ thinks you're a bad man,
+ Mister.
+  4|RE : <<TODO>>
+
+[JP#283] gaps=3  aln=HIGH->US#267  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「５数前だって、国の人たちを延るために / 　何もしないで<88ab>周したんでしょ？[10][0c]「それだけじゃないよ / 　グリーンヘルでは / 　国から兄<8880>された人を<8833>けてくれたじゃない[10][0c]「おじさんが / 　悪い人だなんて思う人は / 　この国にはいないよ
+  2|LIT: <<TODO>>
+  3|EN : @Didn't you surrender to spare
+ our village, five years ago?@Besides, you helped the
+ recruits from our village
+ at Greenhell, right?@No one in the village
+ thinks you're a bad man,
+ Mister.
+  4|RE : <<TODO>>
+
+[JP#284] gaps=2  aln=HIGH->US#268  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「それだけじゃないよ / 　グリーンヘルでは / 　国から兄<8880>された人を<8833>けてくれたじゃない[10][0c]「おじさんが / 　悪い人だなんて思う人は / 　この国にはいないよ
+  2|LIT: <<TODO>>
+  3|EN : @Besides, you helped the
+ recruits from our village
+ at Greenhell, right?@No one in the village
+ thinks you're a bad man,
+ Mister.
+  4|RE : <<TODO>>
+
+[JP#285] gaps=0  aln=HIGH->US#269  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「おじさんが / 　悪い人だなんて思う人は / 　この国にはいないよ
+  2|LIT: <<TODO>>
+  3|EN : @No one in the village
+ thinks you're a bad man,
+ Mister.
+  4|RE : <<TODO>>
+
+[JP#286] gaps=9  aln=HIGH->US#270  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「『<8a43>来』の<8ab8><8861>である / 　この国に、僕は帰ってきた / 　そして〜[10][0c]「ヤツも<f040><f042> / 　ヴィンスフェルトもオデッサを<8ab0><8ab1>して / 　僕の前に帰ってきたッ！[10][0c]「<8ab9>切られた乗間のためにも / 　僕はヤツを<8978>すことができないッ！
+  2|LIT: <<TODO>>
+  3|EN : @I return to this village which
+ should have been the site
+ of my grave.@That scumbag Vinsfeld
+ formed Odessa and came
+ back before me!@He betrayed me AND my friends.
+ I'll never forgive him!
+  4|RE : <<TODO>>
+
+[JP#287] gaps=6  aln=HIGH->US#271  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「ヤツも<f040><f042> / 　ヴィンスフェルトもオデッサを<8ab0><8ab1>して / 　僕の前に帰ってきたッ！[10][0c]「<8ab9>切られた乗間のためにも / 　僕はヤツを<8978>すことができないッ！
+  2|LIT: <<TODO>>
+  3|EN : @That scumbag Vinsfeld
+ formed Odessa and came
+ back before me!@He betrayed me AND my friends.
+ I'll never forgive him!
+  4|RE : <<TODO>>
+
+[JP#288] gaps=2  aln=HIGH->US#272  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8ab9>切られた乗間のためにも / 　僕はヤツを<8978>すことができないッ！
+  2|LIT: <<TODO>>
+  3|EN : @He betrayed me AND my friends.
+ I'll never forgive him!
+  4|RE : <<TODO>>
+
+[JP#289] gaps=0  aln=HIGH->US#273  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「まさか、俺たちの相である / 　ヴィンスフェルトと / 　つながりがあったなんて〜
+  2|LIT: <<TODO>>
+  3|EN : @Who'd think you were once
+ friends with our enemy,
+ Vinsfeld?
+  4|RE : <<TODO>>
+
+[JP#290] gaps=3  aln=HIGH->US#274  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「これは、僕とヤツの誓<8810>〜 / 　ケリは僕の手でつける / 　そう考えていた〜[10][0c]「僕の私<8aba>に / 　お前たちを<8812>き込むつもりはなかった
+  2|LIT: <<TODO>>
+  3|EN : @I thought it was between him
+ and me. I wanted to settle it
+ myself.@I never intended to involve
+ you in my private vendetta.
+  4|RE : <<TODO>>
+
+[JP#291] gaps=2  aln=HIGH->US#275  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「僕の私<8aba>に / 　お前たちを<8812>き込むつもりはなかった
+  2|LIT: <<TODO>>
+  3|EN : @I never intended to involve
+ you in my private vendetta.
+  4|RE : <<TODO>>
+
+[JP#292] gaps=1  aln=HIGH->US#276  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「わたしたちは[05]おのこと / 　乗間だと思ってもいいんだよね？[10][0c]「<8a72>、ヴィンスフェルトと[05]おが / 　いっしょに戦った乗間だったとしても / 　いまは違うんだよね？
+  2|LIT: <<TODO>>
+  3|EN : @That makes you our buddy,
+ right, 1?@So what if you and Vinsfeld were
+ buddies then, 1.
+ You're not any more, right?
+  4|RE : <<TODO>>
+
+[JP#293] gaps=1  aln=HIGH->US#277  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<8a72>、ヴィンスフェルトと[05]おが / 　いっしょに戦った乗間だったとしても / 　いまは違うんだよね？
+  2|LIT: <<TODO>>
+  3|EN : @So what if you and Vinsfeld were
+ buddies then, 1.
+ You're not any more, right?
+  4|RE : <<TODO>>
+
+[JP#294] gaps=0  aln=HIGH->US#278  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「いまの僕は、オデッサと戦う / 　ＡＲＭＳの[05]おだ
+  2|LIT: <<TODO>>
+  3|EN : @I'm a member of ARMS,
+ sworn enemy of Odessa.
+  4|RE : <<TODO>>
+
+[JP#295] gaps=5  aln=HIGH->US#279  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「データタブレットを / 　<89f3>んだやつらの<8921>取りは / 　この国で<8a8c>切れてしまったみたいだし[10][0c]「確か、この先は道だよな〜 / 　道を渡って<89a6>の大陸に行った / 　そう考えるのが<8abb>当なのかな？
+  2|LIT: <<TODO>>
+  3|EN : @The thieves who stole the data
+ tablets were traced to this
+ village.@Just ahead is the ocean. They
+ must have crossed the sea to
+ the continent. Makes sense?
+  4|RE : <<TODO>>
+
+[JP#296] gaps=2  aln=HIGH->US#280  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「確か、この先は道だよな〜 / 　道を渡って<89a6>の大陸に行った / 　そう考えるのが<8abb>当なのかな？
+  2|LIT: <<TODO>>
+  3|EN : @Just ahead is the ocean. They
+ must have crossed the sea to
+ the continent. Makes sense?
+  4|RE : <<TODO>>
+
+[JP#297] gaps=10  aln=HIGH->US#281  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=9
+  1|JP : 「ヴィンスフェルトのことだ / 　破<8abd>され無人となった<88e4><88e5>を / 　<88e6>帯にしている可能性もある[10][0c]「たしか、あの村りには / 　クアトリーという場があるはずだ / 　そこで情報<8939><8880>をしてみるのはどうだ？[10][0c]「ただ、スレイハイム<8aa6>へは<89d3>が無ければ / 　<8abe><8abf>には行けそうもないが〜
+  2|LIT: <<TODO>>
+  3|EN : @Knowing Vinsfeld, he could be
+ using the abandoned facilities
+ there as a base of operations.@There's a town called Quartly
+ near there. We should start
+ gathering information there.@But it'll be hard to get to
+ Slayheim without a boat.
+  4|RE : <<TODO>>
+
+[JP#298] gaps=6  aln=HIGH->US#282  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「たしか、あの村りには / 　クアトリーという場があるはずだ / 　そこで情報<8939><8880>をしてみるのはどうだ？[10][0c]「ただ、スレイハイム<8aa6>へは<89d3>が無ければ / 　<8abe><8abf>には行けそうもないが〜
+  2|LIT: <<TODO>>
+  3|EN : @There's a town called Quartly
+ near there. We should start
+ gathering information there.@But it'll be hard to get to
+ Slayheim without a boat.
+  4|RE : <<TODO>>
+
+[JP#299] gaps=4  aln=HIGH->US#283  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「ただ、スレイハイム<8aa6>へは<89d3>が無ければ / 　<8abe><8abf>には行けそうもないが〜
+  2|LIT: <<TODO>>
+  3|EN : @But it'll be hard to get to
+ Slayheim without a boat.
+  4|RE : <<TODO>>
+
+[JP#300] gaps=0  aln=HIGH->US#284  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「スレイハイムに行く方法は / 　いくらでもあるはずさ / 　次回、手獲を探そう〜
+  2|LIT: <<TODO>>
+  3|EN : @Tomorrow we'll figure out a
+ way to get to Slayheim. There
+ has to be a way.
+  4|RE : <<TODO>>
+
+[JP#301] gaps=1  aln=HIGH->US#285  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「どこからかガラクタを<8880>めてきては / 　気に入った人にあげる / 　変なクセがあるのよ〜
+  2|LIT: <<TODO>>
+  3|EN : @He has the strange habit of
+ collecting junk and bringing
+ it to people he likes.
+  4|RE : <<TODO>>
+
+[JP#302] gaps=4  aln=HIGH->US#286  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「俺たちが<8947>作パターンを頼りに / 　追跡していることがバレてしまったらしい[10][0c]「機干<8901>持のための / 　<8ac2>理が<88e4>されている
+  2|LIT: <<TODO>>
+  3|EN : @So they realized we were using
+ their pattern to track them.@Whoever did this knew a lot
+ about data tablets.
+  4|RE : <<TODO>>
+
+[JP#303] gaps=3  aln=HIGH->US#287  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「機干<8901>持のための / 　<8ac2>理が<88e4>されている
+  2|LIT: <<TODO>>
+  3|EN : @Whoever did this knew a lot
+ about data tablets.
+  4|RE : <<TODO>>
+
+[JP#304] gaps=3  aln=HIGH->US#288  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「どうやら / 　追跡はここまでのようだな[10][0c]「<8921>を使った地道な行<8a85>となるが / 　<888e>奮加り、スレイハイムを目指そう
+  2|LIT: <<TODO>>
+  3|EN : @It looks like the trail
+ runs cold here.@Time for good, old-fashioned
+ marching. On to Slayheim!
+  4|RE : <<TODO>>
+
+[JP#305] gaps=3  aln=HIGH->US#289  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「<8921>を使った地道な行<8a85>となるが / 　<888e>奮加り、スレイハイムを目指そう
+  2|LIT: <<TODO>>
+  3|EN : @Time for good, old-fashioned
+ marching. On to Slayheim!
+  4|RE : <<TODO>>
+
+[JP#306] gaps=1  aln=HIGH->US#290  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「これがあれば / 　俺が一度でも<8a6a>れたことのある場なら / 　どこへでも移動できるな
+  2|LIT: <<TODO>>
+  3|EN : @With this, we can teleport to
+ any town that we've visited
+ at least once before.
+  4|RE : <<TODO>>

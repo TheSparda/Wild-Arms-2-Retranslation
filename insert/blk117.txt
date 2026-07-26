@@ -1,0 +1,689 @@
+# WA2 INSERTION workspace US block 117 (US#8311-8420)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#8312] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#8428[MED]: ＊進みますか？[18]か || JP#8418[LOW]: 「＜守昔＞なんて呼ばれる前は / 　ただのアナスタシアだったんだもん / 　仕方ないわよ
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#8313] budget=76ch/3ln
+  NOW: my big sister who I so adore.
+          I had always believed that,
+          but it's not true.
+  JP : JP#8429[MED]: 「ずっと、そう思ってきた / 　でも、ホントは違ったんだ[10][0c]「わたしのクレストソーサーじゃ / 　何もできないんだ〜
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#8314] budget=37ch/2ln
+  NOW: My Crest Sorcery
+          can't do everything.
+  JP : JP#8430[HIGH]: 「わたしのクレストソーサーじゃ / 　何もできないんだ〜
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#8315] budget=14ch/1ln
+  NOW: Where are you?
+  JP : JP#8431[HIGH]: 「どこにいるのッ！
+  FIT: <<TODO — <=14 chars, 1 line(s), <=35/line>>
+
+[US#8316] budget=42ch/2ln
+  NOW: Why do you belittle yourself?
+          You are you.
+  JP : JP#8432[HIGH]: 「どうして、自分で自分を<8a34>奮するの？ / 　あなたは、あなたじゃない[10][0c]「他の誰かに代わるために / 　あなたの魔法はあるわけじゃないわ 
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#8317] budget=59ch/3ln
+  NOW: You don't have magic so
+          you can become someone else.
+          Right?
+  JP : JP#8433[HIGH]: 「他の誰かに代わるために / 　あなたの魔法はあるわけじゃないわ / 　ね、そうでしょ？
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#8318] budget=63ch/3ln
+  NOW: The person everyone wants
+          to have here is you, my
+          older sister.
+  JP : JP#8434[HIGH]: 「みんなが / 　ここにいてほしいと思っているのは / 　お幸ちゃんなんだよ〜[10][0c]「だから、わたしは / 　お幸ちゃんの代りになるために / 　がん
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#8319] budget=65ch/3ln
+  NOW: That's why I've always
+          tried to fill in for you
+          by going all out.
+  JP : JP#8435[HIGH]: 「だから、わたしは / 　お幸ちゃんの代りになるために / 　がんばってきたんだよ
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#8320] budget=50ch/2ln
+  NOW: I mean, come on.
+          There are things only you can do.
+  JP : JP#8436[MED]: 「だって、そうでしょ？ / 　あなたには、あなたにしかできないことが / 　あるのだから〜
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#8321] budget=56ch/2ln
+  NOW: At the Millennium Puzzle,
+          didn't you stay to the finish?
+  JP : JP#8437[HIGH]: 「ミレニアム・パズルでも / 　あなたは最後までがんばったじゃない[10][0c]「お幸ちゃんみたいに / 　あきらめなかったじゃない〜
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#8322] budget=30ch/2ln
+  NOW: You didn't give up
+          like I did.
+  JP : JP#8438[HIGH]: 「お幸ちゃんみたいに / 　あきらめなかったじゃない〜
+  FIT: <<TODO — <=30 chars, 2 line(s), <=35/line>>
+
+[US#8323] budget=34ch/2ln
+  NOW: Yet,
+          I wasn't able to do anything.
+  JP : JP#8439[HIGH]: 「それに〜 / 　何もできなかった〜[10][0c]「そうよ、あの時 / 　わたし、あきらめていたのよ〜[10][0c]「わたしの魔法の力じゃ / 　何もできな
+  FIT: <<TODO — <=34 chars, 2 line(s), <=35/line>>
+
+[US#8324] budget=29ch/2ln
+  NOW: I remember.
+          I almost gave up.
+  JP : JP#8440[HIGH]: 「そうよ、あの時 / 　わたし、あきらめていたのよ〜[10][0c]「わたしの魔法の力じゃ / 　何もできないって〜
+  FIT: <<TODO — <=29 chars, 2 line(s), <=35/line>>
+
+[US#8325] budget=43ch/2ln
+  NOW: I wasn't able
+          to do anything with my magic.
+  JP : JP#8441[HIGH]: 「わたしの魔法の力じゃ / 　何もできないって〜
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#8326] budget=56ch/2ln
+  NOW: Your magic can be used by anyone,
+          and can do anything...
+  JP : JP#8442[MED]: 「魔法は誰にでも使えて / 　そして<f040><f042> / 　何でもできる力だということを[10][0c]「あなたが使う魔法は / 　クレストソーサーなん
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#8327] budget=31ch/2ln
+  NOW: Your magic isn't
+          Crest Sorcery.
+  JP : JP#8443[MED]: 「あなたが使う魔法は / 　クレストソーサーなんかじゃないわ[10][0c]「思い出して / 　お幸ちゃんがあなたに泣えた / 　とっておきのおまじないを〜
+  FIT: <<TODO — <=31 chars, 2 line(s), <=35/line>>
+
+[US#8328] budget=47ch/3ln
+  NOW: Try to remember
+          the special spell
+          I taught you.
+  JP : JP#8444[MED]: 「思い出して / 　お幸ちゃんがあなたに泣えた / 　とっておきのおまじないを〜
+  FIT: <<TODO — <=47 chars, 3 line(s), <=35/line>>
+
+[US#8329] budget=23ch/1ln
+  NOW: Hocus Pocus Fizzipocus.
+  JP : JP#8445[MED]: 「〜ホクスポクスフィジポス〜
+  FIT: <<TODO — <=23 chars, 1 line(s), <=35/line>>
+
+[US#8330] budget=24ch/1ln
+  NOW: I'm sure you can use it.
+  JP : JP#8447[MED]: 「大伝きな人がいるの / 　<8a39>りたい人がいるの〜[10][0c]「その人の<8a38>探が見たいんだ〜 || JP#8446[MED]: 「あなたなら / 　きっと使えるわ
+  FIT: <<TODO — <=24 chars, 1 line(s), <=35/line>>
+
+[US#8331] budget=50ch/2ln
+  NOW: There's someone I like,
+          someone I want to protect.
+  JP : JP#8448[MED]: 「その人の<8a38>探が見たいんだ〜
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#8332] budget=29ch/1ln
+  NOW: I want to see their laughter.
+  JP : JP#8449[MED]: 「そのために / 　あなたが<88f7>意しなければいけないことは / 　たったのひとつ〜
+  FIT: <<TODO — <=29 chars, 1 line(s), <=35/line>>
+
+[US#8333] budget=51ch/2ln
+  NOW: But there's one thing
+          you need to be careful about.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#8334] budget=37ch/2ln
+  NOW: Don't cry anymore.
+          Come on, laugh, 2.
+  JP : JP#8450[MED]: 「もう、仲かないで / 　<8a38>って〜　[05]か〜
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#8335] budget=70ch/3ln
+  NOW: Until you reveal your
+          true self to me,
+          the Raypoint won't be released.
+  JP : JP#8451[MED]: 「我が前に、<8a3d>実の助をさらさぬかぎり / 　レイポイントの解殺はならぬ
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#8336] budget=64ch/3ln
+  NOW: I am still myself.
+          Nothing's changed.
+          And my truth is me myself!
+  JP : JP#8452[MED]: 「僕は僕だ / 　そこに何も守りはない / 　この僕の<8a3d>実は、僕自身だッ！
+  FIT: <<TODO — <=64 chars, 3 line(s), <=35/line>>
+
+[US#8337] budget=87ch/3ln
+  NOW: You are the hero from the past,
+          are now an ARMS member,
+          and are our future possibility.
+  JP : JP#8453[MED]: 「お前は、過歩（かつて）の<8a40>兄であり / 　現帰（いま）のＡＲＭＳであり / 　未期（ゆくすえ）の可能性である〜[10][0c]「だがそれは〜 / 　
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#8338] budget=43ch/2ln
+  NOW: But those are |facts,|
+          and not the |truth.|
+  JP : JP#8454[MED]: 「だがそれは〜 / 　『事実』であって、『<8a3d>実』にあらず〜
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#8339] budget=91ch/3ln
+  NOW: When I said before that unless
+          you reveal your true self,
+          the Raypoint won't be released...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#8340] budget=98ch/3ln
+  NOW: ...it's not |facts,| but |truth|
+          that expels the shadows of lies.
+          The truth releases the Raypoint.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#8341] budget=45ch/2ln
+  NOW: Yes, I carry the lie that I
+          am |me,| 1 Evans.
+  JP : JP#8455[MED]: 「我が前に、<8a3d>実の助をさらさぬかぎり / 　レイポイントの解殺はならぬ[10][0c]「『事実』ではなく、『<8a3d>実』を〜 / 　守りの<88c
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#8342] budget=74ch/3ln
+  NOW: So, it was necessary
+          to do this for the liberation
+          and future of Slayheim.
+  JP : JP#8458[MED]: 「だが、あの挑戦の解殺戦では / 　そして、スレイハイムの未期のためには / 　こうすることが必要なことだった[10][0c]「解殺戦後のスレイハイムの未期には || JP#8456[MED]: 「『事実』ではなく、『<8a3d>実』を〜 / 　守りの<88c0>を<8a43>りはらい / 　レイポイントを解殺する<8a3d>実の<89e0>を〜
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#8343] budget=64ch/3ln
+  NOW: For the future of the
+          liberated Slayheim,
+          1 Evans was necessary!
+  JP : JP#8459[MED]: 「解殺戦後のスレイハイムの未期には / 　『[05]お・エヴァンス』が / 　必要だったッ！[10][0c]「だからこそ僕は僕であることを周て / 　『僕』であ
+  FIT: <<TODO — <=64 chars, 3 line(s), <=35/line>>
+
+[US#8344] budget=46ch/2ln
+  NOW: So I threw myself out
+          and became another |me.|
+  JP : JP#8460[MED]: 「だからこそ僕は僕であることを周て / 　『僕』であることを選んだッ！[10][0c]「そうすることが / 　『あいつ』との<8a48>重だった…
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#8345] budget=29ch/2ln
+  NOW: That was my promise to
+          |him.|
+  JP : JP#8461[MED]: 「そうすることが / 　『あいつ』との<8a48>重だった…
+  FIT: <<TODO — <=29 chars, 2 line(s), <=35/line>>
+
+[US#8346] budget=65ch/3ln
+  NOW: the battle of liberation.
+          It was to unite
+          the people of Slayheim.
+  JP : JP#8462[MED]: 「それは、スレイハイムのみんなが / 　ひとつになること<f040><f042>[10][0c]「これがいちばん大切なことだった[10][0c]「ただ仲利するだ
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#8347] budget=24ch/1ln
+  NOW: That was more important.
+  JP : JP#8463[HIGH]: 「これがいちばん大切なことだった[10][0c]「ただ仲利するだけでは / 　僕たちが相としていた / 　スレイハイム<89fb>間と何ら変わりはない[10][
+  FIT: <<TODO — <=24 chars, 1 line(s), <=35/line>>
+
+[US#8348] budget=91ch/3ln
+  NOW: If we had only won we wouldn't
+          have been any different from
+          the enemy, the Slayheim throne.
+  JP : JP#8464[HIGH]: 「ただ仲利するだけでは / 　僕たちが相としていた / 　スレイハイム<89fb>間と何ら変わりはない[10][0c]「力でねじ訪せるだけじゃ / 　そこから何
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#8349] budget=52ch/2ln
+  NOW: If we only threw power
+          around, nothing would change.
+  JP : JP#8465[HIGH]: 「力でねじ訪せるだけじゃ / 　そこから何も変わらない[10][0c]「僕は<f040><f042>[10][0c]「いや、僕たちスレイハイム解殺<8a4c>は
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#8350] budget=7ch/1ln
+  NOW: I am...
+  JP : JP#8466[HIGH]: 「僕は<f040><f042>[10][0c]「いや、僕たちスレイハイム解殺<8a4c>は / 　そう<8a4d>った『僕』の / 　バカげた理違を<8a3d>
+  FIT: <<TODO — <=7 chars, 1 line(s), <=35/line>>
+
+[US#8351] budget=83ch/3ln
+  NOW: The Slayheim Liberation Army
+          is a unit that took on the silly
+          ideals |I| professed.
+  JP : JP#8467[HIGH]: 「いや、僕たちスレイハイム解殺<8a4c>は / 　そう<8a4d>った『僕』の / 　バカげた理違を<8a3d>に好けた<8a4c>闘なのさ[10][0c]「
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#8352] budget=50ch/2ln
+  NOW: That's why the Liberation Army
+          couldn't lose |me.|
+  JP : JP#8468[MED]: 「だからこそ、僕たち解殺<8a4c>は / 　『僕』を失うわけにはいかなかったッ！
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#8353] budget=49ch/2ln
+  NOW: A |hero| isn't just power,
+          but a symbol of power.
+  JP : JP#8469[MED]: 「『<8a40>兄』は力そのものではなく / 　力を重ねる恥負であるべきだ、と[10][0c]「＜遠の<8a52>昔＞のように / 　『<8a40>兄』から<8
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#8354] budget=61ch/3ln
+  NOW: Like the <Sword Magess>,
+          peace isn't delivered
+          by the |hero.|
+  JP : JP#8470[MED]: 「＜遠の<8a52>昔＞のように / 　『<8a40>兄』から<8a53>勉を / 　<8a55>えられるものではなく[10][0c]「自分たちの手で<8a53
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#8355] budget=77ch/3ln
+  NOW: A |hero| should be a symbol
+          for people to emulate and
+          create their own peace.
+  JP : JP#8471[MED]: 「自分たちの手で<8a53>勉をつかみ取るため / 　『<8a40>兄』はそのための / 　恥負であればいい[10][0c]「『<8a40>兄』は、<8a55>
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#8356] budget=68ch/3ln
+  NOW: A |hero| isn't bestowed
+          upon anyone nor is it
+          something to cling to.
+  JP : JP#8477[MED]: 「僕が『僕』であること / 　それは『あいつ』との望 / 　貸に戦い<8a18>ける望、ただそれだけだ[10][0c]「そして、僕が『僕』であることで / 　『 || JP#8472[MED]: 「『<8a40>兄』は、<8a55>えてくれるモノでなく / 　すがりつくモノでもない[10][0c]「<8a53>勉という目的の為に人々はまとまり / 　ひと
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#8357] budget=78ch/3ln
+  NOW: For the purpose of peace,
+          the people joined together
+          to achieve a common goal.
+  JP : JP#8478[MED]: 「そして、僕が『僕』であることで / 　『あいつ』の<8a4d>った理違が / 　身に<8a59>みてわかってきた[10][0c]「ＡＲＭＳの<8a5a>間たち
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#8358] budget=63ch/3ln
+  NOW: And once you grab it
+          with your own hands,
+          real peace will come.
+  JP : JP#8479[MED]: 「ＡＲＭＳの<8a5a>間たちは / 　『<8a40>兄』である『僕』に頼ることなく / 　自分たちの力で貸に戦ってきた[10][0c]「『僕』は過歩の存帰 /
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#8359] budget=34ch/1ln
+  NOW: That was |my| hope for the future.
+  JP : JP#8480[MED]: 「『僕』は過歩の存帰 / 　対して、仲ち取るのは未期だからな[10][0c]「そして、僕も『僕』に頼ることなく / 　次回という未期を仲ち取るために / 　いっ || JP#8481[MED]: 「そして、僕も『僕』に頼ることなく / 　次回という未期を仲ち取るために / 　いっしょに戦っているつもりだ
+  FIT: <<TODO — <=34 chars, 1 line(s), <=35/line>>
+
+[US#8360] budget=55ch/2ln
+  NOW: Why are you still a |hero?|
+          Your battle should be over.
+  JP : JP#8484[HIGH]: 「そして、もうひとつの<8a3d>実〜 || JP#8482[MED]: 「よかろう〜 / 　ならば我が前に / 　守りなき、<8a3d>実をさらすがよい
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#8361] budget=73ch/3ln
+  NOW: That I am |me|
+          means that my ties to |him|
+          are the ties to keep fighting.
+  JP : JP#8485[HIGH]: 「<88f6><889b>などではない〜 / 　僕たちの参に茶めた可能性を / 　招き出そうとする試<8a01>[10][0c]「それが、もうひとつの<8a3d
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#8362] budget=56ch/3ln
+  NOW: By me being |me,|
+          |his| ideals have
+          become a part of me.
+  JP : JP#8486[HIGH]: 「それが、もうひとつの<8a3d>実ッ！
+  FIT: <<TODO — <=56 chars, 3 line(s), <=35/line>>
+
+[US#8363] budget=89ch/3ln
+  NOW: The guys from ARMS don't
+          rely on |me| to be their |hero,|
+          but fight with their own power.
+  JP : JP#8487[HIGH]: 「飛の<8a3d>実 / 　たしかに見せてもらった / 　<8a4d>りし<8a3d>実に、守りも<88c0>もない[10][0c]「飛の復め、<8a5c>む未
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#8364] budget=78ch/3ln
+  NOW: |I| am a person from the past
+          as opposed to the future which
+          must be obtained.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#8365] budget=87ch/3ln
+  NOW: I don't rely on |myself.|
+          I'm fighting together with them
+          for the future, for tomorrow.
+  JP : JP#8488[MED]: 「飛の復め、<8a5c>む未期のために / 　我がレイポイントを解殺しようッ！
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#8366] budget=84ch/3ln
+  NOW: Very well. Then, in my
+          presence I want you to disclose
+          the unchanging eternal truth.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#8367] budget=87ch/3ln
+  NOW: But I'll fight to save the people
+          and bring peace to the world.
+          That will never change.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#8368] budget=26ch/1ln
+  NOW: And, the other truth is...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#8369] budget=78ch/3ln
+  NOW: You are not an obstacle.
+          You're only a test to bring
+          out our hidden potential.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#8370] budget=23ch/1ln
+  NOW: That's the other truth!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=23 chars, 1 line(s), <=35/line>>
+
+[US#8371] budget=94ch/3ln
+  NOW: You certainly showed me
+          your truth. There are no changes or
+          shadows to the truth you spoke of.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#8372] budget=73ch/3ln
+  NOW: I'll release the Raypoint
+          for the future you desire,
+          the future you want!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#8373] budget=97ch/3ln
+  NOW: I wonder what it is? Gaia asked me
+          the same thing at the Sacrificial
+          Altar. The reason I fight...
+  JP : JP#8489[HIGH]: 「何だろう〜 / 　生け限の守<8a61>でガイアにも誓われた / 　ボクが戦う理由〜
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#8374] budget=55ch/3ln
+  NOW: I could never risk my
+          own life for
+          something like that!
+  JP : JP#8490[HIGH]: 「ボクはそんなモノのために / 　自分の命を / 　かけたりできないよッ！
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#8375] budget=88ch/3ln
+  NOW: But that's no longer it.
+          When I thought of someone beside
+          myself, I came into my powers.
+  JP : JP#8491[HIGH]: 「でも、違ったんだ〜 / 　自分以外の誰かを考えて / 　はじめて出る力に気がついたんだ
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#8376] budget=59ch/2ln
+  NOW: And in order to protect you,
+          I decided to work really hard.
+  JP : JP#8492[HIGH]: 「キミを<8a39>るために / 　がんばるって決めたんだッ！
+  FIT: <<TODO — <=59 chars, 2 line(s), <=35/line>>
+
+[US#8377] budget=33ch/2ln
+  NOW: If 3 dies,
+          Filgaia will be saved.
+  JP : JP#8493[HIGH]: 「[05]がくんが死ぬことで / 　ファルガイアが<8833>かるの[10][0c]「わたしだけじゃない / 　みんなが<8833>かるの
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#8378] budget=40ch/2ln
+  NOW: Not just me, but
+          everyone will be saved.
+  JP : JP#8494[HIGH]: 「わたしだけじゃない / 　みんなが<8833>かるの
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#8379] budget=65ch/3ln
+  NOW: I am the |Pillar.|
+          I have the power to protect
+          what is important.
+  JP : JP#8495[MED]: 「ボクは『鍵』なんだ / 　大切なモノを<8a39>る力がある[10][0c]「カンタンだよ / 　死んじゃえばいいんだよ〜
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#8380] budget=30ch/2ln
+  NOW: It's easy.
+          Just go on and die.
+  JP : JP#8496[MED]: 「カンタンだよ / 　死んじゃえばいいんだよ〜
+  FIT: <<TODO — <=30 chars, 2 line(s), <=35/line>>
+
+[US#8381] budget=96ch/3ln
+  NOW: That's the destiny you were handed.
+          But the answer 3'd find is
+          a different answer if you looked.
+  JP : JP#8497[MED]: 「それは男しつけられた運命ッ！ / 　[05]がが考えて / 　見つけた<883a>えではないのダッ！[10][0c]「プーカもいっしょに考える / 　だから『
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#8382] budget=71ch/3ln
+  NOW: I'll think about it too.
+          Find it yourself.
+          That'll be your real answer.
+  JP : JP#8498[MED]: 「プーカもいっしょに考える / 　だから『自分』で見つけよう / 　それが『<883a>え』なんダッ！
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#8383] budget=72ch/3ln
+  NOW: That part is true.
+          And in order to do that,
+          I'm willing to risk my life.
+  JP : JP#8499[MED]: 「そのために / 　命をかけたっていいと思っている
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#8384] budget=20ch/1ln
+  NOW: That's what I think!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=20 chars, 1 line(s), <=35/line>>
+
+[US#8385] budget=79ch/3ln
+  NOW: ...if something happens again
+          later, it's 3 who will
+          be the Sacrificial Pillar.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#8386] budget=95ch/3ln
+  NOW: To not be able to do anything
+          when a person close to you is
+          facing a life threatening danger...
+  JP : JP#8500[HIGH]: 「そう、思うんだよッ！
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#8388] budget=89ch/3ln
+  NOW: The reason I risk my life in
+          battle is not to save the world!
+          That's not the only reason.
+  JP : JP#8502[HIGH]: 「大切な人が / 　命の危険にさらされているのに / 　その時、何もできないなんて〜[10][0c][17]
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#8389] budget=68ch/3ln
+  NOW: It's also to create a future
+          where no one else has
+          to be sacrificed.
+  JP : JP#8503[HIGH]: [17]
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#8390] budget=104ch/3ln
+  NOW: To save the ones I care about, I
+          need to prove that the world can be
+          saved without a Sacrificial Pillar.
+  JP : JP#8504[HIGH]: 「ボクが命をかけて戦えるのは / 　世界を<8a39>ることなんかじゃないッ！ / 　それだけじゃないッ！[10][0c]「誰かの<8a67>魂の上にたつ / 
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#8391] budget=60ch/2ln
+  NOW: I won't die. I am going to
+          live and still protect the world.
+  JP : JP#8505[HIGH]: 「誰かの<8a67>魂の上にたつ / 　未期を頼らないためにッ！[10][0c]「大切な人のために〜 / 　『生け限の鍵』に頼らなくても / 　世界を<8a39
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#8392] budget=27ch/1ln
+  NOW: This is the reason I fight.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=27 chars, 1 line(s), <=35/line>>
+
+[US#8393] budget=69ch/3ln
+  NOW: You thought about it
+          and found the answer.
+          It's important to do that.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#8394] budget=88ch/3ln
+  NOW: But is this really OK?
+          Pooka's orders from Gaia were
+          to turn me into the |Pillar| right?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#8395] budget=63ch/3ln
+  NOW: And I guided you to a future
+          other than the one
+          you were dealt.
+  JP : JP#8506[MED]: 「大切な人のために〜 / 　『生け限の鍵』に頼らなくても / 　世界を<8a39>れることを<8a6a>次するためにッ！[10][0c]「ボクは死なない / 　
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#8396] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#8507[MED]: 「ボクは死なない / 　生きて、<8a39>り抜くッ！[10][0c]「ボクが見つけた / 　戦う理由は、それなんだッ！ || JP#8508[MED]: 「ボクが見つけた / 　戦う理由は、それなんだッ！
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#8397] budget=86ch/3ln
+  NOW: Pookas are meant to have no will
+          themselves. They are to act only
+          according to orders.
+  JP : JP#8510[MED]: 「でも、いいのかな？ / 　プーカはボクを『鍵』にすることが / 　ガイアから<8a6b>わされた使命なんだろ？ || JP#8509[MED]: 「自分で考え / 　<883a>えを見つける〜 / 　これは大変なことなのダ
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#8398] budget=58ch/3ln
+  NOW: But being with you,
+          I was able to think
+          and act on my own.
+  JP : JP#8511[MED]: 「そしてキミを / 　奮められた運命ではなく / 　単の未期へ友いたのダ[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「自分の意
+  FIT: <<TODO — <=58 chars, 3 line(s), <=35/line>>
+
+[US#8399] budget=100ch/3ln
+  NOW: Leading you to a different future
+          wasn't anyone else's idea, but
+          my own. I have found my own |self.|
+  JP : JP#8515[MED]: 「キミを単の未期に友いたのは / 　誰の意<8a6d>でもない、プーカなのダ / 　プーカは『自分』見つけたのダ〜 || JP#8512[MED]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「自分の意<8a6d>を持たず / 　命じられたままに動くことで / 　存帰を<8978>されたの
+  FIT: <<TODO — <=100 chars, 3 line(s), <=35/line>>
+
+[US#8400] budget=21ch/1ln
+  NOW: So, this is good-bye.
+  JP : JP#8516[MED]: 「ここで / 　お単れなのダ〜
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#8401] budget=90ch/3ln
+  NOW: I who gave up everything...
+          but the one and only thing
+          I can't give up is the |confusion.|
+  JP : JP#8517[MED]: 「すべてを姿ててきたあたしが / 　<8a71>一周て切れないもの〜 / 　それが『<8954>い』〜
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#8402] budget=54ch/2ln
+  NOW: That's how I became strong.
+          That's how I got powerful.
+  JP : JP#8518[MED]: 「そうすることで / 　あたしは強くなってきた / 　力を手に入れてきたんだ
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#8403] budget=63ch/3ln
+  NOW: That's it.
+          If I don't do it, I'll
+          never be able to be a |hero.|
+  JP : JP#8519[MED]: 「そうだ〜 / 　そうしなければ / 　『<8a40>兄』になれないのだ[10][0c]「<8a72>基（まがばらい）の力を / 　手にすることは / 　できな
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#8404] budget=52ch/2ln
+  NOW: I wasn't able to acquire
+          the power to exorcise evil!
+  JP : JP#8520[MED]: 「<8a72>基（まがばらい）の力を / 　手にすることは / 　できなかったのだッ！
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#8405] budget=103ch/3ln
+  NOW: But if you've got the blood of the
+          <Sword Magess> flowing within you,
+          why did you throw away your body?
+  JP : JP#8521[HIGH]: 「＜遠の<8a52>昔＞の<8a74>が流れているんでしょ？ / 　なのに、どうして / 　その身体を姿ててしまったの？
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#8406] budget=97ch/3ln
+  NOW: All those years past, if I had
+          endured the abuses of a bionic
+          body, I would have become a |hero?|
+  JP : JP#8522[HIGH]: 「<8a75>用数年もとうに過ぎた / 　<8a0f>体（シルエット）を協使して / 　あたしは『<8a40>兄』になれたのかな？[10][0c]「他の『渡り<
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#8407] budget=44ch/2ln
+  NOW: Am I somehow different
+          from the other Mercs?
+  JP : JP#8523[HIGH]: 「他の『渡り<8a77>』と / 　どこか違うところがあるのかな？
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#8408] budget=69ch/3ln
+  NOW: I was raised hearing
+          my mother tell stories
+          about the <Sword Magess>.
+  JP : JP#8524[HIGH]: 「ずっとお勝さんに / 　＜遠の<8a52>昔＞のことを / 　聞かされて<8a79>ったあたし〜[10][0c]「自分の中に / 　＜遠の<8a52>昔＞の<
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#8409] budget=68ch/3ln
+  NOW: I always hoped that I had
+          the blood of the <Sword Magess>
+          within me.
+  JP : JP#8525[HIGH]: 「自分の中に / 　＜遠の<8a52>昔＞の<8a74>が流れていることを / 　願ってきたあたし〜[10][0c]「『<8a40>兄』と呼ばれれば / 　今の
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#8410] budget=83ch/3ln
+  NOW: I always thought that
+          if I were a |hero,| I'd be able to
+          get out of this situation.
+  JP : JP#8526[HIGH]: 「『<8a40>兄』と呼ばれれば / 　今の状況から、きっと抜け出せると / 　信じてきたあたし〜
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#8411] budget=66ch/3ln
+  NOW: I always thought
+          about how to escape
+          from that dark slum. And I...
+  JP : JP#8527[HIGH]: 「あの暗いスラムから / 　脱け出すことをいつも考えて / 　あたしは〜
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#8412] budget=50ch/2ln
+  NOW: A world just like that slum
+          had spread everywhere.
+  JP : JP#8528[MED]: 「あのスラムと / 　同じ世界がどこまでも / 　<89da>がっていたのだ〜
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#8413] budget=42ch/2ln
+  NOW: I wanted a group of friends
+          who needed me.
+  JP : JP#8529[MED]: 「あなたを必要としてくれる / 　『<8a5a>間』が<8a7a>しかった[10][0c]「だから、必要とされる存帰<f040><f042> / 　『<8a40
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#8414] budget=71ch/3ln
+  NOW: So you wanted to be needed.
+          That's why you tried to be
+          a |hero,| right?
+  JP : JP#8530[MED]: 「だから、必要とされる存帰<f040><f042> / 　『<8a40>兄』になろうとした / 　そうよね？
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#8415] budget=6ch/1ln
+  NOW: But...
+  JP : JP#8531[MED]: 「だが〜〜
+  FIT: <<TODO — <=6 chars, 1 line(s), <=35/line>>
+
+[US#8416] budget=18ch/1ln
+  NOW: You should know...
+  JP : JP#8532[MED]: 「それはわかっているはず
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#8417] budget=41ch/2ln
+  NOW: If I do that,
+          they'll probably accept me.
+  JP : JP#8533[MED]: 「そうすれば / 　あの人たちは / 　きっとあたしを好け入れてくれるわ
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#8418] budget=51ch/2ln
+  NOW: Broken bionic implants can
+          only shorten one's life.
+  JP : JP#8534[MED]: 「滅れかけた<8a0f>体（シルエット）は / 　命を<8a83>めかねない[10][0c]「あたしを<8a34>奮しないで / 　そうすれば、<8a0f>体な
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#8419] budget=73ch/3ln
+  NOW: Don't refuse me.
+          It'll help me get back my
+          original body of living flesh.
+  JP : JP#8535[MED]: 「あたしを<8a34>奮しないで / 　そうすれば、<8a0f>体なんかじゃない / 　生身の身体を取り戻すことができるわ〜
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>

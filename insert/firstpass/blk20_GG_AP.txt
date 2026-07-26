@@ -1,0 +1,1566 @@
+# WA2 — Guild Galad / Alchemic Plant (GG) — block 20, US#4648-4860 — FIRST-PASS insert-ready
+# =========================================================================================
+# FIRST PASS (auto-generated): RE = the US localization reflowed to the display window
+#   (<=3 lines x <=35 chars), em dashes stripped, color-code artifacts removed. JP shown for
+#   reference (block-decoded; residual codes possible). This is NOT a deep literary
+#   retranslation — it gives Guild Galad / Alchemic Plant valid insert text; flag for a deep RE pass later.
+# US# reconciled by construction (IDs are the real block-20 message slots).
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#4652]
+  JP : 「あの、そのお<8928>と言ってはなんですが / 渡り<b:8a5f>の方からお聞きしたコトを / <b:8a60>えてあげましょう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Since you're such good customers, I'll tell you something I heard from a Merc.
+  RE : Since you're such good customers,
+       I'll tell you something I heard
+       from a Merc.
+
+[US#4653]
+  JP : 「ココから先側にある大きな他より / [11]お更に先側の他[11]ぉには / 何かの遺跡のようなモノがあるそうなんです
+  LIT: From the large island ahead of here, on an island still further beyond, there's said to be something like ruins. (11/ぉ emphasis; 他->島)
+  EN : Apparently, there are ruins on an 1island to the southwest0 of the large island southeast of here.
+  RE : Apparently, there are ruins on an
+       island to the southwest of the
+       large island southeast of here.
+
+[US#4654]
+  JP : 「まぁ、<b:8a61>なる<89e6>かもしれませんけど / お役に立てたらうれしいですね<b:8a3c>人がめっきり少なくなって / お<b:8a62>さんが<b:8a63>っちゃったわ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It may just be a rumor, but you never know!
+  RE : It may just be a rumor, but you
+       never know!
+
+[US#4655]
+  JP : 「でも、あの同隊さんは / いつも緒まってくれるのよ / ありがたいけど〜 お金、大<b:8a3e><b:8a3f>なのかな？<b:8a40>てくれたの / 今度、お<8928>に無料で緒めてあげよかな？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There's a soldier who stays here often, but he's run up a large bill. I hope he has money...
+  RE : There's a soldier who stays here
+       often, but he's run up a large
+       bill. I hope he has money...
+
+[US#4656]
+  JP : 「とても、うれしかったよ / 同隊って、<889c>そうなイメージがあったけど / あの同隊さんはやさしかったな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I always thought of soldiers as tough, macho types, but this one was very kind to me!
+  RE : I always thought of soldiers as
+       tough, macho types, but this one
+       was very kind to me!
+
+[US#4657]
+  JP : 「なんでだろ？<b:8a64>の<b:8a5e>をお探し？ / ウチの<b:8a5e>に何回も緒まれば / 何かいいコトがあるかもよ<f04a><b:8a3e><b:8a3f>だ / あの空もその街なんとかなる / なんたって<f040><f041><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I wonder why?
+  RE : I wonder why?
+
+[US#4658]
+  JP : 「ギルドグラードの<b:8a65><b:8a66>力は / 世界一ぃぃぃぃッ！<b:8a67>の / スーパーウェポンを<b:8a3b>備してたからだろ？<b:8a64>になったって / たとえ空が<888c>くなったって / このギルドグラードには<8934>気の<89e0>があるッ！<b:8a6
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Guild Galad has the most advanced science in the world! Yee-haw!
+  RE : Guild Galad has the most advanced
+       science in the world! Yee-haw!
+
+[US#4659]
+  JP : 「アンタの<89de><b:8a69>はどうなの？ / やっぱり、<b:8a6a><b:8a6b>？ / そっかそっか、やっぱりそうだろうなぁ<b:8a40>た人たちだね？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What about your village? Do they still use well water? They do? I knew it.
+  RE : What about your village? Do they
+       still use well water? They do? I
+       knew it.
+
+[US#4660]
+  JP : 「ここは、<8a13><b:8a50><b:8a51><b:8a52>置<b:8a6c>ギルドグラードッ！ / ハイテクな場だぜ<b:8a6d>の<b:8a5e><b:8a39>に緒まるのが / つらくなってきたよ〜<b:8a6e>ッ！ / ドラゴンを倒してくれたキミたちにも信<b:8a6e>ッ /
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Here in Guild Galad, city-state of industry, people dress flashier.
+  RE : Here in Guild Galad, city-state of
+       industry, people dress flashier.
+
+[US#4661]
+  JP : 「<f040><f041><f042>あ、ごめん / ちょっと不<b:8a6f><b:8a70>だったね〜<b:8a6d>と話をするコトができたよ / キッカケが、あの<888c>い空っていうのが / ちょっと<88c4>けないけどね〜<b:8a5e><b:8a39>の<b:8a6d>さん〜 / か
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Oops. Maybe it was indiscreet of me to say that. Ahem.
+  RE : Oops. Maybe it was indiscreet of me
+       to say that. Ahem.
+
+[US#4662]
+  JP : 「我々のしていることは / <b:8a76>とドラゴンに対する / いわば<8a2b><b:8a77>行為じゃからな〜<b:8a66>的に見てもかなり<b:8a78><b:8a79>があるな<b:8a7a><b:8a7b>を見たまえ / すばらしいだろう / これが『幻獣ドラゴン』の『合谷』だッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What we are doing is a form of blasphemy against the gods and the dragons.
+  RE : What we are doing is a form of
+       blasphemy against the gods and the
+       dragons.
+
+[US#4663]
+  JP : 「はるか<b:8a7c> / このファルガイアに様<b:8a7d>していた / <889c>るべき<b:8a7e>配者の<b:8a7f>だッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Long, long, ago, in a galaxy... I mean, in Filgaia, these frightful creatures ruled the world!
+  RE : Long, long, ago, in a galaxy... I
+       mean, in Filgaia, these frightful
+       creatures ruled the world!
+
+[US#4664]
+  JP : 「ギルドグラードの<b:8a42><b:8a5b>力を持ってすれば / あの<b:8a88>ねぇ空なんか / イッパツでクリーンにしてやれるぜッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : With Guild Galad's technology, we could clean up that dirty sky in no time!
+  RE : With Guild Galad's technology, we
+       could clean up that dirty sky in no
+       time!
+
+[US#4665]
+  JP : 「ギルドグラードの<b:8a42><b:8a5b>力を持ってすれば / <b:8a73>ドラゴンの１<b:8a89>や２<b:8a89> / イチコロだぜッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : With Guild Galad's superior fire power, we could have blasted that Dragon back into the stone age.
+  RE : With Guild Galad's superior fire
+       power, we could have blasted that
+       Dragon back into the stone age.
+
+[US#4666]
+  JP : 「ギルドグラードの<b:8a42><b:8a5b>力を持ってすれば / オデッサに<b:8a73>を撃たれる前に / なんとかできたものをッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : With Guild Galad's technology, we could have stopped Odessa from setting off that nuke!
+  RE : With Guild Galad's technology, we
+       could have stopped Odessa from
+       setting off that nuke!
+
+[US#4667]
+  JP : 「ギルドグラードの<b:8a42><b:8a5b>力を持ってすれば / オデッサの<88e6>帯の１コや２コ / <b:8a8a><b:8a61>に滅滅してやるぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : With Guild Galad's technology, we could have knocked that base of Odessa's out of commission.
+  RE : With Guild Galad's technology, we
+       could have knocked that base of
+       Odessa's out of commission.
+
+[US#4668]
+  JP : 「きっと今まで、ファルガイアを / <b:8a88>してきた<b:8a8b>なのでしょう〜<b:8a74>を<b:8a8c>料とかに使ってるから / さっきのドラゴンが<b:8a8d>って<b:8a40>たのよ / やっぱり、<b:8a8b>が辺ったんだわ<b:8a88>しすぎた / その仕<b:8
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We're being punished for polluting Filgaia. I'm sure of it.
+  RE : We're being punished for polluting
+       Filgaia. I'm sure of it.
+
+[US#4669]
+  JP : 「でもね、<8a13>場から出る<b:8a88>れた水を / 道へ流すのはオデッサと同じくらい / 悪いことだと思うの<b:8a72>くのが<b:8a4c>きなの
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But releasing factory wastewater into the oceans is a crime just as surely as Odessa's terrorism was.
+  RE : But releasing factory wastewater
+       into the oceans is a crime just as
+       surely as Odessa's terrorism was.
+
+[US#4670]
+  JP : 「ギルドグラードでは / いろいろな<b:8a8f>り物を開発しているけど / アタシには、必要ないわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There are many types of vehicles in Guild Galad, but I still prefer walking.
+  RE : There are many types of vehicles in
+       Guild Galad, but I still prefer
+       walking.
+
+[US#4671]
+  JP : 「はやく聞くコト聞き出して / <8a03><8a04>かつ確実かつ<b:8a70>重に対<b:8a90>してくれ / もちろん、ワシらも助力はおしまないぞ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Find out what you can, then act with speed and caution. We cannot help you any more.
+  RE : Find out what you can, then act
+       with speed and caution. We cannot
+       help you any more.
+
+[US#4672]
+  JP : 「しかし、ドラゴンとは良い生き物だな / 死んでいても生きていても / ワシに利<b:8a91>をもたらしてくれるッ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What wonderful creatures the Dragons are! Dead or alive, they benefit us!
+  RE : What wonderful creatures the
+       Dragons are! Dead or alive, they
+       benefit us!
+
+[US#4673]
+  JP : 「がっはっはっはっ〜<b:8b0b>[14][10]ヌ[01]<f089>[06]ギルドグラードマスター / 「なんだ？ / 先の<b:8a73>ドラゴンを<b:8a92><b:8a93>したことか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Haw haw haw!
+  RE : Haw haw haw!
+
+[US#4674]
+  JP : 「ワシは、自分のまいた<b:8a94>を / 自分で<b:8a95>ろうとしたまでのコト / 単にお前たちに<8928>を言われる<b:8a96>合いはないぞ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We merely reaped what we had sown. There is no reason to thank us.
+  RE : We merely reaped what we had sown.
+       There is no reason to thank us.
+
+[US#4675]
+  JP : 「<8928>ならこちらが言わせてもらおう / <f040><f041><f042>手間かけさせてすまなかったな<b:8b0b>[14][10]ニ[01]ｊ[06]ギルドグラードマスター / 「あの、<b:8a73>ドラゴン / グラウスヴァインをどうにかしないとな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It is I who should thank you. I apologize for the trouble we caused.
+  RE : It is I who should thank you. I
+       apologize for the trouble we
+       caused.
+
+[US#4676]
+  JP : 「今更、ムシのいい話しだが / お前たちの力を<b:8a97>してほしい
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I hope I am not pushing my luck, but we need your help.
+  RE : I hope I am not pushing my luck,
+       but we need your help.
+
+[US#4677]
+  JP : 「もちろん / ワシらもできるだけのコトはするつもりだ / すまないが頼むぞ<b:8b0b>[14][10]か[01][f5]<8a06>ギルドグラードマスター / 「ダメだッ！ ダメだッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Of course, we will assist you in any way we can. Please help us!
+  RE : Of course, we will assist you in
+       any way we can. Please help us!
+
+[US#4678]
+  JP : 「『ヘイムダル・ガッツォー』に『<b:8a73>』ッ！ / この２つの<b:8a98>っているオデッサと / どう戦えというんだッ！<b:8b06>ギルドグラードマスター / 「まさか『<b:8a73>』を<b:8a99>われるとはな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : How do we fight Odessa now that they possess both |Heimdal Gazzo| AND the nuclear weapon?
+  RE : How do we fight Odessa now that
+       they possess both |Heimdal Gazzo|
+       AND the nuclear weapon?
+
+[US#4679]
+  JP : 「<f040><f041><f042>しかし、なぜオデッサは / 『<b:8a73>』を<89dc><89dd>に<b:8a9a>んでいることを / 知っていたんだ？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But how on earth did Odessa know the nuke was on that train?
+  RE : But how on earth did Odessa know
+       the nuke was on that train?
+
+[US#4680]
+  JP : 「<f040><f041><f042>スパイでもいるというのかッ！<b:8b06>「さすがに、暗い空がこんなに<8a18>くと / 人々の心も暗くなってしまうようですね / 以前は、あんなに<b:8a9b>やかだった場が〜<b:8a75>み』のようなものを / 信じたのだが〜 私だけかな〜？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Could there be a spy in our midst?
+  RE : Could there be a spy in our midst?
+
+[US#4681]
+  JP : 「ま、我々はドラゴンの遺<b:8a74>を<88ea><b:8a67>して / <b:8a8c>料にしているのだから / それも当たり前か〜<b:8a9c><8946><b:8a9d>のじいさんが / <b:8a9e>い探をしていたが / 何か<b:8a9f>み事でもあるのかな？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I wouldn't blame the dragon for being mad. After all, we process dragon fossils into fuel.
+  RE : I wouldn't blame the dragon for
+       being mad. After all, we process
+       dragon fossils into fuel.
+
+[US#4682]
+  JP : 「ま、空がこんなになっちゃ / 気持ちも分からんではないが<b:8a42><b:8a5b>は / かなり高いようだな<b:8a71>次の遺跡を / 左<b:8a3b>したものだったそうだ<b:8aa0>がいたらオレの所に連れてこい
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Oh, well. Who can blame him with the sky the way it is?
+  RE : Oh, well. Who can blame him with
+       the sky the way it is?
+
+[US#4683]
+  JP : 「そんな<b:8aa1><b:8aa2><b:8aa3><b:8aa4>には / オレがヤキをいれてやるぜッ！<b:8aa5>』がもたらすモノの中にはな / 『<b:8a42><b:8a5b>の急<8a04>な進<b:8a72>』もあるってコトを / 忘れるなッ！<b:8a73>』を使いやがるなんて
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'll teach that hypocrite a lesson he'll never forget!
+  RE : I'll teach that hypocrite a lesson
+       he'll never forget!
+
+[US#4684]
+  JP : 「ホントに世界<b:8aa7><b:8aa8>する気が / あるのかね<b:8aa9><b:8aaa>』が / 帰らなかったらしいな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Perhaps conquering the world was never their goal.
+  RE : Perhaps conquering the world was
+       never their goal.
+
+[US#4685]
+  JP : 「だが、たった一人の<b:8aab><b:8aac>で / <88e6>帯一つを<b:8aad>せたんだから / それはそれで、スゲェことだぜ<b:8a40>て辺さいました
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But perhaps you were fortunate to destroy Odessa's base with the loss of only one life.
+  RE : But perhaps you were fortunate to
+       destroy Odessa's base with the loss
+       of only one life.
+
+[US#4686]
+  JP : 「ドラゴンの生体サンプルの解<b:8aae>によって / 使用者の<88ea><b:8a76>力をアームに付<b:8aaf>する / 『フルフラット』が<88ad>成したのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I have created Full Clip, a device that transfers the user's telepathic strength to an ARM.
+  RE : I have created Full Clip, a device
+       that transfers the user's
+       telepathic strength to an ARM.
+
+[US#4687]
+  JP : 「まだ、制<89c7>が<b:8ab0>しいですが / [05]ぉさんなら / 使いこなせると思います
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It is somewhat difficult to control, but I am sure you could handle it, 0.
+  RE : It is somewhat difficult to
+       control, but I am sure you could
+       handle it, .
+
+[US#4688]
+  JP : 「<88f7>意帯としては / 発動するとアームの全<b:8a43>を発<b:8ab1>し<b:8ab2>くして / しまうこと
+  LIT: (literal pending: JP has unsolved codes)
+  EN : One thing to keep in mind is that it discharges every round in your ARM when activated.
+  RE : One thing to keep in mind is that
+       it discharges every round in your
+       ARM when activated.
+
+[US#4689]
+  JP : 「また、アームの残<b:8ab3>年によって / 威力が変合します / どうぞ、<b:8ab4>けとってください<b:8a87>得した<b:8ab5>上は、機<b:8ab6>がいいと / つい調家に<b:8a8f>ってしまいがちなのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Also, how powerful it is depends on your ARM's remaining ammo count when you equip it. Here, take it!
+  RE : Also, how powerful it is depends on
+       your ARM's remaining ammo count
+       when you equip it. Here, take it!
+
+[US#4690]
+  JP : 「<b:8ab7><b:8ab8>が過ぎるコトがありますが / どうか、大目に見てやってください〜〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Please forgive him if he takes a joke a little too far.
+  RE : Please forgive him if he takes a
+       joke a little too far.
+
+[US#4691]
+  JP : 「少しでもファルガイアの為に / 役立ってくれたらうれしいです
+  LIT: I'd be glad if it helped, even a little, for the sake of Filgaia.
+  EN : Please use it in the fight to save Filgaia!
+  RE : Please use it in the fight to save
+       Filgaia!
+
+[US#4692]
+  JP : 「今回の件で / <b:8ab5>上も少し変わったような気がします
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The recent events seem to have changed my father, too.
+  RE : The recent events seem to have
+       changed my father, too.
+
+[US#4693]
+  JP : 「今回の件で / <b:8ab5>上も少し変わったような気がします
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The recent events seem to have changed my father, too.
+  RE : The recent events seem to have
+       changed my father, too.
+
+[US#4694]
+  JP : 「ファルガイアに<b:8a85><b:8a86>が戻ると / そう、信じていたのに〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : would solve everything and bring peace back to Filgaia.
+  RE : would solve everything and bring
+       peace back to Filgaia.
+
+[US#4695]
+  JP : 「この<888c>い空〜 / まるで、オデッサの<b:8ab9>念を表わしている〜 / そのように信じずには、いられません〜<b:8aba>通りに / なってしまうのでしょうか〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I can't help thinking that the black sky is a curse that Odessa put on us.
+  RE : I can't help thinking that the
+       black sky is a curse that Odessa
+       put on us.
+
+[US#4696]
+  JP : 「<f040><f041><f042>それから『<b:8a73>』のコトですが〜 / わたくしも知らなかったコトとはいえ / <88fc>してしまったみたいですみませんでした〜<b:8a9e>い空には戻らない / 何が<89af><89b0>なのか、どうすれば戻るのか / そして、<b:8a81>の
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I apologize for keeping the nuke a secret. I did not know myself, but I feel as if I deceived you.
+  RE : I apologize for keeping the nuke a
+       secret. I did not know myself, but
+       I feel as if I deceived you.
+
+[US#4697]
+  JP : 「〜ん？ / 今、変な<b:8a71>法の使い方をしたような〜？ / まあ、いいか<b:8a9c><8946><b:8a9d>のおじいさんなら知ってるかもよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Wait a minute. |Real truth| ... Does that make sense? Ah, forget it.
+  RE : Wait a minute. |Real truth| ...
+       Does that make sense? Ah, forget
+       it.
+
+[US#4698]
+  JP : 「なんたって、<b:8a9c><8946><b:8a9d>の<b:8abb>だからね<b:8a73>ドラゴン攻撃<b:8a83>ぎの時 / なぜかギルドグラードマスターが / やる気全開だったんだ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He's the Lord of the Library.
+  RE : He's the Lord of the Library.
+
+[US#4699]
+  JP : 「おかげで、俺はコキ使われちゃったよ〜 / ああ、<b:8abc><b:8abd>が<b:8abd>いよ〜〜〜ん？ / 今、変な<b:8a71>法の使い方をしたような〜？<b:8abe>する<b:8abe>が多くなってね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I am SO overworked! Man, my head STILL aches... or is it |hurts|? Which do you think is better?
+  RE : I am SO overworked! Man, my head
+       STILL aches... or is it |hurts|?
+       Which do you think is better?
+
+[US#4700]
+  JP : 「そこで、閉<b:8abe><8937>念の『<b:8abf><b:8ac0><8a0c><892e>』を / プレゼントされたんだ / でも、変な<b:8a71>法の使い方をしたような〜？<b:8ab6>になるのも / 仕方ないですね〜<b:8a3c>の行<8815>人たちが<89e6>していたの
+  LIT: (literal pending: JP has unsolved codes)
+  EN : One store gave me a going-out-of- business gift. Hey... That doesn't make sense, does it?
+  RE : One store gave me a going-out-of-
+       business gift. Hey... That doesn't
+       make sense, does it?
+
+[US#4701]
+  JP : 「それは、『みんなが今回も無事だった』〜 / <b:8ac1><b:8ab3>は、全<8844>気にも止めなかった事ですが / とっても、大切なコトだったんですね<b:8ac2>りが、まだまだ<89b9>いのでしょうか〜？<b:8a76>よ、どうか世界をお<8832>い辺さい〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I have learned to be grateful when everyone makes it through another day alive and safe.
+  RE : I have learned to be grateful when
+       everyone makes it through another
+       day alive and safe.
+
+[US#4702]
+  JP : 「そういえば、ココから[11]お先側[11]ぉに / ヘビがとぐろを<8812>いた方な他があるんじゃが / そこには、地<89f4>が<8880>まっているそうじゃ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : To the 1southeast0 is an island that resembles a coiled snake. They say energy collects there.
+  RE : To the southeast is an island that
+       resembles a coiled snake. They say
+       energy collects there.
+
+[US#4703]
+  JP : 「そこがレイポイントかもしれんぞい
+  LIT: That might be a Raypoint.
+  EN : That might be a Raypoint.
+  RE : That might be a Raypoint.
+
+[US#4704]
+  JP : 「人の手が入りにくい所が可能性が高いの / <8943>えば、枯谷の枯口とかじゃな〜<b:8a73>ドラゴン』じゃが / 古代<b:8a71>次時に作られた / 『同時』らしいのじゃ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : inaccessible place -- like the crater of a volcano, for instance.
+  RE : inaccessible place, like the crater
+       of a volcano, for instance.
+
+[US#4705]
+  JP : 「何回かの同時実験をしていた / <8937><8938>も残っておる / それが破滅への<b:8a93>だったのかもしれんの〜<b:8a73>』の / 落辺地帯を調べておるんじゃが〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The ancient texts say experiments were held. Maybe they are what led to ancient civilization's collapse.
+  RE : The ancient texts say experiments
+       were held. Maybe they are what led
+       to ancient civilization's collapse.
+
+[US#4706]
+  JP : 「もしかしたら〜 / いや、ワシの特<b:8ac3>違いじゃろ〜 / そう、間違いであってほしいの〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It looks like it's... Oh, these calculations must be wrong. I HOPE they are wrong!
+  RE : It looks like it's... Oh, these
+       calculations must be wrong. I HOPE
+       they are wrong!
+
+[US#4707]
+  JP : 「４鍵のうちの１鍵が / [11]おギルドグラードから先東の谷を<b:8ac4>えた岸り[11]ぉに / あることが分かったんじゃ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There are 4 altogether. This one is located 1beyond the mountain southwest of Guild Galad0.
+  RE : There are 4 altogether. This one is
+       located beyond the mountain
+       southwest of Guild Galad.
+
+[US#4708]
+  JP : 「このことは、ヴァレリアシャトーの / オペレーターお<b:8ac5>ちゃんにも伝えとくぞい<b:8a9c><8946><b:8a9d>の<b:8ac6>理者じゃ / 口の悪い連中は / 『<b:8a9c><8946><b:8a9d>の<b:8abb>』と呼ぶがの<b:8ac7>まったわ / 私もね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'll tell that young lady operator at Valeria Chateau!
+  RE : I'll tell that young lady operator
+       at Valeria Chateau!
+
+[US#4709]
+  JP : 「<f040><f041><f042>あっと / 私がこんなこと言ってたなんて街<b:8ac9>だよ<f044> / 〜でも<8a0d>いなぁ、まだ<b:8aca>りてないのかな〜<b:8a40>てくれたのよ / フッた私を心配してくれるなんて〜<f044>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm waiting for him now. But what could be keeping him? He'd better not stand me up like last time!
+  RE : I'm waiting for him now. But what
+       could be keeping him? He'd better
+       not stand me up like last time!
+
+[US#4710]
+  JP : 「その後、<b:8a6e>ってきたんだけど〜 / <b:8acb>って<894f>げちゃったの
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Afterwards, he said he was sorry, but then he ran away.
+  RE : Afterwards, he said he was sorry,
+       but then he ran away.
+
+[US#4711]
+  JP : 「その場で<8978>しても良かったんだけど / こっちから<b:8a6e>りたかったから〜<f044> / <f040><f041><f042>私って、意地っ<b:8acc>りかもね？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I should have forgave him then and there, but my foolish pride wouldn't let me.
+  RE : I should have forgave him then and
+       there, but my foolish pride
+       wouldn't let me.
+
+[US#4712]
+  JP : 「<f040><f041><f042>あぁ〜 / あの<888c>い空は / 私の心<b:8acd>を表わしているようだわ〜<f05a><b:8ace>違いしてたのよ / まったく、どこか抜けてるんだから
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Sigh! My heart is as dark as the sky above!
+  RE : Sigh! My heart is as dark as the
+       sky above!
+
+[US#4713]
+  JP : 「でも、そこがいいところなのかもね〜<f044> / <f040><f041><f042>にしても<8a0d>いわねぇ<b:8acf>重の時間になっても<b:8a40>ないのよねぇ〜 / まったく、何をしてるのかしらッ<f059><b:8a64><b:8ad0>人間の僕としては / 空がずっと暗くて
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But that's part of his charm. Hey, he's late again today, too!
+  RE : But that's part of his charm. Hey,
+       he's late again today, too!
+
+[US#4714]
+  JP : 「まぁ、その後 / オレも急いで<894f>げたけどね〜<b:8a38>気は、それほど変わってないよ / こんな時だからこそ、元気を出さなくちゃな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : And then I high-tailed it out of there, too!
+  RE : And then I high-tailed it out of
+       there, too!
+
+[US#4715]
+  JP : 「でも、オデッサみたいな<b:8ad4>は / <b:8ace><b:8ad5>してほしいよ<b:8a82>多な信じがするだろ？ / でも、オレはそこが<b:8a4c>きなんだ<b:8a55>時が必要になるコトもあるだろう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Of course, I could do without those Odessa guys.
+  RE : Of course, I could do without those
+       Odessa guys.
+
+[US#4716]
+  JP : 「だが、使い方を<b:8ad6>り / スレイハイムのニの<b:8ad7>だけには / ならないようにな<b:8a7c>は、今は亡きスレイハイムと / <b:8a55>時などの開発を<b:8ad8>っていたものだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But we have to use them carefully to avoid ending up like Slayheim.
+  RE : But we have to use them carefully
+       to avoid ending up like Slayheim.
+
+[US#4717]
+  JP : 「やはり、<b:8ad8>い合っていた頃の方が / <b:8a42><b:8a5b>の進<b:8a72>が早かったな<b:8a55>時の<b:8ad9><b:8a45>を命じたらしい〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Technological progress was a lot faster in those days.
+  RE : Technological progress was a lot
+       faster in those days.
+
+[US#4718]
+  JP : 「一体、何と戦うつもりなのだ？<b:8a55>時は、使い方によって / 人々の脅威にも / 愛する人を<b:8ada>ることもできる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Who does he intend to fight?
+  RE : Who does he intend to fight?
+
+[US#4719]
+  JP : 「使い方を間違えないことだ<b:8a55>時なども / ギルドグラード<b:8a67>のモノが / 結<8968>あるはずだ<b:8a6e>ってきて / <8978>してくれたよ<f04a> / 俺が<b:8a6e>った時の<b:8adb>意が伝わったのかな？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : IF used properly, that is.
+  RE : IF used properly, that is.
+
+[US#4720]
+  JP : 「今回は / <b:8adc><8865>りしてから押めてのデートなのさ / <f040><f041><f042>でも、彼女<8a0d>いなぁ〜<f04b><b:8a40>た時に / 彼女のコトが心配になって / 行ってみたんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Today is our first date since we made up. But she's late. I wonder what's keeping her...
+  RE : Today is our first date since we
+       made up. But she's late. I wonder
+       what's keeping her...
+
+[US#4721]
+  JP : 「ちょうど、<b:8a6e>りたかったし / 式いたかったし〜 / でも、ダメだったなぁ〜<b:8ace>違いしてたんだ / 彼女、<b:8a8d>ってたけど何とか<8978>してもらったよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I wanted to see her. I told her I was sorry, but it was no use.
+  RE : I wanted to see her. I told her I
+       was sorry, but it was no use.
+
+[US#4722]
+  JP : 「でも、今回も彼女<8a0d>いなぁ〜<f04b>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But now today, she's late.
+  RE : But now today, she's late.
+
+[US#4723]
+  JP : 「じゃあ、あたしはノエル様を / 『がんばれ、がんばれ』って / 応<b:8add>をかんばろうかな<b:8add>するのも / 大事なことなのよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I think I'll do my part by encouraging Noel to do his best!
+  RE : I think I'll do my part by
+       encouraging Noel to do his best!
+
+[US#4724]
+  JP : 「そうやって / あたしの『がんばり』を / ちょっとづつ分けてあげられるんだから<b:8a4c>きだよ / でも、先のことは / わからないって言うじゃない〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Besides, emotional support brings you closer to the person you support.
+  RE : Besides, emotional support brings
+       you closer to the person you
+       support.
+
+[US#4725]
+  JP : 「オンナ心とファルガイアの空って
+  LIT: A woman's heart and Filgaia's sky are... (setup for a pun, cut off)
+  EN : is like the sky... Wait a minute!
+  RE : is like the sky... Wait a minute!
+
+[US#4726]
+  JP : 「あれれ〜 / それじゃあ、<b:8a81>っ暗けってこと？<b:8ade>方なんて / あたしには<b:8a78><b:8a79>無いわよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I hope he didn't think I meant a woman's heart is perpetually dark!
+  RE : I hope he didn't think I meant a
+       woman's heart is perpetually dark!
+
+[US#4727]
+  JP : 「ノエル様といっしょなら / 小さいお<b:8a6c>の方がいいかもね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If I can be with Noel, I wouldn't mind living in a small house.
+  RE : If I can be with Noel, I wouldn't
+       mind living in a small house.
+
+[US#4728]
+  JP : 「だって〜 / いつも<89f5>にいられるでしょ<b:8adf>さんになると / 未<b:8a40>のギルドグラードマスター<b:8ae0>ね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Besides, in a small house, we would always be close to each other.
+  RE : Besides, in a small house, we would
+       always be close to each other.
+
+[US#4729]
+  JP : 「あたしには自信無いな〜
+  LIT: I don't have much confidence in myself.
+  EN : I wonder if I'm cut out for that.
+  RE : I wonder if I'm cut out for that.
+
+[US#4730]
+  JP : 「モテモテなのよ〜<b:8ae1>なのよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : All the girls are crazy about him!
+  RE : All the girls are crazy about him!
+
+[US#4731]
+  JP : 「信じられる？<b:8ae2>に<b:8ae3>されている<b:8a7a>をよく見ると小さなスイッチがある
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Can you believe it?
+  RE : Can you believe it?
+
+[US#4732]
+  JP : ＊スイッチを<b:8ae3>しますか？ / １．<b:8ae3>すしかないでしょッ！ / ２．止めるに<b:8ae4>る[1a]か<b:8a84>がした<b:8ae5>られている / <8875><b:8ab3>は<f041><f041><f041>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Do you wish to press the switch? 1. Press away! 2. I don't think so.2
+  RE : Do you wish to press the switch? .
+       Press away! 2. I don't think so.2
+
+[US#4733]
+  JP : ＊とても高いので見なかったことにしよう<b:8a79>の良さそうな<b:8ae6>が / 所<b:8ae7>しと<b:8ae8>べられている<b:8a43>だ / だが、<b:8ae9>人用アームで使用するものでは / ないようだ<b:8a45><b:8a50>置<b:8a6c>として発<b:8ae
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Don't even THINK of buying one!
+  RE : Don't even THINK of buying one!
+
+[US#4734]
+  JP : ＊その中でも、機艇生命体ドラゴンの合谷は / ロストテクノロジーとも違った / 結単な<b:8a42><b:8a5b>面態をしている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : One is Dragon fossils. Fossils of these organo-mechanical beasts are unlike even Lost Technology.
+  RE : One is Dragon fossils. Fossils of
+       these organo-mechanical beasts are
+       unlike even Lost Technology.
+
+[US#4735]
+  JP : ＊その結異な性質のため / ドラゴンの合谷は多くの<b:8a42><b:8a5b>者を / <b:8aeb><8837>してやまない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The special qualities of Dragon fossils have fascinated countless engineers and scientists.
+  RE : The special qualities of Dragon
+       fossils have fascinated countless
+       engineers and scientists.
+
+[US#4736]
+  JP : ＊それらの合谷の解<b:8aae>を行い / その<b:8a42><b:8a5b>を応用した<8a13><b:8a50><b:8a67><892e>を作り出し / 配置へ<b:8aed>出している
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They used the technology in such fossils to create products for export to other nations.
+  RE : They used the technology in such
+       fossils to create products for
+       export to other nations.
+
+[US#4737]
+  JP : ＊<b:8aee><b:8a9a>された<b:8a42><b:8a5b>は / さらなる<b:8a42><b:8a5b>となり / 人々の生<b:8a38>の向上に<b:8a38>用されるだろう<b:8aef><b:8a6c>の<89e1>り言<b:8af0>の<89a3>にはなにがある〜<b:8a
+  LIT: (literal pending: JP has unsolved codes)
+  EN : This technology will give rise to new technologies that will make people's lives even better.
+  RE : This technology will give rise to
+       new technologies that will make
+       people's lives even better.
+
+[US#4738]
+  JP : 「お前たちに / 護衛を<8923>頼したのは / この無方を見るためではないんだぞッ！<b:8ab5>上ッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I did not hire you to escort my son so that you could wreck my property!
+  RE : I did not hire you to escort my son
+       so that you could wreck my
+       property!
+
+[US#4739]
+  JP : 「それは彼らに対して / 失<8928>ではありませんかッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Father, you mustn't be so rude to them!
+  RE : Father, you mustn't be so rude to
+       them!
+
+[US#4740]
+  JP : 「わたくしはこうして / 無事にギルドグラードまで / たどり着くことができたのです
+  LIT: That I was able to make it safely all the way back to Guild Galad like this...
+  EN : The only reason I made it back home safely to Guild Galad
+  RE : The only reason I made it back home
+       safely to Guild Galad
+
+[US#4741]
+  JP : 「これもひとえに / 彼らたち / ＡＲＭＳの<b:8ab2>力と言えましょう<b:8af2>物<89dd><b:8af3>を切り離すとは〜<b:8af4>、助かったのです<b:8ab5>上、何をそれほどまでに / あわてているのですか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : is that the ARMS team protected my life with such valor and tireless effort.
+  RE : is that the ARMS team protected my
+       life with such valor and tireless
+       effort.
+
+[US#4742]
+  JP : 「こうして、わたくしは無事に<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I am safe, am I not?
+  RE : I am safe, am I not?
+
+[US#4743]
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: ...gaoo... gaoo... gaoo... (16 = SFX code)
+  EN : ...30 30 30
+  RE : ...30 30 30
+
+[US#4744]
+  JP : 「〜<b:8ab5>上、まさか / オデッサにねらわれていたのは / わたくしではなく、<b:8af2>物<89dd><b:8af3>の方ですね？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Father... Was it the freight cars and not me that Odessa was after?
+  RE : Father... Was it the freight cars
+       and not me that Odessa was after?
+
+[US#4745]
+  JP : 「そ、それは〜<b:8af5><b:8af6>や金<b:8af7>を失ったくらいでは / そこまで<b:8af8><b:8af9>する<b:8ab5>上ではないはず
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I... I just...
+  RE : I... I just...
+
+[US#4746]
+  JP : 「まさか<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Unless there was something else...
+  RE : Unless there was something else...
+
+[US#4747]
+  JP : 「置<b:8afa>に反するような同時を〜 / イスカリオテ<b:8afb><b:8acf>にて<b:8afc>止された / 幻同時を保作するつもりだったのですかッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Father! Did you mean to acquire a Super Weapon banned under the Treaty of Iscariot? How could you?!
+  RE : Father! Did you mean to acquire a
+       Super Weapon banned under the
+       Treaty of Iscariot? How could you?!
+
+[US#4748]
+  JP : 「いよいよもって / あなた方が<b:8afd>められることはありません / これはギルドグラードの過ちです<b:8ab5>は、わたくしの護衛と<b:8aa1>って / <b:8af2>物<89dd><b:8af3>の同時を<b:8ada>らせるハラでした
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There is no reason for you to be blamed. This is the fault of Guild Galad.
+  RE : There is no reason for you to be
+       blamed. This is the fault of Guild
+       Galad.
+
+[US#4749]
+  JP : 「おそらく、<b:8b01><b:8b02><b:8b03>に発<885f>した / ロストテクノロジー同時の一<b:8a94>でしょう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I suspect it was a Lost Technology weapon unearthed in secrecy.
+  RE : I suspect it was a Lost Technology
+       weapon unearthed in secrecy.
+
+[US#4750]
+  JP : 「それが、今回の件で / オデッサの手に落ちてしまったのです
+  LIT: And now, in this affair, it has fallen into Odessa's hands.
+  EN : But that weapon has fallen into the hands of Odessa.
+  RE : But that weapon has fallen into the
+       hands of Odessa.
+
+[US#4751]
+  JP : 「俺たちをだましていたことは / 確かに<8978>せないことだ / でも〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I resent being deceived. That is inexcusable. However...
+  RE : I resent being deceived. That is
+       inexcusable. However...
+
+[US#4752]
+  JP : 「それならば / 俺たちにも手伝えることがある
+  LIT: In that case, there's something we can help with too.
+  EN : What's done is done. We must now focus on repairing the damage.
+  RE : What's done is done. We must now
+       focus on repairing the damage.
+
+[US#4753]
+  JP : 「ヤツらが手に入れた幻同時で / 何をしようとも / 俺たちが必ずくいとめよう
+  LIT: Whatever they mean to do with the Super Weapon they've obtained, we'll be sure to stop it. (幻同時->幻獣/超兵器 decode garble)
+  EN : We must thwart whatever evil scheme Odessa is planning with that Super Weapon.
+  RE : We must thwart whatever evil scheme
+       Odessa is planning with that Super
+       Weapon.
+
+[US#4754]
+  JP : 「ギルドグラードマスターの<89e2>家として / そう<b:8b04>し出てくれることほど / うれしいことはありません時っていったい何なの？ / <b:8afc>止されるくらい強力なんでしょ？<b:8ab5>上、すべてをお話しください
+  LIT: (literal pending: JP has unsolved codes)
+  EN : As son of Guild Galad Master, I can think of nothing better than to hear you say that!
+  RE : As son of Guild Galad Master, I can
+       think of nothing better than to
+       hear you say that!
+
+[US#4755]
+  JP : 「こうなってしまっては / 彼らに<b:8b05>すしかないのです<b:8af2><89dd>に<b:8a9a>んでいた同時とは〜 / スレイハイム戦跡より回<8939>した同時とは〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Only they can help us now!
+  RE : Only they can help us now!
+
+[US#4756]
+  JP : 「その地には生命の<89e2><b:8b0a>が<b:8a5e>ること<b:8b0b>わず / <b:8b0c><b:8b0d>の死せる大地と合すといいます
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It destroys all life and renders the land eternally uninhabitable!
+  RE : It destroys all life and renders
+       the land eternally uninhabitable!
+
+[US#4757]
+  JP : 「そのような地に<889a>われた世界を / 誰が<b:8b0e>んで<b:8aa7><b:8aa8>しましょうか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Why would Odessa wish to rule a barren, lifeless world?
+  RE : Why would Odessa wish to rule a
+       barren, lifeless world?
+
+[US#4758]
+  JP : 「わしも<b:8a73>同時を / オデッサを<b:8b0f>制するための / いわば<b:8b10>止力として用いるつもりだった
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I, too, sought a nuclear weapon as a deterrent with which to counter Odessa's threat.
+  RE : I, too, sought a nuclear weapon as
+       a deterrent with which to counter
+       Odessa's threat.
+
+[US#4759]
+  JP : 「ヤツらもまた / <88fa><b:8b11>の手<b:8ab3>として / <b:8a73>同時を<b:8b12>りかざしてくるはずだ<b:8b13>をちらつかせる前に / <b:8a73>同時を何とかしなければ<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : After all, Odessa is sure to use its nuclear weapon at the bargaining table.
+  RE : After all, Odessa is sure to use
+       its nuclear weapon at the
+       bargaining table.
+
+[US#4760]
+  JP : 「<f040><f042>[05]ぉさん〜 / どうかしました？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : 0... What is it?
+  RE : ... What is it?
+
+[US#4761]
+  JP : 「オデッサの言う『世界<b:8aa7><b:8aa8>』って / 大変なことなんだなって〜 / 考えていたんだ<b:8b14>ってきた
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It just occurred to me that the |world domination| Odessa seeks is a truly formidable task.
+  RE : It just occurred to me that the
+       |world domination| Odessa seeks is
+       a truly formidable task.
+
+[US#4762]
+  JP : 「でも、みんなそれぞれ / 自分の意<b:8b15>や考えを持っていた〜 / あたり前のことだけどね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : All had their own ideas and their own way of doing things. I'm only stating the obvious, of course.
+  RE : All had their own ideas and their
+       own way of doing things. I'm only
+       stating the obvious, of course.
+
+[US#4763]
+  JP : 「中には目的を同じくする人たちもいた / でも、その達成手<b:8ab3>は / やっぱりバラバラだったんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Even people who shared the same goal used different methods to achieve that goal. In short,
+  RE : Even people who shared the same
+       goal used different methods to
+       achieve that goal. In short,
+
+[US#4764]
+  JP : 「人の心は、ひとつではない〜
+  LIT: People's hearts are not all one; (no two think alike)
+  EN : no two people think alike.
+  RE : no two people think alike.
+
+[US#4765]
+  JP : 「人の年だけ思<b:8aba>が<88fa><b:8b16>する / このファルガイア〜 / 『<b:8aa7><b:8aa8>』の一言でまとめられるのだろうか〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Accordingly, words like |conquer| and |dominate| mean different things to different people.
+  RE : Accordingly, words like |conquer|
+       and |dominate| mean different
+       things to different people.
+
+[US#4766]
+  JP : 「『世界<b:8aa7><b:8aa8>』という<b:8b17>きには / 一<b:8a94><b:8b18><b:8a5c>なモノがあります
+  LIT: (literal pending: JP has unsolved codes)
+  EN : |World domination| may sound like a lofty goal.
+  RE : |World domination| may sound like a
+       lofty goal.
+
+[US#4767]
+  JP : 「ですが、実<89d2>に<b:8b19>分するにあたって / <b:8b1a><b:8ab0>ばかりで / 決して、<b:8b1b>心地の良いモノではないはずです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But the day-to-day job of actually ruling the world would be fraught with overwhelming difficulty.
+  RE : But the day-to-day job of actually
+       ruling the world would be fraught
+       with overwhelming difficulty.
+
+[US#4768]
+  JP : 「その地<b:8b1c>性、<b:8b1d>式性〜 / <b:8a45><b:8a50>や法制度〜 / [05]ぉさんの言う、人の心〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Each area has its own customs, its own industry, its own laws. Its own way of thinking!
+  RE : Each area has its own customs, its
+       own industry, its own laws. Its own
+       way of thinking!
+
+[US#4769]
+  JP : 「ひとつに / まとめなければならないことは / たくさんありすぎます〜<b:8aa7><b:8aa8>』が / どれほど現実<b:8a79>のないことか見えてくる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There is simply too much diversity for the world to be ruled by any one group.
+  RE : There is simply too much diversity
+       for the world to be ruled by any
+       one group.
+
+[US#4770]
+  JP : 「それでも、俺たちの前には / それを為そうとする者が / 立ちはだかってくる<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Yet we face an enemy who is trying to achieve that very goal.
+  RE : Yet we face an enemy who is trying
+       to achieve that very goal.
+
+[US#4771]
+  JP : 「でも、今、この<b:8b1e>間 / オデッサは誰かを苦しめているんだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : is certain is that Odessa is causing suffering right NOW.
+  RE : is certain is that Odessa is
+       causing suffering right NOW.
+
+[US#4772]
+  JP : 「やっつけなくちゃ / いけないんだよ〜<b:8b1f>しみません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We must stop them. We must DESTROY them!
+  RE : We must stop them. We must DESTROY
+       them!
+
+[US#4773]
+  JP : 「ですよね？ / <b:8ab5>上〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Isn't that right, father?
+  RE : Isn't that right, father?
+
+[US#4774]
+  JP : 「テレポートオーブの / <b:8b20>移<b:8b21>果に対応した / アポーツ機能を<887c><887d>だ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We'll give it an Aport Feature, which is similar to the Teleport Orb.
+  RE : We'll give it an Aport Feature,
+       which is similar to the Teleport
+       Orb.
+
+[US#4775]
+  JP : 「これで / ファルガイア外道の<b:8b22>行も可能となる / 頼む、ヤツらを止めてくれ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You'll be able to go anywhere in the seas of Filgaia. So please, stop them.
+  RE : You'll be able to go anywhere in
+       the seas of Filgaia. So please,
+       stop them.
+
+[US#4776]
+  JP : 「現在、<b:8a73>ドラゴン『グラウスヴァイン』は / 最大<8a04>度４８０で / ファルガイアに向かって降辺中
+  LIT: (literal pending: JP has unsolved codes)
+  EN : the Nuclear Dragon |Grauswein| is now heading toward Filgaia at a top speed of 480.
+  RE : the Nuclear Dragon |Grauswein| is
+       now heading toward Filgaia at a top
+       speed of 480.
+
+[US#4777]
+  JP : 「グラウスヴァイン自身が放つ<8868><886f>が / レーダーの観待機能を<b:8b25>わすジャマーとなり / 新確な<b:8b26>道待定に<b:8a7e><88f6>が生じています
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The heat given off by Grauswein has a radar-jamming effect, preventing precise trajectory determination.
+  RE : The heat given off by Grauswein has
+       a radar-jamming effect, preventing
+       precise trajectory determination.
+
+[US#4778]
+  JP : 「降辺地帯のわりだしには / もう少し時間が必要です<b:8b07><b:8a45>というわけじゃな<b:8a73>ドラゴン〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It will take a little longer to extrapolate the point of impact.
+  RE : It will take a little longer to
+       extrapolate the point of impact.
+
+[US#4779]
+  JP : 「<b:8b27>りましたね〜 / どちらも私たちの / 理解の<b:8b08><b:8b28>を<b:8ac4>えています<b:8a92><b:8a93>できれば、あるいは〜<b:8b29>よ<b:8a73>ドラゴンだが、降辺したからといって / すぐには<b:8b2a>発しないのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Both are beyond my powers of understanding. I am at a loss.
+  RE : Both are beyond my powers of
+       understanding. I am at a loss.
+
+[US#4780]
+  JP : 「<b:8a71><b:8b2b>によると / <b:8b2c><b:8b2d><8865>後のグラウスヴァインは / カラっぽの反応<b:8b2e>みたいなもんでな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The ancient records say that Grauswein is simply an empty reactor when first summoned.
+  RE : The ancient records say that
+       Grauswein is simply an empty
+       reactor when first summoned.
+
+[US#4781]
+  JP : 「体街に、エネルギーを<b:8aee>え / そいつを使って<b:8a73>反応を<b:8b2f>起させるらしい<b:8b2a>発の仕<b:8b30>みなど<89c7>高説されても / いったい、何の役に<f040><f042><b:8b31>いな / [0a]ぉ<b:8b32>は〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He must accumulate energy before initiating a nuclear reaction.
+  RE : He must accumulate energy before
+       initiating a nuclear reaction.
+
+[US#4782]
+  JP : 「そう、グラウスヴァインは / 取り込むエネルギーを<b:8a3a>めて行動する
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Grauswein will first seek out sources of energy to absorb.
+  RE : Grauswein will first seek out
+       sources of energy to absorb.
+
+[US#4783]
+  JP : 「<89c1>に言えば / 高エネルギー反応をちらつかせてやれば / つまり〜<b:8a51><b:8a52><8968>右は / <8a13><b:8b33>の<8880>合体〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That means he could be lured with a high-energy reaction. In other words...
+  RE : That means he could be lured with a
+       high-energy reaction. In other
+       words...
+
+[US#4784]
+  JP : 「それぞれの<8a13><b:8b33>を / コンビナート状にリンクさせれば / アルケミックプラント<b:8ae8>みの出力も可能だ<b:8b29>よ / 自分の置をエサにするつもりか？<b:8b34><b:8b35>させるつもりはない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If linked, they would form a huge complex with an energy output equivalent to Alchemic Plant!
+  RE : If linked, they would form a huge
+       complex with an energy output
+       equivalent to Alchemic Plant!
+
+[US#4785]
+  JP : 「ギルドグラードマスター〜 / ご発力、<b:8abd>み入ります<b:8aff>[0e][f3][ff]や<b:8b36>なことを言うように？<b:8afd>任があるからな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Guild Galad Master, I am truly grateful to you.
+  RE : Guild Galad Master, I am truly
+       grateful to you.
+
+[US#4786]
+  JP : 「それに、わしとて / ファルガイアに生きる命のひとつ / 悪あがきくらいしてみるわい
+  LIT: Besides, I too am one life living in Filgaia; I'll at least put up a desperate struggle.
+  EN : Besides, as a proud Filgaian, I'll be damned if I go out without a fight.
+  RE : Besides, as a proud Filgaian, I'll
+       be damned if I go out without a
+       fight.
+
+[US#4787]
+  JP : 「こっちは<8a13><b:8b33>をリンクして / <b:8b37><b:8b38>ジェネレイター右りに / かかるとするかな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We will start linking the city's factories to create our makeshift generator!
+  RE : We will start linking the city's
+       factories to create our makeshift
+       generator!
+
+[US#4788]
+  JP : 「作戦は、成<b:8b39>です<b:8b3a>を<b:8b12>り<b:8b3b>えたな<b:8b3c>なんでな<b:8b3d><b:8b3e>なもんだな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The mission was a success.
+  RE : The mission was a success.
+
+[US#4789]
+  JP : 「<b:8a73>の<b:8b2a>発を<8988>止した、配置の発調関係は / オデッサの<b:8b24><b:8abc>がなければ / 実現しなかっただろうに〜<b:8b3f><8875>があった、とでも？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Without Odessa, the international teamwork that stopped the nuclear threat would never have been.
+  RE : Without Odessa, the international
+       teamwork that stopped the nuclear
+       threat would never have been.
+
+[US#4790]
+  JP : 「<f040><f042>たしかに〜 / そうかもしれません / <b:8b3d><b:8b3e>なものですね〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Perhaps, in a sense, you are right. It IS ironic, isn't it?
+  RE : Perhaps, in a sense, you are right.
+       It IS ironic, isn't it?
+
+[US#4791]
+  JP : 「この状況辺で / あんなのが何<b:8a89>もやってきたら / いくらＡＲＭＳでもお手上げだぞ<b:8b40>古において合谷合してしまっておる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If a group of them attacked en masse, we would be done for... even with ARMS to help us.
+  RE : If a group of them attacked en
+       masse, we would be done for... even
+       with ARMS to help us.
+
+[US#4792]
+  JP : 「機艇と生命体の<b:8b41>合存在、ドラゴン〜 / ギルドグラードにて生<b:8a45>される機艇は / ドラゴンの合谷を用いたものだ<b:8b21>手<b:8ab3>も存じていましたのね<b:8b2c><b:8b2d>儀の<b:8a73>同時として / グラウスヴァインは封じられていました
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The organo-mechanical |Dragons| built in Guild Galad are made from those fossilized Dragons.
+  RE : The organo-mechanical |Dragons|
+       built in Guild Galad are made from
+       those fossilized Dragons.
+
+[US#4793]
+  JP : 「もしかしたら / 他にも我らの力となる / ドラゴンが存在するのではないかと〜
+  LIT: Perhaps there exist other Dragons elsewhere that could become our strength.
+  EN : there may be other Dragons elsewhere that we could use to protect ourselves.
+  RE : there may be other Dragons
+       elsewhere that we could use to
+       protect ourselves.
+
+[US#4794]
+  JP : 「あくまでも、ウワサなのでな / その信<b:8b42>性がどこまであるか / 新<8865>わからぬ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Now, this is just a rumor, and, to be honest, I know not if there is any truth to it, but...
+  RE : Now, this is just a rumor, and, to
+       be honest, I know not if there is
+       any truth to it, but...
+
+[US#4795]
+  JP : 「だが、ギルドグラードには / 最後のドラゴン伝説が / 今も伝えられておるのだ〜
+  LIT: But in Guild Galad, the legend of the Last Dragon is still handed down even today.
+  EN : in Guild Galad, even today the people speak of the legend of the Last Dragon.
+  RE : in Guild Galad, even today the
+       people speak of the legend of the
+       Last Dragon.
+
+[US#4796]
+  JP : 「『ロンバルディア』〜 / <b:8b23>空を切り<b:8b43>く伝説の<b:8b44> / ドラゴンキャリバー、ロンバルディア〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He is called Lombardia, the Dragon Caliber, legendary winged creature said to once rule the skies.
+  RE : He is called Lombardia, the Dragon
+       Caliber, legendary winged creature
+       said to once rule the skies.
+
+[US#4797]
+  JP : 「おひとり方につき一緒[02]ギャラ / [02]人方ですので、[02]ギャラとなります / よろしいですか？[18]か
+  LIT: It's one Gella per person, and for {n} people that's {n} Gella. Is that all right? (02/18 slots)
+  EN : The rate is Gella per guest per night. For people, that'll be Gella, OK?2
+  RE : The rate is Gella per guest per
+       night. For people, that'll be
+       Gella, OK?2
+
+[US#4798]
+  JP : 「それでも、俺たちの前には / それを為そうとする者が / 立ちはだかってくる<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The heat given off by Grauswein has a radar-jamming effect, preventing precise trajectory determination.
+  RE : The heat given off by Grauswein has
+       a radar-jamming effect, preventing
+       precise trajectory determination.
+
+[US#4799]
+  JP : 「でも、今、この<b:8b1e>間 / オデッサは誰かを苦しめているんだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It will take a little longer to extrapolate the point of impact.
+  RE : It will take a little longer to
+       extrapolate the point of impact.
+
+[US#4800]
+  JP : 「やっつけなくちゃ / いけないんだよ〜<b:8b1f>しみません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Both are beyond my powers of understanding. I am at a loss.
+  RE : Both are beyond my powers of
+       understanding. I am at a loss.
+
+[US#4801]
+  JP : 「ですよね？ / <b:8ab5>上〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The ancient records say that Grauswein is simply an empty reactor when first summoned.
+  RE : The ancient records say that
+       Grauswein is simply an empty
+       reactor when first summoned.
+
+[US#4802]
+  JP : 「テレポートオーブの / <b:8b20>移<b:8b21>果に対応した / アポーツ機能を<887c><887d>だ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He must accumulate energy before initiating a nuclear reaction.
+  RE : He must accumulate energy before
+       initiating a nuclear reaction.
+
+[US#4803]
+  JP : 「これで / ファルガイア外道の<b:8b22>行も可能となる / 頼む、ヤツらを止めてくれ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Grauswein will first seek out sources of energy to absorb.
+  RE : Grauswein will first seek out
+       sources of energy to absorb.
+
+[US#4804]
+  JP : 「現在、<b:8a73>ドラゴン『グラウスヴァイン』は / 最大<8a04>度４８０で / ファルガイアに向かって降辺中
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That means he could be lured with a high-energy reaction. In other words...
+  RE : That means he could be lured with a
+       high-energy reaction. In other
+       words...
+
+[US#4805]
+  JP : 「グラウスヴァイン自身が放つ<8868><886f>が / レーダーの観待機能を<b:8b25>わすジャマーとなり / 新確な<b:8b26>道待定に<b:8a7e><88f6>が生じています
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If linked, they would form a huge complex with an energy output equivalent to Alchemic Plant!
+  RE : If linked, they would form a huge
+       complex with an energy output
+       equivalent to Alchemic Plant!
+
+[US#4806]
+  JP : 「降辺地帯のわりだしには / もう少し時間が必要です<b:8b07><b:8a45>というわけじゃな<b:8a73>ドラゴン〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Guild Galad Master, I am truly grateful to you.
+  RE : Guild Galad Master, I am truly
+       grateful to you.
+
+[US#4807]
+  JP : 「<b:8b27>りましたね〜 / どちらも私たちの / 理解の<b:8b08><b:8b28>を<b:8ac4>えています<b:8a92><b:8a93>できれば、あるいは〜<b:8b29>よ<b:8a73>ドラゴンだが、降辺したからといって / すぐには<b:8b2a>発しないのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Besides, as a proud Filgaian, I'll be damned if I go out without a fight.
+  RE : Besides, as a proud Filgaian, I'll
+       be damned if I go out without a
+       fight.
+
+[US#4808]
+  JP : 「<b:8a71><b:8b2b>によると / <b:8b2c><b:8b2d><8865>後のグラウスヴァインは / カラっぽの反応<b:8b2e>みたいなもんでな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We will start linking the city's factories to create our makeshift generator!
+  RE : We will start linking the city's
+       factories to create our makeshift
+       generator!
+
+[US#4809]
+  JP : 「体街に、エネルギーを<b:8aee>え / そいつを使って<b:8a73>反応を<b:8b2f>起させるらしい<b:8b2a>発の仕<b:8b30>みなど<89c7>高説されても / いったい、何の役に<f040><f042><b:8b31>いな / [0a]ぉ<b:8b32>は〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The mission was a success.
+  RE : The mission was a success.
+
+[US#4810]
+  JP : 「そう、グラウスヴァインは / 取り込むエネルギーを<b:8a3a>めて行動する
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Without Odessa, the international teamwork that stopped the nuclear threat would never have been.
+  RE : Without Odessa, the international
+       teamwork that stopped the nuclear
+       threat would never have been.
+
+[US#4811]
+  JP : 「<89c1>に言えば / 高エネルギー反応をちらつかせてやれば / つまり〜<b:8a51><b:8a52><8968>右は / <8a13><b:8b33>の<8880>合体〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Perhaps, in a sense, you are right. It IS ironic, isn't it?
+  RE : Perhaps, in a sense, you are right.
+       It IS ironic, isn't it?
+
+[US#4812]
+  JP : 「それぞれの<8a13><b:8b33>を / コンビナート状にリンクさせれば / アルケミックプラント<b:8ae8>みの出力も可能だ<b:8b29>よ / 自分の置をエサにするつもりか？<b:8b34><b:8b35>させるつもりはない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If a group of them attacked en masse, we would be done for... even with ARMS to help us.
+  RE : If a group of them attacked en
+       masse, we would be done for... even
+       with ARMS to help us.
+
+[US#4813]
+  JP : 「ギルドグラードマスター〜 / ご発力、<b:8abd>み入ります<b:8aff>[0e][f3][ff]や<b:8b36>なことを言うように？<b:8afd>任があるからな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The organo-mechanical |Dragons| built in Guild Galad are made from those fossilized Dragons.
+  RE : The organo-mechanical |Dragons|
+       built in Guild Galad are made from
+       those fossilized Dragons.
+
+[US#4814]
+  JP : 「それに、わしとて / ファルガイアに生きる命のひとつ / 悪あがきくらいしてみるわい
+  LIT: Besides, I too am one life living in Filgaia; I'll at least put up a desperate struggle. (JP dup of 4786; EN drift)
+  EN : there may be other Dragons elsewhere that we could use to protect ourselves.
+  RE : there may be other Dragons
+       elsewhere that we could use to
+       protect ourselves.
+
+[US#4815]
+  JP : 「こっちは<8a13><b:8b33>をリンクして / <b:8b37><b:8b38>ジェネレイター右りに / かかるとするかな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Now, this is just a rumor, and, to be honest, I know not if there is any truth to it, but...
+  RE : Now, this is just a rumor, and, to
+       be honest, I know not if there is
+       any truth to it, but...
+
+[US#4816]
+  JP : 「作戦は、成<b:8b39>です<b:8b3a>を<b:8b12>り<b:8b3b>えたな<b:8b3c>なんでな<b:8b3d><b:8b3e>なもんだな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : in Guild Galad, even today the people speak of the legend of the Last Dragon.
+  RE : in Guild Galad, even today the
+       people speak of the legend of the
+       Last Dragon.
+
+[US#4817]
+  JP : 「<b:8a73>の<b:8b2a>発を<8988>止した、配置の発調関係は / オデッサの<b:8b24><b:8abc>がなければ / 実現しなかっただろうに〜<b:8b3f><8875>があった、とでも？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He is called Lombardia, the Dragon Caliber, legendary winged creature said to once rule the skies.
+  RE : He is called Lombardia, the Dragon
+       Caliber, legendary winged creature
+       said to once rule the skies.
+
+[US#4818]
+  JP : 「<f040><f042>たしかに〜 / そうかもしれません / <b:8b3d><b:8b3e>なものですね〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The rate is Gella per guest per night. For people, that'll be Gella, OK?2
+  RE : The rate is Gella per guest per
+       night. For people, that'll be
+       Gella, OK?2
+
+[US#4819]
+  JP : 「この状況辺で / あんなのが何<b:8a89>もやってきたら / いくらＡＲＭＳでもお手上げだぞ<b:8b40>古において合谷合してしまっておる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The heat given off by Grauswein has a radar-jamming effect, preventing precise trajectory determination.
+  RE : The heat given off by Grauswein has
+       a radar-jamming effect, preventing
+       precise trajectory determination.
+
+[US#4820]
+  JP : 「機艇と生命体の<b:8b41>合存在、ドラゴン〜 / ギルドグラードにて生<b:8a45>される機艇は / ドラゴンの合谷を用いたものだ<b:8b21>手<b:8ab3>も存じていましたのね<b:8b2c><b:8b2d>儀の<b:8a73>同時として / グラウスヴァインは封じられていました
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It will take a little longer to extrapolate the point of impact.
+  RE : It will take a little longer to
+       extrapolate the point of impact.
+
+[US#4821]
+  JP : 「もしかしたら / 他にも我らの力となる / ドラゴンが存在するのではないかと〜
+  LIT: Perhaps there exist other Dragons elsewhere that could become our strength. (JP dup of 4793)
+  EN : Both are beyond my powers of understanding. I am at a loss.
+  RE : Both are beyond my powers of
+       understanding. I am at a loss.
+
+[US#4822]
+  JP : 「あくまでも、ウワサなのでな / その信<b:8b42>性がどこまであるか / 新<8865>わからぬ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The ancient records say that Grauswein is simply an empty reactor when first summoned.
+  RE : The ancient records say that
+       Grauswein is simply an empty
+       reactor when first summoned.
+
+[US#4823]
+  JP : 「だが、ギルドグラードには / 最後のドラゴン伝説が / 今も伝えられておるのだ〜
+  LIT: But in Guild Galad, the legend of the Last Dragon is still handed down today. (JP dup of 4795)
+  EN : He must accumulate energy before initiating a nuclear reaction.
+  RE : He must accumulate energy before
+       initiating a nuclear reaction.
+
+[US#4824]
+  JP : 「『ロンバルディア』〜 / <b:8b23>空を切り<b:8b43>く伝説の<b:8b44> / ドラゴンキャリバー、ロンバルディア〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Grauswein will first seek out sources of energy to absorb.
+  RE : Grauswein will first seek out
+       sources of energy to absorb.
+
+[US#4825]
+  JP : 「おひとり方につき一緒[02]ギャラ / [02]人方ですので、[02]ギャラとなります / よろしいですか？[18]か
+  LIT: It's one Gella per person, and for {n} people that's {n} Gella. Is that all right? (dup of 4797)
+  EN : That means he could be lured with a high-energy reaction. In other words...
+  RE : That means he could be lured with a
+       high-energy reaction. In other
+       words...
+
+[US#4826]
+  JP : 「それでも、俺たちの前には / それを為そうとする者が / 立ちはだかってくる<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If linked, they would form a huge complex with an energy output equivalent to Alchemic Plant!
+  RE : If linked, they would form a huge
+       complex with an energy output
+       equivalent to Alchemic Plant!
+
+[US#4827]
+  JP : 「でも、今、この<b:8b1e>間 / オデッサは誰かを苦しめているんだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Guild Galad Master, I am truly grateful to you.
+  RE : Guild Galad Master, I am truly
+       grateful to you.
+
+[US#4828]
+  JP : 「やっつけなくちゃ / いけないんだよ〜<b:8b1f>しみません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Besides, as a proud Filgaian, I'll be damned if I go out without a fight.
+  RE : Besides, as a proud Filgaian, I'll
+       be damned if I go out without a
+       fight.
+
+[US#4829]
+  JP : 「ですよね？ / <b:8ab5>上〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We will start linking the city's factories to create our makeshift generator!
+  RE : We will start linking the city's
+       factories to create our makeshift
+       generator!
+
+[US#4830]
+  JP : 「テレポートオーブの / <b:8b20>移<b:8b21>果に対応した / アポーツ機能を<887c><887d>だ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The mission was a success.
+  RE : The mission was a success.
+
+[US#4831]
+  JP : 「これで / ファルガイア外道の<b:8b22>行も可能となる / 頼む、ヤツらを止めてくれ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Without Odessa, the international teamwork that stopped the nuclear threat would never have been.
+  RE : Without Odessa, the international
+       teamwork that stopped the nuclear
+       threat would never have been.
+
+[US#4832]
+  JP : 「現在、<b:8a73>ドラゴン『グラウスヴァイン』は / 最大<8a04>度４８０で / ファルガイアに向かって降辺中
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Perhaps, in a sense, you are right. It IS ironic, isn't it?
+  RE : Perhaps, in a sense, you are right.
+       It IS ironic, isn't it?
+
+[US#4833]
+  JP : 「グラウスヴァイン自身が放つ<8868><886f>が / レーダーの観待機能を<b:8b25>わすジャマーとなり / 新確な<b:8b26>道待定に<b:8a7e><88f6>が生じています
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If a group of them attacked en masse, we would be done for... even with ARMS to help us.
+  RE : If a group of them attacked en
+       masse, we would be done for... even
+       with ARMS to help us.
+
+[US#4834]
+  JP : 「降辺地帯のわりだしには / もう少し時間が必要です<b:8b07><b:8a45>というわけじゃな<b:8a73>ドラゴン〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The organo-mechanical |Dragons| built in Guild Galad are made from those fossilized Dragons.
+  RE : The organo-mechanical |Dragons|
+       built in Guild Galad are made from
+       those fossilized Dragons.
+
+[US#4835]
+  JP : 「<b:8b27>りましたね〜 / どちらも私たちの / 理解の<b:8b08><b:8b28>を<b:8ac4>えています<b:8a92><b:8a93>できれば、あるいは〜<b:8b29>よ<b:8a73>ドラゴンだが、降辺したからといって / すぐには<b:8b2a>発しないのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : there may be other Dragons elsewhere that we could use to protect ourselves.
+  RE : there may be other Dragons
+       elsewhere that we could use to
+       protect ourselves.
+
+[US#4836]
+  JP : 「<b:8a71><b:8b2b>によると / <b:8b2c><b:8b2d><8865>後のグラウスヴァインは / カラっぽの反応<b:8b2e>みたいなもんでな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Now, this is just a rumor, and, to be honest, I know not if there is any truth to it, but...
+  RE : Now, this is just a rumor, and, to
+       be honest, I know not if there is
+       any truth to it, but...
+
+[US#4837]
+  JP : 「体街に、エネルギーを<b:8aee>え / そいつを使って<b:8a73>反応を<b:8b2f>起させるらしい<b:8b2a>発の仕<b:8b30>みなど<89c7>高説されても / いったい、何の役に<f040><f042><b:8b31>いな / [0a]ぉ<b:8b32>は〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : in Guild Galad, even today the people speak of the legend of the Last Dragon.
+  RE : in Guild Galad, even today the
+       people speak of the legend of the
+       Last Dragon.
+
+[US#4838]
+  JP : 「そう、グラウスヴァインは / 取り込むエネルギーを<b:8a3a>めて行動する
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He is called Lombardia, the Dragon Caliber, legendary winged creature said to once rule the skies.
+  RE : He is called Lombardia, the Dragon
+       Caliber, legendary winged creature
+       said to once rule the skies.
+
+[US#4839]
+  JP : 「<89c1>に言えば / 高エネルギー反応をちらつかせてやれば / つまり〜<b:8a51><b:8a52><8968>右は / <8a13><b:8b33>の<8880>合体〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The rate is Gella per guest per night. For people, that'll be Gella, OK?2
+  RE : The rate is Gella per guest per
+       night. For people, that'll be
+       Gella, OK?2
+
+[US#4840]
+  JP : 「それぞれの<8a13><b:8b33>を / コンビナート状にリンクさせれば / アルケミックプラント<b:8ae8>みの出力も可能だ<b:8b29>よ / 自分の置をエサにするつもりか？<b:8b34><b:8b35>させるつもりはない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The heat given off by Grauswein has a radar-jamming effect, preventing precise trajectory determination.
+  RE : The heat given off by Grauswein has
+       a radar-jamming effect, preventing
+       precise trajectory determination.
+
+[US#4841]
+  JP : 「ギルドグラードマスター〜 / ご発力、<b:8abd>み入ります<b:8aff>[0e][f3][ff]や<b:8b36>なことを言うように？<b:8afd>任があるからな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It will take a little longer to extrapolate the point of impact.
+  RE : It will take a little longer to
+       extrapolate the point of impact.
+
+[US#4842]
+  JP : 「それに、わしとて / ファルガイアに生きる命のひとつ / 悪あがきくらいしてみるわい
+  LIT: Besides, I too am one life living in Filgaia; I'll at least put up a desperate struggle. (JP dup of 4786)
+  EN : Both are beyond my powers of understanding. I am at a loss.
+  RE : Both are beyond my powers of
+       understanding. I am at a loss.
+
+[US#4843]
+  JP : 「こっちは<8a13><b:8b33>をリンクして / <b:8b37><b:8b38>ジェネレイター右りに / かかるとするかな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The ancient records say that Grauswein is simply an empty reactor when first summoned.
+  RE : The ancient records say that
+       Grauswein is simply an empty
+       reactor when first summoned.
+
+[US#4844]
+  JP : 「作戦は、成<b:8b39>です<b:8b3a>を<b:8b12>り<b:8b3b>えたな<b:8b3c>なんでな<b:8b3d><b:8b3e>なもんだな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He must accumulate energy before initiating a nuclear reaction.
+  RE : He must accumulate energy before
+       initiating a nuclear reaction.
+
+[US#4845]
+  JP : 「<b:8a73>の<b:8b2a>発を<8988>止した、配置の発調関係は / オデッサの<b:8b24><b:8abc>がなければ / 実現しなかっただろうに〜<b:8b3f><8875>があった、とでも？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Grauswein will first seek out sources of energy to absorb.
+  RE : Grauswein will first seek out
+       sources of energy to absorb.
+
+[US#4846]
+  JP : 「<f040><f042>たしかに〜 / そうかもしれません / <b:8b3d><b:8b3e>なものですね〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That means he could be lured with a high-energy reaction. In other words...
+  RE : That means he could be lured with a
+       high-energy reaction. In other
+       words...
+
+[US#4847]
+  JP : 「この状況辺で / あんなのが何<b:8a89>もやってきたら / いくらＡＲＭＳでもお手上げだぞ<b:8b40>古において合谷合してしまっておる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If linked, they would form a huge complex with an energy output equivalent to Alchemic Plant!
+  RE : If linked, they would form a huge
+       complex with an energy output
+       equivalent to Alchemic Plant!
+
+[US#4848]
+  JP : 「機艇と生命体の<b:8b41>合存在、ドラゴン〜 / ギルドグラードにて生<b:8a45>される機艇は / ドラゴンの合谷を用いたものだ<b:8b21>手<b:8ab3>も存じていましたのね<b:8b2c><b:8b2d>儀の<b:8a73>同時として / グラウスヴァインは封じられていました
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Guild Galad Master, I am truly grateful to you.
+  RE : Guild Galad Master, I am truly
+       grateful to you.
+
+[US#4849]
+  JP : 「もしかしたら / 他にも我らの力となる / ドラゴンが存在するのではないかと〜
+  LIT: Perhaps there exist other Dragons elsewhere that could become our strength. (JP dup of 4793)
+  EN : Besides, as a proud Filgaian, I'll be damned if I go out without a fight.
+  RE : Besides, as a proud Filgaian, I'll
+       be damned if I go out without a
+       fight.
+
+[US#4850]
+  JP : 「あくまでも、ウワサなのでな / その信<b:8b42>性がどこまであるか / 新<8865>わからぬ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We will start linking the city's factories to create our makeshift generator!
+  RE : We will start linking the city's
+       factories to create our makeshift
+       generator!
+
+[US#4851]
+  JP : 「だが、ギルドグラードには / 最後のドラゴン伝説が / 今も伝えられておるのだ〜
+  LIT: But in Guild Galad, the legend of the Last Dragon is still handed down today. (JP dup of 4795)
+  EN : The mission was a success.
+  RE : The mission was a success.
+
+[US#4852]
+  JP : 「『ロンバルディア』〜 / <b:8b23>空を切り<b:8b43>く伝説の<b:8b44> / ドラゴンキャリバー、ロンバルディア〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Without Odessa, the international teamwork that stopped the nuclear threat would never have been.
+  RE : Without Odessa, the international
+       teamwork that stopped the nuclear
+       threat would never have been.
+
+[US#4853]
+  JP : 「おひとり方につき一緒[02]ギャラ / [02]人方ですので、[02]ギャラとなります / よろしいですか？[18]か
+  LIT: It's one Gella per person, and for {n} people that's {n} Gella. Is that all right? (dup of 4797)
+  EN : Perhaps, in a sense, you are right. It IS ironic, isn't it?
+  RE : Perhaps, in a sense, you are right.
+       It IS ironic, isn't it?
+
+[US#4854]
+  JP : 「それでも、俺たちの前には / それを為そうとする者が / 立ちはだかってくる<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If a group of them attacked en masse, we would be done for... even with ARMS to help us.
+  RE : If a group of them attacked en
+       masse, we would be done for... even
+       with ARMS to help us.
+
+[US#4855]
+  JP : 「でも、今、この<b:8b1e>間 / オデッサは誰かを苦しめているんだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The organo-mechanical |Dragons| built in Guild Galad are made from those fossilized Dragons.
+  RE : The organo-mechanical |Dragons|
+       built in Guild Galad are made from
+       those fossilized Dragons.
+
+[US#4856]
+  JP : 「やっつけなくちゃ / いけないんだよ〜<b:8b1f>しみません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : there may be other Dragons elsewhere that we could use to protect ourselves.
+  RE : there may be other Dragons
+       elsewhere that we could use to
+       protect ourselves.
+
+[US#4857]
+  JP : 「ですよね？ / <b:8ab5>上〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Now, this is just a rumor, and, to be honest, I know not if there is any truth to it, but...
+  RE : Now, this is just a rumor, and, to
+       be honest, I know not if there is
+       any truth to it, but...
+
+[US#4858]
+  JP : 「テレポートオーブの / <b:8b20>移<b:8b21>果に対応した / アポーツ機能を<887c><887d>だ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : in Guild Galad, even today the people speak of the legend of the Last Dragon.
+  RE : in Guild Galad, even today the
+       people speak of the legend of the
+       Last Dragon.
+
+[US#4859]
+  JP : 「これで / ファルガイア外道の<b:8b22>行も可能となる / 頼む、ヤツらを止めてくれ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He is called Lombardia, the Dragon Caliber, legendary winged creature said to once rule the skies.
+  RE : He is called Lombardia, the Dragon
+       Caliber, legendary winged creature
+       said to once rule the skies.
+
+[US#4860]
+  JP : 「現在、<b:8a73>ドラゴン『グラウスヴァイン』は / 最大<8a04>度４８０で / ファルガイアに向かって降辺中
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The rate is Gella per guest per night. For people, that'll be Gella, OK?2
+  RE : The rate is Gella per guest per
+       night. For people, that'll be
+       Gella, OK?2
+
+# =========================================================================================
+# STATUS: 209 boxes first-passed (US#4648-4860, block 20). Em-dash-free, <=3x35.
+# =========================================================================================

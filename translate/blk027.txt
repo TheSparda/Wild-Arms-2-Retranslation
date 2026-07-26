@@ -1,0 +1,457 @@
+# WA2 4-col translation doc block 27 (JP#5357-5421)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 53 boxes | OK=2 FAIR=21 SHAKY=18 JP-ONLY=12
+# DRAFT STATUS: 53 boxes | OK=2 FAIR=20 SHAKY=19 JP-ONLY=12
+
+[JP#5358] gaps=0  aln=MED->US#5251  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : >Repeat...
+  4|RE : <<TODO>>
+
+[JP#5359] gaps=2  aln=LOW->US#5252  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : >Suppress the rebellion now.
+ Inmates wanted dead or alive.
+ Repeat...
+  4|RE : <<TODO>>
+
+[JP#5360] gaps=0  aln=LOW->US#5252  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : >Suppress the rebellion now.
+ Inmates wanted dead or alive.
+ Repeat...
+  4|RE : <<TODO>>
+
+[JP#5361] gaps=2  aln=LOW->US#5252  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「<f040><f042>と、その前に〜
+  2|LIT: <<TODO>>
+  3|EN : >Suppress the rebellion now.
+ Inmates wanted dead or alive.
+ Repeat...
+  4|RE : <<TODO>>
+
+[JP#5362] gaps=1  aln=LOW->US#5252  CONF=JP-ONLY unsolved=1  CONF=JP-ONLY unsolved=0
+  1|JP : 「〜[0a]ぉの<8a38>いの者か？
+  2|LIT: <<TODO>>
+  3|EN : >Suppress the rebellion now.
+ Inmates wanted dead or alive.
+ Repeat...
+  4|RE : <<TODO>>
+
+[JP#5363] gaps=0  aln=LOW->US#5252  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「話はかみ合っていないようだが / 　どうやらお前たちが / 　そうらしいな〜
+  2|LIT: <<TODO>>
+  3|EN : >Suppress the rebellion now.
+ Inmates wanted dead or alive.
+ Repeat...
+  4|RE : <<TODO>>
+
+[JP#5364] gaps=0  aln=LOW->US#5252  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「そのマイトグローブは、僕のだ / 　よこしてくれ / 　時間がないんだろ？
+  2|LIT: <<TODO>>
+  3|EN : >Suppress the rebellion now.
+ Inmates wanted dead or alive.
+ Repeat...
+  4|RE : <<TODO>>
+
+[JP#5365] gaps=2  aln=LOW->US#5252  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「[0a]ぉが選んだ / 　ＡＲＭＳのメンバーのひとり〜[10][0c]「<f040><f042>らしい、ぜ
+  2|LIT: <<TODO>>
+  3|EN : >Suppress the rebellion now.
+ Inmates wanted dead or alive.
+ Repeat...
+  4|RE : <<TODO>>
+
+[JP#5366] gaps=2  aln=LOW->US#5252  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「<f040><f042>らしい、ぜ
+  2|LIT: <<TODO>>
+  3|EN : >Suppress the rebellion now.
+ Inmates wanted dead or alive.
+ Repeat...
+  4|RE : <<TODO>>
+
+[JP#5367] gaps=2  aln=LOW->US#5252  CONF=JP-ONLY unsolved=2  CONF=JP-ONLY unsolved=2
+  1|JP : ＞<8963>長命助により / 　調備歩は『ガオニム』の / 　起動チェックを急げ[10][0c]＞<8a40>り兄す〜
+  2|LIT: <<TODO>>
+  3|EN : >Suppress the rebellion now.
+ Inmates wanted dead or alive.
+ Repeat...
+  4|RE : <<TODO>>
+
+[JP#5368] gaps=1  aln=LOW->US#5252  CONF=JP-ONLY unsolved=1  CONF=JP-ONLY unsolved=1
+  1|JP : ＞<8a40>り兄す〜
+  2|LIT: <<TODO>>
+  3|EN : >Suppress the rebellion now.
+ Inmates wanted dead or alive.
+ Repeat...
+  4|RE : <<TODO>>
+
+[JP#5369] gaps=2  aln=LOW->US#5252  CONF=JP-ONLY unsolved=2  CONF=JP-ONLY unsolved=2
+  1|JP : ＞侵入者は、<8a43>泣した剣性２名 / 　なおもイルズベイル参に来挑中 / 　<8a40>り兄す〜
+  2|LIT: <<TODO>>
+  3|EN : >Suppress the rebellion now.
+ Inmates wanted dead or alive.
+ Repeat...
+  4|RE : <<TODO>>
+
+[JP#5370] gaps=1  aln=LOW->US#5252  CONF=JP-ONLY unsolved=1  CONF=JP-ONLY unsolved=1
+  1|JP : ＞<8a40>り兄す〜
+  2|LIT: <<TODO>>
+  3|EN : >Suppress the rebellion now.
+ Inmates wanted dead or alive.
+ Repeat...
+  4|RE : <<TODO>>
+
+[JP#5371] gaps=2  aln=MED->US#5252  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＞<8965>人の生死は誓わない / 　ただちに周圧にかかれ / 　<8a40>り兄す〜
+  2|LIT: <<TODO>>
+  3|EN : >Suppress the rebellion now.
+ Inmates wanted dead or alive.
+ Repeat...
+  4|RE : <<TODO>>
+
+[JP#5372] gaps=2  aln=MED->US#5253  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : ＊〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]＞セキュリティーシステムは / 　解<8a34>されました / 　<88f9>一待機所を解殺します
+  2|LIT: <<TODO>>
+  3|EN : *...30...30...30......30...30...30...30...>The security system
+ has been deactivated.
+ The No.1 waiting area is open.
+  4|RE : <<TODO>>
+
+[JP#5373] gaps=2  aln=MED->US#5254  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : ＞セキュリティーシステムは / 　解<8a34>されました / 　<88f9>一待機所を解殺します
+  2|LIT: <<TODO>>
+  3|EN : >The security system
+ has been deactivated.
+ The No.1 waiting area is open.
+  4|RE : <<TODO>>
+
+[JP#5374] gaps=24  aln=HIGH->US#5255  CONF=SHAKY unsolved=22  CONF=SHAKY unsolved=16
+  1|JP : ＊それが犯負者にとって / 　<889c>遠の<8a48>つ名で知られる / 　『イルズベイル<8917><8963>他』の前身である[10][0c]＊<8a52>み<8858>ねられていった / 　<8965>人たちの<8a53>勉は、<8917><8963>他をやがて / 　<89e1>戻自分<89b7>へと<88bd>らしめる[10][0c]＊最<8867><8a55><8964>をほこる / 　犯負者による貸分システム[10][0c]＊『地<8963>』にして『<89fa><8a57>』<f040><f042> / 　イルズベイル<8917><8963>他の望人は / 　決して<8a59>えることはない〜
+  2|LIT: <<TODO>>
+  3|EN : *The |Illsveil Prison|
+ was known to convicts as the
+ second most fearsome place.*The history of the convicts
+ built up and it eventually
+ developed independent rule.*It boasts the harshest penal life
+ and has a system of convict rule.*It's a |hell| passed off as
+ |paradise.| Even the prison's
+ warden can't stand it.
+  4|RE : <<TODO>>
+
+[JP#5375] gaps=20  aln=HIGH->US#5256  CONF=SHAKY unsolved=18  CONF=SHAKY unsolved=12
+  1|JP : ＊<8a52>み<8858>ねられていった / 　<8965>人たちの<8a53>勉は、<8917><8963>他をやがて / 　<89e1>戻自分<89b7>へと<88bd>らしめる[10][0c]＊最<8867><8a55><8964>をほこる / 　犯負者による貸分システム[10][0c]＊『地<8963>』にして『<89fa><8a57>』<f040><f042> / 　イルズベイル<8917><8963>他の望人は / 　決して<8a59>えることはない〜
+  2|LIT: <<TODO>>
+  3|EN : *The history of the convicts
+ built up and it eventually
+ developed independent rule.*It boasts the harshest penal life
+ and has a system of convict rule.*It's a |hell| passed off as
+ |paradise.| Even the prison's
+ warden can't stand it.
+  4|RE : <<TODO>>
+
+[JP#5376] gaps=11  aln=HIGH->US#5257  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=6
+  1|JP : ＊最<8867><8a55><8964>をほこる / 　犯負者による貸分システム[10][0c]＊『地<8963>』にして『<89fa><8a57>』<f040><f042> / 　イルズベイル<8917><8963>他の望人は / 　決して<8a59>えることはない〜
+  2|LIT: <<TODO>>
+  3|EN : *It boasts the harshest penal life
+ and has a system of convict rule.*It's a |hell| passed off as
+ |paradise.| Even the prison's
+ warden can't stand it.
+  4|RE : <<TODO>>
+
+[JP#5377] gaps=8  aln=HIGH->US#5258  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : ＊『地<8963>』にして『<89fa><8a57>』<f040><f042> / 　イルズベイル<8917><8963>他の望人は / 　決して<8a59>えることはない〜
+  2|LIT: <<TODO>>
+  3|EN : *It's a |hell| passed off as
+ |paradise.| Even the prison's
+ warden can't stand it.
+  4|RE : <<TODO>>
+
+[JP#5378] gaps=12  aln=HIGH->US#5259  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=9
+  1|JP : ＊解殺飛指限者 / 　ヴィンスフェルト・ラダマンテュス[10][0c]＊魔限の守と知<8a61>に長け / 　戦延に、大乗に取り入れることで / 　解殺飛戦力の<89ce>実合をはかる[10][0c]＊そのカリスマ性によって / 　解殺飛の結重を<89cd>谷なものとし / 　ゲリラ<8a64>動を<8a65>開する[10][0c]＊<8a5a>復クーデターの訪男に / 　突<8a67>として魂を消すものの / 　解殺飛の頼<8a6a>的存帰<f040><f042>[10][0c]＊[05]お・エヴァンスが / 　後を招き<8a6b>ぐことで[10][0c]＊解殺飛は２数に渡る / 　勇<8a6d>の戦いに友利するのであった
+  2|LIT: <<TODO>>
+  3|EN : *Liberation Army Leader
+ Vinsfeld Rhadamanthus.*Using evil knowledge and
+ bold tactics, the Liberation
+ Army's power increased.*His charisma unified the Army
+ into a powerful force, and they
+ then began guerrilla activities.*In the last moments of the
+ coup, this hero-like person
+ unexpectedly vanished.*After 1 Evans
+ took over...*In two years, the Liberation
+ Army won all their battles
+  4|RE : <<TODO>>
+
+[JP#5379] gaps=12  aln=HIGH->US#5260  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=9
+  1|JP : ＊魔限の守と知<8a61>に長け / 　戦延に、大乗に取り入れることで / 　解殺飛戦力の<89ce>実合をはかる[10][0c]＊そのカリスマ性によって / 　解殺飛の結重を<89cd>谷なものとし / 　ゲリラ<8a64>動を<8a65>開する[10][0c]＊<8a5a>復クーデターの訪男に / 　突<8a67>として魂を消すものの / 　解殺飛の頼<8a6a>的存帰<f040><f042>[10][0c]＊[05]お・エヴァンスが / 　後を招き<8a6b>ぐことで[10][0c]＊解殺飛は２数に渡る / 　勇<8a6d>の戦いに友利するのであった
+  2|LIT: <<TODO>>
+  3|EN : *Using evil knowledge and
+ bold tactics, the Liberation
+ Army's power increased.*His charisma unified the Army
+ into a powerful force, and they
+ then began guerrilla activities.*In the last moments of the
+ coup, this hero-like person
+ unexpectedly vanished.*After 1 Evans
+ took over...*In two years, the Liberation
+ Army won all their battles.
+  4|RE : <<TODO>>
+
+[JP#5380] gaps=10  aln=HIGH->US#5261  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=7
+  1|JP : ＊そのカリスマ性によって / 　解殺飛の結重を<89cd>谷なものとし / 　ゲリラ<8a64>動を<8a65>開する[10][0c]＊<8a5a>復クーデターの訪男に / 　突<8a67>として魂を消すものの / 　解殺飛の頼<8a6a>的存帰<f040><f042>[10][0c]＊[05]お・エヴァンスが / 　後を招き<8a6b>ぐことで[10][0c]＊解殺飛は２数に渡る / 　勇<8a6d>の戦いに友利するのであった
+  2|LIT: <<TODO>>
+  3|EN : *His charisma unified the Army
+ into a powerful force, and they
+ then began guerrilla activities.*In the last moments of the
+ coup, this hero-like person
+ unexpectedly vanished.*After 1 Evans
+ took over...*In two years, the Liberation
+ Army won all their battles.
+  4|RE : <<TODO>>
+
+[JP#5381] gaps=7  aln=HIGH->US#5262  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : ＊<8a5a>復クーデターの訪男に / 　突<8a67>として魂を消すものの / 　解殺飛の頼<8a6a>的存帰<f040><f042>[10][0c]＊[05]お・エヴァンスが / 　後を招き<8a6b>ぐことで[10][0c]＊解殺飛は２数に渡る / 　勇<8a6d>の戦いに友利するのであった
+  2|LIT: <<TODO>>
+  3|EN : *In the last moments of the
+ coup, this hero-like person
+ unexpectedly vanished.*After 1 Evans
+ took over...*In two years, the Liberation
+ Army won all their battles.
+  4|RE : <<TODO>>
+
+[JP#5382] gaps=2  aln=HIGH->US#5263  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : ＊[05]お・エヴァンスが / 　後を招き<8a6b>ぐことで[10][0c]＊解殺飛は２数に渡る / 　勇<8a6d>の戦いに友利するのであった
+  2|LIT: <<TODO>>
+  3|EN : *After 1 Evans
+ took over...*In two years, the Liberation
+ Army won all their battles.
+  4|RE : <<TODO>>
+
+[JP#5383] gaps=1  aln=MED->US#5264  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : ＊解殺飛は２数に渡る / 　勇<8a6d>の戦いに友利するのであった
+  2|LIT: <<TODO>>
+  3|EN : *In two years, the Liberation
+ Army won all their battles.
+  4|RE : <<TODO>>
+
+[JP#5384] gaps=1  aln=MED->US#5265  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「あれれ？[10][0c]「でも、[05]ぉって / 　こんな機艇<8883>のグローブとか / 　使ってたっけ〜[10][0c]「ま、いいかッ！ / 　とりあえず、みんな持っていけば / 　なんとかなるなるッ！
+  2|LIT: <<TODO>>
+  3|EN : @What? What?@But did 0
+ use a Mechanical Glove
+ like this?@Oh, who cares!?
+ I'll take it all and
+ something will work!
+  4|RE : <<TODO>>
+
+[JP#5385] gaps=1  aln=MED->US#5266  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「でも、[05]ぉって / 　こんな機艇<8883>のグローブとか / 　使ってたっけ〜[10][0c]「ま、いいかッ！ / 　とりあえず、みんな持っていけば / 　なんとかなるなるッ！
+  2|LIT: <<TODO>>
+  3|EN : @But did 0
+ use a Mechanical Glove
+ like this?@Oh, who cares!?
+ I'll take it all and
+ something will work!
+  4|RE : <<TODO>>
+
+[JP#5386] gaps=0  aln=MED->US#5267  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ま、いいかッ！ / 　とりあえず、みんな持っていけば / 　なんとかなるなるッ！
+  2|LIT: <<TODO>>
+  3|EN : @Oh, who cares!?
+ I'll take it all and
+ something will work!
+  4|RE : <<TODO>>
+
+[JP#5387] gaps=0  aln=MED->US#5268  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「開けろッ！　ここから出せッ！ / 　俺は何もしちゃいないッ！ / 　ちょっと調べればわかることだッ！
+  2|LIT: <<TODO>>
+  3|EN : @Open up! Let me out of here!
+ I didn't do anything! If you
+ check it out, I'd be cleared!
+  4|RE : <<TODO>>
+
+[JP#5388] gaps=4  aln=MED->US#5269  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「何たってあそこは / 　一度入っちまうと、<8a48>度と生きて出られない / 　<8a59>道の<8917><8963>他だからな
+  2|LIT: <<TODO>>
+  3|EN : @That's because it's an isolated
+ prison island. Once you go
+ in, you never come out alive.
+  4|RE : <<TODO>>
+
+[JP#5389] gaps=4  aln=MED->US#5270  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「イルズベイル<8917><8963>他に着いたら / 　わたしが無負を<8a71>次してあげるから / 　だから、それまでの<8a72>基よ〜
+  2|LIT: <<TODO>>
+  3|EN : @When we get to Illsveil Prison,
+ I'll prove your innocence. You
+ need to be patient until then.
+  4|RE : <<TODO>>
+
+[JP#5390] gaps=5  aln=MED->US#5271  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「ようこそッ！ / 　イルズベイル<8917><8963>他へッ！[10][0c]「小生は最勝の<8965>人にして / 　この自分<89b7>の貸分者ッ！ / 　すなわち<8963>長であるッ！
+  2|LIT: <<TODO>>
+  3|EN : @Welcome to Illsveil Prison.@As the 1st convict here, I'm now
+ ruler of this independent domain!
+ In other words, I am the warden.
+  4|RE : <<TODO>>
+
+[JP#5391] gaps=3  aln=MED->US#5272  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「小生は最勝の<8965>人にして / 　この自分<89b7>の貸分者ッ！ / 　すなわち<8963>長であるッ！
+  2|LIT: <<TODO>>
+  3|EN : @As the 1st convict here, I'm now
+ ruler of this independent domain!
+ In other words, I am the warden.
+  4|RE : <<TODO>>
+
+[JP#5392] gaps=6  aln=MED->US#5273  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「ここ、イルズベイルは<8a59>道の<8917><8963>他ッ！ / 　すなわち、<8a7a><8844>の要<889b>であるのだ[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @Illsveil is an isolated
+ prison island! In other words,
+ it's a natural fort.
+  4|RE : <<TODO>>
+
+[JP#5394] gaps=2  aln=HIGH->US#5275  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「どうせシャバにいたところで / 　他人方の<8954>雄になることはあっても / 　<8964>には戻たないボンクラどもなんだからよ[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @Being on the outside
+ isn't so hot. Here you
+ trouble only useless fools.
+  4|RE : <<TODO>>
+
+[JP#5396] gaps=6  aln=HIGH->US#5277  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「小生自身も、仲男は残り２１４数ッ！ / 　もはや生きて出ようなんて / 　ファンタジーもおきないわ、実<89d2>[10][0c]「ん〜、そうだな〜 / 　小生に気に入られれば / 　<8962>名復くらいは、<8a80>ではないぞ[10][0c]「ここは<8917><8963>他にして / 　自分<89b7>であるイルズベイル / 　つまりは、そういうトコロだッ！[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @I've got 214 years left on my
+ sentence! Hope you don't have
+ fantasies about escaping yet.@And of course, if you win
+ my favor, becoming Prison
+ Warden isn't a dream.@The fact that this island is
+ an independent domain
+ stems from that very fact!
+  4|RE : <<TODO>>
+
+[JP#5397] gaps=5  aln=HIGH->US#5278  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「ん〜、そうだな〜 / 　小生に気に入られれば / 　<8962>名復くらいは、<8a80>ではないぞ[10][0c]「ここは<8917><8963>他にして / 　自分<89b7>であるイルズベイル / 　つまりは、そういうトコロだッ！[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @And of course, if you win
+ my favor, becoming Prison
+ Warden isn't a dream.@The fact that this island is
+ an independent domain
+ stems from that very fact!
+  4|RE : <<TODO>>
+
+[JP#5398] gaps=3  aln=HIGH->US#5279  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「ここは<8917><8963>他にして / 　自分<89b7>であるイルズベイル / 　つまりは、そういうトコロだッ！[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @The fact that this island is
+ an independent domain
+ stems from that very fact!
+  4|RE : <<TODO>>
+
+[JP#5400] gaps=0  aln=HIGH->US#5281  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「わたしにまかせて / 　[05]ぉはここで / 　おとなしくしててよ[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @Let me take care of it.
+ You should just stay
+ put and lay low.
+  4|RE : <<TODO>>
+
+[JP#5402] gaps=4  aln=HIGH->US#5283  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「<8a82>い<8941>はイタズラをして / 　よく苦し入れに / 　<89cf>じ込められたもんスよ<f044>
+  2|LIT: <<TODO>>
+  3|EN : @When I was little, I pulled
+ a lot of pranks and got
+ locked in the closet for it.
+  4|RE : <<TODO>>
+
+[JP#5403] gaps=4  aln=HIGH->US#5284  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「どっちにしても / 　こっちは<8a43>泣解<8a34>されて / 　<8991><8a83>の状態なんだ[10][0c]「思いきったことを / 　するつもりはないよ
+  2|LIT: <<TODO>>
+  3|EN : @Regardless,
+ we were disarmed and
+ now I have no weapon.@I have no intention of
+ doing anything drastic.
+  4|RE : <<TODO>>
+
+[JP#5404] gaps=0  aln=HIGH->US#5285  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「思いきったことを / 　するつもりはないよ
+  2|LIT: <<TODO>>
+  3|EN : @I have no intention of
+ doing anything drastic.
+  4|RE : <<TODO>>
+
+[JP#5408] gaps=0  aln=MED->US#5289  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「気をつけてな
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@Be careful.
+  4|RE : <<TODO>>
+
+[JP#5409] gaps=0  aln=MED->US#5290  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「気をつけてな
+  2|LIT: <<TODO>>
+  3|EN : @Be careful.
+  4|RE : <<TODO>>
+
+[JP#5410] gaps=1  aln=MED->US#5291  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「この機艇<8883>のグローブ〜 / 　たしかマイトグローブって言ったっけな / 　これは俺のじゃないぞ
+  2|LIT: <<TODO>>
+  3|EN : @These mechanical gloves are
+ Might Gloves, right?
+ Well, they aren't mine.
+  4|RE : <<TODO>>
+
+[JP#5411] gaps=1  aln=HIGH->US#5292  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「とにかく、ホラ / 　泣備して、泣備して / 　急いでここから<894f>げ出すわよ
+  2|LIT: <<TODO>>
+  3|EN : @Anyway, here.
+ Put this on. Hurry. We need
+ to get out of here quickly.
+  4|RE : <<TODO>>
+
+[JP#5412] gaps=2  aln=HIGH->US#5293  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ここにいる<8965>人たちが / 　いっせいに<894f>げ出したみたいなの
+  2|LIT: <<TODO>>
+  3|EN : @It seems that all the convicts
+ here escaped at once.
+  4|RE : <<TODO>>
+
+[JP#5414] gaps=2  aln=HIGH->US#5295  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「しーんじられんッ！ / 　お前までもが / 　この『<89fa><8a57>』を飛びだそうというのかッ！
+  2|LIT: <<TODO>>
+  3|EN : @I can't believe it!
+ Even you're thinking of
+ escaping this |paradise!|
+  4|RE : <<TODO>>
+
+[JP#5415] gaps=2  aln=HIGH->US#5296  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「どうやら僕には / 　『<89fa><8a57>』よりも『戦場』がむいているんでね / 　長い間、世話になった
+  2|LIT: <<TODO>>
+  3|EN : @I'm more at home on the
+ |battlefield| than in |paradise.|
+ Thanks for everything.
+  4|RE : <<TODO>>
+
+[JP#5416] gaps=10  aln=MED->US#5297  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=10
+  1|JP : 「こうなったら、もうッ！ / 　<8a85><8929>ッ、<8a85><8929>ッ、<8a85><8929>ッ、<8a85><8929>ッ、<8a85><8929>ッ！ / 　その後、死仲ッ、死仲ッ、死仲ッ、死仲ッ！
+  2|LIT: <<TODO>>
+  3|EN : @You've given me no choice!
+ Arrest them! Arrest them!
+ And after that, death! Death!
+  4|RE : <<TODO>>
+
+[JP#5420] gaps=0  aln=MED->US#5300  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : めーらず[02]ぉ#チのらゑぺ#す[80][f9]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#5421] gaps=0  aln=MED->US#5300  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : めーらず[02]ぉ#チのらゑぺ#す[80][f9]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>

@@ -1,0 +1,227 @@
+# WA2 INSERTION workspace US block 23 (US#5015-5062)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5018] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5133[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5019] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5134[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5020] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5135[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5021] budget=97ch/3ln
+  NOW: *Gems heal all members of the party
+          but the amount of HP restored
+          depends on the size of the gem.
+  JP : JP#5136[HIGH]: ＊ＨＰの回<8a34><886f>は / 　ゲットしたジェムの大きさに<8876><8943>し / 　その泣果はパーティー険片におよびます
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#5022] budget=75ch/3ln
+  NOW: *In the |oops| state, you can
+          press the 2 button to go
+          ahead and jump down.
+  JP : JP#5137[HIGH]: ＊『おっとっと』状態中に / 　[0b]かを<8a39>すことで / 　押<8a38>を飛び周りることができます[10][0c]＊押<8a38>に向かって、ダッ
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#5023] budget=73ch/3ln
+  NOW: *You can also jump down
+          by dashing off an edge
+          without the |oops| action.
+  JP : JP#5138[HIGH]: ＊押<8a38>に向かって、ダッシュ状態で搭乗すると / 　『おっとっと』ポーズをとることなく / 　そのまま飛び周りることができます
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#5026] budget=31ch/2ln
+  NOW: I refuse to abandon
+          my mission!
+  JP : JP#5141[MED]: 「任務を殺仲することはできないッ！
+  FIT: <<TODO — <=31 chars, 2 line(s), <=35/line>>
+
+[US#5027] budget=91ch/3ln
+  NOW: The monsters are multiplying
+          here because these treacherous
+          ruins have been left abandoned.
+  JP : JP#5142[MED]: 「こんな危険な奇跡を / 　姉殺しにしているから / 　モンスターが<8a3d>えていくんだよ
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#5028] budget=66ch/3ln
+  NOW: Hey, 0.
+          Shouldn't we leave the search of
+          the ruins to the |Mercs?|
+  JP : JP#5143[MED]: 「なあ、[05]ぉ / 　奇跡歩りなんてのは『渡り<8a40>』の連中に / 　まかせた方がいいと思わねェか？
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#5029] budget=82ch/3ln
+  NOW: The kidnappers are 3 guys
+          who came to the Town of Meria
+          as laborers to make money.
+  JP : JP#5144[MED]: 「<8a43>来犯人グループは３人 / 　どうやらタウンメリアの場まで / 　出挑ぎに戦ていた周<8a48><8931>仲者らしい
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#5030] budget=71ch/3ln
+  NOW: Slayheim is the western
+          country that was defeated
+          in a war 5 years ago.
+  JP : JP#5145[MED]: 「〜<88d2>数前の参戦で、消失してしまった / 　あのスレイハイム間だ
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#5031] budget=49ch/2ln
+  NOW: With the world so unstable,
+          it'll only get worse.
+  JP : JP#5146[MED]: 「世情が不危奮になると / 　こういった事<8854>も<8a3d>えていくんだ[10][0c]「まだまだ<8a3d>えるぜ / 　こういった訪がよ〜
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#5032] budget=53ch/2ln
+  NOW: There are going to be more
+          and more people like this.
+  JP : JP#5147[MED]: 「まだまだ<8a3d>えるぜ / 　こういった訪がよ〜
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#5033] budget=80ch/3ln
+  NOW: You'll return to the condition
+          you were in before the battle
+          and get to redo it.
+  JP : JP#5148[MED]: 「そのバトルに / 　突入した時の状態まで戻るから / 　やりなおしができるのだ[10][0c]「<8a4c>利なシステム『コンティニュー』ッ！ / 　だけど、
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5034] budget=59ch/3ln
+  NOW: The |Continue| system is
+          convenient but its use
+          is limited.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#5035] budget=53ch/2ln
+  NOW: Each time you hit |Continue|
+          one Gimel Coin is spent.
+  JP : JP#5149[MED]: 「<8a4c>利なシステム『コンティニュー』ッ！ / 　だけど、その使用回年には<8a4d>りがある[10][0c]「１回、コンティニューを行うたびに / 　ア
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#5036] budget=94ch/3ln
+  NOW: Gimel Coins are very valuable,
+          so use them wisely. They should
+          only be used as a last resort!!
+  JP : JP#5151[HIGH]: 「１ギミルコインは恥<8858>なアイテムだからな / 　その使いどきを負るなよ / 　コンティニューは、最後の遠<8a52>なのだッ！ || JP#5150[MED]: 「１回、コンティニューを行うたびに / 　アイテム『１ギミルコイン』を / 　ひとつ消好してしまうのだ[10][0c]「１ギミルコインは恥<8858>なアイテム
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#5037] budget=74ch/3ln
+  NOW: The ruins have been searched
+          already by the expedition team
+          called |Merc.|
+  JP : JP#5152[HIGH]: 「もう、ずっと前に『渡り<8a40>』と呼ばれる / 　<8a2b>険者たちによって / 　あらかた探<887e>されつくされているからな[10][0c]「ここ
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#5038] budget=53ch/2ln
+  NOW: That's why this place is called
+          |The Withered Ruins.|
+  JP : JP#5153[HIGH]: 「ここが『勉れた奇跡』と呼ばれるのは / 　そういうことからさ
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#5039] budget=15ch/1ln
+  NOW: Brace yourself!
+  JP : JP#5154[HIGH]: 「気を招き<8a55>めていくぞッ！
+  FIT: <<TODO — <=15 chars, 1 line(s), <=35/line>>
+
+[US#5040] budget=50ch/2ln
+  NOW: I can't even imagine what
+          kind of traps lie ahead.
+  JP : JP#5155[HIGH]: 「この先、どんな仕<89eb>けがあるのか / 　見当もつかないからな
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#5042] budget=23ch/1ln
+  NOW: Could you check it out?
+  JP : JP#5157[HIGH]: 「悪いが、方家を見てきてくれないか？
+  FIT: <<TODO — <=23 chars, 1 line(s), <=35/line>>
+
+[US#5043] budget=96ch/3ln
+  NOW: It's because you tried to score
+          big here so you'd be reassigned
+          to the new unit that is forming.
+  JP : JP#5158[MED]: 「ここで目戻った手<8a59>でもたてて / 　ウワサの新<88e5>字闘への / 　望<8a5a>なんかねらっちまうからこのザマだ
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#5044] budget=78ch/3ln
+  NOW: It must have a use besides just
+          turning the switch.
+          You need to figure it out.
+  JP : JP#5159[HIGH]: 「さっきのようにスイッチを入れる以外にも / 　使い道があるかもしれんな〜 / 　そいつは自分で探すことだ
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#5045] budget=50ch/2ln
+  NOW: If you fall by mistake,
+          you'll be held up like me.
+  JP : JP#5160[HIGH]: 「うっかり落ちると手間取るぞ / 　〜この僕みたいにな
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#5046] budget=62ch/3ln
+  NOW: Don't sweat it, though.
+          Take it slow and
+          proceed with caution.
+  JP : JP#5161[HIGH]: 「あせらず〜 / 　ゆっくり〜 / 　飛<8858>に、だぞ〜
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#5047] budget=52ch/3ln
+  NOW: Who said kidnapping
+          would have us rolling
+          in money!?
+  JP : JP#5162[HIGH]: 「ガキを<8a43>来すれば / 　大金が望がりこむって言ったのはっ！？
+  FIT: <<TODO — <=52 chars, 3 line(s), <=35/line>>
+
+[US#5048] budget=52ch/3ln
+  NOW: I never imagined
+          it would turn into
+          such a big deal.
+  JP : JP#5163[HIGH]: 「まさか / 　こんなおおごとになるなんて / 　思ってもみなかった・・・
+  FIT: <<TODO — <=52 chars, 3 line(s), <=35/line>>
+
+[US#5050] budget=87ch/3ln
+  NOW: What do you plan on doing, boss?
+          It's about time those Musketeer
+          boys came charging in.
+  JP : JP#5165[MED]: 「どうするんでヤンス、ガンガルの守恥 / 　もうすぐ守胞闘のみなさん / 　突入してくる<8941>でヤンスよ
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#5051] budget=31ch/1ln
+  NOW: Didn't I say that at the start?
+  JP : JP#5166[MED]: 「最<8a67>に話しませんでしたっけ？
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#5052] budget=57ch/3ln
+  NOW: What a waste of man power,
+          wimping out like that.
+          Really!
+  JP : JP#5167[MED]: 「そんなことじゃ / 　男（オトコ）がすたっちまうぜ / 　〜ったくよぉ
+  FIT: <<TODO — <=57 chars, 3 line(s), <=35/line>>
+
+[US#5053] budget=29ch/1ln
+  NOW: I'll get away no matter what.
+  JP : JP#5168[MED]: 「<894f>げ切って見せるぜ
+  FIT: <<TODO — <=29 chars, 1 line(s), <=35/line>>
+
+[US#5055] budget=21ch/1ln
+  NOW: (Do you have a name?)
+  JP : JP#5170[HIGH]: （少数、名前は？）
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#5056] budget=50ch/2ln
+  NOW: You don't have the guts
+          to properly kidnap anyone!
+  JP : JP#5171[HIGH]: 「ホントは<8a43>来なんて / 　できる度<89e5>も無いくせにッ！
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#5057] budget=45ch/2ln
+  NOW: Hey, you two, grab the brat
+          and shut him up!!
+  JP : JP#5172[HIGH]: 「お、おめぇら、このガキをとっつかまえて / 　だまらせろッ！
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>

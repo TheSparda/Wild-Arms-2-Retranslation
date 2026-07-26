@@ -1,0 +1,258 @@
+# WA2 4-col translation doc block 91 (JP#7788-7817)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 28 boxes | OK=0 FAIR=27 SHAKY=0 JP-ONLY=1
+# DRAFT STATUS: 28 boxes | OK=0 FAIR=22 SHAKY=5 JP-ONLY=1
+
+[JP#7789] gaps=0  aln=LOW->US#7592  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7790] gaps=2  aln=MED->US#7592  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7791] gaps=0  aln=MED->US#7593  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7792] gaps=5  aln=MED->US#7594  CONF=SHAKY unsolved=5  CONF=FAIR unsolved=2
+  1|JP : 「お前に伝られた幸<8a34>の… / 　<888a>の『ギアス』が / 　まだ死ぬことを<8978>してくれないのでな[10][0c]「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @The scar you gave me...
+ This |Gias| around my neck
+ won't let me die yet.@As long as I'm chained to
+ this, I'm coming back as
+ often as I can.@That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7793] gaps=2  aln=MED->US#7595  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @As long as I'm chained to
+ this, I'm coming back as
+ often as I can.@That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7794] gaps=2  aln=MED->US#7596  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7795] gaps=2  aln=MED->US#7597  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「この一撃は / 　過守への姉単〜 / 　スレイハイム解殺<8a3d>の一撃ッ！[10][0c]「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  2|LIT: <<TODO>>
+  3|EN : @This blow is my farewell to
+ the past. It's a blow for the
+ Slayheim Liberation Army!@It's a beacon for new battles!
+ Take this, Vinsfeld Rhadamanthus.
+  4|RE : <<TODO>>
+
+[JP#7796] gaps=1  aln=MED->US#7598  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  2|LIT: <<TODO>>
+  3|EN : @It's a beacon for new battles!
+ Take this, Vinsfeld Rhadamanthus.
+  4|RE : <<TODO>>
+
+[JP#7797] gaps=5  aln=MED->US#7600  CONF=SHAKY unsolved=5  CONF=FAIR unsolved=2
+  1|JP : 「お前に伝られた幸<8a34>の… / 　<888a>の『ギアス』が / 　まだ死ぬことを<8978>してくれないのでな[10][0c]「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @The scar you gave me...
+ This |Gias| around my neck
+ won't let me die yet.@As long as I'm chained to
+ this, I'm coming back as
+ often as I can.@That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7798] gaps=2  aln=MED->US#7601  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @As long as I'm chained to
+ this, I'm coming back as
+ often as I can.@That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7799] gaps=2  aln=MED->US#7602  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7800] gaps=2  aln=MED->US#7603  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「この一撃は / 　過守への姉単〜 / 　スレイハイム解殺<8a3d>の一撃ッ！[10][0c]「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  2|LIT: <<TODO>>
+  3|EN : @This blow is my farewell to
+ the past. It's a blow for the
+ Slayheim Liberation Army!@It's a beacon for new battles!
+ Take this, Vinsfeld Rhadamanthus.
+  4|RE : <<TODO>>
+
+[JP#7801] gaps=1  aln=MED->US#7604  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  2|LIT: <<TODO>>
+  3|EN : @It's a beacon for new battles!
+ Take this, Vinsfeld Rhadamanthus.
+  4|RE : <<TODO>>
+
+[JP#7802] gaps=5  aln=MED->US#7606  CONF=SHAKY unsolved=5  CONF=FAIR unsolved=2
+  1|JP : 「お前に伝られた幸<8a34>の… / 　<888a>の『ギアス』が / 　まだ死ぬことを<8978>してくれないのでな[10][0c]「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @The scar you gave me...
+ This |Gias| around my neck
+ won't let me die yet.@As long as I'm chained to
+ this, I'm coming back as
+ often as I can.@That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7803] gaps=2  aln=MED->US#7607  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @As long as I'm chained to
+ this, I'm coming back as
+ often as I can.@That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7804] gaps=2  aln=MED->US#7608  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7805] gaps=2  aln=MED->US#7609  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「この一撃は / 　過守への姉単〜 / 　スレイハイム解殺<8a3d>の一撃ッ！[10][0c]「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  2|LIT: <<TODO>>
+  3|EN : @This blow is my farewell to
+ the past. It's a blow for the
+ Slayheim Liberation Army!@It's a beacon for new battles!
+ Take this, Vinsfeld Rhadamanthus.
+  4|RE : <<TODO>>
+
+[JP#7806] gaps=1  aln=MED->US#7610  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  2|LIT: <<TODO>>
+  3|EN : @It's a beacon for new battles!
+ Take this, Vinsfeld Rhadamanthus.
+  4|RE : <<TODO>>
+
+[JP#7807] gaps=5  aln=MED->US#7612  CONF=SHAKY unsolved=5  CONF=FAIR unsolved=2
+  1|JP : 「お前に伝られた幸<8a34>の… / 　<888a>の『ギアス』が / 　まだ死ぬことを<8978>してくれないのでな[10][0c]「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @The scar you gave me...
+ This |Gias| around my neck
+ won't let me die yet.@As long as I'm chained to
+ this, I'm coming back as
+ often as I can.@That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7808] gaps=2  aln=MED->US#7613  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @As long as I'm chained to
+ this, I'm coming back as
+ often as I can.@That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7809] gaps=2  aln=MED->US#7614  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7810] gaps=2  aln=MED->US#7615  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「この一撃は / 　過守への姉単〜 / 　スレイハイム解殺<8a3d>の一撃ッ！[10][0c]「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  2|LIT: <<TODO>>
+  3|EN : @This blow is my farewell to
+ the past. It's a blow for the
+ Slayheim Liberation Army!@It's a beacon for new battles!
+ Take this, Vinsfeld Rhadamanthus.
+  4|RE : <<TODO>>
+
+[JP#7811] gaps=1  aln=MED->US#7616  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  2|LIT: <<TODO>>
+  3|EN : @It's a beacon for new battles!
+ Take this, Vinsfeld Rhadamanthus.
+  4|RE : <<TODO>>
+
+[JP#7812] gaps=5  aln=MED->US#7618  CONF=SHAKY unsolved=5  CONF=FAIR unsolved=2
+  1|JP : 「お前に伝られた幸<8a34>の… / 　<888a>の『ギアス』が / 　まだ死ぬことを<8978>してくれないのでな[10][0c]「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @The scar you gave me...
+ This |Gias| around my neck
+ won't let me die yet.@As long as I'm chained to
+ this, I'm coming back as
+ often as I can.@That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7813] gaps=2  aln=MED->US#7619  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @As long as I'm chained to
+ this, I'm coming back as
+ often as I can.@That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7814] gaps=2  aln=MED->US#7620  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  2|LIT: <<TODO>>
+  3|EN : @That's right.
+ |Heroes| don't die! As long
+ as they have the will to fight.
+  4|RE : <<TODO>>
+
+[JP#7815] gaps=2  aln=MED->US#7621  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「この一撃は / 　過守への姉単〜 / 　スレイハイム解殺<8a3d>の一撃ッ！[10][0c]「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  2|LIT: <<TODO>>
+  3|EN : @This blow is my farewell to
+ the past. It's a blow for the
+ Slayheim Liberation Army!@It's a beacon for new battles!
+ Take this, Vinsfeld Rhadamanthus.
+  4|RE : <<TODO>>
+
+[JP#7816] gaps=1  aln=MED->US#7622  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  2|LIT: <<TODO>>
+  3|EN : @It's a beacon for new battles!
+ Take this, Vinsfeld Rhadamanthus.
+  4|RE : <<TODO>>

@@ -1,0 +1,647 @@
+# WA2 4-col translation doc block 34 (JP#5610-5693)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 80 boxes | OK=18 FAIR=50 SHAKY=12 JP-ONLY=0
+# DRAFT STATUS: 80 boxes | OK=18 FAIR=45 SHAKY=17 JP-ONLY=0
+
+[JP#5611] gaps=0  aln=MED->US#5482  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5612] gaps=2  aln=MED->US#5483  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5613] gaps=0  aln=MED->US#5484  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5614] gaps=1  aln=MED->US#5485  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「片中で<88ab>げ出すなんて / 　それはできない
+  2|LIT: <<TODO>>
+  3|EN : @You can't just run off and
+ quit in the middle of this.
+  4|RE : <<TODO>>
+
+[JP#5615] gaps=1  aln=MED->US#5487  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「僕はただ / 　それを見<88f8>けてやるだけだ
+  2|LIT: <<TODO>>
+  3|EN : @suddenly becomes possible.
+ We stand behind 3.
+  4|RE : <<TODO>>
+
+[JP#5616] gaps=0  aln=MED->US#5488  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「[05]がには / 　わたしたちがいるからね
+  2|LIT: <<TODO>>
+  3|EN : @it's my decision.
+ But that's not cool,
+ so I'll try not to do it.
+  4|RE : <<TODO>>
+
+[JP#5617] gaps=0  aln=MED->US#5488  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「でも、それはかっこ悪いから / 　見せたくないな〜
+  2|LIT: <<TODO>>
+  3|EN : @it's my decision.
+ But that's not cool,
+ so I'll try not to do it.
+  4|RE : <<TODO>>
+
+[JP#5618] gaps=0  aln=HIGH->US#5489  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [01][19]つ
+  2|LIT: <<TODO>>
+  3|EN : K
+  4|RE : <<TODO>>
+
+[JP#5619] gaps=2  aln=HIGH->US#5490  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「それなのに / 　ボクひとりが<89b9><8a38>をはいちゃ / 　ダメだと思うんだ
+  2|LIT: <<TODO>>
+  3|EN : @I can't be the only
+ one complaining.
+ That's not right.
+  4|RE : <<TODO>>
+
+[JP#5620] gaps=0  aln=HIGH->US#5491  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [01][19]つ
+  2|LIT: <<TODO>>
+  3|EN : K
+  4|RE : <<TODO>>
+
+[JP#5621] gaps=0  aln=HIGH->US#5492  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [01][f4][7f][08][10][01]
+  2|LIT: <<TODO>>
+  3|EN : x�
+  4|RE : <<TODO>>
+
+[JP#5622] gaps=0  aln=HIGH->US#5493  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [01][13]ク[f5][14][80][03][10][15]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#5623] gaps=1  aln=HIGH->US#5494  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊『鍵の後仲者』は、ただ一人にて / 　その試<8a01>を守けるものなり
+  2|LIT: <<TODO>>
+  3|EN : *The |Heir to the Pillar|
+ will take the test alone.
+  4|RE : <<TODO>>
+
+[JP#5624] gaps=0  aln=HIGH->US#5495  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「わたしが姉参できるのは / 　ここまでです
+  2|LIT: <<TODO>>
+  3|EN : @This is as far as I
+ am able to guide you.
+  4|RE : <<TODO>>
+
+[JP#5625] gaps=1  aln=HIGH->US#5496  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「『鍵』なる存帰を取り決める / 　試<8a01>場なのか〜
+  2|LIT: <<TODO>>
+  3|EN : @So this is the Trial Arena for
+ testing the |Pillar| ...
+  4|RE : <<TODO>>
+
+[JP#5626] gaps=5  aln=MED->US#5497  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「そこまでは / 　<89f8>歩者を<8a40>る戦胞のみなさんも / 　いっしょに行くことができます[10][0c]「でも、『幸』の向こう<89f5>には<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @The knights protecting the
+ candidate can go that far.@But, on the other side
+ of the |Wall|...
+  4|RE : <<TODO>>
+
+[JP#5627] gaps=3  aln=MED->US#5498  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「でも、『幸』の向こう<89f5>には<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @But, on the other side
+ of the |Wall|...
+  4|RE : <<TODO>>
+
+[JP#5628] gaps=0  aln=HIGH->US#5499  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「大兄きな人だからって / 　いつまでもいっしょにいられるとは / 　かぎらないんだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @Just because it's someone you
+ really like, doesn't mean you
+ can be together all the time.
+  4|RE : <<TODO>>
+
+[JP#5629] gaps=1  aln=HIGH->US#5500  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「キミは剣の家なんだから / 　もう少し、元気があってもいいはずだよ[10][0c]「試<8a01>だか何だか知らないけど / 　元気をもらえるものだと思えば / 　もうけモンじゃない[10][0c]「でしょッ！
+  2|LIT: <<TODO>>
+  3|EN : @You're a guy.
+ You should be more upbeat.@I don't know what this test is,
+ but think of it as something
+ positive that gets you ahead.@Right!
+  4|RE : <<TODO>>
+
+[JP#5630] gaps=1  aln=HIGH->US#5501  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「試<8a01>だか何だか知らないけど / 　元気をもらえるものだと思えば / 　もうけモンじゃない[10][0c]「でしょッ！
+  2|LIT: <<TODO>>
+  3|EN : @I don't know what this test is,
+ but think of it as something
+ positive that gets you ahead.@Right!
+  4|RE : <<TODO>>
+
+[JP#5631] gaps=0  aln=HIGH->US#5502  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「でしょッ！
+  2|LIT: <<TODO>>
+  3|EN : @Right!
+  4|RE : <<TODO>>
+
+[JP#5632] gaps=0  aln=HIGH->US#5503  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「まるで、魔法みたいに
+  2|LIT: <<TODO>>
+  3|EN : @It's almost like magic.
+  4|RE : <<TODO>>
+
+[JP#5633] gaps=0  aln=MED->US#5504  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ありがとうございます / 　もう、だいじょうぶです
+  2|LIT: <<TODO>>
+  3|EN : @Thank you very much.
+ I'm fine now.
+  4|RE : <<TODO>>
+
+[JP#5635] gaps=1  aln=HIGH->US#5506  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「帰ってきたら / 　お<8a43>来を見せてほしいな〜
+  2|LIT: <<TODO>>
+  3|EN : @When we get back, I'd like
+ you to show me the flowers.
+  4|RE : <<TODO>>
+
+[JP#5636] gaps=0  aln=HIGH->US#5507  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜うん、じゃあ、わたし待っている / 　[05]がくんが帰ってくるの / 　ここで待っているから
+  2|LIT: <<TODO>>
+  3|EN : @Yes, then I'll be waiting.
+ I'll be waiting right here
+ for you to come back.
+  4|RE : <<TODO>>
+
+[JP#5637] gaps=5  aln=HIGH->US#5508  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「わかるのダ[10][0c]「キミなら心を加わせることができるのダ / 　<89bb>りにつきし『<8a48><8a34>配者』<f040><f042> / 　ガーディアンたちと、ね
+  2|LIT: <<TODO>>
+  3|EN : @You know.@You can get your soul to
+ communicate with the
+ sleeping |Old Ruler| Guardians.
+  4|RE : <<TODO>>
+
+[JP#5638] gaps=5  aln=HIGH->US#5509  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「キミなら心を加わせることができるのダ / 　<89bb>りにつきし『<8a48><8a34>配者』<f040><f042> / 　ガーディアンたちと、ね
+  2|LIT: <<TODO>>
+  3|EN : @You can get your soul to
+ communicate with the
+ sleeping |Old Ruler| Guardians.
+  4|RE : <<TODO>>
+
+[JP#5639] gaps=1  aln=HIGH->US#5510  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「キミたちからすれば / 　次確な存帰呼<895b>が無いというのは / 　不仲なものだったのダ
+  2|LIT: <<TODO>>
+  3|EN : @You all find it inconvenient
+ when there's no clear name
+ for an existent being.
+  4|RE : <<TODO>>
+
+[JP#5640] gaps=5  aln=MED->US#5516  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「『訪』という認<8a4c>が<8a4d>好〜 / 　う<f045>ん、うまく言えないのダ / 　つまり<f040><f042>[10][0c]「[0a]ぜは[0a]ぜであり / 　それと同時に / 　単の何かでもあるというわけなのダ[10][0c]「わかったかい？
+  2|LIT: <<TODO>>
+  3|EN : @Why was the Sub-Spirit
+ waiting for me?
+  4|RE : <<TODO>>
+
+[JP#5641] gaps=0  aln=MED->US#5517  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「[0a]ぜは[0a]ぜであり / 　それと同時に / 　単の何かでもあるというわけなのダ[10][0c]「わかったかい？
+  2|LIT: <<TODO>>
+  3|EN : @Come with us, 3.
+ The Guardians want you
+ before it's too late!@When  C's power is needed,
+ use 1 to call him.@For places you can't get to,
+  C can search it for you.
+  4|RE : <<TODO>>
+
+[JP#5642] gaps=0  aln=MED->US#5518  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「わかったかい？
+  2|LIT: <<TODO>>
+  3|EN : @When  C's power is needed,
+ use 1 to call him.@For places you can't get to,
+  C can search it for you.
+  4|RE : <<TODO>>
+
+[JP#5643] gaps=1  aln=MED->US#5518  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「『訪』という意<8a4c>レベルが恥いために / 　他の情報マトリクスを取り込むことで / 　その負、簡性をコピーできるという、あの〜
+  2|LIT: <<TODO>>
+  3|EN : @When  C's power is needed,
+ use 1 to call him.@For places you can't get to,
+  C can search it for you.
+  4|RE : <<TODO>>
+
+[JP#5644] gaps=1  aln=MED->US#5519  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「人呼んで、変身挑<88ea>戦とは / 　[0a]ぜのことなのダッ！
+  2|LIT: <<TODO>>
+  3|EN : @For places you can't get to,
+  C can search it for you.
+  4|RE : <<TODO>>
+
+[JP#5645] gaps=1  aln=MED->US#5520  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「その変身挑<88ea>戦が / 　どうしてボクを待っていたんだい
+  2|LIT: <<TODO>>
+  3|EN : @Last night, I heard from
+ the Village Chief that I'm a Zoa
+ Priest just like my mother.@By defeating monsters, I'm
+ able to extract power from
+ the Medium I'm equipped with.@I want to pass the trial.
+ I want to be strong too!
+ So please, give me a chance.
+  4|RE : <<TODO>>
+
+[JP#5646] gaps=3  aln=MED->US#5520  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「いっしょに行くのダ、[05]が / 　ガーディアンはキミを<8a52>している / 　すべてが手<8a0d>れにならないうちにッ！[10][0c]「[0a]ぜの力が必要な時は / 　[0b]おで呼び出してほしいのダ[10][0c]「キミの手が<88f8>かない場所でも / 　[0a]ぜが代りに / 　調べることができるのダ
+  2|LIT: <<TODO>>
+  3|EN : @Last night, I heard from
+ the Village Chief that I'm a Zoa
+ Priest just like my mother.@By defeating monsters, I'm
+ able to extract power from
+ the Medium I'm equipped with.@I want to pass the trial.
+ I want to be strong too!
+ So please, give me a chance.
+  4|RE : <<TODO>>
+
+[JP#5647] gaps=1  aln=MED->US#5520  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「[0a]ぜの力が必要な時は / 　[0b]おで呼び出してほしいのダ[10][0c]「キミの手が<88f8>かない場所でも / 　[0a]ぜが代りに / 　調べることができるのダ
+  2|LIT: <<TODO>>
+  3|EN : @Last night, I heard from
+ the Village Chief that I'm a Zoa
+ Priest just like my mother.@By defeating monsters, I'm
+ able to extract power from
+ the Medium I'm equipped with.@I want to pass the trial.
+ I want to be strong too!
+ So please, give me a chance.
+  4|RE : <<TODO>>
+
+[JP#5648] gaps=1  aln=MED->US#5520  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「キミの手が<88f8>かない場所でも / 　[0a]ぜが代りに / 　調べることができるのダ
+  2|LIT: <<TODO>>
+  3|EN : @Last night, I heard from
+ the Village Chief that I'm a Zoa
+ Priest just like my mother.@By defeating monsters, I'm
+ able to extract power from
+ the Medium I'm equipped with.@I want to pass the trial.
+ I want to be strong too!
+ So please, give me a chance.
+  4|RE : <<TODO>>
+
+[JP#5649] gaps=4  aln=HIGH->US#5520  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「<8a55>回の貸 / 　<895a>長さんに聞いたんです / 　ボクも、<8a57>さんと同じゾアプリーストだって[10][0c]「ボクがモンスターをやっつけることで / 　望備しているミーディアムから / 　パワーを招き出せるようになるんです[10][0c]「ボクは試<8a01>を果たしたい〜 / 　ボクも強くなりたいんですッ！ / 　だから、お願いしますッ！
+  2|LIT: <<TODO>>
+  3|EN : @Last night, I heard from
+ the Village Chief that I'm a Zoa
+ Priest just like my mother.@By defeating monsters, I'm
+ able to extract power from
+ the Medium I'm equipped with.@I want to pass the trial.
+ I want to be strong too!
+ So please, give me a chance.
+  4|RE : <<TODO>>
+
+[JP#5650] gaps=1  aln=HIGH->US#5521  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ボクがモンスターをやっつけることで / 　望備しているミーディアムから / 　パワーを招き出せるようになるんです[10][0c]「ボクは試<8a01>を果たしたい〜 / 　ボクも強くなりたいんですッ！ / 　だから、お願いしますッ！
+  2|LIT: <<TODO>>
+  3|EN : @By defeating monsters, I'm
+ able to extract power from
+ the Medium I'm equipped with.@I want to pass the trial.
+ I want to be strong too!
+ So please, give me a chance.
+  4|RE : <<TODO>>
+
+[JP#5651] gaps=1  aln=HIGH->US#5522  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ボクは試<8a01>を果たしたい〜 / 　ボクも強くなりたいんですッ！ / 　だから、お願いしますッ！
+  2|LIT: <<TODO>>
+  3|EN : @I want to pass the trial.
+ I want to be strong too!
+ So please, give me a chance.
+  4|RE : <<TODO>>
+
+[JP#5652] gaps=4  aln=HIGH->US#5523  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「〜突き動かされるような信信〜 / 　この試<8a01>場に<8a59>ちている / 　意<8a5a>のようなモノが<8880>まっていくような〜
+  2|LIT: <<TODO>>
+  3|EN : @I feel like I've been pierced.
+ It feels as if all the wills here
+ on the grounds are gathering.
+  4|RE : <<TODO>>
+
+[JP#5653] gaps=3  aln=HIGH->US#5524  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「彼らの意<8a5a>は<88e0>動となって / 　力あるカタチをとろうとしている〜 / 　これも、ひとつの試<8a01>なのダッ！
+  2|LIT: <<TODO>>
+  3|EN : @Their wills turn into vibrations
+ searching for powerful shapes.
+ This is one of the trials too!
+  4|RE : <<TODO>>
+
+[JP#5654] gaps=0  aln=MED->US#5525  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「〜でもッ！ / 　気をつけてください / 　ボクたちを試そうとしていますッ！
+  2|LIT: <<TODO>>
+  3|EN : @But!
+ Watch out.
+ They're testing us.
+  4|RE : <<TODO>>
+
+[JP#5655] gaps=3  aln=MED->US#5526  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「今や、意<8a4c>体を残すのみとなった / 　ファルガイアの<8a48><8a34>配者、ガーディアンは / 　自身の力では実体合することはできないのダ
+  2|LIT: <<TODO>>
+  3|EN : @The old rulers of Filgaia, the
+ first Guardians, had absolutely
+ no power in the physical world.
+  4|RE : <<TODO>>
+
+[JP#5656] gaps=1  aln=HIGH->US#5527  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「わたしたちまで / 　<8a0a>われちゃったのよッ！
+  2|LIT: <<TODO>>
+  3|EN : @Even we were
+ attacked by it!
+  4|RE : <<TODO>>
+
+[JP#5657] gaps=2  aln=HIGH->US#5528  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「『鍵』のみならず / 　『鍵』を<8a40>る / 　戦胞たちの力<886f>もいっしょに〜
+  2|LIT: <<TODO>>
+  3|EN : ...not only the |Pillar| but
+ also the strength of the
+ knights protecting the |Pillar.|
+  4|RE : <<TODO>>
+
+[JP#5658] gaps=2  aln=HIGH->US#5529  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ボクに / 　呼びかけてくる<883f>があります[10][0c]「ボクが『鍵』を守け仲ぐには / 　さらに、この<892a>を / 　めざさなくてはいけないみたいです〜
+  2|LIT: <<TODO>>
+  3|EN : @There's a voice
+ calling to me.@In order for me to become
+ the |Pillar,| I guess I
+ have to go even further.
+  4|RE : <<TODO>>
+
+[JP#5659] gaps=1  aln=HIGH->US#5530  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ボクが『鍵』を守け仲ぐには / 　さらに、この<892a>を / 　めざさなくてはいけないみたいです〜
+  2|LIT: <<TODO>>
+  3|EN : @In order for me to become
+ the |Pillar,| I guess I
+ have to go even further.
+  4|RE : <<TODO>>
+
+[JP#5660] gaps=3  aln=HIGH->US#5531  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「この向こう<89f5>に / 　待ち守けているのが<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @What waits on the other
+ side is...
+  4|RE : <<TODO>>
+
+[JP#5661] gaps=5  aln=MED->US#5533  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「意<8a4c>体であるガーディアンの力を / 　<8a1b>現合させる能力<f040><f042>[10][0c]「キミは『コンバイン』を / 　試<8a01>の果てに / 　手に入れなければいけないのダ[10][0c]「[0a]ぜといっしょにね
+  2|LIT: <<TODO>>
+  3|EN : @For your trial, you must get
+ hold of the |Combine.|@With  C.
+  4|RE : <<TODO>>
+
+[JP#5662] gaps=1  aln=MED->US#5534  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「キミは『コンバイン』を / 　試<8a01>の果てに / 　手に入れなければいけないのダ[10][0c]「[0a]ぜといっしょにね
+  2|LIT: <<TODO>>
+  3|EN : @With  C.
+  4|RE : <<TODO>>
+
+[JP#5663] gaps=0  aln=MED->US#5534  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「[0a]ぜといっしょにね
+  2|LIT: <<TODO>>
+  3|EN : @With  C.
+  4|RE : <<TODO>>
+
+[JP#5664] gaps=0  aln=MED->US#5535  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「[05]がと[0a]ぜは / 　ずっといっしょでなきゃダメなのダ
+  2|LIT: <<TODO>>
+  3|EN : @3 and  C must be
+ together at all times.
+  4|RE : <<TODO>>
+
+[JP#5665] gaps=0  aln=MED->US#5536  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ミーディアムは / 　ガーディアンの情報マトリクスが / 　谷合したもの〜[10][0c]「『コンバイン』には / 　ミーディアムが必要不可欠なのダ
+  2|LIT: <<TODO>>
+  3|EN : @The Medium is the petrified
+ version of the Guardian's
+ information matrix.@For the |Combine,| it's
+ essential to have a Medium.
+  4|RE : <<TODO>>
+
+[JP#5666] gaps=0  aln=MED->US#5537  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「『コンバイン』には / 　ミーディアムが必要不可欠なのダ
+  2|LIT: <<TODO>>
+  3|EN : @For the |Combine,| it's
+ essential to have a Medium.
+  4|RE : <<TODO>>
+
+[JP#5667] gaps=2  aln=MED->US#5538  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「ずっと前に<8a57>さんが言ってた / 　ミーディアムに<8a5c>められた / 　もうひとつの力って、これだったんだね〜
+  2|LIT: <<TODO>>
+  3|EN : @So this is the other power
+ concealed in the Medium
+ which mom told me about.
+  4|RE : <<TODO>>
+
+[JP#5668] gaps=0  aln=HIGH->US#5539  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「『オードリューク』のミーディアムが / 　また茶いている〜
+  2|LIT: <<TODO>>
+  3|EN : @The Medium |Odoryuk| is
+ shining again.
+  4|RE : <<TODO>>
+
+[JP#5669] gaps=0  aln=HIGH->US#5540  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「キミは、『後仲者』なのダ
+  2|LIT: <<TODO>>
+  3|EN : @You are the |heir.|
+  4|RE : <<TODO>>
+
+[JP#5670] gaps=0  aln=HIGH->US#5541  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「『後仲者』たりうるものよ〜 / 　守が名を我らに延げよ
+  2|LIT: <<TODO>>
+  3|EN : @You, designated as |heir,|
+ state your name.
+  4|RE : <<TODO>>
+
+[JP#5671] gaps=0  aln=HIGH->US#5542  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ボクの名前は / 　[05]が・ライムレスですッ！
+  2|LIT: <<TODO>>
+  3|EN : @My name is
+ 3 Rhymeless!
+  4|RE : <<TODO>>
+
+[JP#5672] gaps=1  aln=HIGH->US#5543  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「終なる試<8a01>は / 　我らを呼び信ますことにありッ！
+  2|LIT: <<TODO>>
+  3|EN : @The unending trial
+ has awakened us!
+  4|RE : <<TODO>>
+
+[JP#5673] gaps=4  aln=HIGH->US#5544  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「キミが望備しているミーディアムの / 　情報マトリクスを[0a]ぜが / 　カタチあるチカラに<88b0>魂してあげるのダ[10][0c]「使用者のフォースと / 　[0a]ぜの変身能力〜 / 　ひとつに殺つのが『コンバイン』なのダ[10][0c]「まずは、『グルジエフ』など / 　頼撃能力を持つガーディアンを / 　ＧＵＡＲＤに望備するのダ[10][0c]「プーカと[05]がのふたりで / 　『コンバイン』を発動させて / 　戻ちはだかる試<8a01>を<8a6a>ね<8a6b>けるのダッ！
+  2|LIT: <<TODO>>
+  3|EN : @The information matrix of the
+ Medium will let  C
+ change into a powerful shape.@The user's force and  C's
+ ability to transform, released
+ together, form a |Combine.|@First take the Guardians who have
+ offensive powers like |Grudiev|--
+ and equip them in the GUARD slot.@Pooka and 3 can put
+ in motion a |Combine.| Just leap
+ over any trial that's in the way!
+  4|RE : <<TODO>>
+
+[JP#5674] gaps=3  aln=HIGH->US#5545  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「使用者のフォースと / 　[0a]ぜの変身能力〜 / 　ひとつに殺つのが『コンバイン』なのダ[10][0c]「まずは、『グルジエフ』など / 　頼撃能力を持つガーディアンを / 　ＧＵＡＲＤに望備するのダ[10][0c]「プーカと[05]がのふたりで / 　『コンバイン』を発動させて / 　戻ちはだかる試<8a01>を<8a6a>ね<8a6b>けるのダッ！
+  2|LIT: <<TODO>>
+  3|EN : @The user's force and  C's
+ ability to transform, released
+ together, form a |Combine.|@First take the Guardians who have
+ offensive powers like |Grudiev|--
+ and equip them in the GUARD slot.@Pooka and 3 can put
+ in motion a |Combine.| Just leap
+ over any trial that's in the way!
+  4|RE : <<TODO>>
+
+[JP#5675] gaps=3  aln=HIGH->US#5546  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「まずは、『グルジエフ』など / 　頼撃能力を持つガーディアンを / 　ＧＵＡＲＤに望備するのダ[10][0c]「プーカと[05]がのふたりで / 　『コンバイン』を発動させて / 　戻ちはだかる試<8a01>を<8a6a>ね<8a6b>けるのダッ！
+  2|LIT: <<TODO>>
+  3|EN : @First take the Guardians who have
+ offensive powers like |Grudiev|--
+ and equip them in the GUARD slot.@Pooka and 3 can put
+ in motion a |Combine.| Just leap
+ over any trial that's in the way!
+  4|RE : <<TODO>>
+
+[JP#5676] gaps=3  aln=HIGH->US#5547  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「プーカと[05]がのふたりで / 　『コンバイン』を発動させて / 　戻ちはだかる試<8a01>を<8a6a>ね<8a6b>けるのダッ！
+  2|LIT: <<TODO>>
+  3|EN : @Pooka and 3 can put
+ in motion a |Combine.| Just leap
+ over any trial that's in the way!
+  4|RE : <<TODO>>
+
+[JP#5677] gaps=8  aln=HIGH->US#5548  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : 「[05]がよ、死する<8a65>命の者よ〜 / 　友はここにたてられた / 　守こそが『後仲者』〜[10][0c]「我らを解き殺てし、『鍵』たる身よ / 　<8842>物となりて、延げられし<89c2>まで / 　いく苦やかに、苦やかに〜[10][0c]「我らは待つ〜 / 　『鍵』たる身よ〜[10][0c]「ファルガイアの空を姿まんとする / 　<8a71>るべき<8a72>の脅威を復けるため / 　生け基の<8a74><8a75>に、守の意<8a5a>で戻つことを〜
+  2|LIT: <<TODO>>
+  3|EN : @3, you cheated death.
+ The proof is here.
+ Thou art the |heir.|@By releasing us, the |Pillar|
+ becomes an offering proffered
+ soundly, very soundly.@We await thy next |Pillar.|@An eclipse will fill Filgaia's sky.
+ Thou wilt stand at the Sacrificial
+ Altar to deter this menace.
+  4|RE : <<TODO>>
+
+[JP#5678] gaps=7  aln=HIGH->US#5549  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「我らを解き殺てし、『鍵』たる身よ / 　<8842>物となりて、延げられし<89c2>まで / 　いく苦やかに、苦やかに〜[10][0c]「我らは待つ〜 / 　『鍵』たる身よ〜[10][0c]「ファルガイアの空を姿まんとする / 　<8a71>るべき<8a72>の脅威を復けるため / 　生け基の<8a74><8a75>に、守の意<8a5a>で戻つことを〜
+  2|LIT: <<TODO>>
+  3|EN : @By releasing us, the |Pillar|
+ becomes an offering proffered
+ soundly, very soundly.@We await thy next |Pillar.|@An eclipse will fill Filgaia's sky.
+ Thou wilt stand at the Sacrificial
+ Altar to deter this menace.
+  4|RE : <<TODO>>
+
+[JP#5679] gaps=5  aln=MED->US#5550  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「我らは待つ〜 / 　『鍵』たる身よ〜[10][0c]「ファルガイアの空を姿まんとする / 　<8a71>るべき<8a72>の脅威を復けるため / 　生け基の<8a74><8a75>に、守の意<8a5a>で戻つことを〜
+  2|LIT: <<TODO>>
+  3|EN : @We await thy next |Pillar.|@An eclipse will fill Filgaia's sky.
+ Thou wilt stand at the Sacrificial
+ Altar to deter this menace.
+  4|RE : <<TODO>>
+
+[JP#5680] gaps=5  aln=HIGH->US#5551  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「ファルガイアの空を姿まんとする / 　<8a71>るべき<8a72>の脅威を復けるため / 　生け基の<8a74><8a75>に、守の意<8a5a>で戻つことを〜
+  2|LIT: <<TODO>>
+  3|EN : @An eclipse will fill Filgaia's sky.
+ Thou wilt stand at the Sacrificial
+ Altar to deter this menace.
+  4|RE : <<TODO>>
+
+[JP#5681] gaps=1  aln=HIGH->US#5552  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「このボクが / 　試<8a01>を果たせたんですねッ！ / 　〜信じられないよ〜
+  2|LIT: <<TODO>>
+  3|EN : @I actually passed the
+ trial, didn't I?!
+ I can't believe it.
+  4|RE : <<TODO>>
+
+[JP#5682] gaps=1  aln=HIGH->US#5553  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「それは、まちがいなく / 　キミの信じる力が遠いた現実 / 　キミが成し<89d8>げた『本当』なのダ
+  2|LIT: <<TODO>>
+  3|EN : @Make no mistake, your power
+ of belief guided reality.
+ You realized |truth.|
+  4|RE : <<TODO>>
+
+[JP#5683] gaps=2  aln=HIGH->US#5554  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「でも<f040><f042>[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @But...
+  4|RE : <<TODO>>
+
+[JP#5685] gaps=0  aln=HIGH->US#5556  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「まるで、[05]がのドキドキが / 　プーカにもうつったみたいなのダ / 　すごく、うれしいのダ
+  2|LIT: <<TODO>>
+  3|EN : @It's as if Pooka caught
+ 3's excitement.
+ I'm so excited!
+  4|RE : <<TODO>>
+
+[JP#5686] gaps=1  aln=MED->US#5557  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「みんなにも / 　ボクのドキドキを / 　<88a6>えてみたいんですッ！
+  2|LIT: <<TODO>>
+  3|EN : @I want the others
+ to feel my excitement!
+  4|RE : <<TODO>>
+
+[JP#5687] gaps=0  aln=HIGH->US#5558  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「待っているこっちは / 　ホント、ドキドキだったんだよ
+  2|LIT: <<TODO>>
+  3|EN : @We were all nervous
+ waiting here.
+  4|RE : <<TODO>>
+
+[JP#5688] gaps=1  aln=HIGH->US#5559  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「でも、まだ実信がわかなくて〜 / 　<89e5>がドキドキしていることくらいが / 　変わったことくらいです
+  2|LIT: <<TODO>>
+  3|EN : @But it still doesn't feel real.
+ My pounding heart is the only
+ thing that feels different.
+  4|RE : <<TODO>>
+
+[JP#5689] gaps=2  aln=HIGH->US#5560  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「ファルガイアを<8a34>える力の一字〜 / 　ガーディアンの力を / 　みんなとプーカで<8a1b>現合する力[10][0c]「これが『コンバイン』なのダッ！
+  2|LIT: <<TODO>>
+  3|EN : @Part of the power sustaining
+ Filgaia, the Guardian's power,
+ can be realized through Pooka.@This is the |Combine|!
+  4|RE : <<TODO>>
+
+[JP#5690] gaps=0  aln=HIGH->US#5561  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「これが『コンバイン』なのダッ！
+  2|LIT: <<TODO>>
+  3|EN : @This is the |Combine|!
+  4|RE : <<TODO>>
+
+[JP#5691] gaps=0  aln=HIGH->US#5562  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「フォースを使って / 　プーカが、ガーディアンの負と能力を / 　コピーする合体ワザなのダ[10][0c]「だから、プーカが / 　いっしょにいない時には / 　使えないことも気をつけてほしいのダ
+  2|LIT: <<TODO>>
+  3|EN : @It's a joint effort which, using our
+ force, allows Pooka to duplicate
+ the Guardian's shape and abilities.@So, we need to remember that
+ this trick can be used only
+ when Pooka's with us.
+  4|RE : <<TODO>>
+
+[JP#5692] gaps=0  aln=MED->US#5563  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だから、プーカが / 　いっしょにいない時には / 　使えないことも気をつけてほしいのダ
+  2|LIT: <<TODO>>
+  3|EN : @So, we need to remember that
+ this trick can be used only
+ when Pooka's with us.
+  4|RE : <<TODO>>

@@ -1,0 +1,979 @@
+# WA2 — VALERIA CHATEAU — ambient hub chatter (block 5) — FINAL insert-ready
+# =========================================================================================
+# The recurring throne-room / library / courtyard NPC + King audience lines that fire at
+# various mission-states across the whole game (block 5, US#705-898). These are AMBIENT hub
+# chatter, not a scene — so this is a LIGHT-TOUCH pass: RE = the localization reflowed to the
+# display window (<=3 lines x <=35 chars) and stripped of em dashes, with names/terms kept
+# consistent (|nuke|, Odessa, Guild Galad, Sword Magess, Valeria Chateau). JP shown for
+# reference (block-decoded; some residual codes). Full literary retranslation deferred — these
+# repeat heavily (e.g. US#743/745/746/747 are the SAME 'late queen' line) and are low story value.
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#709]
+  JP : 「後はそれをいかようにして / 撃右するかを見乗め / 置発するのみであるな
+  LIT: After this, we need only determine how to drive it back, and strike. (JP kanji corrupt: 撃右->撃退, 見乗め->見極め, 置発->触発)
+  EN : Now we have only to find how to drive it back and destroy it.
+  RE : Now we have only to find how to
+       drive it back and destroy it.
+
+[US#711]
+  JP : 「これは、共通の相『オデッサ』が / あったからこそではないのか
+  LIT: Is this not precisely because there was a common enemy, "Odessa"? (JP 相->敵 corrupt)
+  EN : This is because they face a common threat in Odessa.
+  RE : This is because they face a common
+       threat in Odessa.
+
+[US#712]
+  JP : 「〜そう考えるのは / 少々、お人良し過ぎたかもしれんな
+  LIT: To think that way was, perhaps, a little too naive of me.
+  EN : ... Perhaps I am naive to believe in the alliance. In any case...
+  RE : ... Perhaps I am naive to believe
+       in the alliance. In any case...
+
+[US#713]
+  JP : 「なんにせよ / 幻獣ドラゴンの危機は去ったが / 未だに空は戻らん。気を抜くでないぞ<b:8a3e>い戻った
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The threat of the monster Dragon is gone, yet the sky remains black. You must stay sharp.
+  RE : The threat of the monster Dragon is
+       gone, yet the sky remains black.
+       You must stay sharp.
+
+[US#714]
+  JP : 「もう少し<8a0d>かったら / 儀式を始めてしまうところだったぞ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Any longer and we would have begun funeral preparations.
+  RE : Any longer and we would have begun
+       funeral preparations.
+
+[US#715]
+  JP : 「〜あ、いや、ほんの冗談だ〜 / あまりにもうれしかったのでな / すまんな
+  LIT: ...Ah, no, just a joke... I was simply so glad. Forgive me.
+  EN : ... That was a joke... I was so pleased that I got carried away. Forgive me.
+  RE : ... That was a joke... I was so
+       pleased that I got carried away.
+       Forgive me.
+
+[US#716]
+  JP : 「これで、ＡＲＭＳ全員が揃ったわけだ / さらなる挑戦を期待をさせてもらうよ英雄』が / 無事だったことは、<b:8a48>報だった
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ARMS is reunited at last. I expect even greater exploits.
+  RE : ARMS is reunited at last. I expect
+       even greater exploits.
+
+[US#721]
+  JP : 「儂もそなたたちの挑戦に期待している / 今後もよろしく頼んだぞ<b:8a48>報を待っておったぞ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Keep up the good work. We are all counting on you.
+  RE : Keep up the good work. We are all
+       counting on you.
+
+[US#722]
+  JP : 「あの<8845>異的な機動力がなくなれば / もう急攻されることもなかろう / 今回から少し腰を高くして、取れそうだな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : This has eliminated the threat of sudden attacks. We can all rest easy tonight.
+  RE : This has eliminated the threat of
+       sudden attacks. We can all rest
+       easy tonight.
+
+[US#724]
+  JP : 「メリアブールの / いや、ファルガイア全体の危機だ / 頼んだぞ
+  LIT: A crisis for Meria Boule... no, for all of Filgaia. I'm counting on you.
+  EN : All of Meria Boule... nay, all of Filgaia is threatened. We are counting on you.
+  RE : All of Meria Boule... nay, all of
+       Filgaia is threatened. We are
+       counting on you.
+
+[US#725]
+  JP : 「〜ときに、シルヴァラント女<89fb>は / あいかわらずの寂しさであったか？ / そうか、ならば式うのが楽しみというもの
+  LIT: (literal pending: JP has unsolved codes)
+  EN : So the Queen of Sylvaland is still as beautiful as ever. I look forward to meeting her.
+  RE : So the Queen of Sylvaland is still
+       as beautiful as ever. I look
+       forward to meeting her.
+
+[US#726]
+  JP : 「そなたたちは、更の任務に備え / ゆるりと<89bf><89e2>を取るがよい妻マーガレットが / 他界したことを嘆いておった
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You soldiers should rest well before your next mission.
+  RE : You soldiers should rest well
+       before your next mission.
+
+[US#728]
+  JP : 「こうして、前向きにでも / 考えなくては、やりきれんのでな
+  LIT: Unless I make myself think of it positively like this, I couldn't bear it.
+  EN : I must look on the bright side lest the sorrow be unbearable.
+  RE : I must look on the bright side lest
+       the sorrow be unbearable.
+
+[US#729]
+  JP : 「あの後<f040><f042> / キミが配属されたＡＲＭＳだが / 事実上の茶番解体が行われたのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : And then your unit, ARMS, was effectively disbanded.
+  RE : And then your unit, ARMS, was
+       effectively disbanded.
+
+[US#731]
+  JP : 「そう、新生ＡＲＭＳとしてでだ
+  LIT: Yes, as the newborn ARMS.
+  EN : It will be the New ARMS!
+  RE : It will be the New ARMS!
+
+[US#733]
+  JP : 「これからは / ひとつの押のみならず / ファルガイア全体を守ってほしい
+  LIT: From now on, protect not just one country, but the whole of Filgaia. (JP 押->国 corrupt)
+  EN : From now on, your duty is to protect all of Filgaia, not just any single country.
+  RE : From now on, your duty is to
+       protect all of Filgaia, not just
+       any single country.
+
+[US#735]
+  JP : 「強い力は未来を<8847>う力でもある / その<8a12>い力に<89a3>戦うには / つらい戦いが待ち受けているであろう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The future rests on those narrow shoulders of yours. Difficult battles await you.
+  RE : The future rests on those narrow
+       shoulders of yours. Difficult
+       battles await you.
+
+[US#736]
+  JP : 「だが、魔法は / あらゆる跡跡をかなえる力だと聞く
+  LIT: But magic, they say, is a power that can grant any miracle. (JP 跡跡->奇跡 corrupt)
+  EN : But they say that magic can make miracles happen.
+  RE : But they say that magic can make
+       miracles happen.
+
+[US#738]
+  JP : 「いよいよ、世界がひとつに / なったような気がするの<b:8a6d>がよいと / 冗談が過ぎるコトがある / あまり気にせんでな英雄』ッ！ / 生きていたとは、<8845>きですぞ<b:8a6e>にしないよう / 必ず、オデッサを壊滅しなくてはな件があったと<8a0b>辺は、喜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : At long last, the entire world is united.
+  RE : At long last, the entire world is
+       united.
+
+[US#739]
+  JP : 「その時の<8a0b>辺の<898f>みようといったら〜 / 〜このメリアブールも終りだと / 思うくらいでしだぞ式での不可解な事件は / テロリストの仕産と発表したのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The king fell into such a depression that I feared the very end of Meria Boule.
+  RE : The king fell into such a
+       depression that I feared the very
+       end of Meria Boule.
+
+[US#741]
+  JP : 「<f040><f041><f042>じゃが、剣の聖女に連れ添っていた / ルシエドについて / 少し分かったコトがあるんじゃ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ... But I do know something of Lucied, who always accompanied the Sword Magess.
+  RE : ... But I do know something of
+       Lucied, who always accompanied the
+       Sword Magess.
+
+[US#742]
+  JP : 「[11]おとぐろを<8812>いたヘビの東〜[11]ぉ / 谷と道に挟まれし場所に / 祭られているそうじゃ公が<b:8a7f>で / <b:8a80>を招いていたというのか〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : 1West of the coiled snake00 in a place between a mountain and the sea, he is enshrined.
+  RE : 1West of the coiled snake00 in a
+       place between a mountain and the
+       sea, he is enshrined.
+
+[US#743]
+  JP : 「亡き<89fb>妃方も / お嘆きのことであろう〜三押協力態勢がなされたようじゃな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The late queen must be rolling in her grave.
+  RE : The late queen must be rolling in
+       her grave.
+
+[US#744]
+  JP : 「これには / 亡き<89fb>妃方も / お喜びのことであろう〜平和どころか / 空までなくなってしまうとは〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If the queen were still alive, she would be greatly pleased.
+  RE : If the queen were still alive, she
+       would be greatly pleased.
+
+[US#745]
+  JP : 「亡き<89fb>妃方も / お嘆きのことであろう〜英雄』 / まさか、無事だったとは〜 / では亡き<89fb>妃方には式わなかったようじゃな妃方は、強く平和を望んでおられた / それは、我らとて同じこと / キミらには、儂の願いがかかっておる英雄』が〜 / 〜もしかすると、亡き<89fb>妃方と
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The late queen must be rolling in her grave.
+  RE : The late queen must be rolling in
+       her grave.
+
+[US#746]
+  JP : 「亡き<89fb>妃方も / お嘆きのことであろう〜公の<b:8a87>剣が / ＡＲＭＳの茶番<88b2>限を<b:8a88>い取ったと聞いたが / <89a7>神間茶番では心<8978>ない限りだ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The late queen must be rolling in her grave.
+  RE : The late queen must be rolling in
+       her grave.
+
+[US#747]
+  JP : 「亡き<89fb>妃方も / お嘆きのことであろう〜平和とは、何とたやすく破られるもの / だからこそ、力持つものが / 守らなくてはならぬということか〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The late queen must be rolling in her grave.
+  RE : The late queen must be rolling in
+       her grave.
+
+[US#748]
+  JP : 「亡き<89fb>妃方が / 強く望んだ平和を守るためにも / 我らは今こそ結重しなければ〜妃方の / 在りし回のお者である〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We must unite to achieve peace, which the late queen also desired so dearly.
+  RE : We must unite to achieve peace,
+       which the late queen also desired
+       so dearly.
+
+[US#750]
+  JP : 「ん？ 何<8808>かキミたちを見ていたら / そう言いたくなっただけだ〜 / 気にするな<b:8a8e>物の減少 / それに合わせてのモンスターの増和が / 信じられるのだが〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : For some reason those words came to mind as I looked at you. Pay them no mind.
+  RE : For some reason those words came to
+       mind as I looked at you. Pay them
+       no mind.
+
+[US#751]
+  JP : 「やはり、空がなくなった<88c0>因だろうな〜<b:8a93>にはさんだんだが / オデッサが空中要<885e>を発<885f>し / 『核』まで所持しているってのは、本当か？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It must be the dark sky.
+  RE : It must be the dark sky.
+
+[US#753]
+  JP : 「まさか、街通者がいるとでもいうのか〜公も / オデッサに対して / 力には、力で対抗するか〜
+  LIT: Don't tell me there's an informant among us? (JP 街通者->内通者 corrupt)
+  EN : Who's feeding Odessa information?
+  RE : Who's feeding Odessa information?
+
+[US#754]
+  JP : 「まぁ、面倒事など / 言っていられる状況ではないけどな挑戦振りは聞いているよ / よくやったな
+  LIT: Well, this is no situation for grumbling about petty troubles.
+  EN : Well, this is no time for tough-sounding speeches.
+  RE : Well, this is no time for tough-
+       sounding speeches.
+
+[US#755]
+  JP : 「だが、少し気になることがあってね / なんでも、テロリストの他に / <888c>同胞のようなヤツまでいたそうじゃないか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But I was wondering. I heard that there was some sort of black knight.
+  RE : But I was wondering. I heard that
+       there was some sort of black
+       knight.
+
+[US#756]
+  JP : 「テロリストと戦っていたそうだから / 相ではないと思うのだが〜 / 何か知らないか？<b:8a9c>物だゾ式の生き残りだそうだな / <f040><f041><f042>テロリストが悲いか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He battles the terrorists, so he couldn't be an enemy. Do you know anything about him?
+  RE : He battles the terrorists, so he
+       couldn't be an enemy. Do you know
+       anything about him?
+
+[US#757]
+  JP : 「はやる気持ちも分からんではないが / 怒りや悲しみに<8952>られた戦いは、死を招く〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I understand, but don't let your anger make you reckless.
+  RE : I understand, but don't let your
+       anger make you reckless.
+
+[US#758]
+  JP : 「そうした行動によって / 仲間たちにも危険が及ぶことだってある / それを忘れないようにな<b:8aa1><b:8aa2>場をくぐり抜けてきた方だな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Such action will get you killed and endanger your friends. Don't forget that.
+  RE : Such action will get you killed and
+       endanger your friends. Don't forget
+       that.
+
+[US#759]
+  JP : 「キミのような人物がいるのなら / 新生ＡＲＭＳも安心だな領同胞<897d>は / 残念ながら魔法を行使することができない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The New ARMS needs someone experienced like you.
+  RE : The New ARMS needs someone
+       experienced like you.
+
+[US#760]
+  JP : 「これからのモンスターとの戦いには / 魔法が必要になることもあるだろう / その時には、期待しているゾ式のことで<8886><b:8aa5>しているのか？ / そんな時は、良きな<b:8aa6>のことを考えるとか / 取ちまえば、いいんだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We'll need magic to fight the monsters. So we'll be counting on you to help us.
+  RE : We'll need magic to fight the
+       monsters. So we'll be counting on
+       you to help us.
+
+[US#761]
+  JP : 「ああ、でも<8a0d><89c2>だけはするなよ<b:8aa7>いているな / ホントに家族の頃に戻って / <b:8aa8>びまわっている時のような、いい探だよ領同胞<897d>が戦えるのは / 剣の<b:8aa9>く相手ではないとな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But do NOT be late.
+  RE : But do NOT be late.
+
+[US#762]
+  JP : 「くやしいが / あの空を我々ではどうすることもできんッ！領同胞<897d>が出来ることは / あの空の<89af><89b0><89b1>次以外に無いッ！守るッ / お前たちは、お前たちのすべきことを / まっとうしてくれば良いのだッ！領同胞<897d>が / 女、家族にまで<8a0d>れをとる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It shames me to say so, but we can do nothing about the sky!
+  RE : It shames me to say so, but we can
+       do nothing about the sky!
+
+[US#763]
+  JP : 「だが、勘違いするなよ / 僕は、単にお前たちを認めたわけでは / ないのだからなッ！挑戦できるのにッ！油<898e>しないことだッ領同胞<897d>は / <8a0b>辺をお守りすることが / 最大の任務だッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But if you think that means I approve of you, you've got another thing coming!
+  RE : But if you think that means I
+       approve of you, you've got another
+       thing coming!
+
+[US#764]
+  JP : 「<8808>にここを離れられず、テロリストどもに / こちらから打って出ることができんとは / なんとも歯がゆいことかッ！領同胞<897d>ならば / テロリストなどの攻撃に / <893d>右することは無かったぞッ！領同胞<897d>こそ / 新義を<b:8ab1>く<8832>押の<b:8ab
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If only we could leave here and hunt down those terrorist pigs ourselves!
+  RE : If only we could leave here and
+       hunt down those terrorist pigs
+       ourselves!
+
+[US#765]
+  JP : 「やはり、キミたちはアレがなんなのか / 知っているんだな / 良かったら教えてくれないか？権したようだが / この空のコトについてか？兆を示しているようだな〜勇[01]希仲間が増えたみたいだな
+  LIT: So you do know what that thing is. If you'd tell me, I'd be grateful.
+  EN : So you know what is causing the black sky? Tell me, please!
+  RE : So you know what is causing the
+       black sky? Tell me, please!
+
+[US#766]
+  JP : 「人年が増えると、連携や協調力が / かなり戦いに<88c0>因してくる / そこは、リーダーの腕の見せどころだ希仲間が増えたみたいだな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : With more members, teamwork and leadership are crucial. A strong leader is needed.
+  RE : With more members, teamwork and
+       leadership are crucial. A strong
+       leader is needed.
+
+[US#767]
+  JP : 「人年が増えると、連携や協調力が / かなり戦いに<88c0>因してくる / 普段から仲間との意思疎通をはかることだ<b:8b09>カ<8f0b>[14][10]く[01]そ<8c0e>[01]<b:8ac0>の渡り鳥が話してたよ背[03]
+  LIT: (literal pending: JP has unsolved codes)
+  EN : With more members, teamwork and leadership are crucial. A strong leader is needed.
+  RE : With more members, teamwork and
+       leadership are crucial. A strong
+       leader is needed.
+
+[US#768]
+  JP : 「〜それだけではない / そういった<889a><889b>で人々の不安が高まると / もっと単の誓<8810>も起きてくる〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ... That's not all. The fear created by the monsters leads to another problem.
+  RE : ... That's not all. The fear
+       created by the monsters leads to
+       another problem.
+
+[US#769]
+  JP : 「わかるか？ / 不安にかられた人間が / 事件を招き起こす場合があるのだ
+  LIT: You see? People seized by fear can sometimes bring an incident about.
+  EN : That problem is crime, because fear sometimes drives people to commit desperate acts.
+  RE : That problem is crime, because fear
+       sometimes drives people to commit
+       desperate acts.
+
+[US#770]
+  JP : 「先回の軽率行動も / そういった<89a3>由があるのかもしれないな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Maybe that is what's behind the kidnapping the other day.
+  RE : Maybe that is what's behind the
+       kidnapping the other day.
+
+[US#771]
+  JP : 「<8943>え小さくても / 強く、まっすぐな想いは / 脅威を右けてくれると信じている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I believe that a dedicated force, even a small one, can repel a large threat.
+  RE : I believe that a dedicated force,
+       even a small one, can repel a large
+       threat.
+
+[US#772]
+  JP : 「これまではな〜 / ならば、これからはどうなのだろう〜<b:8aca>単に行われる / テロ行為そのものじゃないか〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Until now, that is. But what do we do from now on?
+  RE : Until now, that is. But what do we
+       do from now on?
+
+[US#773]
+  JP : 「力に振りまわされれば / そこにあるのは / 終焉である事になぜ気づかない〜彗星が / ファルガイアの空を / <8952>け抜けたという〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : All is lost when we allow ourselves to be controlled by force. Can't you see that?
+  RE : All is lost when we allow ourselves
+       to be controlled by force. Can't
+       you see that?
+
+[US#774]
+  JP : 「彗星は凶事の兆しという〜 / オデッサめ / また何かを企んでいるのか？<b:8acf>を失うという事は / 機動力を失うという事〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A comet is a bad omen. Are those Odessa creeps up to something again?
+  RE : A comet is a bad omen. Are those
+       Odessa creeps up to something
+       again?
+
+[US#775]
+  JP : 「だが、それまでの / テロリストとは異なるオデッサ〜 / まだ、あなどれぬか〜領域かつ大<b:8ad0>不相ッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But Odessa is unlike any other terrorist group. We must not underestimate them.
+  RE : But Odessa is unlike any other
+       terrorist group. We must not
+       underestimate them.
+
+[US#776]
+  JP : 「オデッサは / オデッサ以前のテロリストとは / すべてが異なるという事かッ！領域の / テロリストだと〜
+  LIT: So Odessa differs, in every respect, from the terrorists before it?!
+  EN : Odessa indeed is unlike any other terrorists we've encountered before.
+  RE : Odessa indeed is unlike any other
+       terrorists we've encountered
+       before.
+
+[US#777]
+  JP : 「そんな<896a>世識なもの / ファルガイアの歴史上、はじめてだ歴史を<8937>した / <893b>街書<8946><899b>がある
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Never in Filgaia's history has anything so atrocious occurred.
+  RE : Never in Filgaia's history has
+       anything so atrocious occurred.
+
+[US#778]
+  JP : 「本の知識は素晴らしい / だが、知識だけでは / 暴力に面してしまうこともあるのだ〜歴史を<8937>した / <893b>街書<8946><899b>がある
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Books contain wonderful knowledge. But knowledge alone cannot overcome violence.
+  RE : Books contain wonderful knowledge.
+       But knowledge alone cannot overcome
+       violence.
+
+[US#779]
+  JP : 「本の知識は<896a>力かもしれない / だが、それは使うものしだいで / 剣にもまさる武器になろうぞ歴史を<8937>した / <893b>街書<8946><899b>がある
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The knowledge in books, when used properly, can be mightier than the sword.
+  RE : The knowledge in books, when used
+       properly, can be mightier than the
+       sword.
+
+[US#780]
+  JP : 「知識を力に変える / それがもっとも的的なのは / 幻術魔導師たちかもしれないな歴史を<8937>した / <893b>街書<8946>庫がある
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A Crest Sorceress could forge the knowledge in those books into a mighty weapon.
+  RE : A Crest Sorceress could forge the
+       knowledge in those books into a
+       mighty weapon.
+
+[US#781]
+  JP : 「闇雲に潜む者は / 寂しいものであるぞ歴史を<8937>した / <893b>街書<8946>庫がある
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A woman is beautiful when studying intently.
+  RE : A woman is beautiful when studying
+       intently.
+
+[US#782]
+  JP : 「貸し出しはできないが / 譲渡なら可能だぞ
+  LIT: Lending it out is not allowed, but a transfer of ownership is possible.
+  EN : The books may be perused but not removed from the library.
+  RE : The books may be perused but not
+       removed from the library.
+
+[US#783]
+  JP : 「本気で実行するなよ / ふと、思っただけなんだからさ<b:8ae5>合できるような / ロストテクノロジーはないのか？ / <f040><f041><f042>そんな<b:8ae6>利なものなんてないか〜誇る / オデッサの飛[88]
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Hey! I was just thinking out loud! Don't actually do that!
+  RE : Hey! I was just thinking out loud!
+       Don't actually do that!
+
+[US#784]
+  JP : 「ヴァレリア公が一連の<888c>件で / 者をくらましたとか〜<b:8af0>らした言葉を / チラリと聞いてしまったのですが〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Sir Valeria disappeared into the underground.
+  RE : Sir Valeria disappeared into the
+       underground.
+
+[US#785]
+  JP : 「なんでも、幻獣ドラゴンが現われたとか〜<b:8af0>らした言葉を / チラリと聞いてしまったのですが〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The monster Dragon is back!
+  RE : The monster Dragon is back!
+
+[US#786]
+  JP : 「この空は / オデッサの『核』が / <89af><89b0>ではないようですね〜核』のことを他の同胞に / 話してしまったのは、私なのです〜<b:8af0>らした言葉を / チラリと聞いてしまったのですが〜 / 〜オデッサは、『核』を手に入れたとか〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Odessa's |nuke| is not the cause of the black sky.
+  RE : Odessa's |nuke| is not the cause of
+       the black sky.
+
+[US#787]
+  JP : 「実のところ / 海岸はそれほど多いものではない
+  LIT: In truth, beaches are not so very numerous.
+  EN : Actually, there aren't that many beaches.
+  RE : Actually, there aren't that many
+       beaches.
+
+[US#788]
+  JP : 「街道の外側を / こまめにあたってみるのも / ひとつのテだな
+  LIT: Diligently checking the outer side of the sea route is one method too.
+  EN : It might be a good idea to comb the shoreline of the inland sea.
+  RE : It might be a good idea to comb the
+       shoreline of the inland sea.
+
+[US#789]
+  JP : 「ギルドグラードが協力態勢になったのは / 喜ばしいことのはずなんだが〜
+  LIT: That Guild Galad has come around to cooperating ought to be cause for joy, and yet...
+  EN : It is good that Guild Galad is willing to cooperate.
+  RE : It is good that Guild Galad is
+       willing to cooperate.
+
+[US#790]
+  JP : 「<f040><f041><f042>それ以上に / 何か思わしくないことがあったようだな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ... Did some misfortune bring about this change in attitude?
+  RE : ... Did some misfortune bring about
+       this change in attitude?
+
+[US#791]
+  JP : 「だけど、キミたちの帰りを / 待っている人のためにも / 必ず、生きて戻って来いよ英雄』さんは / 今回は、一<b:8a83>じゃないのかい？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But many will be waiting for your return. For their sake, come back in one piece, OK?
+  RE : But many will be waiting for your
+       return. For their sake, come back
+       in one piece, OK?
+
+[US#792]
+  JP : 「<89fc>の流れ先である海岸は / 街道の外側だけではなく / こういった他にもあるのを忘れるなよ軽率されそうになった、って話じゃないか / 一体、何の為だったんだろ？<b:8af4>れさまッ！ / 女<89fb>方は、寂人でしたか？領域なテロ茶番が / 決起したのは、己めてのことじゃないか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Beaches to which the tide flows exist on such islands, not just along the inland sea.
+  RE : Beaches to which the tide flows
+       exist on such islands, not just
+       along the inland sea.
+
+[US#793]
+  JP : 「もしかしたら、書<8946>庫に / それに関する<8937><8938>が / あるかもしれませんよ<b:8afa>ることができて<b:8afb>ましいです<b:8af8>を<b:8af9>めておいでです挑戦に<8a0b>辺は喜んでおられますよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But you might find some information in the library.
+  RE : But you might find some information
+       in the library.
+
+[US#794]
+  JP : 「面見を希望される方は / 新儀な手<8a18>きをおこなってください面見の間へ / お通りください英雄』と言われ / <b:8b04>かれている自分自身を良く[88]
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You must submit an official request to see the king.
+  RE : You must submit an official request
+       to see the king.
+
+[US#795]
+  JP : 「<89ab>名信に成りたいだけの若輩者に / 成り辺がってはいないか？ / そうならない方に気を付けるんだな英雄、英雄と祭り上げられて / 何がうれしいッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Don't let yourself turn into a braggart who gets off on his sense of superiority.
+  RE : Don't let yourself turn into a
+       braggart who gets off on his sense
+       of superiority.
+
+[US#796]
+  JP : 「ただ、いいように / 使われているだけじゃないか / そんな英雄、僕はまっぴらゴメンだねッ！英雄』方のお帰りか / ま、この変な空も元に戻してくれよ<b:8b09>しむ人が出ないようにするこったな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You're just being used by everyone! I have no need for a hero like that!
+  RE : You're just being used by everyone!
+       I have no need for a hero like
+       that!
+
+[US#797]
+  JP : 「そういうのは / 家族向けの武勇伝の中だけにしてくれ凶暴になっている / それもあの変な空に<b:8b10>われたせいなのか？<b:8b11>託できないのが / 一番イライラするぜ偉いさんたちは / 空がなくなった<89af><89b0>を / 知っているんじゃないのか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That only happens in fairy tales.
+  RE : That only happens in fairy tales.
+
+[US#798]
+  JP : 「知っているなら知っているで / 情報を公開してくれたっていいモノをッ！敵押の要員たちが<8880>まり開権されたサミット / そこへの、オデッサの攻撃〜 / 話が、出来すぎているとは思わんか？儂、オデッサのことで<b:8af8>がいっぱいで / モンスターのコトを忘れてはいないか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They oughta let us know what the hell's going on!
+  RE : They oughta let us know what the
+       hell's going on!
+
+[US#799]
+  JP : 「まったく、込密糾義も / いい和減にしてほしいぜ / 僕たちをただの駒だとでも思っているのかね式攻撃、そして今回の<b:8b19>〜 / 『オデッサ』にとって、ＡＲＭＳは / かなり目<88f6>りな存在なのか？連<b:8b1b>だったな、新入り〜 /
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Their secrecy has gone too far! What do they think we are, mere pawns?
+  RE : Their secrecy has gone too far!
+       What do they think we are, mere
+       pawns?
+
+[US#800]
+  JP : 「何というか〜 / 新設結単部隊とは何でもアリなのか？増えてきている
+  LIT: How shall I put it... does the newly formed special unit really take anyone? (JP 結単->結成)
+  EN : Does that new squad take anyone?
+  RE : Does that new squad take anyone?
+
+[US#801]
+  JP : 「同胞<897d>と同胞隊だけじゃ / 手に余るってのが現状だ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's too much for the knights and musketeers to handle.
+  RE : It's too much for the knights and
+       musketeers to handle.
+
+[US#802]
+  JP : 「結単部隊を新たに設立する<89a3>由には / そういった理由があるんだよ<b:8b21><b:8b22>事件』って / 『お食事<b:8b23>』と勘違いしててさ / 食<b:8b23><b:8a88>うと捕まっちゃうのかなって〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's one reason for the new special squad.
+  RE : That's one reason for the new
+       special squad.
+
+[US#803]
+  JP : 「〜そう思ったよね？噌○食』って<b:8b25>食いの誓<8810>でさ / 『味噌定食』って<883a>えたらバツだったんだ / 『<89b9>噌強食』が新解だったらしいんだけど〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You thought so, too, right?
+  RE : You thought so, too, right?
+
+[US#804]
+  JP : 「〜味噌定食でもいいと思うよね？<b:8b27><b:8b28>』って / 『世界制<b:8b28>』と勘違いしててさ / 世界中の人が制<b:8b28>を着るコトなのかなって〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I said, |'Cause that's the default setting.| Oh, well.
+  RE : I said, |'Cause that's the default
+       setting.| Oh, well.
+
+[US#805]
+  JP : 「〜そう思うよね？己めてなんだろ？ / なんかさ、<8a10>足に行くみたいで / ワクワクしないか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You thought so, too, right?
+  RE : You thought so, too, right?
+
+[US#806]
+  JP : 「〜するよね？
+  LIT: ...You would too, right?
+  EN : But without the bag lunch.
+  RE : But without the bag lunch.
+
+[US#807]
+  JP : 「その街、メリアブール<893b>も / あんな<89f9>に<89ab><89ac>に空を飛べたらいいな / 〜キミたちもそう思うだろ？<b:8af8>のよくない僕にはわからないや<b:8b27><b:8b28>のようなコトをして / 一体、何をするつもりなんだろう？ / あんまり<b:8af8>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Wouldn't it be great if Meria Boule Castle could fly through the air like that?
+  RE : Wouldn't it be great if Meria Boule
+       Castle could fly through the air
+       like that?
+
+[US#808]
+  JP : 「それは、素晴らしい事だけど / どうしてもっと普段から / 心をひとつにできなかったのだろうな〜<b:8ab5>[03]念によって / ファルガイアが / 危機にさらされることもあった
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That is wonderful, but why couldn't people learn to cooperate before this?
+  RE : That is wonderful, but why couldn't
+       people learn to cooperate before
+       this?
+
+[US#809]
+  JP : 「だけど、人の思念が / ファルガイアの危機を / 右ける事だってあるんだなッ！<b:8b1b>去って、また一<b:8b1b>ってとこか〜 / どう見る？ / この空の異世事態を〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But Filgaia is also being saved from danger by the will of individuals!
+  RE : But Filgaia is also being saved
+       from danger by the will of
+       individuals!
+
+[US#810]
+  JP : 「追いつめられたオデッサに / 油<898e>するんじゃないぞッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : And Odessa is cornered, so don't drop your guard!
+  RE : And Odessa is cornered, so don't
+       drop your guard!
+
+[US#811]
+  JP : 「そろそろ / <8812>き返しをはかってくるんじゃないのか？<b:8b2c>しい<b:8b2d><88e6>だぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That means they'll try something desperate soon.
+  RE : That means they'll try something
+       desperate soon.
+
+[US#812]
+  JP : 「本当に圧倒的な戦力を / 持っているなら / 新力から力でねじ伏せてくるはずだ守ってきた / 同員<b:8aea>着<89dd>だが〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If they had overwhelming superiority, they would have attacked us head-on.
+  RE : If they had overwhelming
+       superiority, they would have
+       attacked us head-on.
+
+[US#813]
+  JP : 「空を飛ぶモノには / さすがにお手上げだぜ / 〜オマケに、ポンコツだしよ〜仲間がやられたのに / 指をくわえて見ているだけなんて〜<b:8b30>心な時に出動できないんだッ！式の攻撃にも / 僕たちが<8952>けつけたものを〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But it's no match for a flying machine... all the more because it's a piece of junk!
+  RE : But it's no match for a flying
+       machine... all the more because
+       it's a piece of junk!
+
+[US#814]
+  JP : 「<f040><f041><f042>俺にできることは / これだけだからね〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ... That's all I can do now, so that's what I'll do.
+  RE : ... That's all I can do now, so
+       that's what I'll do.
+
+[US#815]
+  JP : 「キミたちには / キミたちにしかできないことがあるだろ？ / それをしっかりな因きだと / 思わないかい？
+  LIT: There are things only you can do, aren't there? See them through properly.
+  EN : You've got your job to do, right? So do it well.
+  RE : You've got your job to do, right?
+       So do it well.
+
+[US#816]
+  JP : 「何かこう、『聖剣クラムチャウダー』ッ！ / <f040><f042>ってなカンジで因きだよな武器には / 名前とか付いてる？ / もし良かったら、俺が付けてあげるけど？<b:8b33>って外道へ出るのか / いいなぁ / あの<89d3>は、なんて名前なんだろ？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : |Knave! I shall unsheathe 'Clam Chowder' on thee!|
+  RE : |Knave! I shall unsheathe 'Clam
+       Chowder' on thee!|
+
+[US#817]
+  JP : 「今までご苦労さん / <f040><f041><f042>相変<b:8a85><b:8a86>の中〜 / いったいどうやって生き<b:8b37>びたんだ？ / 悪運だけは強いみたいだな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You've done a good job... ... [sniff]... ol' buddy.
+  RE : You've done a good job... ...
+       [sniff]... ol' buddy.
+
+[US#818]
+  JP : 「これならいっそ / 残された人生を作意義に / すごすのが利次ってモンかな〜軽率されたのは / [05]ぉの<b:8b39>人らしいな / 無事に助けられたそうじゃないか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I should do something useful with what time I have left on this earth.
+  RE : I should do something useful with
+       what time I have left on this
+       earth.
+
+[US#819]
+  JP : 「歴戦の同胞のように / カッコ良く助けたんだろ？軽率されたのは知ってるよな
+  LIT: You saved her dashingly, like a battle-hardened knight, didn't you? (JP 同胞=comrade)
+  EN : You rescued her, like a knight in shining armor, eh?
+  RE : You rescued her, like a knight in
+       shining armor, eh?
+
+[US#820]
+  JP : 「なんでも / 犯人はオデッサの生き残りだったらしいんだ
+  LIT: Apparently the culprit was a survivor of Odessa.
+  EN : I hear it was remnants of Odessa who did it.
+  RE : I hear it was remnants of Odessa
+       who did it.
+
+[US#821]
+  JP : 「それだけ連中も / なりふり<8968>ってられない状況ってことだな挑戦を聞いてると / 置いて行かれるようで / 気持ちが<b:8b3c>るよ挑戦だったそうじゃないか / 僕もＡＲＭＳに
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That just shows how desperate Odessa is.
+  RE : That just shows how desperate
+       Odessa is.
+
+[US#822]
+  JP : 「くやしいけれど / 僕は何もできなかったんだ〜仲間を<8832>えなかった〜 / 自分の限界を信じる時って / きっと今みたいな状況なんだろうな同胞隊の中から / 新設結単部隊へ抜<b:8b1f>されるヤツがいるなんて / 僕もなんだか、<b:8b3f>が高いよ<b:8b3d><b:8b3e><b
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I couldn't do anything. I feel so ashamed.
+  RE : I couldn't do anything. I feel so
+       ashamed.
+
+[US#823]
+  JP : 「あ、単にいいって、返さなくても / 僕があげたくて勝手にあげたんだから / だけど、大切にしてくれよな<b:8a88>ったんだが / やっぱり[05]ぉに / あげたヤツの方が使いやすかったな軽率された時 / <89d5>度、タウンメリアにいたんだが〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You don't have to return it. I wanted you to have it. Just take good care of it, OK?
+  RE : You don't have to return it. I
+       wanted you to have it. Just take
+       good care of it, OK?
+
+[US#824]
+  JP : 「まだ、慣れないナイフだったんで / <8988>止することができなかったんだ〜 / 使い慣れたナイフだったら<8988>止できたかもな<b:8b43>る<888c>い空を見てると / なんだかやりきれない気持ちになるな〜 / 『シュール』な信じってヤツかな<b:8b44>体の体産にならないように 
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Maybe I could have stopped them if I had my old, trusty knife, instead of a new one.
+  RE : Maybe I could have stopped them if
+       I had my old, trusty knife, instead
+       of a new one.
+
+[US#825]
+  JP : 「もちろん / 人間ひとりの力でできることにも / 限界があるさ振るう場所にあって / はじめて意義があるもんだ
+  LIT: Of course, there's a limit to what one person's strength can achieve.
+  EN : And, of course, there is only so much that one person can do alone.
+  RE : And, of course, there is only so
+       much that one person can do alone.
+
+[US#826]
+  JP : 「くやしいが僕は仲間を守れなかった / 僕に力が足りなかったのか？ / それとも、戦う場所にいなかったからか？<b:8ae6>利な力があるさ / でも、そいつを挑かすのは / 使っているニンゲン方の力なのさ<b:8b0c><b:8b4a>の<88f9>一<b:8b1d>さ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Why couldn't I protect my buddies? For lack of skills? Or because I couldn't be there?
+  RE : Why couldn't I protect my buddies?
+       For lack of skills? Or because I
+       couldn't be there?
+
+[US#827]
+  JP : 「元『渡り鳥』の僕が言うんだ / まちがいはないさ<b:8b4b><b:8b4c>なものではない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Trust me. I'm an ex-Merc.
+  RE : Trust me. I'm an ex-Merc.
+
+[US#828]
+  JP : 「漂流物の多くは / 海岸に流れ着くという〜
+  LIT: Most driftwash, they say, comes ashore on the beaches.
+  EN : Most debris eventually washes up on the beach.
+  RE : Most debris eventually washes up on
+       the beach.
+
+[US#829]
+  JP : 「たしか、[11]お街道の北部[11]ぉには / 大きな海岸があったと思うが〜 / あとは貴様らが調べてほしい員<b:8aea>着<89dd>『<b:8b4e><b:8b4f>』員<b:8aea>着<89dd>『回<b:8b50>』<b:8b51>道な軍事大押へと / 変<b:8b53>しつつあった
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I think there is a large beach to 1the north of the inland sea0. Go check it out.
+  RE : I think there is a large beach to
+       1the north of the inland sea0. Go
+       check it out.
+
+[US#852]
+  JP : 「忠誓だな、体験版と戦場は / 何が起こるかわからないものだ
+  LIT: A word of caution: in the trial version, as on the battlefield, you never know what may happen. (JP 忠誓->忠告)
+  EN : 'Cause in the demo version, anything can happen, idiot!
+  RE : 'Cause in the demo version,
+       anything can happen, idiot!
+
+[US#853]
+  JP : 「まあいい〜 / しばらくつきあってやろう / 〜行くぞ
+  LIT: Well, fine. I'll keep you company a while. ...Let's go.
+  EN : Anyway... I'll hang with you for a while. Let's go!
+  RE : Anyway... I'll hang with you for a
+       while. Let's go!
+
+[US#854]
+  JP : 「真に功労者と<895b>されるべきは / この者たちかと / 思われますが〜<b:8a6b>すぞ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It is these fellows here who deserve the real credit, I believe.
+  RE : It is these fellows here who
+       deserve the real credit, I believe.
+
+[US#855]
+  JP : 「貴様らは世界を守る英雄 / 余など比べ物にならぬほどだ<b:8b85>だ / すこしくらい<b:8b86>えさせてもらうがいい公の / 意向していた件のことだが〜協議されていただきましたか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You are all heroes! Your deeds exceed even my own!
+  RE : You are all heroes! Your deeds
+       exceed even my own!
+
+[US#859]
+  JP : 「これまでの件のように対応していては / これからのオデッサの作戦に / 後手にまわらざるをえません余も危<893c>するところ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If we keep fighting Odessa the way we have been, they will gain the upper hand.
+  RE : If we keep fighting Odessa the way
+       we have been, they will gain the
+       upper hand.
+
+[US#861]
+  JP : 「三押の英糾を一同に<8880>めて / 対テロリスト誓<8810>について協議しようと / 意向してくれたのだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : will gather to discuss what the 3 nations can do about the terrorist problem.
+  RE : will gather to discuss what the 3
+       nations can do about the terrorist
+       problem.
+
+[US#867]
+  JP : 「<8979>が一、オデッサの攻撃を<88cc>えたとしても / ヴァレリアシャトーには / 頼もしい一<897d>が待機しておりますゆえ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : And our most dependable troops will be waiting aboard in case Odessa does attack.
+  RE : And our most dependable troops will
+       be waiting aboard in case Odessa
+       does attack.
+
+[US#869]
+  JP : 「テロリスト・オデッサの / サミット強攻は<89ce>分に想定される
+  LIT: (literal pending: JP has unsolved codes)
+  EN : An attack on the summit by Odessa is conceivable.
+  RE : An attack on the summit by Odessa
+       is conceivable.
+
+[US#871]
+  JP : 「<f040><f042>以上だッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ... That is all!
+  RE : ... That is all!
+
+[US#872]
+  JP : 「あの時の / ギルドグラードのおっさんの / あわてぷりったらもう〜
+  LIT: That Guild Galad geezer, back then, the way he flustered about...
+  EN : Did you see how flustered that old codger from Guild Galad was?
+  RE : Did you see how flustered that old
+       codger from Guild Galad was?
+
+[US#873]
+  JP : 「うぷぷ〜<b:8b92>にも / オデッサの脅威が伝わったと思われます
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Hee, hee!
+  RE : Hee, hee!
+
+[US#874]
+  JP : 「よいクスリであったのではないか、と
+  LIT: It may well have been good medicine for him, I'd say.
+  EN : He learned his lesson.
+  RE : He learned his lesson.
+
+[US#875]
+  JP : 「オデッサの攻撃には / <8845>かされたが / 結果的には良かったのかもしれぬ員がまぢかにて / 相の<889c>ろしさを信じることができたからだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The attack by Odessa was frightening, but in the end it may have been for the better.
+  RE : The attack by Odessa was
+       frightening, but in the end it may
+       have been for the better.
+
+[US#876]
+  JP : 「<f040><f042>誰も / 本当の危機に<8865>力しないと / 重い腰をあげようとはしないからな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ... After all, it takes a direct threat for people to get off of their fat butts to act.
+  RE : ... After all, it takes a direct
+       threat for people to get off of
+       their fat butts to act.
+
+[US#877]
+  JP : 「今回のサミットで / いちばんの<88f6><889b>であると / 懸念されておったのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I worried that they would be the biggest stumbling block at the summit.
+  RE : I worried that they would be the
+       biggest stumbling block at the
+       summit.
+
+[US#878]
+  JP : 「だが、幸か不幸か、オデッサの攻撃が / あの背面のケツに枯をつけてくれおってな / 思ってた以上にサミットが進んだのだよ協力体制に入ったとは / まだまだ言えませんが〜<b:8b96>〜 / 『ホバークラフト』を意族してくれたんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But the attack lit a fire under their butts. We made more progress than I had expected.
+  RE : But the attack lit a fire under
+       their butts. We made more progress
+       than I had expected.
+
+[US#879]
+  JP : 「今回のサミットの<8939>件は / それでよしとしようじゃないか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Even if the summit gained only that, we should be satisfied.
+  RE : Even if the summit gained only
+       that, we should be satisfied.
+
+[US#880]
+  JP : 「公は、やや事を / 早急にすすめる傾向があっていかん / 落ち着いていかないと、長生きできないぞ
+  LIT: You tend to rush matters too hastily; it won't do. Stay calm, or you won't live long. (公 = 'you', addressing a lord)
+  EN : You are too hasty. And haste not only makes waste, it can take years off your life.
+  RE : You are too hasty. And haste not
+       only makes waste, it can take years
+       off your life.
+
+[US#881]
+  JP : 「それよりも / 更なるＡＲＭＳの展開はどうなっておる？<b:8b98>えたわけではありません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Now, then. How will ARMS act next?
+  RE : Now, then. How will ARMS act next?
+
+[US#885]
+  JP : 「うむ、頼んだぞ、ＡＲＭＳたちよ
+  LIT: Mm. I'm counting on you, ARMS.
+  EN : I'm counting on you, ARMS.
+  RE : I'm counting on you, ARMS.
+
+[US#886]
+  JP : 「これを如何にして / 解読するつもりかな？
+  LIT: How do you intend to decipher this?
+  EN : How can we get the information from them?
+  RE : How can we get the information from
+       them?
+
+[US#891]
+  JP : 「わたしも / テレポートジェムを使って / ここまでやってきたんです
+  LIT: I, too, made my way here using a Teleport Gem.
+  EN : I came here using a Teleport Gem.
+  RE : I came here using a Teleport Gem.
+
+[US#892]
+  JP : 「失<893d>しちゃったけど〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Didn't quite work, though.
+  RE : Didn't quite work, though.
+
+[US#893]
+  JP : 「シエルジェに向かうより / 何か単の方法で / タブレットの解読はできないんですか？
+  LIT: Rather than head to Sielje, isn't there some other way to decode the tablets? (JP 単->別)
+  EN : Can't we analyze the tablets some other way, without going to Sielje?
+  RE : Can't we analyze the tablets some
+       other way, without going to Sielje?
+
+[US#896]
+  JP : 「がさつな剣だが / 義理人情に厚い良兄だ / きっと力になってくれるに違いない
+  LIT: A rough-spoken bunch, but big-hearted and loyal. Surely they'll lend their strength. (JP 剣->connote 'the swordsmen/lot')
+  EN : They speak brusquely, but deep down they are warmhearted. I'm sure they will help you.
+  RE : They speak brusquely, but deep down
+       they are warmhearted. I'm sure they
+       will help you.
+
+# =========================================================================================
+# STATUS: 132 ambient hub lines fit-passed (US# reconciled by construction). Em-dash-free,
+#   <=3 lines x <=35 chars. LIGHT-TOUCH (reflowed localization), NOT deep retranslation — flagged
+#   as such. Closes out block 5: every US# story panel + all ambient lines now have insert text.
+# TODO (optional polish): literary RE pass on the higher-value King lines (753 black-knight/Brad,
+#   778-780 knowledge-vs-sword, 816 Clam Chowder gag) if desired; the rest are true filler.
+# =========================================================================================

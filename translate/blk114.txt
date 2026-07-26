@@ -1,0 +1,25 @@
+# WA2 4-col translation doc block 114 (JP#8373-8378)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 3 boxes | OK=0 FAIR=0 SHAKY=0 JP-ONLY=3
+# DRAFT STATUS: 3 boxes | OK=0 FAIR=0 SHAKY=0 JP-ONLY=3
+
+[JP#8374] gaps=0  aln=LOW->US#8213  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8375] gaps=2  aln=LOW->US#8213  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8376] gaps=0  aln=LOW->US#8213  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>

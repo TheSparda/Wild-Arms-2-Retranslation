@@ -1,0 +1,162 @@
+# WA2 4-col translation doc block 112 (JP#8300-8319)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 18 boxes | OK=8 FAIR=4 SHAKY=6 JP-ONLY=0
+# DRAFT STATUS: 18 boxes | OK=8 FAIR=4 SHAKY=6 JP-ONLY=0
+
+[JP#8301] gaps=0  aln=HIGH->US#8143  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8302] gaps=2  aln=HIGH->US#8144  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8303] gaps=0  aln=HIGH->US#8145  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8304] gaps=6  aln=HIGH->US#8146  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=3
+  1|JP : 「そこで私は、世界をひとつの生命 / 　すなわち『片』に見戻てて / 　これを『押』に封<8a38>しようと考えた[10][0c]「こうすることで / 　滅ぼすべき『<8a39>体』が生成される〜[10][0c]「私がオデッサに仲<8842>した守姉の外法〜 / 　『周魔<8a3d><8883>』を<8839>用することで / 　我が助の、参に〜[10][0c]「[0a]おを『押』とすることで / 　歩まわしき生命体を〜
+  2|LIT: <<TODO>>
+  3|EN : @conceptual being, are meaningless.
+ So, think of the universe as
+ a lifeform. Consider it a...@|spirit| and seal it in a vessel.
+ In essence, the flesh that should
+ have been destroyed is created.@It's what I suggested to Odessa
+ ...by using the Demon Summoning
+ my sister will have inside her...@By making  1 a vessel,
+ the abominable lifeform will...
+  4|RE : <<TODO>>
+
+[JP#8305] gaps=5  aln=MED->US#8147  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=3
+  1|JP : 「こうすることで / 　滅ぼすべき『<8a39>体』が生成される〜[10][0c]「私がオデッサに仲<8842>した守姉の外法〜 / 　『周魔<8a3d><8883>』を<8839>用することで / 　我が助の、参に〜[10][0c]「[0a]おを『押』とすることで / 　歩まわしき生命体を〜
+  2|LIT: <<TODO>>
+  3|EN : @|spirit| and seal it in a vessel.
+ In essence, the flesh that should
+ have been destroyed is created.@It's what I suggested to Odessa
+ ...by using the Demon Summoning
+ my sister will have inside her...@By making  1 a vessel,
+ the abominable lifeform will...
+  4|RE : <<TODO>>
+
+[JP#8306] gaps=4  aln=HIGH->US#8148  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「私がオデッサに仲<8842>した守姉の外法〜 / 　『周魔<8a3d><8883>』を<8839>用することで / 　我が助の、参に〜[10][0c]「[0a]おを『押』とすることで / 　歩まわしき生命体を〜
+  2|LIT: <<TODO>>
+  3|EN : @It's what I suggested to Odessa
+ ...by using the Demon Summoning
+ my sister will have inside her...@By making  1 a vessel,
+ the abominable lifeform will...
+  4|RE : <<TODO>>
+
+[JP#8307] gaps=0  aln=HIGH->US#8149  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[0a]おを『押』とすることで / 　歩まわしき生命体を〜
+  2|LIT: <<TODO>>
+  3|EN : @By making  1 a vessel,
+ the abominable lifeform will...
+  4|RE : <<TODO>>
+
+[JP#8308] gaps=1  aln=HIGH->US#8150  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「目的のためなら / 　どこまで道を<8a40>み外せるんだッ！[10][0c]「実の助までも / 　生け兄に期し出したというのかッ！
+  2|LIT: <<TODO>>
+  3|EN : @How far will you go
+ to achieve your goals?@Are you saying you offered
+ your own sister as a sacrifice?
+  4|RE : <<TODO>>
+
+[JP#8309] gaps=0  aln=HIGH->US#8151  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「実の助までも / 　生け兄に期し出したというのかッ！
+  2|LIT: <<TODO>>
+  3|EN : @Are you saying you offered
+ your own sister as a sacrifice?
+  4|RE : <<TODO>>
+
+[JP#8310] gaps=0  aln=MED->US#8152  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「＜挑の戦昔＞ならぬ / 　＜滅びの戦周＞として / 　ヴァレリアの名のもとに守されるのだ
+  2|LIT: <<TODO>>
+  3|EN : @Not the <Sword Magess>, but
+ the Madonna of Destruction
+ summoned under Valeria's name.
+  4|RE : <<TODO>>
+
+[JP#8311] gaps=1  aln=HIGH->US#8153  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「だが、ファルガイアを<8832>うには / 　こうするより仕方がなかったのだ[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「さあ、私たちごと / 　カイバーベルトを滅ぼすのだッ！[10][0c]「私の意間が / 　のみこまれないうちに〜
+  2|LIT: <<TODO>>
+  3|EN : @In order to save Filgaia,
+ I had no choice.@...30...30...30...@We have to destroy
+ the Kuiper Belt on our own!@Before my consciousness
+ gets swallowed up...
+  4|RE : <<TODO>>
+
+[JP#8312] gaps=0  aln=HIGH->US#8154  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「さあ、私たちごと / 　カイバーベルトを滅ぼすのだッ！[10][0c]「私の意間が / 　のみこまれないうちに〜
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@We have to destroy
+ the Kuiper Belt on our own!@Before my consciousness
+ gets swallowed up...
+  4|RE : <<TODO>>
+
+[JP#8313] gaps=0  aln=HIGH->US#8155  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「さあ、私たちごと / 　カイバーベルトを滅ぼすのだッ！[10][0c]「私の意間が / 　のみこまれないうちに〜
+  2|LIT: <<TODO>>
+  3|EN : @We have to destroy
+ the Kuiper Belt on our own!@Before my consciousness
+ gets swallowed up...
+  4|RE : <<TODO>>
+
+[JP#8314] gaps=0  aln=HIGH->US#8156  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「私の意間が / 　のみこまれないうちに〜
+  2|LIT: <<TODO>>
+  3|EN : @Before my consciousness
+ gets swallowed up...
+  4|RE : <<TODO>>
+
+[JP#8315] gaps=4  aln=HIGH->US#8157  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「だが、不思議だな〜 / 　こいつと訪し違えることがわかっていても / 　脅えや後<8a4c>はない〜[10][0c]「うれしいんだ〜[10][0c]「もう、<8a4d>えないことよりも / 　みんなと出<8a4d>えたことがうれしい[10][0c]「みんなと出<8a4d>い / 　いっしょにファルガイアを好ってきて / 　本当によかった〜
+  2|LIT: <<TODO>>
+  3|EN : @But it's strange. Even though
+ I know we'll slash each other,
+ I have no fear or regrets.@I'm happy.@I'm happy I had the opportunity
+ to be with you all, rather than am
+ sad we won't see each other again.@I'm really happy I got to
+ be with you all and that we
+ could protect Filgaia together.
+  4|RE : <<TODO>>
+
+[JP#8316] gaps=3  aln=HIGH->US#8158  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「うれしいんだ〜[10][0c]「もう、<8a4d>えないことよりも / 　みんなと出<8a4d>えたことがうれしい[10][0c]「みんなと出<8a4d>い / 　いっしょにファルガイアを好ってきて / 　本当によかった〜
+  2|LIT: <<TODO>>
+  3|EN : @I'm happy.@I'm happy I had the opportunity
+ to be with you all, rather than am
+ sad we won't see each other again.@I'm really happy I got to
+ be with you all and that we
+ could protect Filgaia together.
+  4|RE : <<TODO>>
+
+[JP#8317] gaps=3  aln=MED->US#8159  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「もう、<8a4d>えないことよりも / 　みんなと出<8a4d>えたことがうれしい[10][0c]「みんなと出<8a4d>い / 　いっしょにファルガイアを好ってきて / 　本当によかった〜
+  2|LIT: <<TODO>>
+  3|EN : @I'm happy I had the opportunity
+ to be with you all, rather than am
+ sad we won't see each other again.@I'm really happy I got to
+ be with you all and that we
+ could protect Filgaia together.
+  4|RE : <<TODO>>
+
+[JP#8318] gaps=1  aln=MED->US#8160  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「みんなと出<8a4d>い / 　いっしょにファルガイアを好ってきて / 　本当によかった〜
+  2|LIT: <<TODO>>
+  3|EN : @I'm really happy I got to
+ be with you all and that we
+ could protect Filgaia together.
+  4|RE : <<TODO>>

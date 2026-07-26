@@ -1,0 +1,234 @@
+# WA2 INSERTION workspace US block 62 (US#6883-6928)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#6884] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7026[MED]: 「<8ab9>手に俺たちの星を / 　<8acc>してしまうのは、どうかと思うけど
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6885] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7027[MED]: 「単れろ切れろは離陸の時に言う言葉ッ！ / 　我片を<8acd>愛するモノどもに見<897e>られ / 　いざ行かんッ！　星の道へッ！
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#6886] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7028[MED]:  || JP#7029[MED]: 
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#6887] budget=81ch/3ln
+  NOW: There's no reason it'd be
+          accompanied by a body. But this
+          one is flesh and blood.
+  JP : JP#7031[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#6888] budget=42ch/2ln
+  NOW: It has enough strength to
+          maintain a body.
+  JP : JP#7035[HIGH]: 「実体を姉持できるだけの / 　力を持っているのよ[10][0c]「そして、その力で / 　ずっと私を<8a3d>ってくれた || JP#7032[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#6889] budget=51ch/2ln
+  NOW: And with that power, they've
+          always protected me...
+  JP : JP#7036[HIGH]: 「そして、その力で / 　ずっと私を<8a3d>ってくれた
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#6890] budget=56ch/2ln
+  NOW: This is the power that has
+          supported the <Sword Magess>.
+  JP : JP#7037[HIGH]: 「これが / 　＜助の歩昔＞を押える力
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#6891] budget=101ch/3ln
+  NOW: Memories are matter from the past.
+          Everything is from the conscious
+          world...existence equals reality.
+  JP : JP#7038[HIGH]: 「『<8937><89f1>』、過<8a40>の事兄<f040><f042> / 　でも、すべてが意<8a38>の世界にあって / 　それは現実にも期しい存帰〜
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#6892] budget=74ch/3ln
+  NOW: What happened here will
+          be remembered as reality
+          by my |memory| time axis.
+  JP : JP#7039[HIGH]: 「ここで起こったことは / 　わたしの『<8937><89f1>』の時間<8a43>で / 　現実に起こったこととして<8937><89f1>されるのよ
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#6893] budget=86ch/3ln
+  NOW: But power itself is neither
+          good nor evil. It depends on
+          the will of the power's user.
+  JP : JP#7040[HIGH]: 「<f040><f041>でも、力そのものに間悪は無いわ / 　すべては、その力を行使する者の / 　意訪にゆだねられている〜[10][0c][17]
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#6895] budget=34ch/2ln
+  NOW: Let's go before it's
+          all too late.
+  JP : JP#7042[HIGH]: 「行きましょう〜 / 　何もかもが、手後れになる前に
+  FIT: <<TODO — <=34 chars, 2 line(s), <=35/line>>
+
+[US#6896] budget=62ch/3ln
+  NOW: Heroes are merely sacrifices
+          made to confront absolute
+          danger.
+  JP : JP#7043[MED]: 「『<8a4d>好』なんて / 　負対の危機の前に遠し出された / 　『生け<8a52>』にすぎないわ
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#6898] budget=56ch/2ln
+  NOW: ...the <Sword Magess> is not
+          a hero only by convenience.
+  JP : JP#7045[HIGH]: 「＜助の歩昔＞は / 　勉合のいい<8a4d>好なんかじゃないわ[10][0c]「時代に<8a55>げられた / 　生け<8a52>そのものよ[10][0c]「
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#6899] budget=42ch/2ln
+  NOW: She is a sacrificial offering
+          to this era.
+  JP : JP#7046[HIGH]: 「時代に<8a55>げられた / 　生け<8a52>そのものよ[10][0c]「体よく貸り<88be>けられて / 　キレイにごまかされた存帰よ[10][0c]
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#6900] budget=40ch/2ln
+  NOW: Her decorated body is
+          a good camouflage.
+  JP : JP#7047[HIGH]: 「体よく貸り<88be>けられて / 　キレイにごまかされた存帰よ[10][0c][17]
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#6902] budget=47ch/2ln
+  NOW: That's what it means to
+          obtain excessive power.
+  JP : JP#7048[MED]: [17]
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#6906] budget=102ch/3ln
+  NOW: But if you imagine, will all your
+          powers into the Filgaia you wish
+          to return to, the road will appear.
+  JP : JP#7052[MED]: [17] || JP#7051[MED]: [17]
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#6907] budget=26ch/1ln
+  NOW: The world I'm in...It's...
+  JP : JP#7053[MED]: 「<f040><f041>でも、あなたが / 　あなたの帰るファルガイアを / 　強く、違い<8a5c>けば『<8a5a>』（みち）ができるわ
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#6908] budget=77ch/3ln
+  NOW: It's dangerous here.
+          It's in your best interest
+          to leave as soon as possible.
+  JP : JP#7054[MED]: 「俺がいる世界〜 / 　それは<f041><f042>
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#6909] budget=37ch/2ln
+  NOW: They've taken on the
+          burden to fight.
+  JP : JP#7056[MED]: 「戦うことを / 　<89a3><8a59>った人なのよ || JP#7055[MED]: 「ここは危険じゃ / 　<8894>々に戻ち<8a40>った方が / 　お茶のためじゃぞ
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#6911] budget=54ch/3ln
+  NOW: I guess it'll be OK.
+          As long as you don't
+          hold 6 back.
+  JP : JP#7058[MED]: 「まあ、いいじゃろう / 　[05]くの<8921>を招っ限るでないぞ
+  FIT: <<TODO — <=54 chars, 3 line(s), <=35/line>>
+
+[US#6912] budget=49ch/2ln
+  NOW: Through my memory,
+          you have experienced the past.
+  JP : JP#7059[HIGH]: 「わたしの<8937><89f1>を加して / 　キミは、過<8a40>に乗れたの[10][0c][17]
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#6914] budget=74ch/3ln
+  NOW: As proof, this chance meeting
+          was perceived in the past as
+          reality itself.
+  JP : JP#7061[HIGH]: 「その延<88e6>に / 　この乗<8a64>は過<8a40>において / 　現実のものとして認<8a38>されるの
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#6915] budget=105ch/3ln
+  NOW: Oh, come on. I'm not going to use
+          your power! With the <Sword Magess>
+          and Crimson Noble in me, Blazer's..
+  JP : JP#7062[HIGH]: 「<f040><f042>ったく、お茶なんぞの力を<8a65>りぬとも / 　＜助の歩昔＞とノーブルレッドである / 　わらわがいれば、ロードブレイザーなど〜
+  FIT: <<TODO — <=105 chars, 3 line(s), <=35/line>>
+
+[US#6916] budget=26ch/2ln
+  NOW: Get away from 6
+          right now!
+  JP : JP#7063[HIGH]: 「今すぐ、[05]くから / 　離れろッ！
+  FIT: <<TODO — <=26 chars, 2 line(s), <=35/line>>
+
+[US#6918] budget=21ch/1ln
+  NOW: If 6 says so, then...
+  JP : JP#7065[HIGH]: 「[05]くが、そういうのなら〜
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#6919] budget=72ch/3ln
+  NOW: I am alone, all alone.
+          Even though I'm alone,
+          I plan to protect Filgaia.
+  JP : JP#7066[HIGH]: 「わらわはひとり、ひとりぽっちだ / 　だが、ひとりになったとて / 　ファルガイアを<8a3d>り抜くつもりだ
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#6920] budget=39ch/2ln
+  NOW: You're not alone.
+          Let's fight together.
+  JP : JP#7067[HIGH]: 「キミはひとりじゃない / 　いっしょに戦おう…
+  FIT: <<TODO — <=39 chars, 2 line(s), <=35/line>>
+
+[US#6921] budget=89ch/3ln
+  NOW: Trapped...that's all. He was not
+          destroyed. He was just trapped
+          behind the event horizon.
+  JP : JP#7068[HIGH]: 「封姿じゃぞ / 　倒すのではない、あくまでも / 　事兄の地<8a71>に封じるだけじゃ[10][0c]「今のわらわたちの力では / 　彼友めを倒すこと / 
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#6922] budget=51ch/2ln
+  NOW: Our powers aren't strong
+          enough to destroy him now.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#6923] budget=58ch/2ln
+  NOW: Tomorrow we will be stronger
+          than we were yesterday, so...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#6924] budget=71ch/3ln
+  NOW: |Let's fight together.|
+          That's what you said.
+          Can your word be trusted?
+  JP : JP#7069[MED]: 「今のわらわたちの力では / 　彼友めを倒すこと / 　<8a72>わなかったのじゃ
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#6925] budget=68ch/3ln
+  NOW: When the Lord Blazer's
+          powers once again begin
+          to destroy Filgaia...
+  JP : JP#7070[MED]: 「俺たちは / 　基回より、次回の方がきっと強い / 　だから〜 || JP#7071[MED]: 「『いっしょに戦おう』〜 / 　お茶、そう<8a74>しておったな / 　その言葉に<8a75>りないか？
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#6926] budget=76ch/3ln
+  NOW: ...we'll fight together to
+          destroy and vanquish him
+          from Filgaia completely.
+  JP : JP#7073[MED]: 「彼友の存帰そのものを / 　ファルガイアから消し<8a40>るために / 　勝に戦ってくれるな？ || JP#7072[MED]: 「更にロードブレイザーの力が / 　<8a77>びファルガイアを脅かす時…[10][0c]「彼友の存帰そのものを / 　ファルガイアから消し<8a40>るために
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#6927] budget=53ch/2ln
+  NOW: The lives of the immortal Crimson
+          Nobles are eternal.
+  JP : JP#7074[MED]: 「イモータルである / 　ノーブルレッドの<8a79>命は<8a7a>英じゃ[10][0c]「その時まで〜 / 　お茶と出雄うその時まで / 　わらわも<89b
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#6928] budget=56ch/3ln
+  NOW: Until you and I meet
+          again, I will have
+          to take a break.
+  JP : JP#7075[MED]: 「その時まで〜 / 　お茶と出雄うその時まで / 　わらわも<89bf>むとしよう〜
+  FIT: <<TODO — <=56 chars, 3 line(s), <=35/line>>

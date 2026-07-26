@@ -1,0 +1,497 @@
+# WA2 INSERTION workspace US block 116 (US#8232-8310)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#8233] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#8234] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8388[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#8235] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8389[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#8236] budget=19ch/2ln
+  NOW: I'm...?
+          Where am I?
+  JP : JP#8390[MED]: 「いったい俺は〜 / 　それに、ここはどこなんだ〜
+  FIT: <<TODO — <=19 chars, 2 line(s), <=35/line>>
+
+[US#8237] budget=78ch/3ln
+  NOW: It's not a rational deduction,
+          but I'm certain this isn't Filgaia.
+          Where am I?
+  JP : JP#8391[MED]: 「理伝じゃない / 　でも、ハッキリとわかる / 　ここは、どこなんだ〜？
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#8238] budget=91ch/3ln
+  NOW: That's right. It's not the first
+          time we meet. When I got the
+          Argetlahm, in the light we...
+  JP : JP#8392[HIGH]: 「そうだ〜 / 　俺はあなたに出幸うのは<8a34>めてじゃない / 　アガートラームを手にした<89e0>の中で〜[10][0c]「ヘイムダル・ガッツォーの泣
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#8239] budget=74ch/3ln
+  NOW: It's the same feeling
+          of protection I got when the
+          Heimdal Gazzo exploded.
+  JP : JP#8393[HIGH]: 「ヘイムダル・ガッツォーの泣発に / 　片き飛ばされた俺を / 　押るように<8a38>んでくれた、あの信信は〜[10][0c]「まちがいない〜 / 　あの信信
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#8240] budget=84ch/3ln
+  NOW: I'm certain of it. That
+          sensation was the same as the
+          vibrations I get from you now.
+  JP : JP#8394[HIGH]: 「まちがいない〜 / 　あの信信は / 　あなたから信じる<88e0>動と同じもの[10][0c]「<8a39>えてほしい / 　あなたはいったい〜
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#8241] budget=28ch/2ln
+  NOW: Please tell me.
+          Who are you?
+  JP : JP#8395[HIGH]: 「<8a39>えてほしい / 　あなたはいったい〜
+  FIT: <<TODO — <=28 chars, 2 line(s), <=35/line>>
+
+[US#8242] budget=68ch/3ln
+  NOW: In your era, I guess the
+          <Sword Magess> is the name
+          most well known.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#8243] budget=60ch/3ln
+  NOW: I had always hoped
+          we'd have a chance to talk,
+          0 Winchester.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=60 chars, 3 line(s), <=35/line>>
+
+[US#8244] budget=97ch/3ln
+  NOW: There were moments when you were
+          a bit pathetic, but then you'd
+          do something very bold and brave!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#8245] budget=66ch/3ln
+  NOW: But with her...
+          With 2, you weren't
+          terribly brave or forthcoming.
+  JP : JP#8396[MED]: 「そうね、キミのいた時代では / 　＜仲の守昔＞<f041><f042> / 　〜って言う方が、加りがいいみたいね
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#8246] budget=72ch/3ln
+  NOW: It makes a big sister want
+          to take you in her arms
+          and take care of you.
+  JP : JP#8397[MED]: 「一度、ゆっくりお話しがしたかったわ / 　[05]ぉ・ウィンチェスターくん
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#8247] budget=35ch/1ln
+  NOW: Sorry. I didn't mean to hassle you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=35 chars, 1 line(s), <=35/line>>
+
+[US#8248] budget=29ch/1ln
+  NOW: But it's um, well unexpected.
+  JP : JP#8398[MED]: 「何だか頼りないところもあったけど / 　時々、こっちがビックリするくらい / 　大姉なことをしちゃうんだもん[10][0c]「彼昔<f041><f042> /
+  FIT: <<TODO — <=29 chars, 1 line(s), <=35/line>>
+
+[US#8249] budget=50ch/2ln
+  NOW: The image I had of the
+          <Sword Magess> was well....
+  JP : (no JP mapped)
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#8250] budget=21ch/1ln
+  NOW: A little different...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#8251] budget=57ch/2ln
+  NOW: So you think it's OK to just
+          force your will on everyone?
+  JP : JP#8399[MED]: 「彼昔<f041><f042> / 　[0a]かちゃんには / 　なかなか大姉になりきれないくせに、ね
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#8252] budget=85ch/3ln
+  NOW: Before I was the <Sword Magess>,
+          I was just a girl called Anastasia.
+          I can't help it.
+  JP : JP#8400[MED]: 「お助さん / 　可愛がってあげたくなっちゃう
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#8253] budget=70ch/3ln
+  NOW: Do you want to go to Filgaia,
+          to the world where 2
+          is waiting for you?
+  JP : JP#8401[MED]: 「ごめんねぇ / 　からかうつもりはなかったんだけどね
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#8254] budget=86ch/3ln
+  NOW: dead is |the other side,| then
+          this is the interval, the boundary
+          between both places.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#8255] budget=80ch/3ln
+  NOW: It's a ruin of memories.
+          I might be able to make contact
+          with Filgaia from here.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#8256] budget=66ch/3ln
+  NOW: But with her...
+          With 2, you weren't
+          terribly brave or forthcoming.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#8257] budget=72ch/3ln
+  NOW: It makes a big sister want
+          to take you in her arms
+          and take care of you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#8258] budget=35ch/1ln
+  NOW: Sorry. I didn't mean to hassle you.
+  JP : JP#8402[MED]: 「ただ、ちょっと、意外だったというか / 　何というか〜[10][0c]「俺が考えていた / 　＜仲の守昔＞ってイメージとは / 　その〜[10][0c]「少し
+  FIT: <<TODO — <=35 chars, 1 line(s), <=35/line>>
+
+[US#8259] budget=29ch/1ln
+  NOW: But it's um, well unexpected.
+  JP : JP#8403[MED]: 「俺が考えていた / 　＜仲の守昔＞ってイメージとは / 　その〜[10][0c]「少し、違うかな、と〜
+  FIT: <<TODO — <=29 chars, 1 line(s), <=35/line>>
+
+[US#8260] budget=50ch/2ln
+  NOW: The image I had of the
+          <Sword Magess> was well....
+  JP : JP#8404[MED]: 「少し、違うかな、と〜
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#8261] budget=21ch/1ln
+  NOW: A little different...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#8262] budget=57ch/2ln
+  NOW: So you think it's OK to just
+          force your will on everyone?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#8263] budget=85ch/3ln
+  NOW: Before I was the <Sword Magess>,
+          I was just a girl called Anastasia.
+          I can't help it.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#8264] budget=70ch/3ln
+  NOW: Do you want to go to Filgaia,
+          to the world where 2
+          is waiting for you?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#8265] budget=86ch/3ln
+  NOW: dead is |the other side,| then
+          this is the interval, the boundary
+          between both places.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#8266] budget=80ch/3ln
+  NOW: It's a ruin of memories.
+          I might be able to make contact
+          with Filgaia from here.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#8267] budget=66ch/3ln
+  NOW: But with her...
+          With 2, you weren't
+          terribly brave or forthcoming.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#8268] budget=72ch/3ln
+  NOW: It makes a big sister want
+          to take you in her arms
+          and take care of you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#8269] budget=35ch/1ln
+  NOW: Sorry. I didn't mean to hassle you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=35 chars, 1 line(s), <=35/line>>
+
+[US#8270] budget=29ch/1ln
+  NOW: But it's um, well unexpected.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=29 chars, 1 line(s), <=35/line>>
+
+[US#8271] budget=50ch/2ln
+  NOW: The image I had of the
+          <Sword Magess> was well....
+  JP : (no JP mapped)
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#8272] budget=21ch/1ln
+  NOW: A little different...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#8273] budget=57ch/2ln
+  NOW: So you think it's OK to just
+          force your will on everyone?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#8274] budget=85ch/3ln
+  NOW: Before I was the <Sword Magess>,
+          I was just a girl called Anastasia.
+          I can't help it.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#8275] budget=70ch/3ln
+  NOW: Do you want to go to Filgaia,
+          to the world where 2
+          is waiting for you?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#8276] budget=86ch/3ln
+  NOW: dead is |the other side,| then
+          this is the interval, the boundary
+          between both places.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#8277] budget=80ch/3ln
+  NOW: It's a ruin of memories.
+          I might be able to make contact
+          with Filgaia from here.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#8278] budget=66ch/3ln
+  NOW: But with her...
+          With 2, you weren't
+          terribly brave or forthcoming.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#8279] budget=72ch/3ln
+  NOW: It makes a big sister want
+          to take you in her arms
+          and take care of you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#8280] budget=35ch/1ln
+  NOW: Sorry. I didn't mean to hassle you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=35 chars, 1 line(s), <=35/line>>
+
+[US#8281] budget=29ch/1ln
+  NOW: But it's um, well unexpected.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=29 chars, 1 line(s), <=35/line>>
+
+[US#8282] budget=50ch/2ln
+  NOW: The image I had of the
+          <Sword Magess> was well....
+  JP : (no JP mapped)
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#8283] budget=21ch/1ln
+  NOW: A little different...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#8284] budget=57ch/2ln
+  NOW: So you think it's OK to just
+          force your will on everyone?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#8285] budget=85ch/3ln
+  NOW: Before I was the <Sword Magess>,
+          I was just a girl called Anastasia.
+          I can't help it.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#8286] budget=70ch/3ln
+  NOW: Do you want to go to Filgaia,
+          to the world where 2
+          is waiting for you?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#8287] budget=86ch/3ln
+  NOW: dead is |the other side,| then
+          this is the interval, the boundary
+          between both places.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#8288] budget=80ch/3ln
+  NOW: It's a ruin of memories.
+          I might be able to make contact
+          with Filgaia from here.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#8289] budget=66ch/3ln
+  NOW: But with her...
+          With 2, you weren't
+          terribly brave or forthcoming.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#8290] budget=72ch/3ln
+  NOW: It makes a big sister want
+          to take you in her arms
+          and take care of you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#8291] budget=35ch/1ln
+  NOW: Sorry. I didn't mean to hassle you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=35 chars, 1 line(s), <=35/line>>
+
+[US#8292] budget=29ch/1ln
+  NOW: But it's um, well unexpected.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=29 chars, 1 line(s), <=35/line>>
+
+[US#8293] budget=50ch/2ln
+  NOW: The image I had of the
+          <Sword Magess> was well....
+  JP : (no JP mapped)
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#8294] budget=21ch/1ln
+  NOW: A little different...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#8295] budget=57ch/2ln
+  NOW: So you think it's OK to just
+          force your will on everyone?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#8296] budget=85ch/3ln
+  NOW: Before I was the <Sword Magess>,
+          I was just a girl called Anastasia.
+          I can't help it.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#8297] budget=70ch/3ln
+  NOW: Do you want to go to Filgaia,
+          to the world where 2
+          is waiting for you?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#8298] budget=86ch/3ln
+  NOW: dead is |the other side,| then
+          this is the interval, the boundary
+          between both places.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#8299] budget=80ch/3ln
+  NOW: It's a ruin of memories.
+          I might be able to make contact
+          with Filgaia from here.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#8300] budget=66ch/3ln
+  NOW: But with her...
+          With 2, you weren't
+          terribly brave or forthcoming.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#8301] budget=72ch/3ln
+  NOW: It makes a big sister want
+          to take you in her arms
+          and take care of you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#8302] budget=35ch/1ln
+  NOW: Sorry. I didn't mean to hassle you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=35 chars, 1 line(s), <=35/line>>
+
+[US#8303] budget=29ch/1ln
+  NOW: But it's um, well unexpected.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=29 chars, 1 line(s), <=35/line>>
+
+[US#8304] budget=50ch/2ln
+  NOW: The image I had of the
+          <Sword Magess> was well....
+  JP : (no JP mapped)
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#8305] budget=21ch/1ln
+  NOW: A little different...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#8306] budget=57ch/2ln
+  NOW: So you think it's OK to just
+          force your will on everyone?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#8307] budget=85ch/3ln
+  NOW: Before I was the <Sword Magess>,
+          I was just a girl called Anastasia.
+          I can't help it.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#8308] budget=70ch/3ln
+  NOW: Do you want to go to Filgaia,
+          to the world where 2
+          is waiting for you?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#8309] budget=86ch/3ln
+  NOW: dead is |the other side,| then
+          this is the interval, the boundary
+          between both places.
+  JP : JP#8405[MED]: 「そうやって、何もかも / 　兄し<88be>けてしまえばいいと / 　考えているのね
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#8310] budget=80ch/3ln
+  NOW: It's a ruin of memories.
+          I might be able to make contact
+          with Filgaia from here.
+  JP : JP#8406[MED]: 「＜守昔＞なんて呼ばれる前は / 　ただのアナスタシアだったんだもん / 　仕方ないわよ
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>

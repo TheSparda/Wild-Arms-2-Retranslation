@@ -1,0 +1,224 @@
+# WA2 4-col translation doc block 29 (JP#5440-5474)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 25 boxes | OK=5 FAIR=7 SHAKY=13 JP-ONLY=0
+# DRAFT STATUS: 25 boxes | OK=5 FAIR=5 SHAKY=15 JP-ONLY=0
+
+[JP#5441] gaps=0  aln=MED->US#5318  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5442] gaps=2  aln=MED->US#5319  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5443] gaps=0  aln=MED->US#5320  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5450] gaps=7  aln=HIGH->US#5327  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=3
+  1|JP : ＊トレジャーコールは[0b]おを押すことで / 　字<8a38>のなかにある / 　アイテムの存帰をあきらかにします[10][0c]＊<8a39>仲参にアイテムがあれば / 　その級<8822>に守<8a07>の<89e0>が表<893a>される他 / 　コール<8a34>を発して使用者に知らせます
+  2|LIT: <<TODO>>
+  3|EN : *With the Booty Call,
+ press 1 and you can see
+ all the items in a room.*If there are items, a green
+ light will indicate the
+ location, along with a sound.
+  4|RE : <<TODO>>
+
+[JP#5451] gaps=6  aln=HIGH->US#5328  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=3
+  1|JP : ＊<8a39>仲参にアイテムがあれば / 　その級<8822>に守<8a07>の<89e0>が表<893a>される他 / 　コール<8a34>を発して使用者に知らせます
+  2|LIT: <<TODO>>
+  3|EN : *If there are items, a green
+ light will indicate the
+ location, along with a sound.
+  4|RE : <<TODO>>
+
+[JP#5452] gaps=4  aln=HIGH->US#5329  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「『信<8839>谷』を用いた加信歩<8822>以外にも / 　<8a43>やガラス、<88a1>仲といった / 　すべてのスクリーンがジャック対来だッ！
+  2|LIT: <<TODO>>
+  3|EN : @Besides the Empathite transmitters,
+ the mirrors, glass, and water
+ were all affected by the hijack!
+  4|RE : <<TODO>>
+
+[JP#5453] gaps=0  aln=HIGH->US#5330  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「それじゃあ、テレパスタワーを中挑帯にして / 　テロリストどもの決起表次が / 　ファルガイア中に流されたのかッ！
+  2|LIT: <<TODO>>
+  3|EN : @They used the Telepath Tower
+ to send their terrorist
+ message throughout Filgaia!
+  4|RE : <<TODO>>
+
+[JP#5455] gaps=0  aln=HIGH->US#5332  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「うかつッ！
+  2|LIT: <<TODO>>
+  3|EN : @Missed that!
+  4|RE : <<TODO>>
+
+[JP#5456] gaps=0  aln=HIGH->US#5333  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「一度、ダムツェンに戻って / 　テレパスタワーの周胞に / 　事情を説次しよう
+  2|LIT: <<TODO>>
+  3|EN : @Let's return to Damzen and
+ explain the situation to the
+ engineers at Telepath Tower.
+  4|RE : <<TODO>>
+
+[JP#5457] gaps=4  aln=HIGH->US#5334  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : ＊ファルガイア険間をカバーすることができます / 　（訪<89f8>などの<8a4c><8854>で一字 / 　　念話の<88f8>かない地間もございます）
+  2|LIT: <<TODO>>
+  3|EN : *We can cover all of Filgaia
+ (In bad weather, some regions
+ won't receive the transmission.)
+  4|RE : <<TODO>>
+
+[JP#5458] gaps=4  aln=HIGH->US#5335  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : ＊<8861>的の<8947>作<8a4d>動年に作用する / 　好撃<88e0>恥撃を / 　相グループに対して行います
+  2|LIT: <<TODO>>
+  3|EN : *It delivers to the enemy
+ a shock attack which acts
+ on the target's vibrations.
+  4|RE : <<TODO>>
+
+[JP#5459] gaps=0  aln=HIGH->US#5336  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5460] gaps=10  aln=HIGH->US#5337  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=8
+  1|JP : ＊その後、その簡単性において / 　しだいに年を<8a5c>らしていった / 　テレパスメイジに代って、信<8839>谷が復場する[10][0c]＊信<8839>谷は、人の思念を姉<8a3d>し / 　<8947>作のパルスに変<88fb>する性<886e>を持っている[10][0c]＊離れた場所の単の信<8839>谷に茶<8a4d>させることで / 　情報<88a6>達システムとしての / 　機能を発揮しているのである
+  2|LIT: <<TODO>>
+  3|EN : *Then, due to its peculiar nature,
+ the Telepath Mage dwindled until
+ he was replaced by the Empathite.*The Empathite amplifies people's
+ thoughts and has the ability
+ to transform individual pulses.*Some Empathite resonating with
+ another piece far away can be
+ used to transmit information.
+  4|RE : <<TODO>>
+
+[JP#5461] gaps=8  aln=MED->US#5338  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=6
+  1|JP : ＊信<8839>谷は、人の思念を姉<8a3d>し / 　<8947>作のパルスに変<88fb>する性<886e>を持っている[10][0c]＊離れた場所の単の信<8839>谷に茶<8a4d>させることで / 　情報<88a6>達システムとしての / 　機能を発揮しているのである
+  2|LIT: <<TODO>>
+  3|EN : *The Empathite amplifies people's
+ thoughts and has the ability
+ to transform individual pulses.*Some Empathite resonating with
+ another piece far away can be
+ used to transmit information.
+  4|RE : <<TODO>>
+
+[JP#5462] gaps=3  aln=MED->US#5339  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : ＊離れた場所の単の信<8839>谷に茶<8a4d>させることで / 　情報<88a6>達システムとしての / 　機能を発揮しているのである
+  2|LIT: <<TODO>>
+  3|EN : *Some Empathite resonating with
+ another piece far away can be
+ used to transmit information.
+  4|RE : <<TODO>>
+
+[JP#5463] gaps=0  aln=MED->US#5340  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5464] gaps=18  aln=MED->US#5341  CONF=SHAKY unsolved=18  CONF=SHAKY unsolved=14
+  1|JP : ＊加<895b>・ポンポコ谷と呼ばれ / 　その名前の由戦は、<89bd><885f>機艇の出す / 　『ポンポコ』という<8a34>からと言われている[10][0c]＊この谷では、<89bd><885f><886f>もさることながら / 　<8867>飛度、<8867><892e><886e>の信<8839>谷が<89bd><885f>され / 　ファルガイア中に限出されている[10][0c]＊信<8839>谷は、その大きさ・飛度により / 　その出力が決まる[10][0c]＊大きさが守になると、出力も守に / 　飛度が守になると、出力は<8a61>守になり / 　より大きく飛度の<8867>いものが延められている[10][0c]＊現帰、最大出力を出せる信<8839>谷は / 　テレパスタワーのメイン谷として / 　利用されている
+  2|LIT: <<TODO>>
+  3|EN : *Alias Mt. Chug-Chug. It's said that
+ the name comes from the |Chug Chug|
+ sound of the mining machinery.*While the amount mined is low, the
+ best and purest Empathite is found
+ here and sent all over Filgaia.*The Empathite's power is determined
+ by its size and purity.*If size doubles, so does power.
+ If purity doubles, power triples.
+ So large, pure Empathite is best.*Currently, the most
+  4|RE : <<TODO>>
+
+[JP#5465] gaps=14  aln=HIGH->US#5342  CONF=SHAKY unsolved=14  CONF=SHAKY unsolved=11
+  1|JP : ＊この谷では、<89bd><885f><886f>もさることながら / 　<8867>飛度、<8867><892e><886e>の信<8839>谷が<89bd><885f>され / 　ファルガイア中に限出されている[10][0c]＊信<8839>谷は、その大きさ・飛度により / 　その出力が決まる[10][0c]＊大きさが守になると、出力も守に / 　飛度が守になると、出力は<8a61>守になり / 　より大きく飛度の<8867>いものが延められている[10][0c]＊現帰、最大出力を出せる信<8839>谷は / 　テレパスタワーのメイン谷として / 　利用されている
+  2|LIT: <<TODO>>
+  3|EN : *While the amount mined is low, the
+ best and purest Empathite is found
+ here and sent all over Filgaia.*The Empathite's power is determined
+ by its size and purity.*If size doubles, so does power.
+ If purity doubles, power triples.
+ So large, pure Empathite is best.*Currently, the most powerful
+ Empathite ever discovered is being
+ used in the Telepath Tower.
+  4|RE : <<TODO>>
+
+[JP#5466] gaps=4  aln=HIGH->US#5343  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : ＊信<8839>谷は、その大きさ・飛度により / 　その出力が決まる[10][0c]＊大きさが守になると、出力も守に / 　飛度が守になると、出力は<8a61>守になり / 　より大きく飛度の<8867>いものが延められている[10][0c]＊現帰、最大出力を出せる信<8839>谷は / 　テレパスタワーのメイン谷として / 　利用されている
+  2|LIT: <<TODO>>
+  3|EN : *The Empathite's power is determined
+ by its size and purity.*If size doubles, so does power.
+ If purity doubles, power triples.
+ So large, pure Empathite is best.*Currently, the most powerful
+ Empathite ever discovered is being
+ used in the Telepath Tower.
+  4|RE : <<TODO>>
+
+[JP#5467] gaps=3  aln=HIGH->US#5344  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : ＊大きさが守になると、出力も守に / 　飛度が守になると、出力は<8a61>守になり / 　より大きく飛度の<8867>いものが延められている[10][0c]＊現帰、最大出力を出せる信<8839>谷は / 　テレパスタワーのメイン谷として / 　利用されている
+  2|LIT: <<TODO>>
+  3|EN : *If size doubles, so does power.
+ If purity doubles, power triples.
+ So large, pure Empathite is best.*Currently, the most powerful
+ Empathite ever discovered is being
+ used in the Telepath Tower.
+  4|RE : <<TODO>>
+
+[JP#5468] gaps=1  aln=HIGH->US#5345  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊現帰、最大出力を出せる信<8839>谷は / 　テレパスタワーのメイン谷として / 　利用されている
+  2|LIT: <<TODO>>
+  3|EN : *Currently, the most powerful
+ Empathite ever discovered is being
+ used in the Telepath Tower.
+  4|RE : <<TODO>>
+
+[JP#5469] gaps=0  aln=HIGH->US#5346  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5470] gaps=11  aln=HIGH->US#5347  CONF=SHAKY unsolved=11  CONF=SHAKY unsolved=9
+  1|JP : ＊現帰は、加信用信<8839>谷の中挑地帯として / 　<8a65>々の信<8839>谷の加信能力を<8867>める / 　出力姉<8a3d>助の<8964>目を果たしている[10][0c]＊これにより長<881a>離使用や / 　いままで使用できなかった地間でも / 　加信信<8839>谷の使用が可能になった[10][0c]＊同時に、使用不可として破男されていた / 　信<8839>谷の<8a67>利用が可能となり / 　魂<8869>の作頼乗用ができるようになった
+  2|LIT: <<TODO>>
+  3|EN : *Communication Empathite at the
+ broadcast location amplifies the
+ power of the transmission.*Now it's possible to use the
+ Empathite to transmit long distance
+ or to regions not reached before.*Also, Empathite that used to be
+ discarded can be reused, due to
+ more efficient use of resources.
+  4|RE : <<TODO>>
+
+[JP#5471] gaps=5  aln=HIGH->US#5348  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : ＊これにより長<881a>離使用や / 　いままで使用できなかった地間でも / 　加信信<8839>谷の使用が可能になった[10][0c]＊同時に、使用不可として破男されていた / 　信<8839>谷の<8a67>利用が可能となり / 　魂<8869>の作頼乗用ができるようになった
+  2|LIT: <<TODO>>
+  3|EN : *Now it's possible to use the
+ Empathite to transmit long distance
+ or to regions not reached before.*Also, Empathite that used to be
+ discarded can be reused, due to
+ more efficient use of resources.
+  4|RE : <<TODO>>
+
+[JP#5472] gaps=3  aln=HIGH->US#5349  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : ＊同時に、使用不可として破男されていた / 　信<8839>谷の<8a67>利用が可能となり / 　魂<8869>の作頼乗用ができるようになった
+  2|LIT: <<TODO>>
+  3|EN : *Also, Empathite that used to be
+ discarded can be reused, due to
+ more efficient use of resources.
+  4|RE : <<TODO>>

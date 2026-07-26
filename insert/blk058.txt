@@ -1,0 +1,135 @@
+# WA2 INSERTION workspace US block 58 (US#6712-6735)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#6714] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#6858[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6715] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6859[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#6716] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6860[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#6717] budget=37ch/1ln
+  NOW: *Do you want to take the Moon Piece?2
+  JP : JP#6861[MED]: ＊つきのピースを取りますか？[18]か
+  FIT: <<TODO — <=37 chars, 1 line(s), <=35/line>>
+
+[US#6718] budget=37ch/1ln
+  NOW: *Do you want to take the Star Piece?2
+  JP : JP#6862[MED]: ＊ほしのピースを取りますか？[18]か
+  FIT: <<TODO — <=37 chars, 1 line(s), <=35/line>>
+
+[US#6719] budget=36ch/1ln
+  NOW: *Do you wanna take the Cloud Piece?2
+  JP : JP#6863[MED]: ＊くものピースを取りますか？[18]か
+  FIT: <<TODO — <=36 chars, 1 line(s), <=35/line>>
+
+[US#6720] budget=36ch/1ln
+  NOW: *Do you want to take the Sun Piece?2
+  JP : JP#6864[MED]: ＊たいようのピースを取りますか？[18]か
+  FIT: <<TODO — <=36 chars, 1 line(s), <=35/line>>
+
+[US#6721] budget=84ch/3ln
+  NOW: *Press the 1 button to
+          transform your body to mist
+          and travel a set distance by air.
+  JP : JP#6865[MED]: ＊ミストクロークは[0b]おを<8a43>すことで / 　使用者の体を姉状に変合させて / 　一奮の<881a>離を空中移動することができます[10][0c]＊
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#6722] budget=85ch/3ln
+  NOW: *It allows you to jump over damaged
+          floors and pits, and go through
+          walls of netting.
+  JP : JP#6866[MED]: ＊落とし来やダメージ挑を / 　飛び戦えたり / 　周状の<8a48>を加り抜けることができます
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#6723] budget=85ch/3ln
+  NOW: If you wish to liberate the
+          Raypoint I control, you must
+          reveal your reason to fight.
+  JP : JP#6867[MED]: 「我が<8a4c>べるレイポイントの / 　解殺を<8a4d>むのなら / 　好が戦う理由を<893a>すがいい
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#6724] budget=98ch/3ln
+  NOW: Know that only when you find the
+          reason to fight within your heart
+          will the Raypoint be liberated.
+  JP : JP#6868[MED]: 「好が心に負めし戦う理由をもってのみ / 　レイポイントは / 　解き殺たれると知れ〜
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#6725] budget=96ch/3ln
+  NOW: Furthermore, if you cannot find
+          a reason to fight, the Raypoint
+          won't be liberated for eternity.
+  JP : JP#6869[MED]: 「遠えるなら、戦う理由を見出せぬものに / 　レイポイントの解殺は / 　<8a52><8a53>にかなわぬとおぼえるがよい〜
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#6726] budget=43ch/2ln
+  NOW: An answer I've always
+          been searching for...
+  JP : JP#6870[MED]: 「ボクがずっと / 　探している『<883a>え』〜
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#6727] budget=75ch/3ln
+  NOW: Finally I found a reason to fight,
+          but then I lose what is
+          important to me.
+  JP : JP#6871[MED]: 「やっと、戦う理由を見つけたのに / 　ボクは大事なモノを / 　無くしてしまったんだ〜
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#6728] budget=55ch/3ln
+  NOW: But that was a step in
+          transforming into the new
+          Pooka.
+  JP : JP#6872[MED]: 「でも、それは / 　新たなプーカへとなるための / 　ステップだったのダ
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#6729] budget=107ch/3ln
+  NOW: And by gaining insight into |self,|
+          my powers are greater because I can
+          perceive other beings more clearly.
+  JP : JP#6873[MED]: 「そこで『自分』をハッキリ自信することで / 　より他の存帰を強く認勉できるように / 　パワーアップしたのダ[10][0c][17]
+  FIT: <<TODO — <=107 chars, 3 line(s), <=35/line>>
+
+[US#6731] budget=88ch/3ln
+  NOW: *By increasing synchronicity
+          between Pooka and the Medium,
+          the Guardian can attack best.
+  JP : JP#6875[MED]: ＊プーカとミーディアムの / 　シンクロ<8a5a>を<8867>めることにより / 　ガーディアン最大復撃を行います
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#6732] budget=14ch/2ln
+  NOW: Wow!
+          I did it!
+  JP : JP#6877[MED]: 「はははッ！ / 　やったーッ！ || JP#6876[MED]: 「うわあああああッ！
+  FIT: <<TODO — <=14 chars, 2 line(s), <=35/line>>
+
+[US#6733] budget=63ch/2ln
+  NOW: (I'll never forget this voice that
+          taught Pooka about |Pooka.|)
+  JP : JP#6878[MED]: （忘れることのない / 　プーカに『プーカ』を茶えてくれた<883f>を）[10][0c]（そこを目飛して、よかったのダ〜）
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#6734] budget=24ch/1ln
+  NOW: (I'm glad I tried this.)
+  JP : JP#6879[MED]: （そこを目飛して、よかったのダ〜）
+  FIT: <<TODO — <=24 chars, 1 line(s), <=35/line>>
+
+[US#6735] budget=85ch/3ln
+  NOW: I better let them know that
+          something fancier would be more
+          appropriate to my tastes.
+  JP : JP#6880[MED]: 「もっと、こうファンシーなモノが / 　わらわの守<8a61>に合っているということを / 　茶えといた方がいいな
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>

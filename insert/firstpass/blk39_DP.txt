@@ -1,0 +1,683 @@
+# WA2 — Diablo Pillars (Ptolomea/Caina/Antenora) (DP) — block 39, US#5742-5853 — FIRST-PASS insert-ready
+# =========================================================================================
+# FIRST PASS (auto-generated): RE = the US localization reflowed to the display window
+#   (<=3 lines x <=35 chars), em dashes stripped, color-code artifacts removed. JP shown for
+#   reference (block-decoded; residual codes possible). This is NOT a deep literary
+#   retranslation — it gives Diablo Pillars (Ptolomea/Caina/Antenora) valid insert text; flag for a deep RE pass later.
+# US# reconciled by construction (IDs are the real block-39 message slots).
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#5746]
+  JP : 「きっと、任務がしやすくなりますね
+  LIT: Our mission will surely get easier this way.
+  EN : Our mission will become a lot easier.
+  RE : Our mission will become a lot
+       easier.
+
+[US#5747]
+  JP : 「ここは僕が招き乗ける / [05]ぉたちは最<896e>部に向かってくれ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'll take care of this. You guys need to go on to the deepest depths.
+  RE : I'll take care of this. You guys
+       need to go on to the deepest
+       depths.
+
+[US#5748]
+  JP : 「ここを始置したら / 僕もすぐに後を追いかける / 一時、単行動だ
+  LIT: Once I've dealt with this place, I'll come right after you. For a while, we act separately. (始置->処置; 単行動->単独行動)
+  EN : After I finish here, I'll follow. We'll operate independently for a time.
+  RE : After I finish here, I'll follow.
+       We'll operate independently for a
+       time.
+
+[US#5749]
+  JP : 「……わかった / それじゃ、最<896e>部で落ち合おう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I understand. Then we'll meet up at the deepest depths.
+  RE : I understand. Then we'll meet up at
+       the deepest depths.
+
+[US#5750]
+  JP : 「よし、みんな、行こうッ！
+  LIT: All right, everyone, let's go!
+  EN : OK. Let's go!
+  RE : OK. Let's go!
+
+[US#5751]
+  JP : （<b:8a39>間を信じなくちゃダメだッ！ / そう決めたはずだろう… / でも…）
+  LIT: (literal pending: JP has unsolved codes)
+  EN : (I've decided to have faith in my friends! But...)
+  RE : (I've decided to have faith in my
+       friends! But...)
+
+[US#5752]
+  JP : 「この話で、あの話<b:8a3a><b:8a3b>合<8a23>を / うまくごまかせるといいんだけど…<b:8a3a><b:8a3b>合<8a23>もパスね<b:8a3c>できるかも知れないな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : With this voice, I hope to trick the Voice Verifier.
+  RE : With this voice, I hope to trick
+       the Voice Verifier.
+
+[US#5753]
+  JP : 「いまの話を<8938><b:8a3c>すれば…
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If I record that voice from here...
+  RE : If I record that voice from here...
+
+[US#5754]
+  JP : 「そういえばさっき / <b:8a3d>利そうなものを…
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That reminds me, I saw something useful-looking back there.
+  RE : That reminds me, I saw something
+       useful-looking back there.
+
+[US#5755]
+  JP : 「まぁいい、いずれにせよ / このプラントを破滅せずには / 戻る必要もないしな
+  LIT: Well, fine; either way, I've no need to return without destroying this plant. (破滅->破壊)
+  EN : Well, this way I don't have to return to blow up the plant.
+  RE : Well, this way I don't have to
+       return to blow up the plant.
+
+[US#5756]
+  JP : 「んもー、どっちにしろ / ここを滅してからじゃないと / 外に出られないわねッ！
+  LIT: Ugh, either way, I can't get out unless I wreck this place first!
+  EN : Well, either way, I won't be able to get out unless I destroy this place!
+  RE : Well, either way, I won't be able
+       to get out unless I destroy this
+       place!
+
+[US#5757]
+  JP : 「仕方ないですから / 先に進みましょう<b:8b00>[ff][ff][ff][ff][ff][ff][ff]<b:8b00>[ff][ff][ff][ff][ff][ff][ff]
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There's nothing we can do, so let's move onward.
+  RE : There's nothing we can do, so let's
+       move onward.
+
+[US#5758]
+  JP : 「んッ！ 通信中か… / 何とか式話を<b:8a3e>乗できないかな？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Hmm... They're transmitting. I wonder how I can intercept the message?
+  RE : Hmm... They're transmitting. I
+       wonder how I can intercept the
+       message?
+
+[US#5759]
+  JP : 「なんかしゃべってる… / うー、気になる<f045><f046> / 何か通信しているみたい<b:8a3f>かにしていた方が〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They're saying something. I must know. They're transmitting.
+  RE : They're saying something. I must
+       know. They're transmitting.
+
+[US#5760]
+  JP : 「あれ？ 〜話し話が聞こえます / でも、話が小さくて / よく聞き取れないです
+  LIT: Huh? I can hear a voice, but it's so faint I can't make it out well. (話->声)
+  EN : Wha? I hear a voice but it's so small, I can barely make it out.
+  RE : Wha? I hear a voice but it's so
+       small, I can barely make it out.
+
+[US#5761]
+  JP : 「ボイスレコーダーを使って / この話、『<89f3>ませて』もらおうッ！<b:8a3c>できるわよね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : With a recorder, I'm going to |steal| this voice!
+  RE : With a recorder, I'm going to
+       |steal| this voice!
+
+[US#5762]
+  JP : 「これで話<b:8a3a>パターンも / 楽ちんクリアよッ！<b:8a3a>が手に入ったんだ / これでうまくいくだろう〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : With that, I'll be able to easily pass the voice print test!
+  RE : With that, I'll be able to easily
+       pass the voice print test!
+
+[US#5763]
+  JP : 「さっそく試そうよッ！<b:8a40><b:8a41>に『話』を<89f3>めるなんて〜 / <b:8a3d>利な機艇ですね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm going to test it now!
+  RE : I'm going to test it now!
+
+[US#5764]
+  JP : ＊パスワードを入力しますか？[18]か<b:8a42>認しました / ドアロックを解<b:8a43>します
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Enter a password?2
+  RE : Enter a password?2
+
+[US#5765]
+  JP : ＊<f040><f042>話<b:8a3a><b:8a3b>合を開始します〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Start Voice Print Verification
+  RE : Start Voice Print Verification
+
+[US#5766]
+  JP : ＞このプラントにいるすべての同胞は / 選ばれしオデッサの同胞なのよ / そのことを忘れないで<b:8a3a>パターン<b:8a3b>合<88ad><8837> / <b:8a3b>合された話<b:8a3a>は / コキュートス・アンテノーラと<b:8a49>当
+  LIT: (literal pending: JP has unsolved codes)
+  EN : >Don't forget. All the soldiers here at the plant were from Odessa's forces.
+  RE : >Don't forget. All the soldiers
+       here at the plant were from
+       Odessa's forces.
+
+[US#5767]
+  JP : ＊閉<b:8a47>ブロックを開放します
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The block will be released.
+  RE : The block will be released.
+
+[US#5768]
+  JP : 「<f040><f042>でも〜 / 機艇といえど、あっけないほどに / <b:8a4a>実を見失ってしまうものなんだな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Though it's a machine, it's disappointing how far from the truth it is.
+  RE : Though it's a machine, it's
+       disappointing how far from the
+       truth it is.
+
+[US#5769]
+  JP : 「もし、それが人間だったら / なおのことなのかもしれない〜
+  LIT: If it had been a human, it might be all the more so.
+  EN : And, if it had been a human, it could have been worse.
+  RE : And, if it had been a human, it
+       could have been worse.
+
+[US#5770]
+  JP : 「ま、機艇なんかには / わからないものよねッ！<b:8a4b>です<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Oh well, a machine couldn't be able to tell that!
+  RE : Oh well, a machine couldn't be able
+       to tell that!
+
+[US#5771]
+  JP : 「〜って、しゃべってもいいんですよね？<b:8a47>ブロックです / <8978>可無き者の立ち入りを<b:8a48>止します
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I can talk now, right?
+  RE : I can talk now, right?
+
+[US#5772]
+  JP : ＊<f040><f042>話<b:8a3a><b:8a3b>合を開始します〜<b:8a3a>って〜 / ものまねでもしろってことなのッ！<b:8a3a>パターン<b:8a3b>合<88ad><8837> / <b:8a3b>合された話<b:8a3a>は<b:8a49>当パターンに / <b:8a4c
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Start Voice Print Verification
+  RE : Start Voice Print Verification
+
+[US#5773]
+  JP : ＊これより先は、閉<b:8a47>ブロックです / 閉<b:8a47>ブロックの使用は、ランクＡ<8968>成<b:8a4d> / および結戦隊コキュートスに<b:8a4e>られています<b:8a3a><b:8a3b>合儀のロックが<88e4>されている<b:8a47>ブロックです / <8978>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A block up ahead. Use of the block is limited to Rank A Members and the Special Cocytus Corp.
+  RE : A block up ahead. Use of the block
+       is limited to Rank A Members and
+       the Special Cocytus Corp.
+
+[US#5774]
+  JP : ＊<f040><f042>話<b:8a3a><b:8a3b>合を開始します〜<b:8a3a><b:8a3b>合ッ！ / どうしたらいいんだッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Start Voice Print Verification
+  RE : Start Voice Print Verification
+
+[US#5775]
+  JP : 「わ、わ、わたーし、ざーます / おーほほほほッ！
+  LIT: I-it is I, don'tcha know. Oh-hohohoho! (ざーます = haughty society-lady speech tic)
+  EN : It...it is I...I... Oh. Hee. Hee!
+  RE : It...it is I...I... Oh. Hee. Hee!
+
+[US#5776]
+  JP : 「<f04d><f04f><f04f>… / <b:8a4f>かかせないでよ〜<f05a>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Oooo... Don't embarrass me.
+  RE : Oooo... Don't embarrass me.
+
+[US#5777]
+  JP : 「〜と、思いましたが / プーカが相手の<b:8a50>と能力をコピーするには / ミーディアムが必要でした〜<b:8a3a>パターン<b:8a3b>合<88ad><8837> / <b:8a3b>合された話<b:8a3a>は<b:8a49>当パターンに / <b:8a4c><8938>されていませ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : or so I thought, but Pooka needs a Medium to copy shapes and skills.
+  RE : or so I thought, but Pooka needs a
+       Medium to copy shapes and skills.
+
+[US#5778]
+  JP : ＊これより先は、閉<b:8a47>ブロックです / 閉<b:8a47>ブロックの使用は、ランクＡ<8968>成<b:8a4d> / および結戦隊コキュートスに<b:8a4e>られています
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A block up ahead. Use of the block is limited to Rank A Members and the Special Cocytus Corp.
+  RE : A block up ahead. Use of the block
+       is limited to Rank A Members and
+       the Special Cocytus Corp.
+
+[US#5779]
+  JP : ＊ロッカーを / さらに調べてみますか？[18]か
+  LIT: *Search the locker further? (18 prompt)
+  EN : Search the locker again?2
+  RE : Search the locker again?2
+
+[US#5781]
+  JP : 「やはり、一回の発進にかかる / エネルギーの消<b:8a52><886f>を考えると / 今後、ひんぱんに使用することは不可能です
+  LIT: (literal pending: JP has unsolved codes)
+  EN : When considering the energy expenditure for takeoffs, frequent use is impossible.
+  RE : When considering the energy
+       expenditure for takeoffs, frequent
+       use is impossible.
+
+[US#5782]
+  JP : 「私たちの当<b:8a53>の相は / <b:8a54>金<b:8a53>といったところでしょうか〜<b:8a55>いぜ、まったくよぉ<b:8a56>動してないからじゃないかッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Our most serious enemy now is probably financial.
+  RE : Our most serious enemy now is
+       probably financial.
+
+[US#5783]
+  JP : 「現在、アルケミックプラントの<b:8a56><b:8a57><b:8a58>は / ようやく６０％を<b:8a59>えたところです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Currently, the Alchemic Plant is operating at above 60%.
+  RE : Currently, the Alchemic Plant is
+       operating at above 60%.
+
+[US#5784]
+  JP : 「ま、少しはバルキサスの方にも / エネルギーをまわせる<b:8a5a><b:8a5b>ができますがね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : So, we do have extra energy to divert to the Varukisas.
+  RE : So, we do have extra energy to
+       divert to the Varukisas.
+
+[US#5785]
+  JP : 「それでもこっちは、もうひとつ〜 / 『ヘイムダル・ガッツォー』の / 件もあるんで、気前良くってわけには〜<b:8a5c>は / 見る者を圧倒させる<b:8a5d>果がある
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Yes, but we still have the |Heimdal Gazzo| to work on, so it's not over yet.
+  RE : Yes, but we still have the |Heimdal
+       Gazzo| to work on, so it's not over
+       yet.
+
+[US#5786]
+  JP : 「その飛<b:8a5e>は / 我ら『オデッサ』の威を知らしめるには / <b:8a5d>果的なテであることも確かであろう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's clear the flights are an effective method to convey the menace of |Odessa.|
+  RE : It's clear the flights are an
+       effective method to convey the
+       menace of |Odessa.|
+
+[US#5788]
+  JP : 「そういうのは / 俺の<b:8a66><b:8a67>外なんでね / もっと楽しそうなシゴトをまわしてくれよ<b:8a68>の女性 / 「<8a0d>れて<b:8a69>し<b:8a6a>ありません / <f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's beyond my jurisdiction so...send only fun work my way.
+  RE : That's beyond my jurisdiction
+       so...send only fun work my way.
+
+[US#5789]
+  JP : 「バルキサスの離陸<8865>前に<88fa>戦した / あの一<897d>のことですが / 『ＡＲＭＳ』と呼ばれる部隊と<8942>次しました<b:8a6c>儀』の実験に使って〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The group attacking the Varukisas before take-off has been identified as a unit called the |ARMS.|
+  RE : The group attacking the Varukisas
+       before take-off has been identified
+       as a unit called the |ARMS.|
+
+[US#5790]
+  JP : 「メリアブール<b:8a6d>が特<b:8a6e>していた / <89e1>立<88b2><b:8a4e>を作する結単部隊ＡＲＭＳは / 結成と同時に滅滅したわ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Meria Boule's Special Unit ARMS of independent authority was annihilated when they formed.
+  RE : Meria Boule's Special Unit ARMS of
+       independent authority was
+       annihilated when they formed.
+
+[US#5791]
+  JP : 「いえ〜 / やはり、同じ部隊と呼ぶべきでしょうか〜
+  LIT: No... after all, should we call them the same unit?
+  EN : No. We should call them the same unit.
+  RE : No. We should call them the same
+       unit.
+
+[US#5792]
+  JP : 「よくわからねぇな / もう少しうまく説次してほしいぜ<b:8a4e>の一部を / <b:8a6f>い取ることで<b:8a70><b:8a71><b:8a72>された私設部隊〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I don't get it. Explain it again.
+  RE : I don't get it. Explain it again.
+
+[US#5793]
+  JP : 「<f040><f042>と、でも<b:8a69>しましょうか〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Is that clearer?
+  RE : Is that clearer?
+
+[US#5794]
+  JP : 「いずれの<b:8a6d><b:8a73>にも<b:8a74>さないことで / <89e1>立<88b2><b:8a4e>を<8861><b:8a75>しているようです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Their non-alliance status makes it appear as if they are independent.
+  RE : Their non-alliance status makes it
+       appear as if they are independent.
+
+[US#5795]
+  JP : 「<b:8a6f>い取った者は / メリアブールの辺<8872><b:8a76><b:8a77>とまでは / <8942>次していますが〜<b:8a78>方』ヅラをするんだろうな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We have verified that the buyer is low-level nobility.
+  RE : We have verified that the buyer is
+       low-level nobility.
+
+[US#5796]
+  JP : 「〜<b:8a79>だな / そういうのって、カンにさわる<b:8a7a>できないだろう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I hate that kind of stuff. It's offensive.
+  RE : I hate that kind of stuff. It's
+       offensive.
+
+[US#5797]
+  JP : 「気にとめておく必要は<f040><f042><b:8a7b><8875>はありそうだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There's no need to pay attention to...
+  RE : There's no need to pay attention
+       to...
+
+[US#5798]
+  JP : 「我らにあらがうのなら / そうさせておけばいい〜 / なんせ、『新義の<b:8a78>方』なんだからな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If they're hostile toward us, we should just let them be so. They're |Allies of Justice.|
+  RE : If they're hostile toward us, we
+       should just let them be so. They're
+       |Allies of Justice.|
+
+[US#5799]
+  JP : 「だが、そんな連中が / <88ad><b:8a7c>なきまでに<b:8a7d>きのめされれば / どうなる？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But what will happen when they're beaten to a pulp?
+  RE : But what will happen when they're
+       beaten to a pulp?
+
+[US#5800]
+  JP : 「それを知った<b:8a7e><b:8a7f>は / 我らオデッサの力を<b:8a80>れ / <b:8a81>配を乗け入れざるをえまい〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The masses who witness this will fear Odessa's power. They'll have no choice but to accept our power.
+  RE : The masses who witness this will
+       fear Odessa's power. They'll have
+       no choice but to accept our power.
+
+[US#5802]
+  JP : 「だが、<b:8a89>じる必要はない / <b:8a54>金の調達は / 私にまかせておくがいい
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But there's no need to be concerned. Leave the financing to me.
+  RE : But there's no need to be
+       concerned. Leave the financing to
+       me.
+
+[US#5803]
+  JP : 「ＡＲＭＳの壊滅はおろか / ただのひとりも仕<b:8a8a>めることが / できなかった方家です
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Destroying the ARMS isn't so simple. It appears not a single person was killed.
+  RE : Destroying the ARMS isn't so
+       simple. It appears not a single
+       person was killed.
+
+[US#5804]
+  JP : 「こちらの<b:8a8b><889b>状況は / 対人怪獣同<b:8a8c>『タラスク』が大破 / さらに〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Our casualty list reports |Trask,| the anti-human monster, as demolished.
+  RE : Our casualty list reports |Trask,|
+       the anti-human monster, as
+       demolished.
+
+[US#5806]
+  JP : 「何が<89af><89b0>だッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : How did it happen?
+  RE : How did it happen?
+
+[US#5807]
+  JP : 「報<8804>によると / <b:8a8f><89e0>とともに現われた / 異面の『<888c><b:8a90>胞』とありますが<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : According to the report, a grotesque |Black Knight| appeared in a flash.
+  RE : According to the report, a
+       grotesque |Black Knight| appeared
+       in a flash.
+
+[US#5808]
+  JP : 「たしかに、その<b:8a91>間 / 作戦ポイントより高質<886f>のエネルギー反応が / 確認されております<b:8a90>胞』、だと〜？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A high level energy source registered at the battle location at that time.
+  RE : A high level energy source
+       registered at the battle location
+       at that time.
+
+[US#5810]
+  JP : 「<b:8a71><b:8a72>の運<b:8a93><b:8a54>金に / 『ヘイムダル・ガッツォー』の / エネルギー確保〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : With our operating funds, secure energy for the |Heimdal Gazzo.|
+  RE : With our operating funds, secure
+       energy for the |Heimdal Gazzo.|
+
+[US#5811]
+  JP : 「それらに<b:8a94>えて / 相対<b:8a95>力『ＡＲＭＳ』の<b:8a96><b:8a97>か〜 / 誓<8810>は谷<b:8a98>みとなっとるわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Then there's the |ARMS| gaining influence. We've got problems.
+  RE : Then there's the |ARMS| gaining
+       influence. We've got problems.
+
+[US#5812]
+  JP : 「『悪の押左<b:8a71><b:8a72>』とは / かようにも大変なものなのだな〜 / ククク〜<b:8a99><b:8a9a>を〜<b:8a6c>儀によって / こちらの戦力は無<b:8a4e>に<b:8a9b><b:8a4d>できるのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The |Secret Evil Society| is so terrible. Ha. Ha.
+  RE : The |Secret Evil Society| is so
+       terrible. Ha. Ha.
+
+[US#5813]
+  JP : 「圧倒的な戦力<b:8a9c>で / いっきにたたみ込めば / 我らの<b:8a9d>利はまちがいない〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Our victory is certain if we exert pressure all at once with our superior power.
+  RE : Our victory is certain if we exert
+       pressure all at once with our
+       superior power.
+
+[US#5815]
+  JP : 「<88b2>力（ちから）も / お前も<f040><f042> / そして、ファルガイアも、この手に〜<b:8a9f>える
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Power, you, and Filgaia are all mine.
+  RE : Power, you, and Filgaia are all
+       mine.
+
+[US#5816]
+  JP : 「かねてより準備していた / 『ガーディアン特<b:8a6e>』を<89d8>行する / <8943>の少数の確保を急げ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Execute |Operation Guardian| as planned and put a rush on getting hold of that boy.
+  RE : Execute |Operation Guardian| as
+       planned and put a rush on getting
+       hold of that boy.
+
+[US#5817]
+  JP : 「そして、もうひとつ<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Tonight, I want you here with me.
+  RE : Tonight, I want you here with me.
+
+[US#5818]
+  JP : 「〜今<b:8aa0>は / 私の<89f5>にいろ〜<b:8aa1>入したとの報<8804>が
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Antenora, I'm leaving the plant's defenses to you.
+  RE : Antenora, I'm leaving the plant's
+       defenses to you.
+
+[US#5819]
+  JP : 「アンテノーラ / プラントの<b:8aa3>備を / お前に任せる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'll be joining Ptolomea and heading for |Heimdal Gazzo.| This place is in your hands.
+  RE : I'll be joining Ptolomea and
+       heading for |Heimdal Gazzo.| This
+       place is in your hands.
+
+[US#5820]
+  JP : 「私は、トロメアと合流し / 『ヘイムダル・ガッツォー』へと向かう / ここを頼んだぞ〜<b:8aa4>んでいるか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If you think I'm your enemy, kill me here and now.
+  RE : If you think I'm your enemy, kill
+       me here and now.
+
+[US#5821]
+  JP : 「私を<b:8aa6>と思うのなら / 今ここで手にかけるがよい
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Right now, we're being ambushed by the ARMS.
+  RE : Right now, we're being ambushed by
+       the ARMS.
+
+[US#5822]
+  JP : 「ただ今より / ＡＲＭＳ<88cc>撃の任にあたります<b:8aa7>せかッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : (It can't be 1. That's impossible....)
+  RE : (It can't be . That's
+       impossible....)
+
+[US#5823]
+  JP : （まさか、[05]お / そんなことないよな…）
+  LIT: (Surely {5} wouldn't... no, that can't be...) (05 name slot)
+  EN : But, you know it seems like they were expecting us!
+  RE : But, you know it seems like they
+       were expecting us!
+
+[US#5824]
+  JP : 「でもさ、なんか / わたしたちが<b:8aa2>るのが / 分かってたみたいだよねッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's almost as if they expected us.
+  RE : It's almost as if they expected us.
+
+[US#5826]
+  JP : 
+  LIT: (no JP text)
+  EN : We're going to put a stop to your schemes!
+  RE : We're going to put a stop to your
+       schemes!
+
+[US#5827]
+  JP : 「お前たちの / たくらみは俺たちが / <8988>止してみせるッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Because I'm going to stop you.
+  RE : Because I'm going to stop you.
+
+[US#5828]
+  JP : 「だって、わたしが / あなたたちの前に / たちはだかるのですもの〜
+  LIT: After all, it is I who stand in your way.
+  EN : After all, your bonds are only so strong.
+  RE : After all, your bonds are only so
+       strong.
+
+[US#5829]
+  JP : 「あなたたちの<b:8ab0>なんて / しょせんはその<b:8aad>度のものだったのね〜<b:8a5a><b:8ab1>だったでしょ？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : This formless monster steals not only one's shape, but one's memories and skills too.
+  RE : This formless monster steals not
+       only one's shape, but one's
+       memories and skills too.
+
+[US#5830]
+  JP : 「<b:8a50>だけではなく / コピーした人間の<8937><89f1>や能力まで / すべてを<89f3>み取る無<b:8ab2>の怪人〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The intelligence was gathered by a doppelganger in the form of |1.|
+  RE : The intelligence was gathered by a
+       doppelganger in the form of |.|
+
+[US#5831]
+  JP : 「あなたたちの情報全ては / 『[05]お』の<b:8a50>をした / ドッペルゲンガーによって<b:8ab3>抜けだったのよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The doppelganger I sent in has stirred up more distrust than we had ever hoped.
+  RE : The doppelganger I sent in has
+       stirred up more distrust than we
+       had ever hoped.
+
+[US#5832]
+  JP : 「私の放ったドッペルゲンガーによって / <b:8a39>間に対して不信信を<b:8ab4>くあなたたちは / <888e>想以上に動<b:8ab5>してくれたわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Now.
+  RE : Now.
+
+[US#5833]
+  JP : 「早くッ！<b:8ab0>を / しょせんその<b:8aad>度と言ったな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Well, you may be right. No, you are right!
+  RE : Well, you may be right. No, you are
+       right!
+
+[US#5834]
+  JP : 「そうかもしれない / <f040><f042>いや、たしかにそうだッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I once mistrusted a friend... I couldn't completely trust someone I fought alongside of.
+  RE : I once mistrusted a friend... I
+       couldn't completely trust someone I
+       fought alongside of.
+
+[US#5836]
+  JP : [17]<b:8a39>間を信じるッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : So I don't submit to you! And to strengthen my friendships!
+  RE : So I don't submit to you! And to
+       strengthen my friendships!
+
+[US#5837]
+  JP : 「お前たちに<b:8a64>しないためにッ！ / そして、俺らの<b:8ab0>のためにッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Retreat. We've failed our mission! Retreat and regroup!
+  RE : Retreat. We've failed our mission!
+       Retreat and regroup!
+
+[US#5838]
+  JP : 「<b:8ab7><b:8a63>だ〜 / 今回のミッションは失<893d>だッ！ / いったん招きあげようッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm going to finish the mission.
+  RE : I'm going to finish the mission.
+
+[US#5839]
+  JP : 「任務を<89d8>行する〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : |Eat My Dust| has been used, so how are you going to blow up the plant?
+  RE : |Eat My Dust| has been used, so how
+       are you going to blow up the plant?
+
+[US#5841]
+  JP : [17]<b:8ab8><b:8ab9>なら、ここにある〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It... the |Gias| won't come off so easily!
+  RE : It... the |Gias| won't come off so
+       easily!
+
+[US#5842]
+  JP : 「そいつが〜 / 『ギアス』が<b:8a40><b:8a41>に / はずれるわけないだろうッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's not smart like |Eat My Dust| --the bomb can't be neutralized later on.
+  RE : It's not smart like |Eat My Dust|,
+       the bomb can't be neutralized later
+       on.
+
+[US#5843]
+  JP : 「こいつは『バイツァダスト』と違って / <b:8ab8>発の<b:8aba>撃を<b:8abb><b:8aba><b:8abc>移させるなんて / 気の利いたことはできないんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Before I blow up the plant, you guys need to get out of here.
+  RE : Before I blow up the plant, you
+       guys need to get out of here.
+
+[US#5844]
+  JP : 「僕が<b:8aa8>心をブッ飛ばす前に / お前たちは / ここから急いで脱出しろ<b:8abd><b:8abe>の務めを果たすさ<b:8aa2>いよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We're heroes because we always return from danger.
+  RE : We're heroes because we always
+       return from danger.
+
+[US#5846]
+  JP : [17]<b:8ac0>り<b:8ac1>らず〜 / 前だけを見て / 一気にここから脱出するッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We'll meet again. Promise. I promise!
+  RE : We'll meet again. Promise. I
+       promise!
+
+[US#5848]
+  JP : <b:8ac3>重を<b:8aa3>れそうにないな / でも、きっと<8978>してくれるはずさ〜[16]くぉ[16]くぉ[16]くぉ[16]くぉ[16]くぉ[16]くぉ[16]くぉ[16]くぉ[0c]「さて、『<b:8abd><b:8abe>』の役目を果たしに行くか〜[16]くぉ[16]くぉ[16
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Soon, both you and I will be blasted by Gias. Be patient.
+  RE : Soon, both you and I will be
+       blasted by Gias. Be patient.
+
+[US#5849]
+  JP : 「じきに僕もお前も / ギアスがブッ飛ばしてくれるんだ / おとなしく待っていろ<b:8a50>を<89f3>むとはな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...30...30...30...
+  RE : ...30...30...30...
+
+[US#5852]
+  JP : [17]<b:8a50>、もう少し役立たせてもらうぜ<b:8a50>も、<8937><89f1>も〜 / 能力すらも<b:8ac6>うことができるんだったなッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : So, that |dog collar| around your neck is the same as the real one?
+  RE : So, that |dog collar| around your
+       neck is the same as the real one?
+
+[US#5853]
+  JP : 「なら、その<888a>にある / 『<b:8ac7>の<888a><b:8ac8>』<f040><f042> / ギアスもオリジナルと同じなんだろ？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm going to borrow it!
+  RE : I'm going to borrow it!
+
+# =========================================================================================
+# STATUS: 95 boxes first-passed (US#5742-5853, block 39). Em-dash-free, <=3x35.
+# =========================================================================================

@@ -1,0 +1,234 @@
+# WA2 — Heimdal Gazzo (part) (HG) — block 44, US#6021-6069 — FIRST-PASS insert-ready
+# =========================================================================================
+# FIRST PASS (auto-generated): RE = the US localization reflowed to the display window
+#   (<=3 lines x <=35 chars), em dashes stripped, color-code artifacts removed. JP shown for
+#   reference (block-decoded; residual codes possible). This is NOT a deep literary
+#   retranslation — it gives Heimdal Gazzo (part) valid insert text; flag for a deep RE pass later.
+# US# reconciled by construction (IDs are the real block-44 message slots).
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#6026]
+  JP : ＊アルケミックプラントの置滅による / エネルギー誓<8810>をオールクリア
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The energy problem from the destruction of the Alchemic Plant is cleared.
+  RE : The energy problem from the
+       destruction of the Alchemic Plant
+       is cleared.
+
+[US#6027]
+  JP : ＊魔界鍵よりのエネルギー族<898d>を発持しつつ / ヘイムダル・ガッツォーの安定にあたれ〜<b:8a38>的だな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Maintain the energy supply from the Diablo Pillar and stabilize the Heimdal Gazzo.
+  RE : Maintain the energy supply from the
+       Diablo Pillar and stabilize the
+       Heimdal Gazzo.
+
+[US#6028]
+  JP : 「<f040><f042>にしても / 『ヘイムダル・ガッツォー』に / 『魔界鍵』とは、いったい〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What are |Heimdal Gazzo| and |Diablo Pillar?|
+  RE : What are |Heimdal Gazzo| and
+       |Diablo Pillar?|
+
+[US#6030]
+  JP : ＊たとえ、ひとつの魔界鍵が破滅されても / 他の魔界鍵が存在する<b:8a3d>り / ジェネレイターとして<89ce>分に機能する〜<b:8a38>が〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Even if one Pillar's destroyed, as long as the others operate, the generator still functions.
+  RE : Even if one Pillar's destroyed, as
+       long as the others operate, the
+       generator still functions.
+
+[US#6031]
+  JP : 「<b:8a3e>するに / 強力なジェネレイターのようだな / もう少し、情報を<8880>めてみよう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I surmise that the generator must be very powerful. Let's get more information.
+  RE : I surmise that the generator must
+       be very powerful. Let's get more
+       information.
+
+[US#6033]
+  JP : ＊<b:8a40>大なエネルギー消<b:8a41><886f>を<89b9>帯とする / ヘイムダル・ガッツォーであるが / 魔界鍵によって、その<89b9>帯を<b:8a42><b:8a43>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : While excessive energy consumption is seen as Heimdal Gazzo's flaw, it's nothing for the Diablo Pillar.
+  RE : While excessive energy consumption
+       is seen as Heimdal Gazzo's flaw,
+       it's nothing for the Diablo Pillar.
+
+[US#6034]
+  JP : ＊４つの魔界鍵を<88ad>全に<898f><8990>させない<b:8a3d>り / 圧倒的な破滅力を作する / ヘイムダル・ガッツォーに<b:8a44>するすべはない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Until all 4 Pillars are destroyed there's no way to counter its destructive force.
+  RE : Until all 4 Pillars are destroyed
+       there's no way to counter its
+       destructive force.
+
+[US#6035]
+  JP : ＊いわば、魔界鍵こそ / ヘイムダル・ガッツォーの / ライフラインであるといえよう〜
+  LIT: *So to speak, the Diablo Pillars are the very lifeline of the Heimdal Gazzo. (魔界鍵 = Diablo Pillar)
+  EN : In other words, the Diablo Pillars are the Heimdal Gazzo's lifeline.
+  RE : In other words, the Diablo Pillars
+       are the Heimdal Gazzo's lifeline.
+
+[US#6036]
+  JP : 「それを発持するという / ４つの魔界鍵なるジェネレイターも / 気がかりだな〜
+  LIT: The four Diablo-Pillar generators said to sustain it are a worry too. (発持->保持/維持)
+  EN : And the 4 Diablo Pillar generators that support it. They're a definite concern.
+  RE : And the 4 Diablo Pillar generators
+       that support it. They're a definite
+       concern.
+
+[US#6037]
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: ...gaoo... gaoo... gaoo... (16 = SFX code)
+  EN : ...30...30...30...
+  RE : ...30...30...30...
+
+[US#6039]
+  JP : 「ヘイムダル・ガッツォーと / 魔界鍵に対<b:8a44>する作戦を立てるぞ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We can plan our attack against Heimdal Gazzo and the Diablo Pillars.
+  RE : We can plan our attack against
+       Heimdal Gazzo and the Diablo
+       Pillars.
+
+[US#6042]
+  JP : ＊ワイヤーフックは[0b]おを<b:8a45>すことで / カギ<b:8a46>を前方に発<b:8a47>することができます
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Press 1 and the Wire Hook will shoot hooks ahead of you.
+  RE : Press and the Wire Hook will shoot
+       hooks ahead of you.
+
+[US#6043]
+  JP : ＊カギ<b:8a46>をクイに撃ち込むことで / <b:8a48>いては渡れない場所へ移動することが / 可能になります
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Shooting hooks into the post will allow you to cross over to places previously unreachable.
+  RE : Shooting hooks into the post will
+       allow you to cross over to places
+       previously unreachable.
+
+[US#6044]
+  JP : 「アルケミックプラントからの / 族<898d><b:8a4a><89ca>をたどって / ここが<8942>次したんだ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We traced the supply route from the Alchemic Plant to here.
+  RE : We traced the supply route from the
+       Alchemic Plant to here.
+
+[US#6046]
+  JP : 「あるいは / エネルギーの族<898d>がすでに / 必要でなくなったか〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : was destroyed, or the energy supply was no longer needed.
+  RE : was destroyed, or the energy supply
+       was no longer needed.
+
+[US#6048]
+  JP : 「俺はもっと、ずっと〜 / 今まで以上に / しっかりしなくちゃいけないんだ
+  LIT: Me too, far more than before, I've got to pull myself together.
+  EN : Me too. I've really got to get my act together, even more so than before.
+  RE : Me too. I've really got to get my
+       act together, even more so than
+       before.
+
+[US#6049]
+  JP : 「じゃないと / [05]おに合わせる探が無い
+  LIT: Otherwise I'll have no face to show {5}. (05 name slot; 探->顔 corrupt)
+  EN : Otherwise I can't show my face to 1.
+  RE : Otherwise I can't show my face to .
+
+[US#6050]
+  JP : 「<f040><f042>って、誰だかわかってるけど〜 / その前に、何でいつもいつも / 俺が相手をしなくちゃいけないんだ<f059><b:8a4c>かれあっているトカ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'd ask, but I already know. Why do I always get stuck with you?
+  RE : I'd ask, but I already know. Why do
+       I always get stuck with you?
+
+[US#6052]
+  JP : 「それほどまでに我<b:8a53>の / すごすぎるアレのノウハウが / お気に<b:8a54>さないとは、見置なったぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm disappointed you're so displeased with my amazing knowledge of that.
+  RE : I'm disappointed you're so
+       displeased with my amazing
+       knowledge of that.
+
+[US#6053]
+  JP : 「バカにかかっちゃ / 我<b:8a53>もかたなしだトカ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Getting stuck with an idiot will be my ruin.
+  RE : Getting stuck with an idiot will be
+       my ruin.
+
+[US#6055]
+  JP : [17]<b:8a53>のありがたいお言葉が聞けるのは / ファルガイアでも多分ここだけッ！ / 応<b:8a58>よろしくッ！<b:8a59>え抜かれた / この身で相手をつかまつるッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Come, look, feel. Don't get scared now. Such novices!
+  RE : Come, look, feel. Don't get scared
+       now. Such novices!
+
+[US#6056]
+  JP : 「<b:8a5a>て、見て、さわってみて / <b:8a5b>抜かすなよ / <b:8a5c><b:8a53>モノがーッ！<b:8a5d>地ッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A lovely explosion! Really! We are offering a journey of sleep to a far off land.
+  RE : A lovely explosion! Really! We are
+       offering a journey of sleep to a
+       far off land.
+
+[US#6057]
+  JP : 「可<b:8a5e><b:8a5f><b:8a60>ッ！ <b:8a61><b:8a62>無<b:8a3d>ッ！ / <f040><f042>な我<b:8a53>らが / はるかな<89bb>りの<b:8a63>を<b:8a64>げてしんぜよう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Today's actions will become tomorrow's legend!
+  RE : Today's actions will become
+       tomorrow's legend!
+
+[US#6059]
+  JP : 
+  LIT: (no JP text)
+  EN : I have no choice now but to bring out the mean machine!
+  RE : I have no choice now but to bring
+       out the mean machine!
+
+[US#6061]
+  JP : [17]
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I read somewhere how scientific progress always has victims.
+  RE : I read somewhere how scientific
+       progress always has victims.
+
+[US#6062]
+  JP : 「<b:8a66><b:8a67>の発<b:8a68>には<b:8a69><b:8a6a>がつきものと / 何かの<b:8a6b><b:8a6c>をひもといた<89d2>に / <8946>いてあったトカ、無かったトカ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Anyway! Here's the nasty creature our recent battle data gave birth to!
+  RE : Anyway! Here's the nasty creature
+       our recent battle data gave birth
+       to!
+
+[US#6063]
+  JP : 「とにかくッ！ / 今までの戦<b:8a6d>データが生み出した / シリーズ後<89a7>のニクイ<b:8a6e>ッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : March, Arms Killer! No morals and no control! Mash 'em and smash 'em!
+  RE : March, Arms Killer! No morals and
+       no control! Mash 'em and smash 'em!
+
+[US#6065]
+  JP : [17]<b:8a71>められているトカッ！ / ええッ！ 貴様ッ！<b:8a72>するッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Stop conspiring with Vinsfeld!
+  RE : Stop conspiring with Vinsfeld!
+
+[US#6068]
+  JP : [17]
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I find it hard to believe they'd have military power at an abandoned site.
+  RE : I find it hard to believe they'd
+       have military power at an abandoned
+       site.
+
+[US#6069]
+  JP : 「<88ad>全に手放された<88e4>設に / 戦力をさいているとは考えにくい〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : These excavation traces are sure to reveal some significance.
+  RE : These excavation traces are sure to
+       reveal some significance.
+
+# =========================================================================================
+# STATUS: 30 boxes first-passed (US#6021-6069, block 44). Em-dash-free, <=3x35.
+# =========================================================================================

@@ -1,0 +1,10 @@
+# WA2 INSERTION workspace US block 110 (US#8025-8026)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#8026] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#8203[MED]: 
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>

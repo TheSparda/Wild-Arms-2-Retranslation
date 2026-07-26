@@ -1,0 +1,173 @@
+# WA2 INSERTION workspace US block 25 (US#5095-5127)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5097] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5214[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5098] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5215[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5099] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5216[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5100] budget=97ch/3ln
+  NOW: *Gems heal all members of the party
+          but the amount of HP restored
+          depends on the size of the gem.
+  JP : JP#5217[HIGH]: ＊ＨＰの回<8a34><886f>は / 　ゲットしたジェムの大きさに<8876><8943>し / 　その泣果はパーティー険片におよびます
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#5101] budget=75ch/3ln
+  NOW: *In the |oops| state, you can
+          press the 2 button to go
+          ahead and jump down.
+  JP : JP#5218[HIGH]: ＊『おっとっと』状態中に / 　[0b]かを<8a39>すことで / 　押<8a38>を飛び周りることができます[10][0c]＊押<8a38>に向かって、ダッ
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#5102] budget=73ch/3ln
+  NOW: *You can also jump down
+          by dashing off an edge
+          without the |oops| action.
+  JP : JP#5219[HIGH]: ＊押<8a38>に向かって、ダッシュ状態で搭乗すると / 　『おっとっと』ポーズをとることなく / 　そのまま飛び周りることができます
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#5105] budget=58ch/2ln
+  NOW: I don't know what to do!
+          I can't figure it out all alone!!
+  JP : JP#5222[HIGH]: 「わかんないよッ！ / 　わたしひとりじゃ、わかんないよッ！
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#5106] budget=65ch/3ln
+  NOW: Can you see the big
+          Switchblock behind you?
+          Use your magic on it.
+  JP : JP#5223[MED]: 「あなたの後ろ / 　大きなスイッチブロックが見えるかしら？ / 　それに魔力を反<8839>させてちょうだい
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#5107] budget=37ch/2ln
+  NOW: I'm not good at it
+          like you are, Sis.
+  JP : JP#5224[MED]: 「お姉ちゃんみたいに / 　うまくできないよ〜
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#5108] budget=50ch/2ln
+  NOW: Try starting over. This
+          time the door should open.
+  JP : JP#5225[MED]: 「もう一度、最助からやってみて / 　今度こそ<8a23>が開くわよ
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#5109] budget=76ch/3ln
+  NOW: This time I'll show you
+          a different method.
+          It'll be fine. This way is easy.
+  JP : JP#5226[MED]: 「〜今度は、単のやり方を歩えるわ / 　だいじょうぶ、今度の方法はカンタンだから
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#5110] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#5227[HIGH]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「そこからもう少し辺に / 　小さなスイッチブロックがあるでしょ？
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#5111] budget=51ch/2ln
+  NOW: See the small Switchblock
+          just below where you are?
+  JP : JP#5228[HIGH]: 「そこからもう少し辺に / 　小さなスイッチブロックがあるでしょ？
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#5112] budget=73ch/3ln
+  NOW: If you press 1, your
+          magic turns to a flame
+          and can fire in front of you.
+  JP : JP#5229[HIGH]: 「[0b]おを<8a39>すと / 　あなたの魔力を<8a40>に変えて / 　前方に発兄することができるわ[10][0c]「だいじょうぶ、[05]か？
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#5113] budget=14ch/1ln
+  NOW: Are you OK, 2?
+  JP : JP#5230[HIGH]: 「だいじょうぶ、[05]か？
+  FIT: <<TODO — <=14 chars, 1 line(s), <=35/line>>
+
+[US#5114] budget=69ch/3ln
+  NOW: Here's some Recovery Magic.
+          2, you are already a
+          fine Crest Sorcerer.
+  JP : JP#5231[HIGH]: 「はい、回<8a34>魔法よ / 　もう、[05]かも / 　戻<8a1e>な<8a43>来魔挑戦ね〜
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#5115] budget=45ch/2ln
+  NOW: Here's some Recovery Magic.
+          Don't give up, 2!
+  JP : JP#5232[HIGH]: 「さあ、回<8a34>魔法をかけてあげるわ / 　気を抜かないでね、[05]か
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#5116] budget=67ch/3ln
+  NOW: If you return here, I'll cast
+          a Recovery Spell, so don't
+          overdo it.
+  JP : JP#5233[HIGH]: 「ここまで戻ってくれば / 　回<8a34>魔法をかけてあげるから / 　無理はしないでね
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#5117] budget=38ch/2ln
+  NOW: Good luck, 2.
+          Two Switchblocks remain.
+  JP : JP#5234[HIGH]: 「がんばって、[05]か / 　スイッチブロックは残りふたつよ
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#5118] budget=17ch/1ln
+  NOW: This was nothing.
+  JP : JP#5237[MED]: 「[05]か〜 / 　これから先、あなたしか使えない / 　『魔法』を強く信じて[10][0c]「どんなにつらいことがあっても / 　あなたの『魔法』なら /  || JP#5235[MED]: 「このくらい / 　どうってことないよ
+  FIT: <<TODO — <=17 chars, 1 line(s), <=35/line>>
+
+[US#5119] budget=37ch/2ln
+  NOW: You need to believe in
+          yourself more.
+  JP : JP#5238[MED]: 「どんなにつらいことがあっても / 　あなたの『魔法』なら / 　仲り間えられていけるから〜ね
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#5120] budget=68ch/3ln
+  NOW: 2,
+          from now on you need to believe
+          in the magic that is yours alone.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#5121] budget=77ch/3ln
+  NOW: No matter how hard things get,
+          you'll be able to overcome it
+          with your magic.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#5122] budget=27ch/1ln
+  NOW: Later! Leave it 'til later!
+  JP : JP#5239[HIGH]: 「そんなのあと、あとッ！[10][0c]「わたしの『魔法』で / 　ぜーんぶ何とかしたら / 　いくらでも聞くからさッ！
+  FIT: <<TODO — <=27 chars, 1 line(s), <=35/line>>
+
+[US#5123] budget=58ch/3ln
+  NOW: If I can do things
+          with my magic,
+          I'll listen to anything!
+  JP : JP#5240[HIGH]: 「わたしの『魔法』で / 　ぜーんぶ何とかしたら / 　いくらでも聞くからさッ！
+  FIT: <<TODO — <=58 chars, 3 line(s), <=35/line>>
+
+[US#5125] budget=66ch/3ln
+  NOW: Soon, you'll be linked
+          to the world you came from,
+          so don't worry.
+  JP : JP#5242[HIGH]: 「もうすぐ / 　もといた世界にリンクされるから〜 / 　あなたは何も心配しなくていいから〜〜
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#5126] budget=4ch/1ln
+  NOW: Sis?
+  JP : JP#5243[MED]: 「お姉ちゃんッ！
+  FIT: <<TODO — <=4 chars, 1 line(s), <=35/line>>

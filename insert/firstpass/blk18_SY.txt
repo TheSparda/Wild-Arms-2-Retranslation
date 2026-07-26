@@ -1,0 +1,1047 @@
+# WA2 — Slayheim Castle / Warwing Varukisas (SY) — block 18, US#4448-4592 — FIRST-PASS insert-ready
+# =========================================================================================
+# FIRST PASS (auto-generated): RE = the US localization reflowed to the display window
+#   (<=3 lines x <=35 chars), em dashes stripped, color-code artifacts removed. JP shown for
+#   reference (block-decoded; residual codes possible). This is NOT a deep literary
+#   retranslation — it gives Slayheim Castle / Warwing Varukisas valid insert text; flag for a deep RE pass later.
+# US# reconciled by construction (IDs are the real block-18 message slots).
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#4452]
+  JP : 「でも、いけませんね〜 / 本当に危険な目にあわないと / 立ち上がろうとしないなんて〜
+  LIT: But it won't do; that people won't rise up until they truly face danger... (危機信->危機感)
+  EN : Why is it that people never try to do anything to help the world until a serious danger comes along?
+  RE : Why is it that people never try to
+       do anything to help the world until
+       a serious danger comes along?
+
+[US#4453]
+  JP : 「<8a1b>体的に<889a><889b>を右けないから / 誰も、危機信を乗れさせているけど / これこそ危険なことなのでは？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But people aren't that worried anymore, because so far nothing bad has happened to them.
+  RE : But people aren't that worried
+       anymore, because so far nothing bad
+       has happened to them.
+
+[US#4454]
+  JP : 「私もこのあいだまで / 危機信を失っていましたが〜
+  LIT: Until just the other day, I too had lost my sense of crisis. (危機信->危機感)
+  EN : Until the other day, I had forgotten how serious things are.
+  RE : Until the other day, I had
+       forgotten how serious things are.
+
+[US#4455]
+  JP : 「でも、とくに大きな発ぎが / 起きたわけじゃないから / <b:8a38>々に<b:8a39>れてきちゃったわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But nothing really terrible happened down here, so after a while, the shock wore off.
+  RE : But nothing really terrible
+       happened down here, so after a
+       while, the shock wore off.
+
+[US#4456]
+  JP : 「そう、過<b:8a3a>面で<b:8a3b>られるように / アークハイムは / 失われた、過<b:8a3a>の場なのです<b:8a3c>の<b:8a3d>エリザは / <b:8a3e><8a0e>を<b:8a3f>ったスレイハイム解放<b:8a40>を / ひどく<b:8a41>んでいました
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I use the past tense because Archheim is a city of the past. A lost city.
+  RE : I use the past tense because
+       Archheim is a city of the past. A
+       lost city.
+
+[US#4457]
+  JP : 「ですが、数<b:8a42>き<b:8a3d>に / 何ができるものではなく / やがて、この地より<b:8a43>を消したのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But she was just a young girl unable to act on her anger. At some point, she disappeared.
+  RE : But she was just a young girl
+       unable to act on her anger. At some
+       point, she disappeared.
+
+[US#4458]
+  JP : 「生きていれば / <b:8a44>しく成長しているはず / 今は、どこで何をしているのか〜<b:8a45><b:8a46>、ヴィクトリア<b:8a3c>は / <b:8a47><b:8a48><8a1e>であるにもかかわらず / 解放<b:8a40>によって<b:8a49><898e>されたのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If she still lives, she must be a beautiful, full-grown woman by now. I wonder what she's doing now.
+  RE : If she still lives, she must be a
+       beautiful, full-grown woman by now.
+       I wonder what she's doing now.
+
+[US#4459]
+  JP : 「残されたひとり<b:8a3d>のエリザ<b:8a4a>は / 解放<b:8a40>に強い<b:8a41>みを / いだいていたといいますが〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Only the daughter, Eliza, survived. She harbored a fierce hatred for the Liberation Army.
+  RE : Only the daughter, Eliza, survived.
+       She harbored a fierce hatred for
+       the Liberation Army.
+
+[US#4460]
+  JP : 「街戦の<8865>後、解放<b:8a40>も<b:8a4b>解してしまい / エリザ<b:8a4a>の<b:8a41>みははらせぬまま / 今にいたっているのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : After the civil war, the Liberation Army disbanded, and Eliza lost her chance to get revenge.
+  RE : After the civil war, the Liberation
+       Army disbanded, and Eliza lost her
+       chance to get revenge.
+
+[US#4461]
+  JP : 「そう〜 / あなたたちのようにね
+  LIT: Yes... just like all of you.
+  EN : Just like you fought back, right?
+  RE : Just like you fought back, right?
+
+[US#4462]
+  JP : 「だからこそ / ここからの動きが / <889c>ろしいのよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Who knows what they'll do. It's frightening just to think of it.
+  RE : Who knows what they'll do. It's
+       frightening just to think of it.
+
+[US#4463]
+  JP : 「大<b:8a4c>でやってきて / <b:8a4d><b:8a4e>とか食料とかを調達していたのは / あなたと、その<b:8a4f>間だったわよね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A big group came here to buy food and weapons. They were part of your team, right?
+  RE : A big group came here to buy food
+       and weapons. They were part of your
+       team, right?
+
+[US#4464]
+  JP : 「大<886f>の物<b:8a50>をかき<8880>めて / 先の<88db>の道に向かっていったそうじゃない / あれがウワサのオデッサかしら？<b:8a62>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They bought whatever they could get their hands on, then headed for the southern desert. Was that Odessa?
+  RE : They bought whatever they could get
+       their hands on, then headed for the
+       southern desert. Was that Odessa?
+
+[US#4465]
+  JP : 「この<b:8a51>変地異も、そう〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Just like this strange phenomenon.
+  RE : Just like this strange phenomenon.
+
+[US#4466]
+  JP : 「ファルガイアに生きる全<b:8a52>に / ふりかかる脅威だから / ウワサを聞いてもおもしろくなんかないわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : This threat affects everyone in Filgaia. It's taken all the fun out of gossiping.
+  RE : This threat affects everyone in
+       Filgaia. It's taken all the fun out
+       of gossiping.
+
+[US#4467]
+  JP : 「たしかに不安はあるけど / 新<8865>言って、<b:8a53>れはないの
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm a little nervous, but to be honest, I'm not afraid.
+  RE : I'm a little nervous, but to be
+       honest, I'm not afraid.
+
+[US#4468]
+  JP : 「あまりにも / <896a>世<b:8a54>な出<b:8a55>事ばかりだから / どこか信信がマヒしているのかも〜<b:8a56><b:8a57>の<b:8a58>方だった<b:8a45><b:8a46>まで / まとめて<b:8a49><898e>されたってハナシじゃない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's as if my senses have been numbed by the strangeness of what's happening.
+  RE : It's as if my senses have been
+       numbed by the strangeness of what's
+       happening.
+
+[US#4469]
+  JP : 「スレイハイム解放戦役っていうと / 何だかカッコイイけれど / いろいろと<888c>いウワサは<b:8a59>えないわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The Slayheim Liberation Army may seem like heroes, but they have a lot of dark secrets.
+  RE : The Slayheim Liberation Army may
+       seem like heroes, but they have a
+       lot of dark secrets.
+
+[US#4470]
+  JP : 「そうよね / どんなに取り<b:8a5a>っても / 戦<b:8a5b>は戦<b:8a5b>だもの<b:8a5c>合して / <b:8a5d>の<89af><b:8a5e>で<b:8a5f>ってしまっても / ５数前の<b:8a60><b:8a61>は消えないものよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : War is war, no matter how lofty some people may try to make it seem.
+  RE : War is war, no matter how lofty
+       some people may try to make it
+       seem.
+
+[US#4471]
+  JP : 「人が生きている<b:8a62>り / ウワサは口の<b:8a63>にのぼるもんだからね<b:8a64><b:8a65>のために役立てたい / ３．ウワサならアテにならない[1a]が<b:8a5d>にのまれた<89af><b:8a5e>に / かつてのスレイハイムの<b:8a66> / アークハイム
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's because people will always gossip about what happened.
+  RE : That's because people will always
+       gossip about what happened.
+
+[US#4472]
+  JP : 「今となっては / <b:8a67>かばれない<b:8a68>がさまよう / 死者の場となっているとか〜<b:8a5d>の鍵が見えてくるわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They say it's a town of the dead, inhabited by tormented souls that can't rest.
+  RE : They say it's a town of the dead,
+       inhabited by tormented souls that
+       can't rest.
+
+[US#4473]
+  JP : 「そこは、スレイハイムの<89fb><b:8a66> / アークハイムがあった場所なのよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's where Archheim, capital of Slayheim, used to be.
+  RE : That's where Archheim, capital of
+       Slayheim, used to be.
+
+[US#4474]
+  JP : 「アークハイムには / ライブリフレクターが備えられていて / それを中心に<b:8a69>えていたの
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Archheim once prospered because of the Live Reflector there.
+  RE : Archheim once prospered because of
+       the Live Reflector there.
+
+[US#4475]
+  JP : 「でも、５数前の街戦で / かつての<b:8a69><b:8a6a>も人の命も / 全部、<b:8a5d>にのまれてしまったけどね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But in the civil war 5 years ago, the city's splendor and life was engulfed in a sea of salt.
+  RE : But in the civil war 5 years ago,
+       the city's splendor and life was
+       engulfed in a sea of salt.
+
+[US#4476]
+  JP : 「今や、アークハイムの<b:8a6b>人は / <b:8a67>かばれない亡者ばかりと聞いてるわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The area is haunted by the ghosts of the people of Archheim, they say.
+  RE : The area is haunted by the ghosts
+       of the people of Archheim, they
+       say.
+
+[US#4477]
+  JP : 「これでも持っていって / 彼らの<b:8a4f>間にならないように / 気をつけなさいよ<b:8a6c>実は<b:8a6d>まれているものよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You'd better take this so that you don't end up as one of them.
+  RE : You'd better take this so that you
+       don't end up as one of them.
+
+[US#4478]
+  JP : 「ようするに、見<b:8a6e>めるための / <8942><898e>力が大事ってことね<b:8a56><b:8a57>の<b:8a58>方だった<b:8a45><b:8a46>まで / まとめて<b:8a49><898e>されたってハナシじゃない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What's important is the wisdom to see the truth in any rumor.
+  RE : What's important is the wisdom to
+       see the truth in any rumor.
+
+[US#4479]
+  JP : 「スレイハイム解放戦役っていうと / 何だかカッコイイけれど / いろいろと<888c>いウワサは<b:8a59>えないわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The Slayheim Liberation Army may seem like heroes, but they have a lot of dark secrets.
+  RE : The Slayheim Liberation Army may
+       seem like heroes, but they have a
+       lot of dark secrets.
+
+[US#4480]
+  JP : 「そうよね / どんなに取り<b:8a5a>っても / 戦<b:8a5b>は戦<b:8a5b>だもの<b:8a6f>きというだけで / まゆをひそめる人もいるけれど / これは私なりの情報<8939><8880>なのよ<b:8a70>るものではないものね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : War is war, no matter how lofty some people may try to make it seem.
+  RE : War is war, no matter how lofty
+       some people may try to make it
+       seem.
+
+[US#4481]
+  JP : 「ちょっと / 気になることがあるのよね
+  LIT: There's something that's been nagging at me.
+  EN : but there's something that's been bothering me.
+  RE : but there's something that's been
+       bothering me.
+
+[US#4482]
+  JP : 「どうしてあんたたちの行くところ / 相であるオデッサが / 必ず現われるのかしら？
+  LIT: Why is it that Odessa, your enemy, always turns up wherever you go? (相->敵)
+  EN : Have you noticed that wherever you go, your foes, Odessa, always appear there, too?
+  RE : Have you noticed that wherever you
+       go, your foes, Odessa, always
+       appear there, too?
+
+[US#4483]
+  JP : 「もしかして / あんたたちの情報が / 向こうに<b:8a71>抜けなんじゃないの？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Could it be that information about what you're doing is being leaked to Odessa?
+  RE : Could it be that information about
+       what you're doing is being leaked
+       to Odessa?
+
+[US#4484]
+  JP : 「なのに、行く先々で / オデッサに出くわすなんて / 不思議な話だとは思わない？
+  LIT: And yet you run into Odessa everywhere you go; don't you find that strange?
+  EN : So how is it that wherever you go, Odessa always seems to be waiting there for you?
+  RE : So how is it that wherever you go,
+       Odessa always seems to be waiting
+       there for you?
+
+[US#4485]
+  JP : 「そうよッ！ / スパイよ、<b:8a72><8804>者、街通者よッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There must be a spy in your midst!
+  RE : There must be a spy in your midst!
+
+[US#4486]
+  JP : 「きっとそういうのが / いるに違わないわッ！
+  LIT: There's got to be something like that! I'm sure of it! (違わない->違いない)
+  EN : There just HAS to be! I'm sure of it!
+  RE : There just HAS to be! I'm sure of
+       it!
+
+[US#4487]
+  JP : 「気をつけてごらんなさい / ホラ、心当たりが / あるんじゃないかしら〜<b:8a64>時にあっては<88f6><889b>なのかもしれません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You must have some idea of who it could be...
+  RE : You must have some idea of who it
+       could be...
+
+[US#4488]
+  JP : 「それも大きな<88f6><889b>〜 / <b:8a73><889b>、<b:8a73><b:8a74>と呼ばれるような / <88bf>大な力が、あるいは〜<b:8a75>げとなっていた / 大地の<b:8a76><b:8a77>、ビッグバレー〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Or it could be a large-scale disaster, something with massive powers. Or...
+  RE : Or it could be a large-scale
+       disaster, something with massive
+       powers. Or...
+
+[US#4489]
+  JP : 「ですが、大地が<88ad>全に<b:8a5d>にのまれるのを / <8988>止してくれたのも事実なのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But it did stop the land from being completely engulfed in salt.
+  RE : But it did stop the land from being
+       completely engulfed in salt.
+
+[US#4490]
+  JP : 「世の中、いったい何が / うまく作用するのかわからないものです<b:8a78>てるのでしょう？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You never know how something is going to benefit you.
+  RE : You never know how something is
+       going to benefit you.
+
+[US#4491]
+  JP : 「ここはかつて / 大地を失った世界〜 / 今さら<8845>きはしませんよ<b:8a5e>[11]ぉにて / <b:8a5d>にのみこまれた場を発見しても / そこには近づかない方がいいですよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : This planet has already been ruined. There's nothing to be so surprised about now.
+  RE : This planet has already been
+       ruined. There's nothing to be so
+       surprised about now.
+
+[US#4492]
+  JP : 「その<b:8a79><b:8a66>の名はアークハイム〜 / スレイハイム<b:8a7a>の中心ともいえる / 大きな場の亡<b:8a7b>です<b:8a7c>次の遺<b:8a7d>が / 年多く<89bb>っているそうです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It is what's left of Archheim, heart of the former Slayheim Kingdom.
+  RE : It is what's left of Archheim,
+       heart of the former Slayheim
+       Kingdom.
+
+[US#4493]
+  JP : 「渡り左たちが / 一<b:8a7e><b:8a7f>金を<b:8a80>見ているそうですが / さて、うまくいくのでしょうか？<b:8a5d>に<b:8a5f>われた<89af><b:8a5e>が<89da>がっています
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The Mercs are convinced they'll strike it rich there, but I have my doubts.
+  RE : The Mercs are convinced they'll
+       strike it rich there, but I have my
+       doubts.
+
+[US#4494]
+  JP : 「その<b:8a5d>の辺には / かつて、スレイハイムと呼ばれた / <b:8a40>事大<b:8a7a>があったのです〜<b:8a76><b:8a77>、ビッグバレーにかけられた / 谷の<89ec>の上にできた場なんですよ<b:8a81><b:8a82>を呼び / <b:8a60>しみを<b:
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Buried in the sand are the remains of the former military superpower of Slayheim.
+  RE : Buried in the sand are the remains
+       of the former military superpower
+       of Slayheim.
+
+[US#4495]
+  JP : 「だけど、<89b9>い心ゆえに / 手を取り合い<b:8a84>力していくすべを / 知っているものなのかもしれない<b:8a85>に対して / <b:8a86><b:8a7a>一<88a8>で<88cc>撃にあたったらしいな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But the weak-hearted may also be more willing to turn to others and join hands with them for help.
+  RE : But the weak-hearted may also be
+       more willing to turn to others and
+       join hands with them for help.
+
+[US#4496]
+  JP : 「以前では考えられなかったことだ / <b:8a7a>と<b:8a7a>、人と人とが / 手を取り合っていくなんて…<b:8a81>う心ってのは / どんなに小さな一帯でも / <b:8a38>々に<89da>がって、心を<b:8a87>んでいく
+  LIT: (literal pending: JP has unsolved codes)
+  EN : This would have been unthinkable in the past. But today, nations are joining in unity.
+  RE : This would have been unthinkable in
+       the past. But today, nations are
+       joining in unity.
+
+[US#4497]
+  JP : 「最後には / この空のようになっちまうものさ<b:8a81>われるようなことが / あったんじゃないのか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : In the end, the heart is devoured, just as the sky was.
+  RE : In the end, the heart is devoured,
+       just as the sky was.
+
+[US#4498]
+  JP : 「あんたも本当に<b:8a4f>間を信じているなら / <b:8a81>いを<b:8a88>らす方法だって / あったと僕は思うぜ<b:8a4f>間を<b:8a81>わせてしまったかもな / 〜悪かったと思ってる<b:8a81>うってのは / それだけ心が<89b9>いからさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If you truly believed in your friend, you could have found a way to disprove your suspicions.
+  RE : If you truly believed in your
+       friend, you could have found a way
+       to disprove your suspicions.
+
+[US#4499]
+  JP : 「でもよ、<89b9>さを<89b8><b:8a89>も持っていない / <88ad><b:8a8a>な心を持っているヤツは / 人間として、どこか欠けているに違いない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But then, someone with no weaknesses at all would be flawed as a human being.
+  RE : But then, someone with no
+       weaknesses at all would be flawed
+       as a human being.
+
+[US#4500]
+  JP : 「そう、思わないか？
+  LIT: Don't you think so?
+  EN : Don't you think so?
+  RE : Don't you think so?
+
+[US#4501]
+  JP : 「あんた、あやしい連中とつるんで / 近頃この場に出<b:8a8b>しているよな？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You were with that shady-looking bunch that came to town!
+  RE : You were with that shady-looking
+       bunch that came to town!
+
+[US#4502]
+  JP : 「あんた、まさか / テロリスト・オデッサに / <b:8a8c>しているんじゃないだろうな<b:8a4f>間の誰とは言わないけど / <b:8a4d><b:8a8d>した一<897d>といっしょに行動しているのを / 僕は確かに見たんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You aren't part of that terrorist group, Odessa, are you?
+  RE : You aren't part of that terrorist
+       group, Odessa, are you?
+
+[US#4503]
+  JP : 「見間違いなんかじゃないッ！
+  LIT: I'm not seeing things!
+  EN : And, no, I'm not mistaken!
+  RE : And, no, I'm not mistaken!
+
+[US#4504]
+  JP : 「悪いことは言わない / あんたらの中に<b:8a8e>切り者がいる / 気をつけたほうがいい<b:8a8f>地の人間が / スレイハイム解放戦役を生き抜けたのは / 誰もが手を取り、あきらめなかったからだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I won't say who, but I'm sure there is a traitor in your group. Be careful.
+  RE : I won't say who, but I'm sure there
+       is a traitor in your group. Be
+       careful.
+
+[US#4505]
+  JP : 「もしも、ファルガイア中の人間が / 同方に手を取り、あきらめなかったとすれば / この異世事態、切り抜けられるのかもな<b:8a90>作の危機〜 / <894f>げる場所なんて、どこにもない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If the people of Filgaia would pull together like that, we could make it through this peril.
+  RE : If the people of Filgaia would pull
+       together like that, we could make
+       it through this peril.
+
+[US#4506]
+  JP : 「だからといって / すべてを<88ab>げ出すつもりはない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But that doesn't mean we should just give up.
+  RE : But that doesn't mean we should
+       just give up.
+
+[US#4507]
+  JP : 「私たち、スレイハイムの<b:8a56>は / かつて<b:8a59><b:8a91>を<b:8a92>り<b:8a93>えてきたんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The people of Slayheim have beat the odds before.
+  RE : The people of Slayheim have beat
+       the odds before.
+
+[US#4508]
+  JP : 「今度も右け止めてみせるだけだ
+  LIT: This time too, I'll just have to hold it back. (右け->受け止める)
+  EN : And we can do it again.
+  RE : And we can do it again.
+
+[US#4509]
+  JP : 「だが、空を失うといった / <b:8a94>無的な<b:8a73><889b>に対して / どこまで<b:8a95>えるのだろうか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But how long can we stand up to something that devours the sky itself?
+  RE : But how long can we stand up to
+       something that devours the sky
+       itself?
+
+[US#4510]
+  JP : 「私には / わかりかねるな<b:8a96><b:8a97>〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I don't know the answer to that one.
+  RE : I don't know the answer to that
+       one.
+
+[US#4511]
+  JP : 「ヴィンスフェルトは / スレイハイム<b:8a7a>と / 取り招きを<88fa>わそうとしたという
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Vinsfeld made a deal with Slayheim, they say.
+  RE : Vinsfeld made a deal with Slayheim,
+       they say.
+
+[US#4512]
+  JP : 「レジスタンス<b:8a98>動の<8996>止と招き<88fb>えに / <b:8a99>と<88b2>力をつかもうと / <b:8a9a><88ce>したそうだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : In exchange for shutting down the resistance, he schemed to acquire wealth and power.
+  RE : In exchange for shutting down the
+       resistance, he schemed to acquire
+       wealth and power.
+
+[US#4513]
+  JP : 「そんなつもりのために / 解放<b:8a40>に<b:8a9b><b:8a9c>した<b:8a56><b:8a57>たちは / 命を<b:8a9d>したわけではない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But that wasn't what the people who joined the Liberation Army were risking their lives for.
+  RE : But that wasn't what the people who
+       joined the Liberation Army were
+       risking their lives for.
+
+[US#4514]
+  JP : 「当<8844>、大きく反発され / その時を<b:8a9e>にヴィンスフェルトの<b:8a9f>持は / 辺降<b:8aa0>の一<b:8aa1>をたどったらしい
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Naturally, there was a great backlash, and support for Vinsfeld plummeted.
+  RE : Naturally, there was a great
+       backlash, and support for Vinsfeld
+       plummeted.
+
+[US#4515]
+  JP : 「その時の確<b:8aa2>が / 後に解放<b:8a40>を<b:8aa3>り渡すなどという / <b:8aa4><b:8a86>につながったんだろうな<b:8a40>といえば / あの街戦の立役者〜 / <b:8a6a>々しいイメージがつきものだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That backlash must have been what drove Vinsfeld to sell out the Liberation Army.
+  RE : That backlash must have been what
+       drove Vinsfeld to sell out the
+       Liberation Army.
+
+[US#4516]
+  JP : 「だが、その最後は / あまりにも<b:8a60><b:8aa5>であったと
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But what happened to them after the war was tragic.
+  RE : But what happened to them after the
+       war was tragic.
+
+[US#4517]
+  JP : 「リーダーのヴィンスフェルトは / 私的な目<b:8aa6>見のために解放<b:8a40>を利用しようと / たくらんでいたというではないか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Their leader, Vinsfeld, sought to use the Liberation Army for his own personal gain, some say.
+  RE : Their leader, Vinsfeld, sought to
+       use the Liberation Army for his own
+       personal gain, some say.
+
+[US#4518]
+  JP : 「それどころか / 戦後、戦犯として自身の立場が危うくなると / 保身のために解放<b:8a40>を<b:8aa3>ったとも〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Some say he sold out the Liberation Army to avoid being condemned as a war criminal along with the rest.
+  RE : Some say he sold out the Liberation
+       Army to avoid being condemned as a
+       war criminal along with the rest.
+
+[US#4519]
+  JP : 「<b:8a3b>られる事実と / <b:8a3b>られない<b:8a6c>実〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Who knows what Vinsfeld really did, or why he did it.
+  RE : Who knows what Vinsfeld really did,
+       or why he did it.
+
+[US#4520]
+  JP : 「スレイハイムの戦いもまた / <8844>りなのだ〜<b:8a60><b:8a61>の / 終結だったのだろうか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The same goes for the Slayheim Liberation War.
+  RE : The same goes for the Slayheim
+       Liberation War.
+
+[US#4521]
+  JP : 「スレイハイムの<b:8a7a><b:8aa7>に異を<b:8aa8>えていた / <b:8a47><b:8a48><8a1e><b:8a45><b:8a46>ヴィクトリア<b:8a3c>は / <89fb>に連なるものとして<b:8a49><898e>されたという
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The Victorias were moderates, but were executed on the grounds they collaborated with the king.
+  RE : The Victorias were moderates, but
+       were executed on the grounds they
+       collaborated with the king.
+
+[US#4522]
+  JP : 「当<b:8aa9>は<898e><b:8aaa><b:8aab>の<b:8aac>と消え / 数<b:8a42>いひとり<b:8a3d>は解放<b:8a40>を<b:8aad>みながら / 行方をくらませたと聞いている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Only one escaped the guillotine, a young daughter who fled filled with hatred for the Liberation Army.
+  RE : Only one escaped the guillotine, a
+       young daughter who fled filled with
+       hatred for the Liberation Army.
+
+[US#4523]
+  JP : 「<b:8a60>しみは / <b:8a60>しみを呼ぶと言うが / まさにその言葉通りだと思わないか？<b:8a89>に隠された / <88bf>大建<b:8aae>物があるとのウワサだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Sadness begets sadness, they say. That's just what happened, don't you think?
+  RE : Sadness begets sadness, they say.
+       That's just what happened, don't
+       you think?
+
+[US#4524]
+  JP : 「あやしい一<897d>がこの場から / 大<886f>の物<b:8a50>を<b:8aaf>出していたとの話と / 何か関係あるのかもしれぬ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That may have something to do with that shady group that bought up all those supplies in town.
+  RE : That may have something to do with
+       that shady group that bought up all
+       those supplies in town.
+
+[US#4525]
+  JP : 「もしや、あの一<897d>こそが / <b:8ab0>を発がすオデッサなる<b:8ab1>だろうか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Maybe they were the ones everyone's making such a fuss about -- Odessa!
+  RE : Maybe they were the ones everyone's
+       making such a fuss about, Odessa!
+
+[US#4526]
+  JP : 「そうだ、先の<88db>の道に物<b:8a50>を運んでいた / あの連中の<b:8a4f>間だろ？ / その<b:8ab2>い目、忘れはしないぞ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You're with the group that took supplies into the desert, right? I remember your sharp eyes.
+  RE : You're with the group that took
+       supplies into the desert, right? I
+       remember your sharp eyes.
+
+[US#4527]
+  JP : 「だが、今回はなぜ / 連中と行動を<b:8ab3>にしていないのだ<b:8ab4>いるヴィンスフェルトなる悪<b:8ab5> / あいつは元・スレイハイム解放<b:8a40>の / リーダーであったという
+  LIT: (literal pending: JP has unsolved codes)
+  EN : So how come you're not with them today?
+  RE : So how come you're not with them
+       today?
+
+[US#4528]
+  JP : 「ならば、行き場を失った / スレイハイム解放<b:8a40>の残<b:8ab6>が / オデッサなのだろうか？<b:8ab7>の<b:8ab8>は / <8a10><b:8ab9>させてもらいたいものだよ<b:8aba><b:8abb>』のような / 存在の人間がでてきてさ / さっさと空を元に戻
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Maybe Odessa is just a bunch of Liberation Army troops who were down on their luck after the war.
+  RE : Maybe Odessa is just a bunch of
+       Liberation Army troops who were
+       down on their luck after the war.
+
+[US#4529]
+  JP : 「<f040><f041><f042>ん？ / お<b:8abc>さん、<889c>い探してどうしたんだい？ / あぁ、元からだったかねぇ<b:8aba><b:8abb>』のような / 存在の人間がでてきてさ / さっさと空を元に戻してくれないかねぇ<b:8aba><b:8abb>』が / 必要なん
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Why such a stern look, young man? Did I offend you? What? That's how you normally look? Oh...
+  RE : Why such a stern look, young man?
+       Did I offend you? What? That's how
+       you normally look? Oh...
+
+[US#4530]
+  JP : 「まぁ、<b:8aba><b:8abb>話に<b:8abd><b:8abe>はつきものだけど / でも世人では考えられないほどの / 戦<b:8abf>をあげたに違いないわ<b:8aba><b:8abb>の名前は知ってるけど / 実<89d2>には見たことないのよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : People exaggerate, but I'm still sure his exploits are beyond what the average person can do.
+  RE : People exaggerate, but I'm still
+       sure his exploits are beyond what
+       the average person can do.
+
+[US#4531]
+  JP : 「<b:8aba><b:8abb>なんて / 得てしてそんなものなのかねぇ / 一度くらいは見たかった気がするね<b:8ac0><b:8ac1> / そういったものが必要なのかねぇ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Maybe that's how it is with heroes, but I still wish I could have seen him just once.
+  RE : Maybe that's how it is with heroes,
+       but I still wish I could have seen
+       him just once.
+
+[US#4532]
+  JP : 「スレイハイムの解放<b:8a40>の<b:8ac0><b:8ac1>は / [05]おとかいう / <b:8aba><b:8abb>だったっていう話しだけどね<b:8a40>には[05]おっていう / <b:8aba><b:8abb>がいたらしいけど〜〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The Slayheim Liberation Army had some hero named 1 as its symbol, right?
+  RE : The Slayheim Liberation Army had
+       some hero named as its symbol,
+       right?
+
+[US#4533]
+  JP : 「戦<b:8a5b>って、一人の<b:8aba><b:8abb>の力で / どうにかなるものなのかしらねぇ / 話しが<b:8abd><b:8abe>されてるんじゃないのかい？<b:8a40>にとっては / <b:8a60>しい<b:8ac2>利でしかないだろうね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : One person can't change the course of a war, right? Isn't is strange how things get exaggerated?
+  RE : One person can't change the course
+       of a war, right? Isn't is strange
+       how things get exaggerated?
+
+[US#4534]
+  JP : 「なんのために戦い / なんのために死んでいったのか / 無<b:8ac3>に命を<b:8ac4>らしただけじゃない<b:8a5d>となったスレイハイム / それを見るたびに / 人の<b:8ac5>かさを信じてしまうねぇ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What did they fight for? What did they die for? They died in vain, if you ask me.
+  RE : What did they fight for? What did
+       they die for? They died in vain, if
+       you ask me.
+
+[US#4535]
+  JP : 「なんであそこまで / しなきゃならいのかねぇ / 本当に、<b:8ac5>かしいことだね<b:8ac6>う<b:8ac6>う<b:8a7c><b:8ac6>わない<b:8aba><b:8abb>の出現を / 待っているだけの<b:8ac7><888e>なんて / もう無いのかもしれない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Why did things have to go that far? How foolish people are.
+  RE : Why did things have to go that far?
+       How foolish people are.
+
+[US#4536]
+  JP : 「だとすれば / <b:8aba><b:8abb>ではない僕たちができることを / 今回にでも見つけなければならないな<b:8aba><b:8abb>の<b:8ac8><b:8a55>を<b:8a91>んでいるとしたら / それは<b:8a66>合のいい考えではないだろうか？<b:8a53>れを<b
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We have to figure out what we ordinary people can do right now.
+  RE : We have to figure out what we
+       ordinary people can do right now.
+
+[US#4537]
+  JP : 「だが、どこか<8886><b:8abe>信が / 欠けているようにも思われるのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But people don't seem to be worried to the point of taking action.
+  RE : But people don't seem to be worried
+       to the point of taking action.
+
+[US#4538]
+  JP : 「５数前の街戦のように / 誰もが<b:8aba><b:8abb>の出現を / <b:8a91>んでいるのではなかろうか<b:8aca><b:8abf>は / 特り知れないだろう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Maybe they're all waiting for a hero to appear, like during the civil war 5 years ago.
+  RE : Maybe they're all waiting for a
+       hero to appear, like during the
+       civil war 5 years ago.
+
+[US#4539]
+  JP : 「だが、<b:8a6c>に[05]おを / <b:8aba><b:8abb>と呼ばしめる理由は / そこではないのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But that's not the real reason he deserves to be called a hero.
+  RE : But that's not the real reason he
+       deserves to be called a hero.
+
+[US#4540]
+  JP : 「あの<b:8acb><b:8acc><b:8ab5>によって<b:8aa3>られた解放<b:8a40>同<b:8acd>を / <b:8ace>が身を<b:8acf><b:8ad0>にして<b:8ad1>り抜いたところこそ / 彼を<b:8aba><b:8abb>たらしめているのだ<b:8a96>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He is a hero because he sacrificed himself to protect his war buddies after they were sold out.
+  RE : He is a hero because he sacrificed
+       himself to protect his war buddies
+       after they were sold out.
+
+[US#4541]
+  JP : 「でも、彼は、<b:8ac8>び<b:8a43>を現わすと / 追跡部隊から同<b:8acd>の目をそらすため / <b:8ad2>の役をかって出たんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But he reappeared and used himself as bait to save a group of his comrades from their pursuers.
+  RE : But he reappeared and used himself
+       as bait to save a group of his
+       comrades from their pursuers.
+
+[US#4542]
+  JP : 「<b:8aba><b:8abb>の名前には<b:8ad3><8875>があるから / 追っ手はこぞって / [05]おをねらったという
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Naturally, the pursuers went after 1 because they thought a |hero| would be more valuable.
+  RE : Naturally, the pursuers went after
+       because they thought a |hero| would
+       be more valuable.
+
+[US#4543]
+  JP : 「彼のおかげで / 元解放<b:8a40>に<b:8a9b><b:8a9c>した<b:8a56><b:8a57>は / 追跡部隊から<894f>れることができたんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He gave the ex-soldiers who were being chased a chance to escape. They were just peasants, you know.
+  RE : He gave the ex-soldiers who were
+       being chased a chance to escape.
+       They were just peasants, you know.
+
+[US#4544]
+  JP : 「この僕も / <b:8aba><b:8abb>[05]おに<8832>われた / 元スレイハイム解放<b:8a40>なんだよ〜<b:8a50>を / <88db>の道に向かって<b:8aaf>出していったな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm one of those former Slayheim Liberation Army soldiers who was saved by 1 the Hero.
+  RE : I'm one of those former Slayheim
+       Liberation Army soldiers who was
+       saved by the Hero.
+
+[US#4545]
+  JP : 「僕たちも<b:8ad4>われて / 連中を手伝っていたから / まちがいはない〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I know... because they hired us to help them carry all that stuff.
+  RE : I know... because they hired us to
+       help them carry all that stuff.
+
+[US#4546]
+  JP : 「そのことを話すのは<8968>わないが / 悪い〜 / いくらか<b:8a66>合してもらえないだろうか〜？[18]が<b:8ad5>重のギャラを / 持っていないようだが？<b:8a89>の向こうに / その、<88bf>大なプラントはあった
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I can tell you more, but... I hate to ask you for money, but it would really help me out.3
+  RE : I can tell you more, but... I hate
+       to ask you for money, but it would
+       really help me out.3
+
+[US#4547]
+  JP : 「僕たちは、そのプラントに / <b:8a4d><b:8a4e>や食料を<b:8aaf>出しに行ったんだが〜<b:8ad5>重のギャラを / 持っていないようだが？<b:8a89>の向こうに / その、<88bf>大なプラントはあった
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We were hired to haul weapons and food to that plant.
+  RE : We were hired to haul weapons and
+       food to that plant.
+
+[US#4548]
+  JP : 「僕たちは、そのプラントに / <b:8a4d><b:8a4e>や食料を<b:8aaf>出しに行ったんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We were hired to haul weapons and food to that plant.
+  RE : We were hired to haul weapons and
+       food to that plant.
+
+[US#4549]
+  JP : 「そこでは / 大<886f>の物<b:8a50>を調達して / <b:8ad6><b:8a72><b:8a8e>な特<b:8a9a>をすすめていたようだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They brought in massive amounts of supplies for some secret plan that's underway there.
+  RE : They brought in massive amounts of
+       supplies for some secret plan
+       that's underway there.
+
+[US#4550]
+  JP : 「<89f5>には、<8999>陸<b:8ad7>を<8996>められる / 海岸もあったから / 道<89ca>からの物<b:8a50>の<b:8aaf>入もあったんだろう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I saw a barge anchored at the shore nearby, so they must have brought their supplies in by sea, as well.
+  RE : I saw a barge anchored at the shore
+       nearby, so they must have brought
+       their supplies in by sea, as well.
+
+[US#4551]
+  JP : 「だが、あの回は / それだけではなかったのだ〜
+  LIT: But on that day, that wasn't all that happened. (回->日)
+  EN : But that's not all. Something else happened there that day.
+  RE : But that's not all. Something else
+       happened there that day.
+
+[US#4552]
+  JP : 「作<b:8ad8>が終ると / 連中は僕たちに向かって / <b:8ad9>を撃ってきたんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : When we finished bringing in the cargo we were carrying, the pigs started shooting at us!
+  RE : When we finished bringing in the
+       cargo we were carrying, the pigs
+       started shooting at us!
+
+[US#4553]
+  JP : 「僕は命からがら<894f>げのびたが / 他の<b:8a4f>間はみんな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I managed to escape with my life, but none of the others did.
+  RE : I managed to escape with my life,
+       but none of the others did.
+
+[US#4554]
+  JP : 「くそッ、ヤツら / いったい何だったんだッ！<b:8a4f>間の<b:8ada>を建てるため / ギャラが必要なんだがな<b:8a40>の<b:8aba><b:8abb> / [05]お・エヴァンスといえば / 誰でも知っている名前だ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Damn them! Just who the hell are those guys, anyway?!
+  RE : Damn them! Just who the hell are
+       those guys, anyway?!
+
+[US#4555]
+  JP : 「だが、あの戦役の中 / <b:8adb><b:8a6c>も近しい者も失われてしまい / その探を知る者は誰もいない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But everyone who knew him died in the war, so no one knows his face. Not even a single photo survives.
+  RE : But everyone who knew him died in
+       the war, so no one knows his face.
+       Not even a single photo survives.
+
+[US#4556]
+  JP : 「そのあたりが / 彼の<b:8aba><b:8abb>合、伝説合に / <b:8adc><89dd>をかけているのじゃないのか？<b:8add><b:8aae><b:8ade><b:8add><b:8aae>するんだい？<b:8add><b:8aae>するんだい？<b:8add><b:8aae>す
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm sure that's part of the reason everyone wants to make him into some sort of legend.
+  RE : I'm sure that's part of the reason
+       everyone wants to make him into
+       some sort of legend.
+
+[US#4557]
+  JP : 「あんたらが<b:8ae5><b:8ae6>されたのは / <b:8ae7><8844>なのか〜？ / それとも〜<b:8a41>念<f040><f042> / <b:8a85>の脅威を何とか回<b:8ae8>できたのも / あんたらＡＲＭＳのおかげだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Do you think it was just a coincidence? Or something else?
+  RE : Do you think it was just a
+       coincidence? Or something else?
+
+[US#4558]
+  JP : 「こんなにキケンが目<b:8ae9><b:8aea>しの時代に / ホント、タイミングよく / ＡＲＭＳが結成されていてよかったよ〜<b:8a3a>ったと思ったら / 今度は<89af><89b0>不次の<b:8a51>変地異〜 / どうなっているんだファルガイアは〜？<b:8a49>方法はあるさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ARMS sure was formed just in time to save us from the dangers of these turbulent times.
+  RE : ARMS sure was formed just in time
+       to save us from the dangers of
+       these turbulent times.
+
+[US#4559]
+  JP : 「そう、まずは / <b:8aeb>動するためのエネルギー<8869>を<898e>つッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We have to cut off their energy supply!
+  RE : We have to cut off their energy
+       supply!
+
+[US#4560]
+  JP : 「デカブツほど / よくメシを食うはずだ / あとは動けなくなるのを待てばいい
+  LIT: The bigger they are, the more they eat; after that, just wait for them to seize up.
+  EN : The bigger the plan, the more energy they need. Cut off their energy, and Odessa's helpless.
+  RE : The bigger the plan, the more
+       energy they need. Cut off their
+       energy, and Odessa's helpless.
+
+[US#4561]
+  JP : 「これでどうかな？<b:8aec>くには / メシを食わなきゃやってられん
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What do you think?
+  RE : What do you think?
+
+[US#4562]
+  JP : 「機艇だってそう / <b:8aed>料入れてやらなければ / 動いてくれないよな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : And any kind of machinery needs fuel or some sort of energy in order to operate.
+  RE : And any kind of machinery needs
+       fuel or some sort of energy in
+       order to operate.
+
+[US#4563]
+  JP : 「オデッサだって<b:8ae5><b:8ae6>である以上 / やっぱり『<b:8a50>金』てエネルギーが / 必要なんだよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : An organization like Odessa needs another kind of energy to operate: Money. Cash.
+  RE : An organization like Odessa needs
+       another kind of energy to operate:
+       Money. Cash.
+
+[US#4564]
+  JP : 「いったい、どこから調達しているんだろう〜<b:8a96><b:8a63><8968>成<b:8a52>って / イルズベイル<8917><8963>他から脱<8963>した / <b:8aee>悪犯<b:8aef>者連中らしいじゃないか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Where is that money coming from?
+  RE : Where is that money coming from?
+
+[US#4565]
+  JP : 「そんなヤツらに / 世界が<b:8af0><b:8a5f>させられちゃ / いったいどうなるんだッ！<b:8af1>は / 元解放<b:8a40>リーダー / ヴィンスフェルトなんだろ？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : How can we let a bunch of criminals run rampant like that? Has the world gone insane?
+  RE : How can we let a bunch of criminals
+       run rampant like that? Has the
+       world gone insane?
+
+[US#4566]
+  JP : 「信じたくはないけど / 元スレイハイム解放<b:8a40>が / 今回の発動に関係しているなんてことは〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I hope I'm wrong, but maybe the former Slayheim Liberation Army is involved in the terrorist acts.
+  RE : I hope I'm wrong, but maybe the
+       former Slayheim Liberation Army is
+       involved in the terrorist acts.
+
+[US#4567]
+  JP : 「〜考えすぎだよな
+  LIT: ...I'm overthinking it, aren't I.
+  EN : Could the conspiracy go THAT deep?
+  RE : Could the conspiracy go THAT deep?
+
+[US#4568]
+  JP : 「スレイハイム解放戦役が終って５数〜 / そろそろ、<b:8a64><b:8a65>に<b:8af2>きてきた連中が / 動きはじめてもおかしくはないさ<b:8ade><b:8af3>得しているよ<b:8af4>に使ってるかい？ / せっかくのスキルだ、上手く使ってくれよ / なん
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'll bet a lot of former Slayheim soldiers are tired of peace and itching for war again about now.
+  RE : I'll bet a lot of former Slayheim
+       soldiers are tired of peace and
+       itching for war again about now.
+
+[US#4570]
+  JP : ＊パーソナルスキルは / <b:8b05><b:8b06>を<b:8b07>るごとに / その<b:8af4>果を高めていく
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A Personal Skill becomes more and more powerful as you increase in level.
+  RE : A Personal Skill becomes more and
+       more powerful as you increase in
+       level.
+
+[US#4571]
+  JP : ＊それゆえに、<b:8b08>く<89da>くは / <89ce>分な<b:8af4>果の得られない / スキルを持っているに過ぎない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Try to acquire too many skills, and you will end up without a single, powerful skill.
+  RE : Try to acquire too many skills, and
+       you will end up without a single,
+       powerful skill.
+
+[US#4572]
+  JP : ＊<b:8a62>られたポイントを / どのスキルに<8913>り<b:8b09>り / 重帯を置くかが重要である<b:8a98>用法』 / 〜〜〜〜というタイトルが目をひきます
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It is important to select a specific skill on which to spend the points you acquire.
+  RE : It is important to select a
+       specific skill on which to spend
+       the points you acquire.
+
+[US#4574]
+  JP : ＊<b:8a62>定された地<b:8b0a>と場しか表示されないが / 世界<b:8b0b>地の地面をおぼえたり / 現在級置を確認するのに作<b:8af4>だ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It displays only certain areas and towns, but is good for learning the terrain or your current position.
+  RE : It displays only certain areas and
+       towns, but is good for learning the
+       terrain or your current position.
+
+[US#4575]
+  JP : ＊『テレポートオーブ』を<b:8b0c>用し / 世界を<b:8b0d>無く探<887e>することで / 新たな発見もあるだろう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : When used with a Teleport Orb, this item lets you search the world to discover new surprises.
+  RE : When used with a Teleport Orb, this
+       item lets you search the world to
+       discover new surprises.
+
+[US#4576]
+  JP : ＊世界には、人の手の入っていない / 遺跡が多々残っているはずだ
+  LIT: *The world must still hold many ruins untouched by human hands.
+  EN : The world still contains many ruins that have yet to be explored.
+  RE : The world still contains many ruins
+       that have yet to be explored.
+
+[US#4578]
+  JP : ＊その発<b:8b10>は、<88db><88dc>地<89e8>で発<885f>された遺跡を / スレイハイム本<b:8a7a>へ着るために作られた / <b:8a7c><b:8b11>通りの<b:8b12>け<89ec>であった
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The bridge was first built so that relics unearthed in the desert could be transported to Slayheim.
+  RE : The bridge was first built so that
+       relics unearthed in the desert
+       could be transported to Slayheim.
+
+[US#4579]
+  JP : ＊その後、北のギルドグラード / 先のシルヴァラントなどとの / <b:8b13><b:8b14><89ca>の一<b:8a63>として<b:8b15>わった
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The town later prospered from trade with Guild Galad in the north and Sylvaland in the south.
+  RE : The town later prospered from trade
+       with Guild Galad in the north and
+       Sylvaland in the south.
+
+[US#4580]
+  JP : ＊大<b:8b0e><b:8b0f>を<b:8b16>ぐ場として / その<b:8b17>い<b:8b18>なる<b:8b19>観から / 観<89e0>地としても人気を<8880>めた
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Today, many tourists visit Quartly to marvel at its unique scenery.
+  RE : Today, many tourists visit Quartly
+       to marvel at its unique scenery.
+
+[US#4581]
+  JP : 「<b:8aee><b:8b1a>は次回行う / 今から楽しみだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The exorcism starts tomorrow. I'll see you then.
+  RE : The exorcism starts tomorrow. I'll
+       see you then.
+
+[US#4582]
+  JP : 「それに、<b:8b1e>いに名<b:8a92>ってない者同胞 / 危険な<b:8aee><b:8b1a>をいっしょに行うなんて<f040><f042><b:8b1f>いて<b:8b20>くには、それで<89ce>分だろう？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : How am I supposed to work with you when I don't even know your name?
+  RE : How am I supposed to work with you
+       when I don't even know your name?
+
+[US#4583]
+  JP : 「[05]ぉ・ウィンチェスター〜
+  LIT: {5} Winchester... (05 name slot)
+  EN : You're 0 Winchester.
+  RE : You're Winchester.
+
+[US#4584]
+  JP : 「[05]ぉさんのこと / 知っていました〜
+  LIT: She knew about you, {5}. (05 name slot)
+  EN : She knew who you were, 0.
+  RE : She knew who you were, .
+
+[US#4585]
+  JP : （[05]き、何者なんだ〜ッ？）
+  LIT: (Who on earth is {5}...?) (05 name slot)
+  EN : (Just who is 4, anyway?)
+  RE : (Just who is 4, anyway?)
+
+[US#4586]
+  JP : 「今回は / ここで身体を<89bf>めておこう<b:8b02>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : For now, let's just get some rest.
+  RE : For now, let's just get some rest.
+
+[US#4587]
+  JP : 「いないのか？<b:8b02>[01]
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Hey, where are you?
+  RE : Hey, where are you?
+
+[US#4588]
+  JP : 「スレイハイム<893b>のことを / くわしく聞きたかったんだけど〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I wanted to ask you about Slayheim Castle.
+  RE : I wanted to ask you about Slayheim
+       Castle.
+
+[US#4589]
+  JP : 「スレイハイム<893b>は / <b:8a5d>の<89af><b:8a5e>を北側に突き進んだ / 外れに級置している
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Slayheim Castle is located at the northeastern edge of the salt flats.
+  RE : Slayheim Castle is located at the
+       northeastern edge of the salt
+       flats.
+
+[US#4590]
+  JP : （……いや、[05]おを信じるんだ / <b:8a4f>間を信じられないでどうする / いっしょに戦ってきた<b:8a4f>間じゃないか）<b:8a5d>と合した死の大地を行かなければならない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : (No! I mustn't doubt him! If I can't trust a guy I fought side-by-side with, who can I trust?)
+  RE : (No! I mustn't doubt him! If I
+       can't trust a guy I fought side-by-
+       side with, who can I trust?)
+
+[US#4591]
+  JP : 「死した大地には / 死にきれず<b:8b21><b:8b22>する死<b:8b23>どもが<b:8b24>れている / 死<b:8b23>どもに<b:8a82>わされるな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The salt flats are haunted by ghosts. Don't let them lead you astray!
+  RE : The salt flats are haunted by
+       ghosts. Don't let them lead you
+       astray!
+
+[US#4592]
+  JP : 「おひとり方につき一緒[02]ギャラ / [02]人方ですので、[02]ギャラとなります / よろしいですか？[18]か
+  LIT: It's one Gella per person, and for {n} people that's {n} Gella. Is that all right? (02 number slots, 18 prompt)
+  EN : The rate is Gella per guest per night. For people, that'll be Gella, OK?2
+  RE : The rate is Gella per guest per
+       night. For people, that'll be
+       Gella, OK?2
+
+# =========================================================================================
+# STATUS: 138 boxes first-passed (US#4448-4592, block 18). Em-dash-free, <=3x35.
+# =========================================================================================

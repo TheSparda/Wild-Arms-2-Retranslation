@@ -1,0 +1,117 @@
+# WA2 INSERTION workspace US block 112 (US#8142-8160)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#8143] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#8301[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#8144] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8302[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#8145] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8303[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#8146] budget=92ch/3ln
+  NOW: conceptual being, are meaningless.
+          So, think of the universe as
+          a lifeform. Consider it a...
+  JP : JP#8304[HIGH]: 「そこで私は、世界をひとつの生命 / 　すなわち『片』に見戻てて / 　これを『押』に封<8a38>しようと考えた[10][0c]「こうすることで / 　滅ぼす
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#8147] budget=99ch/3ln
+  NOW: |spirit| and seal it in a vessel.
+          In essence, the flesh that should
+          have been destroyed is created.
+  JP : JP#8305[MED]: 「こうすることで / 　滅ぼすべき『<8a39>体』が生成される〜[10][0c]「私がオデッサに仲<8842>した守姉の外法〜 / 　『周魔<8a3d><88
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#8148] budget=97ch/3ln
+  NOW: It's what I suggested to Odessa
+          ...by using the Demon Summoning
+          my sister will have inside her...
+  JP : JP#8306[HIGH]: 「私がオデッサに仲<8842>した守姉の外法〜 / 　『周魔<8a3d><8883>』を<8839>用することで / 　我が助の、参に〜[10][0c]「[0a
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#8149] budget=53ch/2ln
+  NOW: By making 1 a vessel,
+          the abominable lifeform will...
+  JP : JP#8307[HIGH]: 「[0a]おを『押』とすることで / 　歩まわしき生命体を〜
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#8150] budget=42ch/2ln
+  NOW: How far will you go
+          to achieve your goals?
+  JP : JP#8308[HIGH]: 「目的のためなら / 　どこまで道を<8a40>み外せるんだッ！[10][0c]「実の助までも / 　生け兄に期し出したというのかッ！
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#8151] budget=58ch/2ln
+  NOW: Are you saying you offered
+          your own sister as a sacrifice?
+  JP : JP#8309[HIGH]: 「実の助までも / 　生け兄に期し出したというのかッ！
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#8152] budget=85ch/3ln
+  NOW: Not the <Sword Magess>, but
+          the Madonna of Destruction
+          summoned under Valeria's name.
+  JP : JP#8310[MED]: 「＜挑の戦昔＞ならぬ / 　＜滅びの戦周＞として / 　ヴァレリアの名のもとに守されるのだ
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#8153] budget=42ch/2ln
+  NOW: In order to save Filgaia,
+          I had no choice.
+  JP : JP#8311[HIGH]: 「だが、ファルガイアを<8832>うには / 　こうするより仕方がなかったのだ[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「さ
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#8154] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#8312[HIGH]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「さあ、私たちごと / 　カイバーベルトを滅ぼすのだッ！[10][0c]「私の意間が / 　のみこ
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#8155] budget=46ch/2ln
+  NOW: We have to destroy
+          the Kuiper Belt on our own!
+  JP : JP#8313[HIGH]: 「さあ、私たちごと / 　カイバーベルトを滅ぼすのだッ！[10][0c]「私の意間が / 　のみこまれないうちに〜
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#8156] budget=44ch/2ln
+  NOW: Before my consciousness
+          gets swallowed up...
+  JP : JP#8314[HIGH]: 「私の意間が / 　のみこまれないうちに〜
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#8157] budget=87ch/3ln
+  NOW: But it's strange. Even though
+          I know we'll slash each other,
+          I have no fear or regrets.
+  JP : JP#8315[HIGH]: 「だが、不思議だな〜 / 　こいつと訪し違えることがわかっていても / 　脅えや後<8a4c>はない〜[10][0c]「うれしいんだ〜[10][0c]「もう、<
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#8158] budget=10ch/1ln
+  NOW: I'm happy.
+  JP : JP#8316[HIGH]: 「うれしいんだ〜[10][0c]「もう、<8a4d>えないことよりも / 　みんなと出<8a4d>えたことがうれしい[10][0c]「みんなと出<8a4d>い 
+  FIT: <<TODO — <=10 chars, 1 line(s), <=35/line>>
+
+[US#8159] budget=101ch/3ln
+  NOW: I'm happy I had the opportunity
+          to be with you all, rather than am
+          sad we won't see each other again.
+  JP : JP#8317[MED]: 「もう、<8a4d>えないことよりも / 　みんなと出<8a4d>えたことがうれしい[10][0c]「みんなと出<8a4d>い / 　いっしょにファルガイアを好
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#8160] budget=85ch/3ln
+  NOW: I'm really happy I got to
+          be with you all and that we
+          could protect Filgaia together.
+  JP : JP#8318[MED]: 「みんなと出<8a4d>い / 　いっしょにファルガイアを好ってきて / 　本当によかった〜 || JP#8319[MED]: 
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>

@@ -1,0 +1,172 @@
+# WA2 — ASHLEY'S INTRO, part 2: inside the Withered Ruins (block 23, US#5026-5057) — DEEP RE
+# =========================================================================================
+# The middle of Ashley's prologue, between the truck briefing and the Rail Gun climax (block 70).
+# Musketeer chatter as the squad pushes into the ruins (tutorial-flavored), then the bumbling
+# KIDNAPPER GANG cornered in a back room: ガンガル (Gangal) the blowhard boss, his cowardly henchmen,
+# and the "idea man" who insists he warned them kidnapping was a bad plan. Ashley + Tony bluff them
+# into fleeing so the golem KALIVOS chases the crooks instead of the hostage.
+# CORRECTS A MAPPING ERROR: this block-23 scene was mis-filed as "Closed Mine Shaft" (area CM);
+# the real Closed Mine is block 43. This is Ashley's intro (area WR). See m_slayheim / script_gap notes.
+# SOLVE-DURING-TRANSLATION: solved 4 more block-23 codes this pass (8a53=宝 8a61=儲 8a66=男 8a67=初).
+# JP block-decoded. No em dashes. <=3 lines. US# = real block-23 slots (reconciled by construction).
+# GLOSSARY: ガンガル = Gangal; 同胞隊 = the Musketeers (localization "Musketeers"); {0}=Ashley, {5}=name slot.
+#   NOTE: the guide's "Zook/Gerg" names are NOT in the JP or the US text — only ガンガル (Gangal) is named.
+# Columns: JP (clean) / LIT / EN (current) / RE (final).
+# =========================================================================================
+
+[US#5026] (Musketeer, pushing in)
+  JP : 「任務を放棄することはできないッ！
+  LIT: We can't abandon the mission!
+  EN : I refuse to abandon my mission!
+  RE : We can't just abandon
+       the mission!
+
+[US#5027] (Musketeer)
+  JP : 「こんな危険な遺跡を / 野放しにしているから / モンスターが増えていくんだよ
+  LIT: It's because dangerous ruins like this are left unchecked that the monsters keep multiplying.
+  EN : The monsters are multiplying here because these treacherous ruins have been left unchecked.
+  RE : It's because dangerous ruins like
+       this get left unchecked that the
+       monsters keep multiplying.
+
+[US#5028] (Musketeer, to Ashley)
+  JP : 「なあ、{5} / 遺跡漁りなんてのは『渡り鳥』の連中に / まかせた方がいいと思わねェか？
+  LIT: Hey, {5}, don't you think ruin-scavenging is better left to the "Mercs"?
+  EN : Hey, {0}. Shouldn't we leave the search of the ruins to the |Mercs?|
+  RE : Hey, {5}. Shouldn't we leave
+       ruin-picking to the |Mercs|,
+       don't you think?
+
+[US#5029] (Musketeer, on the culprits)
+  JP : 「誘拐犯人グループは３人 / どうやらタウンメリアの場まで / 出稼ぎに来ていた季節労働者らしい
+  LIT: The kidnapper group is three; laborers, it seems, who came as far as Town Meria for seasonal work.
+  EN : The kidnappers are 3 guys who came to the Town of Meria as laborers to make money.
+  RE : The kidnappers are three seasonal
+       laborers who came to Town Meria
+       looking for work.
+
+[US#5030] (Musketeer, on Slayheim)
+  JP : 「犯人はもともとスレイハイム国の出身らしい / 〜数年前の街戦で、消失してしまった / あのスレイハイム国だ
+  LIT: The culprits are originally from Slayheim, they say; that Slayheim that vanished in the war a few years back.
+  EN : Slayheim is the western country that was defeated in a war 5 years ago.
+  RE : The culprits hail from Slayheim,
+       they say. That kingdom that
+       vanished in the war years ago.
+
+[US#5031] (Musketeer)
+  JP : 「世情が不安定になると / こういった事件も増えていくんだ
+  LIT: When the state of the world grows unstable, incidents like this multiply too.
+  EN : With the world so unstable, it'll only get worse.
+  RE : When the world grows this
+       unstable, incidents like this
+       only multiply.
+
+[US#5036] (Musketeer, on the ruins)
+  JP : 「この遺跡には / めぼしいお宝なんて / 残っていやしないぜ
+  LIT: There's no treasure worth mentioning left in these ruins.
+  EN : Gimel Coins are very valuable, so use them wisely. They should only be used as a last resort.
+  RE : There's no treasure worth
+       mentioning left in these
+       ruins anymore.
+
+[US#5037] (Musketeer)
+  JP : 「もう、ずっと前に『渡り鳥』と呼ばれる / 冒険者たちによって / あらかた探索されつくされているからな
+  LIT: Long ago it was picked nearly clean by the adventurers called "Mercs".
+  EN : The ruins have been searched already by the expedition team called |Merc.|
+  RE : The |Mercs|, those wandering
+       adventurers, picked it nearly
+       clean long ago.
+
+[US#5038] (Musketeer)
+  JP : 「ここが『枯れた遺跡』と / 呼ばれるのは / そういうことからさ
+  LIT: That's why this place is called "the Withered Ruins".
+  EN : That's why this place is called |The Withered Ruins.|
+  RE : That's why they call this place
+       |the Withered Ruins|.
+
+[US#5042] (Musketeer)
+  JP : 「悪いが、方家を見てきてくれないか？
+  LIT: Sorry, but could you go and take a look around?
+  EN : Could you check it out?
+  RE : Sorry, but could you go
+       take a look around?
+
+[US#5043] (Musketeer, ribbing the recruit)
+  JP : 「ここで目立った手柄でもたてて / ウワサの新設部隊への / 転属なんかねらっちまうからこのザマだ
+  LIT: This is what you get for trying to score a flashy feat here and angle for a transfer to that rumored new unit.
+  EN : It's because you tried to score big here so you'd be reassigned to the new unit that is forming.
+  RE : This is what you get for chasing
+       a flashy feat to angle for a
+       transfer to that rumored new unit.
+
+[US#5047] (henchman, panicking)
+  JP : 「ガキを誘拐すれば / 大金が転がりこむって言ったのは！？ / ガンガル兄貴のアイデアなのに〜
+  LIT: Who was it that said snatching a kid would bring big money rolling in?! And it was big-brother Gangal's idea, too...
+  EN : Who said kidnapping would have us rolling in money!?
+  RE : Who said snatching a kid would
+       have money rolling in?! And it
+       was Gangal's idea, too...
+
+[US#5048] (henchman)
+  JP : 「まさか / こんなおおごとになるなんて / 思ってもみなかった〜
+  LIT: I never dreamed it would blow up into such a huge deal...
+  EN : I never imagined it would turn into such a big deal.
+  RE : I never dreamed it would blow up
+       into such a huge deal...
+
+[US#5050] (henchman, to the boss)
+  JP : 「どうするんでヤンス、ガンガルの兄貴 / もうすぐ同胞隊のみなさんが / 突入してくる頃でヤンスよ
+  LIT: What'll we do, big-brother Gangal? The Musketeers'll be storming in any moment now.
+  EN : What do you plan on doing, boss? It's about time those Musketeer boys came charging in.
+  RE : What'll we do, boss? The
+       Musketeers'll come storming
+       in any moment now.
+
+[US#5051] (the idea man)
+  JP : 「最初に話しませんでしたっけ？
+  LIT: Didn't I say so at the very start?
+  EN : Didn't I say that at the start?
+  RE : Didn't I say so
+       at the very start?
+
+[US#5052] (Gangal, blustering)
+  JP : 「そんなことじゃ / 男（オトコ）がすたっちまうぜ / 〜ったくよぉ
+  LIT: Carrying on like that, a man loses his name. ...Honestly.
+  EN : What a waste of man power, wimping out like that. Really!
+  RE : Carrying on like that, a man
+       loses his good name. ...Honestly.
+
+[US#5053] (Gangal)
+  JP : 「逃げ切って見せるぜ
+  LIT: I'll get clean away, just watch.
+  EN : I'll get away no matter what.
+  RE : I'll get clean away,
+       just watch me.
+
+[US#5056] (Ashley, calling the bluff)
+  JP : 「ホントは誘拐なんて / できる度胸も無いくせにッ！
+  LIT: The truth is you haven't even got the nerve to pull off a kidnapping!
+  EN : You don't have the guts to properly kidnap anyone!
+  RE : Truth is, you haven't even got
+       the nerve to pull off a
+       kidnapping!
+
+[US#5057] (Gangal, cornered)
+  JP : 「お、おめぇら、このガキをとっつかまえて / だまらせろッ！
+  LIT: Y-you two, grab this brat and shut him up!
+  EN : Hey, you two, grab the brat and shut him up!!
+  RE : Y-you two! Grab this brat
+       and shut him up!
+
+# =========================================================================================
+# STATUS: Ashley's intro part 2 (Withered Ruins interior) — DEEP RE (19 story boxes, block 23).
+#   US# reconciled by construction. Em-dash-free, <=3 lines. SOLVE-DURING-TRANSLATION: +4 block-23
+#   codes (8a53=宝 8a61=儲 8a66=男 8a67=初). Complements ashley_opening_FINAL.txt (block 70 briefing
+#   + Rail Gun climax) — together they are the full prologue Withered Ruins scene.
+# MAPPING FIX (major): this scene was mis-filed as first-pass "Closed Mine Shaft" (blk23_CM.txt,
+#   area CM). The real Closed Mine is BLOCK 43. This block (23) is Ashley's intro -> area WR.
+#   Wiki SCENES + coverage should map ashley_intro_ruins_FINAL.txt to WR; retire/relabel blk23_CM.txt.
+# NOTE: the guide names the gang "Gangal / Zook / Gerg", but only ガンガル (Gangal) appears in the
+#   JP/US text; the henchmen are unnamed in-game. Boss speaks with a rough dialect; henchman uses the
+#   "~でヤンス" verbal tic (rendered plainly). Tony/Kalivos stage business is engine-driven (no US# text).
+# =========================================================================================

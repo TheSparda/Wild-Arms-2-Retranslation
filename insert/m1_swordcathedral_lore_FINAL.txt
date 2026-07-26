@@ -1,0 +1,100 @@
+# WA2 — SWORD CATHEDRAL — Argetlahm / Sword Magess lore panels (block 5, US#838-846) — FINAL
+# =========================================================================================
+# The REAL Sword Cathedral content: the readable EXAMINE panels (*-text, no speaker) that tell the
+# legend of the Sword Cathedral, the holy sword Argetlahm, and the <Sword Magess>. This is distinct
+# from m1_swordcathedral_FINAL.txt, which turned out to be the King's recurring throne-room audience.
+# JP block-decoded (block 5; fixed global 883d 昔→女 this pass, so 剣の聖女 = Sword Magess reads right).
+# GLOSSARY: アガートラーム = Argetlahm (the holy sword); 剣の聖女 = <Sword Magess>; クリムゾンノーブル
+#   = Crimson Nobles; 災いの焔 = Blaze of Disaster. No em dashes. <=3 lines. US# = real slots.
+# Columns: JP (clean) / LIT / EN (current) / RE (final).
+# =========================================================================================
+
+[US#838] (plaque)
+  JP : ＊母なるファルガイアを / 後世に守り伝えるため / ここに聖堂が建てられた
+  LIT: A cathedral was raised here to protect and pass Mother Filgaia on to later ages.
+  EN : A cathedral was built here to preserve Mother Filgaia...
+  RE : A cathedral was raised here
+       to preserve Mother Filgaia
+       for the ages...
+
+[US#839] (plaque)
+  JP : ＊＜剣の聖女＞が遺した / 偉大な功績を / 忘れることのないように
+  LIT: So the great deeds the <Sword Magess> left behind would never be forgotten.
+  EN : so the great deeds of the <Sword Magess> wouldn't be forgotten.
+  RE : so the great deeds of the
+       <Sword Magess> would never
+       be forgotten.
+
+[US#840] (plaque)
+  JP : ＊『剣の大聖堂』こそ / 我らメリアブールの誇りであり / ファルガイアの導きの光である
+  LIT: The "Sword Cathedral" is the pride of Meria Boule and the guiding light of Filgaia.
+  EN : The |Sword Cathedral| is the pride of Meria Boule and the guiding light of Filgaia.
+  RE : The |Sword Cathedral| is the
+       pride of Meria Boule and the
+       guiding light of Filgaia.
+
+[US#841] (plaque)
+  JP : ＊数多の魔を祓ったこの剣は / 暗闇に閉ざされし今 / 我らに残された最後の希望
+  LIT: This sword, which banished countless demons, is our last remaining hope now that darkness has closed in.
+  EN : Wielded to vanquish countless demons, this sword is our last ray of hope in a dark time.
+  RE : This sword banished countless
+       demons. In this dark hour,
+       it's our last hope.
+
+[US#842] (plaque, the sword's name)
+  JP : ＊アガートラーム〜 / その名に込められし意義は〜 / （以下、判読不可能）
+  LIT: Argetlahm... the meaning held in that name is... (the rest is illegible).
+  EN : Argetlahm... The name means... (The rest is illegible.)
+  RE : Argetlahm...
+       The name means...
+       (The rest is illegible.)
+
+[US#843] (legend)
+  JP : ＊祭壇の上にて、乙女は / 剣を授かり / 名も授かる
+  LIT: Atop the altar, the maiden receives the sword, and receives a name.
+  EN : On the hilltop, she receives the sword, and a name.
+  RE : On the altar, the maiden
+       receives the sword,
+       and a name.
+
+[US#844] (legend)
+  JP : ＊今、彼女は＜剣の聖女＞ / 片手に剣を、傍らに狼を従えて
+  LIT: Now she is the <Sword Magess>, sword in one hand, a wolf at her side.
+  EN : She is now the <Sword Magess>, with sword in hand, and a werewolf by her side.
+  RE : Now she is the <Sword Magess>,
+       sword in hand, a werewolf
+       at her side.
+
+[US#845] (legend)
+  JP : ＊人々の声に呼ばれ / 彼女は血の戦場へと / 導かれてゆく
+  LIT: Called by the people's voices, she is drawn to the bloody battlefield.
+  EN : The people call out and she is drawn to a bloody battlefield.
+  RE : Called by the people's voices,
+       she is drawn to a bloody
+       battlefield.
+
+[US#846] (legend)
+  JP : ＊血に染まった戦場こそ / 消えゆく生命の墓標のもと / 彼女のあるべき場所
+  LIT: The blood-soaked battlefield, at the graves of extinguished life, is where she belongs.
+  EN : The blood-drenched battlefield is where she belongs: at the graves of life extinguished.
+  RE : The blood-soaked battlefield,
+       at the graves of the fallen,
+       is where she belongs.
+
+# NOTE (2026-07-26, feedback): US#848 ("We Crimson Nobles were torn asunder by the Blaze of Disaster")
+#   was REMOVED from this file. Verified on disc: US#847 is a "read it?" prompt separating two DIFFERENT
+#   readable objects. US#848-851 are a SEPARATE Crimson Noble / Marivel lore panel (their honor, the
+#   "promised land island south of the masterless castle", world-as-living-vessel), NOT the Argetlahm/
+#   Sword-Magess legend (US#838-846). It belongs with the Crimson-Noble/Marivel material, not here.
+
+# =========================================================================================
+# STATUS: Sword Cathedral lore panels translated (9 boxes, US#838-846). Reconciled by construction
+#   (IDs from the dumped blk5 US# range). JP block-decoded, em-dash-free, <=3 lines.
+# THIS IS the real Sword Cathedral content (guide area SC) — the Argetlahm/Sword-Magess legend that
+#   grounds the whole game's mythology (the holy sword, the Magess + her wolf Lucied, the Crimson
+#   Nobles torn apart by the "Blaze of Disaster"). Pays off in the endgame (Lord Blazer / blk 91-92).
+# FIX THIS PASS: global 883d 昔→女 (was a systematic error; 剣の聖女/少女/彼女/魔女/巫女 all improve).
+# CAVEAT: block 5 msgs 130-136 also have a longer intro (Guild Galad/Slayheim guardianship, the
+#   cathedral's founding) with a few residual global codes (89e0/8861/8832); translate in a lore-tail
+#   pass. The core Argetlahm/Magess legend (the panels the player reads) is done here.
+# =========================================================================================

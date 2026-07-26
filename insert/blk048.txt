@@ -1,0 +1,157 @@
+# WA2 INSERTION workspace US block 48 (US#6160-6192)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#6163] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#6299[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6164] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6300[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#6165] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6301[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#6173] budget=20ch/1ln
+  NOW: road in front of me.
+  JP : JP#6310[MED]: 「この人間暗仲 / 　[05]きの守姉にかかりて消えるは / 　いかなる魔物か<f040><f042> || JP#6311[MED]: 「あたしに流れる<8a3d>が助ぐッ！ / 　この身に<89a3>歩った<8a40>命が兄いているッ！[10][0c]「見せてやるよ / 　期<8a43>の来挑
+  FIT: <<TODO — <=20 chars, 1 line(s), <=35/line>>
+
+[US#6174] budget=33ch/1ln
+  NOW: I've never heard of such a thing!
+  JP : JP#6313[MED]: 「うれしいですねぇ〜 / 　あんまりうれしいから / 　戦周がズリ落ちてしまいそうですよ || JP#6312[MED]: 「見せてやるよ / 　期<8a43>の来挑ってヤツをね〜
+  FIT: <<TODO — <=33 chars, 1 line(s), <=35/line>>
+
+[US#6175] budget=57ch/3ln
+  NOW: That means there's only
+          one way out of here.
+          How amusing!
+  JP : JP#6314[MED]: 「お前の<88ce><8a48>も仲も / 　もう俺たちには加じない / 　新々間々、決着をつけようッ！
+  FIT: <<TODO — <=57 chars, 3 line(s), <=35/line>>
+
+[US#6176] budget=62ch/3ln
+  NOW: I'm destined for this.
+          This monster is about
+          to get Exorcised!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#6177] budget=62ch/3ln
+  NOW: The blood in me is boiling!
+          And the destiny I bear is
+          wailing.
+  JP : JP#6315[MED]: 「俺はあくまでも / 　ゲームを<89fa>しむために / 　あなた方にハンデを訪えていたに過ぎません[10][0c]「あなた方の<8930><8a4c>が長招
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#6178] budget=53ch/3ln
+  NOW: I'll show you what the
+          descendant of
+          a |hero| can do.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=53 chars, 3 line(s), <=35/line>>
+
+[US#6179] budget=78ch/3ln
+  NOW: This makes me so happy.
+          I'm so excited my glasses
+          are about to fall off again.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#6180] budget=88ch/3ln
+  NOW: Your schemes and your traps
+          won't work with us anymore.
+          Let's settle it fair and square.
+  JP : JP#6316[MED]: 「あなた方の<8930><8a4c>が長招き / 　追いつめられるさまを見るためにね
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#6181] budget=80ch/3ln
+  NOW: To make this little game
+          more fun, all I did was give
+          you guys a small handicap.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#6182] budget=69ch/3ln
+  NOW: I did it to prolong your
+          agony and to watch you
+          get caught in a trap.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#6183] budget=53ch/2ln
+  NOW: You don't seem to understand.
+          There's no point to it.
+  JP : JP#6317[MED]: 「<f040><f042>わかっていませんね / 　それではまったく意恥がないッ！
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#6184] budget=74ch/3ln
+  NOW: People are doing their
+          best to live well, but you
+          toy with them like that.
+  JP : JP#6318[MED]: 「いっしょうけんめいに生きようとしている / 　人の命を、あなたはそんなふうに / 　もてあそんでいるのですかッ！[10][0c]「<8a4c>みを知らないあな
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#6185] budget=83ch/3ln
+  NOW: I can't forgive you for having
+          no compassion for other's pain.
+          I won't forgive you!
+  JP : JP#6319[MED]: 「<8a4c>みを知らないあなたを / 　ボクは<8978>さないッ！ / 　<8978>すもんかッ！
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#6186] budget=67ch/3ln
+  NOW: If you want sympathy,
+          at the very least cry in
+          a cute little voice.
+  JP : JP#6320[MED]: 「まぜてほしければ / 　せいぜい、かわいい<883f>で / 　負きわめいてもらおうかッ！
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#6187] budget=74ch/3ln
+  NOW: No need to get so defensive.
+          What a bore you are.
+          I'm disappointed in you.
+  JP : JP#6321[MED]: 「何もそんなにムキになるなんて / 　つまらない<8a59>らだな〜 / 　失<8a5a>しちゃったよ
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#6188] budget=65ch/3ln
+  NOW: One who doesn't risk his
+          life isn't qualified to
+          play with lives.
+  JP : JP#6322[MED]: 「命を茶けてない者などに / 　命のやり取りをする飛限などない
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#6189] budget=73ch/3ln
+  NOW: But I wouldn't want to
+          become someone who
+          didn't hesitate to take a life.
+  JP : JP#6323[MED]: 「でも、命のやりとりに / 　ためらいを信じられないような / 　辺<8a61>にだけはなりたくない
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#6190] budget=65ch/3ln
+  NOW: I was looking forward
+          to seeing how the world
+          would meet its end.
+  JP : JP#6324[MED]: 「〜これから、どんなふうに / 　世界が、終延を<88cc>える、のか〜 / 　<89fa>しみ、だったのに〜
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#6191] budget=83ch/3ln
+  NOW: It's |human| to not hesitate
+          taking another's life when
+          you're protecting your own.
+  JP : JP#6325[MED]: 「自分の命を<8a64>るために / 　誰かの命を<8a65>うことをためらわない〜 / 　『人間』、〜ってヤツだな
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#6192] budget=52ch/3ln
+  NOW: I think that's the ideal
+          for |humans| to strive
+          for.
+  JP : JP#6326[MED]: 「それもまた / 　『人間』の理違だと俺は思う || JP#6327[MED]: 
+  FIT: <<TODO — <=52 chars, 3 line(s), <=35/line>>

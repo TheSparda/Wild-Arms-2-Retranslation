@@ -1,0 +1,247 @@
+# WA2 4-col translation doc block 93 (JP#7870-7906)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 35 boxes | OK=0 FAIR=35 SHAKY=0 JP-ONLY=0
+# DRAFT STATUS: 35 boxes | OK=0 FAIR=35 SHAKY=0 JP-ONLY=0
+
+[JP#7871] gaps=0  aln=MED->US#7679  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7872] gaps=2  aln=MED->US#7680  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7873] gaps=0  aln=MED->US#7681  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7874] gaps=0  aln=MED->US#7682  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「本当にありがとう
+  2|LIT: <<TODO>>
+  3|EN : @Thank you very much! Really!
+  4|RE : <<TODO>>
+
+[JP#7875] gaps=1  aln=MED->US#7683  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「わしらだって / 　もう少しましな報<8a34>くらい用意できるんだよ
+  2|LIT: <<TODO>>
+  3|EN : @We could
+ prepare a better reward.
+  4|RE : <<TODO>>
+
+[JP#7876] gaps=0  aln=MED->US#7684  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「きっとそこでも / 　わたしの魔法を必要としてくれるから…[10][0c]「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  2|LIT: <<TODO>>
+  3|EN : @Even though you probably
+ have use for my magic.@That's why I'm so happy
+ to receive the Teleport Gem.
+  4|RE : <<TODO>>
+
+[JP#7877] gaps=0  aln=MED->US#7685  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  2|LIT: <<TODO>>
+  3|EN : @That's why I'm so happy
+ to receive the Teleport Gem.
+  4|RE : <<TODO>>
+
+[JP#7878] gaps=0  aln=MED->US#7686  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7879] gaps=2  aln=MED->US#7687  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7880] gaps=0  aln=MED->US#7688  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7881] gaps=0  aln=MED->US#7689  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「本当にありがとう
+  2|LIT: <<TODO>>
+  3|EN : @Thank you very much! Really!
+  4|RE : <<TODO>>
+
+[JP#7882] gaps=1  aln=MED->US#7690  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「わしらだって / 　もう少しましな報<8a34>くらい用意できるんだよ
+  2|LIT: <<TODO>>
+  3|EN : @We could
+ prepare a better reward.
+  4|RE : <<TODO>>
+
+[JP#7883] gaps=0  aln=MED->US#7691  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「きっとそこでも / 　わたしの魔法を必要としてくれるから…[10][0c]「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  2|LIT: <<TODO>>
+  3|EN : @Even though you probably
+ have use for my magic.@That's why I'm so happy
+ to receive the Teleport Gem.
+  4|RE : <<TODO>>
+
+[JP#7884] gaps=0  aln=MED->US#7692  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  2|LIT: <<TODO>>
+  3|EN : @That's why I'm so happy
+ to receive the Teleport Gem.
+  4|RE : <<TODO>>
+
+[JP#7885] gaps=0  aln=MED->US#7693  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7886] gaps=2  aln=MED->US#7694  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7887] gaps=0  aln=MED->US#7695  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7888] gaps=0  aln=MED->US#7696  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「本当にありがとう
+  2|LIT: <<TODO>>
+  3|EN : @Thank you very much! Really!
+  4|RE : <<TODO>>
+
+[JP#7889] gaps=1  aln=MED->US#7697  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「わしらだって / 　もう少しましな報<8a34>くらい用意できるんだよ
+  2|LIT: <<TODO>>
+  3|EN : @We could
+ prepare a better reward.
+  4|RE : <<TODO>>
+
+[JP#7890] gaps=0  aln=MED->US#7698  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「きっとそこでも / 　わたしの魔法を必要としてくれるから…[10][0c]「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  2|LIT: <<TODO>>
+  3|EN : @Even though you probably
+ have use for my magic.@That's why I'm so happy
+ to receive the Teleport Gem.
+  4|RE : <<TODO>>
+
+[JP#7891] gaps=0  aln=MED->US#7699  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  2|LIT: <<TODO>>
+  3|EN : @That's why I'm so happy
+ to receive the Teleport Gem.
+  4|RE : <<TODO>>
+
+[JP#7892] gaps=0  aln=MED->US#7700  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7893] gaps=2  aln=MED->US#7701  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7894] gaps=0  aln=MED->US#7702  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7895] gaps=0  aln=MED->US#7703  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「本当にありがとう
+  2|LIT: <<TODO>>
+  3|EN : @Thank you very much! Really!
+  4|RE : <<TODO>>
+
+[JP#7896] gaps=1  aln=MED->US#7704  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「わしらだって / 　もう少しましな報<8a34>くらい用意できるんだよ
+  2|LIT: <<TODO>>
+  3|EN : @We could
+ prepare a better reward.
+  4|RE : <<TODO>>
+
+[JP#7897] gaps=0  aln=MED->US#7705  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「きっとそこでも / 　わたしの魔法を必要としてくれるから…[10][0c]「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  2|LIT: <<TODO>>
+  3|EN : @Even though you probably
+ have use for my magic.@That's why I'm so happy
+ to receive the Teleport Gem.
+  4|RE : <<TODO>>
+
+[JP#7898] gaps=0  aln=MED->US#7706  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  2|LIT: <<TODO>>
+  3|EN : @That's why I'm so happy
+ to receive the Teleport Gem.
+  4|RE : <<TODO>>
+
+[JP#7899] gaps=0  aln=MED->US#7707  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7900] gaps=2  aln=MED->US#7708  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7901] gaps=0  aln=MED->US#7709  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7902] gaps=0  aln=MED->US#7710  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「本当にありがとう
+  2|LIT: <<TODO>>
+  3|EN : @Thank you very much! Really!
+  4|RE : <<TODO>>
+
+[JP#7903] gaps=1  aln=MED->US#7711  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「わしらだって / 　もう少しましな報<8a34>くらい用意できるんだよ
+  2|LIT: <<TODO>>
+  3|EN : @We could
+ prepare a better reward.
+  4|RE : <<TODO>>
+
+[JP#7904] gaps=0  aln=MED->US#7712  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「きっとそこでも / 　わたしの魔法を必要としてくれるから…[10][0c]「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  2|LIT: <<TODO>>
+  3|EN : @Even though you probably
+ have use for my magic.@That's why I'm so happy
+ to receive the Teleport Gem.
+  4|RE : <<TODO>>
+
+[JP#7905] gaps=0  aln=MED->US#7713  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  2|LIT: <<TODO>>
+  3|EN : @That's why I'm so happy
+ to receive the Teleport Gem.
+  4|RE : <<TODO>>

@@ -1,0 +1,97 @@
+# WA2 — Lost City Archeim (a) (LC) — block 45, US#6070-6089 — FIRST-PASS insert-ready
+# =========================================================================================
+# FIRST PASS (auto-generated): RE = the US localization reflowed to the display window
+#   (<=3 lines x <=35 chars), em dashes stripped, color-code artifacts removed. JP shown for
+#   reference (block-decoded; residual codes possible). This is NOT a deep literary
+#   retranslation — it gives Lost City Archeim (a) valid insert text; flag for a deep RE pass later.
+# US# reconciled by construction (IDs are the real block-45 message slots).
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#6077]
+  JP : 「ここから出る手右は / ただひとつということか / フッ、おもしろい乗置だッ！
+  LIT: So there's only one way out of here. Heh, an amusing setup! (手右->手立て; 乗置->装置)
+  EN : That means there's only one way out of here. How amusing!
+  RE : That means there's only one way out
+       of here. How amusing!
+
+[US#6078]
+  JP : 「誰かが、ボクたちを / 先に行かせないようにしている〜<b:8a38>気、<b:8a39>者ではないのダ<b:8a3a>けないよ / 強くなるって決めたんだッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Someone's trying to make sure we don't get there first.
+  RE : Someone's trying to make sure we
+       don't get there first.
+
+[US#6079]
+  JP : 「ひとりじゃムリかもしれないけれど / みんながついていてくれるから / プーカが<89a3>中を<b:8a3b>してくれるから<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It might be impossible alone, but with you all behind me, and Pooka behind me
+  RE : It might be impossible alone, but
+       with you all behind me, and Pooka
+       behind me
+
+[US#6080]
+  JP : 「ボクは強くなれると、信じれたんだッ！
+  LIT: I was able to believe that I could grow stronger!
+  EN : I knew I could get stronger!
+  RE : I knew I could get stronger!
+
+[US#6081]
+  JP : 「空中要<885e>だとッ！ / お前たちに / そんな<b:8a3c><8a1b>は必要ないッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : An aerial fortress... You all don't need a toy like that!
+  RE : An aerial fortress... You all don't
+       need a toy like that!
+
+[US#6082]
+  JP : 「<f040><f042>そうさせてもらうぞッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Heimdal Gazzo cannot go. That's what I'm going to do!
+  RE : Heimdal Gazzo cannot go. That's
+       what I'm going to do!
+
+[US#6083]
+  JP : 「〜<b:8a3d>だな / そういうの、カンにさわるんだよ〜<b:8a3e>の<b:8a3f>め〜<b:8a40>みに<b:8a41>み込んでしまえッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I hate that. It's so irritating.
+  RE : I hate that. It's so irritating.
+
+[US#6084]
+  JP : 「こんなところで / 私は死ぬわけにはいかない〜
+  LIT: I can't afford to die in a place like this...
+  EN : I can't die in a place like this. No way!
+  RE : I can't die in a place like this.
+       No way!
+
+[US#6085]
+  JP : 「ヴィンスフェルト方の分める / ファルガイアの未左のために〜 / 私にはまだ〜
+  LIT: For the future of the Filgaia that Sir Vinsfeld will rule, I still have... (分める->治める; 未左->未来)
+  EN : For the future Filgaia, the Filgaia ruled by Vinsfeld, I must carry on.
+  RE : For the future Filgaia, the Filgaia
+       ruled by Vinsfeld, I must carry on.
+
+[US#6086]
+  JP : 「こんなところで〜 / こんなカタチで、終わらせるものか〜
+  LIT: In a place like this, in a way like this, I won't let it end.
+  EN : I'm not going to let it end here and now, like this.
+  RE : I'm not going to let it end here
+       and now, like this.
+
+[US#6088]
+  JP : 「<b:8a44><b:8a45>さは時に / <8918>界を<b:8a47>めることがある
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Sometimes purity can narrow your view of the world.
+  RE : Sometimes purity can narrow your
+       view of the world.
+
+[US#6089]
+  JP : 「<8954>って、<b:8a48>んだ道の方が / 失<893d>することはあっても / まちがうことはない〜<b:8a49><b:8a4a>はついえていない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A path of uncertainty and confusion may have failures, but it'll never be wrong.
+  RE : A path of uncertainty and confusion
+       may have failures, but it'll never
+       be wrong.
+
+# =========================================================================================
+# STATUS: 12 boxes first-passed (US#6070-6089, block 45). Em-dash-free, <=3x35.
+# =========================================================================================

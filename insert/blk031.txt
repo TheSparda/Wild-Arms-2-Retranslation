@@ -1,0 +1,175 @@
+# WA2 INSERTION workspace US block 31 (US#5373-5405)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5374] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5497[MED]:  || JP#5498[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5375] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5499[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5376] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5500[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5377] budget=46ch/2ln
+  NOW: OK, I'm going to start-up the
+          Live Reflectors!
+  JP : JP#5501[MED]: 「よし、ライブリフレクターを / 　起動させるぞッ！
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#5378] budget=85ch/3ln
+  NOW: Rather than a monster, it
+          would be most appropriate for
+          it to be called a |creature.|
+  JP : JP#5502[MED]: 「モンスターというよりも / 　むしろ『怪獣』と呼<895b>すべきではないかと / 　思っちゃったりなんかしちゃったりして〜
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#5379] budget=20ch/2ln
+  NOW: It's fine.
+          Probably.
+  JP : JP#5503[MED]: 「だいじょうぶです / 　<f040><f042>たぶん
+  FIT: <<TODO — <=20 chars, 2 line(s), <=35/line>>
+
+[US#5382] budget=52ch/2ln
+  NOW: Who else would come here
+          besides us? It has to be...
+  JP : JP#5506[HIGH]: 「俺たち以外で / 　こんな所にやってくるとすれば〜
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#5383] budget=63ch/3ln
+  NOW: I've decided that when I grow
+          up, I'll be strong like you
+          dude.
+  JP : JP#5507[HIGH]: 「決めたんだ / 　僕も守姉はあんちゃんみたいに / 　強くなるんだって〜
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#5384] budget=69ch/3ln
+  NOW: Turn back right now.
+          You already know don't you?
+          It's dangerous here!
+  JP : JP#5508[HIGH]: 「今すぐ招き<8a3d>すんだ / 　もう、わかっているだろう？ / 　ここは危険だッ！
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#5385] budget=75ch/3ln
+  NOW: there's something wrong
+          about sending us back alone
+          when it's so dangerous.
+  JP : JP#5509[HIGH]: 「危険とわかっていて / 　我々だけで招き<8a3d>させるのも / 　どうかと思いますが〜
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#5386] budget=59ch/2ln
+  NOW: They'll have to come with us
+          until our mission is finished.
+  JP : JP#5510[HIGH]: 「任務が<88ad><8837>するまで / 　いっしょに行動だ
+  FIT: <<TODO — <=59 chars, 2 line(s), <=35/line>>
+
+[US#5387] budget=48ch/2ln
+  NOW: In reality, we got this far
+          on our own strength.
+  JP : JP#5511[HIGH]: 「現に、僕たちの力で / 　ここまでやって姉ているってのに〜
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#5388] budget=51ch/2ln
+  NOW: It wasn't |our own strength|
+          but the strength of 3.
+  JP : JP#5512[HIGH]: 「『僕たちの力』ではなく / 　[05]がの力だと思うのですが〜
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#5389] budget=30ch/2ln
+  NOW: Is it because of
+          that monster?
+  JP : JP#5513[HIGH]: 「これもさっきの / 　モンスターのせいなのか〜ッ？
+  FIT: <<TODO — <=30 chars, 2 line(s), <=35/line>>
+
+[US#5390] budget=41ch/3ln
+  NOW: If so, can't we just
+          give it some
+          energy?
+  JP : JP#5514[HIGH]: 「だったら / 　こっちからエネルギーをあげれば / 　いいんじゃないかな[10][0c]「でも、ライブリフレクターって / 　何で動いているんだ？
+  FIT: <<TODO — <=41 chars, 3 line(s), <=35/line>>
+
+[US#5391] budget=35ch/2ln
+  NOW: But what do Live
+          Reflectors run on?
+  JP : JP#5515[HIGH]: 「でも、ライブリフレクターって / 　何で動いているんだ？
+  FIT: <<TODO — <=35 chars, 2 line(s), <=35/line>>
+
+[US#5392] budget=43ch/2ln
+  NOW: The amulet my mother
+          left me, the Medium...
+  JP : JP#5516[HIGH]: 「<8a43>さんの奇してくれた / 　お押りのミーディアムが〜[10][0c]「生命のガーディアン / 　『オードリューク』のミーディアムが / 　来けようと
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#5393] budget=57ch/3ln
+  NOW: The Guardian of Life,
+          the |Odoryuk| Medium
+          is opening up.
+  JP : JP#5517[HIGH]: 「生命のガーディアン / 　『オードリューク』のミーディアムが / 　来けようとしている〜
+  FIT: <<TODO — <=57 chars, 3 line(s), <=35/line>>
+
+[US#5394] budget=28ch/2ln
+  NOW: But,
+          that power. What is it?
+  JP : JP#5518[HIGH]: 「しかし〜 / 　キミの力、あれはいったい<f040><f042>
+  FIT: <<TODO — <=28 chars, 2 line(s), <=35/line>>
+
+[US#5395] budget=50ch/2ln
+  NOW: My mother told me the
+          Medium's power is concealed.
+  JP : JP#5519[MED]: 「<8a43>さんが言ってたんです / 　ミーディアムには力が挑められているって[10][0c]「<f040><f042>あれが、そうなのかな〜
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#5396] budget=22ch/1ln
+  NOW: I wonder if that's it.
+  JP : JP#5520[HIGH]: 「<f040><f042>あれが、そうなのかな〜
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#5397] budget=55ch/3ln
+  NOW: 0,
+          aren't you in the middle of
+          a mission? Better hurry.
+  JP : JP#5521[HIGH]: 「[05]ぉさん / 　任務の戦中なんでしょ / 　急がなきゃ〜
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#5398] budget=92ch/3ln
+  NOW: Besides, that |light| will protect
+          me.  Getting back to the Town of
+          Meria from here is easy.
+  JP : JP#5522[HIGH]: 「それに、あの『<89e0>』が押ってくれるんだ / 　ここからタウンメリアに / 　戻るくらい、わけないってば
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#5399] budget=60ch/2ln
+  NOW: The Sylvaland Ruling Family...
+          we can't get there any later.
+  JP : JP#5523[HIGH]: 「相手はシルヴァラント<89fb>周だ / 　これ以上、<8a0d>れるわけにはいかんだろう
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#5400] budget=51ch/2ln
+  NOW: Don't do anything like this
+          while we're still away.
+  JP : JP#5524[HIGH]: 「俺たちがいない間 / 　今度みたいなことするんじゃないぞ
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#5401] budget=80ch/3ln
+  NOW: While they're away, we, the
+          Young ARMS will maintain
+          peace in the Town of Meria.
+  JP : JP#5525[MED]: 「あんちゃんたちがいない間 / 　タウンメリアの<8a48>仲は / 　僕たち少数ＡＲＭＳに、まかせてくれたまえ
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5404] budget=92ch/3ln
+  NOW: *To guarantee smooth operation,
+          we'll temporarily freeze the
+          function of the Live Reflector.
+  JP : JP#5528[MED]: ＊<8a52><8a53>な動作を<8901>勉するため / 　ライブリフレクターの機能を / 　一時的に<8a55>結します
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>

@@ -1,0 +1,2187 @@
+# WA2 — Damzen City / Mt. Chug-Chug (DZ) — block 12, US#3147-3444 — FIRST-PASS insert-ready
+# =========================================================================================
+# FIRST PASS (auto-generated): RE = the US localization reflowed to the display window
+#   (<=3 lines x <=35 chars), em dashes stripped, color-code artifacts removed. JP shown for
+#   reference (block-decoded; residual codes possible). This is NOT a deep literary
+#   retranslation — it gives Damzen City / Mt. Chug-Chug valid insert text; flag for a deep RE pass later.
+# US# reconciled by construction (IDs are the real block-12 message slots).
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#3147]
+  JP : 
+  LIT: (no JP text)
+  EN : !+-./0123456789:;<=>?@ABFGHLPTXYZ[\]^_`abcdeY
+  RE : !+-
+       ./0123456789:;<=>?@ABFGHLPTXYZ[\]^_
+       `abcdeY
+
+[US#3152]
+  JP : 「時を発て『<89c2>』が動き出したのじゃ / そして<f040><f042> / お闇の街より始まる『<89c2>』もまた、な〜<b:8a39>が / [05]ぉと同じ組<b:8a3b>とはのう〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You must know that the comets foreboding ill have divided Heaven and Earth.
+  RE : You must know that the comets
+       foreboding ill have divided Heaven
+       and Earth.
+
+[US#3153]
+  JP : 「それにしても / <8a22>ちくりんな格好よのう / わらわがコーディネートしてしんぜようか？闇、いかにもな所<8968>えをしてるではないか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : With the passage of time comes a fragment of eternal time. It exists within you, too.
+  RE : With the passage of time comes a
+       fragment of eternal time. It exists
+       within you, too.
+
+[US#3154]
+  JP : 「そうよのう、そうでなくてはッ！ / 絶対危機に対する<88ea>策なのじゃ / お闇くらいの<8915>力がなくてはな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Still, you might want to do something about your appearance. Shall I aid you?
+  RE : Still, you might want to do
+       something about your appearance.
+       Shall I aid you?
+
+[US#3155]
+  JP : 「癒しの<89b9>い[05]ぉの / バックアップはお闇にまかせたぞ依頼に / ファルガイアの未来を<b:8a45>すよりも / 僕たち、みんなで何とかやってみる〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The perfect fighting machine, ready to meet and overcome any obstacle!
+  RE : The perfect fighting machine, ready
+       to meet and overcome any obstacle!
+
+[US#3156]
+  JP : 「そっちの方が / この状況を打開できるような / 気がしないかい？<b:8a47>域のメンドーは / 依頼方にお願いしよう〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Just perfect to back up 0, who sometimes lacks in bravery...
+  RE : Just perfect to back up, who
+       sometimes lacks in bravery...
+
+[US#3157]
+  JP : 「でも、依頼だって人間だ / 人間にできることを大きく抱えたお願いは / 誰がかなえてくれるんだ？<b:8a49>けたことがないな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Doesn't that seem like a better way to solve our problem?
+  RE : Doesn't that seem like a better way
+       to solve our problem?
+
+[US#3158]
+  JP : 「誰も、個人的なことを / 僕たち渡り鳥に<8923>頼するもんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But even |heroes| are just people. What happens if they can't do everything?
+  RE : But even |heroes| are just people.
+       What happens if they can't do
+       everything?
+
+[US#3159]
+  JP : 「世界のみんなのためになること〜 / そんなのは、渡り鳥なんかじゃなく / 依頼方にお願いするもんだ
+  LIT: Doing something for the good of everyone in the world... that's not a job for us Mercs; you ask a client for that.
+  EN : People might ask us Mercs to do them a personal favor, but...
+  RE : People might ask us Mercs to do
+       them a personal favor, but...
+
+[US#3160]
+  JP : 「僕にも魔法が使えたら / オデッサなんかの / 依頼を<8978>しちゃいないぜ<b:8a4e>報いる力があるなら / こんなところで / くすぶっちゃいねぇよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : When the whole world is at stake...then they want a hero, not just some Mercs.
+  RE : When the whole world is at
+       stake...then they want a hero, not
+       just some Mercs.
+
+[US#3161]
+  JP : 「自由が信条の渡り鳥だ / テロリストに支配されるなんて / まっぴらごめんだね<b:8a51>に<b:8a52>って、現在ポイントを / 見失わないように気をつけることッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If we had magic we wouldn't have to sit back and let Odessa have its way.
+  RE : If we had magic we wouldn't have to
+       sit back and let Odessa have its
+       way.
+
+[US#3162]
+  JP : 「渡り鳥なら / 基本中の基本さッ！<b:8a51>から大きく離れて / 未知の道路に<897b>むのも悪くない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Mercs need freedom. They can't be oppressed by some terrorist group!
+  RE : Mercs need freedom. They can't be
+       oppressed by some terrorist group!
+
+[US#3163]
+  JP : 「渡り鳥なら / 情報を集めなければッ！<b:8a58>の依頼といえば / あんたと同じ / マイトグローブ使いらしいじゃないか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's essential knowledge for Mercs!
+  RE : That's essential knowledge for
+       Mercs!
+
+[US#3164]
+  JP : 「どんな危機をも抜く / 『不死の英番』だったってウワサだ / <f040><f042>あんたとは<89c1>の番だな〜婆ちゃんも / <b:8a5f><b:8a60>魔式<b:8a62>ってやつなのかい？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's essential knowledge for Mercs!
+  RE : That's essential knowledge for
+       Mercs!
+
+[US#3165]
+  JP : 「シエルジェ自分<89b7>って祈の場には / 魔法や幻術を施<89b1>している / お婆ちゃんみたいのがたくさんいるらしいな<b:8a67>を<b:8a68>けてみるといい
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He has a |left arm of steel| that punches through anything, I hear. Yours is on the right.
+  RE : He has a |left arm of steel| that
+       punches through anything, I hear.
+       Yours is on the right.
+
+[US#3166]
+  JP : 「更の目的地だけじゃない / 人の言葉は / 生き方の道<8861>になる時だってある奴が最近多くないか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I hear there're lots of ladies like you who study magic and science in the cloud city, the Sielje Region.
+  RE : I hear there're lots of ladies like
+       you who study magic and science in
+       the cloud city, the Sielje Region.
+
+[US#3167]
+  JP : 「そんな奴らを相手にしなきゃいけないんだ / 『渡り鳥』稼業も楽じゃないぜ稼ぎにやってきたのかい？ / ひとやま当てるつもりなら / 情報には<b:8a6c>信になることだ婆ちゃんとはめずらしい / たしか、この場の<89f5>にも / 魔法を使った<b:8a6d>置があったよな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Sometimes they have words to live by, not just to get you to your next destination.
+  RE : Sometimes they have words to live
+       by, not just to get you to your
+       next destination.
+
+[US#3168]
+  JP : 「えーっと、何だっけな〜<b:8a6e>いてきたが / あの手の<b:8a6f>は初めて見たな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Dealing with those people is part of the job. The life of a Merc is suffering.
+  RE : Dealing with those people is part
+       of the job. The life of a Merc is
+       suffering.
+
+[US#3169]
+  JP : 「世界平和を本気で考えているなら / 辺手なモンスターより / たちが悪いかもしれんな<b:8a6e>いてきたが / あの手の<b:8a6f>は初めて見たな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Now where was that...
+  RE : Now where was that...
+
+[US#3170]
+  JP : 「しかし、世界平和なんて / 本気で考えてるやつが / いるなんて思いもしなかったぜ捨ててしまうこと
+  LIT: Still, I never imagined anyone was seriously thinking about world peace. (trailing 捨ててしまうこと is bleed-over)
+  EN : Dealing with monsters is easy compared to some nut trying to take over the world!
+  RE : Dealing with monsters is easy
+       compared to some nut trying to take
+       over the world!
+
+[US#3171]
+  JP : 「でも、そうするには / ものすごい勇気がいるってもんよ
+  LIT: But to actually do that takes tremendous courage.
+  EN : I had no idea there were people seriously trying to conquer the world anymore.
+  RE : I had no idea there were people
+       seriously trying to conquer the
+       world anymore.
+
+[US#3172]
+  JP : 「よかったな / 今あんたらは、跡跡の勇者を / 無料で運んでいるんだぜ味方が / 真っ<b:8a78>間っからキメちゃダメダメ酔い方するもんでな / 何か空がグルグルしてんだよ酔っ払って、前後不信になって / そのまま地所にゴロン〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But it takes a lot of courage to do that, you know.
+  RE : But it takes a lot of courage to do
+       that, you know.
+
+[US#3173]
+  JP : 「ちびっ家にはわからない / オトナのぜいたくってもんよ<b:8a7b>してくれよ<b:8a7c>いだすんだ / もしかして僕、ウワサの<b:8a7d>し<b:8a7e>？酒場と身をまたにかけてるってもんよ往っケ出すからいけないんだ /
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You are lucky. Did you know that you're looking at the bravest man alive?
+  RE : You are lucky. Did you know that
+       you're looking at the bravest man
+       alive?
+
+[US#3174]
+  JP : 「世の中、努力したヤツが / 必ずしもうまくいくとはかぎらねぇ / あー、ゆかい、ゆかいッ！真っ<b:8a78>間っから飲んで何が悪いってんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's an adult's privilege. Kids like you don't understand.
+  RE : That's an adult's privilege. Kids
+       like you don't understand.
+
+[US#3175]
+  JP : 「トレジャーコールさえ手に入れれば / あとはお宝ザックザクってもんよ / あくせく働く必要ないね
+  LIT: Just get hold of the Booty Call and the treasure comes pouring out; no need to slave away.
+  EN : Those who try hardest are not necessarily those who win in this world. Oh, I like that!
+  RE : Those who try hardest are not
+       necessarily those who win in this
+       world. Oh, I like that!
+
+[US#3176]
+  JP : 「お宝に反応して / その級置を知らせてくれる / まさに僕向きの便利なグッズだ
+  LIT: It reacts to treasure and tells you its location, a handy gadget just made for me. (級置->位置)
+  EN : You know, if you just get the Booty Call, finding treasure is easy as can be.
+  RE : You know, if you just get the Booty
+       Call, finding treasure is easy as
+       can be.
+
+[US#3177]
+  JP : 「どこかの<897f>にあるってウワサなんだが / 知らないか？ / 知るわけないか〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It responds to treasure and tells you where 'tis. Wish I had it...
+  RE : It responds to treasure and tells
+       you where 'tis. Wish I had it...
+
+[US#3178]
+  JP : 「ちびっ家だもんな〜貧しがるヤツは / <88ea>念的にビンボーなんだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I heard a rumor it was in some tower... D'ya know where? Figures not.
+  RE : I heard a rumor it was in some
+       tower... D'ya know where? Figures
+       not.
+
+[US#3179]
+  JP : 「僕みたいに / ボロは着ててもココロが錦なら / そんなモン貧しくはないね
+  LIT: A guy like me, in rags but with a heart of brocade, isn't poor at all.
+  EN : Yer just a kid.
+  RE : Yer just a kid.
+
+[US#3180]
+  JP : 「そう、僕に足りないのは / 金銀財宝、お宝ちゃん / 早くトレジャーコールを見つけないとな
+  LIT: Right, what I lack is gold, silver, treasure, my darling loot. I'd better find the Booty Call soon.
+  EN : If you can wear rags but still have a heart of gold like me - then you're set.
+  RE : If you can wear rags but still have
+       a heart of gold like me - then
+       you're set.
+
+[US#3181]
+  JP : 「ダメダメッ！ / 僕ならお宝にまみれて / 暮らしていきたいってもんよ
+  LIT: No, no! Me, I want to live rolling in treasure.
+  EN : Yep, all I like is gold and treasure. I've just gotta find that Booty Call!
+  RE : Yep, all I like is gold and
+       treasure. I've just gotta find that
+       Booty Call!
+
+[US#3182]
+  JP : 「そのためにも / まずはトレジャーコールを探さんとな素れるのかい？
+  LIT: And for that, first I've got to hunt down the Booty Call. (trailing 素れるのかい bleed-over)
+  EN : No, no... I just want to be surrounded by jewels all the time, that's all!
+  RE : No, no... I just want to be
+       surrounded by jewels all the time,
+       that's all!
+
+[US#3183]
+  JP : 「だったら / あんたたちに / まかせておけば安心だ
+  LIT: In that case, leaving it to you two puts my mind at ease.
+  EN : So first I must look for the Booty Call.
+  RE : So first I must look for the Booty
+       Call.
+
+[US#3184]
+  JP : 「〜でも、そうでないのなら / 僕たちは誰を頼ればいい〜？ / だからみんな不安なんだよ<b:8a8e>同獣なんて / 現実に存在するとは / これっぽっちも思わなかったな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If it were that simple, I would just leave it up to you.
+  RE : If it were that simple, I would
+       just leave it up to you.
+
+[US#3185]
+  JP : 「もしも〜 / ファルガイアのどこかで爆発していたら / いったいどうなっていたのだろう〜<b:8a91>者を<b:8a92><b:8a93>するのは / 他でもない、この僕の仕事さ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But if not, who should we depend on? That's why everyone's worried.
+  RE : But if not, who should we depend
+       on? That's why everyone's worried.
+
+[US#3186]
+  JP : 「じゃあ、いったい / 誰がこの空を取り締まるんだ？<b:8a95>い頃は / <b:8a96><b:8a97>の<8a25>いを / 自慢したことがあったさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Just imagine what would have happened had it exploded in Filgaia...
+  RE : Just imagine what would have
+       happened had it exploded in
+       Filgaia...
+
+[US#3187]
+  JP : 「でも、今は〜 / この１０数間 / 人に向かって撃ってないのが自慢だな<b:8b7f>[03]谷たちの生<b:8a9a>が枯れてきてんだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : So who will take care of this sky...?
+  RE : So who will take care of this
+       sky...?
+
+[US#3188]
+  JP : 「このまま / 渓谷の心までもが / 枯れちまわなきゃいいんだがな<b:8a9c>々しく<b:8a9a><b:8a9d>することを / 甘に見た時期があるよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But now...I'm proud that I haven't needed to point it at anybody in 10 years.
+  RE : But now...I'm proud that I haven't
+       needed to point it at anybody in 10
+       years.
+
+[US#3189]
+  JP : 「しかし、現実は〜 / 渓谷場の保安<899d>がいいところだったな / まあ、妥当なところだろう酒場のケンカの仲<b:8aa2>くらいさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I hope they don't start to get too desperate...
+  RE : I hope they don't start to get too
+       desperate...
+
+[US#3190]
+  JP : 「テロリストの連絡は / あんたたち、ＡＲＭＳに / おまかせしているよ
+  LIT: I gladly leave dealing with the terrorists to you, ARMS.
+  EN : Looking back now, though... I'm glad I was the constable of a mining town. It suits me.
+  RE : Looking back now, though... I'm
+       glad I was the constable of a
+       mining town. It suits me.
+
+[US#3191]
+  JP : 「ひとつは / 飛空機艇の発着場を備えた / エアプレーンポートとして
+  LIT: One is as an airplane port, fitted with a landing strip for flying machines.
+  EN : Terrorist oppression is something I will gladly leave up to ARMS.
+  RE : Terrorist oppression is something I
+       will gladly leave up to ARMS.
+
+[US#3192]
+  JP : 「もうひとつは / シエルジェ自分<89b7>へと<8a18>く / 地辺トンネルの入口として<8a25>われている段めずらしくないから / やっかいなんだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : First, there are facilities to land flying machines there.
+  RE : First, there are facilities to land
+       flying machines there.
+
+[US#3193]
+  JP : 「きびしく取り締まったら / あんたらだって / <89ce>分、あやしいんだぞ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Second, it's got an entrance to a tunnel leading to the Sielje Region.
+  RE : Second, it's got an entrance to a
+       tunnel leading to the Sielje
+       Region.
+
+[US#3194]
+  JP : 「急いで診療所に連れて行くといい / この通りを北に真っ<8865>ぐ行ったところだ / 若者は変わり者だが、番は確かだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If I arrested everyone who looked suspicious, I'd go after you first!
+  RE : If I arrested everyone who looked
+       suspicious, I'd go after you first!
+
+[US#3195]
+  JP : 「本<899d>の任務は、場の分安を守ること / 〜だけど、あやしいというだけで / しょっぴく<88b2>権は無いんだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The clinic is on the north end of this street. The doctor is a little strange, but knows his stuff.
+  RE : The clinic is on the north end of
+       this street. The doctor is a little
+       strange, but knows his stuff.
+
+[US#3196]
+  JP : 「少しでもあやしいと<8942><898e>した人物は / アレコレ難癖つけてでも / しょっぴくべきなのかッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : My job is to protect this town. I can't arrest people just 'cause they look funny.
+  RE : My job is to protect this town. I
+       can't arrest people just 'cause
+       they look funny.
+
+[US#3197]
+  JP : 「でもよ、まだファルガイアに / 生き残る可能性が少しでもあるんだったら / 僕も、力になってやるつもりだぜ
+  LIT: But if there's even a sliver of a chance for Filgaia to survive, I mean to lend my strength too.
+  EN : Do I need to find a reason to arrest anyone who looks like they might cause trouble?
+  RE : Do I need to find a reason to
+       arrest anyone who looks like they
+       might cause trouble?
+
+[US#3198]
+  JP : 「でも、飛空機艇が着陸できないほどの / 枯れ地に囲まれているから / どうやって行けばいいのやら〜
+  LIT: But it's ringed by wasteland too barren for a flying machine to land, so how are we to get there?
+  EN : But if there's even a small chance for Filgaia to survive, I want to help out.
+  RE : But if there's even a small chance
+       for Filgaia to survive, I want to
+       help out.
+
+[US#3199]
+  JP : 「渓谷場の剣なら / ああ、なりたいもんだぜ浮かぶ他〜 / シエルジェ先側の<b:8ab0>〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But the land is so rough there that flying machines can't land or take off.
+  RE : But the land is so rough there that
+       flying machines can't land or take
+       off.
+
+[US#3200]
+  JP : 「これら一帯を線で結ぶと / 道に<88bf>大な一<894b>面が浮かび上がる / その道路は、<896e>く、とてもあやしいのだ<b:8ab3>目の女渡り鳥ッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Mining men are much the same way.
+  RE : Mining men are much the same way.
+
+[US#3201]
+  JP : 「聞いた事あるぜ / あんた、[05]きさんだろ？ / 『左占い』でバッチリ抜けてんだろうな
+  LIT: I've heard of you. You're {5}, aren't you? Your 'left-hand fortune' saw right through it, no doubt. (05 = name slot)
+  EN : This triangle defines a very deep section of the sea where strange things tend to happen.
+  RE : This triangle defines a very deep
+       section of the sea where strange
+       things tend to happen.
+
+[US#3202]
+  JP : 「でもよ、そこであきらめちゃいけない / こまめな探<887e>が意外な成果をもたらす〜 / <f040><f042>そう、言ってた渡り鳥がいたな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I've heard of you. Aren't you 4? The Exorcist, right?
+  RE : I've heard of you. Aren't you 4?
+       The Exorcist, right?
+
+[US#3203]
+  JP : 「年に一度、たくさんの信応谷を持って / トンネルの中を行き来したもんだぜ業でこの場がにぎわっていた頃 / アンダートラフィックスと / もうひとつ、<88fa><b:8ab8>用のトンネルがあったな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But don't let that stop you. Diligence is a virtue. Some Merc once said so.
+  RE : But don't let that stop you.
+       Diligence is a virtue. Some Merc
+       once said so.
+
+[US#3204]
+  JP : 「ダムツェンの復興のためにも / あのトンネルは / 閉鎖しない方がよかったんじゃないか？別は興えていた渓谷場さ / あんたら他所者には授<b:8abe>なだけだぜ貧[03]好きだね / こんな何にもない場に / 何度も足を運ぶなんて
+  LIT: (literal pending: JP has unsolved codes)
+  EN : People go back and forth bearing Empathite about once a week.
+  RE : People go back and forth bearing
+       Empathite about once a week.
+
+[US#3205]
+  JP : 「なにが目的かはわからんが / まあ、せいぜい頑張ってくれ婆ちゃん / こんな何にもない場に / なにか用かい？<b:8ac1>作<b:8ac3><b:8ac1>作するんだ？<b:8ac1>作するんだ？<b:8ac1>作するか？<b:8ac1>作できないぜ<b:8ac4><b:8ac5><b:8ac
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Closing that tunnel really hurt Damzen City's prosperity.
+  RE : Closing that tunnel really hurt
+       Damzen City's prosperity.
+
+[US#3206]
+  JP : 「でもそれは / 信応谷に頼ったものではないんだ
+  LIT: But that isn't something you rely on Empathite for. (信応谷=Empathite, corrupt)
+  EN : Don't know what yer up to, but good luck anyhow.
+  RE : Don't know what yer up to, but good
+       luck anyhow.
+
+[US#3207]
+  JP : 「〜うまく言えないな〜
+  LIT: ...I can't put it well...
+  EN : This isn't something we can use Empathite for...
+  RE : This isn't something we can use
+       Empathite for...
+
+[US#3208]
+  JP : 「強く生きるための、強い『想い』〜 / それで注がることができれば / 人はもっと強くなれる
+  LIT: A strong 'will' to live strongly; if you can pour that in, people can grow stronger still.
+  EN : It's hard to express...
+  RE : It's hard to express...
+
+[US#3209]
+  JP : 「〜違うかな注がりは / 心の注がりだと思うんだが / <f040><f042>どう思う？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If we can link ourselves through our strong desire to live, then we will all become stronger.
+  RE : If we can link ourselves through
+       our strong desire to live, then we
+       will all become stronger.
+
+[US#3210]
+  JP : 「心を注いで / 不安を抱えることができるなら / うちのタワーが役に立つんだけど〜純度が / 大きく関わってくるんだ
+  LIT: If you can pour in your heart and hold your unease, our tower can be of use, but... purity matters greatly. (bleed-over tail)
+  EN : Am I right?
+  RE : Am I right?
+
+[US#3211]
+  JP : 「でも、もっと重要なのは / 念話を伝えようとする / その人の<88ea>念力の強さだぜ<b:8a4e>理、<8934><88e0>ジャックをおこなうなら / テレパスタワー<8872>の信応谷が必要だ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If we can link our hearts and overcome our fears, our Tower might come in handy.
+  RE : If we can link our hearts and
+       overcome our fears, our Tower might
+       come in handy.
+
+[US#3212]
+  JP : 「でも、個人間の連絡くらいなら / 手の平サイズの信応谷で / <89ce>分事たりるぞ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But even more important is the strength of will of the person trying to send a thought.
+  RE : But even more important is the
+       strength of will of the person
+       trying to send a thought.
+
+[US#3213]
+  JP : 「もう、これで / <8934><88e0>ジャックなんてできないと思うぞ / 〜たぶんな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But to get in touch with an individual, a piece about as big as your hand would do the job.
+  RE : But to get in touch with an
+       individual, a piece about as big as
+       your hand would do the job.
+
+[US#3214]
+  JP : 「さっそくタワーの信応谷に / プロテクトをかけて / 通信<88e0>に<8865>搭侵入できないようにしよう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm sure that no one could use the Tower to broadcast clandestinely with it...I think...
+  RE : I'm sure that no one could use the
+       Tower to broadcast clandestinely
+       with it...I think...
+
+[US#3215]
+  JP : 「それよりもッ！ / あのテロリストどうするつもりなんだ？ / 何とかしてくれよッ！<b:8ad9>を行う / 放着<897f>なんだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We must make sure Telepath Tower's Empathite can't be used for a clandestine broadcast.
+  RE : We must make sure Telepath Tower's
+       Empathite can't be used for a
+       clandestine broadcast.
+
+[US#3216]
+  JP : 「あの連中〜 / 勝手に入って何をするつもりか知らないけど / やめてほしいぜ
+  LIT: Those people... I don't know what they mean to do barging in, but I wish they'd stop.
+  EN : Don't worry about that now! I'm more worried about the terrorists. Do something!
+  RE : Don't worry about that now! I'm
+       more worried about the terrorists.
+       Do something!
+
+[US#3217]
+  JP : 「寂いじゃないか〜身で設理しているテレパスタワーに / <8a22>な連中が立ち入っているんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I don't know what they intend to do there, but I doubt it's anything good.
+  RE : I don't know what they intend to do
+       there, but I doubt it's anything
+       good.
+
+[US#3218]
+  JP : 「そいつらが来てから / タワー街にモンスターも出没するんで / 近づくこともできやしない
+  LIT: Ever since they came, monsters show up in the tower district, so you can't even go near it.
+  EN : Isn't it scary?
+  RE : Isn't it scary?
+
+[US#3219]
+  JP : 「何なんだ？ / あいつらは？
+  LIT: What are they, those guys?
+  EN : Ever since they came, monsters have been appearing there. We can't even approach it!
+  RE : Ever since they came, monsters have
+       been appearing there. We can't even
+       approach it!
+
+[US#3220]
+  JP : 「見るからにヤバそうな４人組だから / <88f7>意するのも、おっかないぜ勝手にタワーに / 入りこんだりしやがって〜来 / 少ししっかりしてきた気がします
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Who are those people?
+  RE : Who are those people?
+
+[US#3221]
+  JP : 「ファルガイアも / この異世事態を乗り抱えて / もっと素素らしい世界になれれば〜<b:8ae0>に / 念話通信が / 役立っているといいのですが〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It was four people, and they seemed very dangerous. I would be careful of them if I were you...
+  RE : It was four people, and they seemed
+       very dangerous. I would be careful
+       of them if I were you...
+
+[US#3222]
+  JP : 「大きくて、純度の高い信応谷を使ってますが / テレパスタワーも / すいぶん古くなってしまいましたから〜<b:8ae1>、テレパスタワー街に / モンスターが棲みついてしまって〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I hope that Filgaia can survive these days of peril and become a better place to live.
+  RE : I hope that Filgaia can survive
+       these days of peril and become a
+       better place to live.
+
+[US#3223]
+  JP : 「信応谷のメンテナンスが / やりにくくなってしまいました身のテレパスタワーが / 手伝ったみたいで〜
+  LIT: Maintaining the Empathite has become difficult. (信応谷=Empathite; tail テレパスタワー bleed-over)
+  EN : We're using a very large, pure piece of Empathite, but the Telepath Tower is getting old.
+  RE : We're using a very large, pure
+       piece of Empathite, but the
+       Telepath Tower is getting old.
+
+[US#3224]
+  JP : 「やっぱり / 我が身の責任なんでしょうか？身はずっと / 谷のふもとのテレパスタワーの設理を / 任されてきたんです
+  LIT: Is it our own responsibility, after all? I've long been entrusted with the care of the Telepath Tower at the valley's foot. (設理->管理)
+  EN : Maintaining the Empathite has become more difficult.
+  RE : Maintaining the Empathite has
+       become more difficult.
+
+[US#3225]
+  JP : 「どうしましょう〜 / 何か良くないことが / 起きなければいいのですが〜設理は / すべてムスメの靴に / 任せようと思う〜
+  LIT: What shall we do... I only hope nothing bad comes of it. (tail: I mean to leave the upkeep to my daughter)
+  EN : Does that make our family responsible?
+  RE : Does that make our family
+       responsible?
+
+[US#3226]
+  JP : 「まだまだなヤツだが / わしもあのくらいの腕には / あんなもんだったしな靴め / あんまりしっかりしてくると / わしが小言を言う楽しみがなくなるだろうが靴には / しっかりしてもらわないと〜靴め / 以前と比べると / だいぶマシになってきよった
+  LIT: He's still green, but I was about that good myself once. (rambling bleed-over: if my kid gets too competent, I lose the fun of nagging)
+  EN : What'll we do now? I hope nothing bad comes of it.
+  RE : What'll we do now? I hope nothing
+       bad comes of it.
+
+[US#3227]
+  JP : 「だが、まだまだだな〜靴が / すすんでタワーのメンテナンスに行きよった / こりゃ、めずらしいことだ靴も / あんたらみたいに / もっとしっかりしてくれたらな
+  LIT: But he's still got a ways to go. (bleed: the kid went off to do tower maintenance on his own, a rare thing)
+  EN : I could wish for someone better to leave it to, but I wasn't much better at that age, I guess.
+  RE : I could wish for someone better to
+       leave it to, but I wasn't much
+       better at that age, I guess.
+
+[US#3228]
+  JP : 「ウジウジしているのは / 見ていて腹が立ってくるッ！<b:8ae7>どもにいいようにされるとはッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But he's still got a long way to go...
+  RE : But he's still got a long way to
+       go...
+
+[US#3229]
+  JP : 「タワーのみならず / あそこに保設しておいたトレジャーコールが / 悪用されなければよいが〜
+  LIT: I only hope the Booty Call I had stored there isn't put to ill use, on top of the tower. (保設->保管)
+  EN : I get so mad when I see people goofing off all day!
+  RE : I get so mad when I see people
+       goofing off all day!
+
+[US#3230]
+  JP : 「ブツブツ〜身で設理してきた / テレパスタワーと呼ばれる放着<897f>がある
+  LIT: (literal pending: JP has unsolved codes)
+  EN : And not just the Tower, either... I hope they don't use the Booty Call for their misdeeds...
+  RE : And not just the Tower, either... I
+       hope they don't use the Booty Call
+       for their misdeeds...
+
+[US#3231]
+  JP : 「実はな〜 / その<897f>の中に不<897c>な人物が / 出入りしておるようなんじゃ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Yeah, yeah...
+  RE : Yeah, yeah...
+
+[US#3232]
+  JP : 「見つけたのは / ムスメの靴なんだが / どうしてその場で<88f7>意しないんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Actually... Strange people are loitering about there even now.
+  RE : Actually... Strange people are
+       loitering about there even now.
+
+[US#3233]
+  JP : 「わしには / それがわからんッ！
+  LIT: That, I do not know!
+  EN : It was my daughter's husband who found them, but he didn't tell us about them.
+  RE : It was my daughter's husband who
+       found them, but he didn't tell us
+       about them.
+
+[US#3234]
+  JP : 「渓谷の抜け道なんて / 危なっかしい信じがしますが / 本当のところはどうなんでしょう？<b:8ae8>やそうと思っているんですが
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Why not I'll never know!
+  RE : Why not I'll never know!
+
+[US#3235]
+  JP : 「よければ、ポンポコ谷の抜け道が / どこに通じていたか / 教えてもらえませんか？<b:8aea>は / 見つけられましたか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It seems that a secret route through a mine would be perilous, but what was it like?
+  RE : It seems that a secret route
+       through a mine would be perilous,
+       but what was it like?
+
+[US#3236]
+  JP : 「一度に多くの人々に対してアピールする / その手段として、テレパスタワーは / 最も効果を発揮する場所ですから効果を上げる手段を
+  LIT: As a means of appealing to many people at once, the Telepath Tower is where it works best. (tail bleed-over)
+  EN : Feel like telling me where the secret passage leads to?
+  RE : Feel like telling me where the
+       secret passage leads to?
+
+[US#3237]
+  JP : 「この場にも / 何か作力な手がかりがあるかもしれない / さっそく、<8856>査を開始しようッ！若者 / 「人も、星も〜 / 命を<8a0c><b:8aec>にしてはいけない〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It was the best way for them to get their message out to everyone at once.
+  RE : It was the best way for them to get
+       their message out to everyone at
+       once.
+
+[US#3238]
+  JP : 「死んでしまったら / やさしげな若者にも / お手上げなんじゃい〜若者 / 「<f040><f042>ファルガイアに滅亡の危機ッ！ / 滅亡はいかんぞ、滅亡は〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There might be something in this town that can help us find out. Let's get started quick!
+  RE : There might be something in this
+       town that can help us find out.
+       Let's get started quick!
+
+[US#3239]
+  JP : 「ほどよいケガ人と / やさしげな若者のまなざし / 未来に必要なのは、このふたつじゃ若者 / 「く、くそッ！ / こんなモノ、お前らにくれてやるわいッ！若者 / 「こんな便利なモノがあるから / わしの生きがいが〜若者 / 「確かに渡したぞい若者 / 「な、何と、いじりがいのありそうな / <b:
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If you die, not even the best doctor can save you.
+  RE : If you die, not even the best
+       doctor can save you.
+
+[US#3240]
+  JP : 「悪いことは言わんから / おとなしく / わしにいじられてみないかね？
+  LIT: I'll tell you no lie, so won't you quietly let me examine you?
+  EN : We need more cheerful patients, and kind doctors like me to treat them!
+  RE : We need more cheerful patients, and
+       kind doctors like me to treat them!
+
+[US#3241]
+  JP : 「寂がらなくてもいい〜 / わしにいじられるのは / むしろ、カラダにエエくらいじゃ若者 / 「ほらほら〜 / やさしー目をしているだろう〜
+  LIT: No need to be shy. Being examined by me is, if anything, good for the body. (bleed: young man, see what gentle eyes I have)
+  EN : I promise I won't hurt you. Will you please let me examine you?
+  RE : I promise I won't hurt you. Will
+       you please let me examine you?
+
+[US#3242]
+  JP : 「『目は、口ほどにモノを言う』ッ！ / この、やさしー目で若者を呼び込むんじゃ
+  LIT: 'The eyes speak as plainly as the mouth'! With these gentle eyes I draw the young folk in.
+  EN : No need to be afraid. My examinations are very pleasant.
+  RE : No need to be afraid. My
+       examinations are very pleasant.
+
+[US#3243]
+  JP : 「わしの、やさしー目〜 / 世間性があると思わんか〜若者 / 「若者の年が / どうにもサッパリ<b:8ae8>えないはずだッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You know the saying, |Eyes are a window to the soul.| Yessir, these eyes are why patients come to me.
+  RE : You know the saying, |Eyes are a
+       window to the soul.| Yessir, these
+       eyes are why patients come to me.
+
+[US#3244]
+  JP : 「アンダートラフィックスの / 崩落事<8808>埋合め〜 / わしの悪口をいろんな所で吹抜してやがる若者 / 「テロリストの依行で / 若者が<b:8ae8>えると期待したんじゃが〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You want to look into my eyes... You're getting drowsy...
+  RE : You want to look into my eyes...
+       You're getting drowsy...
+
+[US#3245]
+  JP : 「どうしてサッパリ / 客足が途絶えているんだろうか？若者 / 「渓谷のケガが少なくなってきたのを / ひとり<b:8af6>しく思っていたが〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Those ingrates who were caught in the Under Traffic cave-in are saying bad things about me!
+  RE : Those ingrates who were caught in
+       the Under Traffic cave-in are
+       saying bad things about me!
+
+[US#3246]
+  JP : 「こりゃまた / 楽しくなってきそうじゃわい / うっし、うっしッ！若者 / 「いろいろいじらせてくれる若者は好きじゃが / そうでないのは、うるさいだけじゃい
+  LIT: Now this is getting fun. Yes, yes! (bleed: I like youngsters who let me poke around; the rest are just noise)
+  EN : ...so why have patients stopped coming altogether!?
+  RE : ...so why have patients stopped
+       coming altogether!?
+
+[US#3247]
+  JP : 「しかし、つまらんな / 渓谷のふもとのダムツェンじゃ / 骨<88dd>なんて珍しくもなんともないわい
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...but now it looks like things might be looking up again!
+  RE : ...but now it looks like things
+       might be looking up again!
+
+[US#3248]
+  JP : 「どうせなら / もっとワクワクするような若者を / 連れてきてほしいもんじゃ
+  LIT: If you're going to, I'd like you to bring me some more exciting young folk.
+  EN : It's boring...Damzen's at the base of a mine, so I set broken bones all the time.
+  RE : It's boring...Damzen's at the base
+       of a mine, so I set broken bones
+       all the time.
+
+[US#3249]
+  JP : 「ス、スミマセンね / 大騒ぎしたわりに / 指の骨<88dd>なんかで〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Next time I hope I get a patient I can get more excited about treating.
+  RE : Next time I hope I get a patient I
+       can get more excited about
+       treating.
+
+[US#3250]
+  JP : [17]来てくれなければ / 今ごろどうなっていたことやら
+  LIT: If you hadn't come, who knows what would have become of me by now. (17 = leading control code)
+  EN : Oh...Sorry 'bout that...It's just a broken finger, it seems...
+  RE : Oh...Sorry 'bout that...It's just a
+       broken finger, it seems...
+
+[US#3252]
+  JP : 「それと、もうひとつ〜 / 人の話を抜いたのです / たぶん、まちがいありません〜鎖するカタチで起きていた
+  LIT: And one more thing... someone pumped a person for information. I'm almost certain of it. (tail bleed-over: it happened in a sealing pattern)
+  EN : Good thing we found you after the cave-in, though.
+  RE : Good thing we found you after the
+       cave-in, though.
+
+[US#3253]
+  JP : 「何者かのしわざと / 考えられないこともないが〜
+  LIT: It's not impossible to suppose it was someone's doing.
+  EN : Also, I heard human voices. I'm almost sure of it.
+  RE : Also, I heard human voices. I'm
+       almost sure of it.
+
+[US#3254]
+  JP : 「通信機で / [0a]ぉさんに / 連絡とってみようよ
+  LIT: Let's try contacting {0} on the communicator. (0a = name slot)
+  EN : It could be part of someone's plan...
+  RE : It could be part of someone's
+       plan...
+
+[US#3255]
+  JP : 「青空に目標〜 / そんな、何でもない回世が / どれほど安心信を与えていたことか来おる〜
+  LIT: A goal in the blue sky; how much reassurance such an ordinary scene once gave. (tail bleed-over)
+  EN : Try contacting {0} on the communicator.
+  RE : Try contacting {0} on the
+       communicator.
+
+[US#3256]
+  JP : 「もしかして、更はお<88cc>えッ！ / 悪の招く誘<89dd>に乗せられて / 置使と共に舞い上がるのか？<b:8b08>って / 今度は〜 / <f040><f042>空が無くなる置変地異ッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The sun in the sky... We never knew how precious it was until now.
+  RE : The sun in the sky... We never knew
+       how precious it was until now.
+
+[US#3257]
+  JP : 「時代は、このジジイに / 何を見せようというのかッ！連絡のアジトが / こっそりと作られているなんてことは〜
+  LIT: What does the age mean to show this old man?! (tail bleed: that a secret hideout was quietly being built)
+  EN : Maybe the Angel of Death will come to greet me, and take me to heaven aboard a chariot?
+  RE : Maybe the Angel of Death will come
+       to greet me, and take me to heaven
+       aboard a chariot?
+
+[US#3258]
+  JP : 「考えていたら / おっかなくなって来おった〜連絡のアジトを持っているとすれば / そこは、めったに人が<b:8b0b>み込まない / あるいは<b:8b0b>み込めない場所に違いないッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What will the future show this old man before he dies?
+  RE : What will the future show this old
+       man before he dies?
+
+[US#3259]
+  JP : 「連絡のアジトとは / そういうモノじゃからのう
+  LIT: A hideout is that sort of thing, after all.
+  EN : It's kind of spooky just to think about it!
+  RE : It's kind of spooky just to think
+       about it!
+
+[US#3260]
+  JP : 「それになぞらえて / 空を『<89f9>の道』〜 / <88db><88dc>を『<88db>の道』と<895b>しておるのじゃ来て / どこへ行くのか〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Everyone knows those are the best locations for secret hideouts.
+  RE : Everyone knows those are the best
+       locations for secret hideouts.
+
+[US#3261]
+  JP : 「まあ、たいがいのヤツは / ポンポコ谷の地辺から / シエルジェに向かっているみたいじゃがのう来て / どこへ行くのか〜
+  LIT: Well, most folk seem to head from the underside of Ponpoko Valley toward Sielje. (bleed tail)
+  EN : So we can say that the sky is a |sea of wind,| and the desert is a |sea of sand.|
+  RE : So we can say that the sky is a
+       |sea of wind,| and the desert is a
+       |sea of sand.|
+
+[US#3262]
+  JP : 「まあ、たいがいのヤツは / アンダートラフィックスから / やって来ているみたいじゃがのう<b:8aec>じゃッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Well, most people seem to go to Sielje, using the tunnel...
+  RE : Well, most people seem to go to
+       Sielje, using the tunnel...
+
+[US#3263]
+  JP : 「信応谷という不思議な渓物によって / <8a10>く離れた者と意思を<88fa>わすことのできる / なかなか便利な機艇じゃて別はそれなりに興えておった / ダムツェンじゃが / 今となっては見る<88c0>もない〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Hmm...Most folks seem to come from Under Traffic...
+  RE : Hmm...Most folks seem to come from
+       Under Traffic...
+
+[US#3264]
+  JP : 「あの頃の名残といえば / 信応谷を使った放着<897f>が / この地方にあるくらいじゃのう<b:8b0d>しておく
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A useful device. It uses the mysterious ore Empathite to make thoughts known to those far away.
+  RE : A useful device. It uses the
+       mysterious ore Empathite to make
+       thoughts known to those far away.
+
+[US#3265]
+  JP : 「何か飲んでくかい？[18]か払いなんだ
+  LIT: Want something to drink? It's on me. (18 = prompt code)
+  EN : The most famous relic of that time is the broadcast tower, which uses Empathite.
+  RE : The most famous relic of that time
+       is the broadcast tower, which uses
+       Empathite.
+
+[US#3266]
+  JP : 「ちょうど、ダムツェンから[11]お北側[11]ぉに / 変な建物があるらしいんだ / ま、何があるか自分の目で確かめてみなよ<b:8bb4>[08][10][01]払いなんだ<b:8b0e>と / ミルクのアンバランスさがいいね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Ya want something to drink?2
+  RE : Ya want something to drink?2
+
+[US#3267]
+  JP : 「<f040><f041><f042>おお / いい飲みっぷりだ、ホレボレするね / そうだな、いいコトを教えてあげよう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : 1NE0 of Damzen City is a strange building, I hear. You seem like you might be interested...
+  RE : NE of Damzen City is a strange
+       building, I hear. You seem like you
+       might be interested...
+
+[US#3268]
+  JP : 「ちょうど、ダムツェンから[11]お北側[11]ぉに / 変な建物があるらしいんだ / ま、何があるか自分の目で確かめてみなよ飲みっぷりがよかったからね / 結単にいいコトを教えてあげよう
+  LIT: Just to the north of Damzen there's a strange building, they say. Go see with your own eyes what's there. (bleed: you drink well, so let me tell you something good)
+  EN : Well, you certainly know how to drink, don't you! I'm impressed. Want to hear some good gossip?
+  RE : Well, you certainly know how to
+       drink, don't you! I'm impressed.
+       Want to hear some good gossip?
+
+[US#3269]
+  JP : 「ちょうど、ダムツェンから[11]お北側[11]ぉに / 変な建物があるらしいんだ / ま、何があるか自分の目で確かめてみなよ浮かない探して
+  LIT: Just to the north of Damzen there's a strange building, they say. Go see with your own eyes what's there. (11/ぉ = emphasis codes; bleed tail)
+  EN : 1NE0 of Damzen City is a strange building, I hear. You seem like you might be interested...
+  RE : NE of Damzen City is a strange
+       building, I hear. You seem like you
+       might be interested...
+
+[US#3270]
+  JP : 「何か困っているんだったら / 僕に話してみないか？ / こう見えても僕とルカは〜
+  LIT: If something's troubling you, why not talk to me? Believe it or not, Luka and I...
+  EN : 1NE0 of Damzen City is a strange building, I hear. You seem like you might be interested...
+  RE : NE of Damzen City is a strange
+       building, I hear. You seem like you
+       might be interested...
+
+[US#3271]
+  JP : 「<f040><f041><f042>いや、すまん / 何でもない〜<f05b> / 別のコトだったよ困ったものだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If you get into trouble, just tell me about it. Luka and I ...
+  RE : If you get into trouble, just tell
+       me about it. Luka and I ...
+
+[US#3272]
+  JP : 「ま、僕がこんなところで手伝わせているのが / イケナイのかもしれないが〜
+  LIT: Well, maybe it's wrong of me to have her helping out in a place like this.
+  EN : Oh yeah...never mind... I didn't mean anything by it... That was a long time ago...
+  RE : Oh yeah...never mind... I didn't
+       mean anything by it... That was a
+       long time ago...
+
+[US#3273]
+  JP : 「あんなに、おてんばだと嫁の貰い手が / つくかどうか心配でな〜困ったものだよ
+  LIT: As big a tomboy as she is, I worry whether she'll ever find a husband. What a handful.
+  EN : 'Course, it's partly my fault for making her work in this place.
+  RE : 'Course, it's partly my fault for
+       making her work in this place.
+
+[US#3274]
+  JP : 「ま、僕がこんなところで手伝わせているのが / イケナイのかもしれないが〜
+  LIT: Well, maybe it's wrong of me to have her helping out in a place like this.
+  EN : Do tom-boys like that ever find husbands...I get worried...
+  RE : Do tom-boys like that ever find
+       husbands...I get worried...
+
+[US#3275]
+  JP : 「あんなに、おてんばだと嫁の貰い手が / つくかどうか心配でな〜
+  LIT: As big a tomboy as she is, I worry whether she'll find a husband.
+  EN : 'Course, it's partly my fault for making her work in this place.
+  RE : 'Course, it's partly my fault for
+       making her work in this place.
+
+[US#3276]
+  JP : 「キミのように / 少しは可愛らしくしてくれれば / いいんだがね〜
+  LIT: If she'd make herself a little more charming, like you, it'd be fine, but...
+  EN : Do tom-boys like that ever find husbands...It makes me worried...
+  RE : Do tom-boys like that ever find
+       husbands...It makes me worried...
+
+[US#3277]
+  JP : 「親<8a0e>がいないから / 一応、種のオレがしっかりしなくちゃな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I wish she'd make herself a little bit more cute...like you.
+  RE : I wish she'd make herself a little
+       bit more cute...like you.
+
+[US#3278]
+  JP : 「関係ないけど、僕たちは異種種族なんだ / ま、本当の種族のように / ルカが僕を慕ってくれるから助かってるけど<b:8b1a>に来ている連中がいるんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Our parents are gone, so as her older brother, it's all up to me.
+  RE : Our parents are gone, so as her
+       older brother, it's all up to me.
+
+[US#3279]
+  JP : 「<8815>往復復なのはいいんだが / ルカ目当てってのがね〜〜 / 種としては、複雑な気分だよ〜種さんはどうしたんだい？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We have different mothers, but Luka still looks up to me. She's such a good kid...
+  RE : We have different mothers, but Luka
+       still looks up to me. She's such a
+       good kid...
+
+[US#3280]
+  JP : 「<f040><f041><f042>あ、やっぱりいいよ話さなくて / 聞かなくてもキミたちを見ればわかる / 変なことを聞いてすまなかったな〜<b:8a39>（？）がいたよな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's good for business, but as her older brother, I'm worried about her, too...
+  RE : It's good for business, but as her
+       older brother, I'm worried about
+       her, too...
+
+[US#3281]
+  JP : 「かっこうは変だったけど / 何かとてつもないものを連めた信じだったな / <f040><f041><f042>もしかすると〜いや、なんでもない〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : No, don't worry about it. You don't need to tell me. I can tell by looking at you. Sorry I asked...
+  RE : No, don't worry about it. You don't
+       need to tell me. I can tell by
+       looking at you. Sorry I asked...
+
+[US#3282]
+  JP : 「まだ、ポンポコ谷で / 信応谷がたくさん通れていた頃〜
+  LIT: Back when a lot of Empathite still passed through Ponpoko Valley... (信応谷=Empathite)
+  EN : She looked funny enough, but it looked like maybe she was hiding something pretty...Oh, never mind.
+  RE : She looked funny enough, but it
+       looked like maybe she was hiding
+       something pretty...Oh, never mind.
+
+[US#3283]
+  JP : 「素れた時、目標の方向に目を凝らすと / 小さな他に、小さな建物の<88c0>が / ボンヤリと見える事があったんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : In the days when mining Empathite was like pickin' apples from a tree...
+  RE : In the days when mining Empathite
+       was like pickin' apples from a
+       tree...
+
+[US#3284]
+  JP : 「あれはいったい / 何だったんだろうな〜<b:8b1f>にもなく、そう思えてくるんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : On clear mornings, if you looked towards the sun, you could see a small building on a small island...
+  RE : On clear mornings, if you looked
+       towards the sun, you could see a
+       small building on a small island...
+
+[US#3285]
+  JP : 「だとしたら / 辛いんだろうな〜 / 苦しいんだろうな〜溜まり場があるらしい
+  LIT: If so, it must be painful... it must be agonizing... (tail bleed: there seems to be a hangout)
+  EN : I often wonder what that was...
+  RE : I often wonder what that was...
+
+[US#3286]
+  JP : 「そんなすげぇトコならば / 渓谷なんかも / たくさん通れるんじゃないか？
+  LIT: If it's such an amazing place, wouldn't a lot of ore pass through there too?
+  EN : If so, there will be pain... and suffering too...
+  RE : If so, there will be pain... and
+       suffering too...
+
+[US#3287]
+  JP : 「いったい、どこにあるのやら〜真っ暗、なんて / 渓谷で働いていた僕たちは / <b:8b22>れっこだけどよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If such a place exists, there must be lots of ore around it.
+  RE : If such a place exists, there must
+       be lots of ore around it.
+
+[US#3288]
+  JP : 「この得体の知れない不気味さは / どうにもならねぇな〜<b:8b23><89cc>となってしまったものもある
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I wonder where it is...
+  RE : I wonder where it is...
+
+[US#3289]
+  JP : 「そういうのを放っておくと / やがてモンスターたちが棲みついて / どうにもならない状態になるんだ
+  LIT: Leave that kind of thing be, and before long monsters settle in and it's beyond saving.
+  EN : It's hard to get used to something this mysterious...
+  RE : It's hard to get used to something
+       this mysterious...
+
+[US#3290]
+  JP : 「連中がねらうとすれば / ダムツェンよりも / むしろ、ホルストだな〜
+  LIT: If they're going to target somewhere, it's Holst rather than Damzen.
+  EN : 'Course, monsters love places like that, and once they get a foot-hold it's hard to get 'em out.
+  RE : 'Course, monsters love places like
+       that, and once they get a foot-hold
+       it's hard to get 'em out.
+
+[US#3291]
+  JP : 「連中にとっても / うまみの少ないダムツェンじゃ / 情報もなかなか<8880>まってこないんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They'd be after Holst before they'd come after Damzen City, I'd bet...
+  RE : They'd be after Holst before they'd
+       come after Damzen City, I'd bet...
+
+[US#3292]
+  JP : 「そう、メリアブールの<89fb>方が言ったのかい？ / ホントに、そう言ったんだな？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They aren't very interested in this place, though, so it's hard to find out anything about 'em.
+  RE : They aren't very interested in this
+       place, though, so it's hard to find
+       out anything about 'em.
+
+[US#3293]
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: ...gaoo... gaoo... gaoo... (16 = SFX code)
+  EN : The King of Meria Boule really said that? He really did?
+  RE : The King of Meria Boule really said
+       that? He really did?
+
+[US#3294]
+  JP : 「ポンポコ谷が、さびれていく一方だから / てっきり僕たちは / <89fb>方に見捨てられたと思いこんでいたよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...30...30...30...
+  RE : ...30...30...30...
+
+[US#3295]
+  JP : 「まだ、僕たちのことを / おぼえていてくれたなんて〜
+  LIT: To think they still remembered us...
+  EN : Mt. Chug-Chug is dead now, so we all thought that the King had abandoned us.
+  RE : Mt. Chug-Chug is dead now, so we
+       all thought that the King had
+       abandoned us.
+
+[US#3296]
+  JP : 「いや、こんなおいしい場所で / また使ってくれるなんて / ありがたい話だよ
+  LIT: No, that they'd use this fine place, and us, again, is a blessing.
+  EN : So he still remembers us...
+  RE : So he still remembers us...
+
+[US#3297]
+  JP : 「僕たちダムツェンの渓谷は / あんたたちに協力するぜ
+  LIT: We miners of Damzen will cooperate with you.
+  EN : I'm glad we can be of use again... especially like this.
+  RE : I'm glad we can be of use again...
+       especially like this.
+
+[US#3298]
+  JP : 「いっしょに戦っていこうッ！ / まずは、ポンポコ谷地辺トンネルの開放だな / こいつを持って行きなッ！
+  LIT: Let's fight together! First, opening the Ponpoko Valley underside tunnel. Take this with you!
+  EN : We Damzen city miners will do anything to help you.
+  RE : We Damzen city miners will do
+       anything to help you.
+
+[US#3299]
+  JP : 「その別、メリアブールの<89fb>方からもらった / ポンポコ谷で / いちばん強いヤツの証だッ！所の銀世界が<89da>がっている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We'll fight together! First we'll have to free the tunnel. Bring this!
+  RE : We'll fight together! First we'll
+       have to free the tunnel. Bring
+       this!
+
+[US#3300]
+  JP : 「シエルジェは / [11]お祈<89af>の中央[11]ぉに級置している自分<89b7>だ / <8954>いやすいから気をつけろよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's proof from the King of Meria Boule that I'm the top-man at Mt. Chug-Chug!
+  RE : It's proof from the King of Meria
+       Boule that I'm the top-man at Mt.
+       Chug-Chug!
+
+[US#3301]
+  JP : 「僕たちでできることなら / いくらでも協力するつもりだぜ<b:8b28>前の渓谷かしらだけど / 信応谷がたくさん通れているころは / 僕もちょっとしたモンだったんだぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The Sielje Region is 1in the middle of a snow field.0 I warn you - it's easy to get lost!
+  RE : The Sielje Region is in the middle
+       of a snow field. I warn you - it's
+       easy to get lost!
+
+[US#3302]
+  JP : 「メリアブールの<89fb>方から / ポンポコ谷の地辺トンネルの設理を / まかされていた時期もあったんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We'll do whatever we can to help.
+  RE : We'll do whatever we can to help.
+
+[US#3303]
+  JP : 「もっとも〜 / 脱出する信応谷が無ければ / 何の役に立たないトンネルだけどな
+  LIT: Though... with no Empathite to make an escape, it's a tunnel that's of no use at all. (信応谷=Empathite)
+  EN : There was a time when the King of Meria Boule left maintenance of the tunnel to me.
+  RE : There was a time when the King of
+       Meria Boule left maintenance of the
+       tunnel to me.
+
+[US#3304]
+  JP : 「<8934><88e0>ジャックなんてやらかした / テロリストと / 何か関係があるってんじゃないだろうな<b:8b22>れない飛空機艇が / かっ飛んでいったな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The tunnel wouldn't be of any use if there wasn't anything to export, of course.
+  RE : The tunnel wouldn't be of any use
+       if there wasn't anything to export,
+       of course.
+
+[US#3305]
+  JP : 「たしかに、[11]おポンポコ谷[11]ぉの<88c4>上には / 飛空機艇用の / エアプレーンポートが作られているがよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...Maybe it has something to do with the terrorists who started the clandestine broadcast...
+  RE : ...Maybe it has something to do
+       with the terrorists who started the
+       clandestine broadcast...
+
+[US#3306]
+  JP : 「信応谷が通れなくなった今〜 / 脱出する必要が無いってのに / いったい誰が飛空機艇を飛ばしているんだ？
+  LIT: Now that the Empathite can't get through, when there's no need to escape, who on earth is flying the machines? (信応谷=Empathite)
+  EN : There was an airplane port for flying machines on the peak of 1Mt. Chug-Chug0, but...
+  RE : There was an airplane port for
+       flying machines on the peak of Mt.
+       Chug-Chug, but...
+
+[US#3307]
+  JP : 「この先、１００数は使用に耐えられる / 最高<8872>の純度と大きさだぜ暮らしともオサラバさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Now that there's no more Empathite to be mined and exported, who would be up there in a flying machine?
+  RE : Now that there's no more Empathite
+       to be mined and exported, who would
+       be up there in a flying machine?
+
+[US#3308]
+  JP : 「くそったれッ！ / あの谷にはもう抜けになるほど / 信応谷が<89db>まっていないんだとよッ！<b:8ad3>回 / 酒ばかりのんでるっていうのも / そろそろ<b:8b2b>きてきてはいるんだが
+  LIT: (literal pending: JP has unsolved codes)
+  EN : From its size and purity, it should be good for at least 100 years or so...
+  RE : From its size and purity, it should
+       be good for at least 100 years or
+       so...
+
+[US#3309]
+  JP : 「かといって / ほかになにもすることがないしなぁ〜〜酒を飲んだくれる生<b:8a9a>にも悪くないが / そればっかりっていうのもなぁ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Now there's nothing in that mountain that anyone could make a living off of! What'll we do...?
+  RE : Now there's nothing in that
+       mountain that anyone could make a
+       living off of! What'll we do...?
+
+[US#3310]
+  JP : 「なぁあんた / どこかで渓谷が見つかったとかいう話 / 聞いたことないかい？静かなものさ
+  LIT: Say, you, haven't you heard any talk of a mine being found somewhere? (tail bleed: it's quiet)
+  EN : But there's just nothing else to do...
+  RE : But there's just nothing else to
+       do...
+
+[US#3311]
+  JP : 「あまりの静かさに / 気が滅入ってきそうだ / 気素らしに酒を飲むくらいしかないよ奴らの仕業か？
+  LIT: The quiet's so heavy it gets me down. About all I can do to lift the mood is drink. (bleed: their doing?; 気素らし->気晴らし)
+  EN : Didn't I hear something 'bout you finding a mine somewhere?
+  RE : Didn't I hear something 'bout you
+       finding a mine somewhere?
+
+[US#3312]
+  JP : 「こんなことなら / 捕まえてとっちめとけば / よかったよ奴らの仕業か？
+  LIT: If I'd known it'd come to this, I should've caught them and given them what for. (bleed: their doing?)
+  EN : So quiet sometimes I think my crews 'll go loose. All there is to lighten the mood is drinking.
+  RE : So quiet sometimes I think my crews
+       'll go loose. All there is to
+       lighten the mood is drinking.
+
+[US#3313]
+  JP : 「で、奴らの新体は何なんだ / あんた知ってんだろう？ / ちょっとくらい教えてくれよ
+  LIT: So what's their real nature? You know, don't you? Tell me even a little.
+  EN : Now I wish I'd taken 'em out of commission like I wanted to then...
+  RE : Now I wish I'd taken 'em out of
+       commission like I wanted to then...
+
+[US#3314]
+  JP : 「渓谷は閉谷してしまったんだ / 何にも無い場だぜ、ここは乗り仲間から / 聞いた話なんですがね〜
+  LIT: The valley's been closed off. There's nothing here now. (bleed tail: something I heard from a fellow rider)
+  EN : What're those guys really up to? I bet you know! Come on, tell me, Please?
+  RE : What're those guys really up to? I
+       bet you know! Come on, tell me,
+       Please?
+
+[US#3315]
+  JP : 「外道のはずれでは / 道の<8a07>も / おかしくなってきたらしいですぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Now that the mine's closed, this place's got nothing to offer, though...nothing.
+  RE : Now that the mine's closed, this
+       place's got nothing to offer,
+       though...nothing.
+
+[US#3316]
+  JP : 「空に<8a18>いて / 道までも〜 / やっぱりもう、ダメなんですかい？乗りだった頃〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : At the edge of the open sea, the color of the water is the wrong color, he says.
+  RE : At the edge of the open sea, the
+       color of the water is the wrong
+       color, he says.
+
+[US#3317]
+  JP : 「一度だけ / ゲートブリッジが開放しているのを / 見たことがあるんですよ
+  LIT: I saw the Gate Bridge open, just once.
+  EN : So now it's not just the sky, but the sea as well. What'll be next?
+  RE : So now it's not just the sky, but
+       the sea as well. What'll be next?
+
+[US#3318]
+  JP : 「それはそれは / 珍しいモンなんで / 思わず運んじまいました乗り時代に / いろいろ不思議なモノも / 見てきたつもりだったんですがね〜
+  LIT: It was such a rare sight I hauled it off without thinking. (bleed: back in my riding days I thought I'd seen my share of strange things)
+  EN : I saw the Gate Bridge open just once.
+  RE : I saw the Gate Bridge open just
+       once.
+
+[US#3319]
+  JP : 「さすがに / 空が無くなっちまうなんて / デタラメな事は初めてでさぁ乗りなんですよ
+  LIT: Even so, the sky vanishing, an absurd thing like that, was a first. (bleed: I'm a rider)
+  EN : It's such a rare thing, I said a prayer without even meanin' to!
+  RE : It's such a rare thing, I said a
+       prayer without even meanin' to!
+
+[US#3320]
+  JP : 「でも、乗っていた<89d3>は / <898f>没しちまうし / 渓谷（おやま）は閉鎖されるときた
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But this is the first time I've ever seen anything like the sky disappearing...
+  RE : But this is the first time I've
+       ever seen anything like the sky
+       disappearing...
+
+[US#3321]
+  JP : 「あっしが何か / 悪いことでもしたんでしょうか？<b:8b2d>をもってしても / すべての探<887e>は難しいと聞いてますぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But my ship sank at about the same time the mine closed up.
+  RE : But my ship sank at about the same
+       time the mine closed up.
+
+[US#3322]
+  JP : 「いくつかの道路は / 海川や陸地、<89ec>なんかによって / 街道として封じられているんです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Do you think I did something wrong?
+  RE : Do you think I did something wrong?
+
+[US#3323]
+  JP : 「探<887e>に見落としがないよう / 気をつけてくださいよ難物の多くはそこに流れ着くって話ですぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There're parts of the sea that are surrounded by shoals, land, and bridges, too - the inland seas.
+  RE : There're parts of the sea that are
+       surrounded by shoals, land, and
+       bridges, too - the inland seas.
+
+[US#3324]
+  JP : 「[11]お街道の中央付近[11]ぉにも / 小さな他がありましてね / そこも道難物の流れ先って話ですぜ働きたいんですよ
+  LIT: Near the middle of the sea route there's a small island too, and they say driftwood washes ashore there. (11/ぉ emphasis; bleed tail)
+  EN : Be careful not to miss any of these in your search!
+  RE : Be careful not to miss any of these
+       in your search!
+
+[US#3325]
+  JP : 「でもね、ポンポコ谷にはもう / 抜けが出るほど / 信応谷は<89db>まってないんですよ枯<b:8b30>たる大地が / <b:8b31>々と<89da>がってるんです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There's an island 1near the center of the inland sea0 that also has flotsam and jetsam on it, I hear.
+  RE : There's an island near the center
+       of the inland sea that also has
+       flotsam and jetsam on it, I hear.
+
+[US#3326]
+  JP : 「つまらないなんて / 言いっこ無しですよ
+  LIT: Don't go calling it boring, now.
+  EN : But there's not enough Empathite left in the mines to make a profit.
+  RE : But there's not enough Empathite
+       left in the mines to make a profit.
+
+[US#3327]
+  JP : 「そこには / あっしらの渓谷（おやま）〜 / ポンポコ谷があるんですから難しい道<8a1b>かもしれませんな<b:8ac3>に往っている / 『テレポートジェム』言うんですかい？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Don't be saying this is boring you!
+  RE : Don't be saying this is boring you!
+
+[US#3328]
+  JP : 「そいつを使えば / 今まで行った場に瞬間移動できるって / 話じゃないですかい
+  LIT: They say if you use that, you can teleport in an instant to any place you've already been.
+  EN : There you'll find our mine... Mt. Chug-Chug.
+  RE : There you'll find our mine... Mt.
+       Chug-Chug.
+
+[US#3329]
+  JP : 「もっとも、あっしは生まれてこのかた / ダムツェン以外の場を知らないので / 使っても意味が無いんですがね
+  LIT: Mind you, I've known nowhere but Damzen my whole life, so it'd be no use to me.
+  EN : Isn't that the Gem you can use to transport yourself instantly to towns you've already been to?
+  RE : Isn't that the Gem you can use to
+       transport yourself instantly to
+       towns you've already been to?
+
+[US#3330]
+  JP : 「<f040><f042>そうそう〜 / 指定できる行き先の場は / 一行のリーダーが訪れた場に権るそうで
+  LIT: (literal pending: JP has unsolved codes)
+  EN : 'Course, I've never been to a town besides Damzen City, so such a thing wouldn't do me any good...
+  RE : 'Course, I've never been to a town
+       besides Damzen City, so such a
+       thing wouldn't do me any good...
+
+[US#3331]
+  JP : 「気をつけてください<b:8a39>ッ！ / いきなり、失<8928>じゃろがッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Yes, you can only use it to bring you to towns the group's leader has been to...
+  RE : Yes, you can only use it to bring
+       you to towns the group's leader has
+       been to...
+
+[US#3332]
+  JP : 「この家たちは / わらわの幻幻術でつくりあげた / アカとアオじゃッ！施<89b1>所知ってるよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Be careful, now.
+  RE : Be careful, now.
+
+[US#3333]
+  JP : 「えーとね、これは種種とアタイが / 渡り鳥みたいなコトをしてたときに / 聞いたことなんだけど〜
+  LIT: Um, this is something I heard back when Grandpa and I were doing Merc-like work. (種種 = 'Grandpa'/kin, decode odd)
+  EN : These are my friends made with ultra high-tech, Hob and Nob.
+  RE : These are my friends made with
+       ultra high-tech, Hob and Nob.
+
+[US#3334]
+  JP : 「[11]おシルヴァラントの先[11]ぉの / [11]お谷に囲まれた場所[11]ぉに変な施<89b1>所が / あるんだってさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Something big bro' and I heard when we were being Mercs a while back...
+  RE : Something big bro' and I heard when
+       we were being Mercs a while back...
+
+[US#3335]
+  JP : 「きっとそっちの方が幻幻術だってッ<b:8a39>ッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Apparently there's a mysterious lab 1surrounded by mountains0 1south of Sylvaland0.
+  RE : Apparently there's a mysterious lab
+       surrounded by mountains south of
+       Sylvaland.
+
+[US#3336]
+  JP : 「いいじゃろうッ / ノーブルレッドがファルガイアの / 真の支配者だと言うことを見せてやるわいッ
+  LIT: Very well! I'll show you that the Crimson Nobles are the true rulers of Filgaia!
+  EN : I bet they're REALLY ultra high-tech!
+  RE : I bet they're REALLY ultra high-
+       tech!
+
+[US#3337]
+  JP : 「では、さっそくその施<89b1>所を破滅〜〜 / もといッ、<8918>参してくるとしようかのッ！ / 行くぞ[05]ぉッ！施<89b1>所は見つかったかい？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's OK. I'll show her that the REAL rulers of Filgaia are the Crimson Nobles.
+  RE : That's OK. I'll show her that the
+       REAL rulers of Filgaia are the
+       Crimson Nobles.
+
+[US#3338]
+  JP : 「場所は、[11]おシルヴァラントの先[11]ぉの / [11]お谷に囲まれた場所岸り[11]ぉだからね / ま、がんばってねぇ種種の作る料理は置辺一<892e>だよッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Now to destroy the lab! Or...maybe we should just check it out...Let's go, 0!
+  RE : Now to destroy the lab! Or...maybe
+       we should just check it out...Let's
+       go, !
+
+[US#3339]
+  JP : 「アタイの好物の『サバの味噌煮』なんて / もう、ウマイのなんのって〜ッ！ / あんたたちも一度、食べてみなよッ！種種の作る料理は置辺一<892e>だよッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Remember, it's in a place that's 1surrounded by mountains0 1south of Sylvaland.0
+  RE : Remember, it's in a place that's
+       surrounded by mountains south of
+       Sylvaland.
+
+[US#3340]
+  JP : 「<f040><f041><f042>あ、アタイはちょっと苦手だけど〜<f05b> / あんたは、どうだい？ / 単に女だからって料理が苦手でもいいよな？腕なんだけどさ / 未成数がこんな酒場で働いてていいのかね？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He makes my favorite dish, lasagna, better than anyone. Try some before you go?
+  RE : He makes my favorite dish, lasagna,
+       better than anyone. Try some before
+       you go?
+
+[US#3341]
+  JP : 「まったく、アタイに手伝わせる / 種種がイケナイんだ
+  LIT: Honestly, it's Grandpa's fault for making me help. (種種 kin term)
+  EN : My cooking's not very good though...How 'bout you? Women don't need be good cooks, right?
+  RE : My cooking's not very good
+       though...How 'bout you? Women don't
+       need be good cooks, right?
+
+[US#3342]
+  JP : 「ま、種種ひとりだと / この酒場つぶれちゃうからな / やっぱり、アタイがついてなきゃねぇ腕なんだけどさ / 未成数がこんな酒場で働いてていいのかね？
+  LIT: Well, Grandpa alone would run this tavern into the ground, so I do have to be here. (bleed: an underage girl working a bar like this, is that all right?)
+  EN : It's all my big-brother's fault, you understand.
+  RE : It's all my big-brother's fault,
+       you understand.
+
+[US#3343]
+  JP : 「ちなみに種種は２６腕なんだけどさ / はやく嫁さんでももらえば / アタイが手伝わなくてもすむのに〜
+  LIT: Incidentally, Grandpa's 26. If he'd just take a wife, I wouldn't have to help. (腕->歳 corrupt 'years old')
+  EN : 'Course, without me this place 'd fall apart in about a minute...
+  RE : 'Course, without me this place 'd
+       fall apart in about a minute...
+
+[US#3344]
+  JP : 「あ、そうだ / あんた、ウチの種種どうだい？ / もらってくれないかな？
+  LIT: Oh, that's right, how about our Grandpa for you? Won't you take him? (種種 kin term)
+  EN : My brother's already 26, ya know. If he finds a wife I won't have to help out here anymore...
+  RE : My brother's already 26, ya know.
+       If he finds a wife I won't have to
+       help out here anymore...
+
+[US#3345]
+  JP : 「いざとなったら、アタイと種種で / なんとかしてみせるさ / らくしょーッ！ らくしょーッ！
+  LIT: When it comes down to it, Grandpa and I will manage somehow. Easy! Easy!
+  EN : Hey, how 'bout you? You wanna marry my brother?
+  RE : Hey, how 'bout you? You wanna marry
+       my brother?
+
+[US#3346]
+  JP : 「なんたって、アタイたちは別〜 / <f040><f041><f042>あっと、それは連絡なんだ<f048>酒が飲みたいのかい？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If it gets really bad, bro and I'll do something about it. No problem!
+  RE : If it gets really bad, bro and I'll
+       do something about it. No problem!
+
+[US#3347]
+  JP : 「でも、まだダメだよ / アタイみたく、もっと大人になってからだね / それまでは我慢、我慢ッ！<b:8b37>れたときはいつでも来なよッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You see, a long time ago we were... ...Oh! I forgot, that's a secret...
+  RE : You see, a long time ago we were...
+       ...Oh! I forgot, that's a secret...
+
+[US#3348]
+  JP : 「いまを忘れて / 酔いつぶれるのも一興ってモンよ
+  LIT: Forgetting the now and drinking yourself senseless is a pleasure of its own.
+  EN : You can't, you know, until you become more of an adult, like me. Until then...patience, patience!
+  RE : You can't, you know, until you
+       become more of an adult, like me.
+       Until then...patience, patience!
+
+[US#3349]
+  JP : 「でも、アンタたちには / やらなきゃならないことがあるんだよね / それが終ってからゆっくりしていってよッ！組み合わせだよね
+  LIT: But you've got things you must do, right? Come relax once that's done! (bleed tail: nice pairing)
+  EN : Sometimes you just have to drink 'til you forget everything, ya know...
+  RE : Sometimes you just have to drink
+       'til you forget everything, ya
+       know...
+
+[US#3350]
+  JP : 「あはは〜ッ！ / よければ、この出式いのために / 一<88ec>おごらせてもらおうかなッ！酒におぼえれているなんて思わないでね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Of course, y'all have things you have to do, I see. You can relax once that's done!
+  RE : Of course, y'all have things you
+       have to do, I see. You can relax
+       once that's done!
+
+[US#3351]
+  JP : 「誰でも飲みたいときはあるんだからさ〜 / <f040><f041><f042>なんてね<f048> / アタイのガラじゃなかったかな酒の２つの効力を / 結単におしえてあげるよッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I got an idea! Why don't I treat y'all to a drink to celebrate our acquaintance!
+  RE : I got an idea! Why don't I treat
+       y'all to a drink to celebrate our
+       acquaintance!
+
+[US#3352]
+  JP : 「お酒は、いやなことをいっとき忘れさせ / うれしいことを / さらにうれしく信じさせてくれるんだよッ！
+  LIT: Drink makes you forget the unpleasant things for a while, and makes the happy things feel happier!
+  EN : Everyone goes through their periods, you see... Wait a sec...What am I saying?
+  RE : Everyone goes through their
+       periods, you see... Wait a
+       sec...What am I saying?
+
+[US#3353]
+  JP : 「でも、アタイぐらい / お酒の味がわかるには / まだまだ時間がかかりそうだねッ！種さんは / ずいぶんとお酒に強そうな信じだね
+  LIT: But it'll be a good while yet before I can taste drink the way I do. (bleed: {n} looks like a strong drinker)
+  EN : It'll make you forget the bad things - for a while - and it'll make the good things better!
+  RE : It'll make you forget the bad
+       things - for a while - and it'll
+       make the good things better!
+
+[US#3354]
+  JP : 「よければこんど / アタイと飲み比べでもしてみないか？ / 言っとくけどアタイは強いよぉッ！別、そうだったから / <89a3>伸びをしたい数頃なのはわかるけどさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But you have a long way to go until you become an expert like me!
+  RE : But you have a long way to go until
+       you become an expert like me!
+
+[US#3355]
+  JP : 「そのまえに / もっと自分を磨かなくちゃねッ！酒の味がわかるようになってから来なよ
+  LIT: Before that, I've got to polish myself more. Come back once you can appreciate the taste of drink.
+  EN : Why don't we see next time who can drink who under the table! I warn you, though, I'm pretty good...
+  RE : Why don't we see next time who can
+       drink who under the table! I warn
+       you, though, I'm pretty good...
+
+[US#3356]
+  JP : 「そん時を楽しみにしてるからさ<f044>策い目つきをしてるね / まるで別の自分を見ているようだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But first you have to get some real experience.
+  RE : But first you have to get some real
+       experience.
+
+[US#3357]
+  JP : 「よければ一<88ec>おごらせてもらおうかなッ！ / 別のアタイのような目の人に、乾<88ec>ッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'll look forward to it...
+  RE : I'll look forward to it...
+
+[US#3358]
+  JP : 「今回は、なんの用かな？ / 最近はこの前の放着の話ばかりだよね
+  LIT: So what is it this time? Lately it's nothing but talk of that earlier business.
+  EN : Why don't I treat you to a drink? Cheers to my younger self!
+  RE : Why don't I treat you to a drink?
+       Cheers to my younger self!
+
+[US#3359]
+  JP : 「それよりさ、せっかく来たんだから / 一<88ec>、ひっかけていかない？ / サービスするよ<f044>婆ちゃんには、まだここは早いかもね / おウチに帰ったほうがいいんじゃない？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What d'ya want now? All they talk about these days is that broadcast a while ago.
+  RE : What d'ya want now? All they talk
+       about these days is that broadcast
+       a while ago.
+
+[US#3360]
+  JP : 「この場に何か目的があるとすれば / テレパスタワー〜〜 / あとはポンポコ谷ってとこかな鳥』みたいなコトをしてたんだけど〜
+  LIT: If there's a target around here, it'd be the Telepath Tower, or maybe Ponpoko Valley. (bleed: I used to do Merc-like work)
+  EN : That's gotten old, though. Now that you're here, why don't you put one back on the house?
+  RE : That's gotten old, though. Now that
+       you're here, why don't you put one
+       back on the house?
+
+[US#3361]
+  JP : 「今じゃすっかり酒場のウェイトレスが / 板についちゃったよ / アタイのエプロン姿なかなかのモンだろ？
+  LIT: Now I've settled right into being a tavern waitress. My apron looks pretty good, don't you think?
+  EN : If they're after something 'round here, it's got to be the Telepath Tower or Mt. Chug-Chug...
+  RE : If they're after something 'round
+       here, it's got to be the Telepath
+       Tower or Mt. Chug-Chug...
+
+[US#3362]
+  JP : 「それからさ、たまにはウチに寄って行きなよ / お宝のシッポを / つかむチャンスがあるかもよ仲間って大事なもんだぜ
+  LIT: And drop by our place now and then; you might get a chance to grab the tail of some treasure. (bleed: comrades matter)
+  EN : But now I've settled down into the life of a waitress. Don't you think this apron looks good on me?
+  RE : But now I've settled down into the
+       life of a waitress. Don't you think
+       this apron looks good on me?
+
+[US#3363]
+  JP : 「僕も渡り鳥なんて甘見ないで / 渓谷仲間がいる、このダムツェンで / 何とかやっていくよ鳥デビューは / 早くも<b:8b3e><88dd>してしまったよ〜 / 仲間が誰もノってきてくれないんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Come to think of it, why don't you drop by my house sometime? You might get a lead on that treasure!
+  RE : Come to think of it, why don't you
+       drop by my house sometime? You
+       might get a lead on that treasure!
+
+[US#3364]
+  JP : 「渡り鳥にデビューするには / いいチャンスかも知れんなッ！鳥になったら / 僕はまず、道に出たいな / ずっと渓谷暮らしだったからな
+  LIT: It might be a good chance to debut as a Merc! (bleed: if I became a rider I'd want to hit the road first, I've lived my whole life in the valley)
+  EN : I'll not go chasin' dreams of being a Merc. I'll do something here with my miner friends.
+  RE : I'll not go chasin' dreams of being
+       a Merc. I'll do something here with
+       my miner friends.
+
+[US#3365]
+  JP : 「それに、道は<89da>いから / お宝のチャンスとか / まだまだありそうだぜッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : This might be a good chance to become a Merc...
+  RE : This might be a good chance to
+       become a Merc...
+
+[US#3366]
+  JP : 「信応谷の通れない渓谷に / いつまでもしがみついているよりも / いっそ、遺跡でひとやま当てた方が〜鳥になって / 気ままに暮らすってのも悪くないな / 生<b:8a9a>の保証は無いけれど〜<b:8b3f>任を考えるか？<b:8b40>地にはもっと / 単のモノが[89]
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The sea is so big there still might be a chance for me to find some treasure!
+  RE : The sea is so big there still might
+       be a chance for me to find some
+       treasure!
+
+[US#3367]
+  JP : 「そう、お宝だよッ！ / 渡り鳥にでもなって / 渓谷ならぬ、お宝を<885f>りあてようかな？<b:8b40>地へ脱出されたんだぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'd rather try to make my fortune in a ruin than stick around a dead mine with no more Empathite.
+  RE : I'd rather try to make my fortune
+       in a ruin than stick around a dead
+       mine with no more Empathite.
+
+[US#3368]
+  JP : 「<88c4>上のエアプレーンポートも / 脱出のために / 設けられた<88e4>設なんだぜ<b:8b40>地へ脱出されたんだぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's it...treasure! I'll become a Merc and dig for treasure, not Empathite!
+  RE : That's it...treasure! I'll become a
+       Merc and dig for treasure, not
+       Empathite!
+
+[US#3369]
+  JP : 「お得意先だったシエルジェ自分<89b7>とは / 地辺のトンネルで / つながっていたんだよな谷に / 任を与えてくれるんなら大<b:8ad0><88cc>だ<b:8b41>地にあった渓谷だ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The airplane port on the peak was built as an export facility, you know.
+  RE : The airplane port on the peak was
+       built as an export facility, you
+       know.
+
+[US#3370]
+  JP : 「まわりは何にもない枯れ地だが / ポンポコ谷から渓谷が通れなくなったから / 本当に何にも無い荒地になっちまった<b:8a97>胞でもないのに / 聞き込みしてまわっているのか？抜け話かい？ / カンタンに<b:8b3f>がっているんなら / 僕がひとくち乗りてェところさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : And there was a tunnel straight to Sielje, since they were such good customers.
+  RE : And there was a tunnel straight to
+       Sielje, since they were such good
+       customers.
+
+[US#3371]
+  JP : 「あたしだけじゃないッ！
+  LIT: It's not just me!
+  EN : It's surrounded by barren wilderness. Nothing much remains now that the Empathite's gone.
+  RE : It's surrounded by barren
+       wilderness. Nothing much remains
+       now that the Empathite's gone.
+
+[US#3372]
+  JP : 「戦う力は無くても / あんたらの力になりたいと考えている人間は / この世界中にたくさんいるはずさ
+  LIT: Even without the power to fight, there must be many people the world over who want to be of help to you.
+  EN : I'm not the only one!
+  RE : I'm not the only one!
+
+[US#3373]
+  JP : 「この想いを / 戦う力に<88fb>えることができたら / どんなに、心強いだろうな〜説の時代とは何かが〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm sure there're many people in this world who'd help you out if they had the power to fight.
+  RE : I'm sure there're many people in
+       this world who'd help you out if
+       they had the power to fight.
+
+[US#3374]
+  JP : 「たしかに、ファルガイアは / かつてない絶対の危機にさらされている〜 / でもさ<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If we could turn this desire into actual strength, imagine how strong we'd be...
+  RE : If we could turn this desire into
+       actual strength, imagine how strong
+       we'd be...
+
+[US#3375]
+  JP : 「これまでは、人間の力が<f040><f042> / あんたらＡＲＭＳが / くいとめてくれているんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Filgaia is facing a danger that could be the end of everything...But still...
+  RE : Filgaia is facing a danger that
+       could be the end of
+       everything...But still...
+
+[US#3376]
+  JP : 「伝説のように / 依頼の出現を待たずとも / 何とかなるかもしれないッ！<b:8b44>う / 全世界<b:8a47>域の啓示〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It seems like normal people, including you all of ARMS, are doing something about it.
+  RE : It seems like normal people,
+       including you all of ARMS, are
+       doing something about it.
+
+[US#3377]
+  JP : 「オデッサなんかとは / 比物にならない未曾作の危機〜
+  LIT: An unprecedented crisis Odessa can't even compare to. (比物->比べ物; 未曾作->未曾有)
+  EN : We might be able to stop it without waiting for a hero, like in the legends.
+  RE : We might be able to stop it without
+       waiting for a hero, like in the
+       legends.
+
+[US#3378]
+  JP : 「ファルガイアは今〜 / ＜剣の巫女＞を<f040><f042> / 『依頼』を集めているんじゃないかな？剣の巫女＞が<b:8b4b>るったっていう / ガーディアンブレード・アガートラームって / そんなに強力な神獣だったのかな？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Compared to that, Odessa is nothing!
+  RE : Compared to that, Odessa is
+       nothing!
+
+[US#3379]
+  JP : 「古代の幻同獣でもかなわなかった / 『救の啓示』を授けたんだから / すごい神獣なんだろうけれど〜
+  LIT: It granted the 'Revelation of Salvation' that even the ancient phantom-beasts couldn't match, so it must be an amazing divine beast, but... (幻同獣->幻獣)
+  EN : It seems like Filgaia isn't looking for another <Sword Magess> or a |Hero.|
+  RE : It seems like Filgaia isn't looking
+       for another <Sword Magess> or a
+       |Hero.|
+
+[US#3380]
+  JP : 「今に残る伝説を / もっと、ひもといてみないと〜<b:8b4d>物を見ていると / ふと考えることがあるよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Well, it defeated the |Blaze of Disaster,| which none of the other weapons of old did, so it must be.
+  RE : Well, it defeated the |Blaze of
+       Disaster,| which none of the other
+       weapons of old did, so it must be.
+
+[US#3381]
+  JP : 「あんなスゴイものをもってしても / ご先祖方たちは『救の啓示』を / 授けることができなかったんだね〜<b:8b40>地に残る遺跡と枯埋って〜 / 『救の啓示』が頼れまわった / <b:8b4f><b:8b50>みたいなものかもね〜別、ファルガイアは / 空あふれる星だったってさ / 信じられるか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We should look more deeply into the legends left over from the old times.
+  RE : We should look more deeply into the
+       legends left over from the old
+       times.
+
+[US#3382]
+  JP : 「このダムツェンのまわりに / たくさんの木や草が生えていたって / ちょっと想像つかないね枯埋が多いのは / あの『救の啓示』の伝説が / 大きく関係しているらしいね
+  LIT: I can hardly picture Damzen once ringed with trees and grass. (bleed: the barrenness has much to do with that 'Revelation of Salvation' legend; 枯埋->枯れ地)
+  EN : Even wielding something that powerful, our ancestors couldn't defeat the |Blaze of Disaster.|
+  RE : Even wielding something that
+       powerful, our ancestors couldn't
+       defeat the |Blaze of Disaster.|
+
+[US#3383]
+  JP : 「あっという間に / 焼き払われたってのはわかるけど〜
+  LIT: I get that it was burned away in an instant, but...
+  EN : It's hard to imagine a place like Damzen City surrounded by plants and trees...
+  RE : It's hard to imagine a place like
+       Damzen City surrounded by plants
+       and trees...
+
+[US#3384]
+  JP : 「あれから時間は流れているのに / どうして空が元に戻らないんだろう？<b:8a6f>は、いただけないねぇ〜 / 〜でも、ひと稼ぎできそうな<888e>信<f044>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Even if everything was scorched and burned away...
+  RE : Even if everything was scorched and
+       burned away...
+
+[US#3385]
+  JP : 「[11]おこの場のずっと側[11]ぉにある渓谷〜 / 『ポンポコ谷』の新儀な名前は / ケルテペッキョシルトリンゲロン谷なんだ
+  LIT: The valley way off to the side of this place, 'Ponpoko Valley', has the formal name Keltepekkyoshirtlingeron Valley. (新儀->正式)
+  EN : ...Why hasn't the green returned even after all this time...?
+  RE : ...Why hasn't the green returned
+       even after all this time...?
+
+[US#3386]
+  JP : 「もう、おぼえたよね？<b:8ad9><897f>って話だよ抜け話を探しに来たんだけど / しくじったね〜 / こんなにシケた場とは思わなかったよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's the mine 1far east of here.0 Its Mt. Chug-Chug, but its real name is Keltepekio Siltolingelon.
+  RE : It's the mine far east of here. Its
+       Mt. Chug-Chug, but its real name is
+       Keltepekio Siltolingelon.
+
+[US#3387]
+  JP : 「〜ファルガイアの中心から / 始まってるんじゃないかな？
+  LIT: It starts from the center of Filgaia, doesn't it?
+  EN : You got it, right?
+  RE : You got it, right?
+
+[US#3388]
+  JP : 「[11]お世界の中央[11]ぉには / 地辺に向かって<89c1>さに伸びている<897f>が / 隠されているんだってさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...has to come from Filgaia's center. That's what I think.
+  RE : ...has to come from Filgaia's
+       center. That's what I think.
+
+[US#3389]
+  JP : 「これって〜 / 何か絶対にあると思うよッ！<b:8b56>設ともいえる / ライブエネルギー発<89ca>、レイライン〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They say that at the 1center of the world0 lies a hidden tower built downwards, not upwards.
+  RE : They say that at the center of the
+       world lies a hidden tower built
+       downwards, not upwards.
+
+[US#3390]
+  JP : 「そのレイラインの先には / 『レイポイント』と呼ばれる / 強力な気溜りがあるらしいね
+  LIT: At the end of that ley line there's said to be a powerful pool of energy called a 'Raypoint'.
+  EN : I have a feeling it just has to exist!
+  RE : I have a feeling it just has to
+       exist!
+
+[US#3391]
+  JP : 「[11]おダムツェンの北東[11]ぉにも / レイポイントのひとつが確認されているけど / どうやったら行けるのかわからないんだよ<b:8b57>保設の役<8913>があるらしいね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : At the ends of the Ralines, they say, lie the Raypoints, where energy pools.
+  RE : At the ends of the Ralines, they
+       say, lie the Raypoints, where
+       energy pools.
+
+[US#3392]
+  JP : 「<f040><f042>かつて、ファルガイアを<8832>った / ＜剣の巫女＞に関する情報も / 朽ちることなく残っているみたいだよ路は / どこかよどんだ、気味の悪い道なんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A Raypoint has been sighted 1NW of Damzen0, but I wouldn't know how to get there.
+  RE : A Raypoint has been sighted NW of
+       Damzen, but I wouldn't know how to
+       get there.
+
+[US#3393]
+  JP : 「<89d3>乗りたちも / おっかながって / 近寄らないって話だよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There will be more information about the <Sword Magess> there than any place else.
+  RE : There will be more information
+       about the <Sword Magess> there than
+       any place else.
+
+[US#3394]
+  JP : 「全部で４つあるうちのひとつは / 道からにょっきり建っているそうだ業とする場があるんだ
+  LIT: One of the four in all is said to jut straight up out of the sea. (bleed tail)
+  EN : The sailors are scared of it, too. They won't get near it.
+  RE : The sailors are scared of it, too.
+       They won't get near it.
+
+[US#3395]
+  JP : 「その場の名はホルスト〜 / でも、聞いた話じゃ / オデッサにねらわれているんだってさ
+  LIT: That place is called Holst. But from what I hear, it's being targeted by Odessa.
+  EN : One of the four of them is said to rise above the sea.
+  RE : One of the four of them is said to
+       rise above the sea.
+
+[US#3396]
+  JP : 「<89e7>の名前はリキキス〜 / 『<88db><88dc>が流した涙』って意味らしいね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's called Holst. I heard that Odessa was after it, though.
+  RE : It's called Holst. I heard that
+       Odessa was after it, though.
+
+[US#3397]
+  JP : 「[11]お祈<89af>の真ん中[11]ぉに結界を張って / 誰にも術式施<89b1>のジャマを / されないようにしているらしいね騒がせ連中が / この地方を後にするとすれば〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The river is called the Likikis, which they say means |Tears of the Desert.|
+  RE : The river is called the Likikis,
+       which they say means |Tears of the
+       Desert.|
+
+[US#3398]
+  JP : 「ポンポコ谷がクサイと / あたいはにらんだね平く渡り鳥さ
+  LIT: I've got my eye on Ponpoko Valley as suspicious. (bleed: I'm just a plain Merc; 平く->ただの?)
+  EN : They've got barriers around their laboratory 1in the middle of the snow-fields0 so no one can intrude.
+  RE : They've got barriers around their
+       laboratory in the middle of the
+       snow-fields so no one can intrude.
+
+[US#3399]
+  JP : 「ひとりはいいよ〜 / いつでも自由だし / 何より気ままで、肩がこらない
+  LIT: Being alone is fine; always free, and above all easygoing, no stiff shoulders.
+  EN : I think they just might aim for Mt. Chug-Chug.
+  RE : I think they just might aim for Mt.
+       Chug-Chug.
+
+[US#3400]
+  JP : 「おひとり方につき一緒[02]ギャラ / [02]人方ですので、[02]ギャラとなりますが / よろしいですか？[18]か
+  LIT: It's one Gella per person, and for {n} people that's {n} Gella. Is that all right? (02 = number slots, 18 prompt)
+  EN : I love being alone. No one bugs me, and I can do whatever I please.
+  RE : I love being alone. No one bugs me,
+       and I can do whatever I please.
+
+[US#3401]
+  JP : 「だったら / わらわの言うことを聞くがよい<b:8a39>の分<89d2>で / 生意気な口をききおるわッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We charge Gella per night per guest. For people, that will be Gella. OK?2
+  RE : We charge Gella per night per
+       guest. For people, that will be
+       Gella. OK?2
+
+[US#3402]
+  JP : 「わらわの知る権り / スレイハイム解放戦役以降 / あの面儀の飛空機艇を保作している者は無い
+  LIT: As far as I know, no one has kept that peculiar flying machine in service since the Slayheim Liberation War. (面儀->? 'peculiar type'; 保作->保有)
+  EN : If you do, you'll listen to me with utmost care.
+  RE : If you do, you'll listen to me with
+       utmost care.
+
+[US#3403]
+  JP : 「<f040><f042>となれば / あとはわかるじゃろう〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : As far as I know, no country has used that type of flying machine since the Slayheim Liberation Army.
+  RE : As far as I know, no country has
+       used that type of flying machine
+       since the Slayheim Liberation Army.
+
+[US#3404]
+  JP : 「でも、キミは / なぜそんなに<88a9>しいんだ？ / どうして俺たちに、その情報を？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : So...you should be able to figure out the rest...
+  RE : So...you should be able to figure
+       out the rest...
+
+[US#3405]
+  JP : 「〜いや、それ以前に / キミは、いったい誰なんだ？
+  LIT: ...No, before that, who on earth are you?
+  EN : But why would you know so much about such things? And why would you give the information to us?
+  RE : But why would you know so much
+       about such things? And why would
+       you give the information to us?
+
+[US#3406]
+  JP : 「紫外線はおハダの大相ゆえ / 着ぐるみ抱しにチラっと / 探と名前をサービスじゃッ！
+  LIT: Ultraviolet is the great foe of the skin, so from inside this costume I'll flash you a glimpse of my face and name as a treat! (探->顔 corrupt)
+  EN : Wait...before that...who are you?
+  RE : Wait...before that...who are you?
+
+[US#3407]
+  JP : 「思い出すがよい
+  LIT: Remember.
+  EN : Beware of ultraviolet rays! I'll tell you my face and name from within this protective costume!
+  RE : Beware of ultraviolet rays! I'll
+       tell you my face and name from
+       within this protective costume!
+
+[US#3408]
+  JP : 「それなのに / なぜ、キミは俺の名前を〜？
+  LIT: And yet, why do you know my name...?
+  EN : You should remember...
+  RE : You should remember...
+
+[US#3409]
+  JP : 「いたしかたあるまい〜 / それよりも / ヤツらのこと任せたぞ
+  LIT: It can't be helped. More to the point, I leave those fellows to you.
+  EN : And...how do you know my name?
+  RE : And...how do you know my name?
+
+[US#3410]
+  JP : 「古代の幻同獣でもかなわなかった / 『救の啓示』を授けたんだから / すごい神獣なんだろうけれど〜
+  LIT: It granted the 'Revelation of Salvation' that even the ancient phantom-beasts couldn't match, so it must be an amazing divine beast, but... (dup of 3379)
+  EN : Oh well...it's not a big deal, I guess... I'll leave the other matter up to you!
+  RE : Oh well...it's not a big deal, I
+       guess... I'll leave the other
+       matter up to you!
+
+[US#3411]
+  JP : 「今に残る伝説を / もっと、ひもといてみないと〜<b:8b4d>物を見ていると / ふと考えることがあるよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The sailors are scared of it, too. They won't get near it.
+  RE : The sailors are scared of it, too.
+       They won't get near it.
+
+[US#3412]
+  JP : 「あんなスゴイものをもってしても / ご先祖方たちは『救の啓示』を / 授けることができなかったんだね〜<b:8b40>地に残る遺跡と枯埋って〜 / 『救の啓示』が頼れまわった / <b:8b4f><b:8b50>みたいなものかもね〜別、ファルガイアは / 空あふれる星だったってさ / 信じられるか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : One of the four of them is said to rise above the sea.
+  RE : One of the four of them is said to
+       rise above the sea.
+
+[US#3413]
+  JP : 「このダムツェンのまわりに / たくさんの木や草が生えていたって / ちょっと想像つかないね枯埋が多いのは / あの『救の啓示』の伝説が / 大きく関係しているらしいね
+  LIT: I can hardly picture Damzen once ringed with trees and grass. (dup of 3382)
+  EN : It's called Holst. I heard that Odessa was after it, though.
+  RE : It's called Holst. I heard that
+       Odessa was after it, though.
+
+[US#3414]
+  JP : 「あっという間に / 焼き払われたってのはわかるけど〜
+  LIT: I get that it was burned away in an instant, but... (dup of 3383)
+  EN : The river is called the Likikis, which they say means |Tears of the Desert.|
+  RE : The river is called the Likikis,
+       which they say means |Tears of the
+       Desert.|
+
+[US#3415]
+  JP : 「あれから時間は流れているのに / どうして空が元に戻らないんだろう？<b:8a6f>は、いただけないねぇ〜 / 〜でも、ひと稼ぎできそうな<888e>信<f044>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They've got barriers around their laboratory 1in the middle of the snow-fields0 so no one can intrude.
+  RE : They've got barriers around their
+       laboratory in the middle of the
+       snow-fields so no one can intrude.
+
+[US#3416]
+  JP : 「[11]おこの場のずっと側[11]ぉにある渓谷〜 / 『ポンポコ谷』の新儀な名前は / ケルテペッキョシルトリンゲロン谷なんだ
+  LIT: The valley off to the side, 'Ponpoko Valley', has the formal name Keltepekkyoshirtlingeron Valley. (dup of 3385)
+  EN : I think they just might aim for Mt. Chug-Chug.
+  RE : I think they just might aim for Mt.
+       Chug-Chug.
+
+[US#3417]
+  JP : 「もう、おぼえたよね？<b:8ad9><897f>って話だよ抜け話を探しに来たんだけど / しくじったね〜 / こんなにシケた場とは思わなかったよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I love being alone. No one bugs me, and I can do whatever I please.
+  RE : I love being alone. No one bugs me,
+       and I can do whatever I please.
+
+[US#3418]
+  JP : 「〜ファルガイアの中心から / 始まってるんじゃないかな？
+  LIT: It starts from the center of Filgaia, doesn't it? (dup of 3387)
+  EN : We charge Gella per night per guest. For people, that will be Gella. OK?2
+  RE : We charge Gella per night per
+       guest. For people, that will be
+       Gella. OK?2
+
+[US#3419]
+  JP : 「[11]お世界の中央[11]ぉには / 地辺に向かって<89c1>さに伸びている<897f>が / 隠されているんだってさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If you do, you'll listen to me with utmost care.
+  RE : If you do, you'll listen to me with
+       utmost care.
+
+[US#3420]
+  JP : 「これって〜 / 何か絶対にあると思うよッ！<b:8b56>設ともいえる / ライブエネルギー発<89ca>、レイライン〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : As far as I know, no country has used that type of flying machine since the Slayheim Liberation Army.
+  RE : As far as I know, no country has
+       used that type of flying machine
+       since the Slayheim Liberation Army.
+
+[US#3421]
+  JP : 「そのレイラインの先には / 『レイポイント』と呼ばれる / 強力な気溜りがあるらしいね
+  LIT: At the end of that ley line there's a powerful pool of energy called a 'Raypoint'. (dup of 3390)
+  EN : So...you should be able to figure out the rest...
+  RE : So...you should be able to figure
+       out the rest...
+
+[US#3422]
+  JP : 「[11]おダムツェンの北東[11]ぉにも / レイポイントのひとつが確認されているけど / どうやったら行けるのかわからないんだよ<b:8b57>保設の役<8913>があるらしいね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But why would you know so much about such things? And why would you give the information to us?
+  RE : But why would you know so much
+       about such things? And why would
+       you give the information to us?
+
+[US#3423]
+  JP : 「<f040><f042>かつて、ファルガイアを<8832>った / ＜剣の巫女＞に関する情報も / 朽ちることなく残っているみたいだよ路は / どこかよどんだ、気味の悪い道なんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Wait...before that...who are you?
+  RE : Wait...before that...who are you?
+
+[US#3424]
+  JP : 「<89d3>乗りたちも / おっかながって / 近寄らないって話だよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Beware of ultraviolet rays! I'll tell you my face and name from within this protective costume!
+  RE : Beware of ultraviolet rays! I'll
+       tell you my face and name from
+       within this protective costume!
+
+[US#3425]
+  JP : 「全部で４つあるうちのひとつは / 道からにょっきり建っているそうだ業とする場があるんだ
+  LIT: One of the four in all is said to jut straight up out of the sea. (dup of 3394)
+  EN : You should remember...
+  RE : You should remember...
+
+[US#3426]
+  JP : 「その場の名はホルスト〜 / でも、聞いた話じゃ / オデッサにねらわれているんだってさ
+  LIT: That place is called Holst. But I hear it's being targeted by Odessa. (dup of 3395)
+  EN : And...how do you know my name?
+  RE : And...how do you know my name?
+
+[US#3427]
+  JP : 「<89e7>の名前はリキキス〜 / 『<88db><88dc>が流した涙』って意味らしいね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Oh well...it's not a big deal, I guess... I'll leave the other matter up to you!
+  RE : Oh well...it's not a big deal, I
+       guess... I'll leave the other
+       matter up to you!
+
+[US#3428]
+  JP : 「[11]お祈<89af>の真ん中[11]ぉに結界を張って / 誰にも術式施<89b1>のジャマを / されないようにしているらしいね騒がせ連中が / この地方を後にするとすれば〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The sailors are scared of it, too. They won't get near it.
+  RE : The sailors are scared of it, too.
+       They won't get near it.
+
+[US#3429]
+  JP : 「ポンポコ谷がクサイと / あたいはにらんだね平く渡り鳥さ
+  LIT: I've got my eye on Ponpoko Valley as suspicious. (dup of 3398)
+  EN : One of the four of them is said to rise above the sea.
+  RE : One of the four of them is said to
+       rise above the sea.
+
+[US#3430]
+  JP : 「ひとりはいいよ〜 / いつでも自由だし / 何より気ままで、肩がこらない
+  LIT: Being alone is fine; always free, and above all easygoing. (dup of 3399)
+  EN : It's called Holst. I heard that Odessa was after it, though.
+  RE : It's called Holst. I heard that
+       Odessa was after it, though.
+
+[US#3431]
+  JP : 「おひとり方につき一緒[02]ギャラ / [02]人方ですので、[02]ギャラとなりますが / よろしいですか？[18]か
+  LIT: It's one Gella per person, and for {n} people that's {n} Gella. Is that all right? (dup of 3400)
+  EN : The river is called the Likikis, which they say means |Tears of the Desert.|
+  RE : The river is called the Likikis,
+       which they say means |Tears of the
+       Desert.|
+
+[US#3432]
+  JP : 「だったら / わらわの言うことを聞くがよい<b:8a39>の分<89d2>で / 生意気な口をききおるわッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They've got barriers around their laboratory 1in the middle of the snow-fields0 so no one can intrude.
+  RE : They've got barriers around their
+       laboratory in the middle of the
+       snow-fields so no one can intrude.
+
+[US#3433]
+  JP : 「わらわの知る権り / スレイハイム解放戦役以降 / あの面儀の飛空機艇を保作している者は無い
+  LIT: As far as I know, no one has kept that peculiar flying machine in service since the Slayheim Liberation War. (dup of 3402)
+  EN : I think they just might aim for Mt. Chug-Chug.
+  RE : I think they just might aim for Mt.
+       Chug-Chug.
+
+[US#3434]
+  JP : 「<f040><f042>となれば / あとはわかるじゃろう〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I love being alone. No one bugs me, and I can do whatever I please.
+  RE : I love being alone. No one bugs me,
+       and I can do whatever I please.
+
+[US#3435]
+  JP : 「でも、キミは / なぜそんなに<88a9>しいんだ？ / どうして俺たちに、その情報を？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We charge Gella per night per guest. For people, that will be Gella. OK?2
+  RE : We charge Gella per night per
+       guest. For people, that will be
+       Gella. OK?2
+
+[US#3436]
+  JP : 「〜いや、それ以前に / キミは、いったい誰なんだ？
+  LIT: ...No, before that, who on earth are you? (dup of 3405)
+  EN : If you do, you'll listen to me with utmost care.
+  RE : If you do, you'll listen to me with
+       utmost care.
+
+[US#3437]
+  JP : 「紫外線はおハダの大相ゆえ / 着ぐるみ抱しにチラっと / 探と名前をサービスじゃッ！
+  LIT: Ultraviolet is the great foe of the skin, so from inside this costume I'll flash my face and name as a treat! (dup of 3406)
+  EN : As far as I know, no country has used that type of flying machine since the Slayheim Liberation Army.
+  RE : As far as I know, no country has
+       used that type of flying machine
+       since the Slayheim Liberation Army.
+
+[US#3438]
+  JP : 「思い出すがよい
+  LIT: Remember. (dup of 3407)
+  EN : So...you should be able to figure out the rest...
+  RE : So...you should be able to figure
+       out the rest...
+
+[US#3439]
+  JP : 「それなのに / なぜ、キミは俺の名前を〜？
+  LIT: And yet, why do you know my name...? (dup of 3408)
+  EN : But why would you know so much about such things? And why would you give the information to us?
+  RE : But why would you know so much
+       about such things? And why would
+       you give the information to us?
+
+[US#3440]
+  JP : 「いたしかたあるまい〜 / それよりも / ヤツらのこと任せたぞ
+  LIT: It can't be helped. More to the point, I leave those fellows to you. (dup of 3409)
+  EN : Wait...before that...who are you?
+  RE : Wait...before that...who are you?
+
+[US#3441]
+  JP : 「古代の幻同獣でもかなわなかった / 『救の啓示』を授けたんだから / すごい神獣なんだろうけれど〜
+  LIT: It granted the 'Revelation of Salvation' that even the ancient phantom-beasts couldn't match, so it must be an amazing divine beast, but... (dup of 3379)
+  EN : Beware of ultraviolet rays! I'll tell you my face and name from within this protective costume!
+  RE : Beware of ultraviolet rays! I'll
+       tell you my face and name from
+       within this protective costume!
+
+[US#3442]
+  JP : 「今に残る伝説を / もっと、ひもといてみないと〜<b:8b4d>物を見ていると / ふと考えることがあるよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You should remember...
+  RE : You should remember...
+
+[US#3443]
+  JP : 「あんなスゴイものをもってしても / ご先祖方たちは『救の啓示』を / 授けることができなかったんだね〜<b:8b40>地に残る遺跡と枯埋って〜 / 『救の啓示』が頼れまわった / <b:8b4f><b:8b50>みたいなものかもね〜別、ファルガイアは / 空あふれる星だったってさ / 信じられるか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : And...how do you know my name?
+  RE : And...how do you know my name?
+
+[US#3444]
+  JP : 「このダムツェンのまわりに / たくさんの木や草が生えていたって / ちょっと想像つかないね枯埋が多いのは / あの『救の啓示』の伝説が / 大きく関係しているらしいね
+  LIT: I can hardly picture Damzen once ringed with trees and grass. (dup of 3382)
+  EN : Oh well...it's not a big deal, I guess... I'll leave the other matter up to you!
+  RE : Oh well...it's not a big deal, I
+       guess... I'll leave the other
+       matter up to you!
+
+# =========================================================================================
+# STATUS: 293 boxes first-passed (US#3147-3444, block 12). Em-dash-free, <=3x35.
+# =========================================================================================

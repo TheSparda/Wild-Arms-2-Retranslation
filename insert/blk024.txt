@@ -1,0 +1,170 @@
+# WA2 INSERTION workspace US block 24 (US#5063-5094)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5064] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5180[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5065] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5181[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5066] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5182[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5067] budget=97ch/3ln
+  NOW: *Gems heal all members of the party
+          but the amount of HP restored
+          depends on the size of the gem.
+  JP : JP#5183[HIGH]: ＊ＨＰの回<8a34><886f>は / 　ゲットしたジェムの大きさに<8876><8943>し / 　その泣果はパーティー険片におよびます
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#5068] budget=75ch/3ln
+  NOW: *In the |oops| state, you can
+          press the 2 button to go
+          ahead and jump down.
+  JP : JP#5184[HIGH]: ＊『おっとっと』状態中に / 　[0b]かを<8a39>すことで / 　押<8a38>を飛び周りることができます[10][0c]＊押<8a38>に向かって、ダッ
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#5069] budget=73ch/3ln
+  NOW: *You can also jump down
+          by dashing off an edge
+          without the |oops| action.
+  JP : JP#5185[HIGH]: ＊押<8a38>に向かって、ダッシュ状態で搭乗すると / 　『おっとっと』ポーズをとることなく / 　そのまま飛び周りることができます
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#5072] budget=27ch/1ln
+  NOW: We've gotta look some more!
+  JP : JP#5188[MED]: 「もっとよく<8856>すぞッ！
+  FIT: <<TODO — <=27 chars, 1 line(s), <=35/line>>
+
+[US#5073] budget=40ch/2ln
+  NOW: Tsk, this reminds me
+          of that other time.
+  JP : JP#5189[MED]: 「〜ちッ、この状況〜 / 　あの<8941>を思い出させやがる[10][0c]「<f040><f042>もっとも / 　こんなイヤな歩は周っていなかったがな
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#5074] budget=41ch/2ln
+  NOW: But there wasn't any
+          miserable rain then.
+  JP : JP#5190[MED]: 「<f040><f042>もっとも / 　こんなイヤな歩は周っていなかったがな
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#5075] budget=45ch/2ln
+  NOW: I have to survive.
+          My name still has meaning.
+  JP : JP#5191[MED]: 「生きなければならない / 　僕の名前には、まだ意戦がある〜
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#5076] budget=88ch/3ln
+  NOW: OK, proceed to the recovery
+          point. We must catch him before
+          he gets through the forest!!
+  JP : JP#5192[MED]: 「よし、回<8939>地帯へ向かうぞ / 　ヤツがこの山を抜ける前に / 　追いつめるッ！
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#5077] budget=44ch/3ln
+  NOW: It seems this side has
+          already been blocked.
+  JP : JP#5193[MED]: 「すでにこちら<89f5>は / 　封間されているようだな / 
+  FIT: <<TODO — <=44 chars, 3 line(s), <=35/line>>
+
+[US#5078] budget=64ch/3ln
+  NOW: *Delivering this shock
+          will cause all kinds
+          of things to happen.
+  JP : JP#5194[HIGH]: ＊<8a4c>撃を<8a4d>えることで / 　さまざまな泣果を / 　招き起こすことができます
+  FIT: <<TODO — <=64 chars, 3 line(s), <=35/line>>
+
+[US#5079] budget=13ch/1ln
+  NOW: Who's there?!
+  JP : JP#5195[HIGH]: 「そこにいるのは誰だッ！
+  FIT: <<TODO — <=13 chars, 1 line(s), <=35/line>>
+
+[US#5080] budget=88ch/3ln
+  NOW: You probably came into the
+          forest to avoid the rain too.
+          Let's get out of here together.
+  JP : JP#5196[HIGH]: 「おおかたお前も / 　歩をしのごうと山に入って<8954>ったクチだろ / 　よし、一<8a55>に山を抜けるぞ
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#5081] budget=51ch/2ln
+  NOW: A dangerous criminal?
+          Maybe a very pale degenerate.
+  JP : JP#5197[HIGH]: 「<8a57>悪犯かな？ / 　望外、<8a59>っ<8a5a>い変<886e>者だったりして
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#5082] budget=91ch/3ln
+  NOW: All I know is that we haven't
+          been told anything and there's
+          no need for us to know either.
+  JP : JP#5198[HIGH]: 「わかっているのは / 　僕たちには何も知らされていないってことと / 　知る必要も無いってことさ
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#5083] budget=65ch/2ln
+  NOW: It wouldn't be a bad idea for us
+          to catch him and get the credit.
+  JP : JP#5199[HIGH]: 「僕たちで<8929>まえて / 　手<8a53>をたてるのも悪くないな[10][0c]「復金が出たら<8a5c>を茶おう / 　セボック国にまた<8a5c>が
+  FIT: <<TODO — <=65 chars, 2 line(s), <=35/line>>
+
+[US#5084] budget=89ch/3ln
+  NOW: With a reward, I'll get a horse
+          and return to T'Bok Village.
+          It'll end my mercenary work.
+  JP : JP#5200[HIGH]: 「復金が出たら<8a5c>を茶おう / 　セボック国にまた<8a5c>が戻ってくるんだ / 　貸<8880>同のバイトなんかオサラバだぜ
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#5085] budget=45ch/2ln
+  NOW: Were those two soldiers
+          conscripted recently?
+  JP : JP#5201[HIGH]: 「あの２人 / 　どこからか貸同されてきたばかりか？[10][0c][17]
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#5088] budget=32ch/2ln
+  NOW: I've got an idea.
+          Wait, 1 Evans.
+  JP : JP#5204[HIGH]: 「私に考えがある / 　待っていろ、[05]お・エヴァンス
+  FIT: <<TODO — <=32 chars, 2 line(s), <=35/line>>
+
+[US#5089] budget=89ch/3ln
+  NOW: *Defeat a Boss character by
+          attacking the Main Body at its
+          name and reducing its HP to 0.
+  JP : JP#5205[HIGH]: ＊『本体』には、名前が表<893a>されており / 　ここのＨＰを０にすることで / 　ボスキャラクターを倒すことができます[10][0c]＊『頼字級』のＨＰを
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#5090] budget=92ch/3ln
+  NOW: *Reducing the HP to 0 for the
+          |Body Parts| won't defeat the Boss
+          but will win EXP and Gella.
+  JP : JP#5206[HIGH]: ＊『頼字級』のＨＰを０にしても / 　ボスキャラクターを倒すことはできませんが / 　その分のＥＸＰやギャラを勇得できます
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#5091] budget=80ch/3ln
+  NOW: (But the Posse is closing in.
+          Even if I die, I can't let
+          my name be dishonored.)
+  JP : JP#5207[HIGH]: （だが、追跡字闘は、すぐそこまで姿ている / 　たとえ命を落とすことがあっても / 　男<8a67>の<8a71>りを<8a72>つけるわけにはいかぬ）[10]
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5092] budget=49ch/2ln
+  NOW: (I am |1 Evans| of the
+          Slayheim Liberation Army.)
+  JP : JP#5208[HIGH]: （僕は、スレイハイム解殺周の / 　『[05]お・エヴァンス』だ）
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#5093] budget=80ch/3ln
+  NOW: As long as they're cutting
+          through the forest too, they're
+          bound to leave clues.
+  JP : JP#5209[MED]: 「基らもここを抜ける以上 / 　何らかの手がかりを / 　国に残していく可能性が<8867>い〜
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>

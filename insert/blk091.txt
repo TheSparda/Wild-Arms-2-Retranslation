@@ -1,0 +1,256 @@
+# WA2 INSERTION workspace US block 91 (US#7590-7628)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7591] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7772[MED]: 「でも、言葉にすると / 　いつも険<8844>違うことを言ってしまうの[10][0c]「身体の<8a87>界<8a88>を安えると / 　気持ちが単の言葉に代
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7592] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7790[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません || JP#7773[LOW]: 「身体の<8a87>界<8a88>を安えると / 　気持ちが単の言葉に代ってしまうのが / 　すごく暮だった[10][0c]「もっと<8865>搭 / 　気持ち
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7593] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7791[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7594] budget=72ch/3ln
+  NOW: The scar you gave me...
+          This |Gias| around my neck
+          won't let me die yet.
+  JP : JP#7792[MED]: 「お前に伝られた幸<8a34>の… / 　<888a>の『ギアス』が / 　まだ死ぬことを<8978>してくれないのでな[10][0c]「こいつに泣られているあ
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#7595] budget=66ch/3ln
+  NOW: As long as I'm chained to
+          this, I'm coming back as
+          often as I can.
+  JP : JP#7793[MED]: 「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えない
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#7596] budget=73ch/3ln
+  NOW: That's right.
+          |Heroes| don't die! As long
+          as they have the will to fight.
+  JP : JP#7794[MED]: 「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#7597] budget=83ch/3ln
+  NOW: This blow is my farewell to
+          the past. It's a blow for the
+          Slayheim Liberation Army!
+  JP : JP#7795[MED]: 「この一撃は / 　過守への姉単〜 / 　スレイハイム解殺<8a3d>の一撃ッ！[10][0c]「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがい
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#7598] budget=64ch/2ln
+  NOW: It's a beacon for new battles!
+          Take this, Vinsfeld Rhadamanthus.
+  JP : JP#7796[MED]: 「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7599] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7600] budget=72ch/3ln
+  NOW: The scar you gave me...
+          This |Gias| around my neck
+          won't let me die yet.
+  JP : JP#7797[MED]: 「お前に伝られた幸<8a34>の… / 　<888a>の『ギアス』が / 　まだ死ぬことを<8978>してくれないのでな[10][0c]「こいつに泣られているあ
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#7601] budget=66ch/3ln
+  NOW: As long as I'm chained to
+          this, I'm coming back as
+          often as I can.
+  JP : JP#7798[MED]: 「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えない
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#7602] budget=73ch/3ln
+  NOW: That's right.
+          |Heroes| don't die! As long
+          as they have the will to fight.
+  JP : JP#7799[MED]: 「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#7603] budget=83ch/3ln
+  NOW: This blow is my farewell to
+          the past. It's a blow for the
+          Slayheim Liberation Army!
+  JP : JP#7800[MED]: 「この一撃は / 　過守への姉単〜 / 　スレイハイム解殺<8a3d>の一撃ッ！[10][0c]「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがい
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#7604] budget=64ch/2ln
+  NOW: It's a beacon for new battles!
+          Take this, Vinsfeld Rhadamanthus.
+  JP : JP#7801[MED]: 「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7605] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7606] budget=72ch/3ln
+  NOW: The scar you gave me...
+          This |Gias| around my neck
+          won't let me die yet.
+  JP : JP#7802[MED]: 「お前に伝られた幸<8a34>の… / 　<888a>の『ギアス』が / 　まだ死ぬことを<8978>してくれないのでな[10][0c]「こいつに泣られているあ
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#7607] budget=66ch/3ln
+  NOW: As long as I'm chained to
+          this, I'm coming back as
+          often as I can.
+  JP : JP#7803[MED]: 「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えない
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#7608] budget=73ch/3ln
+  NOW: That's right.
+          |Heroes| don't die! As long
+          as they have the will to fight.
+  JP : JP#7804[MED]: 「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#7609] budget=83ch/3ln
+  NOW: This blow is my farewell to
+          the past. It's a blow for the
+          Slayheim Liberation Army!
+  JP : JP#7805[MED]: 「この一撃は / 　過守への姉単〜 / 　スレイハイム解殺<8a3d>の一撃ッ！[10][0c]「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがい
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#7610] budget=64ch/2ln
+  NOW: It's a beacon for new battles!
+          Take this, Vinsfeld Rhadamanthus.
+  JP : JP#7806[MED]: 「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7611] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7612] budget=72ch/3ln
+  NOW: The scar you gave me...
+          This |Gias| around my neck
+          won't let me die yet.
+  JP : JP#7807[MED]: 「お前に伝られた幸<8a34>の… / 　<888a>の『ギアス』が / 　まだ死ぬことを<8978>してくれないのでな[10][0c]「こいつに泣られているあ
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#7613] budget=66ch/3ln
+  NOW: As long as I'm chained to
+          this, I'm coming back as
+          often as I can.
+  JP : JP#7808[MED]: 「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えない
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#7614] budget=73ch/3ln
+  NOW: That's right.
+          |Heroes| don't die! As long
+          as they have the will to fight.
+  JP : JP#7809[MED]: 「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#7615] budget=83ch/3ln
+  NOW: This blow is my farewell to
+          the past. It's a blow for the
+          Slayheim Liberation Army!
+  JP : JP#7810[MED]: 「この一撃は / 　過守への姉単〜 / 　スレイハイム解殺<8a3d>の一撃ッ！[10][0c]「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがい
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#7616] budget=64ch/2ln
+  NOW: It's a beacon for new battles!
+          Take this, Vinsfeld Rhadamanthus.
+  JP : JP#7811[MED]: 「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7617] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7618] budget=72ch/3ln
+  NOW: The scar you gave me...
+          This |Gias| around my neck
+          won't let me die yet.
+  JP : JP#7812[MED]: 「お前に伝られた幸<8a34>の… / 　<888a>の『ギアス』が / 　まだ死ぬことを<8978>してくれないのでな[10][0c]「こいつに泣られているあ
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#7619] budget=66ch/3ln
+  NOW: As long as I'm chained to
+          this, I'm coming back as
+          often as I can.
+  JP : JP#7813[MED]: 「こいつに泣られているあいだ / 　僕は何度でも帰ってくる[10][0c]「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えない
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#7620] budget=73ch/3ln
+  NOW: That's right.
+          |Heroes| don't die! As long
+          as they have the will to fight.
+  JP : JP#7814[MED]: 「そうだ〜 / 　『片押』は死なないッ！ / 　戦う意<8a38>が<8a39>えないかぎりッ！
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#7621] budget=83ch/3ln
+  NOW: This blow is my farewell to
+          the past. It's a blow for the
+          Slayheim Liberation Army!
+  JP : JP#7815[MED]: 「この一撃は / 　過守への姉単〜 / 　スレイハイム解殺<8a3d>の一撃ッ！[10][0c]「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがい
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#7622] budget=64ch/2ln
+  NOW: It's a beacon for new battles!
+          Take this, Vinsfeld Rhadamanthus.
+  JP : JP#7816[MED]: 「そして、新たなる戦いの助<888d>だッ！ / 　歩けとるがいい〜 / 　ヴィンスフェルト・ラダマンテュスッ！
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7623] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7624] budget=72ch/3ln
+  NOW: The scar you gave me...
+          This |Gias| around my neck
+          won't let me die yet.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#7625] budget=66ch/3ln
+  NOW: As long as I'm chained to
+          this, I'm coming back as
+          often as I can.
+  JP : JP#7817[MED]: 
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#7626] budget=73ch/3ln
+  NOW: That's right.
+          |Heroes| don't die! As long
+          as they have the will to fight.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#7627] budget=83ch/3ln
+  NOW: This blow is my farewell to
+          the past. It's a blow for the
+          Slayheim Liberation Army!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#7628] budget=64ch/2ln
+  NOW: It's a beacon for new battles!
+          Take this, Vinsfeld Rhadamanthus.
+  JP : JP#7818[MED]: 
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>

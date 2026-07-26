@@ -1,0 +1,363 @@
+# WA2 — Illsveil Prison / Golgotha (IP) — block 27, US#5238-5299 — FIRST-PASS insert-ready
+# =========================================================================================
+# FIRST PASS (auto-generated): RE = the US localization reflowed to the display window
+#   (<=3 lines x <=35 chars), em dashes stripped, color-code artifacts removed. JP shown for
+#   reference (block-decoded; residual codes possible). This is NOT a deep literary
+#   retranslation — it gives Illsveil Prison / Golgotha valid insert text; flag for a deep RE pass later.
+# US# reconciled by construction (IDs are the real block-27 message slots).
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#5242]
+  JP : 「<f040><f042>と、その前に〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But before that...
+  RE : But before that...
+
+[US#5243]
+  JP : 「〜[0a]ぉの使いの者か？使いの者か、と / 聞いているのだ
+  LIT: Are you {0}'s messenger? I'm asking whether you're the one sent. (0a name slot)
+  EN : Were you sent by {0}?
+  RE : Were you sent by {0}?
+
+[US#5244]
+  JP : 「話はかみ合っていないようだが / どうやらお前たちが / そうらしいな〜<b:8a39>っちょろいカオをしている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We're not communicating well here, but it has to be you guys.
+  RE : We're not communicating well here,
+       but it has to be you guys.
+
+[US#5245]
+  JP : 「そのマイトグローブは、僕のだ / よこしてくれ / 時間がないんだろ？命<8965>６６[82]
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Those Might Gloves are mine. Could you hand them over? There's no time, right?
+  RE : Those Might Gloves are mine. Could
+       you hand them over? There's no
+       time, right?
+
+[US#5246]
+  JP : 「[0a]ぉが選んだ / ＡＲＭＳのメンバーのひとり〜
+  LIT: One of the ARMS members {0} chose. (0a name slot)
+  EN : I'm one of the ARMS members chosen by {0}.
+  RE : I'm one of the ARMS members chosen
+       by {0}.
+
+[US#5247]
+  JP : 「<f040><f042>らしい、ぜ<b:8a3b>待機所は / 現在、解放されています<b:8a3b>待機所は / セキュリティーシステムにより / 閉<b:8a3c>されています
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Let's go.
+  RE : Let's go.
+
+[US#5248]
+  JP : ＞<8963>長命令により / 調備備は『ガオニム』の / 起動チェックを急げ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : >Orders from the warden: Rush a start-up check of |GAONIM.|
+  RE : >Orders from the warden: Rush a
+       start-up check of |GAONIM.|
+
+[US#5249]
+  JP : ＞繰り返す〜<b:8a42>起の手招きと思われる / 侵入者の<8968>成人年が<8942>次
+  LIT: (literal pending: JP has unsolved codes)
+  EN : >Repeat...
+  RE : >Repeat...
+
+[US#5250]
+  JP : ＞侵入者は、搭乗した剣性２名 / なおもイルズベイル街に逃亡中 / 繰り返す〜搭乗反<8945>は / 外部からの侵入者の手招きによるものと<8942>次 / 現在、侵入者の足取りを追跡中
+  LIT: (literal pending: JP has unsolved codes)
+  EN : >The trespassers are 2 armed men. They're currently hiding somewhere on Illsveil.
+  RE : >The trespassers are 2 armed men.
+       They're currently hiding somewhere
+       on Illsveil.
+
+[US#5251]
+  JP : ＞繰り返す〜<b:8a46>にてケースＤａ２５９が発生 / ガードクリーチャーを<8886>急配備
+  LIT: (literal pending: JP has unsolved codes)
+  EN : >Repeat...
+  RE : >Repeat...
+
+[US#5252]
+  JP : ＞<8965>人の生死は誓わない / ただちに制圧にかかれ / 繰り返す〜二待機所は / 現在、解放されています二待機所は / セキュリティーシステムにより / 閉<b:8a3c>されています
+  LIT: (literal pending: JP has unsolved codes)
+  EN : >Suppress the rebellion now. Inmates wanted dead or alive. Repeat...
+  RE : >Suppress the rebellion now.
+       Inmates wanted dead or alive.
+       Repeat...
+
+[US#5253]
+  JP : ＊〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: *...gaoo... gaoo... gaoo... gaoo... gaoo... gaoo... gaoo... (16 = SFX code)
+  EN : ...30...30...30......30...30...30...30...
+  RE : ...30...30...30......30...30...30..
+       .30...
+
+[US#5254]
+  JP : ＞セキュリティーシステムは / 解右されました / <88f9>一待機所を解放します
+  LIT: (literal pending: JP has unsolved codes)
+  EN : >The security system has been deactivated. The No.1 waiting area is open.
+  RE : >The security system has been
+       deactivated. The No. waiting area
+       is open.
+
+[US#5255]
+  JP : ＊それが犯罪者にとって / <889c>最の二つ名で知られる / 『イルズベイル<8917><8963>他』の前身である
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The |Illsveil Prison| was known to convicts as the second most fearsome place.
+  RE : The |Illsveil Prison| was known to
+       convicts as the second most
+       fearsome place.
+
+[US#5256]
+  JP : ＊積み重ねられていった / <8965>人たちの怨念は、<8917><8963>他をやがて / <89e1>立自分<89b7>へと<88bd>らしめる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The history of the convicts built up and it eventually developed independent rule.
+  RE : The history of the convicts built
+       up and it eventually developed
+       independent rule.
+
+[US#5257]
+  JP : ＊最高級役をほこる / 犯罪者による処分システム
+  LIT: *A convict-run disposal system boasting the harshest grade of penalty. (最高級役->最高刑罰?)
+  EN : It boasts the harshest penal life and has a system of convict rule.
+  RE : It boasts the harshest penal life
+       and has a system of convict rule.
+
+[US#5258]
+  JP : ＊『地<8963>』にして『楽獄』<f040><f042> / イルズベイル<8917><8963>他の囚人は / 決して消えることはない〜<b:8a4e>での / 武昇クーデターの<888a><b:8a5c>者とされる / Ａ<8872>戦<b:8a5d>犯罪者をここに<8937>す
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's a |hell| passed off as |paradise.| Even the prison's warden can't stand it.
+  RE : It's a |hell| passed off as
+       |paradise.| Even the prison's
+       warden can't stand it.
+
+[US#5259]
+  JP : ＊解放軍指導者 / ヴィンスフェルト・ラダマンテュス
+  LIT: *Liberation Army leader Vinsfeld Rhadamanthus.
+  EN : Liberation Army Leader Vinsfeld Rhadamanthus.
+  RE : Liberation Army Leader Vinsfeld
+       Rhadamanthus.
+
+[US#5260]
+  JP : ＊魔導の謀と知略に長け / 戦闘に、大衆に取り入れることで / 解放軍戦力の<89ce>実合をはかる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Using evil knowledge and bold tactics, the Liberation Army's power increased.
+  RE : Using evil knowledge and bold
+       tactics, the Liberation Army's
+       power increased.
+
+[US#5261]
+  JP : ＊そのカリスマ性によって / 解放軍の結重を<89cd>谷なものとし / ゲリラ活動を展開する
+  LIT: (literal pending: JP has unsolved codes)
+  EN : His charisma unified the Army into a powerful force, and they then began guerrilla activities.
+  RE : His charisma unified the Army into
+       a powerful force, and they then
+       began guerrilla activities.
+
+[US#5262]
+  JP : ＊武昇クーデターの際寿に / 突如として姿を消すものの / 解放軍の中核的存在<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : In the last moments of the coup, this hero-like person unexpectedly vanished.
+  RE : In the last moments of the coup,
+       this hero-like person unexpectedly
+       vanished.
+
+[US#5263]
+  JP : ＊[05]お・エヴァンスが / 後を招き継ぐことで
+  LIT: *With {5} Evans taking over and carrying on after him... (05 name slot; 招き継ぐ->引き継ぐ)
+  EN : After 1 Evans took over...
+  RE : After Evans took over...
+
+[US#5264]
+  JP : ＊解放軍は２数に渡る / 数多の戦いに勝利するのであった<b:8b03>押<8939>された乗備って / きっとこれだわ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : In two years, the Liberation Army won all their battles.
+  RE : In two years, the Liberation Army
+       won all their battles.
+
+[US#5265]
+  JP : 「あれれ？
+  LIT: Huh?
+  EN : What? What?
+  RE : What? What?
+
+[US#5266]
+  JP : 「でも、[05]ぉって / こんな機艇儀のグローブとか / 使ってたっけ〜
+  LIT: But did {5} ever use a mechanical glove like this? (05 name slot; 機艇儀->機械仕掛け)
+  EN : But did 0 use a Mechanical Glove like this?
+  RE : But did use a Mechanical Glove like
+       this?
+
+[US#5267]
+  JP : 「ま、いいかッ！ / とりあえず、みんな持っていけば / なんとかなるなるッ！
+  LIT: Well, whatever! For now, if we take it all, it'll work out somehow!
+  EN : Oh, who cares!? I'll take it all and something will work!
+  RE : Oh, who cares!? I'll take it all
+       and something will work!
+
+[US#5268]
+  JP : 「開けろッ！ ここから出せッ！ / 俺は何もしちゃいないッ！ / ちょっと調べればわかることだッ！<b:8a70>ぶものさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Open up! Let me out of here! I didn't do anything! If you check it out, I'd be cleared!
+  RE : Open up! Let me out of here! I
+       didn't do anything! If you check it
+       out, I'd be cleared!
+
+[US#5269]
+  JP : 「何たってあそこは / 一度入っちまうと、二度と生きて出られない / 消道の<8917><8963>他だからな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's because it's an isolated prison island. Once you go in, you never come out alive.
+  RE : That's because it's an isolated
+       prison island. Once you go in, you
+       never come out alive.
+
+[US#5270]
+  JP : 「イルズベイル<8917><8963>他に着いたら / わたしが無罪を取次してあげるから / だから、それまでの辛抱よ〜<b:8a74>着だぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : When we get to Illsveil Prison, I'll prove your innocence. You need to be patient until then.
+  RE : When we get to Illsveil Prison,
+       I'll prove your innocence. You need
+       to be patient until then.
+
+[US#5271]
+  JP : 「ようこそッ！ / イルズベイル<8917><8963>他へッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Welcome to Illsveil Prison.
+  RE : Welcome to Illsveil Prison.
+
+[US#5272]
+  JP : 「小生は最悪の<8965>人にして / この自分<89b7>の処分者ッ！ / すなわち<8963>長であるッ！罪者貴様も / ご<b:8a79>になったであろうッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : As the 1st convict here, I'm now ruler of this independent domain! In other words, I am the warden.
+  RE : As the st convict here, I'm now
+       ruler of this independent domain!
+       In other words, I am the warden.
+
+[US#5273]
+  JP : 「ここ、イルズベイルは消道の<8917><8963>他ッ！ / すなわち、獄<8844>の要<889b>であるのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Illsveil is an isolated prison island! In other words, it's a natural fort.
+  RE : Illsveil is an isolated prison
+       island! In other words, it's a
+       natural fort.
+
+[US#5275]
+  JP : 「どうせシャバにいたところで / 他人方の<8954>迷になることはあっても / 役には立たないボンクラどもなんだからよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Being on the outside isn't so hot. Here you trouble only useless fools.
+  RE : Being on the outside isn't so hot.
+       Here you trouble only useless
+       fools.
+
+[US#5277]
+  JP : 「小生自身も、命寿は残り２１４数ッ！ / もはや生きて出ようなんて / ファンタジーもおきないわ、実<89d2>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I've got 214 years left on my sentence! Hope you don't have fantasies about escaping yet.
+  RE : I've got 214 years left on my
+       sentence! Hope you don't have
+       fantasies about escaping yet.
+
+[US#5278]
+  JP : 「ん〜、そうだな〜 / 小生に気に入られれば / <8962>名昇くらいは、夢ではないぞ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : And of course, if you win my favor, becoming Prison Warden isn't a dream.
+  RE : And of course, if you win my favor,
+       becoming Prison Warden isn't a
+       dream.
+
+[US#5279]
+  JP : 「ここは<8917><8963>他にして / 自分<89b7>であるイルズベイル / つまりは、そういうトコロだッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The fact that this island is an independent domain stems from that very fact!
+  RE : The fact that this island is an
+       independent domain stems from that
+       very fact!
+
+[US#5281]
+  JP : 「わたしにまかせて / [05]ぉはここで / おとなしくしててよ
+  LIT: Leave it to me; you, {5}, stay put here and keep quiet. (05 name slot)
+  EN : Let me take care of it. You should just stay put and lay low.
+  RE : Let me take care of it. You should
+       just stay put and lay low.
+
+[US#5283]
+  JP : 「幼い頃はイタズラをして / よく押し入れに / 閉じ込められたもんスよ<f044>幼い頃って〜<f05a>）
+  LIT: (literal pending: JP has unsolved codes)
+  EN : When I was little, I pulled a lot of pranks and got locked in the closet for it.
+  RE : When I was little, I pulled a lot
+       of pranks and got locked in the
+       closet for it.
+
+[US#5284]
+  JP : 「どっちにしても / こっちは搭乗解右されて / <8991>同の状態なんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Regardless, we were disarmed and now I have no weapon.
+  RE : Regardless, we were disarmed and
+       now I have no weapon.
+
+[US#5285]
+  JP : 「思いきったことを / するつもりはないよ
+  LIT: I've no intention of doing anything rash.
+  EN : I have no intention of doing anything drastic.
+  RE : I have no intention of doing
+       anything drastic.
+
+[US#5289]
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: ...gaoo... gaoo... gaoo... (16 = SFX code)
+  EN : ...30...30...30...
+  RE : ...30...30...30...
+
+[US#5290]
+  JP : 「気をつけてな
+  LIT: Take care.
+  EN : Be careful.
+  RE : Be careful.
+
+[US#5291]
+  JP : 「この機艇儀のグローブ〜 / たしかマイトグローブって言ったっけな / これは俺のじゃないぞ
+  LIT: These mechanical gloves; Might Gloves, I think they were called. These aren't mine. (機艇儀->機械仕掛け)
+  EN : These mechanical gloves are Might Gloves, right? Well, they aren't mine.
+  RE : These mechanical gloves are Might
+       Gloves, right? Well, they aren't
+       mine.
+
+[US#5292]
+  JP : 「とにかく、ホラ / 乗備して、乗備して / 急いでここから<894f>げ出すわよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Anyway, here. Put this on. Hurry. We need to get out of here quickly.
+  RE : Anyway, here. Put this on. Hurry.
+       We need to get out of here quickly.
+
+[US#5293]
+  JP : 「ここにいる<8965>人たちが / いっせいに<894f>げ出したみたいなの
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It seems that all the convicts here escaped at once.
+  RE : It seems that all the convicts here
+       escaped at once.
+
+[US#5295]
+  JP : 「しーんじられんッ！ / お前までもが / この『楽獄』を飛びだそうというのかッ！
+  LIT: Un-be-lievable! Even you mean to break out of this 'paradise prison'?! (楽獄 = pleasure-prison pun)
+  EN : I can't believe it! Even you're thinking of escaping this |paradise!|
+  RE : I can't believe it! Even you're
+       thinking of escaping this
+       |paradise!|
+
+[US#5296]
+  JP : 「どうやら僕には / 『楽獄』よりも『戦場』がむいているんでね / 長い間、世話になった
+  LIT: It seems the 'battlefield' suits me better than this 'paradise prison'. Thanks for everything all this time.
+  EN : I'm more at home on the |battlefield| than in |paradise.| Thanks for everything.
+  RE : I'm more at home on the
+       |battlefield| than in |paradise.|
+       Thanks for everything.
+
+[US#5297]
+  JP : 「こうなったら、もうッ！ / 殺捕ッ、殺捕ッ、殺捕ッ、殺捕ッ、殺捕ッ！ / その後、死命ッ、死命ッ、死命ッ、死命ッ！
+  LIT: That does it, then! Arrest, arrest, arrest, arrest, arrest! And after that, death, death, death, death! (殺捕/死命 = coined 'seize'/'execute' commands)
+  EN : You've given me no choice! Arrest them! Arrest them! And after that, death! Death!
+  RE : You've given me no choice! Arrest
+       them! Arrest them! And after that,
+       death! Death!
+
+# =========================================================================================
+# STATUS: 48 boxes first-passed (US#5238-5299, block 27). Em-dash-free, <=3x35.
+# =========================================================================================

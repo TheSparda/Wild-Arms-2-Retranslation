@@ -1,0 +1,116 @@
+# WA2 4-col translation doc block 50 (JP#6478-6498)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 11 boxes | OK=4 FAIR=3 SHAKY=4 JP-ONLY=0
+# DRAFT STATUS: 11 boxes | OK=3 FAIR=4 SHAKY=4 JP-ONLY=0
+
+[JP#6480] gaps=0  aln=MED->US#6344  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#6481] gaps=2  aln=HIGH->US#6345  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#6482] gaps=0  aln=HIGH->US#6346  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#6484] gaps=7  aln=HIGH->US#6348  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「[05]ぉのサルベージポイントまで / 　およそ、１５００ｍｐｚ〜[10][0c]「スイッチブロックを５つ反<8839>させれば / 　<8860><8861>のチューニングはできると思う / 　あとは〜[10][0c]「あとは、異なる世界をリンクさせるために / 　大きなスイッチブロック〜 / 　ビッグジェネレイターを起動させれば〜[10][0c]「でも、チューニングの<88ad><8837>と同時に / 　このパズル参の空間が / 　<8968>成を解伝されて、不危奮になってしまうの[10][0c]「だから、ジェネレイター起動のチャンスは / 　あまり多くは無いのよ / 　おそらく年分、ううん年幸<8a34>かな〜[10][0c]「険字、わたしにかかっているんだよね〜 / 　わたしがしっかりしなくちゃ / 　わたしの、魔法を信じなくちゃッ！
+  2|LIT: <<TODO>>
+  3|EN : @It's about 1500 mpz to
+ 0's Salvage Point.@If all five Switchblocks
+ respond, you can tune
+ the coordinates.@To link to the other world,
+ start the large Switchblock,
+ the big generator.@Once you're done tuning, the
+ Puzzle's space will lose its
+ structure and become unstable.@That's why there are only a few
+ chances to start the generator.
+ A few minutes? A few seconds.@Everything's u
+  4|RE : <<TODO>>
+
+[JP#6485] gaps=7  aln=HIGH->US#6349  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「スイッチブロックを５つ反<8839>させれば / 　<8860><8861>のチューニングはできると思う / 　あとは〜[10][0c]「あとは、異なる世界をリンクさせるために / 　大きなスイッチブロック〜 / 　ビッグジェネレイターを起動させれば〜[10][0c]「でも、チューニングの<88ad><8837>と同時に / 　このパズル参の空間が / 　<8968>成を解伝されて、不危奮になってしまうの[10][0c]「だから、ジェネレイター起動のチャンスは / 　あまり多くは無いのよ / 　おそらく年分、ううん年幸<8a34>かな〜[10][0c]「険字、わたしにかかっているんだよね〜 / 　わたしがしっかりしなくちゃ / 　わたしの、魔法を信じなくちゃッ！
+  2|LIT: <<TODO>>
+  3|EN : @If all five Switchblocks
+ respond, you can tune
+ the coordinates.@To link to the other world,
+ start the large Switchblock,
+ the big generator.@Once you're done tuning, the
+ Puzzle's space will lose its
+ structure and become unstable.@That's why there are only a few
+ chances to start the generator.
+ A few minutes? A few seconds.@Everything's up to me.
+ I've got to get it together.
+ I must
+  4|RE : <<TODO>>
+
+[JP#6486] gaps=4  aln=HIGH->US#6350  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「あとは、異なる世界をリンクさせるために / 　大きなスイッチブロック〜 / 　ビッグジェネレイターを起動させれば〜[10][0c]「でも、チューニングの<88ad><8837>と同時に / 　このパズル参の空間が / 　<8968>成を解伝されて、不危奮になってしまうの[10][0c]「だから、ジェネレイター起動のチャンスは / 　あまり多くは無いのよ / 　おそらく年分、ううん年幸<8a34>かな〜[10][0c]「険字、わたしにかかっているんだよね〜 / 　わたしがしっかりしなくちゃ / 　わたしの、魔法を信じなくちゃッ！
+  2|LIT: <<TODO>>
+  3|EN : @To link to the other world,
+ start the large Switchblock,
+ the big generator.@Once you're done tuning, the
+ Puzzle's space will lose its
+ structure and become unstable.@That's why there are only a few
+ chances to start the generator.
+ A few minutes? A few seconds.@Everything's up to me.
+ I've got to get it together.
+ I must trust my magic powers.
+  4|RE : <<TODO>>
+
+[JP#6487] gaps=4  aln=HIGH->US#6351  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「でも、チューニングの<88ad><8837>と同時に / 　このパズル参の空間が / 　<8968>成を解伝されて、不危奮になってしまうの[10][0c]「だから、ジェネレイター起動のチャンスは / 　あまり多くは無いのよ / 　おそらく年分、ううん年幸<8a34>かな〜[10][0c]「険字、わたしにかかっているんだよね〜 / 　わたしがしっかりしなくちゃ / 　わたしの、魔法を信じなくちゃッ！
+  2|LIT: <<TODO>>
+  3|EN : @Once you're done tuning, the
+ Puzzle's space will lose its
+ structure and become unstable.@That's why there are only a few
+ chances to start the generator.
+ A few minutes? A few seconds.@Everything's up to me.
+ I've got to get it together.
+ I must trust my magic powers.
+  4|RE : <<TODO>>
+
+[JP#6488] gaps=1  aln=HIGH->US#6352  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「だから、ジェネレイター起動のチャンスは / 　あまり多くは無いのよ / 　おそらく年分、ううん年幸<8a34>かな〜[10][0c]「険字、わたしにかかっているんだよね〜 / 　わたしがしっかりしなくちゃ / 　わたしの、魔法を信じなくちゃッ！
+  2|LIT: <<TODO>>
+  3|EN : @That's why there are only a few
+ chances to start the generator.
+ A few minutes? A few seconds.@Everything's up to me.
+ I've got to get it together.
+ I must trust my magic powers.
+  4|RE : <<TODO>>
+
+[JP#6489] gaps=0  aln=HIGH->US#6353  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「険字、わたしにかかっているんだよね〜 / 　わたしがしっかりしなくちゃ / 　わたしの、魔法を信じなくちゃッ！
+  2|LIT: <<TODO>>
+  3|EN : @Everything's up to me.
+ I've got to get it together.
+ I must trust my magic powers.
+  4|RE : <<TODO>>
+
+[JP#6495] gaps=0  aln=MED->US#6359  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「これじゃ / 　あの時と同じだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @It's just like
+ that other time.
+  4|RE : <<TODO>>
+
+[JP#6496] gaps=0  aln=MED->US#6360  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「うん、ありがとう〜 / 　へいき、へっちゃらだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @Hey, thanks.
+ I'm fine. It's easy.
+  4|RE : <<TODO>>

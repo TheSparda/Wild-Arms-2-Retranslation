@@ -1,0 +1,52 @@
+# WA2 INSERTION workspace US block 109 (US#8016-8024)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#8017] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#8196[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#8018] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8197[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#8019] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8198[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#8020] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8199[MED]: 
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#8021] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#8022] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8200[MED]: 
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#8023] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#8024] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8201[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>

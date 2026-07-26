@@ -1,0 +1,188 @@
+# WA2 4-col translation doc block 70 (JP#7357-7383)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 23 boxes | OK=10 FAIR=9 SHAKY=4 JP-ONLY=0
+# DRAFT STATUS: 23 boxes | OK=8 FAIR=9 SHAKY=6 JP-ONLY=0
+
+[JP#7359] gaps=0  aln=HIGH->US#7212  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7360] gaps=2  aln=HIGH->US#7213  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7361] gaps=0  aln=HIGH->US#7214  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7362] gaps=2  aln=HIGH->US#7215  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「加<895b>『<8a38>れた奇跡』に / 　戻てこもっているとの情報が入った[10][0c]「これより、ミッションの最終確認を行うッ！
+  2|LIT: <<TODO>>
+  3|EN : @up ahead in the old excavation
+ site known as |The Withered Ruins.|@Time for the
+ final mission check!
+  4|RE : <<TODO>>
+
+[JP#7363] gaps=0  aln=MED->US#7216  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「これより、ミッションの最終確認を行うッ！
+  2|LIT: <<TODO>>
+  3|EN : @Time for the
+ final mission check!
+  4|RE : <<TODO>>
+
+[JP#7364] gaps=0  aln=HIGH->US#7217  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「新入りッ！　お前の名はッ！
+  2|LIT: <<TODO>>
+  3|EN : @What's your name?
+  4|RE : <<TODO>>
+
+[JP#7365] gaps=1  aln=HIGH->US#7218  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「闘の<8921>をひっぱるなよ / 　わかったか、[05]ぉッ！
+  2|LIT: <<TODO>>
+  3|EN : @Don't get in the way,
+ understand, 0?!
+  4|RE : <<TODO>>
+
+[JP#7366] gaps=3  aln=HIGH->US#7219  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「すみやかに人<886e>の危険を / 　確<8901>するところにある[10][0c]「奇跡参には / 　多年のモンスターも確認されている / 　<8a3d>自、気を抜いてかかるなよ[10][0c]「よし、突入開始だッ！
+  2|LIT: <<TODO>>
+  3|EN : @It's critical to secure
+ the safety of the hostage first.@Numerous monsters have been
+ sighted at the ruins, so don't
+ let your guard down.@OK. Let's go. Charge!
+  4|RE : <<TODO>>
+
+[JP#7367] gaps=1  aln=HIGH->US#7220  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「奇跡参には / 　多年のモンスターも確認されている / 　<8a3d>自、気を抜いてかかるなよ[10][0c]「よし、突入開始だッ！
+  2|LIT: <<TODO>>
+  3|EN : @Numerous monsters have been
+ sighted at the ruins, so don't
+ let your guard down.@OK. Let's go. Charge!
+  4|RE : <<TODO>>
+
+[JP#7368] gaps=0  aln=HIGH->US#7221  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「よし、突入開始だッ！
+  2|LIT: <<TODO>>
+  3|EN : @OK. Let's go. Charge!
+  4|RE : <<TODO>>
+
+[JP#7369] gaps=4  aln=HIGH->US#7222  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「おそらく、封<8a40>されていたモンスターが / 　何らかの事<8808>で / 　解殺されたのではないかとッ！[10][0c]「最悪なことに / 　モンスターから分兄される体期に / 　揮発性の<8867>い期体<8a43>来も挑出されました[10][0c]「闘長〜 / 　このままでは〜
+  2|LIT: <<TODO>>
+  3|EN : @Most likely, the trapped
+ monster was released
+ by accident!@Unfortunately, highly volatile
+ liquid explosives have been found
+ in the monster's secretions.@Commander,
+ at this rate...
+  4|RE : <<TODO>>
+
+[JP#7370] gaps=2  aln=HIGH->US#7223  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「最悪なことに / 　モンスターから分兄される体期に / 　揮発性の<8867>い期体<8a43>来も挑出されました[10][0c]「闘長〜 / 　このままでは〜
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, highly volatile
+ liquid explosives have been found
+ in the monster's secretions.@Commander,
+ at this rate...
+  4|RE : <<TODO>>
+
+[JP#7371] gaps=0  aln=HIGH->US#7224  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「闘長〜 / 　このままでは〜
+  2|LIT: <<TODO>>
+  3|EN : @Commander,
+ at this rate...
+  4|RE : <<TODO>>
+
+[JP#7372] gaps=8  aln=HIGH->US#7225  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : 「<89da>周<8a48>の<8a43>発が考えられる以上 / 　仲理を地上で行うわけにはいかん[10][0c]「<889a><889b>を最小間に訪えるためにも / 　奇跡参で一気に壊滅するッ！[10][0c]「いざという時のために / 　大歩アームのセーフティを解<8a4c>しておけ[10][0c]「『リニアレールキャノン』の使用<8a4d><88b5>は / 　僕から出しておく
+  2|LIT: <<TODO>>
+  3|EN : @A huge explosion is possible, so
+ we can't handle it above ground.@To minimize casualties, we must
+ destroy the entire ruins at once.@Release the safety on the
+ large ARM.@I'll authorize the use of the
+ Rail Gun.
+  4|RE : <<TODO>>
+
+[JP#7373] gaps=5  aln=HIGH->US#7226  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「<889a><889b>を最小間に訪えるためにも / 　奇跡参で一気に壊滅するッ！[10][0c]「いざという時のために / 　大歩アームのセーフティを解<8a4c>しておけ[10][0c]「『リニアレールキャノン』の使用<8a4d><88b5>は / 　僕から出しておく
+  2|LIT: <<TODO>>
+  3|EN : @To minimize casualties, we must
+ destroy the entire ruins at once.@Release the safety on the
+ large ARM.@I'll authorize the use of the
+ Rail Gun.
+  4|RE : <<TODO>>
+
+[JP#7374] gaps=3  aln=HIGH->US#7227  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「いざという時のために / 　大歩アームのセーフティを解<8a4c>しておけ[10][0c]「『リニアレールキャノン』の使用<8a4d><88b5>は / 　僕から出しておく
+  2|LIT: <<TODO>>
+  3|EN : @Release the safety on the
+ large ARM.@I'll authorize the use of the
+ Rail Gun.
+  4|RE : <<TODO>>
+
+[JP#7375] gaps=2  aln=MED->US#7228  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「『リニアレールキャノン』の使用<8a4d><88b5>は / 　僕から出しておく
+  2|LIT: <<TODO>>
+  3|EN : @I'll authorize the use of the
+ Rail Gun.
+  4|RE : <<TODO>>
+
+[JP#7376] gaps=3  aln=HIGH->US#7229  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「しかし奇跡参には / 　まだ多くの闘幸が残っています[10][0c]「彼ら険幸の待好前に / 　モンスターが外に / 　出てしまうかもしれません[10][0c]「奇跡参で壊滅するためには / 　彼らの待好が間に合いません… / 　<f040><f042>彼らを<8812>き込むつもりですかッ！
+  2|LIT: <<TODO>>
+  3|EN : @But we still have
+ soldiers left in the ruins.@It's possible the monster
+ could escape before
+ all of them evacuate.@By destroying the ruins, some
+ soldiers won't escape in time.
+ Are you going to let them die?
+  4|RE : <<TODO>>
+
+[JP#7377] gaps=3  aln=HIGH->US#7230  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「彼ら険幸の待好前に / 　モンスターが外に / 　出てしまうかもしれません[10][0c]「奇跡参で壊滅するためには / 　彼らの待好が間に合いません… / 　<f040><f042>彼らを<8812>き込むつもりですかッ！
+  2|LIT: <<TODO>>
+  3|EN : @It's possible the monster
+ could escape before
+ all of them evacuate.@By destroying the ruins, some
+ soldiers won't escape in time.
+ Are you going to let them die?
+  4|RE : <<TODO>>
+
+[JP#7378] gaps=3  aln=HIGH->US#7231  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「奇跡参で壊滅するためには / 　彼らの待好が間に合いません… / 　<f040><f042>彼らを<8812>き込むつもりですかッ！
+  2|LIT: <<TODO>>
+  3|EN : @By destroying the ruins, some
+ soldiers won't escape in time.
+ Are you going to let them die?
+  4|RE : <<TODO>>
+
+[JP#7379] gaps=0  aln=HIGH->US#7232  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「恥任は、僕が持つ
+  2|LIT: <<TODO>>
+  3|EN : @I'll take full responsibility.
+  4|RE : <<TODO>>
+
+[JP#7381] gaps=0  aln=HIGH->US#7234  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜信遠はできています
+  2|LIT: <<TODO>>
+  3|EN : @I am prepared for my reprimand.
+  4|RE : <<TODO>>
+
+[JP#7382] gaps=4  aln=MED->US#7235  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=1
+  1|JP : 「今回の<8854>の仲<8a52>については / 　おってくだされるッ！ / 　それまでは自<8a53>勉<8a55>だッ！　いいかッ！
+  2|LIT: <<TODO>>
+  3|EN : @Your punishment for this
+ incident will be forthcoming! Until
+ then, you're under house-arrest!
+  4|RE : <<TODO>>

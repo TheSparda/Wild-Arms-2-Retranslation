@@ -1,0 +1,56 @@
+# WA2 — VALERIA CHATEAU — Crimson Noble lore panel (block 5, US#848-851) — FINAL insert-ready
+# =========================================================================================
+# A readable EXAMINE panel: a message left by a Crimson Noble (JP ノーブルレッド "Noble Red" — the
+# vampire clan Marivel belongs to). The last survivor mourns her clan, torn apart by the "Blaze of
+# Disaster", vows to guard this masterless place, and names a promised land — signed Isabel Graceland.
+# The final line is a separate note on the world-as-living-vessel cosmology (the Gaia/lifeform theme).
+# JP block-decoded (block 5). No em dashes. <=3 lines. US# = real slots (reconciled by construction).
+# GLOSSARY: ノーブルレッド = Crimson Nobles (localization); 災いの焔 = Blaze of Disaster;
+#   主なき = masterless; イザベル・グレースランド = Isabel Graceland.
+# Columns: JP (clean) / LIT / EN (current) / RE (final).
+# =========================================================================================
+
+[US#848] (Crimson Noble message)
+  JP : ＊そう、あたしたちノーブルレッドは / 災いの焔によって引き裂かれ / ここにいるのは、あたしひとりだけ〜
+  LIT: Yes, we Crimson Nobles were torn apart by the Blaze of Disaster; I alone remain here.
+  EN : We Crimson Nobles were torn asunder by the Blaze of Disaster. And now, I am the only one left.
+  RE : We Crimson Nobles were torn
+       apart by the Blaze of Disaster.
+       I alone am left.
+
+[US#849] (Crimson Noble message)
+  JP : ＊あたしは、この地を守らなくてはならない / ノーブルレッドの誇りをかけて / 主なきこの場所を〜
+  LIT: I must guard this place, on the pride of the Crimson Nobles, this masterless place.
+  EN : I must preserve the Crimson Nobles' honor and protect this masterless place.
+  RE : I must guard this place, on the
+       Crimson Nobles' honor, this
+       masterless place.
+
+[US#850] (Crimson Noble message, the signature)
+  JP : ＊約束の地、主なき城の南の島で / 再び会いましょう / 　　　　　　イザベル・グレースランド
+  LIT: We'll meet again at the promised land, the island south of the masterless castle. --Isabel Graceland
+  EN : We'll meet at our promised land, an island south of masterless castle. --by Isabel Graceland--
+  RE : We'll meet at our promised land,
+       the island south of the masterless
+       castle.      --Isabel Graceland--
+
+[US#851] (a separate note — cosmology)
+  JP : ＊『星』という器に満たされた / 『生命の種』〜 / こうして『世界』は成り立っている
+  LIT: A "world" is a vessel called a "planet", filled with "seeds of life"; so the world is formed.
+  EN : In this view, the world is a living mass, and the planet is its vessel.
+  RE : The world is a vessel called a
+       |planet|, filled with |seeds of
+       life|. So the world holds together.
+
+# =========================================================================================
+# STATUS: Crimson Noble lore panel translated (4 boxes, US#848-851). Reconciled by construction.
+#   JP block-decoded, em-dash-free (kept "--Isabel Graceland" as the game's signature dashes), <=3 lines.
+#   All US# verified. This is the box that feedback correctly flagged as NOT belonging with the
+#   Argetlahm/Sword-Magess panels — it's its own readable, now translated in its own file.
+# STORY WEIGHT: seeds Marivel's arc — the Crimson Nobles (ノーブルレッド) are her vampire clan, wiped
+#   out by the "Blaze of Disaster"; Isabel Graceland + the "promised land island south of the
+#   masterless castle" point to the Crimson Castle optional area. US#851's world-as-vessel note is
+#   an early statement of the Gaia/"planet is a living lifeform" theme that pays off in the endgame.
+# NOTE on em dashes: US#850's "--Isabel Graceland--" uses the game's own signature dashes (a byline
+#   convention), not prose em dashes — kept to match the original formatting.
+# =========================================================================================

@@ -1,0 +1,64 @@
+# WA2 INSERTION workspace US block 28 (US#5300-5316)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5302] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5424[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5303] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5425[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5304] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5426[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5310] budget=57ch/3ln
+  NOW: *This item's use
+          provides new Ammunition
+          for the bayonet.
+  JP : JP#5432[HIGH]: ＊アイテムとして使用することで / 　バイアネットに新たな伝幸を / 　追<8a34>します[10][0c]＊簡単泣伝により / 　相グループに対して片撃を行い
+  FIT: <<TODO — <=57 chars, 3 line(s), <=35/line>>
+
+[US#5311] budget=45ch/2ln
+  NOW: *Attack the enemy using
+          these Special Shells.
+  JP : JP#5433[MED]: ＊簡単泣伝により / 　相グループに対して片撃を行います
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#5312] budget=96ch/3ln
+  NOW: *The white dot is your character.
+          The nearby regions are shown
+          with your position in the center.
+  JP : JP#5434[HIGH]: ＊自キャラを押い帯で表<893a>し / 　現帰級<8822>を中心に / 　<8a38>村地<8a39>を表<893a>します[10][0c]＊マップ上の<8
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#5313] budget=65ch/2ln
+  NOW: *The red dots on the map are the
+          towns and castles already known.
+  JP : JP#5435[HIGH]: ＊マップ上の<8a06>い帯は / 　これまでに発見した場や<893b>です[10][0c]＊中心の押い帯からのびる<8a08><8a07>い<89e8>は /
+  FIT: <<TODO — <=65 chars, 2 line(s), <=35/line>>
+
+[US#5314] budget=67ch/2ln
+  NOW: *The yellow section from the center
+          white dot is the map direction.
+  JP : JP#5436[HIGH]: ＊中心の押い帯からのびる<8a08><8a07>い<89e8>は / 　マップの方向を<893a>してます
+  FIT: <<TODO — <=67 chars, 2 line(s), <=35/line>>
+
+[US#5315] budget=12ch/1ln
+  NOW: Let's hurry!
+  JP : JP#5437[HIGH]: 「急ごうよッ！
+  FIT: <<TODO — <=12 chars, 1 line(s), <=35/line>>
+
+[US#5316] budget=23ch/1ln
+  NOW: What do you want to do?
+  JP : JP#5438[MED]: 「どうする〜？
+  FIT: <<TODO — <=23 chars, 1 line(s), <=35/line>>

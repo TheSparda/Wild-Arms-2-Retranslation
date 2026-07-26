@@ -1,0 +1,94 @@
+# WA2 INSERTION workspace US block 33 (US#5464-5480)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5465] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5592[MED]: 
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5466] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5594[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません || JP#5593[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5467] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5595[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5468] budget=78ch/3ln
+  NOW: *This Anti-monster missile unit
+          will launch a random attack
+          against the enemy.
+  JP : JP#5596[MED]: ＊対怪獣ミサイルユニットで / 　相険体に対して、ランダムで訪撃を / 　行います
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#5469] budget=97ch/3ln
+  NOW: The two are said to be high-density
+          crystals which supported ancient
+          civilization's energy needs.
+  JP : JP#5597[HIGH]: 「ふたつは / 　先恥の負次を<8a34>えていたエネルギーの / 　<8867>遠度結<8a52>体だといわれている
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#5470] budget=86ch/3ln
+  NOW: Entombed in the earth, it
+          became a corpse of sorts that
+          has been dug out as |crystal.|
+  JP : JP#5598[HIGH]: 「それが、地辺に<89db>貸して『死<8a57>』となった / 　奇跡より『渓谷』というカタチをとって / 　現帰に、<885f>り出されているのだ[10][
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#5471] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#5599[HIGH]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「人は、<89e0>にいざなわれる / 　強く、望い<89e0>であれば、なおのこと / 　手にす
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#5472] budget=87ch/3ln
+  NOW: People are drawn to light
+          that's strong and fleeting.
+          They think it'll make them shine.
+  JP : JP#5600[HIGH]: 「人は、<89e0>にいざなわれる / 　強く、望い<89e0>であれば、なおのこと / 　手にすることで<8a59>が<8a5a>くと思えるからな〜
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#5473] budget=95ch/3ln
+  NOW: It's one of the measures used to
+          resurrect the deadly weapons
+          created by ancient civilizations.
+  JP : JP#5601[HIGH]: 「先恥負次の<89c5><8a5c>した / 　死せる幻同茶を / 　今の世に飛生させるための外法だ
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#5474] budget=93ch/3ln
+  NOW: It causes the black wings of
+          |death| and |destruction| to
+          flutter. That's why people want it.
+  JP : JP#5602[HIGH]: 「『死』と『破滅』を運ぶ / 　<888c>い守をはばたかせるもの / 　<f040><f042>だから、人は<8a61>めようとする
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#5475] budget=42ch/2ln
+  NOW: He's not trying to get
+          it for that, right?
+  JP : JP#5603[HIGH]: 「そんなことのために / 　これを手に入れるんじゃないよね〜？
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#5476] budget=60ch/3ln
+  NOW: I believe what's key
+          is the heart of the
+          person who uses it.
+  JP : JP#5604[HIGH]: 「大事なのは / 　それを使う人の心だと / 　〜信じて、いる[10][0c]「だから〜
+  FIT: <<TODO — <=60 chars, 3 line(s), <=35/line>>
+
+[US#5477] budget=5ch/1ln
+  NOW: So...
+  JP : JP#5605[HIGH]: 「だから〜
+  FIT: <<TODO — <=5 chars, 1 line(s), <=35/line>>
+
+[US#5480] budget=64ch/3ln
+  NOW: *If the same power
+          as the catapult is applied,
+          maybe it'll move?
+  JP : JP#5608[MED]: ＊乗出<8a64><8822>と同<8a65>の力を男えれば / 　動かせるかも？
+  FIT: <<TODO — <=64 chars, 3 line(s), <=35/line>>

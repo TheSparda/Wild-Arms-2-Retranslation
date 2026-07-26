@@ -1,0 +1,76 @@
+# [1.14] Greenhell to T'bok Village  (disc 1)
+# dialogue boxes: 57   speakers: 10
+# ============================================================
+  [ARMS leaves the Gate Bridge.  The communicator starts beeping.]
+Kate: >The data tablet pattern shows they're now heading northwest.
+Brad: That's northwest from here... I bet they're trying to get through Greenhell!
+Kate: >Greenhell? Did you say "Greenhell"?
+Brad: Greenhell is a trail through the northwest forest. The Greenhell trail is the only way to escape this area. Even animals can't get out.
+Irving: >The tablets' pattern still indicates northwest movement. We'll just have to trust Brad. Follow them! Stay on 'em like a bloodhound! -------------------------------------------------------------------------------
+
+~~ Greenhell ~~
+Brad: There should be a small village on the other side of the forest. As long as they're cutting through the forest too, they're bound to leave clues.
+Ashley: Do you know anything about the village. Brad?
+Brad: ............ Let's go. Their footprints lead directly north.
+Lilka: Brad, you don't talk very much about yourself, do you?
+  [Brad remembers his past.]
+Brad: I just don't have anything worth talking about. Let's hurry. The longer we wait, the harder the pursuit.
+  [ARMS goes past the forest and reaches to T'bok Village.]
+
+~~ T'bok Village ~~
+Brad: (The scenery hasn't changed since then. Could it still be the same? I have changed much since that day. Nothing stays the same, no matter what form it is...)
+Ashley: Is something the matter?
+Brad: It's nothing. Forget it. Let's keep following those guys.
+  [Brad & Co. approach a dog.]
+Lilka: Well, well. Fancy this.
+Woman: Stop that this instant! Don't bother travelers with all your horseplay!
+Woman: Oh, hi, Mister!
+Brad: I said my name isn't "Mister".
+Brad: Is that you? -> If Brad calls the dog Rassyu. Brad: Is it you, Rassyu?
+  [Rassyu sounds happy.]
+  [Rassyu sounds sad.]
+Merill: All this time, I had hoped that we would get the chance to meet again.
+  [Everyone follows Merill.]
+Merill: After you left, Mister, I asked why everyone called you a "hero". And I asked why a hero like you would be chased down and captured like that. But you're not a bad man anymore, right, Mister? That's why you're here now, right?
+Brad: No. I'm still a prisoner. I've been a prisoner ever since that day.
+Merill: I wanted to see you so that I could show you someone. After you were taken away, Rassyu told me he was in the forest, unconscious. I think he was in the Slayheim Liberation Army, like you. This is the place. Come on inside.
+  [Everyone enters the house.  Inside, a man is seated on a wheelchair.]
+Brad: We'll I'll be...
+Merill: Do you know him?
+Brad: That I do.
+Merill: Oh, thank goodness. [Merill goes to the wheelchair'd man and gets something. She shows something to Brad.]
+Merill: He had this on him. This is his name, right?
+Brad: Billy... Billy Pilder. He's a very close friend of mine.
+Merill: I'm happy for you. But he must have amnesia from his fever and injuries. He keeps mumbling that his name is Brad Evans. Oh, well. If he's your friend, that's enough for me.
+Brad: ............
+Merill: I know you're glad to see your friend, but I have bad news. We weren't able to heal him... in body or mind.
+Brad: It's enough for me that I got to see him alive. I mean, I'm grateful to you.
+  [Brad tells everyone about his past.]
+Brad: Slayheim expanded its military against the people's wishes. Many small rebel groups staged scattered uprisings, but they were too unorganized. There then appeared a man who united the opposition into the Slayheim Liberation Army. That man's name was Vinsfeld Rhadamanthus. That's...the name of my former commanding officer.
+Ashley: Brad! Vinsfeld was your commanding officer?!
+Tim: Holy cow... So Brad, you and Vinsfeld were buddies?
+Lilka: But Vinsfeld is the ringleader of Odessa. Why would the Liberation Army leader turn terrorist?
+Merill: I heard people in my village say it was Vinsfeld's... charisma and the bravery of Brad Evans and his companions that enabled the Liberation to defeat the military despite their small numbers.
+Brad: He and I were always fighting side by side. But he disappeared during the Final Operation. When the fighting was over... we Liberation Army veterans were blamed for the entire war. We were treated like war criminals. That's right. It was all a clever trap set and sprung by Vinsfeld.
+Merill: Wow... I don't care what anyone says. Rassyu and I know you're not a bad man. Didn't you surrender to spare our village, five years ago? Besides, you helped the recruits from our village at Greenhell, right? No one in the village thinks you're a bad man, Mister.
+Brad: So 5 years later... I return to this village which should have been the site of my grave. That scumbag Vinsfeld formed Odessa and came back before me! He betrayed me AND my friends, I'll never forgive him!
+Ashley: But why did you keep quiet about this for so long? Who'd think you were once friends with our enemy, Vinsfeld?
+Brad: I'm sorry. I thought it was between him and me. I wanted to settle it myself. I never intended to involve you in my private vendetta.
+Lilka: Hey, we're all comrades in ARMS, right? That makes you our buddy, right, Brad? So what if you and Vinsfeld were buddies then, Brad. You're not any more, right?
+Brad: That's right. I'm a member of ARMS, sworn enemy of Odessa.
+Ashley: Let's focus on the present. The thieves who stole the data tablets were traced to this village. Just ahead is the ocean. They must have crossed the sea to the continent. Makes sense?
+Brad: The desert in the northwest is where Slayheim once was. Knowing Vinsfeld, he could be using the abandoned facilities there as a base of operations. There's a town called Quartly near there. We should start gathering information there. But it'll be hard to get to Slayheim without a boat.
+Tim: And we left the Hovercraft a long ways from here.
+Ashley: Then Quartly it is. It's a long shot, but the best we have. Tomorrow we'll figure out a way to get to Slayheim. There has to be a way.
+Merill: I first met him 5 years ago going into the village. Rassyu told me he had collapsed in the rain. Hard to believe that was 5 years ago. B@Merill: I'm so glad you're alright. I was so worried! I didn't know where you went or even if you were alright!
+Billy: Ugh... T-The light... It... Ugh... Arrghh! B@Billy: Brad... Brad... People... ...people brak... Ha ha ha...
+Man: Those thieves were heading for the desert on the western continent.
+  [Brad & Co. approaches Rassyu.  The dog runs.]
+Merill: That Rassyu is a handful. He has the strange habit of collecting junk and bringing it to people he likes.
+  [Rassyu comes back.]
+  [The party acquires a TeleportOrb and the Data Tablets.]
+Lilka: Look! The data tablets!
+Ashley: They've been destroyed. So they realized we were their pattern to track them. Whoever did this knew a lot about the data tablets.
+Brad: They erased the memory. It looks like the trail runs cold here. Time for good, old-fashioned marching. On to Slayheim!
+Ashley: What's this? It's a teleport item. With this, we can teleport to any town that we've visited at least once before.
+Lilka: But I never did have much luck with this type of item. =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################

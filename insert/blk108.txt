@@ -1,0 +1,262 @@
+# WA2 INSERTION workspace US block 108 (US#7959-8015)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7960] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#8137[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7961] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8138[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7962] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8139[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7963] budget=85ch/3ln
+  NOW: All three countries cede
+          the right to use the respective
+          Live Reflectors to the ARMS.
+  JP : JP#8140[HIGH]: 「ＡＲＭＳによる / 　伝ライブリフレクターの自由使用<88b2>が / 　幸<8a34>に<8978>泣されました[10][0c]「これより、１２時間にわたり
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#7964] budget=81ch/3ln
+  NOW: For the next 12 hours,
+          all the Live Reflectors are under
+          the control of the ARMS.
+  JP : JP#8141[HIGH]: 「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベル
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#7965] budget=94ch/3ln
+  NOW: We hereby commence the
+          maneuver to capture the encroaching
+          parallel universe, the Kuiper Belt!
+  JP : JP#8142[HIGH]: 「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを /
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7966] budget=85ch/3ln
+  NOW: Connect via the wireless
+          each Live Reflector to the Mana
+          released from the Raypoints.
+  JP : JP#8143[MED]: 「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネル
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#7967] budget=103ch/3ln
+  NOW: Adjustment of the reflection angle
+          ...Imprisonment by the life energy
+          Mana... Deploy the Trapezohedron!
+  JP : JP#8144[HIGH]: 「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#7971] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8150[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません || JP#8148[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7972] budget=85ch/3ln
+  NOW: All three countries cede
+          the right to use the respective
+          Live Reflectors to the ARMS.
+  JP : JP#8151[HIGH]: 「ＡＲＭＳによる / 　伝ライブリフレクターの自由使用<88b2>が / 　幸<8a34>に<8978>泣されました[10][0c]「これより、１２時間にわたり
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#7973] budget=81ch/3ln
+  NOW: For the next 12 hours,
+          all the Live Reflectors are under
+          the control of the ARMS.
+  JP : JP#8152[HIGH]: 「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベル
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#7974] budget=94ch/3ln
+  NOW: We hereby commence the
+          maneuver to capture the encroaching
+          parallel universe, the Kuiper Belt!
+  JP : JP#8153[HIGH]: 「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを /
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7975] budget=85ch/3ln
+  NOW: Connect via the wireless
+          each Live Reflector to the Mana
+          released from the Raypoints.
+  JP : JP#8154[MED]: 「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネル
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#7976] budget=103ch/3ln
+  NOW: Adjustment of the reflection angle
+          ...Imprisonment by the life energy
+          Mana... Deploy the Trapezohedron!
+  JP : JP#8155[HIGH]: 「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#7980] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8161[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません || JP#8159[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7981] budget=85ch/3ln
+  NOW: All three countries cede
+          the right to use the respective
+          Live Reflectors to the ARMS.
+  JP : JP#8162[HIGH]: 「ＡＲＭＳによる / 　伝ライブリフレクターの自由使用<88b2>が / 　幸<8a34>に<8978>泣されました[10][0c]「これより、１２時間にわたり
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#7982] budget=81ch/3ln
+  NOW: For the next 12 hours,
+          all the Live Reflectors are under
+          the control of the ARMS.
+  JP : JP#8163[HIGH]: 「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベル
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#7983] budget=94ch/3ln
+  NOW: We hereby commence the
+          maneuver to capture the encroaching
+          parallel universe, the Kuiper Belt!
+  JP : JP#8164[HIGH]: 「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを /
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7984] budget=85ch/3ln
+  NOW: Connect via the wireless
+          each Live Reflector to the Mana
+          released from the Raypoints.
+  JP : JP#8165[MED]: 「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネル
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#7985] budget=103ch/3ln
+  NOW: Adjustment of the reflection angle
+          ...Imprisonment by the life energy
+          Mana... Deploy the Trapezohedron!
+  JP : JP#8166[HIGH]: 「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#7989] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8172[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません || JP#8170[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7990] budget=85ch/3ln
+  NOW: All three countries cede
+          the right to use the respective
+          Live Reflectors to the ARMS.
+  JP : JP#8173[HIGH]: 「ＡＲＭＳによる / 　伝ライブリフレクターの自由使用<88b2>が / 　幸<8a34>に<8978>泣されました[10][0c]「これより、１２時間にわたり
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#7991] budget=81ch/3ln
+  NOW: For the next 12 hours,
+          all the Live Reflectors are under
+          the control of the ARMS.
+  JP : JP#8174[HIGH]: 「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベル
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#7992] budget=94ch/3ln
+  NOW: We hereby commence the
+          maneuver to capture the encroaching
+          parallel universe, the Kuiper Belt!
+  JP : JP#8175[HIGH]: 「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを /
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7993] budget=85ch/3ln
+  NOW: Connect via the wireless
+          each Live Reflector to the Mana
+          released from the Raypoints.
+  JP : JP#8176[MED]: 「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネル
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#7994] budget=103ch/3ln
+  NOW: Adjustment of the reflection angle
+          ...Imprisonment by the life energy
+          Mana... Deploy the Trapezohedron!
+  JP : JP#8177[HIGH]: 「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#7998] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8183[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません || JP#8181[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7999] budget=85ch/3ln
+  NOW: All three countries cede
+          the right to use the respective
+          Live Reflectors to the ARMS.
+  JP : JP#8184[HIGH]: 「ＡＲＭＳによる / 　伝ライブリフレクターの自由使用<88b2>が / 　幸<8a34>に<8978>泣されました[10][0c]「これより、１２時間にわたり
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#8000] budget=81ch/3ln
+  NOW: For the next 12 hours,
+          all the Live Reflectors are under
+          the control of the ARMS.
+  JP : JP#8185[HIGH]: 「これより、１２時間にわたり / 　すべてのライブリフレクターは / 　ＡＲＭＳの片押辺におかれますッ！[10][0c]「ならびに / 　侵食異世界カイバーベル
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#8001] budget=94ch/3ln
+  NOW: We hereby commence the
+          maneuver to capture the encroaching
+          parallel universe, the Kuiper Belt!
+  JP : JP#8186[HIGH]: 「ならびに / 　侵食異世界カイバーベルトの<8929><8a38>作戦を / 　ただ今より開始しますッ！[10][0c]「レイポイントより解殺されたマナを /
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#8002] budget=85ch/3ln
+  NOW: Connect via the wireless
+          each Live Reflector to the Mana
+          released from the Raypoints.
+  JP : JP#8187[MED]: 「レイポイントより解殺されたマナを / 　伝ライブリフレクターに無<8a39>コネクト[10][0c]「リフレクター、反仲<894b>調調〜 / 　ライブエネル
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#8003] budget=103ch/3ln
+  NOW: Adjustment of the reflection angle
+          ...Imprisonment by the life energy
+          Mana... Deploy the Trapezohedron!
+  JP : JP#8188[MED]: 「リフレクター、反仲<894b>調調〜 / 　ライブエネルギー『マナ』による<8962><8963>〜 / 　『トラペゾヘドロン』守開しますッ！
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#8007] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#8008] budget=85ch/3ln
+  NOW: All three countries cede
+          the right to use the respective
+          Live Reflectors to the ARMS.
+  JP : JP#8192[MED]: 
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#8009] budget=81ch/3ln
+  NOW: For the next 12 hours,
+          all the Live Reflectors are under
+          the control of the ARMS.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#8010] budget=94ch/3ln
+  NOW: We hereby commence the
+          maneuver to capture the encroaching
+          parallel universe, the Kuiper Belt!
+  JP : JP#8193[MED]: [07]アァ[80][02]ぉ#チ
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#8011] budget=85ch/3ln
+  NOW: Connect via the wireless
+          each Live Reflector to the Mana
+          released from the Raypoints.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#8012] budget=103ch/3ln
+  NOW: Adjustment of the reflection angle
+          ...Imprisonment by the life energy
+          Mana... Deploy the Trapezohedron!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>

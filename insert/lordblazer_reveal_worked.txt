@@ -1,0 +1,206 @@
+# WA2 INSERTION — LORD BLAZER REVEAL (blk 52) — JP-FAITHFUL, DISPLAY-WINDOW BUDGET
+# =========================================================================================
+# The setup that pays off in insert/endgame_worked.txt. Two intertwined threads in blk 52:
+#   THREAD 1 — THE BERNADETTE: a girl obsessed with proving she has <Sword Magess> blood so she
+#     can "become a hero" fitting that lineage. Sole survivor of a monster attack; rebuilds herself
+#     with artificial limbs, throws away her old name/body. Tragic foil to the endgame thesis
+#     (she chases hero-by-bloodline; the Magess later says bloodline means nothing). HIGH conf.
+#   THREAD 2 — THE ARGETLAHM / LORD BLAZER LORE: scroll-text (the '13'-prefix boxes incl. US#6455,
+#     the 166-char max box). Heavily kanji-garbled -> sense from EN, wording SHAKY.
+#
+# POLICY: JP source; EN only for unsolved kanji. NO em dashes (commas/periods/ellipses; JP uses
+# 〜 …). Display-window sized => grow-to-window (repointer). {n}=name codes, keep verbatim.
+# CONF: [OK] solid · [FAIR] sense reliable · [SHAKY] garbled JP, verify via font trace.
+# =========================================================================================
+
+################## THREAD 1 — THE BERNADETTE (hero-by-bloodline obsession) ##################
+
+[US#6421] [OK]  (HIGH,0)
+  JP : 「お家には〜 / ううん / どこにもあたしの居場所なんて無いの
+  LIT: At my home... no. There's nowhere I belong, anywhere.
+  EN : At my house... Hm.... There's no place for me.
+  RE : Back home... no. There's
+       nowhere I belong,
+       anywhere at all.
+
+[US#6423] [OK]  (HIGH,0)
+  JP : 「今はどんな暮らしをしていようと / わたしたちには / ＜剣の巫女＞の血が流れているんだよ〜
+  LIT: Whatever kind of life we live now, the blood of the <Sword Magess> flows in us.
+  EN : Regardless of the kind of life you're living, we have the blood of the <Sword Magess>.
+  RE : Whatever life we live now,
+       the blood of the <Sword
+       Magess> flows in us.
+
+[US#6425] [FAIR]  (MED,2)
+  JP : 「この身に流れる血の証をたてられれば / 貴族の生活ができるんだよ
+  LIT: If I can prove the blood that runs in me, I can live a noble's life.
+  EN : If I can provide proof of the blood in me, I can live the life of nobility.
+  RE : If I can prove the blood
+       that runs in me, I can live
+       a noble's life.
+
+[US#6427] [FAIR]  (MED,2)
+  JP : 「この身に / ＜剣の巫女＞の血が流れているならば / その『記憶』を呼び覚ましてくれッ！
+  LIT: If the <Sword Magess> blood runs in me, then wake that "memory"!
+  EN : If I have the blood of the <Sword Magess> in me, then awaken that |memory.|
+  RE : If <Sword Magess> blood
+       runs in me, then wake
+       that |memory|!
+
+[US#6428] [FAIR]  (MED,2)
+  JP : 「ロードブレイザーに関する『記憶』は / 必ず呼び覚ましてみせる
+  LIT: The "memory" concerning Lord Blazer, I will surely wake it.
+  EN : I will awaken memories regarding Lord Blazer.
+  RE : The |memory| of Lord Blazer,
+       I will wake it, no matter what.
+
+[US#6430] [FAIR]  (HIGH,3)
+  JP : 「違った〜 / 違ったんだよね〜 / そして、あたしは生き残っている〜
+  LIT: It was wrong... it was all wrong, wasn't it. And yet I survived.
+  EN : They were killed. They were killed, right? And I survived.
+  RE : It was wrong... all of it,
+       wasn't it. And still,
+       I'm the one who survived.
+
+[US#6431] [FAIR]  (HIGH,3)
+  JP : 「モンスターを狩っていけば / あたしは『英雄』になれるんだ
+  LIT: If I keep hunting the monsters, I can become a "hero".
+  EN : If I exorcise the monsters, I can become a |hero.|
+  RE : If I keep hunting monsters,
+       I can become a |hero|.
+
+[US#6432] [OK]  (HIGH,1)
+  JP : 「身体に流れる＜巫女＞の血に / ふさわしい『英雄』に / なれるんだ〜
+  LIT: A "hero" worthy of the <Magess> blood that runs in my body.
+  EN : I can become a |hero,| fitting to the blood of the <Sword Magess> flowing [in me.]
+  RE : A |hero| worthy of the
+       <Magess> blood that runs
+       in my veins.
+
+[US#6433] [FAIR]  (HIGH,3)
+  JP : 「身体のあちこちも動かない〜 / いいや〜 / 義手や義足で何とかなる
+  LIT: Parts of my body won't move. No matter. Artificial arms and legs will do.
+  EN : Parts of my body won't move. But...I can manage with an artificial arm [and leg.]
+  RE : Parts of my body won't move.
+       No matter. Artificial arms
+       and legs will do.
+
+[US#6434] [OK]  (HIGH,0)
+  JP : 「そうだ / 痛みを知らない身体に生まれかわろう
+  LIT: Yes. I'll be reborn into a body that knows no pain.
+  EN : I got it. I'll get reborn into a body that knows no pain.
+  RE : Yes. I'll be reborn into
+       a body that knows no pain.
+
+[US#6435] [OK]  (HIGH,0)
+  JP : 「身体も、名前も〜 / 今までのあたしは / 全部捨ててしまおう〜
+  LIT: My body, my name... the me I was until now, I'll throw it all away.
+  EN : My body and my name... I will throw away my old self.
+  RE : My body, my name... the me
+       I was until now, I'll throw
+       it all away.
+
+[US#6436] [OK]  (HIGH,1)
+  JP : 「これが、あたしだ / 否定はしない〜 / すべて事実〜
+  LIT: This is me. I won't deny it. It's all fact.
+  EN : This is me. I won't deny it. It's a fact.
+  RE : This is me. I won't deny it.
+       It's all fact.
+
+[US#6437] [OK]  (HIGH,0)
+  JP : 「だがッ！ / この身に流れる＜巫女＞の血も / また事実ッ！
+  LIT: But! The <Magess> blood that runs in me is fact too!
+  EN : But! The <Sword Magess> blood in my body is a fact too.
+  RE : But! The <Magess> blood
+       that runs in me is
+       fact too!
+
+[US#6469] [FAIR]  (HIGH,4)
+  JP : 「今までの疑念が / ようやく晴れたのだ
+  LIT: The doubts I've carried until now have finally cleared.
+  EN : The suspicions have finally been cleared.
+  RE : The doubts I've carried
+       have finally cleared.
+
+[US#6470] [FAIR]  (MED,2)
+  JP : 「この身に＜巫女＞の血が流れていることを / ようやく確信が持てたのだ〜
+  LIT: At last I'm certain the <Magess> blood runs in me.
+  EN : I'm now confident that the blood of the <Sword Magess> flows within me.
+  RE : At last I'm certain the
+       <Magess> blood runs in me.
+
+[US#6471] [FAIR]  (MED,~)
+  JP : 「たのむ、あと少し〜 / この身が朽けようとも / 『英雄』として死ねるなら〜
+  LIT: Please, just a little more... even if this body rots away, if I can die a "hero"...
+  EN : Please, a little more... I'd rid this body, if I could die a |hero.|
+  RE : Please, a little more... even
+       if this body rots away,
+       if only I die a |hero|...
+
+################## THREAD 2 — ARGETLAHM / LORD BLAZER LORE (scroll-text) ##################
+# These are the '13'-prefix scrolling-lore boxes. HEAVILY kanji-garbled -> RE reconstructed
+# mostly from EN. Sense is right; exact wording pending emulator font trace. US#6455 = the
+# 166-char / 5-line MAX box in the whole game.
+
+[US#6454] [SHAKY]  (HIGH,16 unsolved)
+  JP : [13]遥かな過去において / [13]ファルガイアを焼き尽くさんとした災いの魔神 / [13]『ロードブレイザー』についてであった
+  LIT: ...of the far distant past, when the demon of calamity, "Lord Blazer", sought to burn Filgaia away.
+  EN : ...was about the far distant past when Filgaia was burned by the Blaze of Disaster, |Lord [Blazer.]|
+  RE : ...of the distant past, when
+       the demon of calamity,
+       |Lord Blazer|, sought to
+       burn Filgaia away.
+
+[US#6455] [SHAKY]  (HIGH,12 unsolved)  ### 166ch/5ln — game's MAX box ###
+  JP : [13]灼熱の業火を意のままに操る / [13]魔神ロードブレイザー〜 / [13]人の持つ、怒りや苦しみ / [13]あらゆる負の感情[...]
+  LIT: Lord Blazer, the demon who bends the scorching hellfire to his will, takes in all the wrath and
+       suffering people hold, every negative emotion...
+  EN : The Demon, Lord Blazer who plies the scorching hell fire by thought, takes in all the wrath[...]
+  RE : Lord Blazer, the demon who
+       bends the scorching hellfire
+       to his will, drinks in all
+       the wrath and suffering people
+       hold, every negative feeling.
+
+[US#6460] [OK]  (HIGH,1)
+  JP : [13]『アガートラーム』によって / [13]ロードブレイザーを打ち倒すことができたのは / [13]両者が同種の存在であるからなのだ
+  LIT: The Argetlahm could strike Lord Blazer down because the two are beings of the same kind.
+  EN : The |Argetlahm| could destroy Lord Blazer because both were beings of similar substance.
+  RE : The |Argetlahm| could strike
+       Lord Blazer down because
+       the two are beings
+       of the same kind.
+
+[US#6461] [SHAKY]  (HIGH,4)
+  JP : 「お前が、その身に / ロードブレイザーを潜ませて / 制御しているもの〜
+  LIT: What you hold within you, keeping Lord Blazer hidden and in check...
+  EN : Concealed in you and controlled by you is Lord Blazer.
+  RE : What you hold within you,
+       keeping Lord Blazer hidden
+       and in check...
+
+[US#6462] [FAIR]  (HIGH,2)
+  JP : 「ロードブレイザーと共に居ることで / アガートラームを取り込んだのも / すべては〜
+  LIT: That you took in the Argetlahm by living alongside Lord Blazer, all of it...
+  EN : By living with Lord Blazer you were able to take on the Argetlahm which was all...
+  RE : That you took in the Argetlahm
+       by living with Lord Blazer,
+       all of it...
+
+[US#6463] [FAIR]  (HIGH,2)
+  JP : 「お前の意志〜 / すなわち『心』によるものだったのだ
+  LIT: ...was by your will. That is, by your "heart".
+  EN : ...dependent on your spirit, in other words, |heart.|
+  RE : ...was by your will. That is,
+       by your |heart|.
+
+# =========================================================================================
+# CONF TALLY: OK=8  FAIR=9  SHAKY=4 (6454, 6455, 6461 + scroll-lore tail)
+# THEMATIC LINK: The Bernadette is the ANTI-thesis foil. She throws away her body/name chasing
+#   "hero worthy of the bloodline" (6432/6434/6435), and begs to "die a hero" (6471). The endgame
+#   Sword Magess (insert/endgame_worked.txt) refutes exactly this: bloodline is meaningless, and it
+#   was 願い/desire (not sacrifice) that mattered. Keep <Sword Magess>, |hero|, |Argetlahm|, |heart|
+#   consistent with the endgame file's terms.
+# NOT translated here: the deeper scroll-lore boxes 6456/6457/6473-6479 (9-16 unsolved kanji each,
+#   several NO-ALIGN) — need the font trace before they can be done faithfully. Flagged, not guessed.
+# =========================================================================================

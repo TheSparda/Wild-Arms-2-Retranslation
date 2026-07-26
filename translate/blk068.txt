@@ -1,0 +1,170 @@
+# WA2 4-col translation doc block 68 (JP#7303-7336)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 21 boxes | OK=0 FAIR=21 SHAKY=0 JP-ONLY=0
+# DRAFT STATUS: 21 boxes | OK=0 FAIR=20 SHAKY=1 JP-ONLY=0
+
+[JP#7305] gaps=0  aln=MED->US#7134  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Fire magic was for heating and
+ ice magic was for preserving.
+ It's how magic should be used.*Now, it's used more frequently
+ as a method to destroy the
+ monsters than for its original use.*In addition, the circumstances
+ which require more powerful magic
+ are full of serious dangers.*Seeking more powerful magic is
+ like seeking more powerful weapons.*The next generation Crest
+ Sorcerers 
+  4|RE : <<TODO>>
+
+[JP#7306] gaps=2  aln=MED->US#7149  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7307] gaps=0  aln=MED->US#7150  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7308] gaps=3  aln=MED->US#7151  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「そうかそうか / 　それじゃ、怪獣カードがどこでも見られる / 　アルバムと<88fa><88fb>してやろう[10][0c]「メニューに『アルバム』の幸目が<8a34>えるから / 　それを選んで、あとは見たいカードを / 　選泣するだけ、どうだ片利だろう？
+  2|LIT: <<TODO>>
+  3|EN : @OK. Here's the deal. I'll exchange
+ this for an album where you
+ can see Monster Cards anywhere.@The menu will now say |Album.|
+ Select it, then pick the card you
+ want to see. Convenient, huh?
+  4|RE : <<TODO>>
+
+[JP#7309] gaps=1  aln=MED->US#7152  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「メニューに『アルバム』の幸目が<8a34>えるから / 　それを選んで、あとは見たいカードを / 　選泣するだけ、どうだ片利だろう？
+  2|LIT: <<TODO>>
+  3|EN : @The menu will now say |Album.|
+ Select it, then pick the card you
+ want to see. Convenient, huh?
+  4|RE : <<TODO>>
+
+[JP#7310] gaps=0  aln=MED->US#7153  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「どうだい、カードを見て行くかい？ / １．カードを確認していく / ２．カードの確認しない[1a]か
+  2|LIT: <<TODO>>
+  3|EN : @Want to see the cards?
+ 1. See the cards.
+ 2. No need to see the cards.2
+  4|RE : <<TODO>>
+
+[JP#7311] gaps=1  aln=MED->US#7154  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「どうじゃ、名前を<8864>えるかい？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @How about it?
+ Want to change your name?2
+  4|RE : <<TODO>>
+
+[JP#7312] gaps=2  aln=MED->US#7155  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8a40>やかしでもいいから見て行かないか？ / １．<892e>兄えが気になるから見て行く / ２．いまは見て行く気にならない[1a]か
+  2|LIT: <<TODO>>
+  3|EN : @Want to take a look around?
+ 1. Show me. I'm curious.
+ 2. I don't feel like looking now.2
+  4|RE : <<TODO>>
+
+[JP#7314] gaps=1  aln=MED->US#7157  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊………<8934>来切れ？
+  2|LIT: <<TODO>>
+  3|EN : *...Dead batteries?
+  4|RE : <<TODO>>
+
+[JP#7316] gaps=1  aln=MED->US#7160  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「どうじゃ、名前を<8864>えるかい？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @Want to see the cards?
+ 1. See the cards.
+ 2. No need to see the cards.2
+  4|RE : <<TODO>>
+
+[JP#7317] gaps=2  aln=MED->US#7162  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8a40>やかしでもいいから見て行かないか？ / １．<892e>兄えが気になるから見て行く / ２．いまは見て行く気にならない[1a]か
+  2|LIT: <<TODO>>
+  3|EN : @Want to take a look around?
+ 1. Show me. I'm curious.
+ 2. I don't feel like looking now.2
+  4|RE : <<TODO>>
+
+[JP#7319] gaps=1  aln=MED->US#7164  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊………<8934>来切れ？
+  2|LIT: <<TODO>>
+  3|EN : *...Dead batteries?
+  4|RE : <<TODO>>
+
+[JP#7321] gaps=1  aln=MED->US#7167  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「どうじゃ、名前を<8864>えるかい？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @Want to see the cards?
+ 1. See the cards.
+ 2. No need to see the cards.2
+  4|RE : <<TODO>>
+
+[JP#7322] gaps=2  aln=MED->US#7169  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8a40>やかしでもいいから見て行かないか？ / １．<892e>兄えが気になるから見て行く / ２．いまは見て行く気にならない[1a]か
+  2|LIT: <<TODO>>
+  3|EN : @Want to take a look around?
+ 1. Show me. I'm curious.
+ 2. I don't feel like looking now.2
+  4|RE : <<TODO>>
+
+[JP#7324] gaps=1  aln=MED->US#7171  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊………<8934>来切れ？
+  2|LIT: <<TODO>>
+  3|EN : *...Dead batteries?
+  4|RE : <<TODO>>
+
+[JP#7326] gaps=1  aln=MED->US#7174  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「どうじゃ、名前を<8864>えるかい？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @Want to see the cards?
+ 1. See the cards.
+ 2. No need to see the cards.2
+  4|RE : <<TODO>>
+
+[JP#7327] gaps=2  aln=MED->US#7176  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8a40>やかしでもいいから見て行かないか？ / １．<892e>兄えが気になるから見て行く / ２．いまは見て行く気にならない[1a]か
+  2|LIT: <<TODO>>
+  3|EN : @Want to take a look around?
+ 1. Show me. I'm curious.
+ 2. I don't feel like looking now.2
+  4|RE : <<TODO>>
+
+[JP#7329] gaps=1  aln=MED->US#7178  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊………<8934>来切れ？
+  2|LIT: <<TODO>>
+  3|EN : *...Dead batteries?
+  4|RE : <<TODO>>
+
+[JP#7331] gaps=1  aln=MED->US#7181  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「どうじゃ、名前を<8864>えるかい？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @Want to see the cards?
+ 1. See the cards.
+ 2. No need to see the cards.2
+  4|RE : <<TODO>>
+
+[JP#7332] gaps=2  aln=MED->US#7183  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8a40>やかしでもいいから見て行かないか？ / １．<892e>兄えが気になるから見て行く / ２．いまは見て行く気にならない[1a]か
+  2|LIT: <<TODO>>
+  3|EN : @Want to take a look around?
+ 1. Show me. I'm curious.
+ 2. I don't feel like looking now.2
+  4|RE : <<TODO>>
+
+[JP#7334] gaps=1  aln=MED->US#7185  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊………<8934>来切れ？
+  2|LIT: <<TODO>>
+  3|EN : *...Dead batteries?
+  4|RE : <<TODO>>

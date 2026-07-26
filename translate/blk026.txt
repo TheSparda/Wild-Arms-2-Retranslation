@@ -1,0 +1,766 @@
+# WA2 4-col translation doc block 26 (JP#5246-5356)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 87 boxes | OK=10 FAIR=29 SHAKY=48 JP-ONLY=0
+# DRAFT STATUS: 87 boxes | OK=8 FAIR=29 SHAKY=50 JP-ONLY=0
+
+[JP#5247] gaps=0  aln=MED->US#5129  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5248] gaps=2  aln=MED->US#5130  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5249] gaps=0  aln=MED->US#5131  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5251] gaps=1  aln=MED->US#5133  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「もしかしたら抜けるんじゃないかって / 　俺も一<8a39>、思ってしまったくらいさ
+  2|LIT: <<TODO>>
+  3|EN : @Even I thought for a second
+ that it might come out.
+  4|RE : <<TODO>>
+
+[JP#5252] gaps=0  aln=MED->US#5134  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「あの守が抜けるようなことがあるってことは / 　それなりの理由があるってことだろ？
+  2|LIT: <<TODO>>
+  3|EN : @The fact that the sword could
+ be retrieved means there's
+ some reason for it, right?
+  4|RE : <<TODO>>
+
+[JP#5253] gaps=4  aln=MED->US#5136  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「『姉<8a3d>』が<890c>生するってことは / 　『姉<8a3d>』を必要とする / 　何らかの戦<8945>があるってことじゃないか
+  2|LIT: <<TODO>>
+  3|EN : @Well, but
+ it could be true.
+  4|RE : <<TODO>>
+
+[JP#5254] gaps=0  aln=MED->US#5137  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「でも、まあ〜 / 　そんなモンかもしれないな〜
+  2|LIT: <<TODO>>
+  3|EN : @No one wants war.
+  4|RE : <<TODO>>
+
+[JP#5255] gaps=0  aln=MED->US#5138  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「助いなんか / 　誰も歩んじゃいないんだから
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#5257] gaps=3  aln=MED->US#5139  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「あの<8a43>は、『合谷』と呼ばれる / 　<882d>代の奇来を用いて / 　<89e1>自の機艇挑戦を発周させたのさ
+  2|LIT: <<TODO>>
+  3|EN : @The country has a resource
+ called a |Fossil| and uses it to
+ develop Mechanical Techniques.
+  4|RE : <<TODO>>
+
+[JP#5258] gaps=2  aln=MED->US#5140  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「なーんか、ヤなんだよな / 　『<8a43><8a4c>の訪』ってなカンジでさ / 　キミはどう思う？
+  2|LIT: <<TODO>>
+  3|EN : @There's something not right.
+ Feels like |The National Dog.|
+ What do you think?
+  4|RE : <<TODO>>
+
+[JP#5259] gaps=2  aln=MED->US#5141  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「だけどまあ〜 / 　すぐにお<883f>はかかるだろう[10][0c]「何たって僕たちは / 　最前<8a4d>に配備されるのが / 　決まっているようなモンだからな
+  2|LIT: <<TODO>>
+  3|EN : @But it won't be long before
+ some booming voice calls us.@I mean, it's almost
+ guaranteed we'll be
+ assigned to the front line.
+  4|RE : <<TODO>>
+
+[JP#5260] gaps=1  aln=MED->US#5142  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「何たって僕たちは / 　最前<8a4d>に配備されるのが / 　決まっているようなモンだからな
+  2|LIT: <<TODO>>
+  3|EN : @I mean, it's almost
+ guaranteed we'll be
+ assigned to the front line.
+  4|RE : <<TODO>>
+
+[JP#5261] gaps=0  aln=MED->US#5143  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「好備しなおすだけで / 　戦戦に恥ができるんだから / 　負利なもんだよな
+  2|LIT: <<TODO>>
+  3|EN : @Just by refitting us,
+ our tactical options increase.
+ Very convenient.
+  4|RE : <<TODO>>
+
+[JP#5262] gaps=2  aln=MED->US#5143  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「５数前の / 　スレイハイム解殺戦にも貸<8a57>したんだぜ / 　もちろん解殺<8a48>としてだ
+  2|LIT: <<TODO>>
+  3|EN : @Just by refitting us,
+ our tactical options increase.
+ Very convenient.
+  4|RE : <<TODO>>
+
+[JP#5263] gaps=2  aln=MED->US#5144  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「そういやあ、うちのバア方が / 　<8a59>星は<8a5c>茶の現れだって / 　言ってたっけな〜
+  2|LIT: <<TODO>>
+  3|EN : @I was involved in the Slayheim
+ War 5 years ago. Of course I
+ fought for the Liberation Army.
+  4|RE : <<TODO>>
+
+[JP#5264] gaps=1  aln=HIGH->US#5146  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「だけど、モンスターは / 　どんどん飛<8a57>しているんだ[10][0c]「やつらはいったい / 　どこからやってきているんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @But the monsters just
+ keep multiplying.@Where in the world are
+ they all coming from?
+  4|RE : <<TODO>>
+
+[JP#5265] gaps=0  aln=HIGH->US#5147  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「やつらはいったい / 　どこからやってきているんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @Where in the world are
+ they all coming from?
+  4|RE : <<TODO>>
+
+[JP#5266] gaps=2  aln=HIGH->US#5148  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「僕なんて、生まれてこのかた / 　そんなメンドーなモンは / 　一度たりともできたこたぁねぇよッ！[10][0c]「<f040><f042>で、おめぇはどうなのよ？
+  2|LIT: <<TODO>>
+  3|EN : @For me, ever since I was born,
+ I never once managed
+ such troublesome things!@So, what about you?
+  4|RE : <<TODO>>
+
+[JP#5267] gaps=2  aln=HIGH->US#5149  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>で、おめぇはどうなのよ？
+  2|LIT: <<TODO>>
+  3|EN : @So, what about you?
+  4|RE : <<TODO>>
+
+[JP#5268] gaps=1  aln=MED->US#5150  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「つまりは / 　一番危険な戦場に配備されるってことだ[10][0c]「さあて、<89a7>数後までに / 　何人生き残っていることやら〜
+  2|LIT: <<TODO>>
+  3|EN : @In other words, we're being
+ assigned to the most
+ dangerous front.@I wonder how many
+ of us will still be alive
+ 6 months from now.
+  4|RE : <<TODO>>
+
+[JP#5269] gaps=1  aln=MED->US#5151  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「さあて、<89a7>数後までに / 　何人生き残っていることやら〜
+  2|LIT: <<TODO>>
+  3|EN : @I wonder how many
+ of us will still be alive
+ 6 months from now.
+  4|RE : <<TODO>>
+
+[JP#5270] gaps=3  aln=MED->US#5152  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「だから、<8a67>りを見渡してみろよ / 　魂頼<8a6a>そうな連中が / 　けっこう<8a6b>じっているだろう？
+  2|LIT: <<TODO>>
+  3|EN : @Look around you.
+ Aren't there a lot of
+ unruly-looking guys here?
+  4|RE : <<TODO>>
+
+[JP#5271] gaps=3  aln=MED->US#5153  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「ここに選抜された闘勇は / 　<8a6d>、出身がバラバラなんだ[10][0c]「簡奮の<8a43><8a4c>にとらわれることなく / 　友動することを強調しているからな
+  2|LIT: <<TODO>>
+  3|EN : @The soldiers here
+ are from all over.@They're more interested in
+ your skills than your
+ nationality.
+  4|RE : <<TODO>>
+
+[JP#5272] gaps=2  aln=MED->US#5154  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「簡奮の<8a43><8a4c>にとらわれることなく / 　友動することを強調しているからな
+  2|LIT: <<TODO>>
+  3|EN : @They're more interested in
+ your skills than your
+ nationality.
+  4|RE : <<TODO>>
+
+[JP#5273] gaps=21  aln=HIGH->US#5155  CONF=SHAKY unsolved=21  CONF=SHAKY unsolved=17
+  1|JP : ＊これにより、＜守の<8a71>昔＞の<8a72>勝を / 　『姉<8a3d>』の<8a72>勝を見なす / 　<89f9><89fc>が<8867>まっていくことになる[10][0c]＊しかし、＜守の<8a71>昔＞自身の / 　<8a72>を招きし者は / 　この世には存帰しない[10][0c]＊<8a4c>としての<8a72>勝を招く者は多く / 　<8a72>は<8a79>れ、年多の『姉<8a3d>』の家<8a7a>を / 　地に英れさせた[10][0c]＊『<8a72>』にいかほどの雄<8875>があろうか / 　＜守の<8a71>昔＞自身がそれを物<8a7d>っている / 　<8a72>によって『姉<8a3d>』は為らず
+  2|LIT: <<TODO>>
+  3|EN : *Since then, the lineage of the
+ <Sword Magess> is seen as the
+ lineage of a |hero.|*But no one on the planet
+ is directly descended
+ from the <Sword Magess>.*The family line was carried on,
+ but the blood got diluted and
+ the |hero's| ancestors spread.*How much value is placed on
+ |blood?| The <Sword Magess> herself
+ said blood doesn't make a |hero.|
+  4|RE : <<TODO>>
+
+[JP#5274] gaps=14  aln=HIGH->US#5156  CONF=SHAKY unsolved=14  CONF=SHAKY unsolved=12
+  1|JP : ＊しかし、＜守の<8a71>昔＞自身の / 　<8a72>を招きし者は / 　この世には存帰しない[10][0c]＊<8a4c>としての<8a72>勝を招く者は多く / 　<8a72>は<8a79>れ、年多の『姉<8a3d>』の家<8a7a>を / 　地に英れさせた[10][0c]＊『<8a72>』にいかほどの雄<8875>があろうか / 　＜守の<8a71>昔＞自身がそれを物<8a7d>っている / 　<8a72>によって『姉<8a3d>』は為らず
+  2|LIT: <<TODO>>
+  3|EN : *But no one on the planet
+ is directly descended
+ from the <Sword Magess>.*The family line was carried on,
+ but the blood got diluted and
+ the |hero's| ancestors spread.*How much value is placed on
+ |blood?| The <Sword Magess> herself
+ said blood doesn't make a |hero.|
+  4|RE : <<TODO>>
+
+[JP#5275] gaps=12  aln=HIGH->US#5157  CONF=SHAKY unsolved=12  CONF=SHAKY unsolved=10
+  1|JP : ＊<8a4c>としての<8a72>勝を招く者は多く / 　<8a72>は<8a79>れ、年多の『姉<8a3d>』の家<8a7a>を / 　地に英れさせた[10][0c]＊『<8a72>』にいかほどの雄<8875>があろうか / 　＜守の<8a71>昔＞自身がそれを物<8a7d>っている / 　<8a72>によって『姉<8a3d>』は為らず
+  2|LIT: <<TODO>>
+  3|EN : *The family line was carried on,
+ but the blood got diluted and
+ the |hero's| ancestors spread.*How much value is placed on
+ |blood?| The <Sword Magess> herself
+ said blood doesn't make a |hero.|
+  4|RE : <<TODO>>
+
+[JP#5276] gaps=6  aln=HIGH->US#5158  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : ＊『<8a72>』にいかほどの雄<8875>があろうか / 　＜守の<8a71>昔＞自身がそれを物<8a7d>っている / 　<8a72>によって『姉<8a3d>』は為らず
+  2|LIT: <<TODO>>
+  3|EN : *How much value is placed on
+ |blood?| The <Sword Magess> herself
+ said blood doesn't make a |hero.|
+  4|RE : <<TODO>>
+
+[JP#5277] gaps=8  aln=HIGH->US#5159  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=5
+  1|JP : ＊その<89c1>も<8844>り / 　『姉<8a3d>』現れるるとき、『共<8a7f>』あり / 　『姉<8a3d>』と『共<8a7f>』は表<8a80>一体[10][0c]＊『姉<8a3d>』は生まれついてのものでなし / 　何を為したかによってあるものと知れ
+  2|LIT: <<TODO>>
+  3|EN : *The reverse is also true. When a
+ |hero| appears, |disaster| follows.
+ They are 2 sides of the same coin.*A |hero| isn't born. It's something
+ you know as a result of actions.
+  4|RE : <<TODO>>
+
+[JP#5278] gaps=1  aln=HIGH->US#5160  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : ＊『姉<8a3d>』は生まれついてのものでなし / 　何を為したかによってあるものと知れ
+  2|LIT: <<TODO>>
+  3|EN : *A |hero| isn't born. It's something
+ you know as a result of actions.
+  4|RE : <<TODO>>
+
+[JP#5279] gaps=16  aln=HIGH->US#5161  CONF=SHAKY unsolved=16  CONF=SHAKY unsolved=16
+  1|JP : ＊<8a87>多の<8a88>胞、安者が / 　アガートラームを手にすべく<897b>み / 　ことごとく暮わず[10][0c]＊＜守の<8a71>昔＞の<8a72>勝のものですら / 　抜くことは不可能であった[10][0c]＊大地に<8a86>さりしアガートラームは / 　＜守の<8a71>昔＞以外を<8a8b>むかのように / 　大地に<8a8c>む[10][0c]＊＜守の<8a71>昔＞を<8a8d>りし大<8a71><8a8e>に危<8822>すべく / 　守<8860>となりし活<89cd>ごと / 　大地より切り取られることになった
+  2|LIT: <<TODO>>
+  3|EN : *Many knights and heroes have
+ vied for the Argetlahm,
+ but all have failed.*Even blood relatives of the <Sword
+ Magess> couldn't retake the sword.*The Argetlahm thrust into
+ stone acts as if it rejects
+ all but the <Sword Magess>.*The cathedral of the <Sword Magess>
+ had the pedestal enshrined.
+ Even the stone itself was removed.
+  4|RE : <<TODO>>
+
+[JP#5280] gaps=13  aln=HIGH->US#5162  CONF=SHAKY unsolved=13  CONF=SHAKY unsolved=13
+  1|JP : ＊＜守の<8a71>昔＞の<8a72>勝のものですら / 　抜くことは不可能であった[10][0c]＊大地に<8a86>さりしアガートラームは / 　＜守の<8a71>昔＞以外を<8a8b>むかのように / 　大地に<8a8c>む[10][0c]＊＜守の<8a71>昔＞を<8a8d>りし大<8a71><8a8e>に危<8822>すべく / 　守<8860>となりし活<89cd>ごと / 　大地より切り取られることになった
+  2|LIT: <<TODO>>
+  3|EN : *Even blood relatives of the <Sword
+ Magess> couldn't retake the sword.*The Argetlahm thrust into
+ stone acts as if it rejects
+ all but the <Sword Magess>.*The cathedral of the <Sword Magess>
+ had the pedestal enshrined.
+ Even the stone itself was removed.
+  4|RE : <<TODO>>
+
+[JP#5281] gaps=11  aln=HIGH->US#5163  CONF=SHAKY unsolved=11  CONF=SHAKY unsolved=11
+  1|JP : ＊大地に<8a86>さりしアガートラームは / 　＜守の<8a71>昔＞以外を<8a8b>むかのように / 　大地に<8a8c>む[10][0c]＊＜守の<8a71>昔＞を<8a8d>りし大<8a71><8a8e>に危<8822>すべく / 　守<8860>となりし活<89cd>ごと / 　大地より切り取られることになった
+  2|LIT: <<TODO>>
+  3|EN : *The Argetlahm thrust into
+ stone acts as if it rejects
+ all but the <Sword Magess>.*The cathedral of the <Sword Magess>
+ had the pedestal enshrined.
+ Even the stone itself was removed.
+  4|RE : <<TODO>>
+
+[JP#5282] gaps=7  aln=HIGH->US#5164  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : ＊＜守の<8a71>昔＞を<8a8d>りし大<8a71><8a8e>に危<8822>すべく / 　守<8860>となりし活<89cd>ごと / 　大地より切り取られることになった
+  2|LIT: <<TODO>>
+  3|EN : *The cathedral of the <Sword Magess>
+ had the pedestal enshrined.
+ Even the stone itself was removed.
+  4|RE : <<TODO>>
+
+[JP#5283] gaps=16  aln=HIGH->US#5165  CONF=SHAKY unsolved=16  CONF=SHAKY unsolved=15
+  1|JP : ＊＜守の<8a71>昔＞が / 　アガートラームに<8a91>かれて / 　手にした地[10][0c]＊世界を<8a92>う共<8a7f>を<8a93>うべく / 　<8a94>歩の<89e0>が世界に向かって / 　殺たれた地である[10][0c]＊世界を<8832>った『姉<8a3d>』<890c>生の地として / 　多くの<8928><8a95>者たちが<8a96>れている[10][0c]＊<8928><8a95>者のために、数に年度 / 　アガートラームが一珍<8a98>開される
+  2|LIT: <<TODO>>
+  3|EN : *This is land the <Sword Magess>
+ acquired under the direction of
+ Argetlahm.*To exorcise the disasters covering
+ the earth, a ray of hope was
+ directed toward us.*Many worshippers visit here, where
+ the hero who saved Earth was born.*The Argetlahm is publicly displayed
+ a few times a year for worshippers.
+  4|RE : <<TODO>>
+
+[JP#5284] gaps=14  aln=HIGH->US#5166  CONF=SHAKY unsolved=14  CONF=SHAKY unsolved=13
+  1|JP : ＊世界を<8a92>う共<8a7f>を<8a93>うべく / 　<8a94>歩の<89e0>が世界に向かって / 　殺たれた地である[10][0c]＊世界を<8832>った『姉<8a3d>』<890c>生の地として / 　多くの<8928><8a95>者たちが<8a96>れている[10][0c]＊<8928><8a95>者のために、数に年度 / 　アガートラームが一珍<8a98>開される
+  2|LIT: <<TODO>>
+  3|EN : *To exorcise the disasters covering
+ the earth, a ray of hope was
+ directed toward us.*Many worshippers visit here, where
+ the hero who saved Earth was born.*The Argetlahm is publicly displayed
+ a few times a year for worshippers.
+  4|RE : <<TODO>>
+
+[JP#5285] gaps=9  aln=HIGH->US#5167  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=8
+  1|JP : ＊世界を<8832>った『姉<8a3d>』<890c>生の地として / 　多くの<8928><8a95>者たちが<8a96>れている[10][0c]＊<8928><8a95>者のために、数に年度 / 　アガートラームが一珍<8a98>開される
+  2|LIT: <<TODO>>
+  3|EN : *Many worshippers visit here, where
+ the hero who saved Earth was born.*The Argetlahm is publicly displayed
+ a few times a year for worshippers.
+  4|RE : <<TODO>>
+
+[JP#5286] gaps=3  aln=HIGH->US#5168  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : ＊<8928><8a95>者のために、数に年度 / 　アガートラームが一珍<8a98>開される
+  2|LIT: <<TODO>>
+  3|EN : *The Argetlahm is publicly displayed
+ a few times a year for worshippers.
+  4|RE : <<TODO>>
+
+[JP#5287] gaps=16  aln=HIGH->US#5169  CONF=SHAKY unsolved=16  CONF=SHAKY unsolved=16
+  1|JP : ＊<8a9d>一人、魔<8a82>と対<8a9e>し / 　＜守の<8a71>昔＞は / 　一人で険てを<89a3><8a9f>ったのである[10][0c]＊しかし、<8a81>の魔<8a82>を / 　倒すに<88bd>らなかった＜守の<8a71>昔＞は / 　その命を以て封じた[10][0c]＊＜守の<8a71>昔＞は / 　世界の<8aa0><8aa1>と招き<8864>えに / 　<8a99>げられた『生け<8aa2>』である
+  2|LIT: <<TODO>>
+  3|EN : *Alone, the <Sword Magess>
+ confronted the Demon. She alone
+ shouldered the burden.*But the <Sword Magess>
+ wasn't able to destroy the
+ Blazing Demon, only contain it.*In exchange for world peace,
+ the <Sword Magess>
+ was offered as a |sacrifice.|
+  4|RE : <<TODO>>
+
+[JP#5288] gaps=10  aln=HIGH->US#5170  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=10
+  1|JP : ＊しかし、<8a81>の魔<8a82>を / 　倒すに<88bd>らなかった＜守の<8a71>昔＞は / 　その命を以て封じた[10][0c]＊＜守の<8a71>昔＞は / 　世界の<8aa0><8aa1>と招き<8864>えに / 　<8a99>げられた『生け<8aa2>』である
+  2|LIT: <<TODO>>
+  3|EN : *But the <Sword Magess>
+ wasn't able to destroy the
+ Blazing Demon, only contain it.*In exchange for world peace,
+ the <Sword Magess>
+ was offered as a |sacrifice.|
+  4|RE : <<TODO>>
+
+[JP#5289] gaps=6  aln=HIGH->US#5171  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : ＊＜守の<8a71>昔＞は / 　世界の<8aa0><8aa1>と招き<8864>えに / 　<8a99>げられた『生け<8aa2>』である
+  2|LIT: <<TODO>>
+  3|EN : *In exchange for world peace,
+ the <Sword Magess>
+ was offered as a |sacrifice.|
+  4|RE : <<TODO>>
+
+[JP#5290] gaps=13  aln=HIGH->US#5172  CONF=SHAKY unsolved=13  CONF=SHAKY unsolved=12
+  1|JP : ＊ロストテクノロジーを以て / 　作られた幻同<8aa3>でさえ / 　<8a81>の魔<8a82>には<8aa4><89f9>のごとし[10][0c]＊アガートラームを<8a40>えし / 　＜守の<8a71>昔＞だけが / 　その対<8aa5>しうる険て[10][0c]＊なぜ、＜守の<8a71>昔＞のみが / 　<8a81>の魔<8a82>と対<8a52>に戦えたのか / 　それはいま以て<8aa6>とされている
+  2|LIT: <<TODO>>
+  3|EN : *Even the weapons developed
+ with the lost technology were a
+ cool breeze on the Blazing Demon.*The <Sword Magess>,
+ armed with the Argetlahm,
+ was the entire resistance.*It is still a mystery why only the
+ <Sword Magess> was able to battle
+ the Blazing Demon on equal footing.
+  4|RE : <<TODO>>
+
+[JP#5291] gaps=8  aln=HIGH->US#5173  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=7
+  1|JP : ＊アガートラームを<8a40>えし / 　＜守の<8a71>昔＞だけが / 　その対<8aa5>しうる険て[10][0c]＊なぜ、＜守の<8a71>昔＞のみが / 　<8a81>の魔<8a82>と対<8a52>に戦えたのか / 　それはいま以て<8aa6>とされている
+  2|LIT: <<TODO>>
+  3|EN : *The <Sword Magess>,
+ armed with the Argetlahm,
+ was the entire resistance.*It is still a mystery why only the
+ <Sword Magess> was able to battle
+ the Blazing Demon on equal footing.
+  4|RE : <<TODO>>
+
+[JP#5292] gaps=5  aln=HIGH->US#5174  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : ＊なぜ、＜守の<8a71>昔＞のみが / 　<8a81>の魔<8a82>と対<8a52>に戦えたのか / 　それはいま以て<8aa6>とされている
+  2|LIT: <<TODO>>
+  3|EN : *It is still a mystery why only the
+ <Sword Magess> was able to battle
+ the Blazing Demon on equal footing.
+  4|RE : <<TODO>>
+
+[JP#5293] gaps=8  aln=HIGH->US#5175  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : ＊彼のものは / 　『倒された』のではなく / 　『封じられた』ことである[10][0c]＊封<8a84>はいずれ解き殺たれる…[10][0c]＊＜守の<8a71>昔＞亡きファルガイアは / 　<8a81>の魔<8a82>に<8aa7><8aa8>される[10][0c]＊その封<8a84>がいつ破られるかなど / 　何人もしらない[10][0c]＊１００数後か１０００数後 / 　それとも次回か / 　我々に<8aa5>う戦はない
+  2|LIT: <<TODO>>
+  3|EN : *He wasn't
+ |destroyed| but was
+ only |contained.|*The seal will eventually be broken.*The Blazing Demon will crush the
+ <Sword Magess>, then Filgaia.*No one knows when the seal
+ will be broken.*Whether it will be 100 years
+ or 1000 years or tomorrow,
+ we have no magic to resist.
+  4|RE : <<TODO>>
+
+[JP#5294] gaps=8  aln=HIGH->US#5176  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : ＊封<8a84>はいずれ解き殺たれる…[10][0c]＊＜守の<8a71>昔＞亡きファルガイアは / 　<8a81>の魔<8a82>に<8aa7><8aa8>される[10][0c]＊その封<8a84>がいつ破られるかなど / 　何人もしらない[10][0c]＊１００数後か１０００数後 / 　それとも次回か / 　我々に<8aa5>う戦はない
+  2|LIT: <<TODO>>
+  3|EN : *The seal will eventually be broken.*The Blazing Demon will crush the
+ <Sword Magess>, then Filgaia.*No one knows when the seal
+ will be broken.*Whether it will be 100 years
+ or 1000 years or tomorrow,
+ we have no magic to resist.
+  4|RE : <<TODO>>
+
+[JP#5295] gaps=7  aln=HIGH->US#5177  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : ＊＜守の<8a71>昔＞亡きファルガイアは / 　<8a81>の魔<8a82>に<8aa7><8aa8>される[10][0c]＊その封<8a84>がいつ破られるかなど / 　何人もしらない[10][0c]＊１００数後か１０００数後 / 　それとも次回か / 　我々に<8aa5>う戦はない
+  2|LIT: <<TODO>>
+  3|EN : *The Blazing Demon will crush the
+ <Sword Magess>, then Filgaia.*No one knows when the seal
+ will be broken.*Whether it will be 100 years
+ or 1000 years or tomorrow,
+ we have no magic to resist.
+  4|RE : <<TODO>>
+
+[JP#5296] gaps=2  aln=HIGH->US#5178  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊その封<8a84>がいつ破られるかなど / 　何人もしらない[10][0c]＊１００数後か１０００数後 / 　それとも次回か / 　我々に<8aa5>う戦はない
+  2|LIT: <<TODO>>
+  3|EN : *No one knows when the seal
+ will be broken.*Whether it will be 100 years
+ or 1000 years or tomorrow,
+ we have no magic to resist.
+  4|RE : <<TODO>>
+
+[JP#5297] gaps=1  aln=HIGH->US#5179  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊１００数後か１０００数後 / 　それとも次回か / 　我々に<8aa5>う戦はない
+  2|LIT: <<TODO>>
+  3|EN : *Whether it will be 100 years
+ or 1000 years or tomorrow,
+ we have no magic to resist.
+  4|RE : <<TODO>>
+
+[JP#5298] gaps=14  aln=HIGH->US#5180  CONF=SHAKY unsolved=14  CONF=SHAKY unsolved=14
+  1|JP : ＊<89da>がる<8a9f>の信情は / 　とどまることを知らず[10][0c]＊ゆえに、<8a85>きることなく / 　『共<8a7f>』は<89da>がり<8a18>ける[10][0c]＊<8a94>歩の<89e0>が<8a9c>さぬ / 　<8a9f>の信情のその先には / 　待つは『破滅』への道のみ[10][0c]＊<8aaa>が<888a>を<8aab>めるのは / 　<8a9f>の信情と知れ
+  2|LIT: <<TODO>>
+  3|EN : *The spreading negativity
+ knows no limits.*|Disasters| continue to spread
+ without end.*When a ray of light doesn't
+ shine, beyond  negativity is
+ only a road to |destruction.|*Know that what strangles you in
+ the end is your negativity.
+  4|RE : <<TODO>>
+
+[JP#5299] gaps=12  aln=HIGH->US#5181  CONF=SHAKY unsolved=12  CONF=SHAKY unsolved=12
+  1|JP : ＊ゆえに、<8a85>きることなく / 　『共<8a7f>』は<89da>がり<8a18>ける[10][0c]＊<8a94>歩の<89e0>が<8a9c>さぬ / 　<8a9f>の信情のその先には / 　待つは『破滅』への道のみ[10][0c]＊<8aaa>が<888a>を<8aab>めるのは / 　<8a9f>の信情と知れ
+  2|LIT: <<TODO>>
+  3|EN : *|Disasters| continue to spread
+ without end.*When a ray of light doesn't
+ shine, beyond  negativity is
+ only a road to |destruction.|*Know that what strangles you in
+ the end is your negativity.
+  4|RE : <<TODO>>
+
+[JP#5300] gaps=8  aln=HIGH->US#5182  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : ＊<8a94>歩の<89e0>が<8a9c>さぬ / 　<8a9f>の信情のその先には / 　待つは『破滅』への道のみ[10][0c]＊<8aaa>が<888a>を<8aab>めるのは / 　<8a9f>の信情と知れ
+  2|LIT: <<TODO>>
+  3|EN : *When a ray of light doesn't
+ shine, beyond  negativity is
+ only a road to |destruction.|*Know that what strangles you in
+ the end is your negativity.
+  4|RE : <<TODO>>
+
+[JP#5301] gaps=4  aln=HIGH->US#5183  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : ＊<8aaa>が<888a>を<8aab>めるのは / 　<8a9f>の信情と知れ
+  2|LIT: <<TODO>>
+  3|EN : *Know that what strangles you in
+ the end is your negativity.
+  4|RE : <<TODO>>
+
+[JP#5302] gaps=15  aln=HIGH->US#5184  CONF=SHAKY unsolved=15  CONF=SHAKY unsolved=15
+  1|JP : ＊戦いに<88ea>加した<8aac>指の戦胞でもない / 　<8a43>に<8aad><8aae>を<8aaf>った<8a88>胞でもない / 　ただの<8a75>、それが＜守の<8a71>昔＞[10][0c]＊アガートラームが抜けぬ事実が / 　『選ばれし者』の<8ab0><886e>の<8aa6>を<896e>める[10][0c]＊<8ab1>び、アガートラームを / 　手にする者が現れたとき / 　その<8aa6>も解けるだろう
+  2|LIT: <<TODO>>
+  3|EN : *She wasn't a prominent soldier, nor
+ a knight who'd sworn loyalty to her
+ country. She was just a girl.*That the Argetlahm couldn't be
+ retrieved only deepens the mystery.*When someone who can hold
+ the Argetlahm appears again,
+ the mystery will be solved.
+  4|RE : <<TODO>>
+
+[JP#5303] gaps=6  aln=HIGH->US#5185  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : ＊アガートラームが抜けぬ事実が / 　『選ばれし者』の<8ab0><886e>の<8aa6>を<896e>める[10][0c]＊<8ab1>び、アガートラームを / 　手にする者が現れたとき / 　その<8aa6>も解けるだろう
+  2|LIT: <<TODO>>
+  3|EN : *That the Argetlahm couldn't be
+ retrieved only deepens the mystery.*When someone who can hold
+ the Argetlahm appears again,
+ the mystery will be solved.
+  4|RE : <<TODO>>
+
+[JP#5304] gaps=2  aln=HIGH->US#5186  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊<8ab1>び、アガートラームを / 　手にする者が現れたとき / 　その<8aa6>も解けるだろう
+  2|LIT: <<TODO>>
+  3|EN : *When someone who can hold
+ the Argetlahm appears again,
+ the mystery will be solved.
+  4|RE : <<TODO>>
+
+[JP#5305] gaps=19  aln=HIGH->US#5187  CONF=SHAKY unsolved=19  CONF=SHAKY unsolved=18
+  1|JP : ＊生きる者のいない / 　死せる大地へ[10][0c]＊大地は<8a72>に<8a06>く<8ab6>られ / 　<8ab2><8ab7>の<8ab8>が険てを<8ab9>き<8a85>くす / 　さながら、<8ab2>に<8aba>まりし世界[10][0c]＊その世界に一帯の<8a94>歩の<89e0>も無し / 　待つは『死』という / 　彼方への<8abb>戻ち[10][0c]＊『<8a94>歩』なきは暗<888c>の世界 / 　人の<8abc>きが<8abd>き、暗<8abe>戻ちこめ / 　人の心を押に<89cf>ざす
+  2|LIT: <<TODO>>
+  3|EN : *Nothing lives
+ in the dying earth.*The earth is colored red by blood.
+ Flames of the red lotus will burn
+ everything into a world dyed red.*Not one ray of hope left in the
+ world. What waits is |death,|
+ the journey to the other side.*Without |hope,| it is a dark world.
+ People's cries echo, dark clouds
+ circle. Souls are locked in grief.
+  4|RE : <<TODO>>
+
+[JP#5306] gaps=19  aln=HIGH->US#5188  CONF=SHAKY unsolved=19  CONF=SHAKY unsolved=18
+  1|JP : ＊大地は<8a72>に<8a06>く<8ab6>られ / 　<8ab2><8ab7>の<8ab8>が険てを<8ab9>き<8a85>くす / 　さながら、<8ab2>に<8aba>まりし世界[10][0c]＊その世界に一帯の<8a94>歩の<89e0>も無し / 　待つは『死』という / 　彼方への<8abb>戻ち[10][0c]＊『<8a94>歩』なきは暗<888c>の世界 / 　人の<8abc>きが<8abd>き、暗<8abe>戻ちこめ / 　人の心を押に<89cf>ざす
+  2|LIT: <<TODO>>
+  3|EN : *The earth is colored red by blood.
+ Flames of the red lotus will burn
+ everything into a world dyed red.*Not one ray of hope left in the
+ world. What waits is |death,|
+ the journey to the other side.*Without |hope,| it is a dark world.
+ People's cries echo, dark clouds
+ circle. Souls are locked in grief.
+  4|RE : <<TODO>>
+
+[JP#5307] gaps=9  aln=HIGH->US#5189  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=8
+  1|JP : ＊その世界に一帯の<8a94>歩の<89e0>も無し / 　待つは『死』という / 　彼方への<8abb>戻ち[10][0c]＊『<8a94>歩』なきは暗<888c>の世界 / 　人の<8abc>きが<8abd>き、暗<8abe>戻ちこめ / 　人の心を押に<89cf>ざす
+  2|LIT: <<TODO>>
+  3|EN : *Not one ray of hope left in the
+ world. What waits is |death,|
+ the journey to the other side.*Without |hope,| it is a dark world.
+ People's cries echo, dark clouds
+ circle. Souls are locked in grief.
+  4|RE : <<TODO>>
+
+[JP#5308] gaps=6  aln=HIGH->US#5190  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : ＊『<8a94>歩』なきは暗<888c>の世界 / 　人の<8abc>きが<8abd>き、暗<8abe>戻ちこめ / 　人の心を押に<89cf>ざす
+  2|LIT: <<TODO>>
+  3|EN : *Without |hope,| it is a dark world.
+ People's cries echo, dark clouds
+ circle. Souls are locked in grief.
+  4|RE : <<TODO>>
+
+[JP#5309] gaps=11  aln=HIGH->US#5191  CONF=SHAKY unsolved=11  CONF=SHAKY unsolved=11
+  1|JP : ＊アガートラームは / 　あらゆる共<8a7f>を<8abf>け[10][0c]＊<888c>き魔協・ルシエドは / 　あらゆる共<8a7f>より / 　<8a71>昔の身を獲る干となる[10][0c]＊＜守の<8a71>昔＞の戦う<8a61> / 　それはまさに、戦の昔<8a82>さながらに / 　人々に<8a94>歩の<89e0>を<8ac2>えたもうた
+  2|LIT: <<TODO>>
+  3|EN : *The Argetlahm diverts
+ all possible disasters.*The Black Wolf Lucied
+ shields the <Sword Magess>
+ from all possible disasters.*To watch the <Sword Magess> fight
+ is to watch the queen of war. She
+ gives the people a glimmer of hope.
+  4|RE : <<TODO>>
+
+[JP#5310] gaps=9  aln=HIGH->US#5192  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=9
+  1|JP : ＊<888c>き魔協・ルシエドは / 　あらゆる共<8a7f>より / 　<8a71>昔の身を獲る干となる[10][0c]＊＜守の<8a71>昔＞の戦う<8a61> / 　それはまさに、戦の昔<8a82>さながらに / 　人々に<8a94>歩の<89e0>を<8ac2>えたもうた
+  2|LIT: <<TODO>>
+  3|EN : *The Black Wolf Lucied
+ shields the <Sword Magess>
+ from all possible disasters.*To watch the <Sword Magess> fight
+ is to watch the queen of war. She
+ gives the people a glimmer of hope.
+  4|RE : <<TODO>>
+
+[JP#5311] gaps=6  aln=HIGH->US#5193  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : ＊＜守の<8a71>昔＞の戦う<8a61> / 　それはまさに、戦の昔<8a82>さながらに / 　人々に<8a94>歩の<89e0>を<8ac2>えたもうた
+  2|LIT: <<TODO>>
+  3|EN : *To watch the <Sword Magess> fight
+ is to watch the queen of war. She
+ gives the people a glimmer of hope.
+  4|RE : <<TODO>>
+
+[JP#5313] gaps=6  aln=HIGH->US#5195  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「どうせ、すぐに<8ac3>しくなるんだ / 　<8ac4>べる時に<8ac4>んでおけよ[10][0c]「後で、『<89bf>みが無い』なんて<8ac5>き言は / 　聞く<8ac6>持たんからな
+  2|LIT: <<TODO>>
+  3|EN : @You'll be busy enough soon.
+ Have fun while you can.@But I don't want to hear any
+ complaints later on that
+ |we never get days off.|
+  4|RE : <<TODO>>
+
+[JP#5314] gaps=3  aln=HIGH->US#5196  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「後で、『<89bf>みが無い』なんて<8ac5>き言は / 　聞く<8ac6>持たんからな
+  2|LIT: <<TODO>>
+  3|EN : @But I don't want to hear any
+ complaints later on that
+ |we never get days off.|
+  4|RE : <<TODO>>
+
+[JP#5315] gaps=10  aln=HIGH->US#5197  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=10
+  1|JP : 「これからの制度費新で / 　やがては<8a43><8a4c>間の底<8aca>を<8acb>えて / 　<8aa0><8aa1><8acc>持友動を行う<888e>奮だ[10][0c]「その時のために我々ＡＲＭＳは / 　世に<8acd>ずかしくない / 　友動を<8a18>けていかなくてはな
+  2|LIT: <<TODO>>
+  3|EN : @The new reforms go beyond national
+ boundaries to international
+ peace-keeping activities.@We have to make sure that
+ ARMS isn't involved in
+ anything shameful.
+  4|RE : <<TODO>>
+
+[JP#5316] gaps=2  aln=HIGH->US#5198  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「その時のために我々ＡＲＭＳは / 　世に<8acd>ずかしくない / 　友動を<8a18>けていかなくてはな
+  2|LIT: <<TODO>>
+  3|EN : @We have to make sure that
+ ARMS isn't involved in
+ anything shameful.
+  4|RE : <<TODO>>
+
+[JP#5318] gaps=3  aln=HIGH->US#5200  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「そんなことよりも / 　<8ace>いモンがたくさんあるんだ / 　今回は<89fa>しんでおけ[10][0c]「次回からはまた / 　最前<8a4d>だと心しておけよ
+  2|LIT: <<TODO>>
+  3|EN : @More importantly,
+ there's a lot of good food here.
+ Eat and enjoy yourself today.@Remember, tomorrow it's
+ back to the front.
+  4|RE : <<TODO>>
+
+[JP#5319] gaps=1  aln=HIGH->US#5201  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「次回からはまた / 　最前<8a4d>だと心しておけよ
+  2|LIT: <<TODO>>
+  3|EN : @Remember, tomorrow it's
+ back to the front.
+  4|RE : <<TODO>>
+
+[JP#5325] gaps=1  aln=HIGH->US#5207  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「新片ゲートまで / 　<8952>け抜けるぞッ！
+  2|LIT: <<TODO>>
+  3|EN : @We're going to blast
+ through the front gate.
+  4|RE : <<TODO>>
+
+[JP#5331] gaps=4  aln=HIGH->US#5213  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「他の遠らを招き<8ad2>いて、<8ad3>み<8ad4>いて〜 / 　最後に戻っているのがお前ならば / 　何の誓<8810>も無いではないか
+  2|LIT: <<TODO>>
+  3|EN : @Tear the others apart
+ and if you're the last one
+ standing, there's no problem.
+  4|RE : <<TODO>>
+
+[JP#5332] gaps=1  aln=HIGH->US#5214  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「それに、あの怪物は〜 / 　もともとは人間だったんだ〜 / 　俺の<8ad5>間だったんだッ！
+  2|LIT: <<TODO>>
+  3|EN : @Besides, that monster
+ was originally human.
+ He was a friend!
+  4|RE : <<TODO>>
+
+[JP#5333] gaps=2  aln=HIGH->US#5215  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「いいだろう〜 / 　それらをすべて<8ad7>えるよう / 　私が『力』を<8ad8>けよう
+  2|LIT: <<TODO>>
+  3|EN : @All right.
+ Wipe them all out.
+ I will grant you |power.|
+  4|RE : <<TODO>>
+
+[JP#5335] gaps=1  aln=HIGH->US#5217  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「だ、誰なんだ？ / 　俺の心の中に<8a7d>りかけてくるのはッ！
+  2|LIT: <<TODO>>
+  3|EN : @Who, who are you?
+ Who speaks in my heart?
+  4|RE : <<TODO>>
+
+[JP#5336] gaps=0  aln=HIGH->US#5218  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「『私』は『お前』〜 / 　もうすぐ『私』になる / 　『お前』にほかならない〜
+  2|LIT: <<TODO>>
+  3|EN : @|I| am |You.|
+ Soon I'll be |me.| It'll be
+ none other than |You.|
+  4|RE : <<TODO>>
+
+[JP#5337] gaps=0  aln=HIGH->US#5219  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜〜ご、ごめん、[0a]か〜〜
+  2|LIT: <<TODO>>
+  3|EN : @Sor, Sorry,  2!
+  4|RE : <<TODO>>
+
+[JP#5341] gaps=0  aln=HIGH->US#5223  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「コレガ、ボク、ナノカ〜
+  2|LIT: <<TODO>>
+  3|EN : @IS... THIS... ME?
+  4|RE : <<TODO>>
+
+[JP#5342] gaps=0  aln=HIGH->US#5224  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「サッキノ、カイブツノヨウニ / 　ボクノカラダモ、チリノヨウニ / 　コワレテイクシカナイノカ〜〜[10][0c]「モウ、カエルコトハ、デキナイノカ〜
+  2|LIT: <<TODO>>
+  3|EN : @IS IT INEVITABLE THAT MY
+ BODY WILL TURN TO DUST
+ LIKE THAT MONSTER'S BODY?@WILL I EVER GO HOME AGAIN?
+  4|RE : <<TODO>>
+
+[JP#5343] gaps=0  aln=HIGH->US#5225  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「モウ、カエルコトハ、デキナイノカ〜
+  2|LIT: <<TODO>>
+  3|EN : @WILL I EVER GO HOME AGAIN?
+  4|RE : <<TODO>>
+
+[JP#5347] gaps=7  aln=MED->US#5229  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「わたしは、この守を手にする人が / 　<8ada>度と現れなければいいと思っていた[10][0c]「こんなにもつらい違いをするのは / 　わたしひとりで<89ce>分だと〜[10][0c]「もしも〜 / 　あなたが険てを<8adb>け入れる信<8adc>なら〜[10][0c]「険てを<8add><8ade>にしてでも / 　<8ad9>重を果たしたいと思うのなら / 　守を、『アガートラーム』を手にして〜
+  2|LIT: <<TODO>>
+  3|EN : @I thought it'd be fine
+ if no one who could use the
+ sword ever showed again.@I believed it was enough
+ that I alone suffered.@If you are ready to take
+ responsibility for it all.@If you're willing to risk all
+ to fulfill your promise, grab
+ the sword, the Argetlahm.
+  4|RE : <<TODO>>
+
+[JP#5348] gaps=6  aln=MED->US#5230  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「こんなにもつらい違いをするのは / 　わたしひとりで<89ce>分だと〜[10][0c]「もしも〜 / 　あなたが険てを<8adb>け入れる信<8adc>なら〜[10][0c]「険てを<8add><8ade>にしてでも / 　<8ad9>重を果たしたいと思うのなら / 　守を、『アガートラーム』を手にして〜
+  2|LIT: <<TODO>>
+  3|EN : @I believed it was enough
+ that I alone suffered.@If you are ready to take
+ responsibility for it all.@If you're willing to risk all
+ to fulfill your promise, grab
+ the sword, the Argetlahm.
+  4|RE : <<TODO>>
+
+[JP#5349] gaps=5  aln=MED->US#5231  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「もしも〜 / 　あなたが険てを<8adb>け入れる信<8adc>なら〜[10][0c]「険てを<8add><8ade>にしてでも / 　<8ad9>重を果たしたいと思うのなら / 　守を、『アガートラーム』を手にして〜
+  2|LIT: <<TODO>>
+  3|EN : @If you are ready to take
+ responsibility for it all.@If you're willing to risk all
+ to fulfill your promise, grab
+ the sword, the Argetlahm.
+  4|RE : <<TODO>>
+
+[JP#5350] gaps=3  aln=MED->US#5232  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「険てを<8add><8ade>にしてでも / 　<8ad9>重を果たしたいと思うのなら / 　守を、『アガートラーム』を手にして〜
+  2|LIT: <<TODO>>
+  3|EN : @If you're willing to risk all
+ to fulfill your promise, grab
+ the sword, the Argetlahm.
+  4|RE : <<TODO>>
+
+[JP#5351] gaps=1  aln=MED->US#5240  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「〜でも、俺にとっては / 　どうしても獲らなきゃいけない / 　<8ad9>重なんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5352] gaps=5  aln=MED->US#5246  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「[0a]ぉ・フォルド・ヴァレリア / 　お前という<8adf><8ae0><8ae1>を<89a3><8a9f>う剣だッ！
+  2|LIT: <<TODO>>
+  3|EN : @I'm one of the ARMS
+ members chosen
+ by  0.@Let's go.
+  4|RE : <<TODO>>
+
+[JP#5353] gaps=5  aln=MED->US#5247  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「この<8ae2>は過<8ae3>から未<8ae4>に<8a18>く / 　たったひとつの可能性[10][0c]「言い<8864>えるなら、この世界の上で / 　私たちが出会った / 　『運命』そのものなのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @Let's go.
+  4|RE : <<TODO>>
+
+[JP#5354] gaps=1  aln=MED->US#5248  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「言い<8864>えるなら、この世界の上で / 　私たちが出会った / 　『運命』そのものなのだッ！
+  2|LIT: <<TODO>>
+  3|EN : >Orders from the warden:
+ Rush a start-up
+ check of |GAONIM.|>Repeat...
+  4|RE : <<TODO>>

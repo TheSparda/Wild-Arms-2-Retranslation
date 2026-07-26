@@ -1,0 +1,745 @@
+# WA2 INSERTION workspace US block 67 (US#7033-7145)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7034] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7035] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7186[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7036] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7187[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7037] budget=95ch/3ln
+  NOW: That's embarrassing. I've been
+          researching Crest Sorcery here.
+          Can you tell? Of course you can.
+  JP : JP#7188[HIGH]: 「いやね、ボクね / 　ここで幸<8a34>魔法の泣<89b1>をしているんだよ / 　見ればわかる？　そうだよね
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#7038] budget=92ch/3ln
+  NOW: I guess having come to this remote
+          island from Sielje Region years ago
+          has finally paid off.
+  JP : JP#7189[HIGH]: 「シエルジェ自分<89b7>から / 　こんな<89c4>他くんだりまでやってきて / 　泣<89b1>を<8a18>けたかいがあったみたいだね[10]
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#7039] budget=26ch/1ln
+  NOW: You'll hear me out, right?
+  JP : JP#7190[HIGH]: 「聞いてくれるよね？
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#7040] budget=95ch/3ln
+  NOW: They must be able to impart the
+          mysteries of High Level Magic to
+          guild members across the land.
+  JP : JP#7191[MED]: 「彼なら<8a39>地に仲ったギルドの守間たちに / 　上級魔法の姉<8a3d>を<88a6>えられるはずなんだ / 　たしか、そうだったよね？ || JP#7192[MED]: 「ボクからの言<88be>けだってこと / 　<88a6>えといてね
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#7041] budget=21ch/1ln
+  NOW: Tell them I sent you.
+  JP : JP#7193[MED]: 「うん、ＯＫＯＫ / 　実験加りだね || JP#7194[MED]: 「兄ったね / 　兄ってるよね？
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#7042] budget=55ch/3ln
+  NOW: Oh, OK, OK.
+          It's operating just
+          like in the experiment.
+  JP : JP#7196[MED]: 「泣<89b1>の成果『エクステンション』を / 　キミに来けとってほしいんだ / 　来けとってくれるよね？ || JP#7195[MED]: 「そうそう、ボクはキミのような / 　魔法少昔を待っていたんだよね[10][0c]「泣<89b1>の成果『エクステンション』を / 　キミに来けとってほしいんだ
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#7043] budget=47ch/2ln
+  NOW: This is a problem.
+          This is a problem, isn't it?
+  JP : JP#7201[MED]: 「でも、まだ何の泣<89b1>かは / 　姉訪だから押えられないんだね / 　ごめんね、<8a4c>ってないよね？ || JP#7197[MED]: 「さらにね、魔法周果<8a48>仲が / 　『間体　→　グループ』 / 　『グループ　→　険体』になるんだよね[10][0c]「すごいよね？　すごいよね？ / 
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7044] budget=77ch/3ln
+  NOW: That's right. I've been waiting
+          for a young sorceress
+          like you to come along.
+  JP : JP#7203[HIGH]: 「簡単一番に / 　上級魔法をつくってあげるよ / 　それでいいよね？[10][0c]「カラヤンくんに魔<8a38><8946>を渡したら / 　またここに伝て || JP#7202[MED]: 「ボクは、準備できてるよ / 　上級魔法つくる？ / 　もちろん、つくるよね？
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#7045] budget=88ch/3ln
+  NOW: I want you to have the |Extend,|
+          a result of all my research.
+          You'll take it, won't you?
+  JP : JP#7204[HIGH]: 「カラヤンくんに魔<8a38><8946>を渡したら / 　またここに伝てね / 　それまでに準備をしておくからね
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#7046] budget=97ch/3ln
+  NOW: The sphere of the magic's effects
+          changes as follows: |Single Enemy
+          to Group| and |Group to All.|
+  JP : JP#7205[HIGH]: ＊負の魔法で負をおこし<8a53>をとり / 　<8a52>の魔法でモノを勉らせることで<8901>存したり / 　そういった使われ方をするべきなのである[10
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#7047] budget=75ch/3ln
+  NOW: It's amazing, isn't it?
+          It's amazing, isn't it?
+          It's not really a big deal.
+  JP : JP#7206[HIGH]: ＊しかし今は、それら本伝の使われ方より / 　モンスターを倒すための手<8a55>として / 　用いられることが貸となっている[10][0c]＊それに<8a57
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#7048] budget=43ch/2ln
+  NOW: Hmm...I wonder what
+          I should research next?
+  JP : JP#7207[HIGH]: ＊それに<8a57>い / 　より強力な魔法が望められている現状は / 　ある<8a59>の危険性をはらんでいると言える[10][0c]＊より強力な魔法を望める
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#7049] budget=65ch/3ln
+  NOW: But, I don't think you
+          can handle it. Sorry.
+          Will you forgive me?
+  JP : JP#7208[MED]: ＊より強力な魔法を望めることは / 　より強力な同<8a5a>を望めると同じ[10][0c]＊更世代のクレストソーサラーたちが / 　魔法の好恥利用することを 
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#7050] budget=94ch/3ln
+  NOW: But what I'm researching is
+          still secret, so I can't tell you.
+          Sorry. You're not mad, are you?
+  JP : JP#7209[MED]: ＊更世代のクレストソーサラーたちが / 　魔法の好恥利用することを / 　強く願うものである || JP#7210[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7051] budget=86ch/3ln
+  NOW: I'm ready. Do you want to make
+          High Level Magic? Of course
+          you want to make it, right?
+  JP : JP#7211[MED]: 「いやね、ボクね / 　ここで幸<8a34>魔法の泣<89b1>をしているんだよ / 　見ればわかる？　そうだよね || JP#7212[MED]: 「シエルジェ自分<89b7>から / 　こんな<89c4>他くんだりまでやってきて / 　泣<89b1>を<8a18>けたかいがあったみたいだね[10]
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#7052] budget=70ch/3ln
+  NOW: I'll make you some first-rate,
+          High Level Magic.
+          That'll be OK, right?
+  JP : JP#7213[MED]: 「聞いてくれるよね？
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#7053] budget=95ch/3ln
+  NOW: Come back here after you deliver
+          the Magic Book to Karayan. I'll
+          have it ready for you by then.
+  JP : JP#7219[MED]: 「泣<89b1>の成果『エクステンション』を / 　キミに来けとってほしいんだ / 　来けとってくれるよね？ || JP#7214[MED]: 「彼なら<8a39>地に仲ったギルドの守間たちに / 　上級魔法の姉<8a3d>を<88a6>えられるはずなんだ / 　たしか、そうだったよね？
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#7054] budget=92ch/3ln
+  NOW: *Fire magic was for heating and
+          ice magic was for preserving.
+          It's how magic should be used.
+  JP : JP#7220[MED]: 「さらにね、魔法周果<8a48>仲が / 　『間体　→　グループ』 / 　『グループ　→　険体』になるんだよね[10][0c]「すごいよね？　すごいよね？ / 
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#7055] budget=94ch/3ln
+  NOW: *Now, it's used more frequently
+          as a method to destroy the
+          monsters than for its original use.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7056] budget=94ch/3ln
+  NOW: *In addition, the circumstances
+          which require more powerful magic
+          are full of serious dangers.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7057] budget=67ch/2ln
+  NOW: *Seeking more powerful magic is
+          like seeking more powerful weapons.
+  JP : JP#7221[MED]: 「すごいよね？　すごいよね？ / 　<f040><f042>うん、たいしたことないよ[10][0c]「<f040><f041><f042>さてと、ボクは更になん
+  FIT: <<TODO — <=67 chars, 2 line(s), <=35/line>>
+
+[US#7058] budget=81ch/3ln
+  NOW: *The next generation Crest
+          Sorcerers strongly advocate
+          the peaceful use of magic.
+  JP : JP#7222[MED]: 「<f040><f041><f042>さてと、ボクは更になんの泣<89b1>を / 　しようかな？
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#7059] budget=26ch/1ln
+  NOW: You'll hear me out, right?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#7060] budget=95ch/3ln
+  NOW: They must be able to impart the
+          mysteries of High Level Magic to
+          guild members across the land.
+  JP : JP#7223[MED]: 「でもね / 　キミには<8a25>えないモノだと思うんだね / 　ごめんね、<8978>してくれるよね？
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#7061] budget=21ch/1ln
+  NOW: Tell them I sent you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#7062] budget=55ch/3ln
+  NOW: Oh, OK, OK.
+          It's operating just
+          like in the experiment.
+  JP : JP#7224[MED]: 「でも、まだ何の泣<89b1>かは / 　姉訪だから押えられないんだね / 　ごめんね、<8a4c>ってないよね？
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#7063] budget=47ch/2ln
+  NOW: This is a problem.
+          This is a problem, isn't it?
+  JP : JP#7225[MED]: 「ボクは、準備できてるよ / 　上級魔法つくる？ / 　もちろん、つくるよね？
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7064] budget=77ch/3ln
+  NOW: That's right. I've been waiting
+          for a young sorceress
+          like you to come along.
+  JP : JP#7226[HIGH]: 「簡単一番に / 　上級魔法をつくってあげるよ / 　それでいいよね？[10][0c]「カラヤンくんに魔<8a38><8946>を渡したら / 　またここに伝て
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#7065] budget=88ch/3ln
+  NOW: I want you to have the |Extend,|
+          a result of all my research.
+          You'll take it, won't you?
+  JP : JP#7227[HIGH]: 「カラヤンくんに魔<8a38><8946>を渡したら / 　またここに伝てね / 　それまでに準備をしておくからね
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#7066] budget=97ch/3ln
+  NOW: The sphere of the magic's effects
+          changes as follows: |Single Enemy
+          to Group| and |Group to All.|
+  JP : JP#7228[HIGH]: ＊負の魔法で負をおこし<8a53>をとり / 　<8a52>の魔法でモノを勉らせることで<8901>存したり / 　そういった使われ方をするべきなのである[10
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#7067] budget=75ch/3ln
+  NOW: It's amazing, isn't it?
+          It's amazing, isn't it?
+          It's not really a big deal.
+  JP : JP#7229[HIGH]: ＊しかし今は、それら本伝の使われ方より / 　モンスターを倒すための手<8a55>として / 　用いられることが貸となっている[10][0c]＊それに<8a57
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#7068] budget=43ch/2ln
+  NOW: Hmm...I wonder what
+          I should research next?
+  JP : JP#7230[HIGH]: ＊それに<8a57>い / 　より強力な魔法が望められている現状は / 　ある<8a59>の危険性をはらんでいると言える[10][0c]＊より強力な魔法を望める
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#7069] budget=65ch/3ln
+  NOW: But, I don't think you
+          can handle it. Sorry.
+          Will you forgive me?
+  JP : JP#7231[MED]: ＊より強力な魔法を望めることは / 　より強力な同<8a5a>を望めると同じ[10][0c]＊更世代のクレストソーサラーたちが / 　魔法の好恥利用することを 
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#7070] budget=94ch/3ln
+  NOW: But what I'm researching is
+          still secret, so I can't tell you.
+          Sorry. You're not mad, are you?
+  JP : JP#7232[MED]: ＊更世代のクレストソーサラーたちが / 　魔法の好恥利用することを / 　強く願うものである || JP#7233[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7071] budget=86ch/3ln
+  NOW: I'm ready. Do you want to make
+          High Level Magic? Of course
+          you want to make it, right?
+  JP : JP#7234[MED]: 「いやね、ボクね / 　ここで幸<8a34>魔法の泣<89b1>をしているんだよ / 　見ればわかる？　そうだよね || JP#7235[MED]: 「シエルジェ自分<89b7>から / 　こんな<89c4>他くんだりまでやってきて / 　泣<89b1>を<8a18>けたかいがあったみたいだね[10]
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#7072] budget=70ch/3ln
+  NOW: I'll make you some first-rate,
+          High Level Magic.
+          That'll be OK, right?
+  JP : JP#7236[MED]: 「聞いてくれるよね？
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#7073] budget=95ch/3ln
+  NOW: Come back here after you deliver
+          the Magic Book to Karayan. I'll
+          have it ready for you by then.
+  JP : JP#7242[MED]: 「泣<89b1>の成果『エクステンション』を / 　キミに来けとってほしいんだ / 　来けとってくれるよね？ || JP#7237[MED]: 「彼なら<8a39>地に仲ったギルドの守間たちに / 　上級魔法の姉<8a3d>を<88a6>えられるはずなんだ / 　たしか、そうだったよね？
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#7074] budget=92ch/3ln
+  NOW: *Fire magic was for heating and
+          ice magic was for preserving.
+          It's how magic should be used.
+  JP : JP#7243[MED]: 「さらにね、魔法周果<8a48>仲が / 　『間体　→　グループ』 / 　『グループ　→　険体』になるんだよね[10][0c]「すごいよね？　すごいよね？ / 
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#7075] budget=94ch/3ln
+  NOW: *Now, it's used more frequently
+          as a method to destroy the
+          monsters than for its original use.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7076] budget=94ch/3ln
+  NOW: *In addition, the circumstances
+          which require more powerful magic
+          are full of serious dangers.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7077] budget=67ch/2ln
+  NOW: *Seeking more powerful magic is
+          like seeking more powerful weapons.
+  JP : JP#7244[MED]: 「すごいよね？　すごいよね？ / 　<f040><f042>うん、たいしたことないよ[10][0c]「<f040><f041><f042>さてと、ボクは更になん
+  FIT: <<TODO — <=67 chars, 2 line(s), <=35/line>>
+
+[US#7078] budget=81ch/3ln
+  NOW: *The next generation Crest
+          Sorcerers strongly advocate
+          the peaceful use of magic.
+  JP : JP#7245[MED]: 「<f040><f041><f042>さてと、ボクは更になんの泣<89b1>を / 　しようかな？
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#7079] budget=26ch/1ln
+  NOW: You'll hear me out, right?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#7080] budget=95ch/3ln
+  NOW: They must be able to impart the
+          mysteries of High Level Magic to
+          guild members across the land.
+  JP : JP#7246[MED]: 「でもね / 　キミには<8a25>えないモノだと思うんだね / 　ごめんね、<8978>してくれるよね？
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#7081] budget=21ch/1ln
+  NOW: Tell them I sent you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#7082] budget=55ch/3ln
+  NOW: Oh, OK, OK.
+          It's operating just
+          like in the experiment.
+  JP : JP#7247[MED]: 「でも、まだ何の泣<89b1>かは / 　姉訪だから押えられないんだね / 　ごめんね、<8a4c>ってないよね？
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#7083] budget=47ch/2ln
+  NOW: This is a problem.
+          This is a problem, isn't it?
+  JP : JP#7248[MED]: 「ボクは、準備できてるよ / 　上級魔法つくる？ / 　もちろん、つくるよね？
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7084] budget=77ch/3ln
+  NOW: That's right. I've been waiting
+          for a young sorceress
+          like you to come along.
+  JP : JP#7249[HIGH]: 「簡単一番に / 　上級魔法をつくってあげるよ / 　それでいいよね？[10][0c]「カラヤンくんに魔<8a38><8946>を渡したら / 　またここに伝て
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#7085] budget=88ch/3ln
+  NOW: I want you to have the |Extend,|
+          a result of all my research.
+          You'll take it, won't you?
+  JP : JP#7250[HIGH]: 「カラヤンくんに魔<8a38><8946>を渡したら / 　またここに伝てね / 　それまでに準備をしておくからね
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#7086] budget=97ch/3ln
+  NOW: The sphere of the magic's effects
+          changes as follows: |Single Enemy
+          to Group| and |Group to All.|
+  JP : JP#7251[HIGH]: ＊負の魔法で負をおこし<8a53>をとり / 　<8a52>の魔法でモノを勉らせることで<8901>存したり / 　そういった使われ方をするべきなのである[10
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#7087] budget=75ch/3ln
+  NOW: It's amazing, isn't it?
+          It's amazing, isn't it?
+          It's not really a big deal.
+  JP : JP#7252[HIGH]: ＊しかし今は、それら本伝の使われ方より / 　モンスターを倒すための手<8a55>として / 　用いられることが貸となっている[10][0c]＊それに<8a57
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#7088] budget=43ch/2ln
+  NOW: Hmm...I wonder what
+          I should research next?
+  JP : JP#7253[HIGH]: ＊それに<8a57>い / 　より強力な魔法が望められている現状は / 　ある<8a59>の危険性をはらんでいると言える[10][0c]＊より強力な魔法を望める
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#7089] budget=65ch/3ln
+  NOW: But, I don't think you
+          can handle it. Sorry.
+          Will you forgive me?
+  JP : JP#7254[MED]: ＊より強力な魔法を望めることは / 　より強力な同<8a5a>を望めると同じ[10][0c]＊更世代のクレストソーサラーたちが / 　魔法の好恥利用することを 
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#7090] budget=94ch/3ln
+  NOW: But what I'm researching is
+          still secret, so I can't tell you.
+          Sorry. You're not mad, are you?
+  JP : JP#7255[MED]: ＊更世代のクレストソーサラーたちが / 　魔法の好恥利用することを / 　強く願うものである || JP#7256[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7091] budget=86ch/3ln
+  NOW: I'm ready. Do you want to make
+          High Level Magic? Of course
+          you want to make it, right?
+  JP : JP#7257[MED]: 「いやね、ボクね / 　ここで幸<8a34>魔法の泣<89b1>をしているんだよ / 　見ればわかる？　そうだよね || JP#7258[MED]: 「シエルジェ自分<89b7>から / 　こんな<89c4>他くんだりまでやってきて / 　泣<89b1>を<8a18>けたかいがあったみたいだね[10]
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#7092] budget=70ch/3ln
+  NOW: I'll make you some first-rate,
+          High Level Magic.
+          That'll be OK, right?
+  JP : JP#7259[MED]: 「聞いてくれるよね？
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#7093] budget=95ch/3ln
+  NOW: Come back here after you deliver
+          the Magic Book to Karayan. I'll
+          have it ready for you by then.
+  JP : JP#7265[MED]: 「泣<89b1>の成果『エクステンション』を / 　キミに来けとってほしいんだ / 　来けとってくれるよね？ || JP#7260[MED]: 「彼なら<8a39>地に仲ったギルドの守間たちに / 　上級魔法の姉<8a3d>を<88a6>えられるはずなんだ / 　たしか、そうだったよね？
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#7094] budget=92ch/3ln
+  NOW: *Fire magic was for heating and
+          ice magic was for preserving.
+          It's how magic should be used.
+  JP : JP#7266[MED]: 「さらにね、魔法周果<8a48>仲が / 　『間体　→　グループ』 / 　『グループ　→　険体』になるんだよね[10][0c]「すごいよね？　すごいよね？ / 
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#7095] budget=94ch/3ln
+  NOW: *Now, it's used more frequently
+          as a method to destroy the
+          monsters than for its original use.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7096] budget=94ch/3ln
+  NOW: *In addition, the circumstances
+          which require more powerful magic
+          are full of serious dangers.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7097] budget=67ch/2ln
+  NOW: *Seeking more powerful magic is
+          like seeking more powerful weapons.
+  JP : JP#7267[MED]: 「すごいよね？　すごいよね？ / 　<f040><f042>うん、たいしたことないよ[10][0c]「<f040><f041><f042>さてと、ボクは更になん
+  FIT: <<TODO — <=67 chars, 2 line(s), <=35/line>>
+
+[US#7098] budget=81ch/3ln
+  NOW: *The next generation Crest
+          Sorcerers strongly advocate
+          the peaceful use of magic.
+  JP : JP#7268[MED]: 「<f040><f041><f042>さてと、ボクは更になんの泣<89b1>を / 　しようかな？
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#7099] budget=26ch/1ln
+  NOW: You'll hear me out, right?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#7100] budget=95ch/3ln
+  NOW: They must be able to impart the
+          mysteries of High Level Magic to
+          guild members across the land.
+  JP : JP#7269[MED]: 「でもね / 　キミには<8a25>えないモノだと思うんだね / 　ごめんね、<8978>してくれるよね？
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#7101] budget=21ch/1ln
+  NOW: Tell them I sent you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#7102] budget=55ch/3ln
+  NOW: Oh, OK, OK.
+          It's operating just
+          like in the experiment.
+  JP : JP#7270[MED]: 「でも、まだ何の泣<89b1>かは / 　姉訪だから押えられないんだね / 　ごめんね、<8a4c>ってないよね？
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#7103] budget=47ch/2ln
+  NOW: This is a problem.
+          This is a problem, isn't it?
+  JP : JP#7271[MED]: 「ボクは、準備できてるよ / 　上級魔法つくる？ / 　もちろん、つくるよね？
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7104] budget=77ch/3ln
+  NOW: That's right. I've been waiting
+          for a young sorceress
+          like you to come along.
+  JP : JP#7272[HIGH]: 「簡単一番に / 　上級魔法をつくってあげるよ / 　それでいいよね？[10][0c]「カラヤンくんに魔<8a38><8946>を渡したら / 　またここに伝て
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#7105] budget=88ch/3ln
+  NOW: I want you to have the |Extend,|
+          a result of all my research.
+          You'll take it, won't you?
+  JP : JP#7273[HIGH]: 「カラヤンくんに魔<8a38><8946>を渡したら / 　またここに伝てね / 　それまでに準備をしておくからね
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#7106] budget=97ch/3ln
+  NOW: The sphere of the magic's effects
+          changes as follows: |Single Enemy
+          to Group| and |Group to All.|
+  JP : JP#7274[HIGH]: ＊負の魔法で負をおこし<8a53>をとり / 　<8a52>の魔法でモノを勉らせることで<8901>存したり / 　そういった使われ方をするべきなのである[10
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#7107] budget=75ch/3ln
+  NOW: It's amazing, isn't it?
+          It's amazing, isn't it?
+          It's not really a big deal.
+  JP : JP#7275[HIGH]: ＊しかし今は、それら本伝の使われ方より / 　モンスターを倒すための手<8a55>として / 　用いられることが貸となっている[10][0c]＊それに<8a57
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#7108] budget=43ch/2ln
+  NOW: Hmm...I wonder what
+          I should research next?
+  JP : JP#7276[HIGH]: ＊それに<8a57>い / 　より強力な魔法が望められている現状は / 　ある<8a59>の危険性をはらんでいると言える[10][0c]＊より強力な魔法を望める
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#7109] budget=65ch/3ln
+  NOW: But, I don't think you
+          can handle it. Sorry.
+          Will you forgive me?
+  JP : JP#7277[MED]: ＊より強力な魔法を望めることは / 　より強力な同<8a5a>を望めると同じ[10][0c]＊更世代のクレストソーサラーたちが / 　魔法の好恥利用することを 
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#7110] budget=94ch/3ln
+  NOW: But what I'm researching is
+          still secret, so I can't tell you.
+          Sorry. You're not mad, are you?
+  JP : JP#7278[MED]: ＊更世代のクレストソーサラーたちが / 　魔法の好恥利用することを / 　強く願うものである || JP#7279[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7111] budget=86ch/3ln
+  NOW: I'm ready. Do you want to make
+          High Level Magic? Of course
+          you want to make it, right?
+  JP : JP#7280[MED]: 「いやね、ボクね / 　ここで幸<8a34>魔法の泣<89b1>をしているんだよ / 　見ればわかる？　そうだよね || JP#7281[MED]: 「シエルジェ自分<89b7>から / 　こんな<89c4>他くんだりまでやってきて / 　泣<89b1>を<8a18>けたかいがあったみたいだね[10]
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#7112] budget=70ch/3ln
+  NOW: I'll make you some first-rate,
+          High Level Magic.
+          That'll be OK, right?
+  JP : JP#7282[MED]: 「聞いてくれるよね？
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#7113] budget=95ch/3ln
+  NOW: Come back here after you deliver
+          the Magic Book to Karayan. I'll
+          have it ready for you by then.
+  JP : JP#7288[MED]: 「泣<89b1>の成果『エクステンション』を / 　キミに来けとってほしいんだ / 　来けとってくれるよね？ || JP#7283[MED]: 「彼なら<8a39>地に仲ったギルドの守間たちに / 　上級魔法の姉<8a3d>を<88a6>えられるはずなんだ / 　たしか、そうだったよね？
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#7114] budget=92ch/3ln
+  NOW: *Fire magic was for heating and
+          ice magic was for preserving.
+          It's how magic should be used.
+  JP : JP#7289[MED]: 「さらにね、魔法周果<8a48>仲が / 　『間体　→　グループ』 / 　『グループ　→　険体』になるんだよね[10][0c]「すごいよね？　すごいよね？ / 
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#7115] budget=94ch/3ln
+  NOW: *Now, it's used more frequently
+          as a method to destroy the
+          monsters than for its original use.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7116] budget=94ch/3ln
+  NOW: *In addition, the circumstances
+          which require more powerful magic
+          are full of serious dangers.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7117] budget=67ch/2ln
+  NOW: *Seeking more powerful magic is
+          like seeking more powerful weapons.
+  JP : JP#7290[MED]: 「すごいよね？　すごいよね？ / 　<f040><f042>うん、たいしたことないよ[10][0c]「<f040><f041><f042>さてと、ボクは更になん
+  FIT: <<TODO — <=67 chars, 2 line(s), <=35/line>>
+
+[US#7118] budget=81ch/3ln
+  NOW: *The next generation Crest
+          Sorcerers strongly advocate
+          the peaceful use of magic.
+  JP : JP#7291[MED]: 「<f040><f041><f042>さてと、ボクは更になんの泣<89b1>を / 　しようかな？
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#7119] budget=26ch/1ln
+  NOW: You'll hear me out, right?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#7120] budget=95ch/3ln
+  NOW: They must be able to impart the
+          mysteries of High Level Magic to
+          guild members across the land.
+  JP : JP#7292[MED]: 「でもね / 　キミには<8a25>えないモノだと思うんだね / 　ごめんね、<8978>してくれるよね？
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#7121] budget=21ch/1ln
+  NOW: Tell them I sent you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#7122] budget=55ch/3ln
+  NOW: Oh, OK, OK.
+          It's operating just
+          like in the experiment.
+  JP : JP#7293[MED]: 「でも、まだ何の泣<89b1>かは / 　姉訪だから押えられないんだね / 　ごめんね、<8a4c>ってないよね？
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#7123] budget=47ch/2ln
+  NOW: This is a problem.
+          This is a problem, isn't it?
+  JP : JP#7294[MED]: 「ボクは、準備できてるよ / 　上級魔法つくる？ / 　もちろん、つくるよね？
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7124] budget=77ch/3ln
+  NOW: That's right. I've been waiting
+          for a young sorceress
+          like you to come along.
+  JP : JP#7295[HIGH]: 「簡単一番に / 　上級魔法をつくってあげるよ / 　それでいいよね？[10][0c]「カラヤンくんに魔<8a38><8946>を渡したら / 　またここに伝て
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#7125] budget=88ch/3ln
+  NOW: I want you to have the |Extend,|
+          a result of all my research.
+          You'll take it, won't you?
+  JP : JP#7296[HIGH]: 「カラヤンくんに魔<8a38><8946>を渡したら / 　またここに伝てね / 　それまでに準備をしておくからね
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#7126] budget=97ch/3ln
+  NOW: The sphere of the magic's effects
+          changes as follows: |Single Enemy
+          to Group| and |Group to All.|
+  JP : JP#7297[HIGH]: ＊負の魔法で負をおこし<8a53>をとり / 　<8a52>の魔法でモノを勉らせることで<8901>存したり / 　そういった使われ方をするべきなのである[10
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#7127] budget=75ch/3ln
+  NOW: It's amazing, isn't it?
+          It's amazing, isn't it?
+          It's not really a big deal.
+  JP : JP#7298[HIGH]: ＊しかし今は、それら本伝の使われ方より / 　モンスターを倒すための手<8a55>として / 　用いられることが貸となっている[10][0c]＊それに<8a57
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#7128] budget=43ch/2ln
+  NOW: Hmm...I wonder what
+          I should research next?
+  JP : JP#7299[HIGH]: ＊それに<8a57>い / 　より強力な魔法が望められている現状は / 　ある<8a59>の危険性をはらんでいると言える[10][0c]＊より強力な魔法を望める
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#7129] budget=65ch/3ln
+  NOW: But, I don't think you
+          can handle it. Sorry.
+          Will you forgive me?
+  JP : JP#7300[MED]: ＊より強力な魔法を望めることは / 　より強力な同<8a5a>を望めると同じ[10][0c]＊更世代のクレストソーサラーたちが / 　魔法の好恥利用することを 
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#7130] budget=94ch/3ln
+  NOW: But what I'm researching is
+          still secret, so I can't tell you.
+          Sorry. You're not mad, are you?
+  JP : JP#7301[MED]: ＊更世代のクレストソーサラーたちが / 　魔法の好恥利用することを / 　強く願うものである
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7131] budget=86ch/3ln
+  NOW: I'm ready. Do you want to make
+          High Level Magic? Of course
+          you want to make it, right?
+  JP : JP#7302[MED]: 
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#7132] budget=70ch/3ln
+  NOW: I'll make you some first-rate,
+          High Level Magic.
+          That'll be OK, right?
+  JP : JP#7303[MED]: 
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#7133] budget=95ch/3ln
+  NOW: Come back here after you deliver
+          the Magic Book to Karayan. I'll
+          have it ready for you by then.
+  JP : JP#7304[MED]: 
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#7134] budget=92ch/3ln
+  NOW: *Fire magic was for heating and
+          ice magic was for preserving.
+          It's how magic should be used.
+  JP : JP#7305[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#7135] budget=94ch/3ln
+  NOW: *Now, it's used more frequently
+          as a method to destroy the
+          monsters than for its original use.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7136] budget=94ch/3ln
+  NOW: *In addition, the circumstances
+          which require more powerful magic
+          are full of serious dangers.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7137] budget=67ch/2ln
+  NOW: *Seeking more powerful magic is
+          like seeking more powerful weapons.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=67 chars, 2 line(s), <=35/line>>
+
+[US#7138] budget=81ch/3ln
+  NOW: *The next generation Crest
+          Sorcerers strongly advocate
+          the peaceful use of magic.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#7139] budget=26ch/1ln
+  NOW: You'll hear me out, right?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#7140] budget=95ch/3ln
+  NOW: They must be able to impart the
+          mysteries of High Level Magic to
+          guild members across the land.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#7141] budget=21ch/1ln
+  NOW: Tell them I sent you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#7142] budget=55ch/3ln
+  NOW: Oh, OK, OK.
+          It's operating just
+          like in the experiment.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#7143] budget=47ch/2ln
+  NOW: This is a problem.
+          This is a problem, isn't it?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7144] budget=77ch/3ln
+  NOW: That's right. I've been waiting
+          for a young sorceress
+          like you to come along.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#7145] budget=88ch/3ln
+  NOW: I want you to have the |Extend,|
+          a result of all my research.
+          You'll take it, won't you?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>

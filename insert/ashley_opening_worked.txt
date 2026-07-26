@@ -1,0 +1,261 @@
+# WA2 — ASHLEY'S OPENING (The Withered Ruins prologue) — JP-FAITHFUL, DISPLAY-WINDOW BUDGET
+# =========================================================================================
+# Ashley's first ARMS mission. Rescue the hostage boy (Tony) from kidnappers led by GANGAL in
+# the old excavation site "The Withered Ruins". A sealed monster gets loose; the commander
+# orders the Linear Rail Cannon to level the ruins (killing their own men); Ashley defies the
+# order, beats the monster solo, and is put under house arrest.
+#
+# Scene spans TWO event blocks (script is NOT in play order):
+#   BLOCK 70 = briefing + rail-gun standoff + house arrest
+#   BLOCK 23 = ruins interior + Gangal's kidnappers
+#
+# TRANSLATION POLICY: translate from the JAPANESE. EN used only to fill unsolved kanji/context.
+# SIZE POLICY: sized to the DISPLAY WINDOW (<=5 lines x ~35 chars), NOT the old EN box length.
+#   => Most lines EXCEED the original box bytes -> this is a GROW-TO-WINDOW patch (needs the
+#      repointer). Only a few short lines still fit free. This is the right trade: quality over
+#      the lazy same-size path (see WA2_INSERTION_MODEL.md).
+# {0}=Ashley player-name code — KEEP verbatim.
+#
+# CONFIDENCE KEY (per box, from alignment quality + unsolved-kanji count):
+#   [OK]    HIGH align, JP reads cleanly -> translation is solid.
+#   [FAIR]  MED align OR a few unsolved kanji -> sense reliable, exact wording inferred.
+#   [SHAKY] garbled JP (3+ unsolved) or weak align -> educated guess; VERIFY against emulator.
+# =========================================================================================
+
+################## PART 1 — MISSION BRIEFING (Block 70) ##################
+
+[US#7216] [FAIR]  (MED align; JP text itself is clean)
+  JP : 「これより、ミッションの最終確認を行うッ！
+  LIT: We'll now carry out the final mission check!
+  RE : Now, the final
+       mission confirmation.
+
+[US#7217] [OK]
+  JP : 「新入りッ！　お前の名はッ！
+  LIT: Newbie! What's your name?!
+  RE : Newbie! Your name?!
+
+[US#7218] [OK]
+  JP : 「隊の足をひっぱるなよ / わかったか、{0}ッ！
+  LIT: Don't drag the squad down. Got it, {0}?!
+  RE : Don't drag the squad down.
+       Got that, {0}?!
+
+[US#7219] [FAIR]  (人質/確保 kanji inferred)
+  JP : 「すみやかに人質の危険を / 確保するところにある
+  LIT: [The objective] is to swiftly secure the hostage out of danger.
+  RE : Move fast -- get the hostage
+       clear of danger.
+
+[US#7220] [OK]
+  JP : 「奇跡には / 多数のモンスターも確認されている / 各自、気を抜いてかかるなよ
+  LIT: Numerous monsters are confirmed in the ruins too. Each of you, don't let your guard down.
+  RE : Numerous monsters have been
+       confirmed inside the ruins.
+       Every one of you, stay sharp.
+
+[US#7221] [OK]
+  JP : 「よし、突入開始だッ！
+  LIT: All right -- begin the assault!
+  RE : Good. Begin the assault!
+
+################## PART 2 — THE RUINS (Block 23) ##################
+
+[US#5026] [FAIR]  (MED align)
+  JP : 「任務を放棄することはできないッ！
+  LIT: I can't abandon the mission!
+  RE : I can't just abandon
+       the mission!
+
+[US#5027] [FAIR]  (MED align)
+  JP : 「こんな危険な奇跡を / 野ざらしにしているから / モンスターが増えていくんだよ
+  LIT: It's because dangerous ruins like this get left exposed that the monsters keep increasing.
+  RE : It's because dangerous ruins
+       like this are left exposed
+       that the monsters keep
+       multiplying.
+
+[US#5028] [FAIR]  (MED align; 渡り鴉=Mercs)
+  JP : 「なあ、{0} / 奇跡あさりなんてのは『渡り鴉』の連中に / まかせた方がいいと思わねェか？
+  LIT: Hey {0}, don't you think ruins-picking is better left to those "Mercs"?
+  RE : Hey, {0}. Ruins-picking's the
+       kind of job better left to
+       those |Mercs|, don't you think?
+
+[US#5037] [FAIR]  (HIGH align but 3 unsolved: 冒険者/探索)
+  JP : 「もう、ずっと前に『渡り鴉』と呼ばれる / 冒険者たちによって / あらかた探索されつくされているからな
+  LIT: Long ago it was searched nearly clean by the adventurers called the "Mercs".
+  RE : Long ago it was picked over
+       by the adventurers they call
+       the |Mercs| -- searched about
+       as clean as it gets.
+
+[US#5038] [OK]
+  JP : 「ここが『枯れた奇跡』と呼ばれるのは / そういうことからさ
+  LIT: That's why this place is called the "Withered Ruins".
+  RE : That's exactly why this place
+       is called |The Withered Ruins|.
+
+[US#5039] [OK]
+  JP : 「気を引き締めていくぞッ！
+  LIT: Steel yourself, here we go!
+  RE : Steel yourselves -- here we go!
+
+[US#5040] [OK]
+  JP : 「この先、どんな仕掛けがあるのか / 見当もつかないからな
+  LIT: No telling what sort of traps lie ahead.
+  RE : No telling what kind of
+       traps lie ahead of us.
+
+# ---- Gangal's kidnappers ----
+
+[US#5047] [OK]
+  JP : 「ガキを誘拐すれば / 大金が転がりこむって言ったのはっ！？
+  LIT: Who was it that said snatching a brat would have big money rolling in?!
+  RE : Who was it that swore
+       snatching some brat
+       would have big money
+       rolling right in?!
+
+[US#5048] [OK]
+  JP : 「まさか / こんなおおごとになるなんて / 思ってもみなかった・・・
+  LIT: I never dreamed it'd turn into such a huge mess...
+  RE : I never once dreamed
+       it'd blow up into
+       a mess this big...
+
+[US#5050] [SHAKY]  (MED align; 守恥/守胞闘 garbled -- "Boss/Musketeer" inferred from EN)
+  JP : 「どうするんでヤンス、ガンガルの[?] / もうすぐ[Musketeer]隊のみなさん / 突入してくる[?]でヤンスよ
+  LIT: What's the plan, Boss Gangal? The Musketeer squad'll come storming in any moment.
+  RE : What's the plan, Boss Gangal?
+       Those Musketeers'll come
+       storming in any moment now.
+
+[US#5051] [FAIR]  (MED align)
+  JP : 「最初に話しませんでしたっけ？
+  LIT: Didn't I tell you at the start?
+  RE : Didn't I tell you so
+       right from the start?
+
+[US#5052] [FAIR]  (MED align; JP clean -- his "a real MAN" 男/オトコ tic)
+  JP : 「そんなことじゃ / 男（オトコ）がすたっちまうぜ / 〜ったくよぉ
+  LIT: Carry on like that and you'll disgrace being a MAN. ...Sheesh.
+  RE : Carry on like that
+       and you'll disgrace the name
+       of a real MAN. ...Sheesh.
+
+[US#5053] [FAIR]  (MED align; 逃げ inferred)
+  JP : 「逃げ切って見せるぜ
+  LIT: I'll get away clean, watch me.
+  RE : I'll slip away clean.
+       Just watch me.
+
+[US#5055] [OK]
+  JP : （少年、名前は？）
+  LIT: (The boy -- his name?)   [Tony's name-entry prompt]
+  RE : (The boy -- does he
+       have a name?)
+
+[US#5056] [OK]  (度胸=nerve/guts)
+  JP : 「ホントは誘拐なんて / できる度胸も無いくせにッ！
+  LIT: Truth is, you don't even have the nerve to really pull off a kidnapping!
+  RE : Truth is, you haven't even
+       the nerve to pull off
+       a real kidnapping!
+
+[US#5057] [OK]
+  JP : 「お、おめぇら、このガキをとっつかまえて / だまらせろッ！
+  LIT: Y-you two! Grab this brat and shut him up!
+  RE : Y-you two! Grab this brat
+       and shut him up!!
+
+################## PART 3 — MONSTER LOOSE + RAIL-GUN STANDOFF (Block 70) ##################
+
+[US#7222] [SHAKY]  (HIGH align but 4 unsolved: 封印/事故/解き放た)
+  JP : 「おそらく、封印されていたモンスターが / 何らかの事故で / 解き放たれたのではないかとッ！
+  LIT: Most likely a sealed monster was set loose by some accident!
+  RE : Most likely a sealed monster
+       was set loose here
+       by some kind of accident!
+
+[US#7223] [FAIR]  (分泌/体液/液体燃料 partly inferred)
+  JP : 「最悪なことに / モンスターから分泌される体液に / 揮発性の高い液体燃料も検出されました
+  LIT: Worst of all, the fluid the monster secretes tested as a highly volatile liquid fuel.
+  RE : Worse still -- the fluid
+       the monster secretes tested
+       as a highly volatile
+       liquid fuel.
+
+[US#7224] [OK]
+  JP : 「隊長〜 / このままでは〜
+  LIT: Commander... at this rate...
+  RE : Commander...
+       at this rate...
+
+[US#7225] [SHAKY]  (HIGH align but 8 unsolved -- heavily garbled; read from EN+kana)
+  JP : 「[?]発が考えられる以上 / [処理]を地上で行うわけにはいかん
+  LIT: With an explosion possible, we can't deal with it above ground.
+  RE : With an explosion possible,
+       we can't deal with it
+       above ground.
+
+[US#7226] [SHAKY]  (HIGH align but 5 unsolved: 被害/壊滅 inferred as casualties/level)
+  JP : 「被害を最小限に抑えるためにも / 奇跡で一気に壊滅するッ！
+  LIT: To hold casualties to a minimum, we wipe out the ruins in one strike!
+  RE : To hold casualties to
+       a minimum, we level the
+       whole ruins in one strike!
+
+[US#7227] [FAIR]  (大型アーム/解除 partly inferred)
+  JP : 「いざという時のために / 大型アームのセーフティを解除しておけ
+  LIT: Just in case, take the large ARM off safety.
+  RE : Just in case, release the
+       safety on the large ARM.
+
+[US#7228] [FAIR]  (MED align; 許可 inferred -- 僕から "by my own hand" RESTORED)
+  JP : 「『リニアレールキャノン』の使用許可は / 僕から出しておく
+  LIT: I'll issue authorization for the "Linear Rail Cannon" myself.
+  RE : I'll issue the clearance for
+       the Linear Rail Cannon myself.
+
+[US#7229] [OK]
+  JP : 「しかし奇跡には / まだ多くの闘幸[soldiers]が残っています
+  LIT: But there are still many soldiers left in the ruins.
+  RE : But there are still many
+       soldiers left inside the ruins.
+
+[US#7230] [OK]
+  JP : 「彼ら[our men]の待避前に / モンスターが外に / 出てしまうかもしれません
+  LIT: The monster may get outside before our men can evacuate.
+  RE : The monster could break out
+       before our own men
+       have time to evacuate.
+
+[US#7231] [OK]  (the moral crux; 巻き込む=drag in/catch in blast)
+  JP : 「奇跡で壊滅するためには / 彼らの待避が間に合いません… / 彼らを巻き込むつもりですかッ！
+  LIT: To level the ruins now, they can't evacuate in time... You mean to catch them in it?!
+  RE : Level the ruins now and they
+       can't get clear in time...
+       You mean to catch our own
+       men in the blast?!
+
+[US#7232] [OK]
+  JP : 「責任は、僕が持つ
+  LIT: I'll bear the responsibility.
+  RE : The responsibility
+       will be mine.
+
+[US#7234] [OK]  (信念=conviction/resolve -- NOT EN's "reprimand")
+  JP : 「〜信念はできています
+  LIT: ...My mind is made up.
+  RE : ...My mind is made up.
+
+[US#7235] — house-arrest aftermath (EN retained; not re-translated here)
+  "Your punishment for this incident will be forthcoming! Until then, you're under house arrest."
+
+# =========================================================================================
+# CONFIDENCE TALLY: OK=19  FAIR=11  SHAKY=4 (5050, 7222, 7225, 7226)
+# The 4 SHAKY boxes have heavy kanji garble; their SENSE is right (cross-checked vs EN) but the
+# exact JP wording is inferred -> confirm via emulator font trace before final insert.
+# SIZE: sized to display window -> grow-to-window (repointer) patch, not free same-size.
+# =========================================================================================

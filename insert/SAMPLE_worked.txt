@@ -1,0 +1,46 @@
+# WA2 INSERTION — WORKED SAMPLE (Marina, US#511-515)
+# Demonstrates the fill process: retranslation from JP, constrained to each box's budget.
+# {0}/{1} = character-name codes the game substitutes — KEEP them verbatim (do NOT translate).
+# FIT lines each verified <= budget chars and <= line count. Speaker: Marina.
+====================================================================================
+
+[US#511] budget=31ch/2ln
+  NOW: Please keep an eye on / {0} for me.
+  JP : 「あの〜 [0]ぉのこと / よろしくお願いします〜」  (Um... please take care of {0}.)
+  FIT: Um... please look           (12)
+       after {0} for me.           (17)   -> 29ch/2ln  OK (<=31)
+
+[US#512] budget=49ch/2ln
+  NOW: I never knew waiting was / so emotionally draining.
+  JP : 「〜待つのがこんなにも / ツライことだなんて初めて知ったわ〜」  (I never knew waiting could hurt this much.)
+  FIT: I never knew waiting        (19)
+       could hurt this much.       (21)   -> 40ch/2ln  OK (<=49)  [truer to JP 'hurt' than 'emotionally draining']
+
+[US#513] budget=33ch/2ln
+  NOW: So, {1} didn't come / with you today?
+  JP : 「そういえば、[0]おさんは / 今回は、いらっしゃらないのですか？」  (Come to think of it, isn't {1} with you this time?)
+  FIT: So {1} isn't                (12)
+       with you this time?         (19)   -> 31ch/2ln  OK (<=33)
+
+[US#514] budget=86ch/3ln
+  NOW: During your travels, if you / have a moment, please think of / me, if only for an instant.
+  JP : 「もしもね〜気が向いたらでもいいんだけどね / [顔]の中で、ちょっぴりでもいいから / 私のコト、思い出して〜ほしいな」
+       (If you feel like it... even just a little, in the back of your mind... I'd like you to remember me.)
+  FIT: If you ever feel like it,   (25)
+       even just now and then,     (23)
+       I hope you'll remember me.  (26)   -> 74ch/3ln  OK (<=86)  [restores the wistful JP tone]
+
+[US#515] budget=58ch/3ln
+  NOW: Someone must help them, and / that is what you are doing, / {0}.
+  JP : 「それを取り除くこと〜 / それは、誰かがやらなくてはいけないこと〜 / それを[0]ぉがしていること〜」
+       (Ridding the world of it... someone has to do it... and that someone is you, {0}.)
+  FIT: Someone has to rid us of    (24)
+       it -- and that someone      (22)
+       is you, {0}.                (12)   -> 58ch/3ln  OK (exactly at budget)
+
+## NOTES FROM THIS SAMPLE
+# - Every FIT respects the box's char budget AND original line count (same-size insert = safe).
+# - Name-codes {0}/{1} kept verbatim — the game injects the player-set name; translating them breaks it.
+# - Where JP nuance was compressed by the original EN (US#512 'emotionally draining' vs JP 'hurt'),
+#   the retranslation restores the JP sense while STILL fitting the box.
+# - This is the deliverable shape: NOW (current) + JP (source) + FIT (insert-ready retranslation).

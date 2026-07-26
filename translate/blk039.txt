@@ -1,0 +1,774 @@
+# WA2 4-col translation doc block 39 (JP#5875-5988)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 100 boxes | OK=19 FAIR=60 SHAKY=21 JP-ONLY=0
+# DRAFT STATUS: 100 boxes | OK=17 FAIR=56 SHAKY=27 JP-ONLY=0
+
+[JP#5876] gaps=0  aln=MED->US#5743  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5877] gaps=2  aln=MED->US#5744  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5878] gaps=0  aln=MED->US#5745  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5879] gaps=0  aln=MED->US#5746  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「きっと、任務がしやすくなりますね
+  2|LIT: <<TODO>>
+  3|EN : @Our mission will
+ become a lot easier.
+  4|RE : <<TODO>>
+
+[JP#5880] gaps=1  aln=MED->US#5747  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ここは僕が招き泣ける / 　[05]ぉたちは最<896e>字に向かってくれ[10][0c]「ここを始片したら / 　僕もすぐに後を追いかける / 　一時、単行動だ
+  2|LIT: <<TODO>>
+  3|EN : @I'll take care of this.
+ You guys need to go on
+ to the deepest depths.@After I finish here, I'll
+ follow. We'll operate
+ independently for a time.
+  4|RE : <<TODO>>
+
+[JP#5881] gaps=0  aln=MED->US#5748  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ここを始片したら / 　僕もすぐに後を追いかける / 　一時、単行動だ
+  2|LIT: <<TODO>>
+  3|EN : @After I finish here, I'll
+ follow. We'll operate
+ independently for a time.
+  4|RE : <<TODO>>
+
+[JP#5882] gaps=1  aln=MED->US#5749  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「……わかった / 　それじゃ、最<896e>字で落ち合おう[10][0c]「よし、みんな、行こうッ！
+  2|LIT: <<TODO>>
+  3|EN : @I understand.
+ Then we'll meet up at
+ the deepest depths.@OK. Let's go!
+  4|RE : <<TODO>>
+
+[JP#5883] gaps=0  aln=MED->US#5750  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「よし、みんな、行こうッ！
+  2|LIT: <<TODO>>
+  3|EN : @OK. Let's go!
+  4|RE : <<TODO>>
+
+[JP#5884] gaps=1  aln=MED->US#5751  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : （<8a39>間を信じなくちゃダメだッ！ / 　そう決めたはずだろう… / 　でも…）
+  2|LIT: <<TODO>>
+  3|EN : (I've decided to have faith
+ in my friends! But...)
+  4|RE : <<TODO>>
+
+[JP#5885] gaps=3  aln=MED->US#5752  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「この<883f>で、あの<883f>仲守合<8a23>を / 　うまくごまかせるといいんだけど…
+  2|LIT: <<TODO>>
+  3|EN : @With this voice, I hope to
+ trick the Voice Verifier.
+  4|RE : <<TODO>>
+
+[JP#5886] gaps=2  aln=MED->US#5753  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「いまの<883f>を<8938>姉すれば…
+  2|LIT: <<TODO>>
+  3|EN : @If I record that
+ voice from here...
+  4|RE : <<TODO>>
+
+[JP#5887] gaps=1  aln=MED->US#5754  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「そういえばさっき / 　<8a3d>利そうなものを…
+  2|LIT: <<TODO>>
+  3|EN : @That reminds me,
+ I saw something
+ useful-looking back there.
+  4|RE : <<TODO>>
+
+[JP#5888] gaps=0  aln=MED->US#5755  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「まぁいい、いずれにせよ / 　このプラントを破滅せずには / 　戻る必要もないしな
+  2|LIT: <<TODO>>
+  3|EN : @Well, this way I
+ don't have to return to
+ blow up the plant.
+  4|RE : <<TODO>>
+
+[JP#5889] gaps=0  aln=MED->US#5756  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「んもー、どっちにしろ / 　ここを滅してからじゃないと / 　外に出られないわねッ！
+  2|LIT: <<TODO>>
+  3|EN : @Well, either way,
+ I won't be able to get out
+ unless I destroy this place!
+  4|RE : <<TODO>>
+
+[JP#5890] gaps=1  aln=MED->US#5757  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「仕方ないですから / 　先に<892b>みましょう
+  2|LIT: <<TODO>>
+  3|EN : @There's nothing we can
+ do, so let's move onward.
+  4|RE : <<TODO>>
+
+[JP#5891] gaps=1  aln=MED->US#5758  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「んッ！　加信中か… / 　何とか<89ba>話を助泣できないかな？
+  2|LIT: <<TODO>>
+  3|EN : @Hmm... They're transmitting.
+ I wonder how I can
+ intercept the message?
+  4|RE : <<TODO>>
+
+[JP#5892] gaps=2  aln=MED->US#5759  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「なんかしゃべってる… / 　うー、気になる<f045><f046> / 　何か加信しているみたい
+  2|LIT: <<TODO>>
+  3|EN : @They're saying something.
+ I must know.
+ They're transmitting.
+  4|RE : <<TODO>>
+
+[JP#5893] gaps=2  aln=MED->US#5760  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「あれ？　〜話し<883f>が聞こえます / 　でも、<883f>が小さくて / 　よく聞き取れないです
+  2|LIT: <<TODO>>
+  3|EN : @Wha? I hear a voice
+ but it's so small, I can
+ barely make it out.
+  4|RE : <<TODO>>
+
+[JP#5894] gaps=2  aln=MED->US#5761  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ボイスレコーダーを使って / 　この<883f>、『<89f3>ませて』もらおうッ！
+  2|LIT: <<TODO>>
+  3|EN : @With a recorder, I'm
+ going to |steal| this voice!
+  4|RE : <<TODO>>
+
+[JP#5895] gaps=2  aln=MED->US#5764  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「これで<883f>仲パターンも / 　<89fa>ちんクリアよッ！
+  2|LIT: <<TODO>>
+  3|EN : *Enter a password?2
+  4|RE : <<TODO>>
+
+[JP#5896] gaps=0  aln=MED->US#5765  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「さっそく試そうよッ！
+  2|LIT: <<TODO>>
+  3|EN : *Start Voice Print Verification
+  4|RE : <<TODO>>
+
+[JP#5897] gaps=0  aln=MED->US#5765  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊パスワードを入力しますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Start Voice Print Verification
+  4|RE : <<TODO>>
+
+[JP#5898] gaps=3  aln=HIGH->US#5765  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊<f040><f042><883f>仲守合を開始します〜
+  2|LIT: <<TODO>>
+  3|EN : *Start Voice Print Verification
+  4|RE : <<TODO>>
+
+[JP#5899] gaps=0  aln=HIGH->US#5766  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＞このプラントにいるすべての同胞は / 　選ばれしオデッサの同胞なのよ / 　そのことを忘れないで
+  2|LIT: <<TODO>>
+  3|EN : >Don't forget. All the soldiers
+ here at the plant were
+ from Odessa's forces.
+  4|RE : <<TODO>>
+
+[JP#5900] gaps=1  aln=HIGH->US#5767  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : ＊<89cf>周ブロックを開殺します
+  2|LIT: <<TODO>>
+  3|EN : *The block will be released.
+  4|RE : <<TODO>>
+
+[JP#5901] gaps=2  aln=HIGH->US#5768  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも〜 / 　機艇といえど、あっけないほどに / 　間実を見失ってしまうものなんだな[10][0c]「もし、それが人間だったら / 　なおのことなのかもしれない〜
+  2|LIT: <<TODO>>
+  3|EN : @Though it's a machine, it's
+ disappointing how far
+ from the truth it is.@And, if it had been a human,
+ it could have been worse.
+  4|RE : <<TODO>>
+
+[JP#5902] gaps=0  aln=HIGH->US#5769  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「もし、それが人間だったら / 　なおのことなのかもしれない〜
+  2|LIT: <<TODO>>
+  3|EN : @And, if it had been a human,
+ it could have been worse.
+  4|RE : <<TODO>>
+
+[JP#5903] gaps=0  aln=HIGH->US#5770  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ま、機艇なんかには / 　わからないものよねッ！
+  2|LIT: <<TODO>>
+  3|EN : @Oh well, a machine couldn't
+ be able to tell that!
+  4|RE : <<TODO>>
+
+[JP#5904] gaps=0  aln=MED->US#5771  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「〜って、しゃべってもいいんですよね？
+  2|LIT: <<TODO>>
+  3|EN : @I can talk now, right?
+  4|RE : <<TODO>>
+
+[JP#5905] gaps=3  aln=MED->US#5772  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊<f040><f042><883f>仲守合を開始します〜
+  2|LIT: <<TODO>>
+  3|EN : *Start Voice Print Verification
+  4|RE : <<TODO>>
+
+[JP#5906] gaps=4  aln=MED->US#5773  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : ＊これより先は、<89cf>周ブロックです / 　<89cf>周ブロックの使用は、ランクＡ<8968>成<8a4d> / 　および簡戦闘コキュートスに好られています
+  2|LIT: <<TODO>>
+  3|EN : *A block up ahead. Use of the block
+ is limited to Rank A Members
+ and the Special Cocytus Corp.
+  4|RE : <<TODO>>
+
+[JP#5907] gaps=3  aln=HIGH->US#5774  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊<f040><f042><883f>仲守合を開始します〜
+  2|LIT: <<TODO>>
+  3|EN : *Start Voice Print Verification
+  4|RE : <<TODO>>
+
+[JP#5908] gaps=4  aln=HIGH->US#5775  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「わ、わ、わたーし、ざーます / 　おーほほほほッ！[10][0c]「<f04d><f04f><f04f>… / 　恥かかせないでよ〜<f05a>
+  2|LIT: <<TODO>>
+  3|EN : @It...it is I...I...
+ Oh. Hee. Hee!@Oooo...
+ Don't embarrass me.
+  4|RE : <<TODO>>
+
+[JP#5909] gaps=4  aln=HIGH->US#5776  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f04d><f04f><f04f>… / 　恥かかせないでよ〜<f05a>
+  2|LIT: <<TODO>>
+  3|EN : @Oooo...
+ Don't embarrass me.
+  4|RE : <<TODO>>
+
+[JP#5910] gaps=0  aln=HIGH->US#5777  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜と、思いましたが / 　プーカが相手の負と能力をコピーするには / 　ミーディアムが必要でした〜
+  2|LIT: <<TODO>>
+  3|EN : @or so I thought, but
+ Pooka needs a Medium to
+ copy shapes and skills.
+  4|RE : <<TODO>>
+
+[JP#5911] gaps=4  aln=MED->US#5778  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : ＊これより先は、<89cf>周ブロックです / 　<89cf>周ブロックの使用は、ランクＡ<8968>成<8a4d> / 　および簡戦闘コキュートスに好られています
+  2|LIT: <<TODO>>
+  3|EN : *A block up ahead. Use of the block
+ is limited to Rank A Members
+ and the Special Cocytus Corp.
+  4|RE : <<TODO>>
+
+[JP#5912] gaps=0  aln=HIGH->US#5779  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊ロッカーを / 　さらに調べてみますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Search the locker
+ again?2
+  4|RE : <<TODO>>
+
+[JP#5913] gaps=0  aln=HIGH->US#5780  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5914] gaps=5  aln=HIGH->US#5781  CONF=SHAKY unsolved=5  CONF=FAIR unsolved=1
+  1|JP : 「やはり、一回の発<892b>にかかる / 　エネルギーの消<8a52><886f>を考えると / 　今後、ひんぱんに使用することは不可能です[10][0c]「私たちの当<8a53>の相は / 　勉金<8a53>といったところでしょうか〜
+  2|LIT: <<TODO>>
+  3|EN : @When considering the energy
+ expenditure for takeoffs,
+ frequent use is impossible.@Our most serious enemy
+ now is probably financial.
+  4|RE : <<TODO>>
+
+[JP#5915] gaps=2  aln=HIGH->US#5782  CONF=FAIR unsolved=2  CONF=OK unsolved=0
+  1|JP : 「私たちの当<8a53>の相は / 　勉金<8a53>といったところでしょうか〜
+  2|LIT: <<TODO>>
+  3|EN : @Our most serious enemy
+ now is probably financial.
+  4|RE : <<TODO>>
+
+[JP#5916] gaps=4  aln=HIGH->US#5783  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「現帰、アルケミックプラントの貸<8a57>望は / 　ようやく６０％を<8a59>えたところです[10][0c]「ま、少しはバルキサスの方にも / 　エネルギーをまわせる<8a5a>復ができますがね[10][0c]「それでもこっちは、もうひとつ〜 / 　『ヘイムダル・ガッツォー』の / 　<8854>もあるんで、気前良くってわけには〜
+  2|LIT: <<TODO>>
+  3|EN : @Currently, the Alchemic Plant
+ is operating at above 60%.@So, we do have extra energy
+ to divert to the Varukisas.@Yes, but we still have the
+ |Heimdal Gazzo| to work
+ on, so it's not over yet.
+  4|RE : <<TODO>>
+
+[JP#5917] gaps=2  aln=HIGH->US#5784  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ま、少しはバルキサスの方にも / 　エネルギーをまわせる<8a5a>復ができますがね[10][0c]「それでもこっちは、もうひとつ〜 / 　『ヘイムダル・ガッツォー』の / 　<8854>もあるんで、気前良くってわけには〜
+  2|LIT: <<TODO>>
+  3|EN : @So, we do have extra energy
+ to divert to the Varukisas.@Yes, but we still have the
+ |Heimdal Gazzo| to work
+ on, so it's not over yet.
+  4|RE : <<TODO>>
+
+[JP#5918] gaps=1  aln=HIGH->US#5785  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「それでもこっちは、もうひとつ〜 / 　『ヘイムダル・ガッツォー』の / 　<8854>もあるんで、気前良くってわけには〜
+  2|LIT: <<TODO>>
+  3|EN : @Yes, but we still have the
+ |Heimdal Gazzo| to work
+ on, so it's not over yet.
+  4|RE : <<TODO>>
+
+[JP#5919] gaps=0  aln=HIGH->US#5786  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「その飛飛は / 　我ら『オデッサ』の威を知らしめるには / 　茶果的なテであることも確かであろう[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @It's clear the flights are an
+ effective method to convey
+ the menace of |Odessa.|
+  4|RE : <<TODO>>
+
+[JP#5921] gaps=2  aln=MED->US#5788  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「そういうのは / 　俺の男<8a67>外なんでね / 　もっと<89fa>しそうなシゴトをまわしてくれよ
+  2|LIT: <<TODO>>
+  3|EN : @That's beyond my
+ jurisdiction so...send
+ only fun work my way.
+  4|RE : <<TODO>>
+
+[JP#5922] gaps=4  aln=HIGH->US#5789  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「バルキサスの離陸<8865>前に<88fa>戦した / 　あの一<897d>のことですが / 　『ＡＲＭＳ』と呼ばれる字闘と<8942>次しました
+  2|LIT: <<TODO>>
+  3|EN : @The group attacking the Varukisas
+ before take-off has been identified
+ as a unit called the |ARMS.|
+  4|RE : <<TODO>>
+
+[JP#5923] gaps=3  aln=HIGH->US#5790  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「メリアブール<8a6d>が特友していた / 　<89e1>戻<88b2>好を作する簡単字闘ＡＲＭＳは / 　結成と同時に滅滅したわ〜
+  2|LIT: <<TODO>>
+  3|EN : @Meria Boule's Special Unit ARMS
+ of independent authority was
+ annihilated when they formed.
+  4|RE : <<TODO>>
+
+[JP#5924] gaps=0  aln=HIGH->US#5791  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「いえ〜 / 　やはり、同じ字闘と呼ぶべきでしょうか〜
+  2|LIT: <<TODO>>
+  3|EN : @No. We should call them
+ the same unit.
+  4|RE : <<TODO>>
+
+[JP#5925] gaps=0  aln=HIGH->US#5792  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「よくわからねぇな / 　もう少しうまく説次してほしいぜ
+  2|LIT: <<TODO>>
+  3|EN : @I don't get it.
+ Explain it again.
+  4|RE : <<TODO>>
+
+[JP#5926] gaps=11  aln=HIGH->US#5793  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=8
+  1|JP : 「<f040><f042>と、でも頼しましょうか〜[10][0c]「いずれの<8a6d>基にも<8a74>さないことで / 　<89e1>戻<88b2>好を<8861><8a75>しているようです[10][0c]「苦い取った者は / 　メリアブールの辺<8872>協<8a77>とまでは / 　<8942>次していますが〜
+  2|LIT: <<TODO>>
+  3|EN : @Is that clearer?@Their non-alliance status
+ makes it appear as if
+ they are independent.@We have verified that the
+ buyer is low-level
+ nobility.
+  4|RE : <<TODO>>
+
+[JP#5927] gaps=9  aln=MED->US#5794  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=8
+  1|JP : 「いずれの<8a6d>基にも<8a74>さないことで / 　<89e1>戻<88b2>好を<8861><8a75>しているようです[10][0c]「苦い取った者は / 　メリアブールの辺<8872>協<8a77>とまでは / 　<8942>次していますが〜
+  2|LIT: <<TODO>>
+  3|EN : @Their non-alliance status
+ makes it appear as if
+ they are independent.@We have verified that the
+ buyer is low-level
+ nobility.
+  4|RE : <<TODO>>
+
+[JP#5928] gaps=3  aln=MED->US#5795  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「苦い取った者は / 　メリアブールの辺<8872>協<8a77>とまでは / 　<8942>次していますが〜
+  2|LIT: <<TODO>>
+  3|EN : @We have verified that the
+ buyer is low-level
+ nobility.
+  4|RE : <<TODO>>
+
+[JP#5929] gaps=1  aln=MED->US#5796  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「〜<8a79>だな / 　そういうのって、カンにさわる
+  2|LIT: <<TODO>>
+  3|EN : @I hate that kind of stuff.
+ It's offensive.
+  4|RE : <<TODO>>
+
+[JP#5930] gaps=2  aln=MED->US#5797  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「気にとめておく必要は<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @There's no need to pay
+ attention to...
+  4|RE : <<TODO>>
+
+[JP#5931] gaps=6  aln=MED->US#5797  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : 「我らにあらがうのなら / 　そうさせておけばいい〜 / 　なんせ、『新<8a0f>の勝方』なんだからな〜[10][0c]「だが、そんな連中が / 　<88ad>雄なきまでに<8a7d>きのめされれば / 　どうなる？[10][0c]「それを知った共<8a7f>は / 　我らオデッサの力を<8a80>れ / 　<8a81>配を泣け入れざるをえまい〜[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @There's no need to pay
+ attention to...
+  4|RE : <<TODO>>
+
+[JP#5932] gaps=5  aln=MED->US#5798  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「だが、そんな連中が / 　<88ad>雄なきまでに<8a7d>きのめされれば / 　どうなる？[10][0c]「それを知った共<8a7f>は / 　我らオデッサの力を<8a80>れ / 　<8a81>配を泣け入れざるをえまい〜[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @If they're hostile toward us,
+ we should just let them be so.
+ They're |Allies of Justice.|@But what will happen
+ when they're beaten to a
+ pulp?@The masses who witness this will
+ fear Odessa's power. They'll have
+ no choice but to accept our power.
+  4|RE : <<TODO>>
+
+[JP#5933] gaps=3  aln=MED->US#5799  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「それを知った共<8a7f>は / 　我らオデッサの力を<8a80>れ / 　<8a81>配を泣け入れざるをえまい〜[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @But what will happen
+ when they're beaten to a
+ pulp?@The masses who witness this will
+ fear Odessa's power. They'll have
+ no choice but to accept our power.
+  4|RE : <<TODO>>
+
+[JP#5935] gaps=0  aln=HIGH->US#5802  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「だが、安じる必要はない / 　勉金の調達は / 　私にまかせておくがいい
+  2|LIT: <<TODO>>
+  3|EN : @But there's no need to
+ be concerned. Leave the
+ financing to me.
+  4|RE : <<TODO>>
+
+[JP#5936] gaps=3  aln=HIGH->US#5803  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「ＡＲＭＳの壊滅はおろか / 　ただのひとりも仕暮めることが / 　できなかった方家です[10][0c]「こちらの<8a8b><889b>状況は / 　対人怪獣同<8a8c>『タラスク』が大破 / 　さらに〜
+  2|LIT: <<TODO>>
+  3|EN : @Destroying the ARMS isn't
+ so simple. It appears not a
+ single person was killed.@Our casualty list reports
+ |Trask,| the anti-human
+ monster, as demolished.
+  4|RE : <<TODO>>
+
+[JP#5937] gaps=3  aln=HIGH->US#5804  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「こちらの<8a8b><889b>状況は / 　対人怪獣同<8a8c>『タラスク』が大破 / 　さらに〜
+  2|LIT: <<TODO>>
+  3|EN : @Our casualty list reports
+ |Trask,| the anti-human
+ monster, as demolished.
+  4|RE : <<TODO>>
+
+[JP#5939] gaps=2  aln=HIGH->US#5806  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「何が<89af><89b0>だッ！
+  2|LIT: <<TODO>>
+  3|EN : @How did it happen?
+  4|RE : <<TODO>>
+
+[JP#5940] gaps=11  aln=HIGH->US#5807  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=7
+  1|JP : 「報<8804>によると / 　活<89e0>とともに現われた / 　異<88e1>の『<888c>集胞』とありますが<f040><f042>[10][0c]「たしかに、その<8a91>間 / 　作戦ポイントより<8867><886e><886f>のエネルギー反<8839>が / 　確認されております
+  2|LIT: <<TODO>>
+  3|EN : @According to the report,
+ a grotesque |Black Knight|
+ appeared in a flash.@A high level energy source
+ registered at the battle
+ location at that time.
+  4|RE : <<TODO>>
+
+[JP#5941] gaps=5  aln=HIGH->US#5808  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「たしかに、その<8a91>間 / 　作戦ポイントより<8867><886e><886f>のエネルギー反<8839>が / 　確認されております
+  2|LIT: <<TODO>>
+  3|EN : @A high level energy source
+ registered at the battle
+ location at that time.
+  4|RE : <<TODO>>
+
+[JP#5943] gaps=11  aln=HIGH->US#5810  CONF=SHAKY unsolved=11  CONF=SHAKY unsolved=11
+  1|JP : 「<8a71><8a72>の運<8a93>勉金に / 　『ヘイムダル・ガッツォー』の / 　エネルギー確<8901>〜[10][0c]「それらに<8a94>えて / 　相対<8a95>力『ＡＲＭＳ』の<8a96>珍か〜 / 　誓<8810>は谷<8a98>みとなっとるわ[10][0c]「『悪の伝幸<8a71><8a72>』とは / 　かようにも大変なものなのだな〜 / 　ククク〜
+  2|LIT: <<TODO>>
+  3|EN : @With our operating funds,
+ secure energy for
+ the |Heimdal Gazzo.|@Then there's the |ARMS|
+ gaining influence.
+ We've got problems.@The |Secret Evil Society| is
+ so terrible.
+ Ha. Ha.
+  4|RE : <<TODO>>
+
+[JP#5944] gaps=7  aln=HIGH->US#5811  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「それらに<8a94>えて / 　相対<8a95>力『ＡＲＭＳ』の<8a96>珍か〜 / 　誓<8810>は谷<8a98>みとなっとるわ[10][0c]「『悪の伝幸<8a71><8a72>』とは / 　かようにも大変なものなのだな〜 / 　ククク〜
+  2|LIT: <<TODO>>
+  3|EN : @Then there's the |ARMS|
+ gaining influence.
+ We've got problems.@The |Secret Evil Society| is
+ so terrible.
+ Ha. Ha.
+  4|RE : <<TODO>>
+
+[JP#5945] gaps=2  aln=HIGH->US#5812  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「『悪の伝幸<8a71><8a72>』とは / 　かようにも大変なものなのだな〜 / 　ククク〜
+  2|LIT: <<TODO>>
+  3|EN : @The |Secret Evil Society| is
+ so terrible.
+ Ha. Ha.
+  4|RE : <<TODO>>
+
+[JP#5946] gaps=2  aln=HIGH->US#5813  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「圧倒的な戦力<8a9c>で / 　いっきにたたみ込めば / 　我らの<8a9d>利はまちがいない〜[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @Our victory is certain if
+ we exert pressure all at
+ once with our superior power.
+  4|RE : <<TODO>>
+
+[JP#5948] gaps=3  aln=HIGH->US#5815  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<88b2>力（ちから）も / 　お前も<f040><f042> / 　そして、ファルガイアも、この手に〜
+  2|LIT: <<TODO>>
+  3|EN : @Power,
+ you, and
+ Filgaia are all mine.
+  4|RE : <<TODO>>
+
+[JP#5949] gaps=7  aln=HIGH->US#5816  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「かねてより準備していた / 　『ガーディアン特友』を<89d8>行する / 　<8943>の少数の確<8901>を急げ[10][0c]「そして、もうひとつ<f040><f042>[10][0c]「〜今<8aa0>は / 　私の<89f5>にいろ〜
+  2|LIT: <<TODO>>
+  3|EN : @Execute |Operation Guardian|
+ as planned and put a rush on
+ getting hold of that boy.@Tonight,
+ I want you here with me.
+  4|RE : <<TODO>>
+
+[JP#5950] gaps=4  aln=MED->US#5817  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「そして、もうひとつ<f040><f042>[10][0c]「〜今<8aa0>は / 　私の<89f5>にいろ〜
+  2|LIT: <<TODO>>
+  3|EN : @Tonight,
+ I want you here with me.
+  4|RE : <<TODO>>
+
+[JP#5951] gaps=2  aln=HIGH->US#5817  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「〜今<8aa0>は / 　私の<89f5>にいろ〜
+  2|LIT: <<TODO>>
+  3|EN : @Tonight,
+ I want you here with me.
+  4|RE : <<TODO>>
+
+[JP#5952] gaps=1  aln=HIGH->US#5818  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「アンテノーラ / 　プラントの<8aa3>備を / 　お前に任せる
+  2|LIT: <<TODO>>
+  3|EN : @Antenora,
+ I'm leaving the
+ plant's defenses to you.
+  4|RE : <<TODO>>
+
+[JP#5953] gaps=0  aln=HIGH->US#5819  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「私は、トロメアと合流し / 　『ヘイムダル・ガッツォー』へと向かう / 　ここを頼んだぞ〜
+  2|LIT: <<TODO>>
+  3|EN : @I'll be joining Ptolomea and
+ heading for |Heimdal Gazzo.|
+ This place is in your hands.
+  4|RE : <<TODO>>
+
+[JP#5954] gaps=1  aln=HIGH->US#5820  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「私を<8aa6>と思うのなら / 　今ここで手にかけるがよい
+  2|LIT: <<TODO>>
+  3|EN : @If you think I'm your enemy,
+ kill me here and now.
+  4|RE : <<TODO>>
+
+[JP#5955] gaps=1  aln=HIGH->US#5821  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ただ今より / 　ＡＲＭＳ<88cc>撃の任にあたります
+  2|LIT: <<TODO>>
+  3|EN : @Right now, we're being
+ ambushed by the ARMS.
+  4|RE : <<TODO>>
+
+[JP#5956] gaps=0  aln=HIGH->US#5822  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : （まさか、[05]お / 　そんなことないよな…）
+  2|LIT: <<TODO>>
+  3|EN : (It can't be 1.
+ That's impossible....)
+  4|RE : <<TODO>>
+
+[JP#5957] gaps=1  aln=HIGH->US#5823  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「でもさ、なんか / 　わたしたちが<8aa2>るのが / 　分かってたみたいだよねッ！
+  2|LIT: <<TODO>>
+  3|EN : @But, you know it seems
+ like they were
+ expecting us!
+  4|RE : <<TODO>>
+
+[JP#5958] gaps=1  aln=HIGH->US#5824  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「まるで、俺たちが<8aa2>るのが / 　分かっていたみたいだ
+  2|LIT: <<TODO>>
+  3|EN : @It's almost as if
+ they expected us.
+  4|RE : <<TODO>>
+
+[JP#5960] gaps=1  aln=HIGH->US#5826  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「お前たちの / 　たくらみは俺たちが / 　<8988>止してみせるッ！
+  2|LIT: <<TODO>>
+  3|EN : @We're going to put a
+ stop to your schemes!
+  4|RE : <<TODO>>
+
+[JP#5961] gaps=0  aln=MED->US#5827  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だって、わたしが / 　あなたたちの前に / 　たちはだかるのですもの〜
+  2|LIT: <<TODO>>
+  3|EN : @Because I'm going to
+ stop you.
+  4|RE : <<TODO>>
+
+[JP#5962] gaps=2  aln=HIGH->US#5828  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「あなたたちの<8ab0>なんて / 　しょせんはその<8aad>度のものだったのね〜
+  2|LIT: <<TODO>>
+  3|EN : @After all, your bonds
+ are only so strong.
+  4|RE : <<TODO>>
+
+[JP#5963] gaps=9  aln=HIGH->US#5829  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=8
+  1|JP : 「負だけではなく / 　コピーした人間の<8937><89f1>や能力まで / 　すべてを<89f3>み取る無<8ab2>の怪人〜[10][0c]「あなたたちの情報険ては / 　『[05]お』の負をした / 　ドッペルゲンガーによって<8ab3>抜けだったのよ[10][0c]「私の殺ったドッペルゲンガーによって / 　<8a39>間に対して不信信を<8ab4>くあなたたちは / 　<888e>違以上に動<8ab5>してくれたわ
+  2|LIT: <<TODO>>
+  3|EN : @This formless monster steals
+ not only one's shape, but one's
+ memories and skills too.@The intelligence was
+ gathered by a doppelganger
+ in the form of |1.|@The doppelganger I sent in
+ has stirred up more distrust
+ than we had ever hoped.
+  4|RE : <<TODO>>
+
+[JP#5964] gaps=5  aln=HIGH->US#5830  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「あなたたちの情報険ては / 　『[05]お』の負をした / 　ドッペルゲンガーによって<8ab3>抜けだったのよ[10][0c]「私の殺ったドッペルゲンガーによって / 　<8a39>間に対して不信信を<8ab4>くあなたたちは / 　<888e>違以上に動<8ab5>してくれたわ
+  2|LIT: <<TODO>>
+  3|EN : @The intelligence was
+ gathered by a doppelganger
+ in the form of |1.|@The doppelganger I sent in
+ has stirred up more distrust
+ than we had ever hoped.
+  4|RE : <<TODO>>
+
+[JP#5965] gaps=4  aln=HIGH->US#5831  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「私の殺ったドッペルゲンガーによって / 　<8a39>間に対して不信信を<8ab4>くあなたたちは / 　<888e>違以上に動<8ab5>してくれたわ
+  2|LIT: <<TODO>>
+  3|EN : @The doppelganger I sent in
+ has stirred up more distrust
+ than we had ever hoped.
+  4|RE : <<TODO>>
+
+[JP#5966] gaps=1  aln=MED->US#5832  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<8894>くッ！
+  2|LIT: <<TODO>>
+  3|EN : @Now.
+  4|RE : <<TODO>>
+
+[JP#5967] gaps=6  aln=MED->US#5832  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「そうかもしれない / 　<f040><f042>いや、たしかにそうだッ！[10][0c]「一時とはいえ<8a39>間を<8aae>った / 　<8ab6>に戦った<8a39>間を信じ切れなかった[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @Now.
+  4|RE : <<TODO>>
+
+[JP#5968] gaps=4  aln=MED->US#5832  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「一時とはいえ<8a39>間を<8aae>った / 　<8ab6>に戦った<8a39>間を信じ切れなかった[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @Now.
+  4|RE : <<TODO>>
+
+[JP#5970] gaps=2  aln=MED->US#5832  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「お前たちに<8a64>しないためにッ！ / 　そして、俺らの<8ab0>のためにッ！
+  2|LIT: <<TODO>>
+  3|EN : @Now.
+  4|RE : <<TODO>>
+
+[JP#5971] gaps=2  aln=MED->US#5832  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8ab7>乗だ〜 / 　今回のミッションは失<893d>だッ！ / 　いったん招きあげようッ！
+  2|LIT: <<TODO>>
+  3|EN : @Now.
+  4|RE : <<TODO>>
+
+[JP#5972] gaps=1  aln=MED->US#5833  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「任務を<89d8>行する〜
+  2|LIT: <<TODO>>
+  3|EN : @Well, you may be right.
+ No, you are right!@I once mistrusted a friend...
+ I couldn't completely trust
+ someone I fought alongside of.
+  4|RE : <<TODO>>
+
+[JP#5973] gaps=3  aln=MED->US#5839  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「『バイツァダスト』は / 　使ってしまったんだ / 　どうやってプラントの<8ab8>破を<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @|Eat My Dust| has been
+ used, so how are you going
+ to blow up the plant?
+  4|RE : <<TODO>>
+
+[JP#5975] gaps=1  aln=MED->US#5840  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そいつが〜 / 　『ギアス』が<8a40>兄に / 　はずれるわけないだろうッ！
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#5976] gaps=6  aln=MED->US#5840  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「こいつは『バイツァダスト』と違って / 　<8ab8>発の<8aba>撃を<8abb><8aba><8abc>移させるなんて / 　気の利いたことはできないんだ[10][0c]「僕が<8aa8>心をブッ飛ばす前に / 　お前たちは / 　ここから急いで脱出しろ
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#5977] gaps=1  aln=MED->US#5841  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「僕が<8aa8>心をブッ飛ばす前に / 　お前たちは / 　ここから急いで脱出しろ
+  2|LIT: <<TODO>>
+  3|EN : @It...
+ the |Gias| won't
+ come off so easily!
+  4|RE : <<TODO>>
+
+[JP#5978] gaps=2  aln=MED->US#5842  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「どんな危機からも / 　脱してくるのも<8abd><8abe>だからな〜
+  2|LIT: <<TODO>>
+  3|EN : @It's not smart like
+ |Eat My Dust| --the bomb
+ can't be neutralized later on.@Before I blow up the plant,
+ you guys need to
+ get out of here.
+  4|RE : <<TODO>>
+
+[JP#5980] gaps=1  aln=MED->US#5846  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「また<8ac2>える〜 / 　必ず〜　必ずだッ！
+  2|LIT: <<TODO>>
+  3|EN : @We'll meet again.
+ Promise. I promise!
+  4|RE : <<TODO>>
+
+[JP#5982] gaps=0  aln=HIGH->US#5848  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「じきに僕もお前も / 　ギアスがブッ飛ばしてくれるんだ / 　おとなしく待っていろ
+  2|LIT: <<TODO>>
+  3|EN : @Soon, both you and I
+ will be blasted by Gias.
+ Be patient.
+  4|RE : <<TODO>>
+
+[JP#5983] gaps=0  aln=HIGH->US#5849  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...
+  4|RE : <<TODO>>
+
+[JP#5986] gaps=5  aln=HIGH->US#5852  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「なら、その<888a>にある / 　『<8ac7>の<888a>費』<f040><f042> / 　ギアスもオリジナルと同じなんだろ？[10][0c]「そいつを底りるぜッ！
+  2|LIT: <<TODO>>
+  3|EN : @So, that |dog collar|
+ around your neck
+ is the same as the real one?@I'm going to borrow it!
+  4|RE : <<TODO>>
+
+[JP#5987] gaps=0  aln=MED->US#5853  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そいつを底りるぜッ！
+  2|LIT: <<TODO>>
+  3|EN : @I'm going to borrow it!
+  4|RE : <<TODO>>

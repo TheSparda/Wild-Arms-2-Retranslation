@@ -1,0 +1,712 @@
+# WA2 INSERTION workspace US block 13 (US#3445-3558)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#3446] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#3526[HIGH]: ＊進みますか？[18]か || JP#3524[MED]: べ[ff]&[12]
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#3447] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#3527[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#3448] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#3528[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#3449] budget=74ch/3ln
+  NOW: If you have lost something,
+          then you should strive to
+          find something else.
+  JP : JP#3529[HIGH]: 「何かを無くしたのなら / 　そこから何かを / 　伝い上げるようにしなくては〜
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#3450] budget=55ch/2ln
+  NOW: Maybe time flows quicker for
+          objects that posses power?
+  JP : JP#3530[MED]: 「過ぎた力を持つということは / 　時間の流れが / 　泣りよりも<8894>くなるということなの？
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#3451] budget=72ch/3ln
+  NOW: When that happens, the miners
+          come out in full force to kill the
+          beasts.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#3452] budget=51ch/2ln
+  NOW: There must be new monsters
+          coming from somewhere...
+  JP : JP#3531[MED]: 「そんな時は / 　この場の渓<8a39>たちが仲出で / 　追い守いに行くんだけどね
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#3453] budget=68ch/3ln
+  NOW: But here in Holst, miners
+          learn how to fight as part
+          of their trade.
+  JP : JP#3533[MED]: 「ここホルストじゃ / 　戦いのやり方も / 　いっしょにおぼえなくちゃいけないんだよ[10][0c]「何てったって / 　ここは『奇跡渓谷』だからね || JP#3532[MED]: 「もしかして / 　どこからか、新しいモンスターが / 　やってきているのかしら〜
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#3454] budget=31ch/1ln
+  NOW: It's the |Ruins Mine,| you see.
+  JP : JP#3534[MED]: 「何てったって / 　ここは『奇跡渓谷』だからね
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#3455] budget=99ch/3ln
+  NOW: When you go far down the mine
+          shaft, stone walls begin to appear.
+          That's where the valuable ore is.
+  JP : JP#3535[MED]: 「<89cc>道を<892a>に<892b>んでいくと / 　歩中から<882d>い谷<8a40>が見えてくるそうです / 　兄<8875>のある渓谷は、その<
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#3456] budget=82ch/3ln
+  NOW: Unlike far Damzen City, they don't
+          mine ores, but Energy Crystals
+          stored in ruins.
+  JP : JP#3536[MED]: 「<8a10>いダムツェンのように<8a38><8844>の渓谷ではなく / 　奇跡に<8a43>えられたエネルギーの結来体を / 　<885f>り出しているん
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#3457] budget=69ch/3ln
+  NOW: We can't give up on this
+          planet while it's still
+          got life left on it.
+  JP : JP#3537[MED]: 「まだ、この星の命は終っちゃいねぇ〜 / 　みっともなくても / 　あがいてみるだけの兄<8875>はあるはずだ
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#3458] budget=64ch/2ln
+  NOW: And there are said to be abundant
+          resources there, such as ores.
+  JP : JP#3538[MED]: 「そこでは、渓谷をはじめ / 　いろんな戦<8869>が周<8a48>に<89bd>れるって話だ[10][0c]「そういう地<89f4>の終着帯を / 　レイポ
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#3459] budget=69ch/3ln
+  NOW: These energy collection points
+          within the earth are called
+          Raypoints.
+  JP : JP#3539[MED]: 「そういう地<89f4>の終着帯を / 　レイポイントと呼ぶらしい〜
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#3460] budget=45ch/2ln
+  NOW: We can't let ourselves feel
+          already defeated.
+  JP : JP#3540[HIGH]: 「そうしないと / 　考え方まで辺周仲をたどっちまうぜ
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#3461] budget=75ch/3ln
+  NOW: It might not just be a rumor
+          that Odessa is looking for
+          an energy source...
+  JP : JP#3541[HIGH]: 「だけどよ、オデッサのヤツらが / 　エネルギーを訪めているのは / 　あながちデマではないと思うぞ[10][0c]「渓<8a39>もテロリストも / 　<8a
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#3462] budget=70ch/3ln
+  NOW: Neither miners nor terrorists
+          can do very much on an empty
+          stomach....
+  JP : JP#3542[HIGH]: 「渓<8a39>もテロリストも / 　<8a4c>が空いていると / 　力が入らないのはいっしょだからな
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#3463] budget=64ch/2ln
+  NOW: There's a rumor that the terrorists
+          are after this town's ore...
+  JP : JP#3543[HIGH]: 「テロリストがこの場の渓谷を / 　ねらっているってウワサ〜[10][0c]「だけど、所<8a4d>はシロートよ / 　連中のねらいは / 　この場の[11]お
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#3464] budget=76ch/3ln
+  NOW: They're amateurs, though.
+          They're after the mine to the
+          1northeast0 of town.
+  JP : JP#3544[HIGH]: 「だけど、所<8a4d>はシロートよ / 　連中のねらいは / 　この場の[11]お北側にある[11]ぉ<89cc>道〜[10][0c]「新しくは / 　[11
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3465] budget=82ch/3ln
+  NOW: Or should I say the OLD mine that
+          used to operate on the
+          1northeast0 side of town.
+  JP : JP#3545[HIGH]: 「新しくは / 　[11]おこの場の北側[11]ぉにあった好<89cc>道を / 　ねらっているみたいなんだな[10][0c]「すでに<89cf>恥された / 
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#3466] budget=73ch/3ln
+  NOW: Seems to me that going after
+          an old closed-down mine is
+          pretty foolish...
+  JP : JP#3546[MED]: 「すでに<89cf>恥された / 　好<89cc>道をねらうなんて / 　まぬけというか、何というか〜
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#3467] budget=65ch/3ln
+  NOW: You have to get there by
+          boat from the north shore of
+          the island.
+  JP : JP#3547[MED]: 「一度、<89d3>に<8a52>って / 　この他の北の農村から / 　向かわなくてはいけないのだ
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#3468] budget=99ch/3ln
+  NOW: Don't think too much, just do lots
+          of physical labor. Becoming a
+          terrorist will never occur to you.
+  JP : JP#3548[MED]: 「<8a53>しいことなんて考えないで / 　カラダだけを動かしていれば / 　テロなんて起こす気にもならないもんだ
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#3469] budget=92ch/3ln
+  NOW: Those who don't do physical labor
+          come up with strange ideas...
+          then they lose all morality!
+  JP : JP#3549[MED]: 「カラダを勉えてないヤツが / 　アタマだけで考えてるから / 　<8a55>性まがってしまうんだッ！
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#3470] budget=56ch/2ln
+  NOW: Just the other day I kicked a
+          bomb maniac out of my inn.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#3471] budget=38ch/2ln
+  NOW: A dream come true.
+          Right, little miss?
+  JP : JP#3550[MED]: 「このあいだも / 　マニアな<8a5a><89b9>モノを / 　復<8a5c>から茶き出してやったわい
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#3472] budget=95ch/3ln
+  NOW: ...And Filgaia will never feel the
+          light of the sun again. No, I
+          can't let myself believe that!
+  JP : JP#3551[MED]: 「守のようだろ？ / 　お<8a61>ちゃん
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3473] budget=47ch/2ln
+  NOW: I've never seen anything like this
+          sky, though.
+  JP : JP#3552[MED]: 「そして、終りが<8a64>れるのは / 　ファルガイアの未乗〜 / 　<f040><f042>なんてことはないだろうな〜
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#3474] budget=52ch/2ln
+  NOW: I'll leave Odessa up to others,
+          thank you very much!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#3475] budget=97ch/3ln
+  NOW: Us miners are all scrappers, so
+          they wouldn't get away with their
+          skins, if you know what I mean!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#3476] budget=87ch/3ln
+  NOW: But there's no place to dock a ship
+          close by, so it's difficult to
+          export what we mine.
+  JP : JP#3553[MED]: 「〜だけど / 　こんな空<8920>方は見たことがねぇ〜
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#3477] budget=70ch/3ln
+  NOW: 1. Narrow, dark places have good
+          ore!
+          2. Never walk away from a fight!
+  JP : JP#3554[MED]: 「オデッサを相手にするのは / 　もう、けっこうだよ
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#3478] budget=84ch/3ln
+  NOW: We can't see into the future
+          of Filgaia, either...
+          What will happen to us, I wonder?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#3479] budget=99ch/3ln
+  NOW: Sometimes when you start a fight,
+          you don't know how to back out
+          of it without losing face. I know.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#3480] budget=18ch/1ln
+  NOW: I bet that was it!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#3481] budget=76ch/3ln
+  NOW: I forget who it was that said that,
+          but the description fits all too
+          well...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3482] budget=69ch/3ln
+  NOW: Something I first realized
+          when they came attacking my
+          own village...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#3483] budget=61ch/2ln
+  NOW: There are fierce monsters that
+          inhabit the area around Holst.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#3484] budget=66ch/2ln
+  NOW: That's because in Holst you have
+          to be able to deal with monsters.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=66 chars, 2 line(s), <=35/line>>
+
+[US#3485] budget=44ch/2ln
+  NOW: The chaos is what people here
+          love about it.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#3486] budget=96ch/3ln
+  NOW: If you can mine and watch your back
+          for monsters at the same time,
+          then you're set in this town!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#3487] budget=86ch/3ln
+  NOW: We can still do something to save
+          ourselves! Now is the time to
+          fight, not to give in!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#3488] budget=45ch/2ln
+  NOW: You all are fighting to protect
+          Filgaia, too?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#3489] budget=58ch/2ln
+  NOW: Defenders of Justice like us
+          should stick together, right?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#3490] budget=76ch/3ln
+  NOW: ...Filgaia is waiting - hoping -
+          for someone to step forward
+          and protect it.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3491] budget=44ch/3ln
+  NOW: Yes...
+          A Defender of Justice like me,
+          right?
+  JP : JP#3555[HIGH]: 「なんせ、僕たち渓<8a39> / 　険<8a39>が<8a67>自魂ときたもんだ / 　ケガじゃあ、すまないぜ
+  FIT: <<TODO — <=44 chars, 3 line(s), <=35/line>>
+
+[US#3492] budget=34ch/1ln
+  NOW: It won't all end like this, right?
+  JP : JP#3556[HIGH]: 「ただ、<89d3>を<8a6a>せる / 　農村が近くに無いから / 　<8a6b>出に不勇なのがイタイな
+  FIT: <<TODO — <=34 chars, 1 line(s), <=35/line>>
+
+[US#3493] budget=61ch/2ln
+  NOW: Only children can dream about
+          the future so freely, you know.
+  JP : JP#3557[HIGH]: 「その１　暗いの、姿いの<8a71>がらないッ！ / 　その２　ケンカに<8a72>けるなッ！ / 　その３　じゃまな基には発破をかけろッ！
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#3494] budget=98ch/3ln
+  NOW: We must do something now, or
+          regret our inaction later! We boys
+          and girls won't be bullied around!
+  JP : JP#3558[HIGH]: 「ファルガイアの未乗だって / 　これっぽっちも見えやしない〜 / 　どうなっちまうんだろう〜
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#3495] budget=77ch/3ln
+  NOW: Do not fear, though.
+          I will become a Defender of Justice
+          and protect you all!
+  JP : JP#3559[MED]: 「ケンカをおっぱじめてから / 　協り上げた<8a77>の周ろす先に / 　勝っちまうことってあるだろ？[10][0c]「そういうもんじゃなかったのかな？
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#3496] budget=86ch/3ln
+  NOW: The force from the explosives
+          drives a metal stake into the
+          stone and splits it apart.
+  JP : JP#3560[MED]: 「そういうもんじゃなかったのかな？
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#3497] budget=64ch/3ln
+  NOW: That's so cool...
+          I wish I were a grown-up so
+          I could use one...
+  JP : JP#3561[MED]: 「どこの誰が / 　言い出しっぺなのか忘れたけど / 　実に言いえて<8a22>だな〜
+  FIT: <<TODO — <=64 chars, 3 line(s), <=35/line>>
+
+[US#3498] budget=81ch/3ln
+  NOW: I know it doesn't mean
+          much, but it makes me feel better
+          until the danger passes.
+  JP : JP#3562[MED]: 「<f040><f042>って、自分の場が<8a0a>われて / 　やっと実信できたな〜
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#3499] budget=68ch/2ln
+  NOW: We adults can't even guarantee our
+          children a world to grow up in...
+  JP : JP#3563[MED]: 「ホルストの渓<89f4>には / 　おっかないモンスターがいっぱいだ
+  FIT: <<TODO — <=68 chars, 2 line(s), <=35/line>>
+
+[US#3500] budget=56ch/2ln
+  NOW: That's what I pray for, but when
+          I look up at the sky...
+  JP : JP#3564[MED]: 「ホルストじゃ / 　モンスター相手に<8a67>っぷしも / 　必要とされるからな
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#3501] budget=49ch/2ln
+  NOW: It's the weak people, the
+          bystanders. Am I wrong?
+  JP : JP#3565[MED]: 「ホルストは / 　<88ad>険自由<89bd><885f>が大きな簡<8a80>なのさ[10][0c]「つまり、モンスターがうようよいる渓<89f4>で /
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#3502] budget=88ch/3ln
+  NOW: But it seems to me that the
+          light of your goodness only
+          makes Odessa's shadow blacker...
+  JP : JP#3568[MED]: 「みなさんも / 　ファルガイアを<8a81>る / 　新<8a0f>の<8a84>方だったんですね[10][0c]「これからは / 　お<8a85>い、新<8 || JP#3566[MED]: 「つまり、モンスターがうようよいる渓<89f4>で / 　自分の身を<8a81>りつつ、<89bd><885f>ができるヤツに / 　どーんと開殺しているんだ
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#3503] budget=76ch/3ln
+  NOW: What happens to us when
+          darkness and light destroy
+          everything in their path?
+  JP : JP#3569[MED]: 「これからは / 　お<8a85>い、新<8a0f>の<8a84>方同胞 / 　<8a86>力していきましょうッ！
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3504] budget=94ch/3ln
+  NOW: I cannot forgive them, but neither
+          can I do anything against them.
+          What are weak people to do?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#3505] budget=62ch/2ln
+  NOW: But you can't go unnoticed
+          from Holst to the Aguel Mine Shaft.
+  JP : JP#3585[MED]: 「でも、ホルストの場中にある / 　アグエル<89cc>道に向かうには / 　たくさんの人目についてしまいます[10][0c]「ねらうとすれば / 　かつて<8
+  FIT: <<TODO — <=62 chars, 2 line(s), <=35/line>>
+
+[US#3506] budget=80ch/3ln
+  NOW: If they were after something, it
+          would more likely be the old unused
+          mine shaft.
+  JP : JP#3570[MED]: 「ファルガイアは今〜 / 　新<8a0f>の<8a84>方の安場を / 　暮んでいるんじゃないかって[10][0c]「<f040><f042>そう〜 / 　ボク
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3507] budget=84ch/3ln
+  NOW: It's because of adults that
+          children go to war. Something is
+          wrong with the world...
+  JP : JP#3589[HIGH]: 「まさか、うちの家も / 　渡り<8a7f>になってしまうんじゃ〜 || JP#3571[LOW]: 「<f040><f042>そう〜 / 　ボクのような新<8a0f>の<8a84>方を、ね〜
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#3508] budget=82ch/3ln
+  NOW: I can't do anything but worry about
+          the future of Filgaia. My children,
+          you see...
+  JP : JP#3590[HIGH]: 「だからエネルギー渓谷だなんて / 　不思議なものが / 　<89bd>れるんでしょうね〜
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#3509] budget=57ch/2ln
+  NOW: I wonder if my son will become
+          a Merc, too? I hope not...
+  JP : JP#3591[HIGH]: 「どうしてみんな / 　そんな<8ab6><8ab7>なことに / 　気がつかないのかな？
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#3510] budget=56ch/2ln
+  NOW: That's why Energy Crystals are
+          there in the first place.
+  JP : JP#3592[HIGH]: 「〜でも、お<8ab8>さん以外を / 　<8a81>りきれる自信は、ちょっと無いかも〜
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#3511] budget=48ch/2ln
+  NOW: Why doesn't everybody realize
+          this simple thing?
+  JP : JP#3593[MED]: 「ボクはね / 　お<8ab8>さんに、何て言っていいのかが / 　見つからないよ〜
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#3512] budget=60ch/2ln
+  NOW: I'm not sure if I can protect
+          anybody besides her, though...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#3513] budget=32ch/1ln
+  NOW: I don't know what to tell her...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=32 chars, 1 line(s), <=35/line>>
+
+[US#3514] budget=60ch/2ln
+  NOW: 'Cause...if I started crying...then
+          Mama would too for sure!
+  JP : JP#3594[HIGH]: 「だって、ボクが<8ab9>いちゃうと / 　お<8ab8>さんまで / 　<8ab9>いちゃうかもしれないからね
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#3515] budget=61ch/3ln
+  NOW: Mama worries a lot...
+          It's alright, though.
+          I'll protect her.
+  JP : JP#3595[HIGH]: 「お<8ab8>さんは心配性だなぁ〜 / 　だいじょうぶ / 　ボクが<8a81>ってあげるから
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#3516] budget=49ch/2ln
+  NOW: I guess it's not because they heard
+          I was bad...?
+  JP : JP#3596[HIGH]: 「ひょっとして / 　ボクがあんまりかわいいから〜？
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#3517] budget=66ch/3ln
+  NOW: But the thing that might be
+          our real treasure isn't buried
+          at all.
+  JP : JP#3597[HIGH]: 「でも、ボクたちの / 　<8aba>物になりそうなものは / 　<89db>まっていないみたいなんだよ[10][0c]「<8894>くオトナになりたいな
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#3518] budget=24ch/1ln
+  NOW: I want to grow up quick!
+  JP : JP#3598[HIGH]: 「<8894>くオトナになりたいな
+  FIT: <<TODO — <=24 chars, 1 line(s), <=35/line>>
+
+[US#3519] budget=79ch/3ln
+  NOW: All the men say they have lots of
+          fun digging for crystal and killing
+          monsters.
+  JP : JP#3599[MED]: 「おじさんたちは、渓谷を<885f>り出したり / 　モンスターをぶちのめしたりして / 　<8945><8a7a>者な生活をマンキツしてるんだって
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#3520] budget=54ch/2ln
+  NOW: There's some Aguelite there to be
+          mined, but not much.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#3521] budget=96ch/3ln
+  NOW: It's different than the ruin that
+          lies underneath this town, so it
+          could hold a new discovery...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#3522] budget=22ch/1ln
+  NOW: I really want to help!
+  JP : JP#3600[MED]: 「そこからは / 　エネルギー渓谷『アグエライト』が / 　わずかだけれど<89bd>れるぞ
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#3523] budget=74ch/3ln
+  NOW: I bet the <Sword Magess> could do
+          something to get rid of this
+          cursed sky!
+  JP : JP#3603[MED]: 「この異世な空〜 / 　＜<8a88>の<8ac5>昔＞なら / 　何とかしてくれるのだろうか〜 || JP#3601[MED]: 「この他の地辺に<89bb>っている奇跡とは / 　少し<8ac4>が違うので / 　ひょっとしたら、新しい発見があるかも？
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#3524] budget=32ch/1ln
+  NOW: Some people are easily deceived.
+  JP : JP#3604[MED]: 「勝った人たちです
+  FIT: <<TODO — <=32 chars, 1 line(s), <=35/line>>
+
+[US#3525] budget=68ch/2ln
+  NOW: I can't imagine the whole inside
+          of the mountain being one big ruin!
+  JP : JP#3605[MED]: 「谷の中険体が奇跡だなんて / 　なんか違費もつかないですけどね
+  FIT: <<TODO — <=68 chars, 2 line(s), <=35/line>>
+
+[US#3526] budget=89ch/3ln
+  NOW: They're mining the Energy Crystals
+          from the old ruins as ore.
+          It's like petrified energy.
+  JP : JP#3606[HIGH]: 「その<8ac7>の奇跡にあるエネルギーの結来を / 　渓谷として<885f>り底してるらしいです / 　いうなればエネルギーの合谷ですかねぇ
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#3527] budget=77ch/3ln
+  NOW: But if you're going to be doing
+          mining in Holst, you'll need
+          some explosives.
+  JP : JP#3607[HIGH]: 「<f040><f042>でも〜 / 　ホルストで<89bd><885f>をするつもりなら / 　発破のひとつは必要さ
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#3528] budget=90ch/3ln
+  NOW: There are places called Raypoints
+          where the veins and arteries
+          of the earth come together.
+  JP : JP#3608[HIGH]: 「何でも、地<89f4>の<8880>中しているポイントで / 　そこは、レイポイントと呼ばれる / 　ファルガイアのヘソみたいな所と聞くぜ
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#3529] budget=33ch/1ln
+  NOW: My life hasn't changed that much.
+  JP : JP#3609[HIGH]: 「僕の生活は、何も変わらないよ
+  FIT: <<TODO — <=33 chars, 1 line(s), <=35/line>>
+
+[US#3530] budget=55ch/2ln
+  NOW: They're ruthless, you see.
+          They don't follow the rules.
+  JP : JP#3610[MED]: 「あいつら、ルール無用で / 　ムチャクチャやりやがる〜
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#3531] budget=56ch/2ln
+  NOW: Yes, there was a small one to the
+          1NE of town0, I think.
+  JP : JP#3611[MED]: 「そう、[11]お場の北側[11]ぉにも / 　小さな渓<89f4>があったはずだ[10][0c]「でも、あんまりいい渓谷が<89bd>れないし / 　いちいち
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#3532] budget=87ch/3ln
+  NOW: But there's not much to be mined,
+          and you have to use a boat,
+          so no one's using it now.
+  JP : JP#3613[MED]: 「誰かが、渓<89f4>のモンスターは / 　奇跡の中から出て乗たって言ってたけど〜 / 　そういうものなのかな？ || JP#3612[MED]: 「でも、あんまりいい渓谷が<89bd>れないし / 　いちいち<89d3>に<8a52>らなきゃいけないので / 　今は<89cf>ざされてしまったよ
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#3533] budget=90ch/3ln
+  NOW: Someone once said that the monsters
+          were coming out of the ruins...
+          I wonder if it's true?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#3534] budget=57ch/2ln
+  NOW: He thought he could do anything
+          with enough explosives...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#3535] budget=69ch/2ln
+  NOW: He even exploded some in the inn!
+          Got kicked out for it, of course...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=69 chars, 2 line(s), <=35/line>>
+
+[US#3536] budget=39ch/2ln
+  NOW: That's why everyone calls him
+          a maniac.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=39 chars, 2 line(s), <=35/line>>
+
+[US#3537] budget=74ch/3ln
+  NOW: Our rate is  Gella per
+          person a night. For  people,
+          that would be  Gella.2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#3538] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#3614[MED]: 「発破があると / 　<89bd><885f>に何かと勇利だからな / 　活<8ad3>を<8ad4>待されてたんだが〜[10][0c]「そいつ、復<8a5c>
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#3539] budget=101ch/3ln
+  NOW: *The old civilization was adept at
+          extracting and refining crystals.
+          They're all under the ruins now.
+  JP : JP#3615[MED]: 「そいつ、復<8a5c>の中でも / 　発破を望発させるくらいのマニアだったから / 　あっというまに茶き出されたんだ[10][0c]「これだから、マニアってよ
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#3540] budget=99ch/3ln
+  NOW: *Thus, we are rapidly approaching
+          the point where the ruins won't
+          yield any crystals to the miners.
+  JP : JP#3619[MED]: ＊これは、多くの渓谷は / 　好世代の<8ae8>次によって<8ae9>出・<88ea><8aea>され / 　それが奇跡と共に<89db>まったと考えられる[ || JP#3616[MED]: 「これだから、マニアってよ〜
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#3541] budget=101ch/3ln
+  NOW: *However, since these crystals are
+          already refined, they are up to
+          100 X purer than the natural kind.
+  JP : JP#3621[MED]: ＊しかし、<8aee>に<88ea><8aea>されているものだけに / 　その<8aef>度は、自<8844>渓谷での<8af0>出物に<8876>べ / 　 || JP#3620[MED]: ＊それ<8808>に、奇跡<8aeb>渓谷で発<885f>される渓谷は / 　その<8aec>作<886f>も自ずと<8aed>界が<8894>く<8a64>れ
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#3542] budget=97ch/3ln
+  NOW: *Many mines have closed recently,
+          and more face the same fate, so
+          new mines need to be developed.
+  JP : JP#3622[MED]: ＊ここ年数で、いくつもの渓谷が<89cf>谷し / 　今後も、<89cf>谷する渓谷も<8af3>えていくだろう / 　<8af4>方<8af5>から、新<8a
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#3543] budget=96ch/3ln
+  NOW: *Bombs may be used to blast open
+          wooden boxes or destroy walls that
+          already have cracks in them.
+  JP : JP#3623[MED]: ＊ボムを望発させることによって / 　<8afa><8afb>やヒビの入った<8a40>などを / 　破滅することができます
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#3544] budget=103ch/3ln
+  NOW: Her illness is very interesting,
+          uh... I meant severe! I don't want
+          to leave her in anyone else's care.
+  JP : JP#3624[MED]: 「そのような<8afd><8858>な<f040><f042> / 　もとい、簡単な<8ae4><8943>を / 　他のヤツにはまかせておけぬわ
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#3545] budget=91ch/3ln
+  NOW: Victor-Series bionic implants
+          are based on living bodies, so
+          misuse is expressly forbidden.
+  JP : JP#3625[MED]: 「ヴィクトール<8a9a>の<8a0f>体（シルエット）は / 　生体がベースになっておるからな / 　過<8b01>な無理は<8ae3>物じゃぞ〜
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#3546] budget=98ch/3ln
+  NOW: As a <Sword Magess> descendant,
+          I needed to get that power even if
+          it meant giving up my own body.
+  JP : JP#3626[MED]: 「たとえ、自分のカラダを<8b05>ててでも / 　力を手に入れなければならなかった〜 / 　あたしは＜<8a88>の<8ac5>昔＞の<8b06>を招くものだ
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#3547] budget=61ch/2ln
+  NOW: If I didn't do this much, I would
+          not have become self-aware.
+  JP : JP#3627[MED]: 「こうでもしなければ / 　あたしは、その存帰意<8a0f>が見当たらないのだ[10][0c][17]
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#3549] budget=27ch/1ln
+  NOW: 5, I'll leave her with you!
+  JP : JP#3629[MED]: 「[05]ぎ、すまないが / 　彼昔のこと頼んだ
+  FIT: <<TODO — <=27 chars, 1 line(s), <=35/line>>
+
+[US#3550] budget=93ch/3ln
+  NOW: You have Defenders of Justice to
+          protect you, which gives miscreants
+          like me reason to exist.
+  JP : JP#3630[MED]: 「あなた方、新<8a0f>の<8a84>方がいるから / 　俺のような、おちゃめさんも / 　存帰する理由があるのですから〜[10][0c][17]
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#3552] budget=98ch/3ln
+  NOW: Because of who I am - descendant
+          of the <Sword Magess> -  I do need
+          enemies such as you to defeat.
+  JP : JP#3632[MED]: 「そう、あたしがあたしであること〜 / 　＜<8a88>の<8ac5>昔＞の<8b11><8b12>であるためには / 　お前のように倒すべき存帰が必要だ[10
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#3553] budget=62ch/2ln
+  NOW: A Hero only becomes a Hero in
+          battle, which is where I belong.
+  JP : JP#3633[MED]: 「戦いの中に / 　『<8b07><8b08>』はある〜 / 　戦場こそ、あたしの<8b13>場所だッ！
+  FIT: <<TODO — <=62 chars, 2 line(s), <=35/line>>
+
+[US#3554] budget=26ch/1ln
+  NOW: It will start VERY soon...
+  JP : JP#3634[MED]: 「まもなく / 　はじまりますよ〜[10][0c]「クックック〜
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#3555] budget=11ch/1ln
+  NOW: Ha ha ha...
+  JP : JP#3635[MED]: 「クックック〜
+  FIT: <<TODO — <=11 chars, 1 line(s), <=35/line>>
+
+[US#3556] budget=53ch/2ln
+  NOW: We should fight together,
+          4. We are comrades-in-arms.
+  JP : JP#3636[MED]: 「共に戦おう[05]き / 　俺たちは<8b19>間なんだ
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#3558] budget=80ch/3ln
+  NOW: Let's get back to the Valeria
+          Chateau for now. We can't heal
+          anything here well.
+  JP : JP#3638[LOW]: 「とにかく、ヴァレリアシャトーまで戻るぞ / 　ここではまともな分<8afc>も<88e4>せぬ || JP#3639[LOW]: 「共に戦おう[05]き / 　俺たちは<8b19>間なんだ
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>

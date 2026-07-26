@@ -1,0 +1,214 @@
+# WA2 INSERTION — ENDGAME CLIMAX — JP-FAITHFUL, DISPLAY-WINDOW BUDGET
+# =========================================================================================
+# Two endgame beats:
+#   PART A (blk 91) = Brad's final blow on Vinsfeld Rhadamanthus (his personal vengeance line).
+#                     NOTE: this box repeats 6x in-file (7594-7628) = one per party member's
+#                     variant / camera cut; translate ONCE, applies to all copies.
+#   PART B (blk 92) = The Sword Magess's revelation: what Lord Blazer is, and the game's thesis
+#                     that "desire" (願い / 生きようとする力) — not sacrifice — saved Filgaia.
+#                     This is the thematic heart of WA2. Mostly HIGH-confidence alignment.
+#
+# POLICY: translate from JAPANESE; EN only for unsolved kanji. NO em dashes / "--" (use commas,
+# periods, ellipses; JP uses 〜 and …). Sized to display window (<=5 ln x ~35 ch) => grow-to-
+# window (repointer) patch. {n} = player-name codes, keep verbatim.
+# CONF: [OK] solid · [FAIR] sense reliable, wording inferred · [SHAKY] garbled JP, verify.
+# =========================================================================================
+
+################## PART A — BRAD'S FINAL BLOW ON VINSFELD (blk 91) ##################
+# (US#7594-7598; identical copies at 7600-7628 — translate once, replicate to all.)
+
+[US#7594] [SHAKY]  (MED, 5 unsolved: 斬られた/傷痕/許して)
+  JP : 「お前に斬られた傷痕の… / この『ギアス』が / まだ死ぬことを許してくれないのでな
+  LIT: The scar you cut into me... this "Gias" still won't permit me to die.
+  EN : The scar you gave me... This |Gias| around my neck won't let me die yet.
+  RE : This scar you cut into me...
+       the |Gias| in it still
+       won't let me die.
+
+[US#7595] [FAIR]  (MED, 2 unsolved: 繋られて)
+  JP : 「こいつに繋がれているあいだ / 僕は何度でも帰ってくる
+  LIT: As long as I'm bound to this thing, I'll come back, again and again.
+  EN : As long as I'm chained to this, I'm coming back as often as I can.
+  RE : As long as I'm bound to it,
+       I'll come back, again
+       and again.
+
+[US#7596] [FAIR]  (MED, 2 unsolved: 意志/消えない)
+  JP : 「そうだ〜 / 　『英雄』は死なないッ！ / 　戦う意志が消えないかぎりッ！
+  LIT: That's right. A "hero" does not die! Not so long as the will to fight never fades!
+  EN : That's right. |Heroes| don't die! As long as they have the will to fight.
+  RE : That's right. A |hero|
+       never dies, so long as
+       the will to fight endures!
+
+[US#7597] [FAIR]  (MED, 2 unsolved: 過去/決別)
+  JP : 「この一撃は / 過去への決別〜 / スレイハイム解放軍の一撃ッ！
+  LIT: This strike is my break with the past. A blow for the Slayheim Liberation Army!
+  EN : This blow is my farewell to the past. It's a blow for the Slayheim Liberation Army!
+  RE : This blow breaks me
+       from the past. A blow for the
+       Slayheim Liberation Army!
+
+[US#7598] [FAIR]  (MED, 1 unsolved: 狼煙/合図)
+  JP : 「そして、新たなる戦いの合図だッ！ / 受けとるがいい〜 / ヴィンスフェルト・ラダマンテュスッ！
+  LIT: And a signal for new battles to come! Take it, Vinsfeld Rhadamanthus!
+  EN : It's a beacon for new battles! Take this, Vinsfeld Rhadamanthus.
+  RE : And the signal for battles
+       to come! Take it,
+       Vinsfeld Rhadamanthus!
+
+################## PART B — THE SWORD MAGESS'S REVELATION (blk 92) ##################
+
+[US#7636] [OK]  (HIGH, 1 unsolved)
+  JP : 「今、あなたの中に存在しているのは / かつて、世界を焼き尽くさんとした / 災いの魔神ロードブレイザーよ〜
+  LIT: What dwells inside you now is Lord Blazer, the demon of calamity that once sought to burn the world away.
+  EN : That which is within you now is Lord Blazer, the Blazing Demon who once tried to consu[me the world.]
+  RE : What dwells in you now is
+       Lord Blazer, the demon of
+       calamity that once sought
+       to burn the world away.
+
+[US#7637] [OK]  (HIGH, 1 unsolved)
+  JP : 「それまで、剣の修行はおろか / 触れたことだってなかった / ただの普通の娘だったのよ
+  LIT: Until then I was just an ordinary girl, one who had never trained with a sword, never even touched one.
+  EN : I was just an ordinary girl who until then believed sword training was dumb. I'd never [touched one.]
+  RE : Until then I was just
+       an ordinary girl. I'd never
+       trained with a sword,
+       never even touched one.
+
+[US#7638] [OK]  (HIGH, 1 unsolved)
+  JP : 「でもそれは / 『勝ちたい』という気持ちじゃなかった
+  LIT: But it wasn't out of a wish to "win".
+  EN : But it wasn't because I wanted to |win.|
+  RE : But it wasn't from
+       a wish to |win|.
+
+[US#7639] [FAIR]  (MED, 1 unsolved)
+  JP : 「大切きな人たちを / 失いたくない気持ち〜
+  LIT: It was the wish not to lose the people dear to me.
+  EN : It was because I didn't want to lose the people I loved.
+  RE : It was that I couldn't bear
+       to lose the people
+       dear to me.
+
+[US#7640] [OK]  (HIGH, 1 unsolved)
+  JP : 「そして、わたし自身 / 死ぬのは嫌〜 / 死にたくないって、強く念んでいたわ
+  LIT: And I myself hated the thought of dying. I wished, hard, that I would not die.
+  EN : Besides, I personally hate death. I really didn't want to die.
+  RE : And I myself hated
+       the thought of dying. I wished,
+       hard, that I wouldn't.
+
+[US#7641] [OK]  (HIGH, 0 unsolved)
+  JP : 「フフッ、これじゃあ / 挑昔失格ね
+  LIT: Heh. That alone disqualifies me as a Magess.
+  EN : Well, that disqualifies you as a Magess.
+  RE : Heh. That alone leaves me
+       unfit to be a Magess.
+
+[US#7642] [OK]  (HIGH, 0 unsolved)
+  JP : 「世界のことなんかよりも / わたしと、わたしの周りのことばかり / 考えていたわ
+  LIT: More than the world, all I thought about was myself and those close to me.
+  EN : Rather than worrying about the world, I was thinking of myself and my [family.]
+  RE : More than the world, all
+       I thought of was myself
+       and those close to me.
+
+[US#7643] [SHAKY]  (HIGH, 3 unsolved: 血/資格/意味)
+  JP : 「ヴァレリア家の血を継いでいることなんかに / 『資格』である意味なんて / これっぽっちもないわよ
+  LIT: Carrying the blood of the Valeria family gives no "qualification", none at all.
+  EN : Because I have the blood of the Valeria family doesn't make me a |he[ro.]|
+  RE : Carrying Valeria blood
+       gives no |qualification|,
+       none whatsoever.
+
+[US#7644] [OK]  (HIGH, 1 unsolved)
+  JP : 「わたしの家族だからといって / 誰かひとりでも / アガートラームが手にできたのかしら？
+  LIT: Just for being my family, could even one of them ever wield the Argetlahm?
+  EN : Was anyone else in my family able to get hold of the Argetlahm?
+  RE : For being my family, could
+       even one of them ever
+       wield the Argetlahm?
+
+[US#7645] [FAIR]  (MED, 1 unsolved)
+  JP : 「ヴァレリアの血に / 何の意味も無いのよ〜
+  LIT: There is no meaning in Valeria blood at all.
+  EN : There's no significance in the blood of the Valeria Family.
+  RE : There is no meaning
+       in Valeria blood at all.
+
+[US#7646] [FAIR]  (MED, 0 unsolved)
+  JP : 「い、今、なんて〜
+  LIT: J-just now... what did you say?
+  EN : Just now...you said...
+  RE : J-just now... what
+       did you say?
+
+[US#7648] [OK]  (HIGH, 2 unsolved: 未来)
+  JP : 「ロードブレイザーに未来を失っても / わたしは / 生きることをあきらめきれなかったの
+  LIT: Even after Lord Blazer robbed me of all future, I couldn't give up on living.
+  EN : Even though Lord Blazer killed all hope, I never lost the desire to [live.]
+  RE : Even after Lord Blazer
+       stole my future, I couldn't
+       give up on living.
+
+[US#7650] [FAIR]  (HIGH, 2 unsolved: 遊びたかった)
+  JP : 「だって、おいしいものだって / たくさん食べたかったし / おともだちと遊びたかったわ
+  LIT: Because I still wanted to eat lots of good food, and play with my friends.
+  EN : I mean, I still wanted to eat lots of good food and have fun with my [friends.]
+  RE : I still wanted to eat
+       good food, and to play
+       with my friends.
+
+[US#7651] [FAIR]  (HIGH, 1 unsolved: 手放したくなかった)
+  JP : 「カンタンに / 『生きる』ことを手放したくなかったの
+  LIT: I didn't want to let go of "living" so easily.
+  EN : I didn't want to let go of |life| so easily.
+  RE : I didn't want to let go
+       of |living| so easily.
+
+[US#7652] [FAIR]  (HIGH, 1 unsolved: 願い)
+  JP : 「それが、わたしにあった『簡単』〜 / わたしが手にした力 / それは、『願い』だったのかもしれない
+  LIT: That was what I had. The power I took hold of, perhaps it was "desire".
+  EN : That's what was |special.| I think my power was from |desire.|
+  RE : That was what I had. The power
+       I took hold of, perhaps
+       it was |desire|.
+
+[US#7656] [SHAKY]  (HIGH, 7 unsolved: 願い/意志)
+  JP : 「わたし、思うんだけど / 『願い』って / 生きようとする意志の力じゃないのかな？
+  LIT: I've come to think: isn't "desire" simply the force of the will to live?
+  EN : I think |desire| is simply the power of the will to live?
+  RE : I've come to think, isn't
+       |desire| simply the force
+       of the will to live?
+
+[US#7657] [SHAKY]  (HIGH, 6 unsolved: 善悪/願い/否定)
+  JP : 「力そのものに善悪はないわ / 『願い』だからって / それを否定するのは間違っていると思う
+  LIT: Power itself is neither good nor evil. To deny it just because it springs from "desire" is a mistake.
+  EN : Power is neither good nor bad. Never deny it just because it's full [of desire.]
+  RE : Power itself is neither
+       good nor evil. To deny it
+       for springing from |desire|
+       is a mistake.
+
+[US#7658] [SHAKY]  (HIGH, 3 unsolved: 願い/災/救った)
+  JP : 「かつて / ファルガイアを災の焼滅から救ったのは / 『願い』そ[のもの]
+  LIT: What once saved Filgaia from the Blaze of Disaster was "desire" itself.
+  EN : What saved Filgaia from the Blaze of Disaster was |desire.|
+  RE : What once saved Filgaia
+       from the Blaze of Disaster
+       was |desire| itself.
+
+# =========================================================================================
+# CONF TALLY: OK=9  FAIR=8  SHAKY=5
+# THEMATIC NOTE: WA2's thesis lands here. The Sword Magess dismantles the "hero by bloodline /
+#   hero by sacrifice" myth: she was an ordinary, selfish, life-loving girl, and it was 願い
+#   ("desire" / the will to live), NOT noble sacrifice or Valeria blood, that beat Lord Blazer.
+#   Translate 願い consistently as |desire| (the EN's chosen term) to preserve the callback chain
+#   across 7652/7656/7657/7658.
+# PART A repeats 6x (7594-7628): apply the single translation to every copy.
+# The SHAKY boxes (7594, 7643, 7656, 7657, 7658) are HIGH-align but kanji-garbled on the THESIS
+#   words (願い/善悪/資格) — sense confirmed vs EN, exact wording pending emulator font trace.
+# =========================================================================================

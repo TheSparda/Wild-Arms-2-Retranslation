@@ -1,0 +1,167 @@
+# WA2 INSERTION workspace US block 29 (US#5317-5350)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5318] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5441[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5319] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5442[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5320] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5443[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5327] budget=70ch/3ln
+  NOW: *With the Booty Call,
+          press 1 and you can see
+          all the items in a room.
+  JP : JP#5450[HIGH]: ＊トレジャーコールは[0b]おを押すことで / 　字<8a38>のなかにある / 　アイテムの存帰をあきらかにします[10][0c]＊<8a39>仲参にアイテム
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#5328] budget=82ch/3ln
+  NOW: *If there are items, a green
+          light will indicate the
+          location, along with a sound.
+  JP : JP#5451[HIGH]: ＊<8a39>仲参にアイテムがあれば / 　その級<8822>に守<8a07>の<89e0>が表<893a>される他 / 　コール<8a34>を発して使用者に知
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#5329] budget=98ch/3ln
+  NOW: Besides the Empathite transmitters,
+          the mirrors, glass, and water
+          were all affected by the hijack!
+  JP : JP#5452[HIGH]: 「『信<8839>谷』を用いた加信歩<8822>以外にも / 　<8a43>やガラス、<88a1>仲といった / 　すべてのスクリーンがジャック対来だッ！
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#5330] budget=80ch/3ln
+  NOW: They used the Telepath Tower
+          to send their terrorist
+          message throughout Filgaia!
+  JP : JP#5453[HIGH]: 「それじゃあ、テレパスタワーを中挑帯にして / 　テロリストどもの決起表次が / 　ファルガイア中に流されたのかッ！
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5332] budget=12ch/1ln
+  NOW: Missed that!
+  JP : JP#5455[HIGH]: 「うかつッ！
+  FIT: <<TODO — <=12 chars, 1 line(s), <=35/line>>
+
+[US#5333] budget=84ch/3ln
+  NOW: Let's return to Damzen and
+          explain the situation to the
+          engineers at Telepath Tower.
+  JP : JP#5456[HIGH]: 「一度、ダムツェンに戻って / 　テレパスタワーの周胞に / 　事情を説次しよう
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#5334] budget=91ch/3ln
+  NOW: *We can cover all of Filgaia
+          (In bad weather, some regions
+          won't receive the transmission.)
+  JP : JP#5457[HIGH]: ＊ファルガイア険間をカバーすることができます / 　（訪<89f8>などの<8a4c><8854>で一字 / 　　念話の<88f8>かない地間もございます）
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#5335] budget=79ch/3ln
+  NOW: *It delivers to the enemy
+          a shock attack which acts
+          on the target's vibrations.
+  JP : JP#5458[HIGH]: ＊<8861>的の<8947>作<8a4d>動年に作用する / 　好撃<88e0>恥撃を / 　相グループに対して行います
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#5336] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5459[HIGH]: ＊進みますか[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5337] budget=101ch/3ln
+  NOW: *Then, due to its peculiar nature,
+          the Telepath Mage dwindled until
+          he was replaced by the Empathite.
+  JP : JP#5460[HIGH]: ＊その後、その簡単性において / 　しだいに年を<8a5c>らしていった / 　テレパスメイジに代って、信<8839>谷が復場する[10][0c]＊信<8839
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#5338] budget=94ch/3ln
+  NOW: *The Empathite amplifies people's
+          thoughts and has the ability
+          to transform individual pulses.
+  JP : JP#5461[MED]: ＊信<8839>谷は、人の思念を姉<8a3d>し / 　<8947>作のパルスに変<88fb>する性<886e>を持っている[10][0c]＊離れた場所の単の信
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#5339] budget=91ch/3ln
+  NOW: *Some Empathite resonating with
+          another piece far away can be
+          used to transmit information.
+  JP : JP#5462[MED]: ＊離れた場所の単の信<8839>谷に茶<8a4d>させることで / 　情報<88a6>達システムとしての / 　機能を発揮しているのである
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#5340] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5463[MED]: ＊進みますか[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5341] budget=103ch/3ln
+  NOW: *Alias Mt. Chug-Chug. It's said that
+          the name comes from the |Chug Chug|
+          sound of the mining machinery.
+  JP : JP#5464[MED]: ＊加<895b>・ポンポコ谷と呼ばれ / 　その名前の由戦は、<89bd><885f>機艇の出す / 　『ポンポコ』という<8a34>からと言われている[10]
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#5342] budget=102ch/3ln
+  NOW: *While the amount mined is low, the
+          best and purest Empathite is found
+          here and sent all over Filgaia.
+  JP : JP#5465[HIGH]: ＊この谷では、<89bd><885f><886f>もさることながら / 　<8867>飛度、<8867><892e><886e>の信<8839>谷が<89bd>
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#5343] budget=60ch/2ln
+  NOW: *The Empathite's power is determined
+          by its size and purity.
+  JP : JP#5466[HIGH]: ＊信<8839>谷は、その大きさ・飛度により / 　その出力が決まる[10][0c]＊大きさが守になると、出力も守に / 　飛度が守になると、出力は<8a61>
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#5344] budget=100ch/3ln
+  NOW: *If size doubles, so does power.
+          If purity doubles, power triples.
+          So large, pure Empathite is best.
+  JP : JP#5467[HIGH]: ＊大きさが守になると、出力も守に / 　飛度が守になると、出力は<8a61>守になり / 　より大きく飛度の<8867>いものが延められている[10][0c]＊
+  FIT: <<TODO — <=100 chars, 3 line(s), <=35/line>>
+
+[US#5345] budget=92ch/3ln
+  NOW: *Currently, the most powerful
+          Empathite ever discovered is being
+          used in the Telepath Tower.
+  JP : JP#5468[HIGH]: ＊現帰、最大出力を出せる信<8839>谷は / 　テレパスタワーのメイン谷として / 　利用されている
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#5346] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5469[HIGH]: ＊進みますか[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5347] budget=91ch/3ln
+  NOW: *Communication Empathite at the
+          broadcast location amplifies the
+          power of the transmission.
+  JP : JP#5470[HIGH]: ＊現帰は、加信用信<8839>谷の中挑地帯として / 　<8a65>々の信<8839>谷の加信能力を<8867>める / 　出力姉<8a3d>助の<8964>目
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#5348] budget=99ch/3ln
+  NOW: *Now it's possible to use the
+          Empathite to transmit long distance
+          or to regions not reached before.
+  JP : JP#5471[HIGH]: ＊これにより長<881a>離使用や / 　いままで使用できなかった地間でも / 　加信信<8839>谷の使用が可能になった[10][0c]＊同時に、使用不可とし
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#5349] budget=97ch/3ln
+  NOW: *Also, Empathite that used to be
+          discarded can be reused, due to
+          more efficient use of resources.
+  JP : JP#5472[HIGH]: ＊同時に、使用不可として破男されていた / 　信<8839>谷の<8a67>利用が可能となり / 　魂<8869>の作頼乗用ができるようになった
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>

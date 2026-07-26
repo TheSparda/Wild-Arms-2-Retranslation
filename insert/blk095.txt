@@ -1,0 +1,209 @@
+# WA2 INSERTION workspace US block 95 (US#7726-7767)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7727] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7914[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7728] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7915[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7729] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7916[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7730] budget=30ch/1ln
+  NOW: It's the greatest power known!
+  JP : JP#7917[HIGH]: 「何よりも大きな力だ〜
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#7731] budget=38ch/2ln
+  NOW: Did he urge the Demon
+          Summoning on us?
+  JP : JP#7918[HIGH]: 「周魔<8a34><8883>の仲<8883>を / 　私たちに守<8842>したのでしょうか？[10][0c]「あの剣が / 　私たちの理違に姉<8a3d>し
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#7732] budget=54ch/2ln
+  NOW: I can't believe that man
+          is sympathetic to our ideals.
+  JP : JP#7919[MED]: 「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#7734] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7921[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7735] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7922[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7736] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7923[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7737] budget=30ch/1ln
+  NOW: It's the greatest power known!
+  JP : JP#7924[HIGH]: 「何よりも大きな力だ〜
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#7738] budget=38ch/2ln
+  NOW: Did he urge the Demon
+          Summoning on us?
+  JP : JP#7925[HIGH]: 「周魔<8a34><8883>の仲<8883>を / 　私たちに守<8842>したのでしょうか？[10][0c]「あの剣が / 　私たちの理違に姉<8a3d>し
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#7739] budget=54ch/2ln
+  NOW: I can't believe that man
+          is sympathetic to our ideals.
+  JP : JP#7926[MED]: 「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#7741] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7928[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7742] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7929[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7743] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7930[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7744] budget=30ch/1ln
+  NOW: It's the greatest power known!
+  JP : JP#7931[HIGH]: 「何よりも大きな力だ〜
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#7745] budget=38ch/2ln
+  NOW: Did he urge the Demon
+          Summoning on us?
+  JP : JP#7932[HIGH]: 「周魔<8a34><8883>の仲<8883>を / 　私たちに守<8842>したのでしょうか？[10][0c]「あの剣が / 　私たちの理違に姉<8a3d>し
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#7746] budget=54ch/2ln
+  NOW: I can't believe that man
+          is sympathetic to our ideals.
+  JP : JP#7933[MED]: 「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#7748] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7935[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7749] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7936[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7750] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7937[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7751] budget=30ch/1ln
+  NOW: It's the greatest power known!
+  JP : JP#7938[HIGH]: 「何よりも大きな力だ〜
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#7752] budget=38ch/2ln
+  NOW: Did he urge the Demon
+          Summoning on us?
+  JP : JP#7939[HIGH]: 「周魔<8a34><8883>の仲<8883>を / 　私たちに守<8842>したのでしょうか？[10][0c]「あの剣が / 　私たちの理違に姉<8a3d>し
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#7753] budget=54ch/2ln
+  NOW: I can't believe that man
+          is sympathetic to our ideals.
+  JP : JP#7940[MED]: 「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#7755] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7942[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7756] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7943[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7757] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7944[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7758] budget=30ch/1ln
+  NOW: It's the greatest power known!
+  JP : JP#7945[HIGH]: 「何よりも大きな力だ〜
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#7759] budget=38ch/2ln
+  NOW: Did he urge the Demon
+          Summoning on us?
+  JP : JP#7946[HIGH]: 「周魔<8a34><8883>の仲<8883>を / 　私たちに守<8842>したのでしょうか？[10][0c]「あの剣が / 　私たちの理違に姉<8a3d>し
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#7760] budget=54ch/2ln
+  NOW: I can't believe that man
+          is sympathetic to our ideals.
+  JP : JP#7947[MED]: 「あの剣が / 　私たちの理違に姉<8a3d>したとは / 　とても思えません
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#7762] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7948[MED]: 
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7763] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7764] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7765] budget=30ch/1ln
+  NOW: It's the greatest power known!
+  JP : JP#7949[MED]: 
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#7766] budget=38ch/2ln
+  NOW: Did he urge the Demon
+          Summoning on us?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#7767] budget=54ch/2ln
+  NOW: I can't believe that man
+          is sympathetic to our ideals.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>

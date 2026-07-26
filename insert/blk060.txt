@@ -1,0 +1,233 @@
+# WA2 INSERTION workspace US block 60 (US#6774-6814)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#6776] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#6898[MED]: ＊ひとりぼっちの<8a40>昔は / 　<89a7>身を期める<8a43>の道を行く
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6777] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6899[MED]: ＊心の<89fd>しさを兄すため / 　来たき<89f9>に向かいて５つ / 　<898f>む挑に向かいて３つ、<8a43>をする
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#6778] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6900[MED]: ＊ふたり出戦えば / 　言葉がはずむ / 　いっしょに助く道も見つかる
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#6780] budget=22ch/1ln
+  NOW: *...looks to be empty.
+  JP : JP#6901[MED]: ＊<8a40>昔の周は<8a48>仲 / 　道の行き先を<8990>して間る
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#6781] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#6902[MED]: 「すべてを<8a4c>てても / 　<8954>いを<8a4d>て切れぬ者よ〜 || JP#6903[MED]: 「我が恥べしレイポイントの / 　解殺を負むのなら / 　遠が<8954>いを守り<8a52>うがよい
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6782] budget=91ch/3ln
+  NOW: *Dust storms covered the lands.
+          If the threat is not eradicated,
+          it will destroy everything
+  JP : JP#6906[HIGH]: 「確かにお前は / 　生まれもった身体ではなく / 　戦う力、<8a0f>体（シルエット）を負んだ[10][0c]「それがわからぬ || JP#6904[MED]: [05]
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#6783] budget=77ch/3ln
+  NOW: *Their power is strong
+          enough to beat a Guardian.
+          It is |destruction| itself.
+  JP : JP#6907[HIGH]: 「それがわからぬ
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#6784] budget=72ch/3ln
+  NOW: *They consume the flesh and
+          blood of the Guardians,
+          gaining their power.
+  JP : JP#6908[HIGH]: 「『勉<8a48>』は / 　<8a55><89f4>に貸け<8a57>がれて / 　帰るものではない[10][0c]「何を為したかで / 　そこに新たに<89
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#6785] budget=32ch/1ln
+  NOW: *The name of this one is Ragu...
+  JP : JP#6909[HIGH]: 「何を為したかで / 　そこに新たに<890c>生するモノ〜
+  FIT: <<TODO — <=32 chars, 1 line(s), <=35/line>>
+
+[US#6786] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#6910[HIGH]: 「＜望の<8a59>昔＞の<8a55>よりも / 　大切なモノがハッキリとわかる〜[10][0c]「あたしが期めていた / 　『<8a5a>間』ってやつさ〜[1
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6787] budget=82ch/3ln
+  NOW: *This is the land of origin
+          from which all life was born
+          there by filling Filgaia.
+  JP : JP#6911[MED]: 「あたしが期めていた / 　『<8a5a>間』ってやつさ〜[10][0c]「ずっと復い<8a18>けた / 　この<8a5c>られた身体は / 　<8a5a>間
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#6788] budget=100ch/3ln
+  NOW: *This is the source, the motherland
+          for many lifeforms. Even us the
+          Crimson Nobles are no exception.
+  JP : JP#6912[MED]: 「ずっと復い<8a18>けた / 　この<8a5c>られた身体は / 　<8a5a>間とあたしを重ねる『茶』だ
+  FIT: <<TODO — <=100 chars, 3 line(s), <=35/line>>
+
+[US#6789] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#6913[MED]: 「『戦う力』も『<8a5a>間との茶』も / 　こうして自分にあることを / 　信じているんだ[10][0c]「今のあたしに / 　<8954>いなんてモノは〜
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6790] budget=80ch/3ln
+  NOW: *But knowing the force of his
+          power, it could simply be
+          mere consolation for us.
+  JP : JP#6928[MED]: ＊年多の地を<88db><8a3d>と合し / 　生きとし生ける者を助歩やしにせんと / 　そのものは破滅を<8a40>くした[10][0c]＊その者の力 /  || JP#6914[LOW]: 「今のあたしに / 　<8954>いなんてモノは〜
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#6791] budget=63ch/3ln
+  NOW: *But he won't be able to
+          eradicate our tribe's blood
+          so easily.
+  JP : JP#6929[MED]: ＊その者の力 / 　ガーディアンに兄るとも期らぬ / 　『破滅』そのものなり[10][0c]＊ガーディアンの<8a43>来を挑らい / 　その力を成し、戦なす者
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#6792] budget=99ch/3ln
+  NOW: *Children who are our future light
+          and the proud Crimson Noble seed,
+          must be protected at all cost.
+  JP : JP#6933[MED]: ＊そこより、生命は生まれ / 　ファルガイアに仲ちたという / 　始まりの地[10][0c]＊年多の生命の<8869>となりし間なる地 / 　我らノーブルレッド || JP#6930[MED]: ＊ガーディアンの<8a43>来を挑らい / 　その力を成し、戦なす者[10][0c]＊彼の者の名は / 　ラギュ……
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#6793] budget=70ch/2ln
+  NOW: *<Sword Magess>, people of her kind
+          must wholeheartedly hope for this.
+  JP : JP#6934[MED]: ＊年多の生命の<8869>となりし間なる地 / 　我らノーブルレッドでさえ / 　その<8943>外ではないだろう
+  FIT: <<TODO — <=70 chars, 2 line(s), <=35/line>>
+
+[US#6794] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6795] budget=84ch/3ln
+  NOW: *Press the 1 button to have
+          the |Windup Key| throw spring
+          coils out in front of you.
+  JP : JP#6935[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#6796] budget=82ch/3ln
+  NOW: *If you affix the Windup Key to
+          certain blocks, you will see
+          a variety of results.
+  JP : JP#6936[MED]: ＊しかし、彼のモノの力の前には / 　仲なる気<89bf>めにしか過ぎぬかもしれぬ[10][0c]＊だが、我らとてそう負々とは / 　我が一遠の<8a43>を歩
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#6797] budget=30ch/2ln
+  NOW: Sanctuary that 5
+          talked about.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=30 chars, 2 line(s), <=35/line>>
+
+[US#6798] budget=88ch/3ln
+  NOW: I don't see why the Crimson Nobles
+          would build such an elegant room
+          so deep underground.
+  JP : JP#6937[MED]: ＊だが、我らとてそう負々とは / 　我が一遠の<8a43>を歩やすわけにはいかぬ[10][0c]＊我らの未<8a52>の<89e0>とならん家<8842>らを 
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#6799] budget=51ch/2ln
+  NOW: Didn't you have some business
+          to take care of here?
+  JP : JP#6938[MED]: ＊我らの未<8a52>の<89e0>とならん家<8842>らを / 　<8a53>り<8867>きノーブルレッドの勉を / 　なんとしても<8a55>らねばなら
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#6800] budget=14ch/1ln
+  NOW: .....Mother...
+  JP : JP#6944[HIGH]: 「………間方[10][0c]「……… || JP#6939[MED]: ＊＜貸の<8a4c>昔＞、彼のような人の勉に / 　一<8a57>の望みをかけなければならぬとは
+  FIT: <<TODO — <=14 chars, 1 line(s), <=35/line>>
+
+[US#6801] budget=5ch/1ln
+  NOW: .....
+  JP : JP#6945[HIGH]: 「………
+  FIT: <<TODO — <=5 chars, 1 line(s), <=35/line>>
+
+[US#6802] budget=19ch/1ln
+  NOW: Why am I all alone?
+  JP : JP#6946[HIGH]: 「なぜ、わらわはひとりきりなのじゃ？
+  FIT: <<TODO — <=19 chars, 1 line(s), <=35/line>>
+
+[US#6803] budget=77ch/3ln
+  NOW: I am one of the proud Crimson
+          Nobles, the people chosen to
+          live for eternity.
+  JP : JP#6947[HIGH]: 「わらわは<8a53>り<8867>きノーブルレッド / 　<8a65><89aa>の時を生きることのできる / 　選ばれし男…
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#6804] budget=100ch/3ln
+  NOW: Why am I the only one still alive?
+          If I had died with the rest of my
+          tribe, I wouldn't be suffering.
+  JP : JP#6948[HIGH]: 「なぜ、わらわだけが生きている… / 　一遠と<8a67>に滅びてしまえば / 　こんな思いをすることはないのじゃッ！
+  FIT: <<TODO — <=100 chars, 3 line(s), <=35/line>>
+
+[US#6805] budget=84ch/3ln
+  NOW: Hundreds of years have passed since
+          I saw her. Aside from goodbyes
+          being too hard...
+  JP : JP#6949[HIGH]: 「そなたと単れて<8a4d>頼数 / 　わらわは、魂は作らぬと決めたのじゃ / 　単れがつらくなるゆえ…
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#6806] budget=79ch/3ln
+  NOW: People won't do.
+          People get old and die. I've seen
+          many births and many deaths.
+  JP : JP#6950[HIGH]: 「人ではダメなのじゃ / 　人は数<8a6b>い、死んでゆく / 　<8a4d>多の生と、<8a4d>多の死を見てきた[10][0c]「<8a67>に生きてくれ
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#6807] budget=39ch/2ln
+  NOW: I no longer have friends
+          in this world.
+  JP : JP#6951[HIGH]: 「<8a67>に生きてくれる魂は / 　この世界には、もうおらぬのじゃ[10][0c][17]
+  FIT: <<TODO — <=39 chars, 2 line(s), <=35/line>>
+
+[US#6809] budget=37ch/2ln
+  NOW: ...there are many people
+          who need me.
+  JP : JP#6953[HIGH]: 「わらわを必要としてくれる者たちが / 　少なからずいてくれるのじゃ…
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#6810] budget=63ch/3ln
+  NOW: I will join these people
+          who are living now for
+          a little while.
+  JP : JP#6954[MED]: 「この者たちの生きる時を / 　しばらくつきあおうと[10][0c]「いつか単れがくるじゃろう / 　でも、後勇はしないはずじゃ[10][0c]「わらわがそう望
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#6811] budget=68ch/3ln
+  NOW: I know we'll have to say
+          good-bye someday, but I'll
+          have no regrets.
+  JP : JP#6955[MED]: 「いつか単れがくるじゃろう / 　でも、後勇はしないはずじゃ[10][0c]「わらわがそう望んだのだから…
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#6812] budget=23ch/1ln
+  NOW: That's what I hope for.
+  JP : JP#6956[MED]: 「わらわがそう望んだのだから…
+  FIT: <<TODO — <=23 chars, 1 line(s), <=35/line>>
+
+[US#6813] budget=53ch/2ln
+  NOW: Well, we're finished here.
+          Time to move on. Let's go.
+  JP : JP#6957[MED]: 「さぁ、ここはもう用<8994>みじゃ / 　先を急ぐとするぞ[10][0c]「ファルガイアに残されている時間は / 　そんなに多くないのじゃからな
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#6814] budget=36ch/2ln
+  NOW: Filgaia doesn't have
+          much time left.
+  JP : JP#6958[MED]: 「ファルガイアに残されている時間は / 　そんなに多くないのじゃからな
+  FIT: <<TODO — <=36 chars, 2 line(s), <=35/line>>

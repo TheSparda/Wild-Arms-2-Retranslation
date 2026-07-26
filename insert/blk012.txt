@@ -1,0 +1,1927 @@
+# WA2 INSERTION workspace US block 12 (US#3147-3444)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#3147] budget=44ch/1ln
+  NOW: !+-./0123456789:;<=>?ABFGHLPTXYZ[\]^_`abcdeY
+  JP : JP#3195[MED]: 獲[df]何フホフゐ ャ<98ff>字<e808>単殖[ff]ぁ
+  FIT: <<TODO — <=44 chars, 1 line(s), <=35/line>>
+
+[US#3149] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#3198[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#3150] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#3199[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#3151] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#3200[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#3152] budget=75ch/3ln
+  NOW: You must know that the comets
+          foreboding ill have divided
+          Heaven and Earth.
+  JP : JP#3201[MED]: 「幸<8a34>を<893a>す泣星が / 　片をわかったのは知っておろう[10][0c]「時を押て『<89c2>』が動き出したのじゃ / 　そして<f040>
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#3153] budget=85ch/3ln
+  NOW: With the passage of time comes
+          a fragment of eternal time.
+          It exists within you, too.
+  JP : JP#3202[HIGH]: 「時を押て『<89c2>』が動き出したのじゃ / 　そして<f040><f042> / 　お<8a38>の参より始まる『<89c2>』もまた、な〜
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#3154] budget=77ch/3ln
+  NOW: Still, you might want to do
+          something about your
+          appearance. Shall I aid you?
+  JP : JP#3203[HIGH]: 「それにしても / 　<8a22>ちくりんな姉<8a3d>よのう / 　わらわがコーディネートしてしんぜようか？
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#3155] budget=70ch/3ln
+  NOW: The perfect fighting machine,
+          ready to meet and overcome any
+          obstacle!
+  JP : JP#3204[HIGH]: 「そうよのう、そうでなくてはッ！ / 　歩対危機に対する<88ea><8a40>なのじゃ / 　お<8a38>くらいの<8915>力がなくてはな[10][0c]
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#3156] budget=60ch/2ln
+  NOW: Just perfect to back up 0,
+          who sometimes lacks in bravery...
+  JP : JP#3205[HIGH]: 「兄しの<89b9>い[05]ぉの / 　バックアップはお<8a38>にまかせたぞ
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#3157] budget=57ch/3ln
+  NOW: Doesn't that seem like a
+          better way to solve our
+          problem?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=57 chars, 3 line(s), <=35/line>>
+
+[US#3158] budget=76ch/3ln
+  NOW: But even |heroes| are just
+          people. What happens if they
+          can't do everything?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3159] budget=61ch/3ln
+  NOW: People might ask us
+          Mercs to do them a
+          personal favor, but...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#3160] budget=78ch/3ln
+  NOW: When the whole world is at
+          stake...then they want a hero,
+          not just some Mercs.
+  JP : JP#3206[MED]: 「そっちの方が / 　この状況を戦開できるような / 　気がしないかい？
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#3161] budget=73ch/3ln
+  NOW: If we had magic we wouldn't
+          have to sit back and let Odessa
+          have its way.
+  JP : JP#3211[HIGH]: 「自由が信恥の渡り訪だ / 　テロリストに負配されるなんて / 　まっぴらごめんだね || JP#3207[MED]: 「でも、期<8a43>だって人間だ / 　人間にできることを大きく<8a48>えたお願いは / 　誰がかなえてくれるんだ？
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#3162] budget=68ch/2ln
+  NOW: Mercs need freedom. They can't be
+          oppressed by some terrorist group!
+  JP : JP#3212[HIGH]: 「渡り訪なら / 　<8a53>本中の<8a53>本さッ！
+  FIT: <<TODO — <=68 chars, 2 line(s), <=35/line>>
+
+[US#3163] budget=37ch/2ln
+  NOW: That's essential knowledge for
+          Mercs!
+  JP : JP#3213[HIGH]: 「渡り訪なら / 　<8a55>貸を<8a57>めなければッ！
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#3164] budget=37ch/2ln
+  NOW: That's essential knowledge for
+          Mercs!
+  JP : JP#3214[HIGH]: 「どんな危機をも<8a59>く / 　『<8a5a>復の<8a5c>茶』だったってウワサだ / 　<f040><f042>あんたとは<89c1>の茶だな〜
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#3165] budget=90ch/3ln
+  NOW: He has a |left arm of steel|
+          that punches through anything,
+          I hear. Yours is on the right.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#3166] budget=105ch/3ln
+  NOW: I hear there're lots of ladies like
+          you who study magic and science in
+          the cloud city, the Sielje Region.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=105 chars, 3 line(s), <=35/line>>
+
+[US#3167] budget=83ch/3ln
+  NOW: Sometimes they have words to
+          live by, not just to get you to
+          your next destination.
+  JP : JP#3215[MED]: 「シエルジェ自分<89b7>って乗の場には / 　魔法や<8a64><8a65>を男<89b1>している / 　お飛ちゃんみたいのがたくさんいるらしいな
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#3168] budget=78ch/3ln
+  NOW: Dealing with those people is
+          part of the job. The life of a
+          Merc is suffering.
+  JP : JP#3216[MED]: 「更の目的地だけじゃない / 　人の言葉は / 　生き方の道<8861>になる時だってある || JP#3217[MED]: 「そんな頼らを相手にしなきゃいけないんだ / 　『渡り訪』<8a6a><8a6b>も<89fa>じゃないぜ
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#3169] budget=21ch/1ln
+  NOW: Now where was that...
+  JP : JP#3218[MED]: 「えーっと、何だっけな〜
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#3170] budget=81ch/3ln
+  NOW: Dealing with monsters is easy
+          compared to some nut trying to
+          take over the world!
+  JP : JP#3219[MED]: 「世界<8a71><8a72>を本気で考えているなら / 　辺手なモンスターより / 　たちが悪いかもしれんな
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#3171] budget=78ch/3ln
+  NOW: I had no idea there were
+          people seriously trying to
+          conquer the world anymore.
+  JP : JP#3220[MED]: 「しかし、世界<8a71><8a72>なんて / 　本気で考えてるやつが / 　いるなんて思いもしなかったぜ
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#3172] budget=51ch/2ln
+  NOW: But it takes a lot of courage
+          to do that, you know.
+  JP : JP#3221[MED]: 「でも、そうするには / 　ものすごい<8a74>気がいるってもんよ[10][0c]「よかったな / 　今あんたらは、跡跡の<8a74>者を / 　無<89d7
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#3173] budget=73ch/3ln
+  NOW: You are lucky. Did you know
+          that you're looking at the
+          bravest man alive?
+  JP : JP#3222[MED]: 「よかったな / 　今あんたらは、跡跡の<8a74>者を / 　無<89d7>で<8a75>んでいるんだぜ
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#3174] budget=60ch/2ln
+  NOW: That's an adult's privilege.
+          Kids like you don't understand.
+  JP : JP#3223[MED]: 「ちびっ家にはわからない / 　オトナのぜいたくってもんよ
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#3175] budget=87ch/3ln
+  NOW: Those who try hardest are not
+          necessarily those who win in
+          this world. Oh, I like that!
+  JP : JP#3224[MED]: 「世の中、<8a82>力したヤツが / 　必ずしもうまくいくとはかぎらねぇ / 　あー、ゆかい、ゆかいッ！
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#3176] budget=77ch/3ln
+  NOW: You know, if you just get the
+          Booty Call, finding treasure is
+          easy as can be.
+  JP : JP#3225[HIGH]: 「トレジャーコールさえ手に入れれば / 　あとはお<8a84>ザックザクってもんよ / 　あくせく<8a85>く必要ないね
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#3177] budget=66ch/3ln
+  NOW: It responds to treasure and
+          tells you where 'tis.
+          Wish I had it...
+  JP : JP#3226[HIGH]: 「お<8a84>に反<8839>して / 　その級<8822>を知らせてくれる / 　まさに僕向きの<8a86>利なグッズだ[10][0c]「どこかの<897f
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#3178] budget=69ch/3ln
+  NOW: I heard a rumor it was in
+          some tower... D'ya know where?
+          Figures not.
+  JP : JP#3227[HIGH]: 「どこかの<897f>にあるってウワサなんだが / 　知らないか？ / 　知るわけないか〜[10][0c]「ちびっ家だもんな〜
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#3179] budget=15ch/1ln
+  NOW: Yer just a kid.
+  JP : JP#3228[HIGH]: 「ちびっ家だもんな〜
+  FIT: <<TODO — <=15 chars, 1 line(s), <=35/line>>
+
+[US#3180] budget=78ch/3ln
+  NOW: If you can wear rags but still
+          have a heart of gold like me -
+          then you're set.
+  JP : JP#3229[HIGH]: 「僕みたいに / 　ボロは着ててもココロが安なら / 　そんなモン<8a87>しくはないね[10][0c]「そう、僕に<8921>りないのは / 　金暮<8a8
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#3181] budget=75ch/3ln
+  NOW: Yep, all I like is gold
+          and treasure. I've just gotta
+          find that Booty Call!
+  JP : JP#3230[HIGH]: 「そう、僕に<8921>りないのは / 　金暮<8a8b><8a84>、お<8a84>ちゃん / 　<8894>くトレジャーコールを見つけないとな
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#3182] budget=74ch/3ln
+  NOW: No, no... I just want to be
+          surrounded by jewels all the
+          time, that's all!
+  JP : JP#3231[HIGH]: 「ダメダメッ！ / 　僕ならお<8a84>にまみれて / 　<8a8c>らしていきたいってもんよ[10][0c]「そのためにも / 　まずはトレジャーコールを探
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#3183] budget=40ch/2ln
+  NOW: So first I must look for the
+          Booty Call.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#3184] budget=56ch/3ln
+  NOW: If it were that simple, I
+          would just leave it up
+          to you.
+  JP : JP#3232[MED]: 「そのためにも / 　まずはトレジャーコールを探さんとな
+  FIT: <<TODO — <=56 chars, 3 line(s), <=35/line>>
+
+[US#3185] budget=67ch/3ln
+  NOW: But if not,
+          who should we depend on?
+          That's why everyone's worried.
+  JP : JP#3233[MED]: 「だったら / 　あんたたちに / 　まかせておけば危心だ[10][0c]「〜でも、そうでないのなら / 　僕たちは誰を頼ればいい〜？ / 　だからみんな不危な
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#3186] budget=67ch/3ln
+  NOW: Just imagine what would have
+          happened had it exploded in
+          Filgaia...
+  JP : JP#3234[MED]: 「〜でも、そうでないのなら / 　僕たちは誰を頼ればいい〜？ / 　だからみんな不危なんだよ
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#3187] budget=37ch/2ln
+  NOW: So who will take care of
+          this sky...?
+  JP : JP#3236[HIGH]: 「じゃあ、いったい / 　誰がこの空を取り<8a94>まるんだ？ || JP#3235[MED]: 「もしも〜 / 　ファルガイアのどこかで集発していたら / 　いったいどうなっていたのだろう〜
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#3188] budget=77ch/3ln
+  NOW: But now...I'm proud that I
+          haven't needed to point
+          it at anybody in 10 years.
+  JP : JP#3237[HIGH]: 「でも、今は〜 / 　この１０数間 / 　人に向かって撃ってないのが自<8a98>だな
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#3189] budget=47ch/3ln
+  NOW: I hope they don't
+          start to get
+          too desperate...
+  JP : JP#3238[HIGH]: 「このまま / 　渓<8a99>の心までもが / 　<8a9b>れちまわなきゃいいんだがな
+  FIT: <<TODO — <=47 chars, 3 line(s), <=35/line>>
+
+[US#3190] budget=87ch/3ln
+  NOW: Looking back now, though...
+          I'm glad I was the constable of
+          a mining town. It suits me.
+  JP : JP#3239[HIGH]: 「しかし、現実は〜 / 　渓谷場の<8901>危<899d>がいいところだったな / 　まあ、<8aa0>当なところだろう
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#3191] budget=65ch/3ln
+  NOW: Terrorist oppression is
+          something I will
+          gladly leave up to ARMS.
+  JP : JP#3240[HIGH]: 「テロリストの<8aa3><8aa4>は / 　あんたたち、ＡＲＭＳに / 　おまかせしているよ
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#3192] budget=58ch/2ln
+  NOW: First, there are facilities to
+          land flying machines there.
+  JP : JP#3241[MED]: 「ひとつは / 　飛空機艇の発着場を備えた / 　エアプレーンポートとして[10][0c]「もうひとつは / 　シエルジェ自分<89b7>へと<8a18>く /
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#3193] budget=70ch/3ln
+  NOW: Second, it's got an entrance
+          to a tunnel leading to the
+          Sielje Region.
+  JP : JP#3242[HIGH]: 「もうひとつは / 　シエルジェ自分<89b7>へと<8a18>く / 　地辺トンネルの入<8828>として<8a25>われている
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#3194] budget=69ch/3ln
+  NOW: If I arrested everyone who
+          looked suspicious, I'd go after
+          you first!
+  JP : JP#3243[HIGH]: 「きびしく取り<8a94>まったら / 　あんたらだって / 　<89ce>分、あやしいんだぞ
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#3195] budget=99ch/3ln
+  NOW: The clinic is on the north end of
+          this street. The doctor is a little
+          strange, but knows his stuff.
+  JP : JP#3244[HIGH]: 「急いで<8aa6><8aa7>所に連れて行くといい / 　この加りを北に<8a77>っ<8865>ぐ行ったところだ / 　<8aa8>者は変わり者だが、茶は確
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#3196] budget=82ch/3ln
+  NOW: My job is to protect this
+          town. I can't arrest people
+          just 'cause they look funny.
+  JP : JP#3245[HIGH]: 「本<899d>の<8aa9>務は、場の分危を<8aaa>ること / 　〜だけど、あやしいというだけで / 　しょっぴく<88b2><8aab>は無いんだよ
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#3197] budget=84ch/3ln
+  NOW: Do I need to find a reason to
+          arrest anyone who looks like
+          they might cause trouble?
+  JP : JP#3246[HIGH]: 「少しでもあやしいと<8942><898e>した人物は / 　アレコレ<8aac><8aad>つけてでも / 　しょっぴくべきなのかッ！
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#3198] budget=78ch/3ln
+  NOW: But if there's even a small
+          chance for Filgaia to survive,
+          I want to help out.
+  JP : JP#3247[HIGH]: 「でもよ、まだファルガイアに / 　生き残る可能性が少しでもあるんだったら / 　僕も、力になってやるつもりだぜ
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#3199] budget=75ch/3ln
+  NOW: But the land is so rough there
+          that flying machines can't land
+          or take off.
+  JP : JP#3248[HIGH]: 「でも、飛空機艇が着陸できないほどの / 　<8a9b>れ地に<8aae>まれているから / 　どうやって行けばいいのやら〜
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#3200] budget=33ch/2ln
+  NOW: Mining men are much
+          the same way.
+  JP : JP#3249[HIGH]: 「渓谷場の剣なら / 　ああ、なりたいもんだぜ
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#3201] budget=89ch/3ln
+  NOW: This triangle defines a very
+          deep section of the sea where
+          strange things tend to happen.
+  JP : JP#3250[HIGH]: 「これら<8ab1>帯を<8ab2>で結ぶと / 　道に<88bf>大な<8ab1><894b><88e1>が<8aaf>かび上がる / 　その道勉は、<896
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#3202] budget=53ch/3ln
+  NOW: I've heard of you.
+          Aren't you 4?
+          The Exorcist, right?
+  JP : JP#3251[HIGH]: 「聞いた事あるぜ / 　あんた、[05]きさんだろ？ / 　『幸<8ab4>い』でバッチリ<8ab5>けてんだろうな
+  FIT: <<TODO — <=53 chars, 3 line(s), <=35/line>>
+
+[US#3203] budget=75ch/3ln
+  NOW: But don't let that stop you.
+          Diligence is a virtue.
+          Some Merc once said so.
+  JP : JP#3253[MED]: 「<8ab7>に一度、たくさんの信<8839>谷を持って / 　トンネルの中を行き来したもんだぜ || JP#3252[MED]: 「でもよ、そこであきらめちゃいけない / 　こまめな探<887e>が意外な成<8ab6>をもたらす〜 / 　<f040><f042>そう、言ってた渡り訪がいたな
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#3204] budget=61ch/2ln
+  NOW: People go back and forth bearing
+          Empathite about once a week.
+  JP : JP#3254[MED]: 「ダムツェンの<8ab9><8aba>のためにも / 　あのトンネルは / 　<89cf><8abb>しない方がよかったんじゃないか？
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#3205] budget=57ch/2ln
+  NOW: Closing that tunnel really hurt
+          Damzen City's prosperity.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#3206] budget=48ch/2ln
+  NOW: Don't know what yer up to,
+          but good luck anyhow.
+  JP : JP#3255[MED]: 「なにが目的かはわからんが / 　まあ、せいぜい<8abf>獲ってくれ
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#3207] budget=48ch/2ln
+  NOW: This isn't something we can use
+          Empathite for...
+  JP : JP#3256[MED]: 「でもそれは / 　信<8839>谷に頼ったものではないんだ[10][0c]「〜うまく言えないな〜[10][0c]「強く生きるための、強い『違い』〜 / 　それ
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#3208] budget=23ch/1ln
+  NOW: It's hard to express...
+  JP : JP#3257[MED]: 「〜うまく言えないな〜[10][0c]「強く生きるための、強い『違い』〜 / 　それで<8ad6>がることができれば / 　人はもっと強くなれる[10][0c]
+  FIT: <<TODO — <=23 chars, 1 line(s), <=35/line>>
+
+[US#3209] budget=93ch/3ln
+  NOW: If we can link ourselves
+          through our strong desire to live,
+          then we will all become stronger.
+  JP : JP#3258[HIGH]: 「強く生きるための、強い『違い』〜 / 　それで<8ad6>がることができれば / 　人はもっと強くなれる[10][0c]「〜違うかな
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#3210] budget=11ch/1ln
+  NOW: Am I right?
+  JP : JP#3259[HIGH]: 「〜違うかな
+  FIT: <<TODO — <=11 chars, 1 line(s), <=35/line>>
+
+[US#3211] budget=80ch/3ln
+  NOW: If we can link our hearts
+          and overcome our fears,
+          our Tower might come in handy.
+  JP : JP#3260[HIGH]: 「心を<8ad6>いで / 　不危を<8a48>えることができるなら / 　うちのタワーが<8964>に戻つんだけど〜
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3212] budget=87ch/3ln
+  NOW: But even more important is the
+          strength of will of the person
+          trying to send a thought.
+  JP : JP#3261[HIGH]: 「でも、もっと<8858>要なのは / 　念話を<88a6>えようとする / 　その人の<88ea><8a88>力の強さだぜ
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#3213] budget=91ch/3ln
+  NOW: But to get in touch with an
+          individual, a piece about as big
+          as your hand would do the job.
+  JP : JP#3262[HIGH]: 「でも、間人間の連絡くらいなら / 　手の<8ad8>サイズの信<8839>谷で / 　<89ce>分事たりるぞ
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#3214] budget=88ch/3ln
+  NOW: I'm sure that no one could use
+          the Tower to broadcast
+          clandestinely with it...I think...
+  JP : JP#3263[HIGH]: 「もう、これで / 　<8934><88e0>ジャックなんてできないと思うぞ / 　〜たぶんな
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#3215] budget=87ch/3ln
+  NOW: We must make sure Telepath Tower's
+          Empathite can't be used for a
+          clandestine broadcast.
+  JP : JP#3264[HIGH]: 「さっそくタワーの信<8839>谷に / 　プロテクトをかけて / 　加信<88e0>に<8865>搭侵入できないようにしよう[10][0c]「それよりもッ！ 
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#3216] budget=80ch/3ln
+  NOW: Don't worry about that now! I'm
+          more worried about the
+          terrorists. Do something!
+  JP : JP#3265[HIGH]: 「それよりもッ！ / 　あのテロリストどうするつもりなんだ？ / 　何とかしてくれよッ！
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3217] budget=74ch/3ln
+  NOW: I don't know what they intend
+          to do there, but I doubt it's
+          anything good.
+  JP : JP#3266[HIGH]: 「あの連中〜 / 　<8ada>手に入って何をするつもりか知らないけど / 　やめてほしいぜ[10][0c]「<8adb>いじゃないか〜
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#3218] budget=15ch/1ln
+  NOW: Isn't it scary?
+  JP : JP#3267[MED]: 「<8adb>いじゃないか〜
+  FIT: <<TODO — <=15 chars, 1 line(s), <=35/line>>
+
+[US#3219] budget=84ch/3ln
+  NOW: Ever since they came, monsters
+          have been appearing there. We
+          can't even approach it!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#3220] budget=21ch/1ln
+  NOW: Who are those people?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#3221] budget=95ch/3ln
+  NOW: It was four people, and they
+          seemed very dangerous. I would be
+          careful of them if I were you...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3222] budget=86ch/3ln
+  NOW: I hope that Filgaia can survive
+          these days of peril and become a
+          better place to live.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#3223] budget=89ch/3ln
+  NOW: We're using a very large, pure
+          piece of Empathite, but the
+          Telepath Tower is getting old.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#3224] budget=52ch/2ln
+  NOW: Maintaining the Empathite has
+          become more difficult.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#3225] budget=38ch/2ln
+  NOW: Does that make our family
+          responsible?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#3226] budget=50ch/2ln
+  NOW: What'll we do now?
+          I hope nothing bad comes of it.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#3227] budget=94ch/3ln
+  NOW: I could wish for someone better to
+          leave it to, but I wasn't much
+          better at that age, I guess.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#3228] budget=38ch/2ln
+  NOW: But he's still got a long way to
+          go...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#3229] budget=51ch/2ln
+  NOW: I get so mad when I see people
+          goofing off all day!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#3230] budget=92ch/3ln
+  NOW: And not just the Tower, either...
+          I hope they don't use the Booty
+          Call for their misdeeds...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#3231] budget=13ch/1ln
+  NOW: Yeah, yeah...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=13 chars, 1 line(s), <=35/line>>
+
+[US#3232] budget=62ch/3ln
+  NOW: Actually...
+          Strange people are loitering about
+          there even now.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#3233] budget=78ch/3ln
+  NOW: It was my daughter's husband who
+          found them, but he didn't tell us
+          about them.
+  JP : JP#3268[MED]: 「そいつらが来てから / 　タワー参にモンスターも出<8add>するんで / 　近づくこともできやしない[10][0c]「何なんだ？ / 　あいつらは？[10]
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#3234] budget=24ch/1ln
+  NOW: Why not I'll never know!
+  JP : JP#3269[MED]: 「何なんだ？ / 　あいつらは？[10][0c]「見るからにヤバそうな４人仲だから / 　<88f7>意するのも、おっかないぜ
+  FIT: <<TODO — <=24 chars, 1 line(s), <=35/line>>
+
+[US#3235] budget=84ch/3ln
+  NOW: It seems that a secret route
+          through a mine would be perilous,
+          but what was it like?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#3236] budget=55ch/2ln
+  NOW: Feel like telling me where the
+          secret passage leads to?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#3237] budget=74ch/3ln
+  NOW: It was the best way for them to
+          get their message out to everyone
+          at once.
+  JP : JP#3270[MED]: 「見るからにヤバそうな４人仲だから / 　<88f7>意するのも、おっかないぜ
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#3238] budget=89ch/3ln
+  NOW: There might be something in this
+          town that can help us find out.
+          Let's get started quick!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#3239] budget=50ch/2ln
+  NOW: If you die, not even the best
+          doctor can save you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#3240] budget=71ch/3ln
+  NOW: We need more cheerful patients,
+          and kind doctors like me to
+          treat them!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#3241] budget=63ch/2ln
+  NOW: I promise I won't hurt you.
+          Will you please let me examine you?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#3242] budget=56ch/2ln
+  NOW: No need to be afraid.
+          My examinations are very pleasant.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#3243] budget=101ch/3ln
+  NOW: You know the saying, |Eyes are a
+          window to the soul.| Yessir, these
+          eyes are why patients come to me.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#3244] budget=57ch/2ln
+  NOW: You want to look into my eyes...
+          You're getting drowsy...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#3245] budget=91ch/3ln
+  NOW: Those ingrates who were caught in
+          the Under Traffic cave-in are
+          saying bad things about me!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#3246] budget=51ch/2ln
+  NOW: ...so why have patients stopped
+          coming altogether!?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#3247] budget=58ch/2ln
+  NOW: ...but now it looks like things
+          might be looking up again!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#3248] budget=81ch/3ln
+  NOW: It's boring...Damzen's at
+          the base of a mine, so I set
+          broken bones all the time.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#3249] budget=71ch/3ln
+  NOW: Next time I hope I get a patient
+          I can get more excited about
+          treating.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#3250] budget=62ch/2ln
+  NOW: Oh...Sorry 'bout that...It's just
+          a broken finger, it seems...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=62 chars, 2 line(s), <=35/line>>
+
+[US#3252] budget=50ch/2ln
+  NOW: Good thing we found you
+          after the cave-in, though.
+  JP : JP#3271[MED]: 「ファルガイアも / 　この異世事態を<8ade>り<8a48>えて / 　もっと<8adf><8a8d>らしい世界になれれば〜
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#3253] budget=50ch/2ln
+  NOW: Also, I heard human voices.
+          I'm almost sure of it.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#3254] budget=37ch/2ln
+  NOW: It could be part of someone's
+          plan...
+  JP : JP#3272[MED]: 「大きくて、<8ad7>度の<8867>い信<8839>谷を使ってますが / 　テレパスタワーも / 　すいぶん<882d>くなってしまいましたから〜
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#3255] budget=37ch/2ln
+  NOW: Try contacting 0 on
+          the communicator.
+  JP : JP#3273[MED]: 「信<8839>谷のメンテナンスが / 　やりにくくなってしまいました
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#3256] budget=66ch/3ln
+  NOW: The sun in the sky...
+          We never knew how precious it
+          was until now.
+  JP : JP#3274[MED]: 「やっぱり / 　我が<8a80>の<8ae3>任なんでしょうか？
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#3257] budget=87ch/3ln
+  NOW: Maybe the Angel of Death will
+          come to greet me, and take me
+          to heaven aboard a chariot?
+  JP : JP#3275[MED]: 「どうしましょう〜 / 　何か良くないことが / 　起きなければいいのですが〜
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#3258] budget=54ch/2ln
+  NOW: What will the future show this old
+          man before he dies?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#3259] budget=43ch/2ln
+  NOW: It's kind of spooky just to think
+          about it!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#3260] budget=64ch/2ln
+  NOW: Everyone knows those are the best
+          locations for secret hideouts.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#3261] budget=81ch/3ln
+  NOW: So we can say that the sky is
+          a |sea of wind,| and the desert is
+          a |sea of sand.|
+  JP : (no JP mapped)
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#3262] budget=59ch/2ln
+  NOW: Well, most people seem to go
+          to Sielje, using the tunnel...
+  JP : JP#3276[MED]: 「まだまだなヤツだが / 　わしもあのくらいの会には / 　あんなもんだったしな
+  FIT: <<TODO — <=59 chars, 2 line(s), <=35/line>>
+
+[US#3263] budget=51ch/2ln
+  NOW: Hmm...Most folks seem to come
+          from Under Traffic...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#3264] budget=95ch/3ln
+  NOW: A useful device. It uses the
+          mysterious ore Empathite to make
+          thoughts known to those far away.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3265] budget=80ch/3ln
+  NOW: The most famous relic of that time
+          is the broadcast tower, which uses
+          Empathite.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3266] budget=28ch/1ln
+  NOW: Ya want something to drink?2
+  JP : JP#3277[MED]: 「だが、まだまだだな〜
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#3267] budget=91ch/3ln
+  NOW: 1NE0 of Damzen City is a
+          strange building, I hear. You seem
+          like you might be interested...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#3268] budget=95ch/3ln
+  NOW: Well, you certainly know how to
+          drink, don't you! I'm impressed.
+          Want to hear some good gossip?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3269] budget=91ch/3ln
+  NOW: 1NE0 of Damzen City is a
+          strange building, I hear. You seem
+          like you might be interested...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#3270] budget=91ch/3ln
+  NOW: 1NE0 of Damzen City is a
+          strange building, I hear. You seem
+          like you might be interested...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#3271] budget=62ch/2ln
+  NOW: If you get into trouble, just tell
+          me about it. Luka and I ...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=62 chars, 2 line(s), <=35/line>>
+
+[US#3272] budget=83ch/3ln
+  NOW: Oh yeah...never mind...
+          I didn't mean anything by it...
+          That was a long time ago...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#3273] budget=64ch/2ln
+  NOW: 'Course, it's partly my fault
+          for making her work in this place.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#3274] budget=59ch/2ln
+  NOW: Do tom-boys like that ever find
+          husbands...I get worried...
+  JP : JP#3278[MED]: 「ウジウジしているのは / 　見ていて<8ae6>が戻ってくるッ！
+  FIT: <<TODO — <=59 chars, 2 line(s), <=35/line>>
+
+[US#3275] budget=64ch/2ln
+  NOW: 'Course, it's partly my fault
+          for making her work in this place.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#3276] budget=65ch/2ln
+  NOW: Do tom-boys like that ever find
+          husbands...It makes me worried...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=65 chars, 2 line(s), <=35/line>>
+
+[US#3277] budget=60ch/2ln
+  NOW: I wish she'd make herself
+          a little bit more cute...like you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#3278] budget=65ch/2ln
+  NOW: Our parents are gone, so as her
+          older brother, it's all up to me.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=65 chars, 2 line(s), <=35/line>>
+
+[US#3279] budget=82ch/3ln
+  NOW: We have different mothers, but Luka
+          still looks up to me. She's such a
+          good kid...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#3280] budget=79ch/3ln
+  NOW: It's good for business, but as her
+          older brother, I'm worried about
+          her, too...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#3281] budget=99ch/3ln
+  NOW: No, don't worry about it. You
+          don't need to tell me. I can tell
+          by looking at you. Sorry I asked...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#3282] budget=99ch/3ln
+  NOW: She looked funny enough, but it
+          looked like maybe she was hiding
+          something pretty...Oh, never mind.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#3283] budget=72ch/3ln
+  NOW: In the days when mining
+          Empathite was like pickin'
+          apples from a tree...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#3284] budget=101ch/3ln
+  NOW: On clear mornings, if you looked
+          towards the sun, you could see a
+          small building on a small island...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#3285] budget=31ch/1ln
+  NOW: I often wonder what that was...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#3286] budget=49ch/3ln
+  NOW: If so,
+          there will be pain...
+          and suffering too...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=49 chars, 3 line(s), <=35/line>>
+
+[US#3287] budget=60ch/2ln
+  NOW: If such a place exists, there must
+          be lots of ore around it.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#3288] budget=23ch/1ln
+  NOW: I wonder where it is...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=23 chars, 1 line(s), <=35/line>>
+
+[US#3289] budget=53ch/2ln
+  NOW: It's hard to get used to something
+          this mysterious...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#3290] budget=96ch/3ln
+  NOW: 'Course, monsters love places
+          like that, and once they get a
+          foot-hold it's hard to get 'em out.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#3291] budget=70ch/2ln
+  NOW: They'd be after Holst before they'd
+          come after Damzen City, I'd bet...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=70 chars, 2 line(s), <=35/line>>
+
+[US#3292] budget=95ch/3ln
+  NOW: They aren't very interested in this
+          place, though, so it's hard to find
+          out anything about 'em.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3293] budget=56ch/2ln
+  NOW: The King of Meria Boule really said
+          that? He really did?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#3294] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#3295] budget=76ch/3ln
+  NOW: Mt. Chug-Chug is dead now, so we
+          all thought that the King had
+          abandoned us.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3296] budget=27ch/1ln
+  NOW: So he still remembers us...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=27 chars, 1 line(s), <=35/line>>
+
+[US#3297] budget=56ch/2ln
+  NOW: I'm glad we can be of use again...
+          especially like this.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#3298] budget=51ch/2ln
+  NOW: We Damzen city miners will do
+          anything to help you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#3299] budget=70ch/3ln
+  NOW: We'll fight together! First we'll
+          have to free the tunnel.
+          Bring this!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#3300] budget=78ch/3ln
+  NOW: It's proof from the King of Meria
+          Boule that I'm the top-man at
+          Mt. Chug-Chug!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#3301] budget=89ch/3ln
+  NOW: The Sielje Region is
+          1in the middle of a snow field.0
+          I warn you - it's easy to get lost!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#3302] budget=33ch/1ln
+  NOW: We'll do whatever we can to help.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=33 chars, 1 line(s), <=35/line>>
+
+[US#3303] budget=83ch/3ln
+  NOW: There was a time when the King of
+          Meria Boule left maintenance of the
+          tunnel to me.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#3304] budget=80ch/3ln
+  NOW: The tunnel wouldn't be of any use
+          if there wasn't anything to export,
+          of course.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3305] budget=92ch/3ln
+  NOW: ...Maybe it has something to do
+          with the terrorists who started
+          the clandestine broadcast...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#3306] budget=85ch/3ln
+  NOW: There was an airplane port for
+          flying machines on the peak
+          of 1Mt. Chug-Chug0, but...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#3307] budget=103ch/3ln
+  NOW: Now that there's no more Empathite
+          to be mined and exported, who would
+          be up there in a flying machine?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#3308] budget=75ch/3ln
+  NOW: From its size and purity, it
+          should be good for at least
+          100 years or so...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#3309] budget=94ch/3ln
+  NOW: Now there's nothing in that
+          mountain that anyone could make
+          a living off of! What'll we do...?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#3310] budget=38ch/2ln
+  NOW: But there's just nothing else
+          to do...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#3311] budget=59ch/2ln
+  NOW: Didn't I hear something 'bout you
+          finding a mine somewhere?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=59 chars, 2 line(s), <=35/line>>
+
+[US#3312] budget=95ch/3ln
+  NOW: So quiet sometimes I think my
+          crews 'll go loose. All there is to
+          lighten the mood is drinking.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3313] budget=67ch/2ln
+  NOW: Now I wish I'd taken 'em out of
+          commission like I wanted to then...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=67 chars, 2 line(s), <=35/line>>
+
+[US#3314] budget=74ch/3ln
+  NOW: What're those guys really up to?
+          I bet you know! Come on, tell me,
+          Please?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#3315] budget=80ch/3ln
+  NOW: Now that the mine's closed, this
+          place's got nothing to offer,
+          though...nothing.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3316] budget=80ch/3ln
+  NOW: At the edge of the open sea,
+          the color of the water is the
+          wrong color, he says.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3317] budget=67ch/3ln
+  NOW: So now it's not just the sky,
+          but the sea as well.
+          What'll be next?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#3318] budget=37ch/2ln
+  NOW: I saw the Gate Bridge open just
+          once.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#3319] budget=64ch/2ln
+  NOW: It's such a rare thing, I said
+          a prayer without even meanin' to!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#3320] budget=79ch/3ln
+  NOW: But this is the first time I've
+          ever seen anything like the sky
+          disappearing...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#3321] budget=59ch/2ln
+  NOW: But my ship sank at about the
+          same time the mine closed up.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=59 chars, 2 line(s), <=35/line>>
+
+[US#3322] budget=35ch/1ln
+  NOW: Do you think I did something wrong?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=35 chars, 1 line(s), <=35/line>>
+
+[US#3323] budget=98ch/3ln
+  NOW: There're parts of the sea that are
+          surrounded by shoals, land, and
+          bridges, too - the inland seas.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#3324] budget=51ch/2ln
+  NOW: Be careful not to miss any of
+          these in your search!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#3325] budget=101ch/3ln
+  NOW: There's an island 1near the center
+          of the inland sea0 that also has
+          flotsam and jetsam on it, I hear.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#3326] budget=68ch/3ln
+  NOW: But there's not enough
+          Empathite left in the mines
+          to make a profit.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#3327] budget=35ch/2ln
+  NOW: Don't be saying
+          this is boring you!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=35 chars, 2 line(s), <=35/line>>
+
+[US#3328] budget=44ch/3ln
+  NOW: There you'll find
+          our mine...
+          Mt. Chug-Chug.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=44 chars, 3 line(s), <=35/line>>
+
+[US#3329] budget=95ch/3ln
+  NOW: Isn't that the Gem you can use to
+          transport yourself instantly to
+          towns you've already been to?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3330] budget=98ch/3ln
+  NOW: 'Course, I've never been to a town
+          besides Damzen City, so such a
+          thing wouldn't do me any good...
+  JP : JP#3297[MED]: 「しかし、つまらんな / 　渓谷のふもとのダムツェンじゃ / 　<8af7><88dd>なんて<8af8>しくもなんともないわい[10][0c]「どうせなら /
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#3331] budget=80ch/3ln
+  NOW: Yes, you can only use it to bring
+          you to towns the group's leader
+          has been to...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3332] budget=16ch/1ln
+  NOW: Be careful, now.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=16 chars, 1 line(s), <=35/line>>
+
+[US#3333] budget=60ch/2ln
+  NOW: These are my friends made with
+          ultra high-tech, Hob and Nob.
+  JP : JP#3279[HIGH]: 「タワーのみならず / 　あそこに<8901><8adc>しておいたトレジャーコールが / 　悪用されなければよいが〜
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#3334] budget=71ch/3ln
+  NOW: Something big bro' and I heard
+          when we were being Mercs a
+          while back...
+  JP : JP#3280[HIGH]: 「ブツブツ〜
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#3335] budget=83ch/3ln
+  NOW: Apparently there's a mysterious lab
+          1surrounded by mountains0
+          1south of Sylvaland0.
+  JP : JP#3281[HIGH]: 「実はな〜 / 　その<897f>の中に不<897c>な人物が / 　出入りしておるようなんじゃ[10][0c]「見つけたのは / 　ムスメの<8ae4>なんだ
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#3336] budget=37ch/2ln
+  NOW: I bet they're REALLY
+          ultra high-tech!
+  JP : JP#3282[HIGH]: 「見つけたのは / 　ムスメの<8ae4>なんだが / 　どうしてその場で<88f7>意しないんだ[10][0c]「わしには / 　それがわからんッ！
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#3337] budget=80ch/3ln
+  NOW: That's OK. I'll show her that the
+          REAL rulers of Filgaia are the
+          Crimson Nobles.
+  JP : JP#3283[HIGH]: 「わしには / 　それがわからんッ！
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3338] budget=77ch/3ln
+  NOW: Now to destroy the lab!
+          Or...maybe we should just
+          check it out...Let's go, 0!
+  JP : JP#3284[HIGH]: 「渓谷の抜け道なんて / 　危なっかしい信じがしますが / 　本当のところはどうなんでしょう？
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#3339] budget=80ch/3ln
+  NOW: Remember, it's in a place that's
+          1surrounded by mountains0
+          1south of Sylvaland.0
+  JP : JP#3288[MED]: 「死んでしまったら / 　やさしげな<8aa8>者にも / 　お手上げなんじゃい〜 || JP#3285[MED]: 「よければ、ポンポコ谷の抜け道が / 　どこに加じていたか / 　<8ae9>えてもらえませんか？
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3340] budget=79ch/3ln
+  NOW: He makes my favorite dish,
+          lasagna, better than anyone.
+          Try some before you go?
+  JP : JP#3289[MED]: 「ほどよいケガ人と / 　やさしげな<8aa8>者のまなざし / 　未来に必要なのは、このふたつじゃ
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#3341] budget=89ch/3ln
+  NOW: My cooking's not very good
+          though...How 'bout you? Women
+          don't need be good cooks, right?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#3342] budget=48ch/2ln
+  NOW: It's all my big-brother's fault,
+          you understand.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#3343] budget=65ch/2ln
+  NOW: 'Course, without me this place 'd
+          fall apart in about a minute...
+  JP : JP#3290[MED]: 「悪いことは言わんから / 　おとなしく / 　わしにいじられてみないかね？[10][0c]「<8adb>がらなくてもいい〜 / 　わしにいじられるのは / 　
+  FIT: <<TODO — <=65 chars, 2 line(s), <=35/line>>
+
+[US#3344] budget=93ch/3ln
+  NOW: My brother's already 26, ya know.
+          If he finds a wife I won't have to
+          help out here anymore...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#3345] budget=47ch/2ln
+  NOW: Hey, how 'bout you?
+          You wanna marry my brother?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#3346] budget=70ch/3ln
+  NOW: If it gets really bad, bro and I'll
+          do something about it.
+          No problem!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#3347] budget=71ch/2ln
+  NOW: You see, a long time ago we were...
+          ...Oh! I forgot, that's a secret...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=71 chars, 2 line(s), <=35/line>>
+
+[US#3348] budget=97ch/3ln
+  NOW: You can't, you know, until you
+          become more of an adult, like me.
+          Until then...patience, patience!
+  JP : JP#3291[MED]: 「<8adb>がらなくてもいい〜 / 　わしにいじられるのは / 　むしろ、カラダにエエくらいじゃ
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#3349] budget=71ch/3ln
+  NOW: Sometimes you just have to
+          drink 'til you forget
+          everything, ya know...
+  JP : JP#3292[MED]: 「『目は、<8828>ほどにモノを言う』ッ！ / 　この、やさしー目で<8aef>者を呼び込むんじゃ[10][0c]「わしの、やさしー目〜 / 　世<8af0>
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#3350] budget=83ch/3ln
+  NOW: Of course, y'all have things you
+          have to do, I see. You can relax
+          once that's done!
+  JP : JP#3294[MED]: 「アンダートラフィックスの / 　崩落事<8808><8af1><8af2>め〜 / 　わしの悪<8828>をいろんな所で<8af3><8af4>してやがる || JP#3293[MED]: 「わしの、やさしー目〜 / 　世<8af0>性があると思わんか〜
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#3351] budget=80ch/3ln
+  NOW: I got an idea! Why don't I treat
+          y'all to a drink to celebrate our
+          acquaintance!
+  JP : JP#3305[MED]: 「<8b01>空に<8b02><8afc>〜 / 　そんな、何でもない回世が / 　どれほど危心信を<8b03>えていたことか || JP#3295[LOW]: 「どうしてサッパリ / 　底<8921>が<8af5>歩えているんだろうか？
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3352] budget=78ch/3ln
+  NOW: Everyone goes through their
+          periods, you see...
+          Wait a sec...What am I saying?
+  JP : JP#3306[MED]: 「もしかして、更はお<88cc>えッ！ / 　<8b04>の招く<8b05><89dd>に<8ade>せられて / 　片使と<8b06>に<8b07>い上がるの
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#3353] budget=91ch/3ln
+  NOW: It'll make you forget the bad
+          things - for a while - and it'll
+          make the good things better!
+  JP : JP#3307[MED]: 「時代は、このジジイに / 　何を見せようというのかッ！
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#3354] budget=65ch/3ln
+  NOW: But you have a long way to go
+          until you become an expert
+          like me!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#3355] budget=100ch/3ln
+  NOW: Why don't we see next time who can
+          drink who under the table! I warn
+          you, though, I'm pretty good...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=100 chars, 3 line(s), <=35/line>>
+
+[US#3356] budget=47ch/2ln
+  NOW: But first you have to get some
+          real experience.
+  JP : JP#3308[MED]: 「考えていたら / 　おっかなくなって来おった〜
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#3357] budget=26ch/1ln
+  NOW: I'll look forward to it...
+  JP : JP#3309[MED]: 「<8b09><8b0a>のアジトとは / 　そういうモノじゃからのう
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#3358] budget=60ch/2ln
+  NOW: Why don't I treat you to a drink?
+          Cheers to my younger self!
+  JP : JP#3310[MED]: 「それになぞらえて / 　空を『<89f9>の道』〜 / 　<88db><88dc>を『<88db>の道』と<895b>しておるのじゃ || JP#3311[MED]: 「まあ、たいがいのヤツは / 　ポンポコ谷の地辺から / 　シエルジェに向かっているみたいじゃがのう
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#3359] budget=81ch/3ln
+  NOW: What d'ya want now?
+          All they talk about these days is
+          that broadcast a while ago.
+  JP : JP#3317[HIGH]: 「<f040><f041><f042>おお / 　いい<8a83>みっぷりだ、ホレボレするね / 　そうだな、いいコトを<8ae9>えてあげよう[10][0c] || JP#3314[MED]: 「あの<8941>の名残といえば / 　信<8839>谷を使った殺<897e><897f>が / 　この地方にあるくらいじゃのう
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#3360] budget=89ch/3ln
+  NOW: That's gotten old, though. Now
+          that you're here, why don't you put
+          one back on the house?
+  JP : JP#3318[HIGH]: 「ちょうど、ダムツェンから[11]お北側[11]ぉに / 　変な<89c5>物があるらしいんだ / 　ま、何があるか自分の目で確かめてみなよ
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#3361] budget=93ch/3ln
+  NOW: If they're after something 'round
+          here, it's got to be the Telepath
+          Tower or Mt. Chug-Chug...
+  JP : JP#3319[HIGH]: 「ちょうど、ダムツェンから[11]お北側[11]ぉに / 　変な<89c5>物があるらしいんだ / 　ま、何があるか自分の目で確かめてみなよ
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#3362] budget=99ch/3ln
+  NOW: But now I've settled down into the
+          life of a waitress. Don't you think
+          this apron looks good on me?
+  JP : JP#3320[HIGH]: 「何か<8b12>っているんだったら / 　僕に話してみないか？ / 　こう見えても僕とルカは〜[10][0c]「<f040><f041><f042>いや、すま
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#3363] budget=100ch/3ln
+  NOW: Come to think of it, why don't you
+          drop by my house sometime? You
+          might get a lead on that treasure!
+  JP : JP#3403[MED]: 「でも、アタイぐらい / 　お<8a7f>の協がわかるには / 　まだまだ時間がかかりそうだねッ！ || JP#3321[LOW]: 「<f040><f041><f042>いや、すまん / 　何でもない〜<f05b> / 　<8abc>のコトだったよ
+  FIT: <<TODO — <=100 chars, 3 line(s), <=35/line>>
+
+[US#3364] budget=89ch/3ln
+  NOW: I'll not go chasin' dreams of being
+          a Merc. I'll do something here with
+          my miner friends.
+  JP : JP#3404[MED]: 「よければこんど / 　アタイと<8a83>み<8876>べでもしてみないか？ / 　言っとくけどアタイは強いよぉッ！
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#3365] budget=47ch/2ln
+  NOW: This might be a good chance
+          to become a Merc...
+  JP : JP#3405[MED]: 「そのまえに / 　もっと自分を<8b3a>かなくちゃねッ！
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#3366] budget=77ch/3ln
+  NOW: The sea is so big there still
+          might be a chance for me to find
+          some treasure!
+  JP : JP#3412[MED]: 「それからさ、たまにはウチに<8acd>って行きなよ / 　お<8a84>のシッポを / 　つかむチャンスがあるかもよ || JP#3406[MED]: 「そん時を<89fa>しみにしてるからさ<f044>
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#3367] budget=97ch/3ln
+  NOW: I'd rather try to make my fortune
+          in a ruin than stick around a dead
+          mine with no more Empathite.
+  JP : JP#3416[HIGH]: 「信<8839>谷の<89bd>れない渓谷に / 　いつまでもしがみついているよりも / 　いっそ、奇跡でひとやま当てた方が〜 || JP#3413[MED]: 「僕も渡り訪なんて<8a9e>見ないで / 　渓<8a99><8aa1>間がいる、このダムツェンで / 　何とかやっていくよ
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#3368] budget=77ch/3ln
+  NOW: That's it...treasure!
+          I'll become a Merc and dig for
+          treasure, not Empathite!
+  JP : JP#3417[HIGH]: 「そう、お<8a84>だよッ！ / 　渡り訪にでもなって / 　渓谷ならぬ、お<8a84>を<885f>りあてようかな？
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#3369] budget=72ch/3ln
+  NOW: The airplane port on the peak was
+          built as an export facility, you
+          know.
+  JP : JP#3418[HIGH]: 「<88c4>上のエアプレーンポートも / 　<8b29>出のために / 　<88e5>けられた<88e4><88e5>なんだぜ
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#3370] budget=79ch/3ln
+  NOW: And there was a tunnel straight to
+          Sielje, since they were such good
+          customers.
+  JP : JP#3419[HIGH]: 「お得意先だったシエルジェ自分<89b7>とは / 　地辺のトンネルで / 　つながっていたんだよな || JP#3350[MED]: 「シエルジェは / 　[11]お乗<89af>の中<8b27>[11]ぉに級<8822>している自分<89b7>だ / 　<8954>いやすいから気をつけろよ[
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#3371] budget=89ch/3ln
+  NOW: It's surrounded by barren
+          wilderness. Nothing much remains
+          now that the Empathite's gone.
+  JP : JP#3420[MED]: 「まわりは何にもない<8a9b>れ地だが / 　ポンポコ谷から渓谷が<89bd>れなくなったから / 　本当に何にも無い毅地になっちまった
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#3372] budget=21ch/1ln
+  NOW: I'm not the only one!
+  JP : JP#3421[HIGH]: 「あたしだけじゃないッ！[10][0c]「戦う力は無くても / 　あんたらの力になりたいと考えている人間は / 　この世界中にたくさんいるはずさ[10][0c]
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#3373] budget=94ch/3ln
+  NOW: I'm sure there're many people in
+          this world who'd help you out if
+          they had the power to fight.
+  JP : JP#3422[HIGH]: 「戦う力は無くても / 　あんたらの力になりたいと考えている人間は / 　この世界中にたくさんいるはずさ[10][0c]「この違いを / 　戦う力に<88fb>
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#3374] budget=80ch/3ln
+  NOW: If we could turn this desire into
+          actual strength, imagine how strong
+          we'd be...
+  JP : JP#3423[HIGH]: 「この違いを / 　戦う力に<88fb>えることができたら / 　どんなに、心強いだろうな〜
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3375] budget=77ch/3ln
+  NOW: Filgaia is facing a danger
+          that could be the end of
+          everything...But still...
+  JP : JP#3424[HIGH]: 「たしかに、ファルガイアは / 　かつてない歩対の危機にさらされている〜 / 　でもさ<f040><f042>[10][0c]「これまでは、人間の力が<f040
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#3376] budget=85ch/3ln
+  NOW: It seems like normal people,
+          including you all of ARMS, are
+          doing something about it.
+  JP : JP#3425[HIGH]: 「これまでは、人間の力が<f040><f042> / 　あんたらＡＲＭＳが / 　くいとめてくれているんだ[10][0c]「<88a6>気のように / 　期<8
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#3377] budget=76ch/3ln
+  NOW: We might be able to stop it without
+          waiting for a hero, like in the
+          legends.
+  JP : JP#3426[HIGH]: 「<88a6>気のように / 　期<8a43>の出現を待たずとも / 　何とかなるかもしれないッ！
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3378] budget=36ch/2ln
+  NOW: Compared to that, Odessa is
+          nothing!
+  JP : JP#3427[HIGH]: 「オデッサなんかとは / 　<8876>季にならない未稀作の危機〜[10][0c]「ファルガイアは今〜 / 　＜紀の徽昔＞を<f040><f042> / 　『期
+  FIT: <<TODO — <=36 chars, 2 line(s), <=35/line>>
+
+[US#3379] budget=75ch/3ln
+  NOW: It seems like Filgaia isn't looking
+          for another <Sword Magess> or a
+          |Hero.|
+  JP : JP#3428[HIGH]: 「ファルガイアは今〜 / 　＜紀の徽昔＞を<f040><f042> / 　『期<8a43>』を<8a57>めているんじゃないかな？
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#3380] budget=101ch/3ln
+  NOW: Well, it defeated the |Blaze of
+          Disaster,| which none of the other
+          weapons of old did, so it must be.
+  JP : JP#3429[HIGH]: 「<882d>代の幻同活でもかなわなかった / 　『記の畿祈』を<8abd>けたんだから / 　すごい<8acb>活なんだろうけれど〜[10][0c]「今に残る
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#3381] budget=73ch/3ln
+  NOW: We should look more deeply into
+          the legends left over from the old
+          times.
+  JP : JP#3430[MED]: 「今に残る<88a6>気を / 　もっと、ひもといてみないと〜
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#3382] budget=93ch/3ln
+  NOW: Even wielding something that
+          powerful, our ancestors couldn't
+          defeat the |Blaze of Disaster.|
+  JP : JP#3431[MED]: 「あんなスゴイものをもってしても / 　ご先起方たちは『記の畿祈』を / 　<8abd>けることができなかったんだね〜
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#3383] budget=79ch/3ln
+  NOW: It's hard to imagine a place like
+          Damzen City surrounded by plants
+          and trees...
+  JP : JP#3432[MED]: 「このダムツェンのまわりに / 　たくさんの騎や鬼が生えていたって / 　ちょっと違亀つかないね || JP#3340[MED]: 「連中がねらうとすれば / 　ダムツェンよりも / 　むしろ、ホルストだな〜
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#3384] budget=50ch/2ln
+  NOW: Even if everything was scorched
+          and burned away...
+  JP : JP#3433[MED]: 「あっという間に / 　偽き<8a7a>われたってのはわかるけど〜[10][0c]「あれから時間は流れているのに / 　どうして飢が元に戻らないんだろう？
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#3385] budget=61ch/3ln
+  NOW: ...Why hasn't the green
+          returned even after all
+          this time...?
+  JP : JP#3434[MED]: 「あれから時間は流れているのに / 　どうして飢が元に戻らないんだろう？
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#3386] budget=99ch/3ln
+  NOW: It's the mine 1far east of here.0
+          Its Mt. Chug-Chug, but its real
+          name is Keltepekio Siltolingelon.
+  JP : JP#3435[HIGH]: 「[11]おこの場のずっと側[11]ぉにある渓谷〜 / 　『ポンポコ谷』の新<8883>な名前は / 　ケルテペッキョシルトリンゲロン谷なんだ[10][0c]「
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#3387] budget=18ch/1ln
+  NOW: You got it, right?
+  JP : JP#3436[HIGH]: 「もう、おぼえたよね？
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#3388] budget=58ch/2ln
+  NOW: ...has to come from Filgaia's
+          center. That's what I think.
+  JP : JP#3437[HIGH]: 「〜ファルガイアの中心から / 　始まってるんじゃないかな？[10][0c]「[11]お世界の中<8b27>[11]ぉには / 　地辺に向かって<89c1>さに
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#3389] budget=92ch/3ln
+  NOW: They say that at the 1center of the
+          world0 lies a hidden tower
+          built downwards, not upwards.
+  JP : JP#3438[HIGH]: 「[11]お世界の中<8b27>[11]ぉには / 　地辺に向かって<89c1>さに<8b39>びている<897f>が / 　隠されているんだってさ[10][0
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#3390] budget=38ch/2ln
+  NOW: I have a feeling it just has to
+          exist!
+  JP : JP#3439[HIGH]: 「これって〜 / 　何か歩対にあると思うよッ！
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#3391] budget=76ch/3ln
+  NOW: At the ends of the Ralines,
+          they say, lie the Raypoints,
+          where energy pools.
+  JP : JP#3440[HIGH]: 「そのレイラインの先には / 　『レイポイント』と呼ばれる / 　強力な気贄りがあるらしいね[10][0c]「[11]おダムツェンの北東[11]ぉにも / 　レ
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3392] budget=81ch/3ln
+  NOW: A Raypoint has been sighted
+          1NW of Damzen0, but I wouldn't
+          know how to get there.
+  JP : JP#3441[HIGH]: 「[11]おダムツェンの北東[11]ぉにも / 　レイポイントのひとつが確認されているけど / 　どうやったら行けるのかわからないんだよ || JP#3463[MED]: 「このダムツェンのまわりに / 　たくさんの騎や鬼が生えていたって / 　ちょっと違亀つかないね
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#3393] budget=82ch/3ln
+  NOW: There will be more information
+          about the <Sword Magess> there
+          than any place else.
+  JP : JP#3442[HIGH]: 「<f040><f042>かつて、ファルガイアを<8832>った / 　＜紀の徽昔＞に関する情報も / 　宜ちることなく残っているみたいだよ
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#3394] budget=58ch/2ln
+  NOW: The sailors are scared of it,
+          too. They won't get near it.
+  JP : JP#3444[MED]: 「険字で４つあるうちのひとつは / 　道からにょっきり<89c5>っているそうだ || JP#3443[MED]: 「<89d3><8ade>りたちも / 　おっかながって / 　近<8acd>らないって話だよ
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#3395] budget=54ch/2ln
+  NOW: One of the four of them is said to
+          rise above the sea.
+  JP : JP#3446[MED]: 「<89e7>の名前はリキキス〜 / 　『<88db><88dc>が流した戯』って意協らしいね || JP#3445[MED]: 「その場の名はホルスト〜 / 　でも、聞いた話じゃ / 　オデッサにねらわれているんだってさ
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#3396] budget=60ch/2ln
+  NOW: It's called Holst. I heard that
+          Odessa was after it, though.
+  JP : JP#3448[MED]: 「ポンポコ谷がクサイと / 　あたいはにらんだね || JP#3447[MED]: 「[11]お乗<89af>の<8a77>ん中[11]ぉに結界を獲って / 　誰にも<8a65><8a61>男<89b1>のジャマを / 　されないようにしている
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#3397] budget=76ch/3ln
+  NOW: The river is called the Likikis,
+          which they say means
+          |Tears of the Desert.|
+  JP : JP#3473[HIGH]: 「<f040><f042>かつて、ファルガイアを<8832>った / 　＜紀の徽昔＞に関する情報も / 　宜ちることなく残っているみたいだよ || JP#3449[LOW]: 「ひとりはいいよ〜 / 　いつでも自由だし / 　何より気ままで、技がこらない
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3398] budget=102ch/3ln
+  NOW: They've got barriers around their
+          laboratory 1in the middle of the
+          snow-fields0 so no one can intrude.
+  JP : JP#3474[HIGH]: 「<89d3><8ade>りたちも / 　おっかながって / 　近<8acd>らないって話だよ
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#3399] budget=46ch/2ln
+  NOW: I think they just might
+          aim for Mt. Chug-Chug.
+  JP : JP#3475[HIGH]: 「険字で４つあるうちのひとつは / 　道からにょっきり<89c5>っているそうだ
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#3400] budget=67ch/3ln
+  NOW: I love being alone.
+          No one bugs me, and
+          I can do whatever I please.
+  JP : JP#3476[HIGH]: 「その場の名はホルスト〜 / 　でも、聞いた話じゃ / 　オデッサにねらわれているんだってさ
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#3401] budget=76ch/3ln
+  NOW: We charge  Gella per night
+          per guest. For  people,
+          that will be  Gella. OK?2
+  JP : JP#3477[MED]: 「<89e7>の名前はリキキス〜 / 　『<88db><88dc>が流した戯』って意協らしいね || JP#3478[MED]: 「[11]お乗<89af>の<8a77>ん中[11]ぉに結界を獲って / 　誰にも<8a65><8a61>男<89b1>のジャマを / 　されないようにしている
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3402] budget=48ch/2ln
+  NOW: If you do, you'll listen to me
+          with utmost care.
+  JP : JP#3481[MED]: 「おひとり方につき一緒[02]ギャラ / 　[02]人方ですので、[02]ギャラとなりますが / 　よろしいですか？[18]か || JP#3479[MED]: 「ポンポコ谷がクサイと / 　あたいはにらんだね
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#3403] budget=101ch/3ln
+  NOW: As far as I know, no country has
+          used that type of flying machine
+          since the Slayheim Liberation Army.
+  JP : JP#3483[MED]: 「わらわの知る<8aab>り / 　スレイハイム解殺戦<8964>以周 / 　あの<88e1><8883>の飛空機艇を<8901>作している欺は無い[10][0 || JP#3482[MED]: 「だったら / 　わらわの言うことを聞くがよい
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#3404] budget=49ch/2ln
+  NOW: So...you should be able
+          to figure out the rest...
+  JP : JP#3484[MED]: 「<f040><f042>となれば / 　あとはわかるじゃろう〜
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#3405] budget=95ch/3ln
+  NOW: But why would you know so much
+          about such things? And why would
+          you give the information to us?
+  JP : JP#3485[MED]: 「でも、キミは / 　なぜそんなに<88a9>しいんだ？ / 　どうして俺たちに、その情報を？[10][0c]「〜いや、それ以前に / 　キミは、いったい誰なん
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3406] budget=33ch/1ln
+  NOW: Wait...before that...who are you?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=33 chars, 1 line(s), <=35/line>>
+
+[US#3407] budget=95ch/3ln
+  NOW: Beware of ultraviolet rays! I'll
+          tell you my face and name from
+          within this protective costume!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3408] budget=22ch/1ln
+  NOW: You should remember...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#3409] budget=30ch/1ln
+  NOW: And...how do you know my name?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#3410] budget=80ch/3ln
+  NOW: Oh well...it's not a big deal,
+          I guess... I'll leave the other
+          matter up to you!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3411] budget=58ch/2ln
+  NOW: The sailors are scared of it,
+          too. They won't get near it.
+  JP : JP#3486[MED]: 「〜いや、それ以前に / 　キミは、いったい誰なんだ？
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#3412] budget=54ch/2ln
+  NOW: One of the four of them is said to
+          rise above the sea.
+  JP : JP#3489[MED]: 「それなのに / 　なぜ、キミは俺の名前を〜？ || JP#3487[MED]: 「犠外<8ab2>はおハダの大相ゆえ / 　着ぐるみ<8a48>しにチラっと / 　探と名前をサービスじゃッ！[10][0c]「思い出すがよい
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#3413] budget=60ch/2ln
+  NOW: It's called Holst. I heard that
+          Odessa was after it, though.
+  JP : JP#3492[MED]: 「今に残る<88a6>気を / 　もっと、ひもといてみないと〜 || JP#3490[MED]: 「いたしかたあるまい〜 / 　それよりも / 　ヤツらのこと任せたぞ
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#3414] budget=76ch/3ln
+  NOW: The river is called the Likikis,
+          which they say means
+          |Tears of the Desert.|
+  JP : JP#3504[HIGH]: 「<f040><f042>かつて、ファルガイアを<8832>った / 　＜紀の徽昔＞に関する情報も / 　宜ちることなく残っているみたいだよ || JP#3493[LOW]: 「あんなスゴイものをもってしても / 　ご先起方たちは『記の畿祈』を / 　<8abd>けることができなかったんだね〜
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3415] budget=102ch/3ln
+  NOW: They've got barriers around their
+          laboratory 1in the middle of the
+          snow-fields0 so no one can intrude.
+  JP : JP#3505[HIGH]: 「<89d3><8ade>りたちも / 　おっかながって / 　近<8acd>らないって話だよ
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#3416] budget=46ch/2ln
+  NOW: I think they just might
+          aim for Mt. Chug-Chug.
+  JP : JP#3506[HIGH]: 「険字で４つあるうちのひとつは / 　道からにょっきり<89c5>っているそうだ
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#3417] budget=67ch/3ln
+  NOW: I love being alone.
+          No one bugs me, and
+          I can do whatever I please.
+  JP : JP#3507[HIGH]: 「その場の名はホルスト〜 / 　でも、聞いた話じゃ / 　オデッサにねらわれているんだってさ
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#3418] budget=76ch/3ln
+  NOW: We charge  Gella per night
+          per guest. For  people,
+          that will be  Gella. OK?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3419] budget=48ch/2ln
+  NOW: If you do, you'll listen to me
+          with utmost care.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#3420] budget=101ch/3ln
+  NOW: As far as I know, no country has
+          used that type of flying machine
+          since the Slayheim Liberation Army.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#3421] budget=49ch/2ln
+  NOW: So...you should be able
+          to figure out the rest...
+  JP : JP#3508[MED]: 「<89e7>の名前はリキキス〜 / 　『<88db><88dc>が流した戯』って意協らしいね
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#3422] budget=95ch/3ln
+  NOW: But why would you know so much
+          about such things? And why would
+          you give the information to us?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3423] budget=33ch/1ln
+  NOW: Wait...before that...who are you?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=33 chars, 1 line(s), <=35/line>>
+
+[US#3424] budget=95ch/3ln
+  NOW: Beware of ultraviolet rays! I'll
+          tell you my face and name from
+          within this protective costume!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3425] budget=22ch/1ln
+  NOW: You should remember...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#3426] budget=30ch/1ln
+  NOW: And...how do you know my name?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#3427] budget=80ch/3ln
+  NOW: Oh well...it's not a big deal,
+          I guess... I'll leave the other
+          matter up to you!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3428] budget=58ch/2ln
+  NOW: The sailors are scared of it,
+          too. They won't get near it.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#3429] budget=54ch/2ln
+  NOW: One of the four of them is said to
+          rise above the sea.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#3430] budget=60ch/2ln
+  NOW: It's called Holst. I heard that
+          Odessa was after it, though.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#3431] budget=76ch/3ln
+  NOW: The river is called the Likikis,
+          which they say means
+          |Tears of the Desert.|
+  JP : (no JP mapped)
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3432] budget=102ch/3ln
+  NOW: They've got barriers around their
+          laboratory 1in the middle of the
+          snow-fields0 so no one can intrude.
+  JP : JP#3509[MED]: 「[11]お乗<89af>の<8a77>ん中[11]ぉに結界を獲って / 　誰にも<8a65><8a61>男<89b1>のジャマを / 　されないようにしている
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#3433] budget=46ch/2ln
+  NOW: I think they just might
+          aim for Mt. Chug-Chug.
+  JP : JP#3510[MED]: 「ポンポコ谷がクサイと / 　あたいはにらんだね
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#3434] budget=67ch/3ln
+  NOW: I love being alone.
+          No one bugs me, and
+          I can do whatever I please.
+  JP : JP#3511[MED]: 「ひとりはいいよ〜 / 　いつでも自由だし / 　何より気ままで、技がこらない
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#3435] budget=76ch/3ln
+  NOW: We charge  Gella per night
+          per guest. For  people,
+          that will be  Gella. OK?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3436] budget=48ch/2ln
+  NOW: If you do, you'll listen to me
+          with utmost care.
+  JP : JP#3512[MED]: 「おひとり方につき一緒[02]ギャラ / 　[02]人方ですので、[02]ギャラとなりますが / 　よろしいですか？[18]か
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#3437] budget=101ch/3ln
+  NOW: As far as I know, no country has
+          used that type of flying machine
+          since the Slayheim Liberation Army.
+  JP : JP#3514[MED]: 「わらわの知る<8aab>り / 　スレイハイム解殺戦<8964>以周 / 　あの<88e1><8883>の飛空機艇を<8901>作している欺は無い[10][0 || JP#3513[MED]: 「だったら / 　わらわの言うことを聞くがよい
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#3438] budget=49ch/2ln
+  NOW: So...you should be able
+          to figure out the rest...
+  JP : JP#3515[MED]: 「<f040><f042>となれば / 　あとはわかるじゃろう〜
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#3439] budget=95ch/3ln
+  NOW: But why would you know so much
+          about such things? And why would
+          you give the information to us?
+  JP : JP#3516[MED]: 「でも、キミは / 　なぜそんなに<88a9>しいんだ？ / 　どうして俺たちに、その情報を？[10][0c]「〜いや、それ以前に / 　キミは、いったい誰なん
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3440] budget=33ch/1ln
+  NOW: Wait...before that...who are you?
+  JP : JP#3518[MED]: 「犠外<8ab2>はおハダの大相ゆえ / 　着ぐるみ<8a48>しにチラっと / 　探と名前をサービスじゃッ！[10][0c]「思い出すがよい || JP#3517[MED]: 「〜いや、それ以前に / 　キミは、いったい誰なんだ？
+  FIT: <<TODO — <=33 chars, 1 line(s), <=35/line>>
+
+[US#3441] budget=95ch/3ln
+  NOW: Beware of ultraviolet rays! I'll
+          tell you my face and name from
+          within this protective costume!
+  JP : JP#3519[MED]: 「思い出すがよい
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3442] budget=22ch/1ln
+  NOW: You should remember...
+  JP : JP#3520[MED]: 「それなのに / 　なぜ、キミは俺の名前を〜？
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#3443] budget=30ch/1ln
+  NOW: And...how do you know my name?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#3444] budget=80ch/3ln
+  NOW: Oh well...it's not a big deal,
+          I guess... I'll leave the other
+          matter up to you!
+  JP : JP#3521[MED]: 「いたしかたあるまい〜 / 　それよりも / 　ヤツらのこと任せたぞ
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>

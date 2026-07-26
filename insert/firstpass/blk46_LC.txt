@@ -1,0 +1,182 @@
+# WA2 — Lost City Archeim (b) (LC) — block 46, US#6090-6134 — FIRST-PASS insert-ready
+# =========================================================================================
+# FIRST PASS (auto-generated): RE = the US localization reflowed to the display window
+#   (<=3 lines x <=35 chars), em dashes stripped, color-code artifacts removed. JP shown for
+#   reference (block-decoded; residual codes possible). This is NOT a deep literary
+#   retranslation — it gives Lost City Archeim (b) valid insert text; flag for a deep RE pass later.
+# US# reconciled by construction (IDs are the real block-46 message slots).
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#6108]
+  JP : 「あなたたちが選んだ道に / 過ちはなかったと / 言い切れる自信はあって？<b:8a3b>の東<89f5><b:8a3b>の北<89f5><b:8a3b>の側<89f5><b:8a3b>の先<89f5><b:8a3b>の東<89f5><b:8a3b>の北<89f5><b:8a3b>の側<89f5>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Can you say with confidence that the path you have chosen is the right one?
+  RE : Can you say with confidence that
+       the path you have chosen is the
+       right one?
+
+[US#6109]
+  JP : 「おあいにくさま / どんな方法を使ってきても / わたしには、魔法があるんだから
+  LIT: Too bad for you; whatever method you bring, I have magic.
+  EN : Sorry, pal. Nothing you do, will work because I've got magical powers.
+  RE : Sorry, pal. Nothing you do, will
+       work because I've got magical
+       powers.
+
+[US#6110]
+  JP : 「わたしだって / お<b:8a3c>ちゃんみたいになれるんだからッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm going to be able to do it all, too. Just like my older sister!
+  RE : I'm going to be able to do it all,
+       too. Just like my older sister!
+
+[US#6111]
+  JP : 「オデッサ<b:8a3d>部とはいえ / できれば、その<f040><f042> / 女性とは戦いたくない<b:8a3e>いな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Though she's an Odessa officer, if possible, I'd rather not fight that woman.
+  RE : Though she's an Odessa officer, if
+       possible, I'd rather not fight that
+       woman.
+
+[US#6112]
+  JP : 「わたしには / ここにいる理由も / <b:8a3f>っていく信<b:8a40>すらもある<b:8a38>けない、と<f040><f042> / そういうわけだな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I have my reasons for being here and am ready to die if I must.
+  RE : I have my reasons for being here
+       and am ready to die if I must.
+
+[US#6113]
+  JP : 「だが、向かって<b:8a41>る以上 / 僕たちも見過ごすわけにもいかん / 全力であたらせてもらうッ！<b:8b01>[80][01][01]鷭[06]アンテノーラ / 「戦場に立つわたしを / ヴィンスフェルトは見ていてくれる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But if you attack, we have no choice but to respond. We'll give it our best shot!
+  RE : But if you attack, we have no
+       choice but to respond. We'll give
+       it our best shot!
+
+[US#6114]
+  JP : 「その<b:8a42>待にこたえるため / わたしはあなたたちと / 戦わなければならない〜<b:8b01>[12][0c]<e814>[80][07][10][08]<b:8b01><8101>[06]「魔界鍵を<b:8a43>るのではないッ！ / わたしが<b:8a43>るのは / この<89e
+  LIT: (literal pending: JP has unsolved codes)
+  EN : So, to meet his expectations I will have to fight you.
+  RE : So, to meet his expectations I will
+       have to fight you.
+
+[US#6115]
+  JP : 「<89e5>に<b:8a45>めた想いが / ようやくカタチとなって / <b:8a46>えあがっていく〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The pain that has been concealed in my heart has finally been given form.
+  RE : The pain that has been concealed in
+       my heart has finally been given
+       form.
+
+[US#6116]
+  JP : 「今のわたしのこの<b:8a47>を / あのひとに〜 / ヴィンスフェルトに<88f8>けなくては〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I need for him to see how I look right now. I need Vinsfeld to see.
+  RE : I need for him to see how I look
+       right now. I need Vinsfeld to see.
+
+[US#6117]
+  JP : 「わたしが？ あの剣を？ / あははははッ！ / <b:8a48>わせてくれるッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Me? And that man? Ha! Ha! Ha! You make me laugh!
+  RE : Me? And that man? Ha! Ha! Ha! You
+       make me laugh!
+
+[US#6119]
+  JP : 「スレイハイム<89fb><b:8a4e>に / 連なるって理由だけでね〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They were killed just because they were connected to the Slayheim Royal Family.
+  RE : They were killed just because they
+       were connected to the Slayheim
+       Royal Family.
+
+[US#6120]
+  JP : 「あの解放<b:8a4f>を指揮していた剣 / ヴィンスフェルト〜 / あの剣は、<b:8a4b>方と<b:8a4c>方の<b:8a50>〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That man Vinsfeld who lead the Slayheim Liberation Army-- He killed my parents.
+  RE : That man Vinsfeld who lead the
+       Slayheim Liberation Army, He killed
+       my parents.
+
+[US#6121]
+  JP : 「でも、わたしの力では / あの剣を / <b:8a51>つことなんてできなかった〜<b:8a52>したというのか？<b:8a49><b:8a4a>なの〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But my powers alone weren't strong enough to destroy that man.
+  RE : But my powers alone weren't strong
+       enough to destroy that man.
+
+[US#6122]
+  JP : 「わたしからすべてを<b:8a53>った / あの剣に対する / わたしのできる最大の<b:8a49><b:8a4a>〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : This was the biggest revenge I could take on the man who took everything from me.
+  RE : This was the biggest revenge I
+       could take on the man who took
+       everything from me.
+
+[US#6123]
+  JP : 「どんな<b:8a54>にまみれても / どんな苦<b:8a55>を<b:8a56>わっても / あの剣の心を<b:8a53>うためにね〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : All the sins I committed, all the pain I suffered, was to steal his heart.
+  RE : All the sins I committed, all the
+       pain I suffered, was to steal his
+       heart.
+
+[US#6124]
+  JP : 「ヴィンスフェルトは / わたしのココロもカラダも / <b:8a57>めてきたわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Vinsfeld came seeking my heart and my body.
+  RE : Vinsfeld came seeking my heart and
+       my body.
+
+[US#6125]
+  JP : 「そう、あの剣の心の中が / わたしで大きく<b:8a58>められてきたの
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I have come to occupy a large place in his heart.
+  RE : I have come to occupy a large place
+       in his heart.
+
+[US#6126]
+  JP : 「あなた方に / わたしが倒されたと知った時 / あの剣はどんな探をするのかしら？
+  LIT: When he learns I was struck down by the likes of you, what sort of face will that swordsman make? (探->顔 corrupt)
+  EN : I can imagine the expression on his face when he hears I have been destroyed.
+  RE : I can imagine the expression on his
+       face when he hears I have been
+       destroyed.
+
+[US#6127]
+  JP : 「フフフフフフフ〜<b:8a53>うこと
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Ha. Ha. Ha. Ha.
+  RE : Ha. Ha. Ha. Ha.
+
+[US#6128]
+  JP : 「そうよ〜 <b:8a49><b:8a4a>なのよ、これは〜<b:8a49><b:8a4a>〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I get my revenge.
+  RE : I get my revenge.
+
+[US#6129]
+  JP : 「〜それでもあの人 / ヴィンスフェルトのことが / <b:8a59>きなんだと思う〜<b:8a5a>むこと / それはただ、表と<b:8a5b>の違い
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I still believe she had strong feelings for Vinsfeld.
+  RE : I still believe she had strong
+       feelings for Vinsfeld.
+
+[US#6130]
+  JP : 「強く念じることで / 力を呼び込む想いのカタチ〜
+  LIT: A form of will that draws in power by fierce concentration.
+  EN : It's giving form to gaining strength from one's strong desires.
+  RE : It's giving form to gaining
+       strength from one's strong desires.
+
+[US#6131]
+  JP : 「ここから出る手<b:8a3b>は / ただひとつということか / フッ、おもしろい<b:8a5c><b:8a5d>だッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That means there's only one way out of here. How amusing!
+  RE : That means there's only one way out
+       of here. How amusing!
+
+# =========================================================================================
+# STATUS: 23 boxes first-passed (US#6090-6134, block 46). Em-dash-free, <=3x35.
+# =========================================================================================

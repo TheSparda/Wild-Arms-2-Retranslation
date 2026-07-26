@@ -1,0 +1,641 @@
+==========================================================================================
+PHASE B — DUPLICATE-CODED CHARS (merge-error audit)
+  For each char with 2+ codes: top compounds per code. DISJOINT profiles = merge error.
+==========================================================================================
+
+## 戦 <- codes ['88bc', '8a46']
+  88bc (freq=717, blocks=59):
+      作戦  70x/14blk  [88bb+88bc]
+      街戦  38x/9blk  [8891+88bc]
+      戦力  27x/16blk  [88bc+880b]
+      戦場  22x/13blk  [88bc+88d3]
+      戦岩  15x/5blk  [88bc+8a3c]
+      放戦  14x/6blk  [88ac+88bc]
+  8a46 (freq=122, blocks=53):
+      挑戦  18x/9blk  [8a45+8a46]
+      戦戦  7x/3blk  [88bc+8a46]
+      戦周  6x/6blk  [8a46+8a47]
+      □戦  6x/2blk  [88ea+8a46]
+
+## 世 <- codes ['8970', '896b']
+  8970 (freq=571, blocks=53):
+      世界  501x/44blk  [8970+8971]
+      異世  33x/6blk  [895d+8970]
+      世代  30x/5blk  [8970+8a05]
+      更世  26x/2blk  [88c9+8970]
+      世間  10x/3blk  [8970+890f]
+  896b (freq=101, blocks=23):
+      □世  34x/9blk  [896a+896b]
+      異世  31x/11blk  [895d+896b]
+      世事  30x/10blk  [896b+8807]
+      世開  18x/6blk  [896b+88d8]
+      回世  9x/7blk  [89d6+896b]
+
+## 間 <- codes ['890f', '8a4a']
+  890f (freq=490, blocks=60):
+      人間  153x/25blk  [8816+890f]
+      時間  60x/17blk  [88ba+890f]
+      間違  27x/11blk  [890f+8985]
+      間人  20x/6blk  [890f+8816]
+      中間  19x/7blk  [885d+890f]
+      恥間  18x/2blk  [8a4f+890f]
+  8a4a (freq=135, blocks=49):
+      仲間  22x/10blk  [8a49+8a4a]
+      間訪  20x/6blk  [8a4a+8a4b]
+      意間  8x/2blk  [89d1+8a4a]
+      間体  7x/2blk  [8a4a+886a]
+
+## 回 <- codes ['89d6', '8910']
+  89d6 (freq=196, blocks=35):
+      今回  61x/19blk  [8846+89d6]
+      次回  40x/14blk  [8879+89d6]
+      回世  9x/7blk  [89d6+896b]
+      一回  5x/2blk  [88eb+89d6]
+  8910 (freq=432, blocks=112):
+      今回  327x/112blk  [8846+8910]
+      回□  10x/8blk  [8910+8939]
+      回右  6x/3blk  [8910+8a34]
+
+## 方 <- codes ['8909', '8809']
+  8909 (freq=348, blocks=40):
+      味方  60x/3blk  [8a78+8909]
+      □方  22x/2blk  [8a5a+8909]
+      同方  17x/10blk  [88b9+8909]
+      僕方  16x/4blk  [8906+8909]
+      人方  14x/10blk  [8816+8909]
+      □方  14x/2blk  [89fb+8909]
+  8809 (freq=415, blocks=58):
+      方法  60x/19blk  [8809+8a24]
+      方向  45x/6blk  [8809+882a]
+      仕方  16x/9blk  [89a0+8809]
+      彼方  13x/4blk  [884e+8809]
+      行方  11x/6blk  [8814+8809]
+      東方  9x/5blk  [894a+8809]
+
+## 事 <- codes ['8807', '8a57']
+  8807 (freq=336, blocks=48):
+      無事  53x/10blk  [8835+8807]
+      事態  50x/12blk  [8807+8897]
+      事実  31x/10blk  [8807+88ee]
+      世事  30x/10blk  [896b+8807]
+      大事  29x/14blk  [8899+8807]
+      事情  17x/7blk  [8807+8859]
+  8a57 (freq=156, blocks=46):
+      事望  40x/11blk  [8a57+8a58]
+      貸事  19x/7blk  [8a56+8a57]
+      事悪  6x/2blk  [8a57+8a09]
+
+## 分 <- codes ['8896', '89b6']
+  8896 (freq=301, blocks=50):
+      自分  149x/32blk  [893f+8896]
+      □分  31x/14blk  [89ce+8896]
+      部分  10x/2blk  [8892+8896]
+      気分  7x/5blk  [8877+8896]
+      沿分  6x/3blk  [8a55+8896]
+      分□  5x/5blk  [8896+898e]
+  89b6 (freq=51, blocks=13):
+      自分  27x/8blk  [893f+89b6]
+      分□  27x/8blk  [89b6+89b7]
+
+## 乗 <- codes ['8a35', '8a63', '8960']
+  8a35 (freq=287, blocks=53):
+      部乗  25x/6blk  [8892+8a35]
+      挑乗  21x/4blk  [8a45+8a35]
+      右乗  21x/4blk  [8a34+8a35]
+  8a63 (freq=116, blocks=40):
+      延乗  8x/4blk  [8a62+8a63]
+  8960 (freq=134, blocks=17):
+      搭乗  123x/11blk  [895f+8960]
+      乗□  10x/5blk  [8960+8a4c]
+
+## 同 <- codes ['88b9', '88ef']
+  88b9 (freq=285, blocks=45):
+      同時  33x/14blk  [88b9+88ba]
+      同胞  25x/9blk  [88b9+8925]
+      同方  17x/10blk  [88b9+8909]
+      同□  16x/6blk  [88b9+8844]
+      同□  14x/2blk  [88b9+886e]
+      □同  12x/4blk  [8992+88b9]
+  88ef (freq=111, blocks=24):
+      幻同  26x/8blk  [8871+88ef]
+      同男  7x/2blk  [88ef+8a66]
+      同胞  6x/2blk  [88ef+8925]
+
+## 限 <- codes ['8a54', '8a5f', '8a39']
+  8a54 (freq=171, blocks=49):
+      写限  43x/7blk  [8a53+8a54]
+      限沿  12x/5blk  [8a54+8a55]
+      自限  12x/2blk  [893f+8a54]
+      他限  5x/2blk  [8953+8a54]
+  8a5f (freq=86, blocks=38):
+      飛限  11x/8blk  [8a5e+8a5f]
+      □限  9x/4blk  [89af+8a5f]
+  8a39 (freq=273, blocks=57):
+      場限  29x/6blk  [8a38+8a39]
+      限□  15x/5blk  [8a39+892e]
+      結限  15x/5blk  [88de+8a39]
+      限仲  12x/6blk  [8a39+8a3a]
+      遺限  11x/6blk  [89c6+8a39]
+
+## 発 <- codes ['8a37', '8818']
+  8a37 (freq=246, blocks=59):
+      置発  82x/7blk  [8a36+8a37]
+      発場  13x/7blk  [8a37+8a38]
+      □発  5x/5blk  [88fb+8a37]
+  8818 (freq=197, blocks=39):
+      発□  28x/10blk  [8818+885f]
+      発動  22x/6blk  [8818+8852]
+      発見  20x/7blk  [8818+8819]
+      発揮  19x/7blk  [8818+88d6]
+      開発  10x/3blk  [88d8+8818]
+      反発  9x/3blk  [886b+8818]
+
+## 守 <- codes ['8a3b', '8a60']
+  8a3b (freq=239, blocks=55):
+      守岩  17x/6blk  [8a3b+8a3c]
+      仲守  9x/5blk  [8a3a+8a3b]
+      守間  6x/2blk  [8a3b+890f]
+      守撃  5x/3blk  [8a3b+88cd]
+      魔守  5x/2blk  [898b+8a3b]
+  8a60 (freq=206, blocks=39):
+      守□  7x/4blk  [8a60+8a61]
+
+## 信 <- codes ['884b', '881d', '89c0']
+  884b (freq=223, blocks=40):
+      信□  52x/7blk  [884b+8839]
+      信情  45x/9blk  [884b+8859]
+      信信  28x/11blk  [884b+89c0]
+      実信  8x/5blk  [88ee+884b]
+      用信  5x/2blk  [8853+884b]
+      信信  5x/2blk  [881d+884b]
+  881d (freq=214, blocks=42):
+      自信  20x/8blk  [893f+881d]
+      通信  20x/7blk  [881c+881d]
+      不信  18x/6blk  [884f+881d]
+      信機  7x/3blk  [881d+881e]
+      信頼  5x/2blk  [881d+8863]
+      信信  5x/2blk  [881d+884b]
+  89c0 (freq=79, blocks=26):
+      信信  28x/11blk  [884b+89c0]
+      信苦  6x/3blk  [89c0+8a6f]
+      目信  5x/2blk  [8907+89c0]
+
+## 進 <- codes ['8a2a', '892b']
+  8a2a (freq=220, blocks=117):
+  892b (freq=45, blocks=17):
+      進行  6x/4blk  [892b+8814]
+      進入  5x/2blk  [892b+885a]
+
+## 場 <- codes ['882f', '88d3', '8a38']
+  882f (freq=118, blocks=20):
+  88d3 (freq=209, blocks=41):
+      場所  87x/24blk  [88d3+89a9]
+      戦場  22x/13blk  [88bc+88d3]
+      場合  22x/11blk  [88d3+88d4]
+      □場  7x/2blk  [89ba+88d3]
+  8a38 (freq=196, blocks=59):
+      場限  29x/6blk  [8a38+8a39]
+      意場  16x/2blk  [89d1+8a38]
+      法場  14x/2blk  [8a24+8a38]
+      発場  13x/7blk  [8a37+8a38]
+
+## 道 <- codes ['894e', '889f']
+  894e (freq=127, blocks=35):
+      □道  15x/2blk  [89cc+894e]
+      地道  12x/9blk  [8855+894e]
+  889f (freq=199, blocks=20):
+      街道  54x/9blk  [8891+889f]
+      道□  22x/7blk  [889f+89ca]
+      外道  14x/3blk  [8890+889f]
+      道□  6x/3blk  [889f+8aa5]
+      道外  5x/5blk  [889f+8890]
+
+## 仲 <- codes ['8a49', '8a3a']
+  8a49 (freq=129, blocks=44):
+      仲間  22x/10blk  [8a49+8a4a]
+      □仲  20x/5blk  [8a48+8a49]
+      □仲  18x/3blk  [8adc+8a49]
+      仲□  6x/3blk  [8a49+8b22]
+  8a3a (freq=189, blocks=51):
+      未仲  14x/2blk  [8a11+8a3a]
+      限仲  12x/6blk  [8a39+8a3a]
+      仲守  9x/5blk  [8a3a+8a3b]
+      後仲  9x/2blk  [884a+8a3a]
+      仲者  9x/2blk  [8a3a+8834]
+
+## 谷 <- codes ['882b', '884c']
+  882b (freq=181, blocks=23):
+      渓谷  50x/8blk  [882e+882b]
+      枯谷  39x/8blk  [89bc+882b]
+      谷地  21x/7blk  [882b+8855]
+      谷□  9x/3blk  [882b+8b72]
+      閉谷  9x/2blk  [89cf+882b]
+  884c (freq=159, blocks=27):
+      渓谷  66x/11blk  [882e+884c]
+      □谷  48x/5blk  [8839+884c]
+      合谷  23x/13blk  [88f5+884c]
+
+## 合 <- codes ['88d4', '88f5']
+  88d4 (freq=158, blocks=35):
+      場合  22x/11blk  [88d3+88d4]
+      合体  9x/3blk  [88d4+886a]
+  88f5 (freq=126, blocks=30):
+      悪合  36x/7blk  [8a09+88f5]
+      合谷  23x/13blk  [88f5+884c]
+      小合  18x/6blk  [89f0+88f5]
+      変合  10x/6blk  [88f4+88f5]
+      現合  6x/3blk  [881f+88f5]
+
+## 作 <- codes ['88bb', '8948']
+  88bb (freq=135, blocks=30):
+      作戦  70x/14blk  [88bb+88bc]
+      作物  8x/4blk  [88bb+8a30]
+      作動  8x/2blk  [88bb+8852]
+      作成  7x/2blk  [88bb+8969]
+      □作  6x/3blk  [8b13+88bb]
+  8948 (freq=77, blocks=24):
+      □作  8x/4blk  [8947+8948]
+      □作  7x/3blk  [8901+8948]
+      作無  6x/6blk  [8948+8835]
+      作年  5x/5blk  [8948+891d]
+      作□  5x/2blk  [8948+8af4]
+
+## 待 <- codes ['8936', '8874']
+  8936 (freq=135, blocks=35):
+      □待  15x/3blk  [8aa3+8936]
+      待機  9x/4blk  [8936+881e]
+  8874 (freq=93, blocks=12):
+      観待  51x/9blk  [89be+8874]
+      □待  27x/6blk  [888e+8874]
+      待□  18x/6blk  [8874+88e4]
+      □待  6x/3blk  [88c1+8874]
+      待行  5x/5blk  [8874+8814]
+
+## 滅 <- codes ['8975', '891f']
+  8975 (freq=135, blocks=28):
+      滅亡  14x/6blk  [8975+8950]
+      壊滅  13x/4blk  [8974+8975]
+      破滅  12x/6blk  [891e+8975]
+      滅滅  10x/7blk  [891f+8975]
+  891f (freq=76, blocks=25):
+      破滅  34x/17blk  [891e+891f]
+      崩滅  18x/8blk  [8805+891f]
+      滅滅  10x/7blk  [891f+8975]
+      滅死  5x/4blk  [891f+8889]
+
+## 跡 <- codes ['8957', '8a21']
+  8957 (freq=125, blocks=29):
+      遺跡  80x/19blk  [89c6+8957]
+      跡跡  30x/9blk  [8a21+8957]
+      跡渓  20x/7blk  [8957+882e]
+      追跡  11x/4blk  [8956+8957]
+      跡街  11x/2blk  [8957+8891]
+      跡的  7x/2blk  [8957+8967]
+  8a21 (freq=45, blocks=12):
+      跡跡  30x/9blk  [8a21+8957]
+      跡行  10x/5blk  [8a21+8814]
+
+## 更 <- codes ['88c9', '890d']
+  88c9 (freq=125, blocks=23):
+      更世  26x/2blk  [88c9+8970]
+      更元  19x/4blk  [88c9+89a1]
+      更□  14x/5blk  [88c9+88f9]
+  890d (freq=13, blocks=8):
+      変更  8x/5blk  [88f4+890d]
+
+## 先 <- codes ['8825', '8885']
+  8825 (freq=122, blocks=14):
+      先東  61x/10blk  [8825+894a]
+      先側  42x/8blk  [8825+8829]
+      □先  12x/4blk  [895a+8825]
+  8885 (freq=115, blocks=38):
+      先立  5x/5blk  [8885+889e]
+
+## 飛 <- codes ['88c7', '8a5e']
+  88c7 (freq=115, blocks=28):
+      飛空  41x/10blk  [88c7+885c]
+  8a5e (freq=122, blocks=44):
+      飛度  14x/2blk  [8a5e+88f3]
+      茶飛  13x/7blk  [8a5d+8a5e]
+      飛限  11x/8blk  [8a5e+8a5f]
+      飛方  6x/2blk  [8a5e+8909]
+
+## 結 <- codes ['88de', '8976']
+  88de (freq=95, blocks=28):
+      結単  29x/17blk  [88de+88df]
+      結単  18x/9blk  [88de+880e]
+      結限  15x/5blk  [88de+8a39]
+      結定  12x/6blk  [88de+888f]
+      結戦  5x/3blk  [88de+88bc]
+  8976 (freq=122, blocks=27):
+      結果  37x/12blk  [8976+8977]
+      結□  13x/7blk  [8976+8968]
+      □結  7x/5blk  [897d+8976]
+      結重  6x/3blk  [8976+8881]
+
+## 他 <- codes ['8953', '89a8']
+  8953 (freq=120, blocks=28):
+      他□  6x/3blk  [8953+8a72]
+      他限  5x/2blk  [8953+8a54]
+  89a8 (freq=106, blocks=14):
+      □他  16x/2blk  [8963+89a8]
+
+## 相 <- codes ['887f', '887b']
+  887f (freq=106, blocks=35):
+      相機  7x/5blk  [887f+881e]
+      相全  6x/5blk  [887f+88c2]
+      □相  5x/4blk  [887e+887f]
+  887b (freq=64, blocks=24):
+      相手  20x/15blk  [887b+885b]
+      相□  18x/8blk  [887b+8839]
+      相□  6x/3blk  [887b+8baa]
+      相□  6x/3blk  [887b+8b4f]
+
+## 探 <- codes ['88ed', '899f']
+  88ed (freq=101, blocks=22):
+      探□  29x/10blk  [88ed+887e]
+      探知  11x/4blk  [88ed+8983]
+      □探  8x/4blk  [89c1+88ed]
+  899f (freq=61, blocks=19):
+
+## 安 <- codes ['88cf', '8a89']
+  88cf (freq=100, blocks=31):
+      不安  37x/11blk  [884f+88cf]
+      安全  22x/10blk  [88cf+88c2]
+      安定  18x/5blk  [88cf+888f]
+      安心  15x/10blk  [88cf+88ca]
+      安□  8x/2blk  [88cf+8822]
+  8a89 (freq=89, blocks=27):
+      安暮  9x/3blk  [8a89+8a8a]
+      安切  9x/3blk  [8a89+8893]
+
+## 新 <- codes ['88e9', '890e']
+  88e9 (freq=92, blocks=27):
+      新義  28x/12blk  [88e9+8a0f]
+      新確  10x/3blk  [88e9+886c]
+      新解  7x/7blk  [88e9+8838]
+      新□  6x/3blk  [88e9+8a71]
+      新□  6x/3blk  [88e9+8865]
+      新□  5x/3blk  [88e9+8883]
+  890e (freq=86, blocks=30):
+      新設  6x/4blk  [890e+88e5]
+      新生  5x/2blk  [890e+890b]
+
+## 着 <- codes ['883c', '897e']
+  883c (freq=84, blocks=21):
+      着陸  24x/8blk  [883c+899a]
+      終着  10x/5blk  [88a2+883c]
+      着地  8x/4blk  [883c+8855]
+  897e (freq=83, blocks=15):
+      着魔  63x/7blk  [897e+898b]
+      □着  36x/3blk  [8a79+897e]
+      復着  16x/2blk  [8a5b+897e]
+
+## 単 <- codes ['880e', '88df']
+  880e (freq=82, blocks=32):
+      結単  18x/9blk  [88de+880e]
+  88df (freq=29, blocks=17):
+      結単  29x/17blk  [88de+88df]
+      単部  9x/5blk  [88df+8892]
+
+## 頼 <- codes ['8a69', '8863']
+  8a69 (freq=79, blocks=38):
+      頼□  13x/7blk  [8a69+8a6a]
+      魂頼  6x/2blk  [8a68+8a69]
+  8863 (freq=75, blocks=23):
+      □頼  10x/6blk  [8923+8863]
+      信頼  5x/2blk  [881d+8863]
+
+## 調 <- codes ['88da', '88f0']
+  88da (freq=76, blocks=23):
+      調調  28x/4blk  [88da+88f0]
+      調達  18x/8blk  [88da+8987]
+  88f0 (freq=40, blocks=9):
+      調調  28x/4blk  [88da+88f0]
+
+## 重 <- codes ['8881', '8858']
+  8881 (freq=74, blocks=26):
+      □重  15x/5blk  [8939+8881]
+      結重  6x/3blk  [8976+8881]
+  8858 (freq=72, blocks=21):
+      重要  20x/9blk  [8858+8831]
+      □重  9x/3blk  [8bea+8858]
+
+==========================================================================================
+PHASE C — UNSOLVED CODES with solved-neighbor compounds (solve candidates)
+  code (freq/blocks): compounds where the OTHER side is solved. □=this code.
+==========================================================================================
+
+8a4c (freq=273, blk=54): 放□ 13x/1b  訪□ 12x/3b  魔□ 11x/5b  乗□ 10x/5b  他□ 8x/1b
+
+8a43 (freq=252, blk=54): □来 20x/9b  期□ 12x/3b  未□ 9x/7b  出□ 8x/4b  □事 8x/4b
+
+8839 (freq=174, blk=26): 反□ 73x/16b  信□ 52x/7b  □谷 48x/5b  相□ 18x/8b  対□ 13x/6b
+
+8a40 (freq=158, blk=45): □兄 39x/5b  放□ 35x/2b  魔□ 13x/1b
+
+8a72 (freq=155, blk=35): 自□ 18x/3b  □基 10x/6b  □方 7x/1b  □味 7x/1b  他□ 6x/3b
+
+8a5c (freq=152, blk=48): 法□ 16x/2b  □茶 8x/6b  □上 6x/2b  □物 5x/1b  同□ 4x/4b
+
+8a71 (freq=150, blk=35): □昔 37x/1b  □方 10x/1b  意□ 9x/2b  大□ 8x/3b  新□ 6x/3b
+
+8a5a (freq=146, blk=40): □方 22x/2b  同□ 20x/1b  意□ 17x/3b  □復 10x/6b  □間 10x/2b
+
+89e0 (freq=137, blk=31): □帯 8x/1b
+
+8a4d (freq=135, blk=54): □好 23x/13b  意□ 7x/2b  出□ 7x/1b  用□ 4x/1b  加□ 4x/1b
+
+8a67 (freq=119, blk=40): 男□ 7x/5b  □唯 7x/1b  突□ 4x/1b
+
+8a7a (freq=117, blk=27): 法□ 36x/3b  □上 9x/3b  手□ 4x/2b
+
+8a84 (freq=116, blk=25): □誓 15x/3b  □方 8x/1b  □心 6x/3b  封□ 6x/1b  □方 4x/2b
+
+8a59 (freq=112, blk=41): 未□ 9x/1b  望□ 6x/2b
+
+8a6a (freq=108, blk=36): 頼□ 13x/7b  法□ 5x/1b  回□ 5x/1b  □魂 5x/1b  □的 4x/1b
+
+8b41 (freq=108, blk=8): □伝 9x/3b
+
+8a79 (freq=105, blk=25): □着 36x/3b  魔□ 10x/1b  地□ 4x/2b
+
+8b39 (freq=103, blk=9): □果 34x/1b  法□ 6x/1b  作□ 4x/1b
+
+8a6b (freq=100, blk=32): 唯□ 18x/3b  □人 4x/1b
+
+8a48 (freq=98, blk=48): □仲 20x/5b  周□ 8x/6b  □撃 6x/2b  果□ 5x/1b  □重 5x/1b
+
+8a96 (freq=93, blk=18): □珍 16x/3b
+
+8a86 (freq=91, blk=25): 自□ 6x/1b  □金 5x/2b
+
+8a8c (freq=89, blk=28): 選□ 5x/1b  手□ 5x/1b  □任 5x/1b
+
+8a64 (freq=86, blk=32): □方 7x/1b  幻□ 4x/1b
+
+8a65 (freq=84, blk=38): 未□ 8x/1b  □利 8x/1b  □男 5x/5b  □着 5x/1b
+
+8a85 (freq=79, blk=25): 放□ 9x/1b  機□ 5x/1b  封□ 5x/1b  男□ 4x/1b
+
+8ac5 (freq=79, blk=17): □者 20x/1b  全□ 17x/3b
+
+8a75 (freq=77, blk=25): □協 16x/6b  □用 7x/4b  魔□ 6x/1b  大□ 4x/1b
+
+8a61 (freq=77, blk=39): □延 9x/3b  守□ 7x/4b  □守 4x/1b
+
+8aa6 (freq=76, blk=18): □本 6x/3b
+
+89b1 (freq=76, blk=13): 乗□ 40x/1b  魂□ 10x/3b  男□ 8x/1b  兄□ 6x/1b  □街 4x/4b
+
+8844 (freq=74, blk=24): 未□ 18x/6b  同□ 16x/6b  全□ 5x/4b  当□ 5x/2b  期□ 5x/1b
+
+8aa3 (freq=74, blk=26): □待 15x/3b  代□ 5x/1b  □次 5x/1b
+
+8a87 (freq=72, blk=21): □昔 6x/1b  □念 4x/1b
+
+8ab8 (freq=71, blk=20): □間 12x/3b  □良 6x/3b  生□ 6x/1b  出□ 4x/1b
+
+8ada (freq=71, blk=14): □持 5x/1b  □間 4x/1b
+
+8a93 (freq=70, blk=25): □好 7x/1b
+
+8a99 (freq=70, blk=23): 大□ 15x/3b  渓□ 8x/1b  □対 5x/1b
+
+8a91 (freq=67, blk=25): 辺□ 5x/1b  □方 5x/1b  大□ 4x/1b
+
+8a94 (freq=66, blk=21): □歩 15x/1b  □安 4x/1b
+
+89da (freq=65, blk=21): □貸 8x/1b
+
+8ab1 (freq=65, blk=19): □力 12x/3b  □議 6x/3b
+
+8ab3 (freq=65, blk=19): 残□ 4x/1b  手□ 4x/1b  □得 4x/1b  □年 4x/1b
+
+8a81 (freq=65, blk=25): 当□ 5x/1b
+
+8b38 (freq=65, blk=11): 消□ 6x/1b
+
+8a95 (freq=64, blk=22): □者 7x/1b  □出 4x/2b  □押 4x/1b
+
+8abf (freq=64, blk=18): □獲 4x/3b
+
+8a8d (freq=63, blk=20): □者 7x/1b  事□ 6x/1b  □切 5x/1b  □乗 4x/2b  元□ 4x/1b
+
+8a74 (freq=63, blk=26): 物□ 4x/1b
+
+8a8b (freq=63, blk=22): 暮□ 5x/2b
+
+8aae (freq=63, blk=18): 解□ 4x/1b
+
+89e3 (freq=63, blk=14): □衛 11x/6b  限□ 11x/1b  延□ 6x/1b  加□ 5x/1b
+
+895a (freq=63, blk=9): □先 12x/4b  人□ 5x/5b  □離 5x/5b  □長 5x/3b
+
+8ab4 (freq=62, blk=17): 界□ 6x/3b  □物 4x/1b
+
+888c (freq=62, blk=17): 暗□ 8x/2b
+
+8abe (freq=62, blk=16): 暗□ 4x/1b  反□ 4x/1b  □立 4x/1b
+
+8963 (freq=62, blk=7): □他 16x/2b  地□ 8x/2b
+
+886e (freq=61, blk=19): 同□ 14x/2b  限□ 6x/1b  物□ 6x/1b  性□ 4x/2b
+
+8883 (freq=61, blk=17): 守□ 6x/1b  新□ 5x/3b  平□ 5x/2b  右□ 5x/1b  仲□ 5x/1b
+
+8a83 (freq=61, blk=19): □分 4x/2b
+
+8a9e (freq=60, blk=15): □重 4x/1b
+
+8aa5 (freq=59, blk=18): 地□ 12x/3b  □街 11x/1b  道□ 6x/3b
+
+8901 (freq=59, blk=20): 確□ 20x/9b  □身 8x/6b  □存 7x/3b  □作 7x/3b  □持 4x/2b
+
+89fb (freq=59, blk=13): 昔□ 15x/4b  □方 14x/2b
+
+898e (freq=59, blk=17): 決□ 9x/7b  □力 6x/6b  分□ 5x/5b
+
+8939 (freq=58, blk=16): □重 15x/5b  回□ 10x/8b  訪□ 5x/1b  □魂 4x/1b
+
+8aac (freq=58, blk=20): 果□ 4x/1b
+
+8876 (freq=58, blk=18): 反□ 25x/5b  □雄 6x/1b  無□ 5x/5b
+
+8b5f (freq=58, blk=8): □衛 9x/3b  最□ 5x/1b  □最 5x/1b
+
+8a8e (freq=57, blk=20): 地□ 6x/1b  □間 5x/1b  □胞 5x/1b
+
+8a92 (freq=57, blk=21): □人 9x/3b  大□ 4x/1b
+
+8a98 (freq=57, blk=23): 珍□ 13x/4b  対□ 11x/3b  □開 4x/1b
+
+89b7 (freq=57, blk=12): 分□ 27x/8b  右□ 13x/1b  □地 8x/2b
+
+8adc (freq=57, blk=12): □仲 18x/3b
+
+88be (freq=57, blk=20): □近 18x/9b  言□ 5x/1b  気□ 4x/4b  名□ 4x/2b
+
+8a7f (freq=57, blk=21): 共□ 14x/4b
+
+8aba (freq=56, blk=20): 思□ 4x/1b
+
+8a18 (freq=56, blk=22): 連□ 4x/3b
+
+8a82 (freq=56, blk=23): 魔□ 10x/1b
+
+8822 (freq=56, blk=21): 級□ 24x/11b  安□ 8x/2b  底□ 7x/1b
+
+8acd (freq=54, blk=15): □空 6x/1b  □合 5x/1b
+
+8ab5 (freq=53, blk=18): □上 9x/1b  □話 4x/1b
+
+8a9a (freq=53, blk=21): □物 4x/1b
+
+89b9 (freq=53, blk=16): □帯 9x/2b
+
+8ab6 (freq=52, blk=18): 不□ 5x/1b  暗□ 4x/1b  □立 4x/1b
+
+8978 (freq=52, blk=21): □乗 5x/1b
+
+8a7d (freq=52, blk=21): 雄□ 14x/5b  □共 8x/2b  物□ 4x/1b
+
+8b4a (freq=52, blk=8): □昔 5x/1b
+
+88f8 (freq=51, blk=16): 見□ 4x/2b
+
+8964 (freq=51, blk=19): 戦□ 7x/2b  □目 6x/4b  □立 4x/3b
+
+8832 (freq=51, blk=22): □出 5x/4b
+
+89c1 (freq=51, blk=19): □探 8x/4b
+
+8b9d (freq=51, blk=5): □想 9x/3b  解□ 6x/1b
+
+89ca (freq=51, blk=11): 道□ 22x/7b  陸□ 19x/6b
+
+883f (freq=50, blk=21): □仲 5x/1b
+
+8aad (freq=50, blk=20): 手□ 23x/3b
+
+8929 (freq=50, blk=14): □場 15x/1b
+
+88ea (freq=50, blk=12): □戦 6x/2b
+
+8943 (freq=49, blk=19): 定□ 6x/6b
+
+8a77 (freq=49, blk=22): 協□ 8x/3b  □味 5x/2b
+
+8aa4 (freq=49, blk=19): □本 9x/3b  貴□ 6x/3b
+
+8aee (freq=49, blk=11): 同□ 12x/3b  意□ 5x/3b
+
+8a9f (freq=48, blk=20): 手□ 5x/1b  度□ 4x/1b  □間 4x/1b  □持 4x/1b
+
+8a88 (freq=48, blk=22): □誓 4x/1b
+
+8aa2 (freq=48, blk=19): □知 7x/3b  確□ 5x/1b  戦□ 4x/2b
+
+8a9d (freq=48, blk=21): □利 7x/4b
+
+8b27 (freq=48, blk=8): 中□ 8x/1b

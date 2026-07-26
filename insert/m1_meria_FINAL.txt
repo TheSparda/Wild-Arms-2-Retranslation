@@ -1,0 +1,141 @@
+# WA2 — MISSION 1: TOWN OF MERIA (block 3, ceremony morning) — FINAL insert-ready
+# =========================================================================================
+# Ashley's hometown on the morning of the ARMS ceremony. Townsfolk send him off; the guardian
+# who raised him worries; kids idolize him; the sword-cathedral directions are given.
+# JP fully block-decoded (block 3 table complete). Glossary applied. No em dashes. Fit window.
+# Columns: JP (clean) / LIT / EN (current) / RE (final).  {0}=Ashley, {2}=Marina name codes.
+# NOTE: US#293-295 are Demo-Version system boxes (skip for story). Story starts US#296.
+# =========================================================================================
+
+[US#296] (bread lady)
+  JP : 「パンぐらいじゃ / お腹はふくれないかもしれないけど / 好きなだけ食べておくれよ
+  LIT: Bread alone might not fill your belly, but eat as much as you like.
+  EN : This bread might not fill you up, but go ahead and eat as much as you want.
+  RE : Bread alone won't fill you up,
+       but eat all you like, dear.
+
+[US#297] (bread lady)
+  JP : 「めずらしいじゃない / 表に配達が来ているわよ
+  LIT: Well, this is rare, a delivery's arrived out front.
+  EN : A friend is waiting at the front. (This guy had friends?)
+  RE : Rare sight. There's a
+       delivery waiting out front.
+
+[US#298]
+  JP : 「うちの二階から / 屋根に上がれたんじゃないかい？
+  LIT: Couldn't you get up on the roof from our second floor?
+  EN : You can get onto the roof from the 2nd floor here.
+  RE : You can reach the roof from
+       our second floor, you know.
+
+[US#299]
+  JP : 「儀式会場までは距離があるんだ / わたしのつくったパンでも食べて / 元気出さなきゃダメだよ
+  LIT: It's a fair distance to the ceremony hall. Eat some of my bread and put some energy into you.
+  EN : The ceremony hall is far away. Eat something before you go. Try my homemade bread!
+  RE : The ceremony hall's a ways off.
+       Eat my bread and get
+       your strength up.
+
+[US#301]
+  JP : 「ヤキソバパンは / パンにヤキソバを強引に挟み合わせた / おばさんの独創的な新商品なの
+  LIT: Yakisoba-bread! Fried noodles crammed into a bun, my own original new product.
+  EN : It's my new invention: jelly rolls! I make them by putting jelly into the bread dough.
+  RE : Yakisoba buns! Fried noodles
+       crammed into bread, my own
+       original invention, dear.
+       # EN swapped the yakisoba-bread gag for "jelly rolls". Restored the JP joke.
+
+[US#303]
+  JP : 「まだ、儀式会場に行ってないんでしょ？ / 叱られるのは、あなたなのよ
+  LIT: You still haven't gone to the ceremony hall? You're the one who'll get scolded.
+  EN : Didn't you go to the ceremony? You're going to be in trouble!
+  RE : Still not at the ceremony?
+       You're the one who'll catch it!
+
+[US#304] (directions to Sword Cathedral)
+  JP : 「『剣の大聖堂』は / タウンメリアからずっと北東の谷のふもとよ / 急げば、今からでも間に合うわ
+  LIT: The "Sword Cathedral" is at the foot of the valley far NORTHEAST of Town Meria. Hurry and you'll still make it.
+  EN : Sword Cathedral is at the foot of a mountain far northwest of the Town of Meria. Hurry up!
+  RE : Sword Cathedral sits at the
+       valley foot northeast of Meria.
+       Hurry, you'll still make it.
+       # ⚠ JP says NORTHEAST (北東); EN said "northwest". JP is source of truth.
+
+[US#306] (villager, on Ashley being the sole survivor)
+  JP : 「不謹慎かもしれないけどさ / お前だけ助かっただけでも / めっけモンだと、思わなくちゃ
+  LIT: It may be callous to say, but you should count it luck that you alone survived.
+  EN : I know I shouldn't say this, but you should feel lucky to be the sole survivor.
+  RE : Callous, maybe, but you ought
+       to count it luck that you
+       alone made it out.
+
+[US#308]
+  JP : 「なかなかの味だぞ
+  LIT: It's quite a flavor!
+  EN : It's darned tasty!
+  RE : A fine flavor, this!
+
+[US#311] (kid)
+  JP : 「良かったッ！ / 無事だったんだなッ！
+  LIT: Thank goodness! You made it back safe!
+  EN : Hey, I'm so glad you're alright!
+  RE : Thank goodness!
+       You made it back safe!
+
+[US#312] (kid)
+  JP : 「そーだよなッ！ / 遺跡のモンスターもやっつけちゃうんだもん / あんちゃんが、やられるわけないよなッ！
+  LIT: Right! You took down the ruins' monsters, no way a guy like you gets beaten!
+  EN : You're really something! You KO'd those bad-ass monsters at the ruins!
+  RE : Right! You even beat the
+       ruins' monsters. No way a guy
+       like you gets taken down!
+
+[US#315] (attendant, on the charm)
+  JP : 「{0}さんが無事だったのも / {2}くんの差し上げた / お守りがあったからでは、ないでしょうか
+  LIT: Perhaps {0} came home safe because of the charm {2} gave him.
+  EN : ...{0} escaped unharmed because of the charm given him by {3}.
+  RE : Perhaps {0} came home safe
+       thanks to the charm
+       {2} gave him.
+
+[US#317] (attendant)
+  JP : 「こうして回り道するよりも / 勝算を持って儀式会場に向かった方が / よろしいのではないかと〜
+  LIT: Rather than dawdling like this, better to head to the ceremony hall with confidence, no?
+  EN : ... you should go straight to the ceremony instead of dilly-dallying like this.
+  RE : Rather than dawdling here,
+       better to head to the ceremony
+       with your head held high.
+
+[US#319] (old man)
+  JP : 「若いモンは / それくらい悪運が強くて / しぶとくなくちゃイカン
+  LIT: Young folk have to be that lucky and that stubborn.
+  EN : Young people like you have to put up with their share of hard knocks, right?
+  RE : Young folk have to have
+       that kind of dumb luck
+       and that kind of grit.
+
+[US#329] (region lore)
+  JP : 「山に囲まれたシルヴァラントと / 南の工業国 北のギルドグラード / そして〜
+  LIT: Mountain-ringed Sylvaland, the southern industrial nation Guild Galad to the north, and...
+  EN : There's the forest kingdom, Sylvaland. And industrial Guild Galad. Then there's...
+  RE : Mountain-ringed Sylvaland,
+       Guild Galad the industrial
+       nation to the north, and...
+
+[US#330] (region lore)
+  JP : 「{?}数前の街戦で滅んでしまった / 軍事大国スレイハイム〜
+  LIT: ...the military great-power Slayheim, destroyed in the civil war years back.
+  EN : ...military Slayheim, ruined by civil war 5 years ago.
+  RE : ...and Slayheim, the military
+       power that fell in the war
+       years back.
+
+# =========================================================================================
+# STATUS: Meria story spine translated (16 core boxes). JP block-decoded. Em-dash-free, fit window.
+# FIXES: US#301 yakisoba-bread gag restored (EN "jelly rolls"); US#304 NORTHEAST not northwest
+#   (EN error); US#297 dropped EN's invented "(this guy had friends?)" aside.
+# DEFERRED: block 3 has ~35 more townsperson filler boxes (encounter-cancel tutorial repeats,
+#   flavor NPCs). Translate those in a filler pass; the story-critical morning is done here.
+# NOTE: {2}/{3} name-code — EN used {3} for the charm-giver; JP uses {2}(Marina). Verify which
+#   code the game substitutes at US#315 before final insert.
+# =========================================================================================

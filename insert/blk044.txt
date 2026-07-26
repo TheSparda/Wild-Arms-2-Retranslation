@@ -1,0 +1,224 @@
+# WA2 INSERTION workspace US block 44 (US#6021-6069)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#6022] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#6153[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6023] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6154[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#6024] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6155[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#6026] budget=74ch/3ln
+  NOW: *The energy problem from
+          the destruction of the
+          Alchemic Plant is cleared.
+  JP : JP#6158[MED]: ＊魔界鍵よりのエネルギー<8842><898d>を押持しつつ / 　ヘイムダル・ガッツォーの危奮にあたれ〜 || JP#6157[MED]: ＊アルケミックプラントの片滅による / 　エネルギー誓<8810>をオールクリア[10][0c]＊魔界鍵よりのエネルギー<8842><898d>を押持しつつ /
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#6027] budget=83ch/3ln
+  NOW: *Maintain the energy supply
+          from the Diablo Pillar and
+          stabilize the Heimdal Gazzo.
+  JP : JP#6159[MED]: 「<f040><f042>にしても / 　『ヘイムダル・ガッツォー』に / 　『魔界鍵』とは、いったい〜
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#6028] budget=45ch/3ln
+  NOW: What are
+          |Heimdal Gazzo| and
+          |Diablo Pillar?|
+  JP : (no JP mapped)
+  FIT: <<TODO — <=45 chars, 3 line(s), <=35/line>>
+
+[US#6030] budget=94ch/3ln
+  NOW: *Even if one Pillar's destroyed,
+          as long as the others operate,
+          the generator still functions.
+  JP : JP#6161[MED]: ＊たとえ、ひとつの魔界鍵が破滅されても / 　他の魔界鍵が存帰する<8a3d>り / 　ジェネレイターとして<89ce>分に機能する〜
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#6031] budget=79ch/3ln
+  NOW: I surmise that the generator
+          must be very powerful.
+          Let's get more information.
+  JP : JP#6162[HIGH]: 「助するに / 　強力なジェネレイターのようだな / 　もう少し、情報を<8880>めてみよう
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#6033] budget=104ch/3ln
+  NOW: *While excessive energy consumption
+          is seen as Heimdal Gazzo's flaw,
+          it's nothing for the Diablo Pillar.
+  JP : JP#6164[HIGH]: ＊<8a40>大なエネルギー消兄<886f>を<89b9>帯とする / 　ヘイムダル・ガッツォーであるが / 　魔界鍵によって、その<89b9>帯を期<8a43
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#6034] budget=83ch/3ln
+  NOW: *Until all 4 Pillars are destroyed
+          there's no way to counter its
+          destructive force.
+  JP : JP#6165[HIGH]: ＊４つの魔界鍵を<88ad>険に<898f><8990>させない<8a3d>り / 　圧倒的な破滅力を作する / 　ヘイムダル・ガッツォーに来するすべはない[1
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#6035] budget=69ch/3ln
+  NOW: *In other words,
+          the Diablo Pillars are the
+          Heimdal Gazzo's lifeline.
+  JP : JP#6166[HIGH]: ＊いわば、魔界鍵こそ / 　ヘイムダル・ガッツォーの / 　ライフラインであるといえよう〜
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#6036] budget=79ch/3ln
+  NOW: And the 4 Diablo Pillar
+          generators that support it.
+          They're a definite concern.
+  JP : JP#6167[HIGH]: 「それを押持するという / 　４つの魔界鍵なるジェネレイターも / 　気がかりだな〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#6037] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#6168[HIGH]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c][17]
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#6039] budget=68ch/3ln
+  NOW: We can plan our attack
+          against Heimdal Gazzo
+          and the Diablo Pillars.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#6042] budget=57ch/2ln
+  NOW: *Press 1 and the Wire Hook
+          will shoot hooks ahead of you.
+  JP : JP#6172[MED]: 
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#6043] budget=92ch/3ln
+  NOW: *Shooting hooks into the post
+          will allow you to cross over to
+          places previously unreachable.
+  JP : JP#6173[MED]: ＊ワイヤーフックは[0b]おを挑すことで / 　カギ戦を前方に発周することができます[10][0c]＊カギ戦をクイに撃ち込むことで / 　<8a48>いては渡れ
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#6044] budget=59ch/3ln
+  NOW: We traced the supply route
+          from the Alchemic Plant
+          to here.
+  JP : JP#6175[MED]: 「アルケミックプラントからの / 　<8842><898d>間<89ca>をたどって / 　ここが<8942>次したんだ〜[10][0c][17] || JP#6174[MED]: ＊カギ戦をクイに撃ち込むことで / 　<8a48>いては渡れない場所へ移動することが / 　可能になります
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#6046] budget=57ch/2ln
+  NOW: was destroyed, or the energy
+          supply was no longer needed.
+  JP : JP#6177[MED]: 「あるいは / 　エネルギーの<8842><898d>がすでに / 　必要でなくなったか〜
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#6048] budget=73ch/3ln
+  NOW: Me too. I've really
+          got to get my act together,
+          even more so than before.
+  JP : JP#6179[HIGH]: 「俺はもっと、ずっと〜 / 　今まで以上に / 　しっかりしなくちゃいけないんだ[10][0c]「じゃないと / 　[05]おに合わせる探が無い
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#6049] budget=36ch/2ln
+  NOW: Otherwise I can't show
+          my face to 1.
+  JP : JP#6180[HIGH]: 「じゃないと / 　[05]おに合わせる探が無い
+  FIT: <<TODO — <=36 chars, 2 line(s), <=35/line>>
+
+[US#6050] budget=64ch/3ln
+  NOW: I'd ask, but I already know.
+          Why do I always get stuck
+          with you?
+  JP : JP#6181[HIGH]: 「<f040><f042>って、誰だかわかってるけど〜 / 　その前に、何でいつもいつも / 　俺が相手をしなくちゃいけないんだ<f059>
+  FIT: <<TODO — <=64 chars, 3 line(s), <=35/line>>
+
+[US#6052] budget=72ch/3ln
+  NOW: I'm disappointed you're
+          so displeased with my
+          amazing knowledge of that.
+  JP : JP#6183[MED]: 「それほどまでに我<8a53>の / 　すごすぎるアレのノウハウが / 　お気に勉さないとは、見片なったぜ[10][0c]「バカにかかっちゃ / 　我<8a53
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#6053] budget=44ch/2ln
+  NOW: Getting stuck with an idiot
+          will be my ruin.
+  JP : JP#6184[MED]: 「バカにかかっちゃ / 　我<8a53>もかたなしだトカ
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#6055] budget=53ch/3ln
+  NOW: Come, look, feel.
+          Don't get scared now.
+          Such novices!
+  JP : JP#6187[HIGH]: 「<8a5a>て、見て、さわってみて / 　復抜かすなよ / 　<8a5c><8a53>モノがーッ！
+  FIT: <<TODO — <=53 chars, 3 line(s), <=35/line>>
+
+[US#6056] budget=81ch/3ln
+  NOW: A lovely explosion! Really!
+          We are offering a journey
+          of sleep to a far off land.
+  JP : JP#6188[HIGH]: 「可飛限守ッ！　<8a61>延無<8a3d>ッ！ / 　<f040><f042>な我<8a53>らが / 　はるかな<89bb>りの乗を<8a64>げてしんぜよ
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#6057] budget=46ch/2ln
+  NOW: Today's actions will become
+          tomorrow's legend!
+  JP : JP#6189[HIGH]: 「今回という回を / 　次回の<88a6>説にしてやるトカッ！
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#6059] budget=55ch/3ln
+  NOW: I have no choice now but
+          to bring out the mean
+          machine!
+  JP : JP#6191[HIGH]: 「こうなったら / 　セオリー（？）にのっとって / 　<88bf>大メカの<8a65>場だトカッ！[10][0c][17]
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#6061] budget=60ch/3ln
+  NOW: I read somewhere how
+          scientific progress
+          always has victims.
+  JP : JP#6193[HIGH]: 「男<8a67>の発魂には頼<8a6a>がつきものと / 　何かの<8a6b>勇をひもといた<89d2>に / 　<8946>いてあったトカ、無かったトカ〜[1
+  FIT: <<TODO — <=60 chars, 3 line(s), <=35/line>>
+
+[US#6062] budget=71ch/3ln
+  NOW: Anyway! Here's the nasty
+          creature our recent battle
+          data gave birth to!
+  JP : JP#6194[HIGH]: 「とにかくッ！ / 　今までの戦<8a6d>データが生み出した / 　シリーズ後<89a7>のニクイ友ッ！[10][0c]「出動だッ！　アームズキラーッ！ / 
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#6063] budget=69ch/3ln
+  NOW: March, Arms Killer!
+          No morals and no control!
+          Mash 'em and smash 'em!
+  JP : JP#6195[HIGH]: 「出動だッ！　アームズキラーッ！ / 　苦制も姿理も何のそのッ！ / 　わからんちんどもとっちめちんだッ！
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#6065] budget=30ch/2ln
+  NOW: Stop conspiring
+          with Vinsfeld!
+  JP : JP#6197[HIGH]: 「ヴィンスフェルトに / 　基<8847>するのは、もうやめるんだッ！
+  FIT: <<TODO — <=30 chars, 2 line(s), <=35/line>>
+
+[US#6068] budget=74ch/3ln
+  NOW: I find it hard to believe
+          they'd have military power
+          at an abandoned site.
+  JP : JP#6200[MED]: 「<88ad>険に手殺された<88e4><88e5>に / 　戦力をさいているとは考えにくい〜[10][0c]「この発<885f>跡地には / 　まだ、何らかの
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#6069] budget=61ch/3ln
+  NOW: These excavation traces
+          are sure to reveal
+          some significance.
+  JP : JP#6201[MED]: 「この発<885f>跡地には / 　まだ、何らかの意勝があるに違いないな || JP#6202[MED]: 
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>

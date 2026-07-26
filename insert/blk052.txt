@@ -1,0 +1,410 @@
+# WA2 INSERTION workspace US block 52 (US#6410-6483)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#6412] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#6550[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6413] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6551[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#6414] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6552[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#6415] budget=102ch/3ln
+  NOW: *Press 1 to use the Rad Blades to
+          erase any damage you receive from
+          the ground and allow rapid motion.
+  JP : JP#6553[HIGH]: ＊ローラーダッシュは[0b]おを泣すことで / 　片から押けるダメージなどを無<8a38>にして / 　<8867><8a04>移動することができます[10][
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#6416] budget=89ch/3ln
+  NOW: *Once used, you cannot change
+          direction or stop until you've
+          made contact with something.
+  JP : JP#6554[HIGH]: ＊ただし一度作動させると / 　なにかに<8a39>突するまで<892b>行方向を変えたり / 　<8996>止することは出仲ません
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#6418] budget=78ch/3ln
+  NOW: >WELCOME, YOU WITH MAGESS
+          BLOOD. THIS IS WHERE YOUR
+          SLEEPING MEMORY WILL WAKE.
+  JP : JP#6556[HIGH]: ＞ヨウコソ、助昔ノ歩ヲ招ク者ヨ / 　ココハ、アナタノ歩ヨリ / 　<89bb>リシ<8937><89f1>ヲ呼ビ信マス<89c8>
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#6420] budget=39ch/2ln
+  NOW: >ENTRY BEYOND THIS POINT
+          IS PROHIBITED.
+  JP : JP#6558[MED]: ＞ココヨリ先ノ<892b>入ヲ<8a40>止シマス
+  FIT: <<TODO — <=39 chars, 2 line(s), <=35/line>>
+
+[US#6421] budget=46ch/3ln
+  NOW: At my house...
+          Hm....
+          There's no place for me.
+  JP : JP#6559[HIGH]: 「お来には〜 / 　ううん / 　どこにもあたしの挑場所なんて無いの
+  FIT: <<TODO — <=46 chars, 3 line(s), <=35/line>>
+
+[US#6422] budget=14ch/1ln
+  NOW: It'll be fine.
+  JP : JP#6560[HIGH]: 「だいじょうぶだ
+  FIT: <<TODO — <=14 chars, 1 line(s), <=35/line>>
+
+[US#6423] budget=86ch/3ln
+  NOW: Regardless of the kind of
+          life you're living, we have the
+          blood of the <Sword Magess>.
+  JP : JP#6561[HIGH]: 「今はどんな戦らしをしていようと / 　わたしたちには / 　＜周の助昔＞の歩が流れているんだよ〜
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#6424] budget=101ch/3ln
+  NOW: Descended from the <Sword Magess>
+          and related to the Valerias, the
+          Bernadettes are having hard times.
+  JP : JP#6562[HIGH]: 「ヴァレリア来の<8a48>流とはいえ〜 / 　落ちぶれたとはいえ、ベルナデット来も / 　＜周の助昔＞の仲間〜[10][0c]「この身に流れる歩の訪をたてられ
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#6425] budget=75ch/3ln
+  NOW: If I can provide proof of
+          the blood in me, I can
+          live the life of nobility.
+  JP : JP#6563[MED]: 「この身に流れる歩の訪をたてられれば / 　<8a4c><8a4d>の生好ができるんだよ
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#6427] budget=75ch/3ln
+  NOW: If I have the blood of the
+          <Sword Magess> in me,
+          then awaken that |memory.|
+  JP : JP#6565[MED]: 「この身に / 　＜周の助昔＞の歩が流れているならば / 　その『<8937><89f1>』を呼び信ましてくれッ！
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#6428] budget=45ch/2ln
+  NOW: I will awaken memories
+          regarding Lord Blazer.
+  JP : JP#6566[MED]: 「ロードブレイザーに関する<8937><89f1>は / 　必ず呼び信ましてみせる[10][0c]「お前はその時に / 　あたしに負られないよう / 　用心して
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#6429] budget=43ch/2ln
+  NOW: Be careful you don't get
+          killed by me then.
+  JP : JP#6567[MED]: 「お前はその時に / 　あたしに負られないよう / 　用心しておくがいい
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#6430] budget=58ch/3ln
+  NOW: They were killed.
+          They were killed, right?
+          And I survived.
+  JP : JP#6568[HIGH]: 「遠った〜 / 　遠ったんだよね〜 / 　そして、あたしは生き残っている〜[10][0c]「モンスターを<8a52>っていけば / 　あたしは『<8a53>勉』
+  FIT: <<TODO — <=58 chars, 3 line(s), <=35/line>>
+
+[US#6431] budget=50ch/2ln
+  NOW: If I exorcise the monsters,
+          I can become a |hero.|
+  JP : JP#6569[HIGH]: 「モンスターを<8a52>っていけば / 　あたしは『<8a53>勉』になれるんだ[10][0c]「身体に流れる＜助昔＞の歩に / 　ふさわしい『<8a53>勉
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#6432] budget=80ch/3ln
+  NOW: I can become a |hero,|
+          fitting to the blood of the
+          <Sword Magess> flowing in me.
+  JP : JP#6570[HIGH]: 「身体に流れる＜助昔＞の歩に / 　ふさわしい『<8a53>勉』に / 　なれるんだ〜
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#6433] budget=79ch/3ln
+  NOW: Parts of my body won't move.
+          But...I can manage with
+          an artificial arm and leg.
+  JP : JP#6571[HIGH]: 「身体のあちこちも動かない〜 / 　いいや〜 / 　<8a0f>手や<8a0f><8921>で何とかなる[10][0c]「そうだ / 　貸みを知らない身体に生ま
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#6434] budget=57ch/2ln
+  NOW: I got it. I'll get reborn into
+          a body that knows no pain.
+  JP : JP#6572[HIGH]: 「そうだ / 　貸みを知らない身体に生まれかわろう[10][0c]「身体も、名前も〜 / 　今までのあたしは / 　険字恥ててしまおう〜
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#6435] budget=53ch/3ln
+  NOW: My body and my name...
+          I will throw away my
+          old self.
+  JP : JP#6573[HIGH]: 「身体も、名前も〜 / 　今までのあたしは / 　険字恥ててしまおう〜
+  FIT: <<TODO — <=53 chars, 3 line(s), <=35/line>>
+
+[US#6436] budget=41ch/3ln
+  NOW: This is me.
+          I won't deny it.
+          It's a fact.
+  JP : JP#6574[HIGH]: 「これが、あたしだ / 　<8a57>奮はしない〜 / 　すべて事実〜[10][0c]「だがッ！ / 　この身に流れる＜助昔＞の歩も / 　また事実ッ！
+  FIT: <<TODO — <=41 chars, 3 line(s), <=35/line>>
+
+[US#6437] budget=55ch/3ln
+  NOW: But!
+          The <Sword Magess> blood
+          in my body is a fact too.
+  JP : JP#6575[HIGH]: 「だがッ！ / 　この身に流れる＜助昔＞の歩も / 　また事実ッ！
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#6438] budget=11ch/1ln
+  NOW: No problem.
+  JP : JP#6576[HIGH]: 「<f040><f042>誓<8810>無い〜[10][0c]「だが、あたしの参に呼び信ましたぞ〜 / 　＜周の助昔＞の<8937><89f1>を〜
+  FIT: <<TODO — <=11 chars, 1 line(s), <=35/line>>
+
+[US#6439] budget=59ch/3ln
+  NOW: It's been awakened in me,
+          the memory of the
+          <Sword Magess>.
+  JP : JP#6577[MED]: 「だが、あたしの参に呼び信ましたぞ〜 / 　＜周の助昔＞の<8937><89f1>を〜
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#6440] budget=73ch/3ln
+  NOW: ...were of the Guardian Blade,
+         the |Argetlahm| in
+         the hands of the goddess.
+  JP : JP#6579[MED]: [13]『未仲』を望るガーディアンの / [13]身体の一字より生まれし周 / [13]アガートラーム〜[10][0c][13]<8a59>るう者の意<8a5a || JP#6578[MED]: [13]助昔の手にしたガーディアンブレード / [13]『アガートラーム』についてであった〜[10][0c][13]『未仲』を望るガーディアンの / [13]身
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#6441] budget=78ch/3ln
+  NOW: From the |Future| rulers,
+         the Guardian's body was born
+         the sword, the Argetlahm.
+  JP : JP#6581[MED]: [13]その圧倒的な力は / [13]使用者の<88ea><8a5c>を飛らい、限むため / [13]強守な<88ea><8a5c>力を作する者を選ぶという[1 || JP#6580[MED]: [13]<8a59>るう者の意<8a5a>を戦う力に<88fb>える / [13]ある復の<88ea><8a5c>信<8839>同茶[10][0c][13]その
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#6442] budget=92ch/3ln
+  NOW: The sword is a type of spirit
+         response weapon that changes
+         the user's will to battle strength.
+  JP : JP#6582[MED]: [13][05]くは / [13]人の持つ最も大きな意<8a5a>の力 / [13]『<8a61>延』をもって / [13]ガーディアンブレード・アガートラーム
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#6443] budget=85ch/3ln
+  NOW: The oppressive power consumes
+         the user's spirit, so one with
+         a strong spirit is chosen.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#6444] budget=81ch/3ln
+  NOW: 6 plied the Guardian Blade,
+         Argetlahm, with the strongest
+         of human wills, |desire.|
+  JP : (no JP mapped)
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#6449] budget=26ch/1ln
+  NOW: Sorry to have worried you.
+  JP : JP#6587[HIGH]: 「心配かけたな
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#6454] budget=96ch/3ln
+  NOW: ...was about the far distant past
+         when Filgaia was burned by the
+         Blaze of Disaster, |Lord Blazer.|
+  JP : JP#6592[HIGH]: [13]<8995>かな過<8a65>において / [13]ファルガイアを男き<8a67>くさんとした魂の頼<8a6a> / [13]『ロードブレイザー』につい
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#6455] budget=166ch/5ln
+  NOW: The Demon, Lord Blazer who plies the
+         scorching hell fire by thought,
+         takes in all the wrath, sorrow and
+         negative feelings of people and
+         grows fat as a curse called |God.|
+  JP : JP#6593[HIGH]: [13]<8a6b><8868>の勇緊を意のままに<8a6d>る / [13]魔<8a5c>ロードブレイザー〜 / [13]人の持つ、友りや苦しみ / [13]
+  FIT: <<TODO — <=166 chars, 5 line(s), <=35/line>>
+
+[US#6456] budget=97ch/3ln
+  NOW: Each time the hell fire is waved,
+         100 wraths, and 1000 sorrows are
+         born surpassing a new threshold.
+  JP : JP#6594[MED]: [13]勇緊を<8a59>るうたびに / [13]基の友りと、<8a74>の苦しみを生み出し / [13]それを取り込むことで / [13]さらなる<8a75>
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#6457] budget=148ch/5ln
+  NOW: Those possessing flesh and blood,
+         consume flesh and blood to come
+         into being. Those who consume
+         emotions, in other words,
+         |hearts,| take shape that way.
+  JP : JP#6595[MED]: [13]歩勝を備えし者は / [13]歩勝を飛らい、カタチ為していくのに対し / [13]信情を飛らいし者は / [13]信情<f040><f042>　すなわち
+  FIT: <<TODO — <=148 chars, 5 line(s), <=35/line>>
+
+[US#6458] budget=40ch/2ln
+  NOW: They destroy beings of
+         similar substance.
+  JP : JP#6596[MED]: [13]そして、そのカタチを<8a79>くのは同<886e>の存帰<f040><f042>[10][0c][13]物<886e>にてカタチ為す者には、同じく物<
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#6459] budget=105ch/3ln
+  NOW: Physical forms taken by spirits and
+         forms of similar substance also need
+         to be cut by the |Spirit's Blade.|
+  JP : JP#6597[HIGH]: [13]物<886e>にてカタチ為す者には、同じく物<886e>にて / [13]<88ea><8a5c>にてカタチ為す者には、やはり<f040><f042> 
+  FIT: <<TODO — <=105 chars, 3 line(s), <=35/line>>
+
+[US#6460] budget=86ch/3ln
+  NOW: The |Argetlahm| could destroy
+         Lord Blazer because both were
+         beings of similar substance.
+  JP : JP#6598[HIGH]: [13]『アガートラーム』によって / [13]ロードブレイザーを英ち倒すことができたのは / [13]雄者が同<886e>の存帰であるからなのだ
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#6461] budget=54ch/3ln
+  NOW: Concealed in you
+          and controlled by you
+          is Lord Blazer.
+  JP : JP#6599[HIGH]: 「お前が、その身に / 　ロードブレイザーを<8a7d>ませて / 　制<89c7>しているもの〜[10][0c]「ロードブレイザーと共に帰ることで / 　アガ
+  FIT: <<TODO — <=54 chars, 3 line(s), <=35/line>>
+
+[US#6462] budget=82ch/3ln
+  NOW: By living with Lord Blazer
+          you were able to take on the
+          Argetlahm which was all...
+  JP : JP#6600[HIGH]: 「ロードブレイザーと共に帰ることで / 　アガートラームを取り込んだのも / 　すべては〜[10][0c]「お前の<88ea><8a5c><f040><f042
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#6463] budget=53ch/2ln
+  NOW: ...dependent on your spirit,
+          in other words, |heart.|
+  JP : JP#6601[HIGH]: 「お前の<88ea><8a5c><f040><f042> / 　すなわち『心』によるものだったのだ
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#6464] budget=68ch/3ln
+  NOW: I can't feel it.
+          It's not at all clear.
+          It's only a vague sensation.
+  JP : JP#6602[HIGH]: 「実信がわかないな / 　どこか、ハッキリしない〜 / 　頼りない信信だ
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#6465] budget=86ch/3ln
+  NOW: But the equilibrium could
+          collapse anytime and lapse
+          into an uncontrollable situation.
+  JP : JP#6603[HIGH]: 「それだけに / 　いつ<8a7f><8a80>が崩れて / 　制<89c7>できない状況に<8a81>るかもしれぬ[10][0c]「世界を<8832>う力と 
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#6466] budget=65ch/2ln
+  NOW: The power to save the world and
+          the power to destroy the world...
+  JP : JP#6604[HIGH]: 「世界を<8832>う力と / 　世界を男き<8a67>くす力〜[10][0c]「どちらにせよ / 　お前は圧倒的な力の上を / 　<8a82>渡りしているのだ
+  FIT: <<TODO — <=65 chars, 2 line(s), <=35/line>>
+
+[US#6467] budget=66ch/3ln
+  NOW: Either way,
+          you're on a tightrope between
+          two overwhelming powers.
+  JP : JP#6605[HIGH]: 「どちらにせよ / 　お前は圧倒的な力の上を / 　<8a82>渡りしているのだ[10][0c]「この事を忘れるな〜
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#6468] budget=23ch/1ln
+  NOW: Don't ever forget this.
+  JP : JP#6606[HIGH]: 「この事を忘れるな〜
+  FIT: <<TODO — <=23 chars, 1 line(s), <=35/line>>
+
+[US#6469] budget=41ch/2ln
+  NOW: The suspicions have
+          finally been cleared.
+  JP : JP#6607[HIGH]: 「今までの<8a85>念が / 　ようやく<8a86>れたのだ[10][0c]「この身に＜助昔＞の歩が流れていることを / 　ようやく確信が持てたのだ〜[10]
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#6470] budget=71ch/3ln
+  NOW: I'm now confident that
+          the blood of the <Sword
+          Magess> flows within me.
+  JP : JP#6608[MED]: 「この身に＜助昔＞の歩が流れていることを / 　ようやく確信が持てたのだ〜[10][0c]「たのむ、あと少し〜 / 　この身が<8a79>けようとも / 　『<
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#6471] budget=68ch/3ln
+  NOW: Please, a little more...
+          I'd rid this body,
+          if I could die a |hero.|
+  JP : (no JP mapped)
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#6472] budget=68ch/3ln
+  NOW: ...are of the Blaze of
+         Disaster, Lord Blazer,
+         who will burn the world.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#6473] budget=119ch/5ln
+  NOW: The reason 6
+         couldn't completely destroy
+         Lord Blazer, ironically, is
+         due to the |humans| from
+         the world one was to protect.
+  JP : JP#6609[MED]: 「たのむ、あと少し〜 / 　この身が<8a79>けようとも / 　『<8a53>勉』として死ねるなら〜
+  FIT: <<TODO — <=119 chars, 5 line(s), <=35/line>>
+
+[US#6474] budget=46ch/2ln
+  NOW: Negative feelings will
+         end the world of humans.
+  JP : JP#6610[MED]: [13]人の世界を男き<8a67>くさんとする / [13]魂の頼<8a6a>、ロードブレイザー〜[10][0c][13][05]くが / [13]ロードブレイ
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#6475] budget=146ch/5ln
+  NOW: No matter how much 6
+         brandished the power of his spirit,
+         with only one person's |heart,|
+         in the face of Lord Blazer's
+         rebirth, it was a wasted effort.
+  JP : JP#6611[MED]: [13][05]くが / [13]ロードブレイザーを / [13]<88ad>険に滅することがかなわなかったのは / [13]<8a87>勝にも、<8a88>る
+  FIT: <<TODO — <=146 chars, 5 line(s), <=35/line>>
+
+[US#6476] budget=108ch/4ln
+  NOW: As a last resort, 6, in
+         exchange for her life, trapped
+         Lord Blazer behind the event
+         horizon to protect Filgaia.
+  JP : JP#6612[MED]: [13]人の世界に<8a67>きぬは、乗の信情[10][0c][13]いかに[05]くが / [13]強大な<88ea><8a5c>の力を<8a59>るおうとも
+  FIT: <<TODO — <=108 chars, 4 line(s), <=35/line>>
+
+[US#6477] budget=144ch/5ln
+  NOW: But, as long as negative feelings
+         continue, the chains that bind
+         could be released and Lord Blazer
+         could revive, leading to a
+         future of uncertainty.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=144 chars, 5 line(s), <=35/line>>
+
+[US#6479] budget=94ch/3ln
+  NOW: Fleeing from the event horizon
+          and hiding in your body was his
+          first step toward resurrection.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#6480] budget=56ch/3ln
+  NOW: Something snapped violently
+          inside me...
+          If that's it...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=56 chars, 3 line(s), <=35/line>>
+
+[US#6481] budget=33ch/2ln
+  NOW: I wonder what it is?
+          I'm worried.
+  JP : JP#6613[MED]: [13]いかに[05]くが / [13]強大な<88ea><8a5c>の力を<8a59>るおうとも / [13]ひとりの『心』では / [13]ロードブレイザー
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#6482] budget=52ch/2ln
+  NOW: We need to check every nook
+          and cranny of the ruins.
+  JP : JP#6614[MED]: [13]最後の手<8a8c>として / [13][05]くは、その命を招き<88fb>えに / [13]ロードブレイザーを事<8a8d>の地<8a8e>に封じ  || JP#6615[MED]: [13]だが、それは / [13]乗の信情が<8a67>きぬ以上 / [13]封集の<8a91><8a92>を解いてロードブレイザーが / [13]いつ<8a9
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#6483] budget=28ch/1ln
+  NOW: I can't leave the ruins yet!
+  JP : JP#6616[MED]: [17] || JP#6617[MED]: 「いや、事<8a8d>の地<8a8e>より出でて / 　お前の身に<8a7d>んでいること自体が / 　<8a93>好の<88f9>一<8a8c><8a75>で
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>

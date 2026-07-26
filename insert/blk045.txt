@@ -1,0 +1,98 @@
+# WA2 INSERTION workspace US block 45 (US#6070-6089)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#6073] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#6206[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6074] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6207[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#6075] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6208[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#6077] budget=57ch/3ln
+  NOW: That means there's only
+          one way out of here.
+          How amusing!
+  JP : JP#6210[HIGH]: 「ここから出る手<8a34>は / 　ただひとつということか / 　フッ、おもしろい泣片だッ！
+  FIT: <<TODO — <=57 chars, 3 line(s), <=35/line>>
+
+[US#6078] budget=55ch/2ln
+  NOW: Someone's trying to make
+          sure we don't get there first.
+  JP : JP#6211[HIGH]: 「誰かが、ボクたちを / 　先に行かせないようにしている〜
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#6079] budget=77ch/3ln
+  NOW: It might be impossible alone,
+          but with you all behind me,
+          and Pooka behind me
+  JP : JP#6212[HIGH]: 「ひとりじゃムリかもしれないけれど / 　みんながついていてくれるから / 　プーカが<89a3>中を守してくれるから<f040><f042>[10][0c]「
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#6080] budget=28ch/1ln
+  NOW: I knew I could get stronger!
+  JP : JP#6213[HIGH]: 「ボクは強くなれると、信じれたんだッ！
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#6081] budget=57ch/3ln
+  NOW: An aerial fortress...
+          You all don't need
+          a toy like that!
+  JP : JP#6214[HIGH]: 「空中要<885e>だとッ！ / 　お前たちに / 　そんな姉<8a1b>は必要ないッ！
+  FIT: <<TODO — <=57 chars, 3 line(s), <=35/line>>
+
+[US#6082] budget=53ch/2ln
+  NOW: Heimdal Gazzo cannot go.
+          That's what I'm going to do!
+  JP : JP#6215[MED]: 「<f040><f042>そうさせてもらうぞッ！
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#6083] budget=32ch/2ln
+  NOW: I hate that.
+          It's so irritating.
+  JP : JP#6216[HIGH]: 「〜<8a3d>だな / 　そういうの、カンにさわるんだよ〜
+  FIT: <<TODO — <=32 chars, 2 line(s), <=35/line>>
+
+[US#6084] budget=41ch/2ln
+  NOW: I can't die in a place
+          like this. No way!
+  JP : JP#6217[HIGH]: 「こんなところで / 　私は死ぬわけにはいかない〜[10][0c]「ヴィンスフェルト方の分める / 　ファルガイアの未幸のために〜 / 　私にはまだ〜
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#6085] budget=71ch/3ln
+  NOW: For the future Filgaia,
+          the Filgaia ruled by Vinsfeld,
+          I must carry on.
+  JP : JP#6218[HIGH]: 「ヴィンスフェルト方の分める / 　ファルガイアの未幸のために〜 / 　私にはまだ〜
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#6086] budget=52ch/2ln
+  NOW: I'm not going to let it end
+          here and now, like this.
+  JP : JP#6219[HIGH]: 「こんなところで〜 / 　こんなカタチで、終わらせるものか〜
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#6088] budget=51ch/2ln
+  NOW: Sometimes purity can narrow
+          your view of the world.
+  JP : JP#6221[HIGH]: 「来挑さは時に / 　<8918>界を周めることがある[10][0c]「<8954>って、<8a48>んだ道の方が / 　失<893d>することはあっても / 
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#6089] budget=80ch/3ln
+  NOW: A path of uncertainty and
+          confusion may have failures,
+          but it'll never be wrong.
+  JP : JP#6222[MED]: 「<8954>って、<8a48>んだ道の方が / 　失<893d>することはあっても / 　まちがうことはない〜
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>

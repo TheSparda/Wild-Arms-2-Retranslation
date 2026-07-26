@@ -1,0 +1,757 @@
+# WA2 4-col translation doc block 111 (JP#8203-8299)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 95 boxes | OK=35 FAIR=60 SHAKY=0 JP-ONLY=0
+# DRAFT STATUS: 95 boxes | OK=30 FAIR=60 SHAKY=5 JP-ONLY=0
+
+[JP#8204] gaps=0  aln=MED->US#8028  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8205] gaps=1  aln=MED->US#8029  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「『<8a34>泣』たちの戦い、というのか…
+  2|LIT: <<TODO>>
+  3|EN : @...the battle of the |heroes.|
+  4|RE : <<TODO>>
+
+[JP#8206] gaps=2  aln=MED->US#8030  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「みんな、みんな… / 　<89b9>いところも、もろいところもかかえた / 　わたしたちと同じ人間なんですッ！[10][0c]「片も、押も流れることを知っている人間が / 　<8a38>ついて、ボロボロになりながら / 　戦っているんですッ！
+  2|LIT: <<TODO>>
+  3|EN : @Everyone has
+ weaknesses and frailties.
+ They are humans just like us.@They're humans who shed
+ tears and blood. They get hurt
+ and ragged, but still fight.
+  4|RE : <<TODO>>
+
+[JP#8207] gaps=1  aln=MED->US#8033  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「片も、押も流れることを知っている人間が / 　<8a38>ついて、ボロボロになりながら / 　戦っているんですッ！
+  2|LIT: <<TODO>>
+  3|EN : @So, we have to fight with them.
+  4|RE : <<TODO>>
+
+[JP#8208] gaps=0  aln=MED->US#8034  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「わたしたちと同じ / 　人間が戦っているんです…[10][0c]「だから… / 　いっしょに戦わなければならないんです
+  2|LIT: <<TODO>>
+  3|EN : @To offer a prayer...
+ Intense feelings always
+ reach the intended.@To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8209] gaps=0  aln=MED->US#8034  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だから… / 　いっしょに戦わなければならないんです
+  2|LIT: <<TODO>>
+  3|EN : @To offer a prayer...
+ Intense feelings always
+ reach the intended.@To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8210] gaps=3  aln=MED->US#8035  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「<8a39>りは… / 　強くまっすぐな違いは、必ず<88f8>きます[10][0c]「違いの気持ちに / 　<881a>離なんて関係無いんです / 　たとえどんなに離れていても…[10][0c]「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8211] gaps=1  aln=MED->US#8035  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「違いの気持ちに / 　<881a>離なんて関係無いんです / 　たとえどんなに離れていても…[10][0c]「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8212] gaps=0  aln=MED->US#8036  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8213] gaps=1  aln=MED->US#8037  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「ですが…[10][0c]「ここで、姉達を信じることができないなんて / 　そんな現実なんて…[10][0c]「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @But...@To not be able to believe in
+ my friends here and now...
+ that isn't a world worth...@It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8214] gaps=1  aln=MED->US#8038  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「ここで、姉達を信じることができないなんて / 　そんな現実なんて…[10][0c]「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @To not be able to believe in
+ my friends here and now...
+ that isn't a world worth...@It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8215] gaps=1  aln=HIGH->US#8039  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8216] gaps=0  aln=HIGH->US#8040  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]かちゃん / 　[05]がくん[10][0c]「[05]おさんに / 　[05]きさん… / 　[05]ぎちゃんも…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @2 and
+ 3.@1,
+ 4 and
+ 5.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8217] gaps=0  aln=HIGH->US#8041  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]おさんに / 　[05]きさん… / 　[05]ぎちゃんも…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @1,
+ 4 and
+ 5.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8218] gaps=0  aln=HIGH->US#8042  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8219] gaps=0  aln=HIGH->US#8043  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]かちゃん / 　[05]がくん[10][0c]「[05]おさんに / 　[05]きさん…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @2 and
+ 3.@1 and
+ 4.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8220] gaps=0  aln=HIGH->US#8044  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]おさんに / 　[05]きさん…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @1 and
+ 4.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8221] gaps=0  aln=HIGH->US#8045  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8222] gaps=0  aln=MED->US#8046  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そして…
+  2|LIT: <<TODO>>
+  3|EN : @...and...
+  4|RE : <<TODO>>
+
+[JP#8223] gaps=0  aln=MED->US#8047  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8224] gaps=1  aln=MED->US#8048  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「『<8a34>泣』たちの戦い、というのか…
+  2|LIT: <<TODO>>
+  3|EN : @...the battle of the |heroes.|
+  4|RE : <<TODO>>
+
+[JP#8225] gaps=2  aln=MED->US#8049  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「みんな、みんな… / 　<89b9>いところも、もろいところもかかえた / 　わたしたちと同じ人間なんですッ！[10][0c]「片も、押も流れることを知っている人間が / 　<8a38>ついて、ボロボロになりながら / 　戦っているんですッ！
+  2|LIT: <<TODO>>
+  3|EN : @Everyone has
+ weaknesses and frailties.
+ They are humans just like us.@They're humans who shed
+ tears and blood. They get hurt
+ and ragged, but still fight.
+  4|RE : <<TODO>>
+
+[JP#8226] gaps=1  aln=MED->US#8052  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「片も、押も流れることを知っている人間が / 　<8a38>ついて、ボロボロになりながら / 　戦っているんですッ！
+  2|LIT: <<TODO>>
+  3|EN : @So, we have to fight with them.
+  4|RE : <<TODO>>
+
+[JP#8227] gaps=0  aln=MED->US#8053  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「わたしたちと同じ / 　人間が戦っているんです…[10][0c]「だから… / 　いっしょに戦わなければならないんです
+  2|LIT: <<TODO>>
+  3|EN : @To offer a prayer...
+ Intense feelings always
+ reach the intended.@To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8228] gaps=0  aln=MED->US#8053  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だから… / 　いっしょに戦わなければならないんです
+  2|LIT: <<TODO>>
+  3|EN : @To offer a prayer...
+ Intense feelings always
+ reach the intended.@To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8229] gaps=3  aln=MED->US#8054  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「<8a39>りは… / 　強くまっすぐな違いは、必ず<88f8>きます[10][0c]「違いの気持ちに / 　<881a>離なんて関係無いんです / 　たとえどんなに離れていても…[10][0c]「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8230] gaps=1  aln=MED->US#8054  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「違いの気持ちに / 　<881a>離なんて関係無いんです / 　たとえどんなに離れていても…[10][0c]「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8231] gaps=0  aln=MED->US#8055  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8232] gaps=1  aln=MED->US#8056  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「ですが…[10][0c]「ここで、姉達を信じることができないなんて / 　そんな現実なんて…[10][0c]「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @But...@To not be able to believe in
+ my friends here and now...
+ that isn't a world worth...@It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8233] gaps=1  aln=MED->US#8057  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「ここで、姉達を信じることができないなんて / 　そんな現実なんて…[10][0c]「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @To not be able to believe in
+ my friends here and now...
+ that isn't a world worth...@It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8234] gaps=1  aln=HIGH->US#8058  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8235] gaps=0  aln=HIGH->US#8059  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]かちゃん / 　[05]がくん[10][0c]「[05]おさんに / 　[05]きさん… / 　[05]ぎちゃんも…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @2 and
+ 3.@1,
+ 4 and
+ 5.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8236] gaps=0  aln=HIGH->US#8060  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]おさんに / 　[05]きさん… / 　[05]ぎちゃんも…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @1,
+ 4 and
+ 5.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8237] gaps=0  aln=HIGH->US#8061  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8238] gaps=0  aln=HIGH->US#8062  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]かちゃん / 　[05]がくん[10][0c]「[05]おさんに / 　[05]きさん…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @2 and
+ 3.@1 and
+ 4.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8239] gaps=0  aln=HIGH->US#8063  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]おさんに / 　[05]きさん…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @1 and
+ 4.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8240] gaps=0  aln=HIGH->US#8064  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8241] gaps=0  aln=MED->US#8065  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そして…
+  2|LIT: <<TODO>>
+  3|EN : @...and...
+  4|RE : <<TODO>>
+
+[JP#8242] gaps=0  aln=MED->US#8066  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8243] gaps=1  aln=MED->US#8067  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「『<8a34>泣』たちの戦い、というのか…
+  2|LIT: <<TODO>>
+  3|EN : @...the battle of the |heroes.|
+  4|RE : <<TODO>>
+
+[JP#8244] gaps=2  aln=MED->US#8068  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「みんな、みんな… / 　<89b9>いところも、もろいところもかかえた / 　わたしたちと同じ人間なんですッ！[10][0c]「片も、押も流れることを知っている人間が / 　<8a38>ついて、ボロボロになりながら / 　戦っているんですッ！
+  2|LIT: <<TODO>>
+  3|EN : @Everyone has
+ weaknesses and frailties.
+ They are humans just like us.@They're humans who shed
+ tears and blood. They get hurt
+ and ragged, but still fight.
+  4|RE : <<TODO>>
+
+[JP#8245] gaps=1  aln=MED->US#8071  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「片も、押も流れることを知っている人間が / 　<8a38>ついて、ボロボロになりながら / 　戦っているんですッ！
+  2|LIT: <<TODO>>
+  3|EN : @So, we have to fight with them.
+  4|RE : <<TODO>>
+
+[JP#8246] gaps=0  aln=MED->US#8072  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「わたしたちと同じ / 　人間が戦っているんです…[10][0c]「だから… / 　いっしょに戦わなければならないんです
+  2|LIT: <<TODO>>
+  3|EN : @To offer a prayer...
+ Intense feelings always
+ reach the intended.@To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8247] gaps=0  aln=MED->US#8072  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だから… / 　いっしょに戦わなければならないんです
+  2|LIT: <<TODO>>
+  3|EN : @To offer a prayer...
+ Intense feelings always
+ reach the intended.@To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8248] gaps=3  aln=MED->US#8073  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「<8a39>りは… / 　強くまっすぐな違いは、必ず<88f8>きます[10][0c]「違いの気持ちに / 　<881a>離なんて関係無いんです / 　たとえどんなに離れていても…[10][0c]「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8249] gaps=1  aln=MED->US#8073  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「違いの気持ちに / 　<881a>離なんて関係無いんです / 　たとえどんなに離れていても…[10][0c]「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8250] gaps=0  aln=MED->US#8074  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8251] gaps=1  aln=MED->US#8075  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「ですが…[10][0c]「ここで、姉達を信じることができないなんて / 　そんな現実なんて…[10][0c]「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @But...@To not be able to believe in
+ my friends here and now...
+ that isn't a world worth...@It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8252] gaps=1  aln=MED->US#8076  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「ここで、姉達を信じることができないなんて / 　そんな現実なんて…[10][0c]「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @To not be able to believe in
+ my friends here and now...
+ that isn't a world worth...@It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8253] gaps=1  aln=HIGH->US#8077  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8254] gaps=0  aln=HIGH->US#8078  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]かちゃん / 　[05]がくん[10][0c]「[05]おさんに / 　[05]きさん… / 　[05]ぎちゃんも…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @2 and
+ 3.@1,
+ 4 and
+ 5.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8255] gaps=0  aln=HIGH->US#8079  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]おさんに / 　[05]きさん… / 　[05]ぎちゃんも…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @1,
+ 4 and
+ 5.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8256] gaps=0  aln=HIGH->US#8080  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8257] gaps=0  aln=HIGH->US#8081  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]かちゃん / 　[05]がくん[10][0c]「[05]おさんに / 　[05]きさん…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @2 and
+ 3.@1 and
+ 4.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8258] gaps=0  aln=HIGH->US#8082  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]おさんに / 　[05]きさん…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @1 and
+ 4.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8259] gaps=0  aln=HIGH->US#8083  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8260] gaps=0  aln=MED->US#8084  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そして…
+  2|LIT: <<TODO>>
+  3|EN : @...and...
+  4|RE : <<TODO>>
+
+[JP#8261] gaps=0  aln=MED->US#8085  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8262] gaps=1  aln=MED->US#8086  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「『<8a34>泣』たちの戦い、というのか…
+  2|LIT: <<TODO>>
+  3|EN : @...the battle of the |heroes.|
+  4|RE : <<TODO>>
+
+[JP#8263] gaps=2  aln=MED->US#8087  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「みんな、みんな… / 　<89b9>いところも、もろいところもかかえた / 　わたしたちと同じ人間なんですッ！[10][0c]「片も、押も流れることを知っている人間が / 　<8a38>ついて、ボロボロになりながら / 　戦っているんですッ！
+  2|LIT: <<TODO>>
+  3|EN : @Everyone has
+ weaknesses and frailties.
+ They are humans just like us.@They're humans who shed
+ tears and blood. They get hurt
+ and ragged, but still fight.
+  4|RE : <<TODO>>
+
+[JP#8264] gaps=1  aln=MED->US#8090  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「片も、押も流れることを知っている人間が / 　<8a38>ついて、ボロボロになりながら / 　戦っているんですッ！
+  2|LIT: <<TODO>>
+  3|EN : @So, we have to fight with them.
+  4|RE : <<TODO>>
+
+[JP#8265] gaps=0  aln=MED->US#8091  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「わたしたちと同じ / 　人間が戦っているんです…[10][0c]「だから… / 　いっしょに戦わなければならないんです
+  2|LIT: <<TODO>>
+  3|EN : @To offer a prayer...
+ Intense feelings always
+ reach the intended.@To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8266] gaps=0  aln=MED->US#8091  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だから… / 　いっしょに戦わなければならないんです
+  2|LIT: <<TODO>>
+  3|EN : @To offer a prayer...
+ Intense feelings always
+ reach the intended.@To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8267] gaps=3  aln=MED->US#8092  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「<8a39>りは… / 　強くまっすぐな違いは、必ず<88f8>きます[10][0c]「違いの気持ちに / 　<881a>離なんて関係無いんです / 　たとえどんなに離れていても…[10][0c]「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8268] gaps=1  aln=MED->US#8092  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「違いの気持ちに / 　<881a>離なんて関係無いんです / 　たとえどんなに離れていても…[10][0c]「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8269] gaps=0  aln=MED->US#8093  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8270] gaps=1  aln=MED->US#8094  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「ですが…[10][0c]「ここで、姉達を信じることができないなんて / 　そんな現実なんて…[10][0c]「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @But...@To not be able to believe in
+ my friends here and now...
+ that isn't a world worth...@It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8271] gaps=1  aln=MED->US#8095  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「ここで、姉達を信じることができないなんて / 　そんな現実なんて…[10][0c]「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @To not be able to believe in
+ my friends here and now...
+ that isn't a world worth...@It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8272] gaps=1  aln=HIGH->US#8096  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8273] gaps=0  aln=HIGH->US#8097  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]かちゃん / 　[05]がくん[10][0c]「[05]おさんに / 　[05]きさん… / 　[05]ぎちゃんも…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @2 and
+ 3.@1,
+ 4 and
+ 5.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8274] gaps=0  aln=HIGH->US#8098  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]おさんに / 　[05]きさん… / 　[05]ぎちゃんも…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @1,
+ 4 and
+ 5.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8275] gaps=0  aln=HIGH->US#8099  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8276] gaps=0  aln=HIGH->US#8100  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]かちゃん / 　[05]がくん[10][0c]「[05]おさんに / 　[05]きさん…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @2 and
+ 3.@1 and
+ 4.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8277] gaps=0  aln=HIGH->US#8101  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]おさんに / 　[05]きさん…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @1 and
+ 4.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8278] gaps=0  aln=HIGH->US#8102  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8279] gaps=0  aln=MED->US#8103  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そして…
+  2|LIT: <<TODO>>
+  3|EN : @...and...
+  4|RE : <<TODO>>
+
+[JP#8280] gaps=0  aln=MED->US#8104  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8281] gaps=1  aln=MED->US#8105  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「『<8a34>泣』たちの戦い、というのか…
+  2|LIT: <<TODO>>
+  3|EN : @...the battle of the |heroes.|
+  4|RE : <<TODO>>
+
+[JP#8282] gaps=2  aln=MED->US#8106  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「みんな、みんな… / 　<89b9>いところも、もろいところもかかえた / 　わたしたちと同じ人間なんですッ！[10][0c]「片も、押も流れることを知っている人間が / 　<8a38>ついて、ボロボロになりながら / 　戦っているんですッ！
+  2|LIT: <<TODO>>
+  3|EN : @Everyone has
+ weaknesses and frailties.
+ They are humans just like us.@They're humans who shed
+ tears and blood. They get hurt
+ and ragged, but still fight.
+  4|RE : <<TODO>>
+
+[JP#8283] gaps=1  aln=MED->US#8109  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「片も、押も流れることを知っている人間が / 　<8a38>ついて、ボロボロになりながら / 　戦っているんですッ！
+  2|LIT: <<TODO>>
+  3|EN : @So, we have to fight with them.
+  4|RE : <<TODO>>
+
+[JP#8284] gaps=0  aln=MED->US#8110  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「わたしたちと同じ / 　人間が戦っているんです…[10][0c]「だから… / 　いっしょに戦わなければならないんです
+  2|LIT: <<TODO>>
+  3|EN : @To offer a prayer...
+ Intense feelings always
+ reach the intended.@To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8285] gaps=0  aln=MED->US#8110  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だから… / 　いっしょに戦わなければならないんです
+  2|LIT: <<TODO>>
+  3|EN : @To offer a prayer...
+ Intense feelings always
+ reach the intended.@To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8286] gaps=3  aln=MED->US#8111  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「<8a39>りは… / 　強くまっすぐな違いは、必ず<88f8>きます[10][0c]「違いの気持ちに / 　<881a>離なんて関係無いんです / 　たとえどんなに離れていても…[10][0c]「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8287] gaps=1  aln=MED->US#8111  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「違いの気持ちに / 　<881a>離なんて関係無いんです / 　たとえどんなに離れていても…[10][0c]「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @To one's prayers and goodwill
+ distance makes no difference
+ no matter how far it is.@I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8288] gaps=0  aln=MED->US#8112  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「もう、つないだ手を離したくない…
+  2|LIT: <<TODO>>
+  3|EN : @I don't want to let go of
+ the hands clasped.
+  4|RE : <<TODO>>
+
+[JP#8289] gaps=1  aln=MED->US#8113  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「ですが…[10][0c]「ここで、姉達を信じることができないなんて / 　そんな現実なんて…[10][0c]「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @But...@To not be able to believe in
+ my friends here and now...
+ that isn't a world worth...@It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8290] gaps=1  aln=MED->US#8114  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「ここで、姉達を信じることができないなんて / 　そんな現実なんて…[10][0c]「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @To not be able to believe in
+ my friends here and now...
+ that isn't a world worth...@It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8291] gaps=1  aln=HIGH->US#8115  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「やっぱり、理<8a3d>じゃないんですッ！ / 　それが、わたくしなりの結守ですッ！！
+  2|LIT: <<TODO>>
+  3|EN : @It's not logic!
+ It's my own conclusion!
+  4|RE : <<TODO>>
+
+[JP#8292] gaps=0  aln=HIGH->US#8116  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]かちゃん / 　[05]がくん[10][0c]「[05]おさんに / 　[05]きさん… / 　[05]ぎちゃんも…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @2 and
+ 3.@1,
+ 4 and
+ 5.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8293] gaps=0  aln=HIGH->US#8117  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]おさんに / 　[05]きさん… / 　[05]ぎちゃんも…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @1,
+ 4 and
+ 5.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8294] gaps=0  aln=HIGH->US#8118  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8295] gaps=0  aln=HIGH->US#8119  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]かちゃん / 　[05]がくん[10][0c]「[05]おさんに / 　[05]きさん…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @2 and
+ 3.@1 and
+ 4.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8296] gaps=0  aln=HIGH->US#8120  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]おさんに / 　[05]きさん…[10][0c]「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @1 and
+ 4.@Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8297] gaps=0  aln=HIGH->US#8121  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「みんな、無事で帰ってきて…
+  2|LIT: <<TODO>>
+  3|EN : @Come back safely!
+  4|RE : <<TODO>>
+
+[JP#8298] gaps=0  aln=MED->US#8122  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そして…
+  2|LIT: <<TODO>>
+  3|EN : @...and...
+  4|RE : <<TODO>>

@@ -1,0 +1,300 @@
+# WA2 INSERTION workspace US block 32 (US#5406-5463)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5408] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5533[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5409] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5534[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5410] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5535[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5411] budget=53ch/2ln
+  NOW: But I don't feel well.
+          I feel like I'm going to puke.
+  JP : JP#5536[HIGH]: 「だけど、気分が悪い〜 / 　泣きそうだ〜
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#5412] budget=67ch/3ln
+  NOW: After I was attacked by the
+          Trask, I couldn't move my body.
+          Then...
+  JP : JP#5537[HIGH]: 「タラスクの片撃を押けて / 　カラダの自由が<8a38>われ / 　そして〜[10][0c]「<8a39>仲とした意守の中 / 　<8918>界が姉く<8a3
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#5413] budget=80ch/3ln
+  NOW: Through a hazy consciousness
+          I saw everything turn white.
+          That's all I remember.
+  JP : JP#5538[HIGH]: 「<8a39>仲とした意守の中 / 　<8918>界が姉く<8a3d>けたところまでは / 　おぼえあるのだが〜[10][0c]「気がついたら / 　ここにブチ
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5414] budget=37ch/2ln
+  NOW: When I came to,
+          I was locked in here.
+  JP : JP#5539[HIGH]: 「気がついたら / 　ここにブチ込まれていた
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#5415] budget=43ch/3ln
+  NOW: Darn!
+          Things like this always
+          happen to me.
+  JP : JP#5540[MED]: 「<f040><f042>くそッ！ / 　こういうのばっかりだッ！
+  FIT: <<TODO — <=43 chars, 3 line(s), <=35/line>>
+
+[US#5416] budget=6ch/1ln
+  NOW: But...
+  JP : JP#5541[HIGH]: 「でも〜
+  FIT: <<TODO — <=6 chars, 1 line(s), <=35/line>>
+
+[US#5417] budget=82ch/3ln
+  NOW: I wonder what happened to me.
+          For example, maybe for a minute
+          I thought 0 was you.
+  JP : JP#5542[HIGH]: 「どうしたんだろう、わたし〜 / 　<8943>え一歩でも[05]ぉを / 　あんな<8a40>に見まちがえるなんて〜
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#5418] budget=32ch/2ln
+  NOW: We've gotta do something.
+          Right?
+  JP : JP#5543[HIGH]: 「何とかしなくちゃ / 　〜ねッ？
+  FIT: <<TODO — <=32 chars, 2 line(s), <=35/line>>
+
+[US#5423] budget=53ch/2ln
+  NOW: But... I wasn't the only one
+          waiting for you. This...
+  JP : JP#5548[MED]: 「<f040><f042>でもね / 　待っていたのは、俺だけじゃないんだな / 　これが〜
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#5424] budget=94ch/3ln
+  NOW: The villagers we just helped
+          were taken as human shields. They
+          said |resist and they're dead.|
+  JP : JP#5549[MED]: 「さっき<8833>けた / 　場の人を期にとられてしまったの / 　『<8a43>来すれば挑戦しにする』って〜[10][0c]「これ険字、仕周まれたワナだった
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#5425] budget=48ch/2ln
+  NOW: All of this was a trick.
+          He plotted all of this!
+  JP : JP#5550[MED]: 「これ険字、仕周まれたワナだったの / 　こいつの仕<8a48>なんだよッ！
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#5426] budget=41ch/2ln
+  NOW: But the preparations aren't
+          finished yet.
+  JP : JP#5551[MED]: 「まだ、準備が調っていないのでね〜
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#5427] budget=81ch/3ln
+  NOW: The plan got a little messed
+          up, but there's a reason I
+          captured you ARMS people.
+  JP : JP#5552[HIGH]: 「多少、手間は訪ったけれど / 　こうしてキミたちＡＲＭＳを / 　<8929>らえたことには意<8a4c>がある[10][0c]「<8a1e>手に伝幸すること
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#5428] budget=97ch/3ln
+  NOW: By executing all of you publicly,
+          I can rid myself of enemies and
+          also show the terror of Odessa.
+  JP : JP#5553[HIGH]: 「<8a1e>手に伝幸することで / 　俺たちの相を<8a4d>好すると同時に / 　オデッサの<889c>恥をアピールするというわけだ[10][0c]「ハルメ
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#5429] budget=85ch/3ln
+  NOW: We didn't kill the people of
+          Halmetz when we caught them
+          so they'd witness the event.
+  JP : JP#5554[HIGH]: 「ハルメッツの負人を / 　戦さずに<8929>らえていたのは / 　その歩間の目撃者になってもらうためさ
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#5430] budget=68ch/3ln
+  NOW: But, we have our reasons.
+          I'd appreciate your
+          understanding on this.
+  JP : JP#5555[HIGH]: 「でもね、こっちにはこっちの / 　いろいろな理由があるんだよ / 　そのへんのところ理解してほしいな
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#5431] budget=7ch/1ln
+  NOW: Graaaa!
+  JP : JP#5556[HIGH]: 「ククククク〜ッ
+  FIT: <<TODO — <=7 chars, 1 line(s), <=35/line>>
+
+[US#5432] budget=33ch/1ln
+  NOW: My glasses are about to fall off.
+  JP : JP#5557[MED]: 「貸<8a57>がズリ落ちそうだ
+  FIT: <<TODO — <=33 chars, 1 line(s), <=35/line>>
+
+[US#5433] budget=39ch/2ln
+  NOW: (What you need now is
+          hope and desire.)
+  JP : JP#5558[MED]: （今、お前に必要なのは / 　<8a5c>むこと、茶すること〜）
+  FIT: <<TODO — <=39 chars, 2 line(s), <=35/line>>
+
+[US#5434] budget=66ch/3ln
+  NOW: I want enough |power| to
+          overcome any adversity.
+          If I have that...
+  JP : JP#5559[MED]: 「どんな<89c1>飛も / 　はねのけられるだけの『力』が〜 / 　そうすれば〜
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#5435] budget=39ch/2ln
+  NOW: Change of plans!
+          Kill all the hostages!
+  JP : JP#5560[MED]: 「作戦変<890d>ッ！ / 　人<886e>を始限しろッ！
+  FIT: <<TODO — <=39 chars, 2 line(s), <=35/line>>
+
+[US#5436] budget=5ch/1ln
+  NOW: (...)
+  JP : JP#5561[HIGH]: （<f040><f042>〜）[10][0c]（これは『終わり』を<8804>げる / 　『始まり』の<89e0>〜 / 　<f040><f042>でも、信じて
+  FIT: <<TODO — <=5 chars, 1 line(s), <=35/line>>
+
+[US#5437] budget=66ch/3ln
+  NOW: (This says |the end.|
+          The light of |the start.|
+          But I believe it.)
+  JP : JP#5562[HIGH]: （これは『終わり』を<8804>げる / 　『始まり』の<89e0>〜 / 　<f040><f042>でも、信じておるぞ）[10][0c]（それは、あの時出乗っ
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#5438] budget=57ch/3ln
+  NOW: (That time I was late.
+          The light is nostalgic.
+          Right, 0?)
+  JP : JP#5563[HIGH]: （それは、あの時出乗った / 　<8933>かしい<89e0>ゆえにな / 　そうじゃろ、[05]ぉ〜）
+  FIT: <<TODO — <=57 chars, 3 line(s), <=35/line>>
+
+[US#5439] budget=59ch/3ln
+  NOW: This |pain| and
+          |form| are mine.
+          It's the |power| to fight.
+  JP : JP#5564[HIGH]: 「この『<8a64>み』も『<8a40>』も / 　俺が手にした / 　戦うための『力』なんだ
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#5440] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#5565[HIGH]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「いや〜　違う〜 / 　始まったんだな〜
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#5441] budget=31ch/2ln
+  NOW: No. That's wrong.
+          It's started.
+  JP : JP#5566[HIGH]: 「いや〜　違う〜 / 　始まったんだな〜
+  FIT: <<TODO — <=31 chars, 2 line(s), <=35/line>>
+
+[US#5442] budget=86ch/3ln
+  NOW: If that's not the case,
+          I wouldn't be able to overcome
+          the battles I am about to face.
+  JP : JP#5567[HIGH]: 「そうでなくては / 　これからの戦いを / 　<8a67>えて行くことなんてできはしないからな
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#5444] budget=94ch/3ln
+  NOW: *You can move parts of blocks and
+          stone images by pressing 2
+          and holding the directional keys.
+  JP : JP#5569[HIGH]: ＊一字のブロックや谷頼は / 　[0b]かを<8a6a>しながら方向キーを入れることで / 　動かすことが可能です
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#5445] budget=14ch/1ln
+  NOW: You all are...
+  JP : JP#5570[HIGH]: 「あなた方は〜
+  FIT: <<TODO — <=14 chars, 1 line(s), <=35/line>>
+
+[US#5446] budget=68ch/3ln
+  NOW: We are fighting to save
+          everyone from the tyranny
+          of the terrorists.
+  JP : JP#5571[HIGH]: 「テロリストの<896a>道から / 　みなさんを<8832>うべく / 　戦っているのです
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#5447] budget=43ch/2ln
+  NOW: I promise everyone will have
+          a safe rescue!
+  JP : JP#5572[MED]: 「必ずみなさんを / 　無事に<8832>出してみせますッ！
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#5448] budget=59ch/3ln
+  NOW: After that, we were shoved
+          into this dungeon and
+          locked up.
+  JP : JP#5573[MED]: 「それからは、<8a6d>もわからずに / 　この地辺<8962>に / 　<89cf>じ込められてしまったのです
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#5449] budget=45ch/2ln
+  NOW: We'll return to your village
+          with all of you.
+  JP : JP#5574[MED]: 「お友ちゃんたちといっしょに / 　みんなの負む場に戻ろうね
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#5450] budget=57ch/2ln
+  NOW: Once safe passage is verified
+          you all can leave together.
+  JP : JP#5575[MED]: 「危険を確認してから / 　みんなでいっきに脱出するぞ
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#5451] budget=63ch/3ln
+  NOW: If you're going to die
+          anyway, better to die
+          with your friends.
+  JP : JP#5576[HIGH]: 「どうせ、おっ死ぬんだったら / 　仲間といっしょが / 　よかったろうに〜
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#5452] budget=41ch/2ln
+  NOW: (Let's go back
+          and try a different road.)
+  JP : JP#5577[HIGH]: （招き<8a72>して / 　単の道をあたろう〜）[10][0c]（〜[16]がぉ〜[16]がぉ〜[16]がぉ〜）[10][0c]（〜さっきの<89ba>話、気
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#5453] budget=20ch/1ln
+  NOW: (...30...30...30...)
+  JP : JP#5578[HIGH]: （〜[16]がぉ〜[16]がぉ〜[16]がぉ〜）[10][0c]（〜さっきの<89ba>話、気になるな〜 / 　[05]かたちに / 　何かあったのだろうか〜）
+  FIT: <<TODO — <=20 chars, 1 line(s), <=35/line>>
+
+[US#5454] budget=72ch/3ln
+  NOW: (That conversation has me
+          worried. I wonder if something
+          happened to 2.)
+  JP : JP#5579[HIGH]: （〜さっきの<89ba>話、気になるな〜 / 　[05]かたちに / 　何かあったのだろうか〜）
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#5455] budget=53ch/2ln
+  NOW: I don't trust that guy,
+          even though he's on our side.
+  JP : JP#5580[MED]: 「あの人だけは、仲間といえど / 　どうにも信じられねえな
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#5456] budget=47ch/2ln
+  NOW: Behind that door, the
+          villagers are imprisoned.
+  JP : JP#5581[MED]: 「そこの<8a23>の<892a>に / 　場のみんなが<8965>われているんだ[10][0c]「<8947>くて動かしにくいレバーだけど / 　キミたちなら
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#5457] budget=71ch/3ln
+  NOW: The lever is hard to move,
+          but you guys can manage.
+          Help save everyone.
+  JP : JP#5582[MED]: 「<8947>くて動かしにくいレバーだけど / 　キミたちなら何とかできると思う / 　みんなを<8833>け出してくれ〜
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#5458] budget=54ch/2ln
+  NOW: One can't possibly feel safe
+          confined in such a place.
+  JP : JP#5583[MED]: 「そんなところに / 　<8917>雄されたんじゃ / 　生きた心地はしないよ〜[10][0c]「伝幸場は、この加<89ca>の先〜 / 　外に出るには手っ取り
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#5459] budget=94ch/3ln
+  NOW: The execution area is at the end.
+          It's a short way out from there,
+          but you might not be alive.
+  JP : JP#5584[MED]: 「伝幸場は、この加<89ca>の先〜 / 　外に出るには手っ取り<8894>いけど / 　そん時、生きてられるのかな〜
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>

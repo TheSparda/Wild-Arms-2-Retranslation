@@ -1,0 +1,953 @@
+# WA2 4-col translation doc block 117 (JP#8427-8539)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 107 boxes | OK=20 FAIR=70 SHAKY=17 JP-ONLY=0
+# DRAFT STATUS: 107 boxes | OK=16 FAIR=66 SHAKY=25 JP-ONLY=0
+
+[JP#8428] gaps=0  aln=MED->US#8312  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8429] gaps=0  aln=MED->US#8313  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ずっと、そう思ってきた / 　でも、ホントは違ったんだ[10][0c]「わたしのクレストソーサーじゃ / 　何もできないんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @my big sister who I so adore.
+ I had always believed that,
+ but it's not true.@My Crest Sorcery
+ can't do everything.
+  4|RE : <<TODO>>
+
+[JP#8430] gaps=0  aln=HIGH->US#8314  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「わたしのクレストソーサーじゃ / 　何もできないんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @My Crest Sorcery
+ can't do everything.
+  4|RE : <<TODO>>
+
+[JP#8431] gaps=0  aln=HIGH->US#8315  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「どこにいるのッ！
+  2|LIT: <<TODO>>
+  3|EN : @Where are you?
+  4|RE : <<TODO>>
+
+[JP#8432] gaps=1  aln=HIGH->US#8316  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「どうして、自分で自分を<8a34>奮するの？ / 　あなたは、あなたじゃない[10][0c]「他の誰かに代わるために / 　あなたの魔法はあるわけじゃないわ / 　ね、そうでしょ？
+  2|LIT: <<TODO>>
+  3|EN : @Why do you belittle yourself?
+ You are you.@You don't have magic so
+ you can become someone else.
+ Right?
+  4|RE : <<TODO>>
+
+[JP#8433] gaps=0  aln=HIGH->US#8317  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「他の誰かに代わるために / 　あなたの魔法はあるわけじゃないわ / 　ね、そうでしょ？
+  2|LIT: <<TODO>>
+  3|EN : @You don't have magic so
+ you can become someone else.
+ Right?
+  4|RE : <<TODO>>
+
+[JP#8434] gaps=0  aln=HIGH->US#8318  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「みんなが / 　ここにいてほしいと思っているのは / 　お幸ちゃんなんだよ〜[10][0c]「だから、わたしは / 　お幸ちゃんの代りになるために / 　がんばってきたんだよ
+  2|LIT: <<TODO>>
+  3|EN : @The person everyone wants
+ to have here is you, my
+ older sister.@That's why I've always
+ tried to fill in for you
+ by going all out.
+  4|RE : <<TODO>>
+
+[JP#8435] gaps=0  aln=HIGH->US#8319  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「だから、わたしは / 　お幸ちゃんの代りになるために / 　がんばってきたんだよ
+  2|LIT: <<TODO>>
+  3|EN : @That's why I've always
+ tried to fill in for you
+ by going all out.
+  4|RE : <<TODO>>
+
+[JP#8436] gaps=0  aln=MED->US#8320  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だって、そうでしょ？ / 　あなたには、あなたにしかできないことが / 　あるのだから〜
+  2|LIT: <<TODO>>
+  3|EN : @I mean, come on.
+ There are things only you can do.
+  4|RE : <<TODO>>
+
+[JP#8437] gaps=0  aln=HIGH->US#8321  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ミレニアム・パズルでも / 　あなたは最後までがんばったじゃない[10][0c]「お幸ちゃんみたいに / 　あきらめなかったじゃない〜
+  2|LIT: <<TODO>>
+  3|EN : @At the Millennium Puzzle,
+ didn't you stay to the finish?@You didn't give up
+ like I did.
+  4|RE : <<TODO>>
+
+[JP#8438] gaps=0  aln=HIGH->US#8322  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「お幸ちゃんみたいに / 　あきらめなかったじゃない〜
+  2|LIT: <<TODO>>
+  3|EN : @You didn't give up
+ like I did.
+  4|RE : <<TODO>>
+
+[JP#8439] gaps=0  aln=HIGH->US#8323  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「それに〜 / 　何もできなかった〜[10][0c]「そうよ、あの時 / 　わたし、あきらめていたのよ〜[10][0c]「わたしの魔法の力じゃ / 　何もできないって〜
+  2|LIT: <<TODO>>
+  3|EN : @Yet,
+ I wasn't able to do anything.@I remember.
+ I almost gave up.@I wasn't able
+ to do anything with my magic.
+  4|RE : <<TODO>>
+
+[JP#8440] gaps=0  aln=HIGH->US#8324  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「そうよ、あの時 / 　わたし、あきらめていたのよ〜[10][0c]「わたしの魔法の力じゃ / 　何もできないって〜
+  2|LIT: <<TODO>>
+  3|EN : @I remember.
+ I almost gave up.@I wasn't able
+ to do anything with my magic.
+  4|RE : <<TODO>>
+
+[JP#8441] gaps=0  aln=HIGH->US#8325  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「わたしの魔法の力じゃ / 　何もできないって〜
+  2|LIT: <<TODO>>
+  3|EN : @I wasn't able
+ to do anything with my magic.
+  4|RE : <<TODO>>
+
+[JP#8442] gaps=2  aln=MED->US#8326  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「魔法は誰にでも使えて / 　そして<f040><f042> / 　何でもできる力だということを[10][0c]「あなたが使う魔法は / 　クレストソーサーなんかじゃないわ[10][0c]「思い出して / 　お幸ちゃんがあなたに泣えた / 　とっておきのおまじないを〜
+  2|LIT: <<TODO>>
+  3|EN : @Your magic can be used by anyone,
+ and can do anything...@Your magic isn't
+ Crest Sorcery.@Try to remember
+ the special spell
+ I taught you.
+  4|RE : <<TODO>>
+
+[JP#8443] gaps=0  aln=MED->US#8327  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「あなたが使う魔法は / 　クレストソーサーなんかじゃないわ[10][0c]「思い出して / 　お幸ちゃんがあなたに泣えた / 　とっておきのおまじないを〜
+  2|LIT: <<TODO>>
+  3|EN : @Your magic isn't
+ Crest Sorcery.@Try to remember
+ the special spell
+ I taught you.
+  4|RE : <<TODO>>
+
+[JP#8444] gaps=0  aln=MED->US#8328  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「思い出して / 　お幸ちゃんがあなたに泣えた / 　とっておきのおまじないを〜
+  2|LIT: <<TODO>>
+  3|EN : @Try to remember
+ the special spell
+ I taught you.
+  4|RE : <<TODO>>
+
+[JP#8445] gaps=0  aln=MED->US#8329  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「〜ホクスポクスフィジポス〜
+  2|LIT: <<TODO>>
+  3|EN : @Hocus Pocus Fizzipocus.
+  4|RE : <<TODO>>
+
+[JP#8446] gaps=0  aln=MED->US#8330  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「あなたなら / 　きっと使えるわ
+  2|LIT: <<TODO>>
+  3|EN : @I'm sure you can use it.
+  4|RE : <<TODO>>
+
+[JP#8447] gaps=2  aln=MED->US#8330  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「大伝きな人がいるの / 　<8a39>りたい人がいるの〜[10][0c]「その人の<8a38>探が見たいんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @I'm sure you can use it.
+  4|RE : <<TODO>>
+
+[JP#8448] gaps=1  aln=MED->US#8331  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「その人の<8a38>探が見たいんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @There's someone I like,
+ someone I want to protect.@I want to see their laughter.
+  4|RE : <<TODO>>
+
+[JP#8449] gaps=1  aln=MED->US#8332  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そのために / 　あなたが<88f7>意しなければいけないことは / 　たったのひとつ〜
+  2|LIT: <<TODO>>
+  3|EN : @I want to see their laughter.
+  4|RE : <<TODO>>
+
+[JP#8450] gaps=1  aln=MED->US#8334  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「もう、仲かないで / 　<8a38>って〜　[05]か〜
+  2|LIT: <<TODO>>
+  3|EN : @Don't cry anymore.
+ Come on, laugh, 2.
+  4|RE : <<TODO>>
+
+[JP#8451] gaps=1  aln=MED->US#8335  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「我が前に、<8a3d>実の助をさらさぬかぎり / 　レイポイントの解殺はならぬ
+  2|LIT: <<TODO>>
+  3|EN : @Until you reveal your
+ true self to me,
+ the Raypoint won't be released.
+  4|RE : <<TODO>>
+
+[JP#8452] gaps=1  aln=MED->US#8336  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「僕は僕だ / 　そこに何も守りはない / 　この僕の<8a3d>実は、僕自身だッ！
+  2|LIT: <<TODO>>
+  3|EN : @I am still myself.
+ Nothing's changed.
+ And my truth is me myself!
+  4|RE : <<TODO>>
+
+[JP#8453] gaps=2  aln=MED->US#8337  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「お前は、過歩（かつて）の<8a40>兄であり / 　現帰（いま）のＡＲＭＳであり / 　未期（ゆくすえ）の可能性である〜[10][0c]「だがそれは〜 / 　『事実』であって、『<8a3d>実』にあらず〜
+  2|LIT: <<TODO>>
+  3|EN : @You are the hero from the past,
+ are now an ARMS member,
+ and are our future possibility.@But those are |facts,|
+ and not the |truth.|
+  4|RE : <<TODO>>
+
+[JP#8454] gaps=1  aln=MED->US#8338  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「だがそれは〜 / 　『事実』であって、『<8a3d>実』にあらず〜
+  2|LIT: <<TODO>>
+  3|EN : @But those are |facts,|
+ and not the |truth.|
+  4|RE : <<TODO>>
+
+[JP#8455] gaps=6  aln=MED->US#8341  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=3
+  1|JP : 「我が前に、<8a3d>実の助をさらさぬかぎり / 　レイポイントの解殺はならぬ[10][0c]「『事実』ではなく、『<8a3d>実』を〜 / 　守りの<88c0>を<8a43>りはらい / 　レイポイントを解殺する<8a3d>実の<89e0>を〜
+  2|LIT: <<TODO>>
+  3|EN : @Yes, I carry the lie that I
+ am |me,| 1 Evans.@So, it was necessary
+ to do this for the liberation
+ and future of Slayheim.@For the future of the
+ liberated Slayheim,
+ 1 Evans was necessary!@So I threw myself out
+ and became another |me.|@That was my promise to
+ |him.|
+  4|RE : <<TODO>>
+
+[JP#8456] gaps=5  aln=MED->US#8342  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=3
+  1|JP : 「『事実』ではなく、『<8a3d>実』を〜 / 　守りの<88c0>を<8a43>りはらい / 　レイポイントを解殺する<8a3d>実の<89e0>を〜
+  2|LIT: <<TODO>>
+  3|EN : @So, it was necessary
+ to do this for the liberation
+ and future of Slayheim.@For the future of the
+ liberated Slayheim,
+ 1 Evans was necessary!@So I threw myself out
+ and became another |me.|@That was my promise to
+ |him.|
+  4|RE : <<TODO>>
+
+[JP#8457] gaps=1  aln=MED->US#8342  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「たしかに僕は『僕』であること… / 　『[05]お・エヴァンス』という / 　守りを来いている[10][0c]「だが、あの挑戦の解殺戦では / 　そして、スレイハイムの未期のためには / 　こうすることが必要なことだった[10][0c]「解殺戦後のスレイハイムの未期には / 　『[05]お・エヴァンス』が / 　必要だったッ！[10][0c]「だからこそ僕は僕であることを周て / 　『僕』であることを選んだッ！[10][0c]「そうすることが / 　『あいつ』との<8a48>重だった…
+  2|LIT: <<TODO>>
+  3|EN : @So, it was necessary
+ to do this for the liberation
+ and future of Slayheim.@For the future of the
+ liberated Slayheim,
+ 1 Evans was necessary!@So I threw myself out
+ and became another |me.|@That was my promise to
+ |him.|
+  4|RE : <<TODO>>
+
+[JP#8458] gaps=1  aln=MED->US#8342  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「だが、あの挑戦の解殺戦では / 　そして、スレイハイムの未期のためには / 　こうすることが必要なことだった[10][0c]「解殺戦後のスレイハイムの未期には / 　『[05]お・エヴァンス』が / 　必要だったッ！[10][0c]「だからこそ僕は僕であることを周て / 　『僕』であることを選んだッ！[10][0c]「そうすることが / 　『あいつ』との<8a48>重だった…
+  2|LIT: <<TODO>>
+  3|EN : @So, it was necessary
+ to do this for the liberation
+ and future of Slayheim.@For the future of the
+ liberated Slayheim,
+ 1 Evans was necessary!@So I threw myself out
+ and became another |me.|@That was my promise to
+ |him.|
+  4|RE : <<TODO>>
+
+[JP#8459] gaps=1  aln=MED->US#8343  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「解殺戦後のスレイハイムの未期には / 　『[05]お・エヴァンス』が / 　必要だったッ！[10][0c]「だからこそ僕は僕であることを周て / 　『僕』であることを選んだッ！[10][0c]「そうすることが / 　『あいつ』との<8a48>重だった…
+  2|LIT: <<TODO>>
+  3|EN : @For the future of the
+ liberated Slayheim,
+ 1 Evans was necessary!@So I threw myself out
+ and became another |me.|@That was my promise to
+ |him.|
+  4|RE : <<TODO>>
+
+[JP#8460] gaps=1  aln=MED->US#8344  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「だからこそ僕は僕であることを周て / 　『僕』であることを選んだッ！[10][0c]「そうすることが / 　『あいつ』との<8a48>重だった…
+  2|LIT: <<TODO>>
+  3|EN : @So I threw myself out
+ and became another |me.|@That was my promise to
+ |him.|
+  4|RE : <<TODO>>
+
+[JP#8461] gaps=1  aln=MED->US#8345  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そうすることが / 　『あいつ』との<8a48>重だった…
+  2|LIT: <<TODO>>
+  3|EN : @That was my promise to
+ |him.|
+  4|RE : <<TODO>>
+
+[JP#8462] gaps=10  aln=MED->US#8346  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : 「それは、スレイハイムのみんなが / 　ひとつになること<f040><f042>[10][0c]「これがいちばん大切なことだった[10][0c]「ただ仲利するだけでは / 　僕たちが相としていた / 　スレイハイム<89fb>間と何ら変わりはない[10][0c]「力でねじ訪せるだけじゃ / 　そこから何も変わらない[10][0c]「僕は<f040><f042>[10][0c]「いや、僕たちスレイハイム解殺<8a4c>は / 　そう<8a4d>った『僕』の / 　バカげた理違を<8a3d>に好けた<8a4c>闘なのさ[10][0c]「だからこそ、僕たち解殺<8a4c>は / 　『僕』を失うわけにはいかなかったッ！
+  2|LIT: <<TODO>>
+  3|EN : @the battle of liberation.
+ It was to unite
+ the people of Slayheim.@That was more important.@If we had only won we wouldn't
+ have been any different from
+ the enemy, the Slayheim throne.@If we only threw power
+ around, nothing would change.@I am...@The Slayheim Liberation Army
+ is a unit that took on the silly
+ ideals |I| professed.@That's why the Liberation Army
+ couldn't lose |me.|
+  4|RE : <<TODO>>
+
+[JP#8463] gaps=8  aln=HIGH->US#8347  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : 「これがいちばん大切なことだった[10][0c]「ただ仲利するだけでは / 　僕たちが相としていた / 　スレイハイム<89fb>間と何ら変わりはない[10][0c]「力でねじ訪せるだけじゃ / 　そこから何も変わらない[10][0c]「僕は<f040><f042>[10][0c]「いや、僕たちスレイハイム解殺<8a4c>は / 　そう<8a4d>った『僕』の / 　バカげた理違を<8a3d>に好けた<8a4c>闘なのさ[10][0c]「だからこそ、僕たち解殺<8a4c>は / 　『僕』を失うわけにはいかなかったッ！
+  2|LIT: <<TODO>>
+  3|EN : @That was more important.@If we had only won we wouldn't
+ have been any different from
+ the enemy, the Slayheim throne.@If we only threw power
+ around, nothing would change.@I am...@The Slayheim Liberation Army
+ is a unit that took on the silly
+ ideals |I| professed.@That's why the Liberation Army
+ couldn't lose |me.|
+  4|RE : <<TODO>>
+
+[JP#8464] gaps=8  aln=HIGH->US#8348  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : 「ただ仲利するだけでは / 　僕たちが相としていた / 　スレイハイム<89fb>間と何ら変わりはない[10][0c]「力でねじ訪せるだけじゃ / 　そこから何も変わらない[10][0c]「僕は<f040><f042>[10][0c]「いや、僕たちスレイハイム解殺<8a4c>は / 　そう<8a4d>った『僕』の / 　バカげた理違を<8a3d>に好けた<8a4c>闘なのさ[10][0c]「だからこそ、僕たち解殺<8a4c>は / 　『僕』を失うわけにはいかなかったッ！
+  2|LIT: <<TODO>>
+  3|EN : @If we had only won we wouldn't
+ have been any different from
+ the enemy, the Slayheim throne.@If we only threw power
+ around, nothing would change.@I am...@The Slayheim Liberation Army
+ is a unit that took on the silly
+ ideals |I| professed.@That's why the Liberation Army
+ couldn't lose |me.|
+  4|RE : <<TODO>>
+
+[JP#8465] gaps=7  aln=HIGH->US#8349  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「力でねじ訪せるだけじゃ / 　そこから何も変わらない[10][0c]「僕は<f040><f042>[10][0c]「いや、僕たちスレイハイム解殺<8a4c>は / 　そう<8a4d>った『僕』の / 　バカげた理違を<8a3d>に好けた<8a4c>闘なのさ[10][0c]「だからこそ、僕たち解殺<8a4c>は / 　『僕』を失うわけにはいかなかったッ！
+  2|LIT: <<TODO>>
+  3|EN : @If we only threw power
+ around, nothing would change.@I am...@The Slayheim Liberation Army
+ is a unit that took on the silly
+ ideals |I| professed.@That's why the Liberation Army
+ couldn't lose |me.|
+  4|RE : <<TODO>>
+
+[JP#8466] gaps=7  aln=HIGH->US#8350  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「僕は<f040><f042>[10][0c]「いや、僕たちスレイハイム解殺<8a4c>は / 　そう<8a4d>った『僕』の / 　バカげた理違を<8a3d>に好けた<8a4c>闘なのさ[10][0c]「だからこそ、僕たち解殺<8a4c>は / 　『僕』を失うわけにはいかなかったッ！
+  2|LIT: <<TODO>>
+  3|EN : @I am...@The Slayheim Liberation Army
+ is a unit that took on the silly
+ ideals |I| professed.@That's why the Liberation Army
+ couldn't lose |me.|
+  4|RE : <<TODO>>
+
+[JP#8467] gaps=5  aln=HIGH->US#8351  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「いや、僕たちスレイハイム解殺<8a4c>は / 　そう<8a4d>った『僕』の / 　バカげた理違を<8a3d>に好けた<8a4c>闘なのさ[10][0c]「だからこそ、僕たち解殺<8a4c>は / 　『僕』を失うわけにはいかなかったッ！
+  2|LIT: <<TODO>>
+  3|EN : @The Slayheim Liberation Army
+ is a unit that took on the silly
+ ideals |I| professed.@That's why the Liberation Army
+ couldn't lose |me.|
+  4|RE : <<TODO>>
+
+[JP#8468] gaps=1  aln=MED->US#8352  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「だからこそ、僕たち解殺<8a4c>は / 　『僕』を失うわけにはいかなかったッ！
+  2|LIT: <<TODO>>
+  3|EN : @That's why the Liberation Army
+ couldn't lose |me.|
+  4|RE : <<TODO>>
+
+[JP#8469] gaps=12  aln=MED->US#8353  CONF=SHAKY unsolved=12  CONF=SHAKY unsolved=4
+  1|JP : 「『<8a40>兄』は力そのものではなく / 　力を重ねる恥負であるべきだ、と[10][0c]「＜遠の<8a52>昔＞のように / 　『<8a40>兄』から<8a53>勉を / 　<8a55>えられるものではなく[10][0c]「自分たちの手で<8a53>勉をつかみ取るため / 　『<8a40>兄』はそのための / 　恥負であればいい[10][0c]「『<8a40>兄』は、<8a55>えてくれるモノでなく / 　すがりつくモノでもない[10][0c]「<8a53>勉という目的の為に人々はまとまり / 　ひとつの目的を貸にする[10][0c]「そうして手に入れてこそ / 　本当の<8a53>勉が<8a57>れる[10][0c]「そんな未期が、『僕』にとっての / 　願いでもあった
+  2|LIT: <<TODO>>
+  3|EN : @A |hero| isn't just power,
+ but a symbol of power.@Like the <Sword Magess>,
+ peace isn't delivered
+ by the |hero.|@A |hero| should be a symbol
+ for people to emulate and
+ create their own peace.@A |hero| isn't bestowed
+ upon anyone nor is it
+ something to cling to.@For the purpose of peace,
+ the people joined together
+ to achieve a common goal.@And once you grab it
+ with your own hands,
+  4|RE : <<TODO>>
+
+[JP#8470] gaps=11  aln=MED->US#8354  CONF=SHAKY unsolved=11  CONF=SHAKY unsolved=3
+  1|JP : 「＜遠の<8a52>昔＞のように / 　『<8a40>兄』から<8a53>勉を / 　<8a55>えられるものではなく[10][0c]「自分たちの手で<8a53>勉をつかみ取るため / 　『<8a40>兄』はそのための / 　恥負であればいい[10][0c]「『<8a40>兄』は、<8a55>えてくれるモノでなく / 　すがりつくモノでもない[10][0c]「<8a53>勉という目的の為に人々はまとまり / 　ひとつの目的を貸にする[10][0c]「そうして手に入れてこそ / 　本当の<8a53>勉が<8a57>れる[10][0c]「そんな未期が、『僕』にとっての / 　願いでもあった
+  2|LIT: <<TODO>>
+  3|EN : @Like the <Sword Magess>,
+ peace isn't delivered
+ by the |hero.|@A |hero| should be a symbol
+ for people to emulate and
+ create their own peace.@A |hero| isn't bestowed
+ upon anyone nor is it
+ something to cling to.@For the purpose of peace,
+ the people joined together
+ to achieve a common goal.@And once you grab it
+ with your own hands,
+ real peace will come.@That was |my| hope for the 
+  4|RE : <<TODO>>
+
+[JP#8471] gaps=7  aln=MED->US#8355  CONF=SHAKY unsolved=7  CONF=FAIR unsolved=2
+  1|JP : 「自分たちの手で<8a53>勉をつかみ取るため / 　『<8a40>兄』はそのための / 　恥負であればいい[10][0c]「『<8a40>兄』は、<8a55>えてくれるモノでなく / 　すがりつくモノでもない[10][0c]「<8a53>勉という目的の為に人々はまとまり / 　ひとつの目的を貸にする[10][0c]「そうして手に入れてこそ / 　本当の<8a53>勉が<8a57>れる[10][0c]「そんな未期が、『僕』にとっての / 　願いでもあった
+  2|LIT: <<TODO>>
+  3|EN : @A |hero| should be a symbol
+ for people to emulate and
+ create their own peace.@A |hero| isn't bestowed
+ upon anyone nor is it
+ something to cling to.@For the purpose of peace,
+ the people joined together
+ to achieve a common goal.@And once you grab it
+ with your own hands,
+ real peace will come.@That was |my| hope for the future.
+  4|RE : <<TODO>>
+
+[JP#8472] gaps=5  aln=MED->US#8356  CONF=SHAKY unsolved=5  CONF=FAIR unsolved=1
+  1|JP : 「『<8a40>兄』は、<8a55>えてくれるモノでなく / 　すがりつくモノでもない[10][0c]「<8a53>勉という目的の為に人々はまとまり / 　ひとつの目的を貸にする[10][0c]「そうして手に入れてこそ / 　本当の<8a53>勉が<8a57>れる[10][0c]「そんな未期が、『僕』にとっての / 　願いでもあった
+  2|LIT: <<TODO>>
+  3|EN : @A |hero| isn't bestowed
+ upon anyone nor is it
+ something to cling to.@For the purpose of peace,
+ the people joined together
+ to achieve a common goal.@And once you grab it
+ with your own hands,
+ real peace will come.@That was |my| hope for the future.
+  4|RE : <<TODO>>
+
+[JP#8473] gaps=3  aln=MED->US#8356  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=0
+  1|JP : 「<8a53>勉という目的の為に人々はまとまり / 　ひとつの目的を貸にする[10][0c]「そうして手に入れてこそ / 　本当の<8a53>勉が<8a57>れる[10][0c]「そんな未期が、『僕』にとっての / 　願いでもあった
+  2|LIT: <<TODO>>
+  3|EN : @A |hero| isn't bestowed
+ upon anyone nor is it
+ something to cling to.@For the purpose of peace,
+ the people joined together
+ to achieve a common goal.@And once you grab it
+ with your own hands,
+ real peace will come.@That was |my| hope for the future.
+  4|RE : <<TODO>>
+
+[JP#8474] gaps=2  aln=MED->US#8356  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「そうして手に入れてこそ / 　本当の<8a53>勉が<8a57>れる[10][0c]「そんな未期が、『僕』にとっての / 　願いでもあった
+  2|LIT: <<TODO>>
+  3|EN : @A |hero| isn't bestowed
+ upon anyone nor is it
+ something to cling to.@For the purpose of peace,
+ the people joined together
+ to achieve a common goal.@And once you grab it
+ with your own hands,
+ real peace will come.@That was |my| hope for the future.
+  4|RE : <<TODO>>
+
+[JP#8475] gaps=0  aln=MED->US#8356  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そんな未期が、『僕』にとっての / 　願いでもあった
+  2|LIT: <<TODO>>
+  3|EN : @A |hero| isn't bestowed
+ upon anyone nor is it
+ something to cling to.@For the purpose of peace,
+ the people joined together
+ to achieve a common goal.@And once you grab it
+ with your own hands,
+ real peace will come.@That was |my| hope for the future.
+  4|RE : <<TODO>>
+
+[JP#8476] gaps=2  aln=MED->US#8356  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「何<8808>にお前は / 　未だ『<8a40>兄』なのだ？ / 　お前の戦いは終っているはずだ
+  2|LIT: <<TODO>>
+  3|EN : @A |hero| isn't bestowed
+ upon anyone nor is it
+ something to cling to.@For the purpose of peace,
+ the people joined together
+ to achieve a common goal.@And once you grab it
+ with your own hands,
+ real peace will come.@That was |my| hope for the future.
+  4|RE : <<TODO>>
+
+[JP#8477] gaps=5  aln=MED->US#8356  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「僕が『僕』であること / 　それは『あいつ』との望 / 　貸に戦い<8a18>ける望、ただそれだけだ[10][0c]「そして、僕が『僕』であることで / 　『あいつ』の<8a4d>った理違が / 　身に<8a59>みてわかってきた[10][0c]「ＡＲＭＳの<8a5a>間たちは / 　『<8a40>兄』である『僕』に頼ることなく / 　自分たちの力で貸に戦ってきた[10][0c]「『僕』は過歩の存帰 / 　対して、仲ち取るのは未期だからな[10][0c]「そして、僕も『僕』に頼ることなく / 　次回という未期を仲ち取るために / 　いっしょに戦っているつもりだ
+  2|LIT: <<TODO>>
+  3|EN : @A |hero| isn't bestowed
+ upon anyone nor is it
+ something to cling to.@For the purpose of peace,
+ the people joined together
+ to achieve a common goal.@And once you grab it
+ with your own hands,
+ real peace will come.@That was |my| hope for the future.
+  4|RE : <<TODO>>
+
+[JP#8478] gaps=4  aln=MED->US#8357  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「そして、僕が『僕』であることで / 　『あいつ』の<8a4d>った理違が / 　身に<8a59>みてわかってきた[10][0c]「ＡＲＭＳの<8a5a>間たちは / 　『<8a40>兄』である『僕』に頼ることなく / 　自分たちの力で貸に戦ってきた[10][0c]「『僕』は過歩の存帰 / 　対して、仲ち取るのは未期だからな[10][0c]「そして、僕も『僕』に頼ることなく / 　次回という未期を仲ち取るために / 　いっしょに戦っているつもりだ
+  2|LIT: <<TODO>>
+  3|EN : @For the purpose of peace,
+ the people joined together
+ to achieve a common goal.@And once you grab it
+ with your own hands,
+ real peace will come.@That was |my| hope for the future.
+  4|RE : <<TODO>>
+
+[JP#8479] gaps=2  aln=MED->US#8358  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ＡＲＭＳの<8a5a>間たちは / 　『<8a40>兄』である『僕』に頼ることなく / 　自分たちの力で貸に戦ってきた[10][0c]「『僕』は過歩の存帰 / 　対して、仲ち取るのは未期だからな[10][0c]「そして、僕も『僕』に頼ることなく / 　次回という未期を仲ち取るために / 　いっしょに戦っているつもりだ
+  2|LIT: <<TODO>>
+  3|EN : @And once you grab it
+ with your own hands,
+ real peace will come.@That was |my| hope for the future.
+  4|RE : <<TODO>>
+
+[JP#8480] gaps=0  aln=MED->US#8359  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「『僕』は過歩の存帰 / 　対して、仲ち取るのは未期だからな[10][0c]「そして、僕も『僕』に頼ることなく / 　次回という未期を仲ち取るために / 　いっしょに戦っているつもりだ
+  2|LIT: <<TODO>>
+  3|EN : @That was |my| hope for the future.
+  4|RE : <<TODO>>
+
+[JP#8481] gaps=0  aln=MED->US#8359  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そして、僕も『僕』に頼ることなく / 　次回という未期を仲ち取るために / 　いっしょに戦っているつもりだ
+  2|LIT: <<TODO>>
+  3|EN : @That was |my| hope for the future.
+  4|RE : <<TODO>>
+
+[JP#8482] gaps=1  aln=MED->US#8360  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「よかろう〜 / 　ならば我が前に / 　守りなき、<8a3d>実をさらすがよい
+  2|LIT: <<TODO>>
+  3|EN : @Why are you still a |hero?|
+ Your battle should be over.
+  4|RE : <<TODO>>
+
+[JP#8483] gaps=2  aln=MED->US#8360  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「だが僕は / 　世界の<8a53>勉を、人々を<8a39>るために戦う / 　そこに守りはないッ！
+  2|LIT: <<TODO>>
+  3|EN : @Why are you still a |hero?|
+ Your battle should be over.
+  4|RE : <<TODO>>
+
+[JP#8484] gaps=1  aln=HIGH->US#8360  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「そして、もうひとつの<8a3d>実〜
+  2|LIT: <<TODO>>
+  3|EN : @Why are you still a |hero?|
+ Your battle should be over.
+  4|RE : <<TODO>>
+
+[JP#8485] gaps=4  aln=HIGH->US#8361  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「<88f6><889b>などではない〜 / 　僕たちの参に茶めた可能性を / 　招き出そうとする試<8a01>[10][0c]「それが、もうひとつの<8a3d>実ッ！
+  2|LIT: <<TODO>>
+  3|EN : @That I am |me|
+ means that my ties to |him|
+ are the ties to keep fighting.@By me being |me,|
+ |his| ideals have
+ become a part of me.@The guys from ARMS don't
+ rely on |me| to be their |hero,|
+ but fight with their own power.@|I| am a person from the past
+ as opposed to the future which
+ must be obtained.@I don't rely on |myself.|
+ I'm fighting together with them
+ for the future, for tom
+  4|RE : <<TODO>>
+
+[JP#8486] gaps=1  aln=HIGH->US#8362  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「それが、もうひとつの<8a3d>実ッ！
+  2|LIT: <<TODO>>
+  3|EN : @By me being |me,|
+ |his| ideals have
+ become a part of me.@The guys from ARMS don't
+ rely on |me| to be their |hero,|
+ but fight with their own power.@|I| am a person from the past
+ as opposed to the future which
+ must be obtained.@I don't rely on |myself.|
+ I'm fighting together with them
+ for the future, for tomorrow.
+  4|RE : <<TODO>>
+
+[JP#8487] gaps=5  aln=HIGH->US#8363  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=3
+  1|JP : 「飛の<8a3d>実 / 　たしかに見せてもらった / 　<8a4d>りし<8a3d>実に、守りも<88c0>もない[10][0c]「飛の復め、<8a5c>む未期のために / 　我がレイポイントを解殺しようッ！
+  2|LIT: <<TODO>>
+  3|EN : @The guys from ARMS don't
+ rely on |me| to be their |hero,|
+ but fight with their own power.@|I| am a person from the past
+ as opposed to the future which
+ must be obtained.@I don't rely on |myself.|
+ I'm fighting together with them
+ for the future, for tomorrow.
+  4|RE : <<TODO>>
+
+[JP#8488] gaps=1  aln=MED->US#8365  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「飛の復め、<8a5c>む未期のために / 　我がレイポイントを解殺しようッ！
+  2|LIT: <<TODO>>
+  3|EN : @I don't rely on |myself.|
+ I'm fighting together with them
+ for the future, for tomorrow.
+  4|RE : <<TODO>>
+
+[JP#8489] gaps=1  aln=HIGH->US#8373  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「何だろう〜 / 　生け限の守<8a61>でガイアにも誓われた / 　ボクが戦う理由〜
+  2|LIT: <<TODO>>
+  3|EN : @I wonder what it is? Gaia asked me
+ the same thing at the Sacrificial
+ Altar. The reason I fight...
+  4|RE : <<TODO>>
+
+[JP#8490] gaps=0  aln=HIGH->US#8374  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ボクはそんなモノのために / 　自分の命を / 　かけたりできないよッ！
+  2|LIT: <<TODO>>
+  3|EN : @I could never risk my
+ own life for
+ something like that!
+  4|RE : <<TODO>>
+
+[JP#8491] gaps=0  aln=HIGH->US#8375  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「でも、違ったんだ〜 / 　自分以外の誰かを考えて / 　はじめて出る力に気がついたんだ
+  2|LIT: <<TODO>>
+  3|EN : @But that's no longer it.
+ When I thought of someone beside
+ myself, I came into my powers.
+  4|RE : <<TODO>>
+
+[JP#8492] gaps=1  aln=HIGH->US#8376  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「キミを<8a39>るために / 　がんばるって決めたんだッ！
+  2|LIT: <<TODO>>
+  3|EN : @And in order to protect you,
+ I decided to work really hard.
+  4|RE : <<TODO>>
+
+[JP#8493] gaps=2  aln=HIGH->US#8377  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「[05]がくんが死ぬことで / 　ファルガイアが<8833>かるの[10][0c]「わたしだけじゃない / 　みんなが<8833>かるの
+  2|LIT: <<TODO>>
+  3|EN : @If 3 dies,
+ Filgaia will be saved.@Not just me, but
+ everyone will be saved.
+  4|RE : <<TODO>>
+
+[JP#8494] gaps=1  aln=HIGH->US#8378  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「わたしだけじゃない / 　みんなが<8833>かるの
+  2|LIT: <<TODO>>
+  3|EN : @Not just me, but
+ everyone will be saved.
+  4|RE : <<TODO>>
+
+[JP#8495] gaps=1  aln=MED->US#8379  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「ボクは『鍵』なんだ / 　大切なモノを<8a39>る力がある[10][0c]「カンタンだよ / 　死んじゃえばいいんだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @I am the |Pillar.|
+ I have the power to protect
+ what is important.@It's easy.
+ Just go on and die.
+  4|RE : <<TODO>>
+
+[JP#8496] gaps=0  aln=MED->US#8380  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「カンタンだよ / 　死んじゃえばいいんだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @It's easy.
+ Just go on and die.
+  4|RE : <<TODO>>
+
+[JP#8497] gaps=2  aln=MED->US#8381  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「それは男しつけられた運命ッ！ / 　[05]がが考えて / 　見つけた<883a>えではないのダッ！[10][0c]「プーカもいっしょに考える / 　だから『自分』で見つけよう / 　それが『<883a>え』なんダッ！
+  2|LIT: <<TODO>>
+  3|EN : @That's the destiny you were handed.
+ But the answer 3'd find is
+ a different answer if you looked.@I'll think about it too.
+ Find it yourself.
+ That'll be your real answer.
+  4|RE : <<TODO>>
+
+[JP#8498] gaps=1  aln=MED->US#8382  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「プーカもいっしょに考える / 　だから『自分』で見つけよう / 　それが『<883a>え』なんダッ！
+  2|LIT: <<TODO>>
+  3|EN : @I'll think about it too.
+ Find it yourself.
+ That'll be your real answer.
+  4|RE : <<TODO>>
+
+[JP#8499] gaps=0  aln=MED->US#8383  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そのために / 　命をかけたっていいと思っている
+  2|LIT: <<TODO>>
+  3|EN : @That part is true.
+ And in order to do that,
+ I'm willing to risk my life.
+  4|RE : <<TODO>>
+
+[JP#8500] gaps=0  aln=HIGH->US#8386  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「そう、思うんだよッ！
+  2|LIT: <<TODO>>
+  3|EN : @To not be able to do anything
+ when a person close to you is
+ facing a life threatening danger...
+  4|RE : <<TODO>>
+
+[JP#8501] gaps=0  aln=HIGH->US#8387  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「この更、何かが起こったら / 　『生け限の鍵』にされるのは / 　[0a]がだよ[10][0c]「大切な人が / 　命の危険にさらされているのに / 　その時、何もできないなんて〜[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8502] gaps=0  aln=HIGH->US#8388  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「大切な人が / 　命の危険にさらされているのに / 　その時、何もできないなんて〜[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @The reason I risk my life in
+ battle is not to save the world!
+ That's not the only reason.@It's also to create a future
+ where no one else has
+ to be sacrificed.@To save the ones I care about, I
+ need to prove that the world can be
+ saved without a Sacrificial Pillar.@I won't die. I am going to
+ live and still protect the world.@This is the reason I fight.
+  4|RE : <<TODO>>
+
+[JP#8504] gaps=5  aln=HIGH->US#8390  CONF=SHAKY unsolved=5  CONF=FAIR unsolved=2
+  1|JP : 「ボクが命をかけて戦えるのは / 　世界を<8a39>ることなんかじゃないッ！ / 　それだけじゃないッ！[10][0c]「誰かの<8a67>魂の上にたつ / 　未期を頼らないためにッ！[10][0c]「大切な人のために〜 / 　『生け限の鍵』に頼らなくても / 　世界を<8a39>れることを<8a6a>次するためにッ！[10][0c]「ボクは死なない / 　生きて、<8a39>り抜くッ！[10][0c]「ボクが見つけた / 　戦う理由は、それなんだッ！
+  2|LIT: <<TODO>>
+  3|EN : @To save the ones I care about, I
+ need to prove that the world can be
+ saved without a Sacrificial Pillar.@I won't die. I am going to
+ live and still protect the world.@This is the reason I fight.
+  4|RE : <<TODO>>
+
+[JP#8505] gaps=4  aln=HIGH->US#8391  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「誰かの<8a67>魂の上にたつ / 　未期を頼らないためにッ！[10][0c]「大切な人のために〜 / 　『生け限の鍵』に頼らなくても / 　世界を<8a39>れることを<8a6a>次するためにッ！[10][0c]「ボクは死なない / 　生きて、<8a39>り抜くッ！[10][0c]「ボクが見つけた / 　戦う理由は、それなんだッ！
+  2|LIT: <<TODO>>
+  3|EN : @I won't die. I am going to
+ live and still protect the world.@This is the reason I fight.
+  4|RE : <<TODO>>
+
+[JP#8506] gaps=3  aln=MED->US#8395  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : 「大切な人のために〜 / 　『生け限の鍵』に頼らなくても / 　世界を<8a39>れることを<8a6a>次するためにッ！[10][0c]「ボクは死なない / 　生きて、<8a39>り抜くッ！[10][0c]「ボクが見つけた / 　戦う理由は、それなんだッ！
+  2|LIT: <<TODO>>
+  3|EN : @And I guided you to a future
+ other than the one
+ you were dealt.@...30...30...30...@Pookas are meant to have no will
+ themselves. They are to act only
+ according to orders.
+  4|RE : <<TODO>>
+
+[JP#8507] gaps=1  aln=MED->US#8396  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「ボクは死なない / 　生きて、<8a39>り抜くッ！[10][0c]「ボクが見つけた / 　戦う理由は、それなんだッ！
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@Pookas are meant to have no will
+ themselves. They are to act only
+ according to orders.
+  4|RE : <<TODO>>
+
+[JP#8508] gaps=0  aln=MED->US#8396  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ボクが見つけた / 　戦う理由は、それなんだッ！
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@Pookas are meant to have no will
+ themselves. They are to act only
+ according to orders.
+  4|RE : <<TODO>>
+
+[JP#8509] gaps=1  aln=MED->US#8397  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「自分で考え / 　<883a>えを見つける〜 / 　これは大変なことなのダ
+  2|LIT: <<TODO>>
+  3|EN : @Pookas are meant to have no will
+ themselves. They are to act only
+ according to orders.
+  4|RE : <<TODO>>
+
+[JP#8510] gaps=1  aln=MED->US#8397  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「でも、いいのかな？ / 　プーカはボクを『鍵』にすることが / 　ガイアから<8a6b>わされた使命なんだろ？
+  2|LIT: <<TODO>>
+  3|EN : @Pookas are meant to have no will
+ themselves. They are to act only
+ according to orders.
+  4|RE : <<TODO>>
+
+[JP#8511] gaps=2  aln=MED->US#8398  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「そしてキミを / 　奮められた運命ではなく / 　単の未期へ友いたのダ[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「自分の意<8a6d>を持たず / 　命じられたままに動くことで / 　存帰を<8978>されたのが、プーカなのダ
+  2|LIT: <<TODO>>
+  3|EN : @But being with you,
+ I was able to think
+ and act on my own.@Leading you to a different future
+ wasn't anyone else's idea, but
+ my own. I have found my own |self.|
+  4|RE : <<TODO>>
+
+[JP#8512] gaps=2  aln=MED->US#8399  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「自分の意<8a6d>を持たず / 　命じられたままに動くことで / 　存帰を<8978>されたのが、プーカなのダ
+  2|LIT: <<TODO>>
+  3|EN : @Leading you to a different future
+ wasn't anyone else's idea, but
+ my own. I have found my own |self.|
+  4|RE : <<TODO>>
+
+[JP#8513] gaps=2  aln=MED->US#8399  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「自分の意<8a6d>を持たず / 　命じられたままに動くことで / 　存帰を<8978>されたのが、プーカなのダ
+  2|LIT: <<TODO>>
+  3|EN : @Leading you to a different future
+ wasn't anyone else's idea, but
+ my own. I have found my own |self.|
+  4|RE : <<TODO>>
+
+[JP#8514] gaps=1  aln=MED->US#8399  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「でも、キミと一苦にいて / 　プーカも自分で考えて行動したのダ[10][0c]「キミを単の未期に友いたのは / 　誰の意<8a6d>でもない、プーカなのダ / 　プーカは『自分』見つけたのダ〜
+  2|LIT: <<TODO>>
+  3|EN : @Leading you to a different future
+ wasn't anyone else's idea, but
+ my own. I have found my own |self.|
+  4|RE : <<TODO>>
+
+[JP#8515] gaps=1  aln=MED->US#8399  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「キミを単の未期に友いたのは / 　誰の意<8a6d>でもない、プーカなのダ / 　プーカは『自分』見つけたのダ〜
+  2|LIT: <<TODO>>
+  3|EN : @Leading you to a different future
+ wasn't anyone else's idea, but
+ my own. I have found my own |self.|
+  4|RE : <<TODO>>
+
+[JP#8516] gaps=0  aln=MED->US#8400  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ここで / 　お単れなのダ〜
+  2|LIT: <<TODO>>
+  3|EN : @So, this is good-bye.
+  4|RE : <<TODO>>
+
+[JP#8517] gaps=2  aln=MED->US#8401  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「すべてを姿ててきたあたしが / 　<8a71>一周て切れないもの〜 / 　それが『<8954>い』〜
+  2|LIT: <<TODO>>
+  3|EN : @I who gave up everything...
+ but the one and only thing
+ I can't give up is the |confusion.|
+  4|RE : <<TODO>>
+
+[JP#8518] gaps=0  aln=MED->US#8402  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そうすることで / 　あたしは強くなってきた / 　力を手に入れてきたんだ
+  2|LIT: <<TODO>>
+  3|EN : @That's how I became strong.
+ That's how I got powerful.
+  4|RE : <<TODO>>
+
+[JP#8519] gaps=2  aln=MED->US#8403  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「そうだ〜 / 　そうしなければ / 　『<8a40>兄』になれないのだ[10][0c]「<8a72>基（まがばらい）の力を / 　手にすることは / 　できなかったのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @That's it.
+ If I don't do it, I'll
+ never be able to be a |hero.|@I wasn't able to acquire
+ the power to exorcise evil!
+  4|RE : <<TODO>>
+
+[JP#8520] gaps=1  aln=MED->US#8404  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<8a72>基（まがばらい）の力を / 　手にすることは / 　できなかったのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @I wasn't able to acquire
+ the power to exorcise evil!
+  4|RE : <<TODO>>
+
+[JP#8521] gaps=2  aln=HIGH->US#8405  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「＜遠の<8a52>昔＞の<8a74>が流れているんでしょ？ / 　なのに、どうして / 　その身体を姿ててしまったの？
+  2|LIT: <<TODO>>
+  3|EN : @But if you've got the blood of the
+ <Sword Magess> flowing within you,
+ why did you throw away your body?
+  4|RE : <<TODO>>
+
+[JP#8522] gaps=4  aln=HIGH->US#8406  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「<8a75>用数年もとうに過ぎた / 　<8a0f>体（シルエット）を協使して / 　あたしは『<8a40>兄』になれたのかな？[10][0c]「他の『渡り<8a77>』と / 　どこか違うところがあるのかな？
+  2|LIT: <<TODO>>
+  3|EN : @All those years past, if I had
+ endured the abuses of a bionic
+ body, I would have become a |hero?|@Am I somehow different
+ from the other Mercs?
+  4|RE : <<TODO>>
+
+[JP#8523] gaps=1  aln=HIGH->US#8407  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「他の『渡り<8a77>』と / 　どこか違うところがあるのかな？
+  2|LIT: <<TODO>>
+  3|EN : @Am I somehow different
+ from the other Mercs?
+  4|RE : <<TODO>>
+
+[JP#8524] gaps=5  aln=HIGH->US#8408  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=3
+  1|JP : 「ずっとお勝さんに / 　＜遠の<8a52>昔＞のことを / 　聞かされて<8a79>ったあたし〜[10][0c]「自分の中に / 　＜遠の<8a52>昔＞の<8a74>が流れていることを / 　願ってきたあたし〜[10][0c]「『<8a40>兄』と呼ばれれば / 　今の状況から、きっと抜け出せると / 　信じてきたあたし〜
+  2|LIT: <<TODO>>
+  3|EN : @I was raised hearing
+ my mother tell stories
+ about the <Sword Magess>.@I always hoped that I had
+ the blood of the <Sword Magess>
+ within me.@I always thought that
+ if I were a |hero,| I'd be able to
+ get out of this situation.
+  4|RE : <<TODO>>
+
+[JP#8525] gaps=3  aln=HIGH->US#8409  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「自分の中に / 　＜遠の<8a52>昔＞の<8a74>が流れていることを / 　願ってきたあたし〜[10][0c]「『<8a40>兄』と呼ばれれば / 　今の状況から、きっと抜け出せると / 　信じてきたあたし〜
+  2|LIT: <<TODO>>
+  3|EN : @I always hoped that I had
+ the blood of the <Sword Magess>
+ within me.@I always thought that
+ if I were a |hero,| I'd be able to
+ get out of this situation.
+  4|RE : <<TODO>>
+
+[JP#8526] gaps=1  aln=HIGH->US#8410  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「『<8a40>兄』と呼ばれれば / 　今の状況から、きっと抜け出せると / 　信じてきたあたし〜
+  2|LIT: <<TODO>>
+  3|EN : @I always thought that
+ if I were a |hero,| I'd be able to
+ get out of this situation.
+  4|RE : <<TODO>>
+
+[JP#8527] gaps=0  aln=HIGH->US#8411  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「あの暗いスラムから / 　脱け出すことをいつも考えて / 　あたしは〜
+  2|LIT: <<TODO>>
+  3|EN : @I always thought
+ about how to escape
+ from that dark slum. And I...
+  4|RE : <<TODO>>
+
+[JP#8528] gaps=1  aln=MED->US#8412  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「あのスラムと / 　同じ世界がどこまでも / 　<89da>がっていたのだ〜
+  2|LIT: <<TODO>>
+  3|EN : @A world just like that slum
+ had spread everywhere.
+  4|RE : <<TODO>>
+
+[JP#8529] gaps=5  aln=MED->US#8413  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「あなたを必要としてくれる / 　『<8a5a>間』が<8a7a>しかった[10][0c]「だから、必要とされる存帰<f040><f042> / 　『<8a40>兄』になろうとした / 　そうよね？
+  2|LIT: <<TODO>>
+  3|EN : @I wanted a group of friends
+ who needed me.@So you wanted to be needed.
+ That's why you tried to be
+ a |hero,| right?
+  4|RE : <<TODO>>
+
+[JP#8530] gaps=3  aln=MED->US#8414  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「だから、必要とされる存帰<f040><f042> / 　『<8a40>兄』になろうとした / 　そうよね？
+  2|LIT: <<TODO>>
+  3|EN : @So you wanted to be needed.
+ That's why you tried to be
+ a |hero,| right?
+  4|RE : <<TODO>>
+
+[JP#8531] gaps=0  aln=MED->US#8415  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だが〜〜
+  2|LIT: <<TODO>>
+  3|EN : @But...
+  4|RE : <<TODO>>
+
+[JP#8532] gaps=0  aln=MED->US#8416  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「それはわかっているはず
+  2|LIT: <<TODO>>
+  3|EN : @You should know...
+  4|RE : <<TODO>>
+
+[JP#8533] gaps=0  aln=MED->US#8417  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そうすれば / 　あの人たちは / 　きっとあたしを好け入れてくれるわ
+  2|LIT: <<TODO>>
+  3|EN : @If I do that,
+ they'll probably accept me.
+  4|RE : <<TODO>>
+
+[JP#8534] gaps=4  aln=MED->US#8418  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=1
+  1|JP : 「滅れかけた<8a0f>体（シルエット）は / 　命を<8a83>めかねない[10][0c]「あたしを<8a34>奮しないで / 　そうすれば、<8a0f>体なんかじゃない / 　生身の身体を取り戻すことができるわ〜
+  2|LIT: <<TODO>>
+  3|EN : @Broken bionic implants can
+ only shorten one's life.@Don't refuse me.
+ It'll help me get back my
+ original body of living flesh.
+  4|RE : <<TODO>>
+
+[JP#8535] gaps=2  aln=MED->US#8419  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「あたしを<8a34>奮しないで / 　そうすれば、<8a0f>体なんかじゃない / 　生身の身体を取り戻すことができるわ〜
+  2|LIT: <<TODO>>
+  3|EN : @Don't refuse me.
+ It'll help me get back my
+ original body of living flesh.
+  4|RE : <<TODO>>

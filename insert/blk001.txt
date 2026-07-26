@@ -1,0 +1,448 @@
+# WA2 INSERTION workspace US block 1 (US#85-159)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#86] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#100[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#87] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#101[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#88] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#102[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#90] budget=53ch/2ln
+  NOW: I can help if you want.
+          Can you tell me what's wrong?
+  JP : JP#104[MED]: 「わたしでよければ力になります / 　お話、聞かせてもらえませんか？
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#91] budget=69ch/3ln
+  NOW: The villagers have not been
+         harmed, but they live in fear
+         of the night.
+  JP : JP#105[MED]: [13]国人に危<889b>はないものの / [13]姉<8a3d>おびえて助らせるほど / [13]人々の心は強いものではない[10][0c][13]今歩の<
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#92] budget=53ch/2ln
+  NOW: Tonight's meeting was to
+         discuss this monster problem.
+  JP : JP#106[MED]: [13]今歩の<8880><89ba>は / [13]怪物に対する誓<8810>を<8a40>じていたのであった
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#93] budget=51ch/2ln
+  NOW: I haven't quite got the knack
+          of this Teleport Gem.
+  JP : JP#107[HIGH]: 「テレポートジェムの使い方 / 　まだなれてなくて〜[10][0c]「でもよかった、今のが最後だったんです / 　これでまた / 　変なところに飛んでっちゃった
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#94] budget=65ch/3ln
+  NOW: For a minute I thought I had
+          teleported to the
+          wrong place again.
+  JP : JP#108[HIGH]: 「でもよかった、今のが最後だったんです / 　これでまた / 　変なところに飛んでっちゃったらと思うと〜
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#95] budget=20ch/1ln
+  NOW: Who are you, anyway?
+  JP : JP#109[HIGH]: 「〜あんた、誰？
+  FIT: <<TODO — <=20 chars, 1 line(s), <=35/line>>
+
+[US#96] budget=88ch/3ln
+  NOW: I just can't get the hang of
+          the Teleport Gem, you know, an
+          item used for moving around.
+  JP : JP#110[HIGH]: 「ダメなんですよねぇ / 　どうしてもテレポートジェム〜 / 　〜あ、間移用アイテム使うのニガテなんです[10][0c]「魔法を訪強しているんですけど / 　あ
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#97] budget=83ch/3ln
+  NOW: I'm studying magic, and this
+          one item just seems to have it
+          in for me or something.
+  JP : JP#111[HIGH]: 「魔法を訪強しているんですけど / 　あのアイテムだけは / 　なんかもう、相性わるくて〜
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#98] budget=84ch/3ln
+  NOW: For instance, you can pick
+          out a loved one's voice or
+          your own name in a noisy room.
+  JP : JP#112[HIGH]: 「<8943>えばねー、<8a4c>りがどんなにうるさくても / 　自分の名前とか、<8a4d>きな人の<883f>とか / 　不思議と聞き分けられるでしょ？[
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#99] budget=36ch/2ln
+  NOW: That's a kind of magic, too.
+          Get it?
+  JP : JP#113[HIGH]: 「あれも魔法みたいなものよ / 　<f040><f042>わかる？
+  FIT: <<TODO — <=36 chars, 2 line(s), <=35/line>>
+
+[US#100] budget=61ch/3ln
+  NOW: But you will someday.
+          Magic is a power that anyone
+          can use...
+  JP : JP#114[HIGH]: 「でも、そのうちわかるよ / 　魔法はね、誰にでも使えて / 　そして<f040><f042>[10][0c]「何でもできる力なんだから〜
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#101] budget=26ch/1ln
+  NOW: And magic can do anything.
+  JP : JP#115[MED]: 「何でもできる力なんだから〜
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#102] budget=69ch/3ln
+  NOW: I'm going to be like you!
+          I'll work hard and I won't
+          give up -- ever!
+  JP : JP#116[HIGH]: 「お兄ちゃんみたいになれるんだ / 　だから、好中で<88ab>げ出さないッ！ / 　あきらめないッ
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#103] budget=69ch/3ln
+  NOW: I'm going to be like you!
+          I'll work hard and I won't
+          give up -- ever!
+  JP : JP#117[HIGH]: 「お兄ちゃんみたいになれるんだ / 　だから、好中で<88ab>げ出さないッ！ / 　あきらめないッ
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#104] budget=89ch/3ln
+  NOW: Looking for the Raypoints to
+          fix the sky, are you? Ha ha!
+          It's a fine thing you're doing.
+  JP : JP#118[HIGH]: 「<f040><f041><f042>ほうほう、空を元に戻す為に / 　レイポイントなるモノを探していると？ / 　それは、ご<8930><8931>なことだの
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#105] budget=88ch/3ln
+  NOW: I don't know if this will help,
+          but 1to the north0 is a place
+          where flame is worshipped.
+  JP : JP#119[HIGH]: 「ふ〜む、お前さんの探しているモノかどうか / 　分からんが、[11]お北の方[11]ぉに / 　なんでも、<8a53>を勉っておる所があるそうだよ
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#106] budget=89ch/3ln
+  NOW: Looking for the Raypoints to
+          fix the sky, are you? Ha ha!
+          It's a fine thing you're doing.
+  JP : JP#120[HIGH]: 「<f040><f041><f042>ほうほう / 　お前さんたちは空を元に戻す為に / 　レイポイントなるモノを探していると？[10][0c]「ふ〜む、お前さ
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#107] budget=88ch/3ln
+  NOW: I don't know if this will help,
+          but 1to the north0 is a place
+          where flame is worshipped.
+  JP : JP#121[HIGH]: 「ふ〜む、お前さんの探しているモノかどうか / 　分からんが、[11]お北の方[11]ぉに / 　なんでも、<8a53>を勉っておる所があるそうだよ
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#108] budget=57ch/2ln
+  NOW: I remember because it was the
+          start of the wheat harvest.
+  JP : JP#122[HIGH]: 「遠の<8a57>り入れ時望と / 　ほぼ同じだったからよくおぼえているよ
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#109] budget=72ch/3ln
+  NOW: The rate is  Gella/night per
+          person. So  people makes
+           Gella total. OK?2
+  JP : JP#123[HIGH]: 「おひとり方につき一緒[02]ギャラ / 　[02]人方ですので、[02]ギャラとなります / 　よろしいですか？[18]か
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#110] budget=40ch/2ln
+  NOW: Now the granary is full of
+          Palace wheat!
+  JP : JP#124[HIGH]: 「<8a5c>物茶の中は今 / 　パレス遠でいっぱいだよ
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#111] budget=44ch/2ln
+  NOW: Tonight it's my turn.
+          Argh, I'm just bushed.
+  JP : JP#125[HIGH]: 「<f040><f042>で、今守は僕の番ってワケ / 　かったりぃよな、まったく〜
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#112] budget=54ch/2ln
+  NOW: I'm sure they can handle the
+          monsters with no problem.
+  JP : JP#126[HIGH]: 「彼らなら、こんな誓<8810> / 　<8a65>男に解決してくれるだろうからね
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#113] budget=38ch/2ln
+  NOW: So where do you come from,
+          young lady?
+  JP : JP#127[HIGH]: 「ところで、お<8a6a>ちゃんは / 　どこから<8a55>たんだい？
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#114] budget=52ch/3ln
+  NOW: The granary is chock
+          full of the wheat
+          we harvested.
+  JP : JP#128[HIGH]: 「<8939>魂した遠は / 　<8a5c>物茶に / 　たっぷり<8a6b>えられているんだよ
+  FIT: <<TODO — <=52 chars, 3 line(s), <=35/line>>
+
+[US#115] budget=47ch/2ln
+  NOW: Did you come to see HIM?
+          He's probably outside.
+  JP : JP#129[HIGH]: 「あの家に<89ba>いに<8a55>てくれたの？ / 　多分、外にいると思うんだけど〜[10][0c]「空があんな<89f9>でしょ / 　外に出ちゃダメって
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#116] budget=81ch/3ln
+  NOW: I told him not to go outside
+          because of the strange sky
+          but he just won't listen.
+  JP : JP#130[MED]: 「空があんな<89f9>でしょ / 　外に出ちゃダメって言ってるのに / 　険<8844>聞いてくれないの
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#117] budget=38ch/2ln
+  NOW: They'd be perfect for a job
+          like this.
+  JP : JP#131[MED]: 「今回の事<8854>なんかには / 　<8a72>任なんだけど〜
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#118] budget=41ch/2ln
+  NOW: Can you, um, fix the sky
+          with your magic?
+  JP : JP#132[MED]: 「〜あのさ、この変な空も / 　お兄ちゃんの魔法で元どおりに / 　できないかな〜？
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#119] budget=51ch/2ln
+  NOW: I'd be even happier if the sky
+          wasn't so weird now.
+  JP : JP#133[HIGH]: 「〜でも、空が変になってなければ / 　もっと良かったのにな〜
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#120] budget=54ch/2ln
+  NOW: At least no one in the village
+          has been harmed so far.
+  JP : JP#134[HIGH]: 「国の人はまだ、誰もケガしてないから / 　ひと危心だよね[10][0c]「でも、いつ<8a0a>われるかわからないから / 　今守もお押さんは / 　パトロー
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#121] budget=76ch/3ln
+  NOW: But my dad is out patrolling
+          to make sure those monsters
+          don't try anything.
+  JP : JP#135[HIGH]: 「でも、いつ<8a0a>われるかわからないから / 　今守もお押さんは / 　パトロールに出ているんだ
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#122] budget=56ch/2ln
+  NOW: So why not start by asking the
+          villagers what they know?
+  JP : JP#136[HIGH]: 「国のみんなに / 　いろいろ<8a7a>いてみたらどうかな？
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#123] budget=90ch/3ln
+  NOW: The wheat we harvested is in
+          the granary over there, in the
+          northeast part of the village.
+  JP : JP#137[HIGH]: 「<8939>魂した遠は / 　ホラ、国の北側の<8a5c>物茶に / 　<8a6b>えられているんだよ
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#124] budget=81ch/3ln
+  NOW: The northeast is an unlucky
+          direction. Bad things always
+          come from the northeast.
+  JP : JP#138[HIGH]: 「知っているかな？ / 　その方級は<8a8c><8a6d>といって / 　良くないことがやってくる方級なんだ[10][0c]「ここ、パレスヴィレッジでは / 
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#125] budget=87ch/3ln
+  NOW: And guess where the granary
+          in Palace Village is. Right.
+          In the northeast part of town.
+  JP : JP#139[HIGH]: 「ここ、パレスヴィレッジでは / 　<8a5c>物茶の<89c5>っているあたり〜 / 　<f040><f042>そう、北側のことだね
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#126] budget=72ch/3ln
+  NOW: But there aren't many Mercs
+          who'd come to a backwater
+          like this village.
+  JP : JP#140[HIGH]: 「こんな村<8a8d>の国に / 　やって<8a55>るような『渡り挑』なんて / 　そうそういるもんじゃないさ
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#127] budget=77ch/3ln
+  NOW: I heard they used a strong
+          curse to get the monsters out
+          of the wheat fields.
+  JP : JP#141[HIGH]: 「『食べ物の<8a8e>みは<889c>ろしい』〜ってね / 　よほど勝の怪物の / 　乗分された活いは強いらしいの[10][0c]「<8894>く気を集めて 
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#128] budget=56ch/2ln
+  NOW: I wish they'd settle down
+          and make the sky normal again.
+  JP : JP#142[HIGH]: 「<8894>く気を集めて / 　空を元に戻してくれんかのぉ
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#129] budget=89ch/3ln
+  NOW: The curse they used to get the
+          monsters out of the fields is
+          what's making the sky weird!
+  JP : JP#143[HIGH]: 「この変な空の<89af><89b0>は / 　前に勝の怪物を乗分した活いに / 　違いあるまいてッ！
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#130] budget=76ch/3ln
+  NOW: I saw a huge monster chomping
+          wheat right in the middle of
+          the wheat fields!
+  JP : JP#144[HIGH]: 「勝の<8a91>ん中で / 　もんぎゅもんぎゅ、遠を食っている / 　谷のような怪物の<8a92>をッ！[10][0c]「この更はきっと / 　国の人間が /
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#131] budget=66ch/3ln
+  NOW: Next it's the villagers
+          who are going to be eaten!
+          I just know it!
+  JP : JP#145[HIGH]: 「この更はきっと / 　国の人間が / 　食われる番に違いあるまいてッ！
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#132] budget=89ch/3ln
+  NOW: In times like this, they always
+          sacrifice the prettiest girl,
+          and that's me. Oh, poor me!
+  JP : JP#146[HIGH]: 「こーいう時は国で一番可愛い<8a93>が / 　イケニエになるんだよね？ / 　ああ、わたしってば<8a94><8a95>のヒロインだわ
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#133] budget=87ch/3ln
+  NOW: The old lady says it's a curse
+          but I think God is jealous of
+          of me for being so pretty.
+  JP : JP#147[MED]: 「そうねぇ、おばあちゃんは / 　活いだタタリだって言ってるけど / 　わたしが可愛いから<8a96>方が珍<8a98>してるのよ
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#134] budget=71ch/3ln
+  NOW: I kept saying I would get rid
+          of them, but mom and dad
+          wouldn't let me.
+  JP : JP#148[MED]: 「そうねぇ、わたしが何とかするって / 　いつも言ってたんだけど / 　パパとママが反対するのよ[10][0c]「だってホラ、わたしこんなに可愛いし〜
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#135] budget=27ch/1ln
+  NOW: It's because I'm so pretty.
+  JP : JP#149[HIGH]: 「だってホラ、わたしこんなに可愛いし〜
+  FIT: <<TODO — <=27 chars, 1 line(s), <=35/line>>
+
+[US#136] budget=55ch/2ln
+  NOW: I won't allow it! I haven't
+          met my Prince Charming yet!
+  JP : JP#150[HIGH]: 「そんなのイヤよ / 　私、まだ<8a75>もロクにしてないのに〜
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#137] budget=77ch/3ln
+  NOW: The monsters are raiding our
+          wheat. What's wrong with
+          looking at it that way?
+  JP : JP#151[HIGH]: 「だって、遠勝ばかり<8a0a>われるんですもの / 　そう考える方が / 　<8a99>加だと思うんだけど
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#138] budget=68ch/3ln
+  NOW: I remember it well because we
+          were busy harvesting the
+          Palace wheat.
+  JP : JP#152[HIGH]: 「パレス遠の<8939>魂で / 　<8a9f>ただしかったから / 　よくおぼえているよ
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#139] budget=51ch/2ln
+  NOW: As you see, the sky turned
+          weird, but I welcome it.
+  JP : JP#153[HIGH]: 「あの加り空が変になってるけど / 　<8aa0><88cc>するわよ
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#140] budget=89ch/3ln
+  NOW: A girl came to our village and
+          saved us from the monsters.
+          She was a spunky little thing.
+  JP : JP#154[HIGH]: 「いえね、以前にこの国に<8aa3>れた昔の家が / 　怪物を乗分してくれたんですよ / 　とっても、元気な<8a93>でしたよ
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#141] budget=39ch/2ln
+  NOW: Only our fields were
+          damaged... so far.
+  JP : JP#155[MED]: 「これまでは / 　勝ばかりが<8aa5>らされていたからね
+  FIT: <<TODO — <=39 chars, 2 line(s), <=35/line>>
+
+[US#142] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#156[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#143] budget=61ch/3ln
+  NOW: *But do you know the
+          difference between a comet
+          and a meteor?
+  JP : JP#157[MED]: ＊<8aab>星と流星の違いを / 　ご存知だろうか？[10][0c]＊他<8aad>体の欠<8ab0>が / 　招力によって<8ab1>星に招きつけられ / 
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#144] budget=70ch/3ln
+  NOW: *A meteor is a meteoroid that
+          is drawn by gravity into the
+          atmosphere.
+  JP : JP#158[HIGH]: ＊他<8aad>体の欠<8ab0>が / 　招力によって<8ab1>星に招きつけられ / 　大気<8ab2>に突入したものを『流星』と呼ぶ[10][0c]＊『<
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#145] budget=83ch/3ln
+  NOW: *A comet, unlike a star,
+          travels in a fixed orbit and
+          appears at regular intervals.
+  JP : JP#159[HIGH]: ＊『<8aab>星』は<8ab3>星に対して / 　一奮の<8aac>道を運行する星を指し / 　<8a4c>望を持って現れるという〜[10][0c]＊多くの<
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#146] budget=58ch/2ln
+  NOW: *Steeped in mystery, comets
+          have inspired many folk tales.
+  JP : JP#160[HIGH]: ＊多くの<8a48>を<8ab4>めた<8aab>星には / 　方々な<8ab5>話が残されている[10][0c]＊とくに、不<8ab6>の<8ab7>（しょう
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#147] budget=71ch/3ln
+  NOW: *Some superstitions claim
+          comets to be bad omens,
+          but no one knows why.
+  JP : JP#161[HIGH]: ＊とくに、不<8ab6>の<8ab7>（しょう）と / 　<88a6>えられることもしばしばである / 　だが、その理由は次らかにされていない
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#149] budget=89ch/3ln
+  NOW: The monsters aren't after the
+          village or the villagers. They
+          are after the wheat harvest.
+  JP : JP#163[HIGH]: 「これって<8ab8>対 / 　国とか、国の人じゃなくて / 　<8939>魂した遠が<89d0>われているってことよね[10][0c]「<889a><889b
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#150] budget=77ch/3ln
+  NOW: No one has been hurt. The
+          damage is limited to the wheat
+          and the wheat field.
+  JP : JP#164[HIGH]: 「<889a><889b>にあっているのが / 　遠や遠勝ばっかりで / 　国の人には危<889b>を<8ab9>えてないんだもの〜[10][0c]「そういえば
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#151] budget=65ch/3ln
+  NOW: Come to think of it, the
+          monsters always appear
+          in the northeast.
+  JP : JP#165[HIGH]: 「そういえば / 　怪物が現われる場所って / 　北側の〜
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#154] budget=46ch/3ln
+  NOW: Don't panic!
+          Just find someplace
+          safe to hide!
+  JP : JP#168[MED]: 「でも、ちょっとくらいは / 　落ち着いて<8aba><8abb>してくださーいッ！[10][0c][17]
+  FIT: <<TODO — <=46 chars, 3 line(s), <=35/line>>
+
+[US#157] budget=38ch/2ln
+  NOW: Wow, your magic is
+          powerful after all!
+  JP : JP#171[HIGH]: 「やっぱり、お兄ちゃんの魔法って / 　すごいんだッ！
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#158] budget=82ch/3ln
+  NOW: *The body bears its name.
+          The boss monster is defeated
+          when the body HP reaches 0.
+  JP : JP#172[HIGH]: ＊『本体』には、名前が表<893a>されており / 　ここのＨＰを０にすることで / 　ボスキャラクターを倒すことができます[10][0c]＊『苦字級』のＨＰを
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#159] budget=87ch/3ln
+  NOW: *When a limb drops to 0 HP, the
+          Boss is not defeated but you
+          earn experience and Gella.
+  JP : JP#173[MED]: ＊『苦字級』のＨＰを０にしても / 　ボスキャラクターを倒すことはできませんが / 　その分のＥＸＰやギャラを獲得できます
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>

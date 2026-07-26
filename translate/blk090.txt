@@ -1,0 +1,42 @@
+# WA2 4-col translation doc block 90 (JP#7777-7787)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 5 boxes | OK=0 FAIR=0 SHAKY=0 JP-ONLY=5
+# DRAFT STATUS: 5 boxes | OK=0 FAIR=0 SHAKY=0 JP-ONLY=5
+
+[JP#7778] gaps=0  aln=LOW->US#7592  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7780] gaps=0  aln=LOW->US#7592  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7782] gaps=0  aln=LOW->US#7592  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7784] gaps=0  aln=LOW->US#7592  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7786] gaps=0  aln=LOW->US#7592  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>

@@ -1,0 +1,332 @@
+# WA2 INSERTION workspace US block 27 (US#5238-5299)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5239] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5240] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5351[MED]: 「〜でも、俺にとっては / 　どうしても獲らなきゃいけない / 　<8ad9>重なんだ〜
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5241] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5242] budget=18ch/1ln
+  NOW: But before that...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#5243] budget=19ch/1ln
+  NOW: Were you sent by 0?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=19 chars, 1 line(s), <=35/line>>
+
+[US#5244] budget=61ch/3ln
+  NOW: We're not communicating
+          well here, but it has to be
+          you guys.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#5245] budget=78ch/3ln
+  NOW: Those Might Gloves are mine.
+          Could you hand them over?
+          There's no time, right?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#5246] budget=40ch/3ln
+  NOW: I'm one of the ARMS
+          members chosen
+          by 0.
+  JP : JP#5352[MED]: 「[0a]ぉ・フォルド・ヴァレリア / 　お前という<8adf><8ae0><8ae1>を<89a3><8a9f>う剣だッ！
+  FIT: <<TODO — <=40 chars, 3 line(s), <=35/line>>
+
+[US#5247] budget=9ch/1ln
+  NOW: Let's go.
+  JP : JP#5353[MED]: 「この<8ae2>は過<8ae3>から未<8ae4>に<8a18>く / 　たったひとつの可能性[10][0c]「言い<8864>えるなら、この世界の上で / 
+  FIT: <<TODO — <=9 chars, 1 line(s), <=35/line>>
+
+[US#5248] budget=59ch/3ln
+  NOW: >Orders from the warden:
+          Rush a start-up
+          check of |GAONIM.|
+  JP : JP#5354[MED]: 「言い<8864>えるなら、この世界の上で / 　私たちが出会った / 　『運命』そのものなのだッ！ || JP#5355[MED]: 
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#5249] budget=10ch/1ln
+  NOW: >Repeat...
+  JP : JP#5356[MED]: 
+  FIT: <<TODO — <=10 chars, 1 line(s), <=35/line>>
+
+[US#5250] budget=81ch/3ln
+  NOW: >The trespassers are 2 armed
+          men. They're currently hiding
+          somewhere on Illsveil.
+  JP : JP#5357[MED]: 
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#5251] budget=10ch/1ln
+  NOW: >Repeat...
+  JP : JP#5358[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=10 chars, 1 line(s), <=35/line>>
+
+[US#5252] budget=68ch/3ln
+  NOW: >Suppress the rebellion now.
+          Inmates wanted dead or alive.
+          Repeat...
+  JP : JP#5371[MED]: ＞<8965>人の生死は誓わない / 　ただちに周圧にかかれ / 　<8a40>り兄す〜 || JP#5359[LOW]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#5253] budget=42ch/1ln
+  NOW: *...30...30...30......30...30...30...30...
+  JP : JP#5372[MED]: ＊〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]＞セキュリティーシステムは / 　解<8a
+  FIT: <<TODO — <=42 chars, 1 line(s), <=35/line>>
+
+[US#5254] budget=73ch/3ln
+  NOW: >The security system
+          has been deactivated.
+          The No.1 waiting area is open.
+  JP : JP#5373[MED]: ＞セキュリティーシステムは / 　解<8a34>されました / 　<88f9>一待機所を解殺します
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#5255] budget=79ch/3ln
+  NOW: *The |Illsveil Prison|
+          was known to convicts as the
+          second most fearsome place.
+  JP : JP#5374[HIGH]: ＊それが犯負者にとって / 　<889c>遠の<8a48>つ名で知られる / 　『イルズベイル<8917><8963>他』の前身である[10][0c]＊<8a5
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#5256] budget=83ch/3ln
+  NOW: *The history of the convicts
+          built up and it eventually
+          developed independent rule.
+  JP : JP#5375[HIGH]: ＊<8a52>み<8858>ねられていった / 　<8965>人たちの<8a53>勉は、<8917><8963>他をやがて / 　<89e1>戻自分<89b7>
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#5257] budget=68ch/2ln
+  NOW: *It boasts the harshest penal life
+          and has a system of convict rule.
+  JP : JP#5376[HIGH]: ＊最<8867><8a55><8964>をほこる / 　犯負者による貸分システム[10][0c]＊『地<8963>』にして『<89fa><8a57>』<f040
+  FIT: <<TODO — <=68 chars, 2 line(s), <=35/line>>
+
+[US#5258] budget=81ch/3ln
+  NOW: *It's a |hell| passed off as
+          |paradise.| Even the prison's
+          warden can't stand it.
+  JP : JP#5377[HIGH]: ＊『地<8963>』にして『<89fa><8a57>』<f040><f042> / 　イルズベイル<8917><8963>他の望人は / 　決して<8a59>え
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#5259] budget=46ch/2ln
+  NOW: *Liberation Army Leader
+          Vinsfeld Rhadamanthus.
+  JP : JP#5378[HIGH]: ＊解殺飛指限者 / 　ヴィンスフェルト・ラダマンテュス[10][0c]＊魔限の守と知<8a61>に長け / 　戦延に、大乗に取り入れることで / 　解殺飛戦力の
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#5260] budget=78ch/3ln
+  NOW: *Using evil knowledge and
+          bold tactics, the Liberation
+          Army's power increased.
+  JP : JP#5379[HIGH]: ＊魔限の守と知<8a61>に長け / 　戦延に、大乗に取り入れることで / 　解殺飛戦力の<89ce>実合をはかる[10][0c]＊そのカリスマ性によって / 
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#5261] budget=95ch/3ln
+  NOW: *His charisma unified the Army
+          into a powerful force, and they
+          then began guerrilla activities.
+  JP : JP#5380[HIGH]: ＊そのカリスマ性によって / 　解殺飛の結重を<89cd>谷なものとし / 　ゲリラ<8a64>動を<8a65>開する[10][0c]＊<8a5a>復クーデター
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#5262] budget=78ch/3ln
+  NOW: *In the last moments of the
+          coup, this hero-like person
+          unexpectedly vanished.
+  JP : JP#5381[HIGH]: ＊<8a5a>復クーデターの訪男に / 　突<8a67>として魂を消すものの / 　解殺飛の頼<8a6a>的存帰<f040><f042>[10][0c]＊[05
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#5263] budget=27ch/2ln
+  NOW: *After 1 Evans
+          took over...
+  JP : JP#5382[HIGH]: ＊[05]お・エヴァンスが / 　後を招き<8a6b>ぐことで[10][0c]＊解殺飛は２数に渡る / 　勇<8a6d>の戦いに友利するのであった
+  FIT: <<TODO — <=27 chars, 2 line(s), <=35/line>>
+
+[US#5264] budget=57ch/2ln
+  NOW: *In two years, the Liberation
+          Army won all their battles.
+  JP : JP#5383[MED]: ＊解殺飛は２数に渡る / 　勇<8a6d>の戦いに友利するのであった
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#5265] budget=11ch/1ln
+  NOW: What? What?
+  JP : JP#5384[MED]: 「あれれ？[10][0c]「でも、[05]ぉって / 　こんな機艇<8883>のグローブとか / 　使ってたっけ〜[10][0c]「ま、いいかッ！ / 　とりあ
+  FIT: <<TODO — <=11 chars, 1 line(s), <=35/line>>
+
+[US#5266] budget=43ch/3ln
+  NOW: But did 0
+          use a Mechanical Glove
+          like this?
+  JP : JP#5385[MED]: 「でも、[05]ぉって / 　こんな機艇<8883>のグローブとか / 　使ってたっけ〜[10][0c]「ま、いいかッ！ / 　とりあえず、みんな持っていけば 
+  FIT: <<TODO — <=43 chars, 3 line(s), <=35/line>>
+
+[US#5267] budget=57ch/3ln
+  NOW: Oh, who cares!?
+          I'll take it all and
+          something will work!
+  JP : JP#5386[MED]: 「ま、いいかッ！ / 　とりあえず、みんな持っていけば / 　なんとかなるなるッ！
+  FIT: <<TODO — <=57 chars, 3 line(s), <=35/line>>
+
+[US#5268] budget=87ch/3ln
+  NOW: Open up! Let me out of here!
+          I didn't do anything! If you
+          check it out, I'd be cleared!
+  JP : JP#5387[MED]: 「開けろッ！　ここから出せッ！ / 　俺は何もしちゃいないッ！ / 　ちょっと調べればわかることだッ！
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#5269] budget=88ch/3ln
+  NOW: That's because it's an isolated
+          prison island. Once you go
+          in, you never come out alive.
+  JP : JP#5388[MED]: 「何たってあそこは / 　一度入っちまうと、<8a48>度と生きて出られない / 　<8a59>道の<8917><8963>他だからな
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#5270] budget=93ch/3ln
+  NOW: When we get to Illsveil Prison,
+          I'll prove your innocence. You
+          need to be patient until then.
+  JP : JP#5389[MED]: 「イルズベイル<8917><8963>他に着いたら / 　わたしが無負を<8a71>次してあげるから / 　だから、それまでの<8a72>基よ〜
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#5271] budget=27ch/1ln
+  NOW: Welcome to Illsveil Prison.
+  JP : JP#5390[MED]: 「ようこそッ！ / 　イルズベイル<8917><8963>他へッ！[10][0c]「小生は最勝の<8965>人にして / 　この自分<89b7>の貸分者ッ！ /
+  FIT: <<TODO — <=27 chars, 1 line(s), <=35/line>>
+
+[US#5272] budget=99ch/3ln
+  NOW: As the 1st convict here, I'm now
+          ruler of this independent domain!
+          In other words, I am the warden.
+  JP : JP#5391[MED]: 「小生は最勝の<8965>人にして / 　この自分<89b7>の貸分者ッ！ / 　すなわち<8963>長であるッ！
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#5273] budget=75ch/3ln
+  NOW: Illsveil is an isolated
+          prison island! In other words,
+          it's a natural fort.
+  JP : JP#5392[MED]: 「ここ、イルズベイルは<8a59>道の<8917><8963>他ッ！ / 　すなわち、<8a7a><8844>の要<889b>であるのだ[10][0c][17]
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#5275] budget=71ch/3ln
+  NOW: Being on the outside
+          isn't so hot. Here you
+          trouble only useless fools.
+  JP : JP#5394[HIGH]: 「どうせシャバにいたところで / 　他人方の<8954>雄になることはあっても / 　<8964>には戻たないボンクラどもなんだからよ[10][0c][17]
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#5277] budget=89ch/3ln
+  NOW: I've got 214 years left on my
+          sentence! Hope you don't have
+          fantasies about escaping yet.
+  JP : JP#5396[HIGH]: 「小生自身も、仲男は残り２１４数ッ！ / 　もはや生きて出ようなんて / 　ファンタジーもおきないわ、実<89d2>[10][0c]「ん〜、そうだな〜 / 　小
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#5278] budget=73ch/3ln
+  NOW: And of course, if you win
+          my favor, becoming Prison
+          Warden isn't a dream.
+  JP : JP#5397[HIGH]: 「ん〜、そうだな〜 / 　小生に気に入られれば / 　<8962>名復くらいは、<8a80>ではないぞ[10][0c]「ここは<8917><8963>他にして 
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#5279] budget=77ch/3ln
+  NOW: The fact that this island is
+          an independent domain
+          stems from that very fact!
+  JP : JP#5398[HIGH]: 「ここは<8917><8963>他にして / 　自分<89b7>であるイルズベイル / 　つまりは、そういうトコロだッ！[10][0c][17]
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#5281] budget=61ch/3ln
+  NOW: Let me take care of it.
+          You should just stay
+          put and lay low.
+  JP : JP#5400[HIGH]: 「わたしにまかせて / 　[05]ぉはここで / 　おとなしくしててよ[10][0c][17]
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#5283] budget=80ch/3ln
+  NOW: When I was little, I pulled
+          a lot of pranks and got
+          locked in the closet for it.
+  JP : JP#5402[HIGH]: 「<8a82>い<8941>はイタズラをして / 　よく苦し入れに / 　<89cf>じ込められたもんスよ<f044>
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5284] budget=54ch/3ln
+  NOW: Regardless,
+          we were disarmed and
+          now I have no weapon.
+  JP : JP#5403[HIGH]: 「どっちにしても / 　こっちは<8a43>泣解<8a34>されて / 　<8991><8a83>の状態なんだ[10][0c]「思いきったことを / 　するつも
+  FIT: <<TODO — <=54 chars, 3 line(s), <=35/line>>
+
+[US#5285] budget=46ch/2ln
+  NOW: I have no intention of
+          doing anything drastic.
+  JP : JP#5404[HIGH]: 「思いきったことを / 　するつもりはないよ
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#5289] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#5408[MED]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「気をつけてな
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#5290] budget=11ch/1ln
+  NOW: Be careful.
+  JP : JP#5409[MED]: 「気をつけてな
+  FIT: <<TODO — <=11 chars, 1 line(s), <=35/line>>
+
+[US#5291] budget=72ch/3ln
+  NOW: These mechanical gloves are
+          Might Gloves, right?
+          Well, they aren't mine.
+  JP : JP#5410[MED]: 「この機艇<8883>のグローブ〜 / 　たしかマイトグローブって言ったっけな / 　これは俺のじゃないぞ
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#5292] budget=69ch/3ln
+  NOW: Anyway, here.
+          Put this on. Hurry. We need
+          to get out of here quickly.
+  JP : JP#5411[HIGH]: 「とにかく、ホラ / 　泣備して、泣備して / 　急いでここから<894f>げ出すわよ
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#5293] budget=52ch/2ln
+  NOW: It seems that all the convicts
+          here escaped at once.
+  JP : JP#5412[HIGH]: 「ここにいる<8965>人たちが / 　いっせいに<894f>げ出したみたいなの
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#5295] budget=69ch/3ln
+  NOW: I can't believe it!
+          Even you're thinking of
+          escaping this |paradise!|
+  JP : JP#5414[HIGH]: 「しーんじられんッ！ / 　お前までもが / 　この『<89fa><8a57>』を飛びだそうというのかッ！
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#5296] budget=80ch/3ln
+  NOW: I'm more at home on the
+          |battlefield| than in |paradise.|
+          Thanks for everything.
+  JP : JP#5415[HIGH]: 「どうやら僕には / 　『<89fa><8a57>』よりも『戦場』がむいているんでね / 　長い間、世話になった
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5297] budget=82ch/3ln
+  NOW: You've given me no choice!
+          Arrest them! Arrest them!
+          And after that, death! Death!
+  JP : JP#5416[MED]: 「こうなったら、もうッ！ / 　<8a85><8929>ッ、<8a85><8929>ッ、<8a85><8929>ッ、<8a85><8929>ッ、<8a85><8
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>

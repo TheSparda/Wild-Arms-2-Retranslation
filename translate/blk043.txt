@@ -1,0 +1,375 @@
+# WA2 4-col translation doc block 43 (JP#6100-6151)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 44 boxes | OK=5 FAIR=32 SHAKY=7 JP-ONLY=0
+# DRAFT STATUS: 44 boxes | OK=5 FAIR=28 SHAKY=11 JP-ONLY=0
+
+[JP#6101] gaps=0  aln=MED->US#5971  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#6102] gaps=2  aln=MED->US#5972  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#6103] gaps=0  aln=MED->US#5973  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#6105] gaps=3  aln=HIGH->US#5975  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : ＊アイテムとして使用することで / 　バイアネットに新たな押<8a38>を / 　追<8a39>します[10][0c]＊地を仲う守撃<88e0>の姉撃を / 　相グループに対して行います
+  2|LIT: <<TODO>>
+  3|EN : *The items use will add
+ new ammunition to the
+ bayonet.*It'll execute a Shockwave
+ attack on the enemy group.
+  4|RE : <<TODO>>
+
+[JP#6106] gaps=1  aln=HIGH->US#5976  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊地を仲う守撃<88e0>の姉撃を / 　相グループに対して行います
+  2|LIT: <<TODO>>
+  3|EN : *It'll execute a Shockwave
+ attack on the enemy group.
+  4|RE : <<TODO>>
+
+[JP#6111] gaps=0  aln=HIGH->US#5981  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「そうですね〜 / 　エネルギーの流れを信じることができません
+  2|LIT: <<TODO>>
+  3|EN : @Yes, that's right.
+ I can't feel any
+ energy.
+  4|RE : <<TODO>>
+
+[JP#6112] gaps=3  aln=HIGH->US#5982  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「地<89f4>や兄期から生じるエネルギーを / 　その身に信じることもできるのダ[10][0c]「それだけ[05]がの / 　ゾアプリーストとしての能力が / 　<8867>まってきているという<8a43>なのダ
+  2|LIT: <<TODO>>
+  3|EN : @They can sense the energy
+ of the earth and spirits.@That's proof that 3's
+ abilities as a Zoa Priest
+ have developed.
+  4|RE : <<TODO>>
+
+[JP#6113] gaps=2  aln=HIGH->US#5983  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「それだけ[05]がの / 　ゾアプリーストとしての能力が / 　<8867>まってきているという<8a43>なのダ
+  2|LIT: <<TODO>>
+  3|EN : @That's proof that 3's
+ abilities as a Zoa Priest
+ have developed.
+  4|RE : <<TODO>>
+
+[JP#6114] gaps=2  aln=HIGH->US#5984  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「オデッサは / 　大きなエネルギーを確<8901>するために / 　やっきになってるんでしょ？[10][0c]「だったらどうして / 　何もない<89cc>道に目をつけたのかしら？
+  2|LIT: <<TODO>>
+  3|EN : @Odessa's getting frantic
+ trying to secure a large
+ energy source, right?@Then why would they be
+ after an empty mine?
+  4|RE : <<TODO>>
+
+[JP#6115] gaps=1  aln=HIGH->US#5985  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「だったらどうして / 　何もない<89cc>道に目をつけたのかしら？
+  2|LIT: <<TODO>>
+  3|EN : @Then why would they be
+ after an empty mine?
+  4|RE : <<TODO>>
+
+[JP#6116] gaps=0  aln=HIGH->US#5986  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「戻ってこない人のことを違っても / 　何にも始まらないよ〜
+  2|LIT: <<TODO>>
+  3|EN : @There's no use talking about
+ someone who won't return.
+  4|RE : <<TODO>>
+
+[JP#6117] gaps=1  aln=MED->US#5987  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「ゆっくりかもしれないけれど / 　先を目来して<892b>んでいけば / 　確実に道はひらけるはずさ
+  2|LIT: <<TODO>>
+  3|EN : @It may take awhile, but if you
+ keep moving forward,
+ the route should appear.
+  4|RE : <<TODO>>
+
+[JP#6118] gaps=0  aln=HIGH->US#5988  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ボクたちは / 　あなたと戦う意間はありませんッ！[10][0c]「ボクたちは / 　戦ってはいけないんですッ！
+  2|LIT: <<TODO>>
+  3|EN : @We have no desire to
+ fight you!@We aren't supposed
+ to fight!
+  4|RE : <<TODO>>
+
+[JP#6119] gaps=0  aln=HIGH->US#5989  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ボクたちは / 　戦ってはいけないんですッ！
+  2|LIT: <<TODO>>
+  3|EN : @We aren't supposed
+ to fight!
+  4|RE : <<TODO>>
+
+[JP#6120] gaps=1  aln=HIGH->US#5990  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「あなたが<8a0a>ってくるから / 　わたしたちも / 　仕方なく戦っているんじゃないッ！
+  2|LIT: <<TODO>>
+  3|EN : @We're only fighting
+ reluctantly because
+ you attacked us!
+  4|RE : <<TODO>>
+
+[JP#6121] gaps=6  aln=HIGH->US#5991  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「このような訪命を<89a3><8a4c>わなければ / 　お前たちとは / 　<8a4d>を<88fa>えることもなかったろう〜[10][0c]「〜だがッ！[10][0c]「[05]ぉ・ウィンチェスター〜 / 　その身に悪しき魔<8a40>をいだいている以上 / 　お前はあたしの<8861>的だ[10][0c]「＜戦の周昔＞が好を招く / 　このあたしの恥物なのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @If I weren't burdened with
+ destiny, I'd have no
+ reason to fight you.@But!@0 Winchester...
+ As long as the Demon lurks
+ within you, I target you.@You are my prey,
+ I who carry the blood
+ of the <Sword Magess>!
+  4|RE : <<TODO>>
+
+[JP#6122] gaps=2  aln=HIGH->US#5992  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「〜だがッ！[10][0c]「[05]ぉ・ウィンチェスター〜 / 　その身に悪しき魔<8a40>をいだいている以上 / 　お前はあたしの<8861>的だ[10][0c]「＜戦の周昔＞が好を招く / 　このあたしの恥物なのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @But!@0 Winchester...
+ As long as the Demon lurks
+ within you, I target you.@You are my prey,
+ I who carry the blood
+ of the <Sword Magess>!
+  4|RE : <<TODO>>
+
+[JP#6123] gaps=2  aln=HIGH->US#5993  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「[05]ぉ・ウィンチェスター〜 / 　その身に悪しき魔<8a40>をいだいている以上 / 　お前はあたしの<8861>的だ[10][0c]「＜戦の周昔＞が好を招く / 　このあたしの恥物なのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @0 Winchester...
+ As long as the Demon lurks
+ within you, I target you.@You are my prey,
+ I who carry the blood
+ of the <Sword Magess>!
+  4|RE : <<TODO>>
+
+[JP#6124] gaps=0  aln=MED->US#5997  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「＜戦の周昔＞が好を招く / 　このあたしの恥物なのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @The battle, determining
+ male or female is
+ the way it should be.
+  4|RE : <<TODO>>
+
+[JP#6125] gaps=0  aln=MED->US#5998  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「信負ッ！
+  2|LIT: <<TODO>>
+  3|EN : @Are you saying the
+ <Sword Magess>
+ blood in me is a lie?@It can't be.
+ This can't be happening!@If so, why?!
+ Why won't my sword
+ reach the evil Demon?@Answer me.
+ Demon carrier, my |half-self,|
+ 0 Winchester.
+  4|RE : <<TODO>>
+
+[JP#6126] gaps=4  aln=MED->US#6000  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「いうなれば / 　あたしと[05]ぉは / 　それぞれ失った『<89a7>身』ッ！[10][0c]「戦い、<8a52><8a53>を決することが / 　<88ad>険な帰り方なんだよッ！
+  2|LIT: <<TODO>>
+  3|EN : @If so, why?!
+ Why won't my sword
+ reach the evil Demon?@Answer me.
+ Demon carrier, my |half-self,|
+ 0 Winchester.
+  4|RE : <<TODO>>
+
+[JP#6127] gaps=3  aln=MED->US#6001  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : 「戦い、<8a52><8a53>を決することが / 　<88ad>険な帰り方なんだよッ！
+  2|LIT: <<TODO>>
+  3|EN : @Answer me.
+ Demon carrier, my |half-self,|
+ 0 Winchester.
+  4|RE : <<TODO>>
+
+[JP#6128] gaps=6  aln=MED->US#6002  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「あたしに流れる＜戦の周昔＞の好は / 　勉りだというのか〜ッ！[10][0c]「そんなハズは〜 / 　そんなことがあってたまるかッ！[10][0c]「ならばなぜッ！ / 　〜なぜあたしの<8a4d>は / 　悪しき魔<8a40>に<88f8>かない〜[10][0c]「<883a>えてくれ〜 / 　魔<8a40>をいだきし、あたしの『<89a7>身』 / 　[05]ぉ・ウィンチェスター〜
+  2|LIT: <<TODO>>
+  3|EN : @and get powerful, I
+ gave up my body.
+ And for what?
+  4|RE : <<TODO>>
+
+[JP#6129] gaps=6  aln=MED->US#6002  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「そんなハズは〜 / 　そんなことがあってたまるかッ！[10][0c]「ならばなぜッ！ / 　〜なぜあたしの<8a4d>は / 　悪しき魔<8a40>に<88f8>かない〜[10][0c]「<883a>えてくれ〜 / 　魔<8a40>をいだきし、あたしの『<89a7>身』 / 　[05]ぉ・ウィンチェスター〜
+  2|LIT: <<TODO>>
+  3|EN : @and get powerful, I
+ gave up my body.
+ And for what?
+  4|RE : <<TODO>>
+
+[JP#6130] gaps=6  aln=MED->US#6002  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「ならばなぜッ！ / 　〜なぜあたしの<8a4d>は / 　悪しき魔<8a40>に<88f8>かない〜[10][0c]「<883a>えてくれ〜 / 　魔<8a40>をいだきし、あたしの『<89a7>身』 / 　[05]ぉ・ウィンチェスター〜
+  2|LIT: <<TODO>>
+  3|EN : @and get powerful, I
+ gave up my body.
+ And for what?
+  4|RE : <<TODO>>
+
+[JP#6131] gaps=3  aln=MED->US#6002  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「<883a>えてくれ〜 / 　魔<8a40>をいだきし、あたしの『<89a7>身』 / 　[05]ぉ・ウィンチェスター〜
+  2|LIT: <<TODO>>
+  3|EN : @and get powerful, I
+ gave up my body.
+ And for what?
+  4|RE : <<TODO>>
+
+[JP#6132] gaps=0  aln=HIGH->US#6002  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「力を手に入れるために / 　カラダを貸てたことは / 　いったい何のためであったのか〜
+  2|LIT: <<TODO>>
+  3|EN : @and get powerful, I
+ gave up my body.
+ And for what?
+  4|RE : <<TODO>>
+
+[JP#6133] gaps=3  aln=HIGH->US#6003  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「そいつは / 　何もかもを破滅しかねない / 　強力な力を持っている[10][0c]「でも、力そのものに / 　<8a59>悪は無いと俺は考える〜[10][0c]「魔<8a40>の強大な力〜 / 　そいつを使うのは / 　俺自身の意間なんだ[10][0c]「俺が信じているモノのために / 　この力を<8a5a>るっているんだ
+  2|LIT: <<TODO>>
+  3|EN : @It's a powerful force
+ which can't help but
+ destroy everything.@But I believe power
+ is neither good nor evil.@It is I who
+ willingly uses the
+ Demon's powerful force.@I wield this power for
+ what I believe in.
+  4|RE : <<TODO>>
+
+[JP#6134] gaps=3  aln=HIGH->US#6004  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「でも、力そのものに / 　<8a59>悪は無いと俺は考える〜[10][0c]「魔<8a40>の強大な力〜 / 　そいつを使うのは / 　俺自身の意間なんだ[10][0c]「俺が信じているモノのために / 　この力を<8a5a>るっているんだ
+  2|LIT: <<TODO>>
+  3|EN : @But I believe power
+ is neither good nor evil.@It is I who
+ willingly uses the
+ Demon's powerful force.@I wield this power for
+ what I believe in.
+  4|RE : <<TODO>>
+
+[JP#6135] gaps=2  aln=HIGH->US#6005  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「魔<8a40>の強大な力〜 / 　そいつを使うのは / 　俺自身の意間なんだ[10][0c]「俺が信じているモノのために / 　この力を<8a5a>るっているんだ
+  2|LIT: <<TODO>>
+  3|EN : @It is I who
+ willingly uses the
+ Demon's powerful force.@I wield this power for
+ what I believe in.
+  4|RE : <<TODO>>
+
+[JP#6136] gaps=1  aln=HIGH->US#6006  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「俺が信じているモノのために / 　この力を<8a5a>るっているんだ
+  2|LIT: <<TODO>>
+  3|EN : @I wield this power for
+ what I believe in.
+  4|RE : <<TODO>>
+
+[JP#6137] gaps=0  aln=MED->US#6007  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「悪しき力を、俺の力に変えて / 　オデッサと戦い抜きたいんだ
+  2|LIT: <<TODO>>
+  3|EN : @I will take the evil power and
+ turn it into my own power
+ in order to defeat Odessa.
+  4|RE : <<TODO>>
+
+[JP#6138] gaps=3  aln=MED->US#6008  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<8a5c>間になれとは言わない[10][0c]「もしも、俺が『もうひとりの俺』の力を / 　茶え切れなくなった時 / 　その時に<f040><f042>[10][0c]「[05]き〜 / 　＜戦の周昔＞の好を招いている / 　あなたの力を飛りたい
+  2|LIT: <<TODO>>
+  3|EN : @You don't have to join us.@When I can't use the
+ power of the |Other Me|
+ then...@4, I want to borrow your
+ power which carries the
+ blood of the <Sword Magess>.
+  4|RE : <<TODO>>
+
+[JP#6139] gaps=2  aln=MED->US#6009  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「もしも、俺が『もうひとりの俺』の力を / 　茶え切れなくなった時 / 　その時に<f040><f042>[10][0c]「[05]き〜 / 　＜戦の周昔＞の好を招いている / 　あなたの力を飛りたい
+  2|LIT: <<TODO>>
+  3|EN : @When I can't use the
+ power of the |Other Me|
+ then...@4, I want to borrow your
+ power which carries the
+ blood of the <Sword Magess>.
+  4|RE : <<TODO>>
+
+[JP#6140] gaps=0  aln=MED->US#6010  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「[05]き〜 / 　＜戦の周昔＞の好を招いている / 　あなたの力を飛りたい
+  2|LIT: <<TODO>>
+  3|EN : @4, I want to borrow your
+ power which carries the
+ blood of the <Sword Magess>.
+  4|RE : <<TODO>>
+
+[JP#6141] gaps=0  aln=MED->US#6011  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「戦うたび、あの力を使うたびに / 　俺の参で『もうひとりの俺』が / 　大きくなっていくことを〜[10][0c]「『俺』が俺の大切なモノを / 　限つけかねない時 / 　俺を『俺』ごと守いてほしい〜[10]
+  2|LIT: <<TODO>>
+  3|EN : @Every time I fight, every time
+ I use that power, the |Other
+ Me| inside gets bigger.@When |I| can't avoid harming
+ what I love, I want you to cut
+ both of us down.
+  4|RE : <<TODO>>
+
+[JP#6142] gaps=0  aln=MED->US#6012  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「『俺』が俺の大切なモノを / 　限つけかねない時 / 　俺を『俺』ごと守いてほしい〜[10]
+  2|LIT: <<TODO>>
+  3|EN : @When |I| can't avoid harming
+ what I love, I want you to cut
+ both of us down.
+  4|RE : <<TODO>>
+
+[JP#6143] gaps=1  aln=MED->US#6013  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「だから〜 / 　俺たちの<89f5>にいてほしい
+  2|LIT: <<TODO>>
+  3|EN : @That's why I want you
+ on our side.
+  4|RE : <<TODO>>
+
+[JP#6144] gaps=1  aln=MED->US#6014  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「あなた方が / 　そこの乗<8a53>オタクの / 　相手をしているうちにね
+  2|LIT: <<TODO>>
+  3|EN : @While you were dealing
+ with the hero nerd,
+ I took care of things.
+  4|RE : <<TODO>>
+
+[JP#6145] gaps=1  aln=MED->US#6014  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「クックックック〜 / 　うれしいことがあると / 　<8a65>男がズリ落ちそうですよ
+  2|LIT: <<TODO>>
+  3|EN : @While you were dealing
+ with the hero nerd,
+ I took care of things.
+  4|RE : <<TODO>>
+
+[JP#6146] gaps=2  aln=MED->US#6015  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<89db>もれているのが / 　お<8973>合いですよ
+  2|LIT: <<TODO>>
+  3|EN : @Ha. Ha. Ha. Ha.
+ Whenever I'm happy,
+ my glasses fall.
+  4|RE : <<TODO>>
+
+[JP#6147] gaps=2  aln=MED->US#6017  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>[05]ぉッ！
+  2|LIT: <<TODO>>
+  3|EN : @0!
+  4|RE : <<TODO>>
+
+[JP#6148] gaps=0  aln=MED->US#6018  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「俺たちが戦うべき相手は / 　オデッサだ[10][0c]「ホルストに急ぐぞッ！
+  2|LIT: <<TODO>>
+  3|EN : @Our opponent is
+ Odessa.@Let's hurry to Holst!
+  4|RE : <<TODO>>
+
+[JP#6149] gaps=0  aln=MED->US#6019  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ホルストに急ぐぞッ！
+  2|LIT: <<TODO>>
+  3|EN : @Let's hurry to Holst!
+  4|RE : <<TODO>>

@@ -1,0 +1,7 @@
+# WA2 4-col translation doc block 64 (JP#7120-7120)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 0 boxes | OK=0 FAIR=0 SHAKY=0 JP-ONLY=0
+# DRAFT STATUS: 0 boxes | OK=0 FAIR=0 SHAKY=0 JP-ONLY=0

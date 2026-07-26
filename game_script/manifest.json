@@ -1,0 +1,2009 @@
+{
+ "source": "english_script/game script.rtf",
+ "sections": [
+  {
+   "id": "1.01",
+   "title": "Prologue",
+   "disc": 1,
+   "boxes": 214,
+   "speakers": 41,
+   "roster": [
+    [
+     "Lilka",
+     41
+    ],
+    [
+     "Ashley",
+     18
+    ],
+    [
+     "Brad",
+     18
+    ],
+    [
+     "Lilka's Sister",
+     16
+    ],
+    [
+     "Boy",
+     13
+    ],
+    [
+     "Commander",
+     10
+    ],
+    [
+     "Posse Leader",
+     10
+    ],
+    [
+     "Merrill",
+     7
+    ],
+    [
+     "Gangal",
+     6
+    ],
+    [
+     "Musketeer",
+     6
+    ],
+    [
+     "Recruit 1",
+     6
+    ],
+    [
+     "Tony",
+     6
+    ]
+   ],
+   "file": "game_script/1.01.txt"
+  },
+  {
+   "id": "1.02",
+   "title": "The Town to the Western Winds",
+   "disc": 1,
+   "boxes": 62,
+   "speakers": 13,
+   "roster": [
+    [
+     "Ashley",
+     28
+    ],
+    [
+     "Marina",
+     14
+    ],
+    [
+     "Tony",
+     5
+    ],
+    [
+     "Man 2",
+     4
+    ],
+    [
+     "Man",
+     2
+    ],
+    [
+     "Mysterious Girl (?)",
+     2
+    ],
+    [
+     "Baker's Wife",
+     1
+    ],
+    [
+     "Boy in native dress",
+     1
+    ],
+    [
+     "Innkeeper’s daughter",
+     1
+    ],
+    [
+     "Scott",
+     1
+    ],
+    [
+     "Tim",
+     1
+    ],
+    [
+     "Vacant-looking boy",
+     1
+    ]
+   ],
+   "file": "game_script/1.02.txt"
+  },
+  {
+   "id": "1.03",
+   "title": "New Knight Squad Ceremony",
+   "disc": 1,
+   "boxes": 75,
+   "speakers": 25,
+   "roster": [
+    [
+     "Ashley",
+     23
+    ],
+    [
+     "Man",
+     8
+    ],
+    [
+     "Commander",
+     7
+    ],
+    [
+     "Large Majestic Warrior",
+     4
+    ],
+    [
+     "People",
+     3
+    ],
+    [
+     "Young Man",
+     3
+    ],
+    [
+     "Caina",
+     2
+    ],
+    [
+     "Inner Voice",
+     2
+    ],
+    [
+     "Man 2",
+     2
+    ],
+    [
+     "Man 3",
+     2
+    ],
+    [
+     "Man 4",
+     2
+    ],
+    [
+     "Man 5",
+     2
+    ]
+   ],
+   "file": "game_script/1.03.txt"
+  },
+  {
+   "id": "1.04",
+   "title": "The Valeria Chateau",
+   "disc": 1,
+   "boxes": 114,
+   "speakers": 15,
+   "roster": [
+    [
+     "Ashley",
+     43
+    ],
+    [
+     "Lilka",
+     20
+    ],
+    [
+     "Irving",
+     18
+    ],
+    [
+     "Marina",
+     9
+    ],
+    [
+     "Baker's wife",
+     6
+    ],
+    [
+     "Inner Voice",
+     4
+    ],
+    [
+     "Childish woman",
+     3
+    ],
+    [
+     "Man",
+     3
+    ],
+    [
+     "Calm woman",
+     2
+    ],
+    [
+     "Altaecia",
+     1
+    ],
+    [
+     "Baker's Wife",
+     1
+    ],
+    [
+     "Guard",
+     1
+    ]
+   ],
+   "file": "game_script/1.04.txt"
+  },
+  {
+   "id": "1.05",
+   "title": "Illsveil Prison Paradise",
+   "disc": 1,
+   "boxes": 70,
+   "speakers": 10,
+   "roster": [
+    [
+     "Ashley",
+     21
+    ],
+    [
+     "Lilka",
+     16
+    ],
+    [
+     "Warden",
+     9
+    ],
+    [
+     "Brad",
+     6
+    ],
+    [
+     "Prisoner",
+     6
+    ],
+    [
+     "Guy with Glasses",
+     5
+    ],
+    [
+     "Irving",
+     3
+    ],
+    [
+     "Guard",
+     2
+    ],
+    [
+     "Inmate",
+     1
+    ],
+    [
+     "One-Eyed Giant",
+     1
+    ]
+   ],
+   "file": "game_script/1.05.txt"
+  },
+  {
+   "id": "1.06",
+   "title": "Re-opening the Trade Route - Under Traffic and Damzen",
+   "disc": 1,
+   "boxes": 93,
+   "speakers": 14,
+   "roster": [
+    [
+     "Ashley",
+     25
+    ],
+    [
+     "Irving",
+     25
+    ],
+    [
+     "Lilka",
+     12
+    ],
+    [
+     "Brad",
+     8
+    ],
+    [
+     "Patient",
+     4
+    ],
+    [
+     "Doctor",
+     3
+    ],
+    [
+     "Man",
+     3
+    ],
+    [
+     "Strange Woman in Costume",
+     3
+    ],
+    [
+     "Calm female voice",
+     2
+    ],
+    [
+     "Childish female voice",
+     2
+    ],
+    [
+     "Gramps",
+     2
+    ],
+    [
+     "Woman",
+     2
+    ]
+   ],
+   "file": "game_script/1.06.txt"
+  },
+  {
+   "id": "1.07",
+   "title": "Telepath Tower to Mt. Chug-Chug",
+   "disc": 1,
+   "boxes": 58,
+   "speakers": 15,
+   "roster": [
+    [
+     "Ashley",
+     20
+    ],
+    [
+     "Irving",
+     6
+    ],
+    [
+     "Brad",
+     5
+    ],
+    [
+     "Lilka",
+     5
+    ],
+    [
+     "One-Eyed Giant",
+     4
+    ],
+    [
+     "Ptolomea",
+     4
+    ],
+    [
+     "Strange Woman in Costume",
+     4
+    ],
+    [
+     "Inner Voice",
+     2
+    ],
+    [
+     "Marivel",
+     2
+    ],
+    [
+     "Gramps",
+     1
+    ],
+    [
+     "Guy with Glasses",
+     1
+    ],
+    [
+     "Man",
+     1
+    ]
+   ],
+   "file": "game_script/1.07.txt"
+  },
+  {
+   "id": "1.08",
+   "title": "Establishing Cooperation with Sylvaland",
+   "disc": 1,
+   "boxes": 324,
+   "speakers": 30,
+   "roster": [
+    [
+     "Ashley",
+     85
+    ],
+    [
+     "Lilka",
+     33
+    ],
+    [
+     "Tony",
+     22
+    ],
+    [
+     "Brad",
+     21
+    ],
+    [
+     "Judecca",
+     19
+    ],
+    [
+     "Queen of Sylvaland",
+     18
+    ],
+    [
+     "Tim",
+     17
+    ],
+    [
+     "Vinsfeld",
+     16
+    ],
+    [
+     "Irving",
+     15
+    ],
+    [
+     "Antenora",
+     11
+    ],
+    [
+     "Marina",
+     10
+    ],
+    [
+     "Scott",
+     10
+    ]
+   ],
+   "file": "game_script/1.08.txt"
+  },
+  {
+   "id": "1.09",
+   "title": "Find the Aguelite and Germatron",
+   "disc": 1,
+   "boxes": 234,
+   "speakers": 14,
+   "roster": [
+    [
+     "Ashley",
+     81
+    ],
+    [
+     "Liz",
+     62
+    ],
+    [
+     "Lilka",
+     28
+    ],
+    [
+     "Marina",
+     12
+    ],
+    [
+     "Marivel",
+     12
+    ],
+    [
+     "Ard",
+     10
+    ],
+    [
+     "Irving",
+     10
+    ],
+    [
+     "Brad",
+     6
+    ],
+    [
+     "Lizardian A",
+     6
+    ],
+    [
+     "Kate",
+     2
+    ],
+    [
+     "Lizardian B",
+     2
+    ],
+    [
+     "A mournful cry in the dark...",
+     1
+    ]
+   ],
+   "file": "game_script/1.09.txt"
+  },
+  {
+   "id": "1.10",
+   "title": "Contacting the Guardians",
+   "disc": 1,
+   "boxes": 386,
+   "speakers": 30,
+   "roster": [
+    [
+     "Tim",
+     74
+    ],
+    [
+     "Ashley",
+     54
+    ],
+    [
+     "Irving",
+     52
+    ],
+    [
+     "Village Chief",
+     34
+    ],
+    [
+     "Lilka",
+     22
+    ],
+    [
+     "Tony",
+     19
+    ],
+    [
+     "Pooka",
+     17
+    ],
+    [
+     "Colette",
+     16
+    ],
+    [
+     "Judecca",
+     13
+    ],
+    [
+     "Kate",
+     12
+    ],
+    [
+     "Brad",
+     11
+    ],
+    [
+     "Antenora",
+     10
+    ]
+   ],
+   "file": "game_script/1.10.txt"
+  },
+  {
+   "id": "1.11",
+   "title": "The 71st Filgaian Summit",
+   "disc": 1,
+   "boxes": 105,
+   "speakers": 17,
+   "roster": [
+    [
+     "Irving",
+     25
+    ],
+    [
+     "Ashley",
+     20
+    ],
+    [
+     "King of Meria Boule",
+     18
+    ],
+    [
+     "Guild Galad Master",
+     8
+    ],
+    [
+     "Lilka",
+     7
+    ],
+    [
+     "Brad",
+     6
+    ],
+    [
+     "Ptolomea",
+     6
+    ],
+    [
+     "Queen of Sylvaland",
+     5
+    ],
+    [
+     "Tim",
+     2
+    ],
+    [
+     "Guild Galad",
+     1
+    ],
+    [
+     "Kate",
+     1
+    ],
+    [
+     "Soldier A",
+     1
+    ]
+   ],
+   "file": "game_script/1.11.txt"
+  },
+  {
+   "id": "1.12",
+   "title": "Data Tablets and Sielje Region",
+   "disc": 1,
+   "boxes": 119,
+   "speakers": 13,
+   "roster": [
+    [
+     "Lilka",
+     33
+    ],
+    [
+     "Ashley",
+     26
+    ],
+    [
+     "Irving",
+     18
+    ],
+    [
+     "Terry",
+     12
+    ],
+    [
+     "King of Meria Boule",
+     9
+    ],
+    [
+     "McGregor",
+     9
+    ],
+    [
+     "Brad",
+     3
+    ],
+    [
+     "Tim",
+     3
+    ],
+    [
+     "Magic School's star pupil",
+     2
+    ],
+    [
+     "Amy",
+     1
+    ],
+    [
+     "Kate",
+     1
+    ],
+    [
+     "Magic School's start pupil",
+     1
+    ]
+   ],
+   "file": "game_script/1.12.txt"
+  },
+  {
+   "id": "1.13",
+   "title": "The Gate Bridge",
+   "disc": 1,
+   "boxes": 47,
+   "speakers": 5,
+   "roster": [
+    [
+     "Liz",
+     21
+    ],
+    [
+     "Ashley",
+     12
+    ],
+    [
+     "Ard",
+     10
+    ],
+    [
+     "Lilka",
+     3
+    ],
+    [
+     "Brad",
+     1
+    ]
+   ],
+   "file": "game_script/1.13.txt"
+  },
+  {
+   "id": "1.14",
+   "title": "Greenhell to T'bok Village",
+   "disc": 1,
+   "boxes": 57,
+   "speakers": 10,
+   "roster": [
+    [
+     "Brad",
+     22
+    ],
+    [
+     "Merill",
+     12
+    ],
+    [
+     "Ashley",
+     8
+    ],
+    [
+     "Lilka",
+     6
+    ],
+    [
+     "Kate",
+     2
+    ],
+    [
+     "Tim",
+     2
+    ],
+    [
+     "Woman",
+     2
+    ],
+    [
+     "Billy",
+     1
+    ],
+    [
+     "Irving",
+     1
+    ],
+    [
+     "Man",
+     1
+    ]
+   ],
+   "file": "game_script/1.14.txt"
+  },
+  {
+   "id": "1.15",
+   "title": "Kanon the Exorcist",
+   "disc": 1,
+   "boxes": 47,
+   "speakers": 10,
+   "roster": [
+    [
+     "Ashley",
+     11
+    ],
+    [
+     "Billy",
+     9
+    ],
+    [
+     "Brad",
+     8
+    ],
+    [
+     "Kanon",
+     5
+    ],
+    [
+     "One-eyed female Merc",
+     4
+    ],
+    [
+     "SLA Soldier",
+     3
+    ],
+    [
+     "SLA soldier",
+     3
+    ],
+    [
+     "Lilka",
+     2
+    ],
+    [
+     "Irving",
+     1
+    ],
+    [
+     "Tim",
+     1
+    ]
+   ],
+   "file": "game_script/1.15.txt"
+  },
+  {
+   "id": "1.16",
+   "title": "Alchemic Plant",
+   "disc": 1,
+   "boxes": 85,
+   "speakers": 17,
+   "roster": [
+    [
+     "Ashley",
+     23
+    ],
+    [
+     "Antenora",
+     16
+    ],
+    [
+     "Brad",
+     9
+    ],
+    [
+     "Commander",
+     7
+    ],
+    [
+     "Vinsfeld",
+     5
+    ],
+    [
+     "Radio Operator F",
+     4
+    ],
+    [
+     "Lilka",
+     3
+    ],
+    [
+     "Radio Operator C",
+     3
+    ],
+    [
+     "Radio Operator E",
+     3
+    ],
+    [
+     "Irving",
+     2
+    ],
+    [
+     "Radio Operator B",
+     2
+    ],
+    [
+     "Radio Operator D",
+     2
+    ]
+   ],
+   "file": "game_script/1.16.txt"
+  },
+  {
+   "id": "1.17",
+   "title": "Escort the Son of the Guild Galad Master",
+   "disc": 1,
+   "boxes": 164,
+   "speakers": 16,
+   "roster": [
+    [
+     "Ashley",
+     40
+    ],
+    [
+     "Noel",
+     38
+    ],
+    [
+     "Lilka",
+     18
+    ],
+    [
+     "Tim",
+     13
+    ],
+    [
+     "Conductor",
+     12
+    ],
+    [
+     "Guild Galad Master",
+     10
+    ],
+    [
+     "Kanon",
+     10
+    ],
+    [
+     "Irving",
+     8
+    ],
+    [
+     "Caina",
+     4
+    ],
+    [
+     "Vinsfeld",
+     3
+    ],
+    [
+     "Voice in Space",
+     3
+    ],
+    [
+     "Amy",
+     1
+    ]
+   ],
+   "file": "game_script/1.17.txt"
+  },
+  {
+   "id": "1.18",
+   "title": "Closed Mine Shaft",
+   "disc": 1,
+   "boxes": 72,
+   "speakers": 10,
+   "roster": [
+    [
+     "Ashley",
+     22
+    ],
+    [
+     "Kanon",
+     17
+    ],
+    [
+     "Judecca",
+     9
+    ],
+    [
+     "Lilka",
+     7
+    ],
+    [
+     "Tim",
+     7
+    ],
+    [
+     "Marivel",
+     5
+    ],
+    [
+     "Amy",
+     2
+    ],
+    [
+     "Man in Holst",
+     1
+    ],
+    [
+     "Pooka",
+     1
+    ],
+    [
+     "Voice of Kanon",
+     1
+    ]
+   ],
+   "file": "game_script/1.18.txt"
+  },
+  {
+   "id": "1.19",
+   "title": "Coffin of 100 Eyes",
+   "disc": 1,
+   "boxes": 105,
+   "speakers": 16,
+   "roster": [
+    [
+     "Ashley",
+     27
+    ],
+    [
+     "Brad",
+     10
+    ],
+    [
+     "Kanon",
+     9
+    ],
+    [
+     "Lilka",
+     9
+    ],
+    [
+     "Liz",
+     8
+    ],
+    [
+     "Vinsfeld",
+     8
+    ],
+    [
+     "Irving",
+     7
+    ],
+    [
+     "Amy",
+     6
+    ],
+    [
+     "Antenora",
+     5
+    ],
+    [
+     "Tim",
+     4
+    ],
+    [
+     "Ard",
+     3
+    ],
+    [
+     "Caina",
+     3
+    ]
+   ],
+   "file": "game_script/1.19.txt"
+  },
+  {
+   "id": "1.20",
+   "title": "Destroy the Diablo Pillars",
+   "disc": 1,
+   "boxes": 109,
+   "speakers": 15,
+   "roster": [
+    [
+     "Ashley",
+     24
+    ],
+    [
+     "Antenora",
+     11
+    ],
+    [
+     "Kanon",
+     10
+    ],
+    [
+     "Marina",
+     10
+    ],
+    [
+     "Tim",
+     9
+    ],
+    [
+     "Lilka",
+     8
+    ],
+    [
+     "Brad",
+     7
+    ],
+    [
+     "Irving",
+     7
+    ],
+    [
+     "Judecca",
+     7
+    ],
+    [
+     "Ptolomea",
+     6
+    ],
+    [
+     "Caina",
+     5
+    ],
+    [
+     "Pooka",
+     2
+    ]
+   ],
+   "file": "game_script/1.20.txt"
+  },
+  {
+   "id": "1.21",
+   "title": "Take Down Heimdal Gazzo",
+   "disc": 1,
+   "boxes": 86,
+   "speakers": 11,
+   "roster": [
+    [
+     "Ashley",
+     33
+    ],
+    [
+     "Vinsfeld",
+     19
+    ],
+    [
+     "Lilka",
+     8
+    ],
+    [
+     "Brad",
+     7
+    ],
+    [
+     "Kanon",
+     6
+    ],
+    [
+     "Tim",
+     6
+    ],
+    [
+     "Marina",
+     2
+    ],
+    [
+     "Marivel",
+     2
+    ],
+    [
+     "Irving",
+     1
+    ],
+    [
+     "Kate",
+     1
+    ],
+    [
+     "Pooka",
+     1
+    ]
+   ],
+   "file": "game_script/1.21.txt"
+  },
+  {
+   "id": "2.01",
+   "title": "The Memory Maze",
+   "disc": 2,
+   "boxes": 76,
+   "speakers": 8,
+   "roster": [
+    [
+     "Anastasia",
+     34
+    ],
+    [
+     "Ashley",
+     28
+    ],
+    [
+     "Altaecia",
+     4
+    ],
+    [
+     "Irving",
+     3
+    ],
+    [
+     "Marina",
+     3
+    ],
+    [
+     "A Girl Seen Before",
+     2
+    ],
+    [
+     "Alteacia",
+     1
+    ],
+    [
+     "Voice of Alteacia",
+     1
+    ]
+   ],
+   "file": "game_script/2.01.txt"
+  },
+  {
+   "id": "2.02",
+   "title": "Rescue Ashley Winschester",
+   "disc": 2,
+   "boxes": 81,
+   "speakers": 12,
+   "roster": [
+    [
+     "Lilka",
+     17
+    ],
+    [
+     "Irving",
+     12
+    ],
+    [
+     "Anastasia",
+     10
+    ],
+    [
+     "Ashley",
+     9
+    ],
+    [
+     "Tim",
+     9
+    ],
+    [
+     "Marina",
+     6
+    ],
+    [
+     "Kate",
+     5
+    ],
+    [
+     "Amy",
+     4
+    ],
+    [
+     "Brad",
+     4
+    ],
+    [
+     "Kanon",
+     3
+    ],
+    [
+     "Chateau Crewman A",
+     1
+    ],
+    [
+     "Chateau Crewman B",
+     1
+    ]
+   ],
+   "file": "game_script/2.02.txt"
+  },
+  {
+   "id": "2.03",
+   "title": "Sacrificial Altar & the Grotto of Lourdes",
+   "disc": 2,
+   "boxes": 118,
+   "speakers": 16,
+   "roster": [
+    [
+     "Kanon",
+     22
+    ],
+    [
+     "Tim",
+     18
+    ],
+    [
+     "Ashley",
+     17
+    ],
+    [
+     "Irving",
+     14
+    ],
+    [
+     "Gaia",
+     13
+    ],
+    [
+     "Pooka",
+     9
+    ],
+    [
+     "Village Chief",
+     7
+    ],
+    [
+     "Lilka",
+     6
+    ],
+    [
+     "Brad",
+     3
+    ],
+    [
+     "Girl from Memory",
+     3
+    ],
+    [
+     "A Mass of Light",
+     1
+    ],
+    [
+     "Aisha",
+     1
+    ]
+   ],
+   "file": "game_script/2.03.txt"
+  },
+  {
+   "id": "2.04",
+   "title": "Rescue Marina from the Frozen Lake of Hell",
+   "disc": 2,
+   "boxes": 59,
+   "speakers": 9,
+   "roster": [
+    [
+     "Ashley",
+     26
+    ],
+    [
+     "Irving",
+     12
+    ],
+    [
+     "Caina",
+     8
+    ],
+    [
+     "Marina",
+     5
+    ],
+    [
+     "Brad",
+     2
+    ],
+    [
+     "Kanon",
+     2
+    ],
+    [
+     "Lilka",
+     2
+    ],
+    [
+     "Tim",
+     1
+    ],
+    [
+     "Voice of Caina",
+     1
+    ]
+   ],
+   "file": "game_script/2.04.txt"
+  },
+  {
+   "id": "2.05",
+   "title": "The Nuclear Dragon Grauswein",
+   "disc": 2,
+   "boxes": 90,
+   "speakers": 16,
+   "roster": [
+    [
+     "Irving",
+     18
+    ],
+    [
+     "Ashley",
+     14
+    ],
+    [
+     "Guild Galad Master",
+     12
+    ],
+    [
+     "Marina",
+     9
+    ],
+    [
+     "King of Meria Boule",
+     6
+    ],
+    [
+     "Queen of Sylvaland",
+     6
+    ],
+    [
+     "Brad",
+     4
+    ],
+    [
+     "Kanon",
+     4
+    ],
+    [
+     "Lilka",
+     4
+    ],
+    [
+     "Kate",
+     3
+    ],
+    [
+     "Man A",
+     3
+    ],
+    [
+     "Man B",
+     2
+    ]
+   ],
+   "file": "game_script/2.05.txt"
+  },
+  {
+   "id": "2.06",
+   "title": "Lombardia - The Legendary Wing of Heaven",
+   "disc": 2,
+   "boxes": 54,
+   "speakers": 8,
+   "roster": [
+    [
+     "Ashley",
+     14
+    ],
+    [
+     "Lombardia",
+     12
+    ],
+    [
+     "Irving",
+     10
+    ],
+    [
+     "Brad",
+     6
+    ],
+    [
+     "Lilka",
+     4
+    ],
+    [
+     "Tim",
+     4
+    ],
+    [
+     "Kanon",
+     2
+    ],
+    [
+     "Voice in the Crater",
+     2
+    ]
+   ],
+   "file": "game_script/2.06.txt"
+  },
+  {
+   "id": "0.1",
+   "title": "Crimson Castle",
+   "disc": 0,
+   "boxes": 18,
+   "speakers": 6,
+   "roster": [
+    [
+     "Marivel",
+     10
+    ],
+    [
+     "Ashley",
+     3
+    ],
+    [
+     "Lilka",
+     2
+    ],
+    [
+     "Brad",
+     1
+    ],
+    [
+     "Kanon",
+     1
+    ],
+    [
+     "Tim",
+     1
+    ]
+   ],
+   "file": "game_script/0.1.txt"
+  },
+  {
+   "id": "0.2",
+   "title": "Promised Catacombs",
+   "disc": 0,
+   "boxes": 8,
+   "speakers": 2,
+   "roster": [
+    [
+     "Marivel",
+     6
+    ],
+    [
+     "Ashley",
+     2
+    ]
+   ],
+   "file": "game_script/0.2.txt"
+  },
+  {
+   "id": "2.07",
+   "title": "Liberate the Raypoints",
+   "disc": 2,
+   "boxes": 145,
+   "speakers": 23,
+   "roster": [
+    [
+     "Tim",
+     26
+    ],
+    [
+     "Kanon",
+     17
+    ],
+    [
+     "Lilka",
+     17
+    ],
+    [
+     "Pooka",
+     17
+    ],
+    [
+     "Brad",
+     13
+    ],
+    [
+     "Aisha",
+     9
+    ],
+    [
+     "Lilka's Sister's Voice",
+     9
+    ],
+    [
+     "Spirit of Geo",
+     7
+    ],
+    [
+     "Ashley",
+     3
+    ],
+    [
+     "Colette",
+     3
+    ],
+    [
+     "Spirit of Muse",
+     3
+    ],
+    [
+     "Spirit of Flam",
+     2
+    ]
+   ],
+   "file": "game_script/2.07.txt"
+  },
+  {
+   "id": "2.08",
+   "title": "Trapezohedron",
+   "disc": 2,
+   "boxes": 25,
+   "speakers": 8,
+   "roster": [
+    [
+     "Irving",
+     8
+    ],
+    [
+     "Ashley",
+     5
+    ],
+    [
+     "Amy",
+     4
+    ],
+    [
+     "Kate",
+     4
+    ],
+    [
+     "Brad",
+     1
+    ],
+    [
+     "Kanon",
+     1
+    ],
+    [
+     "Lilka",
+     1
+    ],
+    [
+     "Tim",
+     1
+    ]
+   ],
+   "file": "game_script/2.08.txt"
+  },
+  {
+   "id": "2.09",
+   "title": "Fiery Wreckage",
+   "disc": 2,
+   "boxes": 64,
+   "speakers": 10,
+   "roster": [
+    [
+     "Irving",
+     24
+    ],
+    [
+     "Ashley",
+     12
+    ],
+    [
+     "Brad",
+     7
+    ],
+    [
+     "Altaecia",
+     6
+    ],
+    [
+     "Lilka",
+     6
+    ],
+    [
+     "Tim",
+     4
+    ],
+    [
+     "Kanon",
+     2
+    ],
+    [
+     "Amy",
+     1
+    ],
+    [
+     "Kate",
+     1
+    ],
+    [
+     "Marivel",
+     1
+    ]
+   ],
+   "file": "game_script/2.09.txt"
+  },
+  {
+   "id": "2.10",
+   "title": "Before the Final Battle",
+   "disc": 2,
+   "boxes": 95,
+   "speakers": 13,
+   "roster": [
+    [
+     "Lilka",
+     14
+    ],
+    [
+     "Terry",
+     14
+    ],
+    [
+     "Marivel",
+     12
+    ],
+    [
+     "Tony",
+     10
+    ],
+    [
+     "Ashley",
+     9
+    ],
+    [
+     "Brad",
+     8
+    ],
+    [
+     "Tim",
+     7
+    ],
+    [
+     "Marina",
+     6
+    ],
+    [
+     "Colette",
+     5
+    ],
+    [
+     "Merrill",
+     5
+    ],
+    [
+     "Kanon",
+     3
+    ],
+    [
+     "Amy",
+     1
+    ]
+   ],
+   "file": "game_script/2.10.txt"
+  },
+  {
+   "id": "0.3",
+   "title": "Island Outpost (OPTIONAL)",
+   "disc": 0,
+   "boxes": 8,
+   "speakers": 3,
+   "roster": [
+    [
+     "Man",
+     4
+    ],
+    [
+     "Day",
+     2
+    ],
+    [
+     "Karayan",
+     2
+    ]
+   ],
+   "file": "game_script/0.3.txt"
+  },
+  {
+   "id": "0.4",
+   "title": "Guardians of Filgaia",
+   "disc": 0,
+   "boxes": 14,
+   "speakers": 9,
+   "roster": [
+    [
+     "Voice from the Stone",
+     6
+    ],
+    [
+     "Aru Sulato",
+     1
+    ],
+    [
+     "Dan Dairam",
+     1
+    ],
+    [
+     "Fengalon",
+     1
+    ],
+    [
+     "Ge Ramtos",
+     1
+    ],
+    [
+     "Leita Salk",
+     1
+    ],
+    [
+     "Noua Shax",
+     1
+    ],
+    [
+     "Stare Roe",
+     1
+    ],
+    [
+     "Voice form the Stone",
+     1
+    ]
+   ],
+   "file": "game_script/0.4.txt"
+  },
+  {
+   "id": "0.5",
+   "title": "Werewolf's Den",
+   "disc": 0,
+   "boxes": 28,
+   "speakers": 7,
+   "roster": [
+    [
+     "Ashley",
+     10
+    ],
+    [
+     "Lucied",
+     7
+    ],
+    [
+     "Lilka",
+     3
+    ],
+    [
+     "Brad",
+     2
+    ],
+    [
+     "Kanon",
+     2
+    ],
+    [
+     "Marivel",
+     2
+    ],
+    [
+     "Tim",
+     2
+    ]
+   ],
+   "file": "game_script/0.5.txt"
+  },
+  {
+   "id": "0.6",
+   "title": "The Guardian Lords",
+   "disc": 0,
+   "boxes": 53,
+   "speakers": 9,
+   "roster": [
+    [
+     "Brad",
+     10
+    ],
+    [
+     "Colette",
+     10
+    ],
+    [
+     "Tim",
+     9
+    ],
+    [
+     "Billy",
+     8
+    ],
+    [
+     "Marina",
+     7
+    ],
+    [
+     "Ashley",
+     6
+    ],
+    [
+     "Stone Drago",
+     1
+    ],
+    [
+     "Stone Goddess",
+     1
+    ],
+    [
+     "Stone Lion",
+     1
+    ]
+   ],
+   "file": "game_script/0.6.txt"
+  },
+  {
+   "id": "0.7",
+   "title": "Fab Science Lab",
+   "disc": 0,
+   "boxes": 108,
+   "speakers": 7,
+   "roster": [
+    [
+     "Liz",
+     40
+    ],
+    [
+     "Ashley",
+     33
+    ],
+    [
+     "Lilka",
+     18
+    ],
+    [
+     "Ard",
+     12
+    ],
+    [
+     "Luka",
+     2
+    ],
+    [
+     "Marivel",
+     2
+    ],
+    [
+     "The long awaited...",
+     1
+    ]
+   ],
+   "file": "game_script/0.7.txt"
+  },
+  {
+   "id": "2.11",
+   "title": "Last Ignition",
+   "disc": 2,
+   "boxes": 97,
+   "speakers": 23,
+   "roster": [
+    [
+     "Ashley",
+     31
+    ],
+    [
+     "Irving",
+     11
+    ],
+    [
+     "Tim",
+     7
+    ],
+    [
+     "Kanon",
+     5
+    ],
+    [
+     "Lilka",
+     5
+    ],
+    [
+     "Lord Blazer",
+     5
+    ],
+    [
+     "Amy",
+     4
+    ],
+    [
+     "Brad",
+     4
+    ],
+    [
+     "Marina",
+     4
+    ],
+    [
+     "Irving's Voice",
+     2
+    ],
+    [
+     "Kate",
+     2
+    ],
+    [
+     "King of Meria Boule",
+     2
+    ]
+   ],
+   "file": "game_script/2.11.txt"
+  },
+  {
+   "id": "2.12",
+   "title": "Ending",
+   "disc": 2,
+   "boxes": 29,
+   "speakers": 7,
+   "roster": [
+    [
+     "Ashley",
+     8
+    ],
+    [
+     "Lilka",
+     7
+    ],
+    [
+     "Tim",
+     5
+    ],
+    [
+     "Marina",
+     3
+    ],
+    [
+     "Brad",
+     2
+    ],
+    [
+     "Kanon",
+     2
+    ],
+    [
+     "Marivel",
+     2
+    ]
+   ],
+   "file": "game_script/2.12.txt"
+  }
+ ]
+}

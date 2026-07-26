@@ -1,0 +1,408 @@
+# WA2 4-col translation doc block 66 (JP#7141-7183)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 40 boxes | OK=0 FAIR=24 SHAKY=7 JP-ONLY=9
+# DRAFT STATUS: 40 boxes | OK=0 FAIR=20 SHAKY=11 JP-ONLY=9
+
+[JP#7142] gaps=0  aln=MED->US#6991  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7143] gaps=2  aln=MED->US#6992  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7144] gaps=0  aln=MED->US#6993  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7145] gaps=1  aln=MED->US#6994  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「この<8a39>々しき気〜 / 　あたしの仲守にふさわしいッ！
+  2|LIT: <<TODO>>
+  3|EN : @This sense of woe will be
+ perfect for my exorcising evil.
+  4|RE : <<TODO>>
+
+[JP#7146] gaps=0  aln=MED->US#6995  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ファルガイアのために / 　一助に戦ってきたはずだろう？ / 　それなのに、なぜッ！
+  2|LIT: <<TODO>>
+  3|EN : @We fought side by side
+ to protect Filgaia, right?
+ Then, why?!
+  4|RE : <<TODO>>
+
+[JP#7147] gaps=0  aln=MED->US#6996  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「私はファルガイアのために戦ってきたんだ / 　そこに、キミとの違いは何もない
+  2|LIT: <<TODO>>
+  3|EN : @I fought for Filgaia too.
+ I'm no different from you
+ on that point.
+  4|RE : <<TODO>>
+
+[JP#7148] gaps=8  aln=MED->US#6997  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「世界を歩らい<8a40>くす兄念存帰に対期するには / 　<8a43>るぎ無い大きな力が必要だ / 　ファルガイアがひとつになるくらいのな[10][0c]「だが、人はその年だけ / 　異なる思来を持っている[10][0c]「違挑もつかない脅威に対して / 　戦<8860>に一<88a8><897d>結できるほど / 　周<8a48>でもなければ、強くもない〜[10][0c]「だからこそ / 　身近に実信できる脅威を用意したのだ / 　それが<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : @To fight the being consuming the
+ world, a large power is needed,
+ almost as large as Filgaia.@But there are as many opinions
+ as there are people.@People aren't strong enough to
+ instantly unify against such an
+ unimaginable threat.@That's why I created a clearly
+ perceptible threat for people
+ to experience. That was...
+  4|RE : <<TODO>>
+
+[JP#7149] gaps=6  aln=MED->US#6998  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「だが、人はその年だけ / 　異なる思来を持っている[10][0c]「違挑もつかない脅威に対して / 　戦<8860>に一<88a8><897d>結できるほど / 　周<8a48>でもなければ、強くもない〜[10][0c]「だからこそ / 　身近に実信できる脅威を用意したのだ / 　それが<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : @But there are as many opinions
+ as there are people.@People aren't strong enough to
+ instantly unify against such an
+ unimaginable threat.@That's why I created a clearly
+ perceptible threat for people
+ to experience. That was...
+  4|RE : <<TODO>>
+
+[JP#7150] gaps=6  aln=MED->US#6999  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「違挑もつかない脅威に対して / 　戦<8860>に一<88a8><897d>結できるほど / 　周<8a48>でもなければ、強くもない〜[10][0c]「だからこそ / 　身近に実信できる脅威を用意したのだ / 　それが<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : @People aren't strong enough to
+ instantly unify against such an
+ unimaginable threat.@That's why I created a clearly
+ perceptible threat for people
+ to experience. That was...
+  4|RE : <<TODO>>
+
+[JP#7151] gaps=2  aln=MED->US#7000  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「だからこそ / 　身近に実信できる脅威を用意したのだ / 　それが<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : @That's why I created a clearly
+ perceptible threat for people
+ to experience. That was...
+  4|RE : <<TODO>>
+
+[JP#7152] gaps=8  aln=MED->US#7001  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=3
+  1|JP : 「そこに、さっそうと / 　新<8a0f>の<8a4d>方が現れたらどうなると思う？ / 　そう、キミたちＡＲＭＳが現れたら<f041><f042>[10][0c]「人々の心は / 　やがて好恥間を負えて結ばれていった / 　それはキミたちも知ったはずだ[10][0c]「カイバーベルトに対期するため / 　貴好が遠力体制をとって / 　<8a52>に戦ったさまを[10][0c]「マナの<8962><8963>『トラペゾヘドロン』は / 　貴<8a53>好の遠力無くして / 　発動することはできなかったのだ
+  2|LIT: <<TODO>>
+  3|EN : @What would happen if the Defenders
+ of Justice showed up? Yup.
+ You ARMS guys showed up.@People began to unite
+ across national boundaries.
+ You already know that.@To oppose the Kuiper Belt, all
+ countries set cooperative policies
+ to fight against it, together.@The prison of Mana, Trapezohedron,
+ couldn't have been invoked without
+ cooperation from all three nations.
+  4|RE : <<TODO>>
+
+[JP#7153] gaps=4  aln=MED->US#7002  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「人々の心は / 　やがて好恥間を負えて結ばれていった / 　それはキミたちも知ったはずだ[10][0c]「カイバーベルトに対期するため / 　貴好が遠力体制をとって / 　<8a52>に戦ったさまを[10][0c]「マナの<8962><8963>『トラペゾヘドロン』は / 　貴<8a53>好の遠力無くして / 　発動することはできなかったのだ
+  2|LIT: <<TODO>>
+  3|EN : @People began to unite
+ across national boundaries.
+ You already know that.@To oppose the Kuiper Belt, all
+ countries set cooperative policies
+ to fight against it, together.@The prison of Mana, Trapezohedron,
+ couldn't have been invoked without
+ cooperation from all three nations.
+  4|RE : <<TODO>>
+
+[JP#7154] gaps=4  aln=MED->US#7003  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「カイバーベルトに対期するため / 　貴好が遠力体制をとって / 　<8a52>に戦ったさまを[10][0c]「マナの<8962><8963>『トラペゾヘドロン』は / 　貴<8a53>好の遠力無くして / 　発動することはできなかったのだ
+  2|LIT: <<TODO>>
+  3|EN : @To oppose the Kuiper Belt, all
+ countries set cooperative policies
+ to fight against it, together.@The prison of Mana, Trapezohedron,
+ couldn't have been invoked without
+ cooperation from all three nations.
+  4|RE : <<TODO>>
+
+[JP#7155] gaps=3  aln=MED->US#7004  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「マナの<8962><8963>『トラペゾヘドロン』は / 　貴<8a53>好の遠力無くして / 　発動することはできなかったのだ
+  2|LIT: <<TODO>>
+  3|EN : @The prison of Mana, Trapezohedron,
+ couldn't have been invoked without
+ cooperation from all three nations.
+  4|RE : <<TODO>>
+
+[JP#7156] gaps=1  aln=MED->US#7005  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「その思来の勉で、<8a55>ついた者もいるッ！ / 　命を落としたものだっているッ！
+  2|LIT: <<TODO>>
+  3|EN : @People have been hurt from
+ your plan. Some have even lost
+ their lives.
+  4|RE : <<TODO>>
+
+[JP#7157] gaps=3  aln=MED->US#7006  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「私だって / 　戦う力を手にすることができたなら〜[10][0c]「アガートラームを / 　手にすることができたなら / 　このような手復はとらなかった[10][0c]「<f040><f041>だが、『<8a5c>茶』にならなくては / 　ファルガイアを望ることができないのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @If I could have gotten
+ the power to fight, I'd have...@If I could have gotten
+ the Argetlahm, I would have
+ taken such measures.@But without becoming a |hero,|
+ I won't be able to save Filgaia!
+  4|RE : <<TODO>>
+
+[JP#7158] gaps=3  aln=MED->US#7007  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「アガートラームを / 　手にすることができたなら / 　このような手復はとらなかった[10][0c]「<f040><f041>だが、『<8a5c>茶』にならなくては / 　ファルガイアを望ることができないのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @If I could have gotten
+ the Argetlahm, I would have
+ taken such measures.@But without becoming a |hero,|
+ I won't be able to save Filgaia!
+  4|RE : <<TODO>>
+
+[JP#7159] gaps=3  aln=MED->US#7008  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<f040><f041>だが、『<8a5c>茶』にならなくては / 　ファルガイアを望ることができないのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @But without becoming a |hero,|
+ I won't be able to save Filgaia!
+  4|RE : <<TODO>>
+
+[JP#7160] gaps=1  aln=MED->US#7009  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「みんなでファルガイアを / 　<8832>ったんだよね？
+  2|LIT: <<TODO>>
+  3|EN : @We all were able
+ to save Filgaia, right?
+  4|RE : <<TODO>>
+
+[JP#7161] gaps=0  aln=MED->US#7010  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ただ、それだけだ
+  2|LIT: <<TODO>>
+  3|EN : @That's all there is to it.
+  4|RE : <<TODO>>
+
+[JP#7163] gaps=1  aln=HIGH->US#7012  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「どこだッ！ / 　どこにいるッ！ / 　<8a61>を見せろッ！
+  2|LIT: <<TODO>>
+  3|EN : @Where?
+ Where are you?
+ Show yourself!
+  4|RE : <<TODO>>
+
+[JP#7164] gaps=12  aln=HIGH->US#7013  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=6
+  1|JP : 「だが、カイバーベルトは / 　『乗』よりあふれ出て / 　今や、ファルガイアそのもの<f040><f042>[10][0c]「<8a65>のガーディアン / 　グラブ・ル・ガブルにまで / 　幸を男り<8a67>らせている〜[10][0c]「このままでは、いくら本体を魂撃しようと / 　幸からエネルギーを取り込み / 　無頼に延生を<8a6a>り<8a6b>しかねない〜[10][0c]「まずは、カイバーベルトより勇びた / 　<8a53>本の幸を<8a6d>ち、延生を<8988>止するのだ〜[10][0c]「ＡＲＭＳの貴様らの / 　友苦を姿る〜[10][0c]「私の意<8a71>が、『乗』より / 　すべてのカイバーベルトが飛び出すのを / 　片さえつけているあいだに<f040><f042>〜
+  2|LIT: <<TODO>>
+  3|EN : @But the Kuiper Belt gushed
+ out of the vessel and now,
+ Filgaia itself is...@Its roots have divided and
+ spread to even the Guardian
+ of Mud, Glaive Le Gable.@At this rate, no matter how much we
+ attack the body, the roots will
+ get energy to endlessly regenerate.@First, the three roots extending
+ out from the Kuiper Belt must be
+ cut and their regeneration stopped.@I pray for the safety 
+  4|RE : <<TODO>>
+
+[JP#7165] gaps=10  aln=HIGH->US#7014  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=6
+  1|JP : 「<8a65>のガーディアン / 　グラブ・ル・ガブルにまで / 　幸を男り<8a67>らせている〜[10][0c]「このままでは、いくら本体を魂撃しようと / 　幸からエネルギーを取り込み / 　無頼に延生を<8a6a>り<8a6b>しかねない〜[10][0c]「まずは、カイバーベルトより勇びた / 　<8a53>本の幸を<8a6d>ち、延生を<8988>止するのだ〜[10][0c]「ＡＲＭＳの貴様らの / 　友苦を姿る〜[10][0c]「私の意<8a71>が、『乗』より / 　すべてのカイバーベルトが飛び出すのを / 　片さえつけているあいだに<f040><f042>〜
+  2|LIT: <<TODO>>
+  3|EN : @Its roots have divided and
+ spread to even the Guardian
+ of Mud, Glaive Le Gable.@At this rate, no matter how much we
+ attack the body, the roots will
+ get energy to endlessly regenerate.@First, the three roots extending
+ out from the Kuiper Belt must be
+ cut and their regeneration stopped.@I pray for the safety and success
+ of the ARMS members.@Do this while my |will|
+ keeps all of the K
+  4|RE : <<TODO>>
+
+[JP#7166] gaps=8  aln=HIGH->US#7015  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=4
+  1|JP : 「このままでは、いくら本体を魂撃しようと / 　幸からエネルギーを取り込み / 　無頼に延生を<8a6a>り<8a6b>しかねない〜[10][0c]「まずは、カイバーベルトより勇びた / 　<8a53>本の幸を<8a6d>ち、延生を<8988>止するのだ〜[10][0c]「ＡＲＭＳの貴様らの / 　友苦を姿る〜[10][0c]「私の意<8a71>が、『乗』より / 　すべてのカイバーベルトが飛び出すのを / 　片さえつけているあいだに<f040><f042>〜
+  2|LIT: <<TODO>>
+  3|EN : @At this rate, no matter how much we
+ attack the body, the roots will
+ get energy to endlessly regenerate.@First, the three roots extending
+ out from the Kuiper Belt must be
+ cut and their regeneration stopped.@I pray for the safety and success
+ of the ARMS members.@Do this while my |will|
+ keeps all of the Kuiper Belt
+ from spilling out of the vessel.
+  4|RE : <<TODO>>
+
+[JP#7167] gaps=6  aln=MED->US#7016  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「まずは、カイバーベルトより勇びた / 　<8a53>本の幸を<8a6d>ち、延生を<8988>止するのだ〜[10][0c]「ＡＲＭＳの貴様らの / 　友苦を姿る〜[10][0c]「私の意<8a71>が、『乗』より / 　すべてのカイバーベルトが飛び出すのを / 　片さえつけているあいだに<f040><f042>〜
+  2|LIT: <<TODO>>
+  3|EN : @First, the three roots extending
+ out from the Kuiper Belt must be
+ cut and their regeneration stopped.@I pray for the safety and success
+ of the ARMS members.@Do this while my |will|
+ keeps all of the Kuiper Belt
+ from spilling out of the vessel.
+  4|RE : <<TODO>>
+
+[JP#7168] gaps=3  aln=MED->US#7017  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ＡＲＭＳの貴様らの / 　友苦を姿る〜[10][0c]「私の意<8a71>が、『乗』より / 　すべてのカイバーベルトが飛び出すのを / 　片さえつけているあいだに<f040><f042>〜
+  2|LIT: <<TODO>>
+  3|EN : @I pray for the safety and success
+ of the ARMS members.@Do this while my |will|
+ keeps all of the Kuiper Belt
+ from spilling out of the vessel.
+  4|RE : <<TODO>>
+
+[JP#7169] gaps=3  aln=MED->US#7018  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「私の意<8a71>が、『乗』より / 　すべてのカイバーベルトが飛び出すのを / 　片さえつけているあいだに<f040><f042>〜
+  2|LIT: <<TODO>>
+  3|EN : @Do this while my |will|
+ keeps all of the Kuiper Belt
+ from spilling out of the vessel.
+  4|RE : <<TODO>>
+
+[JP#7170] gaps=6  aln=LOW->US#7019  CONF=JP-ONLY unsolved=6  CONF=JP-ONLY unsolved=1
+  1|JP : 「〜[0a]ぉが<88a6>えた言葉を / 　信じるしかないな〜[10][0c]「カイバーベルトの本体を倒すには / 　<8a53>本の幸を<8a6d>つ必要があるようだ〜[10][0c]「ここで、パーティーを / 　よっつに分けようッ！[10][0c]「それぞれの幸を<8a6d>つための単<8a72>闘<8a53>人と / 　本体を基つパーティーに〜
+  2|LIT: <<TODO>>
+  3|EN : @All I can do is believe what
+  0 told me.@It's necessary to cut these
+ three roots to destroy the
+ main body of the Kuiper Belt.@Let's split the party
+ into four now!@Separate units will attack
+ each root and the fourth unit
+ will attack the main body.
+  4|RE : <<TODO>>
+
+[JP#7171] gaps=5  aln=LOW->US#7019  CONF=JP-ONLY unsolved=5  CONF=JP-ONLY unsolved=1
+  1|JP : 「カイバーベルトの本体を倒すには / 　<8a53>本の幸を<8a6d>つ必要があるようだ〜[10][0c]「ここで、パーティーを / 　よっつに分けようッ！[10][0c]「それぞれの幸を<8a6d>つための単<8a72>闘<8a53>人と / 　本体を基つパーティーに〜
+  2|LIT: <<TODO>>
+  3|EN : @All I can do is believe what
+  0 told me.@It's necessary to cut these
+ three roots to destroy the
+ main body of the Kuiper Belt.@Let's split the party
+ into four now!@Separate units will attack
+ each root and the fourth unit
+ will attack the main body.
+  4|RE : <<TODO>>
+
+[JP#7172] gaps=3  aln=LOW->US#7019  CONF=JP-ONLY unsolved=3  CONF=JP-ONLY unsolved=1
+  1|JP : 「ここで、パーティーを / 　よっつに分けようッ！[10][0c]「それぞれの幸を<8a6d>つための単<8a72>闘<8a53>人と / 　本体を基つパーティーに〜
+  2|LIT: <<TODO>>
+  3|EN : @All I can do is believe what
+  0 told me.@It's necessary to cut these
+ three roots to destroy the
+ main body of the Kuiper Belt.@Let's split the party
+ into four now!@Separate units will attack
+ each root and the fourth unit
+ will attack the main body.
+  4|RE : <<TODO>>
+
+[JP#7173] gaps=3  aln=LOW->US#7019  CONF=JP-ONLY unsolved=3  CONF=JP-ONLY unsolved=1
+  1|JP : 「それぞれの幸を<8a6d>つための単<8a72>闘<8a53>人と / 　本体を基つパーティーに〜
+  2|LIT: <<TODO>>
+  3|EN : @All I can do is believe what
+  0 told me.@It's necessary to cut these
+ three roots to destroy the
+ main body of the Kuiper Belt.@Let's split the party
+ into four now!@Separate units will attack
+ each root and the fourth unit
+ will attack the main body.
+  4|RE : <<TODO>>
+
+[JP#7174] gaps=0  aln=LOW->US#7019  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : Ａルート　[01] / Ｂルート　[01] / Ｃルート　[01]
+  2|LIT: <<TODO>>
+  3|EN : @All I can do is believe what
+  0 told me.@It's necessary to cut these
+ three roots to destroy the
+ main body of the Kuiper Belt.@Let's split the party
+ into four now!@Separate units will attack
+ each root and the fourth unit
+ will attack the main body.
+  4|RE : <<TODO>>
+
+[JP#7175] gaps=0  aln=LOW->US#7019  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「だから、俺は後戻りはしないッ！
+  2|LIT: <<TODO>>
+  3|EN : @All I can do is believe what
+  0 told me.@It's necessary to cut these
+ three roots to destroy the
+ main body of the Kuiper Belt.@Let's split the party
+ into four now!@Separate units will attack
+ each root and the fourth unit
+ will attack the main body.
+  4|RE : <<TODO>>
+
+[JP#7176] gaps=1  aln=LOW->US#7019  CONF=JP-ONLY unsolved=1  CONF=JP-ONLY unsolved=1
+  1|JP : 「僕たちは、次回という回を望るため / 　後戻りは<8978>されないッ！
+  2|LIT: <<TODO>>
+  3|EN : @All I can do is believe what
+  0 told me.@It's necessary to cut these
+ three roots to destroy the
+ main body of the Kuiper Belt.@Let's split the party
+ into four now!@Separate units will attack
+ each root and the fourth unit
+ will attack the main body.
+  4|RE : <<TODO>>
+
+[JP#7177] gaps=4  aln=LOW->US#7019  CONF=JP-ONLY unsolved=4  CONF=JP-ONLY unsolved=4
+  1|JP : 「あともう一<89e2>、そう、もう少し / 　だから、もう後ろは<8a74>り<8a6b>らない / 　お<8a75>ちゃんに協われちゃうもんッ！
+  2|LIT: <<TODO>>
+  3|EN : @All I can do is believe what
+  0 told me.@It's necessary to cut these
+ three roots to destroy the
+ main body of the Kuiper Belt.@Let's split the party
+ into four now!@Separate units will attack
+ each root and the fourth unit
+ will attack the main body.
+  4|RE : <<TODO>>
+
+[JP#7178] gaps=1  aln=LOW->US#7019  CONF=JP-ONLY unsolved=1  CONF=JP-ONLY unsolved=0
+  1|JP : 「[0a]がに / 　お回方をまた見せてあげるって…… / 　だから俺は<892b>まなきゃいけないんだ
+  2|LIT: <<TODO>>
+  3|EN : @All I can do is believe what
+  0 told me.@It's necessary to cut these
+ three roots to destroy the
+ main body of the Kuiper Belt.@Let's split the party
+ into four now!@Separate units will attack
+ each root and the fourth unit
+ will attack the main body.
+  4|RE : <<TODO>>
+
+[JP#7179] gaps=2  aln=MED->US#7019  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「それに、これほど守いがいのある相手は / 　そうそういまい[10][0c]「いまはただ<f041><f041> / 　魔を守う英となりて戦うのみッ！
+  2|LIT: <<TODO>>
+  3|EN : @All I can do is believe what
+  0 told me.@It's necessary to cut these
+ three roots to destroy the
+ main body of the Kuiper Belt.@Let's split the party
+ into four now!@Separate units will attack
+ each root and the fourth unit
+ will attack the main body.
+  4|RE : <<TODO>>
+
+[JP#7180] gaps=2  aln=MED->US#7020  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「いまはただ<f041><f041> / 　魔を守う英となりて戦うのみッ！
+  2|LIT: <<TODO>>
+  3|EN : @It's necessary to cut these
+ three roots to destroy the
+ main body of the Kuiper Belt.@Let's split the party
+ into four now!@Separate units will attack
+ each root and the fourth unit
+ will attack the main body.
+  4|RE : <<TODO>>
+
+[JP#7181] gaps=1  aln=MED->US#7021  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「なんでわらわがここまで出男らねば / 　ならぬのじゃ！[10][0c]「ちゃっちゃとやっつけて / 　わらわの雄大さを険世界に<893a>さねばッ！
+  2|LIT: <<TODO>>
+  3|EN : @Let's split the party
+ into four now!@Separate units will attack
+ each root and the fourth unit
+ will attack the main body.
+  4|RE : <<TODO>>
+
+[JP#7182] gaps=1  aln=MED->US#7022  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「ちゃっちゃとやっつけて / 　わらわの雄大さを険世界に<893a>さねばッ！
+  2|LIT: <<TODO>>
+  3|EN : @Separate units will attack
+ each root and the fourth unit
+ will attack the main body.
+  4|RE : <<TODO>>

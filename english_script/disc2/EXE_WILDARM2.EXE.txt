@@ -1,0 +1,1447 @@
+# Disc2 /EXE/WILDARM2.EXE — 1416 strings
+
+@0x00004c Sony Computer Entertainment Inc. for North America area
+@0x0008d0 (%04X %04X %04X)%2d %3d(%3d) %d
+@0x0008f0 (%4d %4d %4d)
+@0x000c2c %02d %02d
+@0x0019a3           Altaecia
+@0x0019b6         Marina
+@0x0019c5           Colette
+@0x0019d7          Billy
+@0x0019e6            Tony
+@0x0019f6             Scott
+@0x001a08            Rassyu
+@0x001a1a           Amy
+@0x001a28              Kate
+@0x001a3a             Erwin
+@0x001a4c            Terry
+@0x001a5d            Pooka
+@0x0020b1 Heal Berry
+@0x0020bd Big Berry
+@0x0020c8 Mega Berry
+@0x0020e3 Full Revive
+@0x002106 Violet Rose
+@0x002113 Pixie Dust
+@0x002129 Toy Hammer
+@0x002141 Peppy Acorn
+@0x00214e War Respite
+@0x002167 Lucky Card
+@0x00217a Crest E
+@0x002183 Crest S
+@0x00218e Crest Cap
+@0x002199 Crest Cap 1
+@0x0021a6 Crest Cap 2
+@0x0021b3 Crest Cap 3
+@0x0021c0 Full Carrot
+@0x0021cd Mini Carrot
+@0x0021da Bullet Load
+@0x0021ed STR Apple
+@0x0021f8 VIT Apple
+@0x002203 SOR Apple
+@0x00220e RES Apple
+@0x002219 Mecha Boost
+@0x002226 Tiny Flower
+@0x00225e Map Scope
+@0x002275 Gimel Coin
+@0x0022bc Viper Fang
+@0x0022c8 Earth Groan
+@0x0022d5 Water Drip
+@0x0022e1 Fire Rage
+@0x0022ec Zephyr Claw
+@0x002311 Light Flash
+@0x00231e Pitch Dark
+@0x002335 Hazel Sprig
+@0x002342 Silver Harp
+@0x00234f Blue Anklet
+@0x00235c Clear Chime
+@0x002369 Memo Pen
+@0x002375 Gaze Mirror
+@0x002382 Heart Leaf
+@0x002390 Full Libra
+@0x00239c Earth Ring
+@0x0023a8 Water Ring
+@0x0023b4 Fire Ring
+@0x0023bf Wind Ring
+@0x0023ca Thor Ring
+@0x0023d5 Light Ring
+@0x0023e1 Dark Ring
+@0x0023ec Ice Ring
+@0x002400 Life Orb
+@0x00240a Force Unit
+@0x002418 Power Boost
+@0x002425 Mystic Word
+@0x002432 Secret Sign
+@0x00243f Holy Tablet
+@0x002461 Kid Gloves
+@0x002492 Teddy Bear
+@0x00249e Coin Purse
+@0x0024b7 Holy Grail
+@0x0024d0 Elven Boots
+@0x0024dd Odd Sandals
+@0x0024ea Elven Cloak
+@0x002516 Rhino Shot
+@0x002522 Riot Ram
+@0x002537 Raid Blast
+@0x002543 Dual Shot
+@0x00255b D Bison
+@0x002564 Sonic Burst
+@0x002573 Obelisk Gun
+@0x002586 Shootn Star
+@0x002595 Jean Jacket
+@0x0025a2 Hard Jumper
+@0x0025af Flak Jacket
+@0x0025bc Ti Jacket
+@0x0025c7 Chain Mail
+@0x0025d3 Full Metal
+@0x0025df Bounty Gard
+@0x0025ec Trench Coat
+@0x0025f9 Cloth Coat
+@0x002607 Red Jacket
+@0x002619 Nine Lives
+@0x002627 Cowboy Hat
+@0x002633 10-Gal Hat
+@0x00263f Red Cap
+@0x002648 Migrant Hat
+@0x002655 Lone Wolf
+@0x002660 Sunbird Hat
+@0x00266f Texas No.
+@0x0026a7 Gay Parasol
+@0x0026b4 Elf Parasol
+@0x0026d6 Bow Parasol
+@0x0026e5 Pulbo Calbo
+@0x0026f8 Black Queen
+@0x002707 Breeze Cape
+@0x002714 Mage Robe
+@0x00271f Mist Blazer
+@0x00272c Purple Vest
+@0x002739 Silky Robe
+@0x002745 Shield Cape
+@0x002752 Maygas Robe
+@0x00275f Azure Vest
+@0x00276b Shiny Cape
+@0x002779 Blue Blazer
+@0x00278c Bridal Gown
+@0x0027a5 Cute Ribbon
+@0x0027c6 Blue Ribbon
+@0x0027d3 Moon Pin
+@0x0027e6 Iron Fist
+@0x0027f1 Hammer Fist
+@0x0027fe Punch Drunk
+@0x00280b Knuckle Arm
+@0x002818 Crisis Arm
+@0x002824 Mirage Hand
+@0x00283b 100 Knuckle
+@0x002848 Giant Fist
+@0x00285c Omega Crush
+@0x00286d Army Vest
+@0x002878 Ti Plate
+@0x002882 Travel Vest
+@0x00288f Camo Vest
+@0x00289a Metal Plate
+@0x0028b2 Best Vest
+@0x0028dc Braver Vest
+@0x0028f7 Head Gear
+@0x002902 Hard Gear
+@0x00290d Plus Band
+@0x002918 Hyper Gear
+@0x002926 Dead Heat
+@0x002933 Magic Staff
+@0x002940 Dream Wand
+@0x00294c Rune Staff
+@0x002958 Magic Wand
+@0x002964 Crest Wand
+@0x002970 Holy Staff
+@0x00297e Fate Staff
+@0x002990 Dist Dims
+@0x00299b Chic Poncho
+@0x0029a8 Sand Poncho
+@0x0029b5 Cute Bolero
+@0x0029c2 Sun Poncho
+@0x0029ce Blue Wind
+@0x0029d9 Safe Bolero
+@0x002a06 White Plume
+@0x002a13 Eagle Quill
+@0x002a20 Lucky Comb
+@0x002a2c Mir Feather
+@0x002a3b Nisaba Wing
+@0x002a52 Main Gauche
+@0x002a5f Bright Edge
+@0x002a6c Quick Knife
+@0x002a8b Breast Mail
+@0x002aa2 White Chest
+@0x002ac0 Coiste Bua
+@0x002ad5 Silver Circ
+@0x002aec Hob & Nob
+@0x002af7 Hob & Nob
+@0x002b02 Hob & Nob
+@0x002b0d Hob & Nob
+@0x002b18 Black Cape
+@0x002b24 Ebony Shade
+@0x002b31 Bloody Cape
+@0x002b49 Mad Goggles
+@0x002b63 Ankh Cross
+@0x002b80 Data Tablet
+@0x002b9d High Crest
+@0x002bee Moor Gault
+@0x002c04 Noua Shax
+@0x002c0f Stare Roe
+@0x002c1a Leitea Salk
+@0x002c27 Aru Sulato
+@0x002c3f Ge Ramtos
+@0x002c53 Dan Dairam
+@0x002c8b Jail Card
+@0x002cb6 Boss Symbol
+@0x002cc3 Adult Mag
+@0x002cda Secret Key
+@0x002ce6 Moon Piece
+@0x002cf2 Star Piece
+@0x002cfe Cloud Piece
+@0x002d0b Sun Piece
+@0x002d1e Eat My Dust
+@0x002d2b Tablet 1
+@0x002d35 Tablet 2
+@0x002d3f Tablet 3
+@0x002d49 Bridge Key
+@0x002d55 Stone Drago
+@0x002d62 Stone God
+@0x002d6d Stone Lion
+@0x002dcc Blast 'Em
+@0x0033e8 Restores 500 HP/Single
+@0x0033ff Restores 2000 HP/Single
+@0x003417 Restores all HP/Single
+@0x00342f Revives a fallen character/Single
+@0x003451 Revives character to full HP/Single
+@0x003476 Cures '
+@0x003486 00' Poisons/Single
+@0x003499 Cures '
+@0x0034a1 02 Disease'/Single
+@0x0034b4 Cures '
+@0x0034bc 04 Ability Block'/Single
+@0x0034d5 Cures '
+@0x0034dd 10 Paralysis'/Single
+@0x0034f2 Cures '
+@0x0034fa 07 Confusion'/Single
+@0x00350f Cures '
+@0x003517 03 Forgetfulness'/Single
+@0x003531 Cures '
+@0x003539 12 Petrification'/Single
+@0x003552 Cures '
+@0x00355a 05 Downhearted' state/Single
+@0x003577 Cures all abnormal states/Single
+@0x003599 Cures all & restores full HP/Single
+@0x0035bd 2X EXP and Gella earned in battle
+@0x0035df Card for inscribing spells on
+@0x0035fd Casts spell using half the FP
+@0x00361b Multiplies magic power by 1.5
+@0x00363a Fill with a spell at a Magic Guild
+@0x00365d Filled with a spell at a Magic Guild
+@0x003682 Boosts force gage to the MAX
+@0x00369f Boosts force gage by 1 level
+@0x0036bc Reloads an ARM with bullets
+@0x0036d9 Ups STR/Single
+@0x0036e8 Ups VIT/Single
+@0x0036f7 Ups SOR/Single
+@0x003706 Ups RES/Single
+@0x003715 Ups attack power of Pol & Pot
+@0x003733 A pure white pretty flower
+@0x00374f Coupon for the monster album
+@0x00376c For warping between towns
+@0x003787 Displays a map of the field outside
+@0x0037ab Key opens closed doors and chests
+@0x0037cd Adds 1 Continue chance
+@0x0037e4 Shooting item/Level 1
+@0x0037fa Shooting item/Level 2
+@0x003810 Shooting item/Level 3
+@0x003826 Shooting item/Level 4
+@0x00383c Shooting item/Level 5
+@0x003852 Shooting item/Level 6
+@0x003868 Shooting item/Level 7
+@0x00387e Shooting item/Level 8
+@0x00394f Nullifies '
+@0x003963 00' Poisons
+@0x00396f Nullifies '
+@0x00397b 02 Disease'
+@0x003987 Nullifies '
+@0x003993 04 Ability Block'
+@0x0039a5 Nullifies '
+@0x0039b1 10 Paralysis'
+@0x0039bf Nullifies '
+@0x0039cb 07 Confusion'
+@0x0039d9 Nullifies '
+@0x0039e5 03 Forgetfulness'
+@0x0039f8 Nullifies '
+@0x003a04 12 Petrification'
+@0x003a16 Nullifies '
+@0x003a22 05 Downhearted' state
+@0x003a39 Nullifies all status abnormality
+@0x003a5a Adds Earth to normal attacks
+@0x003a77 Adds Water to normal attacks
+@0x003a94 Adds Fire to normal attacks
+@0x003ab0 Adds Wind to normal attacks
+@0x003acc Adds Lightning to normal attacks
+@0x003aed Adds Light to normal attacks
+@0x003b0a Adds Darkness to normal attacks
+@0x003b2a Adds Ice to normal attacks
+@0x003b45 Restores HP after each combat turn
+@0x003b68 Restores full HP at end of combat
+@0x003b8a Doubles force increase of the wearer
+@0x003bb0 Increases the strength of the wearer
+@0x003bd5 Magical book that ups sorcery power
+@0x003bf9 Item that ups physical defense
+@0x003c18 Increases luck by 1 level
+@0x003c32 Increases luck by 2 levels
+@0x003c4d Stops luck from dropping at an inn
+@0x003c70 2X Gella earned on a 1/3 probability
+@0x003c95 Dies and revives fallen character
+@0x003cb8 Nullifies sudden death attacks
+@0x003cd7 Prevents surprise or fighting alone
+@0x003cfb Gains surprise on a 1/3 probability
+@0x003d1f Increases encounters when worn
+@0x003d3e Extends the cancel period when worn
+@0x003d63 Symbol of the legendary hero
+@0x003d80 Weapon for a Gun Warrior
+@0x003d9a Weapon for a Gun Warrior
+@0x003db4 Weapon for a Gun Warrior
+@0x003dce Protective gear for a Gun Warrior
+@0x003df1 Protective gear for a Gun Warrior
+@0x003e14 Protective gear for a Gun Warrior
+@0x003e37 Protective gear for a Gun Warrior
+@0x003e5a Protective gear for a Gun Warrior
+@0x003e7c Weapon for Crest Sorceress
+@0x003e98 Weapon for Crest Sorceress
+@0x003eb4 Weapon for Crest Sorceress
+@0x003ed0 Protective gear for Crest Sorceress
+@0x003ef5 Protective gear for Crest Sorceress
+@0x003f1a Protective gear for Crest Sorceress
+@0x003f3f Protective gear for Crest Sorceress
+@0x003f64 Protective gear for Crest Sorceress
+@0x003f88 Weapon for a Deserter
+@0x003f9e Weapon for Prisoner 666
+@0x003fb7 Weapon for Prisoner 666
+@0x003fd0 Protective gear for a Deserter
+@0x003fef Protective gear for Prisoner 666
+@0x004011 Protective gear for Prisoner 666
+@0x004033 Protective gear for a Deserter
+@0x004052 Protective gear for Prisoner 666
+@0x004074 Protective gear for Prisoner 666
+@0x004096 Weapon for a Zoa Priest
+@0x0040af Weapon for a Zoa Priest
+@0x0040c8 Weapon for a Zoa Priest
+@0x0040e0 Protective gear for a Zoa Priest
+@0x004102 Protective gear for a Zoa Priest
+@0x004124 Protective gear for a Zoa Priest
+@0x004146 Protective gear for a Zoa Priest
+@0x004167 Weapon for a Bounty Hunter
+@0x004183 Weapon for a Bounty Hunter
+@0x00419e Protective gear for a Bounty Hunter
+@0x0041c3 Protective gear for a Bounty Hunter
+@0x0041e8 Protective gear for a Bounty Hunter
+@0x00420c Weapon for a Crimson Noble
+@0x004227 Protective gear for a Crimson Noble
+@0x00424c Protective gear for a Crimson Noble
+@0x004271 Weapon for a Sword Saint
+@0x00428a Protective gear for a Sword Saint
+@0x0042ad Three broken tablets
+@0x0042c3 John Day's magic book
+@0x0042da Medium [Earth]/Defencer
+@0x0042f2 Medium [Water]/Analyze
+@0x004309 Medium [Fire]/Smash Hit
+@0x004321 Medium [Wind]/Pickpocket
+@0x00433a Medium [Lightning]/Aiming
+@0x004354 Medium [Light]/Shoot Item
+@0x00436e Medium [Darkness]/Counterattack
+@0x00438e Medium [Snow]/Power Charge
+@0x0043a9 Medium [Star]/Artifact
+@0x0043c0 Medium [Death]/Hide in Shadows
+@0x0043df Medium [Life]/Dig Out
+@0x0043f5 Medium [Spacetime]/Move Canceller
+@0x004417 Medium [Love]/Invincible
+@0x004430 Medium [Courage]/Branch Zap
+@0x00444c Medium [Hope]/Force Charge
+@0x004467 Medium [Luck]/Randomizer
+@0x004481 Jail cell key
+@0x00448f Stone that emits an odd light
+@0x0044ad Energy crystal
+@0x0044bc This is the proof of the Boss!
+@0x0044db Don't look, kids!
+@0x0044ed Voice recorder
+@0x0044fd Key stolen from Golpa
+@0x004513 Piece in the shape of the moon
+@0x004532 Piece in the shape of a star
+@0x00454f Piece in the shape of a cloud
+@0x00456d Piece in the shape of the sun
+@0x00458b Letter from the King of Meria Boule
+@0x0045af Special explosive shell
+@0x0045c7 Wreckage recovered from Varukisas
+@0x0045e9 Key to the Gate Bridge
+@0x004600 Statue in the shape of a dragon
+@0x004620 Statue in the shape of a goddess
+@0x004641 Statue in the shape of a lion
+@0x00465f Purple crystal globe
+@0x004674 Confiscated equipment
+@0x00468a Bayonet cartridge
+@0x007d58 %3d/%d (%d%%)
+@0x007fbb Cards collected:
+@0x007fd8 Mastered 
+@0x007ff4 Personal skills
+@0x008004 PS points
+@0x008017 Force abilities
+@0x00802c Custom command
+@0x00803c Auto Battle on
+@0x00804c Auto Battle off
+@0x008077 Original powers
+@0x008118 <Can Steal>
+@0x008124 Monster isn't registered
+@0x0081e3 button ends
+@0x008225 Commonly-Used Items
+@0x00823a Event Items
+@0x008247 Equipped Items
+@0x008284 Cannot remove
+@0x0082bd Change Places
+@0x0082cc Change Party
+@0x0082e9 <You can move here>
+@0x0084a9 Use tool
+@0x0084c0 Change character
+@0x0084d1 Display map
+@0x0084dd Rotate right
+@0x0084ea Rotate left
+@0x0084fb Restore defaults
+@0x00850c Start over
+@0x008517 Save and quit
+@0x00854c Screensaver 2
+@0x00855a Screensaver 3
+@0x008568 Screensaver 4
+@0x008576 Screensaver 5
+@0x008584 Screensaver 6
+@0x0085c4 Type A
+@0x0085cb Type B
+@0x0085d2 Type C
+@0x0085d9 Type D
+@0x0085e5 cancels battle
+@0x0085f4 starts battle
+@0x008602  - Adjust position
+@0x008615  - Restore default
+@0x008628  - Save and quit
+@0x008639  - Cancel
+@0x00869c 0: Use items you're carrying
+@0x0086c1 0: Bear weapons and armor
+@0x0086e2 0: Direct actions in battle
+@0x008707 0: Status of each character
+@0x00872a 0: Change the battle formation
+@0x008750 0: Contact using communicator
+@0x008776 0: See your Monster Cards
+@0x008799 0: Set play environment
+@0x0087b2 1Movie 1
+@0x0087bb 0: Opening 1
+@0x0087c9 1Movie 2
+@0x0087d2 0: Break 1
+@0x0087de 1Movie 3
+@0x0087e7 0: Ending 1
+@0x0087f4 1Movie 4
+@0x0087fd 0: Opening 2
+@0x00880b 1Movie 5
+@0x008814 0: Break 2
+@0x008820 1Movie 6
+@0x008829 0: Ending 2
+@0x00885e 0: Use item
+@0x008874 0: Reorder the items
+@0x008894 0: Organize items by category
+@0x0088b2 Put commonly-used items first
+@0x0088d0 Put event items first
+@0x0088e6 Put equipment items first
+@0x008900 Organize items as obtained and used
+@0x008940 0: Change weapons & armor
+@0x008965 0: Optimize weapons & armor
+@0x008981 Nothing equipped
+@0x008992 Choose no equipment here
+@0x0089cc Turn Auto Battle on
+@0x0089e0 Turn Auto Battle off
+@0x0089fc 0: Auto Battle for each character
+@0x008a55 0: Display each status
+@0x008a75 0: Display combat history
+@0x008a8f Character's parameters
+@0x008ab3 No personal skills
+@0x008ac6 Nothing equipped
+@0x008ae5 1Change Places
+@0x008af4 0: Swap single characters
+@0x008b0f 1Change Party
+@0x008b1d 0: Swap forward/back ranks
+@0x008b47 0: Contact using communicator
+@0x008b78 0: See your Monster Cards
+@0x008bc8 Change controller button assignment
+@0x008bec Switch between stereo and monaural
+@0x008c0f Turn the compass on or off
+@0x008c2a Change motion view system
+@0x008c44 Modify the menu cursors
+@0x008c5c Change command input in battle
+@0x008c7b Adjust TV display position
+@0x008c96 Change screensaver
+@0x008ca9 Change window design
+@0x008cbe Change icon design
+@0x008cd1 Change encounter cancel system
+@0x008cf0 Load saved games
+@0x008d80 Cut FP Use
+@0x008d91 Restore HP
+@0x008d9c Up Param.
+@0x008daf Adv. Guard
+@0x008dc2 Restore HP2
+@0x008dce Convert HP
+@0x008de6 Auto Guard
+@0x008df1 Down Guard
+@0x008dfc Up P Attack
+@0x008e08 Up M Attack
+@0x008e14 Up P Defend
+@0x008e20 Up M Defend
+@0x008f18 Cuts special ability FP use by -1
+@0x008f3a Ups HP added for going up levels
+@0x008f5b Restores HP when force level goes up
+@0x008f80 Ups param. when force level goes up
+@0x008fa4 Ups the critical attack probability
+@0x008fc8 Ups the advanced guard probability
+@0x008feb Ups the counter attack probability
+@0x00900e Restores HP when going up levels
+@0x00902f Converts remaining FP into HP
+@0x00904d Ups RES when near death
+@0x009065 Ups FP when near death
+@0x00907c Defends when near death
+@0x009094 Ups sudden death attack resistance
+@0x0090b7 Ups damage from physical attacks
+@0x0090d8 Ups damage from magical attacks
+@0x0090f8 Cuts damage from physical attacks
+@0x00911a Cuts damage from magical attacks
+@0x00913b Ups resistance to poison/vile poison
+@0x009160 Ups resistance to disease
+@0x00917a Ups resistance to forgetfulness
+@0x00919a Ups resistance to ability blocking
+@0x0091bd Ups resistance to downhearted state
+@0x0091e1 Ups resistance to confusion
+@0x0091fd Ups resistance to nightmares/sleep
+@0x009220 Ups resistance to paralysis
+@0x00923c Ups resistance to petrification
+@0x009ceb Blast 'Em
+@0x009d12 AM Cluster
+@0x009d27 Mini Scud
+@0x009d31 Sky Eye
+@0x009d39 Rail Gun
+@0x009d42 EZ Missile
+@0x009d53                Flame
+@0x009d68                Vortex
+@0x009d7e               Aqua
+@0x009d91                 Spark
+@0x009da7                Freeze
+@0x009dbd               Dispel
+@0x009dd2               Heal
+@0x009de5                 Revive
+@0x009dfc               MageWeapon
+@0x009e15           Shield
+@0x009e26               Protect
+@0x009e3c              Quick
+@0x009e4f                Reflect
+@0x009e66              Rise&Shine
+@0x009e7e           Air Screen
+@0x009e93           Hi-Break
+@0x009ea6             Hi-Flame
+@0x009ebb             Hi-Vortex
+@0x009ed1            Hi-Aqua
+@0x009ee4              Hi-Spark
+@0x009efa             Hi-Freeze
+@0x009f10            Saber
+@0x009f21                Hi-Heal
+@0x009f38              Hi-Revive
+@0x009f4f            HypeWeapon
+@0x009f65           Armor Down
+@0x009f7a           Irresist
+@0x009f8d             Slowdown
+@0x009fa2             Might Body
+@0x009fb9           Field
+@0x009fc9                Restore
+@0x009fe0              Rock Bolt
+@0x00a000 Water Gun
+@0x00a013 Red Beaut
+@0x00a01d Napalm Hit
+@0x00a028 Sonic Claw
+@0x00a03b Ice Beam
+@0x00a055 Plasma Tap
+@0x00a060 Arrow Shot
+@0x00a06b Nova Rain
+@0x00a075 Black Gate
+@0x00a080 Dark Star
+@0x00a093 Cosmic Ray
+@0x00a09e First Aid
+@0x00a0b3 Arcana 13
+@0x00a0bd Thanatos X
+@0x00a0c8 Speed Down
+@0x00a0d3 Full Heal
+@0x00a0dd Bold Lance
+@0x00a0fe Lucky Word
+@0x00a109 Wolf Fang
+@0x00a113 Last Fang
+@0x00a134 Mad Lucied
+@0x00a140 Left Edge
+@0x00a14a Pike Kick
+@0x00a154 Drive Cut
+@0x00a15e Wire Fist
+@0x00a168 Arc Kick
+@0x00a171 Vortex Cut
+@0x00a184 Eagle Claw
+@0x00a18f Life Drain
+@0x00a19a Skil Drain
+@0x00a1a5 Rock Gazer
+@0x00a1b0 Tera Break
+@0x00a1df Air Slash
+@0x00a20c Absolute 0
+@0x00a241 Power Seal
+@0x00a24c Status Lok
+@0x00a28a Erg Phasor
+@0x00a29e Esc Down
+@0x00a2b2 Def Down
+@0x00a2d8 Air Guard
+@0x00a2ec Hot Fencer
+@0x00a300 Hot Fencer
+@0x00a30b Gun Blaze
+@0x00a31e Last Burst
+@0x00a33d Full Clip
+@0x00a34e Lock On
+@0x00a38b FP Shift
+@0x00a3ac Gat Lv.1
+@0x00a3b5 Gat Lv.2
+@0x00a3be Gat Lv.3
+@0x00a3c7 Gat Lv.4
+@0x00a3e7 Asgard 2
+@0x00a40c Rage Moon
+@0x00a43b Smash Hit
+@0x00a446 Power Charge
+@0x00a464 Hide in Shadows
+@0x00a474 Dig Out
+@0x00a487 Move Canceller
+@0x00a496 Branch Zap
+@0x00a4a1 Force Charge
+@0x00a4ed Viper Fang
+@0x00a4f8 Shoot Item
+@0x00a503 Gaia Crash
+@0x00a50e Caloric Nova
+@0x00a51b Spiral Typhoon
+@0x00a52a Water Catastrophe
+@0x00a53c Thunder Break
+@0x00a54a Snow White
+@0x00a555 Acacic Rewriter
+@0x00a565 Critical Heal
+@0x00a573 Magnetron Bomb
+@0x00a582 Assault Tide
+@0x00a58f Vapor Blast
+@0x00a59b Molecular Break
+@0x00a5ab Ice Coffin
+@0x00a5b6 Dash Corrida
+@0x00a5c3 Soul Deleter
+@0x00a5d0 Negative Zone
+@0x00a5de Operation Meteo
+@0x00a5ee Ge Maximum
+@0x00a5f9 Live Horn
+@0x00a603 Seraphim Goat
+@0x00a611 Justine Attack
+@0x00a620 Terra Faust
+@0x00a62c System Chronos
+@0x00a63b Lucky Shot
+@0x00a646 Lucky Shot
+@0x00a651 Advanced Guard
+@0x00a660 Series Attack
+@0x00a687 (Normal Attack)
+@0x00a6a5 Strength Thief
+@0x00a6bc Human Wave
+@0x00a6c7 Defensive Posture
+@0x00a6d9 Killer Bite
+@0x00a6ea Hunting Time
+@0x00a6f7 Short of Breath
+@0x00a707 Undead Howl
+@0x00a719 Shock Beam
+@0x00a743 Heavy Armor
+@0x00a74f Water Gun
+@0x00a759 Manly Menace
+@0x00a766 Asexual Repro
+@0x00a774 Ominous Inquiry
+@0x00a784 Laser Breath
+@0x00a791 Blade Claw R
+@0x00a79e Cross Blade Claw
+@0x00a7af Chest Buster
+@0x00a7bc Parasite Battalion
+@0x00a7cf Roaring Burst
+@0x00a7eb Olivier Juice
+@0x00a7f9 Horse Field Kick
+@0x00a80a Blade Claw L
+@0x00a817 Bullet Charge
+@0x00a827 Call for Help
+@0x00a846 Gat - Left Edge
+@0x00a856 Gat - Pike Kick
+@0x00a866 Gat - Drive Cut
+@0x00a876 Gat - Wire Fist
+@0x00a886 Gat - Arc Kick
+@0x00a895 Gat - Vortex Cut
+@0x00a8a6 Gat - Phalanx
+@0x00a8b4 Gat - Eagle Claw
+@0x00a8dd Incur My Wrath
+@0x00a8ec Blue Riot
+@0x00a8f6 4D Hypo Blast
+@0x00a904 4D Hypo Blast
+@0x00a912 Gate of Isolde
+@0x00a92b Ptolomea Dynamite
+@0x00a948 Incur My Wrath
+@0x00a957 Vermilion Disaster
+@0x00a96a Negative Flare
+@0x00a979 Atmosphere Reentry
+@0x00a98c Atmosphere Reentry
+@0x00a99f Galactic Explosion
+@0x00a9b2 Hyperion Inferno
+@0x00a9c3 Hyperion Inferno
+@0x00a9d4 Dark Star Bow
+@0x00a9e2 Dark Star Bow
+@0x00a9f0 Nuclear Sphere
+@0x00aa01 The 7th Moon
+@0x00aa0e Dragonic Blaster
+@0x00aa1f Dragonic Blaster
+@0x00aa31 Prohibited Spell??
+@0x00aa44 Hermes Megistos
+@0x00aa54 Acacic Rewriter
+@0x00aa6d Critical Heal
+@0x00aa82 Bubble Princess
+@0x00aa92 Runaway Oppression
+@0x00aaa5 Ripper Boomerang
+@0x00aabf Xenon Ray Force
+@0x00aae4 Black Nova
+@0x00aaef 1 Trillion Degrees
+@0x00ab0e Optical Havoc
+@0x00ab1c Sniper in Darkness
+@0x00ab42 Serpent Attack
+@0x00ab51 Contaminate Crust
+@0x00ab63 Stone Javelin
+@0x00ab77 Resonance Quake
+@0x00ab87 Planet Dust
+@0x00ab93 Steam Explosion
+@0x00aba8 Aqua Breath
+@0x00abb4 Fire Breath
+@0x00abc0 Space Q
+@0x00abc8 Flare Bomb
+@0x00abe3 Wind Ripper
+@0x00abef No Stinkin' Rules
+@0x00ac01 Hurricane Bolt
+@0x00ac10 Wind Edge
+@0x00ac1a Bubble Prince
+@0x00ac28 Frost Bomb
+@0x00ac33 White Dagger
+@0x00ac40 Blizzard Breath
+@0x00ac6e Thor's Hammer
+@0x00ac7c Abu Shock Light
+@0x00ac8c Anti-Ground Laser
+@0x00ac9e Solid Dark
+@0x00aca9 Magic Ball
+@0x00acb4 Aura Nova
+@0x00acbe Judgment Day
+@0x00acd1 Impact Bomber
+@0x00ad09 Knuckle Part
+@0x00ad1f Might Body
+@0x00ad2a Governor Off
+@0x00ad3f Day Crest
+@0x00ad6c Statue Form
+@0x00ad81 Strength Thief
+@0x00ad95 Pin Down
+@0x00ad9e Asexual Repro
+@0x00adb6 Stun Cloud
+@0x00add1 Flame Tongue
+@0x00adde Gas Cloud
+@0x00ade8 Gobs and Gobs!
+@0x00adf7 Pro Wrestling Star
+@0x00ae0a Gella Eater
+@0x00ae1b I Hate You!
+@0x00ae27 Buried Alive!
+@0x00ae3c Spoiled Brat
+@0x00ae49 Rhodon Breath
+@0x00ae61 Crab Brains
+@0x00ae75 Power Lord Mount
+@0x00ae8d Direct Voice
+@0x00ae9a Hah! Dance! Dance!
+@0x00aeb4 Tranquilizer Dart
+@0x00aec6 Regroup-No Retreat
+@0x00aed9 Whole-Body Attack
+@0x00aef4 Human Experiment
+@0x00af05 Heat Beam
+@0x00af10 Combination Form
+@0x00af22 Sweet Smell
+@0x00af2e Paralysis Bite
+@0x00af52 Death Bringer
+@0x00af60 Disease Cloud
+@0x00af6e Meteor Kick
+@0x00af7a Great Disaster
+@0x00af9d Unmodified Spell??
+@0x00afb0 Desert Tornado
+@0x00afbf Ozom Pulse
+@0x00afca Pure Literature
+@0x00afda Monster Beam
+@0x00afe7 Body Press
+@0x00aff2 Tail Smash
+@0x00affd Mega Crusher
+@0x00b01b Unclean Ones, Obey
+@0x00b02e Summon Undead
+@0x00b03c Ominously Inquire
+@0x00b04e Poison Injection
+@0x00b05f Paralyzing Stench
+@0x00b071 Petro Gaze
+@0x00b07c Paralysis Gaze
+@0x00b093 Die in Agony!
+@0x00b0a1 Space Emperor
+@0x00b0af Data Install
+@0x00b0cd Giant Knuckle
+@0x00b0db Megaton Attack
+@0x00b0ea Euthanasia Gas
+@0x00b102 Horn Spike
+@0x00b12a Mantis Fu
+@0x00b139 Thermionic Blast
+@0x00b14a Bug Poison
+@0x00b17f Arc en Ciel
+@0x00b18b Life Returner
+@0x00b199 Aura Bomber
+@0x00b1a5 Petro Touch
+@0x00b1b1 Toxic Breath
+@0x00b1be Power Up
+@0x00b1c7 High-Speed Edge
+@0x00b1d7 Global Warbird
+@0x00b1e6 Thunder Pulse
+@0x00b1f4 Plasma Leader
+@0x00b202 Flare Stream
+@0x00b20f Defensive Posture
+@0x00b22c Big Strength Thief
+@0x00b246 Cold Sleep
+@0x00b251 Brutal Fight
+@0x00b25e Blink Around
+@0x00b26b Poison Beam
+@0x00b277 Evil Eye
+@0x00b280 Poison Needle
+@0x00b28e Prepare to Attack
+@0x00b2a0 Deadly Poison
+@0x00b2b8 No Way, Meow!
+@0x00b2e6 Begin Regeneration
+@0x00b2f9 Dead End
+@0x00b302 Gaia Crash
+@0x00b30d Whitewater Slash
+@0x00b31e Don't Forget Me!
+@0x00b32f Caloric Nova
+@0x00b33c 40,000 Tons
+@0x00b348 Spiral Typhoon
+@0x00b357 You Guys, Help Me!
+@0x00b374 Schwartz Strahl
+@0x00b384 Wings of Death
+@0x00b39a Gob, Gob, Gob.
+@0x00b3a9 Gob Soul in a Bug
+@0x00b3bb Water Catastrophe
+@0x00b3dc Life Eater
+@0x00b3e7 Cross Bone
+@0x00b3f2 You will Fall!
+@0x00b401 Bear Hug
+@0x00b40a Chew Up
+@0x00b412 Thunder Break
+@0x00b420 Snow White
+@0x00b441 Gob Slash
+@0x00b450 Red Gilas
+@0x00b45a Endocrine Boost
+@0x00b473 Reaper's Lullaby
+@0x00b484 Ice Avalanche
+@0x00b492 Cold Sleep
+@0x00b4a8 Poison Breath
+@0x00b4b6 Blood Brothers
+@0x00b4c5 Sonic Howl
+@0x00b4d0 Gilas Spin
+@0x00b4db Hammer Swing
+@0x00b4e8 Red Barney Ability
+@0x00b4fb Homemade Bomb
+@0x00b509 Blue Bug Liquid
+@0x00b519 Strange Bomb
+@0x00b526 Red Bug Liquid
+@0x00b535 Chef's Whimsy Bomb
+@0x00b548 Mixed Bug Liquids
+@0x00b55a Bomb Punch
+@0x00b565 Dump Truck Tackle
+@0x00b577 Antitank Punch
+@0x00b586 Alter Ego Punch
+@0x00b596 Iron Saber
+@0x00b5b6 Void Effect
+@0x00b5c2 Leg Claw
+@0x00b5cb Summon Hero
+@0x00b5d7 RF Blade
+@0x00b5e8 Fire Crystal
+@0x00b5f5 Crystal Coat
+@0x00b602 Poison Bubble
+@0x00b61a Terrible Shade
+@0x00b629 Evil Quasar
+@0x00b635 Stun Gun Blow
+@0x00b643 Elebalt Corrida
+@0x00b66a Coldray Gimlet
+@0x00b683 39,000 Tons
+@0x00b68f Black Heart
+@0x00b69b Capillary Ray
+@0x00b6a9 Repulser Blast
+@0x00b6b8 Tranquilizer Gun
+@0x00b6c9 Armor Down
+@0x00b6d4 Life Force
+@0x00b6df Slimy Bind
+@0x00b6f5 Drill Drager
+@0x00b702 Kirlian Buster
+@0x00b711 Optochemical Bomb
+@0x00b723 Tidal Wave
+@0x00b73e Gas Pressure
+@0x00b74b Wormyweed Extract
+@0x00b75d Napweed Extract
+@0x00b76d Eleweed Extract
+@0x00b77d Reject All Fools
+@0x00b797 Shocking Guinea!
+@0x00b7a8 Hooky Bust
+@0x00b7bc Killer Maser
+@0x00b7c9 Ability Bind
+@0x00b7d6 Black Gilas
+@0x00b7eb Unmodified Spell??
+@0x00b7fe Death Parasite
+@0x00b80d Bubble Cluster
+@0x00b81c Giant Scissors
+@0x00b82b Mirror Coat
+@0x00b838 Blade Arm
+@0x00bb30 Bayonet attack/Single
+@0x00bb46 Attack with special shells/Group
+@0x00bb67 Shoot-slash combo attack/Single
+@0x00bb87 Possible instant-death attack/Single
+@0x00bbac Burrowing shockwave attack/Group
+@0x00bbcd High-voltage energy shells/Single
+@0x00bbef Wide-range shockwave attack/All
+@0x00bc0f Extreme shoot-slash combo/Single
+@0x00bc30 Fires mini grenades/Single
+@0x00bc4b Natural frequency-based attack/Group
+@0x00bc70 Anti-monster missile unit/All-random
+@0x00bc95 Attack with energy rounds/All
+@0x00bcb3 Portable missile launcher/Single
+@0x00bcd4 Satellite-ground beam attack/Group
+@0x00bcf7 Ship-mounted rail gun/Single
+@0x00bd14 Phase-shift missile weapon/All
+@0x00bd33 Earth elemental attack spell/Single
+@0x00bd57 Fire elemental attack spell/Single
+@0x00bd7a Wind elemental attack spell/Single
+@0x00bd9d Water elemental attack spell/Single
+@0x00bdc1 Lightning elemental attack/Single
+@0x00bde3 Ice elemental attack spell/Single
+@0x00be05 Dispels enemy spells/Single
+@0x00be21 Restores small amount of HP/Single
+@0x00be44 Revives a fallen character/Single
+@0x00be66 Ups physical attack power/Single
+@0x00be87 Ups physical defense power/Single
+@0x00bea9 Ups magical defense power/Single
+@0x00beca Ups RES value/Single
+@0x00bedf Reflects spells cast on you/Single
+@0x00bf02 Awakens and prevents sleep/Single
+@0x00bf24 Wind protection ups PRY value/Single
+@0x00bf49 Level 2 earth attack/Single
+@0x00bf65 Level 2 fire elemental attack/Single
+@0x00bf8a Level 2 wind elemental attack/Single
+@0x00bfaf Level 2 water attack/Single
+@0x00bfcb Level 2 lightning attack/Single
+@0x00bfeb Level 2 ice elemental attack/Single
+@0x00c00f Non-elemental attack spell/Single
+@0x00c031 Restores medium amount of HP/Single
+@0x00c055 Revives character to full HP/Single
+@0x00c079 Ups physical attack power/Single
+@0x00c09a Reduces physical defense power/Group
+@0x00c0bf Reduces magic resistance/Group
+@0x00c0de Reduces RES value/Group
+@0x00c0f6 Ups parameters in Auto combat/Single
+@0x00c11b Halves elemental damage/Single
+@0x00c13a Cures all status abnormality/Single
+@0x00c15e Guardian's Earth attack/Single
+@0x00c17d Guardian's Earth attack/Group
+@0x00c19b Guardian's Water attack/Single
+@0x00c1ba Guardian's Water attack/Group
+@0x00c1d8 Guardian's Fire attack/Single
+@0x00c1f6 Guardian's Fire attack/Group
+@0x00c213 Guardian's Wind attack/Single
+@0x00c231 Guardian's Wind attack/Group
+@0x00c24e Guardian's Ice attack/Single
+@0x00c26b Guardian's Ice attack/Group
+@0x00c287 Guardian's Lightning attack/Single
+@0x00c2aa Guardian's Lightning attack/Group
+@0x00c2cc Guardian's Light attack/Single
+@0x00c2eb Guardian's Light attack/Group
+@0x00c309 Guardian's Darkness attack/Single
+@0x00c32b Guardian's Darkness attack/Group
+@0x00c34c Guardian's non-elemental attack/All
+@0x00c370 Guardian's HP restoration/All
+@0x00c38e Turns undead with light/Single
+@0x00c3ad Drains life from a life form/Single
+@0x00c3d1 Protects from sudden death/All
+@0x00c3f0 Drops both RES and PRY values/Group
+@0x00c414 Restores all HP/Single
+@0x00c42b Guardian non-elemental attack/Single
+@0x00c450 Guardian's non-elemental attack/All
+@0x00c485 Ups luck by +1 in battle/All
+@0x00c4a2 Lucied's fang attack/Single
+@0x00c4be Final attack of the werewolf/Single
+@0x00c4e2 Causes damage with opponent's power
+@0x00c506 Protects party from normal attacks
+@0x00c529 Guardian power slash/Single
+@0x00c546 Attack with a built-in blade/Level 1
+@0x00c56b High-angle pike kick/Level 1
+@0x00c588 Double cut w/ built-in blade/Level 1
+@0x00c5ad Attack with a gimmick fist/Level 2
+@0x00c5d0 Double kick with energy arcs/Level 2
+@0x00c5f5 Piercing Xenon vortex attack/Level 3
+@0x00c61a Focused shockwave strike/Level 3
+@0x00c63b Bionic governor override!/Level 4
+@0x00c65d Drains HP from enemy to you/Single
+@0x00c680 Get Red Power from an enemy/Single
+@0x00c6a3 Earth elemental Red Power/Single
+@0x00c6c4 Earth elemental Red Power/All
+@0x00c6e2 Water elemental Red Power/Single
+@0x00c703 Water elemental Red Power/All
+@0x00c721 Fire elemental Red Power/Single
+@0x00c741 Fire elemental Red Power/All
+@0x00c75e Wind elemental Red Power/Single
+@0x00c77e Wind elemental Red Power/All
+@0x00c79b Lightning elemental Red Power/Single
+@0x00c7c0 Lightning elemental Red Power/All
+@0x00c7e2 Ice elemental Red Power/Single
+@0x00c801 Ice elemental Red Power/All
+@0x00c81d Darkness elemental Red Power/Single
+@0x00c841 Darkness elemental Red Power/All
+@0x00c862 Non-elemental Red Power/Single
+@0x00c881 Non-elemental Red Power/All
+@0x00c89d Red Power sleep attack/Group
+@0x00c8ba Special attack-blocking Power/Single
+@0x00c8df Status abnormality blocker/Single
+@0x00c901 Magic-blocking Red Power/Field
+@0x00c920 Non-element sacrifice attack/All
+@0x00c941 Merciless killing guillotine/Single
+@0x00c965 Banishes enemy to demon triangle/All
+@0x00c98a Ups parameters in Auto combat/Single
+@0x00c9af Non-elemental Red Power/Single
+@0x00c9ce Randomly casts a Red Power/???
+@0x00c9ed Drops PRY value of target to 0/Group
+@0x00ca12 Fires off last 4 digits of Gella/All
+@0x00ca37 Drops DFP and MGR values/Group
+@0x00ca56 Cancels actions in that turn/Group
+@0x00ca79 Restores abnormal states & HP/Single
+@0x00ca9e Ups DFP and MGR values/All
+@0x00cab9 Ups RES value with Wind protect/All
+@0x00cadd Prevents characters from falling/All
+@0x00cb02 Knight's disintegrator blade/Single
+@0x00cb26 Organic particle accelerator gun/All
+@0x00cb4b Knight's disintegrator blade/Single
+@0x00cb6f High-speed fission rounds/Single
+@0x00cb90 Organic particle accelerator gun/All
+@0x00cbb5 Final burst of living energy/Single
+@0x00cbd9 React faster to shoot first
+@0x00cbf5 Attack combining Pooka and a Medium
+@0x00cc19 Fire all remaining rounds at once
+@0x00cc3b Contact and release inner presence
+@0x00cc5e Ups ARM power with 100% hit rate
+@0x00cc7f Attack combining Pooka and a Medium
+@0x00cca3 Use two 'Heavy ARM' commands
+@0x00ccc0 Triples attack power of a heavy ARM
+@0x00cce4 Finds hidden effects of items
+@0x00cd02 Attack combining Pooka and a Medium
+@0x00cd26 Extends range, ups effects of spells
+@0x00cd4b Casts 2 'Crest Sorcery' commands
+@0x00cd6c Distributes your force among party
+@0x00cd8f Attack combining Pooka and a Medium
+@0x00cdb3 Divides the target's power in half
+@0x00cdd6 Pooka's ultimate Guardian attack
+@0x00cdf7 Force-based multilevel attack
+@0x00ce15 Powerful mole-type attacker
+@0x00ce31 Type '3' heavy armor attack
+@0x00ce4d Type '0' long-range air attack
+@0x00ce6c Modified Type '3' heavy armor attack
+@0x00ce91 Sword attack with power of friends
+@0x00ceb4 Argetlahm power restores all damage
+@0x00ced8 Slash enemy in a high-speed dash
+@0x00cef9 Moon power damages all enemies
+@0x00cf18 Sword attack with power of friends
+@0x00cf3b Argetlahm power restores all damage
+@0x00cf5f Analyze the parameters of the enemy
+@0x00cf83 Steal items from the enemy
+@0x00cf9e Attack with 1.5 x normal power: 75%
+@0x00cfc3 Ups next-turn normal attack damage
+@0x00cfe6 Attack with special items
+@0x00d000 Attack with better aim
+@0x00d018 Hide yourself to avoid danger
+@0x00d036 Discovers items on the battlefield
+@0x00d059 Become invincible until end of turn
+@0x00d07d Cancels moves on that turn
+@0x00d098 Extends normal attack to all enemies
+@0x00d0bd Ups the force gage
+@0x00d0d0 Randomly invokes original powers
+@0x00d0f2 Attack by throwing special items
+@0x00d2cd 0 ran away
+@0x00d2d9 0 & Co. ran away
+@0x00d2eb 0 achieved Level 
+@0x00d313 0 is exhausted
+@0x00d322 Probability that skill will fail
+@0x00d364 ran away
+@0x00d36d failed to escape
+@0x00d390 Level 
+@0x00d39f Weakness attribute
+@0x00d3b2 Got 
+@0x00d3c0 Acquired 
+@0x00d3cc  Gella
+@0x00d3d5 Formula number 
+@0x00d3e7 0 & Co. are exhausted
+@0x00d3fd Cancel action of 
+@0x00d414 You have a Surprise!
+@0x00d429 You were Surprised!
+@0x00d444 0 acquired
+@0x00d45a 0 acquired
+@0x00d465 You surprised them!
+@0x00d479 You were Surprised!
+@0x00d4c6 Weakness attributes:                 
+@0x00d4f1 Weakness attributes: None
+@0x00d51b 0 acquired
+@0x00d526 Pickpocket failed
+@0x00d538 Nothing there
+@0x00d550 % increase
+@0x00d55b % decrease
+@0x00d566 An ally appeared
+@0x00d577 Increase attack power for next turn
+@0x00d59b Your friends caught up
+@0x00d5b2 Your friends caught up
+@0x00d5ca 0 must fight alone
+@0x00d5dd Back attack
+@0x00d5ea 0's chance
+@0x00d5f6 0 and Co.'s chance
+@0x00d609 Their friends caught up
+@0x00d621 Abilities blocked
+@0x00d63a 0 was sacrificed
+@0x00d64b Hmm?? No one here??
+@0x00d674 0 sparked
+@0x00d685 0 can be used
+@0x00d693 and time begins to move
+@0x00d6b5 Weakness attributes: Unknown
+@0x00d6d2 ARM rounds reloaded
+@0x00d706 Couldn't find anything
+@0x00d71f 's luck is 
+@0x00d747 0 was stolen
+@0x00d755  Gella was eaten!
+@0x00d767 Give me more Gella!
+@0x00d77b Nothing happened
+@0x00d78c The effect was completely neutralized!
+@0x00d7b3 Mastered 
+@0x00d834 0: Start attacking the enemy
+@0x00d858 0: Direct actions in battle
+@0x00d87c 0: Change weapons & armor
+@0x00d89d 0: Change formation
+@0x00d8ba 0: Escape from battle
+@0x00d8d9 0: Attack with normal weapon
+@0x00d8fe 0: Use any items you have
+@0x00d919 1Original Powers
+@0x00d92a 0: Use special commands
+@0x00d943 1Custom Command
+@0x00d953 0: Use Medium's powers
+@0x00d973 0: Reduces damage from attacks
+@0x00d993 1Can't run from this battle
+@0x00d9be Original Powers
+@0x00d9ce Custom Command
+@0x00d9e5 1Time is halted
+@0x00d9f8 1Cannot change places
+@0x00da11 1Cannot change equipment
+@0x00da2d 1Abilities are blocked
+@0x00da47 1Cannot use now
+@0x00da5a 1A mysterious power halts machines
+@0x00da80 1Can't escape!
+@0x00da92 1Cannot use |Bionic Arm|
+@0x00db88 Name entry
+@0x00dbc3 Enter name
+@0x00dbce Enter password
+@0x00dbe0 Item Shop
+@0x00dbea Edit Window
+@0x00dbf6 Edit Icon
+@0x00dc43 Enter spell name
+@0x00dc54 Change spell name
+@0x00ddc1 PS points
+@0x00de24 Change Name
+@0x00de31 Magic Symbol #1
+@0x00de42 Magic Symbol #2
+@0x00df25 No. items
+@0x00df2f No. owned
+@0x00e0c2 New Game
+@0x00e0cb MEMORY CARD Management
+@0x00e0ee Cancel delete
+@0x00e0fc Copies the selected saved game
+to Slot 
+@0x00e125 Deletes the selected saved game
+@0x00e145 Restores the last deleted game
+@0x00e164 Slot 1
+@0x00e16b Slot 2
+@0x00e172 Checking MEMORY CARD
+@0x00e187 New game
+@0x00e190 No games found
+@0x00e1a2 Play time
+@0x00e1ac Saved games from another title
+@0x00e1cb OK to load game?
+@0x00e1dc OK to save here?
+@0x00e1ed OK to start new game?
+@0x00e203   : OK to copy to MEMORY CARD in Slot 
+@0x00e22c   : OK to delete?
+@0x00e23e OK to restore last deleted game?
+@0x00e25f OK to format MEMORY CARD in Slot 
+@0x00e28b Load completed
+@0x00e29a Load failed
+@0x00e2ad Save completed
+@0x00e2bc Save failed
+@0x00e2d0 Copy completed
+@0x00e2df Copy failed
+@0x00e2f4 Delete completed
+@0x00e305 Delete failed
+@0x00e313 Restore completed
+@0x00e325 Restore failed
+@0x00e337 Cause of failure
+@0x00e348 - Hardware error
+@0x00e359 - Not enough free blocks
+@0x00e372 - File has same name as copy target
+@0x00e396 Formatting MEMORY CARD in Slot 
+@0x00e3b7 MEMORY CARD not inserted
+@0x00e3d0 Unformatted MEMORY CARD
+@0x00e3e8 Reading MEMORY CARD data
+@0x00e401 Please do not remove MEMORY CARD
+@0x00e422 OK to overwrite this game?
+@0x00e43d Format failed
+@0x010276 cd 
+@0x01360b           Brad
+@0x01361a             Lilka
+@0x01362c            Tim
+@0x01363b              Kanon
+@0x01364e            Marivel
+@0x013661          Anastasia
+@0x013674        Lucied
+@0x013682           (Ashley) 2
+@0x013697       (Ashley) 3
+@0x0136a8       (Ashley) 4
+@0x0136b9       (Ashley) 5
+@0x0136ca       (Brad) 2
+@0x013718 Gun Warrior
+@0x01372d C. Sorceress
+@0x01373a Zoa Priest
+@0x01375f Sword Saint
+@0x013774 Prisoner 666
+@0x013798 Over KnightB
+@0x0137d4 Heavy ARM
+@0x0137de C. Sorcery
+@0x0137e9 Guard Lore
+@0x0137f4 Bionic Arm
+@0x0137ff Red Power
+@0x01386c Hurl Knife
+@0x013877 Booty Call
+@0x013882 Flare Gun
+@0x01388c Kick Boots
+@0x0138a8 Fire Rod
+@0x0138b1 Freeze Rod
+@0x0138bc Change Rod
+@0x0138cd Air Ballet
+@0x0138d8 Mist Cloak
+@0x0138e3 Wire Hook
+@0x0138ed Rad Blades
+@0x0138f8 Jump Shoes
+@0x01390b Windup Key
+@0x013916 My Mike
+@0x01396c Throws knives at a distant point
+@0x01398d A handy radar for finding items
+@0x0139ad Shoots a flare above your head
+@0x0139cc Kicks something forcefully
+@0x0139e7 Blow away obstacles with a blast
+@0x013a08 Causes a local earthquake
+@0x013a22 Shoots a ball of fire
+@0x013a38 Shoots a ball of ice
+@0x013a4d Changes gems into blocks
+@0x013a66 Sends out the Sub-Spirit Pooka
+@0x013a85 Generates a powerful wind
+@0x013a9f Lets you move by changing into mist
+@0x013ac3 Multi-purpose wire with a hook
+@0x013ae2 Mechanical shoes let you zoom!
+@0x013b01 Jump high at certain places
+@0x013b1d Shoots a straight lightning bolt
+@0x013b3e Gives life to inanimate objects
+@0x013c1c Character acts as directed by player
+@0x013c41 Character does only normal attacks
+@0x013c64 Character acts like him/herself
+@0x0154d8 Palace Village
+@0x0154e7 T'Bok Village
+@0x0154f5 Town of Meria
+@0x015503 Meria Boule Castle
+@0x015516 Valeria Chateau
+@0x015526 Damzen City
+@0x015538 Sylvaland Castle
+@0x015558 Sielje Region
+@0x01556e Slayheim Castle
+@0x01557e Guild Galad
+@0x01558a Crimson Castle
+@0x015599 Urartu Station
+@0x0155a8 Withered Ruins
+@0x0155c1 Millennium Puzzle
+@0x0155d3 Sword Cathedral
+@0x0155e3 Illsveil Prison
+@0x0155f3 Under Traffic
+@0x015601 Telepath Tower
+@0x015610 Mt. Chug-Chug
+@0x01561e Live Reflector
+@0x01562d Golgotha Prison
+@0x01563d Aguel Mine Shaft
+@0x01564e Hidden Trial Arena
+@0x015661 Warwing Varukisas
+@0x015673 Gate Bridge
+@0x01567f Lost City Archheim
+@0x015692 Raline Observatory
+@0x0156a5 Alchemic Plant
+@0x0156b4 Emulator Zone
+@0x0156c3 Little Riddle
+@0x0156d1 Closed Mine Shaft
+@0x0156e3 Coffin of 100 Eyes
+@0x0156f6 Diablo P. Caina
+@0x015706 Diablo P. Antenora
+@0x015719 Diablo P. Ptolomea
+@0x01572c Diablo P. Judecca
+@0x01573e Heimdal Gazzo
+@0x01574c Millennium Puzzle
+@0x01575e Sacrificial Altar
+@0x015770 Grotto of Lourdes
+@0x015782 Lost Garden
+@0x01578e Sleeping Volcano
+@0x0157a0 Raypoint Flam
+@0x0157ae Raypoint Geo
+@0x0157bb Raypoint Wing
+@0x0157c9 Raypoint Muse
+@0x0157d7 Promised Catacombs
+@0x0157ea Fab Science Lab
+@0x0157fa Memory Maze
+@0x015807 Spiral Tower
+@0x015814 Glaive Le Gable
+@0x015824 Island Outpost
+@0x015833 Odd Headquarters
+@0x015845 Withered Ruins
+@0x015855 Fiery Wreckage
+@0x015864 Werewolf's Den
+@0x015873 Meteorite Crater
+@0x015884 Shining Garden
+@0x015893 Abandoned Icebox
+@0x0158a4 Dark Reason
+@0x0158b0 Pirate's Warren
+@0x0158c0 Good Luck Zone
+@0x0158cf Wind Tiger's Den
+@0x0158e0 Thunder Lion Cage
+@0x015901 Palace Village
+@0x015911 Filgaia Subspace
+@0x015923 Extra File
+@0x01592f Sword Cathedral
+@0x015cf1 > >A>B>C>D>E>F>G>H>h>u>v>
+@0x01694d  ' - C I Q W ` i x 
+@0x0169f7 $ $!$($D$K$g$t$
+@0x016b73 - -@-A-B-C-D-H-X-\-l-p-{-
+@0x016c49 [Alta] 1!1(1<1G1n1y1
+@0x018b00 Weakness attributes:                 
+@0x018da8 $Id: sys.c,v 1.140 1998/01/12 07:52:27 noda Exp yos $
+@0x018e14 SetGraphDebug:level:%d,type:%d reverse:%d
+@0x018e98 %s:bad RECT
+@0x018f88 GPU timeout:que=%d,stat=%08x,chcr=%08x,madr=%08x
+@0x0191e8 CdInit: Init failed
+@0x019354 CD timeout: 
+@0x019364 %s:(%s) Sync=%s, Ready=%s
+@0x019380 DiskError: 
+@0x0193a8 CDROM: unknown intr
+@0x0193f8 %s: no param
+@0x019410 $Id: bios.c,v 1.86 1997/03/28 07:42:42 makoto Exp yos $
+@0x019488 %s: path level (%d) error
+@0x0194a4 %s: dir was not found
+@0x0194bc CdSearchFile: disc error
+@0x0194d8 CdSearchFile: searching %s...
+@0x0194f8 %s:  found
+@0x019504 %s: not found
+@0x019514 CD_newmedia: Read error in cd_read(PVD)
+@0x019548 CD_newmedia: Disc format error in cd_read(PVD)
+@0x019578 CD_newmedia: Read error (PT:%08x)
+@0x01959c CD_newmedia: sarching dir..
+@0x0195d0 CD_newmedia: %d dir entries found
+@0x0195f4 CD_cachefile: dir not found
+@0x019614 CD_cachefile: searching...
+@0x019639 (%02x:%02x:%02x) %8d %s
+@0x019654 CD_cachefile: %d files found
+@0x019678 CdRead: sector error
+@0x019690 CdRead: Shell open...
+@0x0196a8 CdRead: retry...
+@0x0196e8 VSync: timeout
+@0x0196f8 $Id: intr.c,v 1.75 1997/02/07 09:00:36 makoto Exp $
+@0x01972c unexpected interrupt(%04x)
+@0x019748 intr timeout(%04x:%04x)
+@0x019768 DMA bus error: code=%08x
+@0x01dbbd fp&! 
+@0x01de65 fp$! 
+@0x025221 iI$!h 
+@0x0398a3 <ba 
+@0x04dd5f <8wc$! C
+@0x04e247 <8wc$! C
+@0x074e41  b0v
+@0x0835d7 <ub 
+@0x083883 <ub 
+@0x083997 <ub 
+@0x083b6b <ub 
+@0x0841c7 <ub 
+@0x08427f <ub 
+@0x0856cf <ub 
+@0x0857bb <ub 
+@0x08588b <ub 
+@0x085baf <mb 
+@0x085bb7 <gb 
+@0x08618f <mb 
+@0x086197 <gb 
+@0x0861e7 <mb 
+@0x0861ef <gb 
+@0x0861f7 <ub 
+@0x08641f <mb 
+@0x086427 <gb 
+@0x086443 <mb 
+@0x08644b <gb 
+@0x086453 <ub 
+@0x08a116 c0% b
+@0x0de056  
+#
+'
+*
+.
+2
+5
+9
+<
+@
+C
+G
+J
+N
+Q
+U
+X
+\
+_
+b
+f
+i
+m
+p
+t
+w
+z
+~
+
+@0x0de970 Error: Can't push matrix,stack(max 20) is full!
+@0x0de9a1 Error: Can't pop matrix,stack is empty!
+@0x0de9ca This function is not implemented.
+@0x0e3700 Library Programs (c) 1993-1997 Sony Computer Entertainment Inc., All Rights Reserved.
+@0x0e4e85  $(,048<@DHLPTX\`dh
+@0x0e4ea4  $(,048<@DHLPTX\`dhl
+@0x0e4ec3  $(,048<@DHLPTX\`dhlp
+@0x0e4ee2  $(,048<@DHLPTX\`dhlpt
+@0x0e4f01  $(,048<@DHLPTX\`dhlptx
+@0x0e4f20  $(,048<@DHLPTX\`dhlptx|
+@0x0e4f3f  $(,048<@DHLPTX\`dhlptx|
+@0x0e4f5e  $(,048<@DHLPTX\`dhlptx|
+@0x0e4f7d  $(,048<@DHLPTX\`dhlptx|
+@0x0e4f9c  $(,048<@DHLPTX\`dhlptx|
+@0x0e4fbb  $(,048<@DHLPTX\`dhlptx|
+@0x0e4fda  $(,048<@DHLPTX\`dhlptx|
+@0x0e4ff9  $(,048<@DHLPTX\`dhlptx|
+@0x0e5018  $(,048<@DHLPTX\`dhlptx|

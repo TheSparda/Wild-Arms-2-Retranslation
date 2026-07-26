@@ -1,0 +1,1643 @@
+# Disc1 /SYS/UTIL.OVR — 843 strings
+
+@0x004424 53TeVs 
+@0x0048c2 h4q 5sA
+@0x010424 53TeVs 
+@0x0108c2 h4q 5sA
+@0x013c1d ic$ 
+@0x015c24 53TeVs 
+@0x0160c2 h4q 5sA
+@0x01741d ic$ 
+@0x01bc24 53TeVs 
+@0x01c0c2 h4q 5sA
+@0x01e0c2 h4q 5sA
+@0x021c24 53TeVs 
+@0x0220c2 h4q 5sA
+@0x0240c2 h4q 5sA
+@0x027c24 53TeVs 
+@0x0280c2 h4q 5sA
+@0x029810 Might Body
+@0x029834 Armor Down
+@0x0298ac Air Screen
+@0x02a130 OKFLG%3d,STAT %3d
+@0x02a19c VCNT=%2d TRY=%d
+@0x0383a8  trc?
+@0x03b87c Evil Dead
+@0x03b8a4 Orgon Energy
+@0x03b9e4 Axe Beak
+@0x03bbc4 Clay Puppet
+@0x03bbec Earth Figure
+@0x03bc64 Geag Mantis
+@0x03bd2c Giant Crab
+@0x03bd54 Crab Bubbler
+@0x03bf84 Ant Lion
+@0x03c13c Fake Ashley 2
+@0x03c204 Fake Brad 2
+@0x03c22c Fake Lilka 2
+@0x03c36c Ninja Hound
+@0x03c394 Fake Tim 2
+@0x03c3bc Fake Kanon 2
+@0x03c434 Fairy Light
+@0x03c4ac Land Anemone
+@0x03c54c Odessa Man
+@0x03c574 Odessa Man 2
+@0x03c59c Odessa Man 3
+@0x03c704 Land Lamprey
+@0x03c7a4 Lilly Pad
+@0x03ca4c Assassin Bug
+@0x03cb64 Tiny Gem
+@0x03cc7c Pas de Chat
+@0x03ce0c Man Trap
+@0x03cf24 Skid Lancer
+@0x03cf4c Gila Monster
+@0x03cfc4 White Fear
+@0x03d104 Blue Snail
+@0x03d30c Gill Serpent
+@0x03d35c Deep One
+@0x03d4ec Beast Pillar
+@0x03d514 Wise Man
+@0x03d654 Melchom Lich
+@0x03d6cc Sand Crab
+@0x03d6f4 Rock Buster
+@0x03d71c Twin Tail
+@0x03d7bc Agion Red
+@0x03d7e4 Agion Blue
+@0x03d80c Agion Yellow
+@0x03d834 Agion Black
+@0x03d85c Agion White
+@0x03d8d4 Coral Eater
+@0x03d9ec Gela Cactus
+@0x03da14 Cactus Man
+@0x03da3c Sun Flayer
+@0x03dab4 Death Tiles
+@0x03db7c Zazan Bronzo
+@0x03dba4 Iron Maiden
+@0x03dc44 Big Critter
+@0x03dc6c Pill Bug
+@0x03dc94 Urchin Bug
+@0x03dd84 Rat Monkey
+@0x03ddac Dust Man
+@0x03de24 Gasnoid 1st
+@0x03df14 Mold Gnome
+@0x03dfdc Dalawa Bunny
+@0x03e004 Crash Bunny
+@0x03e0cc Cave Torus
+@0x03e0f4 Horn Monster
+@0x03e11c Jelly Blob
+@0x03e16c Blood Ruby
+@0x03e194 Hope Diamond
+@0x03e1e4 Mystical Pot
+@0x03e20c Blue Book
+@0x03e3c4 Water Leaper
+@0x03e414 M. Therion
+@0x03e52c Red Barney
+@0x03e75c Item Carrier
+@0x03e874 A Bao A Qu
+@0x03e8ec Rick Gob
+@0x03e914 Gel Gob
+@0x03ea04 Right Claw
+@0x03ea2c Left Claw
+@0x03eb1c Right Claw
+@0x03ebe4 Right Claw
+@0x03ec0c Left Claw
+@0x03edc4 Right Leg
+@0x03edec Left Leg
+@0x03ee3c Ragu O Ragula
+@0x03eeb4 Kobold King
+@0x03ef54 Right Pouch
+@0x03ef7c Left Pouch
+@0x03f01c Trask 2.0
+@0x03f1d4 Arms Killer
+@0x03f1fc Right Claw
+@0x03f224 Left Claw
+@0x03f24c Fake Brad
+@0x03f29c Right Claw
+@0x03f2c4 Left Claw
+@0x03f314 Left Head
+@0x03f33c Right Head
+@0x03f56c Right Claw
+@0x03f594 Left Claw
+@0x03f60c Shape Shifter
+@0x03f65c Fake Ashley
+@0x03f684 Fake Brad
+@0x03f6ac Fake Lilka
+@0x03f6d4 Fake Tim
+@0x03f6fc Fake Kanon
+@0x03f83c Shape Shifter
+@0x03f864 Shape Shifter
+@0x03f88c Shape Shifter
+@0x03f8b4 Shape Shifter
+@0x03f954 Flam Knight
+@0x03f97c Geo Knight
+@0x03f9a4 Wing Knight
+@0x03f9cc Muse Knight
+@0x03fbd4 Right Knee
+@0x03fbfc Left Knee
+@0x03fc4c Left Claw
+@0x03fc74 First Root
+@0x03fc9c Second Root
+@0x03fcc4 Third Root
+@0x03fcec Kuiper Core
+@0x03fd14 R. Shoulder
+@0x03fd3c L. Shoulder
+@0x03fd64 Lord Blazer
+@0x03fd8c Bad News
+@0x04147c Pas de Chat
+@0x04160c Man Trap
+@0x041724 Skid Lancer
+@0x04174c Gila Monster
+@0x0417c4 White Fear
+@0x041904 Blue Snail
+@0x041b0c Gill Serpent
+@0x041b5c Deep One
+@0x041cec Beast Pillar
+@0x041d14 Wise Man
+@0x041e54 Melchom Lich
+@0x041ecc Sand Crab
+@0x041ef4 Rock Buster
+@0x041f1c Twin Tail
+@0x041fbc Agion Red
+@0x041fe4 Agion Blue
+@0x04247b  iipe_Mu
+@0x042ca0  $ =rwZ
+@0x04303b wr (L
+@0x04339a @ Z}s#w&e
+@0x043d02 g pvsz
+@0x043f41 /&$ &/=Aq~y
+@0x0444f4 %-8-hq8$ 
+@0x044d21 x zt
+@0x0467db @ s'r
+@0x0469bf Wr#c e
+@0x047961 ^r `)o
+@0x047ead v t"
+@0x047fa5 yw=d 
+@0x0494a8 ~rc 
+@0x0494af c t~
+@0x049502 ogg ~~K
+@0x0495ee Btb 
+@0x04b7c6  m:o
+@0x04bc7b w0 v
+@0x04cb0f !3Ebuu?{}}qE/ 
+@0x04de95 me'* m;
+@0x04dfde  cst
+@0x04e603 b`d_d\\\9$ 
+@0x04fc7b w0 v
+@0x050b0f !3Ebuu?{}}qE/ 
+@0x051e95 me'* m;
+@0x051fde  cst
+@0x052603 b`d_d\\\9$ 
+@0x053c7b w0 v
+@0x054b0f !3Ebuu?{}}qE/ 
+@0x055e95 me'* m;
+@0x055fde  cst
+@0x056603 b`d_d\\\9$ 
+@0x057c7b w0 v
+@0x058b0f !3Ebuu?{}}qE/ 
+@0x059e95 me'* m;
+@0x059fde  cst
+@0x05cb0f !3Ebuu?{}}qE/ 
+@0x05de95 me'* m;
+@0x05dfde  cst
+@0x060831 0
+>It's me.
+ Give me a status report.
+@0x06085d 0 here.
+@0x060866 @There's been a cave-in,
+ but I think he will
+ be OK with our help.
+@0x0608ac 0
+>You said |he.|
+ What's going on?
+@0x0608d2 0
+@We found a traveling salesman who
+ was trapped by the cave-in.
+@0x060915 @But from here it's too far
+ to the Valeria Chateau
+ or to the Town of Meria.
+@0x060964 @And yet, we can't just
+ leave him here.
+@0x06098f 0
+>These communicators have a tracer
+ feature. Hold on a sec...
+@0x0609e8 >Good. You're near an exit
+ that leads to the south
+ through Under Traffic.
+@0x060a35 >From there, go 
+@0x060a51 0
+ to Damzen, an old mining town
+ at the base of the mountain.
+@0x060a91 >It's a lot closer than
+ the Valeria Chateau or
+ the Town of Meria.
+@0x060ad6 >I want you to take the
+ injured man there.
+ Can you do it, 
+@0x060b18 0
+@Roger. I'll do my best, sir.
+@0x060b51 0
+@It's me! Um...
+ Valeria Chateau, come in.
+@0x060b7f Calm female voice
+>Roger, this is Valeria Chateau.
+@0x060bb4 0
+@Whoa!
+ Hey, who's this?
+@0x060bd0 Childish female voice
+>Gosh, don't scare me like
+ that!
+@0x060c0a 0
+@Oh, brother...
+@0x060c1e 0
+>I'm sorry if I
+ frightened you.
+@0x060c43 0
+@Who on earth were they?
+@0x060c60 0
+>Those were Kate and Amy.
+ They are my operators.
+@0x060c95 Calm female voice
+>Hello. This is Kate.
+ Pleased to meet you.
+@0x060cd4 Childish female voice
+>Hiya! I'm Amy!
+@0x060cfb >Together, we're A&K!
+ Pleased ta meetcha!
+@0x060d28 0
+@Uh, likewise,
+ I'm sure.
+@0x060d46 0
+>They're telepaths. Contact via
+ Empathite would be impossible...
+@0x060d8b >without them.
+ They will be helping you
+ from now on.
+@0x060dc3 >... Now, what did
+ you want, anyway?
+@0x060deb 0
+@Oh, yeah.
+@0x060df9 @You know the Under Traffic
+ incident? It was no accident.
+@0x060e36 0
+>It was intentional?
+@0x060e4f 0
+@It sure looks that way.
+@0x060e6d 0,
+ what should we do?
+@0x060e86 0
+>I want you to continue your
+ search in the field.
+@0x060eec 0
+@Perfect timing. I just got an
+ important piece of info.
+@0x060f28 @Odessa was excavating the
+ Heimdal Gazzo. The plant's
+ energy must be for that.
+@0x060f83 9
+>No, it couldn't be that!
+ Well, that may just be it.
+@0x060fbc >Right at your point, at
+ your coordinates...!
+@0x060fed 0
+@Stop blabbering and
+ be more specific!
+@0x061019 8
+>A here. I took over for K
+ 'cause she had to, you know.
+@0x061055 >I detected a heat source
+ directly above you guys!
+@0x06108a >I get superfortress-class mass
+ and energy pressure! Makes the
+ Varukisas look like a joke!
+@0x0610e9 0
+@How could you miss something
+ like that till now?
+@0x061120 8
+>Gosh, it's not my fault!
+@0x06113e 0
+@I get it.
+ Just explain what happened.
+@0x06116a 8
+>They used the wizardry stealth
+ function to shift their phase.
+@0x0611ad >The Valeria Chateau's spotting
+ equipment is no match for
+ that kind of stuff.
+@0x0611fe >There's more...
+@0x061211 0
+@What? What is it?
+@0x061228 8
+>I pinpointed the focus of
+ the heat source's energy.
+@0x061261 >Looks like a carrier-based
+ Heavy ARM. It's big enough
+ to smash you all to bits!
+@0x0612b6 0
+@Why didn't you say that first?
+@0x0612d9 @Anyway, roger. We're getting
+ out of here right now.
+@0x061310 @If we die, we're coming back
+ from hell to haunt you!
+@0x061349 8
+>Gulp! Yikes!
+@0x06138d 0
+@It's me, 
+@0x06139f 0
+>You did well. I see black smoke
+ rising from the Varukisas.
+@0x0613e0 0
+@Yeah, but there's a slight
+ problem.
+@0x061409 @We're still inside Varukisas!
+ Release the anchor right away!
+@0x061449 @If you don't release it now,
+ the Chateau will crash too!
+@0x061492 0
+@I don't know where the
+ Varukisas will crash.
+@0x0614c4 @The ship could cause a major
+ disaster if it crashes here.
+ We must do something.
+@0x061519 0
+>What're you going to do?
+ Can you abandon ship?
+@0x06154e 0
+@I'll head for the cockpit...
+@0x06156f @Luckily, we're over the sea.
+ Maybe I can belly-land the
+ Varukisas on the water.
+@0x0615c4 0
+>Are you sure you can do it?
+@0x0615e5 0
+@I'll give it my best shot.
+ It's our only chance.
+@0x06161c 0
+>You can do it! Land that baby
+ and get your butt back here!
+@0x06167c 0
+>It's me.
+@0x06168a 0
+@Roger, 
+@0x061695 0 here.
+@0x06169f 0
+>We have an emergency here.
+ Here's the short version...
+@0x0616dc 0
+@Talk to me.
+@0x0616f1 2 has been abducted.
+@0x06170c 2? Abducted?
+ How?
+@0x061721 0
+>I'll tell you the rest later.
+ Return to the Valeria Chateau!
+@0x061764 0
+@Hmph.
+ Alright!
+@0x0617a4 0
+@Raypoint liberation complete!
+@0x0617c6 @Mana, the life blood of
+ Filgaia, is free!
+@0x0617f4 0
+>Sure seems that way.
+@0x06180d >I register an increase
+ in Mana here too.
+ This just might be the ticket!
+@0x061859 >Ask Meria Boule, Sylvaland and
+ Guild Galad for permission to
+ use the Live Reflectors!
+@0x0618b3 >We commence operations against
+ Kuiper Belt upon your return.
+ Return at once!
+@0x061904 >Over and out!
+@0x061969 9
+>This is Kate.
+@0x06197b >I've spotted a huge flying
+ object over the Town of Meria!
+@0x0619b8 >It registers the same heat and
+ size as the flying machine at
+ Mt. Keltepekio Siltolingelon!
+@0x061a18 0
+@That was the flying machine
+ Varukisas!
+@0x061a44 @Damn! It's too soon for
+ the next action!
+@0x061a71 9
+>Excuse me?
+@0x061a81 0
+@It's nothing. Never mind.
+@0x061a9f @We can't touch Odessa as long
+ as they keep their forces
+ airborne like that!
+@0x061af0 0
+>There's a way to get them.
+@0x061b14 0!
+ Do you have a plan?
+@0x061b2e 0
+>Well, it hasn't been tested, so
+ I'm not 100% sure...
+@0x061b68 >But then, this is no time
+ to sweat the details, eh?
+@0x061ba0 0
+@Alright. I'll leave it to you
+ to get us out of this mess.
+@0x061be0 0
+>First, hurry back to
+ the Valeria Chateau.
+@0x061c0f >Let the Town of Meria
+ Air War begin!
+@0x061c54 0
+@And that's that.
+@0x061c6a 0
+>Since you're near Quartly, I want
+ you to check out something there.
+@0x061cb3 >Despite the signal jamming,
+ we detected an unusual energy
+ waveform from the desert.
+@0x061d0b >It could be an Odessa facility
+ ...or even a main base.
+@0x061d46 0
+@Do you have the exact location?
+@0x061d6b 0
+>From here, it's a miracle that
+ we even picked up the signal.
+@0x061dad >The only way to pinpoint the
+ location is for you to comb
+ the desert area.
+@0x061e22 Radio Operator A
+>Sir, the Guard Robot is ready.
+@0x061e54 >This one has a bad radiator. A
+ sharp temperature change could
+ cause the robot to shut down.
+@0x061eb4 >Until the new radiator comes,
+ all we can do is improvise.
+@0x061ef1 Commander
+>Understood. Use string and gum
+ if you have to, soldier.
+@0x061f4b Radio Operator B
+>I think I left my code book
+ in a locker somewhere.
+@0x061f92 >Have you seen it?
+@0x061fa6 Radio Operator E
+>Sorry, I ain't seen it.
+@0x061fd1 >That thing's top secret! You'll
+ catch hell for losing it!
+@0x06200e Radio Operator B
+>I'd better find it right away!
+ But where could I have left it?
+@0x062076 Radio Operator C
+>Commander, it's time to change
+ the password.
+@0x0620b7 Commander
+>We're using |QOW| now, right?
+@0x0620e1 Radio Operator C
+>No, sir, that was the last one.
+ We're using |ONM| now.
+@0x06212c Commander
+>That's what I was about to say.
+@0x062158 >Anyhow, change the password
+ according to the code book.
+@0x062193 Radio Operator C
+>Yes, sir!
+@0x0621c5 Radio Operator D
+>It's pretty boring considering
+ the incursion by ARMS.
+@0x06220f Radio Operator G
+>I know. It's way too mellow.
+ Did ARMS really attack?
+@0x062258 Radio Operator D
+>Don't sweat it. Let the patrol
+ 'bots take care of 'em.
+@0x0622a3 >After all, there's no sense
+ putting ourselves in danger.
+@0x062300 Antenora
+>What has ARMS done since then?
+@0x06232a Radio Operator E
+>All we know is this, ma'am:
+@0x062359 >Several patrol 'bots have been
+ destroyed, but still no trace
+ of ARMS.
+@0x0623a3 Antenora:
+>Now get this straight, soldier.
+@0x0623cf >You and every other troop in
+ this plant is an elite Odessa
+ fighter. So no lame excuses.
+@0x06242b Radio Operator E
+>Yes, ma'am! Understood, ma'am!
+@0x06245d >We'll find those ARMS chumps
+ and hang 'em by their petards!
+@0x0624a9 Radio Operator E
+>I have a status report, sir.
+@0x0624d9 >Invading ARMS troops have
+ destroyed several guard
+ and patrol 'bots.
+@0x062521 Antenora:
+>I see. Those ARMS guys
+ have been lucky.
+@0x062556 >But we can't let them get any
+ further into the interior.
+ Tighten our defenses.
+@0x0625a9 Radio Operator E
+>Yes, ma'am!
+@0x0625dd Commander
+>Is that equipment check done?
+@0x062607 Radio Operator F
+>Yes, sir, almost finished.
+@0x062655 Radio Operator F
+>Did you hear me, sir?
+@0x06267e Commander
+>I heard you, soldier.
+@0x0626bd Commander
+>Alright, good work, son.
+@0x0626e2 >Now you are to help me track
+ down the ARMS intruders.
+@0x06271b Radio Operator F
+>Yes, sir. Consider me part of
+ the search team now.
+@0x06277f Radio Operator F
+>Wait a minute, sir.
+@0x0627a6 Commander
+>Aren't you done yet?
+@0x0627df Radio Operator F
+>Um, just a few more things...
+@0x062810 >Mop, recorder, flashlight.
+ One each, sir.
+@0x06283d Commander
+>Alright, then. Hold on a sec
+ while I start recording.
+@0x0628a8 0
+@This is 
+@0x0628b4 0.
+ All data tablets recovered.
+@0x0628d5 @Requesting further orders.
+@0x0628f3 0
+>Good job. Now return to
+ Meria Boule Castle immediately.
+@0x062957 0
+>The mission was a failure,
+ just like you warned us...
+@0x062992 >The Kuiper Belt released part
+ of itself just before the core
+ was sealed.
+@0x0629e0 0
+@You mean what we fought was
+ just...
+@0x062a0a 0
+>The tail of the lizard, yes.
+@0x062a2b >Anyway,
+ just come back to Valeria
+ Chateau.
+@0x062a5a >The Trapezohedron will
+ self-destruct any minute.
+@0x062aae 9
+>Oh, my... Holy...!
+ Oh, jeez, we're done for!
+@0x062ae1 0
+@Calm yourself down!
+ Just what is going on?
+@0x062b11 @We just found out something
+ horrible over here!
+@0x062b45 8
+>This is A. As usual, it's
+ pandemonium here.
+@0x062b78 0 and
+ 
+@0x062b80 1 are gone!
+ They're not in the Chateau.
+@0x062baa >They left a note, so we
+ know where they went.
+@0x062bdc 0
+@Understood! We'll hurry back
+ right now!
+@0x062c28 Kate
+>The data tablet pattern shows
+ they're now heading northwest.
+@0x062c6e 1
+@That's northwest from here...
+@0x062c90 @I bet they're trying to get
+ through Greenhell!
+@0x062cc2 Kate
+>Greenhell? Did you say
+ |Greenhell|?
+@0x062cef 1
+@Greenhell is a trail through
+ the northwest forest.
+@0x062d27 @The Greenhell trail is the
+ only way to escape this area.
+ Even animals can't get out.
+@0x062d81 0
+>The tablets' pattern still
+ indicates northwest movement.
+@0x062dbf >We'll just have to trust
+ 
+@0x062ddb 1. Follow them!
+ Stay on 'em like a bloodhound!
+@0x062e39 1Hidden in a Forest
+@0x062e4d 0 are the
+ Guardian-worshiping Baskar.
+@0x062e75 >Their village, Baskar Village,
+ is so well-hidden it's known
+ as the Hidden Town.
+@0x062ec9 >I only know that it's around
+ here somewhere. I'm afraid
+ you'll have to search on foot.
+@0x062f47 0
+>Your reaction pattern contains
+ some strange noise.
+@0x062f7f >Apparently you came into contact
+ with the Trapezohedron.
+@0x062fbb >The Trapezohedron is linked to
+ the Live Reflectors and serves
+ as a prison.
+@0x06300a >It must hold the powerful
+ Kuiper Belt, so it is built
+ to be incredibly strong.
+@0x06305d >So you only get one chance
+ to get to the Kuiper Belt.
+@0x063096 >The Kuiper Belt is a parallel
+ universe. It is like a giant
+ living entity.
+@0x0630e4 >By annihilating Kuiper Belt,
+ you can escape the grip
+ of the force field.
+@0x063131 >Failure is not an option.
+ You must prepare carefully
+ for this mission.
+@0x06317c >That is all.
+@0x0631ab 0
+>It's me.
+ What's your status?
+@0x0631ce 0
+@We've found out two things.
+@0x0631ee @One, in Damzen City we found
+ out about a suspicious group.
+@0x06322c @Two, they got into some
+ sort of broadcasting tower,
+ called |Telepath Tower.|
+@0x06327d @They may be involved in the
+ cave-ins.
+@0x0632a7 0
+>Those incidents could be the
+ work of a single group.
+@0x0632e1 >I want you to tail that group.
+@0x063302 >Telepath Tower is vital.
+ Without it, even these
+ communicators will be useless.
+@0x063356 0
+@Understood. We will
+ head for Telepath Tower.
+@0x0633a6 0
+>It's me.
+ From Damzen where you are...
+@0x0633d2 0
+@Is this about the flying
+ machine heading east?
+@0x063407 0
+>How did you know that?
+@0x063423 0
+@I just found out here
+ in this town.
+@0x06344c @Well, what should we do?
+@0x063468 0
+>They must be the terrorists who
+ issued the communique -- Odessa!
+@0x0634ae >They must have tampered with
+ Telepath Tower somehow and
+ are trying to get away.
+@0x063502 >Your next mission is to
+ stop Odessa in their tracks
+ immediately!
+@0x063559 0
+>One more thing.
+@0x06356d >Although I am commander
+ of ARMS...
+@0x063593 >I want you, 
+@0x0635a1 0,
+ to take command when
+ the time comes to fight.
+@0x0635d6 0
+@Me? Lead the attack?
+@0x0635f0 0
+>That's right. After all,
+ you're the team leader.
+@0x063627 0
+@Yes, sir! I will commence the
+ pursuit of Odessa at once!
+@0x063692 0
+>Well done, everyone!
+@0x0636ab >Cutting off the energy supply
+ from the Diablo Pillars has
+ disabled the stealth function.
+@0x063708 >Heimdal Gazzo is now naked to
+ the world and showing up on
+ our radar!
+@0x063751 >Heimdal Gazzo has come to a
+ stop far south of Sielje!
+ We can't waste this chance!!
+@0x0637a8 >Hurry back to Valeria Chateau!
+ We're going to try to force
+ Heimdal Gazzo to land!
+@0x0638a3 >Bzzz... Hiss... (Radio static)
+@0x0638d3 *Clever jamming has rendered
+ the communicators inoperable.
+@0x06391a Kate
+>Give my regards to
+ the Chief, everyone.
+@0x06394a Amy
+>Oh, come on, Kate!
+ Don't look so gloomy!
+@0x063988 >Amy's right. Cheer up,
+ mademoiselle.
+@0x0639b0 Amy
+>See? I was right. Yeah.
+@0x0639ce >Our job now is to
+ cheer everyone up, right?
+@0x0639fd >So go out there and
+ kick some butt, alright?
+@0x063a3d Amy
+>Um, hello?
+@0x063a4e >I'm tracing you guys,
+ so you don't have a
+ thing to worry about!
+@0x063a92 Kate
+>NOW I'm worried...
+@0x063aac Amy
+>Oh, K,
+ you're such a meanie.
+@0x063ae0 Kate
+>The Spiral Tower is on a
+ peninsula next to Lost Garden.
+@0x063b20 >But there's nowhere nearby for
+ the Lombardia to land. You'll
+ have to find a suitable spot.
+@0x063b9d >How grand it would be to surf
+ the sky in Valeria Chateau.
+ Don't you think?
+@0x063bfd 0
+>Halmetz reports many monsters to
+ the 
+@0x063c27 1east across the inlet
+@0x063c42 >Your mission is to go there
+ and find out what's going on.
+ Good luck.
+@0x063c9b >Bzzz... Hiss... (Radio static)
+@0x063ccb *It's no use. You can't make
+ contact with the outside.
+@0x063d14 Amy
+>The Trapezohedron touched down
+ 
+@0x063d3a 1northeast of Quartly
+@0x063d54 >It's right between Archheim
+ and Quartly. It's just
+ 
+@0x063d8b 1a little to the east
+@0x063db5 Amy
+>You want the locations of the
+ Raypoints? I'll tell you.
+@0x063df4 >One is near a
+ 
+@0x063e05 1large island far north of Meria
+@0x063e26 0.
+ Another is 
+@0x063e36 1west of Sylvaland
+@0x063e4d >Another is
+ 
+@0x063e5b 1near the Sielje Region
+@0x063e73 0 and
+ the last is 
+@0x063e87 1near Guild Galad
+@0x063e9d >The energy reaction is too
+ weak to pinpoint the exact
+ locations. It's not my fault!
+@0x063ef5 >Hey, why don't you just ask
+ the people who live there?
+ Good idea, yeah? I'm so smart!
+@0x063f5f Amy
+>Oh, by the way,
+ did you see the Dragon yet?
+@0x063f92 >If you do, tell him that
+ I said hi.
+@0x063fca 0
+>The Sleeping Volcano?
+@0x063fe4 >It's the 
+@0x063fef 1volcano west of
+@0x064000 0
+ Raline Observatory, where you
+ found the Germatron Crystal.
+@0x06405b >I want your support until
+ the Grauswein Battle.
+@0x06408e >I don't want to awaken the
+ Lord Blazer inside you yet.
+@0x0640c8 >Don't take it personally.
+@0x0640f9 2 is a hostage and
+ so is actually safe for now.
+@0x06412b >I want you to rescue 
+@0x064142 2
+ as soon as possible.
+@0x06416c 0
+>The Lost Garden is an ancient
+ structure located on...
+@0x0641a9 1an island in the Inland Sea
+@0x0641c6 0.
+ Remember not to get emotional.
+@0x06420d >How are you feeling? Do you
+ want me to take over
+ communications for you?
+@0x064270 0
+>I heard the Grotto of Lourdes
+ is 
+@0x064296 1near Sielje
+@0x0642a7 >But I'm not too sure about it.
+@0x0642d8 >Bzzz... Hiss... (Radio static)
+@0x064308 *You're out of radio range and
+ can't make contact.
+@0x06435c Kate
+>All Diablo Pillars are down.
+@0x064380 >The Heimdal Gazzo is still
+ hovering south of Sielje.
+ Go and destroy Odessa!
+@0x0643e0 Amy
+>I can't pinpoint 'em, but the
+ Diablo Pillars are located...
+@0x064425 1near the Sielje Region
+@0x064442 1near Guild Galad
+@0x064454 0, and
+@0x06445f 1outside of Baskar Village
+@0x06447e >Maybe the people around there
+ can tell you more.
+@0x0644b2 >Oh, there's another on an
+ 
+@0x0644cf 1island north of Meria
+@0x0644ec >That last one can't even be
+ reached by sea or land. How
+ are you going to get there?
+@0x064554 Amy
+>Oh, man...
+ Are you guys still inside?
+@0x064581 >So quit yapping on the
+ communicators and get
+ out of there, already.
+@0x0645d9 Kate
+>This is Kate.
+@0x0645ee >Report if you find out where
+ energy from the Alchemic
+ Plant is being sent.
+@0x06464d Amy
+>The power is being sent to a
+ point 
+@0x064677 1south of Quartly
+@0x06468d >Odessa might be searching for
+ another craft like Varukisas.
+@0x0646dc Amy
+>Watch out for cave-ins while
+ you're in the mine shaft.
+@0x06471a >And watch out for Odessa, too.
+@0x06474c 0
+>I don't know what Odessa wants
+ with a closed mine shaft.
+@0x06478a >Perhaps they found a new
+ source of energy there.
+@0x0647be >Whatever the case, it's clear
+ that Odessa is involved, so
+ exercise extreme caution.
+@0x064816 Kate
+>Hello, this is Kate. I have
+ the mine shaft's position...
+@0x064857 >It's 
+@0x06485e 1northeast of Holst
+@0x064872 0,
+ but you go around the island
+ by boat to get there.
+@0x0648ab >Be careful.
+ Over and out.
+@0x0648d8 Amy
+>Um, hello? I have some
+ hopefully helpful info for ya.
+@0x064915 >Odessa is after a mine, right?
+ Well, both Damzen and Holst
+ are well-known mining towns.
+@0x064971 >Sorry, but that's all we know
+ right now. You'll just have to
+ go on that, OK?
+@0x0649d3 1
+>Oh, good. There you are.
+ I wanted to ask you something.
+@0x064a10 >What do you want to eat
+ for dinner tonight?
+@0x064a3f >Oh, sorry. I didn't mean to
+ interrupt your mission.
+@0x064a86 Amy
+>Um...
+ 
+@0x064a97 >Oh, I was so worried!
+ I couldn't get through to you!
+@0x064acf >Oh, well, at least you're
+ alright.
+@0x064af5 >I wanted to tell you that
+ Guild Galad is on a landfill
+ 
+@0x064b30 1north of Urartu Station
+@0x064b5d >Bzzz... Hiss... (Radio static)
+@0x064b8d *It's no use. You can't make
+ contact with the outside.
+@0x064bd6 Kate
+>Here's some trivia for you.
+@0x064bf9 >The train running from Slayheim
+ to Guild Galad is called the
+ Dianbai Guang.
+@0x064c49 >It's also known
+ by its nickname, the
+ |Great Wall Express.|
+@0x064c99 0
+>Your new mission is to guard
+ the Guild Master's son.
+@0x064cd3 >Rendezvous at Urartu Station,
+ 
+@0x064cf4 1north of Quartly
+@0x064d0a >You'll have to forget about
+ 
+@0x064d29 1 for now.
+ I'm sorry.
+@0x064d51 >Bzzz... Hiss... (Radio static)
+@0x064d81 *It's no use. You can't make
+ contact with the outside.
+@0x064dcb 0
+>We've detected an unusual
+ energy waveform in the desert.
+@0x064e09 >It could be an Odessa facility
+ ...or even a main base.
+@0x064e43 >Your mission is to check it
+ out. Good luck.
+@0x064e82 Amy
+>We're still trying to find
+ Odessa's exact location.
+@0x064ebd >I want you to stand by
+ in the town of Quartly.
+@0x064eff Amy
+>Hey, did you know they say
+ that Slayheim is haunted?
+@0x064f3b >I wonder if it's true.
+@0x064f64 Amy
+>Once you find Quartly, then
+ it's on to Slayheim.
+@0x064f9c >We know that Slayheim is
+ 
+@0x064fbf 0 of Quartly, but we
+ don't know exactly where.
+@0x064ff0 >You'll have to ask someone
+ in Quartly.
+@0x06502b 0
+>We do have some information
+ about Quartly here.
+@0x065060 >To reach Quartly, go up the
+ Likikis River, which flows into the
+ 
+@0x0650a4 1southwest part of the Inland Sea
+@0x0650ca >You should be able to reach the
+ desert from the coast.
+@0x065104 >Quartly is a town on a bridge
+ spanning a huge rift valley
+ known as Big Valley.
+@0x065157 >That's all the information I
+ have. Over and out.
+@0x06519c 0
+>Report immediately if you find
+ any clues in the village.
+@0x0651da >You are authorized to act
+ on your own judgment.
+@0x06521d Kate
+>Hello, this is Kate.
+@0x065239 >Unfortunately, I lost the
+ data tablets' pattern.
+@0x06526d >The data tablets may have been
+ destroyed.
+@0x06529a >The last known location was
+ near a small village north of
+ Greenhell.
+@0x0652f4 0
+>The data tablet's pattern still
+ shows northward movement.
+@0x065333 >You'll have to resume your
+ search from there on whatever
+ 
+@0x065370 1 remembers.
+@0x06538e Amy
+>Uh oh.
+@0x06539b >The data tablet's pattern has
+ already passed the Gate Bridge.
+@0x0653dc >I know the Gate Bridge is big,
+ but do your best to track them.
+@0x06542e Kate
+>The data tablet is now moving
+ 
+@0x06545f 0 from Sielje.
+@0x06546f >That means whoever stole
+ it has probably crossed
+ the Gate Bridge.
+@0x0654c6 0
+>The Sielje Region is 
+@0x0654ea 0
+ of the tunnel out of Mt. Chug-Chug.
+@0x065512 >You go southwest but it's on the
+ 
+@0x065536 1north side of the ridge
+@0x06554f 0. South
+ of the ridge is the Gate Bridge.
+@0x06558b Kate
+>The Sielje Region
+ is cold year-round.
+@0x0655b9 >Be careful not to catch
+ cold!
+@0x0655ea Amy
+>Search Damzen for a way to
+ get to the Sielje Region.
+@0x065626 >Things would be a lot easier
+ if Valeria Chateau could
+ land anywhere.
+@0x06567f Kate
+>Once you get the data tablets,
+ head to Meria Boule Castle.
+@0x0656c2 >The Chief and the King of
+ Meria Boule should be waiting.
+@0x06570e Amy
+>The Inland Sea is strange. The
+ tide there flows to the coast.
+@0x065753 >That means the 3 data tablets
+ that fell into the sea may be
+ near the shore.
+@0x0657b4 0
+>Your mission is to destroy
+ Varukisas AND come back alive.
+@0x0657f3 >Be sure and do both.
+@0x06581a Amy
+>Oh, it's you, 
+@0x065832 >You're sure working hard all
+ by yourself. I'm impressed!
+@0x06586e >If you get lonely, just come
+ and talk to me, OK?
+@0x0658be >Linda really likes you,
+ 
+@0x0658d9 3, so do a
+ good job at guard duty, OK?
+@0x065912 Kate
+>Well? Did you find
+ the Trial Arena?
+@0x06593e >The Trial Arena is located
+ 
+@0x06595c 1just south
+@0x065968 0 of Baskar
+ Village.
+@0x06599c >Let's see... You're 
+@0x0659b2 3,
+ the boy from Baskar, right?
+@0x0659d3 >Where are 
+@0x0659df 0
+ and the others? Oh, well.
+@0x065a1b >I am master of the skies. Call
+ on me when you wish to fly.
+ Ohhh.
+@0x065a70 Amy
+>You're lucky, 
+@0x065a84 0.
+ I wish I could go outside, too.
+@0x065aa9 >Just promise me you'll hurry
+ back if anything happens,
+ OK?
+@0x065afd Kate
+>If you have both crystals,
+ return to Valeria Chateau.
+@0x065b52 5
+>Find the Aguelite Crystal and
+ the Germatron Crystal! Got it?
+@0x065b94 >One's in Holst and one's in
+ the Raline Observatory.
+ Get 'em and make me proud!
+@0x065be7 Kate
+>Hello. It's me, Kate.
+@0x065c04 >To get to Holst, use the
+ 
+@0x065c25 0 Live Reflector and
+ then head 
+@0x065c50 >To reach the Raline Observatory,
+ use the 
+@0x065c84 0 Live
+ Reflector and go 
+@0x065cb9 Amy
+>You had me so worried when
+ you didn't respond!
+@0x065cef >But thank goodness you're OK.
+ Permission to use the Live
+ Reflector has been granted.
+@0x065d58 >Bzzz... Hiss... (Radio static)
+@0x065d88 *You can't make radio contact.
+@0x065db9 0
+>I've already received word.
+ Get your butt to Halmetz ASAP.
+@0x065df9 >Still, why would those Odessa
+ pigs attack Halmetz?
+@0x065e40 0
+>And mind your p's and q's when
+ you're talking to the Queen.
+@0x065e81 >And whatever you do,
+ do NOT be late.
+@0x065eb9 Kate
+>The Live Reflector's 
+@0x065ed5 1in the forest
+ southwest
+@0x065eef 0 of Valeria Chateau.
+@0x065f06 >It is very important that you
+ deliver the letter. Good luck.
+@0x065f56 Amy
+>Hello, 
+@0x065f63 0.
+ Make good use of your time.
+@0x065f84 >Just don't go too far, OK?
+@0x065fb1 Kate
+>Odessa's strength is unknown.
+@0x065fd6 >If you run into them,
+ be very, very careful.
+@0x066017 0
+>This is 
+@0x066027 >Odessa could still be nearby.
+ They're the ones who tampered
+ with Telepath Tower.
+@0x06607c >I want you to track them
+ down right away.
+@0x0660b9 Amy
+>I'm sorry if we startled you.
+@0x0660dd >K may seem distant, but
+ deep down, she's really a
+ nice person.
+@0x066131 0
+>If the cave-in was deliberate,
+ what was the objective?
+@0x06616d >I want you to continue your
+ investigation of the incident.
+ Report anything you find out.
+@0x0661db 0
+>How is the wounded man doing?
+ Get him to a hospital quickly!
+@0x06622e 0
+>This is 
+@0x06623a 0 here.
+@0x066243 >Damzen City should be
+ 
+@0x06625c 1to the southeast
+@0x06626e 0 when you
+ come out of the Under Traffic.
+@0x06629a >ARMS is a special unit. Helping
+ the wounded is a fine duty.
+@0x0662ea 0
+>How is the Under Traffic? Call
+ in if you find out anything.
+@0x06633c 0
+>The Under Traffic is located
+ 
+@0x066365 0 of Valeria Chateau.
+@0x06637c >Exercise extreme caution as
+ more cave-ins could occur.
+@0x0663b7 his straight, soldier.
+@0x0663cf >You and every other troop in
+ this plant is an elite Odessa
+ fighter. So no lame excuses.
+@0x06642b Radio Operator E
+>Yes, ma'am! Understood, ma'am!
+@0x06645d >We'll find those ARMS chumps
+ and hang 'em by their petards!
+@0x0664a9 Radio Operator E
+>I have a status report, sir.
+@0x0664d9 >Invading ARMS troops have
+ destroyed several guard
+ and patrol 'bots.
+@0x066521 Antenora:
+>I see. Those ARMS guys
+ have been lucky.
+@0x066556 >But we can't let them get any
+ further into the interior.
+ Tighten our defenses.
+@0x0665a9 Radio Operator E
+>Yes, ma'am!
+@0x0665dd Commander
+>Is that equipment check done?
+@0x066607 Radio Operator F
+>Yes, sir, almost finished.
+@0x066655 Radio Operator F
+>Did you hear me, sir?
+@0x06667e Commander
+>I heard you, soldier.
+@0x0666bd Commander
+>Alright, good work, son.
+@0x0666e2 >Now you are to help me track
+ down the ARMS intruders.
+@0x06671b Radio Operator F
+>Yes, sir. Consider me part of
+ the search team now.
+@0x06677f Radio Operator F
+>Wait a minute, sir.
+@0x0667a6 Commander
+>Aren't you done yet?
+@0x0667df Radio Operator F
+>Um, just a few more things...
+@0x066810 >Mop, recorder, flashlight.
+ One each, sir.
+@0x06683d Commander
+>Alright, then. Hold on a sec
+ while I start recording.
+@0x0668a8 0
+@This is 
+@0x0668b4 0.
+ All data tablets recovered.
+@0x0668d5 @Requesting further orders.
+@0x0668f3 0
+>Good job. Now return to
+ Meria Boule Castle immediately.
+@0x066957 0
+>The mission was a failure,
+ just like you warned us...
+@0x066992 >The Kuiper Belt released part
+ of itself just before the core
+ was sealed.
+@0x0669e0 0
+@You mean what we fought was
+ just...
+@0x066a0a 0
+>The tail of the lizard, yes.
+@0x066a2b >Anyway,
+ just come back to Valeria
+ Chateau.
+@0x066a5a >The Trapezohedron will
+ self-destruct any minute.
+@0x066aae 9
+>Oh, my... Holy...!
+ Oh, jeez, we're done for!
+@0x066ae1 0
+@Calm yourself down!
+ Just what is going on?
+@0x066b11 @We just found out something
+ horrible over here!
+@0x066b45 8
+>This is A. As usual, it's
+ pandemonium here.
+@0x066b78 0 and
+ 
+@0x066b80 1 are gone!
+ They're not in the Chateau.
+@0x066baa >They left a note, so we
+ know where they went.
+@0x066bdc 0
+@Understood! We'll hurry back
+ right now!
+@0x066c28 Kate
+>The data tablet pattern shows
+ they're now heading northwest.
+@0x066c6e 1
+@That's northwest from here...
+@0x066c90 @I bet they're trying to get
+ through Greenhell!
+@0x066cc2 Kate
+>Greenhell? Did you say
+ |Greenhell|?
+@0x066cef 1
+@Greenhell is a trail through
+ the northwest forest.
+@0x066d27 @The Greenhell trail is the
+ only way to escape this area.
+ Even animals can't get out.
+@0x066d81 0
+>The tablets' pattern still
+ indicates northwest movement.
+@0x066dbf >We'll just have to trust
+ 
+@0x066ddb 1. Follow them!
+ Stay on 'em like a bloodhound!
+@0x066e39 1Hidden in a Forest
+@0x066e4d 0 are the
+ Guardian-worshiping Baskar.
+@0x066e75 >Their village, Baskar Village,
+ is so well-hidden it's known
+ as the Hidden Town.
+@0x066ec9 >I only know that it's around
+ here somewhere. I'm afraid
+ you'll have to search on foot.
+@0x066f47 0
+>Your reaction pattern contains
+ some strange noise.
+@0x066f7f >Apparently you came into contact
+ with the Trapezohedron.
+@0x066fbb >The Trapezohedron is linked to
+ the Live Reflectors and serves
+ as a prison.
+@0x06700a >It must hold the powerful
+ Kuiper Belt, so it is built
+ to be incredibly strong.
+@0x06705d >So you only get one chance
+ to get to the Kuiper Belt.
+@0x067096 >The Kuiper Belt is a parallel
+ universe. It is like a giant
+ living entity.
+@0x0670e4 >By annihilating Kuiper Belt,
+ you can escape the grip
+ of the force field.
+@0x067131 >Failure is not an option.
+ You must prepare carefully
+ for this mission.
+@0x06717c >That is all.
+@0x0671ab 0
+>It's me.
+ What's your status?
+@0x0671ce 0
+@We've found out two things.
+@0x0671ee @One, in Damzen City we found
+ out about a suspicious group.
+@0x06722c @Two, they got into some
+ sort of broadcasting tower,
+ called |Telepath Tower.|
+@0x06727d @They may be involved in the
+ cave-ins.
+@0x0672a7 0
+>Those incidents could be the
+ work of a single group.
+@0x0672e1 >I want you to tail that group.
+@0x067302 >Telepath Tower is vital.
+ Without it, even these
+ communicators will be useless.
+@0x067356 0
+@Understood. We will
+ head for Telepath Tower.
+@0x0673a6 0
+>It's me.
+ From Damzen where you are...
+@0x0673d2 0
+@Is this about the flying
+ machine heading east?
+@0x067407 0
+>How did you know that?
+@0x067423 0
+@I just found out here
+ in this town.
+@0x06744c @Well, what should we do?
+@0x067468 0
+>They must be the terrorists who
+ issued the communique -- Odessa!
+@0x0674ae >They must have tampered with
+ Telepath Tower somehow and
+ are trying to get away.
+@0x067502 >Your next mission is to
+ stop Odessa in their tracks
+ immediately!
+@0x067559 0
+>One more thing.
+@0x06756d >Although I am commander
+ of ARMS...
+@0x067593 >I want you, 
+@0x0675a1 0,
+ to take command when
+ the time comes to fight.
+@0x0675d6 0
+@Me? Lead the attack?
+@0x0675f0 0
+>That's right. After all,
+ you're the team leader.
+@0x067627 0
+@Yes, sir! I will commence the
+ pursuit of Odessa at once!
+@0x067692 0
+>Well done, everyone!
+@0x0676ab >Cutting off the energy supply
+ from the Diablo Pillars has
+ disabled the stealth function.
+@0x067708 >Heimdal Gazzo is now naked to
+ the world and showing up on
+ our radar!
+@0x067751 >Heimdal Gazzo has come to a
+ stop far south of Sielje!
+ We can't waste this chance!!
+@0x0677a8 >Hurry back to Valeria Chateau!
+ We're going to try to force
+ Heimdal Gazzo to land!
+@0x0678a3 >Bzzz... Hiss... (Radio static)
+@0x0678d3 *Clever jamming has rendered
+ the communicators inoperable.
+@0x06791a Kate
+>Give my regards to
+ the Chief, everyone.
+@0x06794a Amy
+>Oh, come on, Kate!
+ Don't look so gloomy!
+@0x067988 >Amy's right. Cheer up,
+ mademoiselle.
+@0x0679b0 Amy
+>See? I was right. Yeah.
+@0x0679ce >Our job now is to
+ cheer everyone up, right?
+@0x0679fd >So go out there and
+ kick some butt, alright?
+@0x067a3d Amy
+>Um, hello?
+@0x067a4e >I'm tracing you guys,
+ so you don't have a
+ thing to worry about!
+@0x067a92 Kate
+>NOW I'm worried...
+@0x067aac Amy
+>Oh, K,
+ you're such a meanie.
+@0x067ae0 Kate
+>The Spiral Tower is on a
+ peninsula next to Lost Garden.
+@0x067b20 >But there's nowhere nearby for
+ the Lombardia to land. You'll
+ have to find a suitable spot.
+@0x067b9d >How grand it would be to surf
+ the sky in Valeria Chateau.
+ Don't you think?
+@0x067bfd 0
+>Halmetz reports many monsters to
+ the 
+@0x067c27 1east across the inlet
+@0x067c42 >Your mission is to go there
+ and find out what's going on.
+ Good luck.
+@0x067c9b >Bzzz... Hiss... (Radio static)
+@0x067ccb *It's no use. You can't make
+ contact with the outside.
+@0x067d14 Amy
+>The Trapezohedron touched down
+ 
+@0x067d3a 1northeast of Quartly
+@0x067d54 >It's right between Archheim
+ and Quartly. It's just
+ 
+@0x067d8b 1a little to the east
+@0x067db5 Amy
+>You want the locations of the
+ Raypoints? I'll tell you.
+@0x067df4 >One is near a
+ 
+@0x067e05 1large island far north of Meria
+@0x067e26 0.
+ Another is 
+@0x067e36 1west of Sylvaland
+@0x067e4d >Another is
+ 
+@0x067e5b 1near the Sielje Region
+@0x067e73 0 and
+ the last is 
+@0x067e87 1near Guild Galad
+@0x067e9d >The energy reaction is too
+ weak to pinpoint the exact
+ locations. It's not my fault!
+@0x067ef5 >Hey, why don't you just ask
+ the people who live there?
+ Good idea, yeah? I'm so smart!
+@0x067f5f Amy
+>Oh, by the way,
+ did you see the Dragon yet?
+@0x067f92 >If you do, tell him that
+ I said hi.
+@0x067fca 0
+>The Sleeping Volcano?
+@0x067fe4 >It's the 
+@0x067fef 1volcano west of
+@0x068000 0
+ Raline Observatory, where you
+ found the Germatron Crystal.
+@0x06805b >I want your support until
+ the Grauswein Battle.
+@0x06808e >I don't want to awaken the
+ Lord Blazer inside you yet.
+@0x0680c8 >Don't take it personally.
+@0x0680f9 2 is a hostage and
+ so is actually safe for now.
+@0x06812b >I want you to rescue 
+@0x068142 2
+ as soon as possible.
+@0x06816c 0
+>The Lost Garden is an ancient
+ structure located on...
+@0x0681a9 1an island in the Inland Sea
+@0x0681c6 0.
+ Remember not to get emotional.
+@0x06820d >How are you feeling? Do you
+ want me to take over
+ communications for you?
+@0x068270 0
+>I heard the Grotto of Lourdes
+ is 
+@0x068296 1near Sielje
+@0x0682a7 >But I'm not too sure about it.
+@0x0682d8 >Bzzz... Hiss... (Radio static)
+@0x068308 *You're out of radio range and
+ can't make contact.
+@0x06835c Kate
+>All Diablo Pillars are down.
+@0x068380 >The Heimdal Gazzo is still
+ hovering south of Sielje.
+ Go and destroy Odessa!
+@0x0683e0 Amy
+>I can't pinpoint 'em, but the
+ Diablo Pillars are located...
+@0x068425 1near the Sielje Region
+@0x068442 1near Guild Galad
+@0x068454 0, and
+@0x06845f 1outside of Baskar Village
+@0x06847e >Maybe the people around there
+ can tell you more.
+@0x0684b2 >Oh, there's another on an
+ 
+@0x0684cf 1island north of Meria
+@0x0684ec >That last one can't even be
+ reached by sea or land. How
+ are you going to get there?
+@0x068554 Amy
+>Oh, man...
+ Are you guys still inside?
+@0x068581 >So quit yapping on the
+ communicators and get
+ out of there, already.
+@0x0685d9 Kate
+>This is Kate.
+@0x0685ee >Report if you find out where
+ energy from the Alchemic
+ Plant is being sent.
+@0x06864d Amy
+>The power is being sent to a
+ point 
+@0x068677 1south of Quartly
+@0x06868d >Odessa might be searching for
+ another craft like Varukisas.
+@0x0686dc Amy
+>Watch out for cave-ins while
+ you're in the mine shaft.
+@0x06871a >And watch out for Odessa, too.
+@0x06874c 0
+>I don't know what Odessa wants
+ with a closed mine shaft.
+@0x06878a >Perhaps they found a new
+ source of energy there.
+@0x0687be >Whatever the case, it's clear
+ that Odessa is involved, so
+ exerc@
+@0x069246 rt^ 
+@0x069fe6 v= h
+@0x06a024 ic 
+@0x06a0dc ,P g iJ
+@0x06a444 'am! Understood, ma'am!
+@0x06a45d >We'll find those ARMS chumps
+ and hang 'em by their petards!
+@0x06a4a9 Radio Operator E
+>I have a status report, sir.
+@0x06a4d9 >Invading ARMS troops have
+ destroyed several guard
+ and patrol 'bots.
+@0x06a521 Antenora:
+>I see. Those ARMS guys
+ have been lucky.
+@0x06a556 >But we can't let them get any
+ further into the interior.
+ Tighten our defenses.
+@0x06a5a9 Radio Operator E
+>Yes, ma'am!
+@0x06a5dd Commander
+>Is that equipment check done?
+@0x06a607 Radio Operator F
+>Yes, sir, almost finished.
+@0x06a655 Radio Operator F
+>Did you hear me, sir?
+@0x06a67e Commander
+>I heard you, soldier.
+@0x06a6bd Commander
+>Alright, good work, son.
+@0x06a6e2 >Now you are to help me track
+ down the ARMS intruders.
+@0x06a71b Radio Operator F
+>Yes, sir. Consider me part of
+ the search team now.
+@0x06a77f Radio Operator F
+>Wait a minute, sir.
+@0x06a7a6 Commander
+>Aren't you done yet?
+@0x06a7df Radio Operator F
+>Um, just a few \SCUS_944.98;1
+@0x06c2d5 b AAQ@zQ
+@0x06c9ec Gll 
+@0x06cdc2 oa0 
+@0x06d00a c?u 
+@0x06d7fe .qSf _0
+@0x06d962 of 
+@0x06e6cc =/O/a/s.0 
+@0x06e790  `yplp
+@0x06f2f1 br 
+@0x06f394 ih 
+@0x06fad5 rz :
+@0x070607 [Irving] `$D
+@0x0730c5 ffH 
+@0x0730ed u e 
+@0x07316b r: o
+@0x07558f /` ?2?D?V?]30xp0v
+
+@0x075601 o o2oDoVoho
+@0x0770c5 ffH 
+@0x0770ed u e 
+@0x07716b r: o
+@0x07958f /` ?2?D?V?]30xp0v
+
+@0x079601 o o2oDoVoho

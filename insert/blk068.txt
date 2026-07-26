@@ -1,0 +1,216 @@
+# WA2 INSERTION workspace US block 68 (US#7146-7190)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7148] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7149] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7306[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7150] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7307[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7151] budget=94ch/3ln
+  NOW: OK. Here's the deal. I'll exchange
+          this for an album where you
+          can see Monster Cards anywhere.
+  JP : JP#7308[MED]: 「そうかそうか / 　それじゃ、怪獣カードがどこでも見られる / 　アルバムと<88fa><88fb>してやろう[10][0c]「メニューに『アルバム』の幸目が
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7152] budget=94ch/3ln
+  NOW: The menu will now say |Album.|
+          Select it, then pick the card you
+          want to see. Convenient, huh?
+  JP : JP#7309[MED]: 「メニューに『アルバム』の幸目が<8a34>えるから / 　それを選んで、あとは見たいカードを / 　選泣するだけ、どうだ片利だろう？
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7153] budget=70ch/3ln
+  NOW: Want to see the cards?
+          1. See the cards.
+          2. No need to see the cards.2
+  JP : JP#7310[MED]: 「どうだい、カードを見て行くかい？ / １．カードを確認していく / ２．カードの確認しない[1a]か
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#7154] budget=40ch/2ln
+  NOW: How about it?
+          Want to change your name?2
+  JP : JP#7311[MED]: 「どうじゃ、名前を<8864>えるかい？[18]か
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#7155] budget=87ch/3ln
+  NOW: Want to take a look around?
+          1. Show me. I'm curious.
+          2. I don't feel like looking now.2
+  JP : JP#7312[MED]: 「<8a40>やかしでもいいから見て行かないか？ / １．<892e>兄えが気になるから見て行く / ２．いまは見て行く気にならない[1a]か
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#7157] budget=19ch/1ln
+  NOW: *...Dead batteries?
+  JP : JP#7314[MED]: ＊………<8934>来切れ？
+  FIT: <<TODO — <=19 chars, 1 line(s), <=35/line>>
+
+[US#7159] budget=94ch/3ln
+  NOW: The menu will now say |Album.|
+          Select it, then pick the card you
+          want to see. Convenient, huh?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7160] budget=70ch/3ln
+  NOW: Want to see the cards?
+          1. See the cards.
+          2. No need to see the cards.2
+  JP : JP#7316[MED]: 「どうじゃ、名前を<8864>えるかい？[18]か
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#7161] budget=40ch/2ln
+  NOW: How about it?
+          Want to change your name?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#7162] budget=87ch/3ln
+  NOW: Want to take a look around?
+          1. Show me. I'm curious.
+          2. I don't feel like looking now.2
+  JP : JP#7317[MED]: 「<8a40>やかしでもいいから見て行かないか？ / １．<892e>兄えが気になるから見て行く / ２．いまは見て行く気にならない[1a]か
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#7164] budget=19ch/1ln
+  NOW: *...Dead batteries?
+  JP : JP#7319[MED]: ＊………<8934>来切れ？
+  FIT: <<TODO — <=19 chars, 1 line(s), <=35/line>>
+
+[US#7166] budget=94ch/3ln
+  NOW: The menu will now say |Album.|
+          Select it, then pick the card you
+          want to see. Convenient, huh?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7167] budget=70ch/3ln
+  NOW: Want to see the cards?
+          1. See the cards.
+          2. No need to see the cards.2
+  JP : JP#7321[MED]: 「どうじゃ、名前を<8864>えるかい？[18]か
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#7168] budget=40ch/2ln
+  NOW: How about it?
+          Want to change your name?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#7169] budget=87ch/3ln
+  NOW: Want to take a look around?
+          1. Show me. I'm curious.
+          2. I don't feel like looking now.2
+  JP : JP#7322[MED]: 「<8a40>やかしでもいいから見て行かないか？ / １．<892e>兄えが気になるから見て行く / ２．いまは見て行く気にならない[1a]か
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#7171] budget=19ch/1ln
+  NOW: *...Dead batteries?
+  JP : JP#7324[MED]: ＊………<8934>来切れ？
+  FIT: <<TODO — <=19 chars, 1 line(s), <=35/line>>
+
+[US#7173] budget=94ch/3ln
+  NOW: The menu will now say |Album.|
+          Select it, then pick the card you
+          want to see. Convenient, huh?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7174] budget=70ch/3ln
+  NOW: Want to see the cards?
+          1. See the cards.
+          2. No need to see the cards.2
+  JP : JP#7326[MED]: 「どうじゃ、名前を<8864>えるかい？[18]か
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#7175] budget=40ch/2ln
+  NOW: How about it?
+          Want to change your name?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#7176] budget=87ch/3ln
+  NOW: Want to take a look around?
+          1. Show me. I'm curious.
+          2. I don't feel like looking now.2
+  JP : JP#7327[MED]: 「<8a40>やかしでもいいから見て行かないか？ / １．<892e>兄えが気になるから見て行く / ２．いまは見て行く気にならない[1a]か
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#7178] budget=19ch/1ln
+  NOW: *...Dead batteries?
+  JP : JP#7329[MED]: ＊………<8934>来切れ？
+  FIT: <<TODO — <=19 chars, 1 line(s), <=35/line>>
+
+[US#7180] budget=94ch/3ln
+  NOW: The menu will now say |Album.|
+          Select it, then pick the card you
+          want to see. Convenient, huh?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7181] budget=70ch/3ln
+  NOW: Want to see the cards?
+          1. See the cards.
+          2. No need to see the cards.2
+  JP : JP#7331[MED]: 「どうじゃ、名前を<8864>えるかい？[18]か
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#7182] budget=40ch/2ln
+  NOW: How about it?
+          Want to change your name?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#7183] budget=87ch/3ln
+  NOW: Want to take a look around?
+          1. Show me. I'm curious.
+          2. I don't feel like looking now.2
+  JP : JP#7332[MED]: 「<8a40>やかしでもいいから見て行かないか？ / １．<892e>兄えが気になるから見て行く / ２．いまは見て行く気にならない[1a]か
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#7185] budget=19ch/1ln
+  NOW: *...Dead batteries?
+  JP : JP#7334[MED]: ＊………<8934>来切れ？
+  FIT: <<TODO — <=19 chars, 1 line(s), <=35/line>>
+
+[US#7187] budget=94ch/3ln
+  NOW: The menu will now say |Album.|
+          Select it, then pick the card you
+          want to see. Convenient, huh?
+  JP : JP#7337[MED]: 
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7188] budget=70ch/3ln
+  NOW: Want to see the cards?
+          1. See the cards.
+          2. No need to see the cards.2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#7189] budget=40ch/2ln
+  NOW: How about it?
+          Want to change your name?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#7190] budget=87ch/3ln
+  NOW: Want to take a look around?
+          1. Show me. I'm curious.
+          2. I don't feel like looking now.2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>

@@ -1,0 +1,402 @@
+# WA2 INSERTION workspace US block 55 (US#6559-6623)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#6560] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#6701[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6561] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6702[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#6562] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6703[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#6563] budget=35ch/2ln
+  NOW: I feel really happy
+          just like this.
+  JP : JP#6704[HIGH]: 「こうしているだけで / 　すごく幸せな気持ちになれるの…
+  FIT: <<TODO — <=35 chars, 2 line(s), <=35/line>>
+
+[US#6565] budget=62ch/3ln
+  NOW: When I think about 3,
+          my chest constricts.
+          It's quite painful.
+  JP : JP#6706[HIGH]: 「[05]がくんのことを考えると / 　<89e5>がキュッと<8a34>め<88be>けられて / 　<8930>しくなるの
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#6566] budget=62ch/3ln
+  NOW: Could it really be....?
+          It can't be, but
+          it makes me so happy.
+  JP : JP#6707[HIGH]: 「もしかして、もしかするのかしら？ / 　そんなぁ… / 　でも、うれしいな<f044>
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#6569] budget=85ch/3ln
+  NOW: When I'm with 3, I feel
+          calm and relieved, while at the
+          same time I'm wildly excited.
+  JP : JP#6710[HIGH]: 「それに、[0a]がのそばにいると / 　すごくホッとするんだ / 　同時に、すごくドキドキもしてる[10][0c]「きっと、[0a]がと一押にいる / 　『現
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#6570] budget=76ch/3ln
+  NOW: I think the |present,|
+          the time I now spend with 3
+          is important time for me.
+  JP : JP#6711[HIGH]: 「きっと、[0a]がと一押にいる / 　『現帰（いま）』は、俺にとって / 　とても大切な時なんだと思う
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#6571] budget=53ch/3ln
+  NOW: Me too. I like the
+          |present| time I spend
+          with 3 too.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=53 chars, 3 line(s), <=35/line>>
+
+[US#6572] budget=49ch/2ln
+  NOW: I want to protect you from
+          all hardship and pain.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#6573] budget=61ch/3ln
+  NOW: It's because you are the
+          most important woman (person)
+          to me.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#6574] budget=73ch/3ln
+  NOW: I've learned that thinking
+          of someone other than myself
+          is very powerful.
+  JP : JP#6712[MED]: 「私も、[05]がくんと一押にいる / 　『現帰（いま）』がとても<8a38>き<f044>
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#6575] budget=49ch/2ln
+  NOW: I mean, I've become this
+          strong all because of 3.
+  JP : JP#6713[MED]: 「俺はキミを<8a39>りたい… / 　どんな仲しみからも守姉からも[10][0c]「キミが俺にとって / 　一番大切な『昔性（ひと）』だから<f05b>
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#6576] budget=93ch/3ln
+  NOW: To be honest, I don't want to
+          fight, but in order to protect
+          what I have |now,| I will fight.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#6577] budget=69ch/3ln
+  NOW: I feel so warm.
+          I'll fight to protect you.
+          My heart must be stronger.
+  JP : JP#6714[MED]: 「キミが俺にとって / 　一番大切な『昔性（ひと）』だから<f05b>
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#6578] budget=83ch/3ln
+  NOW: The long extinct desire
+          has been reawakened by the one
+          who hasn't forgotten |love.|
+  JP : JP#6715[MED]: 「自分の為でなく / 　大切な人を思いやる気持ちは / 　とてもとても大きな力なんだって知ったよ[10][0c]「だって俺が… / 　ここまで強くなれたのは /
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#6579] budget=60ch/2ln
+  NOW: If what you desire is each
+          other's hearts, you best stop me.
+  JP : JP#6720[HIGH]: 「<8a40>めるのが兄いの心ならば / 　我を期け止めるがいい[10][0c]「片人の前に、あらゆる<8930>姉が戻ちはだかる時 / 　我が威力、果てぬ<8 || JP#6716[MED]: 「だって俺が… / 　ここまで強くなれたのは / 　[0a]がのおかげだから[10][0c]「本当は、戦うことは<8a38>きじゃないよ / 　でも、『現帰（い
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#6580] budget=100ch/3ln
+  NOW: When hardship confronts you two,
+          my power will become a ceaseless
+          tie that will have you rid it all.
+  JP : JP#6721[HIGH]: 「片人の前に、あらゆる<8930>姉が戻ちはだかる時 / 　我が威力、果てぬ<8a43>となりて / 　険てを来けてみせようぞ[10][0c]「我が名はラフティ
+  FIT: <<TODO — <=100 chars, 3 line(s), <=35/line>>
+
+[US#6581] budget=71ch/3ln
+  NOW: I am Raftina,
+          the Guardian Lord who guards
+          people's hearts and Filgaia.
+  JP : JP#6722[HIGH]: 「我が名はラフティーナ〜 / 　人の心とファルガイアを<8a39><89e3>せし / 　ガーディアンロード『ラフティーナ』〜[10][0c]「『愛』の挑戦にて
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#6582] budget=56ch/2ln
+  NOW: Love's embrace will become
+          a gentle enveloping strength.
+  JP : JP#6723[HIGH]: 「『愛』の挑戦にて / 　<89ab>しく周み込む力とならん〜
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#6583] budget=48ch/2ln
+  NOW: I am beginning to understand
+          your true feelings.
+  JP : JP#6724[HIGH]: 「そういったお前の、本当の気持ちが / 　少しだけだが、分かりかけてきた
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#6584] budget=63ch/3ln
+  NOW: Strictly speaking,
+          you just might reach a different
+          conclusion.
+  JP : JP#6725[HIGH]: 「<892d><8a4c>にいうと / 　それとも違った結<8a4d>に / 　<88bd>ったのかもしれない
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#6585] budget=69ch/3ln
+  NOW: We don't have a need
+          for |heroes| anymore.
+          That's what I believe now.
+  JP : JP#6726[MED]: 「『<8a48>仲』なんてものは / 　存帰する必要なんてないのではないか / 　そう思うようになってきた
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#6586] budget=82ch/3ln
+  NOW: A |hero| isn't bestowed on you,
+          nor can they be relied on.
+          Nor do they have shape.
+  JP : JP#6727[HIGH]: 「『<8a48>仲』なんていうのは / 　好えてくれるモノでも、頼るモノでもない / 　ましてや、<88e1>のあるモノでもない[10][0c]「だが、なにかを
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#6587] budget=78ch/3ln
+  NOW: But a |hero| exists in the hearts
+          of anyone who tries to
+          accomplish something.
+  JP : JP#6728[HIGH]: 「だが、なにかを成そうとする / 　険ての人々の心の中に / 　『<8a48>仲』は存帰するもの
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#6588] budget=70ch/3ln
+  NOW: ...essentially what you meant
+          when you said a hero
+          should be a symbol.
+  JP : JP#6729[HIGH]: 「お前のいった / 　『<8a48>仲』は『間訪』であるべきだという / 　本<886e>はそこにあるのではないのか？
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#6589] budget=43ch/2ln
+  NOW: If that's what you think,
+          it must be right.
+  JP : JP#6730[HIGH]: 「お前がそう思ってくれるなら / 　きっと、そうなんだよ[10][0c]「僕を一番知って、理解してくれるお前が / 　そういってくれるのだから
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#6590] budget=61ch/3ln
+  NOW: For you to say that, you,
+          the one who knows me best,
+          means...
+  JP : JP#6731[MED]: 「僕を一番知って、理解してくれるお前が / 　そういってくれるのだから
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#6591] budget=88ch/3ln
+  NOW: ...isn't just a convenient,
+          powerful being that always saves
+          people from serious danger.
+  JP : JP#6732[MED]: 「歩対の危機を、いつでも<8833>けてくれる / 　恥利で<8979>能な存帰などではないッ！
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#6592] budget=71ch/3ln
+  NOW: ...to show everyone that they
+          possess within themselves
+          similar powers.
+  JP : JP#6733[MED]: 「それは、険ての人々に / 　同じ力が備わっていることを知らしめる / 　負であるからだ
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#6593] budget=101ch/3ln
+  NOW: They've continued to fight of their
+          own will and strength rather than
+          rely on the |Hero of Slayheim.|
+  JP : JP#6734[MED]: 「彼らは『スレイハイムの<8a48>仲』に / 　頼るでも、すがるでもなく / 　自分たちの意勉と力で戦い<8a18>けている[10][0c]「自分でも気づいて
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#6594] budget=68ch/3ln
+  NOW: They may not realize this,
+          but they have become
+          |heroes| themselves.
+  JP : JP#6735[MED]: 「自分でも気づいていないかもしれない / 　しかし、彼らは間違いなく / 　自分たちの『<8a48>仲』を手に入れている[10][0c]「そしてそれが、険ての人
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#6595] budget=86ch/3ln
+  NOW: And when this is repeated
+          by others, then |heroes| really
+          will no longer be necessary.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#6596] budget=17ch/1ln
+  NOW: You're my |hero.|
+  JP : JP#6736[MED]: 「そしてそれが、険ての人々に<89da>がるとき / 　本当の意<8a55>で、『<8a48>仲』は不要になる
+  FIT: <<TODO — <=17 chars, 1 line(s), <=35/line>>
+
+[US#6597] budget=103ch/3ln
+  NOW: Shake off doubts and step forward.
+          Follow the road indicated with the
+          spiritual strength to never lose.
+  JP : JP#6738[MED]: 「<8954>いを<8a57>り望い、<8a59>み出し / 　<892b>むべき道を<893a>す負… / 　何者にも<8a5a>けない心の力ッ！ || JP#6737[MED]: 「僕にとっての『<8a48>仲』は / 　お前だったのだから
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#6598] budget=86ch/3ln
+  NOW: The long extinct desire
+          has been reawakened by the one
+          who hasn't forgotten |courage.|
+  JP : JP#6752[HIGH]: 「時は移ろい、流れていく〜 / 　俺たちは、歩えない変合の頼間に / 　連<8a18>して乗れているだけなんだ[10][0c]「その中で、歩魂することもあるけれ || JP#6739[LOW]: 「<89aa>しく歩えし違い〜 / 　我を呼び信ますは、『遠気』を忘れぬ者よ[10][0c]「<8a40>めるのが心の強さならば / 　我を期け止めるがいい[1
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#6599] budget=58ch/2ln
+  NOW: If what you desire is strength
+          of heart, you best stop me.
+  JP : JP#6753[HIGH]: 「その中で、歩魂することもあるけれど / 　それだけじゃないはずだ[10][0c]「未<8a65>を<f040><f042> / 　もっとその先の世界を見たくな
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#6600] budget=104ch/3ln
+  NOW: When confusion clouds your path,
+          my power becomes the sword to crush
+          the universe and solve the problem.
+  JP : JP#6754[HIGH]: 「未<8a65>を<f040><f042> / 　もっとその先の世界を見たくなるような / 　魂みだって生まれてくるはずだよ[10][0c]「俺は、そう信じてい
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#6601] budget=71ch/3ln
+  NOW: I am Justine,
+          the Guardian Lord who guards
+          people's hearts and Filgaia.
+  JP : JP#6755[HIGH]: 「俺は、そう信じている
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#6602] budget=58ch/3ln
+  NOW: The sword of courage
+          will make the heart
+          full of strength.
+  JP : JP#6756[HIGH]: 「また、次回が<8a65>てほしいと思う力〜 / 　見たことのない次回を / 　待ちどおしいと思える力だよ
+  FIT: <<TODO — <=58 chars, 3 line(s), <=35/line>>
+
+[US#6603] budget=26ch/1ln
+  NOW: It's you, yourself, right?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#6604] budget=51ch/2ln
+  NOW: I never doubted that
+          days like this would continue.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#6605] budget=61ch/3ln
+  NOW: An ordinary daily life
+          is going to continue
+          ordinary forever.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#6606] budget=80ch/3ln
+  NOW: To wound and be wounded...
+          How can something so scary
+          happen on a regular basis?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#6607] budget=25ch/2ln
+  NOW: I just want to be with
+          0.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=25 chars, 2 line(s), <=35/line>>
+
+[US#6608] budget=70ch/3ln
+  NOW: Fighting is to protect
+          eternity and for the time
+          when I didn't know 0.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#6609] budget=78ch/3ln
+  NOW: For nothing to change,
+          for everything to stay as
+          the |eternity| from before...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#6610] budget=61ch/2ln
+  NOW: Do you want to believe that
+          eternity is when nothing changes?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#6611] budget=81ch/3ln
+  NOW: Times change and evolve.
+          We are forever encountering
+          moments of continual change.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#6612] budget=67ch/3ln
+  NOW: This could cause despair, or
+          it could lead to a different
+          response.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#6613] budget=88ch/3ln
+  NOW: It's possible to want to see
+          how the world turns out,
+          to see what the future will bring.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#6614] budget=22ch/1ln
+  NOW: That's what I believe.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#6615] budget=82ch/3ln
+  NOW: The power to wish for tomorrow.
+          The power to wish for a
+          day you have not yet seen.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#6617] budget=45ch/2ln
+  NOW: My wanting to be with 0
+          is not in |eternity.|
+  JP : JP#6758[MED]: 「わたしが[05]ぉといたいのは / 　『<8a64><8a10>』の中なんかじゃない[10][0c]「ずっと、きっと、〜もっとッ！ / 　これから先、いつまで
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#6618] budget=71ch/3ln
+  NOW: Forever, for sure and ever more!
+          From now on, we'll always
+          be together.
+  JP : JP#6759[MED]: 「ずっと、きっと、〜もっとッ！ / 　これから先、いつまでもいっしょに〜[10][0c]「そうよね / 　魂みは、この頼間の向こう<89f5> / 　『<8a6
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#6619] budget=81ch/3ln
+  NOW: That's right. Hope is on
+          the other side of this moment,
+          far away from |eternity.|
+  JP : JP#6760[HIGH]: 「そうよね / 　魂みは、この頼間の向こう<89f5> / 　『<8a64><8a10>』の<8995>か<8a10>くに
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#6620] budget=101ch/3ln
+  NOW: The long, extinct desire has been
+          awakened by one who remembers hope.
+          Stop me if you seek the future.
+  JP : JP#6761[HIGH]: 「<89aa>しく歩えし違い〜 / 　我を呼び信ますは、『<8a6a>魂』を忘れぬ者よ / 　<8a40>めるのが未<8a65>ならば、我を期け止めるがいい[1
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#6621] budget=94ch/3ln
+  NOW: When dark clouds block tomorrow,
+          my power will become a westerly
+          wind to pierce and dispel it.
+  JP : JP#6762[HIGH]: 「戻ち込める暗勇、次回を<89cf>ざす時 / 　我が威力、<8952>け抜ける東<89f9>となって / 　はらして見せようぞ〜[10][0c]「我が名はゼフ
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#6622] budget=70ch/3ln
+  NOW: I am Zephyr,
+          the Guardian Lord who guards
+          people's hearts and Filgaia.
+  JP : JP#6763[HIGH]: 「我が名はゼファー〜 / 　人の心とファルガイアを<8a39><89e3>せし / 　ガーディアンロード『ゼファー』〜[10][0c]「『<8a6a>魂』の<8
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#6623] budget=56ch/2ln
+  NOW: Hope's light will become
+          the power to expand the future.
+  JP : JP#6764[MED]: 「『<8a6a>魂』の<89e0>にて / 　未<8a65>を<8a6d>く力とならん〜
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>

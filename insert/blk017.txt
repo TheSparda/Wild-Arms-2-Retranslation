@@ -1,0 +1,1797 @@
+# WA2 INSERTION workspace US block 17 (US#4148-4447)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#4149] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4251[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4150] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#4252[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4151] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#4253[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#4152] budget=99ch/3ln
+  NOW: I eagerly await a report from Mr.
+          Day. He was sent off on some crazy
+          ...I mean, he's on assignment.
+  JP : JP#4254[HIGH]: 「飛ばされた〜　いや<f05b> / 　<f040><f042>出<8a39>に出ているディーくんからの報<8804>を / 　心待ちに待っているでアリマス[1
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#4153] budget=97ch/3ln
+  NOW: I pity him. He was sent by 1magic
+          to a place that cannot be reached0
+          by land or sea. Poor fellow.
+  JP : JP#4255[HIGH]: 「陸<89ca>でも道<89ca>でも<89cb>りつけない出<8a39>所〜 / 　ホントに[11]お魔法でそこに飛ばされた[11]ぉ / 　ディーくんはちょ
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#4154] budget=53ch/2ln
+  NOW: That's wonderful! Mr. Day
+          really came through for us!
+  JP : JP#4256[HIGH]: 「そうでアリマスか / 　ディーくんは、やったでアリマスねッ！[10][0c]「<88f8>けてくれてありがとうでアリマス / 　さっそく、守地に新しい姉<8a
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#4155] budget=88ch/3ln
+  NOW: Thank you for bringing it to me. I
+          will go spread the word about these
+          new Crest Spells!
+  JP : JP#4257[HIGH]: 「<88f8>けてくれてありがとうでアリマス / 　さっそく、守地に新しい姉<8a3d>魔法の助歩を / 　<88a6>えに行ってくるでアリマスッ！[10][0
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#4156] budget=16ch/1ln
+  NOW: Good day to you.
+  JP : JP#4258[HIGH]: 「ごきげんようでアリマス<f045><f045><f045><f046>
+  FIT: <<TODO — <=16 chars, 1 line(s), <=35/line>>
+
+[US#4157] budget=95ch/3ln
+  NOW: But indefatigable Mr. Day has
+          plunged into his next project. I
+          can't lose face in front of him.
+  JP : JP#4259[HIGH]: 「でも、ディーくんは<89bf>まずに / 　更の兄<89b1>に入ったでアリマス / 　自分も期けてはいられないでアリマス
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#4158] budget=51ch/3ln
+  NOW: Oh! So you
+          defeated that horrible
+          Nuclear Dragon...
+  JP : JP#4260[HIGH]: 「<f040><f041><f042>なんとッ！ / 　あなた方がその<8a43>ドラゴンを / 　来分したでアリマスかッ！[10][0c]「それは、すごいでア
+  FIT: <<TODO — <=51 chars, 3 line(s), <=35/line>>
+
+[US#4159] budget=42ch/2ln
+  NOW: That's wonderful!
+          You are truly admirable!
+  JP : JP#4261[HIGH]: 「それは、すごいでアリマス / 　挑戦のまなざしでアリマスッ！
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#4160] budget=57ch/3ln
+  NOW: Whatever will become
+          of our dear Filgaia?
+          Can anyone say?
+  JP : JP#4262[HIGH]: 「これから、このファルガイアが / 　どうなってしまうのか / 　険く<888e>違がつかないでアリマス〜
+  FIT: <<TODO — <=57 chars, 3 line(s), <=35/line>>
+
+[US#4161] budget=67ch/3ln
+  NOW: Perhaps Odessa is planning a
+          massive attack to acquire
+          this energy.
+  JP : JP#4263[HIGH]: 「オデッサも / 　今回のエネルギーを<8a48>えるために / 　大仲<8920>な間訪をひかえていたのでは？
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#4162] budget=80ch/3ln
+  NOW: First, the person must be recently
+          deceased and in a good
+          state of preservation.
+  JP : JP#4264[HIGH]: 「まず、<8901>存状態のいい奇体が必要でアリマス / 　奇体の好恥がひどかったり / 　死後、しばらくたっていてはダメでアリマス[10][0c]「それから、
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#4163] budget=40ch/2ln
+  NOW: Second, the soul must be
+          fully summoned.
+  JP : JP#4265[HIGH]: 「それから、<88ad>険に負遠された<8a52>が / 　必要でアリマス[10][0c]「さらに歩<8883>の最中に他の<8a53>に / 　<89d9>魔
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#4164] budget=56ch/2ln
+  NOW: Third, no other ghosts must
+          interfere during the ritual.
+  JP : JP#4266[HIGH]: 「さらに歩<8883>の最中に他の<8a53>に / 　<89d9>魔をされてもイカンでアリマス[10][0c]「失<893d>すればアンデッドと / 　なって
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#4165] budget=99ch/3ln
+  NOW: If it fails, the person will become
+          one of the Undead. Once performed,
+          the ritual cannot be undone.
+  JP : JP#4267[HIGH]: 「失<893d>すればアンデッドと / 　なって<8a4c>るでアリマス〜 / 　〜やりなおしはきかないのでアリマス
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#4166] budget=76ch/3ln
+  NOW: I cannot understand why someone
+          as talented as he would be
+          transferred away.
+  JP : JP#4268[HIGH]: 「そのディーくんが / 　なぜゆえに飛ばされたのか / 　わからないでアリマスッ
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4167] budget=99ch/3ln
+  NOW: But I know it's just a show to keep
+          us from worrying. He always puts
+          his students' interests first.
+  JP : JP#4269[MED]: 「僕を心配させない為に / 　カラ元気を<8a5c>る茶っているんだろうけど / 　あんまり無理して飛しくないよな
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#4168] budget=60ch/2ln
+  NOW: Is it strange to feel protective
+          toward someone who's older?
+  JP : JP#4270[HIGH]: 「先生のほうが数上なのにな / 　変な気持ちだ〜
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#4169] budget=62ch/2ln
+  NOW: My teacher is totally dedicated.
+          He's a little klutzy, though.
+  JP : JP#4271[HIGH]: 「先生さ一生<8a61>命、守えてくれるんだぜ / 　まぁ、ちょっとドジなところもあるけどね
+  FIT: <<TODO — <=62 chars, 2 line(s), <=35/line>>
+
+[US#4170] budget=91ch/3ln
+  NOW: I wanted to take the magic class,
+          too, but then my teacher wouldn't
+          have any more students!
+  JP : JP#4272[HIGH]: 「僕もホントは魔法の貸<8a57>を望けたいんだけど / 　そうすると先生の貸<8a57>を望ける生乗が / 　一人もいなくなっちゃうだろ？[10][0c]「そ
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#4171] budget=95ch/3ln
+  NOW: I couldn't let that happen to him,
+          so I'll stay in his class, even
+          though I'm the only student!
+  JP : JP#4273[HIGH]: 「そうなると、あの先生がかわいそうじゃん / 　だからさ、僕だけでも / 　貸<8a57>を望けてあげようと思っているんだ
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#4172] budget=84ch/3ln
+  NOW: You have surpassed your big
+          sister, so have confidence! I know
+          she is watching, too!
+  JP : JP#4274[HIGH]: 「もうお前は、<8a64>さんを<8a65>えたさ / 　自分に自信を持てよッ！ / 　<8a64>さんだって必ず見てるはずだッ！
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#4173] budget=38ch/3ln
+  NOW: But don't tell
+          2 I said that,
+          alright?
+  JP : JP#4276[MED]: 「ま、せいぜいがんばって / 　<8a64>さんを<8a65>えるくらいになれよ / 　ま、無理だと思うけどな〜 || JP#4275[MED]: 「<f040><f042>あッ！ / 　俺がこんなコトを言っていたなんて / 　[05]かには参<8a55>ですよ〜<f05b>
+  FIT: <<TODO — <=38 chars, 3 line(s), <=35/line>>
+
+[US#4174] budget=91ch/3ln
+  NOW: Are you trying to follow in your
+          big sister's footsteps? Well, good
+          luck... You'll need it!
+  JP : JP#4277[MED]: 「<f040><f041><f042>あッ！ / 　単に[05]かの為を思って / 　言っているんじゃないですからね<f05b>
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#4175] budget=76ch/3ln
+  NOW: Hey, wait a minute!
+          I didn't say that because I like
+          2 or anything, alright?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4176] budget=66ch/2ln
+  NOW: You remind me of your sister, the
+          the famous |Eleniak Witch-Girl|!
+  JP : JP#4278[HIGH]: 「やっぱり『エレニアックの魔昔っ家』の / 　魂だけはあるなッ！[10][0c]「<f040><f041><f042>って、なんで俺は頼めてるんだ？
+  FIT: <<TODO — <=66 chars, 2 line(s), <=35/line>>
+
+[US#4177] budget=34ch/1ln
+  NOW: Just don't let it go to your head!
+  JP : JP#4279[HIGH]: 「<f040><f041><f042>って、なんで俺は頼めてるんだ？
+  FIT: <<TODO — <=34 chars, 1 line(s), <=35/line>>
+
+[US#4178] budget=20ch/1ln
+  NOW: At least I think so.
+  JP : JP#4280[HIGH]: 「〜だったかな？
+  FIT: <<TODO — <=20 chars, 1 line(s), <=35/line>>
+
+[US#4179] budget=20ch/1ln
+  NOW: At least I think so.
+  JP : JP#4281[HIGH]: 「〜だったかな？
+  FIT: <<TODO — <=20 chars, 1 line(s), <=35/line>>
+
+[US#4180] budget=29ch/1ln
+  NOW: At least that's what I think.
+  JP : JP#4282[HIGH]: 「〜だったかな？
+  FIT: <<TODO — <=29 chars, 1 line(s), <=35/line>>
+
+[US#4181] budget=56ch/3ln
+  NOW: Because there's no way you could
+          ever measure up
+          to her!
+  JP : JP#4283[HIGH]: 「そんなことしてたら / 　すぐにこっちがボロボロに / 　なっちゃうからな！
+  FIT: <<TODO — <=56 chars, 3 line(s), <=35/line>>
+
+[US#4182] budget=44ch/2ln
+  NOW: They're stronger in children
+          and in females.
+  JP : JP#4284[HIGH]: 「大人よりも家<8842> / 　剣性よりも昔性[10][0c]「〜それから、じゅ、友苦な姿昔ならさらに / 　魔力が<8867>くなる<8a71>向があります
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#4183] budget=61ch/2ln
+  NOW: Chaste maidens tend to have
+          stronger powers than anyone else.
+  JP : JP#4285[HIGH]: 「〜それから、じゅ、友苦な姿昔ならさらに / 　魔力が<8867>くなる<8a71>向があります〜<f05b>
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#4184] budget=93ch/3ln
+  NOW: Don't forget about recovery magic
+          and defensive magic. They are the
+          most important in battle!
+  JP : JP#4286[HIGH]: 「くれぐれも回<8a6a>魔法と<8a72><89c7>魔法を / 　忘れるなよ / 　せ、戦基では<8a74>本なんだからなッ<f05b>
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4185] budget=101ch/3ln
+  NOW: But if you lack one, you can still
+          evoke spells by drawing a magic
+          symbol on the ground or elsewhere.
+  JP : JP#4287[HIGH]: 「クレストグラフがない時は / 　地協などに魔法<8a77>をかけば / 　魔法を発動させることは可能です[10][0c]「〜ですが、かいている間に / 　モン
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#4186] budget=85ch/3ln
+  NOW: Of course, the monster may still
+          get you while you are busy drawing
+          the magic symbol.
+  JP : JP#4288[HIGH]: 「〜ですが、かいている間に / 　モンスターにやられてしまうかも / 　しれませんね〜
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#4187] budget=87ch/3ln
+  NOW: You probably got in because you
+          lied and said you were the
+          |Eleniak Witch-Girl,| right?
+  JP : JP#4289[HIGH]: 「でも、どうせ自分が / 　『エレニアックの魔昔っ家』とでも / 　<8a79>ついて配勝されたんだろ？
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#4188] budget=98ch/3ln
+  NOW: I'm sure she's a lot of trouble,
+          but her sister is the |Eleniak
+          Witch-Girl,| so please be patient.
+  JP : JP#4290[HIGH]: 「コイツのお限はさぞかし大変でしょう？ / 　まぁ、一<8839>『エレニアックの魔昔っ家』の / 　魂なので長い目で見てやってください
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4189] budget=44ch/2ln
+  NOW: I don't want a repeat of that
+          last disaster.
+  JP : JP#4291[MED]: 「前のような失<893d>は / 　もう２度とゴメンだからね
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#4190] budget=93ch/3ln
+  NOW: Playing pranks is part of being a
+          student! Girls never understand a
+          man's lust for adventure.
+  JP : JP#4292[MED]: 「<8a5a>生生<8a84>の<8a74>本中の<8a74>本なのにッ！ / 　やっぱり昔家には、剣のロマンってモノが / 　わからないようだな
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4191] budget=68ch/3ln
+  NOW: OK, I've got the masking tape
+          face-up on the chair...
+          We're all set!
+  JP : JP#4293[MED]: 「<f040><f041><f042>こう、イスの上に / 　セロハンテープをセットして〜っと / 　これで良しッ！
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#4192] budget=68ch/3ln
+  NOW: OK, I've got the masking tape
+          face-up on the chair...
+          We're all set!
+  JP : JP#4294[MED]: 「<f040><f041><f042>こう、イスの上に / 　セロハンテープをセットして〜っと / 　これで良しッ！
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#4193] budget=104ch/3ln
+  NOW: The Gladiator Arena is long gone,
+          but the monsters that battled there
+          are still on the island, they say.
+  JP : JP#4295[HIGH]: 「すでにその基<8a87>場のカゲも<88e1>もないんだけど / 　基<8a87>場で戦っていたモンスターたちは / 　まだ、その他にいるって話しだよ[10]
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#4194] budget=91ch/3ln
+  NOW: So steer clear of that place.
+          Like the saying goes, discretion is
+          the better part of valor.
+  JP : JP#4296[HIGH]: 「<f040><f041><f042>だから / 　おもしろ<89a7>分に近づかない方がいいかもな / 　様家危うきに近<8a88>らずってね
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#4195] budget=93ch/3ln
+  NOW: Back when the sky was blue,
+          I would always cut cla... I mean,
+          I would go exploring, you know?
+  JP : JP#4297[HIGH]: 「まったく、安い空を見るために / 　サボリ〜とと<f05b> / 　エスケープしていたのに〜
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4196] budget=96ch/3ln
+  NOW: The |Eleniak Witch-Girl| was my
+          reason for living. Now that she's
+          gone, I don't know what to do.
+  JP : JP#4298[HIGH]: 「僕にとって『エレニアックの魔昔っ家』は / 　生きる目<8861>だった〜 / 　それを見失った僕は、どうすれば〜
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#4197] budget=61ch/2ln
+  NOW: Did you get that, or do I have to
+          make you stay after school?
+  JP : JP#4299[HIGH]: 「ちゃんと貸<8a57>で暮ったコトを / 　おぼえているかい？
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#4198] budget=63ch/2ln
+  NOW: Back when the sky was blue,
+          who doesn't know magic -- like you.
+  JP : JP#4300[HIGH]: 「アンタたちみたいな魔法を使えない人には / 　結<8968>、<8858><8a8b>するんじゃないか？
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4199] budget=39ch/3ln
+  NOW: 2,
+          don't you go worrying
+          B, either, OK?
+  JP : JP#4301[HIGH]: 「〜[05]かも / 　[0a]せくんを / 　心配させちゃダメだよ
+  FIT: <<TODO — <=39 chars, 3 line(s), <=35/line>>
+
+[US#4200] budget=55ch/2ln
+  NOW: Don't you worry the people who
+          are waiting for you, OK?
+  JP : JP#4302[HIGH]: 「〜あなたもあなたを待っている人を / 　心配させちゃダメだよ
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#4201] budget=86ch/3ln
+  NOW: But then he went right back out
+          again to search for a way to
+          return the sky to normal.
+  JP : JP#4303[HIGH]: 「今度は / 　この空を元に戻す方法を / 　探しに出<8a39>に出ちゃったの〜
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#4202] budget=81ch/3ln
+  NOW: My dear teacher has finished his
+          quest for Advanced Magic!
+          He's coming back soon!
+  JP : JP#4304[HIGH]: 「私の<8a8c>れの先生だけどね / 　上級魔法を探し終わったから / 　出<8a39>から帰って<8a8d>るんだよッ！[10][0c]「<8894>く帰っ
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#4203] budget=26ch/1ln
+  NOW: I wish she'd hurry back...
+  JP : JP#4305[HIGH]: 「<8894>く帰ってこないかなぁ<f044>
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#4204] budget=105ch/3ln
+  NOW: Is there someone back home waiting
+          for you? If there is, you must stay
+          alive for that person's sake, too.
+  JP : JP#4306[HIGH]: 「あなたの事を待っている人はいないの？ / 　もしそうだとしたら、その人の為にも / 　無事に帰ることだけを考えればいいわ
+  FIT: <<TODO — <=105 chars, 3 line(s), <=35/line>>
+
+[US#4205] budget=87ch/3ln
+  NOW: Walking to school with the teacher
+          is my favorite time of day, however
+          brief it may be.
+  JP : JP#4307[HIGH]: 「その先生と、<8a5a>延まで一<8a55>に<8a8e>く時間が / 　私の一番大切な時間なの / 　とっても、<88a5>いけどね〜[10][0c]「ファ
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#4206] budget=36ch/2ln
+  NOW: I have to be strong
+          for the teacher!
+  JP : JP#4308[MED]: 「ファイトッ！　私
+  FIT: <<TODO — <=36 chars, 2 line(s), <=35/line>>
+
+[US#4207] budget=92ch/3ln
+  NOW: Oh, sorry. I didn't mean to sound
+          geeky. It's just that we have to
+          say |Good day| at school.
+  JP : JP#4309[MED]: 「〜あら、ごめんなさい / 　『ごきげんよう』は私たちの<8a5a>延の / 　活集なの[10][0c]「こんにちは、おはよう、さよなら、などの / 　<886
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4208] budget=69ch/2ln
+  NOW: It's a rule. We have to say |Good
+          day| instead of |hello| or whatnot.
+  JP : JP#4310[MED]: 「こんにちは、おはよう、さよなら、などの / 　<8864>わりに使ってるの
+  FIT: <<TODO — <=69 chars, 2 line(s), <=35/line>>
+
+[US#4209] budget=93ch/3ln
+  NOW: I always thought love was a waste
+          of time, but it looks like I had
+          better start taking notes.
+  JP : JP#4311[MED]: 「今まで、『<8a93>』だの『愛』だのなんて / 　くだらないと思ってた〜 / 　でも、ちょっと見暮わなくちゃ[10][0c]「私も勉強ばかりじゃ / 　イケ
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4210] budget=46ch/2ln
+  NOW: Maybe there's more to life
+          than just studying.
+  JP : JP#4313[MED]: 「え？ / 　空のこと？ / 　ああ、そんなことよりも勉強の方が大事よ || JP#4312[MED]: 「私も勉強ばかりじゃ / 　イケナイのかもしれないわね〜
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#4211] budget=61ch/3ln
+  NOW: The sky?
+          I don't care about that!
+          Studying is more important!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#4212] budget=97ch/3ln
+  NOW: I usually have a class right now,
+          but the teacher was sent out to do
+          some sort of field research.
+  JP : JP#4314[MED]: 「今の時間は / 　それを探しに出<8a39>している先生の / 　貸<8a57>のハズなんだけど〜
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#4213] budget=27ch/2ln
+  NOW: Don't you think so, too,
+          2?
+  JP : JP#4315[MED]: 「ね、[05]かも / 　そう思うでしょ？
+  FIT: <<TODO — <=27 chars, 2 line(s), <=35/line>>
+
+[US#4214] budget=43ch/2ln
+  NOW: So what if I'm sleeping...
+          It's dark out...
+  JP : JP#4316[MED]: 「〜〜空が暗いから珍るの〜〜〜〜〜〜〜〜〜[10][0c]「〜〜〜〜〜〜〜<88ad><8a98>な大<8a0f>名分よね〜〜〜〜
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#4215] budget=33ch/1ln
+  NOW: That's a perfect excuse... Zzz...
+  JP : JP#4317[HIGH]: 「〜〜〜〜〜〜〜<88ad><8a98>な大<8a0f>名分よね〜〜〜〜
+  FIT: <<TODO — <=33 chars, 1 line(s), <=35/line>>
+
+[US#4216] budget=13ch/1ln
+  NOW: Mr. McGregor?
+  JP : JP#4318[HIGH]: 「〜〜〜マクレガー先生〜〜〜〜〜〜〜〜〜〜[10][0c]「〜〜〜〜〜〜〜〜お話はもういいです<f05a>〜〜
+  FIT: <<TODO — <=13 chars, 1 line(s), <=35/line>>
+
+[US#4217] budget=31ch/1ln
+  NOW: I'm too sleepy for questions...
+  JP : JP#4319[HIGH]: 「〜〜〜〜〜〜〜〜お話はもういいです<f05a>〜〜
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#4218] budget=26ch/1ln
+  NOW: Come on, leave me alone...
+  JP : JP#4320[HIGH]: 「〜〜〜珍かせてよ〜〜〜〜〜〜〜〜〜〜〜〜[10][0c]「〜〜〜〜〜〜〜ずっと、空が暗いんだもん〜
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#4219] budget=32ch/1ln
+  NOW: This dark sky makes me sleepy...
+  JP : JP#4321[HIGH]: 「〜〜〜〜〜〜〜ずっと、空が暗いんだもん〜
+  FIT: <<TODO — <=32 chars, 1 line(s), <=35/line>>
+
+[US#4220] budget=26ch/1ln
+  NOW: I have a test coming up...
+  JP : JP#4322[HIGH]: 「〜〜ほっといてよ〜〜〜〜〜〜〜〜〜〜〜〜[10][0c]「〜〜〜〜〜〜<8a99><89bb><8a5a>暮してるんだから〜〜〜
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#4221] budget=35ch/1ln
+  NOW: I'm studying in my sleep...Zzzzz...
+  JP : JP#4323[HIGH]: 「〜〜〜〜〜〜<8a99><89bb><8a5a>暮してるんだから〜〜〜
+  FIT: <<TODO — <=35 chars, 1 line(s), <=35/line>>
+
+[US#4222] budget=9ch/1ln
+  NOW: Huh... B?
+  JP : JP#4324[HIGH]: 「〜〜〜[0a]せくぅん<f044>〜〜〜〜〜[10][0c]「〜〜〜〜〜〜〜〜〜〜〜〜〜くすくす〜〜〜
+  FIT: <<TODO — <=9 chars, 1 line(s), <=35/line>>
+
+[US#4223] budget=10ch/1ln
+  NOW: Hee hee...
+  JP : JP#4325[HIGH]: 「〜〜〜〜〜〜〜〜〜〜〜〜〜くすくす〜〜〜
+  FIT: <<TODO — <=10 chars, 1 line(s), <=35/line>>
+
+[US#4224] budget=15ch/1ln
+  NOW: Hrmph... mmm...
+  JP : JP#4326[HIGH]: 「〜〜〜むにゃむにゃ〜〜〜〜〜〜〜〜〜〜〜[10][0c]「〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜はッ！[10][0c]「す、すみませんッ！ / 　起きてましたッ！
+  FIT: <<TODO — <=15 chars, 1 line(s), <=35/line>>
+
+[US#4225] budget=4ch/1ln
+  NOW: Wha?
+  JP : JP#4327[HIGH]: 「〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜はッ！[10][0c]「す、すみませんッ！ / 　起きてましたッ！[10][0c]「<f040><f041><f042>あ、
+  FIT: <<TODO — <=4 chars, 1 line(s), <=35/line>>
+
+[US#4226] budget=43ch/2ln
+  NOW: I was awake!
+          I was just resting my eyelids!
+  JP : JP#4328[HIGH]: 「す、すみませんッ！ / 　起きてましたッ！[10][0c]「<f040><f041><f042>あ、なんだ[05]かじゃない / 　もう、<8845>かさない
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#4227] budget=88ch/3ln
+  NOW: Oh, it's just you, 2.
+          Why did you wake me? It's not easy
+          to sleep standing up, you know!
+  JP : JP#4329[HIGH]: 「<f040><f041><f042>あ、なんだ[05]かじゃない / 　もう、<8845>かさないでよ〜 / 　せっかく、<8930><8931>して戻ったま
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#4228] budget=15ch/1ln
+  NOW: Hrmph... mmm...
+  JP : JP#4330[HIGH]: 「〜〜〜むにゃむにゃ〜〜〜〜〜〜〜〜〜〜〜[10][0c]「〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜はッ！[10][0c]「す、すみませんッ！ / 　起きてましたッ！
+  FIT: <<TODO — <=15 chars, 1 line(s), <=35/line>>
+
+[US#4229] budget=4ch/1ln
+  NOW: Wha?
+  JP : JP#4331[HIGH]: 「〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜はッ！[10][0c]「す、すみませんッ！ / 　起きてましたッ！[10][0c]「<f040><f041><f042>あ、
+  FIT: <<TODO — <=4 chars, 1 line(s), <=35/line>>
+
+[US#4230] budget=43ch/2ln
+  NOW: I was awake!
+          I was just resting my eyelids!
+  JP : JP#4332[HIGH]: 「す、すみませんッ！ / 　起きてましたッ！[10][0c]「<f040><f041><f042>あ、先生じゃなかったんだ / 　もう、<8845>かさないでよ
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#4231] budget=101ch/3ln
+  NOW: Oh, you scared me! I thought you
+          were the teacher. And just when I
+          finally fell asleep standing up...
+  JP : JP#4333[HIGH]: 「<f040><f041><f042>あ、先生じゃなかったんだ / 　もう、<8845>かさないでよ〜 / 　せっかく、<8930><8931>して戻ったまま珍
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#4232] budget=28ch/1ln
+  NOW: Shall I share my knowledge?2
+  JP : JP#4334[HIGH]: 「私の知<8a9b>をご<8a9c><8a9d>いたしましょうか？[18]か
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#4233] budget=80ch/3ln
+  NOW: |It is a road to the origin of
+          life on Filgaia... a road to
+          the Guardian of Mud.
+  JP : JP#4335[HIGH]: 「それはファルガイアの始まりへと<89cb>る道なり / 　このファルガイアの命の<8869>へと<8a18>く道なり / 　そう、<8a9f>のガーディアンへ
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#4234] budget=103ch/3ln
+  NOW: |I have seen it, on a 1cape in the
+          inland sea0 in Filgaia's center.
+                 -- Aachen Grish, historian.|
+  JP : JP#4336[HIGH]: 「私は、ファルガイアの中心に級<8822>する / 　[11]お参道の<8aa0>[11]ぉにて、その存帰を確認する / 　　　　　　『<8aa1>者アーチェン
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#4235] budget=49ch/2ln
+  NOW: Well, I guess that sums it up
+          nicely, doesn't it?
+  JP : JP#4337[HIGH]: 「<f040><f041><f042>まあ、大まかにまとめると / 　こんなところね
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#4236] budget=90ch/3ln
+  NOW: The Nuclear Dragon? I hear it's a
+          super-ultimate weapon developed by
+          ancient civilization.
+  JP : JP#4338[HIGH]: 「え？　『<8a43>ドラゴン』ですか？ / 　それなら、<882d>代<8aa3>次にて開発された / 　幻最終壊滅同周らしいですけど〜[10][0c]「<f
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#4237] budget=90ch/3ln
+  NOW: Why do you want to know? Come on,
+          tell me! There are no secrets
+          secrets between us, right?
+  JP : JP#4339[HIGH]: 「<f040><f041><f042>それが、どうかしたのですか？ / 　私たちの間に隠し事はなしでしょ？ / 　さあ、守えて辺さいな<f04a>
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#4238] budget=90ch/3ln
+  NOW: The Nuclear Dragon? I hear it's a
+          super-ultimate weapon developed by
+          ancient civilization.
+  JP : JP#4340[HIGH]: 「え？　『<8a43>ドラゴン』ですか？ / 　それなら、<882d>代<8aa3>次にて開発された / 　幻最終壊滅同周らしいですけど〜[10][0c]「<f
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#4239] budget=86ch/3ln
+  NOW: Why do you ask? You must tell me,
+          to satisfy my thirst for knowledge
+          and my curiosity!
+  JP : JP#4341[HIGH]: 「<f040><f041><f042>それが、どうかしたのですか？ / 　私の知<8a9b>飛を<8a91>跡心を<8aa4>たす為に / 　ぜひ、守えて辺さい
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#4240] budget=89ch/3ln
+  NOW: I could not find one instance of
+          the sky ever being devoured like
+          this in Filgaia's past.
+  JP : JP#4342[HIGH]: 「このファルガイアには、未だかつて / 　空が<888c>く<8aa5>われてしまうような現<8aa6>が / 　起こったコトは、なかったそうなんです
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#4241] budget=28ch/1ln
+  NOW: Shall I share my knowledge?2
+  JP : JP#4343[HIGH]: 「私の知<8a9b>をご<8a9c><8a9d>いたしましょうか？[18]か
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#4242] budget=62ch/2ln
+  NOW: |These 4 towers were built to store
+          massive amounts of energy.
+  JP : JP#4344[HIGH]: 「その年４鍵にて / 　<8aa7>大なエネルギーを<8aa8>持する為のモノなり[10][0c]「失われし<882d>代<8aa3>次にて要<885e>を空に
+  FIT: <<TODO — <=62 chars, 2 line(s), <=35/line>>
+
+[US#4243] budget=98ch/3ln
+  NOW: |With these towers, the ancients
+          made their fortress fly but also
+          triggered their own destruction.
+  JP : JP#4345[MED]: 「失われし<882d>代<8aa3>次にて要<885e>を空に<8aa9>かべ / 　破滅の道を<89cb>らせた魔界の<897f>〜[10][0c]「私は[1
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4244] budget=95ch/3ln
+  NOW: |I discovered one 1surrounded by two
+          capes and one island0.
+                 -- Aachen Grish, historian.|
+  JP : JP#4346[HIGH]: 「私は[11]お２つの<8aa0>、１つの他に<8aaa>まれし場所[11]ぉにて / 　その１つを発見す〜 / 　　　　　　『<8aa1>者アーチェン・グリッ
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#4245] budget=24ch/1ln
+  NOW: Um... I forget the rest.
+  JP : JP#4347[HIGH]: 「<f040><f041><f042>あとは、忘れちゃったわ
+  FIT: <<TODO — <=24 chars, 1 line(s), <=35/line>>
+
+[US#4246] budget=49ch/2ln
+  NOW: Please don't raise a ruckus in my
+          library with B.
+  JP : JP#4348[HIGH]: 「お願いだから<8aab><8946><8aac>で / 　[0a]せと一<8a55>に<8aad>がないでね
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#4247] budget=86ch/3ln
+  NOW: But, I... I'm not saying that I'm
+          waiting for someone to confess his
+          love for me here.
+  JP : JP#4349[HIGH]: 「<f040><f041><f042>あッ！ / 　私は、単にここで<8804><8aaf>されるのを / 　待っているわけじゃないからね〜<f05b>
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#4248] budget=51ch/2ln
+  NOW: It sounds scary, but at the same
+          time, I'm curious.
+  JP : JP#4350[HIGH]: 「ちょっと、<889c>いけど / 　ちょっと、<8ab5><8ab6>があるわ
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#4249] budget=66ch/3ln
+  NOW: 2...
+          You wouldn't know what this is,
+          would you? No, of course not.
+  JP : JP#4351[HIGH]: 「[05]かは / 　これがなんだか知らない？ / 　〜よね<f05a>
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#4250] budget=84ch/3ln
+  NOW: Oh, me? You know, the usual. I've
+          just been hanging out at my
+          favorite spot -- here.
+  JP : JP#4352[HIGH]: 「〜え？　私？ / 　私は、あいかわらず / 　このお気に入りのココにいつもいるよ[10][0c]「なぜか、これを見てると / 　すいこまれそうになるの〜 / 
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#4251] budget=102ch/3ln
+  NOW: When I stare into this, I feel like
+          I'm being sucked in. At the same
+          time, it feels so familiar to me.
+  JP : JP#4353[HIGH]: 「なぜか、これを見てると / 　すいこまれそうになるの〜 / 　でも、とてもなつかしい信じがする〜
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#4252] budget=28ch/1ln
+  NOW: I'm kinda jealous, actually.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#4253] budget=68ch/2ln
+  NOW: I wish he'd be more to-the-point.
+          But don't tell anyone I said that.
+  JP : JP#4354[MED]: 「ちょっと、ジェラシー信じちゃうわね
+  FIT: <<TODO — <=68 chars, 2 line(s), <=35/line>>
+
+[US#4254] budget=26ch/1ln
+  NOW: That is SO true, isn't it?
+  JP : JP#4356[HIGH]: 「<f040><f041><f042>そうでなくっちゃッ！ || JP#4355[MED]: 「もっと、<8ab7>苦にお願いしたいわよね / 　<f040><f041><f042>私が言ったことは参<8a55>だよ<f04a>
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#4255] budget=27ch/1ln
+  NOW: Why don't you cheer him up?
+  JP : JP#4357[HIGH]: 「元気づけてあげれば？
+  FIT: <<TODO — <=27 chars, 1 line(s), <=35/line>>
+
+[US#4256] budget=92ch/3ln
+  NOW: Only the kid sister of the
+          Eleniak Witch-Girl could do that.
+          What? ARMS isn't a big company?
+  JP : JP#4358[HIGH]: 「さすがは / 　『エレニアックの魔昔っ家』の魂ね / 　〜え？　<8abb><8abc>じゃないの？
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4257] budget=51ch/2ln
+  NOW: Haven't you ever heard of the
+          |Eleniak Witch-Girl|?
+  JP : JP#4359[HIGH]: 「『エレニアックの魔昔っ家』って / 　聞いたことない？
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#4258] budget=41ch/2ln
+  NOW: has been named the
+          Edgeworth-Kuiper Belt.
+  JP : JP#4360[MED]: 「ヴァレリア<8ac2>からの<8ac3><8ac4>で我々はそれを / 　『エッジワース＝カイバーベルト』と / 　呼<895b>することになった[10][0
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#4259] budget=93ch/3ln
+  NOW: This mysterious peril presents a
+          challenge to me as a scientist.
+          For I... [Remainder omitted]
+  JP : JP#4361[HIGH]: 「険く未知の獲干<f040><f041><f042> / 　それが私の<8a87><8ac5>者<8a52>に緊をつけたことと / 　なったのであり〜（以辺、<
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4260] budget=80ch/3ln
+  NOW: I saw what resembled that in a
+          valley by 1the opposite shore of
+          the Inland Sea0.
+  JP : JP#4362[HIGH]: 「〜それならば、シエルジェに協した / 　[11]お参道の対費[11]ぉに谷に<8aaa>まれた場所がある / 　そこにそれらしきものがあったと思うが〜[10]
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#4261] budget=94ch/3ln
+  NOW: But you must raise the drawbridge
+          section of Gate Bridge to get your
+          ship into the Inland Sea.
+  JP : JP#4363[HIGH]: 「だが、そこへ行くにはゲートブリッジの / 　はね<89ec>の字分をあげなくては / 　<89d3>で参道に入ることはできないんだ[10][0c]「はね<89
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#4262] budget=98ch/3ln
+  NOW: The drawbridge-lifting device is at
+          1the west end of Gate Bridge0. Be
+          sure to take a Teleport Orb.
+  JP : JP#4364[HIGH]: 「はね<89ec>の字分を上げる底<8822>は / 　[11]おゲートブリッジの東<89f5>[11]ぉだ / 　テレポートオーブなどを忘れるなよ[10][0
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4263] budget=89ch/3ln
+  NOW: Also... the device is behind
+          a 1chain-link fence0. You'll
+          have to get through it somehow.
+  JP : JP#4365[MED]: 「<f040><f041><f042>ああ、言い忘れていたが / 　その底<8822>は、[11]お金<8aca>[11]ぉで<8aaa>まれてしまっていてね 
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#4264] budget=99ch/3ln
+  NOW: As I was saying, this peril
+          presents a challenge to me. Being a
+          scientist, I... [Remainder omitted]
+  JP : JP#4366[HIGH]: 「〜だが、それが結果的に私の<8a87><8ac5>者<8a52>に / 　緊をつけたこととなったのであり〜 / 　<f040><f041><f042>（以辺、
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#4265] budget=98ch/3ln
+  NOW: The ancients must have created many
+          of those horrible weapons. Is that
+          why they perished, you ask?
+  JP : JP#4367[HIGH]: 「<882d>代人は、<889c>ろしいモノをつくったものだ / 　あんなモノがゴロゴロあったに違いない / 　〜だから、滅亡した〜のか？[10][0c]「ふむ
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4266] budget=102ch/3ln
+  NOW: No one knows. But that mystery
+          presents a challenge to me. Being a
+          scientist, I... [Remainder omitted]
+  JP : JP#4368[HIGH]: 「ふむ、それは<8acb>だが〜 / 　それが私の<8a87><8ac5>者<8a52>に緊をつけたことと / 　なったのであり〜（以辺、<8ac6><8ac7
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#4267] budget=61ch/2ln
+  NOW: Yes, I believe it can be found on a
+          1cape southeast of here0.
+  JP : JP#4369[HIGH]: 「ああ、それだったらここから[11]お先側の<8aa0>[11]ぉに / 　それらしき、モノがあったと思ったよ[10][0c]「だけど、やっかいなことに / 　
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#4268] budget=58ch/2ln
+  NOW: But to get in, you have to pass a
+          1retinal pattern check0.
+  JP : JP#4370[MED]: 「だけど、やっかいなことに / 　中に入るには[11]お<8aca><8acc>パターン[11]ぉを / 　<8acd>合しなければ入れないんだ[10][0c]
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#4269] budget=90ch/3ln
+  NOW: But that, too, presents a challenge
+          to me, for being a scientist,
+          I... [Remainder omitted]
+  JP : JP#4371[HIGH]: 「だが、それが結果的に私の<8a87><8ac5>者<8a52>に / 　緊をつけたこととなったのであり〜 / 　<f040><f041><f042>（以辺、<
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#4270] budget=95ch/3ln
+  NOW: They say it is in the 1sea to the
+          east0, and that the water around
+          it is black for some reason.
+  JP : JP#4372[HIGH]: 「確かココから[11]お側の道[11]ぉにあるって話しだが〜 / 　ああ、それから何<8808>かその<8ace>りの道の<8a07>が / 　<888c>くな
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#4271] budget=89ch/3ln
+  NOW: Such mysteries present a challenge
+          to me, for being a scientist,
+          I... [Remainder omitted]
+  JP : JP#4373[HIGH]: 「〜そう、それが結果的に私の<8a87><8ac5>者<8a52>に / 　緊をつけたこととなったのであり〜 / 　<f040><f041><f042>（以辺、
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#4272] budget=92ch/3ln
+  NOW: If you care for him, whatever you
+          do, do not use the Revive Spell to
+          bring him back to life.
+  JP : JP#4374[HIGH]: 「<f040><f041><f042>だが、<8a4c>生の魔法を使って / 　<8a4c>らそうなどという考えをおこしてはイカン / 　彼のためを思えばこそだ
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4273] budget=90ch/3ln
+  NOW: Oh, how unfortunate! I was in the
+          middle of analysis! How will I
+          satisfy my curiosity now?
+  JP : JP#4375[HIGH]: 「<f040><f041><f042>あぁ、なんということだ / 　解<8ad2><8ad3>中だったのにッ！ / 　このままでは、私の<8a91>跡心が<8a
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#4274] budget=93ch/3ln
+  NOW: Still, this, too, presents a
+          challenge to me, for being a
+          scientist, I... [Remainder omitted]
+  JP : JP#4376[HIGH]: 「〜だが、それが結果的に私の<8a87><8ac5>者<8a52>に / 　緊をつけたこととなったのであり〜 / 　<f040><f041><f042>（以辺、
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4275] budget=62ch/2ln
+  NOW: That teacher said something about
+          |two interfering waveforms.|
+  JP : JP#4377[MED]: 「だが、その守<8ad5>の言っていた / 　『２つの<89d9>悪な<88e0>動』とは？[10][0c]「１つは<8a43>ドラゴンのモノだろうが / 　も
+  FIT: <<TODO — <=62 chars, 2 line(s), <=35/line>>
+
+[US#4276] budget=68ch/2ln
+  NOW: One must be from the Nuclear Dragon
+          but what could the other one be?
+  JP : JP#4378[HIGH]: 「１つは<8a43>ドラゴンのモノだろうが / 　もう１つは、何のことだろうか？
+  FIT: <<TODO — <=68 chars, 2 line(s), <=35/line>>
+
+[US#4277] budget=82ch/3ln
+  NOW: If we did that, perhaps we could
+          destroy whatever it is that is
+          devouring the sky.
+  JP : JP#4379[HIGH]: 「そうすれば / 　<888c>い空を消滅させるコトだって / 　可能かもしれないな
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#4278] budget=85ch/3ln
+  NOW: It must have been one of those
+          relics. I hope whoever has
+          it doesn't use it for evil.
+  JP : JP#4380[HIGH]: 「あれは多分、<882d>代<8aa3>次の奇<8ad6>のひとつじゃな / 　あれを手にした者が / 　悪用していなければよいのじゃが〜
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#4279] budget=82ch/3ln
+  NOW: But don't worry. Even if the spell
+          doesn't work right, it won't be
+          THAT dangerous.
+  JP : JP#4381[HIGH]: 「大<8ad9><8ada>ですよ / 　その魔法は失<893d>しても / 　それほど危険ではないですから〜
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#4280] budget=93ch/3ln
+  NOW: One of them absorbed the other.
+          They merged, then disappeared.
+          I have no idea what they were.
+  JP : JP#4382[HIGH]: 「その参、<8adb>方がもう<8adb>方を取り込むかたちで / 　１つになり、そして消えました〜 / 　あれは、一体なんだったのでしょう？
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4281] budget=76ch/3ln
+  NOW: I'm going to find some way I can
+          help, and I'm going to follow
+          through, too.
+  JP : JP#4383[HIGH]: 「私にできることを見つけて / 　少しでもフォローできるように / 　がんばってみます
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4282] budget=69ch/3ln
+  NOW: Why did I think I could use
+          it without the body and
+          without the soul?
+  JP : JP#4384[HIGH]: 「<8adf>体も<8a52>もないのに / 　無理に『<8a4c>生の魔法』を行えば / 　アンデッドを作り出すだけだったのに〜[10][0c]「こんな<8a
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#4283] budget=66ch/2ln
+  NOW: How could I forget something so
+          basic? I'm a failure as a teacher.
+  JP : JP#4385[HIGH]: 「こんな<8ae0><8a8e>的なことを忘れるなんて / 　私は、守<8ad5>失<8ae1>ですね〜
+  FIT: <<TODO — <=66 chars, 2 line(s), <=35/line>>
+
+[US#4284] budget=19ch/1ln
+  NOW: I feel responsible.
+  JP : JP#4386[MED]: 「私が<8864>わりに実験をしていれば〜
+  FIT: <<TODO — <=19 chars, 1 line(s), <=35/line>>
+
+[US#4285] budget=95ch/3ln
+  NOW: Sometimes the sky brings unexpected
+          things like that. But now the sky
+          itself has been devoured.
+  JP : JP#4387[MED]: 「時として空は思いもよらぬモノを / 　よこして<8a8d>る事があるんだが〜 / 　<8ae7>心の空が無くなってしまってはな〜
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#4286] budget=80ch/3ln
+  NOW: He must be trying to solve some
+          overwhelming problem all by
+          himself -- as usual.
+  JP : JP#4388[MED]: 「何かとんでもない事を / 　いつものように / 　ひとりでかかえこんでいるに違いない[10][0c]「僕たちや、お前さんたちに / 　<8ae8>ち次けてくれ
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#4287] budget=93ch/3ln
+  NOW: Why didn't he just tell us or
+          you guys about it? He would make it
+          easier on himself that way.
+  JP : JP#4389[MED]: 「僕たちや、お前さんたちに / 　<8ae8>ち次けてくれれば / 　もっと<89fa>になれるってのによ
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4288] budget=89ch/3ln
+  NOW: But when it came to research, he
+          was a lone wolf. He never let
+          anyone in on his research.
+  JP : JP#4391[MED]: 「失われた空を見ていると / 　まるで、今回の回を / 　<888e>待していたような<8828><8a5c>りだったな || JP#4390[MED]: 「だが、兄<89b1>はいつもひとりで<8aef><8af0>していた〜 / 　まるで他者を<8af1><8af2>するような / 　<8af3><8aaa>気
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#4289] budget=70ch/3ln
+  NOW: Looking at the sky, I wonder
+          if he knew that this
+          was going to happen.
+  JP : JP#4392[MED]: 「そう、[0a]ぉは / 　『やがて、世界は脅威に<8af4>みこまれる』と / 　言い残してシエルジェを<8af5>ったのだ[10][0c]「彼はいったい /
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#4290] budget=82ch/3ln
+  NOW: Before he left Sielje, 0
+          said, |The world will soon be
+          devoured by a great peril.|
+  JP : (no JP mapped)
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#4291] budget=48ch/3ln
+  NOW: What on earth
+          did he see
+          through this telescope?
+  JP : JP#4393[HIGH]: 「彼はいったい / 　この<8ad4>体<8af6><8a10><8af7>で / 　何を観待していたんだろうか〜
+  FIT: <<TODO — <=48 chars, 3 line(s), <=35/line>>
+
+[US#4292] budget=85ch/3ln
+  NOW: He was particularly interested in
+          the superstitious belief that
+          comets are bad omens.
+  JP : JP#4394[HIGH]: 「中でも彼は / 　<8af9>星と<8afa><8afb>の<89b0>果関係について / 　<8868>心に調べていたっけな〜
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#4293] budget=48ch/2ln
+  NOW: Tell him not to try to solve
+          everything himself.
+  JP : JP#4395[HIGH]: 「何もかもひとりで / 　解決しようと思うな、と[10][0c]「あいつの<8ace>りには / 　あいつと行動を<8b01>にする / 　<8ab9>間がいつ
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#4294] budget=55ch/3ln
+  NOW: He has many friends around
+          him who are willing to
+          help.
+  JP : JP#4396[HIGH]: 「あいつの<8ace>りには / 　あいつと行動を<8b01>にする / 　<8ab9>間がいつもいるんだ[10][0c]「なのに、<8ae7>心のあいつが /
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#4295] budget=34ch/2ln
+  NOW: He still hasn't
+          realized that yet.
+  JP : JP#4397[HIGH]: 「なのに、<8ae7>心のあいつが / 　気づいていないだけなんだ
+  FIT: <<TODO — <=34 chars, 2 line(s), <=35/line>>
+
+[US#4296] budget=34ch/2ln
+  NOW: He formed ARMS
+          shortly after that.
+  JP : JP#4398[HIGH]: 「それからしばらくして / 　ＡＲＭＳを<8ad7><8ad8>している〜[10][0c]「彼がＡＲＭＳを<8ad7><8ad8>したのは / 　<8b02><
+  FIT: <<TODO — <=34 chars, 2 line(s), <=35/line>>
+
+[US#4297] budget=66ch/2ln
+  NOW: It wasn't by coincidence or because
+          of Odessa that he formed ARMS.
+  JP : JP#4399[HIGH]: 「彼がＡＲＭＳを<8ad7><8ad8>したのは / 　<8b02><8844>でも、もちろんオデッサのためでもない[10][0c]「<8a8d>るべき、今回の
+  FIT: <<TODO — <=66 chars, 2 line(s), <=35/line>>
+
+[US#4298] budget=56ch/2ln
+  NOW: He must have been preparing for
+          the peril we face today.
+  JP : JP#4400[HIGH]: 「<8a8d>るべき、今回のために / 　備えていたんじゃないのか？
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#4299] budget=80ch/3ln
+  NOW: But even more mysterious is that
+          0. He must have known
+          this was going to happen.
+  JP : JP#4401[HIGH]: 「でも、それ以上に不可解なのは / 　[0a]ぉのヤツ〜 / 　この異世事態を<888e>待していたみたいなんだ
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#4300] budget=47ch/2ln
+  NOW: Did something happen in the heavens
+          of Filgaia?
+  JP : JP#4402[HIGH]: 「ファルガイアの空に / 　何かあったのか〜？
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#4301] budget=91ch/3ln
+  NOW: He keeps in close contact with his
+          kid sister. She is the only family
+          he has in this world.
+  JP : JP#4403[HIGH]: 「そういえば、まめに魂に連絡していたな / 　たったひとりの<8adf><8a0e>だから / 　大切にしているんだろうな
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#4302] budget=84ch/3ln
+  NOW: I still think of him as a friend,
+          so if there's anything I can do,
+          just let me know.
+  JP : JP#4404[MED]: 「だから、今でも<8b04>力するぜ / 　できることがあったら / 　何でも言ってくれ
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#4303] budget=24ch/1ln
+  NOW: I guess I'm getting old.
+  JP : JP#4405[HIGH]: 「もう、<8b06>かのぉ〜
+  FIT: <<TODO — <=24 chars, 1 line(s), <=35/line>>
+
+[US#4304] budget=24ch/1ln
+  NOW: I guess I'm getting old.
+  JP : JP#4406[HIGH]: 「もう、<8b06>かのぉ〜
+  FIT: <<TODO — <=24 chars, 1 line(s), <=35/line>>
+
+[US#4305] budget=24ch/1ln
+  NOW: I guess I'm getting old.
+  JP : JP#4407[HIGH]: 「もう、<8b06>かのぉ〜
+  FIT: <<TODO — <=24 chars, 1 line(s), <=35/line>>
+
+[US#4306] budget=24ch/1ln
+  NOW: I guess I'm getting old.
+  JP : JP#4408[HIGH]: 「もう、数かのぉ〜
+  FIT: <<TODO — <=24 chars, 1 line(s), <=35/line>>
+
+[US#4307] budget=24ch/1ln
+  NOW: I guess I'm getting old.
+  JP : JP#4409[MED]: 「もう、数かのぉ〜
+  FIT: <<TODO — <=24 chars, 1 line(s), <=35/line>>
+
+[US#4308] budget=64ch/2ln
+  NOW: I'm old enough to be her grand-
+          father, but I enjoy her company.
+  JP : JP#4411[MED]: 「こんな時だからこそ / 　必要なコトだと思わない？ || JP#4410[MED]: 「<8b06>は、ワシの<8b0a>くらい離れておるんじゃが / 　<8abd>達ができたようでうれしいのぉ
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#4309] budget=37ch/2ln
+  NOW: That's important
+          in a time like this.
+  JP : JP#4412[MED]: 「でも、あなた方が倒してくれたようですね / 　私からもお<8928>を言わせていただきますよ / 　それから、このことは他言無用ですぞ
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#4310] budget=90ch/3ln
+  NOW: They also said you defeated it. For
+          that, I thank you. Just don't tell
+          anyone I said that.
+  JP : JP#4413[MED]: 「こんなことを言うとあなた方に / 　<8b18>られるかもしれませんが / 　一目、そのドラゴンを<8b19>見したかったですね
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#4311] budget=80ch/3ln
+  NOW: Don't take this the wrong way,
+          but I always wanted to see that
+          Dragon in person.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#4312] budget=90ch/3ln
+  NOW: I don't have a clue. Why don't you
+          ask Mr. McGregor? That guy
+          knows just about everything.
+  JP : JP#4414[MED]: 「<f040><f041><f042>さあ、ちょっと分からないですね / 　物知りなマクレガー先生なら / 　知っているかもしれませんよ
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#4313] budget=99ch/3ln
+  NOW: It's the skeleton of a dragon, half
+          machine and half living being. Most
+          people call them |fossils.|
+  JP : JP#4415[HIGH]: 「あれは、機艇と生体の中間に級<8822>する / 　『幻獣ドラゴン』の奇<8b1f>だ / 　一<8a81>に『合谷』と呼ばれている[10][0c]「ここまで
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#4314] budget=60ch/3ln
+  NOW: It's extremely rare
+          to find one completely intact
+          like this.
+  JP : JP#4416[HIGH]: 「ここまで / 　<88ad>険に<8b20><8ae1>が贄って<885f>り出されたのは / 　ごく<8b22>なことだよ
+  FIT: <<TODO — <=60 chars, 3 line(s), <=35/line>>
+
+[US#4315] budget=16ch/1ln
+  NOW: Go take a look!2
+  JP : JP#4417[HIGH]: 「行ってみるかい？[18]か
+  FIT: <<TODO — <=16 chars, 1 line(s), <=35/line>>
+
+[US#4316] budget=35ch/1ln
+  NOW: What? You want to go back to town?2
+  JP : JP#4418[HIGH]: 「〜ん？　場にもどるのかい？[18]か
+  FIT: <<TODO — <=35 chars, 1 line(s), <=35/line>>
+
+[US#4317] budget=35ch/1ln
+  NOW: What? You want to go back to town?2
+  JP : JP#4419[HIGH]: 「〜ん？　場にもどるのかい？[18]か
+  FIT: <<TODO — <=35 chars, 1 line(s), <=35/line>>
+
+[US#4318] budget=35ch/1ln
+  NOW: What? You want to go back to town?2
+  JP : JP#4420[MED]: 「〜ん？　場にもどるのかい？[18]か
+  FIT: <<TODO — <=35 chars, 1 line(s), <=35/line>>
+
+[US#4319] budget=71ch/3ln
+  NOW: The rate is  Gella a night
+          per person. For  people,
+          that's  total. OK?2
+  JP : JP#4421[HIGH]: 「おひとり方につき一緒[02]ギャラ / 　[02]人方ですので、[02]ギャラとなります / 　よろしいですか？[18]か
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#4320] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4422[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4321] budget=97ch/3ln
+  NOW: *Once your Force has accumulated to
+          a certain level, you can channel it
+          to create special powers.
+  JP : JP#4423[HIGH]: ＊『フォース』が一奮<8875><8b37>まり / 　それを解殺することで / 　簡単な力を発揮することができるのだ[10][0c]＊ただし、『フォース』を使
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#4322] budget=81ch/3ln
+  NOW: *After using Force, you will be
+          fatigued, and your remaining FP
+          level may be low.
+  JP : JP#4424[HIGH]: ＊ただし、『フォース』を使用すると / 　その分の<88ea><8b36>力が消<8b38>されるため / 　使用後のフォース残<886f>に<88f7>意が必
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#4323] budget=90ch/3ln
+  NOW: *Take heed, because you may end up
+          with insufficient Force to use your
+          spells or your ARM.
+  JP : JP#4425[HIGH]: ＊場合によっては / 　魔法やＡＲＭを使うための / 　<88ea><8b36>力が残っていないこともあり得る[10][0c]＊『フォース』は強力な<8b39>
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#4324] budget=83ch/3ln
+  NOW: *Force can be a powerful weapon
+          when used at the right time
+          and at the right place.
+  JP : JP#4426[HIGH]: ＊『フォース』は強力な<8b39>果を持つので / 　使いどころを間違わなければ / 　<8af2>大な<8b39>果を発揮するだろう
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#4325] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4427[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4326] budget=82ch/3ln
+  NOW: *The west side of Gate Bridge is
+          off-limits and is enclosed in
+          a chain-link fence.
+  JP : JP#4428[HIGH]: ＊なお、ゲートブリッジ東<89f5>には / 　関係者以外戻ち入り<8b3c>止の為 / 　金<8aca>が<8a39>ってあります[10][0c]＊また、シエ
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#4327] budget=62ch/2ln
+  NOW: *This bridge controls maritime
+          traffic into Sielje Inland Sea.
+  JP : JP#4429[HIGH]: ＊また、シエルジェ参道への / 　<88fa>加仲制もこの<89ec>によって<8847>っています
+  FIT: <<TODO — <=62 chars, 2 line(s), <=35/line>>
+
+[US#4328] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4430[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4329] budget=76ch/3ln
+  NOW: *The major elemental attributes are
+          Earth, Water, Fire, Wind, and
+          Lightning.
+  JP : JP#4431[HIGH]: ＊<8b3e>だったところでは / 　『地』『<88a1>』『緊』『<89f9>』『<8b3f>』 / 　などである[10][0c]＊モンスターと呼ばれる異<8
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4330] budget=71ch/3ln
+  NOW: *Many monsters also have
+          attributes. Some attributes
+          can be a weakness.
+  JP : JP#4432[HIGH]: ＊モンスターと呼ばれる異<88e1>のものたちも / 　同方に勝性を持つものが年多くいる / 　そして、<89b9>帯となる勝性もある[10][0c]＊つまり、
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#4331] budget=102ch/3ln
+  NOW: *To maximize the damage you inflict
+          on a monster, use a spell with the
+          same attribute as its weakness.
+  JP : JP#4433[HIGH]: ＊つまり、モンスターの<89b9>帯勝性の / 　魔法で間撃することで / 　より大きなダメージを機えられる[10][0c]＊<89c1>に、勝性である魔法で間
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#4332] budget=69ch/2ln
+  NOW: *But matching attributes may also
+          make a spell attack less effective.
+  JP : JP#4434[HIGH]: ＊<89c1>に、勝性である魔法で間撃しても / 　作<8b39>な間撃方法には為らないのである[10][0c]＊クレストソーサラーは世に / 　勝性を気にしな
+  FIT: <<TODO — <=69 chars, 2 line(s), <=35/line>>
+
+[US#4333] budget=89ch/3ln
+  NOW: *A true Crest Sorcerer must master
+          attributes and always consider them
+          when using spells.
+  JP : JP#4435[HIGH]: ＊クレストソーサラーは世に / 　勝性を気にしながら魔法を使う必要がある / 　勝性を帰めて<8ae0>めて一人前といえるだろう
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#4334] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4436[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4335] budget=67ch/2ln
+  NOW: *It instantly takes the user to the
+          place that the user visualizes.
+  JP : JP#4437[HIGH]: ＊使用者の<8937><89f1>にある情気を変<88fb>し / 　その地へ一汽にして運ぶことができる[10][0c]＊ただし、そのテレポート先は / 　場や
+  FIT: <<TODO — <=67 chars, 2 line(s), <=35/line>>
+
+[US#4336] budget=95ch/3ln
+  NOW: *But it is not perfect, and can only
+          transport the user to certain
+          places, as a town or castle.
+  JP : JP#4438[HIGH]: ＊ただし、そのテレポート先は / 　場や<893b>に<8ae4>奮されるなど / 　機能的に<88ad><8a98>といえるものではない[10][0c]＊時<
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#4337] budget=95ch/3ln
+  NOW: *Another problem with this item is
+          that it sometimes transports the
+          user to the wrong location.
+  JP : JP#4439[HIGH]: ＊時<88dd>、指奮外の所へテレポートするなど / 　まだまだ<8b26>良の畿地のある / 　魔仲アイテムだといえる
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#4338] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4440[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4339] budget=91ch/3ln
+  NOW: *A Crest eliminates the need for
+          troublesome rituals, such as
+          the drawing of magic symbols.
+  JP : JP#4441[HIGH]: ＊クレストグラフを使用することで / 　魔法発動に必要な魔法<8a77>の作成など / 　協倒な歩<8883>が不要となるのだ[10][0c]＊時<88dd>、
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#4340] budget=94ch/3ln
+  NOW: *Occasionally, one will encounter a
+          highly powerful form of Crest
+          Graph: the Rare Crest Graph.
+  JP : JP#4442[HIGH]: ＊時<88dd>、レア・クレストグラフと呼ばれる / 　加世の<8b39>果を祈かに上回る<8b39>果を発揮する / 　クレストグラフができあがることがある[
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#4341] budget=103ch/3ln
+  NOW: *This item supercharges a spell by
+          boosting its impact or making it
+          work on a larger number of targets.
+  JP : JP#4443[HIGH]: ＊同じ魔法でも威力がアップしたり / 　ターゲットの季勇など / 　その<8b39>果は<8af2>大だといえる[10][0c]＊レア・クレストグラフを手に入れ
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#4342] budget=87ch/3ln
+  NOW: *If you acquire a Rare Crest Graph,
+          think carefully about what type of
+          spell to create.
+  JP : JP#4444[HIGH]: ＊レア・クレストグラフを手に入れたら / 　どの魔法を作成するかが / 　考えどころになってくるだろう
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#4343] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4445[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4344] budget=81ch/3ln
+  NOW: *Using ancient texts, some sorcerers
+          are attempting to revive this
+          ancient magic.
+  JP : JP#4446[HIGH]: ＊それらの<8aa3>規が記分か残っていたため / 　魔法<8a5a>者の間で、その<882d>代魔法の<8a6a><8a84>を / 　試みるものも少なくない
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#4345] budget=63ch/2ln
+  NOW: *These texts can teach us the full
+          profundity of ancient magic.
+  JP : JP#4447[HIGH]: ＊貴世代の魔法体稀の<892a><896e>さを / 　現帰に<88a6>える<8858>要<8aa3>規である[10][0c]＊もし、この<882d>代魔法が
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4346] budget=89ch/3ln
+  NOW: *Ancient magic is considered
+          Level 2, a higher level than
+          modern magic, which is Level 1.
+  JP : JP#4448[HIGH]: ＊もし、この<882d>代魔法が<8a6a><8a84>したならば / 　現帰の魔法をレベル１とし / 　上級魔法に級<8822>づけレベル２と名<88be>け
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#4347] budget=90ch/3ln
+  NOW: *If revived, this High Level Magic
+          would lead to leaps in research on
+          the power of spells.
+  JP : JP#4449[HIGH]: ＊上級魔法が<8a6a><8a84>したならば / 　さらなる魔法<8b39>果の兄<89b1>も / 　<8a84>発になっていくことだろう
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#4348] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4450[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4349] budget=101ch/3ln
+  NOW: *Named Crimson Nobles, these beings
+          were virtually immortal, and so
+          were also called |The Immortals.|
+  JP : JP#4451[HIGH]: ＊その名を『ノーブルレッド<8aed>』 / 　飢<8a10>に近い騎命と / 　不死といわれる<8adf>体を持った起<8aed>である[10][0c]＊単名
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#4350] budget=66ch/2ln
+  NOW: *The Immortals are also said to
+          have ruled the world in their day.
+  JP : JP#4452[HIGH]: ＊単名・イモータルとも呼ばれ / 　この地上を鬼配していたともいわれる[10][0c]＊強力な<8adf>体を持つ長騎の起<8aed>にありがちな / 　<8a
+  FIT: <<TODO — <=66 chars, 2 line(s), <=35/line>>
+
+[US#4351] budget=84ch/3ln
+  NOW: *As with most long-lived species,
+          there are few recorded sightings
+          of the Immortals.
+  JP : JP#4453[HIGH]: ＊強力な<8adf>体を持つ長騎の起<8aed>にありがちな / 　<8af2>対亀体年の少なさから / 　目撃<8943>も少なく<88a6>説の起<8aed
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#4352] budget=61ch/2ln
+  NOW: *Hence, many today believe the
+          Immortals to be a mere legend.
+  JP : JP#4454[HIGH]: ＊近数では空違上の起<8aed>であった / 　とする、説も<89da>がりつつある
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#4353] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4455[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4354] budget=63ch/3ln
+  NOW: *Monster Dragons are one of
+          Filgaia's most unusual
+          creatures...
+  JP : JP#4456[HIGH]: ＊『幻獣ドラゴン』は / 　ファルガイアにおいて / 　簡異な存帰だといえる[10][0c]＊大きな簡偽として / 　機艇と儀<8adf>を持った生命体との /
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#4355] budget=62ch/3ln
+  NOW: *for they are a fusion of
+          machine and living, breathing
+          flesh.
+  JP : JP#4457[HIGH]: ＊大きな簡偽として / 　機艇と儀<8adf>を持った生命体との / 　妓合体であることである[10][0c]＊その<8adf>体は我々の知る / 　どのような
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#4356] budget=81ch/3ln
+  NOW: *The Dragons' living component is
+          unlike any other being known
+          to modern science.
+  JP : JP#4458[HIGH]: ＊その<8adf>体は我々の知る / 　どのような生物にも当てはまらない / 　『仲<8ae1>外』の生き物なのだ[10][0c]＊ファルガイアに元<8a8d>
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#4357] budget=98ch/3ln
+  NOW: *We have no way of knowing if they
+          are a species native to Filgaia, or
+          chimera created by sorcery.
+  JP : JP#4459[HIGH]: ＊ファルガイアに元<8a8d>いた起<8aed>なのか / 　それとも魔法による『キメラ』なのか / 　いまはしる<8ac5>はない[10][0c]＊『幻獣ドラ
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4358] budget=86ch/3ln
+  NOW: *Ancient texts say the Dragons
+          possess a strength comparable to
+          that of the Guardians.
+  JP : JP#4460[HIGH]: ＊『幻獣ドラゴン』を<8937>した<8aa3>規において / 　その力は、ガーディアンにも宜相すると / 　されている
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#4359] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4461[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4360] budget=95ch/3ln
+  NOW: *This is the ability to bring out
+          the hidden power in an item to make
+          that item more effective.
+  JP : JP#4462[HIGH]: ＊これは / 　アイテムの隠された力を解殺し / 　より<8867>い<8b39>果を発揮させる力である[10][0c]＊『ヒールベリー』を使い / 　パーティ
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#4361] budget=84ch/3ln
+  NOW: *Mystic can be used for healing,
+          such as using a Heal Berry to heal
+          an entire party.
+  JP : JP#4463[HIGH]: ＊『ヒールベリー』を使い / 　パーティー険<8b11>の回<8a6a>するなど / 　回<8a6a>に使われることが多い[10][0c]＊しかし、他にも隠され
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#4362] budget=60ch/2ln
+  NOW: *There are also many other items
+          with hidden powers in them.
+  JP : JP#4464[HIGH]: ＊しかし、他にも隠された能力を持った / 　アイテムが年多く存帰している[10][0c]＊消<8b38>アイテムに / 　ミスティック<8b39>果があることが
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#4363] budget=80ch/3ln
+  NOW: *Many consumable items have this
+          |mystic effect,| as do some
+          types of equipment.
+  JP : JP#4465[HIGH]: ＊消<8b38>アイテムに / 　ミスティック<8b39>果があることが多いが / 　底備<892e>などにも<8b39>果のあるものがある
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#4364] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4466[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4365] budget=97ch/3ln
+  NOW: *back-to-back use of spells of the
+          same or opposite attributes. But
+          such techniques are unproven.
+  JP : JP#4467[HIGH]: ＊同勝性の魔法の連<8a18>使用 / 　反勝性の魔法の連<8a18>使用 / 　しかし、その<8b39>果は実戯されていない[10][0c]＊クレストソーサラ
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#4366] budget=98ch/3ln
+  NOW: *Combined Spells are created by
+          every Crest Sorcerer, but their
+          effectiveness has not been proven.
+  JP : JP#4468[HIGH]: ＊クレストソーサラーであれば / 　誰もが一度は考える『合体魔法』 / 　その<8b39>果を実戯したものはいない[10][0c]＊もし、『合体魔法』の法技性を
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4367] budget=96ch/3ln
+  NOW: *If discovered, the law governing
+          Combined Spells would be a major
+          milestone in sorcery history.
+  JP : JP#4469[HIGH]: ＊もし、『合体魔法』の法技性を見つけたなら / 　シエルジェはおろか、魔法擬に残る / 　大きな発見となるだろう[10][0c]＊現存するレベル１魔法での<8a
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#4368] budget=52ch/2ln
+  NOW: *Every combination of Level 1
+          spells has been tried.
+  JP : JP#4470[HIGH]: ＊現存するレベル１魔法での<8ad7>み合わせは / 　険て試されたといってもいい[10][0c]＊残る欺<8af6>は / 　<882d>代の魔法、レベル２魔
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#4369] budget=91ch/3ln
+  NOW: *The only hope is to revive the
+          ancient Level 2 spells and test
+          new combinations with them.
+  JP : JP#4471[HIGH]: ＊残る欺<8af6>は / 　<882d>代の魔法、レベル２魔法<8a6a><8a84>による / 　<8ad7>み合わせの多方合しかないだろう
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#4370] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4472[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4371] budget=93ch/3ln
+  NOW: *Thus, a given spell will be more
+          effective when it is cast by
+          someone with a high SOR level.
+  JP : JP#4473[HIGH]: ＊同じ魔法でも / 　『ＳＯＲ』の<8867>い<8ac5>者の方が / 　より<8867>い<8b39>果が得られるのである[10][0c]＊<8867>い魔
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4372] budget=90ch/3ln
+  NOW: *To make a spell more effective,
+          you can temporarily boost SOR
+          with equipment or a Medium.
+  JP : JP#4474[HIGH]: ＊<8867>い魔法<8b39>果を得たいのであれば / 　底備<892e>やミーディアムを底備することで / 　一時的に『ＳＯＲ』を<8867>めるのも手であ
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#4373] budget=103ch/3ln
+  NOW: *But remember: Equipment and Mediums
+          when used to boost magic powers,
+          confer only |borrowed| abilities.
+  JP : JP#4475[HIGH]: ＊しかし、底備<892e>やミーディアムによって / 　一時的に魔力が<8867>くなっても所犠は / 　『<8a9a>り物』の能力でしかないことを知れ[10]
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#4374] budget=66ch/2ln
+  NOW: *Neglect your training in magic,
+          and it will all come back on you.
+  JP : JP#4476[HIGH]: ＊魔力を上げる疑祇を義れば / 　それは険て自分に<8a67>ってくるのである
+  FIT: <<TODO — <=66 chars, 2 line(s), <=35/line>>
+
+[US#4375] budget=65ch/3ln
+  NOW: Come on, we have to hurry up
+          and get those data tablets
+          analyzed.
+  JP : JP#4477[HIGH]: 「ねぇ、急いで / 　データタブレットの解<8ad2>を / 　すませちゃおうよ[10][0c][17]
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#4378] budget=65ch/2ln
+  NOW: I'm just... wandering the earth...
+          to perfect my fighting skills.
+  JP : JP#4480[HIGH]: 「何ていうか、その<f040><f042> / 　貴<8b1c>議掬、<8b2f>者<8af8><8a57>〜
+  FIT: <<TODO — <=65 chars, 2 line(s), <=35/line>>
+
+[US#4379] budget=12ch/1ln
+  NOW: Let's see...
+  JP : JP#4481[HIGH]: 「ええっと〜
+  FIT: <<TODO — <=12 chars, 1 line(s), <=35/line>>
+
+[US#4381] budget=40ch/2ln
+  NOW: And you were always trying
+          to hit on me!
+  JP : JP#4483[HIGH]: 「いっつもわたしに / 　ちょっかい出してくるし[10][0c]「このあいだ、たまたま、わたしの方が / 　試験でいい帯出したからって / 　誼期、誼期ってうる
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#4382] budget=92ch/3ln
+  NOW: Then, when I finally get a better
+          test score than you, you challenge
+          me to a spell showdown.
+  JP : JP#4484[HIGH]: 「このあいだ、たまたま、わたしの方が / 　試験でいい帯出したからって / 　誼期、誼期ってうるさいし〜[10][0c][17]
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4384] budget=34ch/2ln
+  NOW: We need to see
+          your top scientist.
+  JP : JP#4486[HIGH]: 「<8847>当<8a87><8ac5>者に / 　<8afd>いたいのだが〜
+  FIT: <<TODO — <=34 chars, 2 line(s), <=35/line>>
+
+[US#4385] budget=52ch/3ln
+  NOW: I recommend that you
+          go to Mr. McGregor's
+          classroom.
+  JP : JP#4487[HIGH]: 「それでしたら / 　マクレガー守<8aac>を / 　<8aeb>ねることをおすすめします[10][0c]「俺がひと<8921>先に / 　お話を加してみます
+  FIT: <<TODO — <=52 chars, 3 line(s), <=35/line>>
+
+[US#4386] budget=47ch/2ln
+  NOW: I'll go ahead of you and explain
+          the situation.
+  JP : JP#4488[HIGH]: 「俺がひと<8921>先に / 　お話を加してみます[10][0c]「みなさんは / 　後でいらしてください
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#4387] budget=41ch/2ln
+  NOW: I will see you at the classroom
+          later on.
+  JP : JP#4489[HIGH]: 「みなさんは / 　後でいらしてください
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#4388] budget=31ch/1ln
+  NOW: A little arrogant, but still...
+  JP : JP#4490[HIGH]: 「ちょっと、アレだけど
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#4389] budget=30ch/1ln
+  NOW: Let's get started immediately.
+  JP : JP#4491[HIGH]: 「さっそく、解<8ad2>に入るとしよう
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#4390] budget=17ch/1ln
+  NOW: I'll get one now.
+  JP : JP#4492[HIGH]: 「今すぐ用意するとしよう
+  FIT: <<TODO — <=17 chars, 1 line(s), <=35/line>>
+
+[US#4391] budget=92ch/3ln
+  NOW: All 3 data tablets were shielded by
+          an amazingly strong Protect Spell.
+          It impressed even me.
+  JP : JP#4493[HIGH]: 「３桔のデータタブレットには / 　実に強<8947>なプロテクトがかかっておった / 　さしもの私もこれには<8845>いたな[10][0c]「だが、それが結
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4392] budget=61ch/3ln
+  NOW: But this presented a challenge to
+          me as a scientist.
+          For I...
+  JP : JP#4494[HIGH]: 「だが、それが結果的に / 　私の<8a87><8ac5>者<8a52>に / 　緊をつけたこととなったのであり<f040><f042>
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#4393] budget=23ch/1ln
+  NOW: Now, as I was saying...
+  JP : JP#4495[HIGH]: 「では、あらためて〜[10][0c][17]
+  FIT: <<TODO — <=23 chars, 1 line(s), <=35/line>>
+
+[US#4397] budget=82ch/3ln
+  NOW: Data in the tablets suggest
+          some sort of high-quality
+          energy refinement operation.
+  JP : JP#4499[HIGH]: 「<8867><886e><886f>の / 　エネルギー<88ea><8b1d>データが / 　タブレット参からうかがえる[10][0c]「でも、よくわからな
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#4398] budget=98ch/3ln
+  NOW: But why would they choose a place
+          where they risk being blown to
+          bits in the event of an accident?
+  JP : JP#4500[HIGH]: 「でも、よくわからないな / 　そんな危険なところをアジトにしたら / 　もしもの時にドッカンだぞ
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4399] budget=7ch/1ln
+  NOW: >Hmm...
+  JP : JP#4501[HIGH]: ＞〜〜〜〜[10][0c]＞これは、またとない機<89ba>だな / 　私たちが橘らに先んじて / 　行動が取れそうだ〜[10][0c][17]
+  FIT: <<TODO — <=7 chars, 1 line(s), <=35/line>>
+
+[US#4400] budget=68ch/3ln
+  NOW: >This is our chance
+          to finally get the drop on
+          those terrorist pigs.
+  JP : JP#4502[HIGH]: ＞これは、またとない機<89ba>だな / 　私たちが橘らに先んじて / 　行動が取れそうだ〜[10][0c][17]
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#4402] budget=50ch/2ln
+  NOW: We'd finally be able to put THEM
+          on the defensive.
+  JP : JP#4504[MED]: 「相手の<8b1a>合を / 　気にしないですむな
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#4403] budget=76ch/3ln
+  NOW: I can't get any additional
+          information out of the tablets
+          without more time.
+  JP : JP#4505[HIGH]: 「データタブレットから / 　これ以上の情報を招き出すには / 　あと一回必要だ
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4404] budget=86ch/3ln
+  NOW: >I suggest that you get some rest
+          before tomorrow. You've got
+          a long day ahead of you.
+  JP : JP#4506[HIGH]: ＞そうだな、ＡＲＭＳの貴様も / 　次回に備えて<89bf>んでいてくれ / 　<89bf><89e2>も任務のひとつだ[10][0c]＞では、解<8b0f>だ
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#4405] budget=36ch/1ln
+  NOW: >OK, everyone. Get to your quarters.
+  JP : JP#4507[HIGH]: ＞では、解<8b0f>だ
+  FIT: <<TODO — <=36 chars, 1 line(s), <=35/line>>
+
+[US#4409] budget=65ch/2ln
+  NOW: Your magic isn't advanced enough.
+          You could get hurt... or worse.
+  JP : JP#4511[HIGH]: 「キミの魔法の<8a87><886f>では / 　いずれ、大ケガではすまなくなる[10][0c][17]
+  FIT: <<TODO — <=65 chars, 2 line(s), <=35/line>>
+
+[US#4411] budget=63ch/2ln
+  NOW: I know my grades aren't that hot,
+          but I do well under pressure.
+  JP : JP#4513[HIGH]: 「やっぱり、わたしって / 　現場向きなのよ[10][0c]「砧一、[0a]せに誼った / 　あの時のテストだって / 　実地テストだったし〜
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4412] budget=97ch/3ln
+  NOW: The only time I ever got a better
+          test score than you was in an
+          actual spell-casting test, right?
+  JP : JP#4514[HIGH]: 「砧一、[0a]せに誼った / 　あの時のテストだって / 　実地テストだったし〜
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#4413] budget=4ch/1ln
+  NOW: I...
+  JP : JP#4515[HIGH]: 「その〜[10][0c]「俺との誼期は / 　どうなるんだッ！[10][0c]「[05]かは〜 / 　キミのお<8a64>さんとは / 　違うんだぞ<f040>
+  FIT: <<TODO — <=4 chars, 1 line(s), <=35/line>>
+
+[US#4414] budget=54ch/2ln
+  NOW: Besides, you wouldn't be able to
+          take up my challenge.
+  JP : JP#4516[HIGH]: 「俺との誼期は / 　どうなるんだッ！[10][0c]「[05]かは〜 / 　キミのお<8a64>さんとは / 　違うんだぞ<f040><f042>
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#4415] budget=61ch/3ln
+  NOW: 2, you have to
+          accept that you're not
+          as good as your sister!
+  JP : JP#4517[MED]: 「[05]かは〜 / 　キミのお<8a64>さんとは / 　違うんだぞ<f040><f042>
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#4416] budget=64ch/3ln
+  NOW: This is so exciting...
+          A midnight trip to the
+          museum of wonders!
+  JP : JP#4518[HIGH]: 「何だかわくわくしてくる / 　不思議な<8b10>物<899b>の輝〜 / 　えへへ〜[10][0c]「この時間のここはね / 　わたしの大<8a91>きな人
+  FIT: <<TODO — <=64 chars, 3 line(s), <=35/line>>
+
+[US#4417] budget=77ch/3ln
+  NOW: Coming here at this time of night
+          reminds me of someone
+          very important to me.
+  JP : JP#4519[HIGH]: 「この時間のここはね / 　わたしの大<8a91>きな人しか / 　知らないんだよ
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#4418] budget=62ch/3ln
+  NOW: We were always together, my sister
+          and I. I loved her
+          so much.
+  JP : JP#4520[HIGH]: 「ずっと、ふたりいっしょだった / 　いちばん大<8a91>きだった / 　お<8a64>ちゃん〜
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#4420] budget=98ch/3ln
+  NOW: I never wanted to go through that
+          kind of pain again. So I decided
+          never to care for anyone again.
+  JP : JP#4522[HIGH]: 「大<8a91>きなひとと / 　<8a10>く離れてしまうのがこんなに却しいのなら / 　もう、誰も<8a91>きにならないって決めたの[10][0c][17
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4422] budget=29ch/2ln
+  NOW: You won't leave me,
+          will you?
+  JP : JP#4524[HIGH]: 「[05]ぉは / 　<8a10>くに行ったりしないよね？
+  FIT: <<TODO — <=29 chars, 2 line(s), <=35/line>>
+
+[US#4423] budget=65ch/3ln
+  NOW: Of course I won't. None of us will.
+          Not me, or 1 or 3.
+          Or even 0.
+  JP : JP#4525[HIGH]: 「もちろん<f040><f042> / 　[05]おも、[05]がも / 　[0a]ぉさんも、そしてみんなも〜[10][0c]「客重してよ。でないと<f040>
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#4424] budget=83ch/3ln
+  NOW: You'd better promise not to,
+          otherwise I'll never be able to
+          care for anyone again.
+  JP : JP#4526[HIGH]: 「客重してよ。でないと<f040><f042> / 　わたしは一生 / 　誰も<8a91>きになれないよ
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#4425] budget=30ch/2ln
+  NOW: My big sister taught it
+          to me.
+  JP : JP#4527[HIGH]: 「お<8a64>ちゃんに / 　守えてもらったんだ[10][0c]「わたしも、お<8a64>ちゃんみたいになるんだ / 　誰かを復探にさせる / 　おまじないを
+  FIT: <<TODO — <=30 chars, 2 line(s), <=35/line>>
+
+[US#4426] budget=80ch/3ln
+  NOW: I want to be like my sister. I want
+          to create my own charm
+          to make people smile.
+  JP : JP#4528[HIGH]: 「わたしも、お<8a64>ちゃんみたいになるんだ / 　誰かを復探にさせる / 　おまじないを見つけるんだ〜
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#4427] budget=27ch/2ln
+  NOW: Well, then,
+          let's get busy!
+  JP : JP#4529[HIGH]: 「じゃあ / 　そうと決まれば急がなくっちゃッ！
+  FIT: <<TODO — <=27 chars, 2 line(s), <=35/line>>
+
+[US#4428] budget=34ch/1ln
+  NOW: Hmm. Let me see that for a minute.
+  JP : JP#4530[HIGH]: 「ちょっと<8b19><8a9a>するの
+  FIT: <<TODO — <=34 chars, 1 line(s), <=35/line>>
+
+[US#4429] budget=22ch/2ln
+  NOW: Hey...
+          That's strange.
+  JP : JP#4531[HIGH]: 「あっれ〜 / 　おかしいな〜
+  FIT: <<TODO — <=22 chars, 2 line(s), <=35/line>>
+
+[US#4431] budget=61ch/2ln
+  NOW: >Only you-know-who could have
+          pulled off something like this.
+  JP : JP#4533[HIGH]: ＞こんなことができるのは / 　ヤツらしかいない[10][0c]＞貴様らの出番だ[10][0c]＞データタブレットから虐知される / 　<8947>作パターンは
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#4432] budget=18ch/1ln
+  NOW: >I need your help.
+  JP : JP#4534[HIGH]: ＞貴様らの出番だ[10][0c]＞データタブレットから虐知される / 　<8947>作パターンは / 　シエルジェより[11]お先東の方<894b>[11]ぉに
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#4433] budget=76ch/3ln
+  NOW: >The data tablets' ID pattern was
+          detected moving 1southwest0
+          out of Sielje.
+  JP : JP#4535[HIGH]: ＞データタブレットから虐知される / 　<8947>作パターンは / 　シエルジェより[11]お先東の方<894b>[11]ぉに移動中[10][0c]＞ただちに
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4434] budget=41ch/2ln
+  NOW: >I want you to begin pursuit
+          immediately.
+  JP : JP#4536[HIGH]: ＞ただちに / 　追跡にあたってほしい
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#4435] budget=47ch/2ln
+  NOW: Ah ha! They're going to go through
+          Gate Bridge!
+  JP : JP#4537[HIGH]: 「そうかッ！ / 　ゲートブリッジを抜けるつもりだな[10][0c]「こいつがゲートを渡るのに必要なカギだ / 　持っていくがいいよ
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#4436] budget=59ch/2ln
+  NOW: This key will get you across Gate
+          Bridge. Take it with you.
+  JP : JP#4538[HIGH]: 「こいつがゲートを渡るのに必要なカギだ / 　持っていくがいいよ
+  FIT: <<TODO — <=59 chars, 2 line(s), <=35/line>>
+
+[US#4437] budget=61ch/3ln
+  NOW: (Wait a sec...
+          How did they even find out
+          we were in Sielje?)
+  JP : JP#4539[HIGH]: （それよりも〜 / 　シエルジェ自分<89b7>に逆れている事が / 　連中にわかったのだろう〜？[10][0c]（まさか、参加者が〜 / 　いや、そんなことは
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#4438] budget=64ch/2ln
+  NOW: (Could someone be feeding them
+          information? No! It couldn't be!)
+  JP : JP#4540[MED]: （まさか、参加者が〜 / 　いや、そんなことは<8af2>対に〜）
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#4439] budget=92ch/3ln
+  NOW: A Spell Bomb that sends a bomb
+          blast between dimensions. Don't you
+          remember that from class?
+  JP : JP#4541[MED]: 「異世界に詰発の脚撃を / 　<8a85>移させる簡単な魔法詰<8b29><f040><f042> / 　貸<8a57>で暮っただろ？
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4441] budget=90ch/3ln
+  NOW: You'd better not get killed out
+          there, 'cause when you get back,
+          we're going head to head!
+  JP : JP#4543[HIGH]: 「無事に帰って<8a8d>いよ / 　帰ってきたら / 　俺と誼期するんだッ！[10][0c]「そして今度こそは<f040><f042>
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#4442] budget=22ch/1ln
+  NOW: And let me tell you...
+  JP : JP#4544[HIGH]: 「そして今度こそは<f040><f042>
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#4443] budget=31ch/2ln
+  NOW: I don't have time for
+          this now!
+  JP : JP#4545[HIGH]: 「こんなところで / 　戻ち止まってられないの[10][0c]「じゃあねッ！
+  FIT: <<TODO — <=31 chars, 2 line(s), <=35/line>>
+
+[US#4444] budget=15ch/1ln
+  NOW: Catch ya later!
+  JP : JP#4546[HIGH]: 「じゃあねッ！
+  FIT: <<TODO — <=15 chars, 1 line(s), <=35/line>>
+
+[US#4445] budget=62ch/2ln
+  NOW: No matter how many times I measure
+          it, I get the same results.
+  JP : JP#4547[HIGH]: 「<f040><f042>そして、何度やっても / 　特待結果は同じです〜[10][0c]「ゆりかご<8860>方協、３２６<88be>近に / 　<88bf>
+  FIT: <<TODO — <=62 chars, 2 line(s), <=35/line>>
+
+[US#4446] budget=100ch/3ln
+  NOW: It's a huge thermonuclear mass near
+          Sector 326 in Cradle Constellation
+          and it's heading for Filgaia!
+  JP : JP#4548[HIGH]: 「ゆりかご<8860>方協、３２６<88be>近に / 　<88bf>大な<8868><8a43>反<8839>を確認ッ！ / 　現帰、ファルガイアに向かって搭
+  FIT: <<TODO — <=100 chars, 3 line(s), <=35/line>>
+
+[US#4447] budget=103ch/3ln
+  NOW: We matched it against the patterns
+          Guild Galad gave us, and it looks
+          like the nuclear weapon Grauswein.
+  JP : JP#4549[MED]: 「ギルドグラードから<8ac3><8842>された / 　パターン<8acd>合の結果 / 　<8a43>同周『グラウスヴァイン』と思われます
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>

@@ -1,0 +1,196 @@
+# WA2 INSERTION workspace US block 77 (US#7388-7421)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7391] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7577[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7392] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7578[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7393] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7579[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7395] budget=70ch/3ln
+  NOW: A Guardian must be near here.
+          But this is a strange,
+          powerful feeling.
+  JP : JP#7581[HIGH]: 「この近くに、ガーディアンがいるはずです / 　でも、これまでに出<89ba>ったことのない / 　圧倒的な力と、異<886e>な信じが〜[10][0c]「こん
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#7396] budget=64ch/3ln
+  NOW: This is the first time
+          I've ever felt this particular
+          sensation.
+  JP : JP#7582[MED]: 「こんな信信、伝めてです
+  FIT: <<TODO — <=64 chars, 3 line(s), <=35/line>>
+
+[US#7397] budget=23ch/1ln
+  NOW: It doesn't mean that...
+  JP : JP#7583[MED]: 「<f040><f042>ってことはないかな〜
+  FIT: <<TODO — <=23 chars, 1 line(s), <=35/line>>
+
+[US#7398] budget=25ch/1ln
+  NOW: We have no time to waste.
+  JP : JP#7584[MED]: 「時間を無泣にせんことじゃ
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7399] budget=61ch/3ln
+  NOW: The one with a connection
+          to the Blazing Demon,
+          0 Winchester.
+  JP : JP#7585[MED]: 「仲の魔守を参姉し<8a18>けし者 / 　[05]ぉ・ウインチェスター
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#7400] budget=49ch/2ln
+  NOW: Anastasia asked me to.
+          She wanted me to help you.
+  JP : JP#7586[HIGH]: 「アナスタシアが押んだのだ / 　お前の力になってほしいと
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#7401] budget=90ch/3ln
+  NOW: I am the Guardian of Desire.
+          I only lend my powers to those
+          who can make use of my powers.
+  JP : JP#7587[HIGH]: 「オレは『片押』のガーディアン / 　オレの力となりえる者にしか / 　力を歩さん[10][0c]「この意助が分かるか？
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#7402] budget=29ch/1ln
+  NOW: Do you understand my meaning?
+  JP : JP#7588[HIGH]: 「この意助が分かるか？
+  FIT: <<TODO — <=29 chars, 1 line(s), <=35/line>>
+
+[US#7403] budget=79ch/3ln
+  NOW: It's the flesh and blood I need
+          for my power--a desire stronger
+          than any other.
+  JP : JP#7589[HIGH]: 「オレに必要なのは / 　兄期となりて、力となる / 　誰よりも強き『片押』ッ！[10][0c]「<f040><f042>お前に誓う / 　お前が片するは、いか
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#7404] budget=33ch/2ln
+  NOW: I ask you,
+          what is it you desire?
+  JP : JP#7590[HIGH]: 「<f040><f042>お前に誓う / 　お前が片するは、いかなるものか？
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#7405] budget=72ch/3ln
+  NOW: 2 is there with Grandma,
+          1 and 2 too,
+          along with everyone from the ARMS.
+  JP : JP#7591[HIGH]: 「[0a]かがいて、おばさんがいて / 　[05]おや[05]か / 　ＡＲＭＳのみんながいて〜[10][0c]「みんなが戦う必要がなく / 　挑いなんてない回
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#7406] budget=50ch/2ln
+  NOW: Days with no need to fight,
+          days with no disputes.
+  JP : JP#7592[HIGH]: 「みんなが戦う必要がなく / 　挑いなんてない回々〜
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#7407] budget=92ch/3ln
+  NOW: There was a time when I wanted
+          to be a |hero,| but that was to
+          protect everyone's happiness.
+  JP : JP#7593[HIGH]: 「『戦周』に<8a48>れたこともあった / 　でもそれは〜 / 　みんなの仲探を間りたかったから[10][0c]「誰かが訪しむところなんて / 　見たくなかっ
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#7408] budget=35ch/2ln
+  NOW: I didn't want to see
+          anyone suffer.
+  JP : JP#7594[HIGH]: 「誰かが訪しむところなんて / 　見たくなかったから[10][0c]「いや、もっと<8a4c><8a4d>な理由だった / 　本当は、[0a]かの仲探を / 　
+  FIT: <<TODO — <=35 chars, 2 line(s), <=35/line>>
+
+[US#7409] budget=89ch/3ln
+  NOW: But there's a simpler answer.
+          The truth is I wanted to protect
+          2's smiling face, so I ...
+  JP : JP#7595[HIGH]: 「いや、もっと<8a4c><8a4d>な理由だった / 　本当は、[0a]かの仲探を / 　間りたかったから、だから俺は〜
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#7410] budget=79ch/3ln
+  NOW: Power can become good or evil
+          depending upon who uses it.
+          The hope is the same.
+  JP : JP#7596[HIGH]: 「それを恥るいし者によって / 　好き力にも、悪しき力にもなる / 　『片押』とて同じこと[10][0c]「お前が押みしものは / 　アナスタシアと同<886e
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#7411] budget=43ch/2ln
+  NOW: What you wish for is
+          the same as Anastasia.
+  JP : JP#7597[HIGH]: 「お前が押みしものは / 　アナスタシアと同<886e>のもの[10][0c]「心地よき片押〜 / 　オレの兄期となるに<8875>し『片押』ッ！
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#7412] budget=61ch/3ln
+  NOW: A good desire--
+          a desire suited to become
+          my flesh and blood.
+  JP : JP#7598[MED]: 「心地よき片押〜 / 　オレの兄期となるに<8875>し『片押』ッ！
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#7413] budget=40ch/2ln
+  NOW: When you desire power,
+          call out my name.
+  JP : JP#7599[MED]: 「力を片するとき / 　オレの名を呼ぶがいい[10][0c]「お前の押みし『回世』の為 / 　戻ちふさがる、あらゆる遠<8a52>を / 　なぎ<8a53>う勉
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#7414] budget=85ch/3ln
+  NOW: For the daily life you desire,
+          I will become the sword to
+          battle all kinds of blazes.
+  JP : JP#7600[MED]: 「お前の押みし『回世』の為 / 　戻ちふさがる、あらゆる遠<8a52>を / 　なぎ<8a53>う勉となろう[10][0c]「オレは人の強き『片押』を力とするも
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#7415] budget=76ch/3ln
+  NOW: I use people's strong
+          hopes for my power.
+          I, the Guardian of Desire, Lucied.
+  JP : JP#7601[MED]: 「オレは人の強き『片押』を力とするもの / 　片押のガーディアン / 　ルシエド〜[10][0c]「オレはお前と<8a55>にある / 　『片押』の貸きる、その
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#7416] budget=67ch/3ln
+  NOW: I will be with you until
+          the day when your hope
+          has been exhausted.
+  JP : JP#7602[MED]: 「オレはお前と<8a55>にある / 　『片押』の貸きる、その回まで〜
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#7417] budget=42ch/2ln
+  NOW: The Guardian of Desire,
+          Lucied, called me.
+  JP : JP#7603[MED]: 「『片押』のガーディアン・ルシエドが / 　俺を呼んだんだ[10][0c]「そして、俺にその力を歩してくれた
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#7418] budget=31ch/1ln
+  NOW: And he lent his strength to me.
+  JP : JP#7604[MED]: 「そして、俺にその力を歩してくれた
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#7419] budget=71ch/3ln
+  NOW: He's the Guardian who
+          was always right there
+          beside the <Sword Magess>.
+  JP : JP#7605[MED]: 「＜復の幸昔＞の<8a5c>らに / 　世にいたという / 　ガーディアンだな
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#7420] budget=76ch/3ln
+  NOW: If you can borrow Lucied's
+          powers, your warring powers
+          will be strengthened.
+  JP : JP#7606[MED]: 「ルシエドの力が茶りられたなら / 　戦力アップは間違いないですね
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#7421] budget=72ch/3ln
+  NOW: ...frail humans need to borrow
+          the powers of the Guardians.
+          Be grateful.
+  JP : JP#7607[MED]: 「守<89b9>な人間には / 　ガーディアンの力も必要じゃろうて / 　ありがたく使うことじゃ || JP#7608[MED]: 
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>

@@ -1,0 +1,202 @@
+# WA2 4-col translation doc block 101 (JP#8008-8043)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 30 boxes | OK=20 FAIR=10 SHAKY=0 JP-ONLY=0
+# DRAFT STATUS: 30 boxes | OK=20 FAIR=10 SHAKY=0 JP-ONLY=0
+
+[JP#8009] gaps=0  aln=HIGH->US#7827  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8010] gaps=2  aln=HIGH->US#7828  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8011] gaps=0  aln=HIGH->US#7829  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8012] gaps=0  aln=HIGH->US#7830  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜でも、まだ誰にも伝えていないんだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@But I haven't shown anyone yet.
+  4|RE : <<TODO>>
+
+[JP#8013] gaps=0  aln=MED->US#7831  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「〜でも、まだ誰にも伝えていないんだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @But I haven't shown anyone yet.
+  4|RE : <<TODO>>
+
+[JP#8014] gaps=3  aln=MED->US#7832  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「この<8a34>間のお泣が / 　いちばんきれいだから<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : @Because flowers are their
+ prettiest in that moment.
+  4|RE : <<TODO>>
+
+[JP#8016] gaps=0  aln=HIGH->US#7834  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8017] gaps=2  aln=HIGH->US#7835  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8018] gaps=0  aln=HIGH->US#7836  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8019] gaps=0  aln=HIGH->US#7837  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜でも、まだ誰にも伝えていないんだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@But I haven't shown anyone yet.
+  4|RE : <<TODO>>
+
+[JP#8020] gaps=0  aln=MED->US#7838  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「〜でも、まだ誰にも伝えていないんだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @But I haven't shown anyone yet.
+  4|RE : <<TODO>>
+
+[JP#8021] gaps=3  aln=MED->US#7839  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「この<8a34>間のお泣が / 　いちばんきれいだから<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : @Because flowers are their
+ prettiest in that moment.
+  4|RE : <<TODO>>
+
+[JP#8023] gaps=0  aln=HIGH->US#7841  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8024] gaps=2  aln=HIGH->US#7842  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8025] gaps=0  aln=HIGH->US#7843  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8026] gaps=0  aln=HIGH->US#7844  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜でも、まだ誰にも伝えていないんだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@But I haven't shown anyone yet.
+  4|RE : <<TODO>>
+
+[JP#8027] gaps=0  aln=MED->US#7845  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「〜でも、まだ誰にも伝えていないんだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @But I haven't shown anyone yet.
+  4|RE : <<TODO>>
+
+[JP#8028] gaps=3  aln=MED->US#7846  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「この<8a34>間のお泣が / 　いちばんきれいだから<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : @Because flowers are their
+ prettiest in that moment.
+  4|RE : <<TODO>>
+
+[JP#8030] gaps=0  aln=HIGH->US#7848  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8031] gaps=2  aln=HIGH->US#7849  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8032] gaps=0  aln=HIGH->US#7850  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8033] gaps=0  aln=HIGH->US#7851  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜でも、まだ誰にも伝えていないんだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@But I haven't shown anyone yet.
+  4|RE : <<TODO>>
+
+[JP#8034] gaps=0  aln=MED->US#7852  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「〜でも、まだ誰にも伝えていないんだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @But I haven't shown anyone yet.
+  4|RE : <<TODO>>
+
+[JP#8035] gaps=3  aln=MED->US#7853  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「この<8a34>間のお泣が / 　いちばんきれいだから<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : @Because flowers are their
+ prettiest in that moment.
+  4|RE : <<TODO>>
+
+[JP#8037] gaps=0  aln=HIGH->US#7855  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8038] gaps=2  aln=HIGH->US#7856  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8039] gaps=0  aln=HIGH->US#7857  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8040] gaps=0  aln=HIGH->US#7858  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜でも、まだ誰にも伝えていないんだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@But I haven't shown anyone yet.
+  4|RE : <<TODO>>
+
+[JP#8041] gaps=0  aln=MED->US#7859  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「〜でも、まだ誰にも伝えていないんだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @But I haven't shown anyone yet.
+  4|RE : <<TODO>>
+
+[JP#8042] gaps=3  aln=MED->US#7860  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「この<8a34>間のお泣が / 　いちばんきれいだから<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : @Because flowers are their
+ prettiest in that moment.
+  4|RE : <<TODO>>

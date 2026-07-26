@@ -1,0 +1,443 @@
+# WA2 INSERTION workspace US block 0 (US#0-84)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#2] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#2[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#3] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#3[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#4[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5] budget=25ch/2ln
+  NOW: (I need a
+          place to hide.)
+  JP : JP#5[MED]: （どこかに / 　身を隠すところは〜）
+  FIT: <<TODO — <=25 chars, 2 line(s), <=35/line>>
+
+[US#6] budget=71ch/3ln
+  NOW: *To turn, press the left or
+          right directional buttons
+          or the 6 buttons.
+  JP : JP#6[HIGH]: ＊方向キーの幸<8a34> / 　または、[0b]くボタンを伝すことで / 　<89a5>回することができます[10][0c]＊[05]ぉたちを泣り周りさせるの
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#7] budget=70ch/3ln
+  NOW: *0's party can
+          board and deplane only at the
+          Landing Pad in the field.
+  JP : JP#7[HIGH]: ＊[05]ぉたちを泣り周りさせるのは / 　アウトフィールド上に片かれた / 　押<897e>魔法<8a38>に<8a39>ります[10][0c]＊魔法<8a3
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#8] budget=94ch/3ln
+  NOW: *Touch the Landing Pad and press
+          the 3 button to see a choice
+          for descending from the Chateau.
+  JP : JP#8[HIGH]: ＊魔法<8a38>に搭乗して[0b]がボタンを伝すと / 　ヴァレリアシャトーから周りる仲目が / 　メニュー参に表<893a>されます[10][0c]＊押<8
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#9] budget=55ch/3ln
+  NOW: *Touch the Landing Pad
+          and press the 2 button
+          to board.
+  JP : JP#9[HIGH]: ＊押<897e>魔法<8a38>に搭乗して / 　[0b]かボタンを伝すと / 　泣り込むことができます
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#10] budget=71ch/3ln
+  NOW: *Press the left and right
+          directional buttons or the
+          6 buttons to turn.
+  JP : JP#10[HIGH]: ＊方向キーの幸<8a34> / 　または、[0b]くボタンを伝すことで / 　<89a5>回することができます[10][0c]＊方向キーの上辺で<8867>度変
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#11] budget=87ch/3ln
+  NOW: *The up and down directional
+          buttons change altitude. Down
+          to ascend and up to descend.
+  JP : JP#11[MED]: ＊方向キーの上辺で<8867>度変<890d>も可能です / 　辺を伝すと機体を上<88b0>させ / 　上を伝すことで辺周させます[10][0c]＊ロンバルデ
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#12] budget=82ch/3ln
+  NOW: *The Lombardia cannot land where
+          0 cannot walk, such
+          as on water or a mountaintop.
+  JP : JP#12[HIGH]: ＊ロンバルディアは、谷や道など / 　[05]ぉたちの守けないところには / 　着陸することができません[10][0c]＊守行が可能でも / 　山や姉場などは、
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#13] budget=82ch/3ln
+  NOW: *You cannot land in a forest,
+          rocky area or other unstable
+          spots even if walkable.
+  JP : JP#13[HIGH]: ＊守行が可能でも / 　山や姉場などは、<8921>場が危奮しないため / 　同方に着陸不可能です[10][0c]＊<89da>く、<8a3d>助な地<88e1
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#14] budget=73ch/3ln
+  NOW: *To land the Lombardia, press
+          the 3 button while over a
+          large, flat area.
+  JP : JP#14[HIGH]: ＊<89da>く、<8a3d>助な地<88e1>上で / 　[0b]がボタンを伝すと / 　ロンバルディアは着陸します[10][0c]＊ロンバルディアに搭乗して
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#15] budget=56ch/3ln
+  NOW: *Touch the Lombardia and
+          press the 2 button to
+          re-board.
+  JP : JP#15[HIGH]: ＊ロンバルディアに搭乗して / 　[0b]かボタンを伝すと / 　歩び泣りこむことができます
+  FIT: <<TODO — <=56 chars, 3 line(s), <=35/line>>
+
+[US#20] budget=1ch/1ln
+  NOW: p
+  JP : JP#20[HIGH]: [04]ゐ<8408>[10][01]
+  FIT: <<TODO — <=1 chars, 1 line(s), <=35/line>>
+
+[US#21] budget=1ch/1ln
+  NOW: D
+  JP : JP#21[HIGH]: [04][08][10]そ[0e][13][10]
+  FIT: <<TODO — <=1 chars, 1 line(s), <=35/line>>
+
+[US#26] budget=73ch/3ln
+  NOW: *As you move ahead in the
+          story, your next destination
+          will become clear.
+  JP : JP#26[HIGH]: ＊ストーリーが<892b>行していくと / 　更に向かうべき目的地が / 　<8942>次することがあります[10][0c]＊ですが、一度も訪れたことのない場所
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#27] budget=85ch/3ln
+  NOW: *However, places you have never
+          visited do not appear on the
+          field with a map symbol.
+  JP : JP#27[HIGH]: ＊ですが、一度も訪れたことのない場所は / 　フィールド上に / 　マップシンボルが表<893a>されていません[10][0c]＊フィールドにて[0b]おを伝す
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#28] budget=70ch/3ln
+  NOW: *To activate the Search System,
+          press the 1 button while
+          in the field.
+  JP : JP#28[MED]: ＊フィールドにて[0b]おを伝すと / 　サーチシステムが作動します[10][0c]＊目的地の情報をたよりに / 　サーチシステムを用いて / 　マップシンボル
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#29] budget=79ch/3ln
+  NOW: *Use the Search System and
+          info about your destination
+          to find the map symbols.
+  JP : JP#29[MED]: ＊目的地の情報をたよりに / 　サーチシステムを用いて / 　マップシンボルを探してください
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#30] budget=73ch/3ln
+  NOW: *As you move ahead in the
+          story, your next destination
+          will become clear.
+  JP : JP#30[MED]: ＊ストーリーが<892b>行していくと / 　更に向かうべき目的地が / 　<8942>次することがあります[10][0c]＊ですが、一度も訪れたことのない場所
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#31] budget=85ch/3ln
+  NOW: *However, places you have never
+          visited do not appear on the
+          field with a map symbol.
+  JP : JP#31[MED]: ＊ですが、一度も訪れたことのない場所は / 　フィールド上に / 　マップシンボルが表<893a>されていません[10][0c]＊フィールドにて[0b]おを伝す
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#32] budget=70ch/3ln
+  NOW: *To activate the Search System,
+          press the 1 button while
+          in the field.
+  JP : JP#32[MED]: ＊フィールドにて[0b]おを伝すと / 　サーチシステムが作動します[10][0c]＊目的地の情報をたよりに / 　サーチシステムを用いて / 　マップシンボル
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#33] budget=79ch/3ln
+  NOW: *Use the Search System and
+          info about your destination
+          to find the map symbols.
+  JP : JP#33[MED]: ＊目的地の情報をたよりに / 　サーチシステムを用いて / 　マップシンボルを探してください
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#34] budget=36ch/2ln
+  NOW: Contact 0
+          for our next instructions!
+  JP : JP#34[HIGH]: 「[0a]ぉに加信連絡して / 　更の指<893a>をもらおうッ！
+  FIT: <<TODO — <=36 chars, 2 line(s), <=35/line>>
+
+[US#35] budget=70ch/3ln
+  NOW: *High-altitude satellite
+          images can now be displayed
+          on the Map Scope.
+  JP : JP#35[HIGH]: ＊新機能の追<8a52>により / 　探<8857><89e4>星からの<8867>空<8a53>勉をマップスコープに / 　ディスプレイすることが可能となりま
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#36] budget=85ch/3ln
+  NOW: *Now you can see all of Filgaia
+          on the monitor, instead of
+          just the surrounding area.
+  JP : JP#36[HIGH]: ＊これまでの<8a55>村地貸から / 　より<89da>貸なファルガイア険体<8a57>を / 　モニター上にて確認することができます[10][0c]＊[11
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#37] budget=83ch/3ln
+  NOW: *To move the 1Hovercraft0
+          forward, press the up directional
+          button or the 2 button.
+  JP : JP#37[HIGH]: ＊[11]おホバークラフト[11]ぉは / 　方向キーの上 / 　または、[0b]かボタンを伝すことで前<892b>[10][0c]＊方向キーの幸<8a34> 
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#38] budget=73ch/3ln
+  NOW: *To rotate, press the left or
+          right directional buttons
+          or the 6 buttons.
+  JP : JP#38[HIGH]: ＊方向キーの幸<8a34> / 　または、[0b]くボタンを伝すことで / 　<89a5>回することができます[10][0c]＊[05]ぉたちを泣り周りさせるの
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#39] budget=53ch/2ln
+  NOW: *0's party can board and
+          disembark only at the shore.
+  JP : JP#39[HIGH]: ＊[05]ぉたちを泣り周りさせるのは / 　農村に<8a39>ります[10][0c]＊農村に搭乗して / 　[0b]がボタンを伝すと / 　ホバークラフトから周
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#40] budget=74ch/3ln
+  NOW: *To disembark from the
+          Hovercraft, touch the shore
+          and press the 3 button.
+  JP : JP#40[HIGH]: ＊農村に搭乗して / 　[0b]がボタンを伝すと / 　ホバークラフトから周ります[10][0c]＊ホバークラフトに搭乗して / 　[0b]かボタンを伝すと /
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#41] budget=62ch/3ln
+  NOW: *To board the Hovercraft,
+          touch it and press the
+          the 2 button.
+  JP : JP#41[HIGH]: ＊ホバークラフトに搭乗して / 　[0b]かボタンを伝すと / 　泣り込むことができます
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#42] budget=73ch/3ln
+  NOW: *To rotate, press the left or
+          right directional buttons
+          or the 6 buttons.
+  JP : JP#42[HIGH]: ＊方向キーの幸<8a34> / 　または、[0b]くボタンを伝すことで / 　<89a5>回することができます[10][0c]＊[05]ぉたちを泣り周りさせるの
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#43] budget=53ch/2ln
+  NOW: *0's party can board and
+          disembark only at the shore.
+  JP : JP#43[HIGH]: ＊[05]ぉたちを泣り周りさせるのは / 　農村に<8a39>ります[10][0c]＊農村に搭乗して / 　[0b]がボタンを伝すと / 　ホバークラフトから周
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#44] budget=74ch/3ln
+  NOW: *To disembark from the
+          Hovercraft, touch the shore
+          and press the 3 button.
+  JP : JP#44[HIGH]: ＊農村に搭乗して / 　[0b]がボタンを伝すと / 　ホバークラフトから周ります[10][0c]＊ホバークラフトに搭乗して / 　[0b]かボタンを伝すと /
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#45] budget=62ch/3ln
+  NOW: *To board the Hovercraft,
+          touch it and press the
+          the 2 button.
+  JP : JP#45[HIGH]: ＊ホバークラフトに搭乗して / 　[0b]かボタンを伝すと / 　泣り込むことができます
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#46] budget=50ch/2ln
+  NOW: Sylvaland Castle is in the
+          middle of the forest...
+  JP : JP#46[MED]: 「たしか、シルヴァラント<893b>は / 　山の中にあるんだったな
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#47] budget=22ch/1ln
+  NOW: located in the forest.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#48] budget=78ch/3ln
+  NOW: Now which way was Sylvaland
+          Castle, anyhow? All I can see
+          from here are trees.
+  JP : JP#47[MED]: 「でも、シルヴァラント<893b>ってどっちだっけ？ / 　ここからじゃ / 　山しか見えないよ〜〜
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#51] budget=73ch/3ln
+  NOW: *To rotate, press the left or
+          right directional buttons
+          or the 6 buttons.
+  JP : JP#58[HIGH]: ＊方向キーの幸<8a34> / 　または、[0b]くボタンを伝すことで / 　<89a5>回することができます[10][0c]＊[05]ぉたちを泣り周りさせるの || JP#54[LOW]: ＊方向キーの幸<8a34> / 　または、[0b]くボタンを伝すことで / 　<89a5>回することができます[10][0c]＊[05]ぉたちを泣り周りさせるの
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#52] budget=53ch/2ln
+  NOW: *0's party can board and
+          disembark only at the shore.
+  JP : JP#59[HIGH]: ＊[05]ぉたちを泣り周りさせるのは / 　農村に<8a39>ります[10][0c]＊農村に搭乗して / 　[0b]がボタンを伝すと / 　ホバークラフトから周
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#53] budget=74ch/3ln
+  NOW: *To disembark from the
+          Hovercraft, touch the shore
+          and press the 3 button.
+  JP : JP#60[HIGH]: ＊農村に搭乗して / 　[0b]がボタンを伝すと / 　ホバークラフトから周ります[10][0c]＊ホバークラフトに搭乗して / 　[0b]かボタンを伝すと /
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#54] budget=62ch/3ln
+  NOW: *To board the Hovercraft,
+          touch it and press the
+          the 2 button.
+  JP : JP#61[HIGH]: ＊ホバークラフトに搭乗して / 　[0b]かボタンを伝すと / 　泣り込むことができます
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#55] budget=50ch/2ln
+  NOW: Sylvaland Castle is in the
+          middle of the forest...
+  JP : JP#62[MED]: 「たしか、シルヴァラント<893b>は / 　山の中にあるんだったな
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#56] budget=22ch/1ln
+  NOW: located in the forest.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#57] budget=78ch/3ln
+  NOW: Now which way was Sylvaland
+          Castle, anyhow? All I can see
+          from here are trees.
+  JP : JP#63[MED]: 「でも、シルヴァラント<893b>ってどっちだっけ？ / 　ここからじゃ / 　山しか見えないよ〜〜
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#60] budget=73ch/3ln
+  NOW: *To rotate, press the left or
+          right directional buttons
+          or the 6 buttons.
+  JP : JP#74[HIGH]: ＊方向キーの幸<8a34> / 　または、[0b]くボタンを伝すことで / 　<89a5>回することができます[10][0c]＊[05]ぉたちを泣り周りさせるの || JP#70[LOW]: ＊方向キーの幸<8a34> / 　または、[0b]くボタンを伝すことで / 　<89a5>回することができます[10][0c]＊[05]ぉたちを泣り周りさせるの
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#61] budget=53ch/2ln
+  NOW: *0's party can board and
+          disembark only at the shore.
+  JP : JP#75[HIGH]: ＊[05]ぉたちを泣り周りさせるのは / 　農村に<8a39>ります[10][0c]＊農村に搭乗して / 　[0b]がボタンを伝すと / 　ホバークラフトから周
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#62] budget=74ch/3ln
+  NOW: *To disembark from the
+          Hovercraft, touch the shore
+          and press the 3 button.
+  JP : JP#76[HIGH]: ＊農村に搭乗して / 　[0b]がボタンを伝すと / 　ホバークラフトから周ります[10][0c]＊ホバークラフトに搭乗して / 　[0b]かボタンを伝すと /
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#63] budget=62ch/3ln
+  NOW: *To board the Hovercraft,
+          touch it and press the
+          the 2 button.
+  JP : JP#77[HIGH]: ＊ホバークラフトに搭乗して / 　[0b]かボタンを伝すと / 　泣り込むことができます
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#64] budget=50ch/2ln
+  NOW: Sylvaland Castle is in the
+          middle of the forest...
+  JP : JP#78[MED]: 「たしか、シルヴァラント<893b>は / 　山の中にあるんだったな
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#65] budget=22ch/1ln
+  NOW: located in the forest.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#66] budget=78ch/3ln
+  NOW: Now which way was Sylvaland
+          Castle, anyhow? All I can see
+          from here are trees.
+  JP : JP#79[MED]: 「でも、シルヴァラント<893b>ってどっちだっけ？ / 　ここからじゃ / 　山しか見えないよ〜〜
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#69] budget=73ch/3ln
+  NOW: *To rotate, press the left or
+          right directional buttons
+          or the 6 buttons.
+  JP : JP#90[HIGH]: ＊方向キーの幸<8a34> / 　または、[0b]くボタンを伝すことで / 　<89a5>回することができます[10][0c]＊[05]ぉたちを泣り周りさせるの || JP#86[LOW]: ＊方向キーの幸<8a34> / 　または、[0b]くボタンを伝すことで / 　<89a5>回することができます[10][0c]＊[05]ぉたちを泣り周りさせるの
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#70] budget=53ch/2ln
+  NOW: *0's party can board and
+          disembark only at the shore.
+  JP : JP#91[HIGH]: ＊[05]ぉたちを泣り周りさせるのは / 　農村に<8a39>ります[10][0c]＊農村に搭乗して / 　[0b]がボタンを伝すと / 　ホバークラフトから周
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#71] budget=74ch/3ln
+  NOW: *To disembark from the
+          Hovercraft, touch the shore
+          and press the 3 button.
+  JP : JP#92[HIGH]: ＊農村に搭乗して / 　[0b]がボタンを伝すと / 　ホバークラフトから周ります[10][0c]＊ホバークラフトに搭乗して / 　[0b]かボタンを伝すと /
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#72] budget=62ch/3ln
+  NOW: *To board the Hovercraft,
+          touch it and press the
+          the 2 button.
+  JP : JP#93[HIGH]: ＊ホバークラフトに搭乗して / 　[0b]かボタンを伝すと / 　泣り込むことができます
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#73] budget=50ch/2ln
+  NOW: Sylvaland Castle is in the
+          middle of the forest...
+  JP : JP#94[MED]: 「たしか、シルヴァラント<893b>は / 　山の中にあるんだったな
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#74] budget=22ch/1ln
+  NOW: located in the forest.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#75] budget=78ch/3ln
+  NOW: Now which way was Sylvaland
+          Castle, anyhow? All I can see
+          from here are trees.
+  JP : JP#95[MED]: 「でも、シルヴァラント<893b>ってどっちだっけ？ / 　ここからじゃ / 　山しか見えないよ〜〜
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#78] budget=73ch/3ln
+  NOW: *To rotate, press the left or
+          right directional buttons
+          or the 6 buttons.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#79] budget=53ch/2ln
+  NOW: *0's party can board and
+          disembark only at the shore.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#80] budget=74ch/3ln
+  NOW: *To disembark from the
+          Hovercraft, touch the shore
+          and press the 3 button.
+  JP : JP#98[MED]: 
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#81] budget=62ch/3ln
+  NOW: *To board the Hovercraft,
+          touch it and press the
+          the 2 button.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#82] budget=50ch/2ln
+  NOW: Sylvaland Castle is in the
+          middle of the forest...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#83] budget=22ch/1ln
+  NOW: located in the forest.
+  JP : JP#99[MED]: 
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#84] budget=78ch/3ln
+  NOW: Now which way was Sylvaland
+          Castle, anyhow? All I can see
+          from here are trees.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>

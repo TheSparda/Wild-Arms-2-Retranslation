@@ -1,0 +1,442 @@
+WILD ARMS 2 — LIZ & ARD (english script, full extract)
+Duo = Liz (motormouth 'brains') + Ard (speaks only his own name). JP originals: トカ & ゲー (トカゲ='lizard'; EN pun Liz+Ard='Lizard').
+Source: english_script/disc1/STG_STGEVT.BIN.txt (disc1==disc2). '>>' = line mentioning Liz/Ard; other lines = scene context/other speakers. Blank line = scene break. Event/label lines (no @) are cutscene titles.
+==============================================================
+
+   Live Reflector startup order
+>> Ard? Holst?
+   Name 
+   0's sister.
+>> *Pick or Liz
+   *It's empty!
+
+   3 @Just a bit further. Let's hurry.
+>> Liz @I've been waiting for you all.
+>> Ard @Ard, Ard!
+   0 @It's you again. Unrepentant fool!
+>> Liz @Yes, indeed.
+>> @The hidden powers spreading the terrorists' spell |Odessa| through the land are Liz & Ard. That's us.
+   @I'm not anyone suspicious.
+   0 @It's not a |Hidden Sphere| but a |Sphere of Danger,| right?
+>> Liz @What's that? A compliment?
+   @That sweet smell of danger can't be hidden from us.
+>> Ard @Ard. Ard.
+   0 @So, what do you want?
+>> Liz @I wouldn't know!
+>> @I'm the brains! Ard's the power! And, I'm cool!
+   @No matter how you look, we're first rate. You Filgaia guys are second rate.
+
+   @If you're going to confront us, you'll have to destroy us! Here goes.
+>> Liz @I can't accept it!
+>> Ard @Ard... Ard!
+>> Liz @I gave him a nosebleed, but no |friendship| developed.
+   @My calculations show something vital missing? Could it be |poetry?|
+   0 @I need you to move. We have no time to play!
+>> Liz @Ha. Ha. Ha. After all, we're just discarded horses.
+>> Ard @Ard, Ard, Ard. Ard. Ard. Ard...Ard!
+>> Liz @My apologies. My apologies for that little bit.
+   @Hey, you're not too bad. This calls for the best of the best, a proud No. 1 since it's debut!
+   @One look and you'll be going home!
+>> Liz @How wretched!
+   @Surprisingly, even the Monster Regeneration Unit responded, as if yielding to a baby.
+
+   @It makes me shake with anger.
+>> Liz @But, the legend of us, has just now begun.
+   @Today's scientific know-how will lead us to the Land of Promise.
+
+   0 @So that's what happened?
+>> Liz @What are you, an idiot? Something like that could never happen!
+   @We've proudly looked like this since birth. Bluntly put, we're in our |birthday suits.|
+
+   @Listen. Thanks. Thanks.
+>> Liz @Well, it was a rotten trick!
+   @We ungrudgingly exposed our brilliance. Vin is probably delighted by this!
+
+   2 @It's not terribly peaceful!
+>> Liz @Wooo! A lovely explosion! So boldly large!
+>> Liz @From here on, we can't cross even if we want to!
+   @Sooo smart! And we're soooo cooolll!
+
+   1 @Leave it to me. I'll lower the bridge.
+>> Liz @Ah? Awah. Our plan has gone up in smoke.
+>> Liz @How sneaky! We'll raise it again.
+>> Liz @Wo. Wo. Wo. Wo. What's going on?
+   *Energy is insufficient. 5 minutes until the bridge opens after recharging.
+
+   0 @Let's get across before the bridge reopens again!
+>> Liz @I've reached such heights, and now there's no stopping me.
+>> Ard @Ard. Ard.
+>> Liz @Hey, don't worry, Ard.
+   @I'm a gentleman. As a gentleman I know no means no.
+>> Liz @Gentlemen don't like violence but love the violence of words.
+   @Prepare for word torture! I can't keep quiet. I'm full of dangerous phrases that should be censored.
+>> Ard @Ard, Ard, Ard...Ard. Ard...Ard.
+>> Liz @What are you saying?
+   @You ask what am I going to do if they don't flinch. That's obvious.
+
+   Lever Discovered II
+>> Rescue Liz
+   Mouth of Truth
+   Mouth of Truth Rescue
+>> Meeting with Liz
+   End of Battle with Lizard
+
+   2 @It seems being on the side of justice is a losing proposition.
+>> Liz @You can't just leave me here. It is I, the one who loved you!
+   0 @I don't mind leaving them, but I doubt I'd sleep too well.
+
+   2 @It's driving me nuts. I can't just leave them!
+>> Ard @Ard...Ard, Ard. Ard. Ard. Ard, Ard, Ard, Ard!
+>> Liz @Isn't there a doctor here?!
+>> Liz @You can't just leave me here. It is I, the one who loved you!
+   0 @I don't mind leaving them, but I doubt I'd sleep too well.
+
+   2 @It's driving me nuts. I can't just leave them!
+>> Ard @Ard, Ard, Ard Ar...d, Ard, Ard!
+   0 @The wall is moving!
+
+   Lizardian A @Oh, my traveling friends, this treatment with no explanation...
+>> Lizardian B @Ard!
+   0 (Who the heck are they?)
+
+   Lizardian A @Thanks for asking!
+>> Lizardian A @I am Liz and this is my assistant.
+>> Lizardian B @Ard...Ard!
+>> Liz @Hey, it's Ard.
+   2 @You're kidding. You understand what he's saying?
+>> Liz @We've known each other a long time. But not after just 2 or 3 molts.
+   0 @What are you guys doing here?
+>> Liz @As you can see, we are kind-hearted children of science.
+>> Liz @No matter how I look...
+   2 @I don't see that, but please continue.
+>> Liz @This is a volcanic region.
+   @The energy that continually spouts from the earth is perfect for an excursion in peacetime.
+
+   @And so...
+>> Liz @Don't leave me here!
+   @How about having a party to boost morale?
+
+   @Let's work together here at the observatory. Just don't hold us back.
+>> Liz @Wow! What a delight!
+   @Not holding one back is my one specialty! I was born for this day.
+>> Ard @Ard, Ard, Ard!
+>> Liz @At the very least, I'd expect 3 kowtows, but we do live justly.
+   @As a resourceful general, let's get to the gate. After that...
+
+   2 @That must be it.
+>> Liz @I can see it!
+   2 @Don't talk so loudly. It echoes.
+>> Liz @So essentially the lever on the other side needs to be moved?
+   @A vision flashed on my lids of me pushing the lever like a bee, and dancing like a butterfly.
+
+   0 @Do you have a plan?
+>> Liz @With the scientific endorsements, we've got more than we can handle.
+   @But, isn't that what anyone with unusual characteristics hopes for?
+
+   0 @I don't care what it is, just hurry up.
+>> Liz @Being impatient is a waste of energy.
+   @Be that as it may, the Shooting King's background has no close relationships.
+>> @Let's go, Ard! The friendship cross.
+>> Liz @Oh, memories are invading like an air raid.
+   0 @The ever-changing panorama! We're in for it!
+>> Liz @Punch Drunk Momentalism.
+   0 @You OK, Shooting King?
+>> Liz @A homing instinct brought me back from a secret flower garden.
+   @That a healthy spirit comes from a healthy body, is an old joke, indeed.
+
+   2 @Really, though, nothing's been resolved. What will you do?
+>> Liz @Only a novice would become unhinged by such an historical emergency.
+   0 @So, do you have a plan?
+>> Liz @How I've waited for those words!
+   @It's easy. Just run through before the wall shuts.
+
+   @Oh, never mind. It looks like it's worth trying.
+>> Liz @Ah. What a tragedy!
+   @I will assist even at the risk of my life! Let's go, Samurai.
+>> Liz @Rah! Rah! Freedom! Freedom!
+   0 @What the heck are you doing? Are you only going to cheer?
+   @We better do something ourselves!
+>> Ard @Ard...Ard, Ard. Ard, Ard. Ard, Ard, Ard.
+>> @Ar...Ard, Ard...Ard, Ard. Ar...d. Ard, Ard. Ard...Ard, Ard.
+>> @Ard...Ard, Ard. Ard, Ard...Ard, A...rd. Ard, Ard...Ar...d.
+>> Liz @Ard is saying |Thanks.|
+   2 @That's awfully short!
+
+   @And while your buddy's in a crisis situation, you're doing a silly dance prayer.
+>> Liz @Hmmm...A dance prayer. How manic.
+   @That's not a dance prayer. It does promise satisfaction. It's very popular in the Agaruta Region.
+
+   2 @Another lever. And it's this kind, again.
+>> Liz @Why do you stare at me? Such intensity is hard to ignore.
+   @After all, it's just one body.
+
+   @Something scientific that's...
+>> Liz @I understand. Let's fly!
+   @Everyone's scientific hopes make me strong. There's a fine line between fantasy and reality.
+
+   @It's not even witty, much less scientific.
+>> Liz @Let's go, Ard! The Friendship Cross.
+>> Liz @Dizzy Lizzy!
+   0 @Let's get going!
+
+   @You won't petrify, but judging from previous experiences, you might lose consciousness!
+>> Liz @Don't leave me behind. It is I, the one who loved you all!
+   0 @Sorry. Let me go get help.
+>> Liz @You promise? That's a promise, right?!
+>> Liz @You're late!
+   @You're so late I was just about to lay a hand on this poetry anthology I've kept hidden.
+   0 @I don't care if it's poetry or the Emperor of Death. I'm in a hurry.
+>> Liz @It's as if you're casting me aside! Or are you just mocking me?
+   @Wow. I wonder why...
+   0 @Did something happen?
+>> Liz @Wow. There's a lot they don't teach at school.
+   0 @Just give a short explanation.
+>> Liz @In the back of the mouth, in fact, pretty far back, there's a switch.
+   @Just imagining the switch and the hand intercepted by the block makes me quiver.
+   0 @Hmm... I can't reach it.
+>> Liz @Ha. Ha. Ha! So...sorry.
+   0 @What is it this time?
+>> Liz @This is terrible.
+   @I just came up with a brilliant idea!
+   0 @I hate to interrupt your glee, but if you have a solution, tell me.
+>> Liz @Oh, it's easy, really.
+   @If we use our graceful tails and stay flexible, the rest is easy.
+   @I hate saying this after asking for help, but please, don't make things worse.
+>> Liz @Remember that |gentleness| is one of our talents after |kindness.|
+>> Liz @I'm leaving it up to you, Ard! Time to show your power!
+   0 @Your partner seems to be complaining about something.
+>> Liz @It seems...
+   @If you take calcium before bed, the absorption is best. No one fusses like Lizard.
+
+   @in public like that. There's no need for it.
+>> Liz @At any rate...
+   @It seems his tail got caught in the switch. How do you propose we proceed?
+>> Liz (We could just let him die. That's one possibility.)
+   (I mean, the guy has lived long enough already.)
+
+   @Let's just hurry and save him.
+>> Liz @Yeah...not long ago, you would've deserted me, a No. 1 scientist.
+>> Ard @Ard...Ard, ArArAr. Ard, Ar-d!
+>> Liz @He's very |grateful| for the rescue.
+   @Now this is a top-notch human drama unfolding.
+
+   @which turn into 20 problems. How do you manage to stir up so much trouble?
+>> Liz @Is trouble like a bamboo shoot, sprouting up everywhere?
+   0 @Or is trouble like a snowball, growing bigger and bigger?
+   0 @Look, a lever in a place like that.
+>> Liz @Hmm...there's a lever.
+>> Liz @Might there be another scramble request for me?
+   0 @You're not a part of the battle so it's the least you can do.
+
+   @Scientifically speaking...
+>> Liz @Ha! Science.
+   @Science is unavoidable as a two-bit scientist.
+   @Ready for the opening of the Show of World Wonders?
+>> Liz @Are you watching?
+   @The goal of science is to give people hopes and dreams.
+
+   0 @All right. All right. Just switch the lever on.
+>> Liz @Ahhhh...ahhhh! What an ominous sound.
+>> Liz @Wow! Teleport!
+   2 @Ah! He disappeared!
+
+   0 @Why does that guy, even when he's quiet, make me uneasy?
+>> Liz @Ahhh! It's so infrequent we're positioned for battle.
+>> Liz @Wow! I'm putting my fate in the hands of this warship.
+>> Liz @Eeee- eeee-...Shock treatment isn't terribly soothing.
+   @I'm someone who only needs to be told to get it. No need to have the experience.
+   0 @I'm glad you're doing so well. It's such a relief.
+>> Liz @Ha, ha, ha, of course.
+   @At my death, I hypnotized myself. |I can't die now| I said, and look at the result.
+
+   0 @I don't care about your joy for living. Just get the lever.
+>> Liz @Why do I get treated so rudely?
+   @Judgement day is just around the corner! You'll get yours then.
+
+   0 talked about.
+>> Liz @Yes indeed, this is the Germatron I've been searching for.
+   @The mail order ones from magazines don't begin to compare. These are superb, full of magical powers.
+   0 seems to be trying to use the stones to move something.
+>> Liz @As long as I have Germatron, I can easily make a huge monster.
+   @That's what I'd do.
+
+   0 @It's the same for us-- the Germatron.
+>> Liz @Wha...what did you say?
+   @My plans to use the Germatron at the research lab are ruined. I was to make a grand war monster.
+   0 @So that's it.
+>> Liz @Of course!
+   @The problems started when I brought Undines here for an experiment. He started acting wild.
+
+   @Wow! Isn't this like a secret disclosure?
+>> Liz @There's a traitor among you.
+   0 @It's you. You!
+   2 @Maybe, just maybe I thought that really it might be.
+>> Liz @Whoaaaa! How's that?!
+   @It's a move too good to waste for when no one's around. But this might not be the time.
+>> Liz @You fiend. If only I had finished the Bulkogidon.
+   2 @Wow! He got up.
+
+   @Enjoy the continuation of your grand adventure.
+>> @Let's go, Ard!
+>> Ard @Ar...d  Ard. Ard...Arrd, A...rd!
+   0 @So they're also Odessa.
+
+   @I'd ask, but I already know. Why do I always get stuck with you?
+>> Liz @Some kind of fate brings us two together.
+   2 @They've made an appearance-- the two with varying world views.
+>> Liz @The young girl hurts feelings so lightly. She sees flaws so rightly.
+>> Ard @Ard--Ard! Ard!
+   4 @Who are they? I can't even get mad, I feel so sick.
+>> Liz @And to say such things during our first meeting.
+   @I'm disappointed you're so displeased with my amazing knowledge of that.
+
+   4. You can't take this guy seriously.
+>> Liz @The public opinion polls rate me highly! I've tons of good traits.
+   @This is probably the only place in Filgaia where you can hear such praise! I appreciate your support.
+>> Ard @Ard--Ard! Ard--Ard!
+>> Liz @I've been training, so get ready to take me on!
+   @Come, look, feel. Don't get scared now. Such novices!
+>> Liz @I am feeling like playing a few tricks!
+   @A lovely explosion! Really! We are offering a journey of sleep to a far off land.
+   @Today's actions will become tomorrow's legend!
+>> Liz @You do such cruel things!
+   @I have no choice now but to bring out the mean machine!
+
+   @March, Arms Killer! No morals and no control! Mash 'em and smash 'em!
+>> Liz @Even the Arms Killer everyone loved...
+   @I guess we need to finish the Bulkogidon after all! Darn you!
+
+   @Stop conspiring with Vinsfeld!
+>> Liz @It's none of your business who we are allied with!
+   @Ridiculous! I'm going to leave rather than get lectured!
+>> @Let's go, Ard!
+>> Ard @Ard, Ard, Ard!
+   2 @We sure wasted a lot of time with that.
+
+   The Departure Morning
+>> Liz @Running away? It is I, the one you all loved.
+   @If I go off to some remote region, you'll probably never meet a fine hero like me again.
+
+   @It's important to know that the bullied have their own reasons too.
+>> Liz @Whoa! How delightful!
+   *Fab Science Lab!
+
+   @A shocking scene might play itself out right here before us.
+>> Liz @I'll scream! Someone help! Someone!
+>> Ard @Ard...Ard, Ard...rd, Ard.
+   0 @You're alive!
+>> Liz @Earthworms and crickets are so, so cool because they're alive.
+   @Being alive is so unbelievably fabulous!
+
+   2 @After that I didn't see you around anymore.
+>> Liz @Oh, no! Don't bring that up! Don't go inquiring about my past!
+>> Liz @That day, I...
+   0 (Hm. He's started talking about it himself.)
+   2 (So, he wants me to listen. There are lots like him around.)
+>> Liz @Actually, we weren't on the Heimdal Gazzo.
+   0 @But it was Odessa's final battle. Are you really one of them?
+>> Liz @Actually, I am a little unsure about that too.
+   @I guess that shows how much they valued me. They only requested up to (Defcon) B.
+   0 @You guys can't help but get in the way and hold us back.
+>> Liz @I'd hoped to do a military maneuver with little Vins at least once.
+>> Ard @Ard, Ard.
+   2 (That reminds me...)
+
+   2 (How sad! How pitiful!)
+>> Liz @It seems the top contender gathering sympathy votes.
+   @What I want isn't anything like that!
+
+   0 @Are you all right?
+>> Liz @I'm a stickler for manners. How dare you tell me that.
+   0 @But you always say such outrageous nonsense.
+   @But really, why did such... |unique| creatures as you two decide to team up with Odessa?
+>> Liz @Do you know the smell of the earth and our true feelings?
+   @I was lured in by the Red Tractor Beam. I'll divulge the secret, secret past.
+   0 @Please, keep it brief.
+>> Liz @I got involved in terrorism so I could return to my homeland.
+   @I won't do anything bad from now on.
+
+   0. It's as if you're making fun of science.)
+>> Liz @Science. Right, science. Science converted me.
+   0 @How can you say that after you've made such a mistake with science?
+>> Liz @I can't believe it!
+   @All I want to do is to return to my hometown.
+
+   @So what are we supposed to do?
+>> Liz @Wow! I'm so marvelously happy!
+   @Now, losers of the combat unit-- please show me around here, at my own home.
+
+   @What do you mean you want to be shown around?
+>> Liz @We were locked out by the security system.
+   @Finally, the computers rebelled. This is first class Hard SF. Think you're so smart.
+
+   @Well, all right. I'll show you around. Just go on home or wherever.
+>> Liz @How exciting!!! The young one changed his mind. Hip Hip Hooray!
+   0 @What is it?
+>> Liz @It's a UFO we built to take us back to our sea of stars.
+   2 @A sea of stars? What kind of creatures are you?
+>> Liz @You have so generously exposed publicly our dazzling form.
+   @Hidden in this forceful, stout body and with our status, we are...
+   0 @You're taking too long. You're leaving us behind with this.
+>> Liz @(edited)...and so that's it in a nutshell.
+   @I am a Lizardian I came by air...
+
+   0 @OK, let's blast the invaders!
+>> Liz @Hey, what're you doing? Is this a joke? Why the sudden change?
+>> Ard @Ard...Ard, Ard! Ard, Ard!
+>> Liz @Either way...
+   @We didn't belong to a Planetary Federation nor was there a rescue squad coming to this remote region.
+
+   2 @It's a decision that makes everyone happy.
+>> Liz @A special |Space Engine| has already been attached.
+   @All we have to do now is get in.
+   0 @What's this?
+>> Liz @It's a security system I set up.
+   2 @Then hurry up and do something about it.
+>> Liz @With the computer revolt, it won't even recognize its master.
+   @Time for the Hard SF to demonstrate its capabilities.
+   0 @What is a |Hard SF?| You've been talking about it for awhile now.
+>> Liz @Hard, soft ...regular?
+   0 @We'll leave that alone and just deactivate it ourselves.
+>> Liz @I remember that response!
+   0 @Something's happening!
+>> Liz @Now, the Bulkogidon is revived, crushing the forbidden silence!
+   2 @Is this the Bulkogidon that you mentioned before?
+
+   @All together now-- Bulkogidon!
+>> Ard @Ard...Ard, Ar...Ard!
+   2 @But this computer is broken, right?
+   @Then it probably can't tell who's an ally and who's the enemy, right?
+>> Liz @Help! Save me! You reliable, trustworthy soul!
+   0 @Why should I look after you?!
+>> Liz @Whoa! My Bulkogidon!
+   0 @We've won, so you better just give up now.
+
+   0 @Time to let 'er rip! We'll see how the experiment fares on this run.
+>> Liz @You sure blurt out very calmly some very scary things.
+   2 @What is it? It's not a dog catcher's house?
+   @You're not involved in some kind of animal trade are you?
+>> Liz @Why were we chased down?
+   @We're blood brothers. Adoring ideal scientists form a happy but embarrassing destined partnership.
+   0 @To summarize, you know them?
+>> Liz @You could say they're comrades.
+   @We had them volunteer to help with our departure to the homeland.
+
+   @What are you going to do? Are you going to take them along?
+>> Liz @Parting is most sad, but I can't let you do that.
+   @While we are fated to go, we're also fated to stay and protect. Entrust Filgaia to their care.
+
+   @I doubt the wisdom of leaving our star in their care so easily.
+>> Liz @The sea of space, the sea of stars...
+   @Separate. Cut. Words for takeoff. To be sent off by those I adore... Off we go to the sea of stars.
+>> Liz @We're flying off!
+   2 @Off they went.
+
+   0 @Whoa!!! Evacuate immediately!
+>> Liz @My soul was pulled in by Filgaia's gravity.
+>> Ard @Ard, Ard.
+>> Liz @It makes me so mad I'm trembling with anger!
+>> Liz @We'll manage somehow if we don't give up!
+>> Ard @Ard, Ar-Ar-Ard.
+>> Ard @Ard...Ard... Ard...ArAr...Ard.
+    1. Balloon, Gohm, Blue Book

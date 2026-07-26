@@ -1,0 +1,1488 @@
+# WA2 — Sylvaland Castle / Holst (SD) — block 14, US#3559-3762 — FIRST-PASS insert-ready
+# =========================================================================================
+# FIRST PASS (auto-generated): RE = the US localization reflowed to the display window
+#   (<=3 lines x <=35 chars), em dashes stripped, color-code artifacts removed. JP shown for
+#   reference (block-decoded; residual codes possible). This is NOT a deep literary
+#   retranslation — it gives Sylvaland Castle / Holst valid insert text; flag for a deep RE pass later.
+# US# reconciled by construction (IDs are the real block-14 message slots).
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#3563]
+  JP : 「左ずの番で<89bb>いんです / お願いしますから / びっくりさせないでくださいよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : These all-nighters get to you. Please, don't surprise me like that.
+  RE : These all-nighters get to you.
+       Please, don't surprise me like
+       that.
+
+[US#3564]
+  JP : 「もうイタズラしないように / ここで、見右ってますからね灯らした / ふとどきな敵がいたらしいよ / <f040><f041><f042>もちろん、あなたたちじゃないよね？業を守るだけさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'll be looking out to make sure there are no more false alarms.
+  RE : I'll be looking out to make sure
+       there are no more false alarms.
+
+[US#3565]
+  JP : 「オデッサの脅威〜 / 我々は、どこまで / たちうちできるのでしょうか？
+  LIT: The menace of Odessa... just how far can we possibly stand against it?
+  EN : The menace of Odessa... just how will we be able to face it?
+  RE : The menace of Odessa... just how
+       will we be able to face it?
+
+[US#3566]
+  JP : 「意外なところで / 意外な情報が聞けるかもしれませんよ / やはり、情報は足で探すものですね
+  LIT: You may hear surprising information in surprising places. In the end, information is found on foot.
+  EN : You may hear some surprising things in surprising places. There's no substitute for footwork.
+  RE : You may hear some surprising things
+       in surprising places. There's no
+       substitute for footwork.
+
+[US#3567]
+  JP : 「やはり / あなたたちはただ者じゃないッ！
+  LIT: You really are no ordinary people after all!
+  EN : You guys are quite impressive after all!!
+  RE : You guys are quite impressive after
+       all!!
+
+[US#3568]
+  JP : 「今後は、本当に目<8880>のために / この発を灯らすことが / あるかもしれないですねぇ目<8880>の発の光のはずなのに / 飛び込み<b:8a3f>んできたのはオレだけかッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : In the future, this bell may ring in the event of a real call-to-arms.
+  RE : In the future, this bell may ring
+       in the event of a real call-to-
+       arms.
+
+[US#3569]
+  JP : 「イタズラだったからよかったものの / 本当の目<8880>だったらどうなってたんだ？期してから<b:8a41>むことだ / つまらないミスなどで / 命を落とすことのないようにな核ドラゴンを簡単に撃動できたかもな<b:8a46>重過ぎるくらいが<89d5>度いいってものさ / <b:8a46>重過
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm glad it was a false alarm, but what if it were a real emergency?
+  RE : I'm glad it was a false alarm, but
+       what if it were a real emergency?
+
+[US#3570]
+  JP : 「ひとつの戦いが終ろうとしている〜 / そんな気がしますッ！<b:8a4a>協力を得られましたね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : One battle is about to end... That's what I think!
+  RE : One battle is about to end...
+       That's what I think!
+
+[US#3571]
+  JP : 「ここまでの道のりは / <88a5>いようで長かった〜〜 / 人はなぜ国具なんてつくったんだろう客さんのお戻りを / <888a>を長くして待っています
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The journey to this point was much longer than it needed be... Why do people create borders?
+  RE : The journey to this point was much
+       longer than it needed be... Why do
+       people create borders?
+
+[US#3572]
+  JP : 「あなた方の活躍を / 我が国のすべての人が / <895b>えることでしょう客さんのお戻りを / <888a>を長くして待っています
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I am sure that everyone in Sylvaland knows of your fine exploits.
+  RE : I am sure that everyone in
+       Sylvaland knows of your fine
+       exploits.
+
+[US#3573]
+  JP : 「ぜひ、客のものに / 話をかけてやってください国の国民が<8832>われました
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Please come in and let them know you are back.
+  RE : Please come in and let them know
+       you are back.
+
+[US#3574]
+  JP : 「これからも共に力を合わせ / 平和のために力を尽くしましょう
+  LIT: Let us keep joining our strength from here on, and give our all for peace.
+  EN : Let us continue to work together for peace by all means.
+  RE : Let us continue to work together
+       for peace by all means.
+
+[US#3575]
+  JP : 「緑に囲まれたこの美しい<893b>は / 私たちの自慢です<b:8a5a>ったら / 俺を呼んでくださいッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We are proud of this castle surrounded by greenery.
+  RE : We are proud of this castle
+       surrounded by greenery.
+
+[US#3576]
+  JP : 「すぐに助けに行って差し上げますッ！ / <f040><f041><f042>って、現実には無理ですけど / 意気込みはそれぐらいある、ということで<f05b>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'll be right off to save you! I know this is not realistic, but I am just that enthusiastic!
+  RE : I'll be right off to save you! I
+       know this is not realistic, but I
+       am just that enthusiastic!
+
+[US#3577]
+  JP : 「いやぁ、良かった良かったぁ / [05]かさんに / もしものコトがあったら俺は〜ッ！
+  LIT: Oh, thank goodness, thank goodness. If anything had happened to you, {5}, I... (05 = name slot)
+  EN : I am just SO glad. If something happened to you, 2, I don't know what...!
+  RE : I am just SO glad. If something
+       happened to you, 2, I don't know
+       what...!
+
+[US#3578]
+  JP : 「そうですかぁ、良かった良かったぁ / [05]かさんに / もしものコトがあったら俺は〜ッ！
+  LIT: I see; thank goodness, thank goodness. If anything had happened to you, {5}, I... (05 = name slot)
+  EN : I see. I am just SO glad. If something happened to 2, I don't know what...!
+  RE : I see. I am just SO glad. If
+       something happened to 2, I don't
+       know what...!
+
+[US#3579]
+  JP : 「これからも / [05]かさんを / 守ってあげてくださいね<b:8a5c><b:8a5d>ですから / 全<8844>、暗くないですよ<b:8a5c><b:8a5d>があるから / 空が暗くなっても平気さッ！ / <b:8a5c><b:8a5d>が何なのかって？ それは<b:8a5e>内です<f
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Please take care of 2 in the future.
+  RE : Please take care of 2 in the
+       future.
+
+[US#3580]
+  JP : 「今回の活躍の件、聞いてますよ / またこれからも / 見右ってくださいね客さんの優<b:8a62>さが身に染みました
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I have heard about your recent exploits. Good luck on your next job.
+  RE : I have heard about your recent
+       exploits. Good luck on your next
+       job.
+
+[US#3581]
+  JP : 「でもこうしてまた / 無事に帰式できてなによりです
+  LIT: But that you've made it safely back like this is what matters most. (帰式->帰還)
+  EN : I cannot tell you of my joy at meeting you again.
+  RE : I cannot tell you of my joy at
+       meeting you again.
+
+[US#3582]
+  JP : 「初めのうちは / あまり陸から離れたところを / 飛行しない方がいいかもしれませんね<b:8a67><b:8a68>[11]ぉにありますよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : At the start, maybe you ought not to stray too far from land.
+  RE : At the start, maybe you ought not
+       to stray too far from land.
+
+[US#3583]
+  JP : 「いまじゃ[05]かさんは / このシルヴァラント<893b>のアイドルですよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : 2, you have become the idol of Sylvaland Castle.
+  RE : 2, you have become the idol of
+       Sylvaland Castle.
+
+[US#3584]
+  JP : 「いやはや / 感賛の言葉しかでませんな
+  LIT: Well now, I have nothing but words of admiration. (感賛->感嘆/賞賛)
+  EN : I can give you nothing but words of praise.
+  RE : I can give you nothing but words of
+       praise.
+
+[US#3585]
+  JP : 「さすがはＡＲＭＳに選ばれただけはある / 人は見かけによらないということか / これからもキミたちの活躍を期待している<b:8a6b>し<b:8a6c>ない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I see why you were picked for ARMS. Can't judge a book by its cover. We are counting on you from now on.
+  RE : I see why you were picked for ARMS.
+       Can't judge a book by its cover. We
+       are counting on you from now on.
+
+[US#3586]
+  JP : 「キミたちの実力のほど / しかと見せてもらった / 味方として心強い限りだ環人は〜
+  LIT: I've seen the full measure of your skill. As allies you're most reassuring. (bleed tail; 環人->?)
+  EN : I have seen your strength in action quite well. Good to have you as allies.
+  RE : I have seen your strength in action
+       quite well. Good to have you as
+       allies.
+
+[US#3587]
+  JP : 「〜まあいい、オデッサなる敵 / 我ら同胞<897d>が守ってみせるから / 大<89d3>に守ったつもりでいたまえ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Oh well, don't worry about those Odessa fellows, as our knights will slaughter them.
+  RE : Oh well, don't worry about those
+       Odessa fellows, as our knights will
+       slaughter them.
+
+[US#3588]
+  JP : 「〜〜メリアブール<89fb>も / なにもこのような者たちを / 使者として遣わすこともなかろうに<b:8a74>ちゃんがメリアブールからの / 使者だって？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...The King of Meria Boule would not send such a person as an envoy.
+  RE : ...The King of Meria Boule would
+       not send such a person as an envoy.
+
+[US#3589]
+  JP : 「キミのような者でも / ＡＲＭＳの隊員になれるようでは / その実力を見るまでもないな防ぐコトが一番だからな / 初心に<b:8a78>って<b:8a79>々までチェックだッ！ / さあ、キミたちも一<b:8a7a>に<f040><f041><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If even a girl like you can become a member of ARMS, I wonder how strong it could be.
+  RE : If even a girl like you can become
+       a member of ARMS, I wonder how
+       strong it could be.
+
+[US#3590]
+  JP : 「指差し確認、よーしッ！
+  LIT: Point-and-check... all good!
+  EN : Visual check...OK!
+  RE : Visual check...OK!
+
+[US#3591]
+  JP : 「それを確かめるべく / 指差し確認が必要だッ！ / 忘れるなよッ！差し確認は、<b:8a7b>本中の<b:8a7b>本だッ！ / こうやって、見回って / 指差し確認すれば、<88ad><b:8a7c>だッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's unconfirmed, though! You'll have to check it visually yourself. Don't forget!
+  RE : That's unconfirmed, though! You'll
+       have to check it visually yourself.
+       Don't forget!
+
+[US#3592]
+  JP : 「指差し確認、よーしッ！<b:8a7d>たりとも気は抜けないぞッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Visual check...OK!
+  RE : Visual check...OK!
+
+[US#3593]
+  JP : 「指差し確認、よーしッ！業が存在するらしいんだ
+  LIT: Point-and-check... all good! (bleed tail: it seems some line of work exists)
+  EN : Visual check...OK!
+  RE : Visual check...OK!
+
+[US#3594]
+  JP : 「指差し確認をすれば探し出せるハズだッ！ / <f040><f041><f042>指差し確認、よーしッ！業が存在するらしいんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : One should be able to find it with judicious visual checks! .......Visual check...OK!
+  RE : One should be able to find it with
+       judicious visual checks!
+       .......Visual check...OK!
+
+[US#3595]
+  JP : 「指差し確認をすれば探し出せるハズだッ！ / <f040><f041><f042>指差し確認、よーしッ！業が存在するらしいんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : One should be able to find it with judicious visual checks! .......Visual check...OK!
+  RE : One should be able to find it with
+       judicious visual checks!
+       .......Visual check...OK!
+
+[US#3596]
+  JP : 「指差し確認をすれば探し出せるハズだッ！ / <f040><f041><f042>指差し確認、よーしッ！業が存在するらしいんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : One should be able to find it with judicious visual checks! .......Visual check...OK!
+  RE : One should be able to find it with
+       judicious visual checks!
+       .......Visual check...OK!
+
+[US#3597]
+  JP : 「指差し確認をすれば探し出せるハズだッ！ / <f040><f041><f042>指差し確認、よーしッ！業が存在するらしいんだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : One should be able to find it with judicious visual checks! .......Visual check...OK!
+  RE : One should be able to find it with
+       judicious visual checks!
+       .......Visual check...OK!
+
+[US#3598]
+  JP : 「指差し確認をすれば探し出せるハズだッ！ / <f040><f041><f042>指差し確認、よーしッ！業が存在するらしいんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : One should be able to find it with judicious visual checks! .......Visual check...OK!
+  RE : One should be able to find it with
+       judicious visual checks!
+       .......Visual check...OK!
+
+[US#3599]
+  JP : 「指差し確認をすれば探し出せるハズだッ！ / <f040><f041><f042>指差し確認、よーしッ！差し確認するんだッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : One should be able to find it with judicious visual checks! .......Visual check...OK!
+  RE : One should be able to find it with
+       judicious visual checks!
+       .......Visual check...OK!
+
+[US#3600]
+  JP : 「だけど、こんな異世事態が起きている今 / それにまわす<888e>余なんてないんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But dealing with the encroachment that is happening, we simply don't have the budget to spare.
+  RE : But dealing with the encroachment
+       that is happening, we simply don't
+       have the budget to spare.
+
+[US#3601]
+  JP : 「<f040><f041><f042>でも、こんな時だからこそ / ハルメッツの人たちの心の支えである発を / なおすべきなんじゃないかと思うよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But maybe the people of Halmetz need the bell more now than ever to keep their spirits up...
+  RE : But maybe the people of Halmetz
+       need the bell more now than ever to
+       keep their spirits up...
+
+[US#3602]
+  JP : 「その灯り焼く発の光は / 美しいこの国を表わしているようだ<b:8a81>い空の時に灯り焼く発の光は / それはもう美しかったよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The beauty of those bells' sound is said to represent the beauty of the country.
+  RE : The beauty of those bells' sound is
+       said to represent the beauty of the
+       country.
+
+[US#3603]
+  JP : 「だけど、空が暗くなってから / 発を灯らしても空しく焼くだけさ〜
+  LIT: But now that the sky has darkened, lighting the beacon only burns in vain. (発->烽/篝 'beacon')
+  EN : But since the sky has darkened... Ringing the bells only makes things worse...
+  RE : But since the sky has darkened...
+       Ringing the bells only makes things
+       worse...
+
+[US#3604]
+  JP : 「ただ、その隠された入り口が / どこにあるのかは誰も知りません / きっと<899c><8a22>に隠されているのでしょう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : No one knows where that hidden entrance lays...It must be well concealed.
+  RE : No one knows where that hidden
+       entrance lays...It must be well
+       concealed.
+
+[US#3605]
+  JP : 「たまには探<887e>をしながら / 飛道するのもいいんじゃないですか？ / 新たな遺跡〜〜わくわくしますねッ！<b:8a82>い、<b:8a82>すぎます / あのバルキサスを墜としてしまうなんて
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Mightn't it be a good idea to go on a sea voyage sometime? Undiscovered ruins...how exciting!
+  RE : Mightn't it be a good idea to go on
+       a sea voyage sometime? Undiscovered
+       ruins...how exciting!
+
+[US#3606]
+  JP : 「あなたたちの戦いぶりを / この目で実<89d2>に見たかったですね<b:8a82>い、<b:8a82>すぎます / あのバルキサスを墜としてしまうなんて
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I always wanted to see you all in action...
+  RE : I always wanted to see you all in
+       action...
+
+[US#3607]
+  JP : 「武の道に生きてきたわたしですが / 魔法の力、認めざるを得ません
+  LIT: I have lived by the way of the sword, yet I must acknowledge the power of magic.
+  EN : I have lived by the sword, but now I must acknowledge the power of magic as well.
+  RE : I have lived by the sword, but now
+       I must acknowledge the power of
+       magic as well.
+
+[US#3608]
+  JP : 「いま外では / 大変なことになっているというのに / 〜〜私はいったい〜〜熱<b:8a85>に / 目<8880>するためのものです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Important events are happening outside, but I am here ...doing nothing...
+  RE : Important events are happening
+       outside, but I am here ...doing
+       nothing...
+
+[US#3609]
+  JP : 「むやみに発を灯らしたりするのは / 止めてくださいね
+  LIT: Please stop lighting the beacon needlessly. (発->beacon)
+  EN : Please don't ring it needlessly.
+  RE : Please don't ring it needlessly.
+
+[US#3610]
+  JP : 「<896a>世事態と思い / 飛び込んでくる衛同が / いるかもしれませんから<b:8a85><89dd>のひもを招くと / 発を灯らすことができますが / むやみに発を灯らさないでくださいね<b:8a86>えてＡＲＭＳ、ＡＲＭＳとッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Some guards might come running because they think it means trouble.
+  RE : Some guards might come running
+       because they think it means
+       trouble.
+
+[US#3611]
+  JP : 「ＡＲＭＳなどばかりに頼っておらんで / 自分たちで何とかしてみせようという気は / 我ら同胞<897d>には、ないのかッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We should not depend on ARMS, but rise up ourselves to save the day. We are knights, are we not!
+  RE : We should not depend on ARMS, but
+       rise up ourselves to save the day.
+       We are knights, are we not!
+
+[US#3612]
+  JP : 「<f040><f041><f042>空の異世気象については / 我らシルヴァラントの同胞<897d>が / 解決してみせようぞッ！核ドラゴンがシルヴァラントに / 現われていれば我々の活躍を / 存分にお見せすることができたのだがね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It should be we knights of Sylvaland who solve the problem of this sky, no one else!
+  RE : It should be we knights of
+       Sylvaland who solve the problem of
+       this sky, no one else!
+
+[US#3613]
+  JP : 「いやぁ、まったくもって残念だな / ハッハッハッ〜〜
+  LIT: Ah, what a pity indeed. Hah hah hah...
+  EN : It's too bad it doesn't come here! We'd show it a thing or two!
+  RE : It's too bad it doesn't come here!
+       We'd show it a thing or two!
+
+[US#3614]
+  JP : 「それにしても、ギルドグラードの同胞も / ＡＲＭＳに活躍の場を持っていかれるとは / 何とも、ふがいないヤツラよ核がなにするものぞッ！
+  LIT: Even so, that the Guild Galad warriors let ARMS steal the spotlight, what spineless fellows. (bleed: what's a nuke to us?!)
+  EN : The Guild Galad warriors must have been so embarrassed to be shown up like that by ARMS...
+  RE : The Guild Galad warriors must have
+       been so embarrassed to be shown up
+       like that by ARMS...
+
+[US#3615]
+  JP : 「あの『核』については / 我らシルヴァラントの同胞<897d>が / 解決してみせようぞッ！敵らがどのような同時を持とうと / あなた方ならばそれをうち破れる / わたしはそう信じています
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They should beg us Sylvaland knights to get rid of Odessa and their nukes!
+  RE : They should beg us Sylvaland
+       knights to get rid of Odessa and
+       their nukes!
+
+[US#3616]
+  JP : 「いえ、きっとわたしだけでないはず / 世界中の人が、あなたたちを信じています / あなたたちＡＲＭＳの勝利をッ！守るべきなにかがあってこそ / 本当の力を出せるんじゃないでしょうか
+  LIT: No, surely it isn't only me; everyone in the world believes in you, in your ARMS victory! (bleed: only with something to protect can one show true strength)
+  EN : And it's not just me, either. Everyone in Filgaia believes in you, I'm sure...
+  RE : And it's not just me, either.
+       Everyone in Filgaia believes in
+       you, I'm sure...
+
+[US#3617]
+  JP : 「なにかを大切なものを守りたい / そういう想いが剣を強くした / わたしはそう思っています
+  LIT: Wanting to protect something precious; that feeling is what made the sword strong. That's what I believe.
+  EN : Desire to protect what they love is what really brings out strength in a man. That's what I think.
+  RE : Desire to protect what they love is
+       what really brings out strength in
+       a man. That's what I think.
+
+[US#3618]
+  JP : 「いつでも行動をとれるよう / 準備だけは怠らないようにしないと / 守るべきものも守れなくなってしまう活躍を見せられませんでしたな / ははは<f05b>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If we aren't prepared when the time comes, then we won't be able to protect what we love.
+  RE : If we aren't prepared when the time
+       comes, then we won't be able to
+       protect what we love.
+
+[US#3619]
+  JP : 「あなたたちのこれからの活躍に / わたしも期待しておりますので活躍を見せられませんでしたな / ははは<f05b>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm looking forward to watching you in action, though...
+  RE : I'm looking forward to watching you
+       in action, though...
+
+[US#3620]
+  JP : 「その小さな体のどこに / あのバルキサスを墜とす力が / 備わっているのか不思議だ〜活躍 / 聞きましたよ
+  LIT: It's a wonder where that small body keeps the power to bring down Varukisas. (bleed: I heard of your exploits)
+  EN : I don't know where you keep the power to down something like Varukisas on that body, but...
+  RE : I don't know where you keep the
+       power to down something like
+       Varukisas on that body, but...
+
+[US#3621]
+  JP : 「今回は / 我らの活躍を見せられなかったが / 更こそはッ！同胞があらわれて / 危機を<8832>ったという話は本当かい？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We didn't get a chance this time to show our stuff... Next time, maybe!
+  RE : We didn't get a chance this time to
+       show our stuff... Next time, maybe!
+
+[US#3622]
+  JP : 「現場近くにいたキミたちなら / なにか知ってるんじゃないか？ / よければ教えてくれないか<b:8a74>さん / オデッサなどと名のる連中など / なにも<889c>れる必要はありませんよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You all were near the battle, so you must have seen something. Want to tell me what happened?
+  RE : You all were near the battle, so
+       you must have seen something. Want
+       to tell me what happened?
+
+[US#3623]
+  JP : 「もし敵らがなにかを仕<89eb>けてきたら / 我ら同胞<897d>が守って見せましょう制<b:8a8e>などといっている者たちがいるが / 我らがいる限り / それは無理というものだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If they were to try something around here, we knights would take care of them quick!
+  RE : If they were to try something
+       around here, we knights would take
+       care of them quick!
+
+[US#3624]
+  JP : 「我ら同胞<897d>の存在を知ってなお / そのようなことをいうのであれば / その愚かさを身をもって教えるしかないな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If they try anything in spite of us, we'll just have to show them the error of their ways forcibly!
+  RE : If they try anything in spite of
+       us, we'll just have to show them
+       the error of their ways forcibly!
+
+[US#3625]
+  JP : 「<f040><f041><f042>ですので / <892c>能力が、１．８倍（当社比）ほど / 上がっているでアリマースッ！核ドラゴンのような脅威が / このシルヴァラントに来ないとは / 限りらないでアリマスッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Therefore, the Danger Level has risen to 1.8!
+  RE : Therefore, the Danger Level has
+       risen to .8!
+
+[US#3626]
+  JP : 「<f040><f041><f042>ですので / <892c>能力が、１．５倍（当社比）ほど / 上がっているでアリマースッ！能力が、１．３倍（当社比）ほど / 上がっているでアリマースッ！武力を<b:8a95>りかざしてくる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Therefore, the Danger Level has risen to 1.5!
+  RE : Therefore, the Danger Level has
+       risen to .5!
+
+[US#3627]
+  JP : 「力に上限はない〜 / <f040><f042>っていうのは本当なのかな？占[07]敵らにとっての最終同時だといいのですが / あれ以上の武時を持っていたとしたら〜装「こんなことは考えたくはないのですが / まだオデッサにはなにかあるのでは / そう思ってしまうのです占[07]装「あなたたちのおかげ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There doesn't seem to be a limit to their strength.
+  RE : There doesn't seem to be a limit to
+       their strength.
+
+[US#3628]
+  JP : 「<8a03><8a04>な行動がとれることによって / 状況の悪合を最小限にくい止められたことを / 今回の件で身に染みて実信しました
+  LIT: (literal pending: JP has unsolved codes)
+  EN : This time I realized the value of a rapid response in containing a dangerous situation.
+  RE : This time I realized the value of a
+       rapid response in containing a
+       dangerous situation.
+
+[US#3629]
+  JP : 「我々も準備ができ更<88f9> / 急行するでアリマスッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We will follow as soon as preparations are complete!
+  RE : We will follow as soon as
+       preparations are complete!
+
+[US#3630]
+  JP : 「何か解決の糸口が見つかれば / 良いのですが〜
+  LIT: I only hope we find some thread toward a solution.
+  EN : I hope we find some thread of hope, but...
+  RE : I hope we find some thread of hope,
+       but...
+
+[US#3631]
+  JP : 「<f040><f041><f042>おおッ！ そういえばッ / [11]おシルヴァラントの東[11]ぉには空に浮かぶ遺跡が / あると聞いたことがありますよ時である核ドラゴンを / 倒してしまうとは〜ッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Speaking of which, I heard of a ruin floating in the sky. It's to the 1west of Sylvaland0.
+  RE : Speaking of which, I heard of a
+       ruin floating in the sky. It's to
+       the west of Sylvaland.
+
+[US#3632]
+  JP : 「しかし、オデッサの空中要<885e>を落とした / あなたたちのコトですから / あながち不思議ではないのですが〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But then again, you did shoot down Odessa's flying fortress, so maybe I shouldn't be surprised...
+  RE : But then again, you did shoot down
+       Odessa's flying fortress, so maybe
+       I shouldn't be surprised...
+
+[US#3633]
+  JP : 「その不安を取り除けるのは / あなたたち、ＡＲＭＳをおいて / 他ならないでしょう
+  LIT: The ones to remove that unease are none other than you, ARMS.
+  EN : If you all in ARMS don't relieve them of that fear, who will?
+  RE : If you all in ARMS don't relieve
+       them of that fear, who will?
+
+[US#3634]
+  JP : 「ただ、あの同時が作られた当時の記録があれば / なにかしらヒントになることでも / わかるとおもうのですが〜〜<b:8a9e>囲の移動手段を得ることで / これまでにいけなかったところなども / <b:8aa0>交にいけることでしょう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But, if scrolls from the time it was made still exist...you might find out something that way.
+  RE : But, if scrolls from the time it
+       was made still exist...you might
+       find out something that way.
+
+[US#3635]
+  JP : 「でもそれは<89c1>に / 目的地を見失いやすくなります / <88f7>意してください同胞<897d>だけでなく / 多くの人々の<b:8aa2>気を高めることでしょう功<b:8aa4>を繋げたのです / さぁ、<89e5>を右ってください<b:8a6b>しております
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But that means you may also miss the place you're aiming for, so be careful.
+  RE : But that means you may also miss
+       the place you're aiming for, so be
+       careful.
+
+[US#3636]
+  JP : 「ぜひ、お式いになっていってください国国に<b:8aa7>さない結単部隊があるとは / メリアブールもかわった国ですね美しさだ〜 / 〜でも、美人が<b:8aa8>をとると<b:8aa9>だよね<f05a>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Please go to the Audience Chamber.
+  RE : Please go to the Audience Chamber.
+
+[US#3637]
+  JP : 「<f040><f041><f042>はッ！ / 私は、なんてコトを言っているのだッ！ / さっき私が言ったコトは、どうか街内に〜<f05b>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Uh.... Did I just say that? I didn't mean it...not at all...
+  RE : Uh.... Did I just say that? I
+       didn't mean it...not at all...
+
+[US#3638]
+  JP : 「もし、このシルヴァラントが / 核ドラゴンに攻われたとしても / この私が、命をかけてお守りいたしますッ！美しさだ〜 / 空が<888c>くなっても、ちっとも気にならない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If the Nuclear Dragon ventures into Sylvaland, I will lay down my life to protect Your kingdom!
+  RE : If the Nuclear Dragon ventures into
+       Sylvaland, I will lay down my life
+       to protect Your kingdom!
+
+[US#3639]
+  JP : 「〜でも、なんでご結婚しなかったのだろう？<b:8a7b>のジェネレイター〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : (I wonder why she never married, though...?)
+  RE : (I wonder why she never married,
+       though...?)
+
+[US#3640]
+  JP : 「今回に備えてオデッサは / かねてよりファルガイア制圧を / <896e>く、密かに目論んでいたのでしょうね<b:8a48>撃を押けてばかりの我々が / 敵らに一<b:8aad>報いることができました活躍に / よろこんでおいでです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : In their long plan to win all of Filgaia, Odessa must have quietly planned for this day from long ago.
+  RE : In their long plan to win all of
+       Filgaia, Odessa must have quietly
+       planned for this day from long ago.
+
+[US#3641]
+  JP : 「女<89fb><8a0b>辺に / あなたたちから / ご報<8804>なさってください
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Please report to Her Highness yourselves.
+  RE : Please report to Her Highness
+       yourselves.
+
+[US#3642]
+  JP : 「あなたたちと / できることは違うかもしれませんが / 平和を望む心はいっしょです<b:8aaf>見は、<b:8ab0><b:8ab1>国の使者として / くれぐれも失<8928>のないように / お願いいたします
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Our methods are different, but our desire for peace is the same.
+  RE : Our methods are different, but our
+       desire for peace is the same.
+
+[US#3643]
+  JP : 「こうなると、よっぽどのことじゃ / 起きそうにはないな……
+  LIT: At this rate, it'd take something extraordinary to wake him...
+  EN : He wouldn't wake up if Odessa came and shook his hand!
+  RE : He wouldn't wake up if Odessa came
+       and shook his hand!
+
+[US#3644]
+  JP : 「これでは、<893b>を守るなんて / できやしないんじゃないのか？時用ッ！ 立ったまま左てるよッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You can't guard the castle while you're asleep!
+  RE : You can't guard the castle while
+       you're asleep!
+
+[US#3645]
+  JP : 「ん？ あんな所に人影がある…… / この人、どうにかして動かせないかなぁ<b:8a4a>ッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Hmm? There's a treasure box there! We just have to get this heap of garbage out of the way...
+  RE : Hmm? There's a treasure box there!
+       We just have to get this heap of
+       garbage out of the way...
+
+[US#3646]
+  JP : 「これだからニンゲンというやつは / ブツブツ……公が / 一連の事件の<888a><b:8ab5>者だったとは〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Do you think we should just leave him alone?
+  RE : Do you think we should just leave
+       him alone?
+
+[US#3647]
+  JP : 「それが、事実だとするならば / 今までのいきさつも納得がいきますね / すべては、仕組まれたことだった〜？
+  LIT: If that's the truth, then all that's happened makes sense. It was all engineered...?
+  EN : This is why I have no faith in humanity...
+  RE : This is why I have no faith in
+       humanity...
+
+[US#3648]
+  JP : 「ヴァレリア公は / 慈愛の強い、やさしく、優しい方〜 / ファルガイアを本気で愛していた方〜
+  LIT: Sir Valeria is deeply compassionate, gentle, kind; someone who truly loved Filgaia.
+  EN : If that's true, then everything else makes more sense. Everything was planned...
+  RE : If that's true, then everything
+       else makes more sense. Everything
+       was planned...
+
+[US#3649]
+  JP : 「これしか〜 / 本当にこんなに優しい手段しか / なかったのでしょうか〜？活躍でした
+  LIT: Was this really the only way, truly only such a gentle means? (bleed tail: it was a fine performance)
+  EN : Sir Valeria is merciful, kind, and yet sad... He truly loves Filgaia.
+  RE : Sir Valeria is merciful, kind, and
+       yet sad... He truly loves Filgaia.
+
+[US#3650]
+  JP : 「事前に臨国が協力態勢にあり / <8a03><8a04>な行動をとれたことも / 功を奏したようですね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Was this plan the only way? It all seems so sorrowful...
+  RE : Was this plan the only way? It all
+       seems so sorrowful...
+
+[US#3651]
+  JP : 「<f040><f041><f042>そのことなのですが / 『オデッサ』の存在が今の協力態勢を / 築き上げたハズです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Uniting the 3 countries into a cooperative agreement beforehand seems to have not been in vain.
+  RE : Uniting the 3 countries into a
+       cooperative agreement beforehand
+       seems to have not been in vain.
+
+[US#3652]
+  JP : 「そう考えると / オデッサは臨国協力態勢の『大義名分』〜 / そのように信じられなくもないのです
+  LIT: Put that way, Odessa was the 'just cause' for the allied-nations pact; I can't help half-believing it.
+  EN : ...Indeed, it is only because of Odessa that cooperation among our 3 countries was even considered...
+  RE : ...Indeed, it is only because of
+       Odessa that cooperation among our 3
+       countries was even considered...
+
+[US#3653]
+  JP : 「あくまで、これは結果論ですが〜望んだ結果は / 我々と同じだったはず〜
+  LIT: This is hindsight, of course, but the result they wished for must have been the same as ours.
+  EN : Come to think of it, Odessa was just the right thing for us to enter into cooperative pacts...
+  RE : Come to think of it, Odessa was
+       just the right thing for us to
+       enter into cooperative pacts...
+
+[US#3654]
+  JP : 「そこにたどり着くまでの / 道のりが違っただけで / お互いを傷つけ合うことになろうとは〜<b:8abe>望の<89e0>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It seems almost too perfect...
+  RE : It seems almost too perfect...
+
+[US#3655]
+  JP : 「あのかつてない<8845>異の前に / わらわたちはなんと無力なことか〜〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Of course, we could just as easily have ended up with each other's blood on our hands...
+  RE : Of course, we could just as easily
+       have ended up with each other's
+       blood on our hands...
+
+[US#3656]
+  JP : 「あなたたちが彼のものたちを守ってくれると / わらわだけでなく / ファルガイアのすべての民が信じていますよ<b:8a4a>協力も得られ / 世界はようやくまとまろうとしてます
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We were totally unprepared for such a menace, powerless...
+  RE : We were totally unprepared for such
+       a menace, powerless...
+
+[US#3657]
+  JP : 「人の営為の中で / これほど多国が / まとまったことがあったでしょうか
+  LIT: In all the works of humankind, has there ever been so many nations brought together like this?
+  EN : We and all of Filgaia believe that you will defeat our common enemy.
+  RE : We and all of Filgaia believe that
+       you will defeat our common enemy.
+
+[US#3658]
+  JP : 「皮肉にもオデッサという<8845>異的存在が / 世界の人々の結重を / <896e>める役<8913>をすることになろうとは〜〜<b:8ac4>度のバルキサス撃墜見事でした / あらためて<8928>を言います
+  LIT: (literal pending: JP has unsolved codes)
+  EN : In all of history, have so many nations ever united for a single purpose?
+  RE : In all of history, have so many
+       nations ever united for a single
+       purpose?
+
+[US#3659]
+  JP : 「あのバルキサスの<8845>異が / どれほど人民の心に不安をもたらしたことか / その不安を取り除いてくれたのですから
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Ironically, it was the menace of Odessa that tightened the bonds between all these nations...
+  RE : Ironically, it was the menace of
+       Odessa that tightened the bonds
+       between all these nations...
+
+[US#3660]
+  JP : 「これからも世界平和のために / 尽力されることを願っています
+  LIT: I hope you'll keep striving for the peace of the world.
+  EN : It was a weight on all people's hearts, one that has now been lifted thanks to your efforts.
+  RE : It was a weight on all people's
+       hearts, one that has now been
+       lifted thanks to your efforts.
+
+[US#3661]
+  JP : 「あなたたちの年々の活躍は / わらわにも聞きおよんでいます / さらなる活躍を期待していますよ活躍を期待しています / よろしく頼みましたよ国と / いくつもの場や国がある / それを教えてやろう
+  LIT: Word of your years of good work has reached even me. I expect still greater things. (heavy bleed tail)
+  EN : I hope that you continue to battle on behalf of peace in Filgaia.
+  RE : I hope that you continue to battle
+       on behalf of peace in Filgaia.
+
+[US#3662]
+  JP : 「『ギルドグラード』 / ここから北東に級置する<8a13>工業都国国だ / かなり重工業の<89b7>占が分めているらしい
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I have heard of your many exploits. I expect to hear of more yet.
+  RE : I have heard of your many exploits.
+       I expect to hear of more yet.
+
+[US#3663]
+  JP : 「それから、いろいろな機艇や武時は / ギルドグラード製のモノが多いようだ
+  LIT: Also, many of the machines and weapons seem to be Guild Galad-made. (機艇=machines, 武時->武器)
+  EN : |Guild Galad| This is an industrial nation-state NW of here ruled by a stubborn lord.
+  RE : |Guild Galad| This is an industrial
+       nation-state NW of here ruled by a
+       stubborn lord.
+
+[US#3664]
+  JP : 「それからだな〜（以辺、以下）国と / いくつもの場や国がある / それを教えてやろう
+  LIT: And then... (and so on, below) (bleed: there are many lands and nations; let me tell you of them)
+  EN : Many machines and weapons come from Guild Galad.
+  RE : Many machines and weapons come from
+       Guild Galad.
+
+[US#3665]
+  JP : 「『メリアブール』 / たしかメリアブールから来たんだよね？ / なら、キミたちの方が<88a9>しいかもしれないな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Also, there's...
+  RE : Also, there's...
+
+[US#3666]
+  JP : 「でも、少し移動すると、<88fa>交の盛んな国だ / それに、亡くなられた<89fb>妃方は / すごい美人だったって話だ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : |Meria Boule| You came from Meria Boule, didn't you? You might know more than I...
+  RE : |Meria Boule| You came from Meria
+       Boule, didn't you? You might know
+       more than I...
+
+[US#3667]
+  JP : 「それからだな〜（以辺、以下）国と / いくつもの場や国がある / それを教えてやろう
+  LIT: And then... (and so on, below) (bleed dup)
+  EN : Briefly, then, it's a rich trading country, whose queen they say was very beautiful before she died...
+  RE : Briefly, then, it's a rich trading
+       country, whose queen they say was
+       very beautiful before she died...
+
+[US#3668]
+  JP : 「『シルヴァラント』 / 言わずと知れた、我々の国だ
+  LIT: 'Sylvaland': needless to say, our own country.
+  EN : Also, there's...
+  RE : Also, there's...
+
+[US#3669]
+  JP : 「山に囲まれた豊かな美しい国 / 深い谷盛りの美しい<893b> / そして、美しい女<89fb><8a0b>辺
+  LIT: (literal pending: JP has unsolved codes)
+  EN : |Sylvaland| As you know, this is our country.
+  RE : |Sylvaland| As you know, this is
+       our country.
+
+[US#3670]
+  JP : 「それからだな〜（以辺、以下）<b:8ad5>通にいけるところにないからでは？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A beautiful country surrounded by forests, with a beautiful white stone castle and a beautiful queen.
+  RE : A beautiful country surrounded by
+       forests, with a beautiful white
+       stone castle and a beautiful queen.
+
+[US#3671]
+  JP : 「きっと、結単な方法でしか / 入ることができず / その存在を隠されている気がします
+  LIT: Surely it can only be entered by some special means, its very existence hidden. (結単->特殊?)
+  EN : Also, there's...
+  RE : Also, there's...
+
+[US#3672]
+  JP : 「上陸できそうなところを / 目を凝らして探した方がいいでしょう / 気になるところにはいってみるべきですね
+  LIT: You'd do well to strain your eyes for a spot where you might land. You should go where it catches your interest.
+  EN : I have the feeling they're hidden well, in someplace you can only get to by secret means...
+  RE : I have the feeling they're hidden
+       well, in someplace you can only get
+       to by secret means...
+
+[US#3673]
+  JP : 「帯在する他々にも / いろいろな施設や遺跡が / 存在していると聞きますからね闘<b:8a98>を墜とせるんだ？ / ほとほと信心してしまうよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You should concentrate on looking for a good place to land. Check out anywhere that seems likely.
+  RE : You should concentrate on looking
+       for a good place to land. Check out
+       anywhere that seems likely.
+
+[US#3674]
+  JP : 「いまやこの<893b>中 / あなたたちの話<8810>で持ちきりですよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I hear that there are many caves and ruins dotting the islands in the sea...
+  RE : I hear that there are many caves
+       and ruins dotting the islands in
+       the sea...
+
+[US#3675]
+  JP : 「この機式に自分たちのことを / じっくり考えてみる必要が / あるのかもしれませんね組<b:8ad9>名は / ＡＲＭＳというのですか / 変わった名前ですね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The castle is abuzz with talk of you all.
+  RE : The castle is abuzz with talk of
+       you all.
+
+[US#3676]
+  JP : 「まあ、誓<8810>は名前じゃなくて / その好きだから / せいぜい見右ってくださいね<b:8a6b>し<b:8a6c>ありません<b:8adb><b:8adc>ですよね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We need to think hard about what's become of us.
+  RE : We need to think hard about what's
+       become of us.
+
+[US#3677]
+  JP : 「核ドラゴンのことは / いくら任務とはいえギルドグラードの / 手伝いをしてやったようなモノですから〜核』は / ギルドグラードが<885f>り出したモノを / <b:8adf>ったモノらしいじゃないか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Well, it's not the name that counts anyway, but the deed. Keep up the good work!
+  RE : Well, it's not the name that counts
+       anyway, but the deed. Keep up the
+       good work!
+
+[US#3678]
+  JP : 「まったく、オデッサもオデッサだが / ギルドグラードも独特なことを / してくれたものだ尽<b:8ae1>に<b:8ae2>みあげる<897f>なのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Taking care of the Nuclear Dragon was your duty, but it was also like cleaning up Guild Galad's mess.
+  RE : Taking care of the Nuclear Dragon
+       was your duty, but it was also like
+       cleaning up Guild Galad's mess.
+
+[US#3679]
+  JP : 「あのようなモノがあると / 平和はおろか / ファルガイア自体が失われてしまいます<b:8ae3><b:8ae4>の守人』〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : As if Odessa weren't difficult enough without Guild Galad helping them, on purpose or no!
+  RE : As if Odessa weren't difficult
+       enough without Guild Galad helping
+       them, on purpose or no!
+
+[US#3680]
+  JP : 「つまり<f040><f042> / <8917><8918>能力に長けた要<885e>であるとうかがえます
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What a wonderful thing! But then again, they do endanger Filgaia...
+  RE : What a wonderful thing! But then
+       again, they do endanger Filgaia...
+
+[US#3681]
+  JP : 「ですが、発<885f>同時である以上 / 保作している戦闘力はあなどれません / <89ce>分に気をつけてください平和を取り戻しましょう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : In other words, it was a fortress that also served as an observation platform.
+  RE : In other words, it was a fortress
+       that also served as an observation
+       platform.
+
+[US#3682]
+  JP : 「ようやく世界がひとつに / まとまることが / できようとしているのですから教えてくれました
+  LIT: For the world is at last about to be brought together as one. (bleed tail: he told me)
+  EN : It is an artifact from the old times, though, so don't think it doesn't pack a lot of firepower!
+  RE : It is an artifact from the old
+       times, though, so don't think it
+       doesn't pack a lot of firepower!
+
+[US#3683]
+  JP : 「誰もが墜とすのは不可能と思っていた / あのバルキサスですら / 撃墜することができたのですから<b:8ae5>に / 目を信まされた信じがします
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Finally, the world is coming together in a common cause!
+  RE : Finally, the world is coming
+       together in a common cause!
+
+[US#3684]
+  JP : 「我々のすべきこと / それがいったいなんなのか / それを教えてもらいました<b:8ae6>くのですか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You all taught us that by eliminating Varukisas, which everyone thought was impossible.
+  RE : You all taught us that by
+       eliminating Varukisas, which
+       everyone thought was impossible.
+
+[US#3685]
+  JP : 「〜〜なにを<89b9>気になっていたのだ / わたしは誇りある同胞なのに国は長らく平和だったせいか / わたしをふくめ / 実戦経験のないものも多年います
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It was you who taught us to stand up for ourselves!
+  RE : It was you who taught us to stand
+       up for ourselves!
+
+[US#3686]
+  JP : 「今度の件で戦いになったときに / 満足に戦えるのか不安ではありますね<b:8aea>の仕<89eb>けが作動するッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What was I so scared of? A knight like me should have more pride...
+  RE : What was I so scared of? A knight
+       like me should have more pride...
+
+[US#3687]
+  JP : ＊それらの<8a13>工製<892e>は / ファルガイアに住む人々の / 生活道具を飛躍的に向上させた
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I wasn't sure if I'd be too frightened to fight or not...
+  RE : I wasn't sure if I'd be too
+       frightened to fight or not...
+
+[US#3688]
+  JP : ＊同時に、数多の兵器が / 同時開発に利用されている
+  LIT: *At the same time, a great many weapons are put to use in joint development.
+  EN : These industrial goods have gone a long way toward improving people's lifestyles.
+  RE : These industrial goods have gone a
+       long way toward improving people's
+       lifestyles.
+
+[US#3689]
+  JP : ＊兵器そのものは、生活向上の他 / 軍事同時の開発にも活用できる / その兵器を使い、人が何をするのか
+  LIT: *Weapons themselves can serve to improve life, but also military development. What will people do with them?
+  EN : But these technologies have also been used for weapons of war.
+  RE : But these technologies have also
+       been used for weapons of war.
+
+[US#3690]
+  JP : ＊使う者によりその力は / 人を生かす力にも殺す力にもなり得る / 全ては使い方更<88f9>なのである国シルヴァラント豊かな自<8844>に囲まれた / 美しき<893b>である
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The technologies can be used for more efficient killing, or for improving people's lives.
+  RE : The technologies can be used for
+       more efficient killing, or for
+       improving people's lives.
+
+[US#3691]
+  JP : ＊肥沃な大地を<89b7>心とし / 肥工の発展した国であり / 肥産物が豊富に<8939>生されている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Which occurs is entirely dependent on the user's will.
+  RE : Which occurs is entirely dependent
+       on the user's will.
+
+[US#3692]
+  JP : ＊単名・ファルガイアの台所と呼ばれ / 多くの肥産物を他国に輸出している
+  LIT: *Called the sole 'kitchen of Filgaia', it exports much produce to other nations. (単名->異名; 肥産物->農産物)
+  EN : The country is blessed with fertile farmland, and has a productive agricultural industry.
+  RE : The country is blessed with fertile
+       farmland, and has a productive
+       agricultural industry.
+
+[US#3693]
+  JP : ＊大地と共に生きることを信条にし / おおらかな気質を持った / 国民性が結晶といわれる国の北東には / スレイハイム国の<89b7>心だった / <89da>大な<88db><88dc>地<89e8>が<89da>がっている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It is also known as |Filgaia's Kitchen| for its food exports.
+  RE : It is also known as |Filgaia's
+       Kitchen| for its food exports.
+
+[US#3694]
+  JP : ＊この地には何か故 / 高度な記次を持った / <88bf>大国国があったといわれる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Its people are known for their deep connection to the earth and their warm hearts.
+  RE : Its people are known for their deep
+       connection to the earth and their
+       warm hearts.
+
+[US#3695]
+  JP : ＊それを裏付けるように / ロストテクノロジーを使用した幻同時が / 年多くこの地で発<885f>された
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A civilization possessing highly advanced technology used to exist there, the legends say.
+  RE : A civilization possessing highly
+       advanced technology used to exist
+       there, the legends say.
+
+[US#3696]
+  JP : ＊しかし現在は、国国協定により / この地での発<885f>は一切禁止となり / 発<885f>物の使用も規制されている装着<b:8b07>置である
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Supporting this legend are many weapons excavated from the area utilizing lost technology.
+  RE : Supporting this legend are many
+       weapons excavated from the area
+       utilizing lost technology.
+
+[US#3697]
+  JP : ＊その<8a12>かな<89af>理は / 現在の兵器では解次できず / 使用するだけにとどまっている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : However, international agreement now forbids further excavation, and regulates already excavated items.
+  RE : However, international agreement
+       now forbids further excavation, and
+       regulates already excavated items.
+
+[US#3698]
+  JP : ＊それゆえに / 現存するライブリフレクターの年を / これ以上増やすことはできない
+  LIT: *For that reason, the number of Live Reflectors now in existence cannot be increased any further. (年->数)
+  EN : Although they are used regularly, the principles on which they operate are not understood today.
+  RE : Although they are used regularly,
+       the principles on which they
+       operate are not understood today.
+
+[US#3699]
+  JP : ＊使用者の肉体に負<8847>がかかるため / 初めて装着を体験すると / 気分が悪くなるものもいる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Therefore, no more Live Reflectors can be built.
+  RE : Therefore, no more Live Reflectors
+       can be built.
+
+[US#3700]
+  JP : ＊使用信の向上と / 使用されている兵器の解析が / 急務とされている密かなる時の回々争いごとを<b:8ab1>まない気質から / 大きな争<8945>はしばらく起こっていない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Since there is a toll taken on the body of the user, first-time users often experience some discomfort.
+  RE : Since there is a toll taken on the
+       body of the user, first-time users
+       often experience some discomfort.
+
+[US#3701]
+  JP : ＊その為か、同胞<897d>においても / 実戦経験のないものが / 大多年を占めるようになっている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : At present, much research into this problem, and into the underlying technology, is being conducted.
+  RE : At present, much research into this
+       problem, and into the underlying
+       technology, is being conducted.
+
+[US#3702]
+  JP : ＊争<8945>のない平和な国は理想であるが / それは同時に、戦うことを存在意義とする / 同胞<897d>の存在価<8875>が誓われることになる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Because of this, most knights in the military have never seen actual combat.
+  RE : Because of this, most knights in
+       the military have never seen actual
+       combat.
+
+[US#3703]
+  JP : ＊同胞の<895b><8903>が、単なる地級となったとしても / それが平和の証であれば / 押け入れざるを得ない事実ではないだろうか環つの道環つに分けられる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Since they believe so strongly in peace, many Sylvalanders question the necessity of the knights.
+  RE : Since they believe so strongly in
+       peace, many Sylvalanders question
+       the necessity of the knights.
+
+[US#3704]
+  JP : ＊これはファルガイアの地面が / 熱を引くようになっているのが / 起<89b0>である
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Even if the knights are symbolic only, that itself is a testament to Sylvaland's abiding peace.
+  RE : Even if the knights are symbolic
+       only, that itself is a testament to
+       Sylvaland's abiding peace.
+
+[US#3705]
+  JP : ＊街道は大陸に囲まれ / 外道とは海路によって繋がっている
+  LIT: *The inland sea is ringed by the continent, and joined to the outer sea by sea routes.
+  EN : This is because Filgaia is circular in shape.
+  RE : This is because Filgaia is circular
+       in shape.
+
+[US#3706]
+  JP : ＊外道はその名の通り / 大陸の外<89f5>の大道である
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The inland sea is enclosed by land, joined to the outer sea by a shoal.
+  RE : The inland sea is enclosed by land,
+       joined to the outer sea by a shoal.
+
+[US#3707]
+  JP : ＊大道の一部は / ゲートブリッジによって / 進入禁止になっており
+  LIT: *Part of the main road is closed off by the Gate Bridge, forbidding entry.
+  EN : As its name implies, the outer sea encircles the land.
+  RE : As its name implies, the outer sea
+       encircles the land.
+
+[US#3708]
+  JP : ＊<88f9>環の街道のように / なっている部分がある<b:8b12>一の存在ではなく / 多元的に存在する<89f5><b:8a4a>の一部にすぎない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Part of the great sea is rendered impassable by the Gate Bridge.
+  RE : Part of the great sea is rendered
+       impassable by the Gate Bridge.
+
+[US#3709]
+  JP : ＊世界はひとつではなく / 平行に存在する単の『世界』も / また『ファルガイア』なのである刑場刑場は / 現在その役目を、イルズベイル<8917><8963>他に / <b:8b14>任し、閉場された
+  LIT: (literal pending: JP has unsolved codes)
+  EN : This results in the creation of a second inland sea.
+  RE : This results in the creation of a
+       second inland sea.
+
+[US#3710]
+  JP : ＊その為、現在ゴルゴダ刑場は / 刑場としては使用されず / 破壊されたと同方の状態となっている
+  LIT: *For that reason, Golgotha execution ground is no longer used as such, and stands as though destroyed. (同方->同様)
+  EN : The world is not singular. There are other worlds which exist parallel to our own.
+  RE : The world is not singular. There
+       are other worlds which exist
+       parallel to our own.
+
+[US#3711]
+  JP : ＊押刑者の脱獄を防ぐために / 年々のトラップが仕<89eb>けられていることから / 同胞の訓<8a01>場にとの話も繋がっている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Since it is no longer being used, Golgotha Prison is now in effect left abandoned.
+  RE : Since it is no longer being used,
+       Golgotha Prison is now in effect
+       left abandoned.
+
+[US#3712]
+  JP : ＊賛成<8a1e>、反対<8a1e>の間で / 話し合いが持たれているが / 結論が出ずに現在に<88bd>る国自体が滅亡したスレイハイム
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Since the prison is still rife with dangerous traps, some say that it should be used to train troops.
+  RE : Since the prison is still rife with
+       dangerous traps, some say that it
+       should be used to train troops.
+
+[US#3713]
+  JP : ＊軍事合の進められていた / スレイハイムの滅亡により / 軍事危機が終<89e2>したとも言われる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Those for and those opposed to the plan have as yet come to no conclusions.
+  RE : Those for and those opposed to the
+       plan have as yet come to no
+       conclusions.
+
+[US#3714]
+  JP : ＊しかし、それに<8864>わり / <8a13>工国国ギルドグラードの兵器力による / 武時開発が新たな<88e0>火となっている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Since militarism caused Slayheim's fall, people thought the danger of war perished along with Slayheim.
+  RE : Since militarism caused Slayheim's
+       fall, people thought the danger of
+       war perished along with Slayheim.
+
+[US#3715]
+  JP : ＊<89ab>れた兵器力により作られる同時 / それが他国の脅威になるのは / <88bd>歩当たり前と言える
+  LIT: (literal pending: JP has unsolved codes)
+  EN : In its place, though, Guild Galad began to manufacture weapons of mass destructive capability.
+  RE : In its place, though, Guild Galad
+       began to manufacture weapons of
+       mass destructive capability.
+
+[US#3716]
+  JP : ＊多くの国や自分<89b7>が / ギルドグラードに対し<892c>能心を抱き / その動向に過信になっている国国では / 代々、女<89fb>が国を分め / <89fb>はその<b:8b1c><b:8b1d>として国を分めた
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It was only natural for other nations to become weary of Guild Galad and its activities.
+  RE : It was only natural for other
+       nations to become weary of Guild
+       Galad and its activities.
+
+[US#3717]
+  JP : ＊これは、シルヴァラント<89fb>国が / 大地の恵みを糧として / 発展してきた営為から来ている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Fearing that the new weapons would be turned on them, other nations watched Guild Galad very closely.
+  RE : Fearing that the new weapons would
+       be turned on them, other nations
+       watched Guild Galad very closely.
+
+[US#3718]
+  JP : ＊母なる大地と呼ぶように / 大地を『女性』とし、国を支えるのは / 『女性』であるとしてきたためである
+  LIT: *Just as we call it Mother Earth, the land has been taken as 'female', and it is 'woman' who upholds the nation.
+  EN : This is because Sylvaland boasts a history of utilizing its natural heritage for bountiful food.
+  RE : This is because Sylvaland boasts a
+       history of utilizing its natural
+       heritage for bountiful food.
+
+[US#3719]
+  JP : ＊ゆえに、『女<89fb>』を国の最高指導者として / シルヴァラントは他国と違った / <89e1>自の統分面態を持つ国となった
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They call the earth |Mother,| so it is only natural for their ruler to be female as well.
+  RE : They call the earth |Mother,| so it
+       is only natural for their ruler to
+       be female as well.
+
+[US#3720]
+  JP : ＊ひとつは / シルヴァラント<893b>を中心とした本<89b7>である / 緑豊かな<89b7>地で肥耕が盛んに行われている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Therefore, Sylvaland's system of government evolved into a matriarchy.
+  RE : Therefore, Sylvaland's system of
+       government evolved into a
+       matriarchy.
+
+[US#3721]
+  JP : ＊残りのふたつは本<89b7>から離れ / ライブリフレクターで行き来する
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The first is the home district, where Sylvaland Castle is located, and contains farmland.
+  RE : The first is the home district,
+       where Sylvaland Castle is located,
+       and contains farmland.
+
+[US#3722]
+  JP : ＊うちひとつは遺跡渓谷 / 比較的大きな他で、渓谷の発<885f>が / 盛んである
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The other two are far away, so Live Reflectors serve as transport.
+  RE : The other two are far away, so Live
+       Reflectors serve as transport.
+
+[US#3723]
+  JP : ＊もうひとつは枯谷地<89e8> / <89b7>地としているものの、枯枯の危険性から / 国民の住まない、名ばかりの地である
+  LIT: (literal pending: JP has unsolved codes)
+  EN : One of these is the large island of Holst, which contains productive mines.
+  RE : One of these is the large island of
+       Holst, which contains productive
+       mines.
+
+[US#3724]
+  JP : 「国国にとらわれない / <89e1>立部隊の編成〜 / たしかに興味<896e>い話です
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The other is located in a volcanic region, so it remains unpopulated - part of Sylvaland in name only.
+  RE : The other is located in a volcanic
+       region, so it remains unpopulated -
+       part of Sylvaland in name only.
+
+[US#3725]
+  JP : 「全ファルガイア中に決起表次をした / 『オデッサ』なる勢力の敵に対抗するために / 作為な手段ともいえましょう<b:8aa0>を / すべて押け入れるつもりはありません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A fighting force with no allegiance to any country...very interesting indeed!
+  RE : A fighting force with no allegiance
+       to any country...very interesting
+       indeed!
+
+[US#3726]
+  JP : 「とくに、我が国のライブリフレクターの / 自由使用<88b2>など / 簡単に認められるものではありません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It does seem like an effective way to counter Odessa, which also operates as a separate entity...
+  RE : It does seem like an effective way
+       to counter Odessa, which also
+       operates as a separate entity...
+
+[US#3727]
+  JP : 「強大な戦闘力を誇る、あなた方ＡＲＭＳが / 何の制限も無く、行き来していれば / 我が国の民に不安が募りましょう
+  LIT: If you of ARMS, boasting such mighty fighting power, come and go without any restriction, unease would build among my people.
+  EN : I cannot so easily allow free access to our country's Live Reflector.
+  RE : I cannot so easily allow free
+       access to our country's Live
+       Reflector.
+
+[US#3728]
+  JP : 「考えてもごらんなさい / 我々にとって、あなた方ＡＲＭＳが / オデッサといかほどに異なるか、を<b:8b2f>れるのは道理
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If you of ARMS have permission to come and go as you like, our people might come to doubt their security.
+  RE : If you of ARMS have permission to
+       come and go as you like, our people
+       might come to doubt their security.
+
+[US#3729]
+  JP : 「我が国に自由に行き来するあなた方が / いつオデッサと同じく牙を突き立てるのか / 不安でたまらないのです
+  LIT: I can't bear the fear of when you, who move freely through my country, might bare your fangs like Odessa.
+  EN : After all, why should I consider you of ARMS any different from Odessa?
+  RE : After all, why should I consider
+       you of ARMS any different from
+       Odessa?
+
+[US#3730]
+  JP : 「納得していただけますね
+  LIT: You can accept that, can't you.
+  EN : I have no guarantees that you will not begin acting like Odessa once you have free access to my country.
+  RE : I have no guarantees that you will
+       not begin acting like Odessa once
+       you have free access to my country.
+
+[US#3731]
+  JP : 「その件、メリアブール<89fb>に / よろしくお伝えください
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You see my point?
+  RE : You see my point?
+
+[US#3732]
+  JP : 「<f040><f042>いえ、この件の立案者は / ヴァレリア公ですね？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Please convey that to the King of Meria Boule, along with my greetings.
+  RE : Please convey that to the King of
+       Meria Boule, along with my
+       greetings.
+
+[US#3733]
+  JP : 「国国にとらわれぬ部隊などという発想は / 変わり者で知られた / かの<89c7>姫以外に考えられませんから
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Oh...wait... It was actually Sir Valeria who proposed this, wasn't it?
+  RE : Oh...wait... It was actually Sir
+       Valeria who proposed this, wasn't
+       it?
+
+[US#3734]
+  JP : 「ＡＲＭＳではなく / 姫様といっしょに遊びにいらっしゃいと / わらわの言葉を伝えてもらえぬだろうか
+  LIT: Would you convey my words: come and play, together with the princess, not with ARMS.
+  EN : Only he could have come up with an idea as novel as an independent fighting force.
+  RE : Only he could have come up with an
+       idea as novel as an independent
+       fighting force.
+
+[US#3735]
+  JP : 「シルヴァラントの女<89fb>が / そう願っておりますゆえ〜<b:8a6b>し上げますッ！ / <f040><f042>あッ〜！<b:8a6b>してみよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Please tell him to come visit me with his lovely sister, not ARMS.
+  RE : Please tell him to come visit me
+       with his lovely sister, not ARMS.
+
+[US#3736]
+  JP : 「おそらくは / 先の決起表次をおこなった<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Thus wishes the Queen of Sylvaland!
+  RE : Thus wishes the Queen of Sylvaland!
+
+[US#3737]
+  JP : 「ただ今より我が国の同胞<897d>を招<8880>しても / とても、まにあいそうにありません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Reports suggest it was the terrorist band...
+  RE : Reports suggest it was the
+       terrorist band...
+
+[US#3738]
+  JP : 「<8a03><8a04>対応の<89e1>立部隊〜 / そのお手並みを / 拝見させていただきましょうか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Even if we put out a call to arms now, our knights won't be able to assemble in time.
+  RE : Even if we put out a call to arms
+       now, our knights won't be able to
+       assemble in time.
+
+[US#3739]
+  JP : （考えてみれば / <88bd>歩、当<8844>のことではありませんか）
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Well, then...shall we see just how fast our independent fighting force is, then?
+  RE : Well, then...shall we see just how
+       fast our independent fighting force
+       is, then?
+
+[US#3740]
+  JP : （いつからなのでしょう / 人が手を取り合うことを / 忘れたのは〜）
+  LIT: (Since when was it that people forgot to join hands...?)
+  EN : (That's the obvious conclusion, now that I think about it.)
+  RE : (That's the obvious conclusion, now
+       that I think about it.)
+
+[US#3741]
+  JP : （〜[16]がぉ〜[16]がぉ〜[16]がぉ〜）
+  LIT: (...gaoo... gaoo... gaoo...) (16 = SFX code)
+  EN : (I wonder when it was I forgot that true strength comes from joining together?)
+  RE : (I wonder when it was I forgot that
+       true strength comes from joining
+       together?)
+
+[US#3742]
+  JP : （ですが〜）
+  LIT: (But...)
+  EN : (...30...30...30...)
+  RE : (...30...30...30...)
+
+[US#3743]
+  JP : 「それよりも / あの者たちをどう思いました？
+  LIT: More to the point, what did you make of those people?
+  EN : (But...)
+  RE : (But...)
+
+[US#3744]
+  JP : 「何者のしがらみにもとらわれず / <8954>いもありません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : So, what did you think of them?
+  RE : So, what did you think of them?
+
+[US#3745]
+  JP : 「ファルガイアを守るために / まっすぐな理想を掲げています
+  LIT: They hold up a straight, honest ideal to protect Filgaia.
+  EN : I saw no signs of ulterior motives. I believe they are simply acting for the common good.
+  RE : I saw no signs of ulterior motives.
+       I believe they are simply acting
+       for the common good.
+
+[US#3746]
+  JP : 「<f040><f042>時に[05]ぉ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They are indeed honorable and their desire to protect Filgaia genuine.
+  RE : They are indeed honorable and their
+       desire to protect Filgaia genuine.
+
+[US#3747]
+  JP : 「聞けば、住人<8832>出の<89d2>に / 名誉の負傷をおったとか〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : By the way, 0...
+  RE : By the way, ...
+
+[US#3748]
+  JP : 「もったいないお言葉です / ご心配にはおよびません<b:8b3c>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There were reports that you suffered injury in your recent action.
+  RE : There were reports that you
+       suffered injury in your recent
+       action.
+
+[US#3749]
+  JP : 「我がシルヴァラントを / 命懸けで守ってくれたあなたに / もしものことがあってはなりませぬゆえ
+  LIT: You risked your life to protect our Sylvaland; nothing must happen to you.
+  EN : Thank you very much for asking, Your Highness, but it was nothing.
+  RE : Thank you very much for asking,
+       Your Highness, but it was nothing.
+
+[US#3750]
+  JP : 「その件を<8937>した / メリアブール<89fb>あての<8a0e><8946>です
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We can't have anything untoward happen to you while protecting our Sylvaland, can we?
+  RE : We can't have anything untoward
+       happen to you while protecting our
+       Sylvaland, can we?
+
+[US#3751]
+  JP : 「たいせつに<88f8>けてもらえますね<b:8b3e>べるのは / むしろ、こちらのはず
+  LIT: (literal pending: JP has unsolved codes)
+  EN : This is a Royal Letter to the King of Meria Boule to that effect.
+  RE : This is a Royal Letter to the King
+       of Meria Boule to that effect.
+
+[US#3752]
+  JP : 「そうですわね、ヴァレリア公協力を信<b:8b3f>します / これで少しはマシな活動ができそうですよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I hope I can entrust you with it.
+  RE : I hope I can entrust you with it.
+
+[US#3753]
+  JP : 「これくらいで / お開きといたしましょう
+  LIT: Let us call it to a close about here.
+  EN : Isn't that so, Sir Valeria!
+  RE : Isn't that so, Sir Valeria!
+
+[US#3754]
+  JP : 「<893b>辺に立ち寄ってごらんなさい / みなさんを待っている方々が / <8880>まっているはずですよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Let us end it here.
+  RE : Let us end it here.
+
+[US#3755]
+  JP : 「これからライブリフレクターの / 使用<88b2>について新儀な手<8a18>きを / 行わなければいけないんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If you go down below the castle, I believe you'll find someone waiting for you.
+  RE : If you go down below the castle, I
+       believe you'll find someone waiting
+       for you.
+
+[US#3756]
+  JP : 「これだから『お役所仕事は』と / 言われるのですね〜 / あなた方を見習わなくてはいけません
+  LIT: This is just why they speak of 'bureaucratic red tape'. We must learn from your example.
+  EN : The formalities for granting you permission to use the Live Reflectors may take some time.
+  RE : The formalities for granting you
+       permission to use the Live
+       Reflectors may take some time.
+
+[US#3757]
+  JP : 「我らＡＲＭＳとしても / これほどうれしいことはありません
+  LIT: For us of ARMS, there could be nothing gladder than this.
+  EN : I guess we have too much red-tape around here. We could learn some things from you, it seems.
+  RE : I guess we have too much red-tape
+       around here. We could learn some
+       things from you, it seems.
+
+[US#3758]
+  JP : 「テロ<8880><897d>『オデッサ』に立ち向かえるのは / 我々、ＡＲＭＳをおいて他ならないのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There is nothing more ARMS could have hoped for.
+  RE : There is nothing more ARMS could
+       have hoped for.
+
+[US#3759]
+  JP : 
+  LIT: (no JP text)
+  EN : There is no one but ARMS to stand up against Odessa.
+  RE : There is no one but ARMS to stand
+       up against Odessa.
+
+# =========================================================================================
+# STATUS: 197 boxes first-passed (US#3559-3762, block 14). Em-dash-free, <=3x35.
+# =========================================================================================

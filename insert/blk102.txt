@@ -1,0 +1,50 @@
+# WA2 INSERTION workspace US block 102 (US#7868-7876)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7869] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#8045[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7870] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8046[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7871] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8047[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7872] budget=66ch/3ln
+  NOW: If you're worried about
+          my body, you're barking
+          up the wrong tree.
+  JP : JP#8048[MED]: 「<f040><f042>私の身体を気<8a34>っているというのなら / 　それは、お泣違いというものだ
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#7873] budget=58ch/2ln
+  NOW: My desire to protect Filgaia
+          won't be surpassed by anyone.
+  JP : JP#8049[MED]: 「ファルガイアを片りたいという気持ちは / 　誰にも押けるつもりはない〜
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#7874] budget=16ch/1ln
+  NOW: You already are.
+  JP : JP#8050[MED]: 「いや、いっしょに戦っているじゃないか
+  FIT: <<TODO — <=16 chars, 1 line(s), <=35/line>>
+
+[US#7875] budget=20ch/1ln
+  NOW: (...30...30...30...)
+  JP : JP#8051[MED]: （〜[16]がぉ〜[16]がぉ〜[16]がぉ〜）[10][0c]（<f040><f042>あるいは、<8a39>仲〜？）
+  FIT: <<TODO — <=20 chars, 1 line(s), <=35/line>>
+
+[US#7876] budget=34ch/1ln
+  NOW: (Or is it running out of control?)
+  JP : JP#8052[MED]: （<f040><f042>あるいは、<8a39>仲〜？）
+  FIT: <<TODO — <=34 chars, 1 line(s), <=35/line>>

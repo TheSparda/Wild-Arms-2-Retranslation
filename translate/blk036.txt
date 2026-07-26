@@ -1,0 +1,337 @@
+# WA2 4-col translation doc block 36 (JP#5725-5767)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 41 boxes | OK=5 FAIR=23 SHAKY=13 JP-ONLY=0
+# DRAFT STATUS: 41 boxes | OK=3 FAIR=24 SHAKY=14 JP-ONLY=0
+
+[JP#5726] gaps=0  aln=MED->US#5596  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5727] gaps=2  aln=MED->US#5597  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5728] gaps=0  aln=MED->US#5598  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5729] gaps=1  aln=MED->US#5599  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「またコントロールパネルを / 　<8a34>作しなくちゃいけないってことか
+  2|LIT: <<TODO>>
+  3|EN : @Does this mean I have to
+ go back and redo
+ the control panel?
+  4|RE : <<TODO>>
+
+[JP#5730] gaps=2  aln=HIGH->US#5600  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「しかたがない / 　コントロールパネルまで戻って / 　<8a34>作し<8865>しだな
+  2|LIT: <<TODO>>
+  3|EN : @Oh well...
+ I guess I have to go
+ redo the control panel.
+  4|RE : <<TODO>>
+
+[JP#5731] gaps=1  aln=HIGH->US#5601  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「なんで<89ec>が上がってるのよッ！ / 　またコントロールパネルまで / 　戻らなきゃならないの？
+  2|LIT: <<TODO>>
+  3|EN : @Why is the bridge up!
+ Do I have to return to
+ the control panel?
+  4|RE : <<TODO>>
+
+[JP#5732] gaps=1  aln=HIGH->US#5602  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「仕方ありません / 　また、コントロールパネルを / 　<8a34>作しに行きましょう
+  2|LIT: <<TODO>>
+  3|EN : @It can't be helped.
+ I'm going back to the
+ control panel.
+  4|RE : <<TODO>>
+
+[JP#5733] gaps=1  aln=HIGH->US#5603  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<89ec>が上がってたら / 　どうしようかと思っちゃったもんね
+  2|LIT: <<TODO>>
+  3|EN : @If the bridge was up I
+ don't know what I'd do.
+  4|RE : <<TODO>>
+
+[JP#5734] gaps=1  aln=HIGH->US#5604  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「先に<892b>むぞッ！
+  2|LIT: <<TODO>>
+  3|EN : @Let's go on!
+  4|RE : <<TODO>>
+
+[JP#5735] gaps=2  aln=HIGH->US#5605  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「今や険<8a3d>助々歩々にとどろきわたる / 　魔法のテロリスト『オデッサ』の隠し<8a40> / 　トカとゲーとは、我兄らのことよ[10][0c]「けして怪しい者ではない
+  2|LIT: <<TODO>>
+  3|EN : @The hidden powers spreading the
+ terrorists' spell |Odessa| through
+ the land are Liz & Ard. That's us.@I'm not anyone suspicious.
+  4|RE : <<TODO>>
+
+[JP#5736] gaps=0  aln=MED->US#5609  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「けして怪しい者ではない
+  2|LIT: <<TODO>>
+  3|EN : @No matter how you look,
+ we're first rate. You Filgaia
+ guys are second rate.
+  4|RE : <<TODO>>
+
+[JP#5737] gaps=1  aln=MED->US#5610  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「やっぱり我兄たちには / 　隠しても隠しきれない / 　期く危険な<8a43>りがつきものだトカ
+  2|LIT: <<TODO>>
+  3|EN : @If you're going to confront us,
+ you'll have to destroy us!
+ Here goes.
+  4|RE : <<TODO>>
+
+[JP#5738] gaps=1  aln=MED->US#5610  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「我兄の来挑とッ！ / 　ゲーのパワーッ！ / 　さらに戦えて、我兄のカッコ良さッ！[10][0c]「どこをとっても一流の我兄たちが / 　ファルガイアじゃ周流の貴様らに渡す / 　見たことの無い最後の招<8a48>ッ！[10]
+  2|LIT: <<TODO>>
+  3|EN : @If you're going to confront us,
+ you'll have to destroy us!
+ Here goes.
+  4|RE : <<TODO>>
+
+[JP#5739] gaps=1  aln=MED->US#5610  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「どこをとっても一流の我兄たちが / 　ファルガイアじゃ周流の貴様らに渡す / 　見たことの無い最後の招<8a48>ッ！[10]
+  2|LIT: <<TODO>>
+  3|EN : @If you're going to confront us,
+ you'll have to destroy us!
+ Here goes.
+  4|RE : <<TODO>>
+
+[JP#5740] gaps=0  aln=MED->US#5610  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「戻ちはだかるなら / 　突き崩すのみッ！ / 　ゆくぞッ！
+  2|LIT: <<TODO>>
+  3|EN : @If you're going to confront us,
+ you'll have to destroy us!
+ Here goes.
+  4|RE : <<TODO>>
+
+[JP#5741] gaps=1  aln=MED->US#5611  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「我兄の特恥<8883>に / 　何か大切なモノが欠けてたトカ？ / 　もしかして『負遠』？
+  2|LIT: <<TODO>>
+  3|EN : @My calculations show
+ something vital missing?
+ Could it be |poetry?|
+  4|RE : <<TODO>>
+
+[JP#5742] gaps=0  aln=MED->US#5612  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「お代は、見てのお帰りだトカッ！
+  2|LIT: <<TODO>>
+  3|EN : @One look and you'll be
+ going home!
+  4|RE : <<TODO>>
+
+[JP#5743] gaps=4  aln=MED->US#5613  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「ビックリドッキリ<8872>の / 　復生<8a5c>茶怪獣飛<897d>（？）までもが / 　<8a06>家の手にサブミッションかのごとくッ！[10]
+  2|LIT: <<TODO>>
+  3|EN : @Surprisingly, even the Monster
+ Regeneration Unit responded,
+ as if yielding to a baby.
+  4|RE : <<TODO>>
+
+[JP#5744] gaps=5  aln=MED->US#5614  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「おのれ〜　ブルコギドンさえあれば / 　誰もがしびれる / 　ブルコギドンさえ<88ad>成していれば〜[10][0c]「限回今回守った / 　<8a61>辺どもに<8a0d>れをとることなど / 　ムダ延ほどもありはしないのにッ！[10][0c]「身乗いするほど<8a64>が戻つッ<f059>
+  2|LIT: <<TODO>>
+  3|EN : @You...If I only had Bulkogidon
+ everyone would be paralyzed.
+ If only it was finished.@There's nothing more maddening
+ than to be delayed by hoodlums
+ I only just met!@It makes me shake with anger.
+  4|RE : <<TODO>>
+
+[JP#5745] gaps=4  aln=MED->US#5615  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「限回今回守った / 　<8a61>辺どもに<8a0d>れをとることなど / 　ムダ延ほどもありはしないのにッ！[10][0c]「身乗いするほど<8a64>が戻つッ<f059>
+  2|LIT: <<TODO>>
+  3|EN : @There's nothing more maddening
+ than to be delayed by hoodlums
+ I only just met!@It makes me shake with anger.
+  4|RE : <<TODO>>
+
+[JP#5746] gaps=2  aln=MED->US#5616  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「身乗いするほど<8a64>が戻つッ<f059>
+  2|LIT: <<TODO>>
+  3|EN : @It makes me shake with anger.
+  4|RE : <<TODO>>
+
+[JP#5747] gaps=6  aln=MED->US#5617  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「今回の<8a65>男的ノウハウは / 　きっと我兄らを<8a67>重の地に<8a48>くこと必<88bd>[10][0c]「その回を<89fa>しみに / 　<888a>を長くして待っていたら / 　こんな魂に〜
+  2|LIT: <<TODO>>
+  3|EN : @Today's scientific know-how will
+ lead us to the Land of Promise.@While I was waiting for that day to
+ come with great anticipation,
+ we morphed into this new shape.
+  4|RE : <<TODO>>
+
+[JP#5748] gaps=2  aln=MED->US#5618  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「その回を<89fa>しみに / 　<888a>を長くして待っていたら / 　こんな魂に〜
+  2|LIT: <<TODO>>
+  3|EN : @While I was waiting for that day to
+ come with great anticipation,
+ we morphed into this new shape.
+  4|RE : <<TODO>>
+
+[JP#5749] gaps=8  aln=MED->US#5619  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=3
+  1|JP : 「我兄らは、生まれた時より頼り<8867>きこの魂 / 　<8a6a>に言う / 　『生まれたまんまの魂』というヤツだトカ[10][0c]「<f040><f042>どっちにせよ / 　我兄らは貴様らの<8921>止めに / 　かつて無いほど見事に成<8a6b>をおさめた[10][0c]「勇<8a6d>、信友信<88f1>
+  2|LIT: <<TODO>>
+  3|EN : @We've proudly looked like
+ this since birth. Bluntly put,
+ we're in our |birthday suits.|@Either way, we've managed to
+ successfully delay you all on a
+ grand scale never seen before.@Listen. Thanks. Thanks.
+  4|RE : <<TODO>>
+
+[JP#5750] gaps=6  aln=HIGH->US#5620  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「<f040><f042>どっちにせよ / 　我兄らは貴様らの<8921>止めに / 　かつて無いほど見事に成<8a6b>をおさめた[10][0c]「勇<8a6d>、信友信<88f1>
+  2|LIT: <<TODO>>
+  3|EN : @Either way, we've managed to
+ successfully delay you all on a
+ grand scale never seen before.@Listen. Thanks. Thanks.
+  4|RE : <<TODO>>
+
+[JP#5751] gaps=2  aln=HIGH->US#5621  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「勇<8a6d>、信友信<88f1>
+  2|LIT: <<TODO>>
+  3|EN : @Listen. Thanks. Thanks.
+  4|RE : <<TODO>>
+
+[JP#5752] gaps=8  aln=HIGH->US#5622  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : 「我兄のおしげもなくさらした / 　まばゆいばかりの姿<8a71>っぷりに / 　ヴィンちゃんもきっとご<8a72>基の方家？[10][0c]「<8a74><8a75>の協<8a77>と我兄には / 　どこまで行っても追いつけぬものトカ[10][0c]「１０代最後の思い出に / 　勝り行く我兄らの魂を / 　<8a79><8a7a>同<8844>のドングリまなこに英きつけたまえ[10][0c]「アデュー〜ッ！
+  2|LIT: <<TODO>>
+  3|EN : @We ungrudgingly exposed
+ our brilliance. Vin is probably
+ delighted by this!@Me and my images of youth will
+ never, ever be caught.@As your last memory in your
+ teens, let the sight of our
+ departure burn your goggle-eyes.@Adieu!
+  4|RE : <<TODO>>
+
+[JP#5753] gaps=6  aln=HIGH->US#5623  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「<8a74><8a75>の協<8a77>と我兄には / 　どこまで行っても追いつけぬものトカ[10][0c]「１０代最後の思い出に / 　勝り行く我兄らの魂を / 　<8a79><8a7a>同<8844>のドングリまなこに英きつけたまえ[10][0c]「アデュー〜ッ！
+  2|LIT: <<TODO>>
+  3|EN : @Me and my images of youth will
+ never, ever be caught.@As your last memory in your
+ teens, let the sight of our
+ departure burn your goggle-eyes.@Adieu!
+  4|RE : <<TODO>>
+
+[JP#5754] gaps=3  aln=HIGH->US#5624  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「１０代最後の思い出に / 　勝り行く我兄らの魂を / 　<8a79><8a7a>同<8844>のドングリまなこに英きつけたまえ[10][0c]「アデュー〜ッ！
+  2|LIT: <<TODO>>
+  3|EN : @As your last memory in your
+ teens, let the sight of our
+ departure burn your goggle-eyes.@Adieu!
+  4|RE : <<TODO>>
+
+[JP#5755] gaps=0  aln=MED->US#5625  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「アデュー〜ッ！
+  2|LIT: <<TODO>>
+  3|EN : @Adieu!
+  4|RE : <<TODO>>
+
+[JP#5756] gaps=9  aln=MED->US#5626  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=9
+  1|JP : ＊アイテムとして使用することで / 　バイアネットに新たな<8a7d>共を / 　追戦します[10][0c]＊<8a7f>撃<88e0>を<89da><8a80><8a81><8a82>にて発<8a83>し / 　相険体に対して<8a84>撃を行います
+  2|LIT: <<TODO>>
+  3|EN : *Using this item adds
+ additional ammunition
+ to the bayonet.*It'll attack the enemy by
+ shooting shockwaves which
+ scatter over a wide area.
+  4|RE : <<TODO>>
+
+[JP#5757] gaps=8  aln=MED->US#5627  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : ＊<8a7f>撃<88e0>を<89da><8a80><8a81><8a82>にて発<8a83>し / 　相険体に対して<8a84>撃を行います
+  2|LIT: <<TODO>>
+  3|EN : *It'll attack the enemy by
+ shooting shockwaves which
+ scatter over a wide area.
+  4|RE : <<TODO>>
+
+[JP#5758] gaps=6  aln=HIGH->US#5628  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=3
+  1|JP : ＊ゲートブリッジを辺げて、<89cf><8a85>しますか？ / １．ブリッジを辺げて<89cf><8a85>する / ２．<89cf><8a85>しない[1a]か
+  2|LIT: <<TODO>>
+  3|EN : *Lower the Bridge to close it?
+ 1. Lower the Bridge to close
+ 2. Don't close2
+  4|RE : <<TODO>>
+
+[JP#5759] gaps=0  aln=HIGH->US#5629  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊ゲートブリッジを上げて、開殺しますか？ / １．ブリッジを上げて開殺する / ２．開殺しない[1a]か
+  2|LIT: <<TODO>>
+  3|EN : *Raise the Bridge to open it?
+ 1. Raise the Bridge to open
+ 2. Don't open2
+  4|RE : <<TODO>>
+
+[JP#5760] gaps=0  aln=HIGH->US#5630  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「あったまい〜ッ！ / 　そして我兄、カッチョええ〜ッ！[10][0c]「ゲートを上げてしまえば / 　もうこっちのものだトカ
+  2|LIT: <<TODO>>
+  3|EN : @Sooo smart!
+ And we're soooo cooolll!@If we raise the gate,
+ it'll all be ours.
+  4|RE : <<TODO>>
+
+[JP#5761] gaps=0  aln=HIGH->US#5631  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ゲートを上げてしまえば / 　もうこっちのものだトカ
+  2|LIT: <<TODO>>
+  3|EN : @If we raise the gate,
+ it'll all be ours.
+  4|RE : <<TODO>>
+
+[JP#5762] gaps=2  aln=MED->US#5632  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「我兄は<8a8e>胞だよ〜 / 　<8a8e>胞だったら知っている / 　活事はヒツジと知っているモノだトカ
+  2|LIT: <<TODO>>
+  3|EN : @I'm a gentleman.
+ As a gentleman I know
+ no means no.
+  4|RE : <<TODO>>
+
+[JP#5763] gaps=6  aln=MED->US#5633  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「さっそく言葉<8a92>めの準備だトカッ！ / 　お上も<8990>っちゃいられない / 　<8a93><8a94>危地の危険なセリフが、やあ、<8a72><887d>
+  2|LIT: <<TODO>>
+  3|EN : @Prepare for word torture! I can't
+ keep quiet. I'm full of dangerous
+ phrases that should be censored.
+  4|RE : <<TODO>>
+
+[JP#5764] gaps=3  aln=MED->US#5634  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「それでも連中が<8a95>まなければ / 　どうするんだってッ！ / 　〜知れたことだトカ〜[10][0c]「ブって、ブって / 　言うこと聞くまで / 　ブチのめすッ！[10][0c]「<8a8e>胞の<8a96>珍をかなぐり勉てて / 　インテリヤクザの時代はもう終ったトカ〜
+  2|LIT: <<TODO>>
+  3|EN : @You ask what am I going
+ to do if they don't flinch.
+ That's obvious.@I'll hit and hit
+ until they do as
+ I say!@I'll throw off the gentleman
+ disguise. The era of the
+ intellectual gangster is over.
+  4|RE : <<TODO>>
+
+[JP#5765] gaps=2  aln=MED->US#5635  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ブって、ブって / 　言うこと聞くまで / 　ブチのめすッ！[10][0c]「<8a8e>胞の<8a96>珍をかなぐり勉てて / 　インテリヤクザの時代はもう終ったトカ〜
+  2|LIT: <<TODO>>
+  3|EN : @I'll hit and hit
+ until they do as
+ I say!@I'll throw off the gentleman
+ disguise. The era of the
+ intellectual gangster is over.
+  4|RE : <<TODO>>
+
+[JP#5766] gaps=2  aln=MED->US#5636  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8a8e>胞の<8a96>珍をかなぐり勉てて / 　インテリヤクザの時代はもう終ったトカ〜
+  2|LIT: <<TODO>>
+  3|EN : @I'll throw off the gentleman
+ disguise. The era of the
+ intellectual gangster is over.
+  4|RE : <<TODO>>

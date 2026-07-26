@@ -1,0 +1,192 @@
+# [1.17] Escort the Son of the Guild Galad Master  (disc 1)
+# dialogue boxes: 164   speakers: 16
+# ============================================================
+
+~~ Valeria Chateau ~~
+Irving: We detected that explosion from the Valeria Chateau, too. Based on the pattern we think it was "Gias". It was definitely "Gias", the bomb implanted in Brad Evans' neck.
+Ashley: Is it at all possible... It is at all possible he survived?
+Irving: The powerful bomb around his neck has exploded. We cannot imagine anyone surviving such a thing.
+Ashley: I'm sorry, Brad. There was a time when I doubted you. But not any more.
+Irving: I have a new mission for you.
+Tim: At a time like this?
+Ashley: Destroy Odessa utterly without wasting one breath. Return peace to the world. That is the only true way to mourn Brad.
+Lilka: Yes, yes, that is what we will do! That will make it better, won't it? Tim, you shouldn't mope around forever either. Cheer up!
+Tim: Yes, you are right. I am sorry. I'm fine.
+Irving: Your next mission is to guard someone very important. Guard the Guild Galad Master's son and take him back to his country.
+Ashley: You may be attacked by Odessa...
+Irving: The request for protection came from the Guild Galad Master.
+Lilka: That is unbelievable. Does he think ARMS is his own personal escort service?! I knew I had a reason for disliking him!
+Irving: Use the long-distance subway for this mission. The station is located north of Quartly, at the mountains' foot. Meet with them there.
+Tim: Can't be crying all the time.
+Lilka: Brad will laugh.
+Ashley: Time for action now!
+Irving: Urartu Station is near the Urartu Mountains north of Quartly. We are protecting the son of the Guild Galad Master, so no mistakes! <Call Menu>
+Irving: >Your new mission is to guard the Guild Galad Master's son. Rendezvous at Urartu Station, north of Quartly. You'll have to forget about Brad for now. I'm sorry. -------------------------------------------------------------------------------
+  [ARMS heads to Urartu station to rendezvous with the Guild Galad Master's son.]
+Son of Guild Galad Master: Thank you for coming all this way. I am Noel Anaheim Guild Galad. I am pleased to make your acquaintance.
+Ashley: Oh... H-How do you do? T-The pleasure's all ours, I'm sure!
+Noel: I was expecting a much more fearsome-looking group. But I'm relieved that you seem quite normal. Being guarded by stern types can be quite tiring.
+Conductor: Master Noel is in your hands. Please take good care of him. You'll be heading straight to Guild Galad, with no stops. After all, we can't be too careful. Please, don't let those villains of Odessa harm master Noel.
+Lilka: (This kid doesn't need bodyguards!)
+Tim: (You're right.)
+Conductor: It's almost time for the train to depart. Please start boarding now.
+Noel: Let's be off then, everyone.
+Tim: Wow!
+Lilka: This is cool!
+Ashley: ...
+Noel: Is something the matter?
+Ashley: Uh, no. I was just thinking, "Oh, a freight train".
+Noel: Yes, the "Dianbai Guang" is a freight train. Is that a problem?
+Ashley: No, it's just that since you're the prince of Guild Galad... I was expecting something ornate and glittery.
+Noel: Guild Galad's products are built for quality, not to be pretentious. We emphasize functionality above all else. What need does the son of Guild Galad Master have for a pompously decorated train? And, besides, I love the Dianbai Guang. I'd rather ride this train than any other.
+Conductor: Noel! You can talk on the train! Your father will reprimand me if the train doesn’t depart on time!
+Noel: Oh, sorry! We'll get aboard right now! Come, let's hurry. The conductor's getting impatient.
+  [The train departs.  Inside...]
+Ashley: They're awfully pretentious.
+Noel: Really, my father is a problem. He said it's for my protection, but this draws so much attention, I'm in more danger.
+Ashley: Ha. Ha. Ha. We'll be fine. (Or just in case, for when the time comes it's military power. Brad, at a time like this, what would you think?)
+Lilka: Noel really is very nice but Noel's father is quite strange.
+Ashley: Lilka!
+Lilka: Oh! Did I speak too bluntly?
+Noel: Oh, never mind. It's fine. Father's personality is what it is, but everything he does is for Guild Galad. He too wishes to return to a kinder and gentler world.
+Ashley: (I've thought of this before... Why, when we all desire the same results, do people choose such different paths? I have no answer.)
+Tim: This tunnel is long.
+Noel: Yes. Originally, this was a cargo route to export goods manufactured in Guild Galad. The scenery before and after the tunnel are dramatically different.
+Noel: This is odd.
+Ashley: What is it, Noel?
+Noel: We should be out of the tunnel by now. Let's confirm this with the conductor.
+Conductor: Young Master!
+Noel: Why are you so excited? Calm down.
+Conductor: We can't get out of the tunnel. We're caught in a strange space. We can't even find our position!
+Lilka: It's here.
+Tim: Looks that way.
+Ashley: Time for us to act. Noel, wait here.
+Noel: Yes. I'm going to see the famous ARMS in action with my own eyes.
+Noel: Don't worry about me. I'm going to see the famous ARMS in action with my own eyes.
+  [The party leaves the train.]
+
+~~ Emulator Zone ~~
+  [The party examines a red panel.]
+Voice in Space: How can you not question a world full of deception? Worried, confused. You all who don't look back don't deserve a future.
+Voice in Space: The quasi-space (Emulator Zone) was lured by Randolph the Magic Key. Hope you meet death in the dimension interval and rot!
+Ashley: You are Odessa's Cocytus?
+Voice in Space: It's the first time we meet. I am Caina, one of Odessa's Cocytus. You ARMS who opposes Sir Vinsfeld ideals. You've got a red light now. We'll have you stay here in the Emulator Zone with the train.
+  [Caina appears.]
+Ashley: We must arrive on time as scheduled. We want a green light.
+  [BOSS: Special Cocytus Squad Member - Caina]
+Caina: That day of the Demon Summoning, if not at the <Sword Cathedral>... If you hadn't return alive with the Demon inside you, our goals wouldn't be undone!
+Ashley: Huh!? So this was your doing, wasn't it?
+Caina: If so, what're you gonna do about it? Ashley Winschester...
+Ashley: Oooooooooohhhhhh! Oooooooooohhhhhh! Oooooooooohhhhhh! You won't get away with this, Odessa.
+  [The party battles Caina.]
+Caina: (Darn! The mental convergence broke. As long as the generator is running, we can maintain the Emulator Zone. Looks like we better hurry!)
+  [Caina disappears.]
+Ashley: Stop!
+Lilka: I wonder what they're scheming this time?
+Ashley: I don't know. Proceed Until we destroy this Emulator Zone, we can't go back. [ARMS explores the Emulator Zone. They find a room with a huge object floating in the center.]
+Tim: This seems to be the generator creating the Emulator Zone.
+Lilka: What should I do? Should I bash it?
+Ashley: We won't be able to deliver Noel back until we destroy... the zone holding the train. This might be a bit rough, but let's try something! [Tim shoots the blocks that are holding the generator with his Air Ballet. The generator crashes.]
+Tim: Did anything happen? First, let's return to the train.
+  [They try to go back but they see Kanon standing above the gate.]
+Kanon: It's said to be good for buying time, but I won't be doing that.
+Lilka: Kanon!
+Ashley: If Odessa's hired you, you should reconsider! Odessa is a terrorist group which has brought turmoil and destruction to Filgaia!
+Kanon: I'm aware of that.
+Tim: If so, then why?
+Kanon: Ashley Winschester, I have my own reasons why I must fight you. Or should I say I have my reasons why I need to hunt the Demon that lurks inside you.
+Ashley: On a mission to exorcise evil?
+  [Kanon draws her blade.]
+Kanon: That's true too. But it's not all there is! The blood in my body is the blood of a "hero"! As a descendant of the <Sword Magess>, I am destined to destroy the Demon!
+Ashley: A Sword... Magess!
+Kanon: That's right. I have lived until today with the purpose of fighting the Demon! I have thrown away my womanhood and body and lived as a human concealed weapon! I have no resentment toward you, but I do have a reason to take your life.
+  [The party fights Kanon.  Some time passes...]
+Kanon: (The Emulator Zone's generator has been damaged. Looks like this quasi-space won't last too long.)
+Kanon: Let's call it a temporary truce. If we get sucked into the zone's collapse we'll spend eternity as the dead. The only way to get out is to blast the train through the self-repairing dimension at high speed! Hurry, Ashley!
+Ashley: Why are you helping us? Answer me, Kanon!
+Kanon: It's rather commonplace, but to me my reasons are important. I do it because I am the legendary sword that pierces you!
+Ashley: Kanon...
+Kanon: This is the destiny of a descendant of the <Sword Magess>.
+Ashley: Wait! Destiny... Do I really have to battle you for such a flimsy reason? Why do we in the present have to bound to a destiny from the past?!
+Kanon: By carrying out my destiny, I've been able to believe in myself. You wouldn't understand. You wouldn't understand the confusion of an uncertain self.
+  [Kanon disappears.]
+  [Ashley & Co. runs back to the train.]
+Ashley: Noel! Hurry and start the train!
+Noel: I guess now's not the time to ask why. Roger. Emergency ignition start.
+  [The train runs.]
+Ashley: More... Can't you go any faster?
+Conductor: This is the limit! If we go any faster, the train will explode!
+Lilka: Move all the passengers to the cars in front.
+Tim: The rear cars are cargo. I just checked.
+Noel: What concerns me is Odessa's motives.
+Ashley: Aren't they targeting you? Can you think of anything else?
+Noel: Do they plan to take me hostage for a ransom? Funds are needed to run organizations, so terrorists are no different.
+Ashley: Hmmm...
+Lilka: Hey, hey! Isn't that what they call the "Dimension Seam"?
+Tim: But it looks like it'll close up at any moment!
+Ashley: Faster!
+Conductor: Don't ask the impossible. I've been telling you, it's going to explode.
+Noel: Detach the rear cars. It'll make us go faster!
+Conductor: Young Master, Th...that's...
+Noel: Is there a problem? The rear cars are all cargo. Human life cannot be replaced. Or is there something I don't know about?
+Conductor: No. Nothing, Sir.
+Noel: Then hurry.
+Lilka: (Sis...)
+Conductor: I take no responsibility for what may happen. Release the rear cargo cars! [The train's rear cars are released. The train speeds up and is able to exit the Emulator Zone.]
+  [The train arrives at the Guild Galad side of the Urartu Station.]
+Conductor: Oh, my. I'm sure to catch hell for this.
+Ashley: I'm sorry about the train, Noel. But we had to sacrifice it to save you.
+Noel: Don't worry about the train. My father hired you to guard me, and you have done that job splendidly.
+Ashley: But you were very fond of that train, weren't you?
+Noel: I was. But your concern is consolation enough.
+Conductor: Young master, what do we do now?
+Noel: I want you to repair Dianbai Guang. We'll go on ahead and return to Guild Galad at once. If I don't get back soon, Father will be furious. Ashley, let us make haste. Guild Galad is located on the reclaimed land northeast of this station. <Call Menu>
+Amy: Um... Ashley? Oh, I was so worried! I couldn't get through to you! Oh, well, at least you're alright. I wanted to tell you that Guild Galad is on a landfill north of Urartu Station. -------------------------------------------------------------------------------
+  [Ashley's party reaches Guild Galad.]
+
+~~ Guild Galad ~~
+Guild Galad Master: Cretins! Blundering idiots! I did not hire you to escort my son so that you could wreck my property!
+Noel: Father! Father, you mustn't be so rude to them! The only reason I made it back home safely to Guild Galad is that the ARMS team protected my life with such valor and tireless effort.
+Guild Galad Master: S-Silence, I say!
+Guild Galad Master: Damn you! Why did you have to uncouple the freight cars?!
+Noel: It was to save the lives of all onboard.
+Guild Galad Master: Yes, well, but...
+Noel: Father, why are you so upset about what happened? I am safe, am I not? ... Father... Was it the freight cars and not me that Odessa was after?
+Guild Galad Master: H-How dare you... I... I just...
+Noel: Those gold and jewels were but a drop in your ocean of wealth. Unless there was something else... Father! Did you mean to acquire a Super Weapon banned under the Treaty of Iscariot? How could you?!
+Guild Galad Master: N-Noel... Y-You must understand. I...
+Noel: This changes everything. I must apologize to you. There is no reason for you to be blamed. This is the fault of Guild Galad.
+Ashley: I don't get it. What's going on?
+Noel: Father was trying to sneak a weapon into the country on that train. I suspect it was a Lost Technology unearthed in secrecy. But that weapon has fallen into the hands of Odessa.
+Ashley: I see. I resent being deceived. That is inexcusable. However... What's done is done. We must focus on repairing the damage. We must thwart whatever evil scheme Odessa is planning with that Super Weapon.
+Noel: Thank you! As son of Guild Galad Master, I can think of nothing better than to hear you say that!
+Lilka: But what about the Super Weapon? How powerful is it?
+Noel: Father, I implore you. Tell them! Only they can help us now!
+Guild Galad Master: The Super Weapon was found on an old battlefield in Slayheim. It...
+  [The Guild Galad Master tells the party about the super weapon.]
+  [Meanwhile, inside Odessa HQ...]
+Vinsfeld: Yes, "Nuclear Weapons"!!!
+Ptolomea: "Nuke"? What are...
+Vinsfeld: Weapons using "Nuclear" energy, the pride of the lost technology. They are super weapons that apply the theory that mass is converted to energy in a chain reaction.
+Caina: The dynamics are completely different from our magic powers. "Nuclear Weapons", the unwanted byproduct of Industrial Sorcery. They don't exist, do they?
+Judecca: But if they're so powerful, the joy of the "kill" can't be that great.
+Antenora: "Nukes" are powerful but their value is not their power.
+Vinsfeld: That's right. The super weapons that affect the balance of power are valuable only for their deterrent value. Ha. Ha. The world is now in my hands. Once I have the aerial fortress Heimdal Gazzo and the nuclear weapon Grauswein...
+  [Back at Guild Galad...]
+Noel: Odessa wants to conquer the world. They would never use a nuke.
+Tim: Oh, yeah? What makes you so sure?
+Lilka: Yeah. Why would they steal a weapon they never intend to use?
+Noel: A nuclear weapon can lay waste to a huge area. It destroys all life and renders the land eternally uninhabitable! Why would Odessa wish to rule a barren, lifeless world?
+Guild Galad Master: They wanted the nuke as a threat! I, too, sought a nuclear weapon as a deterrent which to counter Odessa's threat. After all, Odessa is sure to use its nuclear weapon at the bargaining table.
+Noel: Odessa means to intimidate the other nations. We must stop them! Ashley... What is it?
+Ashley: Oh, nothing. It just occurred to me that the "world domination" Odessa seeks is a truly formidable task.
+Lilka: Huh? What on earth are you talking about?
+Ashley: On our many missions, we have come across many different people. All had their own ideas and their own way of doing things. I'm only stating the obvious, of course. Even people who shared the same goal used different methods to achieve that goal. In short, no two people think alike. Accordingly, words like "conquer" and "dominate" mean different things to different people.
+Noel: Yes, I see what you are getting at. "World domination" may sound like a lofty goal. But the day-to-day job of actually ruling the world would be fraught with overwhelming difficulty.
+Noel: Each area has its own customs, its own industry, its own laws. Its own way of thinking! There is simply too much diversity for the world to be ruled by any one group.
+Ashley: In this light, "world domination" is just an unrealistic dream. Yet we face an enemy who is trying to achieve that very goal.
+Lilka: The future is uncertain. But what is certain is that Odessa is causing suffering right NOW. We must stop them. We must DESTROY them!
+Noel: Guild Galad will provide you with any backup you need. Isn't that right, father?
+Guild Galad Master: We will begin by upgrading your Hovercraft. We'll give it an Aport Feature which is similar to the Teleport Orb. You'll be able to go anywhere in the seas of Filgaia. So please, stop them.
+Noel: Thank you for guarding me aboard the train. I apologize for keeping the nuke a secret. I did not know myself, but I feel as if I deceived you.
+Guild Galad Master: Odessa stole our nuclear weapon! But how on earth did Odessa know the nuke was on that train? Could there be a spy in our midst? =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################

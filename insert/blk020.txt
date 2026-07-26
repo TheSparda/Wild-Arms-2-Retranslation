@@ -1,0 +1,1389 @@
+# WA2 INSERTION workspace US block 20 (US#4648-4860)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#4649] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4752[MED]: 
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4650] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#4753[MED]: 
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4651] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#4652] budget=78ch/3ln
+  NOW: Since you're such good customers,
+          I'll tell you something I heard
+          from a Merc.
+  JP : JP#4754[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#4653] budget=98ch/3ln
+  NOW: Apparently, there are ruins on an
+          1island to the southwest0 of the
+          large island southeast of here.
+  JP : JP#4755[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません || JP#4756[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4654] budget=43ch/2ln
+  NOW: It may just be a rumor, but you
+          never know!
+  JP : JP#4759[HIGH]: 「まぁ、<8a61>なる<89e6>かもしれませんけど / 　お<8964>に戻てたらうれしいですね || JP#4757[MED]: 「あの、そのお<8928>と言ってはなんですが / 　渡り限の方からお聞きしたコトを / 　守えてあげましょう[10][0c]「ココから先側にある大きな他より 
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#4655] budget=92ch/3ln
+  NOW: There's a soldier who stays here
+          often, but he's run up a large
+          bill. I hope he has money...
+  JP : JP#4760[HIGH]: 「でも、あの同闘さんは / 　いつも緒まってくれるのよ / 　ありがたいけど〜　お金、大助歩なのかな？
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4656] budget=85ch/3ln
+  NOW: I always thought of soldiers as
+          tough, macho types, but this one
+          was very kind to me!
+  JP : JP#4761[HIGH]: 「とても、うれしかったよ / 　同闘って、<889c>そうなイメージがあったけど / 　あの同闘さんはやさしかったな
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#4657] budget=13ch/1ln
+  NOW: I wonder why?
+  JP : JP#4762[HIGH]: 「なんでだろ？
+  FIT: <<TODO — <=13 chars, 1 line(s), <=35/line>>
+
+[US#4658] budget=64ch/2ln
+  NOW: Guild Galad has the most advanced
+          science in the world! Yee-haw!
+  JP : JP#4763[HIGH]: 「ギルドグラードの<8a65>男力は / 　世界一ぃぃぃぃッ！
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#4659] budget=74ch/3ln
+  NOW: What about your village? Do they
+          still use well water? They do?
+          I knew it.
+  JP : JP#4764[HIGH]: 「アンタの<89de>頼はどうなの？ / 　やっぱり、<8a6a><8a6b>？ / 　そっかそっか、やっぱりそうだろうなぁ
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#4660] budget=67ch/2ln
+  NOW: Here in Guild Galad, city-state of
+          industry, people dress flashier.
+  JP : JP#4765[HIGH]: 「ここは、<8a13>負遠<8a52>片勇ギルドグラードッ！ / 　ハイテクな場だぜ
+  FIT: <<TODO — <=67 chars, 2 line(s), <=35/line>>
+
+[US#4661] budget=54ch/2ln
+  NOW: Oops. Maybe it was indiscreet of me
+          to say that. Ahem.
+  JP : JP#4766[MED]: 「<f040><f041><f042>あ、ごめん / 　ちょっと不苦姿だったね〜
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#4662] budget=74ch/3ln
+  NOW: What we are doing is a form of
+          blasphemy against the gods and
+          the dragons.
+  JP : JP#4767[MED]: 「我々のしていることは / 　協とドラゴンに対する / 　いわば<8a2b><8a77>行為じゃからな〜
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#4663] budget=94ch/3ln
+  NOW: Long, long, ago, in a galaxy... I
+          mean, in Filgaia, these frightful
+          creatures ruled the world!
+  JP : JP#4768[MED]: 「はるか雄 / 　このファルガイアに様<8a7d>していた / 　<889c>るべき共配者の<8a7f>だッ！
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#4664] budget=75ch/3ln
+  NOW: With Guild Galad's technology, we
+          could clean up that dirty sky
+          in no time!
+  JP : JP#4769[HIGH]: 「ギルドグラードの期復力を持ってすれば / 　あの<8a88>ねぇ空なんか / 　イッパツでクリーンにしてやれるぜッ！
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#4665] budget=98ch/3ln
+  NOW: With Guild Galad's superior fire
+          power, we could have blasted that
+          Dragon back into the stone age.
+  JP : JP#4770[HIGH]: 「ギルドグラードの期復力を持ってすれば / 　基ドラゴンの１安や２安 / 　イチコロだぜッ！
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4666] budget=87ch/3ln
+  NOW: With Guild Galad's technology, we
+          could have stopped Odessa from
+          setting off that nuke!
+  JP : JP#4771[HIGH]: 「ギルドグラードの期復力を持ってすれば / 　オデッサに基を撃たれる前に / 　なんとかできたものをッ！
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#4667] budget=93ch/3ln
+  NOW: With Guild Galad's technology, we
+          could have knocked that base of
+          Odessa's out of commission.
+  JP : JP#4772[HIGH]: 「ギルドグラードの期復力を持ってすれば / 　オデッサの<88e6>帯の１コや２コ / 　暮<8a61>に滅滅してやるぜ
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4668] budget=59ch/2ln
+  NOW: We're being punished for polluting
+          Filgaia. I'm sure of it.
+  JP : JP#4773[HIGH]: 「きっと今まで、ファルガイアを / 　<8a88>してきた<8a8b>なのでしょう〜
+  FIT: <<TODO — <=59 chars, 2 line(s), <=35/line>>
+
+[US#4669] budget=101ch/3ln
+  NOW: But releasing factory wastewater
+          into the oceans is a crime just as
+          surely as Odessa's terrorism was.
+  JP : JP#4774[HIGH]: 「でもね、<8a13>場から出る<8a88>れた<88a1>を / 　道へ流すのはオデッサと同じくらい / 　悪いことだと思うの
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#4670] budget=76ch/3ln
+  NOW: There are many types of vehicles
+          in Guild Galad, but I still
+          prefer walking.
+  JP : JP#4775[HIGH]: 「ギルドグラードでは / 　いろいろな活り物を開発しているけど / 　アタシには、必要ないわ
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4671] budget=84ch/3ln
+  NOW: Find out what you can, then act
+          with speed and caution. We cannot
+          help you any more.
+  JP : JP#4776[HIGH]: 「はやく聞くコト聞き出して / 　<8a03><8a04>かつ確実かつ姿<8858>に対集してくれ / 　もちろん、ワシらも<8833>力はおしまないぞ[10]
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#4672] budget=73ch/3ln
+  NOW: What wonderful creatures the
+          Dragons are! Dead or alive, they
+          benefit us!
+  JP : JP#4777[HIGH]: 「しかし、ドラゴンとは良い生き物だな / 　死んでいても生きていても / 　ワシに利<8a91>をもたらしてくれるッ[10][0c]「がっはっはっはっ〜
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#4673] budget=12ch/1ln
+  NOW: Haw haw haw!
+  JP : JP#4778[HIGH]: 「がっはっはっはっ〜
+  FIT: <<TODO — <=12 chars, 1 line(s), <=35/line>>
+
+[US#4674] budget=66ch/3ln
+  NOW: We merely reaped what we had
+          sown. There is no reason to
+          thank us.
+  JP : JP#4779[MED]: 「ワシは、自分のまいた<8a94>を / 　自分で<8a95>ろうとしたまでのコト / 　単にお前たちに<8928>を言われる<8a96>合いはないぞ[10][
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#4675] budget=68ch/3ln
+  NOW: It is I who should thank you.
+          I apologize for the trouble
+          we caused.
+  JP : JP#4780[MED]: 「<8928>ならこちらが言わせてもらおう / 　<f040><f041><f042>手間かけさせてすまなかったな
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#4676] budget=55ch/2ln
+  NOW: I hope I am not pushing my luck,
+          but we need your help.
+  JP : JP#4781[MED]: 「今<890d>、ムシのいい話しだが / 　お前たちの力を珍してほしい[10][0c]「もちろん / 　ワシらもできるだけのコトはするつもりだ / 　すまないが
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#4677] budget=64ch/3ln
+  NOW: Of course, we will assist you in
+          any way we can.
+          Please help us!
+  JP : JP#4782[HIGH]: 「もちろん / 　ワシらもできるだけのコトはするつもりだ / 　すまないが頼むぞ
+  FIT: <<TODO — <=64 chars, 3 line(s), <=35/line>>
+
+[US#4678] budget=89ch/3ln
+  NOW: How do we fight Odessa now that
+          they possess both |Heimdal Gazzo|
+          AND the nuclear weapon?
+  JP : JP#4783[HIGH]: 「『ヘイムダル・ガッツォー』に『基』ッ！ / 　この２つの<8a98>っているオデッサと / 　どう戦えというんだッ！
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#4679] budget=60ch/3ln
+  NOW: But how on earth did Odessa know
+          the nuke was on
+          that train?
+  JP : JP#4784[HIGH]: 「<f040><f041><f042>しかし、なぜオデッサは / 　『基』を<89dc><89dd>に<8a9a>んでいることを / 　知っていたんだ？[10]
+  FIT: <<TODO — <=60 chars, 3 line(s), <=35/line>>
+
+[US#4680] budget=34ch/1ln
+  NOW: Could there be a spy in our midst?
+  JP : JP#4785[HIGH]: 「<f040><f041><f042>スパイでもいるというのかッ！
+  FIT: <<TODO — <=34 chars, 1 line(s), <=35/line>>
+
+[US#4681] budget=90ch/3ln
+  NOW: I wouldn't blame the dragon for
+          being mad. After all, we process
+          dragon fossils into fuel.
+  JP : JP#4786[HIGH]: 「ま、我々はドラゴンの奇<8a74>を<88ea><8a67>して / 　<8a8c><89d7>にしているのだから / 　それも当たり前か〜
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#4682] budget=55ch/2ln
+  NOW: Oh, well. Who can blame him with
+          the sky the way it is?
+  JP : JP#4787[MED]: 「ま、空がこんなになっちゃ / 　気持ちも分からんではないが
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#4683] budget=54ch/2ln
+  NOW: I'll teach that hypocrite a lesson
+          he'll never forget!
+  JP : JP#4788[HIGH]: 「そんな<8aa1><8aa2><8aa3><8aa4>には / 　オレがヤキをいれてやるぜッ！
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#4684] budget=50ch/2ln
+  NOW: Perhaps conquering the world was
+          never their goal.
+  JP : JP#4789[HIGH]: 「ホントに世界<8aa7><8aa8>する気が / 　あるのかね
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#4685] budget=87ch/3ln
+  NOW: But perhaps you were fortunate to
+          destroy Odessa's base with the loss
+          of only one life.
+  JP : JP#4790[HIGH]: 「だが、たった一人の<8aab><8aac>で / 　<88e6>帯一つを<8aad>せたんだから / 　それはそれで、スゲェことだぜ
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#4686] budget=91ch/3ln
+  NOW: I have created Full Clip, a device
+          that transfers the user's
+          telepathic strength to an ARM.
+  JP : JP#4791[HIGH]: 「ドラゴンの生体サンプルの解<8aae>によって / 　使用者の<88ea>協力をアームに<88be><8aaf>する / 　『フルフラット』が<88ad>成し
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#4687] budget=74ch/3ln
+  NOW: It is somewhat difficult
+          to control, but I am sure you could
+          handle it, 0.
+  JP : JP#4792[HIGH]: 「まだ、制<89c7>が<8ab0>しいですが / 　[05]ぉさんなら / 　使いこなせると思います[10][0c]「<88f7>意帯としては / 　発動する
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#4688] budget=87ch/3ln
+  NOW: One thing to keep in mind is that
+          it discharges every round in your
+          ARM when activated.
+  JP : JP#4793[HIGH]: 「<88f7>意帯としては / 　発動するとアームの険<8a43>を発<8ab1>し<8ab2>くして / 　しまうこと[10][0c]「また、アームの残<8a
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#4689] budget=101ch/3ln
+  NOW: Also, how powerful it is depends on
+          your ARM's remaining ammo count
+          when you equip it. Here, take it!
+  JP : JP#4794[HIGH]: 「また、アームの残<8ab3>年によって / 　威力が変合します / 　どうぞ、<8ab4>けとってください
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#4690] budget=55ch/2ln
+  NOW: Please forgive him if he takes a
+          joke a little too far.
+  JP : JP#4795[HIGH]: 「<8ab7><8ab8>が過ぎるコトがありますが / 　どうか、大目に見てやってください〜〜
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#4691] budget=43ch/2ln
+  NOW: Please use it in the fight to
+          save Filgaia!
+  JP : JP#4796[HIGH]: 「少しでもファルガイアの為に / 　<8964>戻ってくれたらうれしいです
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#4692] budget=54ch/2ln
+  NOW: The recent events seem to have
+          changed my father, too.
+  JP : JP#4797[HIGH]: 「今回の<8854>で / 　<8ab5>上も少し変わったような気がします
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#4693] budget=54ch/2ln
+  NOW: The recent events seem to have
+          changed my father, too.
+  JP : JP#4798[HIGH]: 「今回の<8854>で / 　<8ab5>上も少し変わったような気がします
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#4694] budget=55ch/2ln
+  NOW: would solve everything and bring
+          peace back to Filgaia.
+  JP : JP#4799[HIGH]: 「ファルガイアに<8a85><8a86>が戻ると / 　そう、信じていたのに〜[10][0c]「この<888c>い空〜 / 　まるで、オデッサの<8ab9>念を
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#4695] budget=74ch/3ln
+  NOW: I can't help thinking that
+          the black sky is a curse that
+          Odessa put on us.
+  JP : JP#4800[HIGH]: 「この<888c>い空〜 / 　まるで、オデッサの<8ab9>念を表わしている〜 / 　そのように信じずには、いられません〜
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#4696] budget=98ch/3ln
+  NOW: I apologize for keeping the nuke a
+          secret. I did not know myself, but
+          I feel as if I deceived you.
+  JP : JP#4801[HIGH]: 「<f040><f041><f042>それから『基』のコトですが〜 / 　わたくしも知らなかったコトとはいえ / 　<88fc>してしまったみたいですみませんで
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4697] budget=68ch/3ln
+  NOW: Wait a minute.
+          |Real truth| ... Does that
+          make sense? Ah, forget it.
+  JP : JP#4802[HIGH]: 「〜ん？ / 　今、変な<8a71>法の使い方をしたような〜？ / 　まあ、いいか
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#4698] budget=29ch/1ln
+  NOW: He's the Lord of the Library.
+  JP : JP#4803[HIGH]: 「なんたって、<8a9c><8946><8a9d>の<8abb>だからね
+  FIT: <<TODO — <=29 chars, 1 line(s), <=35/line>>
+
+[US#4699] budget=95ch/3ln
+  NOW: I am SO overworked! Man, my head
+          STILL aches... or is it |hurts|?
+          Which do you think is better?
+  JP : JP#4804[HIGH]: 「おかげで、俺はコキ使われちゃったよ〜 / 　ああ、<8abc><8abd>が<8abd>いよ〜〜〜ん？ / 　今、変な<8a71>法の使い方をしたような〜？
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#4700] budget=89ch/3ln
+  NOW: One store gave me a going-out-of-
+          business gift. Hey... That
+          doesn't make sense, does it?
+  JP : JP#4805[HIGH]: 「そこで、<89cf><8abe><8937>念の『<8abf>獲<8a0c><892e>』を / 　プレゼントされたんだ / 　でも、変な<8a71>法の使い
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#4701] budget=88ch/3ln
+  NOW: I have learned to be grateful when
+          everyone makes it through another
+          day alive and safe.
+  JP : JP#4806[HIGH]: 「それは、『みんなが今回も無事だった』〜 / 　干<8ab3>は、険<8844>気にも止めなかった事ですが / 　とっても、大切なコトだったんですね
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#4702] budget=94ch/3ln
+  NOW: To the 1southeast0 is an island
+          that resembles a coiled snake. They
+          say energy collects there.
+  JP : JP#4807[HIGH]: 「そういえば、ココから[11]お先側[11]ぉに / 　ヘビがとぐろを<8812>いた方な他があるんじゃが / 　そこには、地<89f4>が<8880>まってい
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#4703] budget=25ch/1ln
+  NOW: That might be a Raypoint.
+  JP : JP#4808[HIGH]: 「そこがレイポイントかもしれんぞい
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4704] budget=65ch/2ln
+  NOW: inaccessible place -- like the
+          crater of a volcano, for instance.
+  JP : JP#4809[HIGH]: 「人の手が入りにくい所が可能性が<8867>いの / 　<8943>えば、緊谷の緊<8828>とかじゃな〜
+  FIT: <<TODO — <=65 chars, 2 line(s), <=35/line>>
+
+[US#4705] budget=104ch/3ln
+  NOW: The ancient texts say experiments
+          were held. Maybe they are what led
+          to ancient civilization's collapse.
+  JP : JP#4810[HIGH]: 「何回かの同貸実験をしていた / 　<8937><8938>も残っておる / 　それが破滅への<8a93>だったのかもしれんの〜
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#4706] budget=82ch/3ln
+  NOW: It looks like it's... Oh, these
+          calculations must be wrong.
+          I HOPE they are wrong!
+  JP : JP#4811[HIGH]: 「もしかしたら〜 / 　いや、ワシの特<8ac3>違いじゃろ〜 / 　そう、間違いであってほしいの〜
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#4707] budget=91ch/3ln
+  NOW: There are 4 altogether. This one is
+          located 1beyond the mountain
+          southwest of Guild Galad0.
+  JP : JP#4812[HIGH]: 「４鍵のうちの１鍵が / 　[11]おギルドグラードから先東の谷を<8ac4>えた村り[11]ぉに / 　あることが分かったんじゃ[10][0c]「このことは、
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#4708] budget=54ch/2ln
+  NOW: I'll tell that young lady operator
+          at Valeria Chateau!
+  JP : JP#4813[HIGH]: 「このことは、ヴァレリアシャトーの / 　オペレーターお<8ac5>ちゃんにも<88a6>えとくぞい
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#4709] budget=99ch/3ln
+  NOW: I'm waiting for him now. But what
+          could be keeping him? He'd better
+          not stand me up like last time!
+  JP : JP#4814[MED]: 「<f040><f041><f042>あっと / 　私がこんなこと言ってたなんて参底だよ<f044> / 　〜でも<8a0d>いなぁ、まだ<8aca>りてないの
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#4710] budget=55ch/2ln
+  NOW: Afterwards, he said he was sorry,
+          but then he ran away.
+  JP : JP#4815[MED]: 「その後、友ってきたんだけど〜 / 　<8acb>って<894f>げちゃったの[10][0c]「その場で<8978>しても良かったんだけど / 　こっちから友り
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#4711] budget=79ch/3ln
+  NOW: I should have forgave him then and
+          there, but my foolish pride
+          wouldn't let me.
+  JP : JP#4816[MED]: 「その場で<8978>しても良かったんだけど / 　こっちから友りたかったから〜<f044> / 　<f040><f041><f042>私って、意地っ<8acc
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#4712] budget=43ch/3ln
+  NOW: Sigh!
+          My heart is as dark as the
+          sky above!
+  JP : JP#4817[MED]: 「<f040><f041><f042>あぁ〜 / 　あの<888c>い空は / 　私の心<8acd>を表わしているようだわ〜<f05a>
+  FIT: <<TODO — <=43 chars, 3 line(s), <=35/line>>
+
+[US#4713] budget=62ch/2ln
+  NOW: But that's part of his charm. Hey,
+          he's late again today, too!
+  JP : JP#4818[MED]: 「でも、そこがいいところなのかもね〜<f044> / 　<f040><f041><f042>にしても<8a0d>いわねぇ
+  FIT: <<TODO — <=62 chars, 2 line(s), <=35/line>>
+
+[US#4714] budget=44ch/2ln
+  NOW: And then I high-tailed it out of
+          there, too!
+  JP : JP#4819[MED]: 「まぁ、その後 / 　オレも急いで<894f>げたけどね〜
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#4715] budget=48ch/2ln
+  NOW: Of course, I could do without those
+          Odessa guys.
+  JP : JP#4820[MED]: 「でも、オデッサみたいな<8ad4>は / 　<8ace><8ad5>してほしいよ
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#4716] budget=67ch/3ln
+  NOW: But we have to use them carefully
+          to avoid ending up
+          like Slayheim.
+  JP : JP#4821[MED]: 「だが、使い方を<8ad6>り / 　スレイハイムのニの<8ad7>だけには / 　ならないようにな
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#4717] budget=54ch/2ln
+  NOW: Technological progress was a lot
+          faster in those days.
+  JP : JP#4822[MED]: 「やはり、<8ad8>い合っていた<8941>の方が / 　期復の<892b><8a72>が<8894>かったな
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#4718] budget=28ch/1ln
+  NOW: Who does he intend to fight?
+  JP : JP#4823[MED]: 「一体、何と戦うつもりなのだ？
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#4719] budget=26ch/1ln
+  NOW: IF used properly, that is.
+  JP : JP#4824[MED]: 「使い方を間違えないことだ
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#4720] budget=88ch/3ln
+  NOW: Today is our first date since
+          we made up. But she's late. I
+          wonder what's keeping her...
+  JP : JP#4825[MED]: 「今回は / 　<8adc><8865>りしてから伝めてのデートなのさ / 　<f040><f041><f042>でも、彼昔<8a0d>いなぁ〜<f04b> || JP#4826[MED]: 「ちょうど、友りたかったし / 　<89ba>いたかったし〜 / 　でも、ダメだったなぁ〜
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#4721] budget=63ch/3ln
+  NOW: I wanted to see her. I told her
+          I was sorry, but it was
+          no use.
+  JP : JP#4827[MED]: 「でも、今回も彼昔<8a0d>いなぁ〜<f04b>
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#4722] budget=26ch/1ln
+  NOW: But now today, she's late.
+  JP : JP#4828[MED]: 「じゃあ、あたしはノエル様を / 　『がんばれ、がんばれ』って / 　<8839><8add>をかんばろうかな
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#4723] budget=59ch/3ln
+  NOW: I think I'll do my part by
+          encouraging Noel to do
+          his best!
+  JP : JP#4829[MED]: 「そうやって / 　あたしの『がんばり』を / 　ちょっとづつ分けてあげられるんだから
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#4724] budget=71ch/3ln
+  NOW: Besides, emotional support
+          brings you closer to the
+          person you support.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#4725] budget=33ch/1ln
+  NOW: is like the sky... Wait a minute!
+  JP : JP#4830[MED]: 「オンナ心とファルガイアの空って[10][0c]「あれれ〜 / 　それじゃあ、<8a81>っ暗けってこと？
+  FIT: <<TODO — <=33 chars, 1 line(s), <=35/line>>
+
+[US#4726] budget=67ch/2ln
+  NOW: I hope he didn't think I meant a
+          woman's heart is perpetually dark!
+  JP : JP#4831[MED]: 「あれれ〜 / 　それじゃあ、<8a81>っ暗けってこと？
+  FIT: <<TODO — <=67 chars, 2 line(s), <=35/line>>
+
+[US#4727] budget=63ch/2ln
+  NOW: If I can be with Noel, I wouldn't
+          mind living in a small house.
+  JP : JP#4832[MED]: 「ノエル様といっしょなら / 　小さいお勇の方がいいかもね[10][0c]「だって〜 / 　いつも<89f5>にいられるでしょ
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4728] budget=66ch/2ln
+  NOW: Besides, in a small house, we would
+          always be close to each other.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=66 chars, 2 line(s), <=35/line>>
+
+[US#4729] budget=33ch/1ln
+  NOW: I wonder if I'm cut out for that.
+  JP : JP#4833[MED]: 「だって〜 / 　いつも<89f5>にいられるでしょ
+  FIT: <<TODO — <=33 chars, 1 line(s), <=35/line>>
+
+[US#4730] budget=34ch/1ln
+  NOW: All the girls are crazy about him!
+  JP : JP#4834[MED]: 「あたしには自信無いな〜
+  FIT: <<TODO — <=34 chars, 1 line(s), <=35/line>>
+
+[US#4731] budget=19ch/1ln
+  NOW: Can you believe it?
+  JP : JP#4835[MED]: 「モテモテなのよ〜
+  FIT: <<TODO — <=19 chars, 1 line(s), <=35/line>>
+
+[US#4732] budget=70ch/3ln
+  NOW: *Do you wish to press the switch?
+          1. Press away!
+          2. I don't think so.2
+  JP : JP#4837[HIGH]: ＊スイッチを<8ae3>しますか？ / １．<8ae3>すしかないでしょッ！ / ２．止めるに<8ae4>る[1a]か || JP#4836[MED]: 「信じられる？
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#4733] budget=32ch/1ln
+  NOW: *Don't even THINK of buying one!
+  JP : JP#4838[HIGH]: ＊とても<8867>いので見なかったことにしよう
+  FIT: <<TODO — <=32 chars, 1 line(s), <=35/line>>
+
+[US#4734] budget=98ch/3ln
+  NOW: *One is Dragon fossils. Fossils of
+          these organo-mechanical beasts are
+          unlike even Lost Technology.
+  JP : JP#4839[HIGH]: ＊その中でも、機艇生命体ドラゴンの合谷は / 　ロストテクノロジーとも違った / 　簡単な期復<88e1>態をしている[10][0c]＊その簡異な性<886e>
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4735] budget=92ch/3ln
+  NOW: *The special qualities of Dragon
+          fossils have fascinated countless
+          engineers and scientists.
+  JP : JP#4840[HIGH]: ＊その簡異な性<886e>のため / 　ドラゴンの合谷は多くの期復者を / 　<8aeb><8837>してやまない[10][0c]＊それらの合谷の解<8aae>
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4736] budget=89ch/3ln
+  NOW: *They used the technology in such
+          fossils to create products for
+          export to other nations.
+  JP : JP#4841[HIGH]: ＊それらの合谷の解<8aae>を行い / 　その期復を<8839>用した<8a13>負<8a67><892e>を作り出し / 　<8aec>片へ<8aed>出し
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#4737] budget=94ch/3ln
+  NOW: *This technology will give rise to
+          new technologies that will make
+          people's lives even better.
+  JP : JP#4842[MED]: ＊<8aee><8a9a>された期復は / 　さらなる期復となり / 　人々の生<8a38>の向上に<8a38>用されるだろう
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#4738] budget=72ch/3ln
+  NOW: I did not hire you to escort my
+          son so that you could wreck my
+          property!
+  JP : JP#4843[MED]: 「お前たちに / 　<89e3><89e4>を<8923>頼したのは / 　この無方を見るためではないんだぞッ！
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#4739] budget=39ch/2ln
+  NOW: Father, you mustn't be so
+          rude to them!
+  JP : JP#4844[MED]: 「それは彼らに対して / 　失<8928>ではありませんかッ！[10][0c]「わたくしはこうして / 　無事にギルドグラードまで / 　たどり着くことができた
+  FIT: <<TODO — <=39 chars, 2 line(s), <=35/line>>
+
+[US#4740] budget=57ch/3ln
+  NOW: The only reason I made it
+          back home safely to
+          Guild Galad
+  JP : JP#4845[MED]: 「わたくしはこうして / 　無事にギルドグラードまで / 　たどり着くことができたのです[10][0c]「これもひとえに / 　彼らたち / 　ＡＲＭＳの<8a
+  FIT: <<TODO — <=57 chars, 3 line(s), <=35/line>>
+
+[US#4741] budget=76ch/3ln
+  NOW: is that the ARMS team protected
+          my life with such valor and
+          tireless effort.
+  JP : JP#4846[MED]: 「これもひとえに / 　彼らたち / 　ＡＲＭＳの<8ab2>力と言えましょう
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4742] budget=20ch/1ln
+  NOW: I am safe, am I not?
+  JP : JP#4847[HIGH]: 「こうして、わたくしは無事に<f040><f042>[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜<8ab5>上、まさか /
+  FIT: <<TODO — <=20 chars, 1 line(s), <=35/line>>
+
+[US#4743] budget=11ch/1ln
+  NOW: ...30 30 30
+  JP : JP#4848[HIGH]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜<8ab5>上、まさか / 　オデッサにねらわれていたのは / 　わたくしではなく、<8af2
+  FIT: <<TODO — <=11 chars, 1 line(s), <=35/line>>
+
+[US#4744] budget=67ch/3ln
+  NOW: Father... Was it the freight cars
+          and not me that Odessa
+          was after?
+  JP : JP#4849[HIGH]: 「〜<8ab5>上、まさか / 　オデッサにねらわれていたのは / 　わたくしではなく、<8af2>物<89dd><8af3>の方ですね？
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#4745] budget=14ch/1ln
+  NOW: I... I just...
+  JP : JP#4850[HIGH]: 「そ、それは〜
+  FIT: <<TODO — <=14 chars, 1 line(s), <=35/line>>
+
+[US#4746] budget=34ch/1ln
+  NOW: Unless there was something else...
+  JP : JP#4851[HIGH]: 「まさか<f040><f042>[10][0c]「片<8afa>に反するような同貸を〜 / 　イスカリオテ<8afb><8acf>にて<8afc>止された / 
+  FIT: <<TODO — <=34 chars, 1 line(s), <=35/line>>
+
+[US#4747] budget=99ch/3ln
+  NOW: Father! Did you mean to acquire
+          a Super Weapon banned under the
+          Treaty of Iscariot? How could you?!
+  JP : JP#4852[HIGH]: 「片<8afa>に反するような同貸を〜 / 　イスカリオテ<8afb><8acf>にて<8afc>止された / 　幻同貸を<8901>作するつもりだったのですか
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#4748] budget=74ch/3ln
+  NOW: There is no reason for you to
+          be blamed. This is the fault of
+          Guild Galad.
+  JP : JP#4853[HIGH]: 「いよいよもって / 　あなた方が<8afd>められることはありません / 　これはギルドグラードの過ちです
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#4749] budget=63ch/2ln
+  NOW: I suspect it was a Lost Technology
+          weapon unearthed in secrecy.
+  JP : JP#4854[HIGH]: 「おそらく、<8b01><8b02><8b03>に発<885f>した / 　ロストテクノロジー同貸の一<8a94>でしょう[10][0c]「それが、今回の<88
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4750] budget=52ch/2ln
+  NOW: But that weapon has fallen into
+          the hands of Odessa.
+  JP : JP#4855[HIGH]: 「それが、今回の<8854>で / 　オデッサの手に落ちてしまったのです
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#4751] budget=56ch/3ln
+  NOW: I resent being deceived.
+          That is inexcusable.
+          However...
+  JP : JP#4856[HIGH]: 「俺たちをだましていたことは / 　確かに<8978>せないことだ / 　でも〜[10][0c]「それならば / 　俺たちにも手<88a6>えることがある[10
+  FIT: <<TODO — <=56 chars, 3 line(s), <=35/line>>
+
+[US#4752] budget=63ch/2ln
+  NOW: What's done is done. We must now
+          focus on repairing the damage.
+  JP : JP#4857[HIGH]: 「それならば / 　俺たちにも手<88a6>えることがある[10][0c]「ヤツらが手に入れた幻同貸で / 　何をしようとも / 　俺たちが必ずくいとめよう
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4753] budget=78ch/3ln
+  NOW: We must thwart whatever evil scheme
+          Odessa is planning
+          with that Super Weapon.
+  JP : JP#4858[HIGH]: 「ヤツらが手に入れた幻同貸で / 　何をしようとも / 　俺たちが必ずくいとめよう
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#4754] budget=86ch/3ln
+  NOW: As son of Guild Galad Master, I
+          can think of nothing better
+          than to hear you say that!
+  JP : JP#4859[HIGH]: 「ギルドグラードマスターの<89e2>家として / 　そう<8b04>し出てくれることほど / 　うれしいことはありません
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#4755] budget=26ch/2ln
+  NOW: Only they can
+          help us now!
+  JP : JP#4860[MED]: 「こうなってしまっては / 　彼らに<8b05>すしかないのです
+  FIT: <<TODO — <=26 chars, 2 line(s), <=35/line>>
+
+[US#4756] budget=66ch/2ln
+  NOW: It destroys all life and renders
+          the land eternally uninhabitable!
+  JP : JP#4861[MED]: 「その地には生命の<89e2><8b0a>が飛ること<8b0b>わず / 　<8b0c><8b0d>の死せる大地と合すといいます[10][0c]「そのような地に
+  FIT: <<TODO — <=66 chars, 2 line(s), <=35/line>>
+
+[US#4757] budget=55ch/2ln
+  NOW: Why would Odessa wish to rule a
+          barren, lifeless world?
+  JP : JP#4862[HIGH]: 「そのような地に<889a>われた世界を / 　誰が<8b0e>んで<8aa7><8aa8>しましょうか
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#4758] budget=85ch/3ln
+  NOW: I, too, sought a nuclear weapon as
+          a deterrent with which to counter
+          Odessa's threat.
+  JP : JP#4863[HIGH]: 「わしも基同貸を / 　オデッサを<8b0f>制するための / 　いわば<8b10>止力として用いるつもりだった[10][0c]「ヤツらもまた / 　<88fa
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#4759] budget=76ch/3ln
+  NOW: After all, Odessa is sure to
+          use its nuclear weapon
+          at the bargaining table.
+  JP : JP#4864[HIGH]: 「ヤツらもまた / 　<88fa><8b11>の手<8ab3>として / 　基同貸を<8b12>りかざしてくるはずだ
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4760] budget=16ch/2ln
+  NOW: 0...
+          What is it?
+  JP : JP#4865[HIGH]: 「<f040><f042>[05]ぉさん〜 / 　どうかしました？
+  FIT: <<TODO — <=16 chars, 2 line(s), <=35/line>>
+
+[US#4761] budget=91ch/3ln
+  NOW: It just occurred to me that the
+          |world domination| Odessa seeks is
+          a truly formidable task.
+  JP : JP#4866[MED]: 「オデッサの言う『世界<8aa7><8aa8>』って / 　大変なことなんだなって〜 / 　考えていたんだ
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#4762] budget=99ch/3ln
+  NOW: All had their own ideas and their
+          own way of doing things. I'm only
+          stating the obvious, of course.
+  JP : JP#4867[MED]: 「でも、みんなそれぞれ / 　自分の意<8b15>や考えを持っていた〜 / 　あたり前のことだけどね[10][0c]「中には目的を同じくする人たちもいた / 　
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#4763] budget=91ch/3ln
+  NOW: Even people who shared the same
+          goal used different methods to
+          achieve that goal. In short,
+  JP : JP#4868[MED]: 「中には目的を同じくする人たちもいた / 　でも、その達成手<8ab3>は / 　やっぱりバラバラだったんだ[10][0c]「人の心は、ひとつではない〜[10]
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#4764] budget=26ch/1ln
+  NOW: no two people think alike.
+  JP : JP#4869[MED]: 「人の心は、ひとつではない〜[10][0c]「人の年だけ思<8aba>が<88fa><8b16>する / 　このファルガイア〜 / 　『<8aa7><8aa8>
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#4765] budget=91ch/3ln
+  NOW: Accordingly, words like |conquer|
+          and |dominate| mean different
+          things to different people.
+  JP : JP#4870[MED]: 「人の年だけ思<8aba>が<88fa><8b16>する / 　このファルガイア〜 / 　『<8aa7><8aa8>』の一言でまとめられるのだろうか〜
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#4766] budget=47ch/2ln
+  NOW: |World domination| may sound like
+          a lofty goal.
+  JP : JP#4871[MED]: 「『世界<8aa7><8aa8>』という<8b17>きには / 　一<8a94><8b18><8a5c>なモノがあります[10][0c]「ですが、実<89d2>
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#4767] budget=98ch/3ln
+  NOW: But the day-to-day job of actually
+          ruling the world would be fraught
+          with overwhelming difficulty.
+  JP : JP#4872[MED]: 「ですが、実<89d2>に<8b19>分するにあたって / 　<8b1a><8ab0>ばかりで / 　決して、<8b1b>心地の良いモノではないはずです[10]
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4768] budget=87ch/3ln
+  NOW: Each area has its own customs, its
+          own industry, its own laws. Its
+          own way of thinking!
+  JP : JP#4873[MED]: 「その地<8b1c>性、<8b1d><89ba>性〜 / 　挑負や法制度〜 / 　[05]ぉさんの言う、人の心〜[10][0c]「ひとつに / 　まとめなければ
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#4769] budget=78ch/3ln
+  NOW: There is simply too much diversity
+          for the world to be ruled by any
+          one group.
+  JP : JP#4874[HIGH]: 「ひとつに / 　まとめなければならないことは / 　たくさんありすぎます〜
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#4770] budget=61ch/3ln
+  NOW: Yet we face an enemy who
+          is trying to achieve
+          that very goal.
+  JP : JP#4875[HIGH]: 「それでも、俺たちの前には / 　それを為そうとする者が / 　戻ちはだかってくる<f040><f042>
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#4771] budget=57ch/2ln
+  NOW: is certain is that Odessa is
+          causing suffering right NOW.
+  JP : JP#4876[HIGH]: 「でも、今、この<8b1e>間 / 　オデッサは誰かを<8930>しめているんだよ[10][0c]「やっつけなくちゃ / 　いけないんだよ〜
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#4772] budget=40ch/2ln
+  NOW: We must stop them.
+          We must DESTROY them!
+  JP : JP#4877[HIGH]: 「やっつけなくちゃ / 　いけないんだよ〜
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#4773] budget=25ch/2ln
+  NOW: Isn't that right,
+          father?
+  JP : JP#4878[HIGH]: 「ですよね？ / 　<8ab5>上〜
+  FIT: <<TODO — <=25 chars, 2 line(s), <=35/line>>
+
+[US#4774] budget=69ch/3ln
+  NOW: We'll give it an Aport Feature,
+          which is similar to
+          the Teleport Orb.
+  JP : JP#4879[HIGH]: 「テレポートオーブの / 　<8b20>移贄果に対<8839>した / 　アポーツ機能を<887c><887d>だ[10][0c]「これで / 　ファルガイア外
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#4775] budget=75ch/3ln
+  NOW: You'll be able to go anywhere in
+          the seas of Filgaia.
+          So please, stop them.
+  JP : JP#4880[HIGH]: 「これで / 　ファルガイア外道の<8b22>行も可能となる / 　頼む、ヤツらを止めてくれ〜
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#4776] budget=83ch/3ln
+  NOW: the Nuclear Dragon |Grauswein| is
+          now heading toward Filgaia at a
+          top speed of 480.
+  JP : JP#4881[HIGH]: 「現帰、基ドラゴン『グラウスヴァイン』は / 　最大<8a04>度４８０で / 　ファルガイアに向かって周辺中[10][0c]「グラウスヴァイン自身が殺つ<88
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#4777] budget=104ch/3ln
+  NOW: The heat given off by Grauswein has
+          a radar-jamming effect, preventing
+          precise trajectory determination.
+  JP : JP#4882[HIGH]: 「グラウスヴァイン自身が殺つ<8868><886f>が / 　レーダーの観待機能を<8b25>わすジャマーとなり / 　新確な<8b26>道待奮に共<88f6>
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#4778] budget=64ch/2ln
+  NOW: It will take a little longer to
+          extrapolate the point of impact.
+  JP : JP#4883[HIGH]: 「周辺地帯のわりだしには / 　もう少し時間が必要です
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#4779] budget=59ch/3ln
+  NOW: Both are beyond my powers of
+          understanding. I am
+          at a loss.
+  JP : JP#4884[MED]: 「<8b27>りましたね〜 / 　どちらも私たちの / 　理解の<8b08><8b28>を<8ac4>えています
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#4780] budget=86ch/3ln
+  NOW: The ancient records say that
+          Grauswein is simply an empty
+          reactor when first summoned.
+  JP : JP#4885[MED]: 「<8a71><8b2b>によると / 　<8b2c><8b2d><8865>後のグラウスヴァインは / 　カラっぽの反<8839><8b2e>みたいなもんでな
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#4781] budget=63ch/2ln
+  NOW: He must accumulate energy before
+          initiating a nuclear reaction.
+  JP : JP#4886[MED]: 「体参に、エネルギーを<8aee>え / 　そいつを使って基反<8839>を<8b2f>起させるらしい
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4782] budget=58ch/2ln
+  NOW: Grauswein will first seek out
+          sources of energy to absorb.
+  JP : JP#4887[MED]: 「そう、グラウスヴァインは / 　取り込むエネルギーを仲めて行動する[10][0c]「<89c1>に言えば / 　<8867>エネルギー反<8839>をちらつか
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#4783] budget=75ch/3ln
+  NOW: That means he could be lured with
+          a high-energy reaction.
+          In other words...
+  JP : JP#4889[MED]: 「それぞれの<8a13><8b33>を / 　コンビナート状にリンクさせれば / 　アルケミックプラント<8ae8>みの出力も可能だ || JP#4888[MED]: 「<89c1>に言えば / 　<8867>エネルギー反<8839>をちらつかせてやれば / 　つまり〜
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#4784] budget=93ch/3ln
+  NOW: If linked, they would form a huge
+          complex with an energy output
+          equivalent to Alchemic Plant!
+  JP : JP#4890[MED]: 「ギルドグラードマスター〜 / 　ご押力、<8abd>み入ります
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4785] budget=47ch/2ln
+  NOW: Guild Galad Master, I am
+          truly grateful to you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#4786] budget=73ch/3ln
+  NOW: Besides, as a proud Filgaian,
+          I'll be damned if I go out
+          without a fight.
+  JP : JP#4891[MED]: 「それに、わしとて / 　ファルガイアに生きる命のひとつ / 　悪あがきくらいしてみるわい
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#4787] budget=77ch/3ln
+  NOW: We will start linking the city's
+          factories to create our
+          makeshift generator!
+  JP : JP#4892[MED]: 「こっちは<8a13><8b33>をリンクして / 　<8b37><8b38>ジェネレイター<8a34>りに / 　かかるとするかな
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#4788] budget=26ch/1ln
+  NOW: The mission was a success.
+  JP : JP#4893[MED]: 「作戦は、成<8b39>です
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#4789] budget=97ch/3ln
+  NOW: Without Odessa, the international
+          teamwork that stopped the nuclear
+          threat would never have been.
+  JP : JP#4894[HIGH]: 「基の<8b2a>発を<8988>止した、<8aec>片の押調関係は / 　オデッサの<8b24><8abc>がなければ / 　実現しなかっただろうに〜
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#4790] budget=59ch/3ln
+  NOW: Perhaps, in a sense, you are right.
+          It IS ironic,
+          isn't it?
+  JP : JP#4895[HIGH]: 「<f040><f042>たしかに〜 / 　そうかもしれません / 　<8b3d><8b3e>なものですね〜
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#4791] budget=88ch/3ln
+  NOW: If a group of them attacked
+          en masse, we would be done for...
+          even with ARMS to help us.
+  JP : JP#4896[HIGH]: 「この状況辺で / 　あんなのが何安もやってきたら / 　いくらＡＲＭＳでもお手上げだぞ
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#4792] budget=92ch/3ln
+  NOW: The organo-mechanical |Dragons|
+          built in Guild Galad are made from
+          those fossilized Dragons.
+  JP : JP#4897[HIGH]: 「機艇と生命体の帰合存帰、ドラゴン〜 / 　ギルドグラードにて生挑される機艇は / 　ドラゴンの合谷を用いたものだ
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4793] budget=76ch/3ln
+  NOW: there may be other Dragons
+          elsewhere that we could use
+          to protect ourselves.
+  JP : JP#4898[HIGH]: 「もしかしたら / 　他にも我らの力となる / 　ドラゴンが存帰するのではないかと〜
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4794] budget=92ch/3ln
+  NOW: Now, this is just a rumor, and, to
+          be honest, I know not if there is
+          any truth to it, but...
+  JP : JP#4899[HIGH]: 「あくまでも、ウワサなのでな / 　その信毅性がどこまであるか / 　新<8865>わからぬ〜[10][0c]「だが、ギルドグラードには / 　最後のドラゴン<
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4795] budget=77ch/3ln
+  NOW: in Guild Galad, even today the
+          people speak of the legend of the
+          Last Dragon.
+  JP : JP#4900[HIGH]: 「だが、ギルドグラードには / 　最後のドラゴン<88a6>説が / 　今も<88a6>えられておるのだ〜[10][0c]「『ロンバルディア』〜 / 　<8b2
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#4796] budget=98ch/3ln
+  NOW: He is called Lombardia, the Dragon
+          Caliber, legendary winged creature
+          said to once rule the skies.
+  JP : JP#4901[HIGH]: 「『ロンバルディア』〜 / 　<8b23>空を切り気く<88a6>説の汽 / 　ドラゴンキャリバー、ロンバルディア〜
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4797] budget=76ch/3ln
+  NOW: The rate is  Gella per guest
+          per night. For  people,
+          that'll be  Gella, OK?2
+  JP : JP#4902[MED]: 「おひとり方につき一緒[02]ギャラ / 　[02]人方ですので、[02]ギャラとなります / 　よろしいですか？[18]か || JP#4903[MED]: 「それでも、俺たちの前には / 　それを為そうとする者が / 　戻ちはだかってくる<f040><f042>
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4798] budget=104ch/3ln
+  NOW: The heat given off by Grauswein has
+          a radar-jamming effect, preventing
+          precise trajectory determination.
+  JP : JP#4910[MED]: 「グラウスヴァイン自身が殺つ<8868><886f>が / 　レーダーの観待機能を<8b25>わすジャマーとなり / 　新確な<8b26>道待奮に共<88f6> || JP#4906[MED]: 「ですよね？ / 　<8ab5>上〜
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#4799] budget=64ch/2ln
+  NOW: It will take a little longer to
+          extrapolate the point of impact.
+  JP : JP#4911[MED]: 「周辺地帯のわりだしには / 　もう少し時間が必要です
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#4800] budget=59ch/3ln
+  NOW: Both are beyond my powers of
+          understanding. I am
+          at a loss.
+  JP : JP#4912[MED]: 「<8b27>りましたね〜 / 　どちらも私たちの / 　理解の<8b08><8b28>を<8ac4>えています
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#4801] budget=86ch/3ln
+  NOW: The ancient records say that
+          Grauswein is simply an empty
+          reactor when first summoned.
+  JP : JP#4913[MED]: 「<8a71><8b2b>によると / 　<8b2c><8b2d><8865>後のグラウスヴァインは / 　カラっぽの反<8839><8b2e>みたいなもんでな
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#4802] budget=63ch/2ln
+  NOW: He must accumulate energy before
+          initiating a nuclear reaction.
+  JP : JP#4914[MED]: 「体参に、エネルギーを<8aee>え / 　そいつを使って基反<8839>を<8b2f>起させるらしい
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4803] budget=58ch/2ln
+  NOW: Grauswein will first seek out
+          sources of energy to absorb.
+  JP : JP#4915[MED]: 「そう、グラウスヴァインは / 　取り込むエネルギーを仲めて行動する[10][0c]「<89c1>に言えば / 　<8867>エネルギー反<8839>をちらつか
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#4804] budget=75ch/3ln
+  NOW: That means he could be lured with
+          a high-energy reaction.
+          In other words...
+  JP : JP#4917[MED]: 「それぞれの<8a13><8b33>を / 　コンビナート状にリンクさせれば / 　アルケミックプラント<8ae8>みの出力も可能だ || JP#4916[MED]: 「<89c1>に言えば / 　<8867>エネルギー反<8839>をちらつかせてやれば / 　つまり〜
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#4805] budget=93ch/3ln
+  NOW: If linked, they would form a huge
+          complex with an energy output
+          equivalent to Alchemic Plant!
+  JP : JP#4918[MED]: 「ギルドグラードマスター〜 / 　ご押力、<8abd>み入ります
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4806] budget=47ch/2ln
+  NOW: Guild Galad Master, I am
+          truly grateful to you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#4807] budget=73ch/3ln
+  NOW: Besides, as a proud Filgaian,
+          I'll be damned if I go out
+          without a fight.
+  JP : JP#4919[MED]: 「それに、わしとて / 　ファルガイアに生きる命のひとつ / 　悪あがきくらいしてみるわい
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#4808] budget=77ch/3ln
+  NOW: We will start linking the city's
+          factories to create our
+          makeshift generator!
+  JP : JP#4920[MED]: 「こっちは<8a13><8b33>をリンクして / 　<8b37><8b38>ジェネレイター<8a34>りに / 　かかるとするかな
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#4809] budget=26ch/1ln
+  NOW: The mission was a success.
+  JP : JP#4921[MED]: 「作戦は、成<8b39>です
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#4810] budget=97ch/3ln
+  NOW: Without Odessa, the international
+          teamwork that stopped the nuclear
+          threat would never have been.
+  JP : JP#4922[HIGH]: 「基の<8b2a>発を<8988>止した、<8aec>片の押調関係は / 　オデッサの<8b24><8abc>がなければ / 　実現しなかっただろうに〜
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#4811] budget=59ch/3ln
+  NOW: Perhaps, in a sense, you are right.
+          It IS ironic,
+          isn't it?
+  JP : JP#4923[HIGH]: 「<f040><f042>たしかに〜 / 　そうかもしれません / 　<8b3d><8b3e>なものですね〜
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#4812] budget=88ch/3ln
+  NOW: If a group of them attacked
+          en masse, we would be done for...
+          even with ARMS to help us.
+  JP : JP#4924[HIGH]: 「この状況辺で / 　あんなのが何安もやってきたら / 　いくらＡＲＭＳでもお手上げだぞ
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#4813] budget=92ch/3ln
+  NOW: The organo-mechanical |Dragons|
+          built in Guild Galad are made from
+          those fossilized Dragons.
+  JP : JP#4925[HIGH]: 「機艇と生命体の帰合存帰、ドラゴン〜 / 　ギルドグラードにて生挑される機艇は / 　ドラゴンの合谷を用いたものだ
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4814] budget=76ch/3ln
+  NOW: there may be other Dragons
+          elsewhere that we could use
+          to protect ourselves.
+  JP : JP#4926[HIGH]: 「もしかしたら / 　他にも我らの力となる / 　ドラゴンが存帰するのではないかと〜
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4815] budget=92ch/3ln
+  NOW: Now, this is just a rumor, and, to
+          be honest, I know not if there is
+          any truth to it, but...
+  JP : JP#4927[HIGH]: 「あくまでも、ウワサなのでな / 　その信毅性がどこまであるか / 　新<8865>わからぬ〜[10][0c]「だが、ギルドグラードには / 　最後のドラゴン<
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4816] budget=77ch/3ln
+  NOW: in Guild Galad, even today the
+          people speak of the legend of the
+          Last Dragon.
+  JP : JP#4928[HIGH]: 「だが、ギルドグラードには / 　最後のドラゴン<88a6>説が / 　今も<88a6>えられておるのだ〜[10][0c]「『ロンバルディア』〜 / 　<8b2
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#4817] budget=98ch/3ln
+  NOW: He is called Lombardia, the Dragon
+          Caliber, legendary winged creature
+          said to once rule the skies.
+  JP : JP#4929[HIGH]: 「『ロンバルディア』〜 / 　<8b23>空を切り気く<88a6>説の汽 / 　ドラゴンキャリバー、ロンバルディア〜
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4818] budget=76ch/3ln
+  NOW: The rate is  Gella per guest
+          per night. For  people,
+          that'll be  Gella, OK?2
+  JP : JP#4930[MED]: 「おひとり方につき一緒[02]ギャラ / 　[02]人方ですので、[02]ギャラとなります / 　よろしいですか？[18]か || JP#4931[MED]: 「それでも、俺たちの前には / 　それを為そうとする者が / 　戻ちはだかってくる<f040><f042>
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4819] budget=104ch/3ln
+  NOW: The heat given off by Grauswein has
+          a radar-jamming effect, preventing
+          precise trajectory determination.
+  JP : JP#4938[MED]: 「グラウスヴァイン自身が殺つ<8868><886f>が / 　レーダーの観待機能を<8b25>わすジャマーとなり / 　新確な<8b26>道待奮に共<88f6> || JP#4935[MED]: 「テレポートオーブの / 　<8b20>移贄果に対<8839>した / 　アポーツ機能を<887c><887d>だ[10][0c]「これで / 　ファルガイア外
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#4820] budget=64ch/2ln
+  NOW: It will take a little longer to
+          extrapolate the point of impact.
+  JP : JP#4939[MED]: 「周辺地帯のわりだしには / 　もう少し時間が必要です
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#4821] budget=59ch/3ln
+  NOW: Both are beyond my powers of
+          understanding. I am
+          at a loss.
+  JP : JP#4940[MED]: 「<8b27>りましたね〜 / 　どちらも私たちの / 　理解の<8b08><8b28>を<8ac4>えています
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#4822] budget=86ch/3ln
+  NOW: The ancient records say that
+          Grauswein is simply an empty
+          reactor when first summoned.
+  JP : JP#4941[MED]: 「<8a71><8b2b>によると / 　<8b2c><8b2d><8865>後のグラウスヴァインは / 　カラっぽの反<8839><8b2e>みたいなもんでな
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#4823] budget=63ch/2ln
+  NOW: He must accumulate energy before
+          initiating a nuclear reaction.
+  JP : JP#4942[MED]: 「体参に、エネルギーを<8aee>え / 　そいつを使って基反<8839>を<8b2f>起させるらしい
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4824] budget=58ch/2ln
+  NOW: Grauswein will first seek out
+          sources of energy to absorb.
+  JP : JP#4943[MED]: 「そう、グラウスヴァインは / 　取り込むエネルギーを仲めて行動する[10][0c]「<89c1>に言えば / 　<8867>エネルギー反<8839>をちらつか
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#4825] budget=75ch/3ln
+  NOW: That means he could be lured with
+          a high-energy reaction.
+          In other words...
+  JP : JP#4945[MED]: 「それぞれの<8a13><8b33>を / 　コンビナート状にリンクさせれば / 　アルケミックプラント<8ae8>みの出力も可能だ || JP#4944[MED]: 「<89c1>に言えば / 　<8867>エネルギー反<8839>をちらつかせてやれば / 　つまり〜
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#4826] budget=93ch/3ln
+  NOW: If linked, they would form a huge
+          complex with an energy output
+          equivalent to Alchemic Plant!
+  JP : JP#4946[MED]: 「ギルドグラードマスター〜 / 　ご押力、<8abd>み入ります
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4827] budget=47ch/2ln
+  NOW: Guild Galad Master, I am
+          truly grateful to you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#4828] budget=73ch/3ln
+  NOW: Besides, as a proud Filgaian,
+          I'll be damned if I go out
+          without a fight.
+  JP : JP#4947[MED]: 「それに、わしとて / 　ファルガイアに生きる命のひとつ / 　悪あがきくらいしてみるわい
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#4829] budget=77ch/3ln
+  NOW: We will start linking the city's
+          factories to create our
+          makeshift generator!
+  JP : JP#4948[MED]: 「こっちは<8a13><8b33>をリンクして / 　<8b37><8b38>ジェネレイター<8a34>りに / 　かかるとするかな
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#4830] budget=26ch/1ln
+  NOW: The mission was a success.
+  JP : JP#4949[MED]: 「作戦は、成<8b39>です
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#4831] budget=97ch/3ln
+  NOW: Without Odessa, the international
+          teamwork that stopped the nuclear
+          threat would never have been.
+  JP : JP#4950[HIGH]: 「基の<8b2a>発を<8988>止した、<8aec>片の押調関係は / 　オデッサの<8b24><8abc>がなければ / 　実現しなかっただろうに〜
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#4832] budget=59ch/3ln
+  NOW: Perhaps, in a sense, you are right.
+          It IS ironic,
+          isn't it?
+  JP : JP#4951[HIGH]: 「<f040><f042>たしかに〜 / 　そうかもしれません / 　<8b3d><8b3e>なものですね〜
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#4833] budget=88ch/3ln
+  NOW: If a group of them attacked
+          en masse, we would be done for...
+          even with ARMS to help us.
+  JP : JP#4952[HIGH]: 「この状況辺で / 　あんなのが何安もやってきたら / 　いくらＡＲＭＳでもお手上げだぞ
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#4834] budget=92ch/3ln
+  NOW: The organo-mechanical |Dragons|
+          built in Guild Galad are made from
+          those fossilized Dragons.
+  JP : JP#4953[HIGH]: 「機艇と生命体の帰合存帰、ドラゴン〜 / 　ギルドグラードにて生挑される機艇は / 　ドラゴンの合谷を用いたものだ
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4835] budget=76ch/3ln
+  NOW: there may be other Dragons
+          elsewhere that we could use
+          to protect ourselves.
+  JP : JP#4954[HIGH]: 「もしかしたら / 　他にも我らの力となる / 　ドラゴンが存帰するのではないかと〜
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4836] budget=92ch/3ln
+  NOW: Now, this is just a rumor, and, to
+          be honest, I know not if there is
+          any truth to it, but...
+  JP : JP#4955[HIGH]: 「あくまでも、ウワサなのでな / 　その信毅性がどこまであるか / 　新<8865>わからぬ〜[10][0c]「だが、ギルドグラードには / 　最後のドラゴン<
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4837] budget=77ch/3ln
+  NOW: in Guild Galad, even today the
+          people speak of the legend of the
+          Last Dragon.
+  JP : JP#4956[HIGH]: 「だが、ギルドグラードには / 　最後のドラゴン<88a6>説が / 　今も<88a6>えられておるのだ〜[10][0c]「『ロンバルディア』〜 / 　<8b2
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#4838] budget=98ch/3ln
+  NOW: He is called Lombardia, the Dragon
+          Caliber, legendary winged creature
+          said to once rule the skies.
+  JP : JP#4957[HIGH]: 「『ロンバルディア』〜 / 　<8b23>空を切り気く<88a6>説の汽 / 　ドラゴンキャリバー、ロンバルディア〜
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4839] budget=76ch/3ln
+  NOW: The rate is  Gella per guest
+          per night. For  people,
+          that'll be  Gella, OK?2
+  JP : JP#4958[MED]: 「おひとり方につき一緒[02]ギャラ / 　[02]人方ですので、[02]ギャラとなります / 　よろしいですか？[18]か
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4840] budget=104ch/3ln
+  NOW: The heat given off by Grauswein has
+          a radar-jamming effect, preventing
+          precise trajectory determination.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#4841] budget=64ch/2ln
+  NOW: It will take a little longer to
+          extrapolate the point of impact.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#4842] budget=59ch/3ln
+  NOW: Both are beyond my powers of
+          understanding. I am
+          at a loss.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#4843] budget=86ch/3ln
+  NOW: The ancient records say that
+          Grauswein is simply an empty
+          reactor when first summoned.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#4844] budget=63ch/2ln
+  NOW: He must accumulate energy before
+          initiating a nuclear reaction.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4845] budget=58ch/2ln
+  NOW: Grauswein will first seek out
+          sources of energy to absorb.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#4846] budget=75ch/3ln
+  NOW: That means he could be lured with
+          a high-energy reaction.
+          In other words...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#4847] budget=93ch/3ln
+  NOW: If linked, they would form a huge
+          complex with an energy output
+          equivalent to Alchemic Plant!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4848] budget=47ch/2ln
+  NOW: Guild Galad Master, I am
+          truly grateful to you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#4849] budget=73ch/3ln
+  NOW: Besides, as a proud Filgaian,
+          I'll be damned if I go out
+          without a fight.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#4850] budget=77ch/3ln
+  NOW: We will start linking the city's
+          factories to create our
+          makeshift generator!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#4851] budget=26ch/1ln
+  NOW: The mission was a success.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#4852] budget=97ch/3ln
+  NOW: Without Odessa, the international
+          teamwork that stopped the nuclear
+          threat would never have been.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#4853] budget=59ch/3ln
+  NOW: Perhaps, in a sense, you are right.
+          It IS ironic,
+          isn't it?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#4854] budget=88ch/3ln
+  NOW: If a group of them attacked
+          en masse, we would be done for...
+          even with ARMS to help us.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#4855] budget=92ch/3ln
+  NOW: The organo-mechanical |Dragons|
+          built in Guild Galad are made from
+          those fossilized Dragons.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4856] budget=76ch/3ln
+  NOW: there may be other Dragons
+          elsewhere that we could use
+          to protect ourselves.
+  JP : JP#4959[MED]: 「それでも、俺たちの前には / 　それを為そうとする者が / 　戻ちはだかってくる<f040><f042>
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#4857] budget=92ch/3ln
+  NOW: Now, this is just a rumor, and, to
+          be honest, I know not if there is
+          any truth to it, but...
+  JP : JP#4965[MED]: 「現帰、基ドラゴン『グラウスヴァイン』は / 　最大<8a04>度４８０で / 　ファルガイアに向かって周辺中[10][0c]「グラウスヴァイン自身が殺つ<88 || JP#4960[MED]: 「でも、今、この<8b1e>間 / 　オデッサは誰かを<8930>しめているんだよ[10][0c]「やっつけなくちゃ / 　いけないんだよ〜
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4858] budget=77ch/3ln
+  NOW: in Guild Galad, even today the
+          people speak of the legend of the
+          Last Dragon.
+  JP : JP#4966[MED]: 「グラウスヴァイン自身が殺つ<8868><886f>が / 　レーダーの観待機能を<8b25>わすジャマーとなり / 　新確な<8b26>道待奮に共<88f6>
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#4859] budget=98ch/3ln
+  NOW: He is called Lombardia, the Dragon
+          Caliber, legendary winged creature
+          said to once rule the skies.
+  JP : JP#4967[MED]: 「周辺地帯のわりだしには / 　もう少し時間が必要です
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4860] budget=76ch/3ln
+  NOW: The rate is  Gella per guest
+          per night. For  people,
+          that'll be  Gella, OK?2
+  JP : JP#4968[MED]: 「<8b27>りましたね〜 / 　どちらも私たちの / 　理解の<8b08><8b28>を<8ac4>えています || JP#4969[MED]: 「<8a71><8b2b>によると / 　<8b2c><8b2d><8865>後のグラウスヴァインは / 　カラっぽの反<8839><8b2e>みたいなもんでな
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>

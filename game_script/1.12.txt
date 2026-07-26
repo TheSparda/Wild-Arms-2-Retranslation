@@ -1,0 +1,146 @@
+# [1.12] Data Tablets and Sielje Region  (disc 1)
+# dialogue boxes: 119   speakers: 13
+# ============================================================
+  [In Meria Boule Castle's audience room...]
+King of Meria Boule: Hee, hee! Did you see how flustered that old codger from Guild Galad was? Hee, hee!
+Irving: I am sure he appreciates the threat posed by Odessa now. He learned his lesson.
+King of Meria Boule: Yes, indeed. The attack by Odessa was frightening, but in the end it may have been for the better.
+Ashley: May I ask what that means?
+Irving: All present saw firsthand just how formidable the enemy is. ... After all, it takes a direct threat for people to get off their fat butts to act.
+King of Meria Boule: We have not had good relations with Guild Galad. I worried that they would be the biggest stumbling block at the summit. But the attack lit a fire under their butts. We made more progress than I had expected.
+Irving: They are still unwilling to cooperate completely.
+King of Meria Boule: But they did provide us with their "Hovercraft". Even if the summit gained only that, we should be satisfied. You are too hasty. And haste not only makes waste, it can take years off your life.
+Irving: Yes, Sire.
+King of Meria Boule: Very well. Now, then. How will ARMS act next?
+Irving: Varukisas was destroyed, but Odessa is not defeated yet. Let's track them down. With the Hovercraft, we can search the entire Inland Sea area.
+King of Meria Boule: Ah, so we shall put the Hovercraft to immediate use.
+Irving: We'll look for the data tablets from the Varukisas. A Gull Wing-class ship like that should have 3 data tablets onboard. Once recovered, the tablets will provide us with vital informations about Odessa.
+King of Meria Boule: The Hovercraft is docked on the west coast. I'm counting on you, ARMS. <Call Menu>
+Amy: >The Inland Sea is strange. The tide there flows to the coast. That means the 3 data tablets that fell into the sea may be near the shore. ------------------------------------------------------------------------------- [TUTORIAL]: *Guild Galad has helped link the Map Scope to the Hovercraft's onboard terminal. High-altitude satellite images can now be displayed on the Map Scope. Now you can see all of Filgaia on the monitor, instead of just the surrounding area. To move the Hovercraft forward, press the up directional button or the (X) button. To rotate, press the left or right directional buttons or the [L1][R1] buttons. Ashley's party can board and disembark only at the shore. To disembark from the Hovercraft, touch the shore and press the (O) button. To board the Hovercraft, touch it and press the (X) button.
+  [ARMS finds and gets all of the 3 data tablets.]
+Ashley: All of them now recovered! Contact Irving for our next instructions!
+  [Ashley contacts Irving.]
+Ashley: This is Ashley. All data tablets recovered. Requesting further orders.
+Irving: >Good job. Now return to Meria Boule Castle immediately. <Call Menu>
+Kate: >Once you get the data tablets, head to Meria Boule Castle. The Chief and the King of Meria Boule should be waiting. -------------------------------------------------------------------------------
+  [ARMS returns to Meria Boule Castle.]
+King of Meria Boule: We now have all 3 data tablets. How can we get the information from them? The tablets' protective encryption is very difficult to break.
+Irving: I want to take them to the Sielje Region for analysis.
+Lilka: (Gulp!)
+Irving: Sielje technology will be able to open the tablets. ... The problem is getting to Sielje. We can't take Valeria Chateau because there are no landing pads.
+Lilka: (... Hmm....) Yes... And there are no overland or sea routes to Sielje.
+Irving: Wait... Lilka, aren't you from Sielje originally?
+Lilka: Yeah. I came here using a Teleport Gem. Didn't quite work, though. Can't we analyze the tablets some other way, without going to Sielje?
+King of Meria Boule: Wait a moment... Somewhere near Damzen City is a tunnel for transporting coal to Sielje, isn't there? Go to Damzen City and ask the miners there. They speak brusquely, but deep down they are warmhearted. I'm sure they will help you.
+Irving: Well, let us go look for the tunnel, shall we?
+Lilka: (Yikes!)
+Irving: I give you a new mission! ARMS! Make haste to Damzen City, and from there, to the Sielje Region! Get any information on Odessa you can from the tablets! I'm counting on you! -------------------------------------------------------------------------------
+  [In Damzen City, ARMS finds information to find a path to Sielje Region.]
+Man in Gunner's Heaven Pub: To get to the Sielje Region from here, Mt. Chug-Chug's underground tunnel is the best bet. The King of Meria Boule really said that? He really did? ............ Mt. Chug-Chug is dead now, so we all thought that the King had abandoned us. So he still remembers us... I'm glad we can be of use again... especially like this. We Damzen city miners will do anything to help you. We'll fight together! First we'll have to free the tunnel. Bring this! It's proof from the King of Meria Boule that I'm the top-man at Mt. Chug-Chug!
+  [The man hands the Boss Symbol to the party.]
+Irving: The Sielje Region is southwest of the tunnel out of Mt. Chug-Chug. You go southwest but it's on the north side of the ridge. South of the ridge is the Gate Bridge. -------------------------------------------------------------------------------
+
+~~ Sielje Region ~~
+Ashley: So this is Lilka's home town...
+Tim: A town that's inside the force field... How amazing.
+Lilka: Yeah. Come on, we have to hurry up and get those tablets analyzed. There's no time to lose.
+Tim: What's wrong? You seem nervous.
+Ashley: Why don't you leave the tablets to us and go say hello to everyone?
+Lilka: No, that's OK. Thanks, anyway.
+  [A boy comes towards Lilka.]
+Magic School's start pupil: I thought you looked familiar. It's you, Lilka! I challenged you to a contest but you stood me up, you runaway!
+Tim: What? I didn't know that, Lilka.
+Ashley: So, you ran away from home, eh?
+Brad: How shocking. What will people say? Hee hee...
+Lilka: You've hot it all wrong! I didn't run away from home! I'm just... wandering the earth... to perfect my fighting skills.
+Magic School's star pupil: If you leave home without permission then it's running away!
+Lilka: Well, yeah, but...
+Ashley: Alright, that's enough. Don't get into an argument here. Let's see...
+Magic School's star pupil: Excuse me, but I haven't introduced myself yet.
+  [The boy says his name is Terry.]
+Terry: Lilka and I were in the same class. We're... friends.
+Lilka: Friends? Me, friends with a creep like you? In your dreams! You're just a big jerk!
+Terry: How dare you...
+Lilka: You were always so stuck up just because you got good grades. And you were always trying to hit on me! Then, when I finally get a better test score than you, you challenge me to a spell showdown. Like I said, you're a big jerk!
+Ashley: Come on, knock it off! We didn't come here to argue with people!
+Brad: We came here to undo the spell that's protecting the data tablets! We need to see your top scientist.
+Terry: I'm sorry about what happened. I recommend that you go to Mr. McGregor's classroom. I'll go ahead and explain the situation. I will see you at the classroom later on. My challenge stands, so don't try to run away, Lilka.
+Ashley: See? He's not really a bad person. A little arrogant, but still...
+Lilka: Hmph...
+  [The party heads for the classroom.]
+Terry: Oh, thank you so much for watching after Lilka. I'm sure she's a lot of trouble, but her sister is the "Eleniak Witch-Girl", so please be patient. L@Terry: I can't believe they let YOU in the special unit. You probably got in because you lied and said you were the "Eleniak Witch-Girl", right?
+McGregor: Terry has already briefed me on your situation. Let's get started immediately.
+  [The communicator beeps.]
+McGregor: An Emphatite-based communicator? We must connect it to a Projector. I'll get one now.
+  [McGregor does as he had said. The image of Irving appears on the Projector.]
+McGregor: I will now explain what I did. I shall endeavor to be brief. All 3 data tablets were shielded by an amazingly strong Protect Spell. It impressed even me. But this presented a challenge to me as a scientist. For I...
+Terry: Um, you said you'd be brief.
+McGregor: Oh, yes, You're quite right. Now, as I was saying... The data tablets contained information about the location of Odessa's hideout. But they are damaged, and a full analysis will take a little longer. Yes, I'd say about... one more day should do it.
+Irving: >And as for Odessa's hideout...
+McGregor: It would appear to be located at a massive energy plant. Data in the tablets suggest some sort of high-quality energy refinement operation. But why would they choose a place where they risk of being blown to bits in the event of an accident?
+Ashley: I believe there is something at the plant that makes it worth the risk.
+Irving: >To come to the point, Odessa requires massive amounts of energy. Hmm... This is our chance to finally get the drop on those terrorist pigs. We'll launch a surprise attack and put that plant out of business!
+Ashley: A very bold plan, Irving.
+Brad: I see. A surprise attack... We'd finally be able to put THEM on the defensive.
+Irving: >But we have to pinpoint the plant's coordinates first.
+McGregor: Yes, well, as I was saying, I will need one more day. I can't get any additional information out of the tablets without more time.
+Irving: >OK. Mr. McGregor. We're counting on you. I suggest you get some rest before tomorrow. You've got a long day ahead of you. OK everyone. Get to your quarters.
+  [The projection disappears.  Ashley, Brad, and Tim leave the room.]
+Lilka: (Shutting down the energy plant must mean blowing it up. If so, I've got just the thing for that.)
+Terry: Lilka!
+Lilka: What do you want?
+Terry: This is just too dangerous for you. I think you should drop out. Your magic isn't advanced enough. You could get hurt... or worse. I... don't want to see that happen.
+Lilka: You don't have to worry about me. I've done alright so far. I know my grades aren't that hot, but I do well under pressure. The only time I ever got a better test score than you was in an actual spell-casting test, right?
+Terry: But there's a chance you might not make it back. I... Besides, you wouldn't be able to take up my challenge. Lilka, you have to accept that you're not as good as your sister!
+Lilka: Oh, I hate you!
+  [Lilka walks away.]
+  [Inside an inn, Ashley is standing in front of the counter.  Lilka comes.]
+Lilka: Ashley... Hey, Ashley!
+Ashley: What do you want at this time of night?
+Lilka: I need you to go somewhere with me. It won't take long.
+Ashley: Hey, what gives?
+  [Lilka grabs Ashley's hand and takes him.]
+  [They head to a museum.]
+Ashley: This place is really something, eh? It really takes your breath away.
+Lilka: I just love this place. This is so exciting... A midnight trip to the museum of wonders! Coming here at this time of night reminds me of someone very important to me.
+Lilka: My sister and I sued to sneak in here all the time. We were always together, my sister and I. I loved her so much.
+Ashley: What do you mean, "loved"?
+Lilka: All of Sielje was sure she had a bright future ahead of her. But there was an accident... during a magical artifact experiment... She... she...
+Ashley: Oh. I'm sorry. I didn't know.
+Lilka: When they told me she wouldn't pull through, I was shattered. I never wanted to go through that pain again. So I decided never to care for anyone again. Ashley... You won't leave me, will you?
+Ashley: Huh?
+Lilka: Ashley, I really care for you, so don't ever leave me, OK? Of course I won't. None of us will. Not me, or Brad or Tim. Or even Irving. You'd better promise not to, otherwise I'll never be able to care for anyone again.
+Ashley: I promise. After all, you are all important to me, too.
+Lilka: Hocus Pocus Fizzipocus!
+Ashley: Huh?
+Lilka: It's a charm to give you good luck and to keep a smile on your face. My big sister taught it to me. I want to be like my sister. I want to create my own charm to make people smile.
+Ashley: You can do it. I know you can!
+Lilka: Thanks for believing in me! Well, then, let's get busy!
+Ashley: Where are we going?
+Lilka: To destroy that energy plant! I have the perfect item for the job! Hmm. Let me see that for a minute.
+  [They go downstairs.  Lilka searches for something from the display.]
+Lilka: I remember a Spell Bomb that sends a bomb blast between dimensions. Hey... That's strange.
+Ashley: Lilka... The plan was to blow up the plant, right?
+Lilka: Yeah. Why? Did you guys have a different plan?
+  [The alarm sounds.]
+Ashley: Lilka!
+Lilka: Hey, I didn't do anything! I can't find them anywhere!
+Ashley: Well then where... The data tablets! [Ashley and Lilka heads to McGregor's classroom. Tim and Brad are already there.]
+McGregor: Someone stole all three data tablets. I'm so sorry.
+  [Irving appears on the projector.]
+Ashley: Irving!
+Irving: >I was briefed on what happened. Only you-know-who could have pulled off something like this. I need you help. The data tablets' ID pattern was detected moving southwest out of Sielje. I want you to begin pursuit immediately.
+McGregor: To the southwest, you say? Ah ha! They're trying to go through Gate Bridge! This key will get you across Gate Bridge. Take it with you.
+  [The party acquires the Bridge Key.]
+Ashley: (How did they know we were trying to analyze the tablets, anyway? Wait a sec... How did they even find out we were in Sielje? Could someone be feeding them information? No! It couldn't be!)
+McGregor: I'm sorry. I looked away for a moment. Oh, how unfortunate! I was in the middle of analysis! How will I satisfy my curiosity now? Still, this, too, presents a challenge to me, for being a scientist, I... [remainder omitted]
+  [They are about to leave Sielje, but Terry gets their attention.]
+Terry: Lilka, wait! Are you going, too?
+Lilka: Yeah. But don't worry about me.
+Terry: W-Worry? I wasn't worried. I just...
+Lilka: That, uh, bomb thing you have...
+Terry: Eat My Dust. A Spell Bomb that sends a bomb blast between dimensions. Don't you remember that from class?
+Lilka: I wasn't asking you what it was! I was trying to say that if you get caught with that thing, you'll get MAJOR hell!
+Terry: And don't think I've forgotten about the challenge! You'd better not get killed out there, 'cause when you get back, we're going head to head! And let me tell you...
+Lilka: I will NOT lose. I don't have time for this now! Catch ya later!
+  [The party acquires 'Eat my Dust'.]

@@ -1,0 +1,561 @@
+# WA2 INSERTION workspace US block 21 (US#4861-4952)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#4862] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4976[MED]: ＊進みますか？[18]か || JP#4971[MED]: 「そう、グラウスヴァインは / 　取り込むエネルギーを仲めて行動する[10][0c]「<89c1>に言えば / 　<8867>エネルギー反<8839>をちらつか
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4863] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#4977[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4864] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#4978[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#4865] budget=64ch/2ln
+  NOW: *Its power makes the Earth rumble
+          and crushes all who oppose it.
+  JP : JP#4979[MED]: ＊大地を歩るがす彼の力 / 　戻ち向かう険てを<8a40>兄せしものなり
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#4866] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4981[MED]: ＊来の<89e0>は、我々の<8a52>を<8a53>き / 　勉体を<8a53>き<8a55>くそうとする / 　これは貸の世界に生きる者の<8a57>命[1 || JP#4980[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4867] budget=97ch/3ln
+  NOW: *The sun's rays can burn our skin
+          and consume our very flesh. Such is
+          the fate of night-dwellers.
+  JP : JP#4982[MED]: ＊来の<89e0>さえ<89b2>ることができれば / 　我々は望の世界すらも / 　手に入れることは可能なのだッ！
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#4868] budget=105ch/3ln
+  NOW: *If only we could protect ourselves
+          from the sun's rays. Then we could
+          rule the day as well as the night!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=105 chars, 3 line(s), <=35/line>>
+
+[US#4869] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4983[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4870] budget=83ch/3ln
+  NOW: *Humans have spread over the
+          world as if it is theirs, but they
+          are inferior to us.
+  JP : JP#4984[HIGH]: ＊地上に<8a5c>れ、我が物探の人間も / 　我々においては / 　辺<8872>茶飛でしかない[10][0c]＊生態復の<88c4>帯 / 　それは、いわず
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#4871] budget=78ch/3ln
+  NOW: *As the supreme species, it is only
+          a matter of time before we rule the
+          world.
+  JP : JP#4985[HIGH]: ＊生態復の<88c4>帯 / 　それは、いわずもがな / 　世界を負配する茶飛であるということだ
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#4872] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4986[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4873] budget=69ch/3ln
+  NOW: *With magic, we have endowed
+          their inorganic bodies
+          with pseudo life.
+  JP : JP#4987[HIGH]: ＊<8a61>の加わぬ、無機<886e>の身体に / 　我らの延乗によって / 　<8972><8973>的生命を<8a57>す[10][0c]＊<8a64>一
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#4874] budget=53ch/2ln
+  NOW: *They have been our constant
+          companions through time.
+  JP : JP#4988[HIGH]: ＊<8a64>一無<8a65> / 　我らが時と、男にする者なり
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#4875] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4989[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4876] budget=89ch/3ln
+  NOW: *An offering of blood brings
+          silence and darkness. We return
+          to the vessels of our souls.
+  JP : JP#4990[HIGH]: ＊<8a6b>ばくかの『<8a61>』を<8842>え / 　勇かなる時と暗期… / 　我らは<8a6d>の友へと還る[10][0c]＊<8a10>き過戦から生
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#4877] budget=96ch/3ln
+  NOW: *We come from the distant past and
+          will live into the distant future.
+          We are of time immemorial.
+  JP : JP#4991[HIGH]: ＊<8a10>き過戦から生き / 　助かなる未<8a6a>へと生きる / 　恥<89aa>の時と男にあり
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#4878] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4992[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4879] budget=54ch/2ln
+  NOW: *But come it has, for our brethren
+          have been killed...
+  JP : JP#4993[HIGH]: ＊しかし、間違いなく同姿たちは / 　彼のものに『<8a71>』された[10][0c]＊<8a6d>を<8a72>らい、基ち兄く者 / 　<8a74>の魔<8a
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#4880] budget=59ch/2ln
+  NOW: *Killed by the Devourer of Souls,
+          killed by... Lord Blazer.
+  JP : JP#4994[HIGH]: ＊<8a6d>を<8a72>らい、基ち兄く者 / 　<8a74>の魔<8a75>・ロードブレイザー…
+  FIT: <<TODO — <=59 chars, 2 line(s), <=35/line>>
+
+[US#4881] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4995[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4882] budget=95ch/3ln
+  NOW: *We, the Crimson Nobles, are that
+          species, for nowhere is there
+          another species that rivals us.
+  JP : JP#4996[HIGH]: ＊我らがノーブルレッド / 　協相<8921>り得る者 / 　この地上に存帰するわけもない[10][0c]＊地に<8a5c>れし『人』 / 　彼の者、協相なしと
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#4883] budget=94ch/3ln
+  NOW: *Pathetic humans! You may cover
+          the planet, but you are not its
+          ruler! Know we are your enemy!
+  JP : JP#4997[HIGH]: ＊地に<8a5c>れし『人』 / 　彼の者、協相なしと勝るなかれ / 　我らが彼の者の協相と知れ
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#4884] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4998[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4885] budget=79ch/3ln
+  NOW: *The many demons summoned by this
+          evil tool then attack the person
+          who uses it.
+  JP : JP#4999[HIGH]: ＊年多の魔物たちを呼び / 　使いし者を<8a0a>わせる / 　『魔』のグッズである[10][0c]＊しかし、このグッズのみで / 　英を現す者もあり[10]
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#4886] budget=70ch/2ln
+  NOW: *There is one who will show himself
+          only when summoned with this tool.
+  JP : JP#5000[HIGH]: ＊しかし、このグッズのみで / 　英を現す者もあり[10][0c]＊その者、<8876>雄なき力にて / 　険ての者を基ち兄く
+  FIT: <<TODO — <=70 chars, 2 line(s), <=35/line>>
+
+[US#4887] budget=53ch/2ln
+  NOW: *He is of unrivaled strength, and
+          can destroy anyone.
+  JP : JP#5001[HIGH]: ＊その者、<8876>雄なき力にて / 　険ての者を基ち兄く
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#4888] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5002[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4889] budget=38ch/2ln
+  NOW: *Such sacrilege is deserving of
+          death!
+  JP : JP#5003[HIGH]: ＊その<8a7f>り、間かな行為は / 　<8979>死に<8875>するッ！[10][0c]＊いま一度 / 　我らの威を<893a>し / 　幸<8a80>を
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#4890] budget=87ch/3ln
+  NOW: *We must deal the humans a
+          crushing blow to punish them
+          and demonstration our strength.
+  JP : JP#5004[HIGH]: ＊いま一度 / 　我らの威を<893a>し / 　幸<8a80>を辺す必要があるのか
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#4891] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5005[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4892] budget=96ch/3ln
+  NOW: *Lacking both sharp claws and
+          fangs, humans are the weakest of
+          creatures in their natural state.
+  JP : JP#5006[HIGH]: ＊ひ<89b9>な人間は / 　獣のように<8a83>い<8a84>も<8a85>も持たない / 　生身であればこれほど<89b9>い生き物はない[10][0c
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#4893] budget=58ch/2ln
+  NOW: *Yet, indomitable in spirit, they
+          master flight and magic.
+  JP : JP#5007[HIGH]: ＊しかし、獣たちにはない<88ea><8a75>力を持ち / 　あまつさえ魔法さえ使いこなす[10][0c]＊なにより我らを<8845>かせしは＜<8a86>の
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#4894] budget=90ch/3ln
+  NOW: *The most amazing of them all is
+          <Sword Magess>, who wields the
+          Guardian Blade, Argetlahm.
+  JP : JP#5008[HIGH]: ＊なにより我らを<8845>かせしは＜<8a86>の<8a87>昔＞ / 　彼のガーディアンブレード / 　アガートラームを<8a88>るいし者[10][0c]
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#4895] budget=99ch/3ln
+  NOW: *This one has fought the demon who
+          ate our brethren. She compels a
+          reassessment of human potential.
+  JP : JP#5009[HIGH]: ＊我らが同姿を<8a72>らうた / 　<8a74>の魔<8a75>とさえ安<894b>に戦う彼の英 / 　我らの認暮を<8a8b>めさせるに<89ce>分すぎ
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#4896] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5010[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4897] budget=83ch/3ln
+  NOW: *They ignore the knowledge we have
+          bequeathed them, and instead
+          pursue errant ways.
+  JP : JP#5011[HIGH]: ＊我らの<8a8c>けた<8a6b>ばくかの知暮を / 　<88b0><8a8d>させるはいいが / 　<892b>むべき道を<8a8e>る[10][0c]＊な
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#4898] budget=104ch/3ln
+  NOW: *They murder each other. They think
+          only of destruction. Why? Why do
+          they not realize their foolishness?
+  JP : JP#5012[HIGH]: ＊なぜ、同姿同胞で活い<8a71>し合う / 　なぜ、破滅することしか考えぬ / 　なぜ、自らの間かさに気づかぬ[10][0c]＊所集は辺<8a91>な生き物か
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#4899] budget=98ch/3ln
+  NOW: *Are they inferior creatures after
+          all? Humans! Cease your destructive
+          ways before it is too late!
+  JP : JP#5013[HIGH]: ＊所集は辺<8a91>な生き物か / 　自ら<892b>むは滅びの道をゆく者よ / 　過ちに気づかぬ訪らに、先はない
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#4900] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5014[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4901] budget=78ch/3ln
+  NOW: *They are perhaps beyond the
+          strength and abilities even of
+          us Crimson Nobles.
+  JP : JP#5015[HIGH]: ＊我らがノーブルレッドでさえ / 　その<89b7><8a93>に<8a94>達することは / 　<8a95>わぬかもしれぬ存帰[10][0c]＊勉体を失い、意
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#4902] budget=100ch/3ln
+  NOW: *They abandoned physical form to
+          become pure consciousness. Their
+          powers should have lasted forever.
+  JP : JP#5016[HIGH]: ＊勉体を失い、意暮の生命体となりても / 　その大いなる力に<8a96>りが<8a6a>ることなど / 　あり得ないはずであった[10][0c]＊だが、<8a6
+  FIT: <<TODO — <=100 chars, 3 line(s), <=35/line>>
+
+[US#4903] budget=95ch/3ln
+  NOW: *Yet at some point, the Guardians
+          grew weak, and they ceased to
+          interfere in events on Filgaia.
+  JP : JP#5017[HIGH]: ＊だが、<8a6b>時からか / 　ガーディアンはその力を<89b9>め / 　ファルガイアに珍<8a98>することを止めた[10][0c]＊意暮体となったガー
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#4904] budget=102ch/3ln
+  NOW: *The power of the Guardians was the
+          source of the consciousness and
+          vigor of all who lived on Filgaia.
+  JP : JP#5018[HIGH]: ＊意暮体となったガーディアンの力は / 　ファルガイアに<89e2>づく者たちの / 　意暮と頼力が<8869>である[10][0c]＊その力が少しずつ<8a9
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#4905] budget=93ch/3ln
+  NOW: *Perhaps it was the humans'
+          negative emotions that eroded and
+          weakened the Guardians' powers.
+  JP : JP#5019[HIGH]: ＊その力が少しずつ<8a99>たれていったのだ / 　人間の<8a9a>の信情がガーディアンを<8a9b>食し / 　その力を<89b9>めたきっかけとなったの
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#4906] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5020[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4907] budget=96ch/3ln
+  NOW: *Their hate, anger, envy, and
+          impiety eroded the Guardians' power
+          and drive human to kill human.
+  JP : JP#5021[HIGH]: ＊<8a9c>しみ、<8a9d>り、<8a9e>み、不<8a9f>… / 　<8a9a>の信情はガーディアンの力を<8aa0>ぎ / 　同姿たちの命を<8aa1
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#4908] budget=92ch/3ln
+  NOW: *In their mad rush down the path
+          to destruction, they reveal their
+          foolish, inferior nature.
+  JP : JP#5022[HIGH]: ＊破滅への道をひた<8aa2>る / 　その英は<8aa3><8aa4>であり / 　間かなる辺<8a91>生物の英でもある
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4909] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5023[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4910] budget=83ch/3ln
+  NOW: *of Desire. Lucied stayed by the
+          side of <Sword Magess>, giving
+          her great strength.
+  JP : JP#5024[HIGH]: ＊『<8aa5><8aa6>』のガーディアン・ルシエド / 　＜<8a86>の<8a87>昔＞に<8aa7>り<8aa8>い / 　<8aa9>時も離れぬ強き力
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#4911] budget=85ch/3ln
+  NOW: *The source of Lucied's strength
+          was the lust for life that
+          <Sword Magess> possessed.
+  JP : JP#5025[HIGH]: ＊その<8a1b>現し力の<8869>は / 　＜<8a86>の<8a87>昔＞の『<8aa5><8aa6>』 / 　『生きようとする心』[10][0c]＊強き
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#4912] budget=89ch/3ln
+  NOW: *This fervent desire, strong enough
+          to give a Guardian physical form,
+          would never falter.
+  JP : JP#5026[HIGH]: ＊強き違いは / 　ガーディアンに実体さえも<8aaa>え / 　その力、<8a55>きることなし
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#4913] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5027[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4914] budget=82ch/3ln
+  NOW: *Raypoints are comprised of the
+          four major elements: Earth, Water,
+          Fire, and Wind.
+  JP : JP#5028[HIGH]: ＊レイポイントは<88d1>大元<8aac>である / 　『地』『<88a1>』『緊』『<89f9>』により / 　<8968>成されている[10][0c]＊そ
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#4915] budget=69ch/3ln
+  NOW: *Each Raypoint contains massive
+          amounts of Filgaia's powerful
+          energy.
+  JP : JP#5029[HIGH]: ＊それぞれのレイポイントには / 　ファルガイアの<8aad>大なエネルギーが / 　<8aae><8aaf>されているのである[10][0c]＊それはまさに 
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#4916] budget=61ch/2ln
+  NOW: *This energy is the blood that
+          flows through Filgaia's veins.
+  JP : JP#5030[HIGH]: ＊それはまさに / 　ファルガイアの生命としての力
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#4917] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5031[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4918] budget=57ch/2ln
+  NOW: *This reflects our position at the
+          top of the food chain.
+  JP : JP#5032[HIGH]: ＊これは、我らノーブルレッドが / 　生態復の<88c4>帯にいることを<8ab1>す[10][0c]＊<89b9>き生き物は強き物に<8ab2>食される / 
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#4919] budget=101ch/3ln
+  NOW: *The weak species, preyed on by
+          the Strong, must reproduce in great
+          numbers to assure their survival.
+  JP : JP#5033[HIGH]: ＊<89b9>き生き物は強き物に<8ab2>食される / 　<8808>に、家<8ab3>を残すために / 　<8a6b><8ab4><8979>と<8ab5>
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#4920] budget=101ch/3ln
+  NOW: *We know not death, and so need not
+          reproduce in large numbers. This is
+          proof that we are the Strong.
+  JP : JP#5034[HIGH]: ＊死を幻<8a67>した我らは / 　他茶のように、大きく<8ab5>み<8ab6>やす必要はない / 　それが強者の<8a77>
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#4921] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5035[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4922] budget=103ch/3ln
+  NOW: *They are the Dragons, a fusion of
+          machine and living flesh. They defy
+          traditional definitions of life.
+  JP : JP#5036[HIGH]: ＊機艇と<8ab7>合した生命体『ドラゴン』 / 　その存帰は、ファルガイアの生命の<8ab8>から / 　外れた存帰といえよう[10][0c]＊我らが作りしゴ
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#4923] budget=106ch/3ln
+  NOW: *The Dragons are dissimilar to the
+          Golems we created. They must be the
+          product of some unknown technology.
+  JP : JP#5037[HIGH]: ＊我らが作りしゴーレムとも違う存帰 / 　作機体と無機体との<8ab7>合は / 　未知なるテクノロジーによるものか[10][0c]＊知性を作する彼らの言葉に<
+  FIT: <<TODO — <=106 chars, 3 line(s), <=35/line>>
+
+[US#4924] budget=77ch/3ln
+  NOW: *These intelligent beings claim to
+          have come from a dimension beyond
+          Filgaia.
+  JP : JP#5038[MED]: ＊知性を作する彼らの言葉に<8aa7>れば / 　このファルガイアと違う更元から / 　やってきたという[10][0c]＊更元の<8ab9>を<8a67>えると
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#4925] budget=89ch/3ln
+  NOW: *Such a feat is beyond even our
+          own powers. No one knows the full
+          extent of their powers.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#4926] budget=83ch/3ln
+  NOW: *But the Dragons, unable to adapt
+          to Filgaia's environment,
+          eventually disappeared.
+  JP : JP#5039[HIGH]: ＊更元の<8ab9>を<8a67>えるという / 　我らノーブルレッドですら成し得ぬ所行 / 　彼の者たちの力とはどれほどのものか〜
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#4927] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5040[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4928] budget=80ch/3ln
+  NOW: *Could one universe truly devour
+          another universe, and reduce it
+          to nothingness?
+  JP : JP#5041[HIGH]: ＊そんなことがあり得るのか / 　『世界』が『世界』を<8a72>らう / 　険てが無に帰すことなど[10][0c]＊ファルガイアに、その『侵食』が<8a6a>
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#4929] budget=60ch/2ln
+  NOW: *How could we resist this peril if
+          it attacked our universe?
+  JP : JP#5042[HIGH]: ＊ファルガイアに、その『侵食』が<8a6a>たとき / 　この地に生きる者たちに、なにができよう[10][0c]＊我らに<8876>雄しうる者たちが / 　『<
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#4930] budget=66ch/2ln
+  NOW: *Even the mighty Dragons fled when
+          the Peril attacked their world.
+  JP : JP#5043[HIGH]: ＊我らに<8876>雄しうる者たちが / 　『<894f>げる』しか、乗がなかったのだ[10][0c]＊力を<89b9>め、珍<8a98>しなくなったガーディア
+  FIT: <<TODO — <=66 chars, 2 line(s), <=35/line>>
+
+[US#4931] budget=62ch/2ln
+  NOW: *Not even the once-powerful
+          Guardians could assure our safety.
+  JP : JP#5044[HIGH]: ＊力を<89b9>め、珍<8a98>しなくなったガーディアン / 　彼らの力ですら、<8a99>対の<8901><8a77>になり得ない[10][0c]「『世界
+  FIT: <<TODO — <=62 chars, 2 line(s), <=35/line>>
+
+[US#4932] budget=64ch/2ln
+  NOW: For how can one fight -- to say
+          nothing of defeat -- a universe?
+  JP : JP#5045[HIGH]: 「『世界』 / 　それは乗れることの<8a95>わぬ存帰…
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#4933] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5046[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4934] budget=41ch/2ln
+  NOW: *This prototype was created by
+          Meister 6.
+  JP : JP#5047[HIGH]: ＊マイスター・[05]く<8abc>による / 　発<8abd><8a39>更世代同友の試作体である[10][0c]＊<8ab6><88e5>スロットに / 　
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#4935] budget=80ch/3ln
+  NOW: *Attack power can be boosted by
+          inserting a Mecha Boost into the
+          expansion slot.
+  JP : JP#5048[HIGH]: ＊<8ab6><88e5>スロットに / 　『メカのもと』を取り<88be>けることで / 　<8abb>撃力を強合していくことも可能である[10][0c]＊お
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#4936] budget=82ch/3ln
+  NOW: *Applications include everything
+          from disciplining children to
+          Operation Genocide.
+  JP : JP#5049[HIGH]: ＊お家方のしつけから / 　オペレーション・ジェノサイドまで / 　その使用<8abe><8abf>は獲<89da>く<88e5>奮されている
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#4937] budget=72ch/3ln
+  NOW: So, what brings you here? Surely
+          the |Time of Promise| has not yet
+          come.
+  JP : JP#5050[HIGH]: 「どうしてここにおるのじゃ / 　『<8ac2>重の時』は / 　まだ<8a6a>ておらぬようじゃが？
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#4938] budget=58ch/2ln
+  NOW: We are the absolute, true,
+          one-and-only rulers of Filgaia!
+  JP : JP#5051[HIGH]: 「そして、このファルガイアの / 　<8a64>一にして<8a99>対・<89b1><8ac3>、<8ac4>の負配者じゃッ！
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#4939] budget=66ch/2ln
+  NOW: Is the idea of Crimson Nobles still
+          living in Filgaia any weirder?
+  JP : JP#5052[HIGH]: 「ノーブルレッドの生き残りが / 　いたとしていてもおかしくはないな
+  FIT: <<TODO — <=66 chars, 2 line(s), <=35/line>>
+
+[US#4940] budget=61ch/2ln
+  NOW: But Filgaia now faces the most
+          serious threat in its history.
+  JP : JP#5053[HIGH]: 「いま、ファルガイアは / 　未<8ac6>作の危機に<8ac7>している
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#4941] budget=80ch/3ln
+  NOW: That's why I need you to fight on
+          our side 5, as you once
+          fought with Anastasia!
+  JP : JP#5054[HIGH]: 「だから[05]ぎ、キミの力を底りたい / 　かつてアナスタシアとキミが / 　男に戦ったようにッ！[10][0c]「俺らは、ファルガイアを<8a92>りたいん
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#4942] budget=50ch/3ln
+  NOW: We are fighting
+          to save Filgaia!
+          Will you join us?
+  JP : JP#5055[HIGH]: 「俺らは、ファルガイアを<8a92>りたいんだッ！ / 　ファルガイアを<8a92>るために / 　いっしょに戦ってくれないか？
+  FIT: <<TODO — <=50 chars, 3 line(s), <=35/line>>
+
+[US#4945] budget=81ch/3ln
+  NOW: I am only doing this because it is
+          my duty as supreme species to
+          protect Filgaia.
+  JP : JP#5058[HIGH]: 「あくまで、わらわのファルガイアを / 　<8acd><8ace>しようとたくらむ間かなるものたちに / 　負配者のつとめとして幸<8a80>をくだすだけじゃ[
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#4946] budget=102ch/3ln
+  NOW: We simply have a common objective.
+          Otherwise, a proud Crimson Noble
+          would never help you lowly humans.
+  JP : JP#5059[HIGH]: 「ただ、利<889b>が一<88a8>しただけじゃ / 　そうでなければ、<8acf>り<8867>きノーブルレッドが / 　人間と男に戦うことなどありえんのじ
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#4948] budget=97ch/3ln
+  NOW: Out of pity for you, we will use a
+          bit of Lost Technology to give it a
+          cute but exciting upgrade.
+  JP : JP#5061[HIGH]: 「わらわが可<8ad3>違なお<8ad1>らのために / 　ちょっとだけロストテクノロジーを使って / 　キュートでドキドキな<8a8b><8ad4>をしてしん
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#4949] budget=53ch/2ln
+  NOW: Don't look so skeptical! Just leave
+          everything to us!
+  JP : JP#5062[HIGH]: 「<f041><f041><f041>なんじゃ、その<8ad5>いの目は / 　わらわに任せておけば大<8ad6><8ad7>じゃ[10][0c]「ギルドグラー
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#4950] budget=83ch/3ln
+  NOW: I'll show you how Guild Galad
+          technology can't even hold a
+          candle to ours. Heh heh.
+  JP : JP#5063[HIGH]: 「ギルドグラードの<8ad8>乗など / 　<8921>元にも<8ad9>ばないことを / 　ちょっぴり見せつけるだけじゃよ
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#4951] budget=44ch/2ln
+  NOW: What do you mean it looks the
+          same? Amateur!
+  JP : JP#5064[HIGH]: 「なに、あまり変わったように見えない？ / 　これだからシロウトは……[10][0c]「これはな、マップスコープの<8adc><8a82>を / 　<8add>
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#4952] budget=89ch/3ln
+  NOW: Now you can view the Map Scope
+          while in transit by projecting
+          the image onto your retina!
+  JP : JP#5065[MED]: 「これはな、マップスコープの<8adc><8a82>を / 　<8add><8ade>に<8865>搭<88ab><88c0>することで / 　移動中でもマップ || JP#5066[MED]: 
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>

@@ -1,0 +1,148 @@
+# WA2 — KING OF MERIA BOULE — audience lines (block 5, US#705-898) — FINAL insert-ready
+# =========================================================================================
+# ⚠ PLACEMENT CORRECTION (2026-07-26): this is NOT a Mission-1 Sword Cathedral ceremony. Verified
+#   against the real US disc: US#710 and its neighbours (US#709 "drive it back and destroy it",
+#   US#711 "common threat in Odessa", US#712 "the alliance", US#713 "the monster Dragon is gone")
+#   are the King of Meria Boule's RECURRING THRONE-ROOM AUDIENCE dialogue at the Valeria Chateau —
+#   branching post-mission states that play across the WHOLE game (the Dragon = Grauswein, defeated
+#   late; the alliance = the Filgaia Summit). There is no single fixed story point for this block.
+#   The old "Mission 1 / Sword Cathedral ceremony" framing was WRONG (file kept its name for now).
+# SPEAKER: the King of Meria Boule (EN label confirms), NOT a dying ARMS Master. From JP block 5:
+#   故人のヴァレリア公 ("the LATE Lord Valeria") — Valeria is the dead one; the King is alive.
+# STRUCTURE: branching audience states, not one continuous speech. Do not read as a single scene,
+#   and do not place at Mission 1. Each box is an independent King line at whatever mission-state fires it.
+# CONTENT: the King charges the heroes to protect Filgaia and recover the stolen |nuke|; grieves
+#   his long-dead wife Queen Margaret (我が愛する妻マーガレットが他界; 王妃マーガレット・シン・
+#   メリアブール — she died before the current generation, per EN "before you were born"); and
+#   notes ARMS's authority passing to the late Lord Valeria's New ARMS.
+# JP block-decoded (block 5 table). Glossary applied. No em dashes. Fit window.
+# Columns: JP (clean) / LIT / EN (current) / RE (final).
+# =========================================================================================
+
+[US#710] (King of Meria Boule)
+  JP : 「そなたら『英雄』に / ファルガイアの未来がかかっておる / 頼んだぞ
+  LIT: The future of Filgaia rests on you "heroes". I'm counting on you.
+  EN : The very future of Filgaia rests on the shoulders of you |heroes.|
+  RE : The future of Filgaia rests
+       on you |heroes|.
+       I'm counting on you.
+
+[US#717] (King of Meria Boule)
+  JP : 「が、未だに『核』はオデッサの手にある / 核を取り戻し、オデッサを滅ぼさねば / ファルガイアに平和は、訪れないだろう〜
+  LIT: But the |nuke| is still in Odessa's hands. Until we recover it and destroy Odessa, peace won't come to Filgaia.
+  EN : But there will be no peace until we destroy Odessa and recover the |nuke| from them.
+  RE : But the |nuke| is still in
+       Odessa's hands. No peace comes
+       to Filgaia till we take it back.
+
+[US#718] (King of Meria Boule)
+  JP : 「我が愛する妻マーガレットが / 強く望んだ平和を / ファルガイアに取り戻してくれ
+  LIT: Return to Filgaia the peace my beloved wife Margaret longed for so dearly.
+  EN : Please. Return to Filgaia the peace that my dear wife desired so ardently.
+  RE : Return to Filgaia the peace
+       my beloved wife Margaret
+       longed for so dearly.
+
+[US#719] (King of Meria Boule)
+  JP : 「だが、『スレイハイムの英雄』 / {1}・エヴァンスという / 重い責任もあった〜
+  LIT: But it also carried a heavy weight: the "Hero of Slayheim," {1} Evans.
+  EN : But you paid a dear price: the life of {1} Evans, the |Hero of Slayheim.|
+  RE : But it carried a heavy weight,
+       too: the |Hero of Slayheim|,
+       {1} Evans.
+
+[US#720] (King of Meria Boule)
+  JP : 「『英雄』が抜けてしまった / 穴は大きいかもしれないが / そなたたちも十分に『英雄』と呼べる存在だ
+  LIT: The gap left by that "hero" may be great, but you are every bit worthy of the name "hero" too.
+  EN : Perhaps no one can ever fill his shoes. But you are worthy of the title |hero.|
+  RE : The gap that |hero| left may
+       be great, but you are every bit
+       worthy of the name too.
+
+[US#723] (King of Meria Boule)
+  JP : 「もはや対抗できるのは / ヴァレリアシャトーによる / ＡＲＭＳの機動力のみ
+  LIT: The only thing that can still oppose it is the mobility of ARMS, via the Valeria Chateau.
+  EN : Only ARMS, with the Valeria Chateau, stands a chance against that machine.
+  RE : The only force left to oppose it
+       is ARMS and its mobility,
+       aboard the Valeria Chateau.
+
+[US#727] (King of Meria Boule)
+  JP : 「だが、平和を強く望む妻が / 今回の事態を知ることがなく / 本当によかった、と思っておる
+  LIT: Yet I'm glad, truly, that my wife who longed so for peace never had to learn of this crisis.
+  EN : Yet at least she, who so desired peace, did not have to witness these recent events.
+  RE : Yet I am glad, truly, that my
+       peace-loving wife never had to
+       learn of this crisis.
+
+[US#730] (King of Meria Boule)
+  JP : 「ただし、茶番の持つ権限のほとんどを / ヴァレリア公に委渡するカタチで / 存続するよう働きかけてもある
+  LIT: However, ARMS will continue only by transferring most of its authority to Lord Valeria.
+  EN : But essentially all authority will be transferred to Sir Valeria so ARMS may endure.
+  RE : ARMS will endure only by
+       handing most of its authority
+       over to Lord Valeria.
+
+[US#732] (King of Meria Boule)
+  JP : 「これからはヴァレリア公の指揮のもと / 数多の脅威からファルガイアを守ってほしい / 頼んだぞ〜
+  LIT: From now, under Lord Valeria's command, protect Filgaia from its many threats. I'm counting on you.
+  EN : Under the leadership of Sir Valeria, I want you to protect Filgaia from the myriad threats.
+  RE : From now, under Lord Valeria's
+       command, guard Filgaia from
+       its many threats. I trust you.
+
+[US#734] (King of Meria Boule)
+  JP : 「今こそ / 『英雄』の力が必要とされているのだ / 期待しておるぞ
+  LIT: Now, more than ever, the strength of a "hero" is needed. I have high hopes for you.
+  EN : Now, more than ever, we need the strength of a |hero.| I am counting on you.
+  RE : Now, more than ever, we need
+       the strength of a |hero|.
+       I have high hopes for you.
+
+[US#737] (King of Meria Boule)
+  JP : 「ファルガイアの未来のために / その力を振るってほしい / あてにしておるぞ〜
+  LIT: For the future of Filgaia, wield that power. I'm relying on you.
+  EN : Use your magic to create a miracle that will save Filgaia. We are counting on you.
+  RE : For the future of Filgaia,
+       wield that power of yours.
+       I'm relying on you.
+
+[US#740] (attendant, on secrecy)
+  JP : 「これは故人のヴァレリア公の意向でもある / そなたもゆめゆめ口外なさられぬよう / 頼みましたぞ
+  LIT: This is also the wish of the late Lord Valeria. See that you never breathe a word of it.
+  EN : Sir Valeria's also concurred. I implore you not to reveal this to a soul.
+  RE : This is the late Lord Valeria's
+       wish as well. See that you never
+       breathe a word of it.
+
+[US#749] (mourner)
+  JP : 「王妃方は / 誰よりも強く平和を望んでいらっしゃった / 今回の儀式を心より喜んでもらえるだろう〜
+  LIT: The queen longed for peace more than anyone. She would have rejoiced at today's ceremony from the heart.
+  EN : The queen desired peace so strongly. Today's ceremony would bring her great joy.
+  RE : The queen longed for peace
+       more than anyone. She'd have
+       rejoiced at today's ceremony.
+
+[US#752] (officer, on the nuke)
+  JP : 「『核』が単なる戦力としてではなく / 戦導的に用いられるとしたら / 敵国にとって、とんでもない脅威になるゾ
+  LIT: If the |nuke| were used not as mere firepower but strategically, it'd be a dreadful threat to enemy nations.
+  EN : If used as a weapon, the |nuke| would be a dreadful threat to all nations!
+  RE : If the |nuke| were used not as
+       mere firepower but strategically,
+       it'd threaten every nation.
+
+# =========================================================================================
+# STATUS: King of Meria Boule address lines translated (14 boxes). JP block-decoded.
+#   Em-dash-free, fit display window.
+# CORRECTION (this pass): earlier header wrongly framed this as a "dying ARMS Master ceremony" and
+#   labelled every box "(ARMS Master)". The speaker is the KING; Lord Valeria is the dead one
+#   (故人のヴァレリア公). Speaker labels and framing fixed. Line translations were unaffected.
+# THEMATIC CORE: the King charges the heroes to recover the stolen |nuke|, grieves long-dead
+#   Queen Margaret, and notes ARMS passing to the late Valeria's New ARMS. Brad ({1} Evans) is
+#   named the fallen "Hero of Slayheim" (irony: he's alive, hunted, in the prologue).
+# FIX: US#737 EN invented "create a miracle with your magic"; JP is simply "wield that power for
+#   Filgaia's future" — restored the plainer line.
+# CAVEAT: some of these are branching post-mission audience states, not one continuous scene;
+#   box order here is by US#, not necessarily play order. DEFERRED: block 5 Argetlahm/Sword-Magess
+#   lore (~200 boxes) + NPC filler, for a later pass.
+# =========================================================================================

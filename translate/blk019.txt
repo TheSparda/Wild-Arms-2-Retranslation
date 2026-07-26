@@ -1,0 +1,411 @@
+# WA2 4-col translation doc block 19 (JP#4697-4752)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 43 boxes | OK=13 FAIR=10 SHAKY=20 JP-ONLY=0
+# DRAFT STATUS: 43 boxes | OK=10 FAIR=12 SHAKY=21 JP-ONLY=0
+
+[JP#4699] gaps=0  aln=MED->US#4595  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#4700] gaps=2  aln=HIGH->US#4596  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#4701] gaps=0  aln=HIGH->US#4597  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#4709] gaps=1  aln=HIGH->US#4605  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : ＊幸<8a34>のズレをなおしますか？ / １．はい / ２．いいえ[1a]か
+  2|LIT: <<TODO>>
+  3|EN : *Will you straighten the picture?
+ 1. Yes
+ 2. No2
+  4|RE : <<TODO>>
+
+[JP#4710] gaps=0  aln=HIGH->US#4606  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊スイッチを押してみますか？ / １．はい / ２．いいえ[1a]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to press the switch?
+ 1. Yes
+ 2. No2
+  4|RE : <<TODO>>
+
+[JP#4711] gaps=0  aln=HIGH->US#4607  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊スイッチを押しますか？ / １．はい / ２．いいえ[1a]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to press the switch?
+ 1. Yes
+ 2. No2
+  4|RE : <<TODO>>
+
+[JP#4712] gaps=6  aln=HIGH->US#4608  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : ＊その出守<892e>の中には / 　ロストテクノロジーで作られた / 　幻同歩も年帯<8a40>まれていた[10][0c]＊それらの幻同歩を手にしたことで / 　スレイハイムの<8a39>事仲兄合に / 　期<8a04>度を<8a43>していくこととなったのだ[10][0c]＊他仲に対し / 　その幻同歩を使うことはなかったものの / 　世界の脅威になるには<89ce>分すぎた[10][0c]＊人は、強き力を手に入れることで / 　道を来ることもある / 　仲においても同方なのだ[10][0c]＊過ぎた力を手に入れたスレイハイムは / 　滅びに向かう道を / 　挑み始めていたといえるだろう
+  2|LIT: <<TODO>>
+  3|EN : *These relics include several
+ Super Weapons created
+ with lost technology.*These Super Weapons accelerated
+ Slayheim's transformation into a
+ military superpower.*Although never used against
+ another nation, the Super Weapons
+ were a more-than-adequate threat.*Newly acquired strength often
+ leads a person astray. The same
+ applies to nations, as well.*It was the excessive strength it
+ acq
+  4|RE : <<TODO>>
+
+[JP#4713] gaps=4  aln=HIGH->US#4609  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : ＊それらの幻同歩を手にしたことで / 　スレイハイムの<8a39>事仲兄合に / 　期<8a04>度を<8a43>していくこととなったのだ[10][0c]＊他仲に対し / 　その幻同歩を使うことはなかったものの / 　世界の脅威になるには<89ce>分すぎた[10][0c]＊人は、強き力を手に入れることで / 　道を来ることもある / 　仲においても同方なのだ[10][0c]＊過ぎた力を手に入れたスレイハイムは / 　滅びに向かう道を / 　挑み始めていたといえるだろう
+  2|LIT: <<TODO>>
+  3|EN : *These Super Weapons accelerated
+ Slayheim's transformation into a
+ military superpower.*Although never used against
+ another nation, the Super Weapons
+ were a more-than-adequate threat.*Newly acquired strength often
+ leads a person astray. The same
+ applies to nations, as well.*It was the excessive strength it
+ acquired that led the nation of
+ Slayheim down the road to ruin.
+  4|RE : <<TODO>>
+
+[JP#4714] gaps=1  aln=HIGH->US#4610  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊他仲に対し / 　その幻同歩を使うことはなかったものの / 　世界の脅威になるには<89ce>分すぎた[10][0c]＊人は、強き力を手に入れることで / 　道を来ることもある / 　仲においても同方なのだ[10][0c]＊過ぎた力を手に入れたスレイハイムは / 　滅びに向かう道を / 　挑み始めていたといえるだろう
+  2|LIT: <<TODO>>
+  3|EN : *Although never used against
+ another nation, the Super Weapons
+ were a more-than-adequate threat.*Newly acquired strength often
+ leads a person astray. The same
+ applies to nations, as well.*It was the excessive strength it
+ acquired that led the nation of
+ Slayheim down the road to ruin.
+  4|RE : <<TODO>>
+
+[JP#4715] gaps=0  aln=HIGH->US#4611  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊人は、強き力を手に入れることで / 　道を来ることもある / 　仲においても同方なのだ[10][0c]＊過ぎた力を手に入れたスレイハイムは / 　滅びに向かう道を / 　挑み始めていたといえるだろう
+  2|LIT: <<TODO>>
+  3|EN : *Newly acquired strength often
+ leads a person astray. The same
+ applies to nations, as well.*It was the excessive strength it
+ acquired that led the nation of
+ Slayheim down the road to ruin.
+  4|RE : <<TODO>>
+
+[JP#4716] gaps=0  aln=HIGH->US#4612  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊過ぎた力を手に入れたスレイハイムは / 　滅びに向かう道を / 　挑み始めていたといえるだろう
+  2|LIT: <<TODO>>
+  3|EN : *It was the excessive strength it
+ acquired that led the nation of
+ Slayheim down the road to ruin.
+  4|RE : <<TODO>>
+
+[JP#4717] gaps=18  aln=HIGH->US#4613  CONF=SHAKY unsolved=18  CONF=SHAKY unsolved=8
+  1|JP : ＊それを<8a4d>いた / 　スレイハイムの上<8872>好恥 / 　イスカリオテ負がひとつの遠<8a52>をした[10][0c]＊それが『幻同歩の使用制<8a53>仲間』 / 　後に、『イスカリオテ仲間』と呼ばれる / 　同歩の使用に関わる仲間である[10][0c]＊イスカリオテ負の<89b7>地参にて / 　仲間の勉結を行い / 　その仲間の<8a55>果を貸<89aa>とした[10][0c]＊仲を滅ぼし、世界の<8a57>望を脅かす / 　幻同歩の使用制<8a53>を行い[10][0c]＊<8a59>び、<8a39>事力<8a43>強の制<8a53>も<88e5>け / 　世界を<8a57>望最<89ab>先とする / 　事実上の<8a39>備<8a5a>小復言である
+  2|LIT: <<TODO>>
+  3|EN : *Distressed at this turn of events,
+ a nobleman in Slayheim, Sir
+ Iscariot, proposed a treaty.*Known as the Treaty of Iscariot,
+ this agreement restricted the
+ use of Super Weapons.*In Sir Iscariot's territory,
+ the treaty was ratified and
+ made permanent.*By restricting the use of weapons
+ that threatened world peace,*this arms reduction treaty sought
+ to curb the arms race and preserve
+ 
+  4|RE : <<TODO>>
+
+[JP#4718] gaps=15  aln=HIGH->US#4614  CONF=SHAKY unsolved=15  CONF=SHAKY unsolved=6
+  1|JP : ＊それが『幻同歩の使用制<8a53>仲間』 / 　後に、『イスカリオテ仲間』と呼ばれる / 　同歩の使用に関わる仲間である[10][0c]＊イスカリオテ負の<89b7>地参にて / 　仲間の勉結を行い / 　その仲間の<8a55>果を貸<89aa>とした[10][0c]＊仲を滅ぼし、世界の<8a57>望を脅かす / 　幻同歩の使用制<8a53>を行い[10][0c]＊<8a59>び、<8a39>事力<8a43>強の制<8a53>も<88e5>け / 　世界を<8a57>望最<89ab>先とする / 　事実上の<8a39>備<8a5a>小復言である
+  2|LIT: <<TODO>>
+  3|EN : *Known as the Treaty of Iscariot,
+ this agreement restricted the
+ use of Super Weapons.*In Sir Iscariot's territory,
+ the treaty was ratified and
+ made permanent.*By restricting the use of weapons
+ that threatened world peace,*this arms reduction treaty sought
+ to curb the arms race and preserve
+ world peace above all else.
+  4|RE : <<TODO>>
+
+[JP#4719] gaps=14  aln=HIGH->US#4615  CONF=SHAKY unsolved=14  CONF=SHAKY unsolved=6
+  1|JP : ＊イスカリオテ負の<89b7>地参にて / 　仲間の勉結を行い / 　その仲間の<8a55>果を貸<89aa>とした[10][0c]＊仲を滅ぼし、世界の<8a57>望を脅かす / 　幻同歩の使用制<8a53>を行い[10][0c]＊<8a59>び、<8a39>事力<8a43>強の制<8a53>も<88e5>け / 　世界を<8a57>望最<89ab>先とする / 　事実上の<8a39>備<8a5a>小復言である
+  2|LIT: <<TODO>>
+  3|EN : *In Sir Iscariot's territory,
+ the treaty was ratified and
+ made permanent.*By restricting the use of weapons
+ that threatened world peace,*this arms reduction treaty sought
+ to curb the arms race and preserve
+ world peace above all else.
+  4|RE : <<TODO>>
+
+[JP#4720] gaps=11  aln=HIGH->US#4616  CONF=SHAKY unsolved=11  CONF=SHAKY unsolved=4
+  1|JP : ＊仲を滅ぼし、世界の<8a57>望を脅かす / 　幻同歩の使用制<8a53>を行い[10][0c]＊<8a59>び、<8a39>事力<8a43>強の制<8a53>も<88e5>け / 　世界を<8a57>望最<89ab>先とする / 　事実上の<8a39>備<8a5a>小復言である
+  2|LIT: <<TODO>>
+  3|EN : *By restricting the use of weapons
+ that threatened world peace,*this arms reduction treaty sought
+ to curb the arms race and preserve
+ world peace above all else.
+  4|RE : <<TODO>>
+
+[JP#4721] gaps=9  aln=MED->US#4617  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=4
+  1|JP : ＊<8a59>び、<8a39>事力<8a43>強の制<8a53>も<88e5>け / 　世界を<8a57>望最<89ab>先とする / 　事実上の<8a39>備<8a5a>小復言である
+  2|LIT: <<TODO>>
+  3|EN : *this arms reduction treaty sought
+ to curb the arms race and preserve
+ world peace above all else.
+  4|RE : <<TODO>>
+
+[JP#4723] gaps=12  aln=HIGH->US#4619  CONF=SHAKY unsolved=12  CONF=SHAKY unsolved=9
+  1|JP : ＊その守いは / 　制圧<8a39>のそれを<8a61>かに上回るほどである[10][0c]＊その力の<8869>が / 　解殺<8a39>リーダーと延乗と呼ばれる / 　たったふたりによるものとは信じかたい[10][0c]＊しかし、この<8a64>人によってまとめられた / 　解殺<8a39>の守力を無<8918>することはできない / 　それは<895e>れもない事実なのだ[10][0c]＊戦況は<88d2>分<88d2>分 / 　どちらが<8a65>利を手にするか / 　それを知るは、<8a65>利の昔男だけだろう
+  2|LIT: <<TODO>>
+  3|EN : *The movement's momentum took the
+ government forces by surprise.*Amazingly, this huge movement
+ was piloted by only 2 men: the
+ leader and a hero.*Together, they led a liberation
+ army whose military might was
+ formidable.*The two sides were evenly matched.
+ Only the Goddess of Victory could
+ have foreseen the outcome.
+  4|RE : <<TODO>>
+
+[JP#4724] gaps=10  aln=HIGH->US#4620  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=8
+  1|JP : ＊その力の<8869>が / 　解殺<8a39>リーダーと延乗と呼ばれる / 　たったふたりによるものとは信じかたい[10][0c]＊しかし、この<8a64>人によってまとめられた / 　解殺<8a39>の守力を無<8918>することはできない / 　それは<895e>れもない事実なのだ[10][0c]＊戦況は<88d2>分<88d2>分 / 　どちらが<8a65>利を手にするか / 　それを知るは、<8a65>利の昔男だけだろう
+  2|LIT: <<TODO>>
+  3|EN : *Amazingly, this huge movement
+ was piloted by only 2 men: the
+ leader and a hero.*Together, they led a liberation
+ army whose military might was
+ formidable.*The two sides were evenly matched.
+ Only the Goddess of Victory could
+ have foreseen the outcome.
+  4|RE : <<TODO>>
+
+[JP#4725] gaps=8  aln=HIGH->US#4621  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=7
+  1|JP : ＊しかし、この<8a64>人によってまとめられた / 　解殺<8a39>の守力を無<8918>することはできない / 　それは<895e>れもない事実なのだ[10][0c]＊戦況は<88d2>分<88d2>分 / 　どちらが<8a65>利を手にするか / 　それを知るは、<8a65>利の昔男だけだろう
+  2|LIT: <<TODO>>
+  3|EN : *Together, they led a liberation
+ army whose military might was
+ formidable.*The two sides were evenly matched.
+ Only the Goddess of Victory could
+ have foreseen the outcome.
+  4|RE : <<TODO>>
+
+[JP#4726] gaps=4  aln=HIGH->US#4622  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : ＊戦況は<88d2>分<88d2>分 / 　どちらが<8a65>利を手にするか / 　それを知るは、<8a65>利の昔男だけだろう
+  2|LIT: <<TODO>>
+  3|EN : *The two sides were evenly matched.
+ Only the Goddess of Victory could
+ have foreseen the outcome.
+  4|RE : <<TODO>>
+
+[JP#4727] gaps=7  aln=HIGH->US#4623  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=5
+  1|JP : ＊その威力は、魂世代の同歩の中でも / 　最強の字頼といえるだろう[10][0c]＊<89e0><8a6a>することになれば / 　おそらく、スレイハイム仲の仲守険てを / 　<8a6b>の<89af>勇と合すのは間違いない[10][0c]＊スレイハイム<89fb>は / 　もしものときには、その使用さえ / 　<8a6d>さぬ信友のようだ[10][0c]＊スレイハイム仲に生きる者として / 　『エンゼルハイロゥ』が使用されないことを / 　心から願うばかりである[10][0c]＊しかし、それもすべて / 　解殺<8a39>との戦いにかかっているだろう
+  2|LIT: <<TODO>>
+  3|EN : *This was the most powerful type
+ of ancient weapon.*Its blast would lay waste to all
+ of Slayheim, turning it into a
+ lifeless salt flat.*The King of Slayheim is prepared
+ to use the Angel Halo if cornered
+ militarily.*All who live in Slayheim
+ should pray that the Angel
+ Halo is never used.*Whether it is depends on how the
+ war with the Liberation Army goes.
+  4|RE : <<TODO>>
+
+[JP#4728] gaps=7  aln=HIGH->US#4624  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=5
+  1|JP : ＊<89e0><8a6a>することになれば / 　おそらく、スレイハイム仲の仲守険てを / 　<8a6b>の<89af>勇と合すのは間違いない[10][0c]＊スレイハイム<89fb>は / 　もしものときには、その使用さえ / 　<8a6d>さぬ信友のようだ[10][0c]＊スレイハイム仲に生きる者として / 　『エンゼルハイロゥ』が使用されないことを / 　心から願うばかりである[10][0c]＊しかし、それもすべて / 　解殺<8a39>との戦いにかかっているだろう
+  2|LIT: <<TODO>>
+  3|EN : *Its blast would lay waste to all
+ of Slayheim, turning it into a
+ lifeless salt flat.*The King of Slayheim is prepared
+ to use the Angel Halo if cornered
+ militarily.*All who live in Slayheim
+ should pray that the Angel
+ Halo is never used.*Whether it is depends on how the
+ war with the Liberation Army goes.
+  4|RE : <<TODO>>
+
+[JP#4729] gaps=3  aln=HIGH->US#4625  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : ＊スレイハイム<89fb>は / 　もしものときには、その使用さえ / 　<8a6d>さぬ信友のようだ[10][0c]＊スレイハイム仲に生きる者として / 　『エンゼルハイロゥ』が使用されないことを / 　心から願うばかりである[10][0c]＊しかし、それもすべて / 　解殺<8a39>との戦いにかかっているだろう
+  2|LIT: <<TODO>>
+  3|EN : *The King of Slayheim is prepared
+ to use the Angel Halo if cornered
+ militarily.*All who live in Slayheim
+ should pray that the Angel
+ Halo is never used.*Whether it is depends on how the
+ war with the Liberation Army goes.
+  4|RE : <<TODO>>
+
+[JP#4730] gaps=1  aln=HIGH->US#4626  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : ＊スレイハイム仲に生きる者として / 　『エンゼルハイロゥ』が使用されないことを / 　心から願うばかりである[10][0c]＊しかし、それもすべて / 　解殺<8a39>との戦いにかかっているだろう
+  2|LIT: <<TODO>>
+  3|EN : *All who live in Slayheim
+ should pray that the Angel
+ Halo is never used.*Whether it is depends on how the
+ war with the Liberation Army goes.
+  4|RE : <<TODO>>
+
+[JP#4731] gaps=1  aln=HIGH->US#4627  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : ＊しかし、それもすべて / 　解殺<8a39>との戦いにかかっているだろう
+  2|LIT: <<TODO>>
+  3|EN : *Whether it is depends on how the
+ war with the Liberation Army goes.
+  4|RE : <<TODO>>
+
+[JP#4732] gaps=0  aln=HIGH->US#4628  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「生きて、帰るしかないんだッ！[16]くぉ[16]くぉ[16]くぉ[16]くぉ[16]くぉ[17]
+  2|LIT: <<TODO>>
+  3|EN : @That's why we MUST survive!6060606060
+  4|RE : <<TODO>>
+
+[JP#4733] gaps=5  aln=HIGH->US#4629  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : （そう… / 　あれがあいつとの最後の作戦だった…）[10][0c]（『エンゼルハイロゥ』の<89e0><8a6a>を知ったとき / 　新<8865>、また生きて<89ba>えるとは思わなかった）[10][0c]（だが、あいつは生きて帰ってきた…）[10][0c]（だから、僕もこの戦いが終わったとき / 　あいつから<8a82>かったモノを苦すため / 　生きなければいけない…）
+  2|LIT: <<TODO>>
+  3|EN : (That was our last mission
+ together.)(When the |Angel Halo| detonated, I
+ never thought I'd see him again.)(But he made it back alive.)(And I have to stay alive so that
+ when the war is over, I can give
+ him back what I'm holding for him.)
+  4|RE : <<TODO>>
+
+[JP#4734] gaps=5  aln=HIGH->US#4630  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : （『エンゼルハイロゥ』の<89e0><8a6a>を知ったとき / 　新<8865>、また生きて<89ba>えるとは思わなかった）[10][0c]（だが、あいつは生きて帰ってきた…）[10][0c]（だから、僕もこの戦いが終わったとき / 　あいつから<8a82>かったモノを苦すため / 　生きなければいけない…）
+  2|LIT: <<TODO>>
+  3|EN : (When the |Angel Halo| detonated, I
+ never thought I'd see him again.)(But he made it back alive.)(And I have to stay alive so that
+ when the war is over, I can give
+ him back what I'm holding for him.)
+  4|RE : <<TODO>>
+
+[JP#4735] gaps=1  aln=HIGH->US#4631  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : （だが、あいつは生きて帰ってきた…）[10][0c]（だから、僕もこの戦いが終わったとき / 　あいつから<8a82>かったモノを苦すため / 　生きなければいけない…）
+  2|LIT: <<TODO>>
+  3|EN : (But he made it back alive.)(And I have to stay alive so that
+ when the war is over, I can give
+ him back what I'm holding for him.)
+  4|RE : <<TODO>>
+
+[JP#4736] gaps=1  aln=HIGH->US#4632  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : （だから、僕もこの戦いが終わったとき / 　あいつから<8a82>かったモノを苦すため / 　生きなければいけない…）
+  2|LIT: <<TODO>>
+  3|EN : (And I have to stay alive so that
+ when the war is over, I can give
+ him back what I'm holding for him.)
+  4|RE : <<TODO>>
+
+[JP#4737] gaps=2  aln=HIGH->US#4633  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「この世ならざる生を<8a86>けしは / 　彼<8a87>らと好方も同じことよ〜
+  2|LIT: <<TODO>>
+  3|EN : @You both possess a life that
+ is not of this world.
+  4|RE : <<TODO>>
+
+[JP#4738] gaps=0  aln=HIGH->US#4634  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ここは、お前の帰るべき世界ではない〜
+  2|LIT: <<TODO>>
+  3|EN : @You do not belong in this world.
+  4|RE : <<TODO>>
+
+[JP#4739] gaps=4  aln=HIGH->US#4635  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「あたしを<8a8d>るなど / 　やつらとて<8a8e>わぬことさ[10][0c]「好方に活みはないが / 　その身に集みし『魔』を<8a91>るのもまた / 　あたしの<8a8c>命ッ！
+  2|LIT: <<TODO>>
+  3|EN : @Besides, Odessa could never
+ tie me down.@I don't have anything personal
+ against you. But I must slay the
+ |monster| that lurks within you.
+  4|RE : <<TODO>>
+
+[JP#4740] gaps=2  aln=MED->US#4636  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「好方に活みはないが / 　その身に集みし『魔』を<8a91>るのもまた / 　あたしの<8a8c>命ッ！
+  2|LIT: <<TODO>>
+  3|EN : @I don't have anything personal
+ against you. But I must slay the
+ |monster| that lurks within you.
+  4|RE : <<TODO>>
+
+[JP#4741] gaps=2  aln=MED->US#4636  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ジャマする者であれば / 　何であろうと<8a93>り<8a94>てるッ！
+  2|LIT: <<TODO>>
+  3|EN : @I don't have anything personal
+ against you. But I must slay the
+ |monster| that lurks within you.
+  4|RE : <<TODO>>
+
+[JP#4742] gaps=9  aln=MED->US#4638  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「好方が<8943>えどこへいようとも / 　追いかけて、追いつめてやるッ！[10][0c]「それまでは / 　好方も生き<8a98>びろ[10][0c]「<f040><f042>ひとつ<88a6>えておこう〜 / 　ヴィンスフェルトが言うに / 　５数前の延乗は<8a99>利きらしいぞ〜[10][0c]「<89a3>中から<8a0a>われぬよう心しておけ / 　好方はあたしの<8a9a>物〜 / 　誰にも渡さないッ！
+  2|LIT: <<TODO>>
+  3|EN : @I will hunt you down, no matter
+ where you run to!@Till then, stay healthy.
+ Do not rob me of my pleasure.@By the way, Vinsfeld said the hero
+ he knew 5 years ago
+ was left-handed.@Watch your back from now on!
+ You are my prey, and I won't
+ let anyone else take you!
+  4|RE : <<TODO>>
+
+[JP#4743] gaps=8  aln=MED->US#4639  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : 「それまでは / 　好方も生き<8a98>びろ[10][0c]「<f040><f042>ひとつ<88a6>えておこう〜 / 　ヴィンスフェルトが言うに / 　５数前の延乗は<8a99>利きらしいぞ〜[10][0c]「<89a3>中から<8a0a>われぬよう心しておけ / 　好方はあたしの<8a9a>物〜 / 　誰にも渡さないッ！
+  2|LIT: <<TODO>>
+  3|EN : @Till then, stay healthy.
+ Do not rob me of my pleasure.@By the way, Vinsfeld said the hero
+ he knew 5 years ago
+ was left-handed.@Watch your back from now on!
+ You are my prey, and I won't
+ let anyone else take you!
+  4|RE : <<TODO>>
+
+[JP#4744] gaps=7  aln=MED->US#4640  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「<f040><f042>ひとつ<88a6>えておこう〜 / 　ヴィンスフェルトが言うに / 　５数前の延乗は<8a99>利きらしいぞ〜[10][0c]「<89a3>中から<8a0a>われぬよう心しておけ / 　好方はあたしの<8a9a>物〜 / 　誰にも渡さないッ！
+  2|LIT: <<TODO>>
+  3|EN : @By the way, Vinsfeld said the hero
+ he knew 5 years ago
+ was left-handed.@Watch your back from now on!
+ You are my prey, and I won't
+ let anyone else take you!
+  4|RE : <<TODO>>
+
+[JP#4745] gaps=3  aln=HIGH->US#4641  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「<89a3>中から<8a0a>われぬよう心しておけ / 　好方はあたしの<8a9a>物〜 / 　誰にも渡さないッ！
+  2|LIT: <<TODO>>
+  3|EN : @Watch your back from now on!
+ You are my prey, and I won't
+ let anyone else take you!
+  4|RE : <<TODO>>
+
+[JP#4746] gaps=2  aln=HIGH->US#4642  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「この<893b>… / 　中は<8a6b>に侵食されていないんだ / 　時間はありそうだから調べてみるか
+  2|LIT: <<TODO>>
+  3|EN : @The castle hasn't been engulfed by
+ the sea of salt yet. Let's take a
+ look around while we're waiting.
+  4|RE : <<TODO>>
+
+[JP#4747] gaps=0  aln=HIGH->US#4643  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「まさか / 　また戻ってくることになるとはな…
+  2|LIT: <<TODO>>
+  3|EN : @I never thought I'd
+ ever be back here again.
+  4|RE : <<TODO>>
+
+[JP#4748] gaps=0  aln=HIGH->US#4644  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「これからどうしようか？
+  2|LIT: <<TODO>>
+  3|EN : @What do we do now?
+  4|RE : <<TODO>>
+
+[JP#4749] gaps=2  aln=MED->US#4645  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ここでどんな魔物を / 　<8a9c><8a9d>するつもりなんだろう…
+  2|LIT: <<TODO>>
+  3|EN : @I wonder what kind of monsters
+ she's going to exorcise here.
+  4|RE : <<TODO>>

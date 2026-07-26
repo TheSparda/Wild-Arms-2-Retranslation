@@ -1,0 +1,2105 @@
+# WA2 — Baskar Village / Hidden Trial Arena (BV) — block 16, US#3853-4147 — FIRST-PASS insert-ready
+# =========================================================================================
+# FIRST PASS (auto-generated): RE = the US localization reflowed to the display window
+#   (<=3 lines x <=35 chars), em dashes stripped, color-code artifacts removed. JP shown for
+#   reference (block-decoded; residual codes possible). This is NOT a deep literary
+#   retranslation — it gives Baskar Village / Hidden Trial Arena valid insert text; flag for a deep RE pass later.
+# US# reconciled by construction (IDs are the real block-16 message slots).
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#3857]
+  JP : 「もうしばらく国の中をまわって / この国にいた頃の / <8937><89f1>の手がかりを探してみよう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Let's look around the village a little bit more and see if anything stirs up memories.
+  RE : Let's look around the village a
+       little bit more and see if anything
+       stirs up memories.
+
+[US#3858]
+  JP : 「その方が、一本の『鍵』に / かかる右<8847>が少なくなるからな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That way, each |Pillar| doesn't have to do as much work.
+  RE : That way, each |Pillar| doesn't
+       have to do as much work.
+
+[US#3859]
+  JP : 「私にも / 『鍵』の乗があれば / 置にファルガイアを発えていけたのにな〜<b:8a38>は / <b:8a39>質の大小こそ異なれど / 誰もが『鍵』の後<b:8a3a>者であるという
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If I too had the |Pillar| talent, then I could help save Filgaia...
+  RE : If I too had the |Pillar| talent,
+       then I could help save Filgaia...
+
+[US#3860]
+  JP : 「私では[05]がの乗に<8a10>く<b:8a3b>ばぬが / 置に世界を発えることができたなら〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : My talent is nothing compared to that of 3, but I want to contribute in some way too ...
+  RE : My talent is nothing compared to
+       that of 3, but I want to contribute
+       in some way too ...
+
+[US#3861]
+  JP : 「[05]がの<8a12>い<b:8a3c>から / 少しでも重圧を / 取り<b:8a3d>いてやれるのにな<b:8a3e>で決めた未来を / 私も信じてみよう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I would like to take some of the weight off of 3's small shoulders and put it on my own.
+  RE : I would like to take some of the
+       weight off of 3's small shoulders
+       and put it on my own.
+
+[US#3862]
+  JP : 「バスカーは『鍵』を発え / 『鍵』に発えられる世界に生きる<b:8a38>だからな<b:8a40><b:8a41>にて / 何を信じ、これからどう<b:8a42>いていくのか / 私にはわからない〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The people of Baskar support the |Pillars,| which in turn support the world.
+  RE : The people of Baskar support the
+       |Pillars,| which in turn support
+       the world.
+
+[US#3863]
+  JP : 「だが、それが『鍵』の決めたことならば / 私は運命を置にしようと思う / それもまた、バスカーの生き方〜<b:8a43>われる』〜 / これほどまでに / <8865>搭的なモノであったとは〜<b:8a44>が<b:8a45>み取られる』〜 / [0a]ががお前たちに / 伝えたいと言っていた言葉
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But I will submit to whatever fate the |Pillars| decide. That is the way of the people of Baskar.
+  RE : But I will submit to whatever fate
+       the |Pillars| decide. That is the
+       way of the people of Baskar.
+
+[US#3864]
+  JP : 「[0a]がに<8865>搭誓うがいい / 『鍵』たる身のお前ならば / 何かがつかめるかもしれない〜<b:8a3a>ぐ<b:8a39>質を持つ者
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Since you are a |Pillar| too, maybe you can glean something if you ask him their meaning yourself.
+  RE : Since you are a |Pillar| too, maybe
+       you can glean something if you ask
+       him their meaning yourself.
+
+[US#3865]
+  JP : 「その[0a]がが / 何かを信じ取り / あなた方に伝えたいことがあると〜<b:8a6d>[0b]
+  LIT: (literal pending: JP has unsolved codes)
+  EN : {3} has sensed something, and wants to tell you all something.
+  RE : {3} has sensed something, and wants
+       to tell you all something.
+
+[US#3866]
+  JP : 「この星を<b:8a46>む未知なる脅威を / お前はまだ / 信じ取っていないのか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Have you not yet sensed the terror this planet feels at being gnawed away?
+  RE : Have you not yet sensed the terror
+       this planet feels at being gnawed
+       away?
+
+[US#3867]
+  JP : 「我らはガーディアンと置に在り〜 / すなわち / 星の命と置に在るのだ
+  LIT: We exist together with the Guardians; that is, together with the life of the planet. (置->共 corrupt)
+  EN : We live alongside the Guardians, which means living also with the life-force of this planet.
+  RE : We live alongside the Guardians,
+       which means living also with the
+       life-force of this planet.
+
+[US#3868]
+  JP : 「ならばこそ、[05]がよ / <b:8a47>見の<8804>げし、その街<b:8a48>〜 / 無<8918>できぬこと理解できるだろう<b:8a49>が / <b:8a47>見の<8804>げし脅威であるとは / 未だ言い切れない〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : 3, you should know that what was prophesied in the dream is ignored only at your peril!
+  RE : 3, you should know that what was
+       prophesied in the dream is ignored
+       only at your peril!
+
+[US#3869]
+  JP : 「だが<f040><f042> / 何かが確実に / ファルガイアに起ころうとしているのだ<b:8a4a><b:8a4b>無くして / 大きな目的が果たせるのだろうか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But... Something momentous is definitely about to happen in Filgaia.
+  RE : But... Something momentous is
+       definitely about to happen in
+       Filgaia.
+
+[US#3870]
+  JP : 「我らバスカーは / ファルガイアの未来を<b:8a4c>い / あえて心を<b:8a4d>とせねばならないのだ<b:8a4e><b:8a4f>で / 女の家みたいね、[05]が〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We of Baskar must turn our hearts to stone in order to save Filgaia. It is the only choice.
+  RE : We of Baskar must turn our hearts
+       to stone in order to save Filgaia.
+       It is the only choice.
+
+[US#3871]
+  JP : 「そんな、あなたひとりに / ファルガイアのすべてを / <b:8a50>しつけていた自分が<b:8a51>ずかしいわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I feel ashamed for making you responsible for all of Filgaia.
+  RE : I feel ashamed for making you
+       responsible for all of Filgaia.
+
+[US#3872]
+  JP : 「やっと気づいたの / 世界はひとりで<b:8a52>ろうとするから / つらくて、たいへんなのよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I've finally realized that any one person trying to save the world by themselves is pure folly.
+  RE : I've finally realized that any one
+       person trying to save the world by
+       themselves is pure folly.
+
+[US#3873]
+  JP : 「みんなで少しずつファルガイアを<b:8a52>れば / あなたひとりに / すべてを<b:8a50>しつけることなんて無かったのよ<b:8a50>しつけてしまうことで / 私たちは誰よりも / 現実から<8a10>ざかっていたのかもしれません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If everyone protects just a little piece of it, then your burden will be lessened.
+  RE : If everyone protects just a little
+       piece of it, then your burden will
+       be lessened.
+
+[US#3874]
+  JP : 「いっしょに戦い / そして、生きていくという / 現実から〜<b:8a53>〜 / 死ぬのは<b:8a54>いのよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The reality being that we must fight together as well as live together.
+  RE : The reality being that we must
+       fight together as well as live
+       together.
+
+[US#3875]
+  JP : 「だから、『鍵』に / すべてを<b:8a55>そうとしたの
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's why we tried to leave everything up to the |Pillars.|
+  RE : That's why we tried to leave
+       everything up to the |Pillars.|
+
+[US#3876]
+  JP : 「でもね、そうすることで / 人間として大切な心が死んでいったわ / その<b:8a56>みが、今はとてもつらい〜<b:8a40><b:8a41>は / <b:8a57>険なるウラルトゥの谷間に / 人目を<b:8a58>けて建てられているわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But because of that, something inside of us has died.
+  RE : But because of that, something
+       inside of us has died.
+
+[US#3877]
+  JP : 「そこでは / ガーディアンが<b:8a59>りし幻意<b:8a5a>体『ガイア』と / そして<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There, those who control the hearts of men, the Guardian Lords, the avatars of the
+  RE : There, those who control the hearts
+       of men, the Guardian Lords, the
+       avatars of the
+
+[US#3878]
+  JP : 「人の心を<b:8a5b>る / ガーディアンロードたちが / 『鍵』の<b:8a5c>着を待っていると〜<b:8a5d>かとなってしまった / 星の命『マナ』〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Guardian Lord, wait for the arrival of the |Pillar| ...
+  RE : Guardian Lord, wait for the arrival
+       of the |Pillar| ...
+
+[US#3879]
+  JP : 「星を<b:8a5e>かせる / 大いなる生命のエネルギーが / もしも、悪用されたなら〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If the life-energy that makes the planet alive is used for the wrong purposes...
+  RE : If the life-energy that makes the
+       planet alive is used for the wrong
+       purposes...
+
+[US#3880]
+  JP : 「それは、大きな脅威であると同時に / 星の命が<b:8a5f>しく<b:8a60>つけられてしまうことに / 他ならないのです<b:8a61>になられましたか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...it would threaten all of us as well as harm the life force itself.
+  RE : ...it would threaten all of us as
+       well as harm the life force itself.
+
+[US#3881]
+  JP : 「わずかに残る山の<b:8a62>しさ〜 / 私たちはファルガイアに残る『マナ』を / 大切にしなければいけません<b:8a63>び<88f1>しく<b:8a64>やすには / あなたの命が必要なのよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We must husband dearly the forest's remaining beauty, just as we must Filgaia's remaining |Mana.|
+  RE : We must husband dearly the forest's
+       remaining beauty, just as we must
+       Filgaia's remaining |Mana.|
+
+[US#3882]
+  JP : 「あなたの命を得ることで / ガーディアンは力を取り戻して / きっと世界を<8832>ってくださるわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We can use your life to help the Guardians reclaim their power, which they'll use to save Filgaia.
+  RE : We can use your life to help the
+       Guardians reclaim their power,
+       which they'll use to save Filgaia.
+
+[US#3883]
+  JP : 「ガーディアンの力が<b:8a65>えるということは / ファルガイアの命運が<b:8a66>きると / 言い<8864>えることができるのです<b:8a60>ついてほしくはありません / もちろん、倒れてほしくもありません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The Guardian's waning power may very well seal the doom of all Filgaia.
+  RE : The Guardian's waning power may
+       very well seal the doom of all
+       Filgaia.
+
+[US#3884]
+  JP : 「あなたには / 谷と合したガーディアンの意<b:8a3e>と置に / 生け左の<b:8a40><b:8a41>に向かってもらわなくては〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You must now face the Sacrificial Altar and open yourself to the will of the stone Guardians.
+  RE : You must now face the Sacrificial
+       Altar and open yourself to the will
+       of the stone Guardians.
+
+[US#3885]
+  JP : 「ですが、私は〜 / 『空が<b:8a43>われる』という / 未だ目に<b:8a67>らない脅威が気になります
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...but I am more interested in the unseen threat of the sky being gnawed away.
+  RE : ...but I am more interested in the
+       unseen threat of the sky being
+       gnawed away.
+
+[US#3886]
+  JP : 「私たちがすがるのは / あなたしかいないのよ / わかってちょうだい
+  LIT: You are the only ones we can lean on. Please understand that.
+  EN : ...you all are our only hope. The fate of Filgaia rests with you.
+  RE : ...you all are our only hope. The
+       fate of Filgaia rests with you.
+
+[US#3887]
+  JP : 「そして〜 / 『鍵』として / 生け左の<b:8a40><b:8a41>に立ってちょうだい〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Now...as the |Pillar,| please face the Sacrificial Altar.
+  RE : Now...as the |Pillar,| please face
+       the Sacrificial Altar.
+
+[US#3888]
+  JP : 「でも、私たちバスカーは / 他の誰よりも / ファルガイアの未来を<b:8a68>じているわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But we of Baskar are doing more than anybody else to secure Filgaia's fate.
+  RE : But we of Baskar are doing more
+       than anybody else to secure
+       Filgaia's fate.
+
+[US#3889]
+  JP : 「だから、どんなにそしりをうけようと / 信<b:8a69>はできているわ<b:8a6a>さんにそっくりだわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We only expect to be reviled for our actions.
+  RE : We only expect to be reviled for
+       our actions.
+
+[US#3890]
+  JP : 「剣の家にしておくの / もったいないわ
+  LIT: It'd be a waste to leave it as a house of the sword. (or: to keep it shut away)
+  EN : Kind of a waste on a boy...
+  RE : Kind of a waste on a boy...
+
+[US#3891]
+  JP : 「やっぱり、あなた / サブリナの<b:8a44>を招いているのね〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You have inherited much from Sabrina, it seems.
+  RE : You have inherited much from
+       Sabrina, it seems.
+
+[US#3892]
+  JP : 「ファルガイアの未来を / 発えるために / 無くてはならない命なんです
+  LIT: It's a life that cannot be spared, if the future of Filgaia is to be upheld. (発える->支える)
+  EN : Indeed, it is crucial to secure the future of Filgaia.
+  RE : Indeed, it is crucial to secure the
+       future of Filgaia.
+
+[US#3893]
+  JP : 「試<8a01>の道中 / よろしくお願いします
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Please look to his training.
+  RE : Please look to his training.
+
+[US#3894]
+  JP : 「ファルガイアを発えるべき / 運命を<89a3>右いし者である〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It is your fate to shoulder the destiny of Filgaia.
+  RE : It is your fate to shoulder the
+       destiny of Filgaia.
+
+[US#3895]
+  JP : 「ならば、バスカーの<b:8a38>は / お前を発える『鍵』となろう / そうすれば、いっしょに戦えるじゃろう<b:8a6b>えて / もっと大きな可能性を / 身につけようとしている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The people of Baskar will support you, so we may fight together.
+  RE : The people of Baskar will support
+       you, so we may fight together.
+
+[US#3896]
+  JP : 「[05]がならば / この脅威を<b:8a6c>けられるかもしれぬ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : 3 might be able to help us out of this dangerous period.
+  RE : 3 might be able to help us out of
+       this dangerous period.
+
+[US#3897]
+  JP : 「<b:8a6d>しき『鍵』の運命を / <b:8a6e>り<b:8a6b>えて行けるかもしれぬ〜<b:8a6f>れし者は / 運命を<b:8a70>け入れるがいい〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It might be possible to escape the sad fate of a |Pillar.|
+  RE : It might be possible to escape the
+       sad fate of a |Pillar.|
+
+[US#3898]
+  JP : 「だが、運命を切り開く力を / その<b:8a71>に、まだ込められるのならば / <b:8a72>ってみるのも悪くないかもしれぬ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But if you think you have the power to overcome destiny, then there's no reason not to try.
+  RE : But if you think you have the power
+       to overcome destiny, then there's
+       no reason not to try.
+
+[US#3899]
+  JP : 「お前たちを見ていると / そんな<89f9>にも思えてきよる<b:8a47>見の<8804>げし / ビジョンが現実のものとなって / ファルガイアを<b:8a73>わんとしておる〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's what I think when I look at you.
+  RE : That's what I think when I look at
+       you.
+
+[US#3900]
+  JP : 「『鍵』の立つべきは、生け左の<b:8a40><b:8a41>〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The place for a |Pillar| is in front of the Sacrificial Altar.
+  RE : The place for a |Pillar| is in
+       front of the Sacrificial Altar.
+
+[US#3901]
+  JP : 「<8a10>く、ウラルトゥの谷地にあるという / 生け左の<b:8a40><b:8a41>にて / 『鍵』が世界を発える時が来たようじゃ<b:8a52>りし意<b:8a3e>ある力〜 / それをガーディアンと呼ぶのは知っておろう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The time has come for the |Pillar| to save the world at a Sacrificial Altar in the mountains of Urartu.
+  RE : The time has come for the |Pillar|
+       to save the world at a Sacrificial
+       Altar in the mountains of Urartu.
+
+[US#3902]
+  JP : 「では、かつてはガーディアン / またはガーディアンの一部であったものを / 何と呼ぶか知っておるかの？
+  LIT: So then, do you know what we call that which once was a Guardian, or part of one?
+  EN : Do you know what we call that which used to be Guardian but is no more?
+  RE : Do you know what we call that which
+       used to be Guardian but is no more?
+
+[US#3903]
+  JP : 「『<b:8a74><b:8a75>』（ディザスター）〜 / ファルガイアを破滅せんとする / 意<b:8a3e>ある力を『<b:8a74><b:8a75>』と呼ぶのじゃ<b:8a76>の山<b:8a77>が<89da>がっておる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : |Disaster.| Those with the will and the power to destroy Filgaia we call |Disaster.|
+  RE : |Disaster.| Those with the will and
+       the power to destroy Filgaia we
+       call |Disaster.|
+
+[US#3904]
+  JP : 「ファルガイアでも年少ない / 星の命『マナ』の<b:8a78>かな<b:8a79>地じゃからな<b:8a7a>の<b:8a74><b:8a75>』よりファルガイアを<b:8a52>るため / ガーディアンの力はひとつに<8880>められ / 幻意<b:8a5a>体を生み出したのじゃ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It is a land ripe with |Mana.| Indeed, there are few places like it left in Filgaia.
+  RE : It is a land ripe with |Mana.|
+       Indeed, there are few places like
+       it left in Filgaia.
+
+[US#3905]
+  JP : 「その名は『ガイア』〜 / まばゆき<89e0>に<b:8a7b>まれた / <b:8a52>護者となるはずであったが〜<b:8a7c>地に / かつて、ガーディアンを<8958>じていた / <b:8a7d><b:8a7e>の名残があるそうですじゃ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's name was |Gaia,| and it was a protector of the earth swathed in holy light.
+  RE : It's name was |Gaia,| and it was a
+       protector of the earth swathed in
+       holy light.
+
+[US#3906]
+  JP : 「<b:8a7f>ちてしまった<b:8a80><b:8a81>より / ミーディアムを<8880>めてくだされ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Please gather the Mediums from these fallen Sanctuaries.
+  RE : Please gather the Mediums from
+       these fallen Sanctuaries.
+
+[US#3907]
+  JP : 「ガーディアンの意<b:8a3e>が / 谷となりしミーディアムは / きっと未来へ<b:8a82>いてくれましょう<b:8a83>げられし『鍵』の命は / ガーディアンの力を解き放ち / 大いなる脅威を<b:8a6c>けるという
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The stone Mediums, which contain the embodied will of the Guardians, will lead us to a brighter future.
+  RE : The stone Mediums, which contain
+       the embodied will of the Guardians,
+       will lead us to a brighter future.
+
+[US#3908]
+  JP : 「<8954>わないでおくれ[05]が〜 / 人も、この星も / これ以上<b:8a60>つくのは<b:8a84>えられないんじゃよ<b:8a7a>の<b:8a74><b:8a75>』によって / 封<b:8a85>されたと聞いておる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Do not falter, 3, for neither the planet nor its people could survive an error on our part.
+  RE : Do not falter, 3, for neither the
+       planet nor its people could survive
+       an error on our part.
+
+[US#3909]
+  JP : 「ファルガイアから / 星の命を<b:8a86>っていったのは / 他ならぬ『<b:8a7a>の<b:8a74><b:8a75>』なんじゃよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : And it was none other than this |Blaze of Disaster| that deprived the planet of its life-force.
+  RE : And it was none other than this
+       |Blaze of Disaster| that deprived
+       the planet of its life-force.
+
+[US#3910]
+  JP : 「封じられしガーディアンの力を / ここに解放しておくれ〜 / お前は<89ab>しい家なんじゃろう〜？<b:8a6d>しき運命〜 / 誰かが発えねばならない / 世界の運命そのものなんだよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Please release the power of the Guardians! You are a good child, are you not?
+  RE : Please release the power of the
+       Guardians! You are a good child,
+       are you not?
+
+[US#3911]
+  JP : 「失われし<88d1>大のガーディアンの / <89e2><b:8a87>と意<b:8a3e>が / この<895a>には、残っているんだよ<b:8a88>の地
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The hearts of the four lost great Guardians still beat in this village.
+  RE : The hearts of the four lost great
+       Guardians still beat in this
+       village.
+
+[US#3912]
+  JP : 「<b:8a89>世とは離れて<b:8a8a>らす / バスカーの隠れ<895a>ですじゃ<b:8a8b>が<b:8a8c>れようとしている〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The Hidden Village of Baskar exists apart from the tawdry ways of the rest of the world.
+  RE : The Hidden Village of Baskar exists
+       apart from the tawdry ways of the
+       rest of the world.
+
+[US#3913]
+  JP : 「じゃが、お前たちが / すべてをあきらめてないように / わしもまだ、あきらめてはおらぬ
+  LIT: But just as you haven't given up on everything, neither have I given up yet.
+  EN : But just as you all have not given in to it, neither have I...
+  RE : But just as you all have not given
+       in to it, neither have I...
+
+[US#3914]
+  JP : 「わしとて、ファルガイアを護りたい〜 / 護りたいという心を<b:8a8d>に変えて / いっしょに戦いたいのじゃ<b:8a8e>えられしマナの力は / 大いなる力を<b:8a8f>けてくれるじゃろう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I too desire to protect Filgaia. Let us forge from this desire blades to battle with!
+  RE : I too desire to protect Filgaia.
+       Let us forge from this desire
+       blades to battle with!
+
+[US#3915]
+  JP : 「じゃが、その反動は / 小さいものではなく / ファルガイアに大きく右<8847>をかける
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It does not come free, though. The strain on Filgaia will be equally great.
+  RE : It does not come free, though. The
+       strain on Filgaia will be equally
+       great.
+
+[US#3916]
+  JP : 「チャンスは一度きり〜 / この一戦が / ファルガイアの未来を決めるのじゃ<b:8a40><b:8a41>へ向かうことは / 運命の<b:8a90>の中に定められていたこと〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There will be no second chance. The future of Filgaia rests on our success.
+  RE : There will be no second chance. The
+       future of Filgaia rests on our
+       success.
+
+[US#3917]
+  JP : 「じゃが、これが運命ならば〜 / 運命ならば、<b:8a70>け入れるだけではなく / <b:8a6e>り<b:8a6b>えることもできるかもしれない〜<b:8a40><b:8a41>はその名の通り / 『鍵』をガーディアンに<b:8a83>げし<b:8a80><b:8a81>〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If this is your fate, though... who knows, sometimes it is possible to cheat even fate...
+  RE : If this is your fate, though... who
+       knows, sometimes it is possible to
+       cheat even fate...
+
+[US#3918]
+  JP : 「[05]がはそこで / ガーディアンの力を解き放ち / 幻意<b:8a5a>体『ガイア』を降<b:8a91>させねばならぬ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There 3 will free the power of the Guardians and cause the advent of the avatar, |Gaia.|
+  RE : There 3 will free the power of the
+       Guardians and cause the advent of
+       the avatar, |Gaia.|
+
+[US#3919]
+  JP : 「この時のために / [05]がと、<b:8a92>まわしきさだめは / 今回まで生きてきたのだ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : This is the cruel fate to which 3 was born...
+  RE : This is the cruel fate to which 3
+       was born...
+
+[US#3920]
+  JP : 「ファルガイアより<b:8a86>われし『マナ』は / ここより[11]お<8995>か東の空[11]ぉに<8880>重しておる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The |Mana| stolen from Filgaia is focused in the 1sky far to the west of here0.
+  RE : The |Mana| stolen from Filgaia is
+       focused in the sky far to the west
+       of here.
+
+[US#3921]
+  JP : 「ファルガイアを<b:8a52>りしは / 『鍵』が<89a3>右ったさだめ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It is the duty of a |Pillar| to protect Filgaia.
+  RE : It is the duty of a |Pillar| to
+       protect Filgaia.
+
+[US#3922]
+  JP : 「彼の空にて / お前の戦うべき運命が待っておる〜<b:8a43>われつつあるのじゃ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : In the sky there awaits the battle you are fated to fight.
+  RE : In the sky there awaits the battle
+       you are fated to fight.
+
+[US#3923]
+  JP : 「[11]お先側の山[11]ぉに突き立てられた / 高くそびえる<888c>い<897f>〜 / それはまるで<b:8a93><b:8a44>の<b:8a94>のごとく〜<b:8a7a>の<b:8a74><b:8a75>』も元はガーディアンの一部〜 / <b:8a95>のさだめより外れしモノ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There is a black tower sticking up like a fang out of the 1forest to the SE of here0.
+  RE : There is a black tower sticking up
+       like a fang out of the forest to
+       the SE of here.
+
+[US#3924]
+  JP : 「すべては / 運命の<b:8a90>の中にあって / 新しくあるのじゃ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : All will occur as foreordained by the Wheel of Fate.
+  RE : All will occur as foreordained by
+       the Wheel of Fate.
+
+[US#3925]
+  JP : 「[05]がよ〜 / 運命に<b:8a72>うことなく / すべてを<b:8a70>け入れるがよい
+  LIT: (literal pending: JP has unsolved codes)
+  EN : 3, you must accept your fate, not rebel against it.
+  RE : 3, you must accept your fate, not
+       rebel against it.
+
+[US#3926]
+  JP : 「『鍵』は死して / ファルガイアに<b:8a96><89aa>に / 生きるがさだめ〜<b:8a7c>地には / まだミーディアムが残されているはずじゃ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It is the fate of |Pillars| to die and then live forever within Filgaia itself.
+  RE : It is the fate of |Pillars| to die
+       and then live forever within
+       Filgaia itself.
+
+[US#3927]
+  JP : 「『<b:8a7a>の<b:8a74><b:8a75>』によって封<b:8a85>されし / ガーディアンの意<b:8a5a>の合谷 / <f040><f042>ミーディアム〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They are the petrified consciousness of Guardians, sealed away by the |Blaze of Disaster.|
+  RE : They are the petrified
+       consciousness of Guardians, sealed
+       away by the |Blaze of Disaster.|
+
+[US#3928]
+  JP : 「その力は、ファルガイアに未来を<b:8a97>き / 『鍵』を生け左の<b:8a40><b:8a41>へと<b:8a82>くであろう〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They will lead Filgaia to its future just as they will lead the |Pillar| to the Sacrificial Altar.
+  RE : They will lead Filgaia to its
+       future just as they will lead the
+       |Pillar| to the Sacrificial Altar.
+
+[US#3929]
+  JP : 「だが、やがて人の手に<b:8a98>る / <b:8a99>の脅威が、空を<b:8a43>らいつつ<b:8a8c>れるはず / かつての『<b:8a7a>の<b:8a74><b:8a75>』に<b:8a9a>相するような〜<b:8a83>げたくはない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But it is not equal to that of the |Blaze of Disaster,| or that which gnaws away the sky even now...
+  RE : But it is not equal to that of the
+       |Blaze of Disaster,| or that which
+       gnaws away the sky even now...
+
+[US#3930]
+  JP : 「だが、バスカーの<b:8a38>を<b:8a9b>いる者として / 私情をはさむことは<b:8a9c>されぬ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But as the leader of Baskar, I cannot let personal feelings get in the way.
+  RE : But as the leader of Baskar, I
+       cannot let personal feelings get in
+       the way.
+
+[US#3931]
+  JP : 「我らはガーディアンの意<b:8a3e>を / 伝え、実<b:8a9d>する者ゆえに〜<b:8a9c>してくれたのか〜？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Our way must always be one of submission to the Guardians.
+  RE : Our way must always be one of
+       submission to the Guardians.
+
+[US#3932]
+  JP : 「私を<b:8a9c>すほどに / お前は強い心を持っているのか？<b:8a9c>してくれた〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Can you really be so strong as to forgive me?
+  RE : Can you really be so strong as to
+       forgive me?
+
+[US#3933]
+  JP : 「だが、サブリナは〜 / <b:8a9e>は、こんな私を / やっぱり<b:8a9c>してはくれぬのだろうな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But Sabrina... I don't think she will ever be able to...
+  RE : But Sabrina... I don't think she
+       will ever be able to...
+
+[US#3934]
+  JP : 「じゃが、確実に未来を<b:8a9f>らす / 確かな<89e0>なのじゃよ来を<b:8a9f>らす小さな<89e0>が / かき消されぬよう<b:8a82>いてくだされ〜<b:8aa0><b:8aa1>は / 『鍵』の命、ひとつに発えられるのではない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...but one bright enough to illuminate our future!
+  RE : ...but one bright enough to
+       illuminate our future!
+
+[US#3935]
+  JP : 「そうだ〜 / 運命はひとりで<89a3>右うのではない / <b:8aa2>で<89a3>右えば、重さも<b:8aa3>くなっていく
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But maybe... ...maybe such a fate is not one person's to bear alone.
+  RE : But maybe... ...maybe such a fate
+       is not one person's to bear alone.
+
+[US#3936]
+  JP : 「生きる命すべてならば / <b:8a4a><b:8a4b>なくしてファルガイアを / <89a3>右っていけるかもしれぬ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...If everyone aided, then perhaps Filgaia could be saved without requiring a sacrifice.
+  RE : ...If everyone aided, then perhaps
+       Filgaia could be saved without
+       requiring a sacrifice.
+
+[US#3937]
+  JP : 「どうして / このような<b:8aa4><b:8aa5>な道理に / 今まで気がつかなかったのか〜<b:8a43>い<b:8a66>くされていく
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I wonder why such a simple idea never occurred to us before...
+  RE : I wonder why such a simple idea
+       never occurred to us before...
+
+[US#3938]
+  JP : 「よもや、すべての命の始<8869>〜 / 『グラブ・ル・ガブル』に / 何かがあったということではないか〜？<b:8aa6><b:8aa7>とされ / ガーディアンの<b:8a80><b:8a81>があった
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Could something have happened in the source of all life, |Glaive Le Gable?|
+  RE : Could something have happened in
+       the source of all life, |Glaive Le
+       Gable?|
+
+[US#3939]
+  JP : 「だが、『<b:8a7a>の<b:8a74><b:8a75>』によって / ガーディアンの力は封<b:8a85>されてしまい / <b:8a80><b:8a81>は<b:8aa8>され、<b:8a7f>ちてしまったという〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But the Guardians' power was sealed by the |Blaze of Disaster,| and the sanctuary desecrated.
+  RE : But the Guardians' power was sealed
+       by the |Blaze of Disaster,| and the
+       sanctuary desecrated.
+
+[US#3940]
+  JP : 「<b:8a7f>ちた<b:8a80><b:8a81>は / 『鍵』を待つ、生け左の<b:8a40><b:8a41>となり / 今に<88bd>っているのだ<b:8a98><88e0>は / 人やファルガイアを / <b:8a60>つけるだけではない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The desecrated sanctuary has become a Sacrificial Altar that awaits the |Pillar.|
+  RE : The desecrated sanctuary has become
+       a Sacrificial Altar that awaits the
+       |Pillar.|
+
+[US#3941]
+  JP : 「<b:8a99>に<889c>ろしきは / 戦いが生み出す右のエネルギー〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What is truly horrible is the negative energy created by battle.
+  RE : What is truly horrible is the
+       negative energy created by battle.
+
+[US#3942]
+  JP : 「かつて、『<b:8a7a>の<b:8a74><b:8a75>』に無<b:8aa9>の力を<b:8aaa>えし / 右のエネルギーは今〜 / ファルガイアにに<b:8aab><b:8aac>しつつあるのだ<b:8aad>るうということは / 同時に、どこかに同<b:8aae>の反動を / <b:8a
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The negative energy that fed the |Blaze of Disaster| is now about to engulf Filgaia.
+  RE : The negative energy that fed the
+       |Blaze of Disaster| is now about to
+       engulf Filgaia.
+
+[US#3943]
+  JP : 「新義を<b:8a52>る戦いによって / ファルガイアが<b:8a60>ついているという事実を / 忘れないでほしい〜<b:8a69>が決まらぬのなら / 今すぐ命を<b:8a83>げよとは / もう言わぬ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : So remember that even a just war will inevitably harm Filgaia...
+  RE : So remember that even a just war
+       will inevitably harm Filgaia...
+
+[US#3944]
+  JP : 「ファルガイアの<b:8a7c>地をまわり / その目に世界の<b:8aaf>状を<b:8a67>してこい
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Go see the state Filgaia is in with your own eyes.
+  RE : Go see the state Filgaia is in with
+       your own eyes.
+
+[US#3945]
+  JP : 「<8844>る後〜 / お前は自分の命について / もう一度考えるがいい<b:8ab0>い命を<b:8a4a><b:8a4b>にして / <b:8aa0>気でいられるほど / 心が強いわけではない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : After that, you might view your place in the world a little differently.
+  RE : After that, you might view your
+       place in the world a little
+       differently.
+
+[US#3946]
+  JP : 「ゆえに、心を<b:8ab1>すのだ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Therefore, they have silenced their hearts...
+  RE : Therefore, they have silenced their
+       hearts...
+
+[US#3947]
+  JP : 「大きな目的を果たすため / 小さき事に心動かされぬよう / 心を<b:8ab1>しているのだ<b:8a43>い<b:8a66>くされぬように / 最<b:8ab2>の手<b:8ab3>を<b:8ab4>めているのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They have silenced their hearts so that small sadnesses do not override greater ones.
+  RE : They have silenced their hearts so
+       that small sadnesses do not
+       override greater ones.
+
+[US#3948]
+  JP : 「そのために / 人としての道を外れることは / すでに信<b:8a69>の上である<b:8a47>見は『<b:8a47>』として<b:8a70>取ったのか〜？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We are prepared to accept any cost to secure success.
+  RE : We are prepared to accept any cost
+       to secure success.
+
+[US#3949]
+  JP : 「いや、もっと大きな脅威が / <896e>く、<b:8ab5>かに進行しているに違いない<b:8b0b><b:8b06>「過<b:8ab6>はどうであれ / お前は<b:8ab7>んで / 『鍵』となることを<b:8a70>け入れたのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : No, I am sure that there is an even yet greater, deeper threat.
+  RE : No, I am sure that there is an even
+       yet greater, deeper threat.
+
+[US#3950]
+  JP : 「もう、後戻りはできぬ〜 / あきらめるのだ<b:8b06>「そうだ〜 / タウンメリアにて[05]がを / <88a7><88a8>しようとしたのは我々だ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You cannot give up your destiny now. Do not try to go back.
+  RE : You cannot give up your destiny
+       now. Do not try to go back.
+
+[US#3951]
+  JP : 「出<b:8ab8>したサブリナと / その<b:8a44>を<b:8a70>け<b:8a3a>ぐ[05]がを / １０数に渡って追っていたのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We had been looking for Sabrina, who ran away from us, and her son, 3, for over 10 years.
+  RE : We had been looking for Sabrina,
+       who ran away from us, and her son,
+       3, for over 10 years.
+
+[US#3952]
+  JP : 「あとはお前が / 『鍵』を<b:8a70>け<b:8a3a>いでくれれば / もう、何も<b:8a4c>うことはない<b:8ab9>達なのか〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Now if you only agree to become |Pillar| after your mother, I will be able to die a happy man.
+  RE : Now if you only agree to become
+       |Pillar| after your mother, I will
+       be able to die a happy man.
+
+[US#3953]
+  JP : 「『鍵』には / <b:8ab9>達など、必要ないというのに〜<b:8a83>げて世界を<8832>えば / ファルガイアの『<b:8aba><b:8abb>』になれるんだぞッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Doesn't 3 know that a |Pillar| has no need for friends?
+  RE : Doesn't 3 know that a |Pillar| has
+       no need for friends?
+
+[US#3954]
+  JP : 「お前は『<b:8aba><b:8abb>』に / なりたくはないのかッ！<b:8abc>は / わずかに命を<b:8abd>すのみである
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Don't you want to be a |Hero?|
+  RE : Don't you want to be a |Hero?|
+
+[US#3955]
+  JP : 「だが、たくさんのマナが<8880>まれば / ひとつの大きな星となる〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...but if lots of |Mana| is gathered, then a planet may be formed.
+  RE : ...but if lots of |Mana| is
+       gathered, then a planet may be
+       formed.
+
+[US#3956]
+  JP : 「それは、星を<8832>いたいという / 我らの想いとも同じではなかろうか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Isn't that the like our wish to save our own planet?
+  RE : Isn't that the like our wish to
+       save our own planet?
+
+[US#3957]
+  JP : 「ひとりひとりは、小さな欠<b:8abc>でも / ひとつになれば / 星を発える力<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If each person - if each fragment - united and became one, then that might equal a planet...
+  RE : If each person - if each fragment -
+       united and became one, then that
+       might equal a planet...
+
+[US#3958]
+  JP : 「そう、<b:8abe>しき『鍵』に代れるような / 大きな力になりえないだろうか？<b:8abf>っている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Would it be enough to substitute for life of the |Pillar?|
+  RE : Would it be enough to substitute
+       for life of the |Pillar?|
+
+[US#3959]
+  JP : 「レイラインの行きつく場所 / <88d1>つのレイポイントには星を面作るほどの / マナが<b:8a8e>えられているという〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The Ralines converge on four places called the Raypoints, where there's enough Mana to form a planet.
+  RE : The Ralines converge on four places
+       called the Raypoints, where there's
+       enough Mana to form a planet.
+
+[US#3960]
+  JP : 「[11]お<895a>の<8995>か先東の<b:8ac0>上[11]ぉには / レイポイントのひとつがあると / 伝えられているが〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It is said that one Raypoint lies 1far to the SW of this village, on the ocean...0
+  RE : It is said that one Raypoint lies
+       far to the SW of this village, on
+       the ocean...
+
+[US#3961]
+  JP : 「それは、<89d3>の上からでは / 見つからないとも聞いているぞ<b:8a40><b:8a41>に向かう / 決心がついたみたいだな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But it cannot be found from a boat!
+  RE : But it cannot be found from a boat!
+
+[US#3962]
+  JP : 「この、<b:8a43>われてしまった空を見上げれば / あきらめてしまうのも / 無理はない〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's hard not to give up all hope when you look up and see the sky being eaten away...
+  RE : It's hard not to give up all hope
+       when you look up and see the sky
+       being eaten away...
+
+[US#3963]
+  JP : 「そう、[11]お<895a>の先側[11]ぉより / 急<88f1>に『マナ』が失われているのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : 1Southeast of the village,0 a large amount of |Mana| has been lost all at once.
+  RE : Southeast of the village, a large
+       amount of |Mana| has been lost all
+       at once.
+
+[US#3964]
+  JP : 「これがオデッサのしわざならば / すぐにでも食い止めないと / ファルガイアは<b:8ac1>からびてしまいかねん<b:8ac2><b:8ac3>が〜 / ファルガイアの生命エネルギーが / 急<88f1>に<b:8ac4>少しているのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If this is a part of Odessa's plot, then they must be stopped before the planet withers away!
+  RE : If this is a part of Odessa's plot,
+       then they must be stopped before
+       the planet withers away!
+
+[US#3965]
+  JP : 「それがオデッサのしわざならば / 自分たちが発配を<b:8ab7>む世界そのものが / <b:8a60>ついていることに、なぜ気づかないッ！<b:8ac5>をすませば<b:8ac6>こえるはず / そう、ファルガイアの<b:8a6d><b:8ac7>が〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If it's Odessa, don't they know that they're damaging the planet that they hope to rule!?
+  RE : If it's Odessa, don't they know
+       that they're damaging the planet
+       that they hope to rule!?
+
+[US#3966]
+  JP : 「キミの命ひとつで / この<b:8a6d><b:8ac7>を<8832>うことができるのだ / <8954>わないでほしい〜<b:8ac8><b:8ac9>されてしまいかねない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You are the only one who can respond this cry for help. Do not falter.
+  RE : You are the only one who can
+       respond this cry for help. Do not
+       falter.
+
+[US#3967]
+  JP : 「見えざる相とは、<b:8aca>の<89b9>い心〜 / そして、来るべき脅威 / 空を<b:8a43>らい、未来閉ざす『何か』〜<b:8acb>び<b:8acc>ってこようとしている〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The enemy we can't see is our own weak hearts as well as that which eats away the very sky...
+  RE : The enemy we can't see is our own
+       weak hearts as well as that which
+       eats away the very sky...
+
+[US#3968]
+  JP : 「<8a10>く未来を見<b:8acd>えてると / 我々の相は、オデッサではない〜 / それは、キミも同じ事だよ<b:8ace>を脅かしている
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If we look far into the future, we can see that our true enemy isn't Odessa. Don't you see?
+  RE : If we look far into the future, we
+       can see that our true enemy isn't
+       Odessa. Don't you see?
+
+[US#3969]
+  JP : 「だが『空が<b:8a43>われる』と表現されたほどの〜 / [05]がの命を必要とするほどの / 脅威といえようか〜<b:8a82>く運命に / <8911>っていただけなのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But are they a great enough menace to threaten the sky? Enough to require 3's life?
+  RE : But are they a great enough menace
+       to threaten the sky? Enough to
+       require 3's life?
+
+[US#3970]
+  JP : 「そう考えるのだ〜 / それ以上を考えないようにするのだ来る脅威を前にして / 『鍵』の後<b:8a3a>者たる / キミが<895a>に戻ってくるとは〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That is what we must think. That is the only thing we must think.
+  RE : That is what we must think. That is
+       the only thing we must think.
+
+[US#3971]
+  JP : 「これもすべて / ガーディアンのお<b:8a82>きに違いない〜来を<88cc>えるに / 無くてはならない存在〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...is surely the work of the Guardians!
+  RE : ...is surely the work of the
+       Guardians!
+
+[US#3972]
+  JP : 「どうか、[05]がに / 『鍵』を<b:8a3a>がせてやってほしい
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Please help convince 3 to become the next |Pillar.|
+  RE : Please help convince 3 to become
+       the next |Pillar.|
+
+[US#3973]
+  JP : 「『鍵』を発える<b:8acf>間がいたから / 人知を<b:8a6b>える / 戦いを<b:8a6e>り<b:8a6b>えてこれたのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The |Pillar| had companions to help it live through battles normal mortals couldn't have.
+  RE : The |Pillar| had companions to help
+       it live through battles normal
+       mortals couldn't have.
+
+[US#3974]
+  JP : 「ならば、私たちも / 『鍵』を発える力となりましょう〜
+  LIT: Then let us too become a force that upholds the 'Key'. (発える->支える; 鍵/Pillar)
+  EN : Which means that we, too, should come to the aid of the |Pillar.|
+  RE : Which means that we, too, should
+       come to the aid of the |Pillar.|
+
+[US#3975]
+  JP : 「<b:8aa2>で力を合わせることで / 『鍵』の命を<b:8a64>やさずとも / 世界を発えていられるように〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If we all join our strength, then we may be able to save the world without using the |Pillar's| life.
+  RE : If we all join our strength, then
+       we may be able to save the world
+       without using the |Pillar's| life.
+
+[US#3976]
+  JP : 「でも、そのすべてが / 地上にあるとは<b:8aa9>らないのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But that doesn't mean they are all on the ground...
+  RE : But that doesn't mean they are all
+       on the ground...
+
+[US#3977]
+  JP : 「<89f9>の道には / <89f9>の『マナ』が<b:8a8e>えられし<b:8a7d><b:8a7e>が / たゆたっていると伝えられています<b:8ad0>気』と『<b:8ad1><b:8ab7>』〜 / それは人が誰も持っている / もっとも強い心の<b:8a5e>き〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There is a tale of a shrine containing much wind |Mana| that floats on the sea of winds.
+  RE : There is a tale of a shrine
+       containing much wind |Mana| that
+       floats on the sea of winds.
+
+[US#3978]
+  JP : 「いいえ、持っていたと / 言うべきでしょうか〜
+  LIT: No, perhaps I should say she 'had' it. (past tense)
+  EN : Wait...maybe I should say |shined.|
+  RE : Wait...maybe I should say |shined.|
+
+[US#3979]
+  JP : 「いつしか人の心から<b:8a5e>きは失われ / そして今、ファルガイアから / <b:8a5e>きが失われようとしています
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Those things have disappeared from our hearts, and are disappearing from Filgaia as well.
+  RE : Those things have disappeared from
+       our hearts, and are disappearing
+       from Filgaia as well.
+
+[US#3980]
+  JP : 「『愛』のラフティーナ / 『<b:8ad0>気』のジャスティーン / 『<b:8ad1><b:8ab7>』のゼファー〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Raftina of |Love,| Justine of |Courage,| and Zephyr of |Hope.|
+  RE : Raftina of |Love,| Justine of
+       |Courage,| and Zephyr of |Hope.|
+
+[US#3981]
+  JP : 「ガーディアンロードならば / この空の異世事態を / 何とかしてくれるのでしょうか？<b:8a8b>が<b:8a8c>れたような空〜 / 『鍵』で発えていないと / このまま落ちてきそうな空〜<b:8ad2>々しき<897f>が<b:8ad3>を現して以来 / 大地の<b:8a5e>きが急<8a0
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm sure the Guardian Lords would do something about this encroachment if they could.
+  RE : I'm sure the Guardian Lords would
+       do something about this
+       encroachment if they could.
+
+[US#3982]
+  JP : 「おそらくは / あの<897f>が、星のエネルギー『マナ』を / <b:8a86>っているからでしょう〜<b:8a91>むことがあります
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Maybe that tower is what is depriving the planet of its |Mana.|
+  RE : Maybe that tower is what is
+       depriving the planet of its |Mana.|
+
+[US#3983]
+  JP : 「あれは何と<b:8ad2>々しい<897f>でしょうか〜 / まるで大地に突き立てられた / ケモノの<b:8a94>のようです<b:8a47>見が<8918>（み）たビジョン〜 / 『空が<b:8a43>われる』とは、何とあいまいで / それでいて生々しい表現なのでしょう〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : For some reason, the tower just FEELS evil. It looks like a fang sunk into the flesh of the earth.
+  RE : For some reason, the tower just
+       FEELS evil. It looks like a fang
+       sunk into the flesh of the earth.
+
+[US#3984]
+  JP : 「あなたの役<8913>は / そのような未来から / この星を<b:8a52>ることなのですよ<b:8a43>われる』とは / いったいどういうことなのでしょうか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Your duty is to protect our planet from that fate.
+  RE : Your duty is to protect our planet
+       from that fate.
+
+[US#3985]
+  JP : 「古の伝<b:8ad4>にあるように / 『<b:8a74><b:8a75>』（ディザスター）が / <b:8a63>びファルガイアを<b:8ad5><b:8ad6>するのでしょうか？<b:8a54>がらないで〜 / あなたは、今あるカタチを脱ぎ<b:8ad7>てて / 未来そのものに生まれ変わるの
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Is the old prophesy of |Disaster| coming back to destroy Filgaia at last come to pass?
+  RE : Is the old prophesy of |Disaster|
+       coming back to destroy Filgaia at
+       last come to pass?
+
+[US#3986]
+  JP : 「あなたは、あなたの<b:8ad8>きなヒトを〜 / あなたを<b:8ad8>きと言ってくれるヒトを / <b:8a52>り抜ける力を手にすることができるのよ<b:8a52>ってあげてください / あの家は、ここで死してはいけないのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You can have the power to protect those you love, and who love you, if you want it...
+  RE : You can have the power to protect
+       those you love, and who love you,
+       if you want it...
+
+[US#3987]
+  JP : 「バスカーとして生まれし者は / 『鍵』の運命を<89a3>右うか / 人の心を<b:8ad9>てるしかないのよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Those born in Baskar must either accept the fate of the |Pillar| or throw away their own heart.
+  RE : Those born in Baskar must either
+       accept the fate of the |Pillar| or
+       throw away their own heart.
+
+[US#3988]
+  JP : 「誰も、[05]がひとりに / 世界の命運を<89a3>右わすことに / 後ろめたいものを信じているからなのよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's because they feel guilty for making you shoulder the weight of the whole world by yourself.
+  RE : It's because they feel guilty for
+       making you shoulder the weight of
+       the whole world by yourself.
+
+[US#3989]
+  JP : 「お前は、この<895a>の人間に〜 / そして、ファルガイアに生きる / すべての命に愛されているんだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Everyone in this village loves you, as does all life in Filgaia.
+  RE : Everyone in this village loves you,
+       as does all life in Filgaia.
+
+[US#3990]
+  JP : 「そのことを / 忘れないでおくれよ〜<b:8a44>は / <b:8ada>えることはないんだよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Never forget that.
+  RE : Never forget that.
+
+[US#3991]
+  JP : 「いつまでも、いつまでも〜 / ファルガイアの未来となって / 残っていくんだよ<b:8a43>らわんとする脅威は / 今や世界の中心に<b:8a5c>達しようとしておる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It will always continue on. It is the very future of Filgaia.
+  RE : It will always continue on. It is
+       the very future of Filgaia.
+
+[US#3992]
+  JP : 「ファルガイアの中心には / すべての始りとなった / <b:8adb>のガーディアンが<b:8adc>たわるという〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : In the center of the world lies the Guardian of mud, which is the genesis of all life on Filgaia.
+  RE : In the center of the world lies the
+       Guardian of mud, which is the
+       genesis of all life on Filgaia.
+
+[US#3993]
+  JP : 「<b:8adb>のガーディアン『グラブ・ル・ガブル』が / <b:8a43>われし時こそ / <b:8a99>にファルガイアの命が<b:8ada>たれる時なのじゃ<b:8add><89f9>となって / ファルガイアに<b:8a87>き<b:8ade>れておる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If this Guardian of mud, Glaive Le Gable, is devoured, then all life on Filgaia will truly end.
+  RE : If this Guardian of mud, Glaive Le
+       Gable, is devoured, then all life
+       on Filgaia will truly end.
+
+[US#3994]
+  JP : 「だが、ファルガイアの空と未来を閉ざす / この暗<b:8adf>を<b:8ae0>うこと、<b:8add><89f9>にはかなわず〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But not even this storm is enough to clear the clouds that threaten both Filgaia's sky and its future.
+  RE : But not even this storm is enough
+       to clear the clouds that threaten
+       both Filgaia's sky and its future.
+
+[US#3995]
+  JP : 「力ではない〜 / 力だけでは、本当に大切なモノは / <b:8a52>れないのじゃ〜<b:8a47>として<8918>（み）た / ビジョンそのままの空〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Force of arms will not be enough to protect that which we must protect.
+  RE : Force of arms will not be enough to
+       protect that which we must protect.
+
+[US#3996]
+  JP : 「ガーディアンたちは / 暗示する<b:8a47>などではなく / 来たるべき未来を<b:8ae1>えてくれたのですじゃ<b:8a47>見として乗を / 開<b:8ae2>させようとしておる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The Guardians have shown me what the future holds more clearly than any dream ever could.
+  RE : The Guardians have shown me what
+       the future holds more clearly than
+       any dream ever could.
+
+[US#3997]
+  JP : 「あの家と私が<8918>（み）た<b:8a47>〜 / 『ファルガイアの<b:8a44>が<b:8a45>み取られる』とは / いったい何を意<b:8ae3>するのであろうか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The dream that both of us saw, of the blood of Filgaia being drained away - what could that mean?
+  RE : The dream that both of us saw, of
+       the blood of Filgaia being drained
+       away - what could that mean?
+
+[US#3998]
+  JP : 「ファルガイアの<b:8a44>〜 / それは、星の生命エネルギー〜 / 『マナ』を指しているのではあるまいか？<b:8a47>に / 『ファルガイアの<b:8a44>が<b:8a45>み取られる』と / <8918>（み）えたのじゃ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The blood of Filgaia- that must mean the |Mana.|
+  RE : The blood of Filgaia- that must
+       mean the |Mana.|
+
+[US#3999]
+  JP : 「これが意<b:8ae3>するもの〜 / そして、その時いっしょに<8918>えた / <888c>く、<b:8ad2>々しい<897f>の<88c0>は、いったい〜<b:8a44><b:8ae4>のようなものじゃ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What that could mean, as well as the black, evil tower, we have yet to discern...
+  RE : What that could mean, as well as
+       the black, evil tower, we have yet
+       to discern...
+
+[US#4000]
+  JP : 「手にすれば強力なエネルギーを / モノにすることとなろう / じゃが、しかし〜
+  LIT: To take it in hand would mean gaining mighty energy. And yet, however...
+  EN : Obtaining it could mean possessing great power, but...
+  RE : Obtaining it could mean possessing
+       great power, but...
+
+[US#4001]
+  JP : 「まかりまちがえば / ファルガイアの死に<88bd>るやもしれぬ / 危険なモノじゃて〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...it is so dangerous that any error could also lead to the death of Filgaia itself!
+  RE : ...it is so dangerous that any
+       error could also lead to the death
+       of Filgaia itself!
+
+[US#4002]
+  JP : 「いずれヤツらは / 星の生命エネルギー『マナ』にまで / 手を出すのやもしれぬな〜
+  LIT: Before long those fellows may even reach for the planet's life-energy, 'Mana'.
+  EN : That means they wouldn't hesitate to steal the life-force of the planet, |Mana.|
+  RE : That means they wouldn't hesitate
+       to steal the life-force of the
+       planet, |Mana.|
+
+[US#4003]
+  JP : 「それは、同時に『鍵』としての乗を / みがいていることでもあるのだ
+  LIT: That, at the same time, means honing your capacity as the 'Key'. (乗->器 'vessel')
+  EN : This will happen as you also come into your own as a |Pillar,| until one day your destiny leads you...
+  RE : This will happen as you also come
+       into your own as a |Pillar,| until
+       one day your destiny leads you...
+
+[US#4004]
+  JP : 「やがて<b:8a82>かれるじゃろう / 生け左の<b:8a40><b:8a41>にて / その命を<b:8a64>やし<b:8a66>くすその時まで〜<b:8a47>に<8918>（み）たビジョン〜 / 『空が<b:8a43>われる』とは / オデッサを指しておるのじゃろうか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ... inevitably to the Sacrificial Altar, where you will realize your true purpose in this life.
+  RE : ... inevitably to the Sacrificial
+       Altar, where you will realize your
+       true purpose in this life.
+
+[US#4005]
+  JP : 「そうは思えぬ〜 / もっと、<88bf>大であいまいな / 脅威としかいい表せぬナニかではあるまいか<b:8a83>げられることで / ファルガイアの未来は〜 / すべての命は<b:8a52>られるのじゃ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I don't think so... I have the feeling it is something at once bigger and more vague...
+  RE : I don't think so... I have the
+       feeling it is something at once
+       bigger and more vague...
+
+[US#4006]
+  JP : 「お前は命を<b:8ad9>てるのではない / そう、未来に<b:8ae5>げるのじゃ〜 / カタチを変えて、<b:8a96><8a10>に生きるのじゃ〜<b:8a4a><b:8a4b>によって / さらなる生を<b:8a70>けておるのじゃ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Thus you will not truly be ending your life...you will live on eternally in ALL life hereafter!
+  RE : Thus you will not truly be ending
+       your life...you will live on
+       eternally in ALL life hereafter!
+
+[US#4007]
+  JP : 「認めたくはないが / 生け左もまた、生きるために / 必要なすべなのじゃよ〜<b:8ae6>けるような / 命を持っておる〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I wish it were not so...but the sacrifice is needed to trade for all other life in Filgaia.
+  RE : I wish it were not so...but the
+       sacrifice is needed to trade for
+       all other life in Filgaia.
+
+[US#4008]
+  JP : 「これならば / ガーディアンたちも / 『鍵』として認めてくれるじゃろう<b:8ae7>護があらんことをッ！ / そして、『鍵』の後<b:8a3a>者に / 試<8a01>の達成をッ！<b:8a5e>きはじめるときもこんな信信 / じゃなかったっけ？そうよそうよきっとそうよ / え？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I am sure the Guardians will accept you as |Pillar.|
+  RE : I am sure the Guardians will accept
+       you as |Pillar.|
+
+[US#4009]
+  JP : 「みんなで<b:8a52>れば / 『鍵』に頼らなくたって / ファルガイアを発えていけるんだよ<b:8a38>が、ファルガイアに生きる全<b:8ae9>が力をあわ[16]おぎ[0c]せて『鍵』の代りに世界を発えればいいのよ… / そうすればひとりを<b:8a4a><b:8a4b>にしなくてすむよみ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If we all do it, then we can save Filgaia without depending on the |Pillar.|
+  RE : If we all do it, then we can save
+       Filgaia without depending on the
+       |Pillar.|
+
+[US#4010]
+  JP : 「この想いだけが / わたしの<b:8aea><b:8aeb>です / この<b:8aea><b:8aeb>で世界のために戦いたいの〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : My only weapon is my desire to protect Filgaia, but I will use it.
+  RE : My only weapon is my desire to
+       protect Filgaia, but I will use it.
+
+[US#4011]
+  JP : 「だって、みんなのがんばりでここまで / ここまでいろんな脅威をはねのけて / これたんだもの〜<b:8aec>ち<b:8aed>って来たのでは？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Everyone has fought so hard for so long with all their strength to get this far...
+  RE : Everyone has fought so hard for so
+       long with all their strength to get
+       this far...
+
+[US#4012]
+  JP : 「それはまるで / 一本の『鍵』に<b:8a9a>相するような / 大きな力だとおもいます〜<b:8a40><b:8a41>に向かうって決めたの？そんなのウソよ / どうしてなの？『鍵』の力なんて使わなくても[16]おぎ[0c]きっとファルガイアを護ってくれるって信じて / いたのにわたし…どうした
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Isn't the strength of everyone together equal to that of one |Pillar?|
+  RE : Isn't the strength of everyone
+       together equal to that of one
+       |Pillar?|
+
+[US#4013]
+  JP : 「『ファルガイアの<b:8a44>が<b:8a45>み取られている』〜 / [11]お先側の山[11]ぉに突き立つ<b:8a94>が / 星の命を<b:8a60>つけているのよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : |The blood of Filgaia is being sucked away| ... It's the fang in the 1forest to the SE0.
+  RE : |The blood of Filgaia is being
+       sucked away| ... It's the fang in
+       the forest to the SE.
+
+[US#4014]
+  JP : 「止めなきゃ〜 / 止めないと、空よりも先に / 大地が無くなってしまうの〜<b:8a47>』のカタチをと / ってガーディアンがわたしに伝えようとしてい[16]おぎ[0c]るんだよきっと〜でも、こんなことフツーの人 / に話しても信じてもらえないかも？それどころ / かわたしヘンなコだって思われて
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We have to stop it. If we don't, then the very ground will disappear before the sky does!
+  RE : We have to stop it. If we don't,
+       then the very ground will disappear
+       before the sky does!
+
+[US#4015]
+  JP : 「未知の、大きな力に乗れることが / こんなにも<889c>ろしい事だなんて〜 / [05]がくんは強いと思う〜<b:8a47>を見るの〜 / ううん、<b:8a47>を<8918>（み）ているの〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I didn't realize how scary it is to come into contact with such great power. 3 is so brave.
+  RE : I didn't realize how scary it is to
+       come into contact with such great
+       power. 3 is so brave.
+
+[US#4016]
+  JP : 「わたしじゃない誰かが見ている<b:8a47>を / <8a10>くからボンヤリながめるように / 信じているの〜<b:8a68>な性<b:8af0>のままだよきっとッ！そんなの / イヤだし何とかしたいし、そういうのは<b:8af1><b:8af2>的 / にお話しして分していかなきゃイケナイ事<
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It feels just like I'm watching someone else's dream from very far away...
+  RE : It feels just like I'm watching
+       someone else's dream from very far
+       away...
+
+[US#4017]
+  JP : 「<89bb>っていると / 誰かがわたしの中に / 入ってくるような信信がして〜<b:8a54>いんです / <b:8a47>を見るのが<b:8a54>いんです〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : When I'm asleep... ...It's as though somebody else is there with me inside my body.
+  RE : When I'm asleep... ...It's as
+       though somebody else is there with
+       me inside my body.
+
+[US#4018]
+  JP : 「今<b:8af3>もまた / <b:8a54>い<b:8a47>を見るんじゃないかと思うと〜<b:8ad0>気を出して、<b:8ad0>気出さ / なきゃダメなんだよ、<b:8ad0>気を出して話しかけ / ないと<881a>離がどんどん<89da>がっていくんだよ[16]おぎ[0c]<881a>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I always wonder if I'll see another scary dream when I close my eyes.
+  RE : I always wonder if I'll see another
+       scary dream when I close my eyes.
+
+[US#4019]
+  JP : 「だから、『鍵』には / 方々な力がガーディアンから / <b:8a8f>けられているの
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The Guardians have given many powers to the |Pillars.|
+  RE : The Guardians have given many
+       powers to the |Pillars.|
+
+[US#4020]
+  JP : 「〜生け左の<b:8a40><b:8a41>以外で / 命を落とすことがないようにね〜<b:8a3a><b:8ad4>は / ずっと以前から行われていたそうです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Just don't die before you get to the Sacrificial Altar, eh?
+  RE : Just don't die before you get to
+       the Sacrificial Altar, eh?
+
+[US#4021]
+  JP : 「誰もがそのことに / どこか<b:8af4>誓をいだくことがあっても / 『鍵』が無くなることはありませんでした〜<b:8aa3><b:8af5>されるかもしれない / けどねでもねわたしは言わなくちゃいけないん / だよだってわたしの代りに『鍵』の試<8a01>を<b:8a70>け[16]おぎ[
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Even though some may have had their doubts about it, the custom of the |Pillars| has continued unabated.
+  RE : Even though some may have had their
+       doubts about it, the custom of the
+       |Pillars| has continued unabated.
+
+[US#4022]
+  JP : 「そうするには / ファルガイアを護らなきゃ / いけないの〜
+  LIT: But to do that, I have to protect Filgaia.
+  EN : To do that, though, I have to protect Filgaia...
+  RE : To do that, though, I have to
+       protect Filgaia...
+
+[US#4023]
+  JP : 「〜ごめんね / わたしわかっていたのに / 言い出せなかったの〜
+  LIT: ...I'm sorry. I knew it all along, yet I couldn't bring myself to say it.
+  EN : I'm sorry. I knew it, but I just couldn't say anything.
+  RE : I'm sorry. I knew it, but I just
+       couldn't say anything.
+
+[US#4024]
+  JP : 「わたしが、『鍵』になれば / よかったのにね〜<b:8af7>かける<f040><f042>）[16]おぎ<b:8af8>い空が食べられてしまうの〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I knew it should have been me who became |Pillar...|
+  RE : I knew it should have been me who
+       became |Pillar...|
+
+[US#4025]
+  JP : 「だから<f040><f042><b:8a68>街人が / 国の入り口で待っているはずよ<b:8a52>ってあげて / くださいね<b:8af9><b:8afa>備しているみたいだけど… Ｏ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : So...
+  RE : So...
+
+[US#4026]
+  JP : 「あんたらを / たよりにしてるからな<b:8afd>き<b:8adb>の道』 / 〜〜〜〜というタイトルが目をひきます
+  LIT: (literal pending: JP has unsolved codes)
+  EN : trial arena waits at the entrance to the village.
+  RE : trial arena waits at the entrance
+       to the village.
+
+[US#4027]
+  JP : ＊進みますか？[18]か<b:8b01><b:8a81>に / <b:8afd>く<b:8a5e>く<b:8adb>の道が<89da>がっている / <b:8adb>の道の名はグラブ・ル・ガブル〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's why we're depending on you.
+  RE : That's why we're depending on you.
+
+[US#4029]
+  JP : ＊<b:8a6a>なる存在グラブ・ル・ガブルは / ファルガイアに年多の命を / <b:8b04>み落としていく
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The Guardian of this sea of mud, |Glaive Le Gable,| is the source and foundation of all life.
+  RE : The Guardian of this sea of mud,
+       |Glaive Le Gable,| is the source
+       and foundation of all life.
+
+[US#4030]
+  JP : ＊ガーディアン、古<b:8b05><b:8b06>エルゥ / 人間と動物たち〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Glaive Le Gable is the primogenitor of every form of life on Filgaia:
+  RE : Glaive Le Gable is the primogenitor
+       of every form of life on Filgaia:
+
+[US#4031]
+  JP : ＊地にあふれる命は / 時に手を取り、反発し / <b:8b07><b:8b08>と<b:8b09><b:8a65>を<b:8b0a>り<b:8b0b>していく〜<b:8b0c>』 / 〜〜〜〜というタイトルが目をひきます
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The Guardians, the ancient race of Elws, mankind, and the animals.
+  RE : The Guardians, the ancient race of
+       Elws, mankind, and the animals.
+
+[US#4032]
+  JP : ＊進みますか？[18]か
+  LIT: *Do you want to proceed? (18 = yes/no prompt)
+  EN : The lives that live on Filgaia then live according to their own fates and natures.
+  RE : The lives that live on Filgaia then
+       live according to their own fates
+       and natures.
+
+[US#4034]
+  JP : ＊<8995>か伝<b:8ad4>の彼方に存在する古<b:8b05><b:8b06>エルゥは / グラブ・ル・ガブルの<b:8ace>動を / 星の心<b:8b0f>として<b:8aa9>定しようと<b:8a7d><b:8a7e>を建立する
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Unaware of anything, Glaive Le Gable fills Filgaia with life, without plan or purpose.
+  RE : Unaware of anything, Glaive Le
+       Gable fills Filgaia with life,
+       without plan or purpose.
+
+[US#4035]
+  JP : ＊『<b:8b0c>』、そう呼ばれた<b:8a7d><b:8a7e>は / 言葉通り、グラブ・ル・ガブルに突き立ち / その無<b:8b0d>道な<b:8ace>動を<b:8b10>制するのであった<b:8b11>から<b:8b11>へ、元<89f9>来<b:8ae6>込め<b:8af9>のこの僕が
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The legendary ancient race of Elws have erected a shrine to Glaive Le Gable to celebrate his existence.
+  RE : The legendary ancient race of Elws
+       have erected a shrine to Glaive Le
+       Gable to celebrate his existence.
+
+[US#4036]
+  JP : [17]<b:8b13>も<b:8ae6><b:8b14>も / <b:8aa9>界以上は入りゃしないモンさ / お<b:8afb>さん、無理言っちゃいけねぇ<b:8b15>だ〜 / 全<b:8ae6><b:8afa><b:8b16>、[02]ギャラ / 次回はうまいモンが食べたいな[18]か
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But this shrine, called |Wedge,| that pierces Glaive Le Gable, also controls his creation of life.
+  RE : But this shrine, called |Wedge,|
+       that pierces Glaive Le Gable, also
+       controls his creation of life.
+
+[US#4038]
+  JP : 「１２数前、キミが生まれた<8808><b:8b1c>だ<b:8a6a>さんと２人で<b:8b11>をしてたんだよね？<b:8b1d>を聞きたいな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The home of the Baskars... heirs to the ancient tradition of worship for the |Guardians.|
+  RE : The home of the Baskars... heirs to
+       the ancient tradition of worship
+       for the |Guardians.|
+
+[US#4039]
+  JP : 「我々で / 国の代表に話を聞いてみよう
+  LIT: Let's go and hear what the country's representative has to say.
+  EN : ...And where you were born 12 years ago.
+  RE : ...And where you were born 12 years
+       ago.
+
+[US#4040]
+  JP : 「それまで[05]がは / 国の中で自由にしていてくれ / 何か手がかりがあるかもしれないからな来られました
+  LIT: Until then, {5}, feel free within the country; there may be some clue. (05 name slot; bleed tail)
+  EN : Let's go talk to the Village Chief.
+  RE : Let's go talk to the Village Chief.
+
+[US#4041]
+  JP : 「おっしゃるとおり / [05]がはこの国の家族です
+  LIT: Just as you say; {5} is family of this country. (05 name slot)
+  EN : Feel free to wander around the village, 3. There might be clues somewhere...
+  RE : Feel free to wander around the
+       village, 3. There might be clues
+       somewhere...
+
+[US#4042]
+  JP : 「ガーディアンの<b:8b1e>女 / サブリナのひとり<89e2>家 / [05]がに、まちがいありません<b:8b1e>女として / [13]<8b1f><b:8ad1>なる乗を発揮したサブリナは / [13]<895a>を<b:8a8c>れた渡り<b:8b20>と<b:8b21>に落ち、家を<
+  LIT: (literal pending: JP has unsolved codes)
+  EN : As you say, 3 is a child of this village.
+  RE : As you say, 3 is a child of this
+       village.
+
+[US#4043]
+  JP : [13]<8aa2>に<b:8b23><b:8b24>された小さな命は / [13][05]がと名付けられ / [13]３<b:8b25>まで<b:8b26>てられる。が<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : 3 is definitely the child of Sabrina the Guardian sorceress.
+  RE : 3 is definitely the child of
+       Sabrina the Guardian sorceress.
+
+[US#4044]
+  JP : [13]<8a2b>険にて<b:8a70>けたケガが元で / [13]<8b27><8a0e>が亡くなったのを<b:8b28>に / [13]サブリナの方家が一変したという
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The child was given the name of 3, and was loved by all until he was 3. Then...
+  RE : The child was given the name of 3,
+       and was loved by all until he was
+       3. Then...
+
+[US#4045]
+  JP : [13]やがてサブリナは / [13]<8ab0>い[05]がを連れて国を出<b:8ab8> / [13]その後の行方は、ようとしてつかめなかった
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...Sabrina changed drastically when she learned that her love died from injuries sustained on a mission.
+  RE : ...Sabrina changed drastically when
+       she learned that her love died from
+       injuries sustained on a mission.
+
+[US#4046]
+  JP : 「[05]がのお<b:8a6a>さんは / タウンメリアを<b:8a8c>れた後 / そこで亡くなっています
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Finally Sabrina took her child and left one night. We were all overcome with grief.
+  RE : Finally Sabrina took her child and
+       left one night. We were all
+       overcome with grief.
+
+[US#4047]
+  JP : 「以来、[05]がは / タウンメリアで<b:8a8a>らしていました
+  LIT: (literal pending: JP has unsolved codes)
+  EN : She died in the Town of Meria. That much we know.
+  RE : She died in the Town of Meria. That
+       much we know.
+
+[US#4048]
+  JP : 「長数にわたって / [05]がの行方を / 調査しておりましたゆえ〜
+  LIT: Because we've been investigating {5}'s whereabouts for a long time. (長数->長年; 05 name slot)
+  EN : After that, 3 continued living there.
+  RE : After that, 3 continued living
+       there.
+
+[US#4049]
+  JP : 「いかにも / [05]がこそ、今に少ない / 『鍵』の<b:8a39>質を持った存在なのです<b:8b29>しましょうか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : For over the years we have looked long and hard for 3.
+  RE : For over the years we have looked
+       long and hard for 3.
+
+[US#4050]
+  JP : 「[05]がには / サブリナより招き<b:8a3a>いだ / 『鍵』の乗が強く見られていたのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : 3 is one of the few left who has the inborn ability to become a |Pillar.|
+  RE : 3 is one of the few left who has
+       the inborn ability to become a
+       |Pillar.|
+
+[US#4051]
+  JP : 「そうですじゃ / この国には、もうひとり / 『鍵』の<b:8a39>質を持つものがいましてな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It is plain to see that 3 has inherited this ability from Sabrina.
+  RE : It is plain to see that 3 has
+       inherited this ability from
+       Sabrina.
+
+[US#4052]
+  JP : 「みなさまに / 招き合わせたいと思うのですが〜<b:8b5c>[08][10]<b:8a6a>さんが持ってたのにそっくりだ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But in this village, there is another who also has this ability...
+  RE : But in this village, there is
+       another who also has this
+       ability...
+
+[US#4053]
+  JP : 「ボクは[05]が / よかったら、キミの名前を / <b:8ae1>えてほしいな<b:8b2b><b:8b2c>れ、ちょっとだけ<b:8ad0>気を出して<f040><f042>[16]おぎ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You shall meet her soon...
+  RE : You shall meet her soon...
+
+[US#4054]
+  JP : 「〜キミは、いったい〜 / どうして[0a]がとミーディアムが / 呼び合っているんだろう〜<b:8a3a>者だからだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : My name is 3. What is your name?
+  RE : My name is 3. What is your name?
+
+[US#4055]
+  JP : [17]<b:8a6a>さんの<8808><b:8b1c>なんだよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...You...! Why are {3} and the Mediums calling to each other...?
+  RE : ...You...! Why are {3} and the
+       Mediums calling to each other...?
+
+[US#4057]
+  JP : 「そのためには / 『鍵』の能力が / どうしても必要不可欠である<b:8a3a>者』と呼ぶということは<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What is the power of the Mediums?
+  RE : What is the power of the Mediums?
+
+[US#4058]
+  JP : 「<88ad>全な『鍵』として信<b:8b2f>するために / 試<8a01>を<b:8a70>けて / 能力を<b:8a3a><b:8ad4>する必要があるのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Possessing the nature and ability of the |Pillar| is necessary to bring this about.
+  RE : Possessing the nature and ability
+       of the |Pillar| is necessary to
+       bring this about.
+
+[US#4059]
+  JP : 「できないよ、そんなの〜 / ボクなんかにそんなこと〜<b:8b30>みついておる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : In order to fully realize his potential as a |Pillar,| he must undergo the trial.
+  RE : In order to fully realize his
+       potential as a |Pillar,| he must
+       undergo the trial.
+
+[US#4060]
+  JP : 「それに、<8979>が一、[05]がの<b:8b31>性が / 『鍵』として不<89ce>分だった場合 / ガーディアンを<b:8a70>け止められぬやもしれぬ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I can't do that... Not me...
+  RE : I can't do that... Not me...
+
+[US#4061]
+  JP : 「その時は<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Also...if it happens that 3 isn't fit to be |Pillar,| then he won't be able to contain the power.
+  RE : Also...if it happens that 3 isn't
+       fit to be |Pillar,| then he won't
+       be able to contain the power.
+
+[US#4062]
+  JP : 「<b:8ab0>い少数に / そこまで要<b:8ab4>する必要があるのですか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If that happens...
+  RE : If that happens...
+
+[US#4063]
+  JP : 「もっと<b:8b32><8a01>をつめば / 『鍵』となるのに相応しい<b:8a39>質だって / 備わるかもしれません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Is there truly a need to ask so much of one so young?
+  RE : Is there truly a need to ask so
+       much of one so young?
+
+[US#4064]
+  JP : 「それとも、今、[05]がが / 『鍵』とならなければいけない / 理由があるとでも？<b:8a47>見が / 『<b:8a47>』を<8918>（み）たのです〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If he receives more training first, maybe he'll have a better chance...
+  RE : If he receives more training first,
+       maybe he'll have a better chance...
+
+[US#4065]
+  JP : 「『<b:8a47>見』とはガーディアンの<b:8a7d><b:8a55>を / <b:8a47>のカタチで<b:8a70><b:8b33>する / コンタクティーです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Or, is there a reason why 3 must become a |Pillar| immediately?
+  RE : Or, is there a reason why 3 must
+       become a |Pillar| immediately?
+
+[US#4066]
+  JP : 「彼が得た<b:8b34><8918>（ビジョン）は / 『空が<b:8a43>われる』という / 何とも跡怪なモノでした〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The |dream-seer| is an oracle. He sees the will of the Guardians in the form of dreams.
+  RE : The |dream-seer| is an oracle. He
+       sees the will of the Guardians in
+       the form of dreams.
+
+[US#4067]
+  JP : 「果たして、これが<b:8b35><b:8b36>なのか<b:8b37><b:8b36>なのか / 未だ、<883a>えは出ていません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The |vision| he had was one of |the sky being gnawed away.|
+  RE : The |vision| he had was one of |the
+       sky being gnawed away.|
+
+[US#4068]
+  JP : 「ですが、我々としては / すべてが<8a0d>すぎる事態へとなる前に / 『鍵』を信<b:8b2f>させたいのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We don't yet know if this was a good or an ill omen...
+  RE : We don't yet know if this was a
+       good or an ill omen...
+
+[US#4069]
+  JP : 「世界力〜 ガーディアンの力は / それほどまでに強力な / 可能性を<b:8b2d>めているのですから〜<b:8a43>われる』って〜 / やっぱり、オデッサの仕<b:8b38>なのかな？<b:8b39>づけるのは / 早急というものですよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It might be too late when we find out, though, so it would behoove us to awaken the |Pillar| now.
+  RE : It might be too late when we find
+       out, though, so it would behoove us
+       to awaken the |Pillar| now.
+
+[US#4070]
+  JP : 「我々がすべてをうかがうには / あまりにも情報が<b:8b3a>しすぎます<b:8a70>け<b:8a3a>ぐには / 本人の意思も必要となってきます
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The danger might be so great that our only salvation would be the power of the Guardians.
+  RE : The danger might be so great that
+       our only salvation would be the
+       power of the Guardians.
+
+[US#4071]
+  JP : 「ガーディアンに対して / 心を開く必要があるのです
+  LIT: You need to open your heart to the Guardians.
+  EN : There is too much we don't know about events that are too important...
+  RE : There is too much we don't know
+       about events that are too
+       important...
+
+[US#4072]
+  JP : 「我々から強要はできません / あくまでも / [05]がの意<b:8a3e>によるのです〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...For they must open their hearts to the Guardians.
+  RE : ...For they must open their hearts
+       to the Guardians.
+
+[US#4073]
+  JP : [17]<b:8b03>の<888e>定通り『鍵』には / [0a]がを<b:8a70>け<b:8a3a>がせましょう〜<b:8a39>質に<b:8b3b>まれてはいません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We cannot force it on anybody. It all depends on the will of 3 himself...
+  RE : We cannot force it on anybody. It
+       all depends on the will of 3
+       himself...
+
+[US#4075]
+  JP : 「ボクが後<b:8a3a>者になります / 『鍵』になるための試<8a01>は / ボクがうけますッ！<b:8a70>けるのが / 一番確実なんですよね？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...There is no other way. We MUST secure the power of the Guardians!
+  RE : ...There is no other way. We MUST
+       secure the power of the Guardians!
+
+[US#4076]
+  JP : 「だとしたら、[0a]がが / 危険な目にあう必要はありません
+  LIT: If that's so, then {0} has no need to face danger. (0a name slot)
+  EN : I will become the heir. I will take the trial instead of {3}.
+  RE : I will become the heir. I will take
+       the trial instead of {3}.
+
+[US#4077]
+  JP : 「ガーディアンの力を手にするために / ボクがしなくちゃいけないことがある / それは、今しなきゃいけないんです<b:8b3c>で、いつもみんなに<b:8a52>られてきたボクが / 誰かの役に立てるんです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Also...I don't want to put {3} in any danger.
+  RE : Also...I don't want to put {3} in
+       any danger.
+
+[US#4078]
+  JP : 「こんなうれしいことはありません / だって、やっと自分の<b:8b3d>場所を / 見つけることができたのですから〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There is something I have to do to get the power of the Guardians, and I have to do it now.
+  RE : There is something I have to do to
+       get the power of the Guardians, and
+       I have to do it now.
+
+[US#4079]
+  JP : 「ここは、ボクの<895a>なんですよね？ / 『鍵』として認められれば / ボクはここにいてもいいんですよね？<b:8b3e>えている / ガーディア
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You have no idea how happy that makes me...to finally find my place in things.
+  RE : You have no idea how happy that
+       makes me...to finally find my place
+       in things.
+
+[US#4080]
+  JP : 「通<895b>、『<b:8b3f>』には / 後<b:8a3a>者の<b:8a39><b:8af0>を持つ者しか入れません
+  LIT: (literal pending: JP has unsolved codes)
+  EN : This is my hometown, right? I can stay here if I become |Pillar,| right?
+  RE : This is my hometown, right? I can
+       stay here if I become |Pillar,|
+       right?
+
+[US#4081]
+  JP : 「ですが、そこにいたるまでは / 誰でも立ち入ることが<8978>されています
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Normally only those who are heirs are allowed inside the walls.
+  RE : Normally only those who are heirs
+       are allowed inside the walls.
+
+[US#4082]
+  JP : 「私からもお願いします / 『鍵』の後<b:8a3a>者を / どうかお<b:8a52>りください〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But anyone can go as far as the point of entry without fear.
+  RE : But anyone can go as far as the
+       point of entry without fear.
+
+[US#4083]
+  JP : [17]<b:8a7c><b:8ae9>は / 全力を持って、『鍵』の後<b:8a3a>者たる少数 / [05]がの護衛にあたってもらう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I ask you this favor: please protect the heir to the |Pillar.|
+  RE : I ask you this favor: please
+       protect the heir to the |Pillar.|
+
+[US#4085]
+  JP : 「次回、みなさまの準備が<b:8b40>いましたら / 試<8a01>の場への / <b:8a68>街をさせていただきます<b:8b5c>[08][10][01]
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We can expect either Odessa or monsters to attack. We will be ready!
+  RE : We can expect either Odessa or
+       monsters to attack. We will be
+       ready!
+
+[US#4086]
+  JP : 「[11]お<895a>から先[11]ぉに辺って行った / 山の中に試<8a01>の場の / 入り口が隠されています[11]お
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Tomorrow when everything is ready I will show you to the trial arena.
+  RE : Tomorrow when everything is ready I
+       will show you to the trial arena.
+
+[US#4087]
+  JP : 「とくに目<b:8a85>はありませんので / 見落とさないように / 気をつけてください
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The entrance to the trial arena is hidden in the middle of the forest 1south of the village.01
+  RE : The entrance to the trial arena is
+       hidden in the middle of the forest
+       south of the village.01
+
+[US#4088]
+  JP : 「コレは、お<b:8b23>いと言ってはなんだが / <b:8aa2>からの気持ちだ / <b:8a70>けとってくれんか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There is no identifying mark, so be careful not to miss it!
+  RE : There is no identifying mark, so be
+       careful not to miss it!
+
+[US#4089]
+  JP : 「ガーディアンを呼び信ます力が / ボクにあるなんて〜
+  LIT: To think I have the power to summon the Guardians... (信ます->呼び出す?)
+  EN : This is a gift from all of us. Accept it as a token of our appreciation!
+  RE : This is a gift from all of us.
+       Accept it as a token of our
+       appreciation!
+
+[US#4090]
+  JP : 「ハハ、ハハハ〜 / まだ、ドキドキしている / <89bb>れないな〜<b:8b42>儀はとどこおりなく / 行われたそうだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I have the power to call the Guardians...
+  RE : I have the power to call the
+       Guardians...
+
+[US#4091]
+  JP : 「だが、我々は今回、『鍵』を手に入れた / <b:8b34><8918>（ビジョン）の結果がなんであれ / これさえあれば、世界を<b:8a52>ることができよう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Ha ha ha ha! I'm so excited I can't sleep!
+  RE : Ha ha ha ha! I'm so excited I can't
+       sleep!
+
+[US#4092]
+  JP : 「以来、我々は / サブリナの<89e2>家を<b:8ab4>めて / ファルガイア中を<b:8b44>ること１０<b:8a98>数〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Because today we again have the |Pillar,| the world will be safe no matter what the vision meant.
+  RE : Because today we again have the
+       |Pillar,| the world will be safe no
+       matter what the vision meant.
+
+[US#4093]
+  JP : <895a>長 / 「だが、もう終わりだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : For ten long years since then we have scoured Filgaia for that boy.
+  RE : For ten long years since then we
+       have scoured Filgaia for that boy.
+
+[US#4094]
+  JP : 「[05]がの命をもってすれば / ガーディアンの力を / 世界に<b:8b0e>たすことができよう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Village Chief @But now, it is over.
+  RE : Village Chief @But now, it is over.
+
+[US#4095]
+  JP : 「死するために、生きてきた命〜 / 我々の<b:8b45>してきた『鍵』によって / このファルガイアは<b:8a52>護されるのだ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The life of 3 is in hand, and with it Filgaia will be protected.
+  RE : The life of 3 is in hand, and with
+       it Filgaia will be protected.
+
+[US#4096]
+  JP : 「キミの命は、今回 / ガーディアンに<b:8a83>げられたのダ / 『鍵』としてね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A life whose purpose is to die...
+  RE : A life whose purpose is to die...
+
+[US#4097]
+  JP : 「おかしいな〜 / キミはすべてを知って / 試<8a01>に<b:8b46>いたのではないのかい？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Today your life was offered to the Guardians as |Pillar.|
+  RE : Today your life was offered to the
+       Guardians as |Pillar.|
+
+[US#4098]
+  JP : 「『鍵』を<b:8a70>け<b:8a3a>ぐための試<8a01>〜 / それは、自らの命を / ガーディアンに<b:8b47>し出すことなのダ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's strange... Didn't you know all this before going to the trial arena?
+  RE : That's strange... Didn't you know
+       all this before going to the trial
+       arena?
+
+[US#4099]
+  JP : 「いやだ、<b:8a54>い〜 / <b:8a54>いよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The trial to become |Pillar...| It is to give your life to the Guardians.
+  RE : The trial to become |Pillar...| It
+       is to give your life to the
+       Guardians.
+
+[US#4100]
+  JP : 「どうしてみんな、そんな<b:8a54>いことを / <b:8aa0>気なカオして話しているの〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : No...I'm scared... ...I don't want to die!
+  RE : No...I'm scared... ...I don't want
+       to die!
+
+[US#4101]
+  JP : 「そうだ[05]が / 『鍵』になった運命を〜 / 生け左の運命を<b:8a70>け入れなければならない
+  LIT: (literal pending: JP has unsolved codes)
+  EN : How can they all be so casual about it!?
+  RE : How can they all be so casual about
+       it!?
+
+[US#4102]
+  JP : 「そうしなければ / 世界が滅んでしまうんだ
+  LIT: If we don't do that, the world will perish.
+  EN : Yes, 3. You must accept your destiny as |Pillar,| as the sacrifice.
+  RE : Yes, 3. You must accept your
+       destiny as |Pillar,| as the
+       sacrifice.
+
+[US#4103]
+  JP : 「キミにだって<b:8a52>りたいものが / このファルガイアにあるだろう / それを<b:8a52>るためには仕方の無いことなんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If you don't, the world will pay a terrible price...
+  RE : If you don't, the world will pay a
+       terrible price...
+
+[US#4104]
+  JP : 「誰かが<b:8a4a><b:8a4b>にならなければ / いけない時があるんだ / わかってくれ、[05]が〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There are people you want to protect in this world, right? This is the only way.
+  RE : There are people you want to
+       protect in this world, right? This
+       is the only way.
+
+[US#4105]
+  JP : 「ファルガイアのために死んでくれ<b:8b48><b:8b06>がある / 世界を滅ぼすわけにはいかないんだ / <f040><f042>頼む、死んでほしい〜<b:8b45>しい〜 / そうしないと / ファルガイアが滅びるかもしれないんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There are times when SOMEONE must be sacrificed! Please understand, 3...
+  RE : There are times when SOMEONE must
+       be sacrificed! Please understand,
+       3...
+
+[US#4106]
+  JP : 「いよいよ、<b:8a47>見の<8918>（み）た / <b:8b34><8918>（ビジョン）が現実のものとなって / ファルガイアを<b:8a73>いはじめたようです〜<b:8b03>から説次しましょう〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You have to die for Filgaia.
+  RE : You have to die for Filgaia.
+
+[US#4107]
+  JP : 「コンタクティーの<b:8b49><b:8ac3>を備えた<b:8a47>見は / <b:8b4a><b:8b4b>どおり、<b:8a47>によって / ガーディアンの意<b:8a3e>を<b:8a70>信するのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The dream-seer's vision has finally come to pass.
+  RE : The dream-seer's vision has finally
+       come to pass.
+
+[US#4108]
+  JP : 「それは表<89ea>的、かつ<898e><b:8abc>的なモノなので / 多くは『<b:8b4c>言』のカタチをとって / <b:8a47>に現れるのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The dream-seers have the knowledge and the training to receive and recognize the Guardians' will.
+  RE : The dream-seers have the knowledge
+       and the training to receive and
+       recognize the Guardians' will.
+
+[US#4109]
+  JP : 「今回の<b:8a47>のように / <8a1b>体的な事<b:8b4d>として伝えられるのは / きわめて<b:8b4e>なことなのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But messages from the Guardians come only in fragments, and are often difficult to interpret.
+  RE : But messages from the Guardians
+       come only in fragments, and are
+       often difficult to interpret.
+
+[US#4110]
+  JP : 「それだけに / 今、ファルガイアに<8915>る脅威とは / <896e><89c2>であり、強大なモノなのでしょう〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It is extremely rare for a message so concrete to be bestowed by the Guardians.
+  RE : It is extremely rare for a message
+       so concrete to be bestowed by the
+       Guardians.
+
+[US#4111]
+  JP : 「<b:8a47>見とて / これ以上のコンタクトは / 不可能です
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The danger to Filgaia must be truly great to warrant such a vision.
+  RE : The danger to Filgaia must be truly
+       great to warrant such a vision.
+
+[US#4112]
+  JP : 「それに<f040><f042> / ガーディアンの力は / この星、ファルガイアの力そのものです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...Or will ever know from the Guardians, for the dream-seer can only wait for dreams.
+  RE : ...Or will ever know from the
+       Guardians, for the dream-seer can
+       only wait for dreams.
+
+[US#4113]
+  JP : 「ファルガイアが / <b:8a43>い<b:8ade>らされているということは / 彼らの力もまた、<b:8a65>えているということです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : And since the power of the Guardians is also the power of all Filgaia...
+  RE : And since the power of the
+       Guardians is also the power of all
+       Filgaia...
+
+[US#4114]
+  JP : 「ボクの力で / 何とかならないのでしょうか？
+  LIT: Isn't there something my power can do?
+  EN : ...Filgaia being eaten away means the power of the Guardians will be diminished.
+  RE : ...Filgaia being eaten away means
+       the power of the Guardians will be
+       diminished.
+
+[US#4115]
+  JP : 「ボクの力を使うことで / ガーディアンの意<b:8a3e>を / <b:8a70>け取ることができるのなら〜<b:8a3e>を<b:8a70><b:8b33>するのは〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Could I help out maybe?
+  RE : Could I help out maybe?
+
+[US#4116]
+  JP : 「<f040><f042>可能であろう
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Could I receive the will of the Guardians with the power that I have...?
+  RE : Could I receive the will of the
+       Guardians with the power that I
+       have...?
+
+[US#4117]
+  JP : 「そのためには / ファルガイアのどこかに封<b:8a85>された / ガーディアンたちの<b:8a80><b:8a81>に向かうことだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...for 3 to channel the will of the Guardians.
+  RE : ...for 3 to channel the will of the
+       Guardians.
+
+[US#4118]
+  JP : 「封<b:8a85><b:8a80><b:8a81>ならば / 未だ彼らの力も<89ce>分に残っているだろう / そこで[05]がの心を開くのだ<b:8a85>されたガーディアンの<b:8a80><b:8a81>〜 / そこは、いったい<f040><f042><b:8a80><b:8a81>の名は
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We would need to go to the sealed sanctuary of the Guardians.
+  RE : We would need to go to the sealed
+       sanctuary of the Guardians.
+
+[US#4119]
+  JP : 「あんたねー<f059>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The Sealed Sanctuary would have enough of the Guardians' power left in it.
+  RE : The Sealed Sanctuary would have
+       enough of the Guardians' power left
+       in it.
+
+[US#4120]
+  JP : 「ボクは生け左になるために / そこを目指すわけではありません
+  LIT: I'm not aiming for there in order to become a sacrifice. (生け左->生け贄 'sacrifice')
+  EN : Hold on... :-(
+  RE : Hold on... :-(
+
+[US#4121]
+  JP : 「そこで、ガーディアンに / 今、ファルガイアがどうなっているのかを / <b:8b4f>ねるだけですから<b:8a54>かったんです〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I don't want to go there to be sacrificed, either.
+  RE : I don't want to go there to be
+       sacrificed, either.
+
+[US#4122]
+  JP : 「死んでしまうことに意<b:8ae3>がある / 『鍵』の運命から / <894f>げ出したくてしょうがなかったんです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : All I want to do there is ask the Guardians what is happening to Filgaia.
+  RE : All I want to do there is ask the
+       Guardians what is happening to
+       Filgaia.
+
+[US#4123]
+  JP : 「でも、今は違うんです / うまく言えないけれど〜
+  LIT: But now it's different; I can't put it well, though...
+  EN : At first I wanted not to be a |Pillar| so much I couldn't think of anything else.
+  RE : At first I wanted not to be a
+       |Pillar| so much I couldn't think
+       of anything else.
+
+[US#4124]
+  JP : 「<894f>げるだけじゃなく / ボクにも戦う理由が / あるような気がしてきたんです<b:8a3e>』ってやつなのダ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's different now, though... It's hard to say why, but now I have a reason for dying.
+  RE : It's different now, though... It's
+       hard to say why, but now I have a
+       reason for dying.
+
+[US#4125]
+  JP : [17]
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Now there is a reason for me to fight. I don't want to run away anymore. I want to help.
+  RE : Now there is a reason for me to
+       fight. I don't want to run away
+       anymore. I want to help.
+
+[US#4127]
+  JP : 「プーカは / 『自分』を持っていないから / プーカでいることかできるのダ
+  LIT: Pooka has no 'self', and that is how Pooka can be Pooka.
+  EN : So if there were a Medium, an information matrix, then I could change into anything.
+  RE : So if there were a Medium, an
+       information matrix, then I could
+       change into anything.
+
+[US#4128]
+  JP : 「[05]がはプーカと出<b:8b50>ってから / 少しずつ、『自分』を / 手に入れはじめているのダ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I am only me, Pooka, because there is no |myself.|
+  RE : I am only me, Pooka, because there
+       is no |myself.|
+
+[US#4129]
+  JP : 「プーカにはよくわからないけれど / 何だかそれが / とてもうらやましいのダ
+  LIT: Pooka doesn't quite understand it, but somehow Pooka envies that so much.
+  EN : 3 has begun to find himself since he met me.
+  RE : 3 has begun to find himself since
+       he met me.
+
+[US#4130]
+  JP : 「みんなといっしょなら / きっと見つけられるよ
+  LIT: If we're all together, I'm sure we can find it.
+  EN : I'm envious of that...
+  RE : I'm envious of that...
+
+[US#4131]
+  JP : 「〜〜がんばるのダ<b:8a85><b:8a80><b:8a81>『生け左の<b:8a40><b:8a41>』については / かねてより調べてある
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But maybe with everyone's help I'll be able to...
+  RE : But maybe with everyone's help I'll
+       be able to...
+
+[US#4132]
+  JP : 「未だ新確な級置はわりだせてないが / いくつかの情報はある / <895a>の者に<b:8b4f>いてみるといいだろう<b:8ada>対に<b:8a52>ってみせる<b:8a54>くなんかありません / さあ、行きましょうッ！<b:8b5c>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I have to try...!
+  RE : I have to try...!
+
+[US#4133]
+  JP : 「これほどまでの<b:8a39>質ならば / 必ずやガーディアンの力を / ファルガイアに<8a1b>現合<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There are many things said about its precise location, though. You had better ask people yourselves.
+  RE : There are many things said about
+       its precise location, though. You
+       had better ask people yourselves.
+
+[US#4134]
+  JP : 「そんなの〜 / ボクは、イヤだッ！
+  LIT: That sort of thing... I won't have it!
+  EN : With abilities as great as his, he will certainly be able to manifest the power of the Guardians!
+  RE : With abilities as great as his, he
+       will certainly be able to manifest
+       the power of the Guardians!
+
+[US#4135]
+  JP : [17]<b:8a52>りたいという / 気持ちだってあるんです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : NO! I don't want to die!
+  RE : NO! I don't want to die!
+
+[US#4138]
+  JP : 「それでは / バスカーとして不<b:8b51>ですか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : People say |die,| but I'm not so weak as to want to die.
+  RE : People say |die,| but I'm not so
+       weak as to want to die.
+
+[US#4139]
+  JP : [17]<b:8ae3>はない〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Do the people of Baskar have a problem with that?
+  RE : Do the people of Baskar have a
+       problem with that?
+
+[US#4141]
+  JP : 「本当に、<b:8a52>りたいモノを / <b:8a52>りたい気持ちがあるなら / 私たちに力を<b:8b52>してほしい〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If the |Pillar| doesn't give his life of his own volition, the power of the Guardians won't be released.
+  RE : If the |Pillar| doesn't give his
+       life of his own volition, the power
+       of the Guardians won't be released.
+
+[US#4142]
+  JP : 「ボクからもお願いします / ボクの大切なモノを<b:8a52>るために / 力を<b:8b52>してください
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If you truly want to protect that which you love, then lend us your strength!
+  RE : If you truly want to protect that
+       which you love, then lend us your
+       strength!
+
+[US#4143]
+  JP : 「更なる戦いが / ＡＲＭＳを待っている
+  LIT: A further battle awaits ARMS.
+  EN : I'm begging you... Lend us your power to protect that which needs protecting!
+  RE : I'm begging you... Lend us your
+       power to protect that which needs
+       protecting!
+
+[US#4144]
+  JP : 「だから、<895a>長さんも元気で / [0a]がも元気で〜 / また、<b:8b53>びに来ます
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The next battle awaits ARMS.
+  RE : The next battle awaits ARMS.
+
+[US#4145]
+  JP : 「ここは〜 / ボクの<8808><b:8b1c>で / いいんですよね？<b:8a9c>してくれるのか〜 / [05]が〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : So take care, Chief. And you too, {3}. I will be back.
+  RE : So take care, Chief. And you too,
+       {3}. I will be back.
+
+[US#4146]
+  JP : 「我が<b:8a9e>、サブリナよ / お前の家族は / 私を<b:8a9c>してくれるのか〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : This is my home, right...?
+  RE : This is my home, right...?
+
+[US#4147]
+  JP : 
+  LIT: (no JP text)
+  EN : My daughter Sabrina, will your son ever be able to forgive me?
+  RE : My daughter Sabrina, will your son
+       ever be able to forgive me?
+
+# =========================================================================================
+# STATUS: 281 boxes first-passed (US#3853-4147, block 16). Em-dash-free, <=3x35.
+# =========================================================================================

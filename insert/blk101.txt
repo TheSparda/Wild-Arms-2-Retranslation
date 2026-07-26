@@ -1,0 +1,203 @@
+# WA2 INSERTION workspace US block 101 (US#7826-7867)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7827] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#8009[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7828] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8010[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7829] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8011[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7830] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#8012[HIGH]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜でも、まだ誰にも伝えていないんだよ〜
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#7831] budget=31ch/1ln
+  NOW: But I haven't shown anyone yet.
+  JP : JP#8013[MED]: 「〜でも、まだ誰にも伝えていないんだよ〜
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#7832] budget=51ch/2ln
+  NOW: Because flowers are their
+          prettiest in that moment.
+  JP : JP#8014[MED]: 「この<8a34>間のお泣が / 　いちばんきれいだから<f041><f042>
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#7834] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#8016[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7835] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8017[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7836] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8018[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7837] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#8019[HIGH]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜でも、まだ誰にも伝えていないんだよ〜
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#7838] budget=31ch/1ln
+  NOW: But I haven't shown anyone yet.
+  JP : JP#8020[MED]: 「〜でも、まだ誰にも伝えていないんだよ〜
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#7839] budget=51ch/2ln
+  NOW: Because flowers are their
+          prettiest in that moment.
+  JP : JP#8021[MED]: 「この<8a34>間のお泣が / 　いちばんきれいだから<f041><f042>
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#7841] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#8023[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7842] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8024[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7843] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8025[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7844] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#8026[HIGH]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜でも、まだ誰にも伝えていないんだよ〜
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#7845] budget=31ch/1ln
+  NOW: But I haven't shown anyone yet.
+  JP : JP#8027[MED]: 「〜でも、まだ誰にも伝えていないんだよ〜
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#7846] budget=51ch/2ln
+  NOW: Because flowers are their
+          prettiest in that moment.
+  JP : JP#8028[MED]: 「この<8a34>間のお泣が / 　いちばんきれいだから<f041><f042>
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#7848] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#8030[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7849] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8031[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7850] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8032[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7851] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#8033[HIGH]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜でも、まだ誰にも伝えていないんだよ〜
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#7852] budget=31ch/1ln
+  NOW: But I haven't shown anyone yet.
+  JP : JP#8034[MED]: 「〜でも、まだ誰にも伝えていないんだよ〜
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#7853] budget=51ch/2ln
+  NOW: Because flowers are their
+          prettiest in that moment.
+  JP : JP#8035[MED]: 「この<8a34>間のお泣が / 　いちばんきれいだから<f041><f042>
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#7855] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#8037[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7856] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8038[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7857] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#8039[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7858] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#8040[HIGH]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜でも、まだ誰にも伝えていないんだよ〜
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#7859] budget=31ch/1ln
+  NOW: But I haven't shown anyone yet.
+  JP : JP#8041[MED]: 「〜でも、まだ誰にも伝えていないんだよ〜
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#7860] budget=51ch/2ln
+  NOW: Because flowers are their
+          prettiest in that moment.
+  JP : JP#8042[MED]: 「この<8a34>間のお泣が / 　いちばんきれいだから<f041><f042>
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#7862] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7863] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7864] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7865] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#8044[MED]: 
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#7866] budget=31ch/1ln
+  NOW: But I haven't shown anyone yet.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#7867] budget=51ch/2ln
+  NOW: Because flowers are their
+          prettiest in that moment.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>

@@ -1,0 +1,44 @@
+# WA2 4-col translation doc block 115 (JP#8379-8385)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 5 boxes | OK=0 FAIR=5 SHAKY=0 JP-ONLY=0
+# DRAFT STATUS: 5 boxes | OK=0 FAIR=5 SHAKY=0 JP-ONLY=0
+
+[JP#8380] gaps=0  aln=MED->US#8214  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8381] gaps=2  aln=MED->US#8215  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8382] gaps=0  aln=MED->US#8216  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8383] gaps=1  aln=MED->US#8222  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊エクストラファイルから / 　ゲームへと戻ることはできません[10][0c]＊新恥にファイルを作成するか / 　上<8946>きしてもかまわないファイルを / 　選負することをおすすめします
+  2|LIT: <<TODO>>
+  3|EN : *It's not possible to return
+ to the game from the extra file.*We recommend either creating
+ a new file or else choosing
+ a file to write over.
+  4|RE : <<TODO>>
+
+[JP#8384] gaps=1  aln=MED->US#8223  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊新恥にファイルを作成するか / 　上<8946>きしてもかまわないファイルを / 　選負することをおすすめします
+  2|LIT: <<TODO>>
+  3|EN : *We recommend either creating
+ a new file or else choosing
+ a file to write over.
+  4|RE : <<TODO>>

@@ -1,0 +1,516 @@
+# WA2 INSERTION workspace US block 38 (US#5651-5741)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5652] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5784[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5653] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5785[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5654] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5786[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5655] budget=55ch/3ln
+  NOW: Aren't you coming?
+          I don't get it.
+          I just don't get it.
+  JP : JP#5787[HIGH]: 「〜いかないのかなぁ？ / 　わからない〜 / 　わからないな〜
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#5656] budget=19ch/1ln
+  NOW: I've really had it.
+  JP : JP#5788[MED]: 「〜やれやれだぜ
+  FIT: <<TODO — <=19 chars, 1 line(s), <=35/line>>
+
+[US#5657] budget=52ch/3ln
+  NOW: *Using this item adds
+          new ammunition
+          to the bayonet.
+  JP : JP#5789[MED]: ＊アイテムとして使用することで / 　バイアネットに新たな歩<8a40>を / 　追兄します[10][0c]＊期撃と<8a43>撃のコンビネーション来撃を / 
+  FIT: <<TODO — <=52 chars, 3 line(s), <=35/line>>
+
+[US#5658] budget=67ch/3ln
+  NOW: *It'll attack the enemy with a
+          combination of slicing
+          and shooting.
+  JP : JP#5790[MED]: ＊期撃と<8a43>撃のコンビネーション来撃を / 　相挑体に対して行います
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#5659] budget=16ch/1ln
+  NOW: (It can't be...)
+  JP : JP#5791[MED]: （まさか〜）
+  FIT: <<TODO — <=16 chars, 1 line(s), <=35/line>>
+
+[US#5660] budget=79ch/3ln
+  NOW: I can't move a hand, leg or
+          tail. Our consciousness and
+          fate are in a nosedive.
+  JP : JP#5792[MED]: 「手も<8921>も、シッポすらも出ない / 　我仲らの意<8a4d>と運好は急恥<8865>辺気<8a38>〜
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#5661] budget=91ch/3ln
+  NOW: The energy that continually spouts
+          from the earth is perfect for an
+          excursion in peacetime.
+  JP : JP#5793[MED]: 「復度復度、無<8a5c>に殺出される地<8868>を / 　<88f2><89c8>なんぞに茶飛利用すれば / 　行<89fa>のシーズンにウッシッシ〜[10
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#5662] budget=73ch/3ln
+  NOW: This is a scientist's
+          ambition! It can't be
+          stopped until it's fulfilled!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#5663] budget=9ch/1ln
+  NOW: And so...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=9 chars, 1 line(s), <=35/line>>
+
+[US#5664] budget=41ch/2ln
+  NOW: How about having a party
+          to boost morale?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#5665] budget=72ch/3ln
+  NOW: The alternating events of
+          joy and sorrow will taint
+          future developments.
+  JP : JP#5794[MED]: 「これぞ<8a59><8a5a>者の本<8933>ッ！ / 　止められません、限くまではッ！
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#5666] budget=69ch/3ln
+  NOW: Let's work together
+          here at the observatory.
+          Just don't hold us back.
+  JP : JP#5795[MED]: 「それでは || JP#5796[MED]: 「ここはひとつ / 　パーティーの戦力アップというのは / 　どうであろう？[10][0c]「<8a48>守こもごものイベントが / 　今後の<8a61>開をい
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#5667] budget=66ch/3ln
+  NOW: Not holding one back
+          is my one specialty!
+          I was born for this day.
+  JP : JP#5799[MED]: 「招っ延らない<8921>は / 　<8a65>一にして男対の離れ<8a67>にして得意魂ッ！ / 　今回という回のために生まれてきたも同<8844> || JP#5798[MED]: 「この観待所だけは / 　いっしょに行動しよう / 　ただし、<8921>は招っ延らないでくれよ
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#5668] budget=62ch/3ln
+  NOW: As a resourceful general,
+          let's get to the gate.
+          After that...
+  JP : JP#5800[MED]: 「<8a6b>勇として / 　<8a6d>にくだりましょうぞ / 　以後、よすがに
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#5669] budget=93ch/3ln
+  NOW: A vision flashed on my lids
+          of me pushing the lever like a bee,
+          and dancing like a butterfly.
+  JP : JP#5801[MED]: 「たった今、まぶたの苦に姿かんだのだよ / 　<8a71>のように<8a72>い / 　基のようにレバーを入れる我仲の<8a74>が〜[10][0c]「まさに撃
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#5670] budget=55ch/3ln
+  NOW: All for wanting the title
+          of Shooting King.
+          Ha. Ha. Ha.
+  JP : JP#5802[MED]: 「まさに撃墜<89fb>の名はほしいがままに / 　フフフ〜
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#5671] budget=67ch/3ln
+  NOW: But, isn't that what anyone
+          with unusual characteristics
+          hopes for?
+  JP : JP#5803[MED]: 「だが、キミ的には / 　それなりに意外性のあるヤツを / 　<8a77>勝しておるのではないかな？[10][0c]「ホラ、恥入生にいだく / 　身<8a79>
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#5672] budget=65ch/3ln
+  NOW: It's just like the
+          selfish expectations
+          transfer students harbor.
+  JP : JP#5804[MED]: 「ホラ、恥入生にいだく / 　身<8a79>手な<8a7a>待信というアレだな
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#5673] budget=77ch/3ln
+  NOW: Be that as it may,
+          the Shooting King's background
+          has no close relationships.
+  JP : JP#5805[MED]: 「それはそれとして / 　撃墜<89fb>の泣英には / 　雄<8a12>関係無いことゆえに[10][0c]「ゆくぞ、ゲーッ！ / 　<8a7d>情クロスだッ！
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#5674] budget=36ch/2ln
+  NOW: Let's go, Ard!
+          The friendship cross.
+  JP : JP#5806[MED]: 「ゆくぞ、ゲーッ！ / 　<8a7d>情クロスだッ！
+  FIT: <<TODO — <=36 chars, 2 line(s), <=35/line>>
+
+[US#5676] budget=72ch/3ln
+  NOW: That a healthy spirit comes
+          from a healthy body, is
+          an old joke, indeed.
+  JP : JP#5808[HIGH]: 「<8a88>険な<88ea>安は / 　<8a88>険な暮体に<8a8b>るという / 　<882d>くからの<8a8c>れ言ですな、いやまったく〜
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#5677] budget=50ch/3ln
+  NOW: It's easy.
+          Just run through before
+          the wall shuts.
+  JP : JP#5809[HIGH]: 「なーにカンタンですぞ / 　伝が<89cf>まりきるまでに / 　<8952>け抜ければいいだけのことトカ[10][0c]「さながら / 　カモシカのごとくッ
+  FIT: <<TODO — <=50 chars, 3 line(s), <=35/line>>
+
+[US#5678] budget=29ch/2ln
+  NOW: Sounds just like
+          an antelope!
+  JP : JP#5810[HIGH]: 「さながら / 　カモシカのごとくッ！
+  FIT: <<TODO — <=29 chars, 2 line(s), <=35/line>>
+
+[US#5679] budget=48ch/3ln
+  NOW: Oh, never mind.
+          It looks like it's
+          worth trying.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=48 chars, 3 line(s), <=35/line>>
+
+[US#5680] budget=61ch/3ln
+  NOW: I will assist even at
+          the risk of my life!
+          Let's go, Samurai.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#5681] budget=59ch/3ln
+  NOW: Ar...Ard, Ard...Ard, Ard.
+          Ar...d.
+          Ard, Ard. Ard...Ard, Ard.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#5682] budget=58ch/3ln
+  NOW: Ard...Ard, Ard.
+          Ard, Ard...Ard, A...rd.
+          Ard, Ard...Ar...d.
+  JP : JP#5811[MED]: 「ま、いいだろう / 　試してみる集<8875>はありそうだ
+  FIT: <<TODO — <=58 chars, 3 line(s), <=35/line>>
+
+[US#5683] budget=80ch/3ln
+  NOW: And while your buddy's in a
+          crisis situation, you're doing
+          a silly dance prayer.
+  JP : JP#5812[MED]: 「<8833><8a92><8a93>いたすぞッ！ / 　この身を<8a94><8a95>にしてまでもッ！ / 　レッツゴー、ブシドーッ！
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5684] budget=97ch/3ln
+  NOW: That's not a dance prayer. It does
+          promise satisfaction. It's very
+          popular in the Agaruta Region.
+  JP : JP#5814[MED]: 「げげっげっげ / 　げげげげー、げーっげ / 　げっげ、げげげげ || JP#5813[MED]: 「げげげ、げげげげ / 　げーげーげー / 　げっげげげー　げっげっげ[10][0c]「げげっげっげ / 　げげげげー、げーっげ / 　げっげ、げげげげ
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#5685] budget=93ch/3ln
+  NOW: As a practical problem, isn't
+          not letting an intellectual speak
+          the same as a death sentence?
+  JP : JP#5817[HIGH]: 「知<8a4d>人にモノを珍させぬとは / 　死を<8a9f><8804>せんとするイキオイでは / 　ありませんかな？　実<89d2>誓<8810>として || JP#5815[MED]: 「それにアンタ / 　相方が危機的状況だというのに / 　<8a99><8a9a>モノの<8a9b>り念<8a9c>をしてたじゃないか
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#5686] budget=30ch/1ln
+  NOW: After all, it's just one body.
+  JP : JP#5818[HIGH]: 「所<8a4c>、カラダはひとつですぞ
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#5687] budget=30ch/1ln
+  NOW: Something scientific that's...
+  JP : JP#5819[HIGH]: 「〜その、<8a59><8a5a>的に
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#5688] budget=92ch/3ln
+  NOW: Everyone's scientific hopes make
+          me strong. There's a fine line
+          between fantasy and reality.
+  JP : JP#5820[HIGH]: 「<8aa2>の<8a59><8a5a>的願いが我仲を強くする / 　跡跡と何とやらの間には / 　<8aa3><8a57>一<8aa4><8aa5>度の開きし
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#5689] budget=42ch/2ln
+  NOW: It's not even witty,
+          much less scientific.
+  JP : JP#5822[MED]: 「谷にはならないけれど / 　意<8a4d>を失うおそれは / 　今までの言動で<8aa6>次<8994>みだッ！ || JP#5821[MED]: 「<8a59><8a5a>的どころか / 　とんちすらきかせてないな
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#5690] budget=87ch/3ln
+  NOW: You won't petrify, but judging
+          from previous experiences,
+          you might lose consciousness!
+  JP : JP#5823[MED]: 「あんまりにも<8a0d>いから / 　そっと<8aa8>ばせておいた<8aa9><8880>に / 　あやうく手を出すところであったぞ
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#5691] budget=88ch/3ln
+  NOW: You're so late I was just about
+          to lay a hand on this poetry
+          anthology I've kept hidden.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#5692] budget=20ch/1ln
+  NOW: Wow. I wonder why...
+  JP : JP#5824[MED]: 「ほぉ、これは、なかなかどうして〜
+  FIT: <<TODO — <=20 chars, 1 line(s), <=35/line>>
+
+[US#5693] budget=80ch/3ln
+  NOW: Just imagining the switch
+          and the hand intercepted by
+          the block makes me quiver.
+  JP : JP#5825[MED]: 「このスイッチと、行く手を<89b2>るブロックの / 　カンケイを考えただけで / 　戻ってられないほどであるトカ
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5694] budget=37ch/2ln
+  NOW: I just came up with
+          a brilliant idea!
+  JP : JP#5826[MED]: 「わ、我仲は何というモノを / 　思いついたのであろうかッ！
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#5695] budget=65ch/3ln
+  NOW: If we use our graceful
+          tails and stay flexible,
+          the rest is easy.
+  JP : JP#5827[MED]: 「しなやかにして、たおやかな / 　我仲たちのシッポを使えば / 　後は<8ab1>となれ、谷の<8ab2>し〜
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#5696] budget=78ch/3ln
+  NOW: I hate saying this after
+          asking for help, but please,
+          don't make things worse.
+  JP : JP#5828[MED]: 「頼んでおいて言うのもなんだけど / 　できれば / 　押倒は大きくしないでほしい
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#5698] budget=82ch/3ln
+  NOW: If you take calcium before
+          bed, the absorption is best.
+          No one fusses like Lizard.
+  JP : JP#5830[MED]: 「カルシウムは、<8ab7>、姉る前に<8ab8>取すると / 　<8ab9><8939>が良いトカ、悪いトカ（<8aba>：良いです） / 　まったくトカゲ<
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#5699] budget=44ch/2ln
+  NOW: in public like that.
+          There's no need for it.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#5700] budget=74ch/3ln
+  NOW: It seems his tail got
+          caught in the switch.
+          How do you propose we proceed?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#5701] budget=47ch/2ln
+  NOW: (I mean, the guy has lived
+         long enough already.)
+  JP : (no JP mapped)
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#5702] budget=36ch/2ln
+  NOW: Don't drag us into your
+          crazy plans!
+  JP : JP#5831[MED]: 「そんなハズはないだろう
+  FIT: <<TODO — <=36 chars, 2 line(s), <=35/line>>
+
+[US#5703] budget=30ch/1ln
+  NOW: Let's just hurry and save him.
+  JP : JP#5832[MED]: 「どうやらスイッチに / 　シッポをはさまれてしまったようですな / 　いかがなされます〜？
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#5705] budget=46ch/2ln
+  NOW: Now this is a top-notch
+          human drama unfolding.
+  JP : JP#5835[MED]: 「さっさと<8833>けるぞ
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#5706] budget=74ch/3ln
+  NOW: which turn into 20 problems.
+          How do you manage to
+          stir up so much trouble?
+  JP : JP#5836[MED]: 
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#5707] budget=72ch/3ln
+  NOW: Besides, good players
+          anticipate their turn
+          and perform with perfection.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#5708] budget=26ch/1ln
+  NOW: Scientifically speaking...
+  JP : JP#5837[MED]: 「うむ、これぞ良<886e>の / 　ヒューマンドラマである
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#5709] budget=46ch/3ln
+  NOW: Science is
+          unavoidable as a
+          two-bit scientist.
+  JP : JP#5841[MED]: 「<8a59><8a5a>とくれば / 　いたし方ありませぬな / 　<8a59><8a5a>者のはしくれとして[10][0c]「よござんしょ / 　<8979 || JP#5838[MED]: 「どうしてアンタは / 　こうも見事に押倒を呼び込んでくるんだ
+  FIT: <<TODO — <=46 chars, 3 line(s), <=35/line>>
+
+[US#5710] budget=51ch/2ln
+  NOW: Ready for the opening of the
+          Show of World Wonders?
+  JP : JP#5842[MED]: 「よござんしょ / 　<8979><8ac5>びっくりショーの<8ac6>開けです
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#5711] budget=55ch/3ln
+  NOW: The goal of science is
+          to give people hopes
+          and dreams.
+  JP : JP#5843[MED]: 「現代<8a59><8a5a>の<8ac7>達帯は / 　見る者にあまねく / 　費と<8a77>勝を底えてますかーッ！
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#5712] budget=80ch/3ln
+  NOW: Isn't it strange? If there was
+          a pattern, wouldn't he say
+          something unnecessary?
+  JP : JP#5844[MED]: 「何だかおかしくないか？ / 　パターンなら、ここらで協特なことの / 　ひとつやふたつ〜
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5713] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#5845[MED]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10]
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#5714] budget=80ch/3ln
+  NOW: I'm someone who only
+          needs to be told to get it.
+          No need to have the experience.
+  JP : JP#5846[MED]: 「<8828>で言えばわかる家ですぞ、我仲は〜 / 　ちなみに<8ad2>少のみぎりは / 　やればできる家と、<89a6>り近所で<8a92><8ad3><8
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5715] budget=83ch/3ln
+  NOW: At my death, I hypnotized
+          myself. |I can't die now| I said,
+          and look at the result.
+  JP : JP#5847[MED]: 「いまわの<89d2>に / 　『死んでも死にきれぬわ』と / 　自<8ad4>暗<893a>をかけたゆえ、これこのとおり[10][0c]「生きているって<8a
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#5716] budget=28ch/1ln
+  NOW: It's sure grand to be alive.
+  JP : JP#5848[MED]: 「生きているって<8ad5><8ad6>らしい<f044>
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#5717] budget=63ch/3ln
+  NOW: Judgement day is just
+          around the corner!
+          You'll get yours then.
+  JP : JP#5849[MED]: 「未<8ada>作の危機的<897c><8942>の回は / 　もうそこまでッ！ / 　いつか目にもの見せてくれるわ
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#5718] budget=100ch/3ln
+  NOW: The mail order ones from magazines
+          don't begin to compare. These are
+          superb, full of magical powers.
+  JP : JP#5850[HIGH]: 「<8acb><8add>の苦表<8ade>なんぞにある / 　加信<8adf><8ae0>アイテムとは<8876><8ae1>にならぬほど / 　安<8a84
+  FIT: <<TODO — <=100 chars, 3 line(s), <=35/line>>
+
+[US#5719] budget=19ch/1ln
+  NOW: That's what I'd do.
+  JP : JP#5851[HIGH]: 「我仲ならそうするね[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「どうした？ / 　うかぬ探などして〜 / 　<8973>合わ
+  FIT: <<TODO — <=19 chars, 1 line(s), <=35/line>>
+
+[US#5720] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#5852[HIGH]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「どうした？ / 　うかぬ探などして〜 / 　<8973>合わんぞ
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#5721] budget=56ch/3ln
+  NOW: What is it?
+          You don't look pleased.
+          It doesn't suit you.
+  JP : JP#5853[HIGH]: 「どうした？ / 　うかぬ探などして〜 / 　<8973>合わんぞ
+  FIT: <<TODO — <=56 chars, 3 line(s), <=35/line>>
+
+[US#5722] budget=78ch/3ln
+  NOW: Why else would I be here?
+          The Germatron, silly.
+          You can't say you didn't know.
+  JP : JP#5854[HIGH]: 「決まっておろう / 　ゲルマトロン渓谷よ / 　知らぬ存ぜぬとは言わせんぞ
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#5723] budget=96ch/3ln
+  NOW: My plans to use the Germatron at
+          the research lab are ruined. I
+          was to make a grand war monster.
+  JP : JP#5855[HIGH]: 「この<8ae6><89b1><88e4><88e5>に残されている渓谷を使って / 　茶飛な<89c7>時好に撃って出るための / 　ただならぬ怪獣を<8ae
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#5724] budget=91ch/3ln
+  NOW: The problems started when I brought
+          Undines here for an experiment.
+          He started acting wild.
+  JP : JP#5856[HIGH]: 「そもそも調調実験用に連れてきた / 　ウンディーネが<8a79>手気ままに / 　<8ae9>共したあたりからケチのつきはじめトカ[10][0c]「貴様らには
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#5725] budget=69ch/3ln
+  NOW: You guys saved me from
+          near death, so I owe you,
+          but the Germatron...
+  JP : JP#5857[HIGH]: 「貴様らには、ニアデスから<8832>ってもらった / 　<8aea><8a0f>があるトカ、無いトカだが / 　ゲルマトロン渓谷だけは、ままならねぇ[10][
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#5726] budget=86ch/3ln
+  NOW: Never. Or else I'd be pursued by
+          dangerous men. This is proof of
+          my loyalty to Odessa.
+  JP : JP#5858[HIGH]: 「それが、<888c>づくめの剣たちから / 　追われぬ生<8aeb>を<8a9e>重してくれた / 　オデッサへの<8aec><8aed>の<8aa6>とくら
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#5727] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#5859[HIGH]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「わ<f045><f045>おッ！ / 　機<8a85><8aee><8aef>トカじゃないの？ 
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#5728] budget=41ch/3ln
+  NOW: Wow!
+          Isn't this like a
+          secret disclosure?
+  JP : JP#5860[HIGH]: 「わ<f045><f045>おッ！ / 　機<8a85><8aee><8aef>トカじゃないの？ / 　これって〜？
+  FIT: <<TODO — <=41 chars, 3 line(s), <=35/line>>
+
+[US#5729] budget=87ch/3ln
+  NOW: It's a move too good to
+          waste for when no one's around.
+          But this might not be the time.
+  JP : JP#5861[MED]: 「人知れず、そっと見せるにはもったいない / 　そんなスゴイ戦いの仕方 / 　よもや、こんな場押で使おうとはッ！
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#5730] budget=91ch/3ln
+  NOW: Sorry to have troubled you.
+          We're going to say adios here,
+          now that everything's messed up.
+  JP : JP#5862[MED]: 「手間ァとらせたな〜 / 　何だか解進不能な流れになってきおったので / 　我仲らはここでオサラバだ[10][0c]「だがこれは<893d>共ではない / 　後
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#5731] budget=83ch/3ln
+  NOW: But we're not running away.
+          Any historian would declare
+          this as a brave withdrawal.
+  JP : JP#5863[MED]: 「だがこれは<893d>共ではない / 　後世の英<8af0><8af1>ならば / 　<8a52>気ある<8af2><8af3>と<8af4>してくれよう[1
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#5732] budget=47ch/2ln
+  NOW: Enjoy the continuation
+          of your grand adventure.
+  JP : JP#5864[MED]: 「<f040><f042>では、招き<8a18>き / 　<8a2b>険のほどをお<89fa>しみください〜
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#5733] budget=44ch/2ln
+  NOW: They've got so much
+          money, it's frightening.
+  JP : JP#5865[HIGH]: 「<889c>ろしいまでに / 　ふところが<89da>いわ〜
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>

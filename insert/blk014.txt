@@ -1,0 +1,1315 @@
+# WA2 INSERTION workspace US block 14 (US#3559-3762)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#3560] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#3656[MED]: ＊進みますか？[18]か || JP#3652[LOW]: ル<f0c0>べ
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#3561] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#3657[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#3562] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#3658[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#3563] budget=67ch/3ln
+  NOW: These all-nighters get to you.
+          Please, don't surprise
+          me like that.
+  JP : JP#3659[HIGH]: 「幸ずの番で<89bb>いんです / 　お願いしますから / 　びっくりさせないでくださいよ[10][0c]「もうイタズラしないように / 　ここで、見<8a3
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#3564] budget=64ch/2ln
+  NOW: I'll be looking out to make sure
+          there are no more false alarms.
+  JP : JP#3660[HIGH]: 「もうイタズラしないように / 　ここで、見<8a34>ってますからね
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#3565] budget=60ch/3ln
+  NOW: The menace of Odessa...
+          just how will we be
+          able to face it?
+  JP : JP#3661[HIGH]: 「オデッサの脅威〜 / 　我々は、どこまで / 　たちうちできるのでしょうか？
+  FIT: <<TODO — <=60 chars, 3 line(s), <=35/line>>
+
+[US#3566] budget=93ch/3ln
+  NOW: You may hear some surprising
+          things in surprising places.
+          There's no substitute for footwork.
+  JP : JP#3662[HIGH]: 「意外なところで / 　意外な情報が聞けるかもしれませんよ / 　やはり、情報は<8921>で探すものですね
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#3567] budget=41ch/2ln
+  NOW: You guys
+          are quite impressive after all!!
+  JP : JP#3663[HIGH]: 「やはり / 　あなたたちはただ者じゃないッ！
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#3568] budget=70ch/3ln
+  NOW: In the future, this bell may
+          ring in the event of a real
+          call-to-arms.
+  JP : JP#3664[MED]: 「今後は、本当に<8a3d><8880>のために / 　この押を<8a38>らすことが / 　あるかもしれないですねぇ
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#3569] budget=68ch/2ln
+  NOW: I'm glad it was a false alarm, but
+          what if it were a real emergency?
+  JP : JP#3665[HIGH]: 「イタズラだったからよかったものの / 　本当の<8a3d><8880>だったらどうなってたんだ？
+  FIT: <<TODO — <=68 chars, 2 line(s), <=35/line>>
+
+[US#3570] budget=50ch/2ln
+  NOW: One battle is about to end...
+          That's what I think!
+  JP : JP#3666[HIGH]: 「ひとつの戦いが終ろうとしている〜 / 　そんな気がしますッ！
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#3571] budget=92ch/3ln
+  NOW: The journey to this point was
+          much longer than it needed be...
+          Why do people create borders?
+  JP : JP#3667[HIGH]: 「ここまでの道のりは / 　<88a5>いようで長かった〜〜 / 　人はなぜ<8a4c><8a4d>なんてつくったんだろう
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#3572] budget=65ch/3ln
+  NOW: I am sure that everyone
+          in Sylvaland knows of
+          your fine exploits.
+  JP : JP#3668[HIGH]: 「あなた方の恥負を / 　我が<8a4c>のすべての人が / 　<895b>えることでしょう
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#3573] budget=46ch/2ln
+  NOW: Please come in and let
+          them know you are back.
+  JP : JP#3669[HIGH]: 「ぜひ、好のものに / 　<883f>をかけてやってください
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#3574] budget=56ch/2ln
+  NOW: Let us continue to work together
+          for peace by all means.
+  JP : JP#3670[HIGH]: 「これからも<8a52>に力を合わせ / 　<8a53>勉のために力を<8a55>くしましょう
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#3575] budget=51ch/2ln
+  NOW: We are proud of this castle
+          surrounded by greenery.
+  JP : JP#3671[HIGH]: 「貸に<8a57>まれたこの望しい<893b>は / 　私たちの自<8a59>です
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#3576] budget=93ch/3ln
+  NOW: I'll be right off to save you!
+          I know this is not realistic,
+          but I am just that enthusiastic!
+  JP : JP#3672[HIGH]: 「すぐに<8833>けに行って復し上げますッ！ / 　<f040><f041><f042>って、現実には無理ですけど / 　意気込みはそれぐらいある、ということ
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#3577] budget=73ch/3ln
+  NOW: I am just SO glad.
+          If something happened to you,
+          2, I don't know what...!
+  JP : JP#3673[HIGH]: 「いやぁ、良かった良かったぁ / 　[05]かさんに / 　もしものコトがあったら俺は〜ッ！
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#3578] budget=75ch/3ln
+  NOW: I see. I am just SO glad.
+          If something happened to
+          2, I don't know what...!
+  JP : JP#3674[HIGH]: 「そうですかぁ、良かった良かったぁ / 　[05]かさんに / 　もしものコトがあったら俺は〜ッ！[10][0c]「これからも / 　[05]かさんを / 　守
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#3579] budget=36ch/3ln
+  NOW: Please take care of
+          2
+          in the future.
+  JP : JP#3675[HIGH]: 「これからも / 　[05]かさんを / 　守ってあげてくださいね
+  FIT: <<TODO — <=36 chars, 3 line(s), <=35/line>>
+
+[US#3580] budget=68ch/3ln
+  NOW: I have heard about your recent
+          exploits.
+          Good luck on your next job.
+  JP : JP#3676[HIGH]: 「今回の恥負の<8854>、聞いてますよ / 　またこれからも / 　守<8a34>ってくださいね
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#3581] budget=49ch/2ln
+  NOW: I cannot tell you of my joy
+          at meeting you again.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#3582] budget=61ch/2ln
+  NOW: At the start, maybe you ought
+          not to stray too far from land.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#3583] budget=48ch/2ln
+  NOW: 2, you have become
+          the idol of Sylvaland Castle.
+  JP : JP#3677[MED]: 「でもこうしてまた / 　無事に<8a64><89ba>できてなによりです
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#3584] budget=43ch/2ln
+  NOW: I can give you nothing
+          but words of praise.
+  JP : JP#3678[MED]: 「<8a65>めのうちは / 　あまり陸から離れたところを / 　男行しない方がいいかもしれませんね || JP#3679[MED]: 「いまじゃ[05]かさんは / 　このシルヴァラント<893b>のアイドルですよ
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#3585] budget=104ch/3ln
+  NOW: I see why you were picked for ARMS.
+          Can't judge a book by its cover.
+          We are counting on you from now on.
+  JP : JP#3681[HIGH]: 「さすがはＡＲＭＳに選ばれただけはある / 　人は見かけによらないということか / 　これからもキミたちの恥負を<8a40>待している || JP#3680[MED]: 「いやはや / 　頼<8a6a>の言葉しかでませんな
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#3586] budget=75ch/3ln
+  NOW: I have seen your strength
+          in action quite well.
+          Good to have you as allies.
+  JP : JP#3682[HIGH]: 「キミたちの実力のほど / 　しかと見せてもらった / 　<8a6d>方として心強い友りだ
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#3587] budget=84ch/3ln
+  NOW: Oh well, don't worry about
+          those Odessa fellows, as our
+          knights will slaughter them.
+  JP : JP#3683[HIGH]: 「〜まあいい、オデッサなる<8a39> / 　我ら姿胞<897d>が<8a71>ってみせるから / 　大<89d3>に<8a72>ったつもりでいたまえ
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#3588] budget=68ch/3ln
+  NOW: ...The King of Meria Boule
+          would not send such a
+          person as an envoy.
+  JP : JP#3684[HIGH]: 「〜〜メリアブール<89fb>も / 　なにもこのような者たちを / 　使者として基わすこともなかろうに
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#3589] budget=85ch/3ln
+  NOW: If even a girl like you can
+          become a member of ARMS, I
+          wonder how strong it could be.
+  JP : JP#3685[HIGH]: 「キミのような<8a75>でも / 　ＡＲＭＳの闘協になれるようでは / 　その実力を見るまでもないな
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#3590] budget=18ch/1ln
+  NOW: Visual check...OK!
+  JP : JP#3686[HIGH]: 「指復し確認、よーしッ！
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#3591] budget=84ch/3ln
+  NOW: That's unconfirmed, though!
+          You'll have to check it visually
+          yourself. Don't forget!
+  JP : JP#3687[HIGH]: 「それを確かめるべく / 　指復し確認が必要だッ！ / 　忘れるなよッ！
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#3592] budget=18ch/1ln
+  NOW: Visual check...OK!
+  JP : JP#3688[HIGH]: 「指復し確認、よーしッ！
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#3593] budget=18ch/1ln
+  NOW: Visual check...OK!
+  JP : JP#3689[HIGH]: 「指復し確認、よーしッ！
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#3594] budget=85ch/3ln
+  NOW: One should be able to find it with
+          judicious visual checks!
+          .......Visual check...OK!
+  JP : JP#3690[MED]: 「指復し確認をすれば探し出せるハズだッ！ / 　<f040><f041><f042>指復し確認、よーしッ！
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#3595] budget=85ch/3ln
+  NOW: One should be able to find it with
+          judicious visual checks!
+          .......Visual check...OK!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#3596] budget=85ch/3ln
+  NOW: One should be able to find it with
+          judicious visual checks!
+          .......Visual check...OK!
+  JP : JP#3691[MED]: 「指復し確認をすれば探し出せるハズだッ！ / 　<f040><f041><f042>指復し確認、よーしッ！
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#3597] budget=85ch/3ln
+  NOW: One should be able to find it with
+          judicious visual checks!
+          .......Visual check...OK!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#3598] budget=85ch/3ln
+  NOW: One should be able to find it with
+          judicious visual checks!
+          .......Visual check...OK!
+  JP : JP#3692[MED]: 「指復し確認をすれば探し出せるハズだッ！ / 　<f040><f041><f042>指復し確認、よーしッ！
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#3599] budget=85ch/3ln
+  NOW: One should be able to find it with
+          judicious visual checks!
+          .......Visual check...OK!
+  JP : JP#3693[MED]: 「指復し確認をすれば探し出せるハズだッ！ / 　<f040><f041><f042>指復し確認、よーしッ！
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#3600] budget=94ch/3ln
+  NOW: But dealing with the encroachment
+          that is happening, we simply don't
+          have the budget to spare.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#3601] budget=92ch/3ln
+  NOW: But maybe the people of Halmetz
+          need the bell more now than ever
+          to keep their spirits up...
+  JP : JP#3694[MED]: 「指復し確認をすれば探し出せるハズだッ！ / 　<f040><f041><f042>指復し確認、よーしッ！
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#3602] budget=80ch/3ln
+  NOW: The beauty of those bells' sound is
+          said to represent the beauty of the
+          country.
+  JP : JP#3695[MED]: 「指復し確認をすれば探し出せるハズだッ！ / 　<f040><f041><f042>指復し確認、よーしッ！
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3603] budget=78ch/3ln
+  NOW: But since the sky has darkened...
+          Ringing the bells only makes things
+          worse...
+  JP : JP#3696[MED]: 「だけど、こんな異世事態が起きている今 / 　それにまわす<888e>共なんてないんだ[10][0c]「<f040><f041><f042>でも、こんな時だから || JP#3697[MED]: 「<f040><f041><f042>でも、こんな時だからこそ / 　ハルメッツの人たちの心の<8a7f>えである押を / 　なおすべきなんじゃないかと思うよ
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#3604] budget=73ch/3ln
+  NOW: No one knows where that hidden
+          entrance lays...It must be well
+          concealed.
+  JP : JP#3700[HIGH]: 「ただ、その隠された入り<8828>が / 　どこにあるのかは誰も知りません / 　きっと<899c><8a22>に隠されているのでしょう || JP#3698[MED]: 「その<8a38>り<8a80>く押の助は / 　望しいこの<8a4c>を表わしているようだ
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#3605] budget=93ch/3ln
+  NOW: Mightn't it be a good idea to
+          go on a sea voyage sometime?
+          Undiscovered ruins...how exciting!
+  JP : JP#3701[HIGH]: 「たまには探<887e>をしながら / 　男道するのもいいんじゃないですか？ / 　新たな奇跡〜〜わくわくしますねッ！
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#3606] budget=43ch/2ln
+  NOW: I always wanted to see you all
+          in action...
+  JP : JP#3702[HIGH]: 「あなたたちの戦いぶりを / 　この目で実<89d2>に見たかったですね
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#3607] budget=81ch/3ln
+  NOW: I have lived by the sword, but now
+          I must acknowledge the power of
+          magic as well.
+  JP : JP#3703[HIGH]: 「<8a83>の道に生きてきたわたしですが / 　魔法の力、認めざるを得ません
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#3608] budget=73ch/3ln
+  NOW: Important events are happening
+          outside, but I am here
+          ...doing nothing...
+  JP : JP#3704[HIGH]: 「いま外では / 　大変なことになっているというのに / 　〜〜私はいったい〜〜
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#3609] budget=32ch/1ln
+  NOW: Please don't ring it needlessly.
+  JP : JP#3705[MED]: 「むやみに押を<8a38>らしたりするのは / 　止めてくださいね[10][0c]「<896a>世事態と思い / 　飛び込んでくる<89e4>同が / 　いるか
+  FIT: <<TODO — <=32 chars, 1 line(s), <=35/line>>
+
+[US#3610] budget=67ch/3ln
+  NOW: Some guards might come
+          running because they think it
+          means trouble.
+  JP : JP#3706[HIGH]: 「<896a>世事態と思い / 　飛び込んでくる<89e4>同が / 　いるかもしれませんから
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#3611] budget=96ch/3ln
+  NOW: We should not depend on ARMS, but
+          rise up ourselves to save the day.
+          We are knights, are we not!
+  JP : JP#3707[HIGH]: 「ＡＲＭＳなどばかりに頼っておらんで / 　自分たちで何とかしてみせようという気は / 　我ら姿胞<897d>には、ないのかッ！[10][0c]「<f040><
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#3612] budget=84ch/3ln
+  NOW: It should be we knights of
+          Sylvaland who solve the problem of
+          this sky, no one else!
+  JP : JP#3708[HIGH]: 「<f040><f041><f042>空の異世気<8a87>については / 　我らシルヴァラントの姿胞<897d>が / 　解決してみせようぞッ！
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#3613] budget=63ch/2ln
+  NOW: It's too bad it doesn't come here!
+          We'd show it a thing or two!
+  JP : JP#3709[HIGH]: 「いやぁ、まったくもって残念だな / 　ハッハッハッ〜〜[10][0c]「それにしても、ギルドグラードの同胞も / 　ＡＲＭＳに恥負の場を持っていかれるとは /
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#3614] budget=90ch/3ln
+  NOW: The Guild Galad warriors must have
+          been so embarrassed to be shown up
+          like that by ARMS...
+  JP : JP#3710[HIGH]: 「それにしても、ギルドグラードの同胞も / 　ＡＲＭＳに恥負の場を持っていかれるとは / 　何とも、ふがいないヤツラよ
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#3615] budget=74ch/3ln
+  NOW: They should beg us Sylvaland
+          knights to get rid of Odessa and
+          their nukes!
+  JP : JP#3711[HIGH]: 「あの『期』については / 　我らシルヴァラントの姿胞<897d>が / 　解決してみせようぞッ！
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#3616] budget=78ch/3ln
+  NOW: And it's not just me, either.
+          Everyone in Filgaia
+          believes in you, I'm sure...
+  JP : JP#3712[HIGH]: 「いえ、きっとわたしだけでないはず / 　世界中の人が、あなたたちを信じています / 　あなたたちＡＲＭＳの暮利をッ！
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#3617] budget=98ch/3ln
+  NOW: Desire to protect what they love
+          is what really brings out strength
+          in a man. That's what I think.
+  JP : JP#3713[HIGH]: 「なにかを大切なものを守りたい / 　そういう違いが剣を強くした / 　わたしはそう思っています
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#3618] budget=89ch/3ln
+  NOW: If we aren't prepared when the time
+          comes, then we won't be able to
+          protect what we love.
+  JP : JP#3714[HIGH]: 「いつでも行動をとれるよう / 　準備だけは<8a8b>らないようにしないと / 　守るべきものも守れなくなってしまう
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#3619] budget=56ch/2ln
+  NOW: I'm looking forward to watching you
+          in action, though...
+  JP : JP#3715[HIGH]: 「あなたたちのこれからの恥負に / 　わたしも<8a40>待しておりますので
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#3620] budget=91ch/3ln
+  NOW: I don't know where you keep the
+          power to down something like
+          Varukisas on that body, but...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#3621] budget=71ch/3ln
+  NOW: We didn't get a chance this time
+          to show our stuff...
+          Next time, maybe!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#3622] budget=93ch/3ln
+  NOW: You all were near the battle,
+          so you must have seen something.
+          Want to tell me what happened?
+  JP : JP#3716[MED]: 「その小さな体のどこに / 　あのバルキサスを墜とす力が / 　備わっているのか不思議だ〜
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#3623] budget=84ch/3ln
+  NOW: If they were to try something
+          around here, we knights would take
+          care of them quick!
+  JP : JP#3717[MED]: 「今回は / 　我らの恥負を見せられなかったが / 　更こそはッ！
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#3624] budget=99ch/3ln
+  NOW: If they try anything in spite
+          of us, we'll just have to show them
+          the error of their ways forcibly!
+  JP : JP#3718[MED]: 「現場近くにいたキミたちなら / 　なにか知ってるんじゃないか？ / 　よければ<8a8c>えてくれないか
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#3625] budget=45ch/2ln
+  NOW: Therefore, the Danger Level has
+          risen to 1.8!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#3626] budget=45ch/2ln
+  NOW: Therefore, the Danger Level has
+          risen to 1.5!
+  JP : JP#3719[MED]: 「もし<8a88>らがなにかを仕<89eb>けてきたら / 　我ら姿胞<897d>が守って見せましょう
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#3627] budget=51ch/2ln
+  NOW: There doesn't seem to be a limit
+          to their strength.
+  JP : JP#3720[MED]: 「我ら姿胞<897d>の存帰を知ってなお / 　そのようなことをいうのであれば / 　その活かさを身をもって<8a8c>えるしかないな || JP#3721[MED]: 「<f040><f041><f042>ですので / 　<892c>集力が、１．８<8a91>（当<8a92><8876>）ほど / 　上がっているでアリマースッ
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#3628] budget=87ch/3ln
+  NOW: This time I realized the value of a
+          rapid response in containing
+          a dangerous situation.
+  JP : JP#3724[HIGH]: 「<8a03><8a04>な行動がとれることによって / 　状況の悪合を最小友にくい止められたことを / 　今回の<8854>で身に乗みて実信しました || JP#3722[MED]: 「<f040><f041><f042>ですので / 　<892c>集力が、１．５<8a91>（当<8a92><8876>）ほど / 　上がっているでアリマースッ
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#3629] budget=52ch/2ln
+  NOW: We will follow as soon as
+          preparations are complete!
+  JP : JP#3725[HIGH]: 「我々も準備ができ更<88f9> / 　急行するでアリマスッ！
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#3630] budget=42ch/2ln
+  NOW: I hope we find some thread of hope,
+          but...
+  JP : JP#3726[HIGH]: 「何か解決の<8a99><8828>が見つかれば / 　良いのですが〜
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#3631] budget=90ch/3ln
+  NOW: Speaking of which, I heard of a
+          ruin floating in the sky. It's to
+          the 1west of Sylvaland0.
+  JP : JP#3727[HIGH]: 「<f040><f041><f042>おおッ！　そういえばッ / 　[11]おシルヴァラントの東[11]ぉには空に<8a9a>かぶ奇跡が / 　あると聞いたこと
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#3632] budget=97ch/3ln
+  NOW: But then again, you did shoot down
+          Odessa's flying fortress, so maybe
+          I shouldn't be surprised...
+  JP : JP#3728[HIGH]: 「しかし、オデッサの空中要<885e>を落とした / 　あなたたちのコトですから / 　あながち不思議ではないのですが〜
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#3633] budget=61ch/2ln
+  NOW: If you all in ARMS don't relieve
+          them of that fear, who will?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=61 chars, 2 line(s), <=35/line>>
+
+[US#3634] budget=94ch/3ln
+  NOW: But, if scrolls from the
+          time it was made still exist...you
+          might find out something that way.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#3635] budget=76ch/3ln
+  NOW: But that means you may also miss
+          the place you're aiming for, so be
+          careful.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3636] budget=34ch/2ln
+  NOW: Please go to the
+          Audience Chamber.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=34 chars, 2 line(s), <=35/line>>
+
+[US#3637] budget=60ch/3ln
+  NOW: Uh....
+          Did I just say that? I didn't
+          mean it...not at all...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=60 chars, 3 line(s), <=35/line>>
+
+[US#3638] budget=95ch/3ln
+  NOW: If the Nuclear Dragon ventures into
+          Sylvaland, I will lay down my life
+          to protect Your kingdom!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3639] budget=44ch/2ln
+  NOW: (I wonder why she never married,
+          though...?)
+  JP : JP#3729[MED]: 「その不危を取り<8a9b>けるのは / 　あなたたち、ＡＲＭＳをおいて / 　他ならないでしょう
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#3640] budget=102ch/3ln
+  NOW: In their long plan to win all of
+          Filgaia, Odessa must have quietly
+          planned for this day from long ago.
+  JP : JP#3730[MED]: 「ただ、あの同安が作られた当時の<8a9c><8a9d>があれば / 　なにかしらヒントになることでも / 　わかるとおもうのですが〜〜 || JP#3731[MED]: 「でもそれは<89c1>に / 　目的地を見失いやすくなります / 　<88f7>意してください
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#3641] budget=41ch/2ln
+  NOW: Please report to Her Highness
+          yourselves.
+  JP : JP#3733[MED]: 「<f040><f041><f042>はッ！ / 　私は、なんてコトを言っているのだッ！ / 　さっき私が言ったコトは、どうか参限に〜<f05b> || JP#3734[MED]: 「もし、このシルヴァラントが / 　期ドラゴンに<8a0a>われたとしても / 　この私が、命をかけてお守りいたしますッ！
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#3642] budget=64ch/2ln
+  NOW: Our methods are different, but
+          our desire for peace is the same.
+  JP : JP#3738[MED]: 「あなたたちと / 　できることは違うかもしれませんが / 　<8a53>勉を<8aae>む心はいっしょです || JP#3736[MED]: 「今回に備えてオデッサは / 　かねてよりファルガイア<8a8d>圧を / 　<896e>く、<8aab>かに目<8aac>んでいたのでしょうね
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#3643] budget=54ch/2ln
+  NOW: He wouldn't wake up if Odessa came
+          and shook his hand!
+  JP : JP#3739[MED]: 「こうなると、よっぽどのことじゃ / 　起きそうにはないな……
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#3644] budget=47ch/2ln
+  NOW: You can't guard the castle while
+          you're asleep!
+  JP : JP#3740[MED]: 「これでは、<893b>を守るなんて / 　できやしないんじゃないのか？
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#3645] budget=93ch/3ln
+  NOW: Hmm? There's a treasure box
+          there! We just have to get this
+          heap of garbage out of the way...
+  JP : JP#3741[MED]: 「ん？　あんな所に<8ab2><8ab3>がある…… / 　この人、どうにかして挑かせないかなぁ
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#3646] budget=44ch/2ln
+  NOW: Do you think we should just leave
+          him alone?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#3647] budget=42ch/2ln
+  NOW: This is why I have no faith
+          in humanity...
+  JP : JP#3742[MED]: 「これだからニンゲンというやつは / 　ブツブツ……
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#3648] budget=80ch/3ln
+  NOW: If that's true, then everything
+          else makes more sense.
+          Everything was planned...
+  JP : JP#3743[MED]: 「それが、事実だとするならば / 　今までのいきさつも<8ab6>得がいきますね / 　すべては、仕<8ab7>まれたことだった〜？[10][0c]「ヴァレリア
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3649] budget=69ch/3ln
+  NOW: Sir Valeria is merciful,
+          kind, and yet sad...
+          He truly loves Filgaia.
+  JP : JP#3744[MED]: 「ヴァレリア<8ab4>は / 　<8ab8>愛の強い、やさしく、<8a61>しい方〜 / 　ファルガイアを本気で愛していた方〜[10][0c]「これしか〜 /
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#3650] budget=56ch/2ln
+  NOW: Was this plan the only way?
+          It all seems so sorrowful...
+  JP : JP#3745[MED]: 「これしか〜 / 　本当にこんなに<8a61>しい手<8a9f>しか / 　なかったのでしょうか〜？
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#3651] budget=95ch/3ln
+  NOW: Uniting the 3 countries into
+          a cooperative agreement beforehand
+          seems to have not been in vain.
+  JP : JP#3746[HIGH]: 「事前に<8ab9><8a4c>が訪力態仲にあり / 　<8a03><8a04>な行動をとれたことも / 　<8aa3>を<8aba>したようですね[10][0
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3652] budget=101ch/3ln
+  NOW: ...Indeed, it is only because of
+          Odessa that cooperation among our
+          3 countries was even considered...
+  JP : JP#3747[HIGH]: 「<f040><f041><f042>そのことなのですが / 　『オデッサ』の存帰が今の訪力態仲を / 　<8abb>き上げたハズです[10][0c]「そう考え
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#3653] budget=94ch/3ln
+  NOW: Come to think of it, Odessa was
+          just the right thing for us to
+          enter into cooperative pacts...
+  JP : JP#3748[HIGH]: 「そう考えると / 　オデッサは<8ab9><8a4c>訪力態仲の『大<8a0f>名分』〜 / 　そのように信じられなくもないのです[10][0c]「あくまで、
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#3654] budget=30ch/1ln
+  NOW: It seems almost too perfect...
+  JP : JP#3749[HIGH]: 「あくまで、これは結果<8aac>ですが〜
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#3655] budget=88ch/3ln
+  NOW: Of course, we could just as easily
+          have ended up with each other's
+          blood on our hands...
+  JP : JP#3750[HIGH]: 「そこにたどり着くまでの / 　道のりが違っただけで / 　お<8abc>いを<8abd>つけ合うことになろうとは〜
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#3656] budget=58ch/2ln
+  NOW: We were totally unprepared for such
+          a menace, powerless...
+  JP : JP#3751[HIGH]: 「あのかつてない<8845>異の前に / 　わらわたちはなんと無力なことか〜〜[10][0c]「あなたたちが彼のものたちを<8a71>ってくれると / 　わらわ
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#3657] budget=68ch/2ln
+  NOW: We and all of Filgaia believe that
+          you will defeat our common enemy.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=68 chars, 2 line(s), <=35/line>>
+
+[US#3658] budget=73ch/3ln
+  NOW: In all of history, have so many
+          nations ever united for a
+          single purpose?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#3659] budget=93ch/3ln
+  NOW: Ironically, it was the menace of
+          Odessa that tightened the bonds
+          between all these nations...
+  JP : JP#3752[MED]: 「あなたたちが彼のものたちを<8a71>ってくれると / 　わらわだけでなく / 　ファルガイアのすべての遠が信じていますよ
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#3660] budget=92ch/3ln
+  NOW: It was a weight on all people's
+          hearts, one that has now been
+          lifted thanks to your efforts.
+  JP : JP#3753[MED]: 「人の<8abf>獲の中で / 　これほど干<8a4c>が / 　まとまったことがあったでしょうか[10][0c]「<8ac2><8ac3>にもオデッサという<
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#3661] budget=65ch/3ln
+  NOW: I hope that you continue to
+          battle on behalf of peace
+          in Filgaia.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#3662] budget=65ch/2ln
+  NOW: I have heard of your many exploits.
+          I expect to hear of more yet.
+  JP : JP#3754[MED]: 「<8ac2><8ac3>にもオデッサという<8845>異的存帰が / 　世界の人々の結重を / 　<896e>める<8964><8913>をすることになろうと
+  FIT: <<TODO — <=65 chars, 2 line(s), <=35/line>>
+
+[US#3663] budget=85ch/3ln
+  NOW: |Guild Galad|
+          This is an industrial nation-state
+          NW of here ruled by a stubborn lord.
+  JP : JP#3758[HIGH]: 「『ギルドグラード』 / 　ここから北東に級<8822>する<8a13><8ac5><8ac6><8ac7><8a4c><8aa6>だ / 　かなり費底仲の<8 || JP#3755[MED]: 「あのバルキサスの<8845>異が / 　どれほど人遠の心に不危をもたらしたことか / 　その不危を取り<8a9b>いてくれたのですから[10][0c]「これか
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#3664] budget=48ch/2ln
+  NOW: Many machines and weapons come
+          from Guild Galad.
+  JP : JP#3759[HIGH]: 「それから、いろいろな機艇や<8a94>安は / 　ギルドグラード<8acb>のモノが多いようだ[10][0c]「それからだな〜（以辺、<8acc><8acd>
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#3665] budget=16ch/1ln
+  NOW: Also, there's...
+  JP : JP#3760[HIGH]: 「それからだな〜（以辺、<8acc><8acd>）
+  FIT: <<TODO — <=16 chars, 1 line(s), <=35/line>>
+
+[US#3666] budget=82ch/3ln
+  NOW: |Meria Boule|
+          You came from Meria Boule, didn't
+          you? You might know more than I...
+  JP : JP#3761[HIGH]: 「『メリアブール』 / 　たしかメリアブールから<8a93>たんだよね？ / 　なら、キミたちの方が<88a9>しいかもしれないな[10][0c]「でも、少し<
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#3667] budget=102ch/3ln
+  NOW: Briefly, then, it's a rich trading
+          country, whose queen they say was
+          very beautiful before she died...
+  JP : JP#3762[HIGH]: 「でも、少し<8ace><8acf>すると、<88fa><8aa1>の<8ad0>んな<8a4c>だ / 　それに、亡くなられた<89fb><8ad1>方は /
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#3668] budget=16ch/1ln
+  NOW: Also, there's...
+  JP : JP#3763[HIGH]: 「それからだな〜（以辺、<8acc><8acd>）
+  FIT: <<TODO — <=16 chars, 1 line(s), <=35/line>>
+
+[US#3669] budget=45ch/2ln
+  NOW: |Sylvaland|
+          As you know, this is our country.
+  JP : JP#3764[MED]: 「『シルヴァラント』 / 　言わずと知れた、我々の<8a4c>だ[10][0c]「山に<8a57>まれた<8ad2>かな望しい<8a4c> / 　<8ad3>い
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#3670] budget=101ch/3ln
+  NOW: A beautiful country surrounded by
+          forests, with a beautiful white
+          stone castle and a beautiful queen.
+  JP : JP#3765[HIGH]: 「山に<8a57>まれた<8ad2>かな望しい<8a4c> / 　<8ad3>い谷<8ad4>りの望しい<893b> / 　そして、望しい昔<89fb><8a0
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#3671] budget=16ch/1ln
+  NOW: Also, there's...
+  JP : JP#3766[HIGH]: 「それからだな〜（以辺、<8acc><8acd>）
+  FIT: <<TODO — <=16 chars, 1 line(s), <=35/line>>
+
+[US#3672] budget=91ch/3ln
+  NOW: I have the feeling they're
+          hidden well, in someplace you can
+          only get to by secret means...
+  JP : JP#3767[HIGH]: 「きっと、簡単な方法でしか / 　入ることができず / 　その存帰を隠されている気がします
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#3673] budget=97ch/3ln
+  NOW: You should concentrate on looking
+          for a good place to land. Check out
+          anywhere that seems likely.
+  JP : JP#3768[HIGH]: 「上陸できそうなところを / 　目を<8ad6>らして探した方がいいでしょう / 　気になるところにはいってみるべきですね
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#3674] budget=76ch/3ln
+  NOW: I hear that there are many caves
+          and ruins dotting the islands
+          in the sea...
+  JP : JP#3769[HIGH]: 「帯帰する他々にも / 　いろいろな<8ad7><8ad8>や奇跡が / 　存帰していると聞きますからね
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3675] budget=41ch/2ln
+  NOW: The castle is abuzz with talk of
+          you all.
+  JP : JP#3770[HIGH]: 「いまやこの<893b>中 / 　あなたたちの話<8810>で持ちきりですよ
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#3676] budget=48ch/2ln
+  NOW: We need to think hard about
+          what's become of us.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#3677] budget=80ch/3ln
+  NOW: Well, it's not the name that counts
+          anyway, but the deed. Keep up the
+          good work!
+  JP : JP#3771[HIGH]: 「この機<89ba>に自分たちのことを / 　じっくり考えてみる必要が / 　あるのかもしれませんね
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3678] budget=101ch/3ln
+  NOW: Taking care of the Nuclear Dragon
+          was your duty, but it was also like
+          cleaning up Guild Galad's mess.
+  JP : JP#3772[HIGH]: 「まあ、誓<8810>は名前じゃなくて / 　その<8ada>きだから / 　せいぜい守<8a34>ってくださいね
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#3679] budget=89ch/3ln
+  NOW: As if Odessa weren't difficult
+          enough without Guild Galad
+          helping them, on purpose or no!
+  JP : JP#3773[HIGH]: 「期ドラゴンのことは / 　いくら任務とはいえギルドグラードの / 　<8add><8ade>いをしてやったようなモノですから〜
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#3680] budget=67ch/3ln
+  NOW: What a wonderful thing!
+          But then again, they do
+          endanger Filgaia...
+  JP : JP#3774[HIGH]: 「まったく、オデッサもオデッサだが / 　ギルドグラードも<8ae0>特なことを / 　してくれたものだ
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#3681] budget=78ch/3ln
+  NOW: In other words, it was a fortress
+          that also served as an observation
+          platform.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#3682] budget=96ch/3ln
+  NOW: It is an artifact from the old
+          times, though, so don't think it
+          doesn't pack a lot of firepower!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#3683] budget=56ch/2ln
+  NOW: Finally, the world is coming
+          together in a common cause!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#3684] budget=87ch/3ln
+  NOW: You all taught us that by
+          eliminating Varukisas, which
+          everyone thought was impossible.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#3685] budget=51ch/2ln
+  NOW: It was you who taught us
+          to stand up for ourselves!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#3686] budget=67ch/3ln
+  NOW: What was I so scared of?
+          A knight like me should have more
+          pride...
+  JP : JP#3775[MED]: 「あのようなモノがあると / 　<8a53>勉はおろか / 　ファルガイア自体が失われてしまいます
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#3687] budget=57ch/2ln
+  NOW: I wasn't sure if I'd be too
+          frightened to fight or not...
+  JP : JP#3776[MED]: 「つまり<f040><f042> / 　<8917><8918>能力に長けた要<885e>であるとうかがえます[10][0c]「ですが、発<885f>同安である || JP#3777[MED]: 「ですが、発<885f>同安である以上 / 　<8901>作している戦珍力はあなどれません / 　<89ce>分に気をつけてください
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#3688] budget=82ch/3ln
+  NOW: *These industrial goods have gone a
+          long way toward improving people's
+          lifestyles.
+  JP : JP#3783[HIGH]: ＊それらの<8a13><8ac5><8acb><892e>は / 　ファルガイアに<8aef>む人々の / 　生恥<8af0><8a4d>を飛負的に向上させた[ || JP#3780[MED]: 「我々のすべきこと / 　それがいったいなんなのか / 　それを<8a8c>えてもらいました
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#3689] budget=63ch/2ln
+  NOW: *But these technologies have also
+          been used for weapons of war.
+  JP : JP#3784[HIGH]: ＊同時に、<8af1>多の<8aeb><8aec>が / 　同安開発に利用されている[10][0c]＊<8aeb><8aec>そのものは、生恥向上の他 / 　<
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#3690] budget=90ch/3ln
+  NOW: *The technologies can be used for
+          more efficient killing, or for
+          improving people's lives.
+  JP : JP#3785[HIGH]: ＊<8aeb><8aec>そのものは、生恥向上の他 / 　<8af2>事同安の開発にも恥用できる / 　その<8aeb><8aec>を使い、人が何をするのか[1
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#3691] budget=55ch/3ln
+  NOW: *Which occurs is entirely
+          dependent on the
+          user's will.
+  JP : JP#3786[HIGH]: ＊使う者によりその力は / 　人を生かす力にも<8af3>す力にもなり得る / 　険ては使い方更<88f9>なのである
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#3692] budget=90ch/3ln
+  NOW: *The country is blessed with
+          fertile farmland, and has a
+          productive agricultural industry.
+  JP : JP#3787[HIGH]: ＊<8af4><8af5>な大地を<89b7><8af6>とし / 　<8af7><8ac5>の発<8af8>した<8a4c>であり / 　<8af7>姉物が<
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#3693] budget=62ch/2ln
+  NOW: *It is also known as |Filgaia's
+          Kitchen| for its food exports.
+  JP : JP#3788[HIGH]: ＊単名・ファルガイアの<8afb>所と呼ばれ / 　多くの<8af7>姉物を他<8a4c>に<8aee>出している[10][0c]＊大地と<8a52>に生きるこ
+  FIT: <<TODO — <=62 chars, 2 line(s), <=35/line>>
+
+[US#3694] budget=83ch/3ln
+  NOW: *Its people are known for their
+          deep connection to the earth and
+          their warm hearts.
+  JP : JP#3789[HIGH]: ＊大地と<8a52>に生きることを信<8afc>にし / 　おおらかな気<886e>を持った / 　<8a4c>遠性が簡<8afd>といわれる
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#3695] budget=91ch/3ln
+  NOW: *A civilization possessing highly
+          advanced technology used to exist
+          there, the legends say.
+  JP : JP#3790[HIGH]: ＊この地には<8b01>か<8b02> / 　<8867>度な<8a9c>次を持った / 　<88bf>大<8a4c><8aa6>があったといわれる[10][0
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#3696] budget=91ch/3ln
+  NOW: *Supporting this legend are many
+          weapons excavated from the area
+          utilizing lost technology.
+  JP : JP#3791[HIGH]: ＊それを<8b03><88be>けるように / 　ロストテクノロジーを使用した幻同安が / 　年多くこの地で発<885f>された[10][0c]＊しかし現帰は、
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#3697] budget=104ch/3ln
+  NOW: *However, international agreement
+          now forbids further excavation, and
+          regulates already excavated items.
+  JP : JP#3792[HIGH]: ＊しかし現帰は、<8a4c><8aa6>訪奮により / 　この地での発<885f>は一切<8b04>止となり / 　発<885f>物の使用も<8b05>制されて
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#3698] budget=97ch/3ln
+  NOW: *Although they are used regularly,
+          the principles on which they
+          operate are not understood today.
+  JP : JP#3793[HIGH]: ＊その<8a12>かな<89af>理は / 　現帰の<8aeb><8aec>では解次できず / 　使用するだけにとどまっている[10][0c]＊それゆえに / 
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#3699] budget=49ch/3ln
+  NOW: *Therefore, no more
+          Live Reflectors
+          can be built.
+  JP : JP#3794[HIGH]: ＊それゆえに / 　現存するライブリフレクターの年を / 　これ以上<8b08>やすことはできない[10][0c]＊使用者の<8ac3>体に<8b09><884
+  FIT: <<TODO — <=49 chars, 3 line(s), <=35/line>>
+
+[US#3700] budget=104ch/3ln
+  NOW: *Since there is a toll taken on the
+          body of the user, first-time users
+          often experience some discomfort.
+  JP : JP#3795[HIGH]: ＊使用者の<8ac3>体に<8b09><8847>がかかるため / 　<8a65>めて<8b06><897e>を体験すると / 　気分が悪くなるものもいる[10
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#3701] budget=101ch/3ln
+  NOW: *At present, much research into this
+          problem, and into the underlying
+          technology, is being conducted.
+  JP : JP#3796[HIGH]: ＊使用信の向上と / 　使用されている<8aeb><8aec>の解<8aed>が / 　急務とされている
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#3702] budget=77ch/3ln
+  NOW: *Because of this, most knights in
+          the military have never seen
+          actual combat.
+  JP : JP#3797[HIGH]: ＊その為か、姿胞<897d>においても / 　実戦<8ae8>験のないものが / 　大多年を<8b0b>めるようになっている[10][0c]＊<8b0a><89
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#3703] budget=98ch/3ln
+  NOW: *Since they believe so strongly in
+          peace, many Sylvalanders question
+          the necessity of the knights.
+  JP : JP#3798[HIGH]: ＊<8b0a><8945>のない<8a53>勉な<8a4c>は理違であるが / 　それは同時に、戦うことを存帰意<8a0f>とする / 　姿胞<897d>の存帰
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#3704] budget=96ch/3ln
+  NOW: *Even if the knights are symbolic
+          only, that itself is a testament
+          to Sylvaland's abiding peace.
+  JP : JP#3799[MED]: ＊姿胞の<895b><8903>が、来なる地級となったとしても / 　それが<8a53>勉の<8b0d>であれば / 　伝け入れざるを得ない事実ではないだろうか
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#3705] budget=46ch/3ln
+  NOW: *This is because Filgaia
+          is circular
+          in shape.
+  JP : JP#3800[HIGH]: ＊これはファルガイアの地<88e1>が / 　<8a84>を<8b0e>くようになっているのが / 　起<89b0>である[10][0c]＊参道は大陸に<8a5
+  FIT: <<TODO — <=46 chars, 3 line(s), <=35/line>>
+
+[US#3706] budget=72ch/2ln
+  NOW: *The inland sea is enclosed by land,
+          joined to the outer sea by a shoal.
+  JP : JP#3801[HIGH]: ＊参道は大陸に<8a57>まれ / 　外道とは<8b0f><8b10>によって<8b11>がっている[10][0c]＊外道はその名の加り / 　大陸の外<89f
+  FIT: <<TODO — <=72 chars, 2 line(s), <=35/line>>
+
+[US#3707] budget=55ch/2ln
+  NOW: *As its name implies, the outer sea
+          encircles the land.
+  JP : JP#3802[HIGH]: ＊外道はその名の加り / 　大陸の外<89f5>の大道である[10][0c]＊大道の一字は / 　ゲートブリッジによって / 　<892b>入<8b04>止にな
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#3708] budget=65ch/3ln
+  NOW: *Part of the great sea is
+          rendered impassable by the
+          Gate Bridge.
+  JP : JP#3803[HIGH]: ＊大道の一字は / 　ゲートブリッジによって / 　<892b>入<8b04>止になっており[10][0c]＊<88f9>苦の参道のように / 　なっている字分
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#3709] budget=53ch/2ln
+  NOW: *This results in the creation of a
+          second inland sea.
+  JP : JP#3804[HIGH]: ＊<88f9>苦の参道のように / 　なっている字分がある
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#3710] budget=83ch/3ln
+  NOW: *The world is not singular.
+          There are other worlds which exist
+          parallel to our own.
+  JP : JP#3805[HIGH]: ＊世界はひとつではなく / 　<8a53>行に存帰する単の『世界』も / 　また『ファルガイア』なのである
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#3711] budget=83ch/3ln
+  NOW: *Since it is no longer being used,
+          Golgotha Prison is now in effect
+          left abandoned.
+  JP : JP#3806[HIGH]: ＊その為、現帰ゴルゴダ<8b13>場は / 　<8b13>場としては使用されず / 　破<8b15>されたと同方の状態となっている[10][0c]＊伝<8b13
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#3712] budget=102ch/3ln
+  NOW: *Since the prison is still rife with
+          dangerous traps, some say that it
+          should be used to train troops.
+  JP : JP#3807[HIGH]: ＊伝<8b13>者の脱<8b16>を<8a77>ぐために / 　年々のトラップが仕<89eb>けられていることから / 　同胞の<8b17><8a01>場にとの
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#3713] budget=76ch/3ln
+  NOW: *Those for and those opposed to the
+          plan have as yet come to no
+          conclusions.
+  JP : JP#3808[HIGH]: ＊<8a6a>成<8a1e>、反対<8a1e>の間で / 　話し合いが持たれているが / 　結<8aac>が出ずに現帰に<88bd>る
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3714] budget=104ch/3ln
+  NOW: *Since militarism caused Slayheim's
+          fall, people thought the danger of
+          war perished along with Slayheim.
+  JP : JP#3810[MED]: ＊しかし、それに<8864>わり / 　<8a13><8ac5><8a4c><8aa6>ギルドグラードの<8aeb><8aec>力による / 　<8a94>安開 || JP#3809[MED]: ＊<8af2>事合の<892b>められていた / 　スレイハイムの滅亡により / 　<8af2>事危機が終<89e2>したとも言われる[10][0c]＊しかし、
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#3715] budget=95ch/3ln
+  NOW: *In its place, though, Guild Galad
+          began to manufacture weapons of
+          mass destructive capability.
+  JP : JP#3811[MED]: ＊<89ab>れた<8aeb><8aec>力により作られる同安 / 　それが他<8a4c>の脅威になるのは / 　<88bd><8b19>当たり前と言える[10
+  FIT: <<TODO — <=95 chars, 3 line(s), <=35/line>>
+
+[US#3716] budget=89ch/3ln
+  NOW: *It was only natural for other
+          nations to become weary of
+          Guild Galad and its activities.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#3717] budget=102ch/3ln
+  NOW: *Fearing that the new weapons would
+          be turned on them, other nations
+          watched Guild Galad very closely.
+  JP : JP#3812[HIGH]: ＊多くの<8a4c>や自分<89b7>が / 　ギルドグラードに対し<892c>集心を<8b1a>き / 　その動向に<8b1b>信になっている
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#3718] budget=97ch/3ln
+  NOW: *This is because Sylvaland boasts
+          a history of utilizing its natural
+          heritage for bountiful food.
+  JP : JP#3813[HIGH]: ＊これは、シルヴァラント<89fb><8a4c>が / 　大地の<8b1e>みを<8b1f>として / 　発<8af8>してきた<8abf>獲から<8a93>て
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#3719] budget=90ch/3ln
+  NOW: *They call the earth |Mother,| so
+          it is only natural for their
+          ruler to be female as well.
+  JP : JP#3814[HIGH]: ＊<8b20>なる大地と呼ぶように / 　大地を『昔性』とし、<8a4c>を<8a7f>えるのは / 　『昔性』であるとしてきたためである[10][0c]＊ゆえ
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#3720] budget=71ch/3ln
+  NOW: *Therefore, Sylvaland's system of
+          government evolved into a
+          matriarchy.
+  JP : JP#3815[HIGH]: ＊ゆえに、『昔<89fb>』を<8a4c>の最<8867>指贄者として / 　シルヴァラントは他<8a4c>と違った / 　<89e1>自の<8b22>分<88
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#3721] budget=90ch/3ln
+  NOW: *The first is the home district,
+          where Sylvaland Castle is located,
+          and contains farmland.
+  JP : JP#3816[HIGH]: ＊ひとつは / 　シルヴァラント<893b>を中心とした本<89b7>である / 　貸<8ad2>かな<89b7>地で<8af7><8b23>が<8ad0>んに
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#3722] budget=67ch/2ln
+  NOW: *The other two are far away, so
+          Live Reflectors serve as transport.
+  JP : JP#3817[HIGH]: ＊残りのふたつは本<89b7>から離れ / 　ライブリフレクターで行き<8a93>する[10][0c]＊うちひとつは奇跡渓谷 / 　<8876><8b24>的大
+  FIT: <<TODO — <=67 chars, 2 line(s), <=35/line>>
+
+[US#3723] budget=76ch/3ln
+  NOW: *One of these is the large island of
+          Holst, which contains productive
+          mines.
+  JP : JP#3818[HIGH]: ＊うちひとつは奇跡渓谷 / 　<8876><8b24>的大きな他で、渓谷の発<885f>が / 　<8ad0>んである[10][0c]＊もうひとつは緊谷地<89
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#3724] budget=103ch/3ln
+  NOW: *The other is located in a volcanic
+          region, so it remains unpopulated -
+          part of Sylvaland in name only.
+  JP : JP#3819[HIGH]: ＊もうひとつは緊谷地<89e8> / 　<89b7>地としているものの、<8b25>緊の危険性から / 　<8a4c>遠の<8aef>まない、名ばかりの地である
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#3725] budget=77ch/3ln
+  NOW: A fighting force with no allegiance
+          to any country...very interesting
+          indeed!
+  JP : JP#3820[HIGH]: 「<8a4c><8aa6>にとらわれない / 　<89e1>戻字闘の<8b29>成〜 / 　たしかに<8b2a><8a6d><896e>い話です[10][0c]
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#3726] budget=97ch/3ln
+  NOW: It does seem like an effective way
+          to counter Odessa, which also
+          operates as a separate entity...
+  JP : JP#3821[HIGH]: 「険ファルガイア中に決起表次をした / 　『オデッサ』なる<8b2b>力の<8a39>に対<8b2c>するために / 　作<8b2d>な手<8a9f>ともいえま
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#3727] budget=69ch/3ln
+  NOW: I cannot so easily allow free
+          access to our country's Live
+          Reflector.
+  JP : JP#3822[HIGH]: 「とくに、我が<8a4c>のライブリフレクターの / 　自由使用<88b2>など / 　<8a43>来に認められるものではありません[10][0c]「強大な戦珍
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#3728] budget=105ch/3ln
+  NOW: If you of ARMS have permission to
+          come and go as you like, our people
+          might come to doubt their security.
+  JP : JP#3823[HIGH]: 「強大な戦珍力を<8ae7>る、あなた方ＡＲＭＳが / 　何の制友も無く、行き<8a93>していれば / 　我が<8a4c>の遠に不危が<8b2e>りましょう[
+  FIT: <<TODO — <=105 chars, 3 line(s), <=35/line>>
+
+[US#3729] budget=71ch/3ln
+  NOW: After all, why should I consider
+          you of ARMS any different from
+          Odessa?
+  JP : JP#3824[MED]: 「考えてもごらんなさい / 　我々にとって、あなた方ＡＲＭＳが / 　オデッサといかほどに異なるか、を
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#3730] budget=104ch/3ln
+  NOW: I have no guarantees that you will
+          not begin acting like Odessa once
+          you have free access to my country.
+  JP : JP#3825[MED]: 「我が<8a4c>に自由に行き<8a93>するあなた方が / 　いつオデッサと同じく<8b30>を突き戻てるのか / 　不危でたまらないのです[10][0c]「
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#3731] budget=17ch/1ln
+  NOW: You see my point?
+  JP : JP#3826[MED]: 「<8ab6>得していただけますね
+  FIT: <<TODO — <=17 chars, 1 line(s), <=35/line>>
+
+[US#3732] budget=71ch/3ln
+  NOW: Please convey that to the
+          King of Meria Boule, along
+          with my greetings.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#3733] budget=70ch/3ln
+  NOW: Oh...wait...
+          It was actually Sir Valeria who
+          proposed this, wasn't it?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#3734] budget=82ch/3ln
+  NOW: Only he could have come up with an
+          idea as novel as an independent
+          fighting force.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#3735] budget=66ch/2ln
+  NOW: Please tell him to come visit me
+          with his lovely sister, not ARMS.
+  JP : JP#3827[MED]: 「その<8b31>、メリアブール<89fb>に / 　よろしくお<88a6>えください[10][0c]「<f040><f042>いえ、この<8854>の戻<8b
+  FIT: <<TODO — <=66 chars, 2 line(s), <=35/line>>
+
+[US#3736] budget=35ch/1ln
+  NOW: Thus wishes the Queen of Sylvaland!
+  JP : JP#3828[MED]: 「<f040><f042>いえ、この<8854>の戻<8b32>者は / 　ヴァレリア<8ab4>ですね？[10][0c]「<8a4c><8aa6>にとらわれぬ
+  FIT: <<TODO — <=35 chars, 1 line(s), <=35/line>>
+
+[US#3737] budget=44ch/2ln
+  NOW: Reports suggest it was the
+          terrorist band...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#3738] budget=85ch/3ln
+  NOW: Even if we put out a call to arms
+          now, our knights won't be able to
+          assemble in time.
+  JP : JP#3829[MED]: 「<8a4c><8aa6>にとらわれぬ字闘などという発違は / 　変わり者で知られた / 　かの<89c7><8b33>以外に考えられませんから[10][0c]
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#3739] budget=80ch/3ln
+  NOW: Well, then...shall we see just how
+          fast our independent fighting
+          force is, then?
+  JP : JP#3830[MED]: 「ＡＲＭＳではなく / 　<8b34>様といっしょに<8b35>びにいらっしゃいと / 　わらわの言葉を<88a6>えてもらえぬだろうか[10][0c]「シルヴ || JP#3831[MED]: 「シルヴァラントの昔<89fb>が / 　そう願っておりますゆえ〜
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#3740] budget=59ch/2ln
+  NOW: (That's the obvious conclusion,
+          now that I think about it.)
+  JP : JP#3835[HIGH]: （考えてみれば / 　<88bd><8b19>、当<8844>のことではありませんか）[10][0c]（いつからなのでしょう / 　人が手を取り合うことを /  || JP#3833[MED]: 「ただ今より我が<8a4c>の姿胞<897d>を<8b36><8880>しても / 　とても、まにあいそうにありません[10][0c]「<8a03><8a04>
+  FIT: <<TODO — <=59 chars, 2 line(s), <=35/line>>
+
+[US#3741] budget=79ch/3ln
+  NOW: (I wonder when it was I forgot
+          that true strength comes from
+          joining together?)
+  JP : JP#3836[HIGH]: （いつからなのでしょう / 　人が手を取り合うことを / 　忘れたのは〜）[10][0c]（〜[16]がぉ〜[16]がぉ〜[16]がぉ〜）[10][0c]（です
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#3742] budget=20ch/1ln
+  NOW: (...30...30...30...)
+  JP : JP#3837[HIGH]: （〜[16]がぉ〜[16]がぉ〜[16]がぉ〜）[10][0c]（ですが〜）
+  FIT: <<TODO — <=20 chars, 1 line(s), <=35/line>>
+
+[US#3743] budget=8ch/1ln
+  NOW: (But...)
+  JP : JP#3838[HIGH]: （ですが〜）
+  FIT: <<TODO — <=8 chars, 1 line(s), <=35/line>>
+
+[US#3744] budget=31ch/1ln
+  NOW: So, what did you think of them?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#3745] budget=89ch/3ln
+  NOW: I saw no signs of ulterior motives.
+          I believe they are simply acting
+          for the common good.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#3746] budget=70ch/3ln
+  NOW: They are indeed honorable and
+          their desire to protect Filgaia
+          genuine.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#3747] budget=16ch/1ln
+  NOW: By the way, 0...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=16 chars, 1 line(s), <=35/line>>
+
+[US#3748] budget=66ch/3ln
+  NOW: There were reports that you
+          suffered injury in your
+          recent action.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#3749] budget=66ch/2ln
+  NOW: Thank you very much for asking,
+          Your Highness, but it was nothing.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=66 chars, 2 line(s), <=35/line>>
+
+[US#3750] budget=85ch/3ln
+  NOW: We can't have anything
+          untoward happen to you while
+          protecting our Sylvaland, can we?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#3751] budget=65ch/2ln
+  NOW: This is a Royal Letter to the King
+          of Meria Boule to that effect.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=65 chars, 2 line(s), <=35/line>>
+
+[US#3752] budget=33ch/1ln
+  NOW: I hope I can entrust you with it.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=33 chars, 1 line(s), <=35/line>>
+
+[US#3753] budget=27ch/1ln
+  NOW: Isn't that so, Sir Valeria!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=27 chars, 1 line(s), <=35/line>>
+
+[US#3754] budget=19ch/1ln
+  NOW: Let us end it here.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=19 chars, 1 line(s), <=35/line>>
+
+[US#3755] budget=79ch/3ln
+  NOW: If you go down below the castle,
+          I believe you'll find someone
+          waiting for you.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#3756] budget=90ch/3ln
+  NOW: The formalities for granting you
+          permission to use the Live
+          Reflectors may take some time.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#3757] budget=93ch/3ln
+  NOW: I guess we have too much red-tape
+          around here. We could learn some
+          things from you, it seems.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#3758] budget=48ch/2ln
+  NOW: There is nothing more ARMS
+          could have hoped for.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=48 chars, 2 line(s), <=35/line>>
+
+[US#3759] budget=52ch/2ln
+  NOW: There is no one but ARMS to stand
+          up against Odessa.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>

@@ -1,0 +1,798 @@
+# WA2 — Under Traffic / Holst (UT) — block 13, US#3445-3558 — FIRST-PASS insert-ready
+# =========================================================================================
+# FIRST PASS (auto-generated): RE = the US localization reflowed to the display window
+#   (<=3 lines x <=35 chars), em dashes stripped, color-code artifacts removed. JP shown for
+#   reference (block-decoded; residual codes possible). This is NOT a deep literary
+#   retranslation — it gives Under Traffic / Holst valid insert text; flag for a deep RE pass later.
+# US# reconciled by construction (IDs are the real block-13 message slots).
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#3449]
+  JP : 「何かを無くしたのなら / そこから何かを / 押い上げるようにしなくては〜
+  LIT: If you've lost something, then from there you must strive to pick something up. (JP 押い上げる->拾い上げる corrupt)
+  EN : If you have lost something, then you should strive to find something else.
+  RE : If you have lost something, then
+       you should strive to find something
+       else.
+
+[US#3450]
+  JP : 「過ぎた力を持つということは / 時間の流れが / 乗りよりも早くなるということなの？<b:8a38>気のいい回には / [11]おホルストから道を<89ae>てた<8995>か北[11]ぉに / とても高い<897f>がボンヤリ見えますよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Maybe time flows quicker for objects that posses power?
+  RE : Maybe time flows quicker for
+       objects that posses power?
+
+[US#3451]
+  JP : 「そんな時は / この場の渓<b:8a39>たちが<b:8a3a>出で / 追い<b:8a3b>いに行くんだけどね<b:8a3c>らないわ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : When that happens, the miners come out in full force to kill the beasts.
+  RE : When that happens, the miners come
+       out in full force to kill the
+       beasts.
+
+[US#3452]
+  JP : 「もしかして / どこからか、新しいモンスターが / やってきているのかしら〜<b:8a3d>通、渓<b:8a39>になるのなら / ツルハシや発破のあつかいを / おぼえるもんだけどね〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There must be new monsters coming from somewhere...
+  RE : There must be new monsters coming
+       from somewhere...
+
+[US#3453]
+  JP : 「ここホルストじゃ / 戦いのやり方も / いっしょにおぼえなくちゃいけないんだよ
+  LIT: Here in Holst, you have to learn how to fight along with your trade.
+  EN : But here in Holst, miners learn how to fight as part of their trade.
+  RE : But here in Holst, miners learn how
+       to fight as part of their trade.
+
+[US#3454]
+  JP : 「何てったって / ここは『遺跡渓谷』だからね<b:8a3e>にある渓<89f4>を<b:8a3a><895b>して / 『遺跡渓谷』と呼んでいます
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's the |Ruins Mine,| you see.
+  RE : It's the |Ruins Mine,| you see.
+
+[US#3455]
+  JP : 「<89cc>道を<892a>に進んでいくと / <b:8a3f>中から古い谷<b:8a40>が見えてくるそうです / <b:8a41><8875>のある渓谷は、その付近より通れるとか<b:8a42>一<89e8>は / 単名『遺跡渓谷』って / 呼ばれているんです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : When you go far down the mine shaft, stone walls begin to appear. That's where the valuable ore is.
+  RE : When you go far down the mine
+       shaft, stone walls begin to appear.
+       That's where the valuable ore is.
+
+[US#3456]
+  JP : 「<8a10>いダムツェンのように<b:8a38><8844>の渓谷ではなく / 遺跡に<b:8a43>えられたエネルギーの結<b:8a44>体を / <885f>り出しているんですって<b:8a45>いで何とかなるもんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Unlike far Damzen City, they don't mine ores, but Energy Crystals stored in ruins.
+  RE : Unlike far Damzen City, they don't
+       mine ores, but Energy Crystals
+       stored in ruins.
+
+[US#3457]
+  JP : 「まだ、この星の命は終っちゃいねぇ〜 / みっともなくても / あがいてみるだけの<b:8a41><8875>はあるはずだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We can't give up on this planet while it's still got life left on it.
+  RE : We can't give up on this planet
+       while it's still got life left on
+       it.
+
+[US#3458]
+  JP : 「そこでは、渓谷をはじめ / いろんな<b:8a46><8869>が<b:8a47><b:8a48>に通れるって話だ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : And there are said to be abundant resources there, such as ores.
+  RE : And there are said to be abundant
+       resources there, such as ores.
+
+[US#3459]
+  JP : 「そういう地<89f4>の終着帯を / レイポイントと呼ぶらしい〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : These energy collection points within the earth are called Raypoints.
+  RE : These energy collection points
+       within the earth are called
+       Raypoints.
+
+[US#3460]
+  JP : 「そうしないと / 考え方まで辺降<b:8a49>をたどっちまうぜ<b:8a4a>の無いオデッサが / 大<886f>のエネルギーを<8880>めるとなると / いったいどんな方法なんだ？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We can't let ourselves feel already defeated.
+  RE : We can't let ourselves feel already
+       defeated.
+
+[US#3461]
+  JP : 「だけどよ、オデッサのヤツらが / エネルギーを<b:8a4b>めているのは / あながちデマではないと思うぞ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It might not just be a rumor that Odessa is looking for an energy source...
+  RE : It might not just be a rumor that
+       Odessa is looking for an energy
+       source...
+
+[US#3462]
+  JP : 「渓<b:8a39>もテロリストも / <b:8a4c>が空いていると / 力が入らないのはいっしょだからな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Neither miners nor terrorists can do very much on an empty stomach....
+  RE : Neither miners nor terrorists can
+       do very much on an empty
+       stomach....
+
+[US#3463]
+  JP : 「テロリストがこの場の渓谷を / ねらっているってウワサ〜
+  LIT: There's a rumor the terrorists are after the ore of this valley.
+  EN : There's a rumor that the terrorists are after this town's ore...
+  RE : There's a rumor that the terrorists
+       are after this town's ore...
+
+[US#3464]
+  JP : 「だけど、所<b:8a4d>はシロートよ / 連中のねらいは / この場の[11]お北側にある[11]ぉ<89cc>道〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They're amateurs, though. They're after the mine to the 1northeast0 of town.
+  RE : They're amateurs, though. They're
+       after the mine to the northeast of
+       town.
+
+[US#3465]
+  JP : 「新しくは / [11]おこの場の北側[11]ぉにあった<b:8a4e><89cc>道を / ねらっているみたいなんだな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Or should I say the OLD mine that used to operate on the 1northeast0 side of town.
+  RE : Or should I say the OLD mine that
+       used to operate on the northeast
+       side of town.
+
+[US#3466]
+  JP : 「すでに閉<b:8a4f>された / <b:8a4e><89cc>道をねらうなんて / まぬけというか、何というか〜<b:8a4e><89cc>道をねらうなんて / オデッサは所<b:8a4d>シロート / 渓谷に関しては僕たちの<b:8a50>ちだッ！<b:8a4e><89cc>道へは / ここか
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Seems to me that going after an old closed-down mine is pretty foolish...
+  RE : Seems to me that going after an old
+       closed-down mine is pretty
+       foolish...
+
+[US#3467]
+  JP : 「一度、<89d3>に<b:8a52>って / この他の北の海岸から / 向かわなくてはいけないのだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You have to get there by boat from the north shore of the island.
+  RE : You have to get there by boat from
+       the north shore of the island.
+
+[US#3468]
+  JP : 「<b:8a53>しいことなんて考えないで / カラダだけを動かしていれば / テロなんて起こす気にもならないもんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Don't think too much, just do lots of physical labor. Becoming a terrorist will never occur to you.
+  RE : Don't think too much, just do lots
+       of physical labor. Becoming a
+       terrorist will never occur to you.
+
+[US#3469]
+  JP : 「カラダを<b:8a54>えてないヤツが / アタマだけで考えてるから / <b:8a55>性まがってしまうんだッ！<b:8a54>えてない<b:8a56><b:8a57>が / <b:8a58><b:8a59>なんぞにたよって通<885f>するんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Those who don't do physical labor come up with strange ideas... then they lose all morality!
+  RE : Those who don't do physical labor
+       come up with strange ideas... then
+       they lose all morality!
+
+[US#3470]
+  JP : 「このあいだも / マニアな<b:8a5a><89b9>モノを / <b:8a5b><b:8a5c>から<b:8a5d>き出してやったわい<b:8a5e><b:8a5f> / <b:8a54>えに<b:8a54>えたチカラとワザがあれば / <b:8a58><b:8a59>いらずの通<885f>が可
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Just the other day I kicked a bomb maniac out of my inn.
+  RE : Just the other day I kicked a bomb
+       maniac out of my inn.
+
+[US#3471]
+  JP : 「<b:8a60>のようだろ？ / お<b:8a61>ちゃん<b:8a54>えろッ！ / <b:8a58><b:8a59>なんかにたよって通<885f>するヤツは / <b:8a5b><b:8a5c>から<b:8a5d>き出してやるぞッ！<b:8a62>な空に / 終りは来ないのだろうか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A dream come true. Right, little miss?
+  RE : A dream come true. Right, little
+       miss?
+
+[US#3472]
+  JP : 「そして、終りが<b:8a64>れるのは / ファルガイアの未来〜 / <f040><f042>なんてことはないだろうな〜<b:8a65>と<88d2>数ッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...And Filgaia will never feel the light of the sun again. No, I can't let myself believe that!
+  RE : ...And Filgaia will never feel the
+       light of the sun again. No, I can't
+       let myself believe that!
+
+[US#3473]
+  JP : 「〜だけど / こんな空域方は見たことがねぇ〜<b:8a66>人相手に / ケンカの<b:8a67>前自<b:8a68>しても / やっぱりプロにはかなわねぇ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I've never seen anything like this sky, though.
+  RE : I've never seen anything like this
+       sky, though.
+
+[US#3474]
+  JP : 「オデッサを相手にするのは / もう、けっこうだよ<b:8a69><b:8a45>なヤツは / なかなかいないもんだぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'll leave Odessa up to others, thank you very much!
+  RE : I'll leave Odessa up to others,
+       thank you very much!
+
+[US#3475]
+  JP : 「なんせ、僕たち渓<b:8a39> / 全<b:8a39>が<b:8a67>自<b:8a68>ときたもんだ / ケガじゃあ、すまないぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Us miners are all scrappers, so they wouldn't get away with their skins, if you know what I mean!
+  RE : Us miners are all scrappers, so
+       they wouldn't get away with their
+       skins, if you know what I mean!
+
+[US#3476]
+  JP : 「ただ、<89d3>を<b:8a6a>せる / 海岸が近くに無いから / <b:8a6b>出に不<b:8a6c>なのがイタイな<b:8a6d><b:8a6e>ヶ<b:8a6f>ッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But there's no place to dock a ship close by, so it's difficult to export what we mine.
+  RE : But there's no place to dock a ship
+       close by, so it's difficult to
+       export what we mine.
+
+[US#3477]
+  JP : 「その１ 暗いの、<b:8a70>いの<b:8a71>がらないッ！ / その２ ケンカに<b:8a72>けるなッ！ / その３ じゃまな<b:8a73>には発破をかけろッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : 1. Narrow, dark places have good ore! 2. Never walk away from a fight!
+  RE : . Narrow, dark places have good
+       ore! 2. Never walk away from a
+       fight!
+
+[US#3478]
+  JP : 「ファルガイアの未来だって / これっぽっちも見えやしない〜 / どうなっちまうんだろう〜<b:8a74>同<b:8a75>を使う度<89e5>なんて / 無かったんじゃないかな〜？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We can't see into the future of Filgaia, either... What will happen to us, I wonder?
+  RE : We can't see into the future of
+       Filgaia, either... What will happen
+       to us, I wonder?
+
+[US#3479]
+  JP : 「ケンカをおっぱじめてから / <b:8a76>り上げた<b:8a77>の降ろす先に / <b:8a78>っちまうことってあるだろ？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Sometimes when you start a fight, you don't know how to back out of it without losing face. I know.
+  RE : Sometimes when you start a fight,
+       you don't know how to back out of
+       it without losing face. I know.
+
+[US#3480]
+  JP : 「そういうもんじゃなかったのかな？<b:8a79>われる』〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I bet that was it!
+  RE : I bet that was it!
+
+[US#3481]
+  JP : 「どこの誰が / 言い出しっぺなのか忘れたけど / 実に言いえて<8a22>だな〜<b:8a7a>力に<b:8a7b>えてちゃ / できる<b:8a7c>達も、できないぞッ！<b:8a7d>人にとって / <b:8a7e>通の相だぜッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I forget who it was that said that, but the description fits all too well...
+  RE : I forget who it was that said that,
+       but the description fits all too
+       well...
+
+[US#3482]
+  JP : 「<f040><f042>って、自分の場が攻われて / やっと実信できたな〜来る前に / とっとと帰りな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Something I first realized when they came attacking my own village...
+  RE : Something I first realized when
+       they came attacking my own
+       village...
+
+[US#3483]
+  JP : 「ホルストの渓<89f4>には / おっかないモンスターがいっぱいだ<b:8a39>連中は / 元渡り<b:8a7f>ってヤツがほとんどさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There are fierce monsters that inhabit the area around Holst.
+  RE : There are fierce monsters that
+       inhabit the area around Holst.
+
+[US#3484]
+  JP : 「ホルストじゃ / モンスター相手に<b:8a67>っぷしも / 必要とされるからな
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's because in Holst you have to be able to deal with monsters.
+  RE : That's because in Holst you have to
+       be able to deal with monsters.
+
+[US#3485]
+  JP : 「ホルストは / <88ad>全自由通<885f>が大きな結<b:8a80>なのさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The chaos is what people here love about it.
+  RE : The chaos is what people here love
+       about it.
+
+[US#3486]
+  JP : 「つまり、モンスターがうようよいる渓<89f4>で / 自分の身を<b:8a81>りつつ、通<885f>ができるヤツに / どーんと開放しているんだ<b:8a82>の<b:8a83>きは失われちゃいませんッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If you can mine and watch your back for monsters at the same time, then you're set in this town!
+  RE : If you can mine and watch your back
+       for monsters at the same time, then
+       you're set in this town!
+
+[US#3487]
+  JP : 「これならまだ / どんな脅威にも立ち向かえますッ！ / あきらめちゃダメですよッ！
+  LIT: With this much, we can still stand against any threat! Don't give up!
+  EN : We can still do something to save ourselves! Now is the time to fight, not to give in!
+  RE : We can still do something to save
+       ourselves! Now is the time to
+       fight, not to give in!
+
+[US#3488]
+  JP : 「みなさんも / ファルガイアを<b:8a81>る / 新義の<b:8a84>方だったんですね
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You all are fighting to protect Filgaia, too?
+  RE : You all are fighting to protect
+       Filgaia, too?
+
+[US#3489]
+  JP : 「これからは / お<b:8a85>い、新義の<b:8a84>方同胞 / <b:8a86>力していきましょうッ！<b:8a87><b:8a88>に思うことがあるんだ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Defenders of Justice like us should stick together, right?
+  RE : Defenders of Justice like us should
+       stick together, right?
+
+[US#3490]
+  JP : 「ファルガイアは今〜 / 新義の<b:8a84>方の<b:8a89>場を / <b:8a8a>んでいるんじゃないかって
+  LIT: (literal pending: JP has unsolved codes)
+  EN : ...Filgaia is waiting - hoping - for someone to step forward and protect it.
+  RE : ...Filgaia is waiting - hoping -
+       for someone to step forward and
+       protect it.
+
+[US#3491]
+  JP : 「<f040><f042>そう〜 / ボクのような新義の<b:8a84>方を、ね〜<b:8a72>けないよね？ / <b:8a8b><b:8a8c>大怪獣<b:8a8d><897d>（？）なんかに / <b:8a8e>したりしないよね？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Yes... A Defender of Justice like me, right?
+  RE : Yes... A Defender of Justice like
+       me, right?
+
+[US#3492]
+  JP : 「このまま / 終っちゃうなんてことないよね？<b:8a8f>の安定を<b:8a8a>んで渓<b:8a39>になるべきか / 新義の<b:8a84>方になって / <8a2b>険<b:8a90><b:8a91>に<b:8a69>いしれるか〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It won't all end like this, right?
+  RE : It won't all end like this, right?
+
+[US#3493]
+  JP : 「未来を自由に<b:8a60>見られるのは / 家族だけの結<88b2>なんだよ<b:8a39>になるか / 新義の<b:8a84>方の<b:8a60>を追い<8a18>けるか〜 / ボクなりに<b:8a87><b:8a88>に考えているんだよ<b:8a92><b:8a93>も / キミの<b:8a
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Only children can dream about the future so freely, you know.
+  RE : Only children can dream about the
+       future so freely, you know.
+
+[US#3494]
+  JP : 「今こそ、いっしょに立ち上がろうッ！ / 新しい、少数少女の心は / 悪者なんかに<b:8a72>けないぞッ！<b:8a92><b:8a93>をおびやかす / 悪の<b:8a95><b:8a96>の魔の手が / ボクたちに<b:8a97>び<b:8a6a>っているんだって
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We must do something now, or regret our inaction later! We boys and girls won't be bullied around!
+  RE : We must do something now, or regret
+       our inaction later! We boys and
+       girls won't be bullied around!
+
+[US#3495]
+  JP : 「でも、安心して / ボクが新義の<b:8a84>方になって / やっつけてあげるよ<b:8a98><b:8a99>儀の大<b:8a9a><b:8a73><89cd><885f><b:8a9b>機だよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Do not fear, though. I will become a Defender of Justice and protect you all!
+  RE : Do not fear, though. I will become
+       a Defender of Justice and protect
+       you all!
+
+[US#3496]
+  JP : 「発破の<b:8a9c>撃で / <b:8a9d>く、強力な<b:8a9e>の一撃を<b:8a9f>り出して / カッコよく<b:8a73>を<b:8aa0>くんだって<b:8a73>をぶっ飛ばす機艇があるんだって
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The force from the explosives drives a metal stake into the stone and splits it apart.
+  RE : The force from the explosives
+       drives a metal stake into the stone
+       and splits it apart.
+
+[US#3497]
+  JP : 「カッコいいよな〜 / オトナだけでひとり<b:8aa1>めするなんて / ズルイや〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's so cool... I wish I were a grown-up so I could use one...
+  RE : That's so cool... I wish I were a
+       grown-up so I could use one...
+
+[US#3498]
+  JP : 「そうすれば、少し心が強くなった気がします / 不安や<b:8a71>れが<b:8aa2>かながら / <b:8aa3>れていくような気がするのです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I know it doesn't mean much, but it makes me feel better until the danger passes.
+  RE : I know it doesn't mean much, but it
+       makes me feel better until the
+       danger passes.
+
+[US#3499]
+  JP : 「わたしたち大人は / これからを生きていく家族たちに / 未来すら<b:8aa4>えられないのでしょうか？来には不安や<b:8a71>れが / ありませんように〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We adults can't even guarantee our children a world to grow up in...
+  RE : We adults can't even guarantee our
+       children a world to grow up in...
+
+[US#3500]
+  JP : 「<f040><f042>そう<b:8aa5>ってきましたが / あの空を見ていると〜<b:8aa6>らした枯<b:8aa7>をかぶるのは誰？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's what I pray for, but when I look up at the sky...
+  RE : That's what I pray for, but when I
+       look up at the sky...
+
+[US#3501]
+  JP : 「それは、<89b9>い人たち / どうすることもできない<b:8aa8>観者たち〜 / <f040><f042>違いますか？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's the weak people, the bystanders. Am I wrong?
+  RE : It's the weak people, the
+       bystanders. Am I wrong?
+
+[US#3502]
+  JP : 「オデッサの<88c0>を<b:8aa9>らそうとする / あなたたちの<89e0>が強すぎるから / ヤツらはより、<b:8aaa>い<88c0>となるのでは？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But it seems to me that the light of your goodness only makes Odessa's shadow blacker...
+  RE : But it seems to me that the light
+       of your goodness only makes
+       Odessa's shadow blacker...
+
+[US#3503]
+  JP : 「強い<89e0>と<88c0>が<88fa><b:8aab>する中 / 何もできない私たちは / どうなっていくのでしょうか〜<b:8a8f>に / <b:8aac>足で<b:8aad>み込んでくるテロリスト
+  LIT: (literal pending: JP has unsolved codes)
+  EN : What happens to us when darkness and light destroy everything in their path?
+  RE : What happens to us when darkness
+       and light destroy everything in
+       their path?
+
+[US#3504]
+  JP : 「<8978>すことはできません / 〜でも、<b:8aae>うこともままなりません / <89b9>い人間は、どうしたらいいのでしょう？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I cannot forgive them, but neither can I do anything against them. What are weak people to do?
+  RE : I cannot forgive them, but neither
+       can I do anything against them.
+       What are weak people to do?
+
+[US#3505]
+  JP : 「でも、ホルストの場中にある / アグエル<89cc>道に向かうには / たくさんの人目についてしまいます
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But you can't go unnoticed from Holst to the Aguel Mine Shaft.
+  RE : But you can't go unnoticed from
+       Holst to the Aguel Mine Shaft.
+
+[US#3506]
+  JP : 「ねらうとすれば / かつて<885f>っていた / <b:8a4e><89cc>道なんかではないでしょうか？<b:8a8f>動していなければ / 今ごろはあなただって / こんなことをしていなかったはず
+  LIT: (literal pending: JP has unsolved codes)
+  EN : If they were after something, it would more likely be the old unused mine shaft.
+  RE : If they were after something, it
+       would more likely be the old unused
+       mine shaft.
+
+[US#3507]
+  JP : 「家族が戦場に出て行くなんて / やっぱり、大人たちの<b:8aaf>任です / 何かがどこかで、まちがったのですね<b:8ab0>がしているオデッサって / いつか、<8934><88e0>ジャックをおこなった / あのテロリストたちなんでしょ？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's because of adults that children go to war. Something is wrong with the world...
+  RE : It's because of adults that
+       children go to war. Something is
+       wrong with the world...
+
+[US#3508]
+  JP : 「うちの家が<b:8ab1>らしていく / ファルガイアの未来が / 心配でたまりません〜<b:8ab2>び<b:8a7c>達がいなくて<b:8a78>っています
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I can't do anything but worry about the future of Filgaia. My children, you see...
+  RE : I can't do anything but worry about
+       the future of Filgaia. My children,
+       you see...
+
+[US#3509]
+  JP : 「まさか、うちの家も / 渡り<b:8a7f>になってしまうんじゃ〜<b:8ab3>で<b:8ab4>古の遺跡と / <b:8ab5>がっているそうです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I wonder if my son will become a Merc, too? I hope not...
+  RE : I wonder if my son will become a
+       Merc, too? I hope not...
+
+[US#3510]
+  JP : 「だからエネルギー渓谷だなんて / 不思議なものが / 通れるんでしょうね〜<b:8a81>れば / ファルガイアを全部<b:8a81>れるよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's why Energy Crystals are there in the first place.
+  RE : That's why Energy Crystals are
+       there in the first place.
+
+[US#3511]
+  JP : 「どうしてみんな / そんな<b:8ab6><b:8ab7>なことに / 気がつかないのかな？<b:8ab8>さんを<b:8a81>ってあげるんだッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Why doesn't everybody realize this simple thing?
+  RE : Why doesn't everybody realize this
+       simple thing?
+
+[US#3512]
+  JP : 「〜でも、お<b:8ab8>さん以外を / <b:8a81>りきれる自信は、ちょっと無いかも〜<b:8ab8>さんがね / お発方が見つからないって / つぶやいていたんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm not sure if I can protect anybody besides her, though...
+  RE : I'm not sure if I can protect
+       anybody besides her, though...
+
+[US#3513]
+  JP : 「ボクはね / お<b:8ab8>さんに、何て言っていいのかが / 見つからないよ〜<b:8a71>い人が / やってきてたいへんだったけど / ボク、<b:8ab9>かなかったよッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I don't know what to tell her...
+  RE : I don't know what to tell her...
+
+[US#3514]
+  JP : 「だって、ボクが<b:8ab9>いちゃうと / お<b:8ab8>さんまで / <b:8ab9>いちゃうかもしれないからね<b:8a71>い人たちがやってくるから / お外に出ちゃダメなんだって
+  LIT: (literal pending: JP has unsolved codes)
+  EN : 'Cause...if I started crying...then Mama would too for sure!
+  RE : 'Cause...if I started crying...then
+       Mama would too for sure!
+
+[US#3515]
+  JP : 「お<b:8ab8>さんは心配性だなぁ〜 / だいじょうぶ / ボクが<b:8a81>ってあげるから<b:8a71>い人たちが / ホルストをねらっているんだって
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Mama worries a lot... It's alright, though. I'll protect her.
+  RE : Mama worries a lot... It's alright,
+       though. I'll protect her.
+
+[US#3516]
+  JP : 「ひょっとして / ボクがあんまりかわいいから〜？<b:8aac>の辺には / 渓谷がザクザク<89db>まっているんだって
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I guess it's not because they heard I was bad...?
+  RE : I guess it's not because they heard
+       I was bad...?
+
+[US#3517]
+  JP : 「でも、ボクたちの / <b:8aba>物になりそうなものは / <89db>まっていないみたいなんだよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But the thing that might be our real treasure isn't buried at all.
+  RE : But the thing that might be our
+       real treasure isn't buried at all.
+
+[US#3518]
+  JP : 「早くオトナになりたいな<b:8aac>の辺には / 渓谷がザクザク<89db>まっているんだって
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I want to grow up quick!
+  RE : I want to grow up quick!
+
+[US#3519]
+  JP : 「おじさんたちは、渓谷を<885f>り出したり / モンスターをぶちのめしたりして / <8945><b:8a7a>者な生<b:8a8f>をマンキツしてるんだって<b:8abb><b:8a8e>で、どこまでいっても暗い世界 / いっそ誰かが<b:8abc>やし<b:8abd>くしてくれれば / 僕も
+  LIT: (literal pending: JP has unsolved codes)
+  EN : All the men say they have lots of fun digging for crystal and killing monsters.
+  RE : All the men say they have lots of
+       fun digging for crystal and killing
+       monsters.
+
+[US#3520]
+  JP : 「そこからは / エネルギー渓谷『アグエライト』が / わずかだけれど通れるぞ<b:8a4e><89cc>道の東[11]ぉに / 古い遺跡があったんですよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There's some Aguelite there to be mined, but not much.
+  RE : There's some Aguelite there to be
+       mined, but not much.
+
+[US#3521]
+  JP : 「この他の地辺に<89bb>っている遺跡とは / 少し<b:8ac4>が違うので / ひょっとしたら、新しい発見があるかも？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's different than the ruin that lies underneath this town, so it could hold a new discovery...
+  RE : It's different than the ruin that
+       lies underneath this town, so it
+       could hold a new discovery...
+
+[US#3522]
+  JP : 「みなさんの / お役に立ちたいんですッ！<b:8b03><b:8a42>の<b:8a38>変地異だなんて〜 / 何も俺が生きているあいだに〜<b:8b03><b:8a88>の<b:8ac5>女＞に関する<8937><8938>を保存した / 遺跡があるらしいんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I really want to help!
+  RE : I really want to help!
+
+[US#3523]
+  JP : 「この異世な空〜 / ＜<b:8a88>の<b:8ac5>女＞なら / 何とかしてくれるのだろうか〜<b:8a8c>[03]来るってウワサが流れて以来 / 一部の人たちが<b:8ac6>り上がっているんですよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I bet the <Sword Magess> could do something to get rid of this cursed sky!
+  RE : I bet the <Sword Magess> could do
+       something to get rid of this cursed
+       sky!
+
+[US#3524]
+  JP : 「<b:8a78>った人たちです<b:8ac7>の遺跡が谷の中にあるそうです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Some people are easily deceived.
+  RE : Some people are easily deceived.
+
+[US#3525]
+  JP : 「谷の中全体が遺跡だなんて / なんか想<b:8ac8>もつかないですけどね<b:8b8d>[03]<b:8ac7>の遺跡が谷の中にあるそうです
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I can't imagine the whole inside of the mountain being one big ruin!
+  RE : I can't imagine the whole inside of
+       the mountain being one big ruin!
+
+[US#3526]
+  JP : 「その<b:8ac7>の遺跡にあるエネルギーの結<b:8a44>を / 渓谷として<885f>り<b:8ac9>してるらしいです / いうなればエネルギーの合谷ですかねぇ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : They're mining the Energy Crystals from the old ruins as ore. It's like petrified energy.
+  RE : They're mining the Energy Crystals
+       from the old ruins as ore. It's
+       like petrified energy.
+
+[US#3527]
+  JP : 「<f040><f042>でも〜 / ホルストで通<885f>をするつもりなら / 発破のひとつは必要さ<b:8a58><b:8a59>のこと / 僕たちはそう呼んでるんだよ<b:8aca>えた道に / とぐろを<8812>いたような他があるらしい
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But if you're going to be doing mining in Holst, you'll need some explosives.
+  RE : But if you're going to be doing
+       mining in Holst, you'll need some
+       explosives.
+
+[US#3528]
+  JP : 「何でも、地<89f4>の<8880>中しているポイントで / そこは、レイポイントと呼ばれる / ファルガイアのヘソみたいな所と聞くぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There are places called Raypoints where the veins and arteries of the earth come together.
+  RE : There are places called Raypoints
+       where the veins and arteries of the
+       earth come together.
+
+[US#3529]
+  JP : 「僕の生<b:8a8f>は、何も変わらないよ<b:8acb>が起きているみたいだな / 〜この空のように〜<b:8acc>にならねぇよ / <b:8acd>身に<b:8ace>みたぜ<b:8a67>には自信があったけど / オデッサばかりはいけねぇよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : My life hasn't changed that much.
+  RE : My life hasn't changed that much.
+
+[US#3530]
+  JP : 「あいつら、ルール無用で / ムチャクチャやりやがる〜
+  LIT: Those guys ignore all the rules and do whatever they please.
+  EN : They're ruthless, you see. They don't follow the rules.
+  RE : They're ruthless, you see. They
+       don't follow the rules.
+
+[US#3531]
+  JP : 「そう、[11]お場の北側[11]ぉにも / 小さな渓<89f4>があったはずだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Yes, there was a small one to the 1NE of town0, I think.
+  RE : Yes, there was a small one to the
+       NE of town, I think.
+
+[US#3532]
+  JP : 「でも、あんまりいい渓谷が通れないし / いちいち<89d3>に<b:8a52>らなきゃいけないので / 今は閉ざされてしまったよ<b:8acf>義の場 / ケンカと<b:8ad0><885f>りのうまいヤツが / ここではエライのさ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : But there's not much to be mined, and you have to use a boat, so no one's using it now.
+  RE : But there's not much to be mined,
+       and you have to use a boat, so no
+       one's using it now.
+
+[US#3533]
+  JP : 「誰かが、渓<89f4>のモンスターは / 遺跡の中から出て来たって言ってたけど〜 / そういうものなのかな？<b:8ad1><b:8ad2>金を<b:8a60>見た / 発破マニアの渡り<b:8a7f>がやって来たんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Someone once said that the monsters were coming out of the ruins... I wonder if it's true?
+  RE : Someone once said that the monsters
+       were coming out of the ruins... I
+       wonder if it's true?
+
+[US#3534]
+  JP : 「発破があると / 通<885f>に何かと<b:8a6c>利だからな / <b:8a8f><b:8ad3>を<b:8ad4>待されてたんだが〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He thought he could do anything with enough explosives...
+  RE : He thought he could do anything
+       with enough explosives...
+
+[US#3535]
+  JP : 「そいつ、<b:8a5b><b:8a5c>の中でも / 発破を<b:8a58>発させるくらいのマニアだったから / あっというまに<b:8a5d>き出されたんだ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : He even exploded some in the inn! Got kicked out for it, of course...
+  RE : He even exploded some in the inn!
+       Got kicked out for it, of course...
+
+[US#3536]
+  JP : 「これだから、マニアってよ〜<b:8a5c><b:8ad5>備しているみたいだけど、いいの？<b:8ad5>備していくかい？<b:8ad5>備するのかな？<b:8ad6>対に
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's why everyone calls him a maniac.
+  RE : That's why everyone calls him a
+       maniac.
+
+[US#3537]
+  JP : 「おひとり方につき一緒[02]ギャラ / [02]人方ですので、[02]ギャラとなります / よろしいですか？[18]か
+  LIT: It's one Gella per person, and for {n} people that comes to {n} Gella. Is that all right? (numbers/name-slots blanked in dump)
+  EN : Our rate is Gella per person a night. For people, that would be Gella.2
+  RE : Our rate is Gella per person a
+       night. For people, that would be
+       Gella.2
+
+[US#3539]
+  JP : ＊これは、多くの渓谷は / <b:8a4e>世代の<b:8ae8>次によって<b:8ae9>出・<88ea><b:8aea>され / それが遺跡と<b:8a7e>に<89db>まったと考えられる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The old civilization was adept at extracting and refining crystals. They're all under the ruins now.
+  RE : The old civilization was adept at
+       extracting and refining crystals.
+       They're all under the ruins now.
+
+[US#3540]
+  JP : ＊それ<8808>に、遺跡<b:8aeb>渓谷で発<885f>される渓谷は / その<b:8aec>作<886f>も自ずと<b:8aed>界が早く<b:8a64>れる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Thus, we are rapidly approaching the point where the ruins won't yield any crystals to the miners.
+  RE : Thus, we are rapidly approaching
+       the point where the ruins won't
+       yield any crystals to the miners.
+
+[US#3541]
+  JP : ＊しかし、<b:8aee>に<88ea><b:8aea>されているものだけに / その<b:8aef>度は、自<8844>渓谷での<b:8af0>出物に比べ / 年<b:8a65><b:8af1>から年<b:8af2><b:8af1>といわれる
+  LIT: (literal pending: JP has unsolved codes)
+  EN : However, since these crystals are already refined, they are up to 100 X purer than the natural kind.
+  RE : However, since these crystals are
+       already refined, they are up to 100
+       X purer than the natural kind.
+
+[US#3542]
+  JP : ＊ここ年数で、いくつもの渓谷が閉谷し / 今後も、閉谷する渓谷も<b:8af3>えていくだろう / <b:8af4>方<b:8af5>から、新<b:8af6>渓谷の開<b:8af7>が<b:8a8a>まれている<b:8af8>すことで足元に設置され、 / 一定時間<b:8af9>過すると自動的に<b
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Many mines have closed recently, and more face the same fate, so new mines need to be developed.
+  RE : Many mines have closed recently,
+       and more face the same fate, so new
+       mines need to be developed.
+
+[US#3543]
+  JP : ＊ボムを<b:8a58>発させることによって / <b:8afa><b:8afb>やヒビの入った<b:8a40>などを / 破滅することができます
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Bombs may be used to blast open wooden boxes or destroy walls that already have cracks in them.
+  RE : Bombs may be used to blast open
+       wooden boxes or destroy walls that
+       already have cracks in them.
+
+[US#3544]
+  JP : 「そのような<b:8afd>重な<f040><f042> / もとい、結単な<b:8ae4><8943>を / 他のヤツにはまかせておけぬわ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Her illness is very interesting, uh... I meant severe! I don't want to leave her in anyone else's care.
+  RE : Her illness is very interesting,
+       uh... I meant severe! I don't want
+       to leave her in anyone else's care.
+
+[US#3545]
+  JP : 「ヴィクトール<b:8a9a>の義体（シルエット）は / 生体がベースになっておるからな / 過<b:8b01>な無理は<b:8ae3>物じゃぞ〜<b:8b02><b:8b03>を行うには / <b:8b04>外れた力が必要なのだ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Victor-Series bionic implants are based on living bodies, so misuse is expressly forbidden.
+  RE : Victor-Series bionic implants are
+       based on living bodies, so misuse
+       is expressly forbidden.
+
+[US#3546]
+  JP : 「たとえ、自分のカラダを<b:8b05>ててでも / 力を手に入れなければならなかった〜 / あたしは＜<b:8a88>の<b:8ac5>女＞の<b:8b06>を招くものだ<b:8b07><b:8b08>』の<b:8b06>を招くからって / ここまでしなければいけなかったのかッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : As a <Sword Magess> descendant, I needed to get that power even if it meant giving up my own body.
+  RE : As a <Sword Magess> descendant, I
+       needed to get that power even if it
+       meant giving up my own body.
+
+[US#3547]
+  JP : 「こうでもしなければ / あたしは、その存在意義が見当たらないのだ
+  LIT: If I didn't go this far, I would find no reason for my own existence.
+  EN : If I didn't do this much, I would not have become self-aware.
+  RE : If I didn't do this much, I would
+       not have become self-aware.
+
+[US#3549]
+  JP : 「[05]ぎ、すまないが / 彼女のこと頼んだ
+  LIT: {5}, sorry, but I'm counting on you to look after her. (0x05 = party-name slot)
+  EN : 5, I'll leave her with you!
+  RE : 5, I'll leave her with you!
+
+[US#3550]
+  JP : 「あなた方、新義の<b:8a84>方がいるから / 俺のような、おちゃめさんも / 存在する理由があるのですから〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You have Defenders of Justice to protect you, which gives miscreants like me reason to exist.
+  RE : You have Defenders of Justice to
+       protect you, which gives miscreants
+       like me reason to exist.
+
+[US#3552]
+  JP : 「そう、あたしがあたしであること〜 / ＜<b:8a88>の<b:8ac5>女＞の<b:8b11><b:8b12>であるためには / お前のように倒すべき存在が必要だ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Because of who I am - descendant of the <Sword Magess> - I do need enemies such as you to defeat.
+  RE : Because of who I am - descendant of
+       the <Sword Magess> - I do need
+       enemies such as you to defeat.
+
+[US#3553]
+  JP : 「戦いの中に / 『<b:8b07><b:8b08>』はある〜 / 戦場こそ、あたしの<b:8b13>場所だッ！<b:8b02><b:8b03>のワザは / 悪しき存在を<b:8b14>る<b:8b15>ッ！<b:8b16>物に相応しいッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : A Hero only becomes a Hero in battle, which is where I belong.
+  RE : A Hero only becomes a Hero in
+       battle, which is where I belong.
+
+[US#3554]
+  JP : 「まもなく / はじまりますよ〜
+  LIT: It's going to begin very soon.
+  EN : It will start VERY soon...
+  RE : It will start VERY soon...
+
+[US#3555]
+  JP : 「クックック〜<b:8b18><8804>も無<8918>して / 飛び出すからじゃッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Ha ha ha...
+  RE : Ha ha ha...
+
+[US#3556]
+  JP : 「<b:8a7e>に戦おう[05]き / 俺たちは<b:8b19>間なんだ<b:8b19>間などと〜<b:8b1a>うよ / <b:8b02><b:8b03>といえど、『渡り<b:8a7f>』なんだろ？<b:8b1b>は？<b:8b1c>え切れなくなった時〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We should fight together, 4. We are comrades-in-arms.
+  RE : We should fight together, 4. We are
+       comrades-in-arms.
+
+[US#3558]
+  JP : 「とにかく、ヴァレリアシャトーまで戻るぞ / ここではまともな分<b:8afc>も<88e4>せぬ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Let's get back to the Valeria Chateau for now. We can't heal anything here well.
+  RE : Let's get back to the Valeria
+       Chateau for now. We can't heal
+       anything here well.
+
+# =========================================================================================
+# STATUS: 106 boxes first-passed (US#3445-3558, block 13). Em-dash-free, <=3x35.
+# =========================================================================================

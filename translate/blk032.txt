@@ -1,0 +1,395 @@
+# WA2 4-col translation doc block 32 (JP#5531-5591)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 50 boxes | OK=14 FAIR=29 SHAKY=7 JP-ONLY=0
+# DRAFT STATUS: 50 boxes | OK=14 FAIR=26 SHAKY=10 JP-ONLY=0
+
+[JP#5533] gaps=0  aln=HIGH->US#5408  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5534] gaps=2  aln=HIGH->US#5409  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5535] gaps=0  aln=HIGH->US#5410  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5536] gaps=0  aln=HIGH->US#5411  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「だけど、気分が悪い〜 / 　泣きそうだ〜
+  2|LIT: <<TODO>>
+  3|EN : @But I don't feel well.
+ I feel like I'm going to puke.
+  4|RE : <<TODO>>
+
+[JP#5537] gaps=4  aln=HIGH->US#5412  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=1
+  1|JP : 「タラスクの片撃を押けて / 　カラダの自由が<8a38>われ / 　そして〜[10][0c]「<8a39>仲とした意守の中 / 　<8918>界が姉く<8a3d>けたところまでは / 　おぼえあるのだが〜[10][0c]「気がついたら / 　ここにブチ込まれていた
+  2|LIT: <<TODO>>
+  3|EN : @After I was attacked by the
+ Trask, I couldn't move my body.
+ Then...@Through a hazy consciousness
+ I saw everything turn white.
+ That's all I remember.@When I came to,
+ I was locked in here.
+  4|RE : <<TODO>>
+
+[JP#5538] gaps=3  aln=HIGH->US#5413  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : 「<8a39>仲とした意守の中 / 　<8918>界が姉く<8a3d>けたところまでは / 　おぼえあるのだが〜[10][0c]「気がついたら / 　ここにブチ込まれていた
+  2|LIT: <<TODO>>
+  3|EN : @Through a hazy consciousness
+ I saw everything turn white.
+ That's all I remember.@When I came to,
+ I was locked in here.
+  4|RE : <<TODO>>
+
+[JP#5539] gaps=0  aln=HIGH->US#5414  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「気がついたら / 　ここにブチ込まれていた
+  2|LIT: <<TODO>>
+  3|EN : @When I came to,
+ I was locked in here.
+  4|RE : <<TODO>>
+
+[JP#5540] gaps=2  aln=MED->US#5415  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>くそッ！ / 　こういうのばっかりだッ！
+  2|LIT: <<TODO>>
+  3|EN : @Darn!
+ Things like this always
+ happen to me.
+  4|RE : <<TODO>>
+
+[JP#5541] gaps=0  aln=HIGH->US#5416  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「でも〜
+  2|LIT: <<TODO>>
+  3|EN : @But...
+  4|RE : <<TODO>>
+
+[JP#5542] gaps=2  aln=HIGH->US#5417  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「どうしたんだろう、わたし〜 / 　<8943>え一歩でも[05]ぉを / 　あんな<8a40>に見まちがえるなんて〜
+  2|LIT: <<TODO>>
+  3|EN : @I wonder what happened to me.
+ For example, maybe for a minute
+ I thought 0 was you.
+  4|RE : <<TODO>>
+
+[JP#5543] gaps=0  aln=HIGH->US#5418  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「何とかしなくちゃ / 　〜ねッ？
+  2|LIT: <<TODO>>
+  3|EN : @We've gotta do something.
+ Right?
+  4|RE : <<TODO>>
+
+[JP#5548] gaps=2  aln=MED->US#5423  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でもね / 　待っていたのは、俺だけじゃないんだな / 　これが〜
+  2|LIT: <<TODO>>
+  3|EN : @But... I wasn't the only one
+ waiting for you. This...
+  4|RE : <<TODO>>
+
+[JP#5549] gaps=3  aln=MED->US#5424  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「さっき<8833>けた / 　場の人を期にとられてしまったの / 　『<8a43>来すれば挑戦しにする』って〜[10][0c]「これ険字、仕周まれたワナだったの / 　こいつの仕<8a48>なんだよッ！
+  2|LIT: <<TODO>>
+  3|EN : @The villagers we just helped
+ were taken as human shields. They
+ said |resist and they're dead.|@All of this was a trick.
+ He plotted all of this!
+  4|RE : <<TODO>>
+
+[JP#5550] gaps=1  aln=MED->US#5425  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「これ険字、仕周まれたワナだったの / 　こいつの仕<8a48>なんだよッ！
+  2|LIT: <<TODO>>
+  3|EN : @All of this was a trick.
+ He plotted all of this!
+  4|RE : <<TODO>>
+
+[JP#5551] gaps=0  aln=MED->US#5426  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「まだ、準備が調っていないのでね〜
+  2|LIT: <<TODO>>
+  3|EN : @But the preparations aren't
+ finished yet.
+  4|RE : <<TODO>>
+
+[JP#5552] gaps=6  aln=HIGH->US#5427  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「多少、手間は訪ったけれど / 　こうしてキミたちＡＲＭＳを / 　<8929>らえたことには意<8a4c>がある[10][0c]「<8a1e>手に伝幸することで / 　俺たちの相を<8a4d>好すると同時に / 　オデッサの<889c>恥をアピールするというわけだ[10][0c]「ハルメッツの負人を / 　戦さずに<8929>らえていたのは / 　その歩間の目撃者になってもらうためさ
+  2|LIT: <<TODO>>
+  3|EN : @The plan got a little messed
+ up, but there's a reason I
+ captured you ARMS people.@By executing all of you publicly,
+ I can rid myself of enemies and
+ also show the terror of Odessa.@We didn't kill the people of
+ Halmetz when we caught them
+ so they'd witness the event.
+  4|RE : <<TODO>>
+
+[JP#5553] gaps=4  aln=HIGH->US#5428  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「<8a1e>手に伝幸することで / 　俺たちの相を<8a4d>好すると同時に / 　オデッサの<889c>恥をアピールするというわけだ[10][0c]「ハルメッツの負人を / 　戦さずに<8929>らえていたのは / 　その歩間の目撃者になってもらうためさ
+  2|LIT: <<TODO>>
+  3|EN : @By executing all of you publicly,
+ I can rid myself of enemies and
+ also show the terror of Odessa.@We didn't kill the people of
+ Halmetz when we caught them
+ so they'd witness the event.
+  4|RE : <<TODO>>
+
+[JP#5554] gaps=1  aln=HIGH->US#5429  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ハルメッツの負人を / 　戦さずに<8929>らえていたのは / 　その歩間の目撃者になってもらうためさ
+  2|LIT: <<TODO>>
+  3|EN : @We didn't kill the people of
+ Halmetz when we caught them
+ so they'd witness the event.
+  4|RE : <<TODO>>
+
+[JP#5555] gaps=0  aln=HIGH->US#5430  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「でもね、こっちにはこっちの / 　いろいろな理由があるんだよ / 　そのへんのところ理解してほしいな
+  2|LIT: <<TODO>>
+  3|EN : @But, we have our reasons.
+ I'd appreciate your
+ understanding on this.
+  4|RE : <<TODO>>
+
+[JP#5556] gaps=0  aln=HIGH->US#5431  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ククククク〜ッ
+  2|LIT: <<TODO>>
+  3|EN : @Graaaa!
+  4|RE : <<TODO>>
+
+[JP#5557] gaps=1  aln=MED->US#5432  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「貸<8a57>がズリ落ちそうだ
+  2|LIT: <<TODO>>
+  3|EN : @My glasses are about to fall off.
+  4|RE : <<TODO>>
+
+[JP#5558] gaps=1  aln=MED->US#5433  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : （今、お前に必要なのは / 　<8a5c>むこと、茶すること〜）
+  2|LIT: <<TODO>>
+  3|EN : (What you need now is
+ hope and desire.)
+  4|RE : <<TODO>>
+
+[JP#5559] gaps=1  aln=MED->US#5434  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「どんな<89c1>飛も / 　はねのけられるだけの『力』が〜 / 　そうすれば〜
+  2|LIT: <<TODO>>
+  3|EN : @I want enough |power| to
+ overcome any adversity.
+ If I have that...
+  4|RE : <<TODO>>
+
+[JP#5560] gaps=2  aln=MED->US#5435  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「作戦変<890d>ッ！ / 　人<886e>を始限しろッ！
+  2|LIT: <<TODO>>
+  3|EN : @Change of plans!
+ Kill all the hostages!
+  4|RE : <<TODO>>
+
+[JP#5561] gaps=8  aln=HIGH->US#5436  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : （<f040><f042>〜）[10][0c]（これは『終わり』を<8804>げる / 　『始まり』の<89e0>〜 / 　<f040><f042>でも、信じておるぞ）[10][0c]（それは、あの時出乗った / 　<8933>かしい<89e0>ゆえにな / 　そうじゃろ、[05]ぉ〜）
+  2|LIT: <<TODO>>
+  3|EN : (...)(This says |the end.|
+ The light of |the start.|
+ But I believe it.)(That time I was late.
+ The light is nostalgic.
+ Right, 0?)
+  4|RE : <<TODO>>
+
+[JP#5562] gaps=6  aln=HIGH->US#5437  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : （これは『終わり』を<8804>げる / 　『始まり』の<89e0>〜 / 　<f040><f042>でも、信じておるぞ）[10][0c]（それは、あの時出乗った / 　<8933>かしい<89e0>ゆえにな / 　そうじゃろ、[05]ぉ〜）
+  2|LIT: <<TODO>>
+  3|EN : (This says |the end.|
+ The light of |the start.|
+ But I believe it.)(That time I was late.
+ The light is nostalgic.
+ Right, 0?)
+  4|RE : <<TODO>>
+
+[JP#5563] gaps=2  aln=HIGH->US#5438  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : （それは、あの時出乗った / 　<8933>かしい<89e0>ゆえにな / 　そうじゃろ、[05]ぉ〜）
+  2|LIT: <<TODO>>
+  3|EN : (That time I was late.
+ The light is nostalgic.
+ Right, 0?)
+  4|RE : <<TODO>>
+
+[JP#5564] gaps=2  aln=HIGH->US#5439  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「この『<8a64>み』も『<8a40>』も / 　俺が手にした / 　戦うための『力』なんだ
+  2|LIT: <<TODO>>
+  3|EN : @This |pain| and
+ |form| are mine.
+ It's the |power| to fight.
+  4|RE : <<TODO>>
+
+[JP#5565] gaps=0  aln=HIGH->US#5440  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「いや〜　違う〜 / 　始まったんだな〜
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@No. That's wrong.
+ It's started.
+  4|RE : <<TODO>>
+
+[JP#5566] gaps=0  aln=HIGH->US#5441  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「いや〜　違う〜 / 　始まったんだな〜
+  2|LIT: <<TODO>>
+  3|EN : @No. That's wrong.
+ It's started.
+  4|RE : <<TODO>>
+
+[JP#5567] gaps=1  aln=HIGH->US#5442  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そうでなくては / 　これからの戦いを / 　<8a67>えて行くことなんてできはしないからな
+  2|LIT: <<TODO>>
+  3|EN : @If that's not the case,
+ I wouldn't be able to overcome
+ the battles I am about to face.
+  4|RE : <<TODO>>
+
+[JP#5568] gaps=0  aln=HIGH->US#5443  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [02][10] / [02] / [0e]
+  2|LIT: <<TODO>>
+  3|EN : 
+
+
+  4|RE : <<TODO>>
+
+[JP#5569] gaps=1  aln=HIGH->US#5444  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊一字のブロックや谷頼は / 　[0b]かを<8a6a>しながら方向キーを入れることで / 　動かすことが可能です
+  2|LIT: <<TODO>>
+  3|EN : *You can move parts of blocks and
+ stone images by pressing 2
+ and holding the directional keys.
+  4|RE : <<TODO>>
+
+[JP#5570] gaps=0  aln=HIGH->US#5445  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「あなた方は〜
+  2|LIT: <<TODO>>
+  3|EN : @You all are...
+  4|RE : <<TODO>>
+
+[JP#5571] gaps=2  aln=HIGH->US#5446  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「テロリストの<896a>道から / 　みなさんを<8832>うべく / 　戦っているのです
+  2|LIT: <<TODO>>
+  3|EN : @We are fighting to save
+ everyone from the tyranny
+ of the terrorists.
+  4|RE : <<TODO>>
+
+[JP#5572] gaps=1  aln=MED->US#5447  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「必ずみなさんを / 　無事に<8832>出してみせますッ！
+  2|LIT: <<TODO>>
+  3|EN : @I promise everyone will have
+ a safe rescue!
+  4|RE : <<TODO>>
+
+[JP#5573] gaps=3  aln=MED->US#5448  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : 「それからは、<8a6d>もわからずに / 　この地辺<8962>に / 　<89cf>じ込められてしまったのです
+  2|LIT: <<TODO>>
+  3|EN : @After that, we were shoved
+ into this dungeon and
+ locked up.
+  4|RE : <<TODO>>
+
+[JP#5574] gaps=0  aln=MED->US#5449  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「お友ちゃんたちといっしょに / 　みんなの負む場に戻ろうね
+  2|LIT: <<TODO>>
+  3|EN : @We'll return to your village
+ with all of you.
+  4|RE : <<TODO>>
+
+[JP#5575] gaps=0  aln=MED->US#5450  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「危険を確認してから / 　みんなでいっきに脱出するぞ
+  2|LIT: <<TODO>>
+  3|EN : @Once safe passage is verified
+ you all can leave together.
+  4|RE : <<TODO>>
+
+[JP#5576] gaps=0  aln=HIGH->US#5451  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「どうせ、おっ死ぬんだったら / 　仲間といっしょが / 　よかったろうに〜
+  2|LIT: <<TODO>>
+  3|EN : @If you're going to die
+ anyway, better to die
+ with your friends.
+  4|RE : <<TODO>>
+
+[JP#5577] gaps=2  aln=HIGH->US#5452  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : （招き<8a72>して / 　単の道をあたろう〜）[10][0c]（〜[16]がぉ〜[16]がぉ〜[16]がぉ〜）[10][0c]（〜さっきの<89ba>話、気になるな〜 / 　[05]かたちに / 　何かあったのだろうか〜）
+  2|LIT: <<TODO>>
+  3|EN : (Let's go back
+ and try a different road.)(...30...30...30...)(That conversation has me
+ worried. I wonder if something
+ happened to 2.)
+  4|RE : <<TODO>>
+
+[JP#5578] gaps=1  aln=HIGH->US#5453  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : （〜[16]がぉ〜[16]がぉ〜[16]がぉ〜）[10][0c]（〜さっきの<89ba>話、気になるな〜 / 　[05]かたちに / 　何かあったのだろうか〜）
+  2|LIT: <<TODO>>
+  3|EN : (...30...30...30...)(That conversation has me
+ worried. I wonder if something
+ happened to 2.)
+  4|RE : <<TODO>>
+
+[JP#5579] gaps=1  aln=HIGH->US#5454  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : （〜さっきの<89ba>話、気になるな〜 / 　[05]かたちに / 　何かあったのだろうか〜）
+  2|LIT: <<TODO>>
+  3|EN : (That conversation has me
+ worried. I wonder if something
+ happened to 2.)
+  4|RE : <<TODO>>
+
+[JP#5580] gaps=0  aln=MED->US#5455  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「あの人だけは、仲間といえど / 　どうにも信じられねえな
+  2|LIT: <<TODO>>
+  3|EN : @I don't trust that guy,
+ even though he's on our side.
+  4|RE : <<TODO>>
+
+[JP#5581] gaps=5  aln=MED->US#5456  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「そこの<8a23>の<892a>に / 　場のみんなが<8965>われているんだ[10][0c]「<8947>くて動かしにくいレバーだけど / 　キミたちなら何とかできると思う / 　みんなを<8833>け出してくれ〜
+  2|LIT: <<TODO>>
+  3|EN : @Behind that door, the
+ villagers are imprisoned.@The lever is hard to move,
+ but you guys can manage.
+ Help save everyone.
+  4|RE : <<TODO>>
+
+[JP#5582] gaps=2  aln=MED->US#5457  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8947>くて動かしにくいレバーだけど / 　キミたちなら何とかできると思う / 　みんなを<8833>け出してくれ〜
+  2|LIT: <<TODO>>
+  3|EN : @The lever is hard to move,
+ but you guys can manage.
+ Help save everyone.
+  4|RE : <<TODO>>
+
+[JP#5583] gaps=3  aln=MED->US#5458  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「そんなところに / 　<8917>雄されたんじゃ / 　生きた心地はしないよ〜[10][0c]「伝幸場は、この加<89ca>の先〜 / 　外に出るには手っ取り<8894>いけど / 　そん時、生きてられるのかな〜
+  2|LIT: <<TODO>>
+  3|EN : @One can't possibly feel safe
+ confined in such a place.@The execution area is at the end.
+ It's a short way out from there,
+ but you might not be alive.
+  4|RE : <<TODO>>
+
+[JP#5584] gaps=2  aln=MED->US#5459  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「伝幸場は、この加<89ca>の先〜 / 　外に出るには手っ取り<8894>いけど / 　そん時、生きてられるのかな〜
+  2|LIT: <<TODO>>
+  3|EN : @The execution area is at the end.
+ It's a short way out from there,
+ but you might not be alive.
+  4|RE : <<TODO>>
+
+[JP#5590] gaps=0  aln=MED->US#5464  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ら&[12]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#5591] gaps=0  aln=MED->US#5464  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ら&[12]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>

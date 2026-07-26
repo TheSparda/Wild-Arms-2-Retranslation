@@ -1,0 +1,84 @@
+# WA2 — VALERIA CHATEAU LIBRARY — history books (block 5, US#830-837) — FINAL insert-ready
+# =========================================================================================
+# Readable EXAMINE panels in the Chateau library. Two history books: (1) the war that founded the
+# current era — rebels united by a "hero" overthrew the king, then branded that hero a war criminal
+# and erased him from history (this is the mythic backdrop to Brad Evans, the "Hero of Slayheim");
+# (2) the three nations of Filgaia and how unchecked power destroys a nation.
+# JP block-decoded (block 5). No em dashes. <=3 lines. US# = real slots (reconciled by construction).
+# GLOSSARY: 英雄 = |hero|; 化石 = |fossils| (Guild Galad's tech); guardianship = each nation "protects" a domain.
+# Columns: JP (clean) / LIT / EN (current) / RE (final).
+# =========================================================================================
+
+[US#830] (history book — the rebellion)
+  JP : ＊力なきレジスタンスであったが / 彼らがひとつにまとまれたのは / 『英雄』と呼ばれた剣の存在が大きい
+  LIT: Though a powerless resistance, they came together largely thanks to the blade called the "hero".
+  EN : Weak at first, the rebels were united into a powerful resistance by a |hero.|
+  RE : A powerless resistance at first,
+       they were united by the blade
+       they called the |hero|.
+
+[US#831] (history book)
+  JP : ＊平和を望む人々の願いは / やがてスレイハイム王を打倒し / 奇跡的な勝利をつかむこととなる
+  LIT: The people's wish for peace toppled the king of Slayheim and seized a miraculous victory.
+  EN : Driven by a fierce desire for peace, they overthrew the king and won a stunning victory.
+  RE : The people's wish for peace
+       toppled the king and seized
+       a miraculous victory.
+
+[US#832] (history book — the turn)
+  JP : ＊だが、『英雄』は / 平時にあって / その意義を失ってしまう〜
+  LIT: But in peacetime, the "hero" loses his purpose...
+  EN : But the |hero| in war became unwanted in peacetime.
+  RE : But in peacetime, the |hero|
+       lost his purpose...
+
+[US#833] (history book — the erasure)
+  JP : ＊戦争犯罪人として捕らえられた『英雄』は / こうして歴史から / 抹消されたのである
+  LIT: Seized as a war criminal, the "hero" was thus erased from history.
+  EN : The |hero| was charged as a war criminal, and erased from the annals of history.
+  RE : Seized as a war criminal, the
+       |hero| was thus erased from
+       the pages of history.
+
+[US#834] (history book — the three nations)
+  JP : ＊南の先進国シルヴァラントは / 肥沃な大地に恵まれ / 農業を守護している
+  LIT: Sylvaland, the advanced nation to the south, is blessed with fertile land and guards agriculture.
+  EN : Sylvaland, in the south, is blessed with fertile soil, and protects agriculture.
+  RE : Sylvaland to the south is
+       blessed with fertile soil,
+       and guards its agriculture.
+
+[US#835] (history book)
+  JP : ＊北のギルドグラードは / 『化石』と呼ばれる古代生物の遺産を用い / 独自の生産技術を守護している
+  LIT: Guild Galad to the north uses the ancient-life relics called "fossils" to guard its own production tech.
+  EN : Guild Galad, in the north, uses |fossils| to protect its unique industrial technology.
+  RE : Guild Galad to the north uses
+       |fossils|, relics of ancient life,
+       to guard its own technology.
+
+[US#836] (history book)
+  JP : ＊西のスレイハイムは / 軍事力を / 守護していた
+  LIT: Slayheim to the west guarded military might.
+  EN : To the west is Slayheim, protector of military might.
+  RE : Slayheim to the west
+       guarded military might.
+
+[US#837] (history book — the warning)
+  JP : ＊だが、大きすぎる力は / いつしか肥大し / 国を滅びの道へと導いてしまう
+  LIT: But power too great swells unchecked, and leads a nation down the road to ruin.
+  EN : But power that grows too strong leads a nation down the path to its own destruction.
+  RE : But power grown too great
+       swells unchecked, and leads
+       a nation to its ruin.
+
+# =========================================================================================
+# STATUS: Chateau library history books translated (8 boxes, US#830-837). Reconciled by construction.
+#   JP block-decoded, em-dash-free, <=3 lines. All US# verified.
+# STORY WEIGHT: US#830-833 is the mythic frame for Brad Evans — a war hero the peace branded a
+#   criminal and erased. It rhymes exactly with his prologue (hunted fugitive clinging to his name).
+#   US#834-837 sets up the 3-nation politics (Sylvaland/Guild Galad/Slayheim) + the "power destroys"
+#   theme that drives Odessa and the |nuke| arc.
+# PART OF block 5 (Valeria Chateau hub). Sibling files: m1_swordcathedral_lore_FINAL (Argetlahm panels
+#   838-846), m1_swordcathedral_FINAL (King audience). Still untranslated in blk5: Crimson Noble panel
+#   (848-851), the Filgaia Summit -> Data Tablets briefing (854-898), and scattered NPC/King lines.
+# =========================================================================================

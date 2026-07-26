@@ -1,0 +1,752 @@
+# WA2 4-col translation doc block 21 (JP#4975-5066)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 87 boxes | OK=18 FAIR=25 SHAKY=44 JP-ONLY=0
+# DRAFT STATUS: 87 boxes | OK=18 FAIR=23 SHAKY=46 JP-ONLY=0
+
+[JP#4976] gaps=0  aln=MED->US#4862  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#4977] gaps=2  aln=MED->US#4863  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#4978] gaps=0  aln=MED->US#4864  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#4979] gaps=1  aln=MED->US#4865  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊大地を歩るがす彼の力 / 　戻ち向かう険てを<8a40>兄せしものなり
+  2|LIT: <<TODO>>
+  3|EN : *Its power makes the Earth rumble
+ and crushes all who oppose it.
+  4|RE : <<TODO>>
+
+[JP#4980] gaps=0  aln=MED->US#4866  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#4981] gaps=8  aln=MED->US#4866  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=3
+  1|JP : ＊来の<89e0>は、我々の<8a52>を<8a53>き / 　勉体を<8a53>き<8a55>くそうとする / 　これは貸の世界に生きる者の<8a57>命[10][0c]＊来の<89e0>さえ<89b2>ることができれば / 　我々は望の世界すらも / 　手に入れることは可能なのだッ！
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#4982] gaps=2  aln=MED->US#4867  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊来の<89e0>さえ<89b2>ることができれば / 　我々は望の世界すらも / 　手に入れることは可能なのだッ！
+  2|LIT: <<TODO>>
+  3|EN : *The sun's rays can burn our skin
+ and consume our very flesh. Such is
+ the fate of night-dwellers.*If only we could protect ourselves
+ from the sun's rays. Then we could
+ rule the day as well as the night!
+  4|RE : <<TODO>>
+
+[JP#4983] gaps=0  aln=HIGH->US#4869  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#4984] gaps=3  aln=HIGH->US#4870  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : ＊地上に<8a5c>れ、我が物探の人間も / 　我々においては / 　辺<8872>茶飛でしかない[10][0c]＊生態復の<88c4>帯 / 　それは、いわずもがな / 　世界を負配する茶飛であるということだ
+  2|LIT: <<TODO>>
+  3|EN : *Humans have spread over the
+ world as if it is theirs, but they
+ are inferior to us.*As the supreme species, it is only
+ a matter of time before we rule the
+ world.
+  4|RE : <<TODO>>
+
+[JP#4985] gaps=1  aln=HIGH->US#4871  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊生態復の<88c4>帯 / 　それは、いわずもがな / 　世界を負配する茶飛であるということだ
+  2|LIT: <<TODO>>
+  3|EN : *As the supreme species, it is only
+ a matter of time before we rule the
+ world.
+  4|RE : <<TODO>>
+
+[JP#4986] gaps=0  aln=HIGH->US#4872  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#4987] gaps=7  aln=HIGH->US#4873  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : ＊<8a61>の加わぬ、無機<886e>の身体に / 　我らの延乗によって / 　<8972><8973>的生命を<8a57>す[10][0c]＊<8a64>一無<8a65> / 　我らが時と、男にする者なり
+  2|LIT: <<TODO>>
+  3|EN : *With magic, we have endowed
+ their inorganic bodies
+ with pseudo life.*They have been our constant
+ companions through time.
+  4|RE : <<TODO>>
+
+[JP#4988] gaps=2  aln=HIGH->US#4874  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊<8a64>一無<8a65> / 　我らが時と、男にする者なり
+  2|LIT: <<TODO>>
+  3|EN : *They have been our constant
+ companions through time.
+  4|RE : <<TODO>>
+
+[JP#4989] gaps=0  aln=HIGH->US#4875  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#4990] gaps=7  aln=HIGH->US#4876  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : ＊<8a6b>ばくかの『<8a61>』を<8842>え / 　勇かなる時と暗期… / 　我らは<8a6d>の友へと還る[10][0c]＊<8a10>き過戦から生き / 　助かなる未<8a6a>へと生きる / 　恥<89aa>の時と男にあり
+  2|LIT: <<TODO>>
+  3|EN : *An offering of blood brings
+ silence and darkness. We return
+ to the vessels of our souls.*We come from the distant past and
+ will live into the distant future.
+ We are of time immemorial.
+  4|RE : <<TODO>>
+
+[JP#4991] gaps=3  aln=HIGH->US#4877  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : ＊<8a10>き過戦から生き / 　助かなる未<8a6a>へと生きる / 　恥<89aa>の時と男にあり
+  2|LIT: <<TODO>>
+  3|EN : *We come from the distant past and
+ will live into the distant future.
+ We are of time immemorial.
+  4|RE : <<TODO>>
+
+[JP#4992] gaps=0  aln=HIGH->US#4878  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#4993] gaps=5  aln=HIGH->US#4879  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : ＊しかし、間違いなく同姿たちは / 　彼のものに『<8a71>』された[10][0c]＊<8a6d>を<8a72>らい、基ち兄く者 / 　<8a74>の魔<8a75>・ロードブレイザー…
+  2|LIT: <<TODO>>
+  3|EN : *But come it has, for our brethren
+ have been killed...*Killed by the Devourer of Souls,
+ killed by... Lord Blazer.
+  4|RE : <<TODO>>
+
+[JP#4994] gaps=4  aln=HIGH->US#4880  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : ＊<8a6d>を<8a72>らい、基ち兄く者 / 　<8a74>の魔<8a75>・ロードブレイザー…
+  2|LIT: <<TODO>>
+  3|EN : *Killed by the Devourer of Souls,
+ killed by... Lord Blazer.
+  4|RE : <<TODO>>
+
+[JP#4995] gaps=0  aln=HIGH->US#4881  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#4996] gaps=2  aln=HIGH->US#4882  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : ＊我らがノーブルレッド / 　協相<8921>り得る者 / 　この地上に存帰するわけもない[10][0c]＊地に<8a5c>れし『人』 / 　彼の者、協相なしと勝るなかれ / 　我らが彼の者の協相と知れ
+  2|LIT: <<TODO>>
+  3|EN : *We, the Crimson Nobles, are that
+ species, for nowhere is there
+ another species that rivals us.*Pathetic humans! You may cover
+ the planet, but you are not its
+ ruler! Know we are your enemy!
+  4|RE : <<TODO>>
+
+[JP#4997] gaps=1  aln=HIGH->US#4883  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊地に<8a5c>れし『人』 / 　彼の者、協相なしと勝るなかれ / 　我らが彼の者の協相と知れ
+  2|LIT: <<TODO>>
+  3|EN : *Pathetic humans! You may cover
+ the planet, but you are not its
+ ruler! Know we are your enemy!
+  4|RE : <<TODO>>
+
+[JP#4998] gaps=0  aln=HIGH->US#4884  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#4999] gaps=2  aln=HIGH->US#4885  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊年多の魔物たちを呼び / 　使いし者を<8a0a>わせる / 　『魔』のグッズである[10][0c]＊しかし、このグッズのみで / 　英を現す者もあり[10][0c]＊その者、<8876>雄なき力にて / 　険ての者を基ち兄く
+  2|LIT: <<TODO>>
+  3|EN : *The many demons summoned by this
+ evil tool then attack the person
+ who uses it.*There is one who will show himself
+ only when summoned with this tool.*He is of unrivaled strength, and
+ can destroy anyone.
+  4|RE : <<TODO>>
+
+[JP#5000] gaps=1  aln=HIGH->US#4886  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊しかし、このグッズのみで / 　英を現す者もあり[10][0c]＊その者、<8876>雄なき力にて / 　険ての者を基ち兄く
+  2|LIT: <<TODO>>
+  3|EN : *There is one who will show himself
+ only when summoned with this tool.*He is of unrivaled strength, and
+ can destroy anyone.
+  4|RE : <<TODO>>
+
+[JP#5001] gaps=1  aln=HIGH->US#4887  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊その者、<8876>雄なき力にて / 　険ての者を基ち兄く
+  2|LIT: <<TODO>>
+  3|EN : *He is of unrivaled strength, and
+ can destroy anyone.
+  4|RE : <<TODO>>
+
+[JP#5002] gaps=0  aln=HIGH->US#4888  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5003] gaps=5  aln=HIGH->US#4889  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : ＊その<8a7f>り、間かな行為は / 　<8979>死に<8875>するッ！[10][0c]＊いま一度 / 　我らの威を<893a>し / 　幸<8a80>を辺す必要があるのか
+  2|LIT: <<TODO>>
+  3|EN : *Such sacrilege is deserving of
+ death!*We must deal the humans a
+ crushing blow to punish them
+ and demonstration our strength.
+  4|RE : <<TODO>>
+
+[JP#5004] gaps=2  aln=HIGH->US#4890  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : ＊いま一度 / 　我らの威を<893a>し / 　幸<8a80>を辺す必要があるのか
+  2|LIT: <<TODO>>
+  3|EN : *We must deal the humans a
+ crushing blow to punish them
+ and demonstration our strength.
+  4|RE : <<TODO>>
+
+[JP#5005] gaps=0  aln=HIGH->US#4891  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5006] gaps=17  aln=HIGH->US#4892  CONF=SHAKY unsolved=17  CONF=SHAKY unsolved=17
+  1|JP : ＊ひ<89b9>な人間は / 　獣のように<8a83>い<8a84>も<8a85>も持たない / 　生身であればこれほど<89b9>い生き物はない[10][0c]＊しかし、獣たちにはない<88ea><8a75>力を持ち / 　あまつさえ魔法さえ使いこなす[10][0c]＊なにより我らを<8845>かせしは＜<8a86>の<8a87>昔＞ / 　彼のガーディアンブレード / 　アガートラームを<8a88>るいし者[10][0c]＊我らが同姿を<8a72>らうた / 　<8a74>の魔<8a75>とさえ安<894b>に戦う彼の英 / 　我らの認暮を<8a8b>めさせるに<89ce>分すぎる
+  2|LIT: <<TODO>>
+  3|EN : *Lacking both sharp claws and
+ fangs, humans are the weakest of
+ creatures in their natural state.*Yet, indomitable in spirit, they
+ master flight and magic.*The most amazing of them all is
+ <Sword Magess>, who wields the
+ Guardian Blade, Argetlahm.*This one has fought the demon who
+ ate our brethren. She compels a
+ reassessment of human potential.
+  4|RE : <<TODO>>
+
+[JP#5007] gaps=12  aln=HIGH->US#4893  CONF=SHAKY unsolved=12  CONF=SHAKY unsolved=12
+  1|JP : ＊しかし、獣たちにはない<88ea><8a75>力を持ち / 　あまつさえ魔法さえ使いこなす[10][0c]＊なにより我らを<8845>かせしは＜<8a86>の<8a87>昔＞ / 　彼のガーディアンブレード / 　アガートラームを<8a88>るいし者[10][0c]＊我らが同姿を<8a72>らうた / 　<8a74>の魔<8a75>とさえ安<894b>に戦う彼の英 / 　我らの認暮を<8a8b>めさせるに<89ce>分すぎる
+  2|LIT: <<TODO>>
+  3|EN : *Yet, indomitable in spirit, they
+ master flight and magic.*The most amazing of them all is
+ <Sword Magess>, who wields the
+ Guardian Blade, Argetlahm.*This one has fought the demon who
+ ate our brethren. She compels a
+ reassessment of human potential.
+  4|RE : <<TODO>>
+
+[JP#5008] gaps=10  aln=HIGH->US#4894  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=10
+  1|JP : ＊なにより我らを<8845>かせしは＜<8a86>の<8a87>昔＞ / 　彼のガーディアンブレード / 　アガートラームを<8a88>るいし者[10][0c]＊我らが同姿を<8a72>らうた / 　<8a74>の魔<8a75>とさえ安<894b>に戦う彼の英 / 　我らの認暮を<8a8b>めさせるに<89ce>分すぎる
+  2|LIT: <<TODO>>
+  3|EN : *The most amazing of them all is
+ <Sword Magess>, who wields the
+ Guardian Blade, Argetlahm.*This one has fought the demon who
+ ate our brethren. She compels a
+ reassessment of human potential.
+  4|RE : <<TODO>>
+
+[JP#5009] gaps=6  aln=HIGH->US#4895  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : ＊我らが同姿を<8a72>らうた / 　<8a74>の魔<8a75>とさえ安<894b>に戦う彼の英 / 　我らの認暮を<8a8b>めさせるに<89ce>分すぎる
+  2|LIT: <<TODO>>
+  3|EN : *This one has fought the demon who
+ ate our brethren. She compels a
+ reassessment of human potential.
+  4|RE : <<TODO>>
+
+[JP#5010] gaps=0  aln=MED->US#4896  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5011] gaps=9  aln=HIGH->US#4897  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=7
+  1|JP : ＊我らの<8a8c>けた<8a6b>ばくかの知暮を / 　<88b0><8a8d>させるはいいが / 　<892b>むべき道を<8a8e>る[10][0c]＊なぜ、同姿同胞で活い<8a71>し合う / 　なぜ、破滅することしか考えぬ / 　なぜ、自らの間かさに気づかぬ[10][0c]＊所集は辺<8a91>な生き物か / 　自ら<892b>むは滅びの道をゆく者よ / 　過ちに気づかぬ訪らに、先はない
+  2|LIT: <<TODO>>
+  3|EN : *They ignore the knowledge we have
+ bequeathed them, and instead
+ pursue errant ways.*They murder each other. They think
+ only of destruction. Why? Why do
+ they not realize their foolishness?*Are they inferior creatures after
+ all? Humans! Cease your destructive
+ ways before it is too late!
+  4|RE : <<TODO>>
+
+[JP#5012] gaps=3  aln=HIGH->US#4898  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : ＊なぜ、同姿同胞で活い<8a71>し合う / 　なぜ、破滅することしか考えぬ / 　なぜ、自らの間かさに気づかぬ[10][0c]＊所集は辺<8a91>な生き物か / 　自ら<892b>むは滅びの道をゆく者よ / 　過ちに気づかぬ訪らに、先はない
+  2|LIT: <<TODO>>
+  3|EN : *They murder each other. They think
+ only of destruction. Why? Why do
+ they not realize their foolishness?*Are they inferior creatures after
+ all? Humans! Cease your destructive
+ ways before it is too late!
+  4|RE : <<TODO>>
+
+[JP#5013] gaps=2  aln=HIGH->US#4899  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : ＊所集は辺<8a91>な生き物か / 　自ら<892b>むは滅びの道をゆく者よ / 　過ちに気づかぬ訪らに、先はない
+  2|LIT: <<TODO>>
+  3|EN : *Are they inferior creatures after
+ all? Humans! Cease your destructive
+ ways before it is too late!
+  4|RE : <<TODO>>
+
+[JP#5014] gaps=0  aln=HIGH->US#4900  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5015] gaps=15  aln=HIGH->US#4901  CONF=SHAKY unsolved=15  CONF=SHAKY unsolved=15
+  1|JP : ＊我らがノーブルレッドでさえ / 　その<89b7><8a93>に<8a94>達することは / 　<8a95>わぬかもしれぬ存帰[10][0c]＊勉体を失い、意暮の生命体となりても / 　その大いなる力に<8a96>りが<8a6a>ることなど / 　あり得ないはずであった[10][0c]＊だが、<8a6b>時からか / 　ガーディアンはその力を<89b9>め / 　ファルガイアに珍<8a98>することを止めた[10][0c]＊意暮体となったガーディアンの力は / 　ファルガイアに<89e2>づく者たちの / 　意暮と頼力が<8869>である[10][0c]＊その力が少しずつ<8a99>たれていったのだ / 　人間の<8a9a>の信情がガーディアンを<8a9b>食し / 　その力を<89b9>めたきっかけとなったのだろう
+  2|LIT: <<TODO>>
+  3|EN : *They are perhaps beyond the
+ strength and abilities even of
+ us Crimson Nobles.*They abandoned physical form to
+ become pure consciousness. Their
+ powers should have lasted forever.*Yet at some point, the Guardians
+ grew weak, and they ceased to
+ interfere in events on Filgaia.*The power of the Guardians was the
+ source of the consciousness and
+ vigor of all who lived on Filgaia.*Perhaps 
+  4|RE : <<TODO>>
+
+[JP#5016] gaps=11  aln=HIGH->US#4902  CONF=SHAKY unsolved=11  CONF=SHAKY unsolved=11
+  1|JP : ＊勉体を失い、意暮の生命体となりても / 　その大いなる力に<8a96>りが<8a6a>ることなど / 　あり得ないはずであった[10][0c]＊だが、<8a6b>時からか / 　ガーディアンはその力を<89b9>め / 　ファルガイアに珍<8a98>することを止めた[10][0c]＊意暮体となったガーディアンの力は / 　ファルガイアに<89e2>づく者たちの / 　意暮と頼力が<8869>である[10][0c]＊その力が少しずつ<8a99>たれていったのだ / 　人間の<8a9a>の信情がガーディアンを<8a9b>食し / 　その力を<89b9>めたきっかけとなったのだろう
+  2|LIT: <<TODO>>
+  3|EN : *They abandoned physical form to
+ become pure consciousness. Their
+ powers should have lasted forever.*Yet at some point, the Guardians
+ grew weak, and they ceased to
+ interfere in events on Filgaia.*The power of the Guardians was the
+ source of the consciousness and
+ vigor of all who lived on Filgaia.*Perhaps it was the humans'
+ negative emotions that eroded and
+ weakened the Guardians' pow
+  4|RE : <<TODO>>
+
+[JP#5017] gaps=9  aln=HIGH->US#4903  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=9
+  1|JP : ＊だが、<8a6b>時からか / 　ガーディアンはその力を<89b9>め / 　ファルガイアに珍<8a98>することを止めた[10][0c]＊意暮体となったガーディアンの力は / 　ファルガイアに<89e2>づく者たちの / 　意暮と頼力が<8869>である[10][0c]＊その力が少しずつ<8a99>たれていったのだ / 　人間の<8a9a>の信情がガーディアンを<8a9b>食し / 　その力を<89b9>めたきっかけとなったのだろう
+  2|LIT: <<TODO>>
+  3|EN : *Yet at some point, the Guardians
+ grew weak, and they ceased to
+ interfere in events on Filgaia.*The power of the Guardians was the
+ source of the consciousness and
+ vigor of all who lived on Filgaia.*Perhaps it was the humans'
+ negative emotions that eroded and
+ weakened the Guardians' powers.
+  4|RE : <<TODO>>
+
+[JP#5018] gaps=6  aln=HIGH->US#4904  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : ＊意暮体となったガーディアンの力は / 　ファルガイアに<89e2>づく者たちの / 　意暮と頼力が<8869>である[10][0c]＊その力が少しずつ<8a99>たれていったのだ / 　人間の<8a9a>の信情がガーディアンを<8a9b>食し / 　その力を<89b9>めたきっかけとなったのだろう
+  2|LIT: <<TODO>>
+  3|EN : *The power of the Guardians was the
+ source of the consciousness and
+ vigor of all who lived on Filgaia.*Perhaps it was the humans'
+ negative emotions that eroded and
+ weakened the Guardians' powers.
+  4|RE : <<TODO>>
+
+[JP#5019] gaps=4  aln=HIGH->US#4905  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : ＊その力が少しずつ<8a99>たれていったのだ / 　人間の<8a9a>の信情がガーディアンを<8a9b>食し / 　その力を<89b9>めたきっかけとなったのだろう
+  2|LIT: <<TODO>>
+  3|EN : *Perhaps it was the humans'
+ negative emotions that eroded and
+ weakened the Guardians' powers.
+  4|RE : <<TODO>>
+
+[JP#5020] gaps=0  aln=HIGH->US#4906  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5021] gaps=11  aln=HIGH->US#4907  CONF=SHAKY unsolved=11  CONF=SHAKY unsolved=11
+  1|JP : ＊<8a9c>しみ、<8a9d>り、<8a9e>み、不<8a9f>… / 　<8a9a>の信情はガーディアンの力を<8aa0>ぎ / 　同姿たちの命を<8aa1>う[10][0c]＊破滅への道をひた<8aa2>る / 　その英は<8aa3><8aa4>であり / 　間かなる辺<8a91>生物の英でもある
+  2|LIT: <<TODO>>
+  3|EN : *Their hate, anger, envy, and
+ impiety eroded the Guardians' power
+ and drive human to kill human.*In their mad rush down the path
+ to destruction, they reveal their
+ foolish, inferior nature.
+  4|RE : <<TODO>>
+
+[JP#5022] gaps=4  aln=HIGH->US#4908  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : ＊破滅への道をひた<8aa2>る / 　その英は<8aa3><8aa4>であり / 　間かなる辺<8a91>生物の英でもある
+  2|LIT: <<TODO>>
+  3|EN : *In their mad rush down the path
+ to destruction, they reveal their
+ foolish, inferior nature.
+  4|RE : <<TODO>>
+
+[JP#5023] gaps=0  aln=HIGH->US#4909  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5024] gaps=15  aln=HIGH->US#4910  CONF=SHAKY unsolved=15  CONF=SHAKY unsolved=14
+  1|JP : ＊『<8aa5><8aa6>』のガーディアン・ルシエド / 　＜<8a86>の<8a87>昔＞に<8aa7>り<8aa8>い / 　<8aa9>時も離れぬ強き力[10][0c]＊その<8a1b>現し力の<8869>は / 　＜<8a86>の<8a87>昔＞の『<8aa5><8aa6>』 / 　『生きようとする心』[10][0c]＊強き違いは / 　ガーディアンに実体さえも<8aaa>え / 　その力、<8a55>きることなし
+  2|LIT: <<TODO>>
+  3|EN : *of Desire. Lucied stayed by the
+ side of <Sword Magess>, giving
+ her great strength.*The source of Lucied's strength
+ was the lust for life that
+ <Sword Magess> possessed.*This fervent desire, strong enough
+ to give a Guardian physical form,
+ would never falter.
+  4|RE : <<TODO>>
+
+[JP#5025] gaps=8  aln=HIGH->US#4911  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=7
+  1|JP : ＊その<8a1b>現し力の<8869>は / 　＜<8a86>の<8a87>昔＞の『<8aa5><8aa6>』 / 　『生きようとする心』[10][0c]＊強き違いは / 　ガーディアンに実体さえも<8aaa>え / 　その力、<8a55>きることなし
+  2|LIT: <<TODO>>
+  3|EN : *The source of Lucied's strength
+ was the lust for life that
+ <Sword Magess> possessed.*This fervent desire, strong enough
+ to give a Guardian physical form,
+ would never falter.
+  4|RE : <<TODO>>
+
+[JP#5026] gaps=2  aln=HIGH->US#4912  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : ＊強き違いは / 　ガーディアンに実体さえも<8aaa>え / 　その力、<8a55>きることなし
+  2|LIT: <<TODO>>
+  3|EN : *This fervent desire, strong enough
+ to give a Guardian physical form,
+ would never falter.
+  4|RE : <<TODO>>
+
+[JP#5027] gaps=0  aln=HIGH->US#4913  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5028] gaps=8  aln=HIGH->US#4914  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : ＊レイポイントは<88d1>大元<8aac>である / 　『地』『<88a1>』『緊』『<89f9>』により / 　<8968>成されている[10][0c]＊それぞれのレイポイントには / 　ファルガイアの<8aad>大なエネルギーが / 　<8aae><8aaf>されているのである[10][0c]＊それはまさに / 　ファルガイアの生命としての力
+  2|LIT: <<TODO>>
+  3|EN : *Raypoints are comprised of the
+ four major elements: Earth, Water,
+ Fire, and Wind.*Each Raypoint contains massive
+ amounts of Filgaia's powerful
+ energy.*This energy is the blood that
+ flows through Filgaia's veins.
+  4|RE : <<TODO>>
+
+[JP#5029] gaps=3  aln=HIGH->US#4915  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : ＊それぞれのレイポイントには / 　ファルガイアの<8aad>大なエネルギーが / 　<8aae><8aaf>されているのである[10][0c]＊それはまさに / 　ファルガイアの生命としての力
+  2|LIT: <<TODO>>
+  3|EN : *Each Raypoint contains massive
+ amounts of Filgaia's powerful
+ energy.*This energy is the blood that
+ flows through Filgaia's veins.
+  4|RE : <<TODO>>
+
+[JP#5030] gaps=0  aln=HIGH->US#4916  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊それはまさに / 　ファルガイアの生命としての力
+  2|LIT: <<TODO>>
+  3|EN : *This energy is the blood that
+ flows through Filgaia's veins.
+  4|RE : <<TODO>>
+
+[JP#5031] gaps=0  aln=HIGH->US#4917  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5032] gaps=15  aln=HIGH->US#4918  CONF=SHAKY unsolved=15  CONF=SHAKY unsolved=15
+  1|JP : ＊これは、我らノーブルレッドが / 　生態復の<88c4>帯にいることを<8ab1>す[10][0c]＊<89b9>き生き物は強き物に<8ab2>食される / 　<8808>に、家<8ab3>を残すために / 　<8a6b><8ab4><8979>と<8ab5>み、<8ab6>えようとする[10][0c]＊死を幻<8a67>した我らは / 　他茶のように、大きく<8ab5>み<8ab6>やす必要はない / 　それが強者の<8a77>
+  2|LIT: <<TODO>>
+  3|EN : *This reflects our position at the
+ top of the food chain.*The weak species, preyed on by
+ the Strong, must reproduce in great
+ numbers to assure their survival.*We know not death, and so need not
+ reproduce in large numbers. This is
+ proof that we are the Strong.
+  4|RE : <<TODO>>
+
+[JP#5033] gaps=13  aln=HIGH->US#4919  CONF=SHAKY unsolved=13  CONF=SHAKY unsolved=13
+  1|JP : ＊<89b9>き生き物は強き物に<8ab2>食される / 　<8808>に、家<8ab3>を残すために / 　<8a6b><8ab4><8979>と<8ab5>み、<8ab6>えようとする[10][0c]＊死を幻<8a67>した我らは / 　他茶のように、大きく<8ab5>み<8ab6>やす必要はない / 　それが強者の<8a77>
+  2|LIT: <<TODO>>
+  3|EN : *The weak species, preyed on by
+ the Strong, must reproduce in great
+ numbers to assure their survival.*We know not death, and so need not
+ reproduce in large numbers. This is
+ proof that we are the Strong.
+  4|RE : <<TODO>>
+
+[JP#5034] gaps=4  aln=HIGH->US#4920  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : ＊死を幻<8a67>した我らは / 　他茶のように、大きく<8ab5>み<8ab6>やす必要はない / 　それが強者の<8a77>
+  2|LIT: <<TODO>>
+  3|EN : *We know not death, and so need not
+ reproduce in large numbers. This is
+ proof that we are the Strong.
+  4|RE : <<TODO>>
+
+[JP#5035] gaps=0  aln=HIGH->US#4921  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5036] gaps=6  aln=HIGH->US#4922  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : ＊機艇と<8ab7>合した生命体『ドラゴン』 / 　その存帰は、ファルガイアの生命の<8ab8>から / 　外れた存帰といえよう[10][0c]＊我らが作りしゴーレムとも違う存帰 / 　作機体と無機体との<8ab7>合は / 　未知なるテクノロジーによるものか[10][0c]＊知性を作する彼らの言葉に<8aa7>れば / 　このファルガイアと違う更元から / 　やってきたという[10][0c]＊更元の<8ab9>を<8a67>えるという / 　我らノーブルレッドですら成し得ぬ所行 / 　彼の者たちの力とはどれほどのものか〜
+  2|LIT: <<TODO>>
+  3|EN : *They are the Dragons, a fusion of
+ machine and living flesh. They defy
+ traditional definitions of life.*The Dragons are dissimilar to the
+ Golems we created. They must be the
+ product of some unknown technology.*These intelligent beings claim to
+ have come from a dimension beyond
+ Filgaia.*Such a feat is beyond even our
+ own powers. No one knows the full
+ extent of their powers.*But the 
+  4|RE : <<TODO>>
+
+[JP#5037] gaps=4  aln=HIGH->US#4923  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : ＊我らが作りしゴーレムとも違う存帰 / 　作機体と無機体との<8ab7>合は / 　未知なるテクノロジーによるものか[10][0c]＊知性を作する彼らの言葉に<8aa7>れば / 　このファルガイアと違う更元から / 　やってきたという[10][0c]＊更元の<8ab9>を<8a67>えるという / 　我らノーブルレッドですら成し得ぬ所行 / 　彼の者たちの力とはどれほどのものか〜
+  2|LIT: <<TODO>>
+  3|EN : *The Dragons are dissimilar to the
+ Golems we created. They must be the
+ product of some unknown technology.*These intelligent beings claim to
+ have come from a dimension beyond
+ Filgaia.*Such a feat is beyond even our
+ own powers. No one knows the full
+ extent of their powers.*But the Dragons, unable to adapt
+ to Filgaia's environment,
+ eventually disappeared.
+  4|RE : <<TODO>>
+
+[JP#5038] gaps=3  aln=MED->US#4924  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : ＊知性を作する彼らの言葉に<8aa7>れば / 　このファルガイアと違う更元から / 　やってきたという[10][0c]＊更元の<8ab9>を<8a67>えるという / 　我らノーブルレッドですら成し得ぬ所行 / 　彼の者たちの力とはどれほどのものか〜
+  2|LIT: <<TODO>>
+  3|EN : *These intelligent beings claim to
+ have come from a dimension beyond
+ Filgaia.*Such a feat is beyond even our
+ own powers. No one knows the full
+ extent of their powers.*But the Dragons, unable to adapt
+ to Filgaia's environment,
+ eventually disappeared.
+  4|RE : <<TODO>>
+
+[JP#5039] gaps=2  aln=HIGH->US#4926  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊更元の<8ab9>を<8a67>えるという / 　我らノーブルレッドですら成し得ぬ所行 / 　彼の者たちの力とはどれほどのものか〜
+  2|LIT: <<TODO>>
+  3|EN : *But the Dragons, unable to adapt
+ to Filgaia's environment,
+ eventually disappeared.
+  4|RE : <<TODO>>
+
+[JP#5040] gaps=0  aln=HIGH->US#4927  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5041] gaps=10  aln=HIGH->US#4928  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=10
+  1|JP : ＊そんなことがあり得るのか / 　『世界』が『世界』を<8a72>らう / 　険てが無に帰すことなど[10][0c]＊ファルガイアに、その『侵食』が<8a6a>たとき / 　この地に生きる者たちに、なにができよう[10][0c]＊我らに<8876>雄しうる者たちが / 　『<894f>げる』しか、乗がなかったのだ[10][0c]＊力を<89b9>め、珍<8a98>しなくなったガーディアン / 　彼らの力ですら、<8a99>対の<8901><8a77>になり得ない[10][0c]「『世界』 / 　それは乗れることの<8a95>わぬ存帰…
+  2|LIT: <<TODO>>
+  3|EN : *Could one universe truly devour
+ another universe, and reduce it
+ to nothingness?*How could we resist this peril if
+ it attacked our universe?*Even the mighty Dragons fled when
+ the Peril attacked their world.*Not even the once-powerful
+ Guardians could assure our safety.@For how can one fight -- to say
+ nothing of defeat -- a universe?
+  4|RE : <<TODO>>
+
+[JP#5042] gaps=9  aln=HIGH->US#4929  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=9
+  1|JP : ＊ファルガイアに、その『侵食』が<8a6a>たとき / 　この地に生きる者たちに、なにができよう[10][0c]＊我らに<8876>雄しうる者たちが / 　『<894f>げる』しか、乗がなかったのだ[10][0c]＊力を<89b9>め、珍<8a98>しなくなったガーディアン / 　彼らの力ですら、<8a99>対の<8901><8a77>になり得ない[10][0c]「『世界』 / 　それは乗れることの<8a95>わぬ存帰…
+  2|LIT: <<TODO>>
+  3|EN : *How could we resist this peril if
+ it attacked our universe?*Even the mighty Dragons fled when
+ the Peril attacked their world.*Not even the once-powerful
+ Guardians could assure our safety.@For how can one fight -- to say
+ nothing of defeat -- a universe?
+  4|RE : <<TODO>>
+
+[JP#5043] gaps=8  aln=HIGH->US#4930  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : ＊我らに<8876>雄しうる者たちが / 　『<894f>げる』しか、乗がなかったのだ[10][0c]＊力を<89b9>め、珍<8a98>しなくなったガーディアン / 　彼らの力ですら、<8a99>対の<8901><8a77>になり得ない[10][0c]「『世界』 / 　それは乗れることの<8a95>わぬ存帰…
+  2|LIT: <<TODO>>
+  3|EN : *Even the mighty Dragons fled when
+ the Peril attacked their world.*Not even the once-powerful
+ Guardians could assure our safety.@For how can one fight -- to say
+ nothing of defeat -- a universe?
+  4|RE : <<TODO>>
+
+[JP#5044] gaps=6  aln=HIGH->US#4931  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : ＊力を<89b9>め、珍<8a98>しなくなったガーディアン / 　彼らの力ですら、<8a99>対の<8901><8a77>になり得ない[10][0c]「『世界』 / 　それは乗れることの<8a95>わぬ存帰…
+  2|LIT: <<TODO>>
+  3|EN : *Not even the once-powerful
+ Guardians could assure our safety.@For how can one fight -- to say
+ nothing of defeat -- a universe?
+  4|RE : <<TODO>>
+
+[JP#5045] gaps=1  aln=HIGH->US#4932  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「『世界』 / 　それは乗れることの<8a95>わぬ存帰…
+  2|LIT: <<TODO>>
+  3|EN : @For how can one fight -- to say
+ nothing of defeat -- a universe?
+  4|RE : <<TODO>>
+
+[JP#5046] gaps=0  aln=HIGH->US#4933  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5047] gaps=11  aln=HIGH->US#4934  CONF=SHAKY unsolved=11  CONF=SHAKY unsolved=8
+  1|JP : ＊マイスター・[05]く<8abc>による / 　発<8abd><8a39>更世代同友の試作体である[10][0c]＊<8ab6><88e5>スロットに / 　『メカのもと』を取り<88be>けることで / 　<8abb>撃力を強合していくことも可能である[10][0c]＊お家方のしつけから / 　オペレーション・ジェノサイドまで / 　その使用<8abe><8abf>は獲<89da>く<88e5>奮されている
+  2|LIT: <<TODO>>
+  3|EN : *This prototype was created by
+ Meister 6.*Attack power can be boosted by
+ inserting a Mecha Boost into the
+ expansion slot.*Applications include everything
+ from disciplining children to
+ Operation Genocide.
+  4|RE : <<TODO>>
+
+[JP#5048] gaps=8  aln=HIGH->US#4935  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=6
+  1|JP : ＊<8ab6><88e5>スロットに / 　『メカのもと』を取り<88be>けることで / 　<8abb>撃力を強合していくことも可能である[10][0c]＊お家方のしつけから / 　オペレーション・ジェノサイドまで / 　その使用<8abe><8abf>は獲<89da>く<88e5>奮されている
+  2|LIT: <<TODO>>
+  3|EN : *Attack power can be boosted by
+ inserting a Mecha Boost into the
+ expansion slot.*Applications include everything
+ from disciplining children to
+ Operation Genocide.
+  4|RE : <<TODO>>
+
+[JP#5049] gaps=4  aln=HIGH->US#4936  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : ＊お家方のしつけから / 　オペレーション・ジェノサイドまで / 　その使用<8abe><8abf>は獲<89da>く<88e5>奮されている
+  2|LIT: <<TODO>>
+  3|EN : *Applications include everything
+ from disciplining children to
+ Operation Genocide.
+  4|RE : <<TODO>>
+
+[JP#5050] gaps=2  aln=HIGH->US#4937  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「どうしてここにおるのじゃ / 　『<8ac2>重の時』は / 　まだ<8a6a>ておらぬようじゃが？
+  2|LIT: <<TODO>>
+  3|EN : @So, what brings you here? Surely
+ the |Time of Promise| has not yet
+ come.
+  4|RE : <<TODO>>
+
+[JP#5051] gaps=5  aln=HIGH->US#4938  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「そして、このファルガイアの / 　<8a64>一にして<8a99>対・<89b1><8ac3>、<8ac4>の負配者じゃッ！
+  2|LIT: <<TODO>>
+  3|EN : @We are the absolute, true,
+ one-and-only rulers of Filgaia!
+  4|RE : <<TODO>>
+
+[JP#5052] gaps=0  aln=HIGH->US#4939  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ノーブルレッドの生き残りが / 　いたとしていてもおかしくはないな
+  2|LIT: <<TODO>>
+  3|EN : @Is the idea of Crimson Nobles still
+ living in Filgaia any weirder?
+  4|RE : <<TODO>>
+
+[JP#5053] gaps=2  aln=HIGH->US#4940  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「いま、ファルガイアは / 　未<8ac6>作の危機に<8ac7>している
+  2|LIT: <<TODO>>
+  3|EN : @But Filgaia now faces the most
+ serious threat in its history.
+  4|RE : <<TODO>>
+
+[JP#5054] gaps=2  aln=HIGH->US#4941  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「だから[05]ぎ、キミの力を底りたい / 　かつてアナスタシアとキミが / 　男に戦ったようにッ！[10][0c]「俺らは、ファルガイアを<8a92>りたいんだッ！ / 　ファルガイアを<8a92>るために / 　いっしょに戦ってくれないか？
+  2|LIT: <<TODO>>
+  3|EN : @That's why I need you to fight on
+ our side 5, as you once
+ fought with Anastasia!@We are fighting
+ to save Filgaia!
+ Will you join us?
+  4|RE : <<TODO>>
+
+[JP#5055] gaps=2  aln=HIGH->US#4942  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「俺らは、ファルガイアを<8a92>りたいんだッ！ / 　ファルガイアを<8a92>るために / 　いっしょに戦ってくれないか？
+  2|LIT: <<TODO>>
+  3|EN : @We are fighting
+ to save Filgaia!
+ Will you join us?
+  4|RE : <<TODO>>
+
+[JP#5058] gaps=7  aln=HIGH->US#4945  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「あくまで、わらわのファルガイアを / 　<8acd><8ace>しようとたくらむ間かなるものたちに / 　負配者のつとめとして幸<8a80>をくだすだけじゃ[10][0c]「ただ、利<889b>が一<88a8>しただけじゃ / 　そうでなければ、<8acf>り<8867>きノーブルレッドが / 　人間と男に戦うことなどありえんのじゃ[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @I am only doing this because it is
+ my duty as supreme species to
+ protect Filgaia.@We simply have a common objective.
+ Otherwise, a proud Crimson Noble
+ would never help you lowly humans.
+  4|RE : <<TODO>>
+
+[JP#5059] gaps=4  aln=HIGH->US#4946  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「ただ、利<889b>が一<88a8>しただけじゃ / 　そうでなければ、<8acf>り<8867>きノーブルレッドが / 　人間と男に戦うことなどありえんのじゃ[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @We simply have a common objective.
+ Otherwise, a proud Crimson Noble
+ would never help you lowly humans.
+  4|RE : <<TODO>>
+
+[JP#5061] gaps=13  aln=HIGH->US#4948  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=9
+  1|JP : 「わらわが可<8ad3>違なお<8ad1>らのために / 　ちょっとだけロストテクノロジーを使って / 　キュートでドキドキな<8a8b><8ad4>をしてしんぜよう[10][0c]「<f041><f041><f041>なんじゃ、その<8ad5>いの目は / 　わらわに任せておけば大<8ad6><8ad7>じゃ[10][0c]「ギルドグラードの<8ad8>乗など / 　<8921>元にも<8ad9>ばないことを / 　ちょっぴり見せつけるだけじゃよ
+  2|LIT: <<TODO>>
+  3|EN : @Out of pity for you, we will use a
+ bit of Lost Technology to give it a
+ cute but exciting upgrade.@Don't look so skeptical! Just leave
+ everything to us!@I'll show you how Guild Galad
+ technology can't even hold a
+ candle to ours. Heh heh.
+  4|RE : <<TODO>>
+
+[JP#5062] gaps=9  aln=HIGH->US#4949  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : 「<f041><f041><f041>なんじゃ、その<8ad5>いの目は / 　わらわに任せておけば大<8ad6><8ad7>じゃ[10][0c]「ギルドグラードの<8ad8>乗など / 　<8921>元にも<8ad9>ばないことを / 　ちょっぴり見せつけるだけじゃよ
+  2|LIT: <<TODO>>
+  3|EN : @Don't look so skeptical! Just leave
+ everything to us!@I'll show you how Guild Galad
+ technology can't even hold a
+ candle to ours. Heh heh.
+  4|RE : <<TODO>>
+
+[JP#5063] gaps=3  aln=HIGH->US#4950  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「ギルドグラードの<8ad8>乗など / 　<8921>元にも<8ad9>ばないことを / 　ちょっぴり見せつけるだけじゃよ
+  2|LIT: <<TODO>>
+  3|EN : @I'll show you how Guild Galad
+ technology can't even hold a
+ candle to ours. Heh heh.
+  4|RE : <<TODO>>
+
+[JP#5064] gaps=7  aln=HIGH->US#4951  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「なに、あまり変わったように見えない？ / 　これだからシロウトは……[10][0c]「これはな、マップスコープの<8adc><8a82>を / 　<8add><8ade>に<8865>搭<88ab><88c0>することで / 　移動中でもマップを見られるのじゃッ！
+  2|LIT: <<TODO>>
+  3|EN : @What do you mean it looks the
+ same? Amateur!@Now you can view the Map Scope
+ while in transit by projecting
+ the image onto your retina!
+  4|RE : <<TODO>>
+
+[JP#5065] gaps=7  aln=MED->US#4952  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「これはな、マップスコープの<8adc><8a82>を / 　<8add><8ade>に<8865>搭<88ab><88c0>することで / 　移動中でもマップを見られるのじゃッ！
+  2|LIT: <<TODO>>
+  3|EN : @Now you can view the Map Scope
+ while in transit by projecting
+ the image onto your retina!
+  4|RE : <<TODO>>

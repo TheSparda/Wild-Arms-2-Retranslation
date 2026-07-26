@@ -1,0 +1,245 @@
+# WA2 INSERTION workspace US block 93 (US#7678-7720)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7679] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7871[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7680] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7872[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7681] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7873[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7682] budget=28ch/1ln
+  NOW: Thank you very much! Really!
+  JP : JP#7874[MED]: 「本当にありがとう
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#7683] budget=33ch/2ln
+  NOW: We could
+          prepare a better reward.
+  JP : JP#7875[MED]: 「わしらだって / 　もう少しましな報<8a34>くらい用意できるんだよ
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#7684] budget=47ch/2ln
+  NOW: Even though you probably
+          have use for my magic.
+  JP : JP#7876[MED]: 「きっとそこでも / 　わたしの魔法を必要としてくれるから…[10][0c]「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7685] budget=52ch/2ln
+  NOW: That's why I'm so happy
+          to receive the Teleport Gem.
+  JP : JP#7877[MED]: 「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#7686] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7878[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7687] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7879[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7688] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7880[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7689] budget=28ch/1ln
+  NOW: Thank you very much! Really!
+  JP : JP#7881[MED]: 「本当にありがとう
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#7690] budget=33ch/2ln
+  NOW: We could
+          prepare a better reward.
+  JP : JP#7882[MED]: 「わしらだって / 　もう少しましな報<8a34>くらい用意できるんだよ
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#7691] budget=47ch/2ln
+  NOW: Even though you probably
+          have use for my magic.
+  JP : JP#7883[MED]: 「きっとそこでも / 　わたしの魔法を必要としてくれるから…[10][0c]「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7692] budget=52ch/2ln
+  NOW: That's why I'm so happy
+          to receive the Teleport Gem.
+  JP : JP#7884[MED]: 「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#7693] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7885[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7694] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7886[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7695] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7887[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7696] budget=28ch/1ln
+  NOW: Thank you very much! Really!
+  JP : JP#7888[MED]: 「本当にありがとう
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#7697] budget=33ch/2ln
+  NOW: We could
+          prepare a better reward.
+  JP : JP#7889[MED]: 「わしらだって / 　もう少しましな報<8a34>くらい用意できるんだよ
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#7698] budget=47ch/2ln
+  NOW: Even though you probably
+          have use for my magic.
+  JP : JP#7890[MED]: 「きっとそこでも / 　わたしの魔法を必要としてくれるから…[10][0c]「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7699] budget=52ch/2ln
+  NOW: That's why I'm so happy
+          to receive the Teleport Gem.
+  JP : JP#7891[MED]: 「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#7700] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7892[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7701] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7893[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7702] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7894[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7703] budget=28ch/1ln
+  NOW: Thank you very much! Really!
+  JP : JP#7895[MED]: 「本当にありがとう
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#7704] budget=33ch/2ln
+  NOW: We could
+          prepare a better reward.
+  JP : JP#7896[MED]: 「わしらだって / 　もう少しましな報<8a34>くらい用意できるんだよ
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#7705] budget=47ch/2ln
+  NOW: Even though you probably
+          have use for my magic.
+  JP : JP#7897[MED]: 「きっとそこでも / 　わたしの魔法を必要としてくれるから…[10][0c]「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7706] budget=52ch/2ln
+  NOW: That's why I'm so happy
+          to receive the Teleport Gem.
+  JP : JP#7898[MED]: 「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#7707] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7899[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7708] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7900[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7709] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7901[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7710] budget=28ch/1ln
+  NOW: Thank you very much! Really!
+  JP : JP#7902[MED]: 「本当にありがとう
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#7711] budget=33ch/2ln
+  NOW: We could
+          prepare a better reward.
+  JP : JP#7903[MED]: 「わしらだって / 　もう少しましな報<8a34>くらい用意できるんだよ
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#7712] budget=47ch/2ln
+  NOW: Even though you probably
+          have use for my magic.
+  JP : JP#7904[MED]: 「きっとそこでも / 　わたしの魔法を必要としてくれるから…[10][0c]「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7713] budget=52ch/2ln
+  NOW: That's why I'm so happy
+          to receive the Teleport Gem.
+  JP : JP#7905[MED]: 「だから、テレポートジェムをいただくのが / 　いちばんうれしいんです || JP#7906[MED]: 
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#7714] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7908[MED]: ＊進みますか？[18]か || JP#7907[MED]: 
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7715] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7909[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7716] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7910[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7717] budget=28ch/1ln
+  NOW: Thank you very much! Really!
+  JP : JP#7913[MED]:  || JP#7911[MED]: 「…うむ、急がねば
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#7718] budget=33ch/2ln
+  NOW: We could
+          prepare a better reward.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#7719] budget=47ch/2ln
+  NOW: Even though you probably
+          have use for my magic.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7720] budget=52ch/2ln
+  NOW: That's why I'm so happy
+          to receive the Teleport Gem.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>

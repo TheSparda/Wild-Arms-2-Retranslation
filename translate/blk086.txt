@@ -1,0 +1,70 @@
+# WA2 4-col translation doc block 86 (JP#7679-7691)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 9 boxes | OK=5 FAIR=4 SHAKY=0 JP-ONLY=0
+# DRAFT STATUS: 9 boxes | OK=3 FAIR=6 SHAKY=0 JP-ONLY=0
+
+[JP#7680] gaps=0  aln=HIGH->US#7485  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7681] gaps=2  aln=HIGH->US#7486  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7682] gaps=0  aln=HIGH->US#7487  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7683] gaps=2  aln=HIGH->US#7488  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : [06][17]<8400>[18][ff][ff][12]|<e214>[80][05][10]
+  2|LIT: <<TODO>>
+  3|EN : �
+  4|RE : <<TODO>>
+
+[JP#7685] gaps=2  aln=MED->US#7490  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8972><8973>生命体 / 　『侵食異世界』カイバーベルト〜
+  2|LIT: <<TODO>>
+  3|EN : @The pseudo-lifeform--|the
+ encroaching parallel universe,|
+ the Kuiper Belt.
+  4|RE : <<TODO>>
+
+[JP#7686] gaps=1  aln=HIGH->US#7491  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「まるで、押から / 　何かが<8a38>合するような〜
+  2|LIT: <<TODO>>
+  3|EN : @It's almost as if something is
+ hatching from an egg.
+  4|RE : <<TODO>>
+
+[JP#7687] gaps=1  aln=HIGH->US#7492  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「『侵食異世界』の / 　ラルヴァ（<8a39>体）だッ！
+  2|LIT: <<TODO>>
+  3|EN : @It's the larva of the
+ encroaching parallel universe!
+  4|RE : <<TODO>>
+
+[JP#7689] gaps=2  aln=HIGH->US#7494  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8972><8973>生命体と合した / 　侵食異世界に / 　俺たちの守撃は加じたみたいだけど〜
+  2|LIT: <<TODO>>
+  3|EN : @Our attack seems to have had
+ an effect on the pseudo lifeform,
+ the encroaching parallel universe.
+  4|RE : <<TODO>>
+
+[JP#7690] gaps=3  aln=MED->US#7495  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「<8a3d>に助ち滅ぼすべきは / 　まだ<f040><f042>〜
+  2|LIT: <<TODO>>
+  3|EN : @What we really need to destroy
+ is still out there.
+  4|RE : <<TODO>>

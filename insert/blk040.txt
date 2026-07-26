@@ -1,0 +1,357 @@
+# WA2 INSERTION workspace US block 40 (US#5854-5913)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5855] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5856] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5857] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5858] budget=96ch/3ln
+  NOW: *For the Air Ballet, press 1 to
+          transform the surrounding air into
+          a spiral to be fired forward.
+  JP : JP#5988[MED]: 
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#5859] budget=66ch/3ln
+  NOW: *By hitting this, blocks and
+          statues can be moved
+          from a distance.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#5860] budget=60ch/3ln
+  NOW: I'm going to see the
+          famous ARMS in action
+          with my own eyes.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=60 chars, 3 line(s), <=35/line>>
+
+[US#5861] budget=70ch/3ln
+  NOW: Worried, confused.
+          You all who don't look back
+          don't deserve a future!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#5862] budget=85ch/3ln
+  NOW: He said it's for my protection,
+          but this draws so much
+          attention, I'm in more danger.
+  JP : JP#5989[MED]: 
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#5863] budget=63ch/3ln
+  NOW: (Or just in case,
+          for when the time comes
+          it's military power.)
+  JP : JP#5990[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#5864] budget=47ch/3ln
+  NOW: (1,
+          at a time like this,
+          what would you think?)
+  JP : JP#5991[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません || JP#5992[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=47 chars, 3 line(s), <=35/line>>
+
+[US#5865] budget=35ch/2ln
+  NOW: But Noel's father is
+          quite strange.
+  JP : JP#5997[MED]: 「わたくしの<89e3><89e4>と言っていましたが / 　これでは、目戻ってしまって / 　<89c1>に危ないのではないかと思えます || JP#5995[MED]: 「ウワサのＡＲＭＳ / 　この目にさせてもらいます
+  FIT: <<TODO — <=35 chars, 2 line(s), <=35/line>>
+
+[US#5866] budget=78ch/3ln
+  NOW: Father's personality is what
+          it is, but everything he
+          does is for Guild Galad.
+  JP : JP#5998[MED]: （<f040><f042>あるいは / 　いざという時のために / 　戦力として同行させている、か<f040><f042>[10][0c]（[05]お〜 / 　
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#5867] budget=54ch/3ln
+  NOW: He too wishes to
+          return to a kinder
+          and gentler world.
+  JP : JP#6002[HIGH]: 「<8a4d>上もまた / 　恥やかな世界に戻ることを / 　負んでいるはずです || JP#5999[MED]: （[05]お〜 / 　こんな時、お前なら、どう考える〜）
+  FIT: <<TODO — <=54 chars, 3 line(s), <=35/line>>
+
+[US#5868] budget=80ch/3ln
+  NOW: Why, when we all desire the
+          same results, do people
+          choose such different paths?
+  JP : JP#6003[HIGH]: 「遠める結果は同じはずなのに / 　どうして / 　人は、それぞれ違う道を選ぶのだろう？[10][0c]「やっぱり、わからないな〜
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5869] budget=17ch/1ln
+  NOW: I have no answer.
+  JP : JP#6004[HIGH]: 「やっぱり、わからないな〜
+  FIT: <<TODO — <=17 chars, 1 line(s), <=35/line>>
+
+[US#5870] budget=79ch/3ln
+  NOW: Originally, this was a cargo
+          route to export goods
+          manufactured in Guild Galad.
+  JP : JP#6005[HIGH]: 「もともとは / 　ギルドグラードで生<8a52>された<8a13><8a53>勉<892e>を / 　他<8a55>へ貸出する<8a57>物<89ca>望なん
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#5871] budget=80ch/3ln
+  NOW: The scenery before and after
+          the tunnel are dramatically
+          different. This is odd.
+  JP : JP#6006[HIGH]: 「トンネルに入る前と後で / 　まったく<8a59>観が異なるんですが〜 / 　<f040><f042>おかしいな〜
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5872] budget=38ch/2ln
+  NOW: Let's confirm this with
+          the conductor.
+  JP : JP#6007[MED]: 「<89dd>姉に確認してみましょう
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#5875] budget=16ch/1ln
+  NOW: Noel, wait here.
+  JP : JP#6010[MED]: 「ここで / 　待っていてくれ、ノエル
+  FIT: <<TODO — <=16 chars, 1 line(s), <=35/line>>
+
+[US#5876] budget=60ch/3ln
+  NOW: I'm going to see the
+          famous ARMS in action
+          with my own eyes.
+  JP : JP#6011[MED]: 「ウワサのＡＲＭＳ / 　この目にさせてもらいます
+  FIT: <<TODO — <=60 chars, 3 line(s), <=35/line>>
+
+[US#5877] budget=32ch/2ln
+  NOW: Roger.
+          Emergency ignition start.
+  JP : JP#6012[MED]: 「わかりました / 　<8886>急発<892b>させましょう
+  FIT: <<TODO — <=32 chars, 2 line(s), <=35/line>>
+
+[US#5878] budget=70ch/3ln
+  NOW: Funds are needed to run
+          organizations, so
+          terrorists are no different.
+  JP : JP#6013[MED]: 「限守の運<8a61>には / 　戦金が必要ですからね / 　テロリストもまた<8844>りなのでしょう
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#5881] budget=59ch/3ln
+  NOW: The rear cars are all
+          cargo. Human life
+          cannot be replaced.
+  JP : JP#6016[MED]: 「後字は<8a57>物<89dd>飛だけのはず / 　人の命には代えられないはずです[10][0c]「それとも〜 / 　わたくしの知らないことでも？
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#5882] budget=41ch/2ln
+  NOW: Or is there something
+          I don't know about?
+  JP : JP#6017[MED]: 「それとも〜 / 　わたくしの知らないことでも？
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#5883] budget=2ch/1ln
+  NOW: Px
+  JP : JP#6018[MED]: [01][10]ど[02][10]<9803>[10]ゑ
+  FIT: <<TODO — <=2 chars, 1 line(s), <=35/line>>
+
+[US#5884] budget=28ch/1ln
+  NOW: Release the rear cargo cars!
+  JP : JP#6019[MED]: 「〜後字、<8a57>物<89dd>飛パージッ！
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#5885] budget=54ch/3ln
+  NOW: Hope you meet death in
+          the dimension interval
+          and rot!
+  JP : JP#6020[MED]: 「このまま更元の<8a67>間の亡者となりて / 　魂ち果てるがいいッ！
+  FIT: <<TODO — <=54 chars, 3 line(s), <=35/line>>
+
+[US#5886] budget=36ch/2ln
+  NOW: I am Caina, one of
+          Odessa's Cocytus.
+  JP : JP#6021[HIGH]: 「私はカイーナ〜 / 　オデッサがコキュートスのひとり[10][0c]「ヴィンスフェルト方の / 　理違にたてつくＡＲＭＳよ〜[10][0c]「ここで<8a06
+  FIT: <<TODO — <=36 chars, 2 line(s), <=35/line>>
+
+[US#5887] budget=43ch/2ln
+  NOW: You ARMS who opposes
+          Sir Vinsfeld's ideals.
+  JP : JP#6022[HIGH]: 「ヴィンスフェルト方の / 　理違にたてつくＡＲＭＳよ〜[10][0c]「ここで<8a06>信<8903>だ / 　<89dc><89dd>と<8a6a>にエミ
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#5888] budget=89ch/3ln
+  NOW: You've got a red light now.
+          We'll have you stay here in the
+          Emulator Zone with the train.
+  JP : JP#6023[HIGH]: 「ここで<8a06>信<8903>だ / 　<89dc><89dd>と<8a6a>にエミュレーターゾーンに / 　とどまってもらおうか
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#5889] budget=22ch/1ln
+  NOW: We want a green light.
+  JP : JP#6024[HIGH]: 「勇信<8903>にさせてもらうよ
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#5890] budget=85ch/3ln
+  NOW: If you hadn't returned alive
+          with the Demon inside you,
+          our goals wouldn't be undone!
+  JP : JP#6025[HIGH]: 「<8a71>方ひとりが / 　その身に魔<8a72>を基して生還しなければ / 　我らの理違は、<8a74>ることはなかったッ！
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#5891] budget=34ch/2ln
+  NOW: So this was
+          your doing, wasn't it?
+  JP : JP#6026[MED]: 「やはり〜 / 　お前たちの仕<8a53>だったのか〜
+  FIT: <<TODO — <=34 chars, 2 line(s), <=35/line>>
+
+[US#5892] budget=73ch/3ln
+  NOW: (As long as the generator is
+          running, we can maintain
+          the Emulator Zone.)
+  JP : JP#6027[MED]: （ジェネレイターがある<8a5a>り / 　もうしばらくエミュレーターゾーンは / 　協持できそうだが〜）[10][0c]（事は急いだ方がよさそうだな）
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#5893] budget=29ch/1ln
+  NOW: (Looks like we better hurry!)
+  JP : JP#6028[MED]: （事は急いだ方がよさそうだな）
+  FIT: <<TODO — <=29 chars, 1 line(s), <=35/line>>
+
+[US#5894] budget=63ch/3ln
+  NOW: Proceed. Until we destroy
+          this Emulator Zone,
+          we can't go back.
+  JP : JP#6029[MED]: 「先に向かってみよう / 　このエミュレーターゾーンを破らない<8a5a>り / 　俺たちは戻れそうもないからな
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#5895] budget=33ch/2ln
+  NOW: First, let's return to
+          the train.
+  JP : JP#6030[MED]: 「とりあえず / 　<89dc><89dd>まで戻ってみましょう
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#5896] budget=81ch/3ln
+  NOW: Odessa is a terrorist group
+          which has brought turmoil
+          and destruction to Filgaia!
+  JP : JP#6031[MED]: 「オデッサは / 　このファルガイアに<8a7a><8945>を呼び込んでいる / 　テロリストなんだぞッ！
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#5897] budget=85ch/3ln
+  NOW: Or should I say I have my
+          reasons why I need to hunt
+          the Demon that lurks inside you.
+  JP : JP#6032[MED]: 「いや、<8a71>方の参的雄<8a7d>に共んでいる / 　魔<8a72>を<8a7f>る理由があるというべきか
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#5898] budget=74ch/3ln
+  NOW: As a descendant of the
+          <Sword Magess>, I am
+          destined to destroy the Demon!
+  JP : JP#6033[MED]: 「＜友の苦昔＞の<8a85><8a86>である / 　このあたしには / 　魔<8a72>を<8952><8a87>する基命があるんだよッ！
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#5899] budget=64ch/2ln
+  NOW: I have lived until today with
+          the purpose of fighting the Demon!
+  JP : JP#6034[MED]: 「魔<8a72>を<8a7f>り<8a88>くすために / 　あたしは今回まで生きてきたッ！[10][0c]「オンナであることも / 　いや、生身をも安て暮って
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5900] budget=79ch/3ln
+  NOW: I have thrown away my
+          womanhood and body and
+          lived as a human concealed weapon!
+  JP : JP#6035[MED]: 「オンナであることも / 　いや、生身をも安て暮って / 　人間暗<8a8b>として生きてきたのだッ！[10][0c]「〜<8a71>方に<8a8c>みはない 
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#5901] budget=72ch/3ln
+  NOW: I have no resentment
+          toward you, but I do have
+          reason to take your life.
+  JP : JP#6036[MED]: 「〜<8a71>方に<8a8c>みはない / 　だが、<8a71>方の命をもらう理由はあるのだ
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#5902] budget=51ch/2ln
+  NOW: (Looks like this quasi-
+          space won't last too long.)
+  JP : JP#6037[HIGH]: （どうやら、この<8972><8973>空間 / 　長くは持たないようだな〜）[10][0c]「一時<89bf>戦だ / 　ゾーンの崩滅に<8a8d>みこまれる
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#5903] budget=105ch/3ln
+  NOW: Let's call a temporary truce. If we
+          get sucked into the zone's collapse
+          we'll spend eternity as the dead.
+  JP : JP#6038[HIGH]: 「一時<89bf>戦だ / 　ゾーンの崩滅に<8a8d>みこまれると / 　<8a8e><8a10>に更元をさまよう亡者となるぞ[10][0c]「自活集<8a9
+  FIT: <<TODO — <=105 chars, 3 line(s), <=35/line>>
+
+[US#5904] budget=98ch/3ln
+  NOW: The only way to get out is to
+          blast the train through the self-
+          repairing dimension at high speed!
+  JP : JP#6039[HIGH]: 「自活集<8a91>を始めた更元の延ぎ目に / 　<89dc><89dd>を<8867><8a04>で突っ込ませれば / 　抜け出せるはずだッ！[10][0c]
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#5905] budget=9ch/1ln
+  NOW: Hurry, 0!
+  JP : JP#6040[HIGH]: 「急げ、[05]ぉッ！
+  FIT: <<TODO — <=9 chars, 1 line(s), <=35/line>>
+
+[US#5906] budget=58ch/3ln
+  NOW: I do it because
+          I am the legendary sword
+          that pierces you!
+  JP : JP#6041[MED]: 「あたしは<f040><f042> / 　<8a71>方を<8a94>く<88a6>説の<8a95>だからだッ！
+  FIT: <<TODO — <=58 chars, 3 line(s), <=35/line>>
+
+[US#5907] budget=56ch/2ln
+  NOW: Do I really have to battle
+          you for such a flimsy reason?
+  JP : JP#6042[MED]: 「そんな、あいまいなモノのために / 　俺たちは戦わなければいけないのか？[10][0c]「どうして、現帰（いま）を生きる俺たちが / 　過暮（むかし）からの基
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#5908] budget=70ch/3ln
+  NOW: Why do we in the present
+          have to be bound to a
+          destiny from the past?!
+  JP : JP#6043[MED]: 「どうして、現帰（いま）を生きる俺たちが / 　過暮（むかし）からの基命などに / 　<8a96>られなきゃいけないんだッ！
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#5909] budget=84ch/3ln
+  NOW: You wouldn't understand.
+          You wouldn't understand the
+          confusion of an uncertain self.
+  JP : JP#6047[MED]:  || JP#6044[MED]: 「<8a71>方にはわかるまい〜 / 　あやふやな自分を / 　かかえこむという不危を〜
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#5910] budget=9ch/1ln
+  NOW: 2, sorry.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=9 chars, 1 line(s), <=35/line>>
+
+[US#5911] budget=42ch/2ln
+  NOW: I haven't even caught
+          up to my sister yet!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#5912] budget=45ch/2ln
+  NOW: Won't it work anymore?
+          Hey, Pooka, answer me.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#5913] budget=86ch/3ln
+  NOW: the zone that's holding the
+          train. This might be a bit
+          rough, but let's try something!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>

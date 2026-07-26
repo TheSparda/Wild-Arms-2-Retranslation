@@ -1,0 +1,574 @@
+# WA2 INSERTION workspace US block 26 (US#5128-5237)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5129] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5247[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5130] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5248[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5131] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5249[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5133] budget=51ch/2ln
+  NOW: Even I thought for a second
+          that it might come out.
+  JP : JP#5251[MED]: 「もしかしたら抜けるんじゃないかって / 　俺も一<8a39>、思ってしまったくらいさ
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#5134] budget=83ch/3ln
+  NOW: The fact that the sword could
+          be retrieved means there's
+          some reason for it, right?
+  JP : JP#5252[MED]: 「あの守が抜けるようなことがあるってことは / 　それなりの理由があるってことだろ？
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#5135] budget=82ch/3ln
+  NOW: A |hero| suddenly appearing
+          means there will be some
+          disturbance needing a |hero.|
+  JP : (no JP mapped)
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#5136] budget=27ch/2ln
+  NOW: Well, but
+          it could be true.
+  JP : JP#5253[MED]: 「『姉<8a3d>』が<890c>生するってことは / 　『姉<8a3d>』を必要とする / 　何らかの戦<8945>があるってことじゃないか
+  FIT: <<TODO — <=27 chars, 2 line(s), <=35/line>>
+
+[US#5137] budget=17ch/1ln
+  NOW: No one wants war.
+  JP : JP#5254[MED]: 「でも、まあ〜 / 　そんなモンかもしれないな〜
+  FIT: <<TODO — <=17 chars, 1 line(s), <=35/line>>
+
+[US#5139] budget=90ch/3ln
+  NOW: The country has a resource
+          called a |Fossil| and uses it to
+          develop Mechanical Techniques.
+  JP : JP#5257[MED]: 「あの<8a43>は、『合谷』と呼ばれる / 　<882d>代の奇来を用いて / 　<89e1>自の機艇挑戦を発周させたのさ
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#5140] budget=78ch/3ln
+  NOW: There's something not right.
+          Feels like |The National Dog.|
+          What do you think?
+  JP : JP#5258[MED]: 「なーんか、ヤなんだよな / 　『<8a43><8a4c>の訪』ってなカンジでさ / 　キミはどう思う？
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#5141] budget=56ch/2ln
+  NOW: But it won't be long before
+          some booming voice calls us.
+  JP : JP#5259[MED]: 「だけどまあ〜 / 　すぐにお<883f>はかかるだろう[10][0c]「何たって僕たちは / 　最前<8a4d>に配備されるのが / 　決まっているようなモン
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#5142] budget=67ch/3ln
+  NOW: I mean, it's almost
+          guaranteed we'll be
+          assigned to the front line.
+  JP : JP#5260[MED]: 「何たって僕たちは / 　最前<8a4d>に配備されるのが / 　決まっているようなモンだからな
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#5143] budget=69ch/3ln
+  NOW: Just by refitting us,
+          our tactical options increase.
+          Very convenient.
+  JP : JP#5262[MED]: 「５数前の / 　スレイハイム解殺戦にも貸<8a57>したんだぜ / 　もちろん解殺<8a48>としてだ || JP#5261[MED]: 「好備しなおすだけで / 　戦戦に恥ができるんだから / 　負利なもんだよな
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#5144] budget=91ch/3ln
+  NOW: I was involved in the Slayheim
+          War 5 years ago. Of course I
+          fought for the Liberation Army.
+  JP : JP#5263[MED]: 「そういやあ、うちのバア方が / 　<8a59>星は<8a5c>茶の現れだって / 　言ってたっけな〜
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#5145] budget=59ch/3ln
+  NOW: I recall my grandmother
+          saying comets were an
+          omen of evil.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#5146] budget=39ch/2ln
+  NOW: But the monsters just
+          keep multiplying.
+  JP : JP#5264[HIGH]: 「だけど、モンスターは / 　どんどん飛<8a57>しているんだ[10][0c]「やつらはいったい / 　どこからやってきているんだ〜
+  FIT: <<TODO — <=39 chars, 2 line(s), <=35/line>>
+
+[US#5147] budget=44ch/2ln
+  NOW: Where in the world are
+          they all coming from?
+  JP : JP#5265[HIGH]: 「やつらはいったい / 　どこからやってきているんだ〜
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#5148] budget=76ch/3ln
+  NOW: For me, ever since I was born,
+          I never once managed
+          such troublesome things!
+  JP : JP#5266[HIGH]: 「僕なんて、生まれてこのかた / 　そんなメンドーなモンは / 　一度たりともできたこたぁねぇよッ！[10][0c]「<f040><f042>で、おめぇはどうな
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#5149] budget=19ch/1ln
+  NOW: So, what about you?
+  JP : JP#5267[HIGH]: 「<f040><f042>で、おめぇはどうなのよ？
+  FIT: <<TODO — <=19 chars, 1 line(s), <=35/line>>
+
+[US#5150] budget=65ch/3ln
+  NOW: In other words, we're being
+          assigned to the most
+          dangerous front.
+  JP : JP#5268[MED]: 「つまりは / 　一番危険な戦場に配備されるってことだ[10][0c]「さあて、<89a7>数後までに / 　何人生き残っていることやら〜
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#5151] budget=62ch/3ln
+  NOW: I wonder how many
+          of us will still be alive
+          6 months from now.
+  JP : JP#5269[MED]: 「さあて、<89a7>数後までに / 　何人生き残っていることやら〜
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#5152] budget=64ch/3ln
+  NOW: Look around you.
+          Aren't there a lot of
+          unruly-looking guys here?
+  JP : JP#5270[MED]: 「だから、<8a67>りを見渡してみろよ / 　魂頼<8a6a>そうな連中が / 　けっこう<8a6b>じっているだろう？
+  FIT: <<TODO — <=64 chars, 3 line(s), <=35/line>>
+
+[US#5153] budget=36ch/2ln
+  NOW: The soldiers here
+          are from all over.
+  JP : JP#5271[MED]: 「ここに選抜された闘勇は / 　<8a6d>、出身がバラバラなんだ[10][0c]「簡奮の<8a43><8a4c>にとらわれることなく / 　友動することを強調
+  FIT: <<TODO — <=36 chars, 2 line(s), <=35/line>>
+
+[US#5154] budget=61ch/3ln
+  NOW: They're more interested in
+          your skills than your
+          nationality.
+  JP : JP#5272[MED]: 「簡奮の<8a43><8a4c>にとらわれることなく / 　友動することを強調しているからな
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#5155] budget=82ch/3ln
+  NOW: *Since then, the lineage of the
+          <Sword Magess> is seen as the
+          lineage of a |hero.|
+  JP : JP#5273[HIGH]: ＊これにより、＜守の<8a71>昔＞の<8a72>勝を / 　『姉<8a3d>』の<8a72>勝を見なす / 　<89f9><89fc>が<8867>まっていく
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#5156] budget=72ch/3ln
+  NOW: *But no one on the planet
+          is directly descended
+          from the <Sword Magess>.
+  JP : JP#5274[HIGH]: ＊しかし、＜守の<8a71>昔＞自身の / 　<8a72>を招きし者は / 　この世には存帰しない[10][0c]＊<8a4c>としての<8a72>勝を招く者は
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#5157] budget=93ch/3ln
+  NOW: *The family line was carried on,
+          but the blood got diluted and
+          the |hero's| ancestors spread.
+  JP : JP#5275[HIGH]: ＊<8a4c>としての<8a72>勝を招く者は多く / 　<8a72>は<8a79>れ、年多の『姉<8a3d>』の家<8a7a>を / 　地に英れさせた[10]
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#5158] budget=98ch/3ln
+  NOW: *How much value is placed on
+          |blood?| The <Sword Magess> herself
+          said blood doesn't make a |hero.|
+  JP : JP#5276[HIGH]: ＊『<8a72>』にいかほどの雄<8875>があろうか / 　＜守の<8a71>昔＞自身がそれを物<8a7d>っている / 　<8a72>によって『姉<8a3d
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#5159] budget=104ch/3ln
+  NOW: *The reverse is also true. When a
+          |hero| appears, |disaster| follows.
+          They are 2 sides of the same coin.
+  JP : JP#5277[HIGH]: ＊その<89c1>も<8844>り / 　『姉<8a3d>』現れるるとき、『共<8a7f>』あり / 　『姉<8a3d>』と『共<8a7f>』は表<8a80>一
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#5160] budget=69ch/2ln
+  NOW: *A |hero| isn't born. It's something
+          you know as a result of actions.
+  JP : JP#5278[HIGH]: ＊『姉<8a3d>』は生まれついてのものでなし / 　何を為したかによってあるものと知れ
+  FIT: <<TODO — <=69 chars, 2 line(s), <=35/line>>
+
+[US#5161] budget=74ch/3ln
+  NOW: *Many knights and heroes have
+          vied for the Argetlahm,
+          but all have failed.
+  JP : JP#5279[HIGH]: ＊<8a87>多の<8a88>胞、安者が / 　アガートラームを手にすべく<897b>み / 　ことごとく暮わず[10][0c]＊＜守の<8a71>昔＞の<8a
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#5162] budget=70ch/2ln
+  NOW: *Even blood relatives of the <Sword
+          Magess> couldn't retake the sword.
+  JP : JP#5280[HIGH]: ＊＜守の<8a71>昔＞の<8a72>勝のものですら / 　抜くことは不可能であった[10][0c]＊大地に<8a86>さりしアガートラームは / 　＜守の<8
+  FIT: <<TODO — <=70 chars, 2 line(s), <=35/line>>
+
+[US#5163] budget=82ch/3ln
+  NOW: *The Argetlahm thrust into
+          stone acts as if it rejects
+          all but the <Sword Magess>.
+  JP : JP#5281[HIGH]: ＊大地に<8a86>さりしアガートラームは / 　＜守の<8a71>昔＞以外を<8a8b>むかのように / 　大地に<8a8c>む[10][0c]＊＜守の<8a
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#5164] budget=99ch/3ln
+  NOW: *The cathedral of the <Sword Magess>
+          had the pedestal enshrined.
+          Even the stone itself was removed.
+  JP : JP#5282[HIGH]: ＊＜守の<8a71>昔＞を<8a8d>りし大<8a71><8a8e>に危<8822>すべく / 　守<8860>となりし活<89cd>ごと / 　大地より切り取
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>
+
+[US#5165] budget=75ch/3ln
+  NOW: *This is land the <Sword Magess>
+          acquired under the direction of
+          Argetlahm.
+  JP : JP#5283[HIGH]: ＊＜守の<8a71>昔＞が / 　アガートラームに<8a91>かれて / 　手にした地[10][0c]＊世界を<8a92>う共<8a7f>を<8a93>うべく 
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#5166] budget=84ch/3ln
+  NOW: *To exorcise the disasters covering
+          the earth, a ray of hope was
+          directed toward us.
+  JP : JP#5284[HIGH]: ＊世界を<8a92>う共<8a7f>を<8a93>うべく / 　<8a94>歩の<89e0>が世界に向かって / 　殺たれた地である[10][0c]＊世界を<8
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#5167] budget=70ch/2ln
+  NOW: *Many worshippers visit here, where
+          the hero who saved Earth was born.
+  JP : JP#5285[HIGH]: ＊世界を<8832>った『姉<8a3d>』<890c>生の地として / 　多くの<8928><8a95>者たちが<8a96>れている[10][0c]＊<8928
+  FIT: <<TODO — <=70 chars, 2 line(s), <=35/line>>
+
+[US#5168] budget=72ch/2ln
+  NOW: *The Argetlahm is publicly displayed
+          a few times a year for worshippers.
+  JP : JP#5286[HIGH]: ＊<8928><8a95>者のために、数に年度 / 　アガートラームが一珍<8a98>開される
+  FIT: <<TODO — <=72 chars, 2 line(s), <=35/line>>
+
+[US#5169] budget=81ch/3ln
+  NOW: *Alone, the <Sword Magess>
+          confronted the Demon. She alone
+          shouldered the burden.
+  JP : JP#5287[HIGH]: ＊<8a9d>一人、魔<8a82>と対<8a9e>し / 　＜守の<8a71>昔＞は / 　一人で険てを<89a3><8a9f>ったのである[10][0c]＊し
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#5170] budget=82ch/3ln
+  NOW: *But the <Sword Magess>
+          wasn't able to destroy the
+          Blazing Demon, only contain it.
+  JP : JP#5288[HIGH]: ＊しかし、<8a81>の魔<8a82>を / 　倒すに<88bd>らなかった＜守の<8a71>昔＞は / 　その命を以て封じた[10][0c]＊＜守の<8a71
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#5171] budget=78ch/3ln
+  NOW: *In exchange for world peace,
+          the <Sword Magess>
+          was offered as a |sacrifice.|
+  JP : JP#5289[HIGH]: ＊＜守の<8a71>昔＞は / 　世界の<8aa0><8aa1>と招き<8864>えに / 　<8a99>げられた『生け<8aa2>』である
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#5172] budget=93ch/3ln
+  NOW: *Even the weapons developed
+          with the lost technology were a
+          cool breeze on the Blazing Demon.
+  JP : JP#5290[HIGH]: ＊ロストテクノロジーを以て / 　作られた幻同<8aa3>でさえ / 　<8a81>の魔<8a82>には<8aa4><89f9>のごとし[10][0c]＊アガー
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#5173] budget=73ch/3ln
+  NOW: *The <Sword Magess>,
+          armed with the Argetlahm,
+          was the entire resistance.
+  JP : JP#5291[HIGH]: ＊アガートラームを<8a40>えし / 　＜守の<8a71>昔＞だけが / 　その対<8aa5>しうる険て[10][0c]＊なぜ、＜守の<8a71>昔＞のみが 
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#5174] budget=105ch/3ln
+  NOW: *It is still a mystery why only the
+          <Sword Magess> was able to battle
+          the Blazing Demon on equal footing.
+  JP : JP#5292[HIGH]: ＊なぜ、＜守の<8a71>昔＞のみが / 　<8a81>の魔<8a82>と対<8a52>に戦えたのか / 　それはいま以て<8aa6>とされている
+  FIT: <<TODO — <=105 chars, 3 line(s), <=35/line>>
+
+[US#5175] budget=48ch/3ln
+  NOW: *He wasn't
+          |destroyed| but was
+          only |contained.|
+  JP : JP#5293[HIGH]: ＊彼のものは / 　『倒された』のではなく / 　『封じられた』ことである[10][0c]＊封<8a84>はいずれ解き殺たれる…[10][0c]＊＜守の<8a7
+  FIT: <<TODO — <=48 chars, 3 line(s), <=35/line>>
+
+[US#5176] budget=36ch/1ln
+  NOW: *The seal will eventually be broken.
+  JP : JP#5294[HIGH]: ＊封<8a84>はいずれ解き殺たれる…[10][0c]＊＜守の<8a71>昔＞亡きファルガイアは / 　<8a81>の魔<8a82>に<8aa7><8aa8>さ
+  FIT: <<TODO — <=36 chars, 1 line(s), <=35/line>>
+
+[US#5177] budget=63ch/2ln
+  NOW: *The Blazing Demon will crush the
+          <Sword Magess>, then Filgaia.
+  JP : JP#5295[HIGH]: ＊＜守の<8a71>昔＞亡きファルガイアは / 　<8a81>の魔<8a82>に<8aa7><8aa8>される[10][0c]＊その封<8a84>がいつ破られる
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5178] budget=43ch/2ln
+  NOW: *No one knows when the seal
+          will be broken.
+  JP : JP#5296[HIGH]: ＊その封<8a84>がいつ破られるかなど / 　何人もしらない[10][0c]＊１００数後か１０００数後 / 　それとも次回か / 　我々に<8aa5>う戦はな
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#5179] budget=84ch/3ln
+  NOW: *Whether it will be 100 years
+          or 1000 years or tomorrow,
+          we have no magic to resist.
+  JP : JP#5297[HIGH]: ＊１００数後か１０００数後 / 　それとも次回か / 　我々に<8aa5>う戦はない
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#5180] budget=42ch/2ln
+  NOW: *The spreading negativity
+          knows no limits.
+  JP : JP#5298[HIGH]: ＊<89da>がる<8a9f>の信情は / 　とどまることを知らず[10][0c]＊ゆえに、<8a85>きることなく / 　『共<8a7f>』は<89da>がり
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#5181] budget=44ch/2ln
+  NOW: *|Disasters| continue to spread
+          without end.
+  JP : JP#5299[HIGH]: ＊ゆえに、<8a85>きることなく / 　『共<8a7f>』は<89da>がり<8a18>ける[10][0c]＊<8a94>歩の<89e0>が<8a9c>さぬ 
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#5182] budget=87ch/3ln
+  NOW: *When a ray of light doesn't
+          shine, beyond  negativity is
+          only a road to |destruction.|
+  JP : JP#5300[HIGH]: ＊<8a94>歩の<89e0>が<8a9c>さぬ / 　<8a9f>の信情のその先には / 　待つは『破滅』への道のみ[10][0c]＊<8aaa>が<888a
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#5183] budget=60ch/2ln
+  NOW: *Know that what strangles you in
+          the end is your negativity.
+  JP : JP#5301[HIGH]: ＊<8aaa>が<888a>を<8aab>めるのは / 　<8a9f>の信情と知れ
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#5184] budget=102ch/3ln
+  NOW: *She wasn't a prominent soldier, nor
+          a knight who'd sworn loyalty to her
+          country. She was just a girl.
+  JP : JP#5302[HIGH]: ＊戦いに<88ea>加した<8aac>指の戦胞でもない / 　<8a43>に<8aad><8aae>を<8aaf>った<8a88>胞でもない / 　ただの<8a
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#5185] budget=67ch/2ln
+  NOW: *That the Argetlahm couldn't be
+          retrieved only deepens the mystery.
+  JP : JP#5303[HIGH]: ＊アガートラームが抜けぬ事実が / 　『選ばれし者』の<8ab0><886e>の<8aa6>を<896e>める[10][0c]＊<8ab1>び、アガートラームを
+  FIT: <<TODO — <=67 chars, 2 line(s), <=35/line>>
+
+[US#5186] budget=83ch/3ln
+  NOW: *When someone who can hold
+          the Argetlahm appears again,
+          the mystery will be solved.
+  JP : JP#5304[HIGH]: ＊<8ab1>び、アガートラームを / 　手にする者が現れたとき / 　その<8aa6>も解けるだろう
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#5187] budget=34ch/2ln
+  NOW: *Nothing lives
+          in the dying earth.
+  JP : JP#5305[HIGH]: ＊生きる者のいない / 　死せる大地へ[10][0c]＊大地は<8a72>に<8a06>く<8ab6>られ / 　<8ab2><8ab7>の<8ab8>が険てを
+  FIT: <<TODO — <=34 chars, 2 line(s), <=35/line>>
+
+[US#5188] budget=103ch/3ln
+  NOW: *The earth is colored red by blood.
+          Flames of the red lotus will burn
+          everything into a world dyed red.
+  JP : JP#5306[HIGH]: ＊大地は<8a72>に<8a06>く<8ab6>られ / 　<8ab2><8ab7>の<8ab8>が険てを<8ab9>き<8a85>くす / 　さながら、<8a
+  FIT: <<TODO — <=103 chars, 3 line(s), <=35/line>>
+
+[US#5189] budget=93ch/3ln
+  NOW: *Not one ray of hope left in the
+          world. What waits is |death,|
+          the journey to the other side.
+  JP : JP#5307[HIGH]: ＊その世界に一帯の<8a94>歩の<89e0>も無し / 　待つは『死』という / 　彼方への<8abb>戻ち[10][0c]＊『<8a94>歩』なきは暗<88
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#5190] budget=104ch/3ln
+  NOW: *Without |hope,| it is a dark world.
+          People's cries echo, dark clouds
+          circle. Souls are locked in grief.
+  JP : JP#5308[HIGH]: ＊『<8a94>歩』なきは暗<888c>の世界 / 　人の<8abc>きが<8abd>き、暗<8abe>戻ちこめ / 　人の心を押に<89cf>ざす
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#5191] budget=46ch/2ln
+  NOW: *The Argetlahm diverts
+          all possible disasters.
+  JP : JP#5309[HIGH]: ＊アガートラームは / 　あらゆる共<8a7f>を<8abf>け[10][0c]＊<888c>き魔協・ルシエドは / 　あらゆる共<8a7f>より / 　<8a
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#5192] budget=78ch/3ln
+  NOW: *The Black Wolf Lucied
+          shields the <Sword Magess>
+          from all possible disasters.
+  JP : JP#5310[HIGH]: ＊<888c>き魔協・ルシエドは / 　あらゆる共<8a7f>より / 　<8a71>昔の身を獲る干となる[10][0c]＊＜守の<8a71>昔＞の戦う<8a6
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#5193] budget=104ch/3ln
+  NOW: *To watch the <Sword Magess> fight
+          is to watch the queen of war. She
+          gives the people a glimmer of hope.
+  JP : JP#5311[HIGH]: ＊＜守の<8a71>昔＞の戦う<8a61> / 　それはまさに、戦の昔<8a82>さながらに / 　人々に<8a94>歩の<89e0>を<8ac2>えたもうた
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#5195] budget=51ch/2ln
+  NOW: You'll be busy enough soon.
+          Have fun while you can.
+  JP : JP#5313[HIGH]: 「どうせ、すぐに<8ac3>しくなるんだ / 　<8ac4>べる時に<8ac4>んでおけよ[10][0c]「後で、『<89bf>みが無い』なんて<8ac5>き言
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#5196] budget=78ch/3ln
+  NOW: But I don't want to hear any
+          complaints later on that
+          |we never get days off.|
+  JP : JP#5314[HIGH]: 「後で、『<89bf>みが無い』なんて<8ac5>き言は / 　聞く<8ac6>持たんからな
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#5197] budget=88ch/3ln
+  NOW: The new reforms go beyond national
+          boundaries to international
+          peace-keeping activities.
+  JP : JP#5315[HIGH]: 「これからの制度費新で / 　やがては<8a43><8a4c>間の底<8aca>を<8acb>えて / 　<8aa0><8aa1><8acc>持友動を行う<88
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#5198] budget=67ch/3ln
+  NOW: We have to make sure that
+          ARMS isn't involved in
+          anything shameful.
+  JP : JP#5316[HIGH]: 「その時のために我々ＡＲＭＳは / 　世に<8acd>ずかしくない / 　友動を<8a18>けていかなくてはな
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#5200] budget=80ch/3ln
+  NOW: More importantly,
+          there's a lot of good food here.
+          Eat and enjoy yourself today.
+  JP : JP#5318[HIGH]: 「そんなことよりも / 　<8ace>いモンがたくさんあるんだ / 　今回は<89fa>しんでおけ[10][0c]「次回からはまた / 　最前<8a4d>だと心
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#5201] budget=42ch/2ln
+  NOW: Remember, tomorrow it's
+          back to the front.
+  JP : JP#5319[HIGH]: 「次回からはまた / 　最前<8a4d>だと心しておけよ
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#5207] budget=44ch/2ln
+  NOW: We're going to blast
+          through the front gate.
+  JP : JP#5325[HIGH]: 「新片ゲートまで / 　<8952>け抜けるぞッ！ || JP#5324[MED]: 
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#5213] budget=78ch/3ln
+  NOW: Tear the others apart
+          and if you're the last one
+          standing, there's no problem.
+  JP : JP#5331[HIGH]: 「他の遠らを招き<8ad2>いて、<8ad3>み<8ad4>いて〜 / 　最後に戻っているのがお前ならば / 　何の誓<8810>も無いではないか
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#5214] budget=60ch/3ln
+  NOW: Besides, that monster
+          was originally human.
+          He was a friend!
+  JP : JP#5332[HIGH]: 「それに、あの怪物は〜 / 　もともとは人間だったんだ〜 / 　俺の<8ad5>間だったんだッ！
+  FIT: <<TODO — <=60 chars, 3 line(s), <=35/line>>
+
+[US#5215] budget=55ch/3ln
+  NOW: All right.
+          Wipe them all out.
+          I will grant you |power.|
+  JP : JP#5333[HIGH]: 「いいだろう〜 / 　それらをすべて<8ad7>えるよう / 　私が『力』を<8ad8>けよう
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#5217] budget=41ch/2ln
+  NOW: Who, who are you?
+          Who speaks in my heart?
+  JP : JP#5335[HIGH]: 「だ、誰なんだ？ / 　俺の心の中に<8a7d>りかけてくるのはッ！
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#5218] budget=64ch/3ln
+  NOW: |I| am |You.|
+          Soon I'll be |me.| It'll be
+          none other than |You.|
+  JP : JP#5336[HIGH]: 「『私』は『お前』〜 / 　もうすぐ『私』になる / 　『お前』にほかならない〜
+  FIT: <<TODO — <=64 chars, 3 line(s), <=35/line>>
+
+[US#5219] budget=14ch/1ln
+  NOW: Sor, Sorry, 2!
+  JP : JP#5337[HIGH]: 「〜〜ご、ごめん、[0a]か〜〜
+  FIT: <<TODO — <=14 chars, 1 line(s), <=35/line>>
+
+[US#5223] budget=17ch/1ln
+  NOW: IS... THIS... ME?
+  JP : JP#5341[HIGH]: 「コレガ、ボク、ナノカ〜
+  FIT: <<TODO — <=17 chars, 1 line(s), <=35/line>>
+
+[US#5224] budget=73ch/3ln
+  NOW: IS IT INEVITABLE THAT MY
+          BODY WILL TURN TO DUST
+          LIKE THAT MONSTER'S BODY?
+  JP : JP#5342[HIGH]: 「サッキノ、カイブツノヨウニ / 　ボクノカラダモ、チリノヨウニ / 　コワレテイクシカナイノカ〜〜[10][0c]「モウ、カエルコトハ、デキナイノカ〜
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#5225] budget=26ch/1ln
+  NOW: WILL I EVER GO HOME AGAIN?
+  JP : JP#5343[HIGH]: 「モウ、カエルコトハ、デキナイノカ〜
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#5229] budget=75ch/3ln
+  NOW: I thought it'd be fine
+          if no one who could use the
+          sword ever showed again.
+  JP : JP#5347[MED]: 「わたしは、この守を手にする人が / 　<8ada>度と現れなければいいと思っていた[10][0c]「こんなにもつらい違いをするのは / 　わたしひとりで<89
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#5230] budget=47ch/2ln
+  NOW: I believed it was enough
+          that I alone suffered.
+  JP : JP#5348[MED]: 「こんなにもつらい違いをするのは / 　わたしひとりで<89ce>分だと〜[10][0c]「もしも〜 / 　あなたが険てを<8adb>け入れる信<8adc>なら
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#5231] budget=51ch/2ln
+  NOW: If you are ready to take
+          responsibility for it all.
+  JP : JP#5349[MED]: 「もしも〜 / 　あなたが険てを<8adb>け入れる信<8adc>なら〜[10][0c]「険てを<8add><8ade>にしてでも / 　<8ad9>重を果たし
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#5232] budget=85ch/3ln
+  NOW: If you're willing to risk all
+          to fulfill your promise, grab
+          the sword, the Argetlahm.
+  JP : JP#5350[MED]: 「険てを<8add><8ade>にしてでも / 　<8ad9>重を果たしたいと思うのなら / 　守を、『アガートラーム』を手にして〜
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#5233] budget=43ch/3ln
+  NOW: But for me,
+          it is a promise
+          I have to keep.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=43 chars, 3 line(s), <=35/line>>
+
+[US#5234] budget=50ch/3ln
+  NOW: 0 Vold Valeria!
+          A man bearing a cross
+          called you!!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=50 chars, 3 line(s), <=35/line>>
+
+[US#5235] budget=72ch/3ln
+  NOW: This bond is the only
+          hope that continues from
+          the past into the future.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#5236] budget=59ch/3ln
+  NOW: In other words,
+          our meeting here on earth
+          is |Fate| itself!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>

@@ -1,0 +1,504 @@
+# WA2 INSERTION workspace US block 34 (US#5481-5563)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5482] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#5611[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5483] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5612[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5484] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#5613[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5485] budget=54ch/2ln
+  NOW: You can't just run off and
+          quit in the middle of this.
+  JP : JP#5614[MED]: 「片中で<88ab>げ出すなんて / 　それはできない
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#5486] budget=66ch/3ln
+  NOW: For 3, now's the time.
+          All I am doing is simply
+          watching over him.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#5487] budget=45ch/2ln
+  NOW: suddenly becomes possible.
+          We stand behind 3.
+  JP : JP#5615[MED]: 「僕はただ / 　それを見<88f8>けてやるだけだ
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#5488] budget=64ch/3ln
+  NOW: it's my decision.
+          But that's not cool,
+          so I'll try not to do it.
+  JP : JP#5616[MED]: 「[05]がには / 　わたしたちがいるからね || JP#5617[MED]: 「でも、それはかっこ悪いから / 　見せたくないな〜
+  FIT: <<TODO — <=64 chars, 3 line(s), <=35/line>>
+
+[US#5489] budget=1ch/1ln
+  NOW: K
+  JP : JP#5618[HIGH]: [01][19]つ
+  FIT: <<TODO — <=1 chars, 1 line(s), <=35/line>>
+
+[US#5490] budget=54ch/3ln
+  NOW: I can't be the only
+          one complaining.
+          That's not right.
+  JP : JP#5619[HIGH]: 「それなのに / 　ボクひとりが<89b9><8a38>をはいちゃ / 　ダメだと思うんだ
+  FIT: <<TODO — <=54 chars, 3 line(s), <=35/line>>
+
+[US#5491] budget=1ch/1ln
+  NOW: K
+  JP : JP#5620[HIGH]: [01][19]つ
+  FIT: <<TODO — <=1 chars, 1 line(s), <=35/line>>
+
+[US#5492] budget=1ch/1ln
+  NOW: x
+  JP : JP#5621[HIGH]: [01][f4][7f][08][10][01]
+  FIT: <<TODO — <=1 chars, 1 line(s), <=35/line>>
+
+[US#5494] budget=51ch/2ln
+  NOW: *The |Heir to the Pillar|
+          will take the test alone.
+  JP : JP#5623[HIGH]: ＊『鍵の後仲者』は、ただ一人にて / 　その試<8a01>を守けるものなり
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#5495] budget=41ch/2ln
+  NOW: This is as far as I
+          am able to guide you.
+  JP : JP#5624[HIGH]: 「わたしが姉参できるのは / 　ここまでです
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#5496] budget=55ch/2ln
+  NOW: So this is the Trial Arena for
+          testing the |Pillar| ...
+  JP : JP#5625[HIGH]: 「『鍵』なる存帰を取り決める / 　試<8a01>場なのか〜
+  FIT: <<TODO — <=55 chars, 2 line(s), <=35/line>>
+
+[US#5497] budget=53ch/2ln
+  NOW: The knights protecting the
+          candidate can go that far.
+  JP : JP#5626[MED]: 「そこまでは / 　<89f8>歩者を<8a40>る戦胞のみなさんも / 　いっしょに行くことができます[10][0c]「でも、『幸』の向こう<89f5>には<
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#5498] budget=39ch/2ln
+  NOW: But, on the other side
+          of the |Wall|...
+  JP : JP#5627[MED]: 「でも、『幸』の向こう<89f5>には<f040><f042>
+  FIT: <<TODO — <=39 chars, 2 line(s), <=35/line>>
+
+[US#5499] budget=89ch/3ln
+  NOW: Just because it's someone you
+          really like, doesn't mean you
+          can be together all the time.
+  JP : JP#5628[HIGH]: 「大兄きな人だからって / 　いつまでもいっしょにいられるとは / 　かぎらないんだよ〜
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#5500] budget=40ch/2ln
+  NOW: You're a guy.
+          You should be more upbeat.
+  JP : JP#5629[HIGH]: 「キミは剣の家なんだから / 　もう少し、元気があってもいいはずだよ[10][0c]「試<8a01>だか何だか知らないけど / 　元気をもらえるものだと思えば 
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#5501] budget=90ch/3ln
+  NOW: I don't know what this test is,
+          but think of it as something
+          positive that gets you ahead.
+  JP : JP#5630[HIGH]: 「試<8a01>だか何だか知らないけど / 　元気をもらえるものだと思えば / 　もうけモンじゃない[10][0c]「でしょッ！
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#5502] budget=6ch/1ln
+  NOW: Right!
+  JP : JP#5631[HIGH]: 「でしょッ！
+  FIT: <<TODO — <=6 chars, 1 line(s), <=35/line>>
+
+[US#5503] budget=23ch/1ln
+  NOW: It's almost like magic.
+  JP : JP#5632[HIGH]: 「まるで、魔法みたいに
+  FIT: <<TODO — <=23 chars, 1 line(s), <=35/line>>
+
+[US#5504] budget=34ch/2ln
+  NOW: Thank you very much.
+          I'm fine now.
+  JP : JP#5633[MED]: 「ありがとうございます / 　もう、だいじょうぶです
+  FIT: <<TODO — <=34 chars, 2 line(s), <=35/line>>
+
+[US#5506] budget=54ch/2ln
+  NOW: When we get back, I'd like
+          you to show me the flowers.
+  JP : JP#5635[HIGH]: 「帰ってきたら / 　お<8a43>来を見せてほしいな〜
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#5507] budget=75ch/3ln
+  NOW: Yes, then I'll be waiting.
+          I'll be waiting right here
+          for you to come back.
+  JP : JP#5636[HIGH]: 「〜うん、じゃあ、わたし待っている / 　[05]がくんが帰ってくるの / 　ここで待っているから
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#5508] budget=9ch/1ln
+  NOW: You know.
+  JP : JP#5637[HIGH]: 「わかるのダ[10][0c]「キミなら心を加わせることができるのダ / 　<89bb>りにつきし『<8a48><8a34>配者』<f040><f042> / 　
+  FIT: <<TODO — <=9 chars, 1 line(s), <=35/line>>
+
+[US#5509] budget=77ch/3ln
+  NOW: You can get your soul to
+          communicate with the
+          sleeping |Old Ruler| Guardians.
+  JP : JP#5638[HIGH]: 「キミなら心を加わせることができるのダ / 　<89bb>りにつきし『<8a48><8a34>配者』<f040><f042> / 　ガーディアンたちと、ね
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#5510] budget=78ch/3ln
+  NOW: You all find it inconvenient
+          when there's no clear name
+          for an existent being.
+  JP : JP#5639[HIGH]: 「キミたちからすれば / 　次確な存帰呼<895b>が無いというのは / 　不仲なものだったのダ
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#5511] budget=77ch/3ln
+  NOW: The sense of |self| is weak.
+          Hmm...I can't explain it well.
+          In other words...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#5512] budget=53ch/3ln
+  NOW: C is C.
+          And at the same time,
+          there's something else.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=53 chars, 3 line(s), <=35/line>>
+
+[US#5513] budget=18ch/1ln
+  NOW: Do you understand?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#5514] budget=102ch/3ln
+  NOW: Because the sense of |self| is weak
+          by taking on other information
+          matrixes, one can copy other forms.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#5515] budget=30ch/2ln
+  NOW: That one
+          is none other than C!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=30 chars, 2 line(s), <=35/line>>
+
+[US#5516] budget=38ch/2ln
+  NOW: Why was the Sub-Spirit
+          waiting for me?
+  JP : JP#5640[MED]: 「『訪』という認<8a4c>が<8a4d>好〜 / 　う<f045>ん、うまく言えないのダ / 　つまり<f040><f042>[10][0c]「[0a]ぜは[
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#5517] budget=61ch/3ln
+  NOW: Come with us, 3.
+          The Guardians want you
+          before it's too late!
+  JP : JP#5641[MED]: 「[0a]ぜは[0a]ぜであり / 　それと同時に / 　単の何かでもあるというわけなのダ[10][0c]「わかったかい？
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#5518] budget=44ch/2ln
+  NOW: When C's power is needed,
+          use 1 to call him.
+  JP : JP#5642[MED]: 「わかったかい？ || JP#5643[MED]: 「『訪』という意<8a4c>レベルが恥いために / 　他の情報マトリクスを取り込むことで / 　その負、簡性をコピーできるという、あの〜
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#5519] budget=53ch/2ln
+  NOW: For places you can't get to,
+          C can search it for you.
+  JP : JP#5644[MED]: 「人呼んで、変身挑<88ea>戦とは / 　[0a]ぜのことなのダッ！
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#5520] budget=85ch/3ln
+  NOW: Last night, I heard from
+          the Village Chief that I'm a Zoa
+          Priest just like my mother.
+  JP : JP#5649[HIGH]: 「<8a55>回の貸 / 　<895a>長さんに聞いたんです / 　ボクも、<8a57>さんと同じゾアプリーストだって[10][0c]「ボクがモンスターをやっつ || JP#5645[MED]: 「その変身挑<88ea>戦が / 　どうしてボクを待っていたんだい
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#5521] budget=83ch/3ln
+  NOW: By defeating monsters, I'm
+          able to extract power from
+          the Medium I'm equipped with.
+  JP : JP#5650[HIGH]: 「ボクがモンスターをやっつけることで / 　望備しているミーディアムから / 　パワーを招き出せるようになるんです[10][0c]「ボクは試<8a01>を果たし
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#5522] budget=79ch/3ln
+  NOW: I want to pass the trial.
+          I want to be strong too!
+          So please, give me a chance.
+  JP : JP#5651[HIGH]: 「ボクは試<8a01>を果たしたい〜 / 　ボクも強くなりたいんですッ！ / 　だから、お願いしますッ！
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#5523] budget=94ch/3ln
+  NOW: I feel like I've been pierced.
+          It feels as if all the wills here
+          on the grounds are gathering.
+  JP : JP#5652[HIGH]: 「〜突き動かされるような信信〜 / 　この試<8a01>場に<8a59>ちている / 　意<8a5a>のようなモノが<8880>まっていくような〜
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#5524] budget=94ch/3ln
+  NOW: Their wills turn into vibrations
+          searching for powerful shapes.
+          This is one of the trials too!
+  JP : JP#5653[HIGH]: 「彼らの意<8a5a>は<88e0>動となって / 　力あるカタチをとろうとしている〜 / 　これも、ひとつの試<8a01>なのダッ！
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#5525] budget=35ch/3ln
+  NOW: But!
+          Watch out.
+          They're testing us.
+  JP : JP#5654[MED]: 「〜でもッ！ / 　気をつけてください / 　ボクたちを試そうとしていますッ！
+  FIT: <<TODO — <=35 chars, 3 line(s), <=35/line>>
+
+[US#5526] budget=94ch/3ln
+  NOW: The old rulers of Filgaia, the
+          first Guardians, had absolutely
+          no power in the physical world.
+  JP : JP#5655[MED]: 「今や、意<8a4c>体を残すのみとなった / 　ファルガイアの<8a48><8a34>配者、ガーディアンは / 　自身の力では実体合することはできないのダ
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#5527] budget=28ch/2ln
+  NOW: Even we were
+          attacked by it!
+  JP : JP#5656[HIGH]: 「わたしたちまで / 　<8a0a>われちゃったのよッ！
+  FIT: <<TODO — <=28 chars, 2 line(s), <=35/line>>
+
+[US#5528] budget=86ch/3ln
+  NOW: ...not only the |Pillar| but
+          also the strength of the
+          knights protecting the |Pillar.|
+  JP : JP#5657[HIGH]: 「『鍵』のみならず / 　『鍵』を<8a40>る / 　戦胞たちの力<886f>もいっしょに〜
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#5529] budget=30ch/2ln
+  NOW: There's a voice
+          calling to me.
+  JP : JP#5658[HIGH]: 「ボクに / 　呼びかけてくる<883f>があります[10][0c]「ボクが『鍵』を守け仲ぐには / 　さらに、この<892a>を / 　めざさなくてはいけない
+  FIT: <<TODO — <=30 chars, 2 line(s), <=35/line>>
+
+[US#5530] budget=74ch/3ln
+  NOW: In order for me to become
+          the |Pillar,| I guess I
+          have to go even further.
+  JP : JP#5659[HIGH]: 「ボクが『鍵』を守け仲ぐには / 　さらに、この<892a>を / 　めざさなくてはいけないみたいです〜
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#5531] budget=34ch/2ln
+  NOW: What waits on the other
+          side is...
+  JP : JP#5660[HIGH]: 「この向こう<89f5>に / 　待ち守けているのが<f040><f042>
+  FIT: <<TODO — <=34 chars, 2 line(s), <=35/line>>
+
+[US#5532] budget=88ch/3ln
+  NOW: The ability to materialize the
+          powers of the Guardians which
+          are now only consciousness.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#5533] budget=51ch/2ln
+  NOW: For your trial, you must get
+          hold of the |Combine.|
+  JP : JP#5661[MED]: 「意<8a4c>体であるガーディアンの力を / 　<8a1b>現合させる能力<f040><f042>[10][0c]「キミは『コンバイン』を / 　試<8a01
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#5534] budget=7ch/1ln
+  NOW: With C.
+  JP : JP#5662[MED]: 「キミは『コンバイン』を / 　試<8a01>の果てに / 　手に入れなければいけないのダ[10][0c]「[0a]ぜといっしょにね || JP#5663[MED]: 「[0a]ぜといっしょにね
+  FIT: <<TODO — <=7 chars, 1 line(s), <=35/line>>
+
+[US#5535] budget=38ch/2ln
+  NOW: 3 and C must be
+          together at all times.
+  JP : JP#5664[MED]: 「[05]がと[0a]ぜは / 　ずっといっしょでなきゃダメなのダ
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#5536] budget=73ch/3ln
+  NOW: The Medium is the petrified
+          version of the Guardian's
+          information matrix.
+  JP : JP#5665[MED]: 「ミーディアムは / 　ガーディアンの情報マトリクスが / 　谷合したもの〜[10][0c]「『コンバイン』には / 　ミーディアムが必要不可欠なのダ
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#5537] budget=51ch/2ln
+  NOW: For the |Combine,| it's
+          essential to have a Medium.
+  JP : JP#5666[MED]: 「『コンバイン』には / 　ミーディアムが必要不可欠なのダ
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#5538] budget=75ch/3ln
+  NOW: So this is the other power
+          concealed in the Medium
+          which mom told me about.
+  JP : JP#5667[MED]: 「ずっと前に<8a57>さんが言ってた / 　ミーディアムに<8a5c>められた / 　もうひとつの力って、これだったんだね〜
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#5539] budget=38ch/2ln
+  NOW: The Medium |Odoryuk| is
+          shining again.
+  JP : JP#5668[HIGH]: 「『オードリューク』のミーディアムが / 　また茶いている〜
+  FIT: <<TODO — <=38 chars, 2 line(s), <=35/line>>
+
+[US#5540] budget=19ch/1ln
+  NOW: You are the |heir.|
+  JP : JP#5669[HIGH]: 「キミは、『後仲者』なのダ
+  FIT: <<TODO — <=19 chars, 1 line(s), <=35/line>>
+
+[US#5541] budget=43ch/2ln
+  NOW: You, designated as |heir,|
+          state your name.
+  JP : JP#5670[HIGH]: 「『後仲者』たりうるものよ〜 / 　守が名を我らに延げよ
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#5542] budget=23ch/2ln
+  NOW: My name is
+          3 Rhymeless!
+  JP : JP#5671[HIGH]: 「ボクの名前は / 　[05]が・ライムレスですッ！
+  FIT: <<TODO — <=23 chars, 2 line(s), <=35/line>>
+
+[US#5543] budget=35ch/2ln
+  NOW: The unending trial
+          has awakened us!
+  JP : JP#5672[HIGH]: 「終なる試<8a01>は / 　我らを呼び信ますことにありッ！
+  FIT: <<TODO — <=35 chars, 2 line(s), <=35/line>>
+
+[US#5544] budget=77ch/3ln
+  NOW: The information matrix of the
+          Medium will let C
+          change into a powerful shape.
+  JP : JP#5673[HIGH]: 「キミが望備しているミーディアムの / 　情報マトリクスを[0a]ぜが / 　カタチあるチカラに<88b0>魂してあげるのダ[10][0c]「使用者のフォースと
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#5545] budget=83ch/3ln
+  NOW: The user's force and C's
+          ability to transform, released
+          together, form a |Combine.|
+  JP : JP#5674[HIGH]: 「使用者のフォースと / 　[0a]ぜの変身能力〜 / 　ひとつに殺つのが『コンバイン』なのダ[10][0c]「まずは、『グルジエフ』など / 　頼撃能力を持つ
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#5546] budget=101ch/3ln
+  NOW: First take the Guardians who have
+          offensive powers like |Grudiev|--
+          and equip them in the GUARD slot.
+  JP : JP#5675[HIGH]: 「まずは、『グルジエフ』など / 　頼撃能力を持つガーディアンを / 　ＧＵＡＲＤに望備するのダ[10][0c]「プーカと[05]がのふたりで / 　『コンバイ
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#5547] budget=86ch/3ln
+  NOW: Pooka and 3 can put
+          in motion a |Combine.| Just leap
+          over any trial that's in the way!
+  JP : JP#5676[HIGH]: 「プーカと[05]がのふたりで / 　『コンバイン』を発動させて / 　戻ちはだかる試<8a01>を<8a6a>ね<8a6b>けるのダッ！
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#5548] budget=61ch/3ln
+  NOW: 3, you cheated death.
+          The proof is here.
+          Thou art the |heir.|
+  JP : JP#5677[HIGH]: 「[05]がよ、死する<8a65>命の者よ〜 / 　友はここにたてられた / 　守こそが『後仲者』〜[10][0c]「我らを解き殺てし、『鍵』たる身よ / 　<
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#5549] budget=82ch/3ln
+  NOW: By releasing us, the |Pillar|
+          becomes an offering proffered
+          soundly, very soundly.
+  JP : JP#5678[HIGH]: 「我らを解き殺てし、『鍵』たる身よ / 　<8842>物となりて、延げられし<89c2>まで / 　いく苦やかに、苦やかに〜[10][0c]「我らは待つ〜 / 
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#5550] budget=27ch/1ln
+  NOW: We await thy next |Pillar.|
+  JP : JP#5679[MED]: 「我らは待つ〜 / 　『鍵』たる身よ〜[10][0c]「ファルガイアの空を姿まんとする / 　<8a71>るべき<8a72>の脅威を復けるため / 　生け基の<
+  FIT: <<TODO — <=27 chars, 1 line(s), <=35/line>>
+
+[US#5551] budget=98ch/3ln
+  NOW: An eclipse will fill Filgaia's sky.
+          Thou wilt stand at the Sacrificial
+          Altar to deter this menace.
+  JP : JP#5680[HIGH]: 「ファルガイアの空を姿まんとする / 　<8a71>るべき<8a72>の脅威を復けるため / 　生け基の<8a74><8a75>に、守の意<8a5a>で戻つこと
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#5552] budget=59ch/3ln
+  NOW: I actually passed the
+          trial, didn't I?!
+          I can't believe it.
+  JP : JP#5681[HIGH]: 「このボクが / 　試<8a01>を果たせたんですねッ！ / 　〜信じられないよ〜
+  FIT: <<TODO — <=59 chars, 3 line(s), <=35/line>>
+
+[US#5553] budget=75ch/3ln
+  NOW: Make no mistake, your power
+          of belief guided reality.
+          You realized |truth.|
+  JP : JP#5682[HIGH]: 「それは、まちがいなく / 　キミの信じる力が遠いた現実 / 　キミが成し<89d8>げた『本当』なのダ
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#5554] budget=6ch/1ln
+  NOW: But...
+  JP : JP#5683[HIGH]: 「でも<f040><f042>[10][0c][17]
+  FIT: <<TODO — <=6 chars, 1 line(s), <=35/line>>
+
+[US#5556] budget=55ch/3ln
+  NOW: It's as if Pooka caught
+          3's excitement.
+          I'm so excited!
+  JP : JP#5685[HIGH]: 「まるで、[05]がのドキドキが / 　プーカにもうつったみたいなのダ / 　すごく、うれしいのダ
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#5557] budget=40ch/2ln
+  NOW: I want the others
+          to feel my excitement!
+  JP : JP#5686[MED]: 「みんなにも / 　ボクのドキドキを / 　<88a6>えてみたいんですッ！
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#5558] budget=33ch/2ln
+  NOW: We were all nervous
+          waiting here.
+  JP : JP#5687[HIGH]: 「待っているこっちは / 　ホント、ドキドキだったんだよ
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#5559] budget=89ch/3ln
+  NOW: But it still doesn't feel real.
+          My pounding heart is the only
+          thing that feels different.
+  JP : JP#5688[HIGH]: 「でも、まだ実信がわかなくて〜 / 　<89e5>がドキドキしていることくらいが / 　変わったことくらいです
+  FIT: <<TODO — <=89 chars, 3 line(s), <=35/line>>
+
+[US#5560] budget=90ch/3ln
+  NOW: Part of the power sustaining
+          Filgaia, the Guardian's power,
+          can be realized through Pooka.
+  JP : JP#5689[HIGH]: 「ファルガイアを<8a34>える力の一字〜 / 　ガーディアンの力を / 　みんなとプーカで<8a1b>現合する力[10][0c]「これが『コンバイン』なのダッ
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#5561] budget=22ch/1ln
+  NOW: This is the |Combine|!
+  JP : JP#5690[HIGH]: 「これが『コンバイン』なのダッ！
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#5562] budget=105ch/3ln
+  NOW: It's a joint effort which, using our
+          force, allows Pooka to duplicate
+          the Guardian's shape and abilities.
+  JP : JP#5691[HIGH]: 「フォースを使って / 　プーカが、ガーディアンの負と能力を / 　コピーする合体ワザなのダ[10][0c]「だから、プーカが / 　いっしょにいない時には /
+  FIT: <<TODO — <=105 chars, 3 line(s), <=35/line>>
+
+[US#5563] budget=78ch/3ln
+  NOW: So, we need to remember that
+          this trick can be used only
+          when Pooka's with us.
+  JP : JP#5692[MED]: 「だから、プーカが / 　いっしょにいない時には / 　使えないことも気をつけてほしいのダ
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>

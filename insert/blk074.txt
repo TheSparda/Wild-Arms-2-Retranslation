@@ -1,0 +1,197 @@
+# WA2 INSERTION workspace US block 74 (US#7269-7302)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7271] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7272] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7273] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7436[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7274] budget=44ch/2ln
+  NOW: I'll do it after I take
+          care of all of this!
+  JP : JP#7437[MED]: 「こいつを / 　片づけてからにするぞッ！
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#7275] budget=87ch/3ln
+  NOW: >The search for explosives found
+          them at the same point as the
+          monsters on the warship.
+  JP : JP#7438[MED]: ＞先ほど押知された幸発物反<8839>ですが / 　<8882>参に出現したモンスターと / 　ほぼ、同じポイントより確認されています[10][0c]＞おそらく
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#7276] budget=78ch/3ln
+  NOW: >It is likely that explosives
+          have been implanted within the
+          monsters' bodies.
+  JP : JP#7445[MED]: ＞来挑、戦戦準備ッ！ / 　相、怪獣同助の生命力を周辺させ / 　<8844>る後、こちらで<8929><8a48>作戦に移行するッ！ || JP#7439[MED]: ＞おそらくは〜 / 　モンスターの体参に幸発物が / 　<89db>め込まれたのではないかとッ！
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#7277] budget=66ch/3ln
+  NOW: >The scanner detects
+          no metal objects within
+          the monsters' bodies.
+  JP : JP#7446[MED]: ＞１つは、幸発の威力そのもの / 　もうひとつは<f040><f042> / 　幸発をコントロールできること[10][0c]＞よくできた幸姉ほど / 　一訪的な
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#7278] budget=94ch/3ln
+  NOW: >Detected in the liquids secreted
+          by the monsters is something like
+          a very volatile explosive.
+  JP : JP#7447[MED]: ＞よくできた幸姉ほど / 　一訪的な認<8a4c>以上に幸発しないものさ
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7279] budget=47ch/2ln
+  NOW: >In other words,
+          the monsters are living bombs.
+  JP : JP#7448[MED]: 「でも、危険なことに変わりがないんだ / 　[0a]ぉ〜 / 　あなたは<8a4d>好してくれ
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7280] budget=58ch/3ln
+  NOW: >But then again,
+          that's what they intended
+          from the start.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=58 chars, 3 line(s), <=35/line>>
+
+[US#7281] budget=96ch/3ln
+  NOW: >Section D52 of the warship
+          is equipped with a lever catapult.
+          We'll use that to shoot them off.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#7282] budget=88ch/3ln
+  NOW: >Prepare for battle! First, tire
+          the monster weapons out. After
+          that we'll capture them.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#7283] budget=84ch/3ln
+  NOW: >First is the power of the explosion
+          itself. The other is controlling
+          the explosion.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#7284] budget=86ch/3ln
+  NOW: >The better made the bomb,
+          the less likely the explosion
+          will be larger than expected.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#7285] budget=52ch/2ln
+  NOW: But it's still dangerous.
+          0, you need to take cover.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#7286] budget=79ch/3ln
+  NOW: >I'm the Chief.
+          As long as you're fighting with us,
+          I can't let you leave here.
+  JP : JP#7449[MED]: ＞わたしも指揮<899d>だ / 　いっしょに戦う以上 / 　ここを離れるわけにはいかない[10][0c]＞貴様らを信じている / 　だから〜 / 　見事、作戦
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#7287] budget=79ch/3ln
+  NOW: >I believe in you all.
+          That's why I want you to
+          accomplish your marvelous plan.
+  JP : JP#7450[MED]: ＞貴様らを信じている / 　だから〜 / 　見事、作戦を<89d8>行してほしいッ！
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#7288] budget=86ch/3ln
+  NOW: Roger! If someone believes
+          in us, it means we'll perform
+          even better than our efforts.
+  JP : JP#7451[MED]: 「<8837>解ッ！ / 　誰かが信じてくれるなら / 　俺たちも実力以上の結果を出せるッ！
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#7289] budget=51ch/2ln
+  NOW: All soldiers, evacuate!
+          EM Cage catapult, stand-by!
+  JP : JP#7452[MED]: 「恥挑離脱ッ！ / 　ＥＭケイジにて / 　キャプチュード、スタンバイッ！
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#7292] budget=81ch/3ln
+  NOW: Now the ship will launch
+          an ambush on the enemy's
+          Gull Wing-class Flying Machine!
+  JP : JP#7455[HIGH]: 「これより本<8882>は / 　相、ガル・ウィング<8872>飛空機艇の / 　<88cc>撃にあたる[10][0c]「[05]ぉ、[05]お / 　[05]
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#7293] budget=70ch/3ln
+  NOW: 0, 1, 2 and
+          3 will storm the plane's
+          interior with the assault anchor.
+  JP : JP#7456[HIGH]: 「[05]ぉ、[05]お / 　[05]か、[05]がらは / 　アサルトアンカーにて相機参字に強<8a0a>[10][0c]「飛空機艇の戦戦機能を / 　<8
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#7294] budget=83ch/3ln
+  NOW: Our central goal is to completely
+          silence the Flying Machine's
+          battle capabilities.
+  JP : JP#7457[HIGH]: 「飛空機艇の戦戦機能を / 　<88ad>険に<898f><8990>させることが / 　本作戦の<88f9>一目<8861>とする
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#7295] budget=76ch/3ln
+  NOW: Currently, our plane and
+          the enemy's plane are flying
+          at 0800 SW of Halmetz.
+  JP : JP#7458[HIGH]: 「現帰、本<8882>と相機は / 　ハルメッツより / 　先東方向０８００地帯を勉行中[10][0c]「すなわち、道のど<8a55>ん中である[10][0c]
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#7296] budget=51ch/2ln
+  NOW: In other words, we're over
+          the middle of the ocean.
+  JP : JP#7459[MED]: 「すなわち、道のど<8a55>ん中である[10][0c]「辺の者の心配は無い / 　何としてでもここで / 　相、ガル・ウィング<8872>飛空機艇を墜とすッ！
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#7297] budget=104ch/3ln
+  NOW: No need to worry for those below.
+          We must destroy the enemy Gull Wing
+          class Flying Machine here and now.
+  JP : JP#7460[MED]: 「辺の者の心配は無い / 　何としてでもここで / 　相、ガル・ウィング<8872>飛空機艇を墜とすッ！[10][0c]「相戦力を貸ぐ<8a57>望の機<89b
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#7298] budget=87ch/3ln
+  NOW: It's a perfect opportunity to
+          destroy the enemy's power.
+          We must win this battle! Over!
+  JP : JP#7461[MED]: 「相戦力を貸ぐ<8a57>望の機<89ba>だ / 　この一戦、必ず<8a59>ち取るッ！ / 　以上だッ！
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#7299] budget=73ch/3ln
+  NOW: Don't be late!
+          Those that blow their chance
+          don't live long on the field!
+  JP : JP#7462[MED]: 「<8a0d>れンなよ / 　自分の出番でしくじるヤツは / 　戦場じゃ長生きできねえぞッ！
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#7300] budget=57ch/2ln
+  NOW: Trigger preparations complete!
+          Good luck with the timing!
+  JP : JP#7463[MED]: 「トリガーの準備できました / 　タイミング、お願いしますッ！
+  FIT: <<TODO — <=57 chars, 2 line(s), <=35/line>>
+
+[US#7301] budget=45ch/2ln
+  NOW: The goal of this mission
+          is to set them free.
+  JP : JP#7464[MED]: 「それらを解殺することが / 　今回の任務の目的である
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>

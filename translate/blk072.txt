@@ -1,0 +1,93 @@
+# WA2 4-col translation doc block 72 (JP#7410-7426)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 11 boxes | OK=2 FAIR=9 SHAKY=0 JP-ONLY=0
+# DRAFT STATUS: 11 boxes | OK=1 FAIR=10 SHAKY=0 JP-ONLY=0
+
+[JP#7411] gaps=0  aln=MED->US#7250  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7412] gaps=2  aln=MED->US#7251  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7413] gaps=0  aln=MED->US#7252  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7415] gaps=0  aln=MED->US#7254  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「何だかわかんないけれど / 　こんなことが起きるんじゃないかって / 　気がしていたんだよッ！
+  2|LIT: <<TODO>>
+  3|EN : @I don't know why, but
+ I had a feeling something
+ like this might happen!
+  4|RE : <<TODO>>
+
+[JP#7419] gaps=4  aln=HIGH->US#7258  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「しかし、奇跡の<892a>には / 　まだ多くの<8a38>間たちがいますッ！ / 　<f040><f042>そんなことをしたら〜〜
+  2|LIT: <<TODO>>
+  3|EN : @But our team is still in
+ the back part of the ruins!
+ If you do that...
+  4|RE : <<TODO>>
+
+[JP#7420] gaps=6  aln=HIGH->US#7259  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「俺だけじゃない / 　闘長だって、ここにいるみんなだって / 　そんなこと誰も助んじゃいないはずです[10][0c]「<f040><f042>心はひとつのはずです[10][0c]「奇跡参に残っている / 　<8a38>間の歩泣を指揮してください / 　俺だって、時間<8a40>ぎくらいはできます[10][0c]「いいえ<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @It's not just me. The Commander
+ and everyone else here doesn't
+ want that to happen.@Our hearts should be one.@Please order those remaining
+ in the ruins to evacuate. Even I
+ can manage to stall for time.@No.
+  4|RE : <<TODO>>
+
+[JP#7421] gaps=6  aln=HIGH->US#7260  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「<f040><f042>心はひとつのはずです[10][0c]「奇跡参に残っている / 　<8a38>間の歩泣を指揮してください / 　俺だって、時間<8a40>ぎくらいはできます[10][0c]「いいえ<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @Our hearts should be one.@Please order those remaining
+ in the ruins to evacuate. Even I
+ can manage to stall for time.@No.
+  4|RE : <<TODO>>
+
+[JP#7422] gaps=4  aln=HIGH->US#7261  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「奇跡参に残っている / 　<8a38>間の歩泣を指揮してください / 　俺だって、時間<8a40>ぎくらいはできます[10][0c]「いいえ<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @Please order those remaining
+ in the ruins to evacuate. Even I
+ can manage to stall for time.@No.
+  4|RE : <<TODO>>
+
+[JP#7423] gaps=2  aln=HIGH->US#7262  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「いいえ<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @No.
+  4|RE : <<TODO>>
+
+[JP#7424] gaps=1  aln=HIGH->US#7263  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : ＊『本体』には、名前が表<893a>されており / 　ここのＨＰを０にすることで / 　ボスキャラクターを倒すことができます[10][0c]＊『兄字級』のＨＰを０にしても / 　ボスキャラクターを倒すことはできませんが / 　その分のＥＸＰやギャラを来得できます
+  2|LIT: <<TODO>>
+  3|EN : *Defeat a Boss character by
+ attacking the Main Body at its
+ name and reducing its HP to 0.*Reducing the HP to 0 for the
+ |Body Parts| won't defeat the Boss
+ but will win EXP and Gella.
+  4|RE : <<TODO>>
+
+[JP#7425] gaps=0  aln=MED->US#7264  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊『兄字級』のＨＰを０にしても / 　ボスキャラクターを倒すことはできませんが / 　その分のＥＸＰやギャラを来得できます
+  2|LIT: <<TODO>>
+  3|EN : *Reducing the HP to 0 for the
+ |Body Parts| won't defeat the Boss
+ but will win EXP and Gella.
+  4|RE : <<TODO>>

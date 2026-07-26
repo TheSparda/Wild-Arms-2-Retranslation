@@ -1,0 +1,114 @@
+# WA2 4-col translation doc block 30 (JP#5475-5496)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 12 boxes | OK=5 FAIR=5 SHAKY=2 JP-ONLY=0
+# DRAFT STATUS: 12 boxes | OK=5 FAIR=4 SHAKY=3 JP-ONLY=0
+
+[JP#5478] gaps=0  aln=HIGH->US#5354  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5479] gaps=2  aln=HIGH->US#5355  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5480] gaps=0  aln=HIGH->US#5356  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5483] gaps=3  aln=MED->US#5359  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=0
+  1|JP : ＊アイテムとして使用することで / 　バイアネットに新たな片押を / 　追<8a38>します[10][0c]＊一奮の確<8a39>で生命仲動を守つ姉撃を / 　相<8a3d>体に対して行います
+  2|LIT: <<TODO>>
+  3|EN : *Its use as an item
+ provides new ammunition
+ for the bayonet.*It'll definitely deliver to
+ the enemy an instant-death attack.
+  4|RE : <<TODO>>
+
+[JP#5484] gaps=2  aln=MED->US#5360  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : ＊一奮の確<8a39>で生命仲動を守つ姉撃を / 　相<8a3d>体に対して行います
+  2|LIT: <<TODO>>
+  3|EN : *It'll definitely deliver to
+ the enemy an instant-death attack.
+  4|RE : <<TODO>>
+
+[JP#5485] gaps=3  aln=MED->US#5361  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : ＊フリーズロッドは[0b]おを助すことで / 　魔力を歩の<8a40>に変えて / 　前方に発兄することができます[10][0c]＊期<8a07>の<8a43>を消すことや / 　簡奮のものを来らせることができます
+  2|LIT: <<TODO>>
+  3|EN : *If you press 1 with the Freeze
+ Rod, your magic will turn to a bolt
+ of ice that can be fired.*You'll be able to extinguish the
+ purple flames and
+ freeze certain objects.
+  4|RE : <<TODO>>
+
+[JP#5486] gaps=2  aln=MED->US#5362  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊期<8a07>の<8a43>を消すことや / 　簡奮のものを来らせることができます
+  2|LIT: <<TODO>>
+  3|EN : *You'll be able to extinguish the
+ purple flames and
+ freeze certain objects.
+  4|RE : <<TODO>>
+
+[JP#5487] gaps=2  aln=HIGH->US#5363  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8a48><8822>のすきまに / 　何か仲まっている〜[10][0c]「こいつを取れば / 　きっと、だいじょうぶだ / 　レバーを動かしてみよう
+  2|LIT: <<TODO>>
+  3|EN : @Something's stuck in a
+ crack between the equipment.@I bet if I take it out,
+ it'll be fine.
+ Let's try the lever.
+  4|RE : <<TODO>>
+
+[JP#5488] gaps=0  aln=HIGH->US#5364  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「こいつを取れば / 　きっと、だいじょうぶだ / 　レバーを動かしてみよう
+  2|LIT: <<TODO>>
+  3|EN : @I bet if I take it out,
+ it'll be fine.
+ Let's try the lever.
+  4|RE : <<TODO>>
+
+[JP#5489] gaps=5  aln=HIGH->US#5365  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「キラキラしていて / 　<89e0>に訪かすと / 　向こう<89f5>が<8a4c><8a07>に<8a4d>いて見える〜[10][0c]「[0a]か〜 / 　こういうの好きだったな
+  2|LIT: <<TODO>>
+  3|EN : @It's sparkling. If passed
+ through a light, it'll reflect 7
+ colors on the other side.@ 2
+ liked stuff like this.
+  4|RE : <<TODO>>
+
+[JP#5490] gaps=0  aln=HIGH->US#5366  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[0a]か〜 / 　こういうの好きだったな
+  2|LIT: <<TODO>>
+  3|EN : @ 2
+ liked stuff like this.
+  4|RE : <<TODO>>
+
+[JP#5495] gaps=58  aln=MED->US#5372  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : [13][10][0a][14][10] / [10][10][0a][11][10] /  / [10][0b][0e][05][0f][0e][fb][0e] / [fb][0c][15][05][0b][15][05][0c] / [fb][0b] / [05][09][0e][fb][0a] / [fb][0a][14][05][09][13][04][05][fe][fc][05][0c]<eef9>[fe]<efff> / <eef9>[1d]<efff>[1d]<f006>[fe]<f007>[0c]<f007>[1c]<f006>[1b][12][f9][1e][11][ff][1c][12][f9][0c][11][ff][fd][10][07][1b][10][06][1c][10][06][0c][10][07][fe]<efff><eeee>[f9]<ecf0>[06]<eef0>[07]<ef12>[f9]<ec11>[ff]<ee10>[06]<ef10>[07]<ee0f>[ff]<ec11>[f9]<eb0f>[06]<ed0e>[07]<edfc>[06][1d][04][07][1d][0e][06][1d][0f][07][1d][fc][f9][1f][05][ff][1e][10][ff][1e][10][f9][1f]<f0f9><ebf0>[ff]<ecf1>[07]<edf2>[06]<edf2>[07][1d][f1][06][1d]<eff9>[1f][f1][ff][1e][05][f1][1d][fb][f2][1d]<f0f1> / <f0f2>[fd][10][f1][fd][10][f2] / [11]<f0fd>[12]<f00d>[11]<f0eb>[12]<f0ec>[05]<f01f>[fb]<f01e>[11]<f01e>[12]<f01f>[11][f2]<ea12>[f1]<ea05>[f2] [fb][f1] [11][f1] [12][f2] <eef0> / <eff0>[fd]<eff0><ecee><f0eb><eff0>[1f]<eef0>[1e]<eff1><eaee>[f2]<eaef>[f2] <eef1> <edf1>[fd]<edf2> / <edf2><eced>[f1]<eb13>[f2][fd][13][f1] / [13][f1]<ec13>[f2]<ebed>[f1][1e]<edf2>[1f][13][f2][1f][13][f1][1e]
+  2|LIT: <<TODO>>
+  3|EN :  
+ 
+
+�
+�
+�
+	� 
+� 	�������
+����������������������������������������������������������������
+������
+���
+�������������� �� � � ��
+��������������������� �� �����
+���������
+����������
+  4|RE : <<TODO>>

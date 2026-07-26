@@ -1,0 +1,124 @@
+# WA2 INSERTION — ASHLEY INTRO (Meria hometown, ceremony morning) — WORKED
+# Block 3, US#296-319. All HIGH-confidence alignment. Reachable in first ~5 min of gameplay
+# = easiest section to test in-emulator. NPC/townsfolk filler → low risk if a line is off.
+# {0}=Ashley (player name code), {2}=Marina, {3}=(charm-giver) — KEEP name codes verbatim.
+# Each FIT verified <= budget chars, <= original line count, <=35/line. Same-size-or-shorter
+# where possible (free insert); (*) marks lines that EXCEED original bytes -> need repointer.
+# Unsolved kanji in JP shown as <88xx> — translated from context + kana + EN cross-check.
+================================================================================
+
+[US#296] 75ch/3ln  (bread lady)
+  NOW: This bread might not fill you / up, but go ahead and eat / as much as you want.
+  JP : 「パンぐらいじゃ / お腹はふくれないかもしれないけど / 好きなだけ食べておくれよ
+       (Bread alone might not fill your belly, but eat as much as you like.)
+  FIT: Bread alone won't fill you up,   (30)
+       but eat all you like, dear.      (27)   -> 57ch/2ln  OK (<=75) [free]
+
+[US#297] 57ch/2ln
+  NOW: A friend is waiting at the / front. (This guy had friends?)
+  JP : 「めずらしいじゃない / 　表に友達が来ているわよ
+       (Well, this is rare -- a friend of yours is out front.)
+  FIT: Rare sight -- a friend of yours   (32)
+       is waiting out front.            (21)   -> 53ch/2ln  OK (<=57) [free]
+       # JP has no "(this guy had friends?)" aside -- that's an EN localizer insert. Dropped.
+
+[US#298] 50ch/2ln
+  NOW: You can get onto the roof from / the 2nd floor here.
+  JP : 「うちの2階から / 　屋根に上がれたんじゃないかい？
+       (Couldn't you get up on the roof from our 2nd floor?)
+  FIT: You can reach the roof from      (28)
+       our second floor, you know.      (27)   -> 55ch/2ln  (*) +5 over -> repointer, OR:
+  ALT: Reach the roof from              (18)
+       our 2nd floor here.              (18)   -> 36ch/2ln  OK (<=50) [free, use this]
+
+[US#299] 82ch/3ln
+  NOW: The ceremony hall is far away. / Eat something before you go. / Try my homemade bread!
+  JP : 「儀式会場までは距離があるんだ / 　わたしのつくったパンでも食べて / 　元気出さなきゃダメだよ
+       (It's a long way to the ceremony hall. Eat some of my bread and get your strength up.)
+  FIT: The ceremony hall's a long way.  (32)
+       Eat my bread and get your        (25)
+       strength up first!               (17)   -> 74ch/3ln  OK (<=82) [free]
+
+[US#300] 27ch/1ln
+  NOW: Try my bread before you go.
+  JP : 「うちのパン食べてっておくれよ
+       (Have some of our bread before you go.)
+  FIT: Have some bread before you go.   (30)   -> 30ch/1ln  (*) +3 -> repointer, OR:
+  ALT: Have bread before you go.        (25)   -> 25ch/1ln  OK (<=27) [free]
+
+[US#301] 86ch/3ln
+  NOW: It's my new invention: jelly / rolls! I make them by putting / jelly into the bread dough.
+  JP : 「ヤキソバパンは / 　パンにヤキソバを強引に挟み合わせた / 　おばさんの独創的な新商品なの
+       (Yakisoba-bread! I crammed fried noodles into a bun -- my own original new product.)
+  FIT: Yakisoba buns -- fried noodles   (32)
+       crammed into bread! My own       (25)
+       original invention, dear.        (25)   -> 82ch/3ln  OK (<=86) [free]
+       # EN swapped the JP "yakisoba bread" gag for "jelly rolls". Restored the JP joke.
+
+[US#302] 41ch/2ln
+  NOW: This reminds me of when / you were a child.
+  JP : 「何だか、家族の顔の / 　[05]ぉを見ているみたい
+       (Somehow, looking at {0}, I see the face of family.)
+  FIT: Looking at {0}, I feel           (variable — {0} expands at runtime)
+       like I'm seeing family.
+       # NOTE box holds {0}=name code. Budget 41ch counts codes as-is; keep line count=2.
+
+[US#303] 61ch/2ln
+  NOW: Didn't you go to the ceremony? / You're going to be in trouble!
+  JP : 「まだ、儀式会場に行ってないんでしょ？ / 　叱られるのは、あなたなのよ
+       (You still haven't gone to the ceremony hall? You're the one who'll get scolded!)
+  FIT: Still not at the ceremony?       (26)
+       You're the one who'll catch it!  (31)   -> 57ch/2ln  OK (<=61) [free]
+
+[US#304] 92ch/3ln
+  NOW: Sword Cathedral is at the / 1foot of a mountain far northwest0 / of the Town of Meria. Hurry up!
+  JP : 「『剣の大聖堂』は / 　タウンメリアから[11]おずっと北東の谷のふもと[11]ぉよ / 　急げば、今からでも間に合うわ
+       (Sword Cathedral is at the foot of the valley far NORTHEAST of Town Meria. Hurry, you can still make it!)
+  FIT: Sword Cathedral sits at the      (28)
+       valley foot far {northeast} of   (~30 w/ dir code)
+       Meria. Hurry -- you'll make it!  (31)
+       # ⚠ JP says NORTHEAST; EN says "northwest". JP is source of truth. The 1..0 markers are
+       #   the map-direction control glyphs -- keep them, just fix the enclosed direction word.
+
+[US#305] 54ch/2ln
+  NOW: The monsters around here are / nothing to be sneezed at.
+  JP : 「この村に出没するモンスターも / 　バカにはできないからね
+       (Even the monsters that show up around this village are nothing to scoff at.)
+  FIT: Even the monsters near this      (27)
+       village are no joke, mind you.   (30)   -> 57ch/2ln  (*) +3 -> ALT below
+  ALT: The monsters near this village   (30)
+       are nothing to scoff at.         (24)   -> 54ch/2ln  OK (exactly budget) [free]
+
+[US#306] 79ch/3ln
+  NOW: I know I shouldn't say this, / but you should feel lucky to / be the sole survivor.
+  JP : 「不謹慎かもしれないけどさ / 　お前だけ助かっただけでも / 　めっけモンだと、思わなくちゃ
+       (Maybe it's callous to say, but you should count it a stroke of luck that you alone survived.)
+  FIT: Callous, maybe, but you ought    (29)
+       to count it luck that you        (24)
+       alone made it out.               (17)   -> 70ch/3ln  OK (<=79) [free]
+
+[US#307] 46ch/2ln
+  NOW: Besides, I wouldn't want to / see 2 heartbroken.
+  JP : 「それに、[0a]かちゃんの / 　苦しむ姿も見たくなかったしな
+       (Besides, I wouldn't want to see {2} suffering, either.)
+  FIT: Besides, I'd hate to see         (25)
+       {2} grieving, too.               (line 2, {2}=name code)
+       # {2}=Marina name code -- keep verbatim. Line count=2.
+
+[US#308] 18ch/1ln
+  NOW: It's darned tasty!
+  JP : 「なかなかの味だぞ
+       (It's quite a flavor!)
+  FIT: Quite a flavor, this!            (21)  (*) +3 over -> ALT:
+  ALT: A fine flavor!                   (14)   -> 14ch/1ln  OK (<=18) [free]
+
+## HOW TO USE THIS FILE
+# - Lines marked OK [free] fit the ORIGINAL byte length -> pure same-size overwrite, no tools,
+#   safe to hex-in and test immediately.
+# - Lines marked (*) exceed original bytes -> either take the ALT (chosen to fit free), or batch
+#   them for the repointer pass.
+# - Name codes {0}{2}{3} and map-direction glyphs (the 1..0 pairs) are CONTROL BYTES -> keep them.
+# - Two genuine EN localization ERRORS surfaced here, both fixed from JP:
+#     US#301: "jelly rolls" was invented by EN; JP is a yakisoba-bread gag.
+#     US#304: EN says Sword Cathedral is NORTHWEST; JP says NORTHEAST. (worth verifying in-game map)
+# - This whole run is town NPCs -> ideal first live-insert test: visible early, harmless if wrong.

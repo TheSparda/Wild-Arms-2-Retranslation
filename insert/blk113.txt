@@ -1,0 +1,330 @@
+# WA2 INSERTION workspace US block 113 (US#8161-8212)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#8162] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#8321[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#8163] budget=90ch/3ln
+  NOW: You ask who I am? That's harsh
+          after we've been together
+          for so long and even fought, too.
+  JP : JP#8322[HIGH]: 「誰だとは、ひどいな / 　私たちは<8a34>にあり / 　戦ってきた泣ではないか…
+  FIT: <<TODO — <=90 chars, 3 line(s), <=35/line>>
+
+[US#8164] budget=20ch/1ln
+  NOW: I owe you my thanks.
+  JP : JP#8323[HIGH]: 「お前には信助している[10][0c]「事歩の地<8a40>に封じられていた私が / 　お前の体参に周魔できたのは / 　兄期というべきかな[10][0c]「戦
+  FIT: <<TODO — <=20 chars, 1 line(s), <=35/line>>
+
+[US#8165] budget=93ch/3ln
+  NOW: It was my good fortune to live
+          inside your body after being
+          trapped behind the Event Horizon.
+  JP : JP#8324[HIGH]: 「事歩の地<8a40>に封じられていた私が / 　お前の体参に周魔できたのは / 　兄期というべきかな[10][0c]「戦いの中で生きるお前の中で<8a43>生
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#8166] budget=92ch/3ln
+  NOW: The negative feelings that grew
+          inside you during battles are now
+          the food that sustains me.
+  JP : JP#8325[HIGH]: 「戦いの中で生きるお前の中で<8a43>生えた / 　来の信情が / 　今こうして、私を挑える戦となっているのだ
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#8167] budget=75ch/3ln
+  NOW: Swirling inside all humans
+          are the most unsightly
+          and strong energy forces.
+  JP : JP#8326[HIGH]: 「人間の参にこそ / 　もっとも仲く、そして強いエネルギーが / 　うずまいているのだ…[10][0c]「この戦いの中で見てきただろう？ / 　お前自身の目で見
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#8168] budget=94ch/3ln
+  NOW: In your battles you've seen the
+          true nature of people and it's
+          that negativity that I feed on.
+  JP : JP#8327[HIGH]: 「この戦いの中で見てきただろう？ / 　お前自身の目で見てきた人間の間… / 　あれこそが私の戦なのだ[10][0c]「…そうだな、お前には / 　私が世界を訪
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#8169] budget=70ch/3ln
+  NOW: I'll give you the honor of
+          witnessing the world
+          burning into oblivion.
+  JP : JP#8328[HIGH]: 「…そうだな、お前には / 　私が世界を訪き<8a4c>くすまでを / 　見<88f8>ける<8a4d>好を恥えよう…
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#8170] budget=69ch/3ln
+  NOW: But don't say you forgot
+          that you weren't able to
+          draw the Argetlahm.
+  JP : JP#8329[MED]: 「だが、忘れたとは言わせぬぞ / 　お前は、アガートラームを / 　抜くことができなかった……[10][0c]「そう、お前が倒さんとしている / 　この私の力を
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#8171] budget=92ch/3ln
+  NOW: Once you had my strength,
+          the strength you tried to destroy,
+          then you finally got the sword.
+  JP : JP#8330[HIGH]: 「そう、お前が倒さんとしている / 　この私の力を持って / 　ようやく手にすることができたのだ[10][0c]「私がお前の身体より解き殺たれた今 / 　ただの
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#8172] budget=84ch/3ln
+  NOW: Now that I'm free of your
+          body, you're only a mere human.
+          You cannot draw Argetlahm.
+  JP : JP#8331[HIGH]: 「私がお前の身体より解き殺たれた今 / 　ただのニンゲンに / 　アガートラームを抜くことはかなわぬわッ！[10][0c]「アガートラームは / 　『勉の<8a
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#8173] budget=60ch/2ln
+  NOW: Argetlahm is meant to be wielded
+          by the |Hero of the Sword.|
+  JP : JP#8332[HIGH]: 「アガートラームは / 　『勉の<8a55>貸』によって<8a57>るわれるもの[10][0c]「『<8a55>貸』のいない時代を望けッ！ / 　そして、為すす
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#8174] budget=92ch/3ln
+  NOW: Lament the era of no |heroes!|
+          And live in fear of the future
+          that will burn to smithereens.
+  JP : JP#8333[HIGH]: 「『<8a55>貸』のいない時代を望けッ！ / 　そして、為すすべもなく訪き<8a4c>くされる / 　お前たちの未<8a59>に<889c><8a5a>するが
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#8175] budget=78ch/3ln
+  NOW: ...is not such a puny world
+          that it's sustained by
+          the power of only a |hero.|
+  JP : JP#8335[MED]: 「たくさんの命が生きて / 　同じ年の違いが行き<88fa>う世界… / 　だから…[10][0c]「世界を挑える力は / 　ファルガイアに生きる / 　すべて || JP#8334[MED]: 「『<8a55>貸』なんかの力で挑えられるほど / 　ちっぽけなものじゃないんだ[10][0c]「たくさんの命が生きて / 　同じ年の違いが行き<88fa>う世
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#8176] budget=92ch/3ln
+  NOW: This world is full of the
+          interactions and exchanges of the
+          people and their thoughts, so...
+  JP : JP#8336[MED]: 「世界を挑える力は / 　ファルガイアに生きる / 　すべての命の力にほかならないッ！
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#8177] budget=86ch/3ln
+  NOW: ...the power that sustains
+          the universe exists in Filgaia.
+          It's the power of all life!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#8178] budget=66ch/3ln
+  NOW: No. No. Not |without| heroes,
+          but an era that doesn't
+          need heroes.
+  JP : JP#8337[MED]: 「違う、違うんだよ… / 　『いない』のではなく、『いらない』んだ[10][0c]「『<8a55>貸』なんていらないッ！！！[10][0c]「そんなものによって
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#8179] budget=26ch/1ln
+  NOW: We don't need a |hero|!!!!
+  JP : JP#8338[HIGH]: 「『<8a55>貸』なんていらないッ！！！[10][0c]「そんなものによって茶られる世界になんて / 　飛<8875>などありはしないんだ…[10][0c]「
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#8180] budget=53ch/2ln
+  NOW: There's no value in a world
+          protected by such things.
+  JP : JP#8339[HIGH]: 「そんなものによって茶られる世界になんて / 　飛<8875>などありはしないんだ…[10][0c]「誰もが心をひとつにして / 　戻ち上がることができたなら 
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#8181] budget=69ch/3ln
+  NOW: If everyone's hearts become
+          one, then we can rise and
+          stand together.
+  JP : JP#8340[HIGH]: 「誰もが心をひとつにして / 　戻ち上がることができたなら / 　そう<f040><f042>[10][0c]「『<8a55>貸』なんて生け限にすがらなくても 
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#8182] budget=75ch/3ln
+  NOW: We can support the world
+          without sacrificing a |hero.|
+          Miracles can happen!
+  JP : JP#8341[HIGH]: 「『<8a55>貸』なんて生け限にすがらなくても / 　世界を挑えていけるッ！ / 　跡跡だって起こすことができるッ！！[10][0c]「もう守度と / 　[0
+  FIT: <<TODO — <=75 chars, 3 line(s), <=35/line>>
+
+[US#8183] budget=42ch/2ln
+  NOW: We can never make the same
+          mistake 0 made.
+  JP : JP#8342[MED]: 「もう守度と / 　[0a]ぉのような間違いは / 　おかしちゃならないんだッ！
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#8186] budget=44ch/2ln
+  NOW: The Argetlahm isn't a
+          weapon to bury demons.
+  JP : JP#8345[MED]: 「『アガートラーム』は / 　<89d9><8a61>を延るための同乗なんかではないわ[10][0c]「生きようとする命の力を重ねて / 　未<8a59>への<
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#8187] budget=92ch/3ln
+  NOW: By gathering the will to live into
+          power, it becomes the key to
+          open the door to the future.
+  JP : JP#8346[MED]: 「生きようとする命の力を重ねて / 　未<8a59>への<8a23>を開く<8a64>なのよ[10][0c]「ひとりで<8a57>るう力ではないわ / 　みんな
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#8188] budget=82ch/3ln
+  NOW: It's not a power to be
+          wielded alone. It's a power for
+          everyone to wield together.
+  JP : JP#8347[HIGH]: 「ひとりで<8a57>るう力ではないわ / 　みんなで〜 / 　みんな、いっしょに<8a57>るう力なの
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#8189] budget=65ch/3ln
+  NOW: If it won't arrive when
+          I pray alone, we'll pray
+          together as one.
+  JP : JP#8348[HIGH]: 「わたしひとりで<88f8>かないのなら / 　みんなの<8a65>りを / 　ひとつにします[10][0c]「みんな、みんな〜 / 　この星で生まれて / 　
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#8190] budget=57ch/3ln
+  NOW: Everyone, everyone was
+          born on this star, and lived
+          here.
+  JP : JP#8349[HIGH]: 「みんな、みんな〜 / 　この星で生まれて / 　生きていきたいんです〜
+  FIT: <<TODO — <=57 chars, 3 line(s), <=35/line>>
+
+[US#8191] budget=78ch/3ln
+  NOW: Only when you're alive
+          do you get to fall in love or
+          get to fight with others.
+  JP : JP#8350[HIGH]: 「誰かを男きになることも / 　ケンカすることも / 　生きていなければ始まらないんです[10][0c]「今回、命の<8a67>きが / 　未<8a59>の始ま
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#8192] budget=86ch/3ln
+  NOW: If tomorrow comes because
+          today's life light starts
+          the creation of the future then...
+  JP : JP#8351[HIGH]: 「今回、命の<8a67>きが / 　未<8a59>の始まりを魂り<8a18>けることで / 　次回がやって<8a59>るのなら<f040><f042>[10][
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#8193] budget=72ch/3ln
+  NOW: ...this light should be
+          delivered to those battling
+          at the end of today!
+  JP : JP#8352[HIGH]: 「この<8a67>きを / 　今回の果てで戦っている人に / 　<88f8>けたいんですッ！
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#8194] budget=64ch/3ln
+  NOW: Right now, all the souls in
+          Filgaia are trying
+          to join together!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 3 line(s), <=35/line>>
+
+[US#8195] budget=58ch/3ln
+  NOW: It's stopping
+          all life from fighting
+          simply to keep alive.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=58 chars, 3 line(s), <=35/line>>
+
+[US#8196] budget=64ch/3ln
+  NOW: We are not powerless!
+          We have the strength
+          of our united hearts.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=64 chars, 3 line(s), <=35/line>>
+
+[US#8197] budget=62ch/3ln
+  NOW: Take this power and
+          throw it against the wars
+          confronting you!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#8198] budget=29ch/1ln
+  NOW: That's why we must fight too!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=29 chars, 1 line(s), <=35/line>>
+
+[US#8199] budget=49ch/2ln
+  NOW: We don't need to be protected
+          by someone special.
+  JP : JP#8353[MED]: 「今、ファルガイアのすべての心が / 　ひとつに頼がろうとしているのをッ！[10][0c]「すべての命が / 　生きていくために戦っていることを / 　しっかり
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#8200] budget=72ch/3ln
+  NOW: Because it's important,
+          so very important, we must
+          protect it ourselves.
+  JP : JP#8354[MED]: 「すべての命が / 　生きていくために戦っていることを / 　しっかりと<8a5c>け止めています[10][0c]「わたしたちは無力ではありませんッ！ / 　心
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#8201] budget=81ch/3ln
+  NOW: If someone has to be the |hero,|
+          then anyone should be able
+          to become the |hero.|
+  JP : JP#8355[MED]: 「わたしたちは無力ではありませんッ！ / 　心を頼げる強さを持っています[10][0c]「強さを重ねて / 　あなたの見つめる戦緊の向こうに / 　すべてぶつけ
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#8202] budget=87ch/3ln
+  NOW: The prayers must have
+          reached them, right? Everyone
+          is fighting to protect Filgaia now.
+  JP : JP#8356[MED]: 「強さを重ねて / 　あなたの見つめる戦緊の向こうに / 　すべてぶつけますッ！
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#8203] budget=72ch/3ln
+  NOW: Because it's so important,
+          we're going to protect it
+          with our own hands.
+  JP : JP#8359[MED]: 「大切だから〜 / 　本当に、すごく大切だから / 　自分の手で茶りたいの[10][0c]「誰かが『<8a55>貸』になるのなら / 　誰もが『<8a55>貸』 || JP#8357[MED]: 「だから、わたしたちも / 　いっしょに戦うのッ！[10][0c]「簡単な誰かに茶ってもらうんじゃない[10][0c]「大切だから〜 / 　本当に、すごく大切だ
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#8204] budget=91ch/3ln
+  NOW: I'm not sure we can handle it
+          on our own, so if we get into
+          trouble, help us out, Dude. OK?
+  JP : JP#8363[HIGH]: 「ん<f040><f042>、そうだな〜 / 　うまくできないかもしれないから / 　その時は、あんちゃん手<88a6>ってくれよな[10][0c]「あんちゃん || JP#8360[MED]: 「誰かが『<8a55>貸』になるのなら / 　誰もが『<8a55>貸』になれるはず[10][0c]「<88f8>いているわよね？ / 　今、誰もがファルガイアを
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#8205] budget=70ch/3ln
+  NOW: When you get into a bind,
+          the Young ARMS
+          could help you out in return.
+  JP : JP#8364[HIGH]: 「あんちゃんが<8a6b>った時は / 　少数ＡＲＭＳが / 　何とかしてやるからよ[10][0c]「ファルガイアが大男きなのは / 　みんな同じなんだよッ！
+  FIT: <<TODO — <=70 chars, 3 line(s), <=35/line>>
+
+[US#8206] budget=40ch/2ln
+  NOW: We like Filgaia just like
+          everyone else!
+  JP : JP#8365[HIGH]: 「ファルガイアが大男きなのは / 　みんな同じなんだよッ！
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#8207] budget=42ch/2ln
+  NOW: This world, the life we live,
+          and 0 all...
+  JP : JP#8366[HIGH]: 「この世界も、生きる命も / 　[05]ぉも〜[10][0c]「勇回より今回が大男き / 　今回よりも、まだ知らない次回は / 　もっと男きになれる[10][0
+  FIT: <<TODO — <=42 chars, 2 line(s), <=35/line>>
+
+[US#8208] budget=78ch/3ln
+  NOW: I like today better than
+          yesterday, and I like the
+          unknown tomorrow even more.
+  JP : JP#8367[HIGH]: 「勇回より今回が大男き / 　今回よりも、まだ知らない次回は / 　もっと男きになれる[10][0c]「みんなでいっしょに / 　次回に行こうね[10][0c]
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#8209] budget=40ch/2ln
+  NOW: Let's all head off to
+          tomorrow together.
+  JP : JP#8368[HIGH]: 「みんなでいっしょに / 　次回に行こうね[10][0c]「みんなでいっしょに<f040><f042>
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#8210] budget=20ch/1ln
+  NOW: Everyone together...
+  JP : JP#8369[HIGH]: 「みんなでいっしょに<f040><f042>
+  FIT: <<TODO — <=20 chars, 1 line(s), <=35/line>>
+
+[US#8211] budget=49ch/3ln
+  NOW: Everyone here and
+          everyone waiting for us,
+          and...
+  JP : JP#8370[HIGH]: 「ここにいるみんなと / 　俺たちを待っているみんな / 　そして〜
+  FIT: <<TODO — <=49 chars, 3 line(s), <=35/line>>
+
+[US#8212] budget=58ch/3ln
+  NOW: Don't hassle me.
+          I refuse to ever do such
+          unsuitable work!
+  JP : JP#8371[LOW]: 「わらわにメンドーかけさせるでない / 　わりの合わない仕事は / 　金友<89d2>、おことわりじゃッ！ || JP#8372[LOW]: 
+  FIT: <<TODO — <=58 chars, 3 line(s), <=35/line>>

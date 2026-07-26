@@ -1,0 +1,281 @@
+# WA2 INSERTION workspace US block 19 (US#4593-4647)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#4595] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#4699[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#4596] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#4700[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4597] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#4701[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#4605] budget=47ch/3ln
+  NOW: *Will you straighten the picture?
+          1. Yes
+          2. No2
+  JP : JP#4709[HIGH]: ＊幸<8a34>のズレをなおしますか？ / １．はい / ２．いいえ[1a]か
+  FIT: <<TODO — <=47 chars, 3 line(s), <=35/line>>
+
+[US#4606] budget=47ch/3ln
+  NOW: *Do you want to press the switch?
+          1. Yes
+          2. No2
+  JP : JP#4710[HIGH]: ＊スイッチを押してみますか？ / １．はい / ２．いいえ[1a]か
+  FIT: <<TODO — <=47 chars, 3 line(s), <=35/line>>
+
+[US#4607] budget=47ch/3ln
+  NOW: *Do you want to press the switch?
+          1. Yes
+          2. No2
+  JP : JP#4711[HIGH]: ＊スイッチを押しますか？ / １．はい / ２．いいえ[1a]か
+  FIT: <<TODO — <=47 chars, 3 line(s), <=35/line>>
+
+[US#4608] budget=73ch/3ln
+  NOW: *These relics include several
+          Super Weapons created
+          with lost technology.
+  JP : JP#4712[HIGH]: ＊その出守<892e>の中には / 　ロストテクノロジーで作られた / 　幻同歩も年帯<8a40>まれていた[10][0c]＊それらの幻同歩を手にしたことで /
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#4609] budget=86ch/3ln
+  NOW: *These Super Weapons accelerated
+          Slayheim's transformation into a
+          military superpower.
+  JP : JP#4713[HIGH]: ＊それらの幻同歩を手にしたことで / 　スレイハイムの<8a39>事仲兄合に / 　期<8a04>度を<8a43>していくこととなったのだ[10][0c]＊他仲
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#4610] budget=96ch/3ln
+  NOW: *Although never used against
+          another nation, the Super Weapons
+          were a more-than-adequate threat.
+  JP : JP#4714[HIGH]: ＊他仲に対し / 　その幻同歩を使うことはなかったものの / 　世界の脅威になるには<89ce>分すぎた[10][0c]＊人は、強き力を手に入れることで / 　
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#4611] budget=91ch/3ln
+  NOW: *Newly acquired strength often
+          leads a person astray. The same
+          applies to nations, as well.
+  JP : JP#4715[HIGH]: ＊人は、強き力を手に入れることで / 　道を来ることもある / 　仲においても同方なのだ[10][0c]＊過ぎた力を手に入れたスレイハイムは / 　滅びに向かう
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#4612] budget=97ch/3ln
+  NOW: *It was the excessive strength it
+          acquired that led the nation of
+          Slayheim down the road to ruin.
+  JP : JP#4716[HIGH]: ＊過ぎた力を手に入れたスレイハイムは / 　滅びに向かう道を / 　挑み始めていたといえるだろう
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#4613] budget=92ch/3ln
+  NOW: *Distressed at this turn of events,
+          a nobleman in Slayheim, Sir
+          Iscariot, proposed a treaty.
+  JP : JP#4717[HIGH]: ＊それを<8a4d>いた / 　スレイハイムの上<8872>好恥 / 　イスカリオテ負がひとつの遠<8a52>をした[10][0c]＊それが『幻同歩の使用制<8
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#4614] budget=85ch/3ln
+  NOW: *Known as the Treaty of Iscariot,
+          this agreement restricted the
+          use of Super Weapons.
+  JP : JP#4718[HIGH]: ＊それが『幻同歩の使用制<8a53>仲間』 / 　後に、『イスカリオテ仲間』と呼ばれる / 　同歩の使用に関わる仲間である[10][0c]＊イスカリオテ負の<8
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#4615] budget=73ch/3ln
+  NOW: *In Sir Iscariot's territory,
+          the treaty was ratified and
+          made permanent.
+  JP : JP#4719[HIGH]: ＊イスカリオテ負の<89b7>地参にて / 　仲間の勉結を行い / 　その仲間の<8a55>果を貸<89aa>とした[10][0c]＊仲を滅ぼし、世界の<8a5
+  FIT: <<TODO — <=73 chars, 3 line(s), <=35/line>>
+
+[US#4616] budget=63ch/2ln
+  NOW: *By restricting the use of weapons
+          that threatened world peace,
+  JP : JP#4720[HIGH]: ＊仲を滅ぼし、世界の<8a57>望を脅かす / 　幻同歩の使用制<8a53>を行い[10][0c]＊<8a59>び、<8a39>事力<8a43>強の制<8a53
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#4617] budget=97ch/3ln
+  NOW: *this arms reduction treaty sought
+          to curb the arms race and preserve
+          world peace above all else.
+  JP : JP#4721[MED]: ＊<8a59>び、<8a39>事力<8a43>強の制<8a53>も<88e5>け / 　世界を<8a57>望最<89ab>先とする / 　事実上の<8a39>備
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#4619] budget=64ch/2ln
+  NOW: *The movement's momentum took the
+          government forces by surprise.
+  JP : JP#4723[HIGH]: ＊その守いは / 　制圧<8a39>のそれを<8a61>かに上回るほどである[10][0c]＊その力の<8869>が / 　解殺<8a39>リーダーと延乗と呼ば
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#4620] budget=80ch/3ln
+  NOW: *Amazingly, this huge movement
+          was piloted by only 2 men: the
+          leader and a hero.
+  JP : JP#4724[HIGH]: ＊その力の<8869>が / 　解殺<8a39>リーダーと延乗と呼ばれる / 　たったふたりによるものとは信じかたい[10][0c]＊しかし、この<8a64>人
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#4621] budget=74ch/3ln
+  NOW: *Together, they led a liberation
+          army whose military might was
+          formidable.
+  JP : JP#4725[HIGH]: ＊しかし、この<8a64>人によってまとめられた / 　解殺<8a39>の守力を無<8918>することはできない / 　それは<895e>れもない事実なのだ[1
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#4622] budget=96ch/3ln
+  NOW: *The two sides were evenly matched.
+          Only the Goddess of Victory could
+          have foreseen the outcome.
+  JP : JP#4726[HIGH]: ＊戦況は<88d2>分<88d2>分 / 　どちらが<8a65>利を手にするか / 　それを知るは、<8a65>利の昔男だけだろう
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#4623] budget=51ch/2ln
+  NOW: *This was the most powerful type
+          of ancient weapon.
+  JP : JP#4727[HIGH]: ＊その威力は、魂世代の同歩の中でも / 　最強の字頼といえるだろう[10][0c]＊<89e0><8a6a>することになれば / 　おそらく、スレイハイム仲の仲
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#4624] budget=84ch/3ln
+  NOW: *Its blast would lay waste to all
+          of Slayheim, turning it into a
+          lifeless salt flat.
+  JP : JP#4728[HIGH]: ＊<89e0><8a6a>することになれば / 　おそらく、スレイハイム仲の仲守険てを / 　<8a6b>の<89af>勇と合すのは間違いない[10][0c]＊
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#4625] budget=79ch/3ln
+  NOW: *The King of Slayheim is prepared
+          to use the Angel Halo if cornered
+          militarily.
+  JP : JP#4729[HIGH]: ＊スレイハイム<89fb>は / 　もしものときには、その使用さえ / 　<8a6d>さぬ信友のようだ[10][0c]＊スレイハイム仲に生きる者として / 　『
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#4626] budget=72ch/3ln
+  NOW: *All who live in Slayheim
+          should pray that the Angel
+          Halo is never used.
+  JP : JP#4730[HIGH]: ＊スレイハイム仲に生きる者として / 　『エンゼルハイロゥ』が使用されないことを / 　心から願うばかりである[10][0c]＊しかし、それもすべて / 　解殺
+  FIT: <<TODO — <=72 chars, 3 line(s), <=35/line>>
+
+[US#4627] budget=68ch/2ln
+  NOW: *Whether it is depends on how the
+          war with the Liberation Army goes.
+  JP : JP#4731[HIGH]: ＊しかし、それもすべて / 　解殺<8a39>との戦いにかかっているだろう
+  FIT: <<TODO — <=68 chars, 2 line(s), <=35/line>>
+
+[US#4628] budget=37ch/1ln
+  NOW: That's why we MUST survive!6060606060
+  JP : JP#4732[HIGH]: 「生きて、帰るしかないんだッ！[16]くぉ[16]くぉ[16]くぉ[16]くぉ[16]くぉ[17]
+  FIT: <<TODO — <=37 chars, 1 line(s), <=35/line>>
+
+[US#4629] budget=37ch/2ln
+  NOW: (That was our last mission
+          together.)
+  JP : JP#4733[HIGH]: （そう… / 　あれがあいつとの最後の作戦だった…）[10][0c]（『エンゼルハイロゥ』の<89e0><8a6a>を知ったとき / 　新<8865>、また生き
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#4630] budget=69ch/2ln
+  NOW: (When the |Angel Halo| detonated, I
+          never thought I'd see him again.)
+  JP : JP#4734[HIGH]: （『エンゼルハイロゥ』の<89e0><8a6a>を知ったとき / 　新<8865>、また生きて<89ba>えるとは思わなかった）[10][0c]（だが、あいつは
+  FIT: <<TODO — <=69 chars, 2 line(s), <=35/line>>
+
+[US#4631] budget=28ch/1ln
+  NOW: (But he made it back alive.)
+  JP : JP#4735[HIGH]: （だが、あいつは生きて帰ってきた…）[10][0c]（だから、僕もこの戦いが終わったとき / 　あいつから<8a82>かったモノを苦すため / 　生きなければい
+  FIT: <<TODO — <=28 chars, 1 line(s), <=35/line>>
+
+[US#4632] budget=102ch/3ln
+  NOW: (And I have to stay alive so that
+          when the war is over, I can give
+          him back what I'm holding for him.)
+  JP : JP#4736[HIGH]: （だから、僕もこの戦いが終わったとき / 　あいつから<8a82>かったモノを苦すため / 　生きなければいけない…）
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#4633] budget=50ch/2ln
+  NOW: You both possess a life that
+          is not of this world.
+  JP : JP#4737[HIGH]: 「この世ならざる生を<8a86>けしは / 　彼<8a87>らと好方も同じことよ〜
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#4634] budget=32ch/1ln
+  NOW: You do not belong in this world.
+  JP : JP#4738[HIGH]: 「ここは、お前の帰るべき世界ではない〜
+  FIT: <<TODO — <=32 chars, 1 line(s), <=35/line>>
+
+[US#4635] budget=40ch/2ln
+  NOW: Besides, Odessa could never
+          tie me down.
+  JP : JP#4739[HIGH]: 「あたしを<8a8d>るなど / 　やつらとて<8a8e>わぬことさ[10][0c]「好方に活みはないが / 　その身に集みし『魔』を<8a91>るのもまた /
+  FIT: <<TODO — <=40 chars, 2 line(s), <=35/line>>
+
+[US#4636] budget=96ch/3ln
+  NOW: I don't have anything personal
+          against you. But I must slay the
+          |monster| that lurks within you.
+  JP : JP#4741[MED]: 「ジャマする者であれば / 　何であろうと<8a93>り<8a94>てるッ！ || JP#4740[MED]: 「好方に活みはないが / 　その身に集みし『魔』を<8a91>るのもまた / 　あたしの<8a8c>命ッ！
+  FIT: <<TODO — <=96 chars, 3 line(s), <=35/line>>
+
+[US#4637] budget=44ch/2ln
+  NOW: I will cut down anyone who tries to
+          stop me!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#4638] budget=49ch/2ln
+  NOW: I will hunt you down, no matter
+          where you run to!
+  JP : JP#4742[MED]: 「好方が<8943>えどこへいようとも / 　追いかけて、追いつめてやるッ！[10][0c]「それまでは / 　好方も生き<8a98>びろ[10][0c]「<f
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#4639] budget=54ch/2ln
+  NOW: Till then, stay healthy.
+          Do not rob me of my pleasure.
+  JP : JP#4743[MED]: 「それまでは / 　好方も生き<8a98>びろ[10][0c]「<f040><f042>ひとつ<88a6>えておこう〜 / 　ヴィンスフェルトが言うに / 　５
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#4640] budget=71ch/3ln
+  NOW: By the way, Vinsfeld said the hero
+          he knew 5 years ago
+          was left-handed.
+  JP : JP#4744[MED]: 「<f040><f042>ひとつ<88a6>えておこう〜 / 　ヴィンスフェルトが言うに / 　５数前の延乗は<8a99>利きらしいぞ〜[10][0c]「<89
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#4641] budget=83ch/3ln
+  NOW: Watch your back from now on!
+          You are my prey, and I won't
+          let anyone else take you!
+  JP : JP#4745[HIGH]: 「<89a3>中から<8a0a>われぬよう心しておけ / 　好方はあたしの<8a9a>物〜 / 　誰にも渡さないッ！
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#4642] budget=101ch/3ln
+  NOW: The castle hasn't been engulfed by
+          the sea of salt yet. Let's take a
+          look around while we're waiting.
+  JP : JP#4746[HIGH]: 「この<893b>… / 　中は<8a6b>に侵食されていないんだ / 　時間はありそうだから調べてみるか
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#4643] budget=44ch/2ln
+  NOW: I never thought I'd
+          ever be back here again.
+  JP : JP#4747[HIGH]: 「まさか / 　また戻ってくることになるとはな…
+  FIT: <<TODO — <=44 chars, 2 line(s), <=35/line>>
+
+[US#4644] budget=18ch/1ln
+  NOW: What do we do now?
+  JP : JP#4748[HIGH]: 「これからどうしようか？
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#4645] budget=60ch/2ln
+  NOW: I wonder what kind of monsters
+          she's going to exorcise here.
+  JP : JP#4749[MED]: 「ここでどんな魔物を / 　<8a9c><8a9d>するつもりなんだろう…
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>

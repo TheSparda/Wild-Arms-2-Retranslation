@@ -1,0 +1,169 @@
+# WA2 — LILKA'S INTRO (Magic Lesson with Her Sister, block 25) — FINAL insert-ready
+# =========================================================================================
+# A dream/memory: Lilka's older sister teaches her to use Crest magic to solve a Switchblock
+# puzzle, then gently sends her back to the waking world. Warm, no violence — deliberate
+# contrast to Ashley's & Brad's intros. {2} = Lilka's player-set name code.
+# JP fully block-decoded (block 25 table complete). No em dashes. Fit display window.
+# Columns: JP (clean) / LIT / EN (current) / RE (final).
+#
+# ⚠ BOX-MAPPING NOTE: the sister's parting speech is 3 JP messages (5235/5236/5237) that EN
+#   spread across boxes US#5118-5121. Mapping preserved below so each RE lands in a real US box.
+# =========================================================================================
+
+[US#5105] (Lilka)
+  JP : 「わかんないよッ！ / わたしひとりじゃ、わかんないよッ！
+  LIT: I don't get it! I can't figure it out on my own!
+  EN : I don't know what to do! I can't figure it out all alone!!
+  RE : I don't get it! I can't
+       do this on my own!!
+
+[US#5106] (Sister)
+  JP : 「あなたの後ろ / 大きなスイッチブロックが見えるかしら？ / それに魔力を反応させてちょうだい
+  LIT: Behind you, can you see the big Switchblock? Channel your magic power into it.
+  EN : Can you see the big Switchblock behind you? Use your magic on it.
+  RE : Behind you, see the big
+       Switchblock? Send your
+       magic into it now.
+
+[US#5107] (Lilka)
+  JP : 「お姉ちゃんみたいに / うまくできないよ〜
+  LIT: I can't do it as well as you, Sis.
+  EN : I'm not good at it like you are, Sis.
+  RE : I can't do it as
+       well as you, Sis...
+
+[US#5108] (Sister)
+  JP : 「もう一度、最初からやってみて / 今度こそ扉が開くわよ
+  LIT: Try once more from the start. This time the door will open.
+  EN : Try starting over. This time the door should open.
+  RE : Try once more from the start.
+       This time the door will open.
+
+[US#5109] (Sister)
+  JP : 「〜今度は、別のやり方を教えるわ / だいじょうぶ、今度の方法はカンタンだから
+  LIT: This time I'll teach you a different way. Don't worry, this method is easy.
+  EN : This time I'll show you a different method. It'll be fine. This way is easy.
+  RE : This time I'll teach you
+       another way. Don't worry,
+       this one's easy.
+
+[US#5111] (Sister)
+  JP : 「そこからもう少し下に / 小さなスイッチブロックがあるでしょ？
+  LIT: A little below you, there's a small Switchblock, see?
+  EN : See the small Switchblock just below where you are?
+  RE : A little below you,
+       there's a small Switchblock.
+
+[US#5112] (Sister)
+  JP : 「{1}を押すと / あなたの魔力を炎に変えて / 前方に発射することができるわ
+  LIT: Press [button] and your magic turns to flame, firing out ahead of you.
+  EN : If you press 1, your magic turns to a flame and can fire in front of you.
+  RE : Press it and your magic
+       becomes flame you can
+       fire straight ahead.
+
+[US#5113] (Sister)
+  JP : 「だいじょうぶ、{2}？
+  LIT: Are you all right, {2}?
+  EN : Are you OK, {2}?
+  RE : Are you all right, {2}?
+
+[US#5114] (Sister)
+  JP : 「はい、回復魔法よ / もう、{2}も / 立派な紋章魔法師ね〜
+  LIT: Here, Recovery Magic. You're already a fine Crest Sorcerer yourself, {2}.
+  EN : Here's some Recovery Magic. {2}, you are already a fine Crest Sorcerer.
+  RE : Here, Recovery Magic. You're
+       already a fine Crest
+       Sorcerer yourself, {2}.
+
+[US#5115] (Sister)
+  JP : 「さあ、回復魔法をかけてあげるわ / 気を抜かないでね、{2}
+  LIT: There, I'll cast Recovery Magic on you. Don't let your guard down, {2}.
+  EN : Here's some Recovery Magic. Don't give up, {2}!
+  RE : There, Recovery Magic for you.
+       Stay sharp now, {2}.
+
+[US#5116] (Sister)
+  JP : 「ここまで戻ってくれば / 回復魔法をかけてあげるから / 無理はしないでね
+  LIT: Come back here and I'll cast Recovery Magic, so don't push yourself too hard.
+  EN : If you return here, I'll cast a Recovery Spell, so don't overdo it.
+  RE : Come back here and I'll heal
+       you, so don't push
+       yourself too hard.
+
+[US#5117] (Sister)
+  JP : 「がんばって、{2} / スイッチブロックは残りふたつよ
+  LIT: Do your best, {2}. Two Switchblocks left.
+  EN : Good luck, {2}. Two Switchblocks remain.
+  RE : You can do it, {2}.
+       Two Switchblocks left.
+
+# ---- The sister's parting speech (JP 5235/5236/5237/5238 -> US 5118-5121) ----
+
+[US#5118] (Sister)   [JP#5235 「このくらい / どうってことないよ + JP#5236 「もっと、自分を強く信じて]
+  JP : 「このくらい / どうってことないよ // 「もっと、自分を強く信じて〜
+  LIT: This much is nothing. Believe in yourself more strongly.
+  EN : This was nothing.
+  RE : This much is nothing.
+       # box is 1 line/17ch — keep short; the "believe in yourself" beat continues in US#5119-5121.
+
+[US#5119] (Sister)
+  JP : 「もっと、自分を強く信じて〜
+  LIT: Believe in yourself more strongly.
+  EN : You need to believe in yourself more.
+  RE : Believe in yourself
+       more, {2}.
+
+[US#5120] (Sister)   [JP#5237]
+  JP : 「{2}〜 / これから先、あなたしか使えない / 『魔法』を強く信じて
+  LIT: {2}... from here on, believe deeply in the magic that only you can use.
+  EN : {2}, from now on you need to believe in the magic that is yours alone.
+  RE : {2}, from here on, believe
+       in the magic that
+       only you can use.
+
+[US#5121] (Sister)   [JP#5238]
+  JP : 「どんなにつらいことがあっても / あなたの『魔法』なら / 乗り越えられていけるから〜ね
+  LIT: No matter how painful things get, your magic will carry you through.
+  EN : No matter how hard things get, you'll be able to overcome it with your magic.
+  RE : However hard things get,
+       your magic will carry
+       you through.
+
+[US#5122] (Lilka)
+  JP : 「そんなのあと、あとッ！
+  LIT: That stuff's for later, later!
+  EN : Later! Leave it 'til later!
+  RE : That can wait. Later!
+
+[US#5123] (Lilka)
+  JP : 「わたしの『魔法』で / ぜーんぶ何とかしたら / いくらでも聞くからさッ！
+  LIT: Once I've handled everything with MY magic, I'll listen to as much as you want!
+  EN : If I can do things with my magic, I'll listen to anything!
+  RE : Once I fix it all with MY
+       magic, I'll hear you out,
+       promise!
+
+[US#5125] (Sister, sending her back / farewell)
+  JP : 「もうすぐ / もといた世界にリンクされるから〜 / あなたは何も心配しなくていいから〜〜
+  LIT: Soon you'll be linked back to the world you came from, so you needn't worry about a thing.
+  EN : Soon, you'll be linked to the world you came from, so don't worry.
+  RE : Soon you'll be linked back
+       to the world you came from,
+       so don't worry about a thing.
+
+[US#5126] (Lilka)
+  JP : (waking / sister fades)
+  EN : Sis?
+  RE : Sis?
+
+# =========================================================================================
+# STATUS: JP fully block-decoded. All RE em-dash-free, fit display window (<=5ln/<=35 per line).
+# CHARACTER: Lilka's intro sets her core anxiety ("I can't do it alone", 5105) and her defining
+#   trait — faith in HER OWN magic — which the sister blesses at 5118-5121 (「あなたしか使えない
+#   『魔法』を強く信じて」 = believe in the magic only YOU can use). Her comic impatience (5122-23)
+#   is the seed of her personality.
+# NUANCE RESTORED: EN's 5118 "This was nothing" is a loose rendering of このくらいどうってことない
+#   ("this much is nothing" — she's reassuring Lilka the puzzle was trivial). The full sister
+#   speech (believe in your magic) is intact across 5119-5121 in both EN and RE.
+# =========================================================================================

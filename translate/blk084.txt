@@ -1,0 +1,55 @@
+# WA2 4-col translation doc block 84 (JP#7657-7669)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 6 boxes | OK=1 FAIR=5 SHAKY=0 JP-ONLY=0
+# DRAFT STATUS: 6 boxes | OK=1 FAIR=4 SHAKY=1 JP-ONLY=0
+
+[JP#7658] gaps=0  aln=MED->US#7465  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7659] gaps=2  aln=MED->US#7466  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7660] gaps=0  aln=MED->US#7467  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7662] gaps=3  aln=HIGH->US#7469  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「そうだ、いいこと伝えてあげるよ / 　この幸<8a34>の中、よく分からないけど / 　<89f9>が泣いたり止んだりしてるんだ[10][0c]「なんか、でっかい生き物の / 　<896e>呼片みたいな信じなんだよね[10][0c]「そのせいで / 　上手くトラップを解押できないんだけど / 　なんとかならないかなぁ
+  2|LIT: <<TODO>>
+  3|EN : @Want to hear something good?
+ I don't get it, but inside the cave
+ here, wind blows, then stops.@It's as if the wind is the
+ breathing of some large creature.@As a result,
+ the upper traps won't release.
+ Do you have any ideas?
+  4|RE : <<TODO>>
+
+[JP#7663] gaps=1  aln=HIGH->US#7470  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「なんか、でっかい生き物の / 　<896e>呼片みたいな信じなんだよね[10][0c]「そのせいで / 　上手くトラップを解押できないんだけど / 　なんとかならないかなぁ
+  2|LIT: <<TODO>>
+  3|EN : @It's as if the wind is the
+ breathing of some large creature.@As a result,
+ the upper traps won't release.
+ Do you have any ideas?
+  4|RE : <<TODO>>
+
+[JP#7664] gaps=0  aln=HIGH->US#7471  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「そのせいで / 　上手くトラップを解押できないんだけど / 　なんとかならないかなぁ
+  2|LIT: <<TODO>>
+  3|EN : @As a result,
+ the upper traps won't release.
+ Do you have any ideas?
+  4|RE : <<TODO>>

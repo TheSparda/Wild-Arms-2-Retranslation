@@ -1,0 +1,110 @@
+# WA2 — Diablo Pillar Ptolomea (part) (DP) — block 69, US#7191-7209 — FIRST-PASS insert-ready
+# =========================================================================================
+# FIRST PASS (auto-generated): RE = the US localization reflowed to the display window
+#   (<=3 lines x <=35 chars), em dashes stripped, color-code artifacts removed. JP shown for
+#   reference (block-decoded; residual codes possible). This is NOT a deep literary
+#   retranslation — it gives Diablo Pillar Ptolomea (part) valid insert text; flag for a deep RE pass later.
+# US# reconciled by construction (IDs are the real block-69 message slots).
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#7195]
+  JP : 「この谷に / テロリストが発<b:8a38>している / 可能性がありますッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : There's a good chance terrorists are hiding in the mountains here!
+  RE : There's a good chance terrorists
+       are hiding in the mountains here!
+
+[US#7196]
+  JP : 「モンスターなんかじゃない / 立ちはだかる、人間<b:8a39>』が<b:8a3a>えてくれたんだとよ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Not a monster confronting humans.
+  RE : Not a monster confronting humans.
+
+[US#7197]
+  JP : 「何者かが / 僕方たちの跡をつけてきてるってな<b:8a3b><b:8a3c><b:8a3d><f040><f042> / まだ、だったよな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : She said someone's been following us.
+  RE : She said someone's been following
+       us.
+
+[US#7198]
+  JP : 「よかったな、おめェら / やさしー、僕方が相手でよ
+  LIT: Lucky for you lot, that your opponent was sweet little me. (僕方 = the character's odd self-reference)
+  EN : You were very lucky your opponent was sweet ol' innocent me.
+  RE : You were very lucky your opponent
+       was sweet ol' innocent me.
+
+[US#7199]
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: ...gaoo... gaoo... gaoo... (16 = SFX code)
+  EN : ...30...30...30...
+  RE : ...30...30...30...
+
+[US#7200]
+  JP : 「オデッサ結戦隊 / 『トロメア方とゆかいな<b:8a46>間たち』だッ！<b:8a47><b:8a48>の<b:8a49>使い / 「ふざけるなよ、トロメア<b:8a4a>の剣 / 「それにしても / こいつら生かしておくの？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We're the Odessa Special Unit |Ptolomea and His Fun Friends!|
+  RE : We're the Odessa Special Unit
+       |Ptolomea and His Fun Friends!|
+
+[US#7201]
+  JP : 「俺たち以外に / イルズベイルに侵入したの / たしか、こいつらだったよな〜
+  LIT: Besides us, the ones who broke into Illsveil were these guys, right?
+  EN : Weren't they that other group who was trespassing in Illsveil?
+  RE : Weren't they that other group who
+       was trespassing in Illsveil?
+
+[US#7202]
+  JP : 「どこかの場の自<892c><897d>かな？ / 女の家が<b:8a4b>じっているみたいだけど〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Are they some vigilante force from a small town? There were girls in their group too.
+  RE : Are they some vigilante force from
+       a small town? There were girls in
+       their group too.
+
+[US#7203]
+  JP : 「何だったら / この場で<b:8a4c><b:8a4d>しちゃおうか？ / バルキサスの<b:8a4e>気が終るまで<b:8a4f><b:8a50>だし<b:8a48>の女性 / 「〜ムダな<b:8a4d>生はやめて / 何度言ったらわかるの？
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Should we shoot them here on the spot? We've got time to kill until the Varukisas heats up.
+  RE : Should we shoot them here on the
+       spot? We've got time to kill until
+       the Varukisas heats up.
+
+[US#7204]
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: ...gaoo... gaoo... gaoo... (16 = SFX code)
+  EN : ...30...30...30...
+  RE : ...30...30...30...
+
+[US#7205]
+  JP : 「バルキサスの離陸準備 / <88ad><8837>したみたいよ / <f040><f042>行きましょう〜<b:8a51>りをまだ<8994>ませていないぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Looks like Varukisas is ready for departure. Let's go.
+  RE : Looks like Varukisas is ready for
+       departure. Let's go.
+
+[US#7206]
+  JP : 「僕方たち、４人 / オデッサ結戦隊『コキュートス』ッ！
+  LIT: The four of us, Odessa's special combat squad 'Cocytus'! (結戦隊->決戦隊)
+  EN : There's the four of us. Odessa's Special |Cocytus| Corp.
+  RE : There's the four of us. Odessa's
+       Special |Cocytus| Corp.
+
+[US#7207]
+  JP : 「<8934><88e0>ジャックじゃ / 僕方たちのこと乗れられなかったからな / せいぜい、ハデに<b:8a52>伝をたのむぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : We're broadcasting clandestinely! Since we didn't have contact, let's at least do some bold propaganda.
+  RE : We're broadcasting clandestinely!
+       Since we didn't have contact, let's
+       at least do some bold propaganda.
+
+[US#7208]
+  JP : 「がっはっはっはっはッ！<b:8a53>く話 / 「手を<b:8a54>ばせば、<88f8>くぞ〜 / 力さえあればな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Ha. Ha. Ha.
+  RE : Ha. Ha. Ha.
+
+# =========================================================================================
+# STATUS: 14 boxes first-passed (US#7191-7209, block 69). Em-dash-free, <=3x35.
+# =========================================================================================

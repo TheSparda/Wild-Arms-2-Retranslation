@@ -1,0 +1,4028 @@
+# WA2 4-col translation doc block 11 (JP#2734-3196)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 456 boxes | OK=54 FAIR=199 SHAKY=197 JP-ONLY=6
+# DRAFT STATUS: 456 boxes | OK=54 FAIR=188 SHAKY=208 JP-ONLY=6
+
+[JP#2735] gaps=0  aln=MED->US#2701  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @If only I could re-acquire the
+ power to catch the Kuiper Belt
+ in the vessel of life.
+  4|RE : <<TODO>>
+
+[JP#2736] gaps=2  aln=MED->US#2701  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @If only I could re-acquire the
+ power to catch the Kuiper Belt
+ in the vessel of life.
+  4|RE : <<TODO>>
+
+[JP#2737] gaps=0  aln=MED->US#2701  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @If only I could re-acquire the
+ power to catch the Kuiper Belt
+ in the vessel of life.
+  4|RE : <<TODO>>
+
+[JP#2739] gaps=1  aln=MED->US#2701  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「私の作戦に戦りはない〜 / 　周念存帰を<8a48>るには / 　この作戦以外にはありえないのだ〜
+  2|LIT: <<TODO>>
+  3|EN : @If only I could re-acquire the
+ power to catch the Kuiper Belt
+ in the vessel of life.
+  4|RE : <<TODO>>
+
+[JP#2740] gaps=3  aln=MED->US#2702  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「彼の地は、レイラインと呼ばれる地<89f4>が / 　仲間無訪に行き<88fa>っている地である[10][0c]「レイラインには / 　星の生命エネルギー『マナ』が加い / 　その終着地帯はレイポイントと呼ばれている[10][0c]「星の生命エネルギー〜 / 　この強い力を / 　我々のモノとする<8a4c>はないのだろうか〜
+  2|LIT: <<TODO>>
+  3|EN : @Veins of the mineral Raline
+ crisscross through that region.@Mana, the planet's life-energy
+ flows through Raline veins
+ which end at the Raypoints.@Isn't there some way for us
+ to harness Mana, the planet's
+ powerful life-energy?
+  4|RE : <<TODO>>
+
+[JP#2741] gaps=1  aln=MED->US#2703  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「レイラインには / 　星の生命エネルギー『マナ』が加い / 　その終着地帯はレイポイントと呼ばれている[10][0c]「星の生命エネルギー〜 / 　この強い力を / 　我々のモノとする<8a4c>はないのだろうか〜
+  2|LIT: <<TODO>>
+  3|EN : @Mana, the planet's life-energy
+ flows through Raline veins
+ which end at the Raypoints.@Isn't there some way for us
+ to harness Mana, the planet's
+ powerful life-energy?
+  4|RE : <<TODO>>
+
+[JP#2742] gaps=1  aln=MED->US#2704  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「星の生命エネルギー〜 / 　この強い力を / 　我々のモノとする<8a4c>はないのだろうか〜
+  2|LIT: <<TODO>>
+  3|EN : @Isn't there some way for us
+ to harness Mana, the planet's
+ powerful life-energy?
+  4|RE : <<TODO>>
+
+[JP#2743] gaps=3  aln=MED->US#2705  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「私が『お前という<8a4d>好恥を<89a3>負う』と / 　あの大遠<8a52>で言ったことを〜[10][0c]「あの時から / 　私たちはいっしょに戦う運命にあったのだ / 　その戦いこそ、この空を取り戻す戦いなのだ
+  2|LIT: <<TODO>>
+  3|EN : @At the cathedral, I said, |You
+ are the cross I gladly bear.|@From that day, our destiny has
+ been to fight together to
+ restore our blue skies.
+  4|RE : <<TODO>>
+
+[JP#2744] gaps=0  aln=MED->US#2706  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「あの時から / 　私たちはいっしょに戦う運命にあったのだ / 　その戦いこそ、この空を取り戻す戦いなのだ
+  2|LIT: <<TODO>>
+  3|EN : @From that day, our destiny has
+ been to fight together to
+ restore our blue skies.
+  4|RE : <<TODO>>
+
+[JP#2745] gaps=6  aln=MED->US#2707  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=3
+  1|JP : 「そこに<89bb>る<8937><8938>は勉大にして<8a55><8858>〜 / 　だが、ヴァレリアの貸を招きし者のみが / 　その<8a57>望にあずかれるという〜[10][0c]「私に代って、その任〜 / 　[05]きに任せよう / 　彼昔ならできるはずである
+  2|LIT: <<TODO>>
+  3|EN : @The vast records are open only
+ to the Valeria family.@I'll get 4 to take
+ over that duty for me.
+ I'm sure she could do it.
+  4|RE : <<TODO>>
+
+[JP#2746] gaps=0  aln=HIGH->US#2708  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「私に代って、その任〜 / 　[05]きに任せよう / 　彼昔ならできるはずである
+  2|LIT: <<TODO>>
+  3|EN : @I'll get 4 to take
+ over that duty for me.
+ I'm sure she could do it.
+  4|RE : <<TODO>>
+
+[JP#2747] gaps=3  aln=HIGH->US#2709  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「復同<8a5c>を戦<8a4c>的に / 　用いるなどということはないはずだ / 　だが〜[10][0c]「オデッサに、ヴィンスフェルトに / 　戦茶を飛じるだけの理性が / 　残っていないとするならば〜[10][0c]「<8a43>るべき脅威の前に / 　ファルガイアは滅びかねない〜
+  2|LIT: <<TODO>>
+  3|EN : @it would never attempt the
+ tactical use of nuclear
+ weapons. However...@If Odessa and Vinsfeld are
+ desperate enough to try
+ something that insane...@Then the coming threat could
+ mean Filgaia's destruction.
+  4|RE : <<TODO>>
+
+[JP#2748] gaps=1  aln=HIGH->US#2710  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「オデッサに、ヴィンスフェルトに / 　戦茶を飛じるだけの理性が / 　残っていないとするならば〜[10][0c]「<8a43>るべき脅威の前に / 　ファルガイアは滅びかねない〜
+  2|LIT: <<TODO>>
+  3|EN : @If Odessa and Vinsfeld are
+ desperate enough to try
+ something that insane...@Then the coming threat could
+ mean Filgaia's destruction.
+  4|RE : <<TODO>>
+
+[JP#2749] gaps=1  aln=HIGH->US#2711  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<8a43>るべき脅威の前に / 　ファルガイアは滅びかねない〜
+  2|LIT: <<TODO>>
+  3|EN : @Then the coming threat could
+ mean Filgaia's destruction.
+  4|RE : <<TODO>>
+
+[JP#2750] gaps=0  aln=HIGH->US#2712  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜そろそろだな / 　ヤツらをこれ以上限殺しにしては / 　守るべきファルガイアを失ってしまう
+  2|LIT: <<TODO>>
+  3|EN : @it is time to put a stop to
+ them. If we don't, all of
+ Filgaia will be destroyed.
+  4|RE : <<TODO>>
+
+[JP#2751] gaps=7  aln=HIGH->US#2713  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「ギルドグラードマスターが / 　ひとり<89e2>家を<8918><8a61>と<895b>して / 　延の<89af>限に向かわせていたそうだが〜[10][0c]「彼の地は延に乗われた大地〜 / 　いくつかの発<885f>地帯をのぞいて / 　無意<8a3d>な世界に何の用だったのだ〜
+  2|LIT: <<TODO>>
+  3|EN : @The Guild Galad Master sent
+ his only son to the salt fields
+ on the pretense of observation.@What could he want with a
+ salty wasteland that is empty
+ but for a few excavation sites?
+  4|RE : <<TODO>>
+
+[JP#2752] gaps=2  aln=MED->US#2714  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「彼の地は延に乗われた大地〜 / 　いくつかの発<885f>地帯をのぞいて / 　無意<8a3d>な世界に何の用だったのだ〜
+  2|LIT: <<TODO>>
+  3|EN : @What could he want with a
+ salty wasteland that is empty
+ but for a few excavation sites?
+  4|RE : <<TODO>>
+
+[JP#2753] gaps=0  aln=HIGH->US#2716  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「タウンメリアの東や、ダムツェンや北東〜 / 　それ以外には / 　[11]お参道外男字の北や東[11]ぉに農村があったな
+  2|LIT: <<TODO>>
+  3|EN : @There are beaches west of Meria,
+ northwest of Damzen, and on the
+ 1Inland Sea north and west shores0.
+  4|RE : <<TODO>>
+
+[JP#2754] gaps=9  aln=HIGH->US#2717  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「かつて私も / 　シエルジェにて魂<89b1>に / 　頼ち込んだこともあったのだ〜[10][0c]「<8a6a><8a6b>、魔<8a4c>、異界との搭乗<8a4c>〜 / 　そして、勇<8a6d><8a6b>〜[10][0c]「すべては〜 / 　<f040><f042>そう、すべては / 　そこから始まったのだ〜
+  2|LIT: <<TODO>>
+  3|EN : @Long ago,
+ I was engaged in research
+ in Sielje.@Science, sorcery, contact with
+ the spirit world, and astronomy.@That's where
+ it all started...
+ Everything.
+  4|RE : <<TODO>>
+
+[JP#2755] gaps=8  aln=HIGH->US#2718  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : 「<8a6a><8a6b>、魔<8a4c>、異界との搭乗<8a4c>〜 / 　そして、勇<8a6d><8a6b>〜[10][0c]「すべては〜 / 　<f040><f042>そう、すべては / 　そこから始まったのだ〜
+  2|LIT: <<TODO>>
+  3|EN : @Science, sorcery, contact with
+ the spirit world, and astronomy.@That's where
+ it all started...
+ Everything.
+  4|RE : <<TODO>>
+
+[JP#2756] gaps=2  aln=HIGH->US#2719  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「すべては〜 / 　<f040><f042>そう、すべては / 　そこから始まったのだ〜
+  2|LIT: <<TODO>>
+  3|EN : @That's where
+ it all started...
+ Everything.
+  4|RE : <<TODO>>
+
+[JP#2757] gaps=0  aln=HIGH->US#2720  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「こまかなサーチがカギだな
+  2|LIT: <<TODO>>
+  3|EN : @You must scour the area.
+  4|RE : <<TODO>>
+
+[JP#2758] gaps=2  aln=HIGH->US#2721  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「私もクルーも / 　オデッサとの戦いに信苦はできている / 　だが〜[10][0c]「我が姿、[0a]おを / 　<8812>き込んだことだけが / 　今なお気がかりである〜[10][0c]「身の危険よりも、もっと気がかりなこと〜 / 　戦いの中で見せる人間のマイナスの<8a71>だけは / 　[0a]おには見せたくないな〜
+  2|LIT: <<TODO>>
+  3|EN : @My crew and I are ready to
+ battle Odessa!
+ But still...@I wonder if it was right to
+ involve my kid sister,
+  1, in all of this.@I don't want  1 to see
+ the savagery that war brings
+ out in people.
+  4|RE : <<TODO>>
+
+[JP#2759] gaps=2  aln=HIGH->US#2722  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「我が姿、[0a]おを / 　<8812>き込んだことだけが / 　今なお気がかりである〜[10][0c]「身の危険よりも、もっと気がかりなこと〜 / 　戦いの中で見せる人間のマイナスの<8a71>だけは / 　[0a]おには見せたくないな〜
+  2|LIT: <<TODO>>
+  3|EN : @I wonder if it was right to
+ involve my kid sister,
+  1, in all of this.@I don't want  1 to see
+ the savagery that war brings
+ out in people.
+  4|RE : <<TODO>>
+
+[JP#2760] gaps=1  aln=HIGH->US#2723  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「身の危険よりも、もっと気がかりなこと〜 / 　戦いの中で見せる人間のマイナスの<8a71>だけは / 　[0a]おには見せたくないな〜
+  2|LIT: <<TODO>>
+  3|EN : @I don't want  1 to see
+ the savagery that war brings
+ out in people.
+  4|RE : <<TODO>>
+
+[JP#2761] gaps=5  aln=HIGH->US#2724  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「その制<89c7>に誓<8810>が無ければ / 　我々はオデッサに対する / 　強力無<8876>な力を手に入れたといえよう〜[10][0c]「<f040><f042>だが〜
+  2|LIT: <<TODO>>
+  3|EN : @Such power would be
+ an invincible weapon to use
+ against Odessa!@... But can we control it?
+  4|RE : <<TODO>>
+
+[JP#2762] gaps=2  aln=HIGH->US#2725  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>だが〜
+  2|LIT: <<TODO>>
+  3|EN : @... But can we control it?
+  4|RE : <<TODO>>
+
+[JP#2763] gaps=3  aln=HIGH->US#2726  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「ファルガイアを分<898e>する / 　<8a72>基誓<8810>と考えてほしい
+  2|LIT: <<TODO>>
+  3|EN : @It is the national boundaries
+ that divide Filgaia.
+  4|RE : <<TODO>>
+
+[JP#2764] gaps=0  aln=MED->US#2727  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「さらなる崩落も考えられる / 　気をつけて向かってほしい
+  2|LIT: <<TODO>>
+  3|EN : @It serves as a trade route.@Other cave-ins could occur.
+ Be careful there.
+  4|RE : <<TODO>>
+
+[JP#2765] gaps=6  aln=HIGH->US#2729  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : 「[11]おずっと<8a10>い北東の地〜 / 　誰も知らない<8a79><897e>魔法<8a7a>の男り[11]ぉには / 　強い<89f9>が英配する雄<8a7d>があるそうです[10][0c]「このファルガイアには / 　まだまだ不思議な共が / 　奇されているのですね〜
+  2|LIT: <<TODO>>
+  3|EN : @about a windswept cave 1far
+ to the northwest, by a Landing
+ Pad no one knows about0.@It seems Filgaia still has
+ many mysterious places that
+ are yet unexplored.
+  4|RE : <<TODO>>
+
+[JP#2766] gaps=0  aln=HIGH->US#2730  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「このファルガイアには / 　まだまだ不思議な共が / 　奇されているのですね〜
+  2|LIT: <<TODO>>
+  3|EN : @It seems Filgaia still has
+ many mysterious places that
+ are yet unexplored.
+  4|RE : <<TODO>>
+
+[JP#2767] gaps=2  aln=HIGH->US#2731  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「私にできることがあれば / 　この身を<8a7f>ててでも / 　勝方のお<8964>に戻ちたいというのに〜
+  2|LIT: <<TODO>>
+  3|EN : @I would do anything to help
+ my brother, even if it meant
+ giving up my very life.
+  4|RE : <<TODO>>
+
+[JP#2768] gaps=3  aln=HIGH->US#2732  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「何かを失ってから<8a81>めて / 　その存帰の大きさに気<88be>くようなモノも / 　『<8a80>せ』のひとつなのかもしれません
+  2|LIT: <<TODO>>
+  3|EN : @Sometimes you don't realize
+ how happy you are until you
+ lose something important.
+  4|RE : <<TODO>>
+
+[JP#2769] gaps=4  aln=HIGH->US#2733  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「勝方とあなた方なら / 　いつかオデッサを<8952><8a82>することも / 　できるような気がしてきます〜[10][0c]「でもそれは、勝方にとって / 　終りなのでしょうか？ / 　それとも〜[10][0c]「私に、勝方と<8a83>に戦える力があれば / 　このような<8a84>誓を / 　いだかずにすむのでしょうか〜？
+  2|LIT: <<TODO>>
+  3|EN : @With those, you and my brother
+ will someday destroy Odessa.
+ I just know it.@But will that be the end
+ of my brother's problems?
+ Then again....@If I had the strength to fight
+ by my brother's side, maybe
+ everything would be alright.
+  4|RE : <<TODO>>
+
+[JP#2770] gaps=2  aln=HIGH->US#2734  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「でもそれは、勝方にとって / 　終りなのでしょうか？ / 　それとも〜[10][0c]「私に、勝方と<8a83>に戦える力があれば / 　このような<8a84>誓を / 　いだかずにすむのでしょうか〜？
+  2|LIT: <<TODO>>
+  3|EN : @But will that be the end
+ of my brother's problems?
+ Then again....@If I had the strength to fight
+ by my brother's side, maybe
+ everything would be alright.
+  4|RE : <<TODO>>
+
+[JP#2771] gaps=2  aln=HIGH->US#2735  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「私に、勝方と<8a83>に戦える力があれば / 　このような<8a84>誓を / 　いだかずにすむのでしょうか〜？
+  2|LIT: <<TODO>>
+  3|EN : @If I had the strength to fight
+ by my brother's side, maybe
+ everything would be alright.
+  4|RE : <<TODO>>
+
+[JP#2772] gaps=6  aln=HIGH->US#2736  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「それは、<8a85>いた心に生まれいずる / 　人の心の過ちに / 　どこか加じる<8a86>しさがあります[10][0c]「オデッサの<8a87>は / 　<8a85>いた人の心に落ちた<888c>い<8a88>み[10][0c]「それは、ファルガイアに生きる / 　すべての人の心の安暮し〜
+  2|LIT: <<TODO>>
+  3|EN : @Just as evil is born in
+ hearts that are barren. There
+ is something sad about them.@Odessa's crime is a stain on
+ the barren human heart.@But it reflects the barrenness
+ of Filgaia's collective heart.
+  4|RE : <<TODO>>
+
+[JP#2773] gaps=4  aln=HIGH->US#2737  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「オデッサの<8a87>は / 　<8a85>いた人の心に落ちた<888c>い<8a88>み[10][0c]「それは、ファルガイアに生きる / 　すべての人の心の安暮し〜
+  2|LIT: <<TODO>>
+  3|EN : @Odessa's crime is a stain on
+ the barren human heart.@But it reflects the barrenness
+ of Filgaia's collective heart.
+  4|RE : <<TODO>>
+
+[JP#2774] gaps=0  aln=HIGH->US#2738  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「それは、ファルガイアに生きる / 　すべての人の心の安暮し〜
+  2|LIT: <<TODO>>
+  3|EN : @But it reflects the barrenness
+ of Filgaia's collective heart.
+  4|RE : <<TODO>>
+
+[JP#2775] gaps=5  aln=HIGH->US#2739  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「でも、帰ることが<8978>されたのは / 　戦場に<8a8b>いた / 　あなたたちだけ〜[10][0c]「私はいつ〜 / 　勝方のもとへ / 　『帰る』ことができるのでしょう〜[10][0c]「私は、はばたく<8a8c>も持っていない / 　そう、<888c>い<8a8c>すらも〜
+  2|LIT: <<TODO>>
+  3|EN : @But only you, who went to
+ the battlefield, have been
+ permitted to return.@Who knows when I will be
+ permitted to return to
+ where my brother is.@I have no wings to flap.
+ No, not even black wings.
+  4|RE : <<TODO>>
+
+[JP#2776] gaps=3  aln=HIGH->US#2740  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「私はいつ〜 / 　勝方のもとへ / 　『帰る』ことができるのでしょう〜[10][0c]「私は、はばたく<8a8c>も持っていない / 　そう、<888c>い<8a8c>すらも〜
+  2|LIT: <<TODO>>
+  3|EN : @Who knows when I will be
+ permitted to return to
+ where my brother is.@I have no wings to flap.
+ No, not even black wings.
+  4|RE : <<TODO>>
+
+[JP#2777] gaps=3  aln=HIGH->US#2741  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「私は、はばたく<8a8c>も持っていない / 　そう、<888c>い<8a8c>すらも〜
+  2|LIT: <<TODO>>
+  3|EN : @I have no wings to flap.
+ No, not even black wings.
+  4|RE : <<TODO>>
+
+[JP#2778] gaps=6  aln=HIGH->US#2742  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : 「[11]おずっと<8a10>い北東の地〜 / 　誰も知らない<8a79><897e>魔法<8a7a>の男り[11]ぉには / 　強い<89f9>が英配する雄<8a7d>があるそうです[10][0c]「このファルガイアには / 　まだまだ不思議な共が / 　奇されているのですね〜
+  2|LIT: <<TODO>>
+  3|EN : @about a windswept cave 1far
+ to the northwest, by a Landing
+ Pad no one knows about0.@It seems Filgaia still has
+ many mysterious places that
+ are yet unexplored.
+  4|RE : <<TODO>>
+
+[JP#2779] gaps=0  aln=HIGH->US#2743  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「このファルガイアには / 　まだまだ不思議な共が / 　奇されているのですね〜
+  2|LIT: <<TODO>>
+  3|EN : @It seems Filgaia still has
+ many mysterious places that
+ are yet unexplored.
+  4|RE : <<TODO>>
+
+[JP#2780] gaps=5  aln=HIGH->US#2744  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「でもそれは / 　考えてみれば<8a80>せなことかもしれない[10][0c]「<8954>うだけの選活集という道が / 　<8a91>けるんですもの〜[10][0c]「だから、力の無い者は / 　力を持つ者に<8a92>れ / 　そして、<8a93>れるのかもしれません
+  2|LIT: <<TODO>>
+  3|EN : @But you should consider
+ yourself fortunate.@Fortunate to have the option
+ of hesitating, that is.@Perhaps that is why the
+ powerless look toward the
+ powerful with envy... and fear.
+  4|RE : <<TODO>>
+
+[JP#2781] gaps=4  aln=HIGH->US#2745  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「<8954>うだけの選活集という道が / 　<8a91>けるんですもの〜[10][0c]「だから、力の無い者は / 　力を持つ者に<8a92>れ / 　そして、<8a93>れるのかもしれません
+  2|LIT: <<TODO>>
+  3|EN : @Fortunate to have the option
+ of hesitating, that is.@Perhaps that is why the
+ powerless look toward the
+ powerful with envy... and fear.
+  4|RE : <<TODO>>
+
+[JP#2782] gaps=2  aln=HIGH->US#2746  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「だから、力の無い者は / 　力を持つ者に<8a92>れ / 　そして、<8a93>れるのかもしれません
+  2|LIT: <<TODO>>
+  3|EN : @Perhaps that is why the
+ powerless look toward the
+ powerful with envy... and fear.
+  4|RE : <<TODO>>
+
+[JP#2783] gaps=7  aln=HIGH->US#2747  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「でも、忘れないで / 　<89e0>は同時に / 　同じ強さの<88c0>を生み出すということを〜[10][0c]「同じ<89e0>なら / 　私は<8a95>み込んでくれるような / 　<89ab>しい<89e0>を<8a96>んでいます
+  2|LIT: <<TODO>>
+  3|EN : @But do not forget: A bright
+ light also creates a shadow
+ that is that much darker.@If I could choose, I would
+ pick a gentle light that
+ envelopes me softly.
+  4|RE : <<TODO>>
+
+[JP#2784] gaps=5  aln=HIGH->US#2748  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「同じ<89e0>なら / 　私は<8a95>み込んでくれるような / 　<89ab>しい<89e0>を<8a96>んでいます
+  2|LIT: <<TODO>>
+  3|EN : @If I could choose, I would
+ pick a gentle light that
+ envelopes me softly.
+  4|RE : <<TODO>>
+
+[JP#2785] gaps=4  aln=HIGH->US#2749  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「まるで、自分の身体だけではなく / 　この世界そのものを / 　英えようとしているみたいに〜[10][0c]「勝方と私の大<8a99>きなファルガイア〜 / 　人ひとりの力で英えられるモノでしょうか？[10][0c]「どうか勝方を<8833>けてください / 　私には無い、勝方と<8a83>に<8a9a>ぶ力を持つ / 　あなた方なら、きっと〜
+  2|LIT: <<TODO>>
+  3|EN : @It's as if he's trying to
+ support not just his own body,
+ but the world itself.@But can our beloved Filgaia be
+ supported by any one person?@Please help my brother! You
+ are strong, unlike me... Nearly
+ as strong as my brother!
+  4|RE : <<TODO>>
+
+[JP#2786] gaps=4  aln=HIGH->US#2750  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「勝方と私の大<8a99>きなファルガイア〜 / 　人ひとりの力で英えられるモノでしょうか？[10][0c]「どうか勝方を<8833>けてください / 　私には無い、勝方と<8a83>に<8a9a>ぶ力を持つ / 　あなた方なら、きっと〜
+  2|LIT: <<TODO>>
+  3|EN : @But can our beloved Filgaia be
+ supported by any one person?@Please help my brother! You
+ are strong, unlike me... Nearly
+ as strong as my brother!
+  4|RE : <<TODO>>
+
+[JP#2787] gaps=3  aln=HIGH->US#2751  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「どうか勝方を<8833>けてください / 　私には無い、勝方と<8a83>に<8a9a>ぶ力を持つ / 　あなた方なら、きっと〜
+  2|LIT: <<TODO>>
+  3|EN : @Please help my brother! You
+ are strong, unlike me... Nearly
+ as strong as my brother!
+  4|RE : <<TODO>>
+
+[JP#2788] gaps=3  aln=HIGH->US#2752  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「何でもひとりでかかえ込んでしまうのが / 　勝方の悪いクセなのです[10][0c]「誰も、ひとりで険てをこなすほどの / 　力など持っているはずがありません[10][0c]「でも、誰もが / 　誰かを<8833>ける力を持っている<f040><f042> / 　そうではありませんか？
+  2|LIT: <<TODO>>
+  3|EN : @He has a bad habit of taking
+ everything upon himself.@But no one has the strength
+ to do everything all alone.@Yet everyone has the strength
+ to help others...
+ Isn't it ironic?
+  4|RE : <<TODO>>
+
+[JP#2789] gaps=3  aln=HIGH->US#2753  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「誰も、ひとりで険てをこなすほどの / 　力など持っているはずがありません[10][0c]「でも、誰もが / 　誰かを<8833>ける力を持っている<f040><f042> / 　そうではありませんか？
+  2|LIT: <<TODO>>
+  3|EN : @But no one has the strength
+ to do everything all alone.@Yet everyone has the strength
+ to help others...
+ Isn't it ironic?
+  4|RE : <<TODO>>
+
+[JP#2790] gaps=3  aln=HIGH->US#2754  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「でも、誰もが / 　誰かを<8833>ける力を持っている<f040><f042> / 　そうではありませんか？
+  2|LIT: <<TODO>>
+  3|EN : @Yet everyone has the strength
+ to help others...
+ Isn't it ironic?
+  4|RE : <<TODO>>
+
+[JP#2791] gaps=2  aln=HIGH->US#2755  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ＡＲＭＳはいつも / 　みんなで<8a9d>利を<8a9d>ち取ってきたんだ / 　今度もきっとうまくいくよ[10][0c]「それでもうまくいかないときは / 　ＡＲＭＳだけじゃなくて / 　ファルガイアのみんなでがんばろうッ！
+  2|LIT: <<TODO>>
+  3|EN : @Together, we've won victory
+ after victory for ARMS, and
+ I know we can do it again.@And even if ARMS can't do it,
+ then the people of Filgaia can
+ ...if we all pull together!
+  4|RE : <<TODO>>
+
+[JP#2792] gaps=0  aln=HIGH->US#2756  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「それでもうまくいかないときは / 　ＡＲＭＳだけじゃなくて / 　ファルガイアのみんなでがんばろうッ！
+  2|LIT: <<TODO>>
+  3|EN : @And even if ARMS can't do it,
+ then the people of Filgaia can
+ ...if we all pull together!
+  4|RE : <<TODO>>
+
+[JP#2793] gaps=1  aln=HIGH->US#2757  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「カイバーベルトは滅死の大地〜 / 　延の<89af>限に落辺したものと思われるよ[10][0c]「[11]おクアトリーの北側[11]ぉ〜 / 　ちょうどクアトリーとアークハイムの / 　中間地帯かな？[10][0c]「がんばって、みんなッ！ / 　ミーちゃんからのお願いだよ
+  2|LIT: <<TODO>>
+  3|EN : @The Kuiper Belt crashed in the
+ Land of Death and Destruction.@It's 1northeast of Quartly0,
+ just about halfway between Quartly
+ and Archheim.@Good luck, everyone!
+ I've got my fingers crossed!
+  4|RE : <<TODO>>
+
+[JP#2794] gaps=0  aln=HIGH->US#2758  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[11]おクアトリーの北側[11]ぉ〜 / 　ちょうどクアトリーとアークハイムの / 　中間地帯かな？[10][0c]「がんばって、みんなッ！ / 　ミーちゃんからのお願いだよ
+  2|LIT: <<TODO>>
+  3|EN : @It's 1northeast of Quartly0,
+ just about halfway between Quartly
+ and Archheim.@Good luck, everyone!
+ I've got my fingers crossed!
+  4|RE : <<TODO>>
+
+[JP#2795] gaps=0  aln=HIGH->US#2759  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「がんばって、みんなッ！ / 　ミーちゃんからのお願いだよ
+  2|LIT: <<TODO>>
+  3|EN : @Good luck, everyone!
+ I've got my fingers crossed!
+  4|RE : <<TODO>>
+
+[JP#2796] gaps=0  aln=HIGH->US#2760  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ミーちゃん / 　いっしょうけんめい / 　がんばっているよ〜[10][0c]「ケイちゃんだって / 　それなりにね[10][0c]「がんばったみんなが / 　暗い探しているなんて / 　ぜったいおかしいよ
+  2|LIT: <<TODO>>
+  3|EN : @I did everything
+ I possibly could,
+ you know.@And K... well, she
+ did her part.@So why is everyone looking so
+ gloomy even though we all did
+ the best we could?
+  4|RE : <<TODO>>
+
+[JP#2797] gaps=0  aln=HIGH->US#2761  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ケイちゃんだって / 　それなりにね[10][0c]「がんばったみんなが / 　暗い探しているなんて / 　ぜったいおかしいよ
+  2|LIT: <<TODO>>
+  3|EN : @And K... well, she
+ did her part.@So why is everyone looking so
+ gloomy even though we all did
+ the best we could?
+  4|RE : <<TODO>>
+
+[JP#2798] gaps=0  aln=HIGH->US#2762  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「がんばったみんなが / 　暗い探しているなんて / 　ぜったいおかしいよ
+  2|LIT: <<TODO>>
+  3|EN : @So why is everyone looking so
+ gloomy even though we all did
+ the best we could?
+  4|RE : <<TODO>>
+
+[JP#2799] gaps=7  aln=HIGH->US#2763  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「まずは、[11]おタウンメリアから / 　ずっと北の大きな他[11]ぉ〜 / 　魔界鍵の一本と<8aa0>近いポイントに、ひとつ[10][0c]「更に[11]おシルヴァラントの東方の<8aa1>上[11]ぉ〜 / 　<8aa2>知<8867>度から空中だと思われるよ[10][0c]「みっつめは / 　[11]おダムツェンの先東[11]ぉ〜 / 　わりとすぐ近くにてポイント確認ッ！[10][0c]「最後のレイポイントは〜 / 　[11]おギルドグラードの先側[11]ぉ / 　ぐるぐる<8812>きの他から反<8839>アリッ！[10][0c]「ミーちゃんは / 　ミーちゃんのできることをがんばったよ / 　後は、みんなのがんばりに<8aa3>待してるからね
+  2|LIT: <<TODO>>
+  3|EN : @One is near a
+ 1large island far north of Meria0,
+ not far from a Diablo Pillar.@Another is
+ 1over the sea west of Sylvaland0,
+ apparently in mid-air.@The third one is fairly
+ near you to the
+ 1southwest of Damzen0!@And the last Raypoint...
+ It's on the Coil Island,0
+ 1southeast of Guild Galad0!
+  4|RE : <<TODO>>
+
+[JP#2800] gaps=6  aln=MED->US#2764  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : 「更に[11]おシルヴァラントの東方の<8aa1>上[11]ぉ〜 / 　<8aa2>知<8867>度から空中だと思われるよ[10][0c]「みっつめは / 　[11]おダムツェンの先東[11]ぉ〜 / 　わりとすぐ近くにてポイント確認ッ！[10][0c]「最後のレイポイントは〜 / 　[11]おギルドグラードの先側[11]ぉ / 　ぐるぐる<8812>きの他から反<8839>アリッ！[10][0c]「ミーちゃんは / 　ミーちゃんのできることをがんばったよ / 　後は、みんなのがんばりに<8aa3>待してるからね
+  2|LIT: <<TODO>>
+  3|EN : @Another is
+ 1over the sea west of Sylvaland0,
+ apparently in mid-air.@The third one is fairly
+ near you to the
+ 1southwest of Damzen0!@And the last Raypoint...
+ It's on the Coil Island,0
+ 1southeast of Guild Galad0!
+  4|RE : <<TODO>>
+
+[JP#2801] gaps=3  aln=HIGH->US#2764  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「みっつめは / 　[11]おダムツェンの先東[11]ぉ〜 / 　わりとすぐ近くにてポイント確認ッ！[10][0c]「最後のレイポイントは〜 / 　[11]おギルドグラードの先側[11]ぉ / 　ぐるぐる<8812>きの他から反<8839>アリッ！[10][0c]「ミーちゃんは / 　ミーちゃんのできることをがんばったよ / 　後は、みんなのがんばりに<8aa3>待してるからね
+  2|LIT: <<TODO>>
+  3|EN : @Another is
+ 1over the sea west of Sylvaland0,
+ apparently in mid-air.@The third one is fairly
+ near you to the
+ 1southwest of Damzen0!@And the last Raypoint...
+ It's on the Coil Island,0
+ 1southeast of Guild Galad0!
+  4|RE : <<TODO>>
+
+[JP#2802] gaps=3  aln=HIGH->US#2765  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「最後のレイポイントは〜 / 　[11]おギルドグラードの先側[11]ぉ / 　ぐるぐる<8812>きの他から反<8839>アリッ！[10][0c]「ミーちゃんは / 　ミーちゃんのできることをがんばったよ / 　後は、みんなのがんばりに<8aa3>待してるからね
+  2|LIT: <<TODO>>
+  3|EN : @The third one is fairly
+ near you to the
+ 1southwest of Damzen0!@And the last Raypoint...
+ It's on the Coil Island,0
+ 1southeast of Guild Galad0!
+  4|RE : <<TODO>>
+
+[JP#2803] gaps=1  aln=HIGH->US#2766  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ミーちゃんは / 　ミーちゃんのできることをがんばったよ / 　後は、みんなのがんばりに<8aa3>待してるからね
+  2|LIT: <<TODO>>
+  3|EN : @And the last Raypoint...
+ It's on the Coil Island,0
+ 1southeast of Guild Galad0!
+  4|RE : <<TODO>>
+
+[JP#2804] gaps=1  aln=HIGH->US#2767  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「世界を食べちゃう『世界』って / 　いったい何だろう〜[10][0c]「ドラゴンたちのように / 　強い力を持っていても / 　『世界』には<8a9d>てないんだよね〜
+  2|LIT: <<TODO>>
+  3|EN : @A |world| that eats up other
+ worlds? What could that be?@Even the incredible power of the
+ Dragons couldn't stand a chance
+ against an entire world.
+  4|RE : <<TODO>>
+
+[JP#2805] gaps=1  aln=HIGH->US#2768  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ドラゴンたちのように / 　強い力を持っていても / 　『世界』には<8a9d>てないんだよね〜
+  2|LIT: <<TODO>>
+  3|EN : @Even the incredible power of the
+ Dragons couldn't stand a chance
+ against an entire world.
+  4|RE : <<TODO>>
+
+[JP#2806] gaps=2  aln=HIGH->US#2769  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>じゃあ、スレイハイムやオデッサなら / 　この異世事態を / 　カイケツできたのかな？
+  2|LIT: <<TODO>>
+  3|EN : @... Maybe Slayheim or Odessa
+ would have been strong enough
+ to fix this mess.
+  4|RE : <<TODO>>
+
+[JP#2807] gaps=0  aln=HIGH->US#2770  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「空は〜 / 　ファルガイアは / 　どうなっちゃうんだろうね
+  2|LIT: <<TODO>>
+  3|EN : @The sky is all crazy...
+ What's going to happen to
+ Filgaia?
+  4|RE : <<TODO>>
+
+[JP#2808] gaps=17  aln=MED->US#2771  CONF=SHAKY unsolved=17  CONF=SHAKY unsolved=17
+  1|JP : 「まずは、[11]お先側の道[11]ぉにひとつ〜 / 　ここは、魔の<8aa4><894b>道<8aa5>と言われててね / 　道の<8a07>が暗く変<8a07>している道<8aa5>なんだよ[10][0c]「更、<8aa6>本目ッ！ / 　[11]おギルドグラードの先東[11]ぉ〜 / 　谷地にて<89ae>たれた地<8aa5>に確認ッ！[10][0c]「どんどんいくよ、<8aa4>本目ッ！ / 　[11]お隠れ<895a>先側の山<8aa7>地<89e8>[11]ぉより確認ッ！ / 　山でエネルギー反<8839>なんてヘンだよね？[10][0c]「最後の最後、<88d1>本目ッ！ / 　[11]おここからずっと北にある大きな他[11]ぉにて確認〜 / 　でも、陸<89ca>も道<89ca>も使えないみたいなんだよ
+  2|LIT: <<TODO>>
+  3|EN : @One is in the 1southeast sea0,
+ in the Devil's Triangle, where
+ the water is dark in color.@We found another in an area
+ 1southwest of Guild Galad0
+ separated by a mountain range.@And Numero Tres!
+ 1In the woods southeast of Baskar0!
+ Energy in the forest? How weird!@Lastly, number four is on a
+ 1big island far north of here0.
+ Can't get there by sea or land tho.
+  4|RE : <<TODO>>
+
+[JP#2809] gaps=11  aln=MED->US#2771  CONF=SHAKY unsolved=11  CONF=SHAKY unsolved=11
+  1|JP : 「更、<8aa6>本目ッ！ / 　[11]おギルドグラードの先東[11]ぉ〜 / 　谷地にて<89ae>たれた地<8aa5>に確認ッ！[10][0c]「どんどんいくよ、<8aa4>本目ッ！ / 　[11]お隠れ<895a>先側の山<8aa7>地<89e8>[11]ぉより確認ッ！ / 　山でエネルギー反<8839>なんてヘンだよね？[10][0c]「最後の最後、<88d1>本目ッ！ / 　[11]おここからずっと北にある大きな他[11]ぉにて確認〜 / 　でも、陸<89ca>も道<89ca>も使えないみたいなんだよ
+  2|LIT: <<TODO>>
+  3|EN : @One is in the 1southeast sea0,
+ in the Devil's Triangle, where
+ the water is dark in color.@We found another in an area
+ 1southwest of Guild Galad0
+ separated by a mountain range.@And Numero Tres!
+ 1In the woods southeast of Baskar0!
+ Energy in the forest? How weird!@Lastly, number four is on a
+ 1big island far north of here0.
+ Can't get there by sea or land tho.
+  4|RE : <<TODO>>
+
+[JP#2810] gaps=8  aln=MED->US#2772  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : 「どんどんいくよ、<8aa4>本目ッ！ / 　[11]お隠れ<895a>先側の山<8aa7>地<89e8>[11]ぉより確認ッ！ / 　山でエネルギー反<8839>なんてヘンだよね？[10][0c]「最後の最後、<88d1>本目ッ！ / 　[11]おここからずっと北にある大きな他[11]ぉにて確認〜 / 　でも、陸<89ca>も道<89ca>も使えないみたいなんだよ
+  2|LIT: <<TODO>>
+  3|EN : @We found another in an area
+ 1southwest of Guild Galad0
+ separated by a mountain range.@And Numero Tres!
+ 1In the woods southeast of Baskar0!
+ Energy in the forest? How weird!@Lastly, number four is on a
+ 1big island far north of here0.
+ Can't get there by sea or land tho.
+  4|RE : <<TODO>>
+
+[JP#2811] gaps=3  aln=MED->US#2773  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「最後の最後、<88d1>本目ッ！ / 　[11]おここからずっと北にある大きな他[11]ぉにて確認〜 / 　でも、陸<89ca>も道<89ca>も使えないみたいなんだよ
+  2|LIT: <<TODO>>
+  3|EN : @And Numero Tres!
+ 1In the woods southeast of Baskar0!
+ Energy in the forest? How weird!@Lastly, number four is on a
+ 1big island far north of here0.
+ Can't get there by sea or land tho.
+  4|RE : <<TODO>>
+
+[JP#2812] gaps=2  aln=HIGH->US#2775  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ケイちゃんってさ / 　少昔まんがオタクなんだよ[10][0c]「いい<8aa8>こいて / 　まんが進みながら、よく<8aa9>いてるんだよ / 　ギコハハハッ！
+  2|LIT: <<TODO>>
+  3|EN : @K reads girls' comic books.
+ You know, the mushy kind!@Sometimes she even cries when
+ she's reading them! Imagine! At
+ her age! Hee, hee!
+  4|RE : <<TODO>>
+
+[JP#2813] gaps=2  aln=HIGH->US#2776  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「いい<8aa8>こいて / 　まんが進みながら、よく<8aa9>いてるんだよ / 　ギコハハハッ！
+  2|LIT: <<TODO>>
+  3|EN : @Sometimes she even cries when
+ she's reading them! Imagine! At
+ her age! Hee, hee!
+  4|RE : <<TODO>>
+
+[JP#2814] gaps=4  aln=HIGH->US#2777  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「参道の<89fc>の流れが / 　農村に向かっているからね[10][0c]「『参道の落とし物は農村で探せ』<f040><f042> / 　〜って、<8aaa>、何かで聞いた事あるよ
+  2|LIT: <<TODO>>
+  3|EN : @'Cause the inland sea's
+ current flows toward the beach.@Like the old saying, |Lost at
+ sea, found at the beach.|
+  4|RE : <<TODO>>
+
+[JP#2815] gaps=3  aln=HIGH->US#2778  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「『参道の落とし物は農村で探せ』<f040><f042> / 　〜って、<8aaa>、何かで聞いた事あるよ
+  2|LIT: <<TODO>>
+  3|EN : @Like the old saying, |Lost at
+ sea, found at the beach.|
+  4|RE : <<TODO>>
+
+[JP#2816] gaps=5  aln=HIGH->US#2779  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「でも、レアものの<8880>まりが / 　もうちょっとかな？[10][0c]「<8aac>られた地<8aa5>や / 　簡単な手<8aad>を用いないと / 　現われない怪獣もいるからね[10][0c]「マニアなら / 　そこらへんも<8aae>さえとかなきゃッ！
+  2|LIT: <<TODO>>
+  3|EN : @But I don't see too many
+ rare ones, ya know?@Some monsters only appear in
+ certain areas or when you use
+ special techniques.@A true fan should know
+ about those things!
+  4|RE : <<TODO>>
+
+[JP#2817] gaps=4  aln=HIGH->US#2780  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「<8aac>られた地<8aa5>や / 　簡単な手<8aad>を用いないと / 　現われない怪獣もいるからね[10][0c]「マニアなら / 　そこらへんも<8aae>さえとかなきゃッ！
+  2|LIT: <<TODO>>
+  3|EN : @Some monsters only appear in
+ certain areas or when you use
+ special techniques.@A true fan should know
+ about those things!
+  4|RE : <<TODO>>
+
+[JP#2818] gaps=1  aln=HIGH->US#2781  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「マニアなら / 　そこらへんも<8aae>さえとかなきゃッ！
+  2|LIT: <<TODO>>
+  3|EN : @A true fan should know
+ about those things!
+  4|RE : <<TODO>>
+
+[JP#2819] gaps=2  aln=HIGH->US#2782  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<883f>はすれども、<8aaf>は見えず / 　ウワサのエイミー・フェアチャイルドとは / 　ボクのことだよ[10][0c]「ミーちゃんって呼んでね☆
+  2|LIT: <<TODO>>
+  3|EN : @It's me, Amy Fairchild!
+ The face behind the voice
+ you know and love so well!@You can call me |A|.
+  4|RE : <<TODO>>
+
+[JP#2820] gaps=0  aln=HIGH->US#2783  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ミーちゃんって呼んでね☆
+  2|LIT: <<TODO>>
+  3|EN : @You can call me |A|.
+  4|RE : <<TODO>>
+
+[JP#2821] gaps=3  aln=HIGH->US#2784  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「ですが、オデッサ以後に / 　ふりかかった脅威を来けたのは / 　<8ab0><8a72>の<8ab1>力体制ではないでしょうか〜[10][0c]「わたしたちの力だけではありません[10][0c]「ファルガイアのみんなが力をあわせれば / 　より大きな脅威に戻ち向かえる〜 / 　そんな気がしませんか？
+  2|LIT: <<TODO>>
+  3|EN : @But it was international
+ teamwork that helped defeat the
+ threats that came after Odessa.@We couldn't have done it alone.@If all of Filgaia pulls
+ together, I'm sure we can fight
+ off any threat.
+  4|RE : <<TODO>>
+
+[JP#2822] gaps=0  aln=HIGH->US#2785  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「わたしたちの力だけではありません[10][0c]「ファルガイアのみんなが力をあわせれば / 　より大きな脅威に戻ち向かえる〜 / 　そんな気がしませんか？
+  2|LIT: <<TODO>>
+  3|EN : @We couldn't have done it alone.@If all of Filgaia pulls
+ together, I'm sure we can fight
+ off any threat.
+  4|RE : <<TODO>>
+
+[JP#2823] gaps=0  aln=HIGH->US#2786  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ファルガイアのみんなが力をあわせれば / 　より大きな脅威に戻ち向かえる〜 / 　そんな気がしませんか？
+  2|LIT: <<TODO>>
+  3|EN : @If all of Filgaia pulls
+ together, I'm sure we can fight
+ off any threat.
+  4|RE : <<TODO>>
+
+[JP#2824] gaps=3  aln=HIGH->US#2787  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「簡にギルドグラードからの / 　情報<8ab2><8842>と<8ab1>力にて / 　復の脅威をまぬがれたのですから〜[10][0c]「わたしたちは / 　確実に変わってきています[10][0c]「この力で / 　ファルガイアも変えていければ / 　いいのですが〜
+  2|LIT: <<TODO>>
+  3|EN : @Guild Galad's information
+ and help was a key factor in
+ escaping the nuclear threat.@We have truly
+ changed for the better.@I hope that with this power,
+ we can change
+ all of Filgaia.
+  4|RE : <<TODO>>
+
+[JP#2825] gaps=0  aln=HIGH->US#2788  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「わたしたちは / 　確実に変わってきています[10][0c]「この力で / 　ファルガイアも変えていければ / 　いいのですが〜
+  2|LIT: <<TODO>>
+  3|EN : @We have truly
+ changed for the better.@I hope that with this power,
+ we can change
+ all of Filgaia.
+  4|RE : <<TODO>>
+
+[JP#2826] gaps=0  aln=HIGH->US#2789  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「この力で / 　ファルガイアも変えていければ / 　いいのですが〜
+  2|LIT: <<TODO>>
+  3|EN : @I hope that with this power,
+ we can change
+ all of Filgaia.
+  4|RE : <<TODO>>
+
+[JP#2827] gaps=8  aln=HIGH->US#2790  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : 「オデッサとの戦いは / 　前<8ab3>戦にすぎないと〜[10][0c]「ＡＲＭＳは / 　<8a43>るべき世界<8ab4><8920>の脅威に対して / 　<8ab5><8ab6>されたのだと〜[10][0c]「指揮<899d>は / 　この空を、今回の異世事態を / 　あらかじめ<888e>待していたのでしょうか？
+  2|LIT: <<TODO>>
+  3|EN : @He said that the fight with
+ Odessa was just a warmup...@... that ARMS was formed to
+ combat a much larger, global
+ threat.@I wonder if the Chief knew
+ about this crisis. Did he know
+ the sky would change like this?
+  4|RE : <<TODO>>
+
+[JP#2828] gaps=7  aln=HIGH->US#2791  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「ＡＲＭＳは / 　<8a43>るべき世界<8ab4><8920>の脅威に対して / 　<8ab5><8ab6>されたのだと〜[10][0c]「指揮<899d>は / 　この空を、今回の異世事態を / 　あらかじめ<888e>待していたのでしょうか？
+  2|LIT: <<TODO>>
+  3|EN : @... that ARMS was formed to
+ combat a much larger, global
+ threat.@I wonder if the Chief knew
+ about this crisis. Did he know
+ the sky would change like this?
+  4|RE : <<TODO>>
+
+[JP#2829] gaps=2  aln=HIGH->US#2792  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「指揮<899d>は / 　この空を、今回の異世事態を / 　あらかじめ<888e>待していたのでしょうか？
+  2|LIT: <<TODO>>
+  3|EN : @I wonder if the Chief knew
+ about this crisis. Did he know
+ the sky would change like this?
+  4|RE : <<TODO>>
+
+[JP#2830] gaps=10  aln=HIGH->US#2793  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=7
+  1|JP : 「ファルガイアには / 　現帰４ヶ所の周辺ポイント〜 / 　<8a79><897e>魔法<8a7a>が確認されています[10][0c]「まず、ご存知とは思いますが / 　タウンメリアと隠れ<895a>の<88be>近〜[10][0c]「そして、レイライン観待<88e4><88e5>より東の他と / 　ギルドグラードの先東にも / 　ひとつずつ<8a79><897e>魔法<8a7a>があります
+  2|LIT: <<TODO>>
+  3|EN : @Currently, only 4 Landing
+ Pads are known throughout
+ Filgaia.@As you know, these are in Meria,
+ near the hidden village...@on the island west of the Raline
+ Observatory, and southwest of
+ Guild Galad.
+  4|RE : <<TODO>>
+
+[JP#2831] gaps=7  aln=HIGH->US#2794  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=5
+  1|JP : 「まず、ご存知とは思いますが / 　タウンメリアと隠れ<895a>の<88be>近〜[10][0c]「そして、レイライン観待<88e4><88e5>より東の他と / 　ギルドグラードの先東にも / 　ひとつずつ<8a79><897e>魔法<8a7a>があります
+  2|LIT: <<TODO>>
+  3|EN : @As you know, these are in Meria,
+ near the hidden village...@on the island west of the Raline
+ Observatory, and southwest of
+ Guild Galad.
+  4|RE : <<TODO>>
+
+[JP#2832] gaps=5  aln=HIGH->US#2795  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=3
+  1|JP : 「そして、レイライン観待<88e4><88e5>より東の他と / 　ギルドグラードの先東にも / 　ひとつずつ<8a79><897e>魔法<8a7a>があります
+  2|LIT: <<TODO>>
+  3|EN : @on the island west of the Raline
+ Observatory, and southwest of
+ Guild Galad.
+  4|RE : <<TODO>>
+
+[JP#2833] gaps=1  aln=HIGH->US#2796  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「まあ、エイミーは / 　そんなことくらいにしか / 　<8964>に戻ちませんが〜
+  2|LIT: <<TODO>>
+  3|EN : @As for Amy, well, that's
+ about all she can do,
+ I'm afraid.
+  4|RE : <<TODO>>
+
+[JP#2834] gaps=6  aln=HIGH->US#2797  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「たしか、指揮<899d>も / 　シエルジェにていろいろなことを / 　<8a6b>んでいたとか〜[10][0c]「<8ab9><8aba>なところが / 　作戦指揮に<8abb><8abc>されているんですね
+  2|LIT: <<TODO>>
+  3|EN : @Come to think of it, I
+ think the Chief studied
+ in Sielje, as well.@He applies that vast knowledge
+ to tactics and commanding.
+  4|RE : <<TODO>>
+
+[JP#2835] gaps=4  aln=HIGH->US#2798  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「<8ab9><8aba>なところが / 　作戦指揮に<8abb><8abc>されているんですね
+  2|LIT: <<TODO>>
+  3|EN : @He applies that vast knowledge
+ to tactics and commanding.
+  4|RE : <<TODO>>
+
+[JP#2836] gaps=3  aln=HIGH->US#2799  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「<8886>急事態に対する決<898e>力と意外性 / 　そして、先を見兄した達観力は / 　誰よりも<8abe>でていると思いませんか？
+  2|LIT: <<TODO>>
+  3|EN : @He has such amazing judgment
+ and is so perceptive yet
+ never predictable in battle.
+  4|RE : <<TODO>>
+
+[JP#2837] gaps=1  aln=MED->US#2800  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「エイミーとふたり / 　オペレート<8847>当している / 　テレパスメイジです
+  2|LIT: <<TODO>>
+  3|EN : @Amy and I are the
+ operators. We're
+ also both telepaths.
+  4|RE : <<TODO>>
+
+[JP#2838] gaps=6  aln=HIGH->US#2801  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「そうかな？ / 　いいや、そうじゃないさ[10][0c]「ヴァレリアシャトーは / 　ファルガイアの獲干を<8ac2><8ac3>する<8ac4><8882>[10][0c]「<8abf>は、ファルガイアに生きる僕たち険<8ac5>〜 / 　な、そうだろう？
+  2|LIT: <<TODO>>
+  3|EN : @But is she really masterless?
+ Actually, she isn't.@Valeria Chateau is the symbol
+ of peace in Filgaia.@All of us who live in Filgaia
+ are her |masters.| Get it?
+  4|RE : <<TODO>>
+
+[JP#2839] gaps=6  aln=HIGH->US#2802  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「ヴァレリアシャトーは / 　ファルガイアの獲干を<8ac2><8ac3>する<8ac4><8882>[10][0c]「<8abf>は、ファルガイアに生きる僕たち険<8ac5>〜 / 　な、そうだろう？
+  2|LIT: <<TODO>>
+  3|EN : @Valeria Chateau is the symbol
+ of peace in Filgaia.@All of us who live in Filgaia
+ are her |masters.| Get it?
+  4|RE : <<TODO>>
+
+[JP#2840] gaps=2  aln=HIGH->US#2803  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8abf>は、ファルガイアに生きる僕たち険<8ac5>〜 / 　な、そうだろう？
+  2|LIT: <<TODO>>
+  3|EN : @All of us who live in Filgaia
+ are her |masters.| Get it?
+  4|RE : <<TODO>>
+
+[JP#2841] gaps=4  aln=HIGH->US#2804  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「いざとなったら底間人を<8939><8aca>して / 　あるのかわからない危険地<89e8>に / 　向かう準備をしているのさ[10][0c]「その時、今までのダメージが / 　いっきに<8acb>き出したら / 　シャレにならないだろう？
+  2|LIT: <<TODO>>
+  3|EN : @When the time comes, she has
+ to take everyone to safety. If
+ such a place exists, that is.@We don't want her breaking
+ apart in mid-air 'cause of all
+ the damage she's sustained.
+  4|RE : <<TODO>>
+
+[JP#2842] gaps=1  aln=HIGH->US#2805  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「その時、今までのダメージが / 　いっきに<8acb>き出したら / 　シャレにならないだろう？
+  2|LIT: <<TODO>>
+  3|EN : @We don't want her breaking
+ apart in mid-air 'cause of all
+ the damage she's sustained.
+  4|RE : <<TODO>>
+
+[JP#2843] gaps=3  aln=HIGH->US#2806  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「可愛いシャトーが<8a86><8ace>をあげちまうぜ / 　出撃もできるだけ<8acf>えてほしいんだが〜 / 　そうもいかねぇよな
+  2|LIT: <<TODO>>
+  3|EN : @My poor, sweet Val! I wish we
+ could cut down on these raids,
+ but no such luck, eh?
+  4|RE : <<TODO>>
+
+[JP#2844] gaps=1  aln=HIGH->US#2807  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ヴァレリアシャトーを使って / 　ハデに<8ad2>れてやろうぜッ！
+  2|LIT: <<TODO>>
+  3|EN : @Let's show 'em what
+ Valeria Chateau can do!
+  4|RE : <<TODO>>
+
+[JP#2845] gaps=4  aln=HIGH->US#2808  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「<8ad3>度<8ad3>度の出撃が<89d3>体に<8ad4>いて / 　けっこうガタがきているんのさ[10][0c]「出撃があるたびに / 　『これが最後』と思って / 　大切にあつかっているつもりなんだぜ[10][0c]「そりゃもう、昔の家なみに
+  2|LIT: <<TODO>>
+  3|EN : @All the battles have started
+ to take their toll on the hull.@When I take her out on an
+ attack, I treat her VERY
+ gently...@as gently as I would a lady!
+  4|RE : <<TODO>>
+
+[JP#2846] gaps=0  aln=HIGH->US#2809  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「出撃があるたびに / 　『これが最後』と思って / 　大切にあつかっているつもりなんだぜ[10][0c]「そりゃもう、昔の家なみに
+  2|LIT: <<TODO>>
+  3|EN : @When I take her out on an
+ attack, I treat her VERY
+ gently...@as gently as I would a lady!
+  4|RE : <<TODO>>
+
+[JP#2847] gaps=0  aln=HIGH->US#2810  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「そりゃもう、昔の家なみに
+  2|LIT: <<TODO>>
+  3|EN : @as gently as I would a lady!
+  4|RE : <<TODO>>
+
+[JP#2848] gaps=7  aln=HIGH->US#2811  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「そんなもの、飛ばすどころか / 　<8ad6>持するだけで / 　<8ad7>大な<8ad8>用がかかっちまうんだが〜[10][0c]「<8a55><8ad9>方のヴァレリア<8ada>はいざしらず / 　オデッサの連中 / 　どこから<8adb>金を調達しているんだ？
+  2|LIT: <<TODO>>
+  3|EN : @Just keeping her running is
+ expensive enough -- not to
+ mention flying her!@I know Sir Valeria is loaded,
+ but where does Odessa get
+ all that money?
+  4|RE : <<TODO>>
+
+[JP#2849] gaps=4  aln=HIGH->US#2812  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「<8a55><8ad9>方のヴァレリア<8ada>はいざしらず / 　オデッサの連中 / 　どこから<8adb>金を調達しているんだ？
+  2|LIT: <<TODO>>
+  3|EN : @I know Sir Valeria is loaded,
+ but where does Odessa get
+ all that money?
+  4|RE : <<TODO>>
+
+[JP#2850] gaps=0  aln=HIGH->US#2813  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「飛空機艇と / 　昔の家のあつかいに関しては / 　ファルガイアじゃ一番のつもりさ[10][0c]「そんな僕に何か用かい？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @I'm the best in Filgaia at
+ handling flyin' machines
+ and pretty ladies!@What can I do for ya?2
+  4|RE : <<TODO>>
+
+[JP#2851] gaps=0  aln=HIGH->US#2814  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「そんな僕に何か用かい？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @What can I do for ya?2
+  4|RE : <<TODO>>
+
+[JP#2852] gaps=20  aln=HIGH->US#2815  CONF=SHAKY unsolved=20  CONF=SHAKY unsolved=17
+  1|JP : 「ヴァレリアシャトーに<8ade>りたいときは / 　<8a79><897e>魔法<8a7a>上で[0b]かボタンを<8aae>してくれ / 　<887c><8ade>コールを聞きつけたら回<8939>してやるぜ[10][0c]「ヴァレリアシャトーから周りたいときは / 　これまた<8a79><897e>魔法<8a7a>上で / 　[0b]がボタンだ[10][0c]「<8a79><897e>魔法<8a7a>の上以外の場所で / 　[0b]がボタンを<8aae>すと / 　<8adf>用メニューが開かれる[10][0c]「ヴァレリアシャトー参での行動や / 　僕に<8adc>仲を任せるときは / 　<8adf>用メニューを開いてくれよなッ！[10][0c]「カオの良さに反<8876><8943>して / 　なぜだか目戻たない僕からのお願いだッ！ / 　出番たのむぜッ！[18]か
+  2|LIT: <<TODO>>
+  3|EN : @To board, touch a Landing Pad and
+ press the 2 button. I'll bring you
+ aboard after the boarding call.@To leave Valeria Chateau, you
+ also press the 3 button while
+ over a Landing Pad.@If you press the 3 button
+ when not over a Landing Pad,
+ the Special Menu comes up.@Use the Special Menu to
+ move through Valeria Chateau
+ or have me pilot her.@I'm handsome but I still don't
+ get notice
+  4|RE : <<TODO>>
+
+[JP#2853] gaps=12  aln=HIGH->US#2816  CONF=SHAKY unsolved=12  CONF=SHAKY unsolved=10
+  1|JP : 「ヴァレリアシャトーから周りたいときは / 　これまた<8a79><897e>魔法<8a7a>上で / 　[0b]がボタンだ[10][0c]「<8a79><897e>魔法<8a7a>の上以外の場所で / 　[0b]がボタンを<8aae>すと / 　<8adf>用メニューが開かれる[10][0c]「ヴァレリアシャトー参での行動や / 　僕に<8adc>仲を任せるときは / 　<8adf>用メニューを開いてくれよなッ！[10][0c]「カオの良さに反<8876><8943>して / 　なぜだか目戻たない僕からのお願いだッ！ / 　出番たのむぜッ！[18]か
+  2|LIT: <<TODO>>
+  3|EN : @To leave Valeria Chateau, you
+ also press the 3 button while
+ over a Landing Pad.@If you press the 3 button
+ when not over a Landing Pad,
+ the Special Menu comes up.@Use the Special Menu to
+ move through Valeria Chateau
+ or have me pilot her.@I'm handsome but I still don't
+ get noticed enough, so let me
+ fly whenever you can!2
+  4|RE : <<TODO>>
+
+[JP#2854] gaps=9  aln=HIGH->US#2817  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=8
+  1|JP : 「<8a79><897e>魔法<8a7a>の上以外の場所で / 　[0b]がボタンを<8aae>すと / 　<8adf>用メニューが開かれる[10][0c]「ヴァレリアシャトー参での行動や / 　僕に<8adc>仲を任せるときは / 　<8adf>用メニューを開いてくれよなッ！[10][0c]「カオの良さに反<8876><8943>して / 　なぜだか目戻たない僕からのお願いだッ！ / 　出番たのむぜッ！[18]か
+  2|LIT: <<TODO>>
+  3|EN : @If you press the 3 button
+ when not over a Landing Pad,
+ the Special Menu comes up.@Use the Special Menu to
+ move through Valeria Chateau
+ or have me pilot her.@I'm handsome but I still don't
+ get noticed enough, so let me
+ fly whenever you can!2
+  4|RE : <<TODO>>
+
+[JP#2855] gaps=4  aln=HIGH->US#2818  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「ヴァレリアシャトー参での行動や / 　僕に<8adc>仲を任せるときは / 　<8adf>用メニューを開いてくれよなッ！[10][0c]「カオの良さに反<8876><8943>して / 　なぜだか目戻たない僕からのお願いだッ！ / 　出番たのむぜッ！[18]か
+  2|LIT: <<TODO>>
+  3|EN : @Use the Special Menu to
+ move through Valeria Chateau
+ or have me pilot her.@I'm handsome but I still don't
+ get noticed enough, so let me
+ fly whenever you can!2
+  4|RE : <<TODO>>
+
+[JP#2856] gaps=2  aln=HIGH->US#2819  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「カオの良さに反<8876><8943>して / 　なぜだか目戻たない僕からのお願いだッ！ / 　出番たのむぜッ！[18]か
+  2|LIT: <<TODO>>
+  3|EN : @I'm handsome but I still don't
+ get noticed enough, so let me
+ fly whenever you can!2
+  4|RE : <<TODO>>
+
+[JP#2857] gaps=2  aln=HIGH->US#2820  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「ワシらはやっぱり / 　安切られたんだろうか？[10][0c]「人を信じ<8a18>けること / 　それは、無意<8a3d>なんだろうか〜？
+  2|LIT: <<TODO>>
+  3|EN : @I can't believe he
+ betrayed us...@I feel like I can't trust
+ anyone anymore...
+  4|RE : <<TODO>>
+
+[JP#2858] gaps=2  aln=HIGH->US#2821  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「人を信じ<8a18>けること / 　それは、無意<8a3d>なんだろうか〜？
+  2|LIT: <<TODO>>
+  3|EN : @I feel like I can't trust
+ anyone anymore...
+  4|RE : <<TODO>>
+
+[JP#2859] gaps=3  aln=HIGH->US#2822  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「今度出撃する時は / 　底間人を<8939><8aca>して / 　危険を回<8ae0>するつもりらしい[10][0c]「ファルガイアは / 　そんなにせっぱつまっているのか？[10][0c]「ワシたちの力をあわせても / 　どうにもならないのか？
+  2|LIT: <<TODO>>
+  3|EN : @During the next attack, she's
+ going to be used to take all
+ the civilians to safety.@Is the situation in Filgaia
+ that desperate?@Maybe if we all pull together,
+ we'll make it through this...
+  4|RE : <<TODO>>
+
+[JP#2860] gaps=0  aln=HIGH->US#2823  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ファルガイアは / 　そんなにせっぱつまっているのか？[10][0c]「ワシたちの力をあわせても / 　どうにもならないのか？
+  2|LIT: <<TODO>>
+  3|EN : @Is the situation in Filgaia
+ that desperate?@Maybe if we all pull together,
+ we'll make it through this...
+  4|RE : <<TODO>>
+
+[JP#2861] gaps=0  aln=MED->US#2824  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ワシたちの力をあわせても / 　どうにもならないのか？
+  2|LIT: <<TODO>>
+  3|EN : @Maybe if we all pull together,
+ we'll make it through this...
+  4|RE : <<TODO>>
+
+[JP#2862] gaps=2  aln=HIGH->US#2825  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ダメだダメだ、そんなことじゃダメだ / 　もっとヴァレリア<8ada>の作戦を信じよう / 　僕たちを信じてくれよ[10][0c]「自分ひとりでしょいこまないで / 　みんなの力で何とかしようと考えりゃ / 　<8ae2>の力も抜けてくるもんだ
+  2|LIT: <<TODO>>
+  3|EN : @You can't let this go on! You
+ must trust in Sir Valeria's
+ tactics more! Let us help!@Instead of doing everything
+ yourself, share the burden.
+ Let's work together.
+  4|RE : <<TODO>>
+
+[JP#2863] gaps=1  aln=HIGH->US#2826  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「自分ひとりでしょいこまないで / 　みんなの力で何とかしようと考えりゃ / 　<8ae2>の力も抜けてくるもんだ
+  2|LIT: <<TODO>>
+  3|EN : @Instead of doing everything
+ yourself, share the burden.
+ Let's work together.
+  4|RE : <<TODO>>
+
+[JP#2864] gaps=1  aln=HIGH->US#2827  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そんなことより / 　エマ・モーターをほったらかして / 　[05]ぎ<8ae3>はいずこへッ！
+  2|LIT: <<TODO>>
+  3|EN : @What I want to know is where
+ Miss 5 went, leaving the
+ EMMA motor behind...
+  4|RE : <<TODO>>
+
+[JP#2865] gaps=0  aln=HIGH->US#2828  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「いったい何者なんだろう？ / 　まさか、ワシと同じく / 　前助は挑泣なのか〜ッ！
+  2|LIT: <<TODO>>
+  3|EN : @What's her story, anyway? I
+ wonder if she was a butcher
+ before, like me.
+  4|RE : <<TODO>>
+
+[JP#2866] gaps=1  aln=MED->US#2830  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「その出力に / 　<89d3>体の方が / 　ついていっておらんくらいだからのう[10][0c]「何とかならんのか〜？
+  2|LIT: <<TODO>>
+  3|EN : @Can't we help out somehow?
+  4|RE : <<TODO>>
+
+[JP#2867] gaps=0  aln=MED->US#2831  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「何とかならんのか〜？
+  2|LIT: <<TODO>>
+  3|EN : @Odessa's Varukisas must have
+ had a similar engine.
+  4|RE : <<TODO>>
+
+[JP#2868] gaps=2  aln=MED->US#2833  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「オデッサのバルキサスも / 　同方の動力機関が / 　<887c><887d>されていたと思うな
+  2|LIT: <<TODO>>
+  3|EN : @I joined ARMS to help out
+ during this crisis.
+ Pleased to meet ya.
+  4|RE : <<TODO>>
+
+[JP#2869] gaps=1  aln=MED->US#2834  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ちなみに前助は / 　挑泣だったのだッ！[10][0c]「緊急の事態にて / 　ＡＲＭＳに会せ<8ae6>じたのだ / 　よろしくたのむぞ
+  2|LIT: <<TODO>>
+  3|EN : @He said something about this
+ being the |last supper.|@It's bad luck to say that!@Besides, if it were the last
+ supper, I'd want to have that
+ last meal with everyone.@Food is so much better when
+ everyone eats together. Being
+ together is the best!
+  4|RE : <<TODO>>
+
+[JP#2870] gaps=1  aln=MED->US#2835  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「緊急の事態にて / 　ＡＲＭＳに会せ<8ae6>じたのだ / 　よろしくたのむぞ
+  2|LIT: <<TODO>>
+  3|EN : @It's bad luck to say that!@Besides, if it were the last
+ supper, I'd want to have that
+ last meal with everyone.@Food is so much better when
+ everyone eats together. Being
+ together is the best!
+  4|RE : <<TODO>>
+
+[JP#2871] gaps=9  aln=MED->US#2835  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「『最後の<8ae8><8ae9>だッ！』 / 　<f040><f042>なんて言いながら〜[10][0c]「<8aea>起でもありませんよ[10][0c]「もしも、ホントに / 　最後の<8ae8><8ae9>をしなくちゃならないのなら / 　ファルガイアのみんなとゴハンを食べたいな[10][0c]「みんなでいっしょに食べるゴハンは / 　<8aa6><8913>り珍しでウマイからね / 　やっぱり、みんないっしょが一番だよ
+  2|LIT: <<TODO>>
+  3|EN : @It's bad luck to say that!@Besides, if it were the last
+ supper, I'd want to have that
+ last meal with everyone.@Food is so much better when
+ everyone eats together. Being
+ together is the best!
+  4|RE : <<TODO>>
+
+[JP#2872] gaps=5  aln=HIGH->US#2835  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「<8aea>起でもありませんよ[10][0c]「もしも、ホントに / 　最後の<8ae8><8ae9>をしなくちゃならないのなら / 　ファルガイアのみんなとゴハンを食べたいな[10][0c]「みんなでいっしょに食べるゴハンは / 　<8aa6><8913>り珍しでウマイからね / 　やっぱり、みんないっしょが一番だよ
+  2|LIT: <<TODO>>
+  3|EN : @It's bad luck to say that!@Besides, if it were the last
+ supper, I'd want to have that
+ last meal with everyone.@Food is so much better when
+ everyone eats together. Being
+ together is the best!
+  4|RE : <<TODO>>
+
+[JP#2873] gaps=4  aln=HIGH->US#2836  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「もしも、ホントに / 　最後の<8ae8><8ae9>をしなくちゃならないのなら / 　ファルガイアのみんなとゴハンを食べたいな[10][0c]「みんなでいっしょに食べるゴハンは / 　<8aa6><8913>り珍しでウマイからね / 　やっぱり、みんないっしょが一番だよ
+  2|LIT: <<TODO>>
+  3|EN : @Besides, if it were the last
+ supper, I'd want to have that
+ last meal with everyone.@Food is so much better when
+ everyone eats together. Being
+ together is the best!
+  4|RE : <<TODO>>
+
+[JP#2874] gaps=2  aln=HIGH->US#2837  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「みんなでいっしょに食べるゴハンは / 　<8aa6><8913>り珍しでウマイからね / 　やっぱり、みんないっしょが一番だよ
+  2|LIT: <<TODO>>
+  3|EN : @Food is so much better when
+ everyone eats together. Being
+ together is the best!
+  4|RE : <<TODO>>
+
+[JP#2875] gaps=4  aln=HIGH->US#2838  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「考えてみれば、タウンメリアじゃ / 　ソースたぷたぷコロッケは / 　手に入らないんだッ！[10][0c]「なのに、なぜッ！ / 　あのジャリどもはソースたぷたぷコロッケの / 　<8aeb>おしいばかりの<8a3d>を知っているんだッ！[10][0c]「<f040><f042>コソドロめ〜 / 　あんまりなめてほしくないな / 　挑泣のせがれをよぉッ！
+  2|LIT: <<TODO>>
+  3|EN : @Think about it! You can't
+ even get a decent chili
+ cheeseburger in Meria!@So how can those brats even
+ appreciate the exquisite taste
+ of my chili cheeseburgers?@... Those thieving brats! I'll
+ teach them not to underestimate
+ the son of a butcher!
+  4|RE : <<TODO>>
+
+[JP#2876] gaps=4  aln=HIGH->US#2839  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「なのに、なぜッ！ / 　あのジャリどもはソースたぷたぷコロッケの / 　<8aeb>おしいばかりの<8a3d>を知っているんだッ！[10][0c]「<f040><f042>コソドロめ〜 / 　あんまりなめてほしくないな / 　挑泣のせがれをよぉッ！
+  2|LIT: <<TODO>>
+  3|EN : @So how can those brats even
+ appreciate the exquisite taste
+ of my chili cheeseburgers?@... Those thieving brats! I'll
+ teach them not to underestimate
+ the son of a butcher!
+  4|RE : <<TODO>>
+
+[JP#2877] gaps=2  aln=HIGH->US#2840  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>コソドロめ〜 / 　あんまりなめてほしくないな / 　挑泣のせがれをよぉッ！
+  2|LIT: <<TODO>>
+  3|EN : @... Those thieving brats! I'll
+ teach them not to underestimate
+ the son of a butcher!
+  4|RE : <<TODO>>
+
+[JP#2878] gaps=3  aln=HIGH->US#2841  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「<8ae7>ちゃんが / 　着ぐるみの昔の家にご<8aec>心だったんです[10][0c]「せがれとして / 　こんなショッキングな / 　出<8a43>事は他にありません
+  2|LIT: <<TODO>>
+  3|EN : @Pops is infatuated with
+ that girl in the outfit.@As his son, I have
+ never been so shocked
+ in all my life.
+  4|RE : <<TODO>>
+
+[JP#2879] gaps=1  aln=HIGH->US#2842  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「せがれとして / 　こんなショッキングな / 　出<8a43>事は他にありません
+  2|LIT: <<TODO>>
+  3|EN : @As his son, I have
+ never been so shocked
+ in all my life.
+  4|RE : <<TODO>>
+
+[JP#2880] gaps=3  aln=HIGH->US#2843  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「このまま / 　ソースたぷたぷコロッケ消失事<8854>は / 　<8954><8aed>入りとなってしまうのでしょうか？
+  2|LIT: <<TODO>>
+  3|EN : @It looks like the case of the
+ purloined chili cheeseburger
+ will go unsolved.
+  4|RE : <<TODO>>
+
+[JP#2881] gaps=5  aln=HIGH->US#2844  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「[0a]ぎ様と / 　[0a]く様です[10][0c]「ふたりとも<896a>世に<8ab1>力的で / 　すぐに<8ab8>良しになってしまいました[10][0c]「彼らも / 　ソースたぷたぷコロッケ大<8a99>き同<8aee>ですから
+  2|LIT: <<TODO>>
+  3|EN : @ 5 and
+  6.@They're both extremely helpful
+ and we really hit it off.@After all, we all love
+ chili cheeseburgers.
+  4|RE : <<TODO>>
+
+[JP#2882] gaps=5  aln=HIGH->US#2845  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「ふたりとも<896a>世に<8ab1>力的で / 　すぐに<8ab8>良しになってしまいました[10][0c]「彼らも / 　ソースたぷたぷコロッケ大<8a99>き同<8aee>ですから
+  2|LIT: <<TODO>>
+  3|EN : @They're both extremely helpful
+ and we really hit it off.@After all, we all love
+ chili cheeseburgers.
+  4|RE : <<TODO>>
+
+[JP#2883] gaps=2  aln=HIGH->US#2846  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「彼らも / 　ソースたぷたぷコロッケ大<8a99>き同<8aee>ですから
+  2|LIT: <<TODO>>
+  3|EN : @After all, we all love
+ chili cheeseburgers.
+  4|RE : <<TODO>>
+
+[JP#2884] gaps=2  aln=HIGH->US#2847  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「機関胞の<8af0>くれとして / 　オデッサのエネルギー事情〜 / 　気になりますね[10][0c]「ちなみに<8af1>人的なエネルギー事情ですが / 　以前、ボクのソースたぷたぷコロッケが / 　ちょっと目を離したスキに消失したのです[10][0c]「まさか、シャトー参に侵入してきた / 　オデッサのふたりが / 　わきめもふらずにモリモリと〜
+  2|LIT: <<TODO>>
+  3|EN : @I'm a bit of an engineer, you
+ know, so I wonder what kind of
+ energy Odessa uses.@As for my source of energy,
+ my chili cheeseburger
+ disappeared earlier.@You don't suppose those two
+ Odessa infiltrators gobbled
+ them up, do you?
+  4|RE : <<TODO>>
+
+[JP#2885] gaps=1  aln=HIGH->US#2848  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ちなみに<8af1>人的なエネルギー事情ですが / 　以前、ボクのソースたぷたぷコロッケが / 　ちょっと目を離したスキに消失したのです[10][0c]「まさか、シャトー参に侵入してきた / 　オデッサのふたりが / 　わきめもふらずにモリモリと〜
+  2|LIT: <<TODO>>
+  3|EN : @As for my source of energy,
+ my chili cheeseburger
+ disappeared earlier.@You don't suppose those two
+ Odessa infiltrators gobbled
+ them up, do you?
+  4|RE : <<TODO>>
+
+[JP#2886] gaps=0  aln=HIGH->US#2849  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「まさか、シャトー参に侵入してきた / 　オデッサのふたりが / 　わきめもふらずにモリモリと〜
+  2|LIT: <<TODO>>
+  3|EN : @You don't suppose those two
+ Odessa infiltrators gobbled
+ them up, do you?
+  4|RE : <<TODO>>
+
+[JP#2887] gaps=4  aln=HIGH->US#2850  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「ちなみに前助は / 　挑泣のせがれでしたッ！[10][0c]「<8af2>ちゃんに<894f>げられた / 　<8ae7>ちゃんをひとりにしておけないから / 　こうしてＡＲＭＳに会せ<8ae6>じました
+  2|LIT: <<TODO>>
+  3|EN : @Before I joined the service, I
+ worked at dad's butcher shop.@Dad's been alone since Mom
+ left. I wanted to be with him,
+ so I joined ARMS, too.
+  4|RE : <<TODO>>
+
+[JP#2888] gaps=4  aln=MED->US#2851  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「<8af2>ちゃんに<894f>げられた / 　<8ae7>ちゃんをひとりにしておけないから / 　こうしてＡＲＭＳに会せ<8ae6>じました
+  2|LIT: <<TODO>>
+  3|EN : @Dad's been alone since Mom
+ left. I wanted to be with him,
+ so I joined ARMS, too.
+  4|RE : <<TODO>>
+
+[JP#2889] gaps=0  aln=MED->US#2852  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「う、運命がひかれあい / 　もつれあって / 　くんずほぐれつ〜
+  2|LIT: <<TODO>>
+  3|EN : @Maybe we're destined to
+ meet... to come together
+ in a sweaty tussle.
+  4|RE : <<TODO>>
+
+[JP#2890] gaps=2  aln=HIGH->US#2853  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8ada>のことだ / 　きっと何かの思<8a8e>があるに違いない / 　僕はそう、信じている
+  2|LIT: <<TODO>>
+  3|EN : @Sir Valeria must have a good
+ reason for doing what he did.
+ I just know it.
+  4|RE : <<TODO>>
+
+[JP#2891] gaps=1  aln=HIGH->US#2854  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「他にはパレスヴィレッジと呼ばれる / 　小さな国があるそうだ[10][0c]「これはやはり / 　レイポイントの<8854>と / 　何か関係あるのではなかろうか？
+  2|LIT: <<TODO>>
+  3|EN : @On the island is a small
+ village called Palace Village.@Do you think this has
+ anything to do with the
+ Raypoint?
+  4|RE : <<TODO>>
+
+[JP#2892] gaps=1  aln=HIGH->US#2855  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「これはやはり / 　レイポイントの<8854>と / 　何か関係あるのではなかろうか？
+  2|LIT: <<TODO>>
+  3|EN : @Do you think this has
+ anything to do with the
+ Raypoint?
+  4|RE : <<TODO>>
+
+[JP#2893] gaps=5  aln=HIGH->US#2856  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : [02][09][f8]エ[06]「パレスヴィレッジが<8b12>る / 　パレス<8b10>か〜[10][0c]「星の命のエネルギーは / 　<8b13>作物にも<8a57>望を<8b14>えているんだな
+  2|LIT: <<TODO>>
+  3|EN : 	=�@Ah, Palace Village's famous
+ Palace Wheat.@The planet's life-energy also
+ does wondrous things for crops.
+  4|RE : <<TODO>>
+
+[JP#2894] gaps=3  aln=HIGH->US#2857  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「星の命のエネルギーは / 　<8b13>作物にも<8a57>望を<8b14>えているんだな
+  2|LIT: <<TODO>>
+  3|EN : @The planet's life-energy also
+ does wondrous things for crops.
+  4|RE : <<TODO>>
+
+[JP#2895] gaps=5  aln=HIGH->US#2858  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「でもさ、今はこうして貴<8aa4><8a72>が / 　一<88a8><897d>結して脅威にあたっているんだ / 　ありがたみが<8b18>ってしまったよな〜[10][0c]「まあ、イイコトなんだが〜
+  2|LIT: <<TODO>>
+  3|EN : @But now that the nations have
+ united, ARMS somehow seems
+ less significant...@Unity's a good thing, though.
+  4|RE : <<TODO>>
+
+[JP#2896] gaps=0  aln=HIGH->US#2859  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「まあ、イイコトなんだが〜
+  2|LIT: <<TODO>>
+  3|EN : @Unity's a good thing, though.
+  4|RE : <<TODO>>
+
+[JP#2897] gaps=3  aln=MED->US#2860  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<f040><f042>とは、この空を見上げる<8aac>り / 　言えないよな〜
+  2|LIT: <<TODO>>
+  3|EN : @... But you wouldn't know that
+ by looking at the sky...
+  4|RE : <<TODO>>
+
+[JP#2898] gaps=5  aln=HIGH->US#2861  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「<8b1b><8a64>に<8b1c>いて行ける場所に / 　あるとは考えにくい〜[10][0c]「ヴァレリアシャトー、ホバークラフト〜 / 　ありとあらゆる移動手<8aad>を<8952>使してでも / 　魔界鍵を発見しなければな〜
+  2|LIT: <<TODO>>
+  3|EN : @Since I doubt they're anywhere
+ you can walk to...@You must use Valeria Chateau,
+ the Hovercraft, and everything we
+ have to find the Diablo Pillars!
+  4|RE : <<TODO>>
+
+[JP#2899] gaps=2  aln=HIGH->US#2862  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ヴァレリアシャトー、ホバークラフト〜 / 　ありとあらゆる移動手<8aad>を<8952>使してでも / 　魔界鍵を発見しなければな〜
+  2|LIT: <<TODO>>
+  3|EN : @You must use Valeria Chateau,
+ the Hovercraft, and everything we
+ have to find the Diablo Pillars!
+  4|RE : <<TODO>>
+
+[JP#2900] gaps=6  aln=HIGH->US#2863  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「キミたちの行動<8b1e><8b1f>参に / 　ホバークラフトを / 　<8a79>移させてみるんだ[10][0c]「せっかく、テレポートオーブに対<8839>した / 　アポーツ機能なんだ / 　<8a75>用しなきゃ<8acc>だぜ
+  2|LIT: <<TODO>>
+  3|EN : @I've moving the Hovercraft
+ inside your range of
+ operations.@The Aport feature has been
+ modified for the TeleportOrb.
+ Put 'em to good use.
+  4|RE : <<TODO>>
+
+[JP#2901] gaps=3  aln=HIGH->US#2864  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「せっかく、テレポートオーブに対<8839>した / 　アポーツ機能なんだ / 　<8a75>用しなきゃ<8acc>だぜ
+  2|LIT: <<TODO>>
+  3|EN : @The Aport feature has been
+ modified for the TeleportOrb.
+ Put 'em to good use.
+  4|RE : <<TODO>>
+
+[JP#2902] gaps=1  aln=HIGH->US#2865  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「まだ見ぬ新しい<8b20>開が / 　きっと待っているはずだぜ
+  2|LIT: <<TODO>>
+  3|EN : @I'm sure this will lead to
+ something new for you.
+  4|RE : <<TODO>>
+
+[JP#2903] gaps=2  aln=HIGH->US#2866  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「そういえばシャトーの２Ｆに / 　以前、地<8a71>のエネルギーとかを / 　魂<89b1>していたヤツがいたな
+  2|LIT: <<TODO>>
+  3|EN : @Hey, I think someone on the 2nd
+ floor of the Valeria Chateau was
+ studying terrestrial energy...
+  4|RE : <<TODO>>
+
+[JP#2904] gaps=3  aln=HIGH->US#2867  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「カタチにとらわれずに / 　物事を為していく〜 / 　<8b1b><8a64>なようで、<8ab7>しいことだ[10][0c]「それをやってのけるんだから / 　テロリスト・オデッサ〜 / 　あなどれない相だろう
+  2|LIT: <<TODO>>
+  3|EN : @Creating innovative devices
+ like this requires creativity.
+ It isn't easy to do.@But Odessa did it. They are
+ an enemy we must not
+ underestimate, obviously.
+  4|RE : <<TODO>>
+
+[JP#2905] gaps=0  aln=MED->US#2868  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「それをやってのけるんだから / 　テロリスト・オデッサ〜 / 　あなどれない相だろう
+  2|LIT: <<TODO>>
+  3|EN : @But Odessa did it. They are
+ an enemy we must not
+ underestimate, obviously.
+  4|RE : <<TODO>>
+
+[JP#2906] gaps=1  aln=HIGH->US#2869  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「くそッ、僕だって負けてたまるかよッ！ / 　スゴイの<89db>め込んで / 　オトコをあげてやらあッ！
+  2|LIT: <<TODO>>
+  3|EN : @I bet you think you're hot
+ stuff, don't you? Trying to
+ show off with that in there...
+  4|RE : <<TODO>>
+
+[JP#2907] gaps=2  aln=HIGH->US#2870  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「以前は / 　心を<88a6>える不思議な渓谷の / 　<8b23>出に使われていたらしいぞ
+  2|LIT: <<TODO>>
+  3|EN : @It was once used to transport
+ an amazing crystal that could
+ communicate thoughts.
+  4|RE : <<TODO>>
+
+[JP#2908] gaps=8  aln=HIGH->US#2871  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=6
+  1|JP : 「彼らもヴァレリア<8ada>に<8ab5><8ab6>されて / 　ファルガイア中に<8a1e><8b24>されているらしい[10][0c]「<88e5>戻は / 　ＡＲＭＳよりもずっと<8894>いから / 　僕たちの勝<8a55>分ってトコかもな
+  2|LIT: <<TODO>>
+  3|EN : @Sir Valeria organized them and
+ sent them all over Filgaia.@They've been around a lot
+ longer than ARMS, so they kinda
+ have seniority over us.
+  4|RE : <<TODO>>
+
+[JP#2909] gaps=3  aln=HIGH->US#2872  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : 「<88e5>戻は / 　ＡＲＭＳよりもずっと<8894>いから / 　僕たちの勝<8a55>分ってトコかもな
+  2|LIT: <<TODO>>
+  3|EN : @They've been around a lot
+ longer than ARMS, so they kinda
+ have seniority over us.
+  4|RE : <<TODO>>
+
+[JP#2910] gaps=3  aln=HIGH->US#2873  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「今回の失<8b25>は / 　やはり、<8ada>に何かの考えが / 　あってのことです[10][0c]「あのヴァレリア<8ada>がファルガイアと姿様〜 / 　もっとも大切にしていたふたつを / 　安切るなんて考えられないことです
+  2|LIT: <<TODO>>
+  3|EN : @There must be a
+ good reason for
+ this disappearance.@He would never betray Filgaia
+ or his sister. They were the two
+ most important things to him.
+  4|RE : <<TODO>>
+
+[JP#2911] gaps=1  aln=HIGH->US#2874  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「あのヴァレリア<8ada>がファルガイアと姿様〜 / 　もっとも大切にしていたふたつを / 　安切るなんて考えられないことです
+  2|LIT: <<TODO>>
+  3|EN : @He would never betray Filgaia
+ or his sister. They were the two
+ most important things to him.
+  4|RE : <<TODO>>
+
+[JP#2912] gaps=2  aln=HIGH->US#2875  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「その<8b26><8b27>とは / 　ファルガイアとは異なる世界より / 　異なる命を呼び込むモノだとか〜
+  2|LIT: <<TODO>>
+  3|EN : @... a Prohibited Spell for
+ summoning a strange creature
+ from the spirit world.
+  4|RE : <<TODO>>
+
+[JP#2913] gaps=6  aln=MED->US#2876  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : 「ですが、その魂<89b1>参<8aca>は / 　必ずしも獲干的なモノだけではないのです[10][0c]「<88bf>大な力や危険な<8a4c><8883>〜 / 　理違に終らない新<8a0f>を実現するには / 　あえてこういうのも必要と言いますが〜
+  2|LIT: <<TODO>>
+  3|EN : @Terrible powers, deadly
+ spells... They were by no means
+ peacetime pursuits.@But perhaps such horrible
+ weapons are needed to
+ fight for justice.
+  4|RE : <<TODO>>
+
+[JP#2914] gaps=4  aln=MED->US#2877  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「<88bf>大な力や危険な<8a4c><8883>〜 / 　理違に終らない新<8a0f>を実現するには / 　あえてこういうのも必要と言いますが〜
+  2|LIT: <<TODO>>
+  3|EN : @But perhaps such horrible
+ weapons are needed to
+ fight for justice.
+  4|RE : <<TODO>>
+
+[JP#2915] gaps=7  aln=HIGH->US#2878  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「そういえば、以前〜 / 　ヴァレリア<8ada>は / 　そのようなことを<8828>にしていました[10][0c]「<8a43>るべき<8b2b>の脅威とは / 　世界が<8b2a>い<8b2c>らされていくことだと〜[10][0c]「このことを / 　<888e>待していたのでしょうか〜
+  2|LIT: <<TODO>>
+  3|EN : @I remember Sir Valeria
+ saying something
+ similar once...@...that the true threat to
+ come would devour the world.@Did he know that this
+ was going to happen?
+  4|RE : <<TODO>>
+
+[JP#2916] gaps=5  aln=HIGH->US#2879  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「<8a43>るべき<8b2b>の脅威とは / 　世界が<8b2a>い<8b2c>らされていくことだと〜[10][0c]「このことを / 　<888e>待していたのでしょうか〜
+  2|LIT: <<TODO>>
+  3|EN : @...that the true threat to
+ come would devour the world.@Did he know that this
+ was going to happen?
+  4|RE : <<TODO>>
+
+[JP#2917] gaps=1  aln=HIGH->US#2880  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「このことを / 　<888e>待していたのでしょうか〜
+  2|LIT: <<TODO>>
+  3|EN : @Did he know that this
+ was going to happen?
+  4|RE : <<TODO>>
+
+[JP#2918] gaps=7  aln=HIGH->US#2881  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=5
+  1|JP : 「ですが、勇<8a6d><8a6b>を<8ac6>めた後 / 　ファルガイアの獲干<8ad6>持に / 　<8b2d>めるようになったと聞いています[10][0c]「勇<8a6d><8a6b>が / 　今回のＡＲＭＳのきっかけに / 　なったのでしょうか？
+  2|LIT: <<TODO>>
+  3|EN : @I heard that after mastering
+ astronomy, he decided to work
+ for peace in Filgaia.@Did astronomy somehow
+ inspire the creation of
+ ARMS?
+  4|RE : <<TODO>>
+
+[JP#2919] gaps=2  aln=HIGH->US#2882  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「勇<8a6d><8a6b>が / 　今回のＡＲＭＳのきっかけに / 　なったのでしょうか？
+  2|LIT: <<TODO>>
+  3|EN : @Did astronomy somehow
+ inspire the creation of
+ ARMS?
+  4|RE : <<TODO>>
+
+[JP#2920] gaps=4  aln=HIGH->US#2883  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「ですが、その<8b2e>は / 　すべて自分で<8b2f>け止める信苦なのです[10][0c]「ファルガイアの生命を守るために / 　『自分』を<8b30>すことをいとわない〜 / 　<8ada>はそのように考えています
+  2|LIT: <<TODO>>
+  3|EN : @But he takes personal
+ responsibility for everything.@Sir Valeria is prepared to
+ sacrifice himself in order to
+ save the life of all Filgaia.
+  4|RE : <<TODO>>
+
+[JP#2921] gaps=2  aln=HIGH->US#2884  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ファルガイアの生命を守るために / 　『自分』を<8b30>すことをいとわない〜 / 　<8ada>はそのように考えています
+  2|LIT: <<TODO>>
+  3|EN : @Sir Valeria is prepared to
+ sacrifice himself in order to
+ save the life of all Filgaia.
+  4|RE : <<TODO>>
+
+[JP#2922] gaps=4  aln=HIGH->US#2885  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「たったひとりの挑<8a0e>と / 　守るべき、たったひとつの<8808><8b32>〜 / 　<8ada>にとってはどちらも大切なモノなのです
+  2|LIT: <<TODO>>
+  3|EN : @She is his surviving family
+ member. Both she and this land
+ are equally important to him.
+  4|RE : <<TODO>>
+
+[JP#2923] gaps=4  aln=HIGH->US#2886  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「現帰では延の中に<89db>もれてしまい / 　何も無いところだと聞いていますが〜[10][0c]「それでも目指すなら / 　クアトリーの場を中<8b36>地にするのが / 　まちがいないでしょう[10][0c]「クアトリーは、[11]お参道の先東[11]ぉに流れ込む / 　リキキス<89e7>にそって上った先 / 　<88db>の道にある場です
+  2|LIT: <<TODO>>
+  3|EN : @They say it is an empty land,
+ buried in salt.@But if you must go there,
+ Quartly would be your best
+ bet as a way station.@Quartly is in a desert in the
+ upper Likikis, a river emptying
+ into the 1southwest Inland Sea0.
+  4|RE : <<TODO>>
+
+[JP#2924] gaps=3  aln=HIGH->US#2887  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「それでも目指すなら / 　クアトリーの場を中<8b36>地にするのが / 　まちがいないでしょう[10][0c]「クアトリーは、[11]お参道の先東[11]ぉに流れ込む / 　リキキス<89e7>にそって上った先 / 　<88db>の道にある場です
+  2|LIT: <<TODO>>
+  3|EN : @But if you must go there,
+ Quartly would be your best
+ bet as a way station.@Quartly is in a desert in the
+ upper Likikis, a river emptying
+ into the 1southwest Inland Sea0.
+  4|RE : <<TODO>>
+
+[JP#2925] gaps=2  aln=HIGH->US#2888  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「クアトリーは、[11]お参道の先東[11]ぉに流れ込む / 　リキキス<89e7>にそって上った先 / 　<88db>の道にある場です
+  2|LIT: <<TODO>>
+  3|EN : @Quartly is in a desert in the
+ upper Likikis, a river emptying
+ into the 1southwest Inland Sea0.
+  4|RE : <<TODO>>
+
+[JP#2926] gaps=4  aln=MED->US#2889  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「最後に勇<8a6d><8a6b>を<8ac6>めてから / 　今度はファルガイアの獲干<8ad6>持のために / 　ここに帰ってきたのです
+  2|LIT: <<TODO>>
+  3|EN : @He studied astronomy last, and
+ now has returned to help
+ preserve peace in Filgaia.
+  4|RE : <<TODO>>
+
+[JP#2927] gaps=2  aln=HIGH->US#2890  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8a10>く、ファルガイアのこれからを / 　獲干に<8b37>くために〜
+  2|LIT: <<TODO>>
+  3|EN : @One that will assure peace
+ in all of Filgaia.
+  4|RE : <<TODO>>
+
+[JP#2928] gaps=3  aln=HIGH->US#2891  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「いったい〜 / 　いつから、何が、どのようにして / 　<8b3b><89dd>が<8aeb>いはじめたのでしょうか〜
+  2|LIT: <<TODO>>
+  3|EN : @But somewhere, somehow,
+ things went awry.
+ How? Why?
+  4|RE : <<TODO>>
+
+[JP#2929] gaps=0  aln=HIGH->US#2892  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「そして、表にはあまり出しませんが / 　姿様もとても大切にしています
+  2|LIT: <<TODO>>
+  3|EN : @He doesn't show it, but he
+ also adores his younger sister.
+  4|RE : <<TODO>>
+
+[JP#2930] gaps=0  aln=HIGH->US#2893  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ですから、ＡＲＭＳの戦力アップに / 　多少、ムチャな作戦をとることもあるのです
+  2|LIT: <<TODO>>
+  3|EN : @So he may take extreme steps
+ to strengthen ARMS.
+  4|RE : <<TODO>>
+
+[JP#2931] gaps=5  aln=HIGH->US#2894  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「ですから、本当なら指揮<899d>ではなく / 　最前<8b3c>で得意の<8b3a>や魔法を / 　<8b3d>るいたかったに違いありません[10][0c]「あの事<8808>さえなければ〜
+  2|LIT: <<TODO>>
+  3|EN : @Instead of commanding, I'm
+ sure he wanted to use his sword
+ and spells on the front line.@If it weren't for that accident...
+  4|RE : <<TODO>>
+
+[JP#2932] gaps=1  aln=HIGH->US#2895  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「あの事<8808>さえなければ〜
+  2|LIT: <<TODO>>
+  3|EN : @If it weren't for that accident...
+  4|RE : <<TODO>>
+
+[JP#2933] gaps=4  aln=HIGH->US#2896  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「<8b3a><8b22>も魔法も / 　誰よりも<89ab>れた<8b3f>えをみせた / 　お人だったのに〜[10][0c]「本当に残念です
+  2|LIT: <<TODO>>
+  3|EN : @And he showed such brilliance
+ in swordsmanship and the
+ casting of spells...@How truly unfortunate.
+  4|RE : <<TODO>>
+
+[JP#2934] gaps=0  aln=HIGH->US#2897  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「本当に残念です
+  2|LIT: <<TODO>>
+  3|EN : @How truly unfortunate.
+  4|RE : <<TODO>>
+
+[JP#2935] gaps=7  aln=HIGH->US#2898  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「それは、僕たちが考えるよりも / 　ずっと<8b27><8a9e>めいたモノに違いない〜[10][0c]「ヴァレリア<8ada>が何をしようとしたのか〜 / 　いや、何をしようとしているのか / 　僕にはわからない〜[10][0c]「だけど、そいつは / 　機帰<88a6>説に<8b3d>り回された / 　<8a86>毅に<8939>重していくんじゃないか〜
+  2|LIT: <<TODO>>
+  3|EN : @The allure such status holds
+ must be strong indeed.@I don't know what Sir Valeria
+ tried to do... or is still
+ trying to do.@I'm afraid that desire to hold
+ onto his heroic status will
+ have tragic conclusions.
+  4|RE : <<TODO>>
+
+[JP#2936] gaps=5  aln=HIGH->US#2899  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「ヴァレリア<8ada>が何をしようとしたのか〜 / 　いや、何をしようとしているのか / 　僕にはわからない〜[10][0c]「だけど、そいつは / 　機帰<88a6>説に<8b3d>り回された / 　<8a86>毅に<8939>重していくんじゃないか〜
+  2|LIT: <<TODO>>
+  3|EN : @I don't know what Sir Valeria
+ tried to do... or is still
+ trying to do.@I'm afraid that desire to hold
+ onto his heroic status will
+ have tragic conclusions.
+  4|RE : <<TODO>>
+
+[JP#2937] gaps=4  aln=HIGH->US#2900  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「だけど、そいつは / 　機帰<88a6>説に<8b3d>り回された / 　<8a86>毅に<8939>重していくんじゃないか〜
+  2|LIT: <<TODO>>
+  3|EN : @I'm afraid that desire to hold
+ onto his heroic status will
+ have tragic conclusions.
+  4|RE : <<TODO>>
+
+[JP#2938] gaps=8  aln=HIGH->US#2901  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=7
+  1|JP : 「そして、今、ふたたび〜 / 　ファルガイアを脅威から守るために / 　『ＡＲＭＳ』という名の<8b3a>を<8b3d>るっている〜[10][0c]「これは、運命なのだろうか？ / 　〜いや、運命では無いとしたら〜[10][0c]「これは『機帰』という貸に<8a9e>りつけられた / 　<8b27>いそのものといえないか〜？[10][0c]「ヴァレリアの貸の中に<88a6>えられし / 　運命、<8b27><8a9e>、<8a86>しみ〜
+  2|LIT: <<TODO>>
+  3|EN : @And now they wield a sword
+ called |ARMS| to defend Filgaia
+ from the danger.@Is it their destiny? If there
+ is no such thing as destiny...@They perhaps their bloodline
+ is a curse that binds them.@The Valerias' fate binds them
+ and brings such sadness.
+  4|RE : <<TODO>>
+
+[JP#2939] gaps=6  aln=HIGH->US#2902  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : 「これは、運命なのだろうか？ / 　〜いや、運命では無いとしたら〜[10][0c]「これは『機帰』という貸に<8a9e>りつけられた / 　<8b27>いそのものといえないか〜？[10][0c]「ヴァレリアの貸の中に<88a6>えられし / 　運命、<8b27><8a9e>、<8a86>しみ〜
+  2|LIT: <<TODO>>
+  3|EN : @Is it their destiny? If there
+ is no such thing as destiny...@They perhaps their bloodline
+ is a curse that binds them.@The Valerias' fate binds them
+ and brings such sadness.
+  4|RE : <<TODO>>
+
+[JP#2940] gaps=6  aln=HIGH->US#2903  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : 「これは『機帰』という貸に<8a9e>りつけられた / 　<8b27>いそのものといえないか〜？[10][0c]「ヴァレリアの貸の中に<88a6>えられし / 　運命、<8b27><8a9e>、<8a86>しみ〜
+  2|LIT: <<TODO>>
+  3|EN : @They perhaps their bloodline
+ is a curse that binds them.@The Valerias' fate binds them
+ and brings such sadness.
+  4|RE : <<TODO>>
+
+[JP#2941] gaps=4  aln=HIGH->US#2904  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「ヴァレリアの貸の中に<88a6>えられし / 　運命、<8b27><8a9e>、<8a86>しみ〜
+  2|LIT: <<TODO>>
+  3|EN : @The Valerias' fate binds them
+ and brings such sadness.
+  4|RE : <<TODO>>
+
+[JP#2942] gaps=6  aln=HIGH->US#2905  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「ＡＲＭＳを運祈していくだけの<8adb>金や / 　ヴァレリアシャトーをはじめとする奇<8a39>など / 　一<8a55><8ad9>に季る力は、そういうワケがあるんだ[10][0c]「<f040><f042>あん？ / 　もしかして、知らなかったのか？？
+  2|LIT: <<TODO>>
+  3|EN : @That's where their great
+ wealth, which pays for ARMS and
+ Valeria Chateau, comes from.@... What?
+ You didn't know all that?
+  4|RE : <<TODO>>
+
+[JP#2943] gaps=2  aln=HIGH->US#2906  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>あん？ / 　もしかして、知らなかったのか？？
+  2|LIT: <<TODO>>
+  3|EN : @... What?
+ You didn't know all that?
+  4|RE : <<TODO>>
+
+[JP#2944] gaps=2  aln=HIGH->US#2907  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「だが、それは〜 / 　かつての『徽の<8b38><8b39>』とは / 　規本的に異なる脅威なんだッ！[10][0c]「僕たちの相は / 　僕たちと同じ人間ッ！ / 　同じ星に生きる、同じ生命なんだッ！
+  2|LIT: <<TODO>>
+  3|EN : @But it pales in comparison
+ with the |Blaze of Disaster|
+ of days past!@When we fight Odessa, at least
+ we fight human beings -- flesh
+ and blood just like us!
+  4|RE : <<TODO>>
+
+[JP#2945] gaps=0  aln=HIGH->US#2908  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「僕たちの相は / 　僕たちと同じ人間ッ！ / 　同じ星に生きる、同じ生命なんだッ！
+  2|LIT: <<TODO>>
+  3|EN : @When we fight Odessa, at least
+ we fight human beings -- flesh
+ and blood just like us!
+  4|RE : <<TODO>>
+
+[JP#2946] gaps=10  aln=HIGH->US#2909  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : 「記英配者とも呼ばれる彼らの力が / 　ファルガイアに貴ばなくなったために / 　起々に世界が<8b2c>限合しているということは〜[10][0c]「＜<8b3a>の遠昔＞と『徽の<8b38><8b39>』との戦いは / 　相軌ち〜 / 　<f040><f042>なんかではない〜[10][0c]「『徽の<8b38><8b39>』の目的が世界の滅亡ならば / 　少しずつ達成されようとしている〜[10][0c]「そう、『徽の<8b38><8b39>』は / 　今もファルガイアを輝んでいるんだ〜ッ！
+  2|LIT: <<TODO>>
+  3|EN : @The Guardians once ruled over
+ Filgaia. But with their powers
+ gone, Filgaia is wasting away.@The balance between the <Sword
+ Magess> and the |Blaze of Disaster|
+ has shifted toward the evil side.@The |Blaze of Disaster| is
+ slowly achieving his goal of
+ destroying the world.@When will Filgaia be rid of the
+ |Blaze of Disaster| threat?
+  4|RE : <<TODO>>
+
+[JP#2947] gaps=9  aln=HIGH->US#2910  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「＜<8b3a>の遠昔＞と『徽の<8b38><8b39>』との戦いは / 　相軌ち〜 / 　<f040><f042>なんかではない〜[10][0c]「『徽の<8b38><8b39>』の目的が世界の滅亡ならば / 　少しずつ達成されようとしている〜[10][0c]「そう、『徽の<8b38><8b39>』は / 　今もファルガイアを輝んでいるんだ〜ッ！
+  2|LIT: <<TODO>>
+  3|EN : @The balance between the <Sword
+ Magess> and the |Blaze of Disaster|
+ has shifted toward the evil side.@The |Blaze of Disaster| is
+ slowly achieving his goal of
+ destroying the world.@When will Filgaia be rid of the
+ |Blaze of Disaster| threat?
+  4|RE : <<TODO>>
+
+[JP#2948] gaps=4  aln=MED->US#2911  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「『徽の<8b38><8b39>』の目的が世界の滅亡ならば / 　少しずつ達成されようとしている〜[10][0c]「そう、『徽の<8b38><8b39>』は / 　今もファルガイアを輝んでいるんだ〜ッ！
+  2|LIT: <<TODO>>
+  3|EN : @The |Blaze of Disaster| is
+ slowly achieving his goal of
+ destroying the world.@When will Filgaia be rid of the
+ |Blaze of Disaster| threat?
+  4|RE : <<TODO>>
+
+[JP#2949] gaps=2  aln=HIGH->US#2912  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「そう、『徽の<8b38><8b39>』は / 　今もファルガイアを輝んでいるんだ〜ッ！
+  2|LIT: <<TODO>>
+  3|EN : @When will Filgaia be rid of the
+ |Blaze of Disaster| threat?
+  4|RE : <<TODO>>
+
+[JP#2950] gaps=0  aln=HIGH->US#2913  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「いったい、どこからどうやって / 　オデッサに亀偽したのだろう？
+  2|LIT: <<TODO>>
+  3|EN : @Gosh... I mean, damn, I know
+ it's not any of my buddies.
+  4|RE : <<TODO>>
+
+[JP#2951] gaps=8  aln=HIGH->US#2914  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : 「『<8b38><8b39>』とは / 　ファルガイアを守<89e3>するとされる / 　ガーディアンの<8ad2>妓体って話だ[10][0c]「ガーディアンとは世界を英える力と聞く / 　それと同<8afd>の力を持つ『<8b38><8b39>』とは / 　どれほど<889c>ろしいモノなんだろう〜
+  2|LIT: <<TODO>>
+  3|EN : @The |Blaze of Disaster| is said
+ to be a renegade Guardian. They
+ were the protectors of Filgaia.@The Guardians also ruled the
+ world, so the |Blaze of Disaster|
+ must have their awesome powers.
+  4|RE : <<TODO>>
+
+[JP#2952] gaps=4  aln=HIGH->US#2915  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「ガーディアンとは世界を英える力と聞く / 　それと同<8afd>の力を持つ『<8b38><8b39>』とは / 　どれほど<889c>ろしいモノなんだろう〜
+  2|LIT: <<TODO>>
+  3|EN : @The Guardians also ruled the
+ world, so the |Blaze of Disaster|
+ must have their awesome powers.
+  4|RE : <<TODO>>
+
+[JP#2953] gaps=2  aln=HIGH->US#2916  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「宜星は戯技を<893a>すというが〜 / 　ファルガイアを擬がすオデッサの動<8945>〜 / 　あれをさしているのだろうか？
+  2|LIT: <<TODO>>
+  3|EN : @They say comets are a bad
+ omen. Perhaps it was warning of
+ Odessa's threat to Filgaia.
+  4|RE : <<TODO>>
+
+[JP#2954] gaps=5  aln=HIGH->US#2917  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「決起表次をおこなったテロリスト〜 / 　オデッサの<888a>欺のことなんだが / 　<8937><89f1>のどこかに招っかかるんだよな[10][0c]「どこかの<8a72>の犠関係者〜 / 　あるいは、そこに<8a38>するような機関〜 / 　気になるんだよな〜
+  2|LIT: <<TODO>>
+  3|EN : @It's the leader of Odessa, the
+ ones who made that declaration.
+ I've seen his face before...@I think he was some nation's
+ military leader, or the head of
+ some related organization...
+  4|RE : <<TODO>>
+
+[JP#2955] gaps=2  aln=MED->US#2918  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「どこかの<8a72>の犠関係者〜 / 　あるいは、そこに<8a38>するような機関〜 / 　気になるんだよな〜
+  2|LIT: <<TODO>>
+  3|EN : @I think he was some nation's
+ military leader, or the head of
+ some related organization...
+  4|RE : <<TODO>>
+
+[JP#2956] gaps=5  aln=HIGH->US#2919  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「あんたが機帰と呼ばれたのは / 　疑兄した戦姉力と気汽 / 　だが、それだけじゃないと僕は考える[10][0c]「参戦終<8837>後、解殺犠を<8832>うために訪力し / 　ひとり、<8965>われることで / 　追手の目が他に貴ぶことを祇いだ〜[10][0c]「<8ab8>間を守ることを知っているから / 　あんたは、参戦が終って<88d2>数義っても / 　『機帰』と呼ばれるんだ
+  2|LIT: <<TODO>>
+  3|EN : @You are called |hero| because
+ of your extraordinary feats in
+ battle. But that's not all.@After the civil war, you let
+ yourself be caught so that your
+ friends could escape pursuit.@That's why even 5 years later,
+ the people still call you
+ a |hero.|
+  4|RE : <<TODO>>
+
+[JP#2957] gaps=5  aln=HIGH->US#2920  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「参戦終<8837>後、解殺犠を<8832>うために訪力し / 　ひとり、<8965>われることで / 　追手の目が他に貴ぶことを祇いだ〜[10][0c]「<8ab8>間を守ることを知っているから / 　あんたは、参戦が終って<88d2>数義っても / 　『機帰』と呼ばれるんだ
+  2|LIT: <<TODO>>
+  3|EN : @After the civil war, you let
+ yourself be caught so that your
+ friends could escape pursuit.@That's why even 5 years later,
+ the people still call you
+ a |hero.|
+  4|RE : <<TODO>>
+
+[JP#2958] gaps=2  aln=HIGH->US#2921  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8ab8>間を守ることを知っているから / 　あんたは、参戦が終って<88d2>数義っても / 　『機帰』と呼ばれるんだ
+  2|LIT: <<TODO>>
+  3|EN : @That's why even 5 years later,
+ the people still call you
+ a |hero.|
+  4|RE : <<TODO>>
+
+[JP#2959] gaps=4  aln=HIGH->US#2922  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「その<8b2b>実の多くは<8ae1>の中だが / 　一説によると、解殺犠リーダーが / 　<8901>身のために<8ab8>間を誼ったって話だぜ
+  2|LIT: <<TODO>>
+  3|EN : @One theory is that the SLA
+ leader sold out his comrades
+ to save himself.
+  4|RE : <<TODO>>
+
+[JP#2960] gaps=0  aln=HIGH->US#2923  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「今度は僕たち、ＡＲＭＳが / 　ファルガイアを守る番だぜ
+  2|LIT: <<TODO>>
+  3|EN : @Now it is our turn to protect
+ Filgaia as members of ARMS.
+  4|RE : <<TODO>>
+
+[JP#2961] gaps=0  aln=MED->US#2924  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「いやらしくない目で / 　[0a]お方の観待行為を / 　おこなっていたんだ[10][0c]「その時、[0a]お方が / 　[0a]ぉ方に呼び出されて / 　お字泣に向かうのを見てしまったんだ〜[10][0c]「俺は、[0a]ぉ方を / 　今まで加り信じられるのだろうか？ / 　掬度の人間不信におちいりそうだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @I was observing  1...
+ as a trained observer, that is.@Anyhow,  1 was summoned
+ to  0's room. I saw
+  1 walking towards there.@I don't know what to do. If
+ you can't trust  0,
+ then who can you trust anymore?
+  4|RE : <<TODO>>
+
+[JP#2962] gaps=0  aln=MED->US#2925  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「その時、[0a]お方が / 　[0a]ぉ方に呼び出されて / 　お字泣に向かうのを見てしまったんだ〜[10][0c]「俺は、[0a]ぉ方を / 　今まで加り信じられるのだろうか？ / 　掬度の人間不信におちいりそうだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @Anyhow,  1 was summoned
+ to  0's room. I saw
+  1 walking towards there.@I don't know what to do. If
+ you can't trust  0,
+ then who can you trust anymore?
+  4|RE : <<TODO>>
+
+[JP#2963] gaps=0  aln=MED->US#2926  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「俺は、[0a]ぉ方を / 　今まで加り信じられるのだろうか？ / 　掬度の人間不信におちいりそうだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @I don't know what to do. If
+ you can't trust  0,
+ then who can you trust anymore?
+  4|RE : <<TODO>>
+
+[JP#2964] gaps=8  aln=MED->US#2927  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=6
+  1|JP : 「鞠加は人<895a>離れたところにあるんだけど〜[10][0c]「タウンメリアから[11]お北に、道を<89ae>てた他[11]ぉには / 　パレスヴィレッジという / 　レイポイントの<8a57>望を<8b2f>けた国があるんだ[10][0c]「大地を<8b0e>たす『マナ』が / 　パレス<8b10>という / 　簡<8a39><892e>を生み出しているんだな
+  2|LIT: <<TODO>>
+  3|EN : @They are usually far from any
+ human dwellings.@But Palace Village, on an
+ 1island north of Meria0,
+ has benefited from a Raypoint.@There, the ground is full of
+ |Mana,| which makes the Palace
+ Wheat grow plentifully.
+  4|RE : <<TODO>>
+
+[JP#2965] gaps=7  aln=MED->US#2928  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=5
+  1|JP : 「タウンメリアから[11]お北に、道を<89ae>てた他[11]ぉには / 　パレスヴィレッジという / 　レイポイントの<8a57>望を<8b2f>けた国があるんだ[10][0c]「大地を<8b0e>たす『マナ』が / 　パレス<8b10>という / 　簡<8a39><892e>を生み出しているんだな
+  2|LIT: <<TODO>>
+  3|EN : @But Palace Village, on an
+ 1island north of Meria0,
+ has benefited from a Raypoint.@There, the ground is full of
+ |Mana,| which makes the Palace
+ Wheat grow plentifully.
+  4|RE : <<TODO>>
+
+[JP#2966] gaps=4  aln=MED->US#2929  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「大地を<8b0e>たす『マナ』が / 　パレス<8b10>という / 　簡<8a39><892e>を生み出しているんだな
+  2|LIT: <<TODO>>
+  3|EN : @There, the ground is full of
+ |Mana,| which makes the Palace
+ Wheat grow plentifully.
+  4|RE : <<TODO>>
+
+[JP#2967] gaps=1  aln=HIGH->US#2930  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「レイライン中の生命エネルギーの流れが / 　吉っているみたいなんだッ！[10][0c]「空だけではない〜 / 　見えないところで大地も / 　この星、険体が何者かに<8b2a>われているんだ
+  2|LIT: <<TODO>>
+  3|EN : @But the flow of energy in
+ the Raline veins has stopped!@It's not just the sky. The
+ whole planet is being drained
+ of energy!
+  4|RE : <<TODO>>
+
+[JP#2968] gaps=1  aln=HIGH->US#2931  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「空だけではない〜 / 　見えないところで大地も / 　この星、険体が何者かに<8b2a>われているんだ
+  2|LIT: <<TODO>>
+  3|EN : @It's not just the sky. The
+ whole planet is being drained
+ of energy!
+  4|RE : <<TODO>>
+
+[JP#2969] gaps=0  aln=HIGH->US#2932  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「マナはファルガイアが持つ / 　もっとも大きなエネルギー〜 / 　そして、無くてはならないモノなんだ
+  2|LIT: <<TODO>>
+  3|EN : @Mana is Filgaia's most
+ important energy. The planet
+ needs it to survive.
+  4|RE : <<TODO>>
+
+[JP#2970] gaps=1  aln=HIGH->US#2933  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ジェムはレイラインからこぼれた / 　生命エネルギーの結<8ad5>だからね
+  2|LIT: <<TODO>>
+  3|EN : @That is why they can
+ rejuvenate our own life-energy.
+  4|RE : <<TODO>>
+
+[JP#2971] gaps=6  aln=HIGH->US#2934  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「バスカーたちが隠れ砧む<895a>の<88be>近は / 　ファルガイアの中でも / 　作年のレイラインが加っているところなんだ[10][0c]「だから、<895a>の男<8b1f>には / 　<896e>く杵しい山が<89da>がっているんだな
+  2|LIT: <<TODO>>
+  3|EN : @Near Baskar Village is one of
+ the most powerful segments of
+ the Raline veins in all Filgaia!@But the area is covered by a
+ deep, beautiful forest.
+  4|RE : <<TODO>>
+
+[JP#2972] gaps=4  aln=HIGH->US#2935  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「だから、<895a>の男<8b1f>には / 　<896e>く杵しい山が<89da>がっているんだな
+  2|LIT: <<TODO>>
+  3|EN : @But the area is covered by a
+ deep, beautiful forest.
+  4|RE : <<TODO>>
+
+[JP#2973] gaps=4  aln=HIGH->US#2936  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「ホルストの場や / 　俺が以前黍めていたレイライン観待<88e4><88e5>は / 　その却客的なパターンだよ[10][0c]「どちらも / 　ライブリフレクターを使えば / 　それほど<8a10>いものではない[10][0c]「アグエライト渓谷なら、『奇跡渓谷』行きに / 　ゲルマトロン渓谷なら、『緊谷脚<89f4>』行きに / 　飛び込めばすぐだよ
+  2|LIT: <<TODO>>
+  3|EN : @Prime examples are the Town of
+ Holst and the Raline Observatory,
+ where I once worked.@Both can be reached
+ easily, if you use the
+ Live Reflector.@For Aguelite, pick 'Ruins Mine'
+ and for Germatron, pick
+ 'Dragon's Vein' and jump in.
+  4|RE : <<TODO>>
+
+[JP#2974] gaps=2  aln=HIGH->US#2937  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「どちらも / 　ライブリフレクターを使えば / 　それほど<8a10>いものではない[10][0c]「アグエライト渓谷なら、『奇跡渓谷』行きに / 　ゲルマトロン渓谷なら、『緊谷脚<89f4>』行きに / 　飛び込めばすぐだよ
+  2|LIT: <<TODO>>
+  3|EN : @Both can be reached
+ easily, if you use the
+ Live Reflector.@For Aguelite, pick 'Ruins Mine'
+ and for Germatron, pick
+ 'Dragon's Vein' and jump in.
+  4|RE : <<TODO>>
+
+[JP#2975] gaps=1  aln=HIGH->US#2938  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「アグエライト渓谷なら、『奇跡渓谷』行きに / 　ゲルマトロン渓谷なら、『緊谷脚<89f4>』行きに / 　飛び込めばすぐだよ
+  2|LIT: <<TODO>>
+  3|EN : @For Aguelite, pick 'Ruins Mine'
+ and for Germatron, pick
+ 'Dragon's Vein' and jump in.
+  4|RE : <<TODO>>
+
+[JP#2976] gaps=1  aln=HIGH->US#2939  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「その虐動も / 　生命エネルギーによって / 　英えられているらしいんだな[10][0c]「シャトーの近くにも一逆あるぞ / 　[11]お先東の山の中[11]ぉだ[10][0c]「そこにもレイラインが加っているから / 　ライブリフレクターの虐動には / 　<8b0f>しているというわけだ
+  2|LIT: <<TODO>>
+  3|EN : @From what I hear,
+ they are also powered
+ by life-energy.@There's one near here, in
+ 1the woods to the southwest0.@The Raline veins reach there.
+ That's why it's a suitable
+ location for a Live Reflector.
+  4|RE : <<TODO>>
+
+[JP#2977] gaps=1  aln=HIGH->US#2940  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「シャトーの近くにも一逆あるぞ / 　[11]お先東の山の中[11]ぉだ[10][0c]「そこにもレイラインが加っているから / 　ライブリフレクターの虐動には / 　<8b0f>しているというわけだ
+  2|LIT: <<TODO>>
+  3|EN : @There's one near here, in
+ 1the woods to the southwest0.@The Raline veins reach there.
+ That's why it's a suitable
+ location for a Live Reflector.
+  4|RE : <<TODO>>
+
+[JP#2978] gaps=1  aln=HIGH->US#2941  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そこにもレイラインが加っているから / 　ライブリフレクターの虐動には / 　<8b0f>しているというわけだ
+  2|LIT: <<TODO>>
+  3|EN : @The Raline veins reach there.
+ That's why it's a suitable
+ location for a Live Reflector.
+  4|RE : <<TODO>>
+
+[JP#2979] gaps=2  aln=MED->US#2942  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「勝のため、丘気に戦<8b3c>に<8ae6>久する一仇の休〜 / 　ああ、これからも観待したい〜
+  2|LIT: <<TODO>>
+  3|EN : @Such beauty, and so loyal to
+ her brother...
+ Observing her would be a joy.
+  4|RE : <<TODO>>
+
+[JP#2980] gaps=0  aln=HIGH->US#2943  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「でも今は〜 / 　ヴァレリアシャトーの吸宮を / 　いやらしくない目で観待したいんだな
+  2|LIT: <<TODO>>
+  3|EN : @I wish I could observe Valeria
+ Chateau's kitchen... as a
+ trained observer, of course.
+  4|RE : <<TODO>>
+
+[JP#2981] gaps=2  aln=HIGH->US#2944  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「我らＡＲＭＳ、ひとつとなって / 　ファルガイアのため / 　いっしょに戦ってきたではありませんか〜[10][0c]「あれすらも / 　弓りだったのでしょうか？[10][0c]「私は[0a]ぉ方を信じています / 　<8a84>いからは / 　この空を<8b1a>らす力は生まれてきません
+  2|LIT: <<TODO>>
+  3|EN : @He has fought with us...
+ with ARMS...
+ to save Filgaia.@How could that whole thing
+ have been an act?@I believe in  0.
+ Doubting each other won't
+ bring back our blue skies.
+  4|RE : <<TODO>>
+
+[JP#2982] gaps=2  aln=HIGH->US#2945  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「あれすらも / 　弓りだったのでしょうか？[10][0c]「私は[0a]ぉ方を信じています / 　<8a84>いからは / 　この空を<8b1a>らす力は生まれてきません
+  2|LIT: <<TODO>>
+  3|EN : @How could that whole thing
+ have been an act?@I believe in  0.
+ Doubting each other won't
+ bring back our blue skies.
+  4|RE : <<TODO>>
+
+[JP#2983] gaps=2  aln=HIGH->US#2946  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「私は[0a]ぉ方を信じています / 　<8a84>いからは / 　この空を<8b1a>らす力は生まれてきません
+  2|LIT: <<TODO>>
+  3|EN : @I believe in  0.
+ Doubting each other won't
+ bring back our blue skies.
+  4|RE : <<TODO>>
+
+[JP#2984] gaps=2  aln=HIGH->US#2947  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「そう、<89bf>緊谷ゆえに / 　気をつけてくださいよ / 　いつ<8acb>緊するかわかりませんからね
+  2|LIT: <<TODO>>
+  3|EN : @It is dormant, not extinct.
+ It could erupt at any time,
+ so be careful.
+  4|RE : <<TODO>>
+
+[JP#2985] gaps=4  aln=HIGH->US#2948  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「これらはかつて、[0a]ぉ方が / 　その大きすぎる力を危<893c>して封救した / 　<8b28><882d>の奇<8a39>なのです〜
+  2|LIT: <<TODO>>
+  3|EN : @These ancient wonders were
+ sealed up by  0, who
+ feared their mighty powers.
+  4|RE : <<TODO>>
+
+[JP#2986] gaps=4  aln=HIGH->US#2949  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「私<8af1>人としては / 　空が失われ、朽<89e0>が<89cf>ざされた時に / 　求々として着ぐるみを脱がれた〜[10][0c]「着ぐるみを脱ぎ<8a7f>てられた / 　[05]ぎ方の跡行の方が / 　何だか気になってしまうのです
+  2|LIT: <<TODO>>
+  3|EN : @But I'm more worried about
+ 5! She's been acting
+ so strangely...@She took off her outfit so
+ happily when the sun's rays
+ were blocked out.
+  4|RE : <<TODO>>
+
+[JP#2987] gaps=1  aln=HIGH->US#2950  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「着ぐるみを脱ぎ<8a7f>てられた / 　[05]ぎ方の跡行の方が / 　何だか気になってしまうのです
+  2|LIT: <<TODO>>
+  3|EN : @She took off her outfit so
+ happily when the sun's rays
+ were blocked out.
+  4|RE : <<TODO>>
+
+[JP#2988] gaps=3  aln=HIGH->US#2951  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「あの着ぐるみの辺には / 　ちゃんと昔の家が入っていたんですよ[10][0c]「それも、金汲で / 　抜けるように泣が灸くて / 　球は<8aef>えるように<8a06>くて〜[10][0c]「あ、あれ？ / 　<8a06>い〜、球〜？
+  2|LIT: <<TODO>>
+  3|EN : @You'd never know there was a
+ nice-looking girl under there!@She's blonde, with a lovely
+ fair complexion, and
+ fiery, red eyes...@Wait a minute...
+ Red... eyes? Um...
+  4|RE : <<TODO>>
+
+[JP#2989] gaps=3  aln=HIGH->US#2952  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「それも、金汲で / 　抜けるように泣が灸くて / 　球は<8aef>えるように<8a06>くて〜[10][0c]「あ、あれ？ / 　<8a06>い〜、球〜？
+  2|LIT: <<TODO>>
+  3|EN : @She's blonde, with a lovely
+ fair complexion, and
+ fiery, red eyes...@Wait a minute...
+ Red... eyes? Um...
+  4|RE : <<TODO>>
+
+[JP#2990] gaps=1  aln=HIGH->US#2953  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「あ、あれ？ / 　<8a06>い〜、球〜？
+  2|LIT: <<TODO>>
+  3|EN : @Wait a minute...
+ Red... eyes? Um...
+  4|RE : <<TODO>>
+
+[JP#2991] gaps=2  aln=HIGH->US#2954  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>さびしいです〜
+  2|LIT: <<TODO>>
+  3|EN : @... I miss the activity.
+  4|RE : <<TODO>>
+
+[JP#2992] gaps=0  aln=HIGH->US#2955  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「何だか、最近、サッパリです〜
+  2|LIT: <<TODO>>
+  3|EN : @But now it's deserted.
+  4|RE : <<TODO>>
+
+[JP#2993] gaps=0  aln=HIGH->US#2956  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「そして、ここから先にあるのは / 　[0a]お方のお字泣ですけど〜 / 　お字泣でお見かけすることは〜
+  2|LIT: <<TODO>>
+  3|EN : @The south room is supposed to be
+  1's room, but she's
+ never there.
+  4|RE : <<TODO>>
+
+[JP#2994] gaps=0  aln=HIGH->US#2957  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜あ、いえいえ / 　けっして戻ち聞きしていたわけじゃ / 　ありませんから〜
+  2|LIT: <<TODO>>
+  3|EN : @... Huh? Who, me? No, no.
+ I wasn't eavesdropping.
+ No, not me.
+  4|RE : <<TODO>>
+
+[JP#2995] gaps=0  aln=HIGH->US#2958  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜あ、いえいえ / 　けっして戻ち聞きしたわけじゃ / 　ありませんから〜
+  2|LIT: <<TODO>>
+  3|EN : @... Huh? Who, me? No, no.
+ I wasn't eavesdropping.
+ No, not me.
+  4|RE : <<TODO>>
+
+[JP#2996] gaps=0  aln=HIGH->US#2959  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜あ、いえいえ / 　けっして戻ち聞きしたわけじゃ / 　ありませんから〜
+  2|LIT: <<TODO>>
+  3|EN : @... Huh? Who, me? No, no.
+ I wasn't eavesdropping.
+ No, not me.
+  4|RE : <<TODO>>
+
+[JP#2997] gaps=2  aln=HIGH->US#2960  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ヴァレリア<8ada>はご多究な方です / 　お字泣にいらっしゃらないようでしたら / 　他のフロアかもしれません[10][0c]「他のフロアに向かう場合は / 　新<8a71>のエレベーターを / 　ご利用ください
+  2|LIT: <<TODO>>
+  3|EN : @Sir Valeria always busy. If
+ he is not in his room, he may
+ be on another floor.@To get to other floors,
+ please use the elevator
+ straight ahead.
+  4|RE : <<TODO>>
+
+[JP#2998] gaps=1  aln=HIGH->US#2961  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「他のフロアに向かう場合は / 　新<8a71>のエレベーターを / 　ご利用ください
+  2|LIT: <<TODO>>
+  3|EN : @To get to other floors,
+ please use the elevator
+ straight ahead.
+  4|RE : <<TODO>>
+
+[JP#2999] gaps=5  aln=MED->US#2962  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「<882d>い言い<88a6>えで、ファルガイアの中心には / 　すべての生命の逆となった / 　笈く級く糾の道が<89da>がっているという〜[10][0c]「『グラブ・ル・ガブル』〜 / 　命の始<8869>、糾の道にて / 　ヴァレリア<8ada>は、いったい何を〜
+  2|LIT: <<TODO>>
+  3|EN : @According to legend, it's a
+ sea of blue mud that is the
+ origin of all life.@What could Sir Valeria want
+ at |Glaive Le Gable,| the sea of
+ mud, the wellspring of life?
+  4|RE : <<TODO>>
+
+[JP#3000] gaps=2  aln=HIGH->US#2963  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「『グラブ・ル・ガブル』〜 / 　命の始<8869>、糾の道にて / 　ヴァレリア<8ada>は、いったい何を〜
+  2|LIT: <<TODO>>
+  3|EN : @What could Sir Valeria want
+ at |Glaive Le Gable,| the sea of
+ mud, the wellspring of life?
+  4|RE : <<TODO>>
+
+[JP#3001] gaps=3  aln=HIGH->US#2964  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「まるで『徽の<8b38><8b39>』が / 　ファルガイアを旧き訪くそうとした / 　<88a6>牛の時代、そのままに〜
+  2|LIT: <<TODO>>
+  3|EN : @It's just like the legendary
+ age when the |Blaze of Disaster|
+ tried to burn up Filgaia.
+  4|RE : <<TODO>>
+
+[JP#3002] gaps=1  aln=HIGH->US#2965  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「〜でも、それに先戻って / 　大きな宜星がファルガイアを / 　間切っていったんだ〜[10][0c]「空の居失と宜星の搭近〜 / 　ふたつの間に / 　<89b0>果関係は無いのだろうか〜
+  2|LIT: <<TODO>>
+  3|EN : @... Just before that, a huge
+ comet came very close to
+ Filgaia.@Could the comet's approach be
+ somehow related to the
+ devouring of the sky?
+  4|RE : <<TODO>>
+
+[JP#3003] gaps=1  aln=HIGH->US#2966  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「空の居失と宜星の搭近〜 / 　ふたつの間に / 　<89b0>果関係は無いのだろうか〜
+  2|LIT: <<TODO>>
+  3|EN : @Could the comet's approach be
+ somehow related to the
+ devouring of the sky?
+  4|RE : <<TODO>>
+
+[JP#3004] gaps=9  aln=MED->US#2967  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=8
+  1|JP : 「あらゆる<887e>相機能から / 　その存帰を消し<8a67>る / 　ウィザードリィステルス〜[10][0c]「だが、存帰を消し<8a67>れるのは / 　ステルス対<8ac2>である / 　ヘイムダル・ガッツォーのみだッ！[10][0c]「システムを英える魔界鍵は<8991><8992>同<8844>〜 / 　それだけに、強力な祇<89e4>巨<8a7a>を / 　拒いてくるかもしれないな〜
+  2|LIT: <<TODO>>
+  3|EN : @of surveillance: sound,
+ vibration, heat, and visual.@But the only part that is
+ made invisible is the
+ Heimdal Gazzo itself!@The Diablo Pillars, the heart of
+ the system, are exposed but their
+ defenses are sure to be tight.
+  4|RE : <<TODO>>
+
+[JP#3005] gaps=7  aln=HIGH->US#2968  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「だが、存帰を消し<8a67>れるのは / 　ステルス対<8ac2>である / 　ヘイムダル・ガッツォーのみだッ！[10][0c]「システムを英える魔界鍵は<8991><8992>同<8844>〜 / 　それだけに、強力な祇<89e4>巨<8a7a>を / 　拒いてくるかもしれないな〜
+  2|LIT: <<TODO>>
+  3|EN : @But the only part that is
+ made invisible is the
+ Heimdal Gazzo itself!@The Diablo Pillars, the heart of
+ the system, are exposed but their
+ defenses are sure to be tight.
+  4|RE : <<TODO>>
+
+[JP#3006] gaps=5  aln=HIGH->US#2969  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「システムを英える魔界鍵は<8991><8992>同<8844>〜 / 　それだけに、強力な祇<89e4>巨<8a7a>を / 　拒いてくるかもしれないな〜
+  2|LIT: <<TODO>>
+  3|EN : @The Diablo Pillars, the heart of
+ the system, are exposed but their
+ defenses are sure to be tight.
+  4|RE : <<TODO>>
+
+[JP#3007] gaps=3  aln=HIGH->US#2970  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「掬大<8ab4><8920>のエネルギー挙だからな / 　その使い渠が気になるだろう？[10][0c]「パイプラインの / 　<89c1>探知をおこなっているんだが〜 / 　結果は、もう少しまってくれよ
+  2|LIT: <<TODO>>
+  3|EN : @We gotta know what such a huge
+ power plant is being used for.@We're tracing the pipeline
+ right now, but it'll take
+ a little longer.
+  4|RE : <<TODO>>
+
+[JP#3008] gaps=1  aln=HIGH->US#2971  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「パイプラインの / 　<89c1>探知をおこなっているんだが〜 / 　結果は、もう少しまってくれよ
+  2|LIT: <<TODO>>
+  3|EN : @We're tracing the pipeline
+ right now, but it'll take
+ a little longer.
+  4|RE : <<TODO>>
+
+[JP#3009] gaps=2  aln=HIGH->US#2972  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「だけど、その着陸可能ポイントの少なさと / 　サーチシステムが使えない帯が / 　不許といえば不許だな[10][0c]「<8a12>やかな探<887e>をおこなうなら / 　ホバークラフトの方に / 　分があるってことだな
+  2|LIT: <<TODO>>
+  3|EN : @But you can't use the search
+ system, and only a few Landing
+ Pads exist in all Filgaia.@The Hovercraft is better
+ for conducting
+ thorough searches.
+  4|RE : <<TODO>>
+
+[JP#3010] gaps=2  aln=HIGH->US#2973  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8a12>やかな探<887e>をおこなうなら / 　ホバークラフトの方に / 　分があるってことだな
+  2|LIT: <<TODO>>
+  3|EN : @The Hovercraft is better
+ for conducting
+ thorough searches.
+  4|RE : <<TODO>>
+
+[JP#3011] gaps=3  aln=HIGH->US#2974  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「ファルガイア貴<8aa4><8a72>のうち / 　ギルドグラードが / 　どうにもこうにもごねていたらしいが〜[10][0c]「最終的には / 　メリアブールとシルヴァラントに / 　<8aae>し切られるカタチとなったそうだ
+  2|LIT: <<TODO>>
+  3|EN : @Of Filgaia's 3 nations, only
+ Guild Galad's representatives
+ bitched and moaned.@But in the end,
+ Meria Boule and Sylvaland
+ somehow wore them down.
+  4|RE : <<TODO>>
+
+[JP#3012] gaps=1  aln=HIGH->US#2975  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「最終的には / 　メリアブールとシルヴァラントに / 　<8aae>し切られるカタチとなったそうだ
+  2|LIT: <<TODO>>
+  3|EN : @But in the end,
+ Meria Boule and Sylvaland
+ somehow wore them down.
+  4|RE : <<TODO>>
+
+[JP#3013] gaps=0  aln=HIGH->US#2976  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜でも、今度は違う / 　僕もいっしょに戦っているつもりだ / 　僕もファルガイアを守っているつもりだ
+  2|LIT: <<TODO>>
+  3|EN : @... But this time it's different.
+ I feel like I'm fighting...
+ like I'm protecting Filgaia.
+  4|RE : <<TODO>>
+
+[JP#3014] gaps=4  aln=HIGH->US#2977  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「だが、そいつひとりの意<8aee>で / 　『機帰』になるんじゃない〜[10][0c]「その世界と / 　その時代に生きる人間が<8a96>むことで / 　生み出されていくもんなんだ[10][0c]「『機帰』は人間がなるもんだ / 　でも、<8a96>んでなるものじゃない / 　<8a96>まれて生み出されていくものなんだ
+  2|LIT: <<TODO>>
+  3|EN : @But no one can simply decide
+ to become a hero.@Heroes are created
+ when the people decide
+ that they need heroes.@A hero has to want to be a
+ hero, but before that, the
+ people have to want him.
+  4|RE : <<TODO>>
+
+[JP#3015] gaps=3  aln=HIGH->US#2978  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「その世界と / 　その時代に生きる人間が<8a96>むことで / 　生み出されていくもんなんだ[10][0c]「『機帰』は人間がなるもんだ / 　でも、<8a96>んでなるものじゃない / 　<8a96>まれて生み出されていくものなんだ
+  2|LIT: <<TODO>>
+  3|EN : @Heroes are created
+ when the people decide
+ that they need heroes.@A hero has to want to be a
+ hero, but before that, the
+ people have to want him.
+  4|RE : <<TODO>>
+
+[JP#3016] gaps=2  aln=HIGH->US#2979  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「『機帰』は人間がなるもんだ / 　でも、<8a96>んでなるものじゃない / 　<8a96>まれて生み出されていくものなんだ
+  2|LIT: <<TODO>>
+  3|EN : @A hero has to want to be a
+ hero, but before that, the
+ people have to want him.
+  4|RE : <<TODO>>
+
+[JP#3017] gaps=8  aln=HIGH->US#2980  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : 「『徽の<8b38><8b39>』におびえた / 　<88a6>説の時代には＜<8b3a>の遠昔＞を〜[10][0c]「スレイハイムの<8ad2>漁には / 　機帰[05]お・エヴァンスを〜 / 　<f040><f042>というカンジでな[10][0c]「〜空を失った / 　現帰のファルガイアで / 　人はまた機帰を<8a96>み、生み出すのだろうか？
+  2|LIT: <<TODO>>
+  3|EN : @The <Sword Magess> appeared when
+ |Blaze of Disaster| was feared.@In Slayheim's age of tyranny,
+ they created a hero named
+ 1 Evans. And so on.@... Now, Filgaia's sky has been
+ devoured, and again the time
+ is ripe for new heroes.
+  4|RE : <<TODO>>
+
+[JP#3018] gaps=4  aln=HIGH->US#2981  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「スレイハイムの<8ad2>漁には / 　機帰[05]お・エヴァンスを〜 / 　<f040><f042>というカンジでな[10][0c]「〜空を失った / 　現帰のファルガイアで / 　人はまた機帰を<8a96>み、生み出すのだろうか？
+  2|LIT: <<TODO>>
+  3|EN : @In Slayheim's age of tyranny,
+ they created a hero named
+ 1 Evans. And so on.@... Now, Filgaia's sky has been
+ devoured, and again the time
+ is ripe for new heroes.
+  4|RE : <<TODO>>
+
+[JP#3019] gaps=1  aln=HIGH->US#2982  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「〜空を失った / 　現帰のファルガイアで / 　人はまた機帰を<8a96>み、生み出すのだろうか？
+  2|LIT: <<TODO>>
+  3|EN : @... Now, Filgaia's sky has been
+ devoured, and again the time
+ is ripe for new heroes.
+  4|RE : <<TODO>>
+
+[JP#3020] gaps=5  aln=HIGH->US#2983  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「魚圧された状況から / 　『亨命』だの『解殺』だの / 　享みたいなことを京んで同<8aee>を供るのさ[10][0c]「あいつの享につきあわされて / 　最後は、険<8ac5>で侠僑いを / 　しなくちゃいけない状況になるんだ[10][0c]「なんで、あんな現実<8a3d>の兇い享違<8b17>に / 　みんなついて行くのだろう〜[10][0c]「やっぱり、自信ありげに享を<8b31>られると / 　たとえメッキでも / 　競力を信じてしまうのだろうか？
+  2|LIT: <<TODO>>
+  3|EN : @He rallies people against some
+ oppression by spouting speeches
+ about revolution.@Then we get dragged along on
+ his idealistic crusade and end
+ up cleaning up his mess.@Why do we have to follow a
+ damned dreamer like that?@People must have a weak spot
+ for idealism... even when it's
+ just a smokescreen.
+  4|RE : <<TODO>>
+
+[JP#3021] gaps=4  aln=HIGH->US#2984  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「あいつの享につきあわされて / 　最後は、険<8ac5>で侠僑いを / 　しなくちゃいけない状況になるんだ[10][0c]「なんで、あんな現実<8a3d>の兇い享違<8b17>に / 　みんなついて行くのだろう〜[10][0c]「やっぱり、自信ありげに享を<8b31>られると / 　たとえメッキでも / 　競力を信じてしまうのだろうか？
+  2|LIT: <<TODO>>
+  3|EN : @Then we get dragged along on
+ his idealistic crusade and end
+ up cleaning up his mess.@Why do we have to follow a
+ damned dreamer like that?@People must have a weak spot
+ for idealism... even when it's
+ just a smokescreen.
+  4|RE : <<TODO>>
+
+[JP#3022] gaps=3  aln=HIGH->US#2985  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「なんで、あんな現実<8a3d>の兇い享違<8b17>に / 　みんなついて行くのだろう〜[10][0c]「やっぱり、自信ありげに享を<8b31>られると / 　たとえメッキでも / 　競力を信じてしまうのだろうか？
+  2|LIT: <<TODO>>
+  3|EN : @Why do we have to follow a
+ damned dreamer like that?@People must have a weak spot
+ for idealism... even when it's
+ just a smokescreen.
+  4|RE : <<TODO>>
+
+[JP#3023] gaps=1  aln=HIGH->US#2986  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「やっぱり、自信ありげに享を<8b31>られると / 　たとえメッキでも / 　競力を信じてしまうのだろうか？
+  2|LIT: <<TODO>>
+  3|EN : @People must have a weak spot
+ for idealism... even when it's
+ just a smokescreen.
+  4|RE : <<TODO>>
+
+[JP#3024] gaps=0  aln=HIGH->US#2987  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「だいじょうぶだ / 　今度もまた、匡卿のマイトグローブで / 　跡跡を起こしてくれるさ
+  2|LIT: <<TODO>>
+  3|EN : @So don't worry. The Might Glove
+ on his left hand will bring about
+ another miracle.
+  4|RE : <<TODO>>
+
+[JP#3025] gaps=4  aln=HIGH->US#2988  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「もちろん、スレイハイムから / 　戦って、叫ったんだがな〜[10][0c]「機帰サマの相喬に / 　機艇の<8a25>いや<8adc>仲<8b22><8a4c>に長けたヤツがいて / 　そいつがパイロットだったらしいぜ
+  2|LIT: <<TODO>>
+  3|EN : @Of course, they took it
+ from Slayheim.@The pilot was Mr. Hero's war
+ buddy -- a whiz at machines
+ and flying.
+  4|RE : <<TODO>>
+
+[JP#3026] gaps=4  aln=HIGH->US#2989  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「機帰サマの相喬に / 　機艇の<8a25>いや<8adc>仲<8b22><8a4c>に長けたヤツがいて / 　そいつがパイロットだったらしいぜ
+  2|LIT: <<TODO>>
+  3|EN : @The pilot was Mr. Hero's war
+ buddy -- a whiz at machines
+ and flying.
+  4|RE : <<TODO>>
+
+[JP#3027] gaps=3  aln=HIGH->US#2990  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「みんな片って行犠なんて / 　一度も無かったかもしれないな[10][0c]「かく言う僕も、犠に<8ae6>久していたんだが / 　機帰サマのお探を / 　<89f1>えているわけじゃないしよ[10][0c]「まさか、また / 　いっしょに戦う回が<8a43>ようとはな
+  2|LIT: <<TODO>>
+  3|EN : @They probably never marched
+ in formation.@I was in the SLA myself,
+ but I don't remember what
+ Mr. Hero looked like.@Who ever thought we'd be
+ fighting side by side again?
+  4|RE : <<TODO>>
+
+[JP#3028] gaps=3  aln=MED->US#2991  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「かく言う僕も、犠に<8ae6>久していたんだが / 　機帰サマのお探を / 　<89f1>えているわけじゃないしよ[10][0c]「まさか、また / 　いっしょに戦う回が<8a43>ようとはな
+  2|LIT: <<TODO>>
+  3|EN : @I was in the SLA myself,
+ but I don't remember what
+ Mr. Hero looked like.@Who ever thought we'd be
+ fighting side by side again?
+  4|RE : <<TODO>>
+
+[JP#3029] gaps=1  aln=HIGH->US#2992  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「まさか、また / 　いっしょに戦う回が<8a43>ようとはな
+  2|LIT: <<TODO>>
+  3|EN : @Who ever thought we'd be
+ fighting side by side again?
+  4|RE : <<TODO>>
+
+[JP#3030] gaps=2  aln=HIGH->US#2993  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「みんなあんたたちに / 　未<8a43>を峡している〜[10][0c]「そして、自分たちの中にある / 　ファルガイアを守りたいという違いを / 　あんたたちに<8880>めているんだ
+  2|LIT: <<TODO>>
+  3|EN : @Our very future
+ depends on you.@You represent everyone's hopes
+ to defend our dear
+ Filgaia.
+  4|RE : <<TODO>>
+
+[JP#3031] gaps=1  aln=HIGH->US#2994  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そして、自分たちの中にある / 　ファルガイアを守りたいという違いを / 　あんたたちに<8880>めているんだ
+  2|LIT: <<TODO>>
+  3|EN : @You represent everyone's hopes
+ to defend our dear
+ Filgaia.
+  4|RE : <<TODO>>
+
+[JP#3032] gaps=1  aln=HIGH->US#2995  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「だけど、シャトーと同じく / 　サーチ機能が備わっていないから / 　結強のところ、地道な探<887e>は変わらないがな
+  2|LIT: <<TODO>>
+  3|EN : @Like the Chateau, it lacks search
+ features, so you still have to
+ search the old-fashioned way.
+  4|RE : <<TODO>>
+
+[JP#3033] gaps=1  aln=HIGH->US#2996  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [02][09]つ<e50e>
+  2|LIT: <<TODO>>
+  3|EN : 	��
+  4|RE : <<TODO>>
+
+[JP#3034] gaps=7  aln=HIGH->US#2997  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「ヴァレリアシャトーより / 　着陸可能ポイントに自由がきくぶん / 　行動可能<8b1e><8b1f>が<8afc><8aad>に<89da>がったはずだ[10][0c]「今後のシャトーは、あんたたちの<8921>ではなく / 　底間人の危険確<8901>のために / 　解殺されることになったぜ
+  2|LIT: <<TODO>>
+  3|EN : @She can land in more places than
+ Valeria Chateau and will give
+ you a wider range of operations.@Instead of your means of
+ transportation, Chateau will
+ be used to evacuate civilians.
+  4|RE : <<TODO>>
+
+[JP#3035] gaps=2  aln=HIGH->US#2998  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「今後のシャトーは、あんたたちの<8921>ではなく / 　底間人の危険確<8901>のために / 　解殺されることになったぜ
+  2|LIT: <<TODO>>
+  3|EN : @Instead of your means of
+ transportation, Chateau will
+ be used to evacuate civilians.
+  4|RE : <<TODO>>
+
+[JP#3036] gaps=4  aln=HIGH->US#2999  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「何もかもが / 　<88a6>説から / 　現実のモノへ変わろうとしている〜[10][0c]「ファルガイアを<8a0a>う脅威が / 　更々と<88a6>説を、現実に恐らせていく〜 / 　そんな気がしてならないぜ[10][0c]「このままじゃ / 　ファルガイアを守るために / 　＜<8b3a>の遠昔＞まで恐るんじゃないか？
+  2|LIT: <<TODO>>
+  3|EN : @It's like everything
+ from the old legends
+ is becoming reality.@This nightmare that plagues
+ Filgaia is bringing the legends
+ of the past to life!@I hope that means the
+ <Sword Magess> will come to
+ life to protect Filgaia.
+  4|RE : <<TODO>>
+
+[JP#3037] gaps=3  aln=HIGH->US#3000  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「ファルガイアを<8a0a>う脅威が / 　更々と<88a6>説を、現実に恐らせていく〜 / 　そんな気がしてならないぜ[10][0c]「このままじゃ / 　ファルガイアを守るために / 　＜<8b3a>の遠昔＞まで恐るんじゃないか？
+  2|LIT: <<TODO>>
+  3|EN : @This nightmare that plagues
+ Filgaia is bringing the legends
+ of the past to life!@I hope that means the
+ <Sword Magess> will come to
+ life to protect Filgaia.
+  4|RE : <<TODO>>
+
+[JP#3038] gaps=1  aln=HIGH->US#3001  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「このままじゃ / 　ファルガイアを守るために / 　＜<8b3a>の遠昔＞まで恐るんじゃないか？
+  2|LIT: <<TODO>>
+  3|EN : @I hope that means the
+ <Sword Magess> will come to
+ life to protect Filgaia.
+  4|RE : <<TODO>>
+
+[JP#3039] gaps=5  aln=HIGH->US#3002  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「そいつがヘイムダル・ガッツォーに / 　<887c><887d>されているのは / 　ほぼ、まちがいないだろう〜[10][0c]「その圧倒的な威力から / 　戦茶的にあつかわれることは<8ab7>くないが〜[10][0c]「気がかりなのは / 　追いつめられたヴィンスフェルトが / 　いつまで恭挟な<8942><898e>を辺せるかということだ
+  2|LIT: <<TODO>>
+  3|EN : @... is almost certainly
+ loaded aboard
+ Heimdal Gazzo.@I'm sure Vinsfeld intends to
+ use it as a deterrent...@But Vinsfeld has his back to
+ the wall. Can we count on him
+ to continue to act rationally?
+  4|RE : <<TODO>>
+
+[JP#3040] gaps=3  aln=HIGH->US#3003  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「その圧倒的な威力から / 　戦茶的にあつかわれることは<8ab7>くないが〜[10][0c]「気がかりなのは / 　追いつめられたヴィンスフェルトが / 　いつまで恭挟な<8942><898e>を辺せるかということだ
+  2|LIT: <<TODO>>
+  3|EN : @I'm sure Vinsfeld intends to
+ use it as a deterrent...@But Vinsfeld has his back to
+ the wall. Can we count on him
+ to continue to act rationally?
+  4|RE : <<TODO>>
+
+[JP#3041] gaps=2  aln=HIGH->US#3004  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「気がかりなのは / 　追いつめられたヴィンスフェルトが / 　いつまで恭挟な<8942><898e>を辺せるかということだ
+  2|LIT: <<TODO>>
+  3|EN : @But Vinsfeld has his back to
+ the wall. Can we count on him
+ to continue to act rationally?
+  4|RE : <<TODO>>
+
+[JP#3042] gaps=4  aln=MED->US#3005  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「ギルドグラードじゃドラゴンの合谷を用いて / 　機艇<8b22><8a4c>が発<8b20>しているらしいが〜[10][0c]「機艇と生命体の中間存帰 / 　幻獣ドラゴンそのものでもない<8aac>り / 　このサイズに飛空機艇をおさめられないぞ
+  2|LIT: <<TODO>>
+  3|EN : @Guild Galad has advanced
+ machinery because of the Dragon
+ fossils. Still...@Only a monster Dragon - a living
+ machine - could become a flying
+ craft that small.
+  4|RE : <<TODO>>
+
+[JP#3043] gaps=1  aln=MED->US#3006  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「機艇と生命体の中間存帰 / 　幻獣ドラゴンそのものでもない<8aac>り / 　このサイズに飛空機艇をおさめられないぞ
+  2|LIT: <<TODO>>
+  3|EN : @Only a monster Dragon - a living
+ machine - could become a flying
+ craft that small.
+  4|RE : <<TODO>>
+
+[JP#3044] gaps=0  aln=MED->US#3007  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「外からドンパチやって落ちねぇのなら / 　中に侵入して、参字から破滅する / 　逆本的なことだが、確実な作戦だ
+  2|LIT: <<TODO>>
+  3|EN : @Remember: If you can't defeat
+ an enemy from the outside,
+ destroy him from the inside.
+  4|RE : <<TODO>>
+
+[JP#3045] gaps=5  aln=MED->US#3008  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「でも、況心要の小客機が用意されていない / 　たとえるなら、そう<f040><f042>〜 / 　『杵人昔狂のいない<8b04>』ってとこか？[10][0c]「まあ、どうしてもって言うのなら / 　あんたたちを / 　生身で<8af5>出しても<8968>わないんだけどな
+  2|LIT: <<TODO>>
+  3|EN : @But there aren't any
+ aircraft. It's like an inn
+ without a pretty proprietress!@Of course, if you want to,
+ you can launch yourselves
+ on this thing.
+  4|RE : <<TODO>>
+
+[JP#3046] gaps=2  aln=MED->US#3009  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「まあ、どうしてもって言うのなら / 　あんたたちを / 　生身で<8af5>出しても<8968>わないんだけどな
+  2|LIT: <<TODO>>
+  3|EN : @Of course, if you want to,
+ you can launch yourselves
+ on this thing.
+  4|RE : <<TODO>>
+
+[JP#3047] gaps=0  aln=HIGH->US#3010  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「それは、僕たちひとりひとりが / 　少しずつ持っているはずの / 　大切なモノを守る力だぜ
+  2|LIT: <<TODO>>
+  3|EN : @So we can fight off this
+ threat and protect our
+ loved ones!
+  4|RE : <<TODO>>
+
+[JP#3048] gaps=1  aln=HIGH->US#3011  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「それは、力無きゆえに / 　『機帰』の力を<8a98>めているんだ / 　けっして『機帰』の貸なんかじゃないぜ
+  2|LIT: <<TODO>>
+  3|EN : @All they ask of the hero is
+ strength. They don't want the
+ hero to sacrifice himself.
+  4|RE : <<TODO>>
+
+[JP#3049] gaps=2  aln=HIGH->US#3012  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「機帰の矯胸を脅<895b>する<8b08>や / 　人にあらずモノは / 　興給されるらしいが〜
+  2|LIT: <<TODO>>
+  3|EN : @Only kin of the Magess may enter.
+ Frauds pretending to descend
+ from her may not gain entrance.
+  4|RE : <<TODO>>
+
+[JP#3050] gaps=5  aln=HIGH->US#3013  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「さらに、本体との興給反<8839>もあるため / 　<896a>世に過響で / 　リスキーな手<8a4c>とも聞いているぜ[10][0c]「それでも / 　<8a0f>体を手に入れようとするってヤツは / 　相<8839>のワケ作りってことだろうな
+  2|LIT: <<TODO>>
+  3|EN : @They say it's a tough, risky
+ procedure because of the danger
+ of rejection.@So anyone who tries to get a
+ bionic implant must be a really
+ shady character.
+  4|RE : <<TODO>>
+
+[JP#3051] gaps=2  aln=HIGH->US#3014  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「それでも / 　<8a0f>体を手に入れようとするってヤツは / 　相<8839>のワケ作りってことだろうな
+  2|LIT: <<TODO>>
+  3|EN : @So anyone who tries to get a
+ bionic implant must be a really
+ shady character.
+  4|RE : <<TODO>>
+
+[JP#3052] gaps=2  aln=HIGH->US#3015  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<89c1>に、生身を一字残して / 　そっくり<88fb>押するなんてケースは / 　聞いた事も無いぜ
+  2|LIT: <<TODO>>
+  3|EN : @I've never heard of someone
+ having healthy limbs replaced
+ intentionally!
+  4|RE : <<TODO>>
+
+[JP#3053] gaps=1  aln=HIGH->US#3016  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「心窮は、エンジン / 　驚仰は、コクピットってなカンジだ[10][0c]「言いかえるならば / 　人の体も機艇にて<8968>成することも / 　可能ってことだぜ
+  2|LIT: <<TODO>>
+  3|EN : @The heart is the engine. The
+ brain is the cockpit...@In short, it is possible
+ to build a human body
+ from mechanical components.
+  4|RE : <<TODO>>
+
+[JP#3054] gaps=1  aln=MED->US#3017  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「言いかえるならば / 　人の体も機艇にて<8968>成することも / 　可能ってことだぜ
+  2|LIT: <<TODO>>
+  3|EN : @In short, it is possible
+ to build a human body
+ from mechanical components.
+  4|RE : <<TODO>>
+
+[JP#3055] gaps=2  aln=HIGH->US#3018  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<8995>か<8aaa>は、もっと暁業で / 　さらに強力なインダストリアルソーサーが / 　ファルガイアにはあったというぜ
+  2|LIT: <<TODO>>
+  3|EN : @Ancient Filgaia also had
+ Industrial Sorcery, which was
+ more complex and powerful.
+  4|RE : <<TODO>>
+
+[JP#3056] gaps=8  aln=HIGH->US#3019  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「わらわが可曲違なお<8abf>らのために / 　ちょっとだけロストテクノロジーを使って / 　キュートでドキドキな極教をしてしんぜよう[10][0c]「<f041><f041><f041>なんじゃ、その<8a84>いの目は / 　わらわに任せておけば大玉桐じゃ[10][0c]「ギルドグラードの<8b22><8a4c>など / 　<8921>元にも貴ばないことを / 　ちょっぴり見せつけるだけじゃよ
+  2|LIT: <<TODO>>
+  3|EN : @We will use Lost Technology to
+ spice it up a bit for you, out
+ of pity for you.@Don't look so skeptical!
+ Leave everything to us!@You will see how Guild Galad's
+ technology can't even hold
+ a candle to ours!
+  4|RE : <<TODO>>
+
+[JP#3057] gaps=7  aln=HIGH->US#3020  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「<f041><f041><f041>なんじゃ、その<8a84>いの目は / 　わらわに任せておけば大玉桐じゃ[10][0c]「ギルドグラードの<8b22><8a4c>など / 　<8921>元にも貴ばないことを / 　ちょっぴり見せつけるだけじゃよ
+  2|LIT: <<TODO>>
+  3|EN : @Don't look so skeptical!
+ Leave everything to us!@You will see how Guild Galad's
+ technology can't even hold
+ a candle to ours!
+  4|RE : <<TODO>>
+
+[JP#3058] gaps=3  aln=HIGH->US#3021  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「ギルドグラードの<8b22><8a4c>など / 　<8921>元にも貴ばないことを / 　ちょっぴり見せつけるだけじゃよ
+  2|LIT: <<TODO>>
+  3|EN : @You will see how Guild Galad's
+ technology can't even hold
+ a candle to ours!
+  4|RE : <<TODO>>
+
+[JP#3059] gaps=3  aln=HIGH->US#3022  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「なに、あまり変わったように見えない？ / 　これだからシロウトは……[10][0c]「これはな、マップスコープの粁僅を / 　勤均に<8865>搭<88ab><88c0>することで / 　移動中でもマップを見られるのじゃッ！
+  2|LIT: <<TODO>>
+  3|EN : @You say it looks the same?
+ Hmph! Amateur!@Now you can view the map in
+ transport by projecting the
+ image onto your retina!
+  4|RE : <<TODO>>
+
+[JP#3060] gaps=3  aln=HIGH->US#3023  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「これはな、マップスコープの粁僅を / 　勤均に<8865>搭<88ab><88c0>することで / 　移動中でもマップを見られるのじゃッ！
+  2|LIT: <<TODO>>
+  3|EN : @Now you can view the map in
+ transport by projecting the
+ image onto your retina!
+  4|RE : <<TODO>>
+
+[JP#3061] gaps=9  aln=HIGH->US#3024  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「どこかの[11]お<896e>い錦と谷と道に<8b1f>まれた[11]ぉ場所で / 　ちょっとした奇跡みたいのが見えたんだ[10][0c]「なんか、バチバチ<89e0>っていたから / 　結<8968>目戻っててさ / 　一体、何があるトコなんだろうな？[10][0c]「<f040><f041><f042>そういえば、[11]おそこから東の方[11]ぉには / 　[11]お<896e>い錦にかかった<89ec>の上[11]ぉに / 　場があるのが見えたぜッ
+  2|LIT: <<TODO>>
+  3|EN : @They were 1surrounded by a0
+ 1valley, mountains, and the sea0.@I couldn't help but notice it
+ because of all the sparks. I
+ wonder what it could be.@1West of there0 I also
+ saw a town 1on a bridge over0
+ 1a deep ravine.0
+  4|RE : <<TODO>>
+
+[JP#3062] gaps=7  aln=HIGH->US#3025  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「なんか、バチバチ<89e0>っていたから / 　結<8968>目戻っててさ / 　一体、何があるトコなんだろうな？[10][0c]「<f040><f041><f042>そういえば、[11]おそこから東の方[11]ぉには / 　[11]お<896e>い錦にかかった<89ec>の上[11]ぉに / 　場があるのが見えたぜッ
+  2|LIT: <<TODO>>
+  3|EN : @I couldn't help but notice it
+ because of all the sparks. I
+ wonder what it could be.@1West of there0 I also
+ saw a town 1on a bridge over0
+ 1a deep ravine.0
+  4|RE : <<TODO>>
+
+[JP#3063] gaps=5  aln=MED->US#3026  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<f040><f041><f042>そういえば、[11]おそこから東の方[11]ぉには / 　[11]お<896e>い錦にかかった<89ec>の上[11]ぉに / 　場があるのが見えたぜッ
+  2|LIT: <<TODO>>
+  3|EN : @1West of there0 I also
+ saw a town 1on a bridge over0
+ 1a deep ravine.0
+  4|RE : <<TODO>>
+
+[JP#3064] gaps=0  aln=MED->US#3026  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ロンバルディアってさ / 　何食ってんだろう？ / 　まさか、人間を食べたりしないよな？
+  2|LIT: <<TODO>>
+  3|EN : @1West of there0 I also
+ saw a town 1on a bridge over0
+ 1a deep ravine.0
+  4|RE : <<TODO>>
+
+[JP#3065] gaps=0  aln=MED->US#3027  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「でも、なんでこんなことしたのかな？
+  2|LIT: <<TODO>>
+  3|EN : @Why would he do that, anyway?
+  4|RE : <<TODO>>
+
+[JP#3066] gaps=1  aln=MED->US#3028  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「[0a]かお欽ちゃんが<8aa9>いてたけど / 　何かあったの？
+  2|LIT: <<TODO>>
+  3|EN : @Did you make her cry? I can't
+ figure you adults out...
+  4|RE : <<TODO>>
+
+[JP#3067] gaps=1  aln=MED->US#3028  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「やっぱり、あんちゃんが<8aa9>かしたのかな？ / 　大人はたいへんだよねぇ
+  2|LIT: <<TODO>>
+  3|EN : @Did you make her cry? I can't
+ figure you adults out...
+  4|RE : <<TODO>>
+
+[JP#3068] gaps=2  aln=MED->US#3029  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「あの<8b33>発じゃ / 　さすがにダメかと思ったけど / 　やっぱり僕達の琴<8a96>の星だ
+  2|LIT: <<TODO>>
+  3|EN : @Just call on me if you need
+ the help of Young ARMS!
+  4|RE : <<TODO>>
+
+[JP#3069] gaps=0  aln=MED->US#3029  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「まあ、少数ＡＲＭＳの力を禁りたくなったら / 　いつでも言ってくれよ
+  2|LIT: <<TODO>>
+  3|EN : @Just call on me if you need
+ the help of Young ARMS!
+  4|RE : <<TODO>>
+
+[JP#3070] gaps=4  aln=MED->US#3030  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「郷務<8ae4>の禽<89e3>筋さんだけどさ / 　杵人だけどちょっと、<889c>いんだよな / 　いろんな意<8a3d>で〜
+  2|LIT: <<TODO>>
+  3|EN : @She got excited when I said
+ you liked older women. Hey,
+ why are you looking so upset?
+  4|RE : <<TODO>>
+
+[JP#3071] gaps=5  aln=MED->US#3031  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「とりあえず、お前は数上のお欽さんタイプが / 　<8a99>みだって言っておいたら緊んでたぜ / 　<f040><f041><f042>なに、<8aa9>きそうな探してるんだよ？
+  2|LIT: <<TODO>>
+  3|EN : @In more ways than one...
+  4|RE : <<TODO>>
+
+[JP#3072] gaps=1  aln=MED->US#3033  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「いろんな意<8a3d>で〜
+  2|LIT: <<TODO>>
+  3|EN : @I have the courage to accept
+ 0 the Black Knight.@So keep your promise and
+ come back again, OK?
+ Remember, you promised!
+  4|RE : <<TODO>>
+
+[JP#3073] gaps=0  aln=MED->US#3034  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「この前、エベチョチョ様っていう家から / 　クッキーを芹ったんだけど / 　ちょっと、シケってたんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @So keep your promise and
+ come back again, OK?
+ Remember, you promised!
+  4|RE : <<TODO>>
+
+[JP#3074] gaps=1  aln=MED->US#3034  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「[05]が、がんばってる？ / 　まだ戦姉に<8b0d>れていないんだから / 　あんまり、無理させないようになッ！
+  2|LIT: <<TODO>>
+  3|EN : @So keep your promise and
+ come back again, OK?
+ Remember, you promised!
+  4|RE : <<TODO>>
+
+[JP#3075] gaps=1  aln=MED->US#3034  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「まだ戦姉に<8b0d>れていないんだから / 　あんまり、無理させないようになッ！
+  2|LIT: <<TODO>>
+  3|EN : @So keep your promise and
+ come back again, OK?
+ Remember, you promised!
+  4|RE : <<TODO>>
+
+[JP#3076] gaps=1  aln=MED->US#3035  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「菌衿されそうになった[05]がを / 　<8833>けてくれて、ありがとなッ！
+  2|LIT: <<TODO>>
+  3|EN : @We're counting on you
+ to save Filgaia.
+ May <Sword Magess> protect you.
+  4|RE : <<TODO>>
+
+[JP#3077] gaps=4  aln=MED->US#3036  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「ヴァレリアさんの行いは / 　<8a6b>襟の謹近の金<8a6a><8946>に<887d>るかもしれませんね
+  2|LIT: <<TODO>>
+  3|EN : @I guess I wasn't ready to
+ accept you. I didn't have the
+ courage. I'm sorry.
+  4|RE : <<TODO>>
+
+[JP#3078] gaps=0  aln=MED->US#3036  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「もう、このファルガイアに / 　あなた方たちを倒せるモノは / 　いないことでしょう
+  2|LIT: <<TODO>>
+  3|EN : @I guess I wasn't ready to
+ accept you. I didn't have the
+ courage. I'm sorry.
+  4|RE : <<TODO>>
+
+[JP#3079] gaps=0  aln=MED->US#3036  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「[05]ぉさんも / 　『スレイハイムの機帰』さんと同じくらい / 　強いのではないですか
+  2|LIT: <<TODO>>
+  3|EN : @I guess I wasn't ready to
+ accept you. I didn't have the
+ courage. I'm sorry.
+  4|RE : <<TODO>>
+
+[JP#3080] gaps=0  aln=MED->US#3036  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「『スレイハイムの機帰』は / 　吟達じゃないと言うことですね
+  2|LIT: <<TODO>>
+  3|EN : @I guess I wasn't ready to
+ accept you. I didn't have the
+ courage. I'm sorry.
+  4|RE : <<TODO>>
+
+[JP#3081] gaps=3  aln=MED->US#3036  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「エベチョチョ様の銀物のクッキーですが / 　大事にしまっていた為 / 　畿<8a3d><8aa3><8aac>を過ぎていたのではないでしょうか
+  2|LIT: <<TODO>>
+  3|EN : @I guess I wasn't ready to
+ accept you. I didn't have the
+ courage. I'm sorry.
+  4|RE : <<TODO>>
+
+[JP#3082] gaps=2  aln=MED->US#3036  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「[05]が様にとって / 　<8a81>の<8a75>協の場だったのではないでしょうか
+  2|LIT: <<TODO>>
+  3|EN : @I guess I wasn't ready to
+ accept you. I didn't have the
+ courage. I'm sorry.
+  4|RE : <<TODO>>
+
+[JP#3083] gaps=3  aln=MED->US#3036  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「[05]がくんは / 　このお<893b>に<8901><89e3>してもらうのが / 　新解でしょう
+  2|LIT: <<TODO>>
+  3|EN : @I guess I wasn't ready to
+ accept you. I didn't have the
+ courage. I'm sorry.
+  4|RE : <<TODO>>
+
+[JP#3084] gaps=0  aln=MED->US#3036  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「それは簡単なことなんかではなく / 　誰にだってできることだったんです
+  2|LIT: <<TODO>>
+  3|EN : @I guess I wasn't ready to
+ accept you. I didn't have the
+ courage. I'm sorry.
+  4|RE : <<TODO>>
+
+[JP#3085] gaps=8  aln=MED->US#3038  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : ＊それらに対<8b02>するためには / 　世に、最悪の状況を違奮し / 　対<8b02>方法を確戻しておくことである[10][0c]＊対<8b02>が、後手に回ることで / 　状況は悪合の一渠を<89cb>り / 　取り暮しの<88be>かない状況になる[10][0c]＊未<8844>に祇ぐことができなかったとき / 　状況の悪合を祇ぎ / 　<889a><889b>の最小合を区る必要がある
+  2|LIT: <<TODO>>
+  3|EN : *To survive, you must assume
+ the worst possible scenario
+ and plan accordingly.*Unpreparedness allows a
+ bad situation to grow worse,
+ overwhelming the unprepared.*Precaution and prevention
+ stop disaster from spreading
+ and help minimize the damage.
+  4|RE : <<TODO>>
+
+[JP#3086] gaps=6  aln=MED->US#3039  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : ＊対<8b02>が、後手に回ることで / 　状況は悪合の一渠を<89cb>り / 　取り暮しの<88be>かない状況になる[10][0c]＊未<8844>に祇ぐことができなかったとき / 　状況の悪合を祇ぎ / 　<889a><889b>の最小合を区る必要がある
+  2|LIT: <<TODO>>
+  3|EN : *Unpreparedness allows a
+ bad situation to grow worse,
+ overwhelming the unprepared.*Precaution and prevention
+ stop disaster from spreading
+ and help minimize the damage.
+  4|RE : <<TODO>>
+
+[JP#3087] gaps=3  aln=MED->US#3040  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : ＊未<8844>に祇ぐことができなかったとき / 　状況の悪合を祇ぎ / 　<889a><889b>の最小合を区る必要がある
+  2|LIT: <<TODO>>
+  3|EN : *Precaution and prevention
+ stop disaster from spreading
+ and help minimize the damage.
+  4|RE : <<TODO>>
+
+[JP#3088] gaps=7  aln=MED->US#3041  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : ＊ファルガイアにある<8a72>々は / 　見えない<8a72>基という狗で伝切られ / 　人々の心にも狗を作る[10][0c]＊自<8a72>を守ろうとしたり / 　他<8a72>に対し<8a84>心暗玖になることで / 　さらに矩を<896e>めていくことになる[10][0c]＊ファルガイアの険ての人々がわかりあい / 　この地に砧まう同胞として / 　苦<8858>しあえるのはいつの回か…
+  2|LIT: <<TODO>>
+  3|EN : *Filgaia's nations and people
+ are divided by invisible
+ walls called borders.*The people are further divided
+ by a longing for security and
+ suspicion of foreign nations.*Will Filgaians ever learn to
+ live together as one people
+ sharing the same planet?
+  4|RE : <<TODO>>
+
+[JP#3089] gaps=5  aln=MED->US#3042  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : ＊自<8a72>を守ろうとしたり / 　他<8a72>に対し<8a84>心暗玖になることで / 　さらに矩を<896e>めていくことになる[10][0c]＊ファルガイアの険ての人々がわかりあい / 　この地に砧まう同胞として / 　苦<8858>しあえるのはいつの回か…
+  2|LIT: <<TODO>>
+  3|EN : *The people are further divided
+ by a longing for security and
+ suspicion of foreign nations.*Will Filgaians ever learn to
+ live together as one people
+ sharing the same planet?
+  4|RE : <<TODO>>
+
+[JP#3090] gaps=1  aln=MED->US#3043  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : ＊ファルガイアの険ての人々がわかりあい / 　この地に砧まう同胞として / 　苦<8858>しあえるのはいつの回か…
+  2|LIT: <<TODO>>
+  3|EN : *Will Filgaians ever learn to
+ live together as one people
+ sharing the same planet?
+  4|RE : <<TODO>>
+
+[JP#3091] gaps=2  aln=HIGH->US#3044  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊我々は、それに躯する手だてがあるのか？ / 　魔物に<8aac>ったことではない / 　勇変地異の可能性もある[10][0c]＊それらに躯する力を / 　我々は持っていない[10][0c]＊世界を乗う脅威が<8a43>たとき / 　我々は滅びるしかないのか[10][0c]＊その前に、我々はまとまらねばならぬ / 　だが、人の年だけ思いがあり / 　人がまとまることなど不可能なのか？
+  2|LIT: <<TODO>>
+  3|EN : *The next disaster to strike
+ could be a monster - or it
+ could be a natural disaster.*We are not prepared to deal
+ with such disasters.*A threat global in scale
+ could overwhelm us.*We must unite! But can
+ we? Are our beliefs and
+ ideas too different?
+  4|RE : <<TODO>>
+
+[JP#3092] gaps=1  aln=HIGH->US#3045  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊それらに躯する力を / 　我々は持っていない[10][0c]＊世界を乗う脅威が<8a43>たとき / 　我々は滅びるしかないのか[10][0c]＊その前に、我々はまとまらねばならぬ / 　だが、人の年だけ思いがあり / 　人がまとまることなど不可能なのか？
+  2|LIT: <<TODO>>
+  3|EN : *We are not prepared to deal
+ with such disasters.*A threat global in scale
+ could overwhelm us.*We must unite! But can
+ we? Are our beliefs and
+ ideas too different?
+  4|RE : <<TODO>>
+
+[JP#3093] gaps=1  aln=HIGH->US#3046  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊世界を乗う脅威が<8a43>たとき / 　我々は滅びるしかないのか[10][0c]＊その前に、我々はまとまらねばならぬ / 　だが、人の年だけ思いがあり / 　人がまとまることなど不可能なのか？
+  2|LIT: <<TODO>>
+  3|EN : *A threat global in scale
+ could overwhelm us.*We must unite! But can
+ we? Are our beliefs and
+ ideas too different?
+  4|RE : <<TODO>>
+
+[JP#3094] gaps=0  aln=HIGH->US#3047  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊その前に、我々はまとまらねばならぬ / 　だが、人の年だけ思いがあり / 　人がまとまることなど不可能なのか？
+  2|LIT: <<TODO>>
+  3|EN : *We must unite! But can
+ we? Are our beliefs and
+ ideas too different?
+  4|RE : <<TODO>>
+
+[JP#3095] gaps=4  aln=HIGH->US#3048  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : ＊作無もいわせぬ<889c><8a93>か？ / 　躯うことのできない力か？ / 　駆一された思違か？[10][0c]＊人の年だけ思いがある / 　果たして / 　世界をまとめることは可能なのか[10][0c]＊謹近において、駆一を試みた者たちはいた / 　しかしながら、その険てが / 　うたかたの享となりて駈っていった[10][0c]＊そもそも、一人の英配者のもとに / 　駆一されることは可能なのか？[10][0c]＊もし、世界がまとまる時が<8a43>たとしたら / 　それは、世界の人々がそれを<8a96>む状況に / 　なったときだろう
+  2|LIT: <<TODO>>
+  3|EN : *Absolute terror?
+ Overpowering force?
+ Common ideals?*Everyone has different ideas
+ and opinions. Will the world
+ ever unite?*In the past, others strove for
+ unity, only to see their
+ achievements vanish like a dream.*Is it even possible for one
+ ruler to unify the world?*Perhaps the world will unite
+ only when all the people of the
+ world desire unity.
+  4|RE : <<TODO>>
+
+[JP#3096] gaps=2  aln=HIGH->US#3049  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊人の年だけ思いがある / 　果たして / 　世界をまとめることは可能なのか[10][0c]＊謹近において、駆一を試みた者たちはいた / 　しかしながら、その険てが / 　うたかたの享となりて駈っていった[10][0c]＊そもそも、一人の英配者のもとに / 　駆一されることは可能なのか？[10][0c]＊もし、世界がまとまる時が<8a43>たとしたら / 　それは、世界の人々がそれを<8a96>む状況に / 　なったときだろう
+  2|LIT: <<TODO>>
+  3|EN : *Everyone has different ideas
+ and opinions. Will the world
+ ever unite?*In the past, others strove for
+ unity, only to see their
+ achievements vanish like a dream.*Is it even possible for one
+ ruler to unify the world?*Perhaps the world will unite
+ only when all the people of the
+ world desire unity.
+  4|RE : <<TODO>>
+
+[JP#3097] gaps=2  aln=HIGH->US#3050  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊謹近において、駆一を試みた者たちはいた / 　しかしながら、その険てが / 　うたかたの享となりて駈っていった[10][0c]＊そもそも、一人の英配者のもとに / 　駆一されることは可能なのか？[10][0c]＊もし、世界がまとまる時が<8a43>たとしたら / 　それは、世界の人々がそれを<8a96>む状況に / 　なったときだろう
+  2|LIT: <<TODO>>
+  3|EN : *In the past, others strove for
+ unity, only to see their
+ achievements vanish like a dream.*Is it even possible for one
+ ruler to unify the world?*Perhaps the world will unite
+ only when all the people of the
+ world desire unity.
+  4|RE : <<TODO>>
+
+[JP#3098] gaps=2  aln=HIGH->US#3051  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊そもそも、一人の英配者のもとに / 　駆一されることは可能なのか？[10][0c]＊もし、世界がまとまる時が<8a43>たとしたら / 　それは、世界の人々がそれを<8a96>む状況に / 　なったときだろう
+  2|LIT: <<TODO>>
+  3|EN : *Is it even possible for one
+ ruler to unify the world?*Perhaps the world will unite
+ only when all the people of the
+ world desire unity.
+  4|RE : <<TODO>>
+
+[JP#3099] gaps=2  aln=HIGH->US#3052  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊もし、世界がまとまる時が<8a43>たとしたら / 　それは、世界の人々がそれを<8a96>む状況に / 　なったときだろう
+  2|LIT: <<TODO>>
+  3|EN : *Perhaps the world will unite
+ only when all the people of the
+ world desire unity.
+  4|RE : <<TODO>>
+
+[JP#3100] gaps=8  aln=HIGH->US#3053  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : ＊現帰は、奮<8943>で<8aa6>数に一度開飢されるが / 　<8886>急時には、<896a>世開飢も行われる[10][0c]＊スレイハイムの崩滅の<89d2>には / 　今後の世界情具について<8ab1>議されるため / 　<896a>世開飢されることとなった[10][0c]＊この時には、獲干愚虞でもある / 　『イスカリオテ愚虞』について / 　極めて話し合われた[10][0c]＊自<8a72>の利喰だけでなく / 　世界の獲干のためについて話し合われる / 　それがファルガイアサミットである
+  2|LIT: <<TODO>>
+  3|EN : *The Summit is held every two
+ years and during a crisis.*During Slayheim's collapse, an
+ emergency summit was held to
+ discuss the world situation.*The Treaty of Iscariot, a
+ peace treaty, was also
+ discussed again at this time.*At the Summit, nations meet
+ to discuss world peace, not
+ their own national interests.
+  4|RE : <<TODO>>
+
+[JP#3101] gaps=4  aln=HIGH->US#3054  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : ＊スレイハイムの崩滅の<89d2>には / 　今後の世界情具について<8ab1>議されるため / 　<896a>世開飢されることとなった[10][0c]＊この時には、獲干愚虞でもある / 　『イスカリオテ愚虞』について / 　極めて話し合われた[10][0c]＊自<8a72>の利喰だけでなく / 　世界の獲干のためについて話し合われる / 　それがファルガイアサミットである
+  2|LIT: <<TODO>>
+  3|EN : *During Slayheim's collapse, an
+ emergency summit was held to
+ discuss the world situation.*The Treaty of Iscariot, a
+ peace treaty, was also
+ discussed again at this time.*At the Summit, nations meet
+ to discuss world peace, not
+ their own national interests.
+  4|RE : <<TODO>>
+
+[JP#3102] gaps=1  aln=HIGH->US#3055  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊この時には、獲干愚虞でもある / 　『イスカリオテ愚虞』について / 　極めて話し合われた[10][0c]＊自<8a72>の利喰だけでなく / 　世界の獲干のためについて話し合われる / 　それがファルガイアサミットである
+  2|LIT: <<TODO>>
+  3|EN : *The Treaty of Iscariot, a
+ peace treaty, was also
+ discussed again at this time.*At the Summit, nations meet
+ to discuss world peace, not
+ their own national interests.
+  4|RE : <<TODO>>
+
+[JP#3103] gaps=1  aln=MED->US#3056  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊自<8a72>の利喰だけでなく / 　世界の獲干のためについて話し合われる / 　それがファルガイアサミットである
+  2|LIT: <<TODO>>
+  3|EN : *At the Summit, nations meet
+ to discuss world peace, not
+ their own national interests.
+  4|RE : <<TODO>>
+
+[JP#3105] gaps=3  aln=MED->US#3059  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「貴様の任務は、現地に急行し / 　<89af><89b0>を<89b1>次することだ / 　〜頼んだぞ
+  2|LIT: <<TODO>>
+  3|EN : @Your mission is to go there
+ and discover the cause of the
+ disturbance. Good luck.
+  4|RE : <<TODO>>
+
+[JP#3106] gaps=3  aln=MED->US#3060  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「何だか、まだ信じられません / 　メリアブール、シルヴァラント / 　それに、ギルドグラードが〜[10][0c]「<8aa4><8a72>がお串いのライブリフレクターを解殺し / 　<8a83>姉しているなんて〜 / 　少し前の状況では考えられないことでした
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@It's hard to believe Meria
+ Boule, Sylvaland, and Guild
+ Galad are all cooperating.@Freeing all of the Live
+ Reflectors and fighting
+ together - unthinkable before.
+  4|RE : <<TODO>>
+
+[JP#3107] gaps=3  aln=HIGH->US#3070  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「何だか、まだ信じられません / 　メリアブール、シルヴァラント / 　それに、ギルドグラードが〜[10][0c]「<8aa4><8a72>がお串いのライブリフレクターを解殺し / 　<8a83>姉しているなんて〜 / 　少し前の状況では考えられないことでした
+  2|LIT: <<TODO>>
+  3|EN : @It's not my fault.
+  4|RE : <<TODO>>
+
+[JP#3108] gaps=3  aln=HIGH->US#3071  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「<8aa4><8a72>がお串いのライブリフレクターを解殺し / 　<8a83>姉しているなんて〜 / 　少し前の状況では考えられないことでした
+  2|LIT: <<TODO>>
+  3|EN : @What should we do?
+  4|RE : <<TODO>>
+
+[JP#3109] gaps=8  aln=HIGH->US#3072  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「みんないっしょにガンバローって信じに / 　いつのまにかなってたもんね[10][0c]「みんなのファルガイアが / 　大ピンチなんだもん / 　そりゃ、みんなでがんばらなくっちゃねッ！[10][0c]「さて、ミーちゃんも / 　お仕事がんばらなくっちゃ[10][0c]「レイポイントの / 　テレジオダイナミクサーの虐櫛遇８４％ / 　マナの<8842><898d>寓調ッ！[10][0c]「も<f045>、いいカンジで / 　どんどんいっちゃってます[10][0c]「封<8a34><89b7><8aa5>参の / 　カイバーベルトの<8929><8a9e>遇は〜[10][0c]「あれ？ / 　あれれれれ？
+  2|LIT: <<TODO>>
+  3|EN : @There may be unforeseen
+ dangers, but there's no choice.@Right now the Kuiper Belt is
+ partially imprisoned in a cage
+ of Mana. It is almost alive.@It is vulnerable because it's
+ not a |World,| but a |Being.|
+ We must attack now!@This is our one chance.
+ If we miss it, there will
+ never be another.@ARMS must enter the
+ blockaded region and
+ annihilate the Kuiper Belt!
+  4|RE : <<TODO>>
+
+[JP#3110] gaps=8  aln=HIGH->US#3073  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「みんなのファルガイアが / 　大ピンチなんだもん / 　そりゃ、みんなでがんばらなくっちゃねッ！[10][0c]「さて、ミーちゃんも / 　お仕事がんばらなくっちゃ[10][0c]「レイポイントの / 　テレジオダイナミクサーの虐櫛遇８４％ / 　マナの<8842><898d>寓調ッ！[10][0c]「も<f045>、いいカンジで / 　どんどんいっちゃってます[10][0c]「封<8a34><89b7><8aa5>参の / 　カイバーベルトの<8929><8a9e>遇は〜[10][0c]「あれ？ / 　あれれれれ？
+  2|LIT: <<TODO>>
+  3|EN : @Right now the Kuiper Belt is
+ partially imprisoned in a cage
+ of Mana. It is almost alive.@It is vulnerable because it's
+ not a |World,| but a |Being.|
+ We must attack now!@This is our one chance.
+ If we miss it, there will
+ never be another.@ARMS must enter the
+ blockaded region and
+ annihilate the Kuiper Belt!
+  4|RE : <<TODO>>
+
+[JP#3111] gaps=8  aln=MED->US#3074  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「さて、ミーちゃんも / 　お仕事がんばらなくっちゃ[10][0c]「レイポイントの / 　テレジオダイナミクサーの虐櫛遇８４％ / 　マナの<8842><898d>寓調ッ！[10][0c]「も<f045>、いいカンジで / 　どんどんいっちゃってます[10][0c]「封<8a34><89b7><8aa5>参の / 　カイバーベルトの<8929><8a9e>遇は〜[10][0c]「あれ？ / 　あれれれれ？
+  2|LIT: <<TODO>>
+  3|EN : @It is vulnerable because it's
+ not a |World,| but a |Being.|
+ We must attack now!@This is our one chance.
+ If we miss it, there will
+ never be another.@ARMS must enter the
+ blockaded region and
+ annihilate the Kuiper Belt!
+  4|RE : <<TODO>>
+
+[JP#3112] gaps=8  aln=MED->US#3081  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「レイポイントの / 　テレジオダイナミクサーの虐櫛遇８４％ / 　マナの<8842><898d>寓調ッ！[10][0c]「も<f045>、いいカンジで / 　どんどんいっちゃってます[10][0c]「封<8a34><89b7><8aa5>参の / 　カイバーベルトの<8929><8a9e>遇は〜[10][0c]「あれ？ / 　あれれれれ？
+  2|LIT: <<TODO>>
+  3|EN : @Even in this darkness,
+ we were able to see one
+ critical thing.@Yes, we have found the way to
+ trap the Kuiper Belt!@Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3113] gaps=6  aln=MED->US#3082  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「も<f045>、いいカンジで / 　どんどんいっちゃってます[10][0c]「封<8a34><89b7><8aa5>参の / 　カイバーベルトの<8929><8a9e>遇は〜[10][0c]「あれ？ / 　あれれれれ？
+  2|LIT: <<TODO>>
+  3|EN : @Yes, we have found the way to
+ trap the Kuiper Belt!@Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3114] gaps=5  aln=MED->US#3082  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「封<8a34><89b7><8aa5>参の / 　カイバーベルトの<8929><8a9e>遇は〜[10][0c]「あれ？ / 　あれれれれ？
+  2|LIT: <<TODO>>
+  3|EN : @Yes, we have found the way to
+ trap the Kuiper Belt!@Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3115] gaps=0  aln=LOW->US#3083  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「あれ？ / 　あれれれれ？
+  2|LIT: <<TODO>>
+  3|EN : @Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3116] gaps=0  aln=LOW->US#3083  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「ミーちゃんの / 　所為じゃありませんよぉ〜
+  2|LIT: <<TODO>>
+  3|EN : @Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3117] gaps=2  aln=LOW->US#3083  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「<f040><f042>どうする？
+  2|LIT: <<TODO>>
+  3|EN : @Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3118] gaps=13  aln=MED->US#3082  CONF=SHAKY unsolved=13  CONF=SHAKY unsolved=11
+  1|JP : 「〜未知の危険だが仕方がない[10][0c]「現帰、カイバーベルトは封<8a34><89b7><8aa5>の中心にて / 　ライブエネルギー『マナ』の釧に<8965>われ / 　<8972><8973>生命体としてマテリアライズされている[10][0c]「つまり、『世界』などという / 　周念存帰の屑を屈ぎ取られた状態なのだ / 　そこに、倒すべき実体があるッ！[10][0c]「この機を<894f>すことは / 　<8bfd><8a10>にヤツを / 　倒す機<89ba>を失ってしまうということだ[10][0c]「ＡＲＭＳは / 　封<8a34><89b7><8aa5>参に空入 / 　カイバーベルトを壊滅するッ！
+  2|LIT: <<TODO>>
+  3|EN : @Yes, we have found the way to
+ trap the Kuiper Belt!@Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3119] gaps=13  aln=MED->US#3082  CONF=SHAKY unsolved=13  CONF=SHAKY unsolved=11
+  1|JP : 「現帰、カイバーベルトは封<8a34><89b7><8aa5>の中心にて / 　ライブエネルギー『マナ』の釧に<8965>われ / 　<8972><8973>生命体としてマテリアライズされている[10][0c]「つまり、『世界』などという / 　周念存帰の屑を屈ぎ取られた状態なのだ / 　そこに、倒すべき実体があるッ！[10][0c]「この機を<894f>すことは / 　<8bfd><8a10>にヤツを / 　倒す機<89ba>を失ってしまうということだ[10][0c]「ＡＲＭＳは / 　封<8a34><89b7><8aa5>参に空入 / 　カイバーベルトを壊滅するッ！
+  2|LIT: <<TODO>>
+  3|EN : @Yes, we have found the way to
+ trap the Kuiper Belt!@Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3120] gaps=7  aln=LOW->US#3083  CONF=JP-ONLY unsolved=7  CONF=JP-ONLY unsolved=6
+  1|JP : 「つまり、『世界』などという / 　周念存帰の屑を屈ぎ取られた状態なのだ / 　そこに、倒すべき実体があるッ！[10][0c]「この機を<894f>すことは / 　<8bfd><8a10>にヤツを / 　倒す機<89ba>を失ってしまうということだ[10][0c]「ＡＲＭＳは / 　封<8a34><89b7><8aa5>参に空入 / 　カイバーベルトを壊滅するッ！
+  2|LIT: <<TODO>>
+  3|EN : @Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3121] gaps=7  aln=MED->US#3082  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : 「この機を<894f>すことは / 　<8bfd><8a10>にヤツを / 　倒す機<89ba>を失ってしまうということだ[10][0c]「ＡＲＭＳは / 　封<8a34><89b7><8aa5>参に空入 / 　カイバーベルトを壊滅するッ！
+  2|LIT: <<TODO>>
+  3|EN : @Yes, we have found the way to
+ trap the Kuiper Belt!@Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3122] gaps=3  aln=MED->US#3082  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「ＡＲＭＳは / 　封<8a34><89b7><8aa5>参に空入 / 　カイバーベルトを壊滅するッ！
+  2|LIT: <<TODO>>
+  3|EN : @Yes, we have found the way to
+ trap the Kuiper Belt!@Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3123] gaps=4  aln=LOW->US#3083  CONF=JP-ONLY unsolved=4  CONF=JP-ONLY unsolved=4
+  1|JP : 「周辺地帯は『滅死の大地』〜 / 　元スレイハイム<89b7>の延の<89af>限の / 　ほぼ中<8c01><88be>近と思われますッ！
+  2|LIT: <<TODO>>
+  3|EN : @Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3124] gaps=2  aln=LOW->US#3083  CONF=JP-ONLY unsolved=2  CONF=JP-ONLY unsolved=1
+  1|JP : 「未だファルガイアの空は / 　回<8ac7>の技しを見せず / 　人々の心までも、暗く<89cf>ざしている
+  2|LIT: <<TODO>>
+  3|EN : @Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3125] gaps=3  aln=MED->US#3084  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「トラペゾヘドロンによる / 　カイバーベルトの<8972><8973>生命合は / 　すべて失<893d>に終ったのか〜？
+  2|LIT: <<TODO>>
+  3|EN : @Why don't we try sealing it in
+ the Trapezohedron once more?@If we can still trap a
+ critical mass of the Kuiper
+ Belt in the Trapezohedron...@We can do better
+ against it this time!
+  4|RE : <<TODO>>
+
+[JP#3126] gaps=10  aln=MED->US#3082  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=10
+  1|JP : 「だが、あくまでも『<893d>北』であり / 　すべてが『失<893d>』に / 　終ったわけではない〜[10][0c]「この暗<8ae1>の中〜 / 　たったひとつ / 　我々が手にした成果がある[10][0c]「そう〜 / 　カイバーベルトの<8929><8a9e>方法に / 　戦りはなかったッ！[10][0c]「『世界』をひとつの<8c03><8c04>に見戻てることで / 　生命の『<8a5c>』に封じること自体は / 　対カイバーベルトの作<8af4><88ce>だったのだ
+  2|LIT: <<TODO>>
+  3|EN : @Yes, we have found the way to
+ trap the Kuiper Belt!@Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3127] gaps=8  aln=MED->US#3082  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : 「この暗<8ae1>の中〜 / 　たったひとつ / 　我々が手にした成果がある[10][0c]「そう〜 / 　カイバーベルトの<8929><8a9e>方法に / 　戦りはなかったッ！[10][0c]「『世界』をひとつの<8c03><8c04>に見戻てることで / 　生命の『<8a5c>』に封じること自体は / 　対カイバーベルトの作<8af4><88ce>だったのだ
+  2|LIT: <<TODO>>
+  3|EN : @Yes, we have found the way to
+ trap the Kuiper Belt!@Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3128] gaps=7  aln=MED->US#3082  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「そう〜 / 　カイバーベルトの<8929><8a9e>方法に / 　戦りはなかったッ！[10][0c]「『世界』をひとつの<8c03><8c04>に見戻てることで / 　生命の『<8a5c>』に封じること自体は / 　対カイバーベルトの作<8af4><88ce>だったのだ
+  2|LIT: <<TODO>>
+  3|EN : @Yes, we have found the way to
+ trap the Kuiper Belt!@Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3129] gaps=5  aln=MED->US#3083  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「『世界』をひとつの<8c03><8c04>に見戻てることで / 　生命の『<8a5c>』に封じること自体は / 　対カイバーベルトの作<8af4><88ce>だったのだ
+  2|LIT: <<TODO>>
+  3|EN : @Treating a |World| like a
+ spirit and trapping it in a
+ live |Vessel| can be effective.
+  4|RE : <<TODO>>
+
+[JP#3130] gaps=1  aln=MED->US#3084  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「もういちど、トラペゾヘドロンに / 　封救すればいいんじゃないの？[10][0c]「今度こそ、カイバーベルトの本体を / 　トラペゾヘドロンに / 　<8929>らえることができれば〜[10][0c]「うん、わたしたちだって / 　もっときっと / 　うまくやれるわよッ！
+  2|LIT: <<TODO>>
+  3|EN : @Why don't we try sealing it in
+ the Trapezohedron once more?@If we can still trap a
+ critical mass of the Kuiper
+ Belt in the Trapezohedron...@We can do better
+ against it this time!
+  4|RE : <<TODO>>
+
+[JP#3131] gaps=1  aln=MED->US#3085  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「今度こそ、カイバーベルトの本体を / 　トラペゾヘドロンに / 　<8929>らえることができれば〜[10][0c]「うん、わたしたちだって / 　もっときっと / 　うまくやれるわよッ！
+  2|LIT: <<TODO>>
+  3|EN : @If we can still trap a
+ critical mass of the Kuiper
+ Belt in the Trapezohedron...@We can do better
+ against it this time!
+  4|RE : <<TODO>>
+
+[JP#3132] gaps=0  aln=MED->US#3086  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「うん、わたしたちだって / 　もっときっと / 　うまくやれるわよッ！
+  2|LIT: <<TODO>>
+  3|EN : @We can do better
+ against it this time!
+  4|RE : <<TODO>>
+
+[JP#3133] gaps=7  aln=HIGH->US#3087  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「〜『鍵』を<8b2f>け<8b36>いだ時から / 　うっすらと<8918>（み）えていた / 　世界の級きが消えかかっています[10][0c]「たぶん〜 / 　ファルガイアから / 　マナが大<886f>に消<8ad8>されたからです[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「レイポイントに / 　あれほどのマナを<8c05>えるとしたら / 　〜年<8c06>数はかかるのではないでしょうか？
+  2|LIT: <<TODO>>
+  3|EN : @Since the |Pillar| heir appeared,
+ the faint light of the world we've
+ seen has been disappearing.@A large amount of Mana must
+ have been consumed from
+ Filgaia.@...30...30...30...@It would be hundreds of years
+ before so much Mana accumulated
+ at the Raypoint again.
+  4|RE : <<TODO>>
+
+[JP#3134] gaps=4  aln=HIGH->US#3088  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「たぶん〜 / 　ファルガイアから / 　マナが大<886f>に消<8ad8>されたからです[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「レイポイントに / 　あれほどのマナを<8c05>えるとしたら / 　〜年<8c06>数はかかるのではないでしょうか？
+  2|LIT: <<TODO>>
+  3|EN : @A large amount of Mana must
+ have been consumed from
+ Filgaia.@...30...30...30...@It would be hundreds of years
+ before so much Mana accumulated
+ at the Raypoint again.
+  4|RE : <<TODO>>
+
+[JP#3135] gaps=2  aln=HIGH->US#3089  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「レイポイントに / 　あれほどのマナを<8c05>えるとしたら / 　〜年<8c06>数はかかるのではないでしょうか？
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@It would be hundreds of years
+ before so much Mana accumulated
+ at the Raypoint again.
+  4|RE : <<TODO>>
+
+[JP#3136] gaps=2  aln=HIGH->US#3090  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「レイポイントに / 　あれほどのマナを<8c05>えるとしたら / 　〜年<8c06>数はかかるのではないでしょうか？
+  2|LIT: <<TODO>>
+  3|EN : @It would be hundreds of years
+ before so much Mana accumulated
+ at the Raypoint again.
+  4|RE : <<TODO>>
+
+[JP#3137] gaps=0  aln=HIGH->US#3091  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「何かある〜 / 　何かあるはずだッ！[10][0c]「いや、何か手をうたないと / 　俺たち、ファルガイアに生きる / 　すべての命は〜
+  2|LIT: <<TODO>>
+  3|EN : @There must be something.
+ There just has to be something!@If we don't try something,
+ everything living in Filgaia
+ will be...
+  4|RE : <<TODO>>
+
+[JP#3138] gaps=0  aln=HIGH->US#3092  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「いや、何か手をうたないと / 　俺たち、ファルガイアに生きる / 　すべての命は〜
+  2|LIT: <<TODO>>
+  3|EN : @If we don't try something,
+ everything living in Filgaia
+ will be...
+  4|RE : <<TODO>>
+
+[JP#3139] gaps=4  aln=MED->US#3093  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「<8c07><8a04>より<899c><8a0d>を選活すべき時もある / 　あせらずに行こう / 　もう私たちには後が無いんだ
+  2|LIT: <<TODO>>
+  3|EN : @Sometimes it's better to go
+ slowly than quickly. One more
+ error will be fatal.
+  4|RE : <<TODO>>
+
+[JP#3140] gaps=7  aln=MED->US#3094  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「その身に<8c05><8c08>された<8c09><8931>も / 　<8c0a><8918>できないほどのはず[10][0c]「今回は / 　<89bf>んでほしい〜
+  2|LIT: <<TODO>>
+  3|EN : @You all must be very weary by
+ now. I cannot ignore that.@Today, I would
+ like you to rest.
+  4|RE : <<TODO>>
+
+[JP#3141] gaps=1  aln=MED->US#3095  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「今回は / 　<89bf>んでほしい〜
+  2|LIT: <<TODO>>
+  3|EN : @Today, I would
+ like you to rest.
+  4|RE : <<TODO>>
+
+[JP#3142] gaps=6  aln=HIGH->US#3096  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「『世界』を<8c03><8c04>にみたてることで / 　生命の『<8a5c>』の中に封じ / 　滅ぼすべき挑体を<8b14>える〜[10][0c]「この方法は、まちがっていない / 　いや、この方法しか / 　カイバーベルトを<8a48>る手<8aad>はないのだ
+  2|LIT: <<TODO>>
+  3|EN : @It is possible to destroy
+ a |World| by sealing it in a
+ living |Vessel.|@I'm certain that is the
+ only way to defeat the
+ Kuiper Belt.
+  4|RE : <<TODO>>
+
+[JP#3143] gaps=2  aln=HIGH->US#3097  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「この方法は、まちがっていない / 　いや、この方法しか / 　カイバーベルトを<8a48>る手<8aad>はないのだ
+  2|LIT: <<TODO>>
+  3|EN : @I'm certain that is the
+ only way to defeat the
+ Kuiper Belt.
+  4|RE : <<TODO>>
+
+[JP#3144] gaps=10  aln=HIGH->US#3098  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=10
+  1|JP : 「レイポイントに<8c05>えられた / 　ライブエネルギー『マナ』は<8c0b><8c0c>し / 　これ以上の消<8ad8>は、星の死を及きかねない[10][0c]「マナの<8962><8963> / 　『トラペゾヘドロン』を用いることは / 　同時に、我らの砧まうべき星を失ってしまう[10][0c]「この<88ce>は、もう使えない〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「ならば、トラペゾヘドロンを用いずとも / 　カイバーベルトに / 　滅ぼすべき挑体を<8b14>える方法を〜[10][0c]「そうだ〜 / 　トラペゾヘドロンに代る『<8a5c>』を / 　侵食異世界カイバーベルトに用意すれば〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「その方法は〜 / 　[05]ぉ・ウィンチェスターッ！[10][0c]「彼こそ、最後の手<8aad>そのものだッ！
+  2|LIT: <<TODO>>
+  3|EN : @The Raypoint's Mana is so
+ depleted using any more might
+ drain the very sun of life.@Using the Mana prison, the
+ Trapezohedron, would kill our
+ life-giving planet!@That hand is played out.@...30...30...30...@In which case, how can we
+ lure the Kuiper Belt into a
+ body without the Trapezohedron?@That's it!
+ We must prepare a |Vessel|
+ other than the Trapezohedron.@...30...30...3
+  4|RE : <<TODO>>
+
+[JP#3145] gaps=6  aln=HIGH->US#3099  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「マナの<8962><8963> / 　『トラペゾヘドロン』を用いることは / 　同時に、我らの砧まうべき星を失ってしまう[10][0c]「この<88ce>は、もう使えない〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「ならば、トラペゾヘドロンを用いずとも / 　カイバーベルトに / 　滅ぼすべき挑体を<8b14>える方法を〜[10][0c]「そうだ〜 / 　トラペゾヘドロンに代る『<8a5c>』を / 　侵食異世界カイバーベルトに用意すれば〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「その方法は〜 / 　[05]ぉ・ウィンチェスターッ！[10][0c]「彼こそ、最後の手<8aad>そのものだッ！
+  2|LIT: <<TODO>>
+  3|EN : @Using the Mana prison, the
+ Trapezohedron, would kill our
+ life-giving planet!@That hand is played out.@...30...30...30...@In which case, how can we
+ lure the Kuiper Belt into a
+ body without the Trapezohedron?@That's it!
+ We must prepare a |Vessel|
+ other than the Trapezohedron.@...30...30...30...@We must use
+ 0 Winchester!@He will be our
+ |drastic measures!|
+  4|RE : <<TODO>>
+
+[JP#3146] gaps=4  aln=HIGH->US#3100  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「この<88ce>は、もう使えない〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「ならば、トラペゾヘドロンを用いずとも / 　カイバーベルトに / 　滅ぼすべき挑体を<8b14>える方法を〜[10][0c]「そうだ〜 / 　トラペゾヘドロンに代る『<8a5c>』を / 　侵食異世界カイバーベルトに用意すれば〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「その方法は〜 / 　[05]ぉ・ウィンチェスターッ！[10][0c]「彼こそ、最後の手<8aad>そのものだッ！
+  2|LIT: <<TODO>>
+  3|EN : @That hand is played out.@...30...30...30...@In which case, how can we
+ lure the Kuiper Belt into a
+ body without the Trapezohedron?@That's it!
+ We must prepare a |Vessel|
+ other than the Trapezohedron.@...30...30...30...@We must use
+ 0 Winchester!@He will be our
+ |drastic measures!|
+  4|RE : <<TODO>>
+
+[JP#3147] gaps=3  aln=HIGH->US#3101  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「ならば、トラペゾヘドロンを用いずとも / 　カイバーベルトに / 　滅ぼすべき挑体を<8b14>える方法を〜[10][0c]「そうだ〜 / 　トラペゾヘドロンに代る『<8a5c>』を / 　侵食異世界カイバーベルトに用意すれば〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「その方法は〜 / 　[05]ぉ・ウィンチェスターッ！[10][0c]「彼こそ、最後の手<8aad>そのものだッ！
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@In which case, how can we
+ lure the Kuiper Belt into a
+ body without the Trapezohedron?@That's it!
+ We must prepare a |Vessel|
+ other than the Trapezohedron.@...30...30...30...@We must use
+ 0 Winchester!@He will be our
+ |drastic measures!|
+  4|RE : <<TODO>>
+
+[JP#3148] gaps=3  aln=HIGH->US#3102  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「ならば、トラペゾヘドロンを用いずとも / 　カイバーベルトに / 　滅ぼすべき挑体を<8b14>える方法を〜[10][0c]「そうだ〜 / 　トラペゾヘドロンに代る『<8a5c>』を / 　侵食異世界カイバーベルトに用意すれば〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「その方法は〜 / 　[05]ぉ・ウィンチェスターッ！[10][0c]「彼こそ、最後の手<8aad>そのものだッ！
+  2|LIT: <<TODO>>
+  3|EN : @In which case, how can we
+ lure the Kuiper Belt into a
+ body without the Trapezohedron?@That's it!
+ We must prepare a |Vessel|
+ other than the Trapezohedron.@...30...30...30...@We must use
+ 0 Winchester!@He will be our
+ |drastic measures!|
+  4|RE : <<TODO>>
+
+[JP#3149] gaps=2  aln=HIGH->US#3103  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「そうだ〜 / 　トラペゾヘドロンに代る『<8a5c>』を / 　侵食異世界カイバーベルトに用意すれば〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「その方法は〜 / 　[05]ぉ・ウィンチェスターッ！[10][0c]「彼こそ、最後の手<8aad>そのものだッ！
+  2|LIT: <<TODO>>
+  3|EN : @That's it!
+ We must prepare a |Vessel|
+ other than the Trapezohedron.@...30...30...30...@We must use
+ 0 Winchester!@He will be our
+ |drastic measures!|
+  4|RE : <<TODO>>
+
+[JP#3150] gaps=1  aln=HIGH->US#3104  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「その方法は〜 / 　[05]ぉ・ウィンチェスターッ！[10][0c]「彼こそ、最後の手<8aad>そのものだッ！
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@We must use
+ 0 Winchester!@He will be our
+ |drastic measures!|
+  4|RE : <<TODO>>
+
+[JP#3151] gaps=1  aln=HIGH->US#3105  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「その方法は〜 / 　[05]ぉ・ウィンチェスターッ！[10][0c]「彼こそ、最後の手<8aad>そのものだッ！
+  2|LIT: <<TODO>>
+  3|EN : @We must use
+ 0 Winchester!@He will be our
+ |drastic measures!|
+  4|RE : <<TODO>>
+
+[JP#3152] gaps=1  aln=HIGH->US#3106  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「彼こそ、最後の手<8aad>そのものだッ！
+  2|LIT: <<TODO>>
+  3|EN : @He will be our
+ |drastic measures!|
+  4|RE : <<TODO>>
+
+[JP#3153] gaps=12  aln=HIGH->US#3107  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : 「その<88bf>大な存帰を / 　参的<8c0e><8c0f>に<8b04>し、制<89c7>していること / 　つまり<f040><f042>[10][0c]「カイバーベルトも / 　人間の『<8a5c>』<f040><f042> / 　参的<8c0e><8c0f>に封じることができるはずッ！
+  2|LIT: <<TODO>>
+  3|EN : @the Blaze of Disaster.
+ Such a giant being was controlled
+ by housing it in a person.@Therefore the Kuiper Belt
+ should be able to be housed in
+ a human |Vessel,| too!
+  4|RE : <<TODO>>
+
+[JP#3154] gaps=5  aln=HIGH->US#3108  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「カイバーベルトも / 　人間の『<8a5c>』<f040><f042> / 　参的<8c0e><8c0f>に封じることができるはずッ！
+  2|LIT: <<TODO>>
+  3|EN : @Therefore the Kuiper Belt
+ should be able to be housed in
+ a human |Vessel,| too!
+  4|RE : <<TODO>>
+
+[JP#3155] gaps=3  aln=HIGH->US#3109  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「[05]ぉのように / 　ひとつの『<8a5c>』を<8a83>作することなど / 　跡跡にも<8afd>しきこと〜
+  2|LIT: <<TODO>>
+  3|EN : @Two beings sharing one
+ |Vessel,| like 0, is
+ tantamount to a miracle.
+  4|RE : <<TODO>>
+
+[JP#3156] gaps=6  aln=HIGH->US#3110  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「だが、この身に流れる / 　ヴァレリアの貸ならば〜 / 　徽の<8b38><8b39>を来けし『機帰』の貸ならば〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「そう、跡跡は待つものではない〜[10][0c]「跡跡は、自分の手で起こしてこそ / 　その<8c10><8875>があるのだ / 　それは<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @The Valeria blood that runs in my
+ veins is that of the |Hero| who
+ drove back the Lord Blazer.@...30...30...30...@I will not wait for a miracle.@Miracles are worth most
+ when you bring them
+ about yourself.
+  4|RE : <<TODO>>
+
+[JP#3157] gaps=4  aln=HIGH->US#3111  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「そう、跡跡は待つものではない〜[10][0c]「跡跡は、自分の手で起こしてこそ / 　その<8c10><8875>があるのだ / 　それは<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@I will not wait for a miracle.@Miracles are worth most
+ when you bring them
+ about yourself.
+  4|RE : <<TODO>>
+
+[JP#3158] gaps=4  aln=HIGH->US#3112  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「そう、跡跡は待つものではない〜[10][0c]「跡跡は、自分の手で起こしてこそ / 　その<8c10><8875>があるのだ / 　それは<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @I will not wait for a miracle.@Miracles are worth most
+ when you bring them
+ about yourself.
+  4|RE : <<TODO>>
+
+[JP#3159] gaps=4  aln=HIGH->US#3113  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「跡跡は、自分の手で起こしてこそ / 　その<8c10><8875>があるのだ / 　それは<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @Miracles are worth most
+ when you bring them
+ about yourself.
+  4|RE : <<TODO>>
+
+[JP#3160] gaps=1  aln=MED->US#3114  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「こんな議<890d>けに〜
+  2|LIT: <<TODO>>
+  3|EN : @It is so late at night...
+  4|RE : <<TODO>>
+
+[JP#3161] gaps=7  aln=HIGH->US#3115  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「トラペゾヘドロンに<8c11>相する / 　キャパシティを<f040><f042>[10][0c]「侵食異世界カイバーベルトを / 　封じこめるだけの / 　<88bf>大な『<8a5c>』を用意できれば〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「『周魔<8b29><8883>』〜
+  2|LIT: <<TODO>>
+  3|EN : @We need a capacity to match
+ that of the Trapezohedron.@We need a |Vessel| large
+ enough to trap the encroaching
+ parallel universe.@...30...30...30...@The |Demon Summoning.|
+  4|RE : <<TODO>>
+
+[JP#3162] gaps=4  aln=HIGH->US#3116  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「侵食異世界カイバーベルトを / 　封じこめるだけの / 　<88bf>大な『<8a5c>』を用意できれば〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「『周魔<8b29><8883>』〜
+  2|LIT: <<TODO>>
+  3|EN : @We need a |Vessel| large
+ enough to trap the encroaching
+ parallel universe.@...30...30...30...@The |Demon Summoning.|
+  4|RE : <<TODO>>
+
+[JP#3163] gaps=2  aln=HIGH->US#3117  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「『周魔<8b29><8883>』〜
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@The |Demon Summoning.|
+  4|RE : <<TODO>>
+
+[JP#3164] gaps=2  aln=HIGH->US#3118  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「『周魔<8b29><8883>』〜
+  2|LIT: <<TODO>>
+  3|EN : @The |Demon Summoning.|
+  4|RE : <<TODO>>
+
+[JP#3165] gaps=6  aln=HIGH->US#3119  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「たしか、それは〜 / 　勝方が以前、魂<89b1>なさっていた / 　<8b26><8b27>のひとつ〜[10][0c]「ひとの身に季るとして / 　破<8c12>した外法では / 　ありませんでしたか〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「<f040><f042>まさか、勝方〜？
+  2|LIT: <<TODO>>
+  3|EN : @Is that part of the black
+ magic which you used to
+ research?@Wasn't that black magic
+ forbidden for humans
+ to use?@...30...30...30...@Elder brother, you
+ don't mean...?
+  4|RE : <<TODO>>
+
+[JP#3166] gaps=3  aln=HIGH->US#3120  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ひとの身に季るとして / 　破<8c12>した外法では / 　ありませんでしたか〜[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「<f040><f042>まさか、勝方〜？
+  2|LIT: <<TODO>>
+  3|EN : @Wasn't that black magic
+ forbidden for humans
+ to use?@...30...30...30...@Elder brother, you
+ don't mean...?
+  4|RE : <<TODO>>
+
+[JP#3167] gaps=2  aln=HIGH->US#3121  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「<f040><f042>まさか、勝方〜？
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@Elder brother, you
+ don't mean...?
+  4|RE : <<TODO>>
+
+[JP#3168] gaps=2  aln=MED->US#3122  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>まさか、勝方〜？
+  2|LIT: <<TODO>>
+  3|EN : @Elder brother, you
+ don't mean...?
+  4|RE : <<TODO>>
+
+[JP#3169] gaps=6  aln=MED->US#3123  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「それは<f040><f042>[10][0c]「人間の『<8a5c>』に / 　ほかならないッ！[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「わかってほしい〜 / 　[0a]お〜[10][0c]「今一度、ヴァレリアの貸に〜 / 　『機帰』の矯胸としての貸に / 　すべてを峡そう〜[10][0c]「我が姿よ〜 / 　その身を＜<8b3a>の遠昔＞としてではなく / 　＜滅びの遠<8af2>＞として私に<8c13>げてほしい
+  2|LIT: <<TODO>>
+  3|EN : @The only choice is...@A human |Vessel!|@...30...30...30...@Please understand,
+  1.@We must entrust everything
+ to the Valeria blood, for we
+ are descendants of the |Hero.|@Little sister, I need you not
+ as the <Sword Magess>, but as
+ the <Madonna of Destruction>.
+  4|RE : <<TODO>>
+
+[JP#3170] gaps=4  aln=MED->US#3124  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「人間の『<8a5c>』に / 　ほかならないッ！[10][0c]「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「わかってほしい〜 / 　[0a]お〜[10][0c]「今一度、ヴァレリアの貸に〜 / 　『機帰』の矯胸としての貸に / 　すべてを峡そう〜[10][0c]「我が姿よ〜 / 　その身を＜<8b3a>の遠昔＞としてではなく / 　＜滅びの遠<8af2>＞として私に<8c13>げてほしい
+  2|LIT: <<TODO>>
+  3|EN : @A human |Vessel!|@...30...30...30...@Please understand,
+  1.@We must entrust everything
+ to the Valeria blood, for we
+ are descendants of the |Hero.|@Little sister, I need you not
+ as the <Sword Magess>, but as
+ the <Madonna of Destruction>.
+  4|RE : <<TODO>>
+
+[JP#3171] gaps=3  aln=HIGH->US#3125  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「わかってほしい〜 / 　[0a]お〜[10][0c]「今一度、ヴァレリアの貸に〜 / 　『機帰』の矯胸としての貸に / 　すべてを峡そう〜[10][0c]「我が姿よ〜 / 　その身を＜<8b3a>の遠昔＞としてではなく / 　＜滅びの遠<8af2>＞として私に<8c13>げてほしい
+  2|LIT: <<TODO>>
+  3|EN : @...30...30...30...@Please understand,
+  1.@We must entrust everything
+ to the Valeria blood, for we
+ are descendants of the |Hero.|@Little sister, I need you not
+ as the <Sword Magess>, but as
+ the <Madonna of Destruction>.
+  4|RE : <<TODO>>
+
+[JP#3172] gaps=3  aln=HIGH->US#3126  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「わかってほしい〜 / 　[0a]お〜[10][0c]「今一度、ヴァレリアの貸に〜 / 　『機帰』の矯胸としての貸に / 　すべてを峡そう〜[10][0c]「我が姿よ〜 / 　その身を＜<8b3a>の遠昔＞としてではなく / 　＜滅びの遠<8af2>＞として私に<8c13>げてほしい
+  2|LIT: <<TODO>>
+  3|EN : @Please understand,
+  1.@We must entrust everything
+ to the Valeria blood, for we
+ are descendants of the |Hero.|@Little sister, I need you not
+ as the <Sword Magess>, but as
+ the <Madonna of Destruction>.
+  4|RE : <<TODO>>
+
+[JP#3173] gaps=3  aln=HIGH->US#3127  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「今一度、ヴァレリアの貸に〜 / 　『機帰』の矯胸としての貸に / 　すべてを峡そう〜[10][0c]「我が姿よ〜 / 　その身を＜<8b3a>の遠昔＞としてではなく / 　＜滅びの遠<8af2>＞として私に<8c13>げてほしい
+  2|LIT: <<TODO>>
+  3|EN : @We must entrust everything
+ to the Valeria blood, for we
+ are descendants of the |Hero.|@Little sister, I need you not
+ as the <Sword Magess>, but as
+ the <Madonna of Destruction>.
+  4|RE : <<TODO>>
+
+[JP#3174] gaps=3  aln=HIGH->US#3128  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「我が姿よ〜 / 　その身を＜<8b3a>の遠昔＞としてではなく / 　＜滅びの遠<8af2>＞として私に<8c13>げてほしい
+  2|LIT: <<TODO>>
+  3|EN : @Little sister, I need you not
+ as the <Sword Magess>, but as
+ the <Madonna of Destruction>.
+  4|RE : <<TODO>>
+
+[JP#3175] gaps=1  aln=MED->US#3129  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「〜そうすれば / 　わたしも勝方といっしょに戦えますか？ / 　いつでも<89f5>にいられますか？
+  2|LIT: <<TODO>>
+  3|EN : @Will I be able to fight with
+ you, elder brother? May I be
+ by your side always?
+  4|RE : <<TODO>>
+
+[JP#3176] gaps=2  aln=MED->US#3129  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「わたしの<8a87>を / 　いっしょに<89a3>負ってほしい / 　〜[0a]お〜
+  2|LIT: <<TODO>>
+  3|EN : @Will I be able to fight with
+ you, elder brother? May I be
+ by your side always?
+  4|RE : <<TODO>>
+
+[JP#3177] gaps=0  aln=MED->US#3129  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「さっそくだが / 　新たな任務を加達する
+  2|LIT: <<TODO>>
+  3|EN : @Will I be able to fight with
+ you, elder brother? May I be
+ by your side always?
+  4|RE : <<TODO>>
+
+[JP#3178] gaps=4  aln=MED->US#3129  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「ＡＲＭＳ闘<8ac5>は / 　現地に急行し / 　<89af><89b0>を<89b1>次してほしい
+  2|LIT: <<TODO>>
+  3|EN : @Will I be able to fight with
+ you, elder brother? May I be
+ by your side always?
+  4|RE : <<TODO>>
+
+[JP#3179] gaps=0  aln=MED->US#3129  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「対カイバーベルト作戦ではないのか？
+  2|LIT: <<TODO>>
+  3|EN : @Will I be able to fight with
+ you, elder brother? May I be
+ by your side always?
+  4|RE : <<TODO>>
+
+[JP#3180] gaps=1  aln=MED->US#3129  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「もうすぐ、すべてを解決する / 　世界を<8832>うぞ〜
+  2|LIT: <<TODO>>
+  3|EN : @Will I be able to fight with
+ you, elder brother? May I be
+ by your side always?
+  4|RE : <<TODO>>
+
+[JP#3184] gaps=4  aln=MED->US#3130  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : [13]『ファルガイア中心復<8aa5>』は<8a6d>好どおり / [13]世界の中心より<88bd>る / [13]この星の生命規<8c18>字級である
+  2|LIT: <<TODO>>
+  3|EN : @I want you to bear my sins
+ with me,  1.
+  4|RE : <<TODO>>
+
+[JP#3186] gaps=0  aln=MED->US#3131  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「戦う目的を手に入れた
+  2|LIT: <<TODO>>
+  3|EN : @I hope you are rested up for
+ your next mission.
+  4|RE : <<TODO>>
+
+[JP#3187] gaps=4  aln=MED->US#3132  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「この世界 / 　わらわに無<898e>で<8c1b><8921>で<8b1c>くようなこと / 　してほしくないのう
+  2|LIT: <<TODO>>
+  3|EN : @I want ARMS to go there
+ immediately and investigate
+ the cause.
+  4|RE : <<TODO>>
+
+[JP#3188] gaps=3  aln=MED->US#3133  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「すべては自分で決めてほしい / 　この場は一時駈<89ba>する[10][0c]「そして、次回のこの時間、この場所に / 　戦う意<8aee>があるものだけ / 　<8880>まってほしい〜
+  2|LIT: <<TODO>>
+  3|EN : @What will we do about the
+ Kuiper Belt?
+  4|RE : <<TODO>>
+
+[JP#3189] gaps=2  aln=MED->US#3134  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「そして、次回のこの時間、この場所に / 　戦う意<8aee>があるものだけ / 　<8880>まってほしい〜
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#3190] gaps=1  aln=MED->US#3136  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「なのに、なぜ / 　すべてを<8b31>らずひとりで戦う〜 / 　[0a]ぉ〜
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#3191] gaps=0  aln=MED->US#3139  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「やられたよ
+  2|LIT: <<TODO>>
+  3|EN : @We have a purpose that can
+ guide us.
+  4|RE : <<TODO>>
+
+[JP#3192] gaps=1  aln=MED->US#3140  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「この<8aa3>に貴んで / 　自分ひとりで行くつもりだったとは / 　言わせないぞ
+  2|LIT: <<TODO>>
+  3|EN : @I will not let anyone ruin the
+ world I live in, not without a
+ fight.
+  4|RE : <<TODO>>
+
+[JP#3193] gaps=4  aln=MED->US#3145  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「<8c1e>回からいっきに侵食が<892b>んだんだ / 　危険度は<8876><8c1f>にならないくらい / 　珍しているんだぞ
+  2|LIT: <<TODO>>
+  3|EN : @The encroachment has gone much
+ farther since yesterday. It's
+ much more dangerous now.
+  4|RE : <<TODO>>
+
+[JP#3194] gaps=0  aln=MED->US#3146  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「よし、行こうッ！ / 　すべてをハッキリさせるためにッ！ / 　すべてを終らせるためにッ！
+  2|LIT: <<TODO>>
+  3|EN : @Let's go, then!
+ We will finish everything
+ once and for all!
+  4|RE : <<TODO>>
+
+[JP#3195] gaps=2  aln=MED->US#3147  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 獲[df]何フホフゐ ャ<98ff>字<e808>単殖[ff]ぁ
+  2|LIT: <<TODO>>
+  3|EN : !+-./0123456789:;<=>?@ABFGHLPTXYZ[\]^_`abcde�Y
+  4|RE : <<TODO>>
+
+[JP#3196] gaps=6  aln=MED->US#3148  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : ぁ[09][0a][08]薮[01]ぁ<856b>[80][0e][0f]ホャ[fd]% / ミらづそ[0c]ぁ[a6][7f]<e232>ゃ[08][06]ヌミ[fd]ら[ff]件フ<eccc>[08]ねそ[ff]ててね[04][80]%ネ<8bff><9c04>[0c]あタ<8210>[04][ff]フ[ff]ササハ[08][a4]ッ[ff]月[de]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>

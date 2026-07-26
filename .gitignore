@@ -1,0 +1,15 @@
+# --- copyrighted game data: NEVER commit (disc images + extracted game binaries) ---
+Game Files/
+*.bin
+*.BIN
+*.img
+*.iso
+*.cue
+WILDARM2.EXE
+*.EXE
+
+# --- OS noise ---
+.DS_Store
+
+# --- large regenerable font extraction images (keep the JSON tables) ---
+font_work/*.png

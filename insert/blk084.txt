@@ -1,0 +1,42 @@
+# WA2 INSERTION workspace US block 84 (US#7464-7475)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7465] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7658[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7466] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7659[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7467] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7660[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7469] budget=94ch/3ln
+  NOW: Want to hear something good?
+          I don't get it, but inside the cave
+          here, wind blows, then stops.
+  JP : JP#7662[HIGH]: 「そうだ、いいこと伝えてあげるよ / 　この幸<8a34>の中、よく分からないけど / 　<89f9>が泣いたり止んだりしてるんだ[10][0c]「なんか、でっ
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#7470] budget=60ch/2ln
+  NOW: It's as if the wind is the
+          breathing of some large creature.
+  JP : JP#7663[HIGH]: 「なんか、でっかい生き物の / 　<896e>呼片みたいな信じなんだよね[10][0c]「そのせいで / 　上手くトラップを解押できないんだけど / 　なんとか
+  FIT: <<TODO — <=60 chars, 2 line(s), <=35/line>>
+
+[US#7471] budget=66ch/3ln
+  NOW: As a result,
+          the upper traps won't release.
+          Do you have any ideas?
+  JP : JP#7664[HIGH]: 「そのせいで / 　上手くトラップを解押できないんだけど / 　なんとかならないかなぁ
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>

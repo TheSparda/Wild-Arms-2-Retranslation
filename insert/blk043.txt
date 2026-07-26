@@ -1,0 +1,287 @@
+# WA2 INSERTION workspace US block 43 (US#5970-6020)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#5971] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#6101[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#5972] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6102[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#5973] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6103[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#5975] budget=54ch/3ln
+  NOW: *The items use will add
+          new ammunition to the
+          bayonet.
+  JP : JP#6105[HIGH]: ＊アイテムとして使用することで / 　バイアネットに新たな押<8a38>を / 　追<8a39>します[10][0c]＊地を仲う守撃<88e0>の姉撃を / 　
+  FIT: <<TODO — <=54 chars, 3 line(s), <=35/line>>
+
+[US#5976] budget=53ch/2ln
+  NOW: *It'll execute a Shockwave
+          attack on the enemy group.
+  JP : JP#6106[HIGH]: ＊地を仲う守撃<88e0>の姉撃を / 　相グループに対して行います
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#5981] budget=43ch/3ln
+  NOW: Yes, that's right.
+          I can't feel any
+          energy.
+  JP : JP#6111[HIGH]: 「そうですね〜 / 　エネルギーの流れを信じることができません
+  FIT: <<TODO — <=43 chars, 3 line(s), <=35/line>>
+
+[US#5982] budget=51ch/2ln
+  NOW: They can sense the energy
+          of the earth and spirits.
+  JP : JP#6112[HIGH]: 「地<89f4>や兄期から生じるエネルギーを / 　その身に信じることもできるのダ[10][0c]「それだけ[05]がの / 　ゾアプリーストとしての能力が /
+  FIT: <<TODO — <=51 chars, 2 line(s), <=35/line>>
+
+[US#5983] budget=63ch/3ln
+  NOW: That's proof that 3's
+          abilities as a Zoa Priest
+          have developed.
+  JP : JP#6113[HIGH]: 「それだけ[05]がの / 　ゾアプリーストとしての能力が / 　<8867>まってきているという<8a43>なのダ
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#5984] budget=71ch/3ln
+  NOW: Odessa's getting frantic
+          trying to secure a large
+          energy source, right?
+  JP : JP#6114[HIGH]: 「オデッサは / 　大きなエネルギーを確<8901>するために / 　やっきになってるんでしょ？[10][0c]「だったらどうして / 　何もない<89cc>道
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#5985] budget=43ch/2ln
+  NOW: Then why would they be
+          after an empty mine?
+  JP : JP#6115[HIGH]: 「だったらどうして / 　何もない<89cc>道に目をつけたのかしら？
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#5986] budget=54ch/2ln
+  NOW: There's no use talking about
+          someone who won't return.
+  JP : JP#6116[HIGH]: 「戻ってこない人のことを違っても / 　何にも始まらないよ〜
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#5987] budget=76ch/3ln
+  NOW: It may take awhile, but if you
+          keep moving forward,
+          the route should appear.
+  JP : JP#6117[MED]: 「ゆっくりかもしれないけれど / 　先を目来して<892b>んでいけば / 　確実に道はひらけるはずさ
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#5988] budget=31ch/2ln
+  NOW: We have no desire to
+          fight you!
+  JP : JP#6118[HIGH]: 「ボクたちは / 　あなたと戦う意間はありませんッ！[10][0c]「ボクたちは / 　戦ってはいけないんですッ！
+  FIT: <<TODO — <=31 chars, 2 line(s), <=35/line>>
+
+[US#5989] budget=28ch/2ln
+  NOW: We aren't supposed
+          to fight!
+  JP : JP#6119[HIGH]: 「ボクたちは / 　戦ってはいけないんですッ！
+  FIT: <<TODO — <=28 chars, 2 line(s), <=35/line>>
+
+[US#5990] budget=56ch/3ln
+  NOW: We're only fighting
+          reluctantly because
+          you attacked us!
+  JP : JP#6120[HIGH]: 「あなたが<8a0a>ってくるから / 　わたしたちも / 　仕方なく戦っているんじゃないッ！
+  FIT: <<TODO — <=56 chars, 3 line(s), <=35/line>>
+
+[US#5991] budget=68ch/3ln
+  NOW: If I weren't burdened with
+          destiny, I'd have no
+          reason to fight you.
+  JP : JP#6121[HIGH]: 「このような訪命を<89a3><8a4c>わなければ / 　お前たちとは / 　<8a4d>を<88fa>えることもなかったろう〜[10][0c]「〜だがッ！[
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#5992] budget=4ch/1ln
+  NOW: But!
+  JP : JP#6122[HIGH]: 「〜だがッ！[10][0c]「[05]ぉ・ウィンチェスター〜 / 　その身に悪しき魔<8a40>をいだいている以上 / 　お前はあたしの<8861>的だ[10]
+  FIT: <<TODO — <=4 chars, 1 line(s), <=35/line>>
+
+[US#5993] budget=68ch/3ln
+  NOW: 0 Winchester...
+          As long as the Demon lurks
+          within you, I target you.
+  JP : JP#6123[HIGH]: 「[05]ぉ・ウィンチェスター〜 / 　その身に悪しき魔<8a40>をいだいている以上 / 　お前はあたしの<8861>的だ[10][0c]「＜戦の周昔＞が好を
+  FIT: <<TODO — <=68 chars, 3 line(s), <=35/line>>
+
+[US#5994] budget=61ch/3ln
+  NOW: You are my prey,
+          I who carry the blood
+          of the <Sword Magess>!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#5995] budget=7ch/1ln
+  NOW: Beware!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=7 chars, 1 line(s), <=35/line>>
+
+[US#5996] budget=69ch/3ln
+  NOW: are calling to each other.
+          In other words, 0
+          and my lost |half-self!|
+  JP : (no JP mapped)
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#5997] budget=63ch/3ln
+  NOW: The battle, determining
+          male or female is
+          the way it should be.
+  JP : JP#6124[MED]: 「＜戦の周昔＞が好を招く / 　このあたしの恥物なのだッ！
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#5998] budget=55ch/3ln
+  NOW: Are you saying the
+          <Sword Magess>
+          blood in me is a lie?
+  JP : JP#6125[MED]: 「信負ッ！
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#5999] budget=37ch/2ln
+  NOW: It can't be.
+          This can't be happening!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#6000] budget=53ch/3ln
+  NOW: If so, why?!
+          Why won't my sword
+          reach the evil Demon?
+  JP : JP#6126[MED]: 「いうなれば / 　あたしと[05]ぉは / 　それぞれ失った『<89a7>身』ッ！[10][0c]「戦い、<8a52><8a53>を決することが / 　<88
+  FIT: <<TODO — <=53 chars, 3 line(s), <=35/line>>
+
+[US#6001] budget=55ch/3ln
+  NOW: Answer me.
+          Demon carrier, my |half-self,|
+          0 Winchester.
+  JP : JP#6127[MED]: 「戦い、<8a52><8a53>を決することが / 　<88ad>険な帰り方なんだよッ！
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#6002] budget=50ch/3ln
+  NOW: and get powerful, I
+          gave up my body.
+          And for what?
+  JP : JP#6132[HIGH]: 「力を手に入れるために / 　カラダを貸てたことは / 　いったい何のためであったのか〜 || JP#6128[MED]: 「あたしに流れる＜戦の周昔＞の好は / 　勉りだというのか〜ッ！[10][0c]「そんなハズは〜 / 　そんなことがあってたまるかッ！[10][0c]「ならばな
+  FIT: <<TODO — <=50 chars, 3 line(s), <=35/line>>
+
+[US#6003] budget=62ch/3ln
+  NOW: It's a powerful force
+          which can't help but
+          destroy everything.
+  JP : JP#6133[HIGH]: 「そいつは / 　何もかもを破滅しかねない / 　強力な力を持っている[10][0c]「でも、力そのものに / 　<8a59>悪は無いと俺は考える〜[10][0
+  FIT: <<TODO — <=62 chars, 3 line(s), <=35/line>>
+
+[US#6004] budget=45ch/2ln
+  NOW: But I believe power
+          is neither good nor evil.
+  JP : JP#6134[HIGH]: 「でも、力そのものに / 　<8a59>悪は無いと俺は考える〜[10][0c]「魔<8a40>の強大な力〜 / 　そいつを使うのは / 　俺自身の意間なんだ[1
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#6005] budget=54ch/3ln
+  NOW: It is I who
+          willingly uses the
+          Demon's powerful force.
+  JP : JP#6135[HIGH]: 「魔<8a40>の強大な力〜 / 　そいつを使うのは / 　俺自身の意間なんだ[10][0c]「俺が信じているモノのために / 　この力を<8a5a>るっている
+  FIT: <<TODO — <=54 chars, 3 line(s), <=35/line>>
+
+[US#6006] budget=41ch/2ln
+  NOW: I wield this power for
+          what I believe in.
+  JP : JP#6136[HIGH]: 「俺が信じているモノのために / 　この力を<8a5a>るっているんだ
+  FIT: <<TODO — <=41 chars, 2 line(s), <=35/line>>
+
+[US#6007] budget=83ch/3ln
+  NOW: I will take the evil power and
+          turn it into my own power
+          in order to defeat Odessa.
+  JP : JP#6137[MED]: 「悪しき力を、俺の力に変えて / 　オデッサと戦い抜きたいんだ
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#6008] budget=26ch/1ln
+  NOW: You don't have to join us.
+  JP : JP#6138[MED]: 「<8a5c>間になれとは言わない[10][0c]「もしも、俺が『もうひとりの俺』の力を / 　茶え切れなくなった時 / 　その時に<f040><f042>[1
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#6009] budget=52ch/3ln
+  NOW: When I can't use the
+          power of the |Other Me|
+          then...
+  JP : JP#6139[MED]: 「もしも、俺が『もうひとりの俺』の力を / 　茶え切れなくなった時 / 　その時に<f040><f042>[10][0c]「[05]き〜 / 　＜戦の周昔＞の好
+  FIT: <<TODO — <=52 chars, 3 line(s), <=35/line>>
+
+[US#6010] budget=77ch/3ln
+  NOW: 4, I want to borrow your
+          power which carries the
+          blood of the <Sword Magess>.
+  JP : JP#6140[MED]: 「[05]き〜 / 　＜戦の周昔＞の好を招いている / 　あなたの力を飛りたい
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#6011] budget=83ch/3ln
+  NOW: Every time I fight, every time
+          I use that power, the |Other
+          Me| inside gets bigger.
+  JP : JP#6141[MED]: 「戦うたび、あの力を使うたびに / 　俺の参で『もうひとりの俺』が / 　大きくなっていくことを〜[10][0c]「『俺』が俺の大切なモノを / 　限つけかねな
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#6012] budget=76ch/3ln
+  NOW: When |I| can't avoid harming
+          what I love, I want you to cut
+          both of us down.
+  JP : JP#6142[MED]: 「『俺』が俺の大切なモノを / 　限つけかねない時 / 　俺を『俺』ごと守いてほしい〜[10]
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#6013] budget=34ch/2ln
+  NOW: That's why I want you
+          on our side.
+  JP : JP#6143[MED]: 「だから〜 / 　俺たちの<89f5>にいてほしい
+  FIT: <<TODO — <=34 chars, 2 line(s), <=35/line>>
+
+[US#6014] budget=65ch/3ln
+  NOW: While you were dealing
+          with the hero nerd,
+          I took care of things.
+  JP : JP#6145[MED]: 「クックックック〜 / 　うれしいことがあると / 　<8a65>男がズリ落ちそうですよ || JP#6144[MED]: 「あなた方が / 　そこの乗<8a53>オタクの / 　相手をしているうちにね
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#6015] budget=52ch/3ln
+  NOW: Ha. Ha. Ha. Ha.
+          Whenever I'm happy,
+          my glasses fall.
+  JP : JP#6146[MED]: 「<89db>もれているのが / 　お<8973>合いですよ
+  FIT: <<TODO — <=52 chars, 3 line(s), <=35/line>>
+
+[US#6016] budget=39ch/2ln
+  NOW: Living in obscurity
+          is so very fitting.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=39 chars, 2 line(s), <=35/line>>
+
+[US#6017] budget=2ch/1ln
+  NOW: 0!
+  JP : JP#6147[MED]: 「<f040><f042>[05]ぉッ！
+  FIT: <<TODO — <=2 chars, 1 line(s), <=35/line>>
+
+[US#6018] budget=23ch/2ln
+  NOW: Our opponent is
+          Odessa.
+  JP : JP#6148[MED]: 「俺たちが戦うべき相手は / 　オデッサだ[10][0c]「ホルストに急ぐぞッ！
+  FIT: <<TODO — <=23 chars, 2 line(s), <=35/line>>
+
+[US#6019] budget=21ch/1ln
+  NOW: Let's hurry to Holst!
+  JP : JP#6149[MED]: 「ホルストに急ぐぞッ！
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>

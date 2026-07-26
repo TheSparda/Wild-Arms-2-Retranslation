@@ -1,0 +1,128 @@
+# WA2 — MISSION 2: TELEPATH TOWER (block 29) — FINAL insert-ready
+# =========================================================================================
+# SPEAKERS: the party — {0}=Ashley, {1}=Brad, {2}=Lilka. Verified from EN twin at STG_STGEVT
+#   0x281ffd-0x2824ec (party members numbered 0/1/2). No named NPC; this is party banter in the
+#   tower's generator room.
+# SCENE: the party finds Odessa's amplifier bolted onto the Telepath Tower's Empathite generator.
+#   It powers up, receives a hidden transmission, and they realize Odessa hijacked EVERY reflective
+#   surface (Empathite transmitters, mirrors, glass, water) to broadcast a terrorist "uprising
+#   declaration" across all Filgaia. The command was to blow the amplifier. They resolve to report
+#   back to Damzen.
+# TERM SOLVED (this pass): 信応谷 = EMPATHITE — the thought-transmitting crystal (EN 0x28238b
+#   "Empathite transmitters... affected by the hijack"). JP compound still shows one mis-mapped code
+#   in decode; the READING is confirmed by the twin, so RE uses "Empathite" (glossary term).
+# JP block-decoded (block 29; ~53 residual codes, none blocking the story lines). No em dashes.
+# Columns: JP (clean) / LIT / EN (current) / RE (final).
+# =========================================================================================
+
+[US~amp-1] ({1} Brad, finding the device)
+  JP : 「何だ、これは… / 何かの増幅装置のようだ / この巨大な設備のためのものか
+  LIT: What's this...? Looks like an amplifier of some kind. For this huge equipment?
+  EN : It's an amplifier for something... probably for this huge equipment.
+  RE : What's this...? Looks like
+       some kind of amplifier. For
+       this huge machine, maybe.
+
+[US~amp-2] ({0} Ashley)
+  JP : 「後から取り付けられたものらしい / あの『うさんくさい男』が…
+  LIT: Looks like it was added on later. That "shady-looking guy"...
+  EN : It looks like it was put on later. Maybe that |Shady-looking guy|...
+  RE : Looks bolted on after the fact.
+       That |shady-looking guy|,
+       I'll bet...
+
+[US~amp-3] ({2} Lilka)
+  JP : 「ちょ、ちょっと… / 起動しはじめたよッ！
+  LIT: H-hey... it's starting up!
+  EN : Hey, hey... It's starting up!
+  RE : W-wait...
+       it's powering up!
+
+[US~amp-4] ({2} Lilka)
+  JP : 「これって / ちょっとヤバくないッ！？
+  LIT: Isn't this a little dangerous?!
+  EN : Isn't this a bit dangerous?
+  RE : Isn't this
+       kind of dangerous?!
+
+[US~amp-5] ({0} Ashley)
+  JP : 「どこからか / 通信を受信しているぞ
+  LIT: It's receiving a transmission from somewhere.
+  EN : It's receiving a transmission from somewhere.
+  RE : It's picking up a transmission
+       from somewhere.
+
+[US~amp-6] ({1} Brad)
+  JP : 「あの増幅装置は / そのためのものか
+  LIT: So that's what the amplifier is for.
+  EN : That's what the amplifier must be for.
+  RE : So that's what the
+       amplifier is for.
+
+[US~bcast] ({2} Lilka, then the broadcast)
+  JP : 「シーッ！ / 始まるよ
+  LIT: Shhh! It's starting.
+  EN : Shhhh! It's starting.
+  RE : Shhh!
+       It's starting.
+
+[US~mock] (party, reacting to the broadcast)
+  JP : 「秘密の放送… / 僕たちをバカにしているッ！
+  LIT: A clandestine broadcast... they're making fools of us!
+  EN : A clandestine broadcast... They're mocking us!
+  RE : A secret broadcast...
+       they're mocking us!
+
+[US#5329] ({1} Brad, the scope of the hijack)  [JP: 『信応谷』を用いた通信機以外にも / 鏡やガラス、水品といった / すべてのスクリーンがジャック対象だ]
+  JP : 「『信応谷』を用いた通信機以外にも / 鏡やガラス、水といった / すべてのスクリーンがジャック対象だッ！
+  LIT: Beyond the Empathite-based transmitters, mirrors, glass, water, every reflective screen is a jack target!
+  EN : Besides the Empathite transmitters, the mirrors, glass, and water were all affected by the hijack!
+  RE : Not just the Empathite
+       transmitters. Mirrors, glass,
+       water. Every screen got hijacked!
+
+[US#5330] ({0} Ashley, the realization)
+  JP : 「それじゃあ、テレパスタワーを中継地にして / テロリストどもの決起表明が / ファルガイア中に流されたのかッ！
+  LIT: So the terrorists' uprising declaration was broadcast across all Filgaia, relayed through the Telepath Tower?!
+  EN : They used the Telepath Tower to send their terrorist message throughout Filgaia!
+  RE : So they used the Telepath Tower
+       as a relay, and blasted Odessa's
+       uprising call across Filgaia?!
+
+[US#5332] ({0} Ashley)  # US#5332 = "Missed that!" only. The "command was to destroy the amplifier"
+  #   and "Here it comes!" beats are event-embedded near 5331/5332 (US#5331 is an empty slot), NOT
+  #   separate insertable US# boxes. RE below is for the US#5332 slot only; the fuller line is context.
+  JP : 「うかつッ！ (増幅装置の破壊がコマンドだったか… / 来るぞッ！ = surrounding event text)
+  LIT: Careless! (The command was to destroy the amplifier... Here it comes!)
+  EN : Missed that!
+  RE : Missed that!
+
+[US#5333] ({1} Brad, resolve)
+  JP : 「一度、ダムツェンに戻って / テレパスタワーの同胞に / 事情を説明しよう
+  LIT: Let's head back to Damzen once and explain the situation to our Telepath Tower comrades.
+  EN : Let's return to Damzen and explain the situation to the tower staff.
+  RE : Let's head back to Damzen and
+       explain what happened to the
+       tower's people.
+
+# =========================================================================================
+# STATUS: Telepath Tower generator-room scene translated (12 story boxes). JP block-decoded.
+#   Em-dash-free, fit display window.
+# RULES APPLIED: (2) positive control confirmed blk29=Telepath (テレパス x8); (1) speakers are the
+#   PARTY {0}/{1}/{2} per EN numbering, not a named NPC — did not invent an NPC; (3) verified JP
+#   against real decode + EN twin at 0x281ffd; (4) 信応谷=Empathite reading confirmed by twin, but
+#   the compound still has one mis-mapped code in raw decode — flagged, reading trusted from EN.
+# SOLVES THIS PASS: 8822=置 (設置/装置). 8839=応, 8901=保, 8964=役, 8941=頃, 8828=口 (Damzen pass).
+# RECONCILED (2026-07-25) against real US STGEVT message indices (UM[] = 10 0c markers, block 29 =
+#   US#5317-5350):
+#   CONFIRMED slots (verbatim EN match): 5329 (Empathite/mirrors/glass hijack) · 5330 (Telepath
+#     Tower relay message) · 5332 ("Missed that!") · 5333 (return to Damzen, explain to engineers).
+#   NOT STANDALONE US# SLOTS: the amp-banter run (boxes labelled US~amp-1..US~mock) sits in the
+#     event stream just BEFORE US#5329 (dump 0x281ffd-0x2823xx) and is NOT captured as distinct
+#     10 0c messages in the workspace — it's event-embedded dialogue. These need in-engine slot
+#     identification (or treat as part of the 5329 event block) before insert; left US~ IDs as-is.
+#   COVERAGE GAP found by reconciling: block 29 also has US#5335 (shock-attack skill desc) and the
+#     Empathite lore scrolls US#5337-5349 (Mt.Chug-Chug, mining, power=size×purity) — NOT yet
+#     translated here. Deferred to a lore pass.
+#   US#40fe/416d/41d1/43db are JP offsets (confirmed decode positions), not US# — reconcile at insert.
+# =========================================================================================

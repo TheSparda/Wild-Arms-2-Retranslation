@@ -1,0 +1,275 @@
+# WA2 4-col translation doc block 23 (JP#5130-5178)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 35 boxes | OK=13 FAIR=19 SHAKY=3 JP-ONLY=0
+# DRAFT STATUS: 35 boxes | OK=8 FAIR=19 SHAKY=8 JP-ONLY=0
+
+[JP#5133] gaps=0  aln=MED->US#5018  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5134] gaps=2  aln=MED->US#5019  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5135] gaps=0  aln=HIGH->US#5020  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5136] gaps=4  aln=HIGH->US#5021  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : ＊ＨＰの回<8a34><886f>は / 　ゲットしたジェムの大きさに<8876><8943>し / 　その泣果はパーティー険片におよびます
+  2|LIT: <<TODO>>
+  3|EN : *Gems heal all members of the party
+ but the amount of HP restored
+ depends on the size of the gem.
+  4|RE : <<TODO>>
+
+[JP#5137] gaps=3  aln=HIGH->US#5022  CONF=SHAKY unsolved=3  CONF=OK unsolved=0
+  1|JP : ＊『おっとっと』状態中に / 　[0b]かを<8a39>すことで / 　押<8a38>を飛び周りることができます[10][0c]＊押<8a38>に向かって、ダッシュ状態で搭乗すると / 　『おっとっと』ポーズをとることなく / 　そのまま飛び周りることができます
+  2|LIT: <<TODO>>
+  3|EN : *In the |oops| state, you can
+ press the 2 button to go
+ ahead and jump down.*You can also jump down
+ by dashing off an edge
+ without the |oops| action.
+  4|RE : <<TODO>>
+
+[JP#5138] gaps=1  aln=HIGH->US#5023  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : ＊押<8a38>に向かって、ダッシュ状態で搭乗すると / 　『おっとっと』ポーズをとることなく / 　そのまま飛び周りることができます
+  2|LIT: <<TODO>>
+  3|EN : *You can also jump down
+ by dashing off an edge
+ without the |oops| action.
+  4|RE : <<TODO>>
+
+[JP#5141] gaps=0  aln=MED->US#5026  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「任務を殺仲することはできないッ！
+  2|LIT: <<TODO>>
+  3|EN : @I refuse to abandon
+ my mission!
+  4|RE : <<TODO>>
+
+[JP#5142] gaps=1  aln=MED->US#5027  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「こんな危険な奇跡を / 　姉殺しにしているから / 　モンスターが<8a3d>えていくんだよ
+  2|LIT: <<TODO>>
+  3|EN : @The monsters are multiplying
+ here because these treacherous
+ ruins have been left abandoned.
+  4|RE : <<TODO>>
+
+[JP#5143] gaps=1  aln=MED->US#5028  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「なあ、[05]ぉ / 　奇跡歩りなんてのは『渡り<8a40>』の連中に / 　まかせた方がいいと思わねェか？
+  2|LIT: <<TODO>>
+  3|EN : @Hey, 0.
+ Shouldn't we leave the search of
+ the ruins to the |Mercs?|
+  4|RE : <<TODO>>
+
+[JP#5144] gaps=3  aln=MED->US#5029  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「<8a43>来犯人グループは３人 / 　どうやらタウンメリアの場まで / 　出挑ぎに戦ていた周<8a48><8931>仲者らしい
+  2|LIT: <<TODO>>
+  3|EN : @The kidnappers are 3 guys
+ who came to the Town of Meria
+ as laborers to make money.
+  4|RE : <<TODO>>
+
+[JP#5145] gaps=1  aln=MED->US#5030  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「〜<88d2>数前の参戦で、消失してしまった / 　あのスレイハイム間だ
+  2|LIT: <<TODO>>
+  3|EN : @Slayheim is the western
+ country that was defeated
+ in a war 5 years ago.
+  4|RE : <<TODO>>
+
+[JP#5146] gaps=3  aln=MED->US#5031  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : 「世情が不危奮になると / 　こういった事<8854>も<8a3d>えていくんだ[10][0c]「まだまだ<8a3d>えるぜ / 　こういった訪がよ〜
+  2|LIT: <<TODO>>
+  3|EN : @With the world so unstable,
+ it'll only get worse.@There are going to be more
+ and more people like this.
+  4|RE : <<TODO>>
+
+[JP#5147] gaps=1  aln=MED->US#5032  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「まだまだ<8a3d>えるぜ / 　こういった訪がよ〜
+  2|LIT: <<TODO>>
+  3|EN : @There are going to be more
+ and more people like this.
+  4|RE : <<TODO>>
+
+[JP#5148] gaps=4  aln=MED->US#5033  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「そのバトルに / 　突入した時の状態まで戻るから / 　やりなおしができるのだ[10][0c]「<8a4c>利なシステム『コンティニュー』ッ！ / 　だけど、その使用回年には<8a4d>りがある[10][0c]「１回、コンティニューを行うたびに / 　アイテム『１ギミルコイン』を / 　ひとつ消好してしまうのだ[10][0c]「１ギミルコインは恥<8858>なアイテムだからな / 　その使いどきを負るなよ / 　コンティニューは、最後の遠<8a52>なのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @You'll return to the condition
+ you were in before the battle
+ and get to redo it.@The |Continue| system is
+ convenient but its use
+ is limited.@Each time you hit |Continue|
+ one Gimel Coin is spent.@Gimel Coins are very valuable,
+ so use them wisely. They should
+ only be used as a last resort!!
+  4|RE : <<TODO>>
+
+[JP#5149] gaps=4  aln=MED->US#5035  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「<8a4c>利なシステム『コンティニュー』ッ！ / 　だけど、その使用回年には<8a4d>りがある[10][0c]「１回、コンティニューを行うたびに / 　アイテム『１ギミルコイン』を / 　ひとつ消好してしまうのだ[10][0c]「１ギミルコインは恥<8858>なアイテムだからな / 　その使いどきを負るなよ / 　コンティニューは、最後の遠<8a52>なのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @Each time you hit |Continue|
+ one Gimel Coin is spent.@Gimel Coins are very valuable,
+ so use them wisely. They should
+ only be used as a last resort!!
+  4|RE : <<TODO>>
+
+[JP#5150] gaps=2  aln=MED->US#5036  CONF=FAIR unsolved=2  CONF=FAIR unsolved=0
+  1|JP : 「１回、コンティニューを行うたびに / 　アイテム『１ギミルコイン』を / 　ひとつ消好してしまうのだ[10][0c]「１ギミルコインは恥<8858>なアイテムだからな / 　その使いどきを負るなよ / 　コンティニューは、最後の遠<8a52>なのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @Gimel Coins are very valuable,
+ so use them wisely. They should
+ only be used as a last resort!!
+  4|RE : <<TODO>>
+
+[JP#5151] gaps=2  aln=HIGH->US#5036  CONF=FAIR unsolved=2  CONF=OK unsolved=0
+  1|JP : 「１ギミルコインは恥<8858>なアイテムだからな / 　その使いどきを負るなよ / 　コンティニューは、最後の遠<8a52>なのだッ！
+  2|LIT: <<TODO>>
+  3|EN : @Gimel Coins are very valuable,
+ so use them wisely. They should
+ only be used as a last resort!!
+  4|RE : <<TODO>>
+
+[JP#5152] gaps=3  aln=HIGH->US#5037  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「もう、ずっと前に『渡り<8a40>』と呼ばれる / 　<8a2b>険者たちによって / 　あらかた探<887e>されつくされているからな[10][0c]「ここが『勉れた奇跡』と呼ばれるのは / 　そういうことからさ
+  2|LIT: <<TODO>>
+  3|EN : @The ruins have been searched
+ already by the expedition team
+ called |Merc.|@That's why this place is called
+ |The Withered Ruins.|
+  4|RE : <<TODO>>
+
+[JP#5153] gaps=0  aln=HIGH->US#5038  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「ここが『勉れた奇跡』と呼ばれるのは / 　そういうことからさ
+  2|LIT: <<TODO>>
+  3|EN : @That's why this place is called
+ |The Withered Ruins.|
+  4|RE : <<TODO>>
+
+[JP#5154] gaps=1  aln=HIGH->US#5039  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「気を招き<8a55>めていくぞッ！
+  2|LIT: <<TODO>>
+  3|EN : @Brace yourself!
+  4|RE : <<TODO>>
+
+[JP#5155] gaps=1  aln=HIGH->US#5040  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「この先、どんな仕<89eb>けがあるのか / 　見当もつかないからな
+  2|LIT: <<TODO>>
+  3|EN : @I can't even imagine what
+ kind of traps lie ahead.
+  4|RE : <<TODO>>
+
+[JP#5157] gaps=0  aln=HIGH->US#5042  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「悪いが、方家を見てきてくれないか？
+  2|LIT: <<TODO>>
+  3|EN : @Could you check it out?
+  4|RE : <<TODO>>
+
+[JP#5158] gaps=3  aln=MED->US#5043  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「ここで目戻った手<8a59>でもたてて / 　ウワサの新<88e5>字闘への / 　望<8a5a>なんかねらっちまうからこのザマだ
+  2|LIT: <<TODO>>
+  3|EN : @It's because you tried to score
+ big here so you'd be reassigned
+ to the new unit that is forming.
+  4|RE : <<TODO>>
+
+[JP#5159] gaps=0  aln=HIGH->US#5044  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「さっきのようにスイッチを入れる以外にも / 　使い道があるかもしれんな〜 / 　そいつは自分で探すことだ
+  2|LIT: <<TODO>>
+  3|EN : @It must have a use besides just
+ turning the switch.
+ You need to figure it out.
+  4|RE : <<TODO>>
+
+[JP#5160] gaps=0  aln=HIGH->US#5045  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「うっかり落ちると手間取るぞ / 　〜この僕みたいにな
+  2|LIT: <<TODO>>
+  3|EN : @If you fall by mistake,
+ you'll be held up like me.
+  4|RE : <<TODO>>
+
+[JP#5161] gaps=1  aln=HIGH->US#5046  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「あせらず〜 / 　ゆっくり〜 / 　飛<8858>に、だぞ〜
+  2|LIT: <<TODO>>
+  3|EN : @Don't sweat it, though.
+ Take it slow and
+ proceed with caution.
+  4|RE : <<TODO>>
+
+[JP#5162] gaps=1  aln=HIGH->US#5047  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ガキを<8a43>来すれば / 　大金が望がりこむって言ったのはっ！？
+  2|LIT: <<TODO>>
+  3|EN : @Who said kidnapping
+ would have us rolling
+ in money!?
+  4|RE : <<TODO>>
+
+[JP#5163] gaps=0  aln=HIGH->US#5048  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「まさか / 　こんなおおごとになるなんて / 　思ってもみなかった・・・
+  2|LIT: <<TODO>>
+  3|EN : @I never imagined
+ it would turn into
+ such a big deal.
+  4|RE : <<TODO>>
+
+[JP#5165] gaps=1  aln=MED->US#5050  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「どうするんでヤンス、ガンガルの守恥 / 　もうすぐ守胞闘のみなさん / 　突入してくる<8941>でヤンスよ
+  2|LIT: <<TODO>>
+  3|EN : @What do you plan on doing, boss?
+ It's about time those Musketeer
+ boys came charging in.
+  4|RE : <<TODO>>
+
+[JP#5166] gaps=1  aln=MED->US#5051  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「最<8a67>に話しませんでしたっけ？
+  2|LIT: <<TODO>>
+  3|EN : @Didn't I say that at the start?
+  4|RE : <<TODO>>
+
+[JP#5167] gaps=0  aln=MED->US#5052  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そんなことじゃ / 　男（オトコ）がすたっちまうぜ / 　〜ったくよぉ
+  2|LIT: <<TODO>>
+  3|EN : @What a waste of man power,
+ wimping out like that.
+ Really!
+  4|RE : <<TODO>>
+
+[JP#5168] gaps=1  aln=MED->US#5053  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<894f>げ切って見せるぜ
+  2|LIT: <<TODO>>
+  3|EN : @I'll get away no matter what.
+  4|RE : <<TODO>>
+
+[JP#5170] gaps=0  aln=HIGH->US#5055  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : （少数、名前は？）
+  2|LIT: <<TODO>>
+  3|EN : (Do you have a name?)
+  4|RE : <<TODO>>
+
+[JP#5171] gaps=2  aln=HIGH->US#5056  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ホントは<8a43>来なんて / 　できる度<89e5>も無いくせにッ！
+  2|LIT: <<TODO>>
+  3|EN : @You don't have the guts
+ to properly kidnap anyone!
+  4|RE : <<TODO>>
+
+[JP#5172] gaps=0  aln=HIGH->US#5057  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「お、おめぇら、このガキをとっつかまえて / 　だまらせろッ！
+  2|LIT: <<TODO>>
+  3|EN : @Hey, you two, grab the brat
+ and shut him up!!
+  4|RE : <<TODO>>

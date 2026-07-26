@@ -1,0 +1,271 @@
+# WA2 INSERTION workspace US block 76 (US#7343-7387)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7346] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7530[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7347] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7531[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7348] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7532[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7349] budget=13ch/1ln
+  NOW: *Turn it on?2
+  JP : JP#7533[HIGH]: ＊起動させますか？[18]か
+  FIT: <<TODO — <=13 chars, 1 line(s), <=35/line>>
+
+[US#7350] budget=88ch/3ln
+  NOW: *In the broken and scrambled
+          data is detailed information
+          concerning Odessa's war power.
+  JP : JP#7534[HIGH]: ＊<8a34>切れ<8a34>切れの情報の中から / 　オデッサの戦力参泣に関するものが / 　うかがえる〜
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#7351] budget=13ch/1ln
+  NOW: *Turn it on?2
+  JP : JP#7535[HIGH]: ＊起動させますか？[18]か
+  FIT: <<TODO — <=13 chars, 1 line(s), <=35/line>>
+
+[US#7352] budget=79ch/3ln
+  NOW: *In the broken and scrambled
+          data is detailed information
+          on the Heimdal Gazzo.
+  JP : JP#7536[HIGH]: ＊<8a34>切れ<8a34>切れの情報の中から / 　ヘイムダル・ガッツォーに関するものが / 　うかがえる〜
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#7353] budget=13ch/1ln
+  NOW: *Turn it on?2
+  JP : JP#7537[HIGH]: ＊起動させますか？[18]か
+  FIT: <<TODO — <=13 chars, 1 line(s), <=35/line>>
+
+[US#7354] budget=86ch/3ln
+  NOW: *In the broken and scrambled
+          data is detailed information
+          on Odessa's funding sources.
+  JP : JP#7538[HIGH]: ＊<8a34>切れ<8a34>切れの情報の中から / 　オデッサの片金<8869>に関するものが / 　うかがえる〜[10][0c]＊そこには、片金押をバックア
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#7355] budget=85ch/3ln
+  NOW: *Information on the nobility
+          financially supporting Odessa is
+          presented in fragments.
+  JP : JP#7539[HIGH]: ＊そこには、片金押をバックアップする / 　<8a38><8a39>についての情報が / 　<898e>仲的に残されている〜
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>
+
+[US#7356] budget=13ch/1ln
+  NOW: *Turn it on?2
+  JP : JP#7540[HIGH]: ＊起動させますか？[18]か
+  FIT: <<TODO — <=13 chars, 1 line(s), <=35/line>>
+
+[US#7357] budget=81ch/3ln
+  NOW: *In the broken and scrambled
+          data is detailed information
+          on the Demon Summoning.
+  JP : JP#7541[HIGH]: ＊<8a34>切れ<8a34>切れの情報の中から / 　周魔守<8883>に関するものが / 　うかがえる〜[10][0c]＊そこには、ある剣から姉<8842>
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#7358] budget=82ch/3ln
+  NOW: *There's information about
+          Randolph the Magic Key and
+          the Conjuring from that man.
+  JP : JP#7542[HIGH]: ＊そこには、ある剣から姉<8842>された / 　守<8883>の<8a3d><8883>と / 　『魔助ランドルフ』について残されている〜
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#7359] budget=13ch/1ln
+  NOW: *Turn it on?2
+  JP : JP#7543[HIGH]: ＊起動させますか？[18]か
+  FIT: <<TODO — <=13 chars, 1 line(s), <=35/line>>
+
+[US#7360] budget=81ch/3ln
+  NOW: *In the broken and scrambled
+          data is detailed information
+          on the Demon Summoning.
+  JP : JP#7544[HIGH]: ＊<8a34>切れ<8a34>切れの情報の中から / 　周魔守<8883>に関するものが / 　うかがえる〜[10][0c]＊周魔守<8883>の実験は / 　
+  FIT: <<TODO — <=81 chars, 3 line(s), <=35/line>>
+
+[US#7361] budget=82ch/3ln
+  NOW: *The Demon Summoning experiment
+          used the newly formed special
+          unit as guinea pigs.
+  JP : JP#7545[HIGH]: ＊周魔守<8883>の実験は / 　新<88e5>簡単字闘をギニーピッグとして / 　あつかうことと残されている[10][0c]＊字闘の<88e5>戻回歩や /
+  FIT: <<TODO — <=82 chars, 3 line(s), <=35/line>>
+
+[US#7362] budget=91ch/3ln
+  NOW: *Information was leaked to Odessa
+          regarding the date and time of the
+          ceremony for the unit.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#7363] budget=13ch/1ln
+  NOW: *Turn it on?2
+  JP : (no JP mapped)
+  FIT: <<TODO — <=13 chars, 1 line(s), <=35/line>>
+
+[US#7364] budget=71ch/3ln
+  NOW: No power means that
+          there's a slave unit that
+          hasn't been started, yet.
+  JP : JP#7546[MED]: ＊字闘の<88e5>戻回歩や / 　<8883><8a40><89ba>場などが事<8a12>かく / 　オデッサ<89f5>にリークされていた〜
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#7365] budget=49ch/2ln
+  NOW: ...means we need to check
+          all of the slave units.
+  JP : JP#7547[MED]: ＊起動させますか？[18]か
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#7366] budget=58ch/2ln
+  NOW: ...we need to go back and check
+          each and every slave unit.
+  JP : JP#7550[MED]: 「一兄戻って、家機をひとつずつ / 　確認するしかないな || JP#7548[MED]: 「<8934><8869>が入らないと言うことは / 　まだ起動していない / 　家機があるということだな
+  FIT: <<TODO — <=58 chars, 2 line(s), <=35/line>>
+
+[US#7367] budget=98ch/3ln
+  NOW: This world is for those who believe
+          and live in the future. This world
+          isn't for ghosts, like you!
+  JP : JP#7551[MED]: 「ここは、未<8a43>を信じ生きる人たちの世界 / 　お前のいるべき世界じゃない / 　亡来がいるような世界じゃないんだッ！
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#7368] budget=22ch/1ln
+  NOW: he couldn't quite die.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=22 chars, 1 line(s), <=35/line>>
+
+[US#7369] budget=78ch/3ln
+  NOW: With your death, Odessa
+          was destroyed! This world is
+          not for you to return to.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#7370] budget=69ch/3ln
+  NOW: I mean, this affection
+          has to die with you.
+          Don't show up again, OK?!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=69 chars, 3 line(s), <=35/line>>
+
+[US#7371] budget=47ch/2ln
+  NOW: Did you really want world
+          domination that much?
+  JP : JP#7552[MED]: 「お前は死に、オデッサは滅滅したッ！ / 　ここはもう、お前が戻ってくる / 　世界じゃないないんだよ
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7372] budget=102ch/3ln
+  NOW: If you can't cut ties to this world
+          I will be the sword to send you
+          back to Hades over and over again.
+  JP : JP#7553[MED]: 「まったく、未<8a01>たらしいんだから / 　挑度と合けて出てこないでねッ！ || JP#7554[MED]: 「世界戦周を / 　そんなにしたかったんでしょうか…
+  FIT: <<TODO — <=102 chars, 3 line(s), <=35/line>>
+
+[US#7373] budget=92ch/3ln
+  NOW: While I admire your efforts to
+          return to this world, you're
+          dead, so don't bother returning.
+  JP : JP#7556[MED]: 「まぁ、死んでもこの世にとどまろうとする / 　その<8a4c>性だけは見上げたものじゃが / 　もう、戻ってこんでいいぞ || JP#7555[MED]: 「この世の未<8a01>が<898e>ち切れぬなら / 　その未<8a01>を<898e>ち切る<8a48>となりて / 　何度でも、お前を仲間に<897e>り
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#7374] budget=67ch/3ln
+  NOW: *Calamity silently floats,
+          the |Mad Mountains| scream
+          out a lament.
+  JP : JP#7557[MED]: ＊好々しい恥気を負わせて / 　『遠気谷<89f4>』が / 　<8a52><8a53>にも<8973>たうめき<883f>をあげるッ！[10][0c]＊理違は
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#7375] budget=54ch/2ln
+  NOW: *The ideal is death.
+          Deep-seated delusion doesn't die.
+  JP : JP#7558[MED]: ＊理違は死すとも / 　勉<8a55>は死なずッ！[10][0c]＊貸体は<8a57>ち果てるとも / 　この剣の残望思念は / 　遠<8868>の<8a59>
+  FIT: <<TODO — <=54 chars, 2 line(s), <=35/line>>
+
+[US#7376] budget=104ch/3ln
+  NOW: *Even if the flesh rots, this man's
+          remaining thoughts become a fiery
+          wreckage that stands in one's way.
+  JP : JP#7559[MED]: ＊貸体は<8a57>ち果てるとも / 　この剣の残望思念は / 　遠<8868>の<8a59>となりて戻ちはだかってきたッ！
+  FIT: <<TODO — <=104 chars, 3 line(s), <=35/line>>
+
+[US#7377] budget=86ch/3ln
+  NOW: It's said you can access Odessa's
+          main data bank from here.
+          What do you want to do, 0?
+  JP : JP#7560[HIGH]: 「ここから、オデッサの / 　メインデータバンクにアクセスできそうだが / 　どうする、[05]ぉ？
+  FIT: <<TODO — <=86 chars, 3 line(s), <=35/line>>
+
+[US#7378] budget=80ch/3ln
+  NOW: Vinsfeld must have meant
+          the Kuiper Belt when he spoke
+          of an encroaching menace.
+  JP : JP#7561[HIGH]: 「ヴィンスフェルトがいっていた / 　『<8915>り<8a43>る脅威』というのが / 　カイバーベルトのことなのかも気になる[10][0c]「なにかしら情報
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#7379] budget=92ch/3ln
+  NOW: We might be able to get some
+          information. It could be a waste
+          of time, but it's worth a try.
+  JP : JP#7562[HIGH]: 「なにかしら情報が得られるかもしれない / 　<8a5a><8931>に終わるかもしれないけど / 　調べてみる復<8875>はあるな
+  FIT: <<TODO — <=92 chars, 3 line(s), <=35/line>>
+
+[US#7380] budget=47ch/2ln
+  NOW: He knew something we didn't.
+          It's not unlikely.
+  JP : JP#7563[HIGH]: 「僕たちの知らない、なにかを知っていた / 　それも、あり得なくない話しだ
+  FIT: <<TODO — <=47 chars, 2 line(s), <=35/line>>
+
+[US#7381] budget=33ch/2ln
+  NOW: If nothing comes up,
+          no big deal!
+  JP : JP#7564[HIGH]: 「なにも出てこなかったら / 　それはそれで、よしということでッ！
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#7382] budget=87ch/3ln
+  NOW: Even if we research data on
+          Odessa now, it doesn't look
+          like anything good will result.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=87 chars, 3 line(s), <=35/line>>
+
+[US#7383] budget=26ch/1ln
+  NOW: What kind of joke is this?
+  JP : JP#7565[MED]: 「やっぱり、今<890d>オデッサの情報を探っても / 　作茶な情報なんて / 　出てきそうにないみたいね…
+  FIT: <<TODO — <=26 chars, 1 line(s), <=35/line>>
+
+[US#7384] budget=80ch/3ln
+  NOW: The organization lacked
+          operational funds. So these
+          are their financial backers.
+  JP : JP#7567[MED]: 「そうか乗<8a64>として運<8a65>される以上 / 　片金の調達は不可欠 / 　これは、オデッサの<89a3>後関係か？[10][0c]「〜[16]がぉ〜 || JP#7566[MED]: 「こいつはいったい / 　何の飛限だ〜
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#7385] budget=18ch/1ln
+  NOW: ...30...30...30...
+  JP : JP#7568[MED]: 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[10][0c]「〜そんな〜 / 　何でこんなところに / 　この名前があるんだ〜
+  FIT: <<TODO — <=18 chars, 1 line(s), <=35/line>>
+
+[US#7386] budget=47ch/3ln
+  NOW: Impossible!
+          Why would that name
+          be listed here?
+  JP : JP#7569[MED]: 「〜そんな〜 / 　何でこんなところに / 　この名前があるんだ〜
+  FIT: <<TODO — <=47 chars, 3 line(s), <=35/line>>
+
+[US#7387] budget=80ch/3ln
+  NOW: To start this console panel,
+          all the slave units linked
+          to it must be turned on.
+  JP : JP#7570[MED]: 「このコンソールパネルを起動するには / 　搭<8a18>されている家機を険字戻ち上げないと / 　ダメなようだな
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>

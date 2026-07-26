@@ -1,0 +1,552 @@
+{
+ "sections": [
+  {
+   "id": "1.01",
+   "title": "Prologue",
+   "disc": 1,
+   "target": 214,
+   "deep": 75,
+   "firstpass": 0,
+   "pct": 35,
+   "state": "partial",
+   "areas": [
+    "WR",
+    "MP",
+    "BI"
+   ]
+  },
+  {
+   "id": "1.02",
+   "title": "The Town to the Western Winds",
+   "disc": 1,
+   "target": 62,
+   "deep": 25,
+   "firstpass": 0,
+   "pct": 40,
+   "state": "partial",
+   "areas": [
+    "MR",
+    "SC"
+   ]
+  },
+  {
+   "id": "1.03",
+   "title": "New Knight Squad Ceremony",
+   "disc": 1,
+   "target": 75,
+   "deep": 158,
+   "firstpass": 0,
+   "pct": 100,
+   "state": "done",
+   "areas": [
+    "VC"
+   ]
+  },
+  {
+   "id": "1.04",
+   "title": "The Valeria Chateau",
+   "disc": 1,
+   "target": 114,
+   "deep": 158,
+   "firstpass": 0,
+   "pct": 100,
+   "state": "done",
+   "areas": [
+    "VC"
+   ]
+  },
+  {
+   "id": "1.05",
+   "title": "Illsveil Prison Paradise",
+   "disc": 1,
+   "target": 70,
+   "deep": 0,
+   "firstpass": 48,
+   "pct": 69,
+   "state": "firstpass",
+   "areas": [
+    "IP"
+   ]
+  },
+  {
+   "id": "1.06",
+   "title": "Re-opening the Trade Route - Under Traffic and Damzen",
+   "disc": 1,
+   "target": 93,
+   "deep": 0,
+   "firstpass": 398,
+   "pct": 100,
+   "state": "firstpass",
+   "areas": [
+    "UT",
+    "DZ",
+    "CC"
+   ]
+  },
+  {
+   "id": "1.07",
+   "title": "Telepath Tower to Mt. Chug-Chug",
+   "disc": 1,
+   "target": 58,
+   "deep": 40,
+   "firstpass": 146,
+   "pct": 100,
+   "state": "done",
+   "areas": [
+    "TT",
+    "CC",
+    "LR"
+   ]
+  },
+  {
+   "id": "1.08",
+   "title": "Establishing Cooperation with Sylvaland",
+   "disc": 1,
+   "target": 324,
+   "deep": 12,
+   "firstpass": 335,
+   "pct": 100,
+   "state": "done",
+   "areas": [
+    "SD",
+    "HL",
+    "SY"
+   ]
+  },
+  {
+   "id": "1.09",
+   "title": "Find the Aguelite and Germatron",
+   "disc": 1,
+   "target": 234,
+   "deep": 54,
+   "firstpass": 280,
+   "pct": 100,
+   "state": "done",
+   "areas": [
+    "AM",
+    "HM",
+    "BV",
+    "HT",
+    "WV"
+   ]
+  },
+  {
+   "id": "1.10",
+   "title": "Contacting the Guardians",
+   "disc": 1,
+   "target": 386,
+   "deep": 0,
+   "firstpass": 207,
+   "pct": 54,
+   "state": "firstpass",
+   "areas": [
+    "BV",
+    "TB",
+    "GH",
+    "RO"
+   ]
+  },
+  {
+   "id": "1.11",
+   "title": "The 71st Filgaian Summit",
+   "disc": 1,
+   "target": 105,
+   "deep": 35,
+   "firstpass": 0,
+   "pct": 33,
+   "state": "partial",
+   "areas": [
+    "WV"
+   ]
+  },
+  {
+   "id": "1.12",
+   "title": "Data Tablets and Sielje Region",
+   "disc": 1,
+   "target": 119,
+   "deep": 0,
+   "firstpass": 134,
+   "pct": 100,
+   "state": "firstpass",
+   "areas": [
+    "TS",
+    "SR"
+   ]
+  },
+  {
+   "id": "1.13",
+   "title": "The Gate Bridge",
+   "disc": 1,
+   "target": 47,
+   "deep": 0,
+   "firstpass": 67,
+   "pct": 100,
+   "state": "firstpass",
+   "areas": [
+    "GB"
+   ]
+  },
+  {
+   "id": "1.14",
+   "title": "Greenhell to T'bok Village",
+   "disc": 1,
+   "target": 57,
+   "deep": 0,
+   "firstpass": 67,
+   "pct": 100,
+   "state": "firstpass",
+   "areas": [
+    "GH",
+    "TB"
+   ]
+  },
+  {
+   "id": "1.15",
+   "title": "Kanon the Exorcist",
+   "disc": 1,
+   "target": 47,
+   "deep": 12,
+   "firstpass": 138,
+   "pct": 100,
+   "state": "done",
+   "areas": [
+    "SY",
+    "CM"
+   ]
+  },
+  {
+   "id": "1.16",
+   "title": "Alchemic Plant",
+   "disc": 1,
+   "target": 85,
+   "deep": 0,
+   "firstpass": 104,
+   "pct": 100,
+   "state": "firstpass",
+   "areas": [
+    "AP"
+   ]
+  },
+  {
+   "id": "1.17",
+   "title": "Escort the Son of the Guild Galad Master",
+   "disc": 1,
+   "target": 164,
+   "deep": 0,
+   "firstpass": 104,
+   "pct": 63,
+   "state": "firstpass",
+   "areas": [
+    "GG",
+    "QT"
+   ]
+  },
+  {
+   "id": "1.18",
+   "title": "Closed Mine Shaft",
+   "disc": 1,
+   "target": 72,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "CM"
+   ]
+  },
+  {
+   "id": "1.19",
+   "title": "Coffin of 100 Eyes",
+   "disc": 1,
+   "target": 105,
+   "deep": 0,
+   "firstpass": 76,
+   "pct": 72,
+   "state": "firstpass",
+   "areas": [
+    "CE"
+   ]
+  },
+  {
+   "id": "1.20",
+   "title": "Destroy the Diablo Pillars",
+   "disc": 1,
+   "target": 109,
+   "deep": 0,
+   "firstpass": 282,
+   "pct": 100,
+   "state": "firstpass",
+   "areas": [
+    "DP",
+    "DC",
+    "DA",
+    "DJ",
+    "LC"
+   ]
+  },
+  {
+   "id": "1.21",
+   "title": "Take Down Heimdal Gazzo",
+   "disc": 1,
+   "target": 86,
+   "deep": 0,
+   "firstpass": 67,
+   "pct": 78,
+   "state": "firstpass",
+   "areas": [
+    "HG"
+   ]
+  },
+  {
+   "id": "2.01",
+   "title": "The Memory Maze",
+   "disc": 2,
+   "target": 76,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "MM",
+    "MZ"
+   ]
+  },
+  {
+   "id": "2.02",
+   "title": "Rescue Ashley Winschester",
+   "disc": 2,
+   "target": 81,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "MM"
+   ]
+  },
+  {
+   "id": "2.03",
+   "title": "Sacrificial Altar & the Grotto of Lourdes",
+   "disc": 2,
+   "target": 118,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "SA",
+    "GL"
+   ]
+  },
+  {
+   "id": "2.04",
+   "title": "Rescue Marina from the Frozen Lake of Hell",
+   "disc": 2,
+   "target": 59,
+   "deep": 13,
+   "firstpass": 0,
+   "pct": 22,
+   "state": "partial",
+   "areas": [
+    "LG"
+   ]
+  },
+  {
+   "id": "2.05",
+   "title": "The Nuclear Dragon Grauswein",
+   "disc": 2,
+   "target": 90,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "SV"
+   ]
+  },
+  {
+   "id": "2.06",
+   "title": "Lombardia - The Legendary Wing of Heaven",
+   "disc": 2,
+   "target": 54,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "PV"
+   ]
+  },
+  {
+   "id": "0.1",
+   "title": "Crimson Castle",
+   "disc": 0,
+   "target": 18,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "CS"
+   ]
+  },
+  {
+   "id": "0.2",
+   "title": "Promised Catacombs",
+   "disc": 0,
+   "target": 8,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "PC"
+   ]
+  },
+  {
+   "id": "2.07",
+   "title": "Liberate the Raypoints",
+   "disc": 2,
+   "target": 145,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "RF",
+    "RG",
+    "RW",
+    "RM"
+   ]
+  },
+  {
+   "id": "2.08",
+   "title": "Trapezohedron",
+   "disc": 2,
+   "target": 25,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "TZ"
+   ]
+  },
+  {
+   "id": "2.09",
+   "title": "Fiery Wreckage",
+   "disc": 2,
+   "target": 64,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "FW"
+   ]
+  },
+  {
+   "id": "2.10",
+   "title": "Before the Final Battle",
+   "disc": 2,
+   "target": 95,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "ST",
+    "GGa"
+   ]
+  },
+  {
+   "id": "0.3",
+   "title": "Island Outpost (OPTIONAL)",
+   "disc": 0,
+   "target": 8,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "IO"
+   ]
+  },
+  {
+   "id": "0.4",
+   "title": "Guardians of Filgaia",
+   "disc": 0,
+   "target": 14,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "GLo"
+   ]
+  },
+  {
+   "id": "0.5",
+   "title": "Werewolf's Den",
+   "disc": 0,
+   "target": 28,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "WD"
+   ]
+  },
+  {
+   "id": "0.6",
+   "title": "The Guardian Lords",
+   "disc": 0,
+   "target": 53,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "GLo"
+   ]
+  },
+  {
+   "id": "0.7",
+   "title": "Fab Science Lab",
+   "disc": 0,
+   "target": 108,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "DR"
+   ]
+  },
+  {
+   "id": "2.11",
+   "title": "Last Ignition",
+   "disc": 2,
+   "target": 97,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": [
+    "GGa"
+   ]
+  },
+  {
+   "id": "2.12",
+   "title": "Ending",
+   "disc": 2,
+   "target": 29,
+   "deep": 0,
+   "firstpass": 0,
+   "pct": 0,
+   "state": "placeholder",
+   "areas": []
+  }
+ ]
+}

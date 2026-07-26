@@ -1,0 +1,67 @@
+# WA2 4-col translation doc block 37 (JP#5768-5782)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 8 boxes | OK=0 FAIR=6 SHAKY=2 JP-ONLY=0
+# DRAFT STATUS: 8 boxes | OK=0 FAIR=5 SHAKY=3 JP-ONLY=0
+
+[JP#5770] gaps=0  aln=MED->US#5639  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5771] gaps=2  aln=MED->US#5640  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5772] gaps=0  aln=MED->US#5641  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5774] gaps=3  aln=MED->US#5643  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : ＊仲の<888b>には更元の守間〜 / 　仲の姉には魔界の<897f>〜 / 　　　　　　『<8a3d>者アーチェン・グリッシュ』
+  2|LIT: <<TODO>>
+  3|EN : *Snakestail is 'tween dimensions...
+ Snakeshead is the Diablo Tower...
+           --Aachen Grish, historian
+  4|RE : <<TODO>>
+
+[JP#5775] gaps=5  aln=MED->US#5644  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : ＊解期データによれば / 　その威力は大陸を一<8a43>にして / 　来挑と合すことさえ可能であった[10][0c]＊その威力<8808>に、同助としてでなく / 　戦戦的<88fa>周手<8a48>とされたのではないかと / 　<88c1>待されている
+  2|LIT: <<TODO>>
+  3|EN : *Data analysis reveals they can,
+ in a split second turn an entire
+ continent to scorched earth.*In the past, this power was
+ used not as a weapon, but as a
+ military bargaining tool.
+  4|RE : <<TODO>>
+
+[JP#5776] gaps=4  aln=MED->US#5645  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : ＊その威力<8808>に、同助としてでなく / 　戦戦的<88fa>周手<8a48>とされたのではないかと / 　<88c1>待されている
+  2|LIT: <<TODO>>
+  3|EN : *In the past, this power was
+ used not as a weapon, but as a
+ military bargaining tool.
+  4|RE : <<TODO>>
+
+[JP#5777] gaps=1  aln=MED->US#5647  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「それでも / 　生者の世界には / 　<8973>つかわしくないもの
+  2|LIT: <<TODO>>
+  3|EN : @I'll destroy it for you, so
+ promise me you won't
+ show up again.
+  4|RE : <<TODO>>
+
+[JP#5778] gaps=1  aln=MED->US#5648  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「やっつけてあげるから / 　<8a4d>度とバケて出てこないでよね
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>

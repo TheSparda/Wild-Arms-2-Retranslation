@@ -1,0 +1,197 @@
+# WA2 — VALERIA CHATEAU — Filgaia Summit → Data Tablets briefing (block 5, US#856-898) — FINAL
+# =========================================================================================
+# A connected briefing scene in the Chateau. Two linked mission set-ups:
+#   (A) THE FILGAIA SUMMIT: to fight Odessa, the 3 nations must ally. Lord Valeria proposes holding
+#       the 71st Filgaia Summit aboard the flying Valeria Chateau (the safest place in Filgaia), and
+#       ORDERS ARMS to protect it from an Odessa attack. (guide area: Warwing Varukisas / Summit)
+#   (B) THE DATA TABLETS: afterward, ARMS must recover 3 data tablets from a downed Gull-Wing ship to
+#       learn Odessa's secrets — but the tablets' encryption can only be broken in the Sielje Region,
+#       reachable via a coal tunnel near Damzen City. (guide area: Tunnel to Sielje / Data Tablets)
+# SPEAKERS: Lord Valeria (the proposer/commander) + ARMS ({0}=Ashley) + advisors. From US Rosetta.
+# JP block-decoded (block 5, clean). No em dashes. <=3 lines. US# = real slots (reconciled).
+# Columns: JP (clean) / LIT / EN (current) / RE (final).
+# =========================================================================================
+
+######### PART A — THE FILGAIA SUMMIT #########
+
+[US#856] (Lord Valeria)
+  JP : 「オデッサが世界規模の戦を仕掛けるなら / 我々も同等の力で / 応じねばならない
+  LIT: If Odessa wages war on a global scale, we must answer with equal force.
+  EN : If Odessa means to wage war on a global scale, then we require the same capability.
+  RE : If Odessa wages war on a
+       global scale, we must answer
+       with equal force.
+
+[US#857] (Lord Valeria)
+  JP : 「だが、ＡＲＭＳは / その権限に / 多くの制約を受けている
+  LIT: But ARMS is bound by many restrictions on its authority.
+  EN : But ARMS is limited by the many restrictions placed on its authority.
+  RE : But ARMS is bound by many
+       limits on its authority.
+
+[US#858] (Lord Valeria)
+  JP : 「オデッサと戦うには / 国家間の様々な問題を / 解決せねばならない
+  LIT: To fight Odessa, we must resolve the various issues between nations.
+  EN : To fight Odessa effectively, we must resolve the various issues between nations.
+  RE : To fight Odessa, we must first
+       resolve the many issues
+       between the nations.
+
+[US#860] (Lord Valeria)
+  JP : 「だが、キミの隊長が / 実によい案をくれてな
+  LIT: But your chief gave me a truly good idea.
+  EN : But your chief has given me a very good idea.
+  RE : But your chief gave me
+       a truly good idea.
+
+[US#862] (advisor)
+  JP : 「先のシルヴァラントの一件があるからな / 頑固なギルドグラードも / 出席せざるをえまい
+  LIT: After the recent Sylvaland incident, even stubborn Guild Galad can't refuse to attend.
+  EN : After the incident in Sylvaland, even stubborn Guild Galad will have to attend.
+  RE : After the Sylvaland incident,
+       even stubborn Guild Galad
+       can't refuse to attend.
+
+[US#863] (advisor, the risk)
+  JP : 「３ヶ国の首脳が集まれば / 格好の標的に / なってしまう
+  LIT: A gathering of the three nations' leaders would make an inviting target.
+  EN : A gathering of the 3 nations' leaders would present an inviting target.
+  RE : Three nations' leaders in one
+       place would make an
+       inviting target.
+
+[US#864] (Lord Valeria)
+  JP : 「私は、ファルガイアで / 最も安全な場所を知っている
+  LIT: I know the safest place in all Filgaia.
+  EN : I know the safest place in all Filgaia.
+  RE : I know the safest place
+       in all Filgaia.
+
+[US#865] (Lord Valeria, the proposal)
+  JP : 「第７１回ファルガイアサミットを / 空飛ぶヴァレリアシャトー上で / 開催することを提案する
+  LIT: I propose holding the 71st Filgaia Summit aboard the flying Valeria Chateau.
+  EN : I propose holding the 71st Filgaia Summit in the sky, aboard Valeria Chateau.
+  RE : I propose we hold the 71st
+       Filgaia Summit aboard the
+       flying Valeria Chateau.
+
+[US#866] (Lord Valeria)
+  JP : 「オデッサにヴァルキサスはあれど / 空中で優位に立てるはずがない
+  LIT: Odessa may have the Varukisas, but they can't gain the upper hand in the sky.
+  EN : Odessa does have Varukisas, but there is no way they could gain the advantage in the air.
+  RE : Odessa may have Varukisas, but
+       they can't win the advantage
+       up in the sky.
+
+[US#868] (Lord Valeria, the order)
+  JP : 「ＡＲＭＳに、第７１回 / ファルガイアサミットの / 護衛を命じるッ！
+  LIT: I order ARMS to guard the 71st Filgaia Summit!
+  EN : I order ARMS to protect the 71st Filgaia Summit!
+  RE : ARMS, I order you to guard
+       the 71st Filgaia Summit!
+
+[US#870] (Lord Valeria)
+  JP : 「本ミッションの目的は / 万一の際、首脳陣を / 守り抜くことにある
+  LIT: This mission's objective is to protect the leaders should the worst occur.
+  EN : The objective of this mission is to protect the leaders in the event of such an attack.
+  RE : The mission's objective: guard
+       the leaders should the
+       worst happen.
+
+######### PART B — THE DATA TABLETS #########
+
+[US#882] ({0} Ashley / advisor)
+  JP : 「その足取りを追いましょう / ホバークラフトの機動力があれば / 内海一帯を捜索できます
+  LIT: Let's track them. With the Hovercraft's mobility we can search the whole Inland Sea.
+  EN : Let's track them down. With the Hovercraft, we can search the entire Inland Sea area.
+  RE : Let's track them. The Hovercraft
+       can search the whole
+       Inland Sea.
+
+[US#883] (advisor)
+  JP : 「あのガル・ウィング級の飛空艇には / おそらく３つのデータタブレットが / 搭載されているはずです
+  LIT: That Gull-Wing-class airship should have 3 data tablets aboard.
+  EN : A Gull Wing-class ship like that should have 3 data tablets onboard.
+  RE : That Gull-Wing airship should
+       have three data tablets
+       aboard.
+
+[US#884] (advisor)
+  JP : 「回収すれば / オデッサに関する重要な情報が / 手に入るはずです
+  LIT: Once recovered, they should yield vital information about Odessa.
+  EN : Once recovered, the tablets will provide us with vital information about Odessa.
+  RE : Once recovered, they'll yield
+       vital information on Odessa.
+
+[US#887] (advisor, the catch)
+  JP : 「データタブレットのプロテクトは / 非常に解除が困難だと / 聞いています
+  LIT: The tablets' protection is said to be extremely hard to remove.
+  EN : The tablets' protective encryption is very difficult to break.
+  RE : The tablets' encryption is
+       said to be very hard
+       to break.
+
+[US#888] (advisor)
+  JP : 「問題は / シエルジェに / たどり着くことです
+  LIT: The problem is reaching Sielje.
+  EN : ... The problem is getting to Sielje.
+  RE : The problem is
+       reaching Sielje.
+
+[US#889] (advisor)
+  JP : 「ヴァレリアシャトーは / 発着場がないため / 使えません
+  LIT: We can't use Valeria Chateau, as there are no landing pads.
+  EN : We can't take Valeria Chateau because there are no landing pads.
+  RE : Valeria Chateau's no use
+       here. There are no
+       landing pads.
+
+[US#890] (advisor)
+  JP : 「ええ、シエルジェへは / 陸路も海路も / ないのです
+  LIT: Yes. There are no overland or sea routes to Sielje either.
+  EN : Yes... And there are no overland or sea routes to Sielje.
+  RE : Yes. And there's no route
+       to Sielje by land
+       or sea.
+
+[US#894] ({0} Ashley, the idea)
+  JP : 「ダムツェン地方のどこかに / シエルジェへ石炭を運ぶ / トンネルがありませんでしたか？
+  LIT: Isn't there a tunnel near Damzen that carries coal to Sielje?
+  EN : Somewhere near Damzen City is a tunnel for transporting coal to Sielje, isn't there?
+  RE : Isn't there a tunnel near
+       Damzen that hauls coal
+       to Sielje?
+
+[US#895] (advisor)
+  JP : 「ダムツェンに行って / 渓谷の者たちに / 訊いてみるといい
+  LIT: Go to Damzen and ask the canyon folk.
+  EN : Go to Damzen City and ask the miners there.
+  RE : Go to Damzen and ask
+       the canyon folk there.
+
+[US#897] (Lord Valeria)
+  JP : 「ＡＲＭＳ！　ダムツェン地方より / シエルジェ地方へ急行せよ！
+  LIT: ARMS! Rush from Damzen to the Sielje Region!
+  EN : ARMS! Make haste to Damzen City, and from there, to the Sielje Region!
+  RE : ARMS! Make haste to Damzen,
+       and from there to Sielje!
+
+[US#898] (Lord Valeria)
+  JP : 「タブレットからオデッサの情報を入手せよ！ / 頼んだぞッ！
+  LIT: Get Odessa's information from the tablets! I'm counting on you!
+  EN : Get any information on Odessa you can from the tablets! I'm counting on you!
+  RE : Get Odessa's secrets from
+       the tablets! I'm counting
+       on you!
+
+# =========================================================================================
+# STATUS: Filgaia Summit + Data Tablets briefing translated (21 boxes, US#856-898). Reconciled by
+#   construction. JP block-decoded (clean), em-dash-free, <=3 lines. All US# verified.
+# PLOT: this is the mid-game hinge — the Summit-protection mission (aboard Valeria Chateau, guarding
+#   against Odessa's Varukisas) and the Data-Tablets recovery that sends ARMS to Sielje via the Damzen
+#   coal tunnel (Under Traffic). Maps to guide areas Warwing Varukisas (WV) + Tunnel to Sielje (TS).
+# NOTE: lives physically in block 5 (Valeria Chateau hub) even though it launches later missions —
+#   the Chateau throne room hosts these briefings. Sibling blk5 files: library history (830-837),
+#   Argetlahm panels (838-846), King audience. Still untranslated in blk5: Crimson Noble panel
+#   (848-851) + ~120 scattered NPC/King audience lines (recurring hub chatter, low story value).
+# =========================================================================================

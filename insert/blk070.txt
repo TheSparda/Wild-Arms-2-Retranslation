@@ -1,0 +1,144 @@
+# WA2 INSERTION workspace US block 70 (US#7210-7235)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7212] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7359[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7213] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7360[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7214] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7361[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7215] budget=66ch/2ln
+  NOW: up ahead in the old excavation
+          site known as |The Withered Ruins.|
+  JP : JP#7362[HIGH]: 「加<895b>『<8a38>れた奇跡』に / 　戻てこもっているとの情報が入った[10][0c]「これより、ミッションの最終確認を行うッ！
+  FIT: <<TODO — <=66 chars, 2 line(s), <=35/line>>
+
+[US#7216] budget=33ch/2ln
+  NOW: Time for the
+          final mission check!
+  JP : JP#7363[MED]: 「これより、ミッションの最終確認を行うッ！
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#7217] budget=17ch/1ln
+  NOW: What's your name?
+  JP : JP#7364[HIGH]: 「新入りッ！　お前の名はッ！
+  FIT: <<TODO — <=17 chars, 1 line(s), <=35/line>>
+
+[US#7218] budget=37ch/2ln
+  NOW: Don't get in the way,
+          understand, 0?!
+  JP : JP#7365[HIGH]: 「闘の<8921>をひっぱるなよ / 　わかったか、[05]ぉッ！
+  FIT: <<TODO — <=37 chars, 2 line(s), <=35/line>>
+
+[US#7219] budget=56ch/2ln
+  NOW: It's critical to secure
+          the safety of the hostage first.
+  JP : JP#7366[HIGH]: 「すみやかに人<886e>の危険を / 　確<8901>するところにある[10][0c]「奇跡参には / 　多年のモンスターも確認されている / 　<8a3d>
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#7220] budget=79ch/3ln
+  NOW: Numerous monsters have been
+          sighted at the ruins, so don't
+          let your guard down.
+  JP : JP#7367[HIGH]: 「奇跡参には / 　多年のモンスターも確認されている / 　<8a3d>自、気を抜いてかかるなよ[10][0c]「よし、突入開始だッ！
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#7221] budget=21ch/1ln
+  NOW: OK. Let's go. Charge!
+  JP : JP#7368[HIGH]: 「よし、突入開始だッ！
+  FIT: <<TODO — <=21 chars, 1 line(s), <=35/line>>
+
+[US#7222] budget=58ch/3ln
+  NOW: Most likely, the trapped
+          monster was released
+          by accident!
+  JP : JP#7369[HIGH]: 「おそらく、封<8a40>されていたモンスターが / 　何らかの事<8808>で / 　解殺されたのではないかとッ！[10][0c]「最悪なことに / 　モンス
+  FIT: <<TODO — <=58 chars, 3 line(s), <=35/line>>
+
+[US#7223] budget=93ch/3ln
+  NOW: Unfortunately, highly volatile
+          liquid explosives have been found
+          in the monster's secretions.
+  JP : JP#7370[HIGH]: 「最悪なことに / 　モンスターから分兄される体期に / 　揮発性の<8867>い期体<8a43>来も挑出されました[10][0c]「闘長〜 / 　このままでは
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#7224] budget=26ch/2ln
+  NOW: Commander,
+          at this rate...
+  JP : JP#7371[HIGH]: 「闘長〜 / 　このままでは〜
+  FIT: <<TODO — <=26 chars, 2 line(s), <=35/line>>
+
+[US#7225] budget=65ch/2ln
+  NOW: A huge explosion is possible, so
+          we can't handle it above ground.
+  JP : JP#7372[HIGH]: 「<89da>周<8a48>の<8a43>発が考えられる以上 / 　仲理を地上で行うわけにはいかん[10][0c]「<889a><889b>を最小間に訪えるため
+  FIT: <<TODO — <=65 chars, 2 line(s), <=35/line>>
+
+[US#7226] budget=65ch/2ln
+  NOW: To minimize casualties, we must
+          destroy the entire ruins at once.
+  JP : JP#7373[HIGH]: 「<889a><889b>を最小間に訪えるためにも / 　奇跡参で一気に壊滅するッ！[10][0c]「いざという時のために / 　大歩アームのセーフティを解<8
+  FIT: <<TODO — <=65 chars, 2 line(s), <=35/line>>
+
+[US#7227] budget=36ch/2ln
+  NOW: Release the safety on the
+          large ARM.
+  JP : JP#7374[HIGH]: 「いざという時のために / 　大歩アームのセーフティを解<8a4c>しておけ[10][0c]「『リニアレールキャノン』の使用<8a4d><88b5>は / 　僕
+  FIT: <<TODO — <=36 chars, 2 line(s), <=35/line>>
+
+[US#7228] budget=39ch/2ln
+  NOW: I'll authorize the use of the
+          Rail Gun.
+  JP : JP#7375[MED]: 「『リニアレールキャノン』の使用<8a4d><88b5>は / 　僕から出しておく
+  FIT: <<TODO — <=39 chars, 2 line(s), <=35/line>>
+
+[US#7229] budget=45ch/2ln
+  NOW: But we still have
+          soldiers left in the ruins.
+  JP : JP#7376[HIGH]: 「しかし奇跡参には / 　まだ多くの闘幸が残っています[10][0c]「彼ら険幸の待好前に / 　モンスターが外に / 　出てしまうかもしれません[10][0c
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#7230] budget=67ch/3ln
+  NOW: It's possible the monster
+          could escape before
+          all of them evacuate.
+  JP : JP#7377[HIGH]: 「彼ら険幸の待好前に / 　モンスターが外に / 　出てしまうかもしれません[10][0c]「奇跡参で壊滅するためには / 　彼らの待好が間に合いません… / 
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#7231] budget=91ch/3ln
+  NOW: By destroying the ruins, some
+          soldiers won't escape in time.
+          Are you going to let them die?
+  JP : JP#7378[HIGH]: 「奇跡参で壊滅するためには / 　彼らの待好が間に合いません… / 　<f040><f042>彼らを<8812>き込むつもりですかッ！
+  FIT: <<TODO — <=91 chars, 3 line(s), <=35/line>>
+
+[US#7232] budget=30ch/1ln
+  NOW: I'll take full responsibility.
+  JP : JP#7379[HIGH]: 「恥任は、僕が持つ
+  FIT: <<TODO — <=30 chars, 1 line(s), <=35/line>>
+
+[US#7234] budget=31ch/1ln
+  NOW: I am prepared for my reprimand.
+  JP : JP#7381[HIGH]: 「〜信遠はできています
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#7235] budget=93ch/3ln
+  NOW: Your punishment for this
+          incident will be forthcoming! Until
+          then, you're under house-arrest!
+  JP : JP#7382[MED]: 「今回の<8854>の仲<8a52>については / 　おってくだされるッ！ / 　それまでは自<8a53>勉<8a55>だッ！　いいかッ！
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>

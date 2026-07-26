@@ -1,0 +1,568 @@
+# WA2 4-col translation doc block 52 (JP#6548-6620)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 58 boxes | OK=17 FAIR=16 SHAKY=25 JP-ONLY=0
+# DRAFT STATUS: 58 boxes | OK=12 FAIR=16 SHAKY=30 JP-ONLY=0
+
+[JP#6550] gaps=0  aln=HIGH->US#6412  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#6551] gaps=2  aln=HIGH->US#6413  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#6552] gaps=0  aln=HIGH->US#6414  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#6553] gaps=6  aln=HIGH->US#6415  CONF=SHAKY unsolved=6  CONF=FAIR unsolved=2
+  1|JP : ＊ローラーダッシュは[0b]おを泣すことで / 　片から押けるダメージなどを無<8a38>にして / 　<8867><8a04>移動することができます[10][0c]＊ただし一度作動させると / 　なにかに<8a39>突するまで<892b>行方向を変えたり / 　<8996>止することは出仲ません
+  2|LIT: <<TODO>>
+  3|EN : *Press 1 to use the Rad Blades to
+ erase any damage you receive from
+ the ground and allow rapid motion.*Once used, you cannot change
+ direction or stop until you've
+ made contact with something.
+  4|RE : <<TODO>>
+
+[JP#6554] gaps=3  aln=HIGH->US#6416  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : ＊ただし一度作動させると / 　なにかに<8a39>突するまで<892b>行方向を変えたり / 　<8996>止することは出仲ません
+  2|LIT: <<TODO>>
+  3|EN : *Once used, you cannot change
+ direction or stop until you've
+ made contact with something.
+  4|RE : <<TODO>>
+
+[JP#6556] gaps=4  aln=HIGH->US#6418  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : ＞ヨウコソ、助昔ノ歩ヲ招ク者ヨ / 　ココハ、アナタノ歩ヨリ / 　<89bb>リシ<8937><89f1>ヲ呼ビ信マス<89c8>
+  2|LIT: <<TODO>>
+  3|EN : >WELCOME, YOU WITH MAGESS
+ BLOOD. THIS IS WHERE YOUR
+ SLEEPING MEMORY WILL WAKE.
+  4|RE : <<TODO>>
+
+[JP#6558] gaps=2  aln=MED->US#6420  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : ＞ココヨリ先ノ<892b>入ヲ<8a40>止シマス
+  2|LIT: <<TODO>>
+  3|EN : >ENTRY BEYOND THIS POINT
+ IS PROHIBITED.
+  4|RE : <<TODO>>
+
+[JP#6559] gaps=0  aln=HIGH->US#6421  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「お来には〜 / 　ううん / 　どこにもあたしの挑場所なんて無いの
+  2|LIT: <<TODO>>
+  3|EN : @At my house...
+ Hm....
+ There's no place for me.
+  4|RE : <<TODO>>
+
+[JP#6560] gaps=0  aln=HIGH->US#6422  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「だいじょうぶだ
+  2|LIT: <<TODO>>
+  3|EN : @It'll be fine.
+  4|RE : <<TODO>>
+
+[JP#6561] gaps=0  aln=HIGH->US#6423  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「今はどんな戦らしをしていようと / 　わたしたちには / 　＜周の助昔＞の歩が流れているんだよ〜
+  2|LIT: <<TODO>>
+  3|EN : @Regardless of the kind of
+ life you're living, we have the
+ blood of the <Sword Magess>.
+  4|RE : <<TODO>>
+
+[JP#6562] gaps=3  aln=HIGH->US#6424  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「ヴァレリア来の<8a48>流とはいえ〜 / 　落ちぶれたとはいえ、ベルナデット来も / 　＜周の助昔＞の仲間〜[10][0c]「この身に流れる歩の訪をたてられれば / 　<8a4c><8a4d>の生好ができるんだよ
+  2|LIT: <<TODO>>
+  3|EN : @Descended from the <Sword Magess>
+ and related to the Valerias, the
+ Bernadettes are having hard times.@If I can provide proof of
+ the blood in me, I can
+ live the life of nobility.
+  4|RE : <<TODO>>
+
+[JP#6563] gaps=2  aln=MED->US#6425  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「この身に流れる歩の訪をたてられれば / 　<8a4c><8a4d>の生好ができるんだよ
+  2|LIT: <<TODO>>
+  3|EN : @If I can provide proof of
+ the blood in me, I can
+ live the life of nobility.
+  4|RE : <<TODO>>
+
+[JP#6565] gaps=2  aln=MED->US#6427  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「この身に / 　＜周の助昔＞の歩が流れているならば / 　その『<8937><89f1>』を呼び信ましてくれッ！
+  2|LIT: <<TODO>>
+  3|EN : @If I have the blood of the
+ <Sword Magess> in me,
+ then awaken that |memory.|
+  4|RE : <<TODO>>
+
+[JP#6566] gaps=2  aln=MED->US#6428  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ロードブレイザーに関する<8937><89f1>は / 　必ず呼び信ましてみせる[10][0c]「お前はその時に / 　あたしに負られないよう / 　用心しておくがいい
+  2|LIT: <<TODO>>
+  3|EN : @I will awaken memories
+ regarding Lord Blazer.@Be careful you don't get
+ killed by me then.
+  4|RE : <<TODO>>
+
+[JP#6567] gaps=0  aln=MED->US#6429  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「お前はその時に / 　あたしに負られないよう / 　用心しておくがいい
+  2|LIT: <<TODO>>
+  3|EN : @Be careful you don't get
+ killed by me then.
+  4|RE : <<TODO>>
+
+[JP#6568] gaps=3  aln=HIGH->US#6430  CONF=SHAKY unsolved=3  CONF=OK unsolved=0
+  1|JP : 「遠った〜 / 　遠ったんだよね〜 / 　そして、あたしは生き残っている〜[10][0c]「モンスターを<8a52>っていけば / 　あたしは『<8a53>勉』になれるんだ[10][0c]「身体に流れる＜助昔＞の歩に / 　ふさわしい『<8a53>勉』に / 　なれるんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @They were killed.
+ They were killed, right?
+ And I survived.@If I exorcise the monsters,
+ I can become a |hero.|@I can become a |hero,|
+ fitting to the blood of the
+ <Sword Magess> flowing in me.
+  4|RE : <<TODO>>
+
+[JP#6569] gaps=3  aln=HIGH->US#6431  CONF=SHAKY unsolved=3  CONF=OK unsolved=0
+  1|JP : 「モンスターを<8a52>っていけば / 　あたしは『<8a53>勉』になれるんだ[10][0c]「身体に流れる＜助昔＞の歩に / 　ふさわしい『<8a53>勉』に / 　なれるんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @If I exorcise the monsters,
+ I can become a |hero.|@I can become a |hero,|
+ fitting to the blood of the
+ <Sword Magess> flowing in me.
+  4|RE : <<TODO>>
+
+[JP#6570] gaps=1  aln=HIGH->US#6432  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「身体に流れる＜助昔＞の歩に / 　ふさわしい『<8a53>勉』に / 　なれるんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @I can become a |hero,|
+ fitting to the blood of the
+ <Sword Magess> flowing in me.
+  4|RE : <<TODO>>
+
+[JP#6571] gaps=3  aln=HIGH->US#6433  CONF=SHAKY unsolved=3  CONF=OK unsolved=0
+  1|JP : 「身体のあちこちも動かない〜 / 　いいや〜 / 　<8a0f>手や<8a0f><8921>で何とかなる[10][0c]「そうだ / 　貸みを知らない身体に生まれかわろう[10][0c]「身体も、名前も〜 / 　今までのあたしは / 　険字恥ててしまおう〜
+  2|LIT: <<TODO>>
+  3|EN : @Parts of my body won't move.
+ But...I can manage with
+ an artificial arm and leg.@I got it. I'll get reborn into
+ a body that knows no pain.@My body and my name...
+ I will throw away my
+ old self.
+  4|RE : <<TODO>>
+
+[JP#6572] gaps=0  aln=HIGH->US#6434  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「そうだ / 　貸みを知らない身体に生まれかわろう[10][0c]「身体も、名前も〜 / 　今までのあたしは / 　険字恥ててしまおう〜
+  2|LIT: <<TODO>>
+  3|EN : @I got it. I'll get reborn into
+ a body that knows no pain.@My body and my name...
+ I will throw away my
+ old self.
+  4|RE : <<TODO>>
+
+[JP#6573] gaps=0  aln=HIGH->US#6435  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「身体も、名前も〜 / 　今までのあたしは / 　険字恥ててしまおう〜
+  2|LIT: <<TODO>>
+  3|EN : @My body and my name...
+ I will throw away my
+ old self.
+  4|RE : <<TODO>>
+
+[JP#6574] gaps=1  aln=HIGH->US#6436  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「これが、あたしだ / 　<8a57>奮はしない〜 / 　すべて事実〜[10][0c]「だがッ！ / 　この身に流れる＜助昔＞の歩も / 　また事実ッ！
+  2|LIT: <<TODO>>
+  3|EN : @This is me.
+ I won't deny it.
+ It's a fact.@But!
+ The <Sword Magess> blood
+ in my body is a fact too.
+  4|RE : <<TODO>>
+
+[JP#6575] gaps=0  aln=HIGH->US#6437  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「だがッ！ / 　この身に流れる＜助昔＞の歩も / 　また事実ッ！
+  2|LIT: <<TODO>>
+  3|EN : @But!
+ The <Sword Magess> blood
+ in my body is a fact too.
+  4|RE : <<TODO>>
+
+[JP#6576] gaps=5  aln=HIGH->US#6438  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「<f040><f042>誓<8810>無い〜[10][0c]「だが、あたしの参に呼び信ましたぞ〜 / 　＜周の助昔＞の<8937><89f1>を〜
+  2|LIT: <<TODO>>
+  3|EN : @No problem.@It's been awakened in me,
+ the memory of the
+ <Sword Magess>.
+  4|RE : <<TODO>>
+
+[JP#6577] gaps=2  aln=MED->US#6439  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「だが、あたしの参に呼び信ましたぞ〜 / 　＜周の助昔＞の<8937><89f1>を〜
+  2|LIT: <<TODO>>
+  3|EN : @It's been awakened in me,
+ the memory of the
+ <Sword Magess>.
+  4|RE : <<TODO>>
+
+[JP#6578] gaps=13  aln=MED->US#6440  CONF=SHAKY unsolved=13  CONF=SHAKY unsolved=13
+  1|JP : [13]助昔の手にしたガーディアンブレード / [13]『アガートラーム』についてであった〜[10][0c][13]『未仲』を望るガーディアンの / [13]身体の一字より生まれし周 / [13]アガートラーム〜[10][0c][13]<8a59>るう者の意<8a5a>を戦う力に<88fb>える / [13]ある復の<88ea><8a5c>信<8839>同茶[10][0c][13]その圧倒的な力は / [13]使用者の<88ea><8a5c>を飛らい、限むため / [13]強守な<88ea><8a5c>力を作する者を選ぶという[10][0c][13][05]くは / [13]人の持つ最も大きな意<8a5a>の力 / [13]『<8a61>延』をもって / [13]ガーディアンブレード・アガートラームを / [13]<8a59>るったのである
+  2|LIT: <<TODO>>
+  3|EN : ...were of the Guardian Blade,
+the |Argetlahm| in
+the hands of the goddess.From the |Future| rulers,
+the Guardian's body was born
+the sword, the Argetlahm.The sword is a type of spirit
+response weapon that changes
+the user's will to battle strength.The oppressive power consumes
+the user's spirit, so one with
+a strong spirit is chosen.6 plied the Guardian Blade,
+Argetlahm, wi
+  4|RE : <<TODO>>
+
+[JP#6579] gaps=13  aln=MED->US#6440  CONF=SHAKY unsolved=13  CONF=SHAKY unsolved=13
+  1|JP : [13]『未仲』を望るガーディアンの / [13]身体の一字より生まれし周 / [13]アガートラーム〜[10][0c][13]<8a59>るう者の意<8a5a>を戦う力に<88fb>える / [13]ある復の<88ea><8a5c>信<8839>同茶[10][0c][13]その圧倒的な力は / [13]使用者の<88ea><8a5c>を飛らい、限むため / [13]強守な<88ea><8a5c>力を作する者を選ぶという[10][0c][13][05]くは / [13]人の持つ最も大きな意<8a5a>の力 / [13]『<8a61>延』をもって / [13]ガーディアンブレード・アガートラームを / [13]<8a59>るったのである
+  2|LIT: <<TODO>>
+  3|EN : ...were of the Guardian Blade,
+the |Argetlahm| in
+the hands of the goddess.From the |Future| rulers,
+the Guardian's body was born
+the sword, the Argetlahm.The sword is a type of spirit
+response weapon that changes
+the user's will to battle strength.The oppressive power consumes
+the user's spirit, so one with
+a strong spirit is chosen.6 plied the Guardian Blade,
+Argetlahm, wi
+  4|RE : <<TODO>>
+
+[JP#6580] gaps=13  aln=MED->US#6441  CONF=SHAKY unsolved=13  CONF=SHAKY unsolved=13
+  1|JP : [13]<8a59>るう者の意<8a5a>を戦う力に<88fb>える / [13]ある復の<88ea><8a5c>信<8839>同茶[10][0c][13]その圧倒的な力は / [13]使用者の<88ea><8a5c>を飛らい、限むため / [13]強守な<88ea><8a5c>力を作する者を選ぶという[10][0c][13][05]くは / [13]人の持つ最も大きな意<8a5a>の力 / [13]『<8a61>延』をもって / [13]ガーディアンブレード・アガートラームを / [13]<8a59>るったのである
+  2|LIT: <<TODO>>
+  3|EN : From the |Future| rulers,
+the Guardian's body was born
+the sword, the Argetlahm.The sword is a type of spirit
+response weapon that changes
+the user's will to battle strength.The oppressive power consumes
+the user's spirit, so one with
+a strong spirit is chosen.6 plied the Guardian Blade,
+Argetlahm, with the strongest
+of human wills, |desire.|
+  4|RE : <<TODO>>
+
+[JP#6581] gaps=7  aln=MED->US#6441  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : [13]その圧倒的な力は / [13]使用者の<88ea><8a5c>を飛らい、限むため / [13]強守な<88ea><8a5c>力を作する者を選ぶという[10][0c][13][05]くは / [13]人の持つ最も大きな意<8a5a>の力 / [13]『<8a61>延』をもって / [13]ガーディアンブレード・アガートラームを / [13]<8a59>るったのである
+  2|LIT: <<TODO>>
+  3|EN : From the |Future| rulers,
+the Guardian's body was born
+the sword, the Argetlahm.The sword is a type of spirit
+response weapon that changes
+the user's will to battle strength.The oppressive power consumes
+the user's spirit, so one with
+a strong spirit is chosen.6 plied the Guardian Blade,
+Argetlahm, with the strongest
+of human wills, |desire.|
+  4|RE : <<TODO>>
+
+[JP#6582] gaps=3  aln=MED->US#6442  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : [13][05]くは / [13]人の持つ最も大きな意<8a5a>の力 / [13]『<8a61>延』をもって / [13]ガーディアンブレード・アガートラームを / [13]<8a59>るったのである
+  2|LIT: <<TODO>>
+  3|EN : The sword is a type of spirit
+response weapon that changes
+the user's will to battle strength.The oppressive power consumes
+the user's spirit, so one with
+a strong spirit is chosen.6 plied the Guardian Blade,
+Argetlahm, with the strongest
+of human wills, |desire.|
+  4|RE : <<TODO>>
+
+[JP#6587] gaps=0  aln=HIGH->US#6449  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「心配かけたな
+  2|LIT: <<TODO>>
+  3|EN : @Sorry to have worried you.
+  4|RE : <<TODO>>
+
+[JP#6592] gaps=23  aln=HIGH->US#6454  CONF=SHAKY unsolved=19  CONF=SHAKY unsolved=18
+  1|JP : [13]<8995>かな過<8a65>において / [13]ファルガイアを男き<8a67>くさんとした魂の頼<8a6a> / [13]『ロードブレイザー』についてであった[10][0c][13]<8a6b><8868>の勇緊を意のままに<8a6d>る / [13]魔<8a5c>ロードブレイザー〜 / [13]人の持つ、友りや苦しみ / [13]あらゆる乗の信情を取り込んで無姿<8a71>大する / [13]『<8a5c>』と<895b>される<8a72>（わざわい）のひとつ[10][0c][13]勇緊を<8a59>るうたびに / [13]基の友りと、<8a74>の苦しみを生み出し / [13]それを取り込むことで / [13]さらなる<8a75>協へと幻<8a77>していくという[10][0c][13]歩勝を備えし者は / [13]歩勝を飛らい、カタチ為していくのに対し / [13]信情を飛らいし者は / [13]信情<f040><f042>　すなわち『心』をもって / [13]カタチを為していく[10][0c][13]そして、そのカタチを<8a79>くのは同<886e>の存帰<f040><f042>[10][0c][13]物<886e>にてカタチ
+  2|LIT: <<TODO>>
+  3|EN : ...was about the far distant past
+when Filgaia was burned by the
+Blaze of Disaster, |Lord Blazer.|The Demon, Lord Blazer who plies the
+scorching hell fire by thought,
+takes in all the wrath, sorrow and
+negative feelings of people and
+grows fat as a curse called |God.|Each time the hell fire is waved,
+100 wraths, and 1000 sorrows are
+born surpassing a new threshold.Those possessin
+  4|RE : <<TODO>>
+
+[JP#6593] gaps=27  aln=HIGH->US#6455  CONF=SHAKY unsolved=21  CONF=SHAKY unsolved=20
+  1|JP : [13]<8a6b><8868>の勇緊を意のままに<8a6d>る / [13]魔<8a5c>ロードブレイザー〜 / [13]人の持つ、友りや苦しみ / [13]あらゆる乗の信情を取り込んで無姿<8a71>大する / [13]『<8a5c>』と<895b>される<8a72>（わざわい）のひとつ[10][0c][13]勇緊を<8a59>るうたびに / [13]基の友りと、<8a74>の苦しみを生み出し / [13]それを取り込むことで / [13]さらなる<8a75>協へと幻<8a77>していくという[10][0c][13]歩勝を備えし者は / [13]歩勝を飛らい、カタチ為していくのに対し / [13]信情を飛らいし者は / [13]信情<f040><f042>　すなわち『心』をもって / [13]カタチを為していく[10][0c][13]そして、そのカタチを<8a79>くのは同<886e>の存帰<f040><f042>[10][0c][13]物<886e>にてカタチ為す者には、同じく物<886e>にて / [13]<88ea><8a5c>にてカタチ為す者には、やはり<f040><f042> / [13]『<88ea><8a5c>の<8a7a>』にて負りつけるし
+  2|LIT: <<TODO>>
+  3|EN : The Demon, Lord Blazer who plies the
+scorching hell fire by thought,
+takes in all the wrath, sorrow and
+negative feelings of people and
+grows fat as a curse called |God.|Each time the hell fire is waved,
+100 wraths, and 1000 sorrows are
+born surpassing a new threshold.Those possessing flesh and blood,
+consume flesh and blood to come
+into being. Those who consume
+emotions, in other 
+  4|RE : <<TODO>>
+
+[JP#6594] gaps=20  aln=MED->US#6456  CONF=SHAKY unsolved=14  CONF=SHAKY unsolved=14
+  1|JP : [13]勇緊を<8a59>るうたびに / [13]基の友りと、<8a74>の苦しみを生み出し / [13]それを取り込むことで / [13]さらなる<8a75>協へと幻<8a77>していくという[10][0c][13]歩勝を備えし者は / [13]歩勝を飛らい、カタチ為していくのに対し / [13]信情を飛らいし者は / [13]信情<f040><f042>　すなわち『心』をもって / [13]カタチを為していく[10][0c][13]そして、そのカタチを<8a79>くのは同<886e>の存帰<f040><f042>[10][0c][13]物<886e>にてカタチ為す者には、同じく物<886e>にて / [13]<88ea><8a5c>にてカタチ為す者には、やはり<f040><f042> / [13]『<88ea><8a5c>の<8a7a>』にて負りつけるしかない[10][0c][13]『アガートラーム』によって / [13]ロードブレイザーを英ち倒すことができたのは / [13]雄者が同<886e>の存帰であるからなのだ
+  2|LIT: <<TODO>>
+  3|EN : Each time the hell fire is waved,
+100 wraths, and 1000 sorrows are
+born surpassing a new threshold.Those possessing flesh and blood,
+consume flesh and blood to come
+into being. Those who consume
+emotions, in other words,
+|hearts,| take shape that way.They destroy beings of
+similar substance.Physical forms taken by spirits and
+forms of similar substance also need
+to be cut by the
+  4|RE : <<TODO>>
+
+[JP#6595] gaps=16  aln=MED->US#6457  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=10
+  1|JP : [13]歩勝を備えし者は / [13]歩勝を飛らい、カタチ為していくのに対し / [13]信情を飛らいし者は / [13]信情<f040><f042>　すなわち『心』をもって / [13]カタチを為していく[10][0c][13]そして、そのカタチを<8a79>くのは同<886e>の存帰<f040><f042>[10][0c][13]物<886e>にてカタチ為す者には、同じく物<886e>にて / [13]<88ea><8a5c>にてカタチ為す者には、やはり<f040><f042> / [13]『<88ea><8a5c>の<8a7a>』にて負りつけるしかない[10][0c][13]『アガートラーム』によって / [13]ロードブレイザーを英ち倒すことができたのは / [13]雄者が同<886e>の存帰であるからなのだ
+  2|LIT: <<TODO>>
+  3|EN : Those possessing flesh and blood,
+consume flesh and blood to come
+into being. Those who consume
+emotions, in other words,
+|hearts,| take shape that way.They destroy beings of
+similar substance.Physical forms taken by spirits and
+forms of similar substance also need
+to be cut by the |Spirit's Blade.|The |Argetlahm| could destroy
+Lord Blazer because both were
+beings of similar sub
+  4|RE : <<TODO>>
+
+[JP#6596] gaps=14  aln=MED->US#6458  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=10
+  1|JP : [13]そして、そのカタチを<8a79>くのは同<886e>の存帰<f040><f042>[10][0c][13]物<886e>にてカタチ為す者には、同じく物<886e>にて / [13]<88ea><8a5c>にてカタチ為す者には、やはり<f040><f042> / [13]『<88ea><8a5c>の<8a7a>』にて負りつけるしかない[10][0c][13]『アガートラーム』によって / [13]ロードブレイザーを英ち倒すことができたのは / [13]雄者が同<886e>の存帰であるからなのだ
+  2|LIT: <<TODO>>
+  3|EN : They destroy beings of
+similar substance.Physical forms taken by spirits and
+forms of similar substance also need
+to be cut by the |Spirit's Blade.|The |Argetlahm| could destroy
+Lord Blazer because both were
+beings of similar substance.
+  4|RE : <<TODO>>
+
+[JP#6597] gaps=10  aln=HIGH->US#6459  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : [13]物<886e>にてカタチ為す者には、同じく物<886e>にて / [13]<88ea><8a5c>にてカタチ為す者には、やはり<f040><f042> / [13]『<88ea><8a5c>の<8a7a>』にて負りつけるしかない[10][0c][13]『アガートラーム』によって / [13]ロードブレイザーを英ち倒すことができたのは / [13]雄者が同<886e>の存帰であるからなのだ
+  2|LIT: <<TODO>>
+  3|EN : Physical forms taken by spirits and
+forms of similar substance also need
+to be cut by the |Spirit's Blade.|The |Argetlahm| could destroy
+Lord Blazer because both were
+beings of similar substance.
+  4|RE : <<TODO>>
+
+[JP#6598] gaps=1  aln=HIGH->US#6460  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : [13]『アガートラーム』によって / [13]ロードブレイザーを英ち倒すことができたのは / [13]雄者が同<886e>の存帰であるからなのだ
+  2|LIT: <<TODO>>
+  3|EN : The |Argetlahm| could destroy
+Lord Blazer because both were
+beings of similar substance.
+  4|RE : <<TODO>>
+
+[JP#6599] gaps=6  aln=HIGH->US#6461  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「お前が、その身に / 　ロードブレイザーを<8a7d>ませて / 　制<89c7>しているもの〜[10][0c]「ロードブレイザーと共に帰ることで / 　アガートラームを取り込んだのも / 　すべては〜[10][0c]「お前の<88ea><8a5c><f040><f042> / 　すなわち『心』によるものだったのだ
+  2|LIT: <<TODO>>
+  3|EN : @Concealed in you
+ and controlled by you
+ is Lord Blazer.@By living with Lord Blazer
+ you were able to take on the
+ Argetlahm which was all...@...dependent on your spirit,
+ in other words, |heart.|
+  4|RE : <<TODO>>
+
+[JP#6600] gaps=4  aln=HIGH->US#6462  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ロードブレイザーと共に帰ることで / 　アガートラームを取り込んだのも / 　すべては〜[10][0c]「お前の<88ea><8a5c><f040><f042> / 　すなわち『心』によるものだったのだ
+  2|LIT: <<TODO>>
+  3|EN : @By living with Lord Blazer
+ you were able to take on the
+ Argetlahm which was all...@...dependent on your spirit,
+ in other words, |heart.|
+  4|RE : <<TODO>>
+
+[JP#6601] gaps=4  aln=HIGH->US#6463  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「お前の<88ea><8a5c><f040><f042> / 　すなわち『心』によるものだったのだ
+  2|LIT: <<TODO>>
+  3|EN : @...dependent on your spirit,
+ in other words, |heart.|
+  4|RE : <<TODO>>
+
+[JP#6602] gaps=0  aln=HIGH->US#6464  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「実信がわかないな / 　どこか、ハッキリしない〜 / 　頼りない信信だ
+  2|LIT: <<TODO>>
+  3|EN : @I can't feel it.
+ It's not at all clear.
+ It's only a vague sensation.
+  4|RE : <<TODO>>
+
+[JP#6603] gaps=7  aln=HIGH->US#6465  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「それだけに / 　いつ<8a7f><8a80>が崩れて / 　制<89c7>できない状況に<8a81>るかもしれぬ[10][0c]「世界を<8832>う力と / 　世界を男き<8a67>くす力〜[10][0c]「どちらにせよ / 　お前は圧倒的な力の上を / 　<8a82>渡りしているのだ[10][0c]「この事を忘れるな〜
+  2|LIT: <<TODO>>
+  3|EN : @But the equilibrium could
+ collapse anytime and lapse
+ into an uncontrollable situation.@The power to save the world and
+ the power to destroy the world...@Either way,
+ you're on a tightrope between
+ two overwhelming powers.@Don't ever forget this.
+  4|RE : <<TODO>>
+
+[JP#6604] gaps=3  aln=HIGH->US#6466  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「世界を<8832>う力と / 　世界を男き<8a67>くす力〜[10][0c]「どちらにせよ / 　お前は圧倒的な力の上を / 　<8a82>渡りしているのだ[10][0c]「この事を忘れるな〜
+  2|LIT: <<TODO>>
+  3|EN : @The power to save the world and
+ the power to destroy the world...@Either way,
+ you're on a tightrope between
+ two overwhelming powers.@Don't ever forget this.
+  4|RE : <<TODO>>
+
+[JP#6605] gaps=1  aln=HIGH->US#6467  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「どちらにせよ / 　お前は圧倒的な力の上を / 　<8a82>渡りしているのだ[10][0c]「この事を忘れるな〜
+  2|LIT: <<TODO>>
+  3|EN : @Either way,
+ you're on a tightrope between
+ two overwhelming powers.@Don't ever forget this.
+  4|RE : <<TODO>>
+
+[JP#6606] gaps=0  aln=HIGH->US#6468  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「この事を忘れるな〜
+  2|LIT: <<TODO>>
+  3|EN : @Don't ever forget this.
+  4|RE : <<TODO>>
+
+[JP#6607] gaps=4  aln=HIGH->US#6469  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「今までの<8a85>念が / 　ようやく<8a86>れたのだ[10][0c]「この身に＜助昔＞の歩が流れていることを / 　ようやく確信が持てたのだ〜[10][0c]「たのむ、あと少し〜 / 　この身が<8a79>けようとも / 　『<8a53>勉』として死ねるなら〜
+  2|LIT: <<TODO>>
+  3|EN : @The suspicions have
+ finally been cleared.@I'm now confident that
+ the blood of the <Sword
+ Magess> flows within me.@Please, a little more...
+ I'd rid this body,
+ if I could die a |hero.|
+  4|RE : <<TODO>>
+
+[JP#6608] gaps=2  aln=MED->US#6470  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「この身に＜助昔＞の歩が流れていることを / 　ようやく確信が持てたのだ〜[10][0c]「たのむ、あと少し〜 / 　この身が<8a79>けようとも / 　『<8a53>勉』として死ねるなら〜
+  2|LIT: <<TODO>>
+  3|EN : @I'm now confident that
+ the blood of the <Sword
+ Magess> flows within me.@Please, a little more...
+ I'd rid this body,
+ if I could die a |hero.|
+  4|RE : <<TODO>>
+
+[JP#6609] gaps=2  aln=MED->US#6473  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「たのむ、あと少し〜 / 　この身が<8a79>けようとも / 　『<8a53>勉』として死ねるなら〜
+  2|LIT: <<TODO>>
+  3|EN : The reason 6
+couldn't completely destroy
+Lord Blazer, ironically, is
+due to the |humans| from
+the world one was to protect.Negative feelings will
+end the world of humans.No matter how much 6
+brandished the power of his spirit,
+with only one person's |heart,|
+in the face of Lord Blazer's
+rebirth, it was a wasted effort.As a last resort, 6, in
+exchange for her life, trapped
+L
+  4|RE : <<TODO>>
+
+[JP#6610] gaps=20  aln=MED->US#6474  CONF=SHAKY unsolved=20  CONF=SHAKY unsolved=20
+  1|JP : [13]人の世界を男き<8a67>くさんとする / [13]魂の頼<8a6a>、ロードブレイザー〜[10][0c][13][05]くが / [13]ロードブレイザーを / [13]<88ad>険に滅することがかなわなかったのは / [13]<8a87>勝にも、<8a88>るべき世界に安まう / [13]『人』によるものであった[10][0c][13]人の世界に<8a67>きぬは、乗の信情[10][0c][13]いかに[05]くが / [13]強大な<88ea><8a5c>の力を<8a59>るおうとも / [13]ひとりの『心』では / [13]ロードブレイザーの暮生の前に / [13]<8a8b><8931>と終るのであった[10][0c][13]最後の手<8a8c>として / [13][05]くは、その命を招き<88fb>えに / [13]ロードブレイザーを事<8a8d>の地<8a8e>に封じ / [13]活うじてファルガイアを<8a88>り抜く[10][0c][13]だが、それは / [13]乗の信情が<8a67>きぬ以上 / [13]封集の<8a91><8a92>を解いてロードブレイザーが / [13]いつ<8a93>好するとも姿らぬ / [13]不危奮な未
+  2|LIT: <<TODO>>
+  3|EN : Negative feelings will
+end the world of humans.No matter how much 6
+brandished the power of his spirit,
+with only one person's |heart,|
+in the face of Lord Blazer's
+rebirth, it was a wasted effort.As a last resort, 6, in
+exchange for her life, trapped
+Lord Blazer behind the event
+horizon to protect Filgaia.But, as long as negative feelings
+continue, the chains that bind
+could
+  4|RE : <<TODO>>
+
+[JP#6611] gaps=18  aln=MED->US#6475  CONF=SHAKY unsolved=18  CONF=SHAKY unsolved=18
+  1|JP : [13][05]くが / [13]ロードブレイザーを / [13]<88ad>険に滅することがかなわなかったのは / [13]<8a87>勝にも、<8a88>るべき世界に安まう / [13]『人』によるものであった[10][0c][13]人の世界に<8a67>きぬは、乗の信情[10][0c][13]いかに[05]くが / [13]強大な<88ea><8a5c>の力を<8a59>るおうとも / [13]ひとりの『心』では / [13]ロードブレイザーの暮生の前に / [13]<8a8b><8931>と終るのであった[10][0c][13]最後の手<8a8c>として / [13][05]くは、その命を招き<88fb>えに / [13]ロードブレイザーを事<8a8d>の地<8a8e>に封じ / [13]活うじてファルガイアを<8a88>り抜く[10][0c][13]だが、それは / [13]乗の信情が<8a67>きぬ以上 / [13]封集の<8a91><8a92>を解いてロードブレイザーが / [13]いつ<8a93>好するとも姿らぬ / [13]不危奮な未仲の始まりでもあったのだ
+  2|LIT: <<TODO>>
+  3|EN : No matter how much 6
+brandished the power of his spirit,
+with only one person's |heart,|
+in the face of Lord Blazer's
+rebirth, it was a wasted effort.As a last resort, 6, in
+exchange for her life, trapped
+Lord Blazer behind the event
+horizon to protect Filgaia.But, as long as negative feelings
+continue, the chains that bind
+could be released and Lord Blazer
+could revive, leading
+  4|RE : <<TODO>>
+
+[JP#6612] gaps=15  aln=MED->US#6476  CONF=SHAKY unsolved=15  CONF=SHAKY unsolved=15
+  1|JP : [13]人の世界に<8a67>きぬは、乗の信情[10][0c][13]いかに[05]くが / [13]強大な<88ea><8a5c>の力を<8a59>るおうとも / [13]ひとりの『心』では / [13]ロードブレイザーの暮生の前に / [13]<8a8b><8931>と終るのであった[10][0c][13]最後の手<8a8c>として / [13][05]くは、その命を招き<88fb>えに / [13]ロードブレイザーを事<8a8d>の地<8a8e>に封じ / [13]活うじてファルガイアを<8a88>り抜く[10][0c][13]だが、それは / [13]乗の信情が<8a67>きぬ以上 / [13]封集の<8a91><8a92>を解いてロードブレイザーが / [13]いつ<8a93>好するとも姿らぬ / [13]不危奮な未仲の始まりでもあったのだ
+  2|LIT: <<TODO>>
+  3|EN : As a last resort, 6, in
+exchange for her life, trapped
+Lord Blazer behind the event
+horizon to protect Filgaia.But, as long as negative feelings
+continue, the chains that bind
+could be released and Lord Blazer
+could revive, leading to a
+future of uncertainty.
+  4|RE : <<TODO>>
+
+[JP#6613] gaps=14  aln=MED->US#6481  CONF=SHAKY unsolved=14  CONF=SHAKY unsolved=14
+  1|JP : [13]いかに[05]くが / [13]強大な<88ea><8a5c>の力を<8a59>るおうとも / [13]ひとりの『心』では / [13]ロードブレイザーの暮生の前に / [13]<8a8b><8931>と終るのであった[10][0c][13]最後の手<8a8c>として / [13][05]くは、その命を招き<88fb>えに / [13]ロードブレイザーを事<8a8d>の地<8a8e>に封じ / [13]活うじてファルガイアを<8a88>り抜く[10][0c][13]だが、それは / [13]乗の信情が<8a67>きぬ以上 / [13]封集の<8a91><8a92>を解いてロードブレイザーが / [13]いつ<8a93>好するとも姿らぬ / [13]不危奮な未仲の始まりでもあったのだ
+  2|LIT: <<TODO>>
+  3|EN : @I wonder what it is?
+ I'm worried.
+  4|RE : <<TODO>>
+
+[JP#6614] gaps=9  aln=MED->US#6482  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=9
+  1|JP : [13]最後の手<8a8c>として / [13][05]くは、その命を招き<88fb>えに / [13]ロードブレイザーを事<8a8d>の地<8a8e>に封じ / [13]活うじてファルガイアを<8a88>り抜く[10][0c][13]だが、それは / [13]乗の信情が<8a67>きぬ以上 / [13]封集の<8a91><8a92>を解いてロードブレイザーが / [13]いつ<8a93>好するとも姿らぬ / [13]不危奮な未仲の始まりでもあったのだ
+  2|LIT: <<TODO>>
+  3|EN : @We need to check every nook
+ and cranny of the ruins.
+  4|RE : <<TODO>>
+
+[JP#6615] gaps=4  aln=MED->US#6482  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : [13]だが、それは / [13]乗の信情が<8a67>きぬ以上 / [13]封集の<8a91><8a92>を解いてロードブレイザーが / [13]いつ<8a93>好するとも姿らぬ / [13]不危奮な未仲の始まりでもあったのだ
+  2|LIT: <<TODO>>
+  3|EN : @We need to check every nook
+ and cranny of the ruins.
+  4|RE : <<TODO>>
+
+[JP#6617] gaps=7  aln=MED->US#6483  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「いや、事<8a8d>の地<8a8e>より出でて / 　お前の身に<8a7d>んでいること自体が / 　<8a93>好の<88f9>一<8a8c><8a75>であろう〜
+  2|LIT: <<TODO>>
+  3|EN : @I can't leave the ruins yet!
+  4|RE : <<TODO>>
+
+[JP#6618] gaps=0  aln=MED->US#6483  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「俺の中で / 　何かが大きく珍けたんだ〜 / 　あれがそうならば〜
+  2|LIT: <<TODO>>
+  3|EN : @I can't leave the ruins yet!
+  4|RE : <<TODO>>
+
+[JP#6619] gaps=1  aln=MED->US#6483  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「まだ、この奇跡を / 　戻ち<8a65>るわけには行かないッ！
+  2|LIT: <<TODO>>
+  3|EN : @I can't leave the ruins yet!
+  4|RE : <<TODO>>

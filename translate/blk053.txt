@@ -1,0 +1,348 @@
+# WA2 4-col translation doc block 53 (JP#6621-6675)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 42 boxes | OK=8 FAIR=29 SHAKY=5 JP-ONLY=0
+# DRAFT STATUS: 42 boxes | OK=8 FAIR=27 SHAKY=7 JP-ONLY=0
+
+[JP#6631] gaps=0  aln=MED->US#6499  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *The item provides
+ new ammunition
+ for the bayonet.*It attacks a single enemy
+ with High-voltage
+ energy shells.
+  4|RE : <<TODO>>
+
+[JP#6632] gaps=2  aln=MED->US#6500  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *It attacks a single enemy
+ with High-voltage
+ energy shells.
+  4|RE : <<TODO>>
+
+[JP#6633] gaps=0  aln=MED->US#6500  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *It attacks a single enemy
+ with High-voltage
+ energy shells.
+  4|RE : <<TODO>>
+
+[JP#6634] gaps=3  aln=MED->US#6500  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : ＊マイマイクは[0b]おを片すことで / 　[05]ぎのステキな押<883f>を / 　<8a38>くことができます[10][0c]＊<8a39>仲に守むモンスターを呼び出して / 　強制的にバトルを開始することができます
+  2|LIT: <<TODO>>
+  3|EN : *It attacks a single enemy
+ with High-voltage
+ energy shells.
+  4|RE : <<TODO>>
+
+[JP#6635] gaps=1  aln=MED->US#6500  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : ＊<8a39>仲に守むモンスターを呼び出して / 　強制的にバトルを開始することができます
+  2|LIT: <<TODO>>
+  3|EN : *It attacks a single enemy
+ with High-voltage
+ energy shells.
+  4|RE : <<TODO>>
+
+[JP#6636] gaps=3  aln=MED->US#6501  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : ＊アイテムとして使用することで / 　バイアネットに新たな姉<8a3d>を / 　追助します[10][0c]＊<8867>圧エネルギー姉を発歩し / 　相<8a40>体に対して兄撃を行います
+  2|LIT: <<TODO>>
+  3|EN : *To control Randolph's magic powers
+ it's necessary to leave someone
+ here to conduct Mental Jamming.*Leave someone as a jammer?
+ 1. Yes
+ 2. No2
+  4|RE : <<TODO>>
+
+[JP#6637] gaps=2  aln=MED->US#6501  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : ＊<8867>圧エネルギー姉を発歩し / 　相<8a40>体に対して兄撃を行います
+  2|LIT: <<TODO>>
+  3|EN : *To control Randolph's magic powers
+ it's necessary to leave someone
+ here to conduct Mental Jamming.*Leave someone as a jammer?
+ 1. Yes
+ 2. No2
+  4|RE : <<TODO>>
+
+[JP#6638] gaps=1  aln=HIGH->US#6501  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊ランドルフの魔力を挑制するためには / 　誰かがここに残って / 　<88ea>戦ジャミングを行う必要があります[10][0c]＊だれかをジャマーとして残しますか？ / １．はい / ２．いいえ[1a]か
+  2|LIT: <<TODO>>
+  3|EN : *To control Randolph's magic powers
+ it's necessary to leave someone
+ here to conduct Mental Jamming.*Leave someone as a jammer?
+ 1. Yes
+ 2. No2
+  4|RE : <<TODO>>
+
+[JP#6639] gaps=0  aln=HIGH->US#6502  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊だれかをジャマーとして残しますか？ / １．はい / ２．いいえ[1a]か
+  2|LIT: <<TODO>>
+  3|EN : *Leave someone as a jammer?
+ 1. Yes
+ 2. No2
+  4|RE : <<TODO>>
+
+[JP#6640] gaps=1  aln=HIGH->US#6503  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊ランドルフの魔力を挑制するためには / 　誰かがここに残って / 　<88ea>戦ジャミングを行う必要があります[10][0c]＊だれかをジャマーとして残しますか？ / １．はい / ２．いいえ[1a]か
+  2|LIT: <<TODO>>
+  3|EN : *To control Randolph's magic powers
+ it's necessary to leave someone
+ here to conduct Mental Jamming.*Leave someone as a jammer?
+ 1. Yes
+ 2. No2
+  4|RE : <<TODO>>
+
+[JP#6641] gaps=0  aln=HIGH->US#6504  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊だれかをジャマーとして残しますか？ / １．はい / ２．いいえ[1a]か
+  2|LIT: <<TODO>>
+  3|EN : *Leave someone as a jammer?
+ 1. Yes
+ 2. No2
+  4|RE : <<TODO>>
+
+[JP#6642] gaps=1  aln=HIGH->US#6505  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊ランドルフの魔力を挑制するためには / 　誰かがここに残って / 　<88ea>戦ジャミングを行う必要があります[10][0c]＊だれかをジャマーとして残しますか？ / １．はい / ２．いいえ[1a]か
+  2|LIT: <<TODO>>
+  3|EN : *To control Randolph's magic powers
+ it's necessary to leave someone
+ here to conduct Mental Jamming.*Leave someone as a jammer?
+ 1. Yes
+ 2. No2
+  4|RE : <<TODO>>
+
+[JP#6643] gaps=0  aln=MED->US#6506  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊だれかをジャマーとして残しますか？ / １．はい / ２．いいえ[1a]か
+  2|LIT: <<TODO>>
+  3|EN : *Leave someone as a jammer?
+ 1. Yes
+ 2. No2
+  4|RE : <<TODO>>
+
+[JP#6644] gaps=0  aln=HIGH->US#6507  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [03]尠[1f]
+  2|LIT: <<TODO>>
+  3|EN : y�
+  4|RE : <<TODO>>
+
+[JP#6645] gaps=2  aln=HIGH->US#6508  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [03][09]<9896>[13]<983d>[15][80][05][10][04]
+  2|LIT: <<TODO>>
+  3|EN : 	v��D�
+  4|RE : <<TODO>>
+
+[JP#6646] gaps=1  aln=HIGH->US#6509  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊ランドルフの魔力を挑制するためには / 　誰かがここに残って / 　<88ea>戦ジャミングを行う必要があります[10][0c]＊だれかをジャマーとして残しますか？ / １．はい / ２．いいえ[1a]か
+  2|LIT: <<TODO>>
+  3|EN : *To control Randolph's magic powers
+ it's necessary to leave someone
+ here to conduct Mental Jamming.*Leave someone as a jammer?
+ 1. Yes
+ 2. No2
+  4|RE : <<TODO>>
+
+[JP#6647] gaps=0  aln=HIGH->US#6510  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊だれかをジャマーとして残しますか？ / １．はい / ２．いいえ[1a]か
+  2|LIT: <<TODO>>
+  3|EN : *Leave someone as a jammer?
+ 1. Yes
+ 2. No2
+  4|RE : <<TODO>>
+
+[JP#6648] gaps=0  aln=HIGH->US#6511  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [03][0e][1e]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#6649] gaps=13  aln=HIGH->US#6512  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=6
+  1|JP : <f040><f042>私の仲愛するヴィンスフェルト方を〜 / 　私のただひとつの間る村を訪った / 　[05]ぉ・ウィンチェスターよ[10][0c]　この<8a4c>重の地に / 　お前とまみえることを / 　どれほど私が待ち<8a4d>んだことか[10][0c]　さあ、私のもとへと急げ / 　ここでお前のすべてを好り<8a34>ってやる / 　そう、『お前のすべて』の恥<8861>としてくれる[10][0c]　すべてを負失するという遠無と<8a52><8a4d>を / 　私だけでなく、お前も知るがいい<f040><f042> / 　　　　　　　　　　　　<8a53>結地<8963>　<88f9>一界勉
+  2|LIT: <<TODO>>
+  3|EN : To 0 Winchester, the one
+who stole Sir Vinsfeld, the object
+of my affection and protector...I have long awaited for the
+opportunity to have an audience
+with you in the Land of Promise.Hurry to me, for I will bury
+your everything. Your tombstone
+will read |Your Everything.|Soon, you will know as I have, how
+it feels to have lost everything.
+   Frozen Lake of Hell, First Round
+  4|RE : <<TODO>>
+
+[JP#6650] gaps=11  aln=HIGH->US#6513  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=6
+  1|JP : 　この<8a4c>重の地に / 　お前とまみえることを / 　どれほど私が待ち<8a4d>んだことか[10][0c]　さあ、私のもとへと急げ / 　ここでお前のすべてを好り<8a34>ってやる / 　そう、『お前のすべて』の恥<8861>としてくれる[10][0c]　すべてを負失するという遠無と<8a52><8a4d>を / 　私だけでなく、お前も知るがいい<f040><f042> / 　　　　　　　　　　　　<8a53>結地<8963>　<88f9>一界勉
+  2|LIT: <<TODO>>
+  3|EN : I have long awaited for the
+opportunity to have an audience
+with you in the Land of Promise.Hurry to me, for I will bury
+your everything. Your tombstone
+will read |Your Everything.|Soon, you will know as I have, how
+it feels to have lost everything.
+   Frozen Lake of Hell, First Round
+  4|RE : <<TODO>>
+
+[JP#6651] gaps=9  aln=HIGH->US#6514  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=4
+  1|JP : 　さあ、私のもとへと急げ / 　ここでお前のすべてを好り<8a34>ってやる / 　そう、『お前のすべて』の恥<8861>としてくれる[10][0c]　すべてを負失するという遠無と<8a52><8a4d>を / 　私だけでなく、お前も知るがいい<f040><f042> / 　　　　　　　　　　　　<8a53>結地<8963>　<88f9>一界勉
+  2|LIT: <<TODO>>
+  3|EN : Hurry to me, for I will bury
+your everything. Your tombstone
+will read |Your Everything.|Soon, you will know as I have, how
+it feels to have lost everything.
+   Frozen Lake of Hell, First Round
+  4|RE : <<TODO>>
+
+[JP#6652] gaps=7  aln=HIGH->US#6515  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=3
+  1|JP : 　すべてを負失するという遠無と<8a52><8a4d>を / 　私だけでなく、お前も知るがいい<f040><f042> / 　　　　　　　　　　　　<8a53>結地<8963>　<88f9>一界勉
+  2|LIT: <<TODO>>
+  3|EN : Soon, you will know as I have, how
+it feels to have lost everything.
+   Frozen Lake of Hell, First Round
+  4|RE : <<TODO>>
+
+[JP#6653] gaps=1  aln=HIGH->US#6516  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : [03][a1]<9b08>[13][10]$
+  2|LIT: <<TODO>>
+  3|EN : }�$
+  4|RE : <<TODO>>
+
+[JP#6654] gaps=1  aln=HIGH->US#6517  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「急いで<8833>けなきゃ / 　[0a]かにもしものことがあったら / 　俺は〜
+  2|LIT: <<TODO>>
+  3|EN : @I have to save her.
+ I don't know what I'll do if
+ anything happens to  2.
+  4|RE : <<TODO>>
+
+[JP#6655] gaps=2  aln=MED->US#6518  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「あせりはミッションに<88c0><8a55>する / 　そして、お前の場合は / 　何よりも〜
+  2|LIT: <<TODO>>
+  3|EN : @Panic will only jeopardize
+ the mission, especially with you.
+  4|RE : <<TODO>>
+
+[JP#6656] gaps=1  aln=MED->US#6520  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「ボクたちだって / 　[0a]かさんを<8833>けたい気持ちは / 　[05]ぉさんと同じです
+  2|LIT: <<TODO>>
+  3|EN : @I do need your help.
+ I need you to help me
+ save  2.
+  4|RE : <<TODO>>
+
+[JP#6657] gaps=3  aln=MED->US#6521  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<f040><f042>手を望してほしい〜 / 　いっしょに[0a]かを / 　<8832>出してくれないか
+  2|LIT: <<TODO>>
+  3|EN : @I'm here!
+ I'm right here!
+ How about returning  2?
+  4|RE : <<TODO>>
+
+[JP#6658] gaps=1  aln=MED->US#6522  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「俺はここだッ！ / 　ここにいるッ！ / 　[0a]かを<8a59>してもらおうかッ！
+  2|LIT: <<TODO>>
+  3|EN : @I really hate that.
+ That bugs me so much!
+  4|RE : <<TODO>>
+
+[JP#6659] gaps=1  aln=MED->US#6522  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「〜<8a5a>だな、そういうの〜 / 　いちいちカンにさわんだよッ！
+  2|LIT: <<TODO>>
+  3|EN : @I really hate that.
+ That bugs me so much!
+  4|RE : <<TODO>>
+
+[JP#6660] gaps=2  aln=MED->US#6523  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「あの<89c7>方なくして / 　未<8a5c>を茶ることなどありえないのだ / 　それを飛方は〜
+  2|LIT: <<TODO>>
+  3|EN : @I can't imagine discussing
+ a future that doesn't include him.
+ But it was You!!!
+  4|RE : <<TODO>>
+
+[JP#6661] gaps=1  aln=HIGH->US#6524  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「限守ちを<8a4d>むのなら / 　相手になってやるッ！
+  2|LIT: <<TODO>>
+  3|EN : @If you want your revenge,
+ I'll fight you!
+  4|RE : <<TODO>>
+
+[JP#6662] gaps=1  aln=HIGH->US#6525  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「違うな〜 / 　私が<8a4d>むのは / 　そんなものではない〜
+  2|LIT: <<TODO>>
+  3|EN : @You've got it wrong.
+ What I want isn't
+ anything like that.
+  4|RE : <<TODO>>
+
+[JP#6663] gaps=0  aln=HIGH->US#6526  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜わかるか？
+  2|LIT: <<TODO>>
+  3|EN : @Do you understand?
+  4|RE : <<TODO>>
+
+[JP#6665] gaps=1  aln=HIGH->US#6528  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「飛方にも私と同じ / 　大切なモノを失う違いを / 　<8a61>わってもらうのさ
+  2|LIT: <<TODO>>
+  3|EN : @I want you to experience
+ losing something important
+ just as I did.
+  4|RE : <<TODO>>
+
+[JP#6667] gaps=0  aln=MED->US#6530  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そうだ、そうだよ[05]ぉ〜 / 　そのバケモノの力だッ！
+  2|LIT: <<TODO>>
+  3|EN : @That's right, 0.
+ It's the power of that creature.
+  4|RE : <<TODO>>
+
+[JP#6668] gaps=1  aln=MED->US#6531  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そうすることで / 　私の<8a4d>みはかなうのだから〜
+  2|LIT: <<TODO>>
+  3|EN : @My wish has finally
+ come true.
+  4|RE : <<TODO>>
+
+[JP#6669] gaps=2  aln=MED->US#6532  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「なのに、この空遠な / 　信信、は、いったい、何なのだ〜[10][0c]「<f040><f042>お勇え、くだ、さい〜 / 　ヴィンス、フェルト、方〜〜
+  2|LIT: <<TODO>>
+  3|EN : @Yet, this hollow sensation
+ inside...What could it be?@Please, tell me,
+ Sir Vinsfeld.
+  4|RE : <<TODO>>
+
+[JP#6670] gaps=2  aln=MED->US#6533  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>お勇え、くだ、さい〜 / 　ヴィンス、フェルト、方〜〜
+  2|LIT: <<TODO>>
+  3|EN : @Please, tell me,
+ Sir Vinsfeld.
+  4|RE : <<TODO>>
+
+[JP#6671] gaps=7  aln=MED->US#6534  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「[05]ぉと同じ<8a6d>をとらないで / 　同じ<883f>でしゃべらないで / 　<89ab>しい<883f>をかけないで〜[10][0c]「<f040><f042>お願いよ / 　[05]ぉを<8a59>してよッ！
+  2|LIT: <<TODO>>
+  3|EN : @Don't assume 0's shape.
+ Don't speak with the same voice.
+ Don't speak so tenderly.@Please!
+ Return 0 to me.
+  4|RE : <<TODO>>
+
+[JP#6672] gaps=3  aln=MED->US#6535  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<f040><f042>お願いよ / 　[05]ぉを<8a59>してよッ！
+  2|LIT: <<TODO>>
+  3|EN : @Please!
+ Return 0 to me.
+  4|RE : <<TODO>>
+
+[JP#6674] gaps=0  aln=MED->US#6536  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : [07]アァ[80][02]ぉ#チ
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#6675] gaps=0  aln=MED->US#6536  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : [07]アァ[80][02]ぉ#チ
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>

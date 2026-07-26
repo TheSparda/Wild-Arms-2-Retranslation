@@ -1,0 +1,374 @@
+# WA2 4-col translation doc block 51 (JP#6499-6547)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 44 boxes | OK=4 FAIR=26 SHAKY=14 JP-ONLY=0
+# DRAFT STATUS: 44 boxes | OK=4 FAIR=25 SHAKY=15 JP-ONLY=0
+
+[JP#6500] gaps=0  aln=MED->US#6365  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#6501] gaps=2  aln=MED->US#6366  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#6502] gaps=0  aln=MED->US#6367  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#6503] gaps=1  aln=MED->US#6368  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : ＊強い片撃で泣みつけられれば / 　反<8839>するかもしれない
+  2|LIT: <<TODO>>
+  3|EN : *Maybe if you trample it
+ with a real strong impact,
+ it'll respond.
+  4|RE : <<TODO>>
+
+[JP#6504] gaps=2  aln=MED->US#6370  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊時の流れに<89c1>らい飛ぶ兄が / 　押に期け、過<8a43>へと来かん
+  2|LIT: <<TODO>>
+  3|EN : *Best to submerge the fierce will.
+ Sink the stone and lure the flow.
+ Aim for the flow's end of time.*In all matters, don't be misled and
+ don't oppose. To be in the present
+ is the power to live.
+  4|RE : <<TODO>>
+
+[JP#6505] gaps=9  aln=MED->US#6371  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=6
+  1|JP : ＊周き意<8a48>を<898f>めるがいい〜 / 　谷を<898f>めて流れをいざなうがいい〜 / 　時の流れのその果てをめざすがいい〜[10][0c]＊何事にも訪わされず、<89c1>らわず〜 / 　<8a4c><8a4d>なる時の流れの好間恥負<f040><f042> / 　現帰（いま）を<8a38>く力こそ、生きる力である
+  2|LIT: <<TODO>>
+  3|EN : *In all matters, don't be misled and
+ don't oppose. To be in the present
+ is the power to live.
+  4|RE : <<TODO>>
+
+[JP#6506] gaps=6  aln=MED->US#6372  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : ＊何事にも訪わされず、<89c1>らわず〜 / 　<8a4c><8a4d>なる時の流れの好間恥負<f040><f042> / 　現帰（いま）を<8a38>く力こそ、生きる力である
+  2|LIT: <<TODO>>
+  3|EN : @It appears to be one giant
+ lifeform.
+  4|RE : <<TODO>>
+
+[JP#6507] gaps=0  aln=MED->US#6372  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「まるで、ひとつの大きな / 　生命のようです〜
+  2|LIT: <<TODO>>
+  3|EN : @It appears to be one giant
+ lifeform.
+  4|RE : <<TODO>>
+
+[JP#6509] gaps=1  aln=MED->US#6374  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「我々は、大限なるモノにして / 　守を為すモノ〜 / 　<8a61>一存帰ガイア〜[10][0c]「我々は、星の命である
+  2|LIT: <<TODO>>
+  3|EN : @While we are a crowd,
+ we are also individuals.
+ We're the one and only Gaia.@We are the life of stars.
+  4|RE : <<TODO>>
+
+[JP#6510] gaps=0  aln=MED->US#6375  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「我々は、星の命である
+  2|LIT: <<TODO>>
+  3|EN : @We are the life of stars.
+  4|RE : <<TODO>>
+
+[JP#6511] gaps=1  aln=HIGH->US#6376  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「延乗のことは何も知らされてなかったけど / 　プーカと[05]がが出<8a64>えば / 　運命が動きはじめると聞いたのダ
+  2|LIT: <<TODO>>
+  3|EN : @I was told nothing of the Sacred
+ Precincts, but that destiny would
+ rule once Pooka and 3 met.
+  4|RE : <<TODO>>
+
+[JP#6512] gaps=10  aln=HIGH->US#6377  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=6
+  1|JP : 「すべては運命を<8961>ぐ / 　<8a65><89dd>の中に男み込まれた / 　<888e>奮調<8a67>なのです[10][0c]「さあ、『鍵』としての運命を魂け入れなさい / 　ファルガイアは今、未頼作の危機に / 　さらされているのです[10][0c]「それを<8988>止できるのは / 　我々ガイアと<f040><f042>[10][0c]「我々の力を解き殺つことができる / 　『鍵』の少数<f040><f042> / 　[05]が、あなたなのです〜
+  2|LIT: <<TODO>>
+  3|EN : @Everything is a part of
+ destiny spinning on a wheel.
+ It's a planned accord.@Accept your fate, as the |Pillar.|
+ Filgaia is now being confronted
+ by an unprecedented crisis.@The only ones who can stop
+ it are us, Gaia, and...@one who can deliver our power.
+ The boy of the |Pillar.|
+ You, 3.
+  4|RE : <<TODO>>
+
+[JP#6513] gaps=5  aln=HIGH->US#6378  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「さあ、『鍵』としての運命を魂け入れなさい / 　ファルガイアは今、未頼作の危機に / 　さらされているのです[10][0c]「それを<8988>止できるのは / 　我々ガイアと<f040><f042>[10][0c]「我々の力を解き殺つことができる / 　『鍵』の少数<f040><f042> / 　[05]が、あなたなのです〜
+  2|LIT: <<TODO>>
+  3|EN : @Accept your fate, as the |Pillar.|
+ Filgaia is now being confronted
+ by an unprecedented crisis.@The only ones who can stop
+ it are us, Gaia, and...@one who can deliver our power.
+ The boy of the |Pillar.|
+ You, 3.
+  4|RE : <<TODO>>
+
+[JP#6514] gaps=5  aln=HIGH->US#6379  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「それを<8988>止できるのは / 　我々ガイアと<f040><f042>[10][0c]「我々の力を解き殺つことができる / 　『鍵』の少数<f040><f042> / 　[05]が、あなたなのです〜
+  2|LIT: <<TODO>>
+  3|EN : @The only ones who can stop
+ it are us, Gaia, and...@one who can deliver our power.
+ The boy of the |Pillar.|
+ You, 3.
+  4|RE : <<TODO>>
+
+[JP#6515] gaps=2  aln=HIGH->US#6380  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「我々の力を解き殺つことができる / 　『鍵』の少数<f040><f042> / 　[05]が、あなたなのです〜
+  2|LIT: <<TODO>>
+  3|EN : @one who can deliver our power.
+ The boy of the |Pillar.|
+ You, 3.
+  4|RE : <<TODO>>
+
+[JP#6516] gaps=2  aln=HIGH->US#6381  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「今、ファルガイアに / 　いったい何が起こっているんですか？ / 　空が食べられてしまうなんて<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @What in the world is going
+ on in Filgaia now with
+ the sky being devoured...?
+  4|RE : <<TODO>>
+
+[JP#6517] gaps=2  aln=HIGH->US#6382  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「何も知らずに / 　人鍵となるのは不<8a6a>なこと / 　よろしい、<8a6b>えましょう〜[10][0c]「世界を侵す存帰 / 　それは〜 / 　『異世界』に他なりません
+  2|LIT: <<TODO>>
+  3|EN : @It's not fair for you to become
+ a human Pillar without knowing.
+ All right, I shall tell you.@The invading presence in
+ the world is none other than
+ |The Other World.|
+  4|RE : <<TODO>>
+
+[JP#6518] gaps=0  aln=HIGH->US#6383  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「世界を侵す存帰 / 　それは〜 / 　『異世界』に他なりません
+  2|LIT: <<TODO>>
+  3|EN : @The invading presence in
+ the world is none other than
+ |The Other World.|
+  4|RE : <<TODO>>
+
+[JP#6519] gaps=3  aln=HIGH->US#6384  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=2
+  1|JP : 「我々がそうであるように / 　世界とは、小さな生命の<8880>合体 / 　ひとつの大きな『勇<8a6d>』なのです[10][0c]「その世界が、友が苦界を姿えて / 　他の世界を<8a71>み込もうとしているのです
+  2|LIT: <<TODO>>
+  3|EN : @Just like us, the world is a
+ collection of small lives
+ that is one big |spirit.|@That world has overstepped
+ its boundaries and is
+ devouring other worlds.
+  4|RE : <<TODO>>
+
+[JP#6520] gaps=1  aln=MED->US#6385  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「その世界が、友が苦界を姿えて / 　他の世界を<8a71>み込もうとしているのです
+  2|LIT: <<TODO>>
+  3|EN : @That world has overstepped
+ its boundaries and is
+ devouring other worlds.
+  4|RE : <<TODO>>
+
+[JP#6521] gaps=5  aln=HIGH->US#6386  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「これが、モンスターと呼ばれる / 　ファルガイアのパラダイムに反する / 　生物の<890c>生なのです[10][0c]「ですが、世界の苦界に生じたほつれは / 　更<88f9>に大きくなり / 　やがては、より大きな協を<8a77>めました[10][0c]「異なる勇<8a6d>を<8939>めるための / 　大きな協〜 / 　すなわち、ファルガイアそのものを〜
+  2|LIT: <<TODO>>
+  3|EN : @They were monsters and were
+ the first arrival of beings to
+ oppose Filgaia's Paradigm.@But the fray in the world's
+ boundaries grew and soon
+ a larger vessel was needed.@A larger vessel to obtain
+ another spirit...
+ In other words, Filgaia itself.
+  4|RE : <<TODO>>
+
+[JP#6522] gaps=4  aln=HIGH->US#6387  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「ですが、世界の苦界に生じたほつれは / 　更<88f9>に大きくなり / 　やがては、より大きな協を<8a77>めました[10][0c]「異なる勇<8a6d>を<8939>めるための / 　大きな協〜 / 　すなわち、ファルガイアそのものを〜
+  2|LIT: <<TODO>>
+  3|EN : @But the fray in the world's
+ boundaries grew and soon
+ a larger vessel was needed.@A larger vessel to obtain
+ another spirit...
+ In other words, Filgaia itself.
+  4|RE : <<TODO>>
+
+[JP#6523] gaps=2  aln=HIGH->US#6388  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「異なる勇<8a6d>を<8939>めるための / 　大きな協〜 / 　すなわち、ファルガイアそのものを〜
+  2|LIT: <<TODO>>
+  3|EN : @A larger vessel to obtain
+ another spirit...
+ In other words, Filgaia itself.
+  4|RE : <<TODO>>
+
+[JP#6524] gaps=7  aln=HIGH->US#6389  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「あなた方の<8a7a>るう物理的な力では / 　英念存帰である『世界』に対して / 　雄ばくかの<8a7d><889b>も共えることかないません[10][0c]「考えてもご<8a7f>なさい / 　今この場で<8a80>協を<8a7a>るっても / 　何の手<8839>えがないでしょう[10][0c]「英念存帰『世界』を相手にするということは / 　つまり、そういうことなのです
+  2|LIT: <<TODO>>
+  3|EN : @Your physical power
+ can't really harm this
+ conceptual |world.|@Think about it.
+ Even if we use weapons,
+ there is no effect.@That's what it means
+ to have a conceptual
+ |world| as an opponent.
+  4|RE : <<TODO>>
+
+[JP#6525] gaps=4  aln=HIGH->US#6390  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=4
+  1|JP : 「考えてもご<8a7f>なさい / 　今この場で<8a80>協を<8a7a>るっても / 　何の手<8839>えがないでしょう[10][0c]「英念存帰『世界』を相手にするということは / 　つまり、そういうことなのです
+  2|LIT: <<TODO>>
+  3|EN : @Think about it.
+ Even if we use weapons,
+ there is no effect.@That's what it means
+ to have a conceptual
+ |world| as an opponent.
+  4|RE : <<TODO>>
+
+[JP#6526] gaps=0  aln=MED->US#6391  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「英念存帰『世界』を相手にするということは / 　つまり、そういうことなのです
+  2|LIT: <<TODO>>
+  3|EN : @That's what it means
+ to have a conceptual
+ |world| as an opponent.
+  4|RE : <<TODO>>
+
+[JP#6527] gaps=3  aln=HIGH->US#6392  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「『異世界』に対<8a82>するには / 　同じく英念存帰である我々を / 　解殺するしかないのです[10][0c]「あなたに、大切なモノがあるなら / 　選ぶべき道は / 　自ずと決まってくるはずです[10][0c]「我らが前に生命を<8a83>し出せば / 　すべてを<8a84>ることができましょう
+  2|LIT: <<TODO>>
+  3|EN : @To fight |the other world,|
+ we, as similar conceptual
+ beings, must be released.@When you have something of
+ value, the path you must choose
+ will become naturally clear.@When life is held out before
+ us, we can protect anything.
+  4|RE : <<TODO>>
+
+[JP#6528] gaps=2  aln=HIGH->US#6393  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「あなたに、大切なモノがあるなら / 　選ぶべき道は / 　自ずと決まってくるはずです[10][0c]「我らが前に生命を<8a83>し出せば / 　すべてを<8a84>ることができましょう
+  2|LIT: <<TODO>>
+  3|EN : @When you have something of
+ value, the path you must choose
+ will become naturally clear.@When life is held out before
+ us, we can protect anything.
+  4|RE : <<TODO>>
+
+[JP#6529] gaps=2  aln=HIGH->US#6394  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「我らが前に生命を<8a83>し出せば / 　すべてを<8a84>ることができましょう
+  2|LIT: <<TODO>>
+  3|EN : @When life is held out before
+ us, we can protect anything.
+  4|RE : <<TODO>>
+
+[JP#6530] gaps=0  aln=HIGH->US#6395  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「〜〜ボクは、イヤだ
+  2|LIT: <<TODO>>
+  3|EN : @I don't want to.
+  4|RE : <<TODO>>
+
+[JP#6531] gaps=3  aln=MED->US#6396  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「『鍵』が / 　ファルガイアのために<8a85>げられるのは<f040><f042>
+  2|LIT: <<TODO>>
+  3|EN : @For the  |Pillar| to be
+ given as an offering
+ for Filgaia...
+  4|RE : <<TODO>>
+
+[JP#6532] gaps=11  aln=MED->US#6397  CONF=SHAKY unsolved=7  CONF=SHAKY unsolved=7
+  1|JP : 「死ぬことが<8a87>いんじゃないッ！ / 　<8a86>得できないことに / 　生命をかけられないだけだッ！[10][0c]「<f040><f042>今、ボクが『鍵』として / 　ファルガイアを<8a84>ったとしても / 　心の中にある<8a88>誓は解決できないんだッ！[10][0c]「生け安として死ぬのは<f040><f042> / 　いちばん暮<8a8b>な選<8a8c><8a8d>なんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @I'm not afraid of dying! I just
+ don't want to give my life
+ to something I doubt.@Even if I protect Filgaia
+ as the |Pillar| now, the doubts
+ in my heart won't be resolved!@To die as a
+ sacrificial offering
+ is an easy choice.
+  4|RE : <<TODO>>
+
+[JP#6533] gaps=9  aln=MED->US#6398  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「<f040><f042>今、ボクが『鍵』として / 　ファルガイアを<8a84>ったとしても / 　心の中にある<8a88>誓は解決できないんだッ！[10][0c]「生け安として死ぬのは<f040><f042> / 　いちばん暮<8a8b>な選<8a8c><8a8d>なんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @Even if I protect Filgaia
+ as the |Pillar| now, the doubts
+ in my heart won't be resolved!@To die as a
+ sacrificial offering
+ is an easy choice.
+  4|RE : <<TODO>>
+
+[JP#6534] gaps=5  aln=MED->US#6400  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「生け安として死ぬのは<f040><f042> / 　いちばん暮<8a8b>な選<8a8c><8a8d>なんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @How can you object to that?
+ Boy of the |Pillar.|
+  4|RE : <<TODO>>
+
+[JP#6535] gaps=1  aln=MED->US#6401  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そのことに / 　どうして<8a88>誓など持てるのですか？ / 　『鍵』の少数よ
+  2|LIT: <<TODO>>
+  3|EN : @Pooka will search for
+ answers to the
+ |Pillar's| doubts.
+  4|RE : <<TODO>>
+
+[JP#6536] gaps=2  aln=MED->US#6402  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「プーカは、『鍵』といっしょに / 　<8a88>誓の<883a>えを探したいと思うのダ
+  2|LIT: <<TODO>>
+  3|EN : @That's it.
+  4|RE : <<TODO>>
+
+[JP#6537] gaps=0  aln=MED->US#6402  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「〜〜なのダ
+  2|LIT: <<TODO>>
+  3|EN : @That's it.
+  4|RE : <<TODO>>
+
+[JP#6538] gaps=3  aln=MED->US#6403  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「〜いいでしょう[10][0c]「『鍵』の少数よ / 　選<8a8c>は、あなたにまかせます[10][0c]「でも、すべてが手<8a0d>れになる前に / 　決<898e>を辺すことを忘れないよう〜
+  2|LIT: <<TODO>>
+  3|EN : @Then, all right.@|Pillar,|
+ the choice is yours.@But be sure to make your
+ decision before it's too late.
+  4|RE : <<TODO>>
+
+[JP#6539] gaps=3  aln=MED->US#6404  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「『鍵』の少数よ / 　選<8a8c>は、あなたにまかせます[10][0c]「でも、すべてが手<8a0d>れになる前に / 　決<898e>を辺すことを忘れないよう〜
+  2|LIT: <<TODO>>
+  3|EN : @|Pillar,|
+ the choice is yours.@But be sure to make your
+ decision before it's too late.
+  4|RE : <<TODO>>
+
+[JP#6540] gaps=2  aln=MED->US#6405  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「でも、すべてが手<8a0d>れになる前に / 　決<898e>を辺すことを忘れないよう〜
+  2|LIT: <<TODO>>
+  3|EN : @But be sure to make your
+ decision before it's too late.
+  4|RE : <<TODO>>
+
+[JP#6541] gaps=0  aln=MED->US#6406  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そのことを / 　忘れてはいませんか？
+  2|LIT: <<TODO>>
+  3|EN : @You have not forgotten,
+ have you?
+  4|RE : <<TODO>>
+
+[JP#6543] gaps=3  aln=MED->US#6408  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : ＊ガーディアンの力により / 　相険体のパワーを / 　<89a7>分に<8a92><8a93>させることができます
+  2|LIT: <<TODO>>
+  3|EN : *With the Guardian's powers,
+ all enemies' powers will
+ be cut in half.
+  4|RE : <<TODO>>
+
+[JP#6546] gaps=0  aln=MED->US#6410  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : す
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#6547] gaps=0  aln=MED->US#6410  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : す
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>

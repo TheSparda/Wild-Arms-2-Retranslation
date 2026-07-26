@@ -1,0 +1,113 @@
+# WA2 — Lost City Archeim (c) (LC) — block 47, US#6135-6159 — FIRST-PASS insert-ready
+# =========================================================================================
+# FIRST PASS (auto-generated): RE = the US localization reflowed to the display window
+#   (<=3 lines x <=35 chars), em dashes stripped, color-code artifacts removed. JP shown for
+#   reference (block-decoded; residual codes possible). This is NOT a deep literary
+#   retranslation — it gives Lost City Archeim (c) valid insert text; flag for a deep RE pass later.
+# US# reconciled by construction (IDs are the real block-47 message slots).
+# Columns: JP (reference) / LIT (literal) / EN (original) / RE (fit, em-dash-free).
+# =========================================================================================
+
+[US#6143]
+  JP : 「<f040><f042><b:8a38>っ先に<8952>け出すか〜 / あいつの後ろにはいつも / <b:8a39>るべき<b:8a3a>間がいたからな〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Would he get out right away or because he had people behind him he had to protect, would he...
+  RE : Would he get out right away or
+       because he had people behind him he
+       had to protect, would he...
+
+[US#6144]
+  JP : 「後ろにいる<b:8a3a>間を信じていたから / 自分が<b:8a38>っ先に / <8952>け出すことができたんだな<f040><f042>
+  LIT: (literal pending: JP has unsolved codes)
+  EN : It's because he trusted those following him, he was able to get out right away.
+  RE : It's because he trusted those
+       following him, he was able to get
+       out right away.
+
+[US#6146]
+  JP : 「だから強くなって / ここまでやって<b:8a3c>たッ！<b:8a3d>けないんだからッ！<b:8a3e>わせてくれるぜッ！ / てめぇらだけで新義<b:8a3f>しやがってよッ！<b:8a40>えるか悪<b:8a41>よ<b:8a42>け止めるッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That's why we got strong and made our way this far!
+  RE : That's why we got strong and made
+       our way this far!
+
+[US#6147]
+  JP : 「<f040><f042>いいや、ブチ<b:8a43>くッ！<b:8a44>持したって / そいつにどれほどの<b:8a45><8875>があるッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'll pulverize you!
+  RE : I'll pulverize you!
+
+[US#6148]
+  JP : 「所<b:8a46>、そんなものは / 為<b:8a47>者どもに<b:8a48>合のいい世界よ / 僕方たちにゃ、きゅうくつなところよッ！<b:8a49>（あいつら）と<b:8a4a>重したんだ / はみ出し者が<b:8a4b>い目にさらされない / 自由な世界を手に入れてやるってなッ！<b:8a
+  LIT: (literal pending: JP has unsolved codes)
+  EN : The world's just convenient for those in power. For us, it's just a suffocating place!
+  RE : The world's just convenient for
+       those in power. For us, it's just a
+       suffocating place!
+
+[US#6149]
+  JP : 「ひとつ聞かせろや〜
+  LIT: Let me ask you one thing.
+  EN : Tell me one thing.
+  RE : Tell me one thing.
+
+[US#6150]
+  JP : 「お前たちが新しいのか？ / 新義ってやつは / <b:8a50>ったお前たちにあるのかッ！
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Are you guys right? Is justice on your side, the side of the winner?
+  RE : Are you guys right? Is justice on
+       your side, the side of the winner?
+
+[US#6151]
+  JP : 「けッ、どっちにしても / 僕方はここまでのようだ〜 / もう、ろくに立って、られねぇぜ〜<b:8a4a>重してくれ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Either way, this is the end of the road for me. I can barely stand anymore.
+  RE : Either way, this is the end of the
+       road for me. I can barely stand
+       anymore.
+
+[US#6152]
+  JP : 「部辺<b:8a49>（あいつら）のこと / できるだけ、<b:8a51>大な<b:8a52>置を頼むぜ / ムシのいいのはわかってるがよ〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Please treat my men with leniency. I know it's self-serving, but...
+  RE : Please treat my men with leniency.
+       I know it's self-serving, but...
+
+[US#6153]
+  JP : 「部辺<b:8a49>を動かしたのは / 僕方たちだ〜 / <b:8a53>任はこっちにある
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I was the one who made them do what they did. It was all my fault.
+  RE : I was the one who made them do what
+       they did. It was all my fault.
+
+[US#6154]
+  JP : 「戦場で<88fa>わした<b:8a4a>重は / 何よりも重い<b:8a54>は / 何よりも強い〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : Promises made on the battlefield have to be kept.
+  RE : Promises made on the battlefield
+       have to be kept.
+
+[US#6155]
+  JP : 「おめぇに<b:8a55>えてよかった / やっぱりおめぇは / 『<b:8a56><b:8a57>』だぜ
+  LIT: (literal pending: JP has unsolved codes)
+  EN : I'm glad I got to meet you. You really are a |hero.|
+  RE : I'm glad I got to meet you. You
+       really are a |hero.|
+
+[US#6156]
+  JP : 「部辺<b:8a49>のこと / よろしく、頼めるの、は〜 / 〜おめぇら、だけだから、な〜
+  LIT: (literal pending: JP has unsolved codes)
+  EN : You're the only one I can trust to look after my troops.
+  RE : You're the only one I can trust to
+       look after my troops.
+
+[US#6157]
+  JP : 「ここから出る手<b:8a59>は / ただひとつということか / フッ、おもしろい<b:8a5a><b:8a5b>だッ！<b:8a86>[04]
+  LIT: (literal pending: JP has unsolved codes)
+  EN : That means there's only one way out of here. How amusing!
+  RE : That means there's only one way out
+       of here. How amusing!
+
+# =========================================================================================
+# STATUS: 14 boxes first-passed (US#6135-6159, block 47). Em-dash-free, <=3x35.
+# =========================================================================================

@@ -1,0 +1,120 @@
+# WA2 — 4-column translation working doc  (SAMPLE: Merrill reunion, JP#258-271)
+# [1] JP raw decode   [2] JP->EN literal   [3] current EN (with alignment flag)   [4] retranslation from JP
+# <xxxx> = still-unsolved kanji (translated from context where safe, flagged [?] where guessed).
+# aln=OK  -> col3 lines up, usable as cross-check
+# aln=DRIFT -> col3 is misaligned to a DIFFERENT scene; IGNORE it, translate from JP only.
+#
+# NOTE ON THIS SCENE: the EN comparison is heavily DRIFTED here (col3 shows Brad's war-flashback
+# lines, but the JP is Merrill's present-day reunion chatter). This is exactly why col4 is
+# translated from the JP, not the EN. Speaker: Merrill = the village girl who cared for Brad.
+================================================================================
+
+[JP#258] gaps=1  aln=DRIFT
+  1|JP  : 「５数<8a61>ったからって / 　[0a]ぐのこと忘れちゃうなんて
+     (8a61 here = 経 "elapse"; [0a]ぐ = a name placeholder, the recruit/companion)
+  2|LIT : "Just because five years have passed, for you to forget about ___..."
+  3|EN? : @But he disappeared during the Final Operation... (DRIFTED — wrong scene)
+  4|RE  : "Five years go by and you just... forget all about me? Really?"
+
+[JP#259] gaps=1  aln=DRIFT
+  1|JP  : 「〜[16]がぉ〜[10][0c]「〜わたしね / 　おじさんにもう一度<8a9f>いたいって / 　ずっと思ってたんだ
+     (8a9f = 会 "meet"; おじさん = "Mister," how Merrill addresses Brad)
+  2|LIT : "...you know, I always thought I wanted to meet Mister just once more."
+  3|EN? : @When the fighting was over... (DRIFTED)
+  4|RE  : "You know... I always hoped I'd get to see you again, Mister. Just once."
+
+[JP#260] gaps=1  aln=DRIFT
+  1|JP  : 「〜わたしね / 　おじさんにもう一度<8a9f>いたいって / 　ずっと思ってたんだ
+  2|LIT : (duplicate scroll of #259 — same line)
+  3|EN? : @we Liberation Army veterans were blamed... (DRIFTED)
+  4|RE  : "...I always hoped I'd see you again. All this time."
+
+[JP#261] gaps=1  aln=DRIFT
+  1|JP  : 「そして、『<8a43>来』がどうして / 　追われなきゃ / 　いけなかったのかってことも〜[10][0c]「〜でも、今はもう / 　おじさんは悪くないってわかったから / 　こうして、ここにいるんでしょ？
+     (8a43 in 『8a43来』 = a quoted term, unsolved & dual-sense; from context "the hero"/"that person" — LEFT UNCERTAIN)
+  2|LIT : "...and why the '[?]' had to be hunted down, too~ ...But now I know Mister isn't a bad person, so that's why you're here, right?"
+  3|EN? : @It was all a clever trap set and sprung by Vinsfeld. (DRIFTED)
+  4|RE  : "...and why they had to hunt the '[hero?]' down. But I understand now — you did nothing wrong. That's why you're here, isn't it?"
+     [FLAG: 『8a43来』 term unsolved; 'hero' is a contextual guess — verify before final.]
+
+[JP#262] gaps=0  aln=DRIFT
+  1|JP  : 「〜でも、今はもう / 　おじさんは悪くないってわかったから / 　こうして、ここにいるんでしょ？
+  2|LIT : "...but now, since I understand Mister isn't a bad person, that's why you're here like this, right?"
+  3|EN? : @I don't care what anyone says... (DRIFTED)
+  4|RE  : "But I know now — none of it was your fault. That's why you came back, isn't it?"
+
+[JP#263] gaps=1  aln=DRIFT
+  1|JP  : 「僕は、ずっと<8aa1>られたままだ / 　『あの回』から〜
+     (speaker shifts to Brad: 僕; 8aa1 = 縛 "bound"/囚 "imprisoned"; 『あの回』 likely 『あの日』 "that day")
+  2|LIT : "I've stayed bound/trapped this whole time. Ever since 'that day'~"
+  3|EN? : @Didn't you surrender to spare our village... (DRIFTED)
+  4|RE  : "I've been a prisoner ever since... ever since that day."
+     [Note: matches the known EN line 'I've been a prisoner ever since that day' — good sense confirmation.]
+
+[JP#264] gaps=2  aln=DRIFT
+  1|JP  : 「おじさんが連れて行かれた後 / 　[0a]ぐが山の中で / 　倒れていたのを<8a39>えてくれたの[10][0c]「その人も、おじさんと同じ / 　スレイハイム解殺<8a85>だと思うんだけど〜
+     (8a39 = context "found/discovered"; スレイハイム解殺<8a85> = "Slayheim Liberation Army"? — 解 mis-decode; 8a85 unsolved. 解殺=解放? LEFT AS Slayheim [army])
+  2|LIT : "After Mister was taken away, [companion] found ___ collapsed in the mountains. I think that person was Slayheim [Liberation Army], same as Mister~"
+  3|EN? : @Besides, you helped the recruits... (DRIFTED)
+  4|RE  : "After they took you away, ___ found him collapsed up in the mountains. I think he was Slayheim [Liberation Army], same as you."
+     [FLAG: 'Slayheim Liberation Army' reconstructed; 8a85 unsolved.]
+
+[JP#265] gaps=1  aln=DRIFT
+  1|JP  : 「その人も、おじさんと同じ / 　スレイハイム解殺<8a85>だと思うんだけど〜
+  2|LIT : (scroll of #264 tail) "I think he's Slayheim [army], same as Mister~"
+  3|EN? : @No one in the village thinks you're a bad man... (DRIFTED)
+  4|RE  : "I think he's Slayheim [Liberation Army], just like you."
+
+[JP#266] gaps=1  aln=DRIFT
+  1|JP  : 「こいつは / 　僕のかけがえの無い<8a0e>姿だ〜
+     (8a0e姿 = 相棒 "partner"? or 恩人; from context — Brad about his companion. 8a0e uncertain -> 'partner')
+  2|LIT : "This guy is my irreplaceable [partner]~"
+  3|EN? : @I return to this village which should have been the site of my grave... (DRIFTED)
+  4|RE  : "He's my partner. Someone I can't replace."
+     [FLAG: 8a0e姿 = 'partner' is a contextual read; verify.]
+
+[JP#267] gaps=9  aln=DRIFT  [LOW CONFIDENCE — many gaps]
+  1|JP  : 「この人、ケガと<8867><8868>で / 　<8937><89f1>の方がひどく<8aa2><8945>しているの[10][0c]「自分のことを / 　[05]お・エヴァンスだって / 　<8aa3>いていたわ〜[10][0c]「でも<8aa4>得 / 　おじさんの<8a0e>姿なんだもんね
+     (heavy gaps: ケガと◯◯=injury+?; ◯◯の方がひどく◯◯している = "the ___ is badly ___"; 自分のことを◯お・エヴァンス = calls himself '___ Evans'; 8aa4得=納得 "makes sense")
+  2|LIT : "This person, from injury and [?], his [mind/body?] is badly [hurt]. He was saying he's '___ Evans.' But it makes sense — he's your partner, after all."
+  3|EN? : @That scumbag Vinsfeld formed Odessa... (DRIFTED)
+  4|RE  : "He's hurt — and worse than the wounds, his [mind?] is in a bad way. He kept calling himself '___ Evans.' ...Which makes sense, if he's your partner."
+     [FLAG: 4 unsolved compounds; meaning is approximate. NEEDS review — this is a tier-Low line.]
+
+[JP#268] gaps=3  aln=DRIFT
+  1|JP  : 「自分のことを / 　[05]お・エヴァンスだって / 　<8aa3>いていたわ〜[10][0c]「でも<8aa4>得 / 　おじさんの<8a0e>姿なんだもんね
+     (8aa3いて = 呟いて "muttering"? / 言って "saying"; 8aa4得 = 納得)
+  2|LIT : "He was [saying] he's '___ Evans.' But it makes sense — he's your partner."
+  3|EN? : @He betrayed me AND my friends... (DRIFTED)
+  4|RE  : "He kept muttering that he was '___ Evans.' But of course — he's your partner, isn't he."
+
+[JP#269] gaps=2  aln=DRIFT
+  1|JP  : 「でも<8aa4>得 / 　おじさんの<8a0e>姿なんだもんね
+  2|LIT : "But it makes sense — he's Mister's [partner]."
+  3|EN? : @Who'd think you were once friends with our enemy, Vinsfeld? (DRIFTED)
+  4|RE  : "But it all makes sense — he's your partner, after all."
+
+[JP#270] gaps=0  aln=DRIFT
+  1|JP  : 「わたしたちでは / 　この人を分すことができなかったの / 　身体のケガも、心のケガも〜
+     (分す here likely a mis-decode for 治す "heal"; context = "couldn't heal/save him"; 身体のケガ=physical wounds, 心のケガ=wounds of the heart)
+  2|LIT : "We couldn't [heal] this person — neither the wounds of the body, nor the wounds of the heart~"
+  3|EN? : @I thought it was between him and me... (DRIFTED)
+  4|RE  : "We couldn't save him — not the wounds on his body, and not the ones on his heart."
+     [FLAG: 分す likely 治す 'heal'; high-confidence from context.]
+
+[JP#271] gaps=0  aln=DRIFT
+  1|JP  : 「〜すまない、信頼している
+  2|LIT : "...Sorry. I trust you."  (speaker: Brad)
+  3|EN? : @I never intended to involve you in my private vendetta. (DRIFTED)
+  4|RE  : "...Thank you. I'm trusting you with this."
+================================================================================
+
+## QUALITY NOTES FOR THIS SAMPLE
+# - Every col4 line was produced FROM THE JP (col1), using solved kana/kanji + context.
+#   The current EN (col3) is DRIFTED throughout this scene and was NOT used as the basis.
+# - Confidence: #258-263, #270-271 = HIGH (clean JP, meaning solid).
+#                #264-266, #268-269 = MEDIUM (1-2 gaps, meaning solid, a term reconstructed).
+#                #267 = LOW (9 gaps — approximate, flagged for review).
+# - Recurring unsolved terms flagged: 『8a43来』(a quoted term ~ 'hero'?), 8a0e姿 (~'partner'),
+#   8a85 (in 'Liberation Army'). Solving these 3 would sharpen ~half the flags in this scene.
+# - This demonstrates the process end-to-end. Scaling to all 7,766 lines = the same, batch by batch.

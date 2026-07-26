@@ -1,0 +1,289 @@
+# WA2 4-col translation doc block 62 (JP#7030-7076)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 36 boxes | OK=9 FAIR=22 SHAKY=5 JP-ONLY=0
+# DRAFT STATUS: 36 boxes | OK=6 FAIR=23 SHAKY=7 JP-ONLY=0
+
+[JP#7031] gaps=0  aln=MED->US#6887  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : @There's no reason it'd be
+ accompanied by a body. But this
+ one is flesh and blood.@It has enough strength to
+ maintain a body.@And with that power, they've
+ always protected me...
+  4|RE : <<TODO>>
+
+[JP#7032] gaps=2  aln=MED->US#6888  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @It has enough strength to
+ maintain a body.@And with that power, they've
+ always protected me...
+  4|RE : <<TODO>>
+
+[JP#7033] gaps=0  aln=MED->US#6888  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @It has enough strength to
+ maintain a body.@And with that power, they've
+ always protected me...
+  4|RE : <<TODO>>
+
+[JP#7034] gaps=1  aln=MED->US#6888  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「でも、このコは / 　仲と守を備えている〜[10][0c]「実体を姉持できるだけの / 　力を持っているのよ[10][0c]「そして、その力で / 　ずっと私を<8a3d>ってくれた
+  2|LIT: <<TODO>>
+  3|EN : @It has enough strength to
+ maintain a body.@And with that power, they've
+ always protected me...
+  4|RE : <<TODO>>
+
+[JP#7035] gaps=1  aln=HIGH->US#6888  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「実体を姉持できるだけの / 　力を持っているのよ[10][0c]「そして、その力で / 　ずっと私を<8a3d>ってくれた
+  2|LIT: <<TODO>>
+  3|EN : @It has enough strength to
+ maintain a body.@And with that power, they've
+ always protected me...
+  4|RE : <<TODO>>
+
+[JP#7036] gaps=1  aln=HIGH->US#6889  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「そして、その力で / 　ずっと私を<8a3d>ってくれた
+  2|LIT: <<TODO>>
+  3|EN : @And with that power, they've
+ always protected me...
+  4|RE : <<TODO>>
+
+[JP#7037] gaps=0  aln=HIGH->US#6890  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「これが / 　＜助の歩昔＞を押える力
+  2|LIT: <<TODO>>
+  3|EN : @This is the power that has
+ supported the <Sword Magess>.
+  4|RE : <<TODO>>
+
+[JP#7038] gaps=6  aln=HIGH->US#6891  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「『<8937><89f1>』、過<8a40>の事兄<f040><f042> / 　でも、すべてが意<8a38>の世界にあって / 　それは現実にも期しい存帰〜
+  2|LIT: <<TODO>>
+  3|EN : @Memories are matter from the past.
+ Everything is from the conscious
+ world...existence equals reality.
+  4|RE : <<TODO>>
+
+[JP#7039] gaps=5  aln=HIGH->US#6892  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=5
+  1|JP : 「ここで起こったことは / 　わたしの『<8937><89f1>』の時間<8a43>で / 　現実に起こったこととして<8937><89f1>されるのよ
+  2|LIT: <<TODO>>
+  3|EN : @What happened here will
+ be remembered as reality
+ by my |memory| time axis.
+  4|RE : <<TODO>>
+
+[JP#7040] gaps=2  aln=HIGH->US#6893  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f041>でも、力そのものに間悪は無いわ / 　すべては、その力を行使する者の / 　意訪にゆだねられている〜[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @But power itself is neither
+ good nor evil. It depends on
+ the will of the power's user.
+  4|RE : <<TODO>>
+
+[JP#7042] gaps=0  aln=HIGH->US#6895  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「行きましょう〜 / 　何もかもが、手後れになる前に
+  2|LIT: <<TODO>>
+  3|EN : @Let's go before it's
+ all too late.
+  4|RE : <<TODO>>
+
+[JP#7043] gaps=2  aln=MED->US#6896  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「『<8a4d>好』なんて / 　負対の危機の前に遠し出された / 　『生け<8a52>』にすぎないわ
+  2|LIT: <<TODO>>
+  3|EN : @Heroes are merely sacrifices
+ made to confront absolute
+ danger.
+  4|RE : <<TODO>>
+
+[JP#7045] gaps=4  aln=HIGH->US#6898  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=2
+  1|JP : 「＜助の歩昔＞は / 　勉合のいい<8a4d>好なんかじゃないわ[10][0c]「時代に<8a55>げられた / 　生け<8a52>そのものよ[10][0c]「体よく貸り<88be>けられて / 　キレイにごまかされた存帰よ[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @...the <Sword Magess> is not
+ a hero only by convenience.@She is a sacrificial offering
+ to this era.@Her decorated body is
+ a good camouflage.
+  4|RE : <<TODO>>
+
+[JP#7046] gaps=3  aln=HIGH->US#6899  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : 「時代に<8a55>げられた / 　生け<8a52>そのものよ[10][0c]「体よく貸り<88be>けられて / 　キレイにごまかされた存帰よ[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @She is a sacrificial offering
+ to this era.@Her decorated body is
+ a good camouflage.
+  4|RE : <<TODO>>
+
+[JP#7047] gaps=1  aln=HIGH->US#6900  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「体よく貸り<88be>けられて / 　キレイにごまかされた存帰よ[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @Her decorated body is
+ a good camouflage.
+  4|RE : <<TODO>>
+
+[JP#7049] gaps=3  aln=MED->US#6904  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f041>それが、幻<8a57>した力を / 　手にするということ〜[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#7053] gaps=4  aln=MED->US#6907  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「<f040><f041>でも、あなたが / 　あなたの帰るファルガイアを / 　強く、違い<8a5c>けば『<8a5a>』（みち）ができるわ
+  2|LIT: <<TODO>>
+  3|EN : @The world I'm in...It's...
+  4|RE : <<TODO>>
+
+[JP#7054] gaps=2  aln=MED->US#6908  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「俺がいる世界〜 / 　それは<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : @It's dangerous here.
+ It's in your best interest
+ to leave as soon as possible.
+  4|RE : <<TODO>>
+
+[JP#7055] gaps=2  aln=MED->US#6909  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「ここは危険じゃ / 　<8894>々に戻ち<8a40>った方が / 　お茶のためじゃぞ
+  2|LIT: <<TODO>>
+  3|EN : @They've taken on the
+ burden to fight.
+  4|RE : <<TODO>>
+
+[JP#7056] gaps=2  aln=MED->US#6909  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「戦うことを / 　<89a3><8a59>った人なのよ
+  2|LIT: <<TODO>>
+  3|EN : @They've taken on the
+ burden to fight.
+  4|RE : <<TODO>>
+
+[JP#7058] gaps=1  aln=MED->US#6911  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「まあ、いいじゃろう / 　[05]くの<8921>を招っ限るでないぞ
+  2|LIT: <<TODO>>
+  3|EN : @I guess it'll be OK.
+ As long as you don't
+ hold 6 back.
+  4|RE : <<TODO>>
+
+[JP#7059] gaps=3  aln=HIGH->US#6912  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「わたしの<8937><89f1>を加して / 　キミは、過<8a40>に乗れたの[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @Through my memory,
+ you have experienced the past.
+  4|RE : <<TODO>>
+
+[JP#7061] gaps=4  aln=HIGH->US#6914  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「その延<88e6>に / 　この乗<8a64>は過<8a40>において / 　現実のものとして認<8a38>されるの
+  2|LIT: <<TODO>>
+  3|EN : @As proof, this chance meeting
+ was perceived in the past as
+ reality itself.
+  4|RE : <<TODO>>
+
+[JP#7062] gaps=3  aln=HIGH->US#6915  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「<f040><f042>ったく、お茶なんぞの力を<8a65>りぬとも / 　＜助の歩昔＞とノーブルレッドである / 　わらわがいれば、ロードブレイザーなど〜
+  2|LIT: <<TODO>>
+  3|EN : @Oh, come on. I'm not going to use
+ your power! With the <Sword Magess>
+ and Crimson Noble in me, Blazer's..
+  4|RE : <<TODO>>
+
+[JP#7063] gaps=0  aln=HIGH->US#6916  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「今すぐ、[05]くから / 　離れろッ！
+  2|LIT: <<TODO>>
+  3|EN : @Get away from 6
+ right now!
+  4|RE : <<TODO>>
+
+[JP#7065] gaps=0  aln=HIGH->US#6918  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「[05]くが、そういうのなら〜
+  2|LIT: <<TODO>>
+  3|EN : @If 6 says so, then...
+  4|RE : <<TODO>>
+
+[JP#7066] gaps=1  aln=HIGH->US#6919  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「わらわはひとり、ひとりぽっちだ / 　だが、ひとりになったとて / 　ファルガイアを<8a3d>り抜くつもりだ
+  2|LIT: <<TODO>>
+  3|EN : @I am alone, all alone.
+ Even though I'm alone,
+ I plan to protect Filgaia.
+  4|RE : <<TODO>>
+
+[JP#7067] gaps=0  aln=HIGH->US#6920  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「キミはひとりじゃない / 　いっしょに戦おう…
+  2|LIT: <<TODO>>
+  3|EN : @You're not alone.
+ Let's fight together.
+  4|RE : <<TODO>>
+
+[JP#7068] gaps=2  aln=HIGH->US#6921  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「封姿じゃぞ / 　倒すのではない、あくまでも / 　事兄の地<8a71>に封じるだけじゃ[10][0c]「今のわらわたちの力では / 　彼友めを倒すこと / 　<8a72>わなかったのじゃ
+  2|LIT: <<TODO>>
+  3|EN : @Trapped...that's all. He was not
+ destroyed. He was just trapped
+ behind the event horizon.@Our powers aren't strong
+ enough to destroy him now.
+  4|RE : <<TODO>>
+
+[JP#7069] gaps=1  aln=MED->US#6924  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「今のわらわたちの力では / 　彼友めを倒すこと / 　<8a72>わなかったのじゃ
+  2|LIT: <<TODO>>
+  3|EN : @|Let's fight together.|
+ That's what you said.
+ Can your word be trusted?
+  4|RE : <<TODO>>
+
+[JP#7070] gaps=0  aln=MED->US#6925  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「俺たちは / 　基回より、次回の方がきっと強い / 　だから〜
+  2|LIT: <<TODO>>
+  3|EN : @When the Lord Blazer's
+ powers once again begin
+ to destroy Filgaia...@...we'll fight together to
+ destroy and vanquish him
+ from Filgaia completely.
+  4|RE : <<TODO>>
+
+[JP#7071] gaps=2  aln=MED->US#6925  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「『いっしょに戦おう』〜 / 　お茶、そう<8a74>しておったな / 　その言葉に<8a75>りないか？
+  2|LIT: <<TODO>>
+  3|EN : @When the Lord Blazer's
+ powers once again begin
+ to destroy Filgaia...@...we'll fight together to
+ destroy and vanquish him
+ from Filgaia completely.
+  4|RE : <<TODO>>
+
+[JP#7072] gaps=2  aln=MED->US#6926  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : 「更にロードブレイザーの力が / 　<8a77>びファルガイアを脅かす時…[10][0c]「彼友の存帰そのものを / 　ファルガイアから消し<8a40>るために / 　勝に戦ってくれるな？
+  2|LIT: <<TODO>>
+  3|EN : @...we'll fight together to
+ destroy and vanquish him
+ from Filgaia completely.
+  4|RE : <<TODO>>
+
+[JP#7073] gaps=1  aln=MED->US#6926  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「彼友の存帰そのものを / 　ファルガイアから消し<8a40>るために / 　勝に戦ってくれるな？
+  2|LIT: <<TODO>>
+  3|EN : @...we'll fight together to
+ destroy and vanquish him
+ from Filgaia completely.
+  4|RE : <<TODO>>
+
+[JP#7074] gaps=3  aln=MED->US#6927  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「イモータルである / 　ノーブルレッドの<8a79>命は<8a7a>英じゃ[10][0c]「その時まで〜 / 　お茶と出雄うその時まで / 　わらわも<89bf>むとしよう〜
+  2|LIT: <<TODO>>
+  3|EN : @The lives of the immortal Crimson
+ Nobles are eternal.@Until you and I meet
+ again, I will have
+ to take a break.
+  4|RE : <<TODO>>
+
+[JP#7075] gaps=1  aln=MED->US#6928  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「その時まで〜 / 　お茶と出雄うその時まで / 　わらわも<89bf>むとしよう〜
+  2|LIT: <<TODO>>
+  3|EN : @Until you and I meet
+ again, I will have
+ to take a break.
+  4|RE : <<TODO>>

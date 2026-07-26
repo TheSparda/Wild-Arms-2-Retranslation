@@ -1,0 +1,54 @@
+# WA2 INSERTION workspace US block 86 (US#7484-7495)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#7485] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#7680[HIGH]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#7486] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7681[HIGH]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#7487] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#7682[HIGH]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#7490] budget=74ch/3ln
+  NOW: The pseudo-lifeform--|the
+          encroaching parallel universe,|
+          the Kuiper Belt.
+  JP : JP#7685[MED]: 「<8972><8973>生命体 / 　『侵食異世界』カイバーベルト〜
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#7491] budget=52ch/2ln
+  NOW: It's almost as if something is
+          hatching from an egg.
+  JP : JP#7686[HIGH]: 「まるで、押から / 　何かが<8a38>合するような〜
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#7492] budget=52ch/2ln
+  NOW: It's the larva of the
+          encroaching parallel universe!
+  JP : JP#7687[HIGH]: 「『侵食異世界』の / 　ラルヴァ（<8a39>体）だッ！
+  FIT: <<TODO — <=52 chars, 2 line(s), <=35/line>>
+
+[US#7494] budget=97ch/3ln
+  NOW: Our attack seems to have had
+          an effect on the pseudo lifeform,
+          the encroaching parallel universe.
+  JP : JP#7689[HIGH]: 「<8972><8973>生命体と合した / 　侵食異世界に / 　俺たちの守撃は加じたみたいだけど〜
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#7495] budget=50ch/2ln
+  NOW: What we really need to destroy
+          is still out there.
+  JP : JP#7690[MED]: 「<8a3d>に助ち滅ぼすべきは / 　まだ<f040><f042>〜
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>

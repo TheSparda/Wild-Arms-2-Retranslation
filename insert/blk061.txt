@@ -1,0 +1,310 @@
+# WA2 INSERTION workspace US block 61 (US#6815-6882)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#6816] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#6960[MED]: ホ[a1]ぼ<f046>ぉ[09]瑰ミウ でぉホ[fd]ぉ[02]べ 鎹"ずぐがン"すーなぺぼづ || JP#6961[MED]: ホ[a1]ぼ<f046>ぉ[09]瑰ミウ でぉホ[fd]ぉ[02]べ 鎹"ずぐがン"すーなぺぼづ
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6817] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6964[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません || JP#6963[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#6818] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6965[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#6820] budget=49ch/2ln
+  NOW: It's dangerous, so you
+          can just leave it at that.
+  JP : JP#6967[MED]: 「危険なんだから / 　そのくらいにしておいてくれよ
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#6821] budget=67ch/3ln
+  NOW: It's important to know that
+          the bullied have their own
+          reasons too.
+  JP : JP#6968[MED]: ＊戦し周り、新聞<8a48>仲お<898e>りッ！ / 　〜と、<8946>かれている
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#6822] budget=74ch/3ln
+  NOW: *It's written:
+          High-Pressure Sales and
+          Newspaper Solicitations Prohibited!
+  JP : (no JP mapped)
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#6824] budget=93ch/3ln
+  NOW: If we have any behavior that
+          heats things up in the living room,
+          I can't help but drag irons.
+  JP : JP#6970[MED]: 「ちょっとでも / 　お望の間をわかすような<8a59>貸りを見せると / 　思わず招き<8a5a>を招いてしまうトカ[10][0c]「<89e0>るッ！　回る
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#6825] budget=88ch/3ln
+  NOW: It shines! It spins! It makes
+          noise! Release it for the Red
+          Beam Gun to scatter bullets.
+  JP : JP#6971[MED]: 「<89e0>るッ！　回るッ！　復が出るッ！ / 　抜けばタマ<8a5c>る茶の<89e0>飛限ッ！[10][0c]「もしかすると / 　すごいショッキングなシ
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#6826] budget=60ch/3ln
+  NOW: A shocking scene
+          might play itself out right
+          here before us.
+  JP : JP#6972[MED]: 「もしかすると / 　すごいショッキングなシーンが / 　守り<89da>げられるトカ
+  FIT: <<TODO — <=60 chars, 3 line(s), <=35/line>>
+
+[US#6829] budget=55ch/3ln
+  NOW: But why are you here?
+          Weren't you on the
+          Heimdal Gazzo?
+  JP : JP#6975[MED]: 「<f040><f042>にしても、どうしてここにいるんだッ！ / 　ヘイムダル・ガッツォーに / 　乗っていたんじゃないのか？
+  FIT: <<TODO — <=55 chars, 3 line(s), <=35/line>>
+
+[US#6834] budget=101ch/3ln
+  NOW: I have a dream to fulfill, even if
+          it means working with terrorists.
+          I want the endless sea of stars.
+  JP : JP#6980[HIGH]: 「テロリストの勇<8a6d><8847>いでまで / 　手にしたかった我片の友〜 / 　それは、無苦に<89da>がる星の道ッ！
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#6836] budget=88ch/3ln
+  NOW: But really, why did such...
+          |unique| creatures as you two
+          decide to team up with Odessa?
+  JP : JP#6982[MED]: 「そもそも、何でアンタたちみたいな〜 / 　〜その、<8a74>性的なのが / 　オデッサなんかに<8a75>したんだ？
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#6838] budget=36ch/2ln
+  NOW: I won't do anything
+          bad from now on.
+  JP : JP#6984[MED]: 「悪いことは / 　もう、いたしませんトカ
+  FIT: <<TODO — <=36 chars, 2 line(s), <=35/line>>
+
+[US#6839] budget=13ch/1ln
+  NOW: Science, huh?
+  JP : JP#6985[MED]: 「<f040><f042><8a43>来かッ！
+  FIT: <<TODO — <=13 chars, 1 line(s), <=35/line>>
+
+[US#6841] budget=45ch/2ln
+  NOW: All I want to do is
+          to return to my hometown.
+  JP : JP#6987[HIGH]: 「我片らはただ / 　<8808><8a7d>へ帰りたいだけなのにッ！[10][0c]「その友さえかなえられれば / 　人<8a80>無<889b>にして無<8
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#6842] budget=80ch/3ln
+  NOW: If my dream comes true, all
+          creatures will be healthy
+          and peace will be assured.
+  JP : JP#6988[HIGH]: 「その友さえかなえられれば / 　人<8a80>無<889b>にして無<8a1c><89e2><8a81> / 　あなた方の<8a82><8a83>は<8a84
+  FIT: <<TODO — <=80 chars, 3 line(s), <=35/line>>
+
+[US#6843] budget=52ch/3ln
+  NOW: Don't want things so
+          peaceful that everyone's
+          bored.
+  JP : JP#6989[HIGH]: 「あんまり<8a82><8a83>すぎちゃって / 　人生に<8a85><8a86>をきたすおそれも / 　あるトカ、ないトカ〜[10][0c]「そのうち、食事
+  FIT: <<TODO — <=52 chars, 3 line(s), <=35/line>>
+
+[US#6844] budget=100ch/3ln
+  NOW: Finally, the idea of food vanishes.
+          The smallest morsel is refused and
+          the sutra's chant will quiet.
+  JP : JP#6990[HIGH]: 「そのうち、食事の<8a87>念が消失し / 　<8a88>っぽこの中で<88d2>安を<898e>っているうちに / 　暮を<8a8b>える<883f>が小さ
+  FIT: <<TODO — <=100 chars, 3 line(s), <=35/line>>
+
+[US#6845] budget=48ch/3ln
+  NOW: Wow!
+          I almost was enlightened
+          just imagining it.
+  JP : JP#6991[MED]: 「わーおッ！ / 　考えただけで<8a8c>りを開きそうッ！
+  FIT: <<TODO — <=48 chars, 3 line(s), <=35/line>>
+
+[US#6846] budget=30ch/2ln
+  NOW: So what are we supposed
+          to do?
+  JP : JP#6992[MED]: 「<f040><f042>で、俺たちは / 　何を、どうしたらいいんだ？
+  FIT: <<TODO — <=30 chars, 2 line(s), <=35/line>>
+
+[US#6848] budget=76ch/3ln
+  NOW: Now, losers of the combat unit--
+          please show me around here,
+          at my own home.
+  JP : JP#7006[HIGH]: 「これって、<889a><889b><8aa8>違？ / 　ちがうよね？
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#6849] budget=45ch/2ln
+  NOW: What do you mean you
+          want to be shown around?
+  JP : JP#7007[HIGH]: 「さっそく、<8aa4>星Ｆから追殺〜 / 　<f040><f042>じゃなくて / 　<897e>り出してやろう
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#6850] budget=84ch/3ln
+  NOW: Finally, the computers rebelled.
+          This is first class Hard SF.
+          Think you're so smart.
+  JP : JP#7008[HIGH]: 
+  FIT: <<TODO — <=84 chars, 3 line(s), <=35/line>>
+
+[US#6852] budget=56ch/2ln
+  NOW: If you face adversity now,
+          everything else will be easy.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=56 chars, 2 line(s), <=35/line>>
+
+[US#6853] budget=67ch/3ln
+  NOW: Well, all right.
+          I'll show you around.
+          Just go on home or wherever.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=67 chars, 3 line(s), <=35/line>>
+
+[US#6854] budget=66ch/3ln
+  NOW: Hidden in this forceful,
+          stout body and with our status,
+          we are...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=66 chars, 3 line(s), <=35/line>>
+
+[US#6855] budget=33ch/2ln
+  NOW: I am a Lizardian
+          I came by air...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=33 chars, 2 line(s), <=35/line>>
+
+[US#6856] budget=31ch/1ln
+  NOW: ...or you could say we crashed.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#6857] budget=53ch/2ln
+  NOW: No wonder! I mean your
+          perspective is totally warped.
+  JP : JP#7009[MED]: 「あとは乗り込むだけだトカッ！
+  FIT: <<TODO — <=53 chars, 2 line(s), <=35/line>>
+
+[US#6858] budget=101ch/3ln
+  NOW: We didn't belong to a Planetary
+          Federation nor was there a rescue
+          squad coming to this remote region.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=101 chars, 3 line(s), <=35/line>>
+
+[US#6859] budget=49ch/2ln
+  NOW: So then, the problem
+          must get solved by yourself.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=49 chars, 2 line(s), <=35/line>>
+
+[US#6860] budget=61ch/3ln
+  NOW: Do you call this acting
+          like a victim?
+          That was wrong, right?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=61 chars, 3 line(s), <=35/line>>
+
+[US#6861] budget=71ch/3ln
+  NOW: So, we'll banish you from
+          Planet F. No. No. Really.
+          We'll send you off.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=71 chars, 3 line(s), <=35/line>>
+
+[US#6863] budget=32ch/1ln
+  NOW: All we have to do now is get in.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=32 chars, 1 line(s), <=35/line>>
+
+[US#6866] budget=97ch/3ln
+  NOW: A savage and miraculous symbol of
+          destruction who takes on a woeful
+          pose--Bulkogidon is here now!
+  JP : JP#7012[HIGH]: 「<8ab3>悪と<8845>異に<8ab4>られた破滅の<8ab5><8ab6>にして / 　<8ab7>ましポーズのブルコギドンッ！ / 　そいつが今ここに
+  FIT: <<TODO — <=97 chars, 3 line(s), <=35/line>>
+
+[US#6867] budget=11ch/1ln
+  NOW: Bulkogidon!
+  JP : JP#7013[HIGH]: 「ブールーコーギードーンッ！[10][0c][17]
+  FIT: <<TODO — <=11 chars, 1 line(s), <=35/line>>
+
+[US#6870] budget=52ch/3ln
+  NOW: You giant who taught
+          me about justice
+          and courage...
+  JP : JP#7016[HIGH]: 「我片たちに / 　新<8a0f>と<8aba>気を<8abb>えてくれた / 　でっかい人〜[10][0c]「〜ブルコギドンッ！
+  FIT: <<TODO — <=52 chars, 3 line(s), <=35/line>>
+
+[US#6871] budget=14ch/1ln
+  NOW: ...Bulkogidon!
+  JP : JP#7017[HIGH]: 「〜ブルコギドンッ！
+  FIT: <<TODO — <=14 chars, 1 line(s), <=35/line>>
+
+[US#6872] budget=57ch/3ln
+  NOW: You show empathy
+          for the strangest things.
+          Let's move on.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=57 chars, 3 line(s), <=35/line>>
+
+[US#6873] budget=46ch/2ln
+  NOW: Seeing it so closely
+          really fills me with awe.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=46 chars, 2 line(s), <=35/line>>
+
+[US#6874] budget=88ch/3ln
+  NOW: After all, it's a Space Engine
+          |Steamroller| of my own design.
+          To have this shape fly...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#6875] budget=57ch/3ln
+  NOW: You're not involved
+          in some kind of animal
+          trade are you?
+  JP : JP#7018[MED]: 「〜<8a22>なところに / 　信情移入するんじゃない / 　先を急ぐぞ
+  FIT: <<TODO — <=57 chars, 3 line(s), <=35/line>>
+
+[US#6876] budget=98ch/3ln
+  NOW: We're blood brothers. Adoring
+          ideal scientists form a happy but
+          embarrassing destined partnership.
+  JP : JP#7019[MED]: 「やっぱ間近で見ると / 　ホレボレしちゃうトカ / 　しちゃわないトカ〜[10][0c]「さすがは我片の<88e5>特した / 　<8aa2><8aa3>エン || JP#7020[MED]: 「さすがは我片の<88e5>特した / 　<8aa2><8aa3>エンジン『ゴリ戦し』なのだ / 　この<88e1>状を飛ばしちゃうなんて〜
+  FIT: <<TODO — <=98 chars, 3 line(s), <=35/line>>
+
+[US#6877] budget=65ch/3ln
+  NOW: We had them volunteer
+          to help with our departure
+          to the homeland.
+  JP : JP#7023[MED]: 「我片らを / 　<8808><8a7d>をへと<8a34>戻たせてくれるため / 　ボランティアとして<8ac7>力してもらったトカ || JP#7022[MED]: 「言うならば、こやつらは<8a0f><8ac2><8ac3> / 　理違の<8a43>来者をお<8ac4>い<8ac5>し上げる / 　うれしはずかし運命<8a
+  FIT: <<TODO — <=65 chars, 3 line(s), <=35/line>>
+
+[US#6879] budget=94ch/3ln
+  NOW: While we are fated to go, we're
+          also fated to stay and protect.
+          Entrust Filgaia to their care.
+  JP : JP#7025[MED]: 「我片らが、行く運命（さだめ）ならば / 　残って見<8acb>る運命もある / 　こやつらにファルガイアを<8acc>すのだ
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#6880] budget=63ch/3ln
+  NOW: I doubt the wisdom of
+          leaving our star
+          in their care so easily.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=63 chars, 3 line(s), <=35/line>>
+
+[US#6881] budget=99ch/3ln
+  NOW: Separate. Cut. Words for takeoff.
+          To be sent off by those I adore...
+          Off we go to the sea of stars.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=99 chars, 3 line(s), <=35/line>>

@@ -1,0 +1,142 @@
+# WA2 — BRAD'S INTRO (Fugitive in the Rain, block 24) — FINAL insert-ready retranslation
+# =========================================================================================
+# Setup: two low-rank soldiers hunt an escaped fugitive through a rainy mountain forest. The
+# fugitive is the condemned Slayheim war hero, Brad Evans. {1} = Brad's player-set name code.
+# JP fully block-decoded (block 24 table complete). Glossary applied (WA2_NAME_DICTIONARY.md).
+# No em dashes (JP uses 〜 …). Sized to display window (<=5 lines x ~35 chars).
+# Columns: JP (clean) / LIT / EN (current) / RE (final).
+# =========================================================================================
+
+[US#5072] (soldier, hunting)
+  JP : 「もっとよく探すぞッ！
+  LIT: Search more thoroughly!
+  EN : We've gotta look some more!
+  RE : Search harder. He's here!
+
+[US#5073] (Brad, hiding)
+  JP : 「〜ちッ、この状況〜 / あの日を思い出させやがる
+  LIT: Tch... this situation... it drags up the memory of that day.
+  EN : Tsk, this reminds me of that other time.
+  RE : Tch... this situation
+       drags up that day again.
+
+[US#5074] (Brad)
+  JP : 「もっとも / こんなイヤな雨は降っていなかったがな
+  LIT: Though, there wasn't any wretched rain like this back then.
+  EN : But there wasn't any miserable rain then.
+  RE : Though back then, no
+       wretched rain like this fell.
+
+[US#5075] (Brad, core of his character)
+  JP : 「生きなければならない / 僕の名前には、まだ意義がある〜
+  LIT: I have to live. My name still holds meaning.
+  EN : I have to survive. My name still has meaning.
+  RE : I have to live on. My name
+       still carries meaning.
+
+[US#5076] (soldier)
+  JP : 「よし、回収地帯へ向かうぞ / ヤツがこの山を抜ける前に / 追いつめるッ！
+  LIT: Right, head for the recovery zone. We corner him before he clears this mountain!
+  EN : OK, proceed to the recovery point. We must catch him before he gets through the forest.
+  RE : Right, to the recovery zone.
+       We corner him before
+       he clears this mountain!
+
+[US#5077] (soldier)
+  JP : 「すでにこちら側は / 封鎖されているようだな
+  LIT: This side seems to be sealed off already.
+  EN : It seems this side has already been blocked.
+  RE : This side's already
+       been sealed off.
+
+[US#5079] (soldier, spots Brad)
+  JP : 「そこにいるのは誰だッ！
+  LIT: Who's there?!
+  EN : Who's there?!
+  RE : Who's there?!
+
+[US#5080] (soldier, mistaking Brad for a fellow shelterer)
+  JP : 「おおかたお前も / 雨をしのごうと山に入ってきたクチだろ / よし、一緒に山を抜けるぞ
+  LIT: You probably came up the mountain to wait out the rain too. Come on, let's get through it together.
+  EN : You probably came into the forest to avoid the rain too. Let's get out of here together.
+  RE : You came up here to wait out
+       the rain too, I bet. Come on,
+       we'll get through together.
+
+[US#5081] (soldier)
+  JP : 「凶悪犯かな？ / 案外、青っ白い変質者だったりして
+  LIT: A vicious criminal, maybe? Or surprisingly, some pale-faced pervert.
+  EN : A dangerous criminal? Maybe a very pale degenerate.
+  RE : A vicious criminal, maybe?
+       Or some pale-faced creep,
+       for all we know.
+
+[US#5082] (soldier)
+  JP : 「わかっているのは / 僕たちには何も知らされていないってことと / 知る必要も無いってことさ
+  LIT: All we know is that we're told nothing, and that we don't need to know.
+  EN : All I know is that we haven't been told anything and there's no need for us to know...
+  RE : All we know is this: we're told
+       nothing, and we don't
+       need to know a thing.
+
+[US#5083] (soldier)
+  JP : 「僕たちで捕まえて / 手柄をたてるのも悪くないな
+  LIT: Catching him ourselves to earn the credit wouldn't be bad.
+  EN : It wouldn't be a bad idea for us to catch him and get the credit.
+  RE : Catching him ourselves
+       for the credit? Not bad.
+
+[US#5084] (soldier)
+  JP : 「賞金が出たら馬を買おう / セボック国にまた馬が戻ってくるんだ / 徴用同然のバイトなんかオサラバだぜ
+  LIT: With the reward I'll buy a horse, bring a horse back to T'Bok, and be done with this conscript-grade grunt work.
+  EN : With a reward, I'll get a horse and return to T'Bok Village. It'll end my mercenary days.
+  RE : With the bounty I'll buy a horse,
+       bring one back to T'Bok, and
+       quit this grunt work for good.
+
+[US#5085] (soldier)
+  JP : 「あの２人 / どこからか徴同されてきたばかりか？
+  LIT: Those two, freshly conscripted from somewhere?
+  EN : Were those two soldiers conscripted recently?
+  RE : Those two. Freshly
+       conscripted from somewhere?
+
+[US#5088] (Brad, names himself for the first time)
+  JP : 「私に考えがある / 待っていろ、{1}・エヴァンス
+  LIT: I have a plan. Wait, {1} Evans.
+  EN : I've got an idea. Wait, {1} Evans.
+  RE : I have a plan.
+       Hold on, {1} Evans.
+
+[US#5091] (Brad, internal)
+  JP : （だが、追跡部隊は、すぐそこまで来ている / たとえ命を落とすことがあっても / 男子の誇りを傷つけるわけにはいかぬ）
+  LIT: (But the pursuit squad is nearly on me. Even if I lose my life, I can't let my pride as a man be wounded.)
+  EN : (But the Posse is closing in. Even if I die, I can't let my name be dishonored.)
+  RE : (The pursuers are almost on me.
+       Even if it costs my life, I won't
+       let my pride as a man be broken.)
+
+[US#5092] (Brad, internal, the reveal)
+  JP : （僕は、スレイハイム解放軍の / 『{1}・エヴァンス』だ）
+  LIT: (I am {1} Evans, of the Slayheim Liberation Army.)
+  EN : (I am |{1} Evans| of the Slayheim Liberation Army.)
+  RE : (I am {1} Evans of the
+       Slayheim Liberation Army.)
+
+[US#5093] (soldier)
+  JP : 「彼らもここを抜ける以上 / 何らかの手がかりを / 国に残していく可能性が高い〜
+  LIT: Since they're passing through here too, chances are high they'll leave some clue behind.
+  EN : As long as they're cutting through the forest too, they're bound to leave a clue.
+  RE : Since they're cutting through
+       here too, odds are high they'll
+       leave some trace behind.
+
+# =========================================================================================
+# STATUS: JP fully block-decoded. All RE em-dash-free, fit display window (<=5ln/<=35 per line).
+# CHARACTER: Brad's intro = identity-as-burden. 5075 ("my name still carries meaning") + 5091-92
+#   (clinging to pride and the "{1} Evans" name even facing death) set up the later reveal that
+#   "Brad Evans" is a constructed hero identity (real name Billy Pilder). RE sharpens 5075/5091
+#   where EN softened them.
+# GLOSSARY: 男子の誇り = "pride as a man" (EN vaguer "my name be dishonored"); 徴用同然のバイト
+#   = "conscript-grade grunt work" (EN just "mercenary days").
+# =========================================================================================

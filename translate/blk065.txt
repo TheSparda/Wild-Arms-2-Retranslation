@@ -1,0 +1,133 @@
+# WA2 4-col translation doc block 65 (JP#7121-7140)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 16 boxes | OK=0 FAIR=10 SHAKY=6 JP-ONLY=0
+# DRAFT STATUS: 16 boxes | OK=0 FAIR=8 SHAKY=8 JP-ONLY=0
+
+[JP#7124] gaps=0  aln=MED->US#6974  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#7125] gaps=2  aln=MED->US#6975  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7126] gaps=0  aln=MED->US#6976  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#7127] gaps=4  aln=MED->US#6977  CONF=SHAKY unsolved=4  CONF=FAIR unsolved=1
+  1|JP : ＊フォトスフィアは[0b]おを幸すことで / 　<8a39>上に仲次泣を守出して / 　姉<8a3d>の暗助を次るく仲らします[10][0c]＊<8a39>上にあるスイッチに命中させることで / 　そのスイッチを切り<8864>えることもできます
+  2|LIT: <<TODO>>
+  3|EN : *Press the 1 button to shoot the
+ Flare Gun overhead to illuminate
+ the surrounding darkness.*Fire it upward to hit switches
+ above your head.
+  4|RE : <<TODO>>
+
+[JP#7128] gaps=2  aln=MED->US#6978  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : ＊<8a39>上にあるスイッチに命中させることで / 　そのスイッチを切り<8864>えることもできます
+  2|LIT: <<TODO>>
+  3|EN : *Fire it upward to hit switches
+ above your head.
+  4|RE : <<TODO>>
+
+[JP#7129] gaps=0  aln=MED->US#6979  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊強力なミサイルをもって / 　相険体に対して歩撃を行います
+  2|LIT: <<TODO>>
+  3|EN : *A powerful missile will
+ launch an attack on all
+ the enemies.
+  4|RE : <<TODO>>
+
+[JP#7130] gaps=2  aln=MED->US#6980  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊アイテムとして使用することで / 　バイアネットに新たな泣戦を / 　追周します[10][0c]＊<8a48>撃と守撃の / 　<89b1>仲コンビネーション歩撃を / 　相間体に対して行います
+  2|LIT: <<TODO>>
+  3|EN : *Using this item will add
+ new ammunition to the
+ bayonet.*A lethal attack combining
+ shooting and cutting is
+ delivered to a single enemy.
+  4|RE : <<TODO>>
+
+[JP#7131] gaps=2  aln=MED->US#6981  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊<8a48>撃と守撃の / 　<89b1>仲コンビネーション歩撃を / 　相間体に対して行います
+  2|LIT: <<TODO>>
+  3|EN : *A lethal attack combining
+ shooting and cutting is
+ delivered to a single enemy.
+  4|RE : <<TODO>>
+
+[JP#7132] gaps=4  aln=HIGH->US#6982  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : ＊果てしなく流るる生命の<88a1>は / 　その時、<8a4c>で渡る<8a4d>の大好を恥て / 　負を見ることなき死の遠<8a52>とならん
+  2|LIT: <<TODO>>
+  3|EN : *I am Wotan, leader of the Wild
+ Hunt, a band of specters riding
+ the winds of winter storms.
+  4|RE : <<TODO>>
+
+[JP#7133] gaps=3  aln=HIGH->US#6983  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : ＊還える、還える、勉に還える〜 / 　力を失いし<8a55><89e3>獣たちの貸が勉に還える / 　そして意<8a57>は谷へと変わる
+  2|LIT: <<TODO>>
+  3|EN : *I am Saturn, god of agriculture
+ and ruler of the world during
+ the age of happiness.
+  4|RE : <<TODO>>
+
+[JP#7134] gaps=9  aln=HIGH->US#6984  CONF=SHAKY unsolved=9  CONF=SHAKY unsolved=9
+  1|JP : ＊見辺ろすは<890a>、<882d>きと新しきふたつの<890a>〜 / 　<890a>は、<89ab>しさにつつみこむ望の探と / 　無<8a59><8a5a>な復の昔<89fb>の探を<8a5c>せ持たん
+  2|LIT: <<TODO>>
+  3|EN : *Looking down are the new Moon and
+ the old Moon, kind mother's face
+ and cruel queen of the night.
+  4|RE : <<TODO>>
+
+[JP#7135] gaps=3  aln=HIGH->US#6985  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : ＊茶飛の限きは、守<8a61>の限き / 　生きる者の<89e5>に守<8a61>という名の欠延があれば / 　助を乗いし、茶飛とならん
+  2|LIT: <<TODO>>
+  3|EN : *The sun glitters with hope.
+ If one's heart is filled with hope,
+ darkness exits and the sun appears.
+  4|RE : <<TODO>>
+
+[JP#7136] gaps=8  aln=HIGH->US#6986  CONF=SHAKY unsolved=8  CONF=SHAKY unsolved=8
+  1|JP : ＊<8a64>と道を<8a65>えし<88bf>男（システム）〜 / 　ユグドラシルの倒滅<8a67>が魂<895a>を<8952>けし時 / 　<8804>死<8a64>使が頼い上がる
+  2|LIT: <<TODO>>
+  3|EN : *I am Thor, god of thunder, wielder
+ of the hammer Mjolnir and the
+ defender of the Aesir.
+  4|RE : <<TODO>>
+
+[JP#7137] gaps=10  aln=HIGH->US#6987  CONF=SHAKY unsolved=10  CONF=SHAKY unsolved=9
+  1|JP : ＊<8a6a><8a6b>と勇<8a6d>に友ちた<8a08>金の魂数苦は / 　頼い周りし姿<8a71>の<8a72>によりて基<8a74>に帰す / 　後に残るは、<8a75>昔と協と、ただ<8a77><8a61>〜
+  2|LIT: <<TODO>>
+  3|EN : *I am Frigg, goddess of love and
+ fertility. After losing my husband
+ Od, my tears turned to gold.
+  4|RE : <<TODO>>
+
+[JP#7138] gaps=6  aln=HIGH->US#6988  CONF=SHAKY unsolved=6  CONF=SHAKY unsolved=5
+  1|JP : ＊<8a55><89e3>の緊は未勝を仲らし、<8a79><8a7a>を英らん / 　だが、姿<8a71>の緊は未勝を雄やし / 　<8a7d>元的破滅を共勝せん
+  2|LIT: <<TODO>>
+  3|EN : *I am Tiu, god of the sky and war,
+ bringer of the flame of disaster
+ to destroy all creation.
+  4|RE : <<TODO>>
+
+[JP#7139] gaps=0  aln=MED->US#6989  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「おかしいな〜 / 　何だろう？　このカンジ〜 / 　ガーディアンに近い信信が流れる〜
+  2|LIT: <<TODO>>
+  3|EN : @This is strange.
+ What could this feeling be?
+ Feels like I'm near a Guardian.
+  4|RE : <<TODO>>

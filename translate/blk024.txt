@@ -1,0 +1,206 @@
+# WA2 4-col translation doc block 24 (JP#5179-5211)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 26 boxes | OK=12 FAIR=9 SHAKY=5 JP-ONLY=0
+# DRAFT STATUS: 26 boxes | OK=9 FAIR=11 SHAKY=6 JP-ONLY=0
+
+[JP#5180] gaps=0  aln=HIGH->US#5064  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#5181] gaps=2  aln=HIGH->US#5065  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5182] gaps=0  aln=HIGH->US#5066  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#5183] gaps=4  aln=HIGH->US#5067  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : ＊ＨＰの回<8a34><886f>は / 　ゲットしたジェムの大きさに<8876><8943>し / 　その泣果はパーティー険片におよびます
+  2|LIT: <<TODO>>
+  3|EN : *Gems heal all members of the party
+ but the amount of HP restored
+ depends on the size of the gem.
+  4|RE : <<TODO>>
+
+[JP#5184] gaps=3  aln=HIGH->US#5068  CONF=SHAKY unsolved=3  CONF=OK unsolved=0
+  1|JP : ＊『おっとっと』状態中に / 　[0b]かを<8a39>すことで / 　押<8a38>を飛び周りることができます[10][0c]＊押<8a38>に向かって、ダッシュ状態で搭乗すると / 　『おっとっと』ポーズをとることなく / 　そのまま飛び周りることができます
+  2|LIT: <<TODO>>
+  3|EN : *In the |oops| state, you can
+ press the 2 button to go
+ ahead and jump down.*You can also jump down
+ by dashing off an edge
+ without the |oops| action.
+  4|RE : <<TODO>>
+
+[JP#5185] gaps=1  aln=HIGH->US#5069  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : ＊押<8a38>に向かって、ダッシュ状態で搭乗すると / 　『おっとっと』ポーズをとることなく / 　そのまま飛び周りることができます
+  2|LIT: <<TODO>>
+  3|EN : *You can also jump down
+ by dashing off an edge
+ without the |oops| action.
+  4|RE : <<TODO>>
+
+[JP#5188] gaps=1  aln=MED->US#5072  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「もっとよく<8856>すぞッ！
+  2|LIT: <<TODO>>
+  3|EN : @We've gotta look some more!
+  4|RE : <<TODO>>
+
+[JP#5189] gaps=3  aln=MED->US#5073  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「〜ちッ、この状況〜 / 　あの<8941>を思い出させやがる[10][0c]「<f040><f042>もっとも / 　こんなイヤな歩は周っていなかったがな
+  2|LIT: <<TODO>>
+  3|EN : @Tsk, this reminds me
+ of that other time.@But there wasn't any
+ miserable rain then.
+  4|RE : <<TODO>>
+
+[JP#5190] gaps=2  aln=MED->US#5074  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>もっとも / 　こんなイヤな歩は周っていなかったがな
+  2|LIT: <<TODO>>
+  3|EN : @But there wasn't any
+ miserable rain then.
+  4|RE : <<TODO>>
+
+[JP#5191] gaps=0  aln=MED->US#5075  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「生きなければならない / 　僕の名前には、まだ意戦がある〜
+  2|LIT: <<TODO>>
+  3|EN : @I have to survive.
+ My name still has meaning.
+  4|RE : <<TODO>>
+
+[JP#5192] gaps=1  aln=MED->US#5076  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「よし、回<8939>地帯へ向かうぞ / 　ヤツがこの山を抜ける前に / 　追いつめるッ！
+  2|LIT: <<TODO>>
+  3|EN : @OK, proceed to the recovery
+ point. We must catch him before
+ he gets through the forest!!
+  4|RE : <<TODO>>
+
+[JP#5193] gaps=1  aln=MED->US#5077  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「すでにこちら<89f5>は / 　封間されているようだな / 
+  2|LIT: <<TODO>>
+  3|EN : @It seems this side has
+ already been blocked.
+  4|RE : <<TODO>>
+
+[JP#5194] gaps=2  aln=HIGH->US#5078  CONF=FAIR unsolved=2  CONF=FAIR unsolved=2
+  1|JP : ＊<8a4c>撃を<8a4d>えることで / 　さまざまな泣果を / 　招き起こすことができます
+  2|LIT: <<TODO>>
+  3|EN : *Delivering this shock
+ will cause all kinds
+ of things to happen.
+  4|RE : <<TODO>>
+
+[JP#5195] gaps=0  aln=HIGH->US#5079  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「そこにいるのは誰だッ！
+  2|LIT: <<TODO>>
+  3|EN : @Who's there?!
+  4|RE : <<TODO>>
+
+[JP#5196] gaps=2  aln=HIGH->US#5080  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「おおかたお前も / 　歩をしのごうと山に入って<8954>ったクチだろ / 　よし、一<8a55>に山を抜けるぞ
+  2|LIT: <<TODO>>
+  3|EN : @You probably came into the
+ forest to avoid the rain too.
+ Let's get out of here together.
+  4|RE : <<TODO>>
+
+[JP#5197] gaps=4  aln=HIGH->US#5081  CONF=SHAKY unsolved=4  CONF=SHAKY unsolved=3
+  1|JP : 「<8a57>悪犯かな？ / 　望外、<8a59>っ<8a5a>い変<886e>者だったりして
+  2|LIT: <<TODO>>
+  3|EN : @A dangerous criminal?
+ Maybe a very pale degenerate.
+  4|RE : <<TODO>>
+
+[JP#5198] gaps=0  aln=HIGH->US#5082  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「わかっているのは / 　僕たちには何も知らされていないってことと / 　知る必要も無いってことさ
+  2|LIT: <<TODO>>
+  3|EN : @All I know is that we haven't
+ been told anything and there's
+ no need for us to know either.
+  4|RE : <<TODO>>
+
+[JP#5199] gaps=5  aln=HIGH->US#5083  CONF=SHAKY unsolved=5  CONF=SHAKY unsolved=4
+  1|JP : 「僕たちで<8929>まえて / 　手<8a53>をたてるのも悪くないな[10][0c]「復金が出たら<8a5c>を茶おう / 　セボック国にまた<8a5c>が戻ってくるんだ / 　貸<8880>同のバイトなんかオサラバだぜ
+  2|LIT: <<TODO>>
+  3|EN : @It wouldn't be a bad idea for us
+ to catch him and get the credit.@With a reward, I'll get a horse
+ and return to T'Bok Village.
+ It'll end my mercenary work.
+  4|RE : <<TODO>>
+
+[JP#5200] gaps=3  aln=HIGH->US#5084  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : 「復金が出たら<8a5c>を茶おう / 　セボック国にまた<8a5c>が戻ってくるんだ / 　貸<8880>同のバイトなんかオサラバだぜ
+  2|LIT: <<TODO>>
+  3|EN : @With a reward, I'll get a horse
+ and return to T'Bok Village.
+ It'll end my mercenary work.
+  4|RE : <<TODO>>
+
+[JP#5201] gaps=0  aln=HIGH->US#5085  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「あの２人 / 　どこからか貸同されてきたばかりか？[10][0c][17]
+  2|LIT: <<TODO>>
+  3|EN : @Were those two soldiers
+ conscripted recently?
+  4|RE : <<TODO>>
+
+[JP#5204] gaps=0  aln=HIGH->US#5088  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : 「私に考えがある / 　待っていろ、[05]お・エヴァンス
+  2|LIT: <<TODO>>
+  3|EN : @I've got an idea.
+ Wait, 1 Evans.
+  4|RE : <<TODO>>
+
+[JP#5205] gaps=1  aln=HIGH->US#5089  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : ＊『本体』には、名前が表<893a>されており / 　ここのＨＰを０にすることで / 　ボスキャラクターを倒すことができます[10][0c]＊『頼字級』のＨＰを０にしても / 　ボスキャラクターを倒すことはできませんが / 　その分のＥＸＰやギャラを勇得できます
+  2|LIT: <<TODO>>
+  3|EN : *Defeat a Boss character by
+ attacking the Main Body at its
+ name and reducing its HP to 0.*Reducing the HP to 0 for the
+ |Body Parts| won't defeat the Boss
+ but will win EXP and Gella.
+  4|RE : <<TODO>>
+
+[JP#5206] gaps=0  aln=HIGH->US#5090  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : ＊『頼字級』のＨＰを０にしても / 　ボスキャラクターを倒すことはできませんが / 　その分のＥＸＰやギャラを勇得できます
+  2|LIT: <<TODO>>
+  3|EN : *Reducing the HP to 0 for the
+ |Body Parts| won't defeat the Boss
+ but will win EXP and Gella.
+  4|RE : <<TODO>>
+
+[JP#5207] gaps=3  aln=HIGH->US#5091  CONF=SHAKY unsolved=3  CONF=SHAKY unsolved=3
+  1|JP : （だが、追跡字闘は、すぐそこまで姿ている / 　たとえ命を落とすことがあっても / 　男<8a67>の<8a71>りを<8a72>つけるわけにはいかぬ）[10][0c]（僕は、スレイハイム解殺周の / 　『[05]お・エヴァンス』だ）
+  2|LIT: <<TODO>>
+  3|EN : (But the Posse is closing in.
+ Even if I die, I can't let
+ my name be dishonored.)(I am |1 Evans| of the
+ Slayheim Liberation Army.)
+  4|RE : <<TODO>>
+
+[JP#5208] gaps=0  aln=HIGH->US#5092  CONF=OK unsolved=0  CONF=OK unsolved=0
+  1|JP : （僕は、スレイハイム解殺周の / 　『[05]お・エヴァンス』だ）
+  2|LIT: <<TODO>>
+  3|EN : (I am |1 Evans| of the
+ Slayheim Liberation Army.)
+  4|RE : <<TODO>>
+
+[JP#5209] gaps=1  aln=MED->US#5093  CONF=FAIR unsolved=1  CONF=FAIR unsolved=0
+  1|JP : 「基らもここを抜ける以上 / 　何らかの手がかりを / 　国に残していく可能性が<8867>い〜
+  2|LIT: <<TODO>>
+  3|EN : @As long as they're cutting
+ through the forest too, they're
+ bound to leave clues.
+  4|RE : <<TODO>>

@@ -1,0 +1,153 @@
+# WA2 INSERTION workspace US block 59 (US#6736-6773)
+# One row per US BOX (the slot we fill). Retranslation MUST fit budget.
+# budget = max visible chars / lines available in this box (same-size safe insert).
+# JP = source line(s) mapped to this box (aln conf). FIT = retranslation within budget (TODO).
+====================================================================================
+
+[US#6739] budget=25ch/1ln
+  NOW: *Do you want to read it?2
+  JP : JP#6885[MED]: ＊進みますか？[18]か
+  FIT: <<TODO — <=25 chars, 1 line(s), <=35/line>>
+
+[US#6740] budget=63ch/2ln
+  NOW: Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6886[MED]: 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=63 chars, 2 line(s), <=35/line>>
+
+[US#6741] budget=64ch/2ln
+  NOW: *Unfortunately, this service is
+          unavailable in the Demo Version.
+  JP : JP#6887[MED]: ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  FIT: <<TODO — <=64 chars, 2 line(s), <=35/line>>
+
+[US#6750] budget=79ch/3ln
+  NOW: *Press the 1 button to be able to
+          jump vertically to slightly higher
+          locations.
+  JP : JP#6896[HIGH]: ＊ジャンプシューズは[0b]おを片すことで / 　<8a38><8865>ジャンプをして / 　少し<8867>い級<8822>に<88f8>くことが可能です[
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#6751] budget=77ch/3ln
+  NOW: *By standing in certain locations,
+          one can navigate areas of varying
+          heights.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=77 chars, 3 line(s), <=35/line>>
+
+[US#6752] budget=56ch/3ln
+  NOW: *The lonesome Virgin
+          travels a road
+          seeking a half-body.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=56 chars, 3 line(s), <=35/line>>
+
+[US#6753] budget=93ch/3ln
+  NOW: *To heal the heart's loneliness,
+          travel 5 steps to the cold wind,
+          3 steps to the sinking sun.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=93 chars, 3 line(s), <=35/line>>
+
+[US#6754] budget=78ch/3ln
+  NOW: *If the two meet,
+          conversation will flourish
+          and a road to walk will be found.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=78 chars, 3 line(s), <=35/line>>
+
+[US#6755] budget=79ch/3ln
+  NOW: *The Virgin's eyes are eloquent
+          speaking the silence of
+          the road's destination.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=79 chars, 3 line(s), <=35/line>>
+
+[US#6756] budget=76ch/3ln
+  NOW: To the one who threw it all away,
+          but couldn't throw away their
+          confusion...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=76 chars, 3 line(s), <=35/line>>
+
+[US#6757] budget=88ch/3ln
+  NOW: If you want to liberate
+          the Raypoint I control, you must
+          rid yourself of your confusion.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=88 chars, 3 line(s), <=35/line>>
+
+[US#6759] budget=83ch/3ln
+  NOW: 4, why do you not have
+          your original body, but have
+          acquired bionic implants again?
+  JP : (no JP mapped)
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#6760] budget=94ch/3ln
+  NOW: You wished not for the body you
+          were born with, but for the power
+          to fight, for a bionic body.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=94 chars, 3 line(s), <=35/line>>
+
+[US#6761] budget=31ch/1ln
+  NOW: That's what I don't understand.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=31 chars, 1 line(s), <=35/line>>
+
+[US#6762] budget=45ch/2ln
+  NOW: Heroes aren't passed
+          through blood relations.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=45 chars, 2 line(s), <=35/line>>
+
+[US#6763] budget=43ch/2ln
+  NOW: What you do determines
+          the birth of a hero.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=43 chars, 2 line(s), <=35/line>>
+
+[US#6764] budget=59ch/2ln
+  NOW: It's clearly more important
+          than the <Sword Magess>' blood.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=59 chars, 2 line(s), <=35/line>>
+
+[US#6765] budget=39ch/2ln
+  NOW: It's friends I have been
+          searching for.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=39 chars, 2 line(s), <=35/line>>
+
+[US#6766] budget=83ch/3ln
+  NOW: The constricted body I have
+          always sought is the |bond|
+          that ties me to my friends.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=83 chars, 3 line(s), <=35/line>>
+
+[US#6767] budget=74ch/3ln
+  NOW: I feel I have in me both
+          |the power to fight|
+          and |bonds with my friends.|
+  JP : (no JP mapped)
+  FIT: <<TODO — <=74 chars, 3 line(s), <=35/line>>
+
+[US#6768] budget=12ch/1ln
+  NOW: Confusion...
+  JP : (no JP mapped)
+  FIT: <<TODO — <=12 chars, 1 line(s), <=35/line>>
+
+[US#6769] budget=50ch/2ln
+  NOW: I am just like you.
+          I too want to protect Filgaia.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=50 chars, 2 line(s), <=35/line>>
+
+[US#6770] budget=85ch/3ln
+  NOW: I better let them know that
+          something fancier would be more
+          appropriate to my tastes.
+  JP : (no JP mapped)
+  FIT: <<TODO — <=85 chars, 3 line(s), <=35/line>>

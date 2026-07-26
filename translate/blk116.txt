@@ -1,0 +1,280 @@
+# WA2 4-col translation doc block 116 (JP#8386-8426)
+# [1]JP raw  [2]JP->EN literal(TODO)  [3]current EN + [aln]  [4]retranslation from JP(TODO)
+# aln HIGH/MED = col3 trustworthy as cross-check; aln LOW = ignore col3, translate from JP.
+# <xxxx> = unsolved kanji.  Speaker codes [05xx]/[0Axx] = char IDs (not text).
+====================================================================================
+# DRAFT STATUS: 39 boxes | OK=1 FAIR=19 SHAKY=0 JP-ONLY=19
+# DRAFT STATUS: 39 boxes | OK=0 FAIR=18 SHAKY=2 JP-ONLY=19
+
+[JP#8387] gaps=0  aln=MED->US#8231  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊進みますか？[18]か
+  2|LIT: <<TODO>>
+  3|EN : *We recommend either creating
+ a new file or else choosing
+ a file to write over.
+  4|RE : <<TODO>>
+
+[JP#8388] gaps=2  aln=MED->US#8234  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「<f040><f042>でも、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : @Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8389] gaps=0  aln=MED->US#8235  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : ＊〜ですが、今回の体験版では / 　残念ながら使用することができません
+  2|LIT: <<TODO>>
+  3|EN : *Unfortunately, this service is
+ unavailable in the Demo Version.
+  4|RE : <<TODO>>
+
+[JP#8390] gaps=0  aln=MED->US#8236  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「いったい俺は〜 / 　それに、ここはどこなんだ〜
+  2|LIT: <<TODO>>
+  3|EN : @I'm...?
+ Where am I?
+  4|RE : <<TODO>>
+
+[JP#8391] gaps=0  aln=MED->US#8237  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「理伝じゃない / 　でも、ハッキリとわかる / 　ここは、どこなんだ〜？
+  2|LIT: <<TODO>>
+  3|EN : @It's not a rational deduction,
+ but I'm certain this isn't Filgaia.
+ Where am I?
+  4|RE : <<TODO>>
+
+[JP#8392] gaps=5  aln=HIGH->US#8238  CONF=SHAKY unsolved=5  CONF=FAIR unsolved=2
+  1|JP : 「そうだ〜 / 　俺はあなたに出幸うのは<8a34>めてじゃない / 　アガートラームを手にした<89e0>の中で〜[10][0c]「ヘイムダル・ガッツォーの泣発に / 　片き飛ばされた俺を / 　押るように<8a38>んでくれた、あの信信は〜[10][0c]「まちがいない〜 / 　あの信信は / 　あなたから信じる<88e0>動と同じもの[10][0c]「<8a39>えてほしい / 　あなたはいったい〜
+  2|LIT: <<TODO>>
+  3|EN : @That's right. It's not the first
+ time we meet. When I got the
+ Argetlahm, in the light we...@It's the same feeling
+ of protection I got when the
+ Heimdal Gazzo exploded.@I'm certain of it. That
+ sensation was the same as the
+ vibrations I get from you now.@Please tell me.
+ Who are you?
+  4|RE : <<TODO>>
+
+[JP#8393] gaps=3  aln=HIGH->US#8239  CONF=SHAKY unsolved=3  CONF=FAIR unsolved=1
+  1|JP : 「ヘイムダル・ガッツォーの泣発に / 　片き飛ばされた俺を / 　押るように<8a38>んでくれた、あの信信は〜[10][0c]「まちがいない〜 / 　あの信信は / 　あなたから信じる<88e0>動と同じもの[10][0c]「<8a39>えてほしい / 　あなたはいったい〜
+  2|LIT: <<TODO>>
+  3|EN : @It's the same feeling
+ of protection I got when the
+ Heimdal Gazzo exploded.@I'm certain of it. That
+ sensation was the same as the
+ vibrations I get from you now.@Please tell me.
+ Who are you?
+  4|RE : <<TODO>>
+
+[JP#8394] gaps=2  aln=HIGH->US#8240  CONF=FAIR unsolved=2  CONF=FAIR unsolved=1
+  1|JP : 「まちがいない〜 / 　あの信信は / 　あなたから信じる<88e0>動と同じもの[10][0c]「<8a39>えてほしい / 　あなたはいったい〜
+  2|LIT: <<TODO>>
+  3|EN : @I'm certain of it. That
+ sensation was the same as the
+ vibrations I get from you now.@Please tell me.
+ Who are you?
+  4|RE : <<TODO>>
+
+[JP#8395] gaps=1  aln=HIGH->US#8241  CONF=FAIR unsolved=1  CONF=OK unsolved=0
+  1|JP : 「<8a39>えてほしい / 　あなたはいったい〜
+  2|LIT: <<TODO>>
+  3|EN : @Please tell me.
+ Who are you?
+  4|RE : <<TODO>>
+
+[JP#8396] gaps=2  aln=MED->US#8245  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「そうね、キミのいた時代では / 　＜仲の守昔＞<f041><f042> / 　〜って言う方が、加りがいいみたいね
+  2|LIT: <<TODO>>
+  3|EN : @But with her...
+ With  2, you weren't
+ terribly brave or forthcoming.
+  4|RE : <<TODO>>
+
+[JP#8397] gaps=0  aln=MED->US#8246  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「一度、ゆっくりお話しがしたかったわ / 　[05]ぉ・ウィンチェスターくん
+  2|LIT: <<TODO>>
+  3|EN : @It makes a big sister want
+ to take you in her arms
+ and take care of you.
+  4|RE : <<TODO>>
+
+[JP#8398] gaps=2  aln=MED->US#8248  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「何だか頼りないところもあったけど / 　時々、こっちがビックリするくらい / 　大姉なことをしちゃうんだもん[10][0c]「彼昔<f041><f042> / 　[0a]かちゃんには / 　なかなか大姉になりきれないくせに、ね
+  2|LIT: <<TODO>>
+  3|EN : @But it's um, well unexpected.@The image I had of the
+ <Sword Magess> was well....@A little different...
+  4|RE : <<TODO>>
+
+[JP#8399] gaps=2  aln=MED->US#8251  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「彼昔<f041><f042> / 　[0a]かちゃんには / 　なかなか大姉になりきれないくせに、ね
+  2|LIT: <<TODO>>
+  3|EN : @So you think it's OK to just
+ force your will on everyone?
+  4|RE : <<TODO>>
+
+[JP#8400] gaps=0  aln=MED->US#8252  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「お助さん / 　可愛がってあげたくなっちゃう
+  2|LIT: <<TODO>>
+  3|EN : @Before I was the <Sword Magess>,
+ I was just a girl called Anastasia.
+ I can't help it.
+  4|RE : <<TODO>>
+
+[JP#8401] gaps=0  aln=MED->US#8253  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ごめんねぇ / 　からかうつもりはなかったんだけどね
+  2|LIT: <<TODO>>
+  3|EN : @Do you want to go to Filgaia,
+ to the world where  2
+ is waiting for you?
+  4|RE : <<TODO>>
+
+[JP#8402] gaps=0  aln=MED->US#8258  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「ただ、ちょっと、意外だったというか / 　何というか〜[10][0c]「俺が考えていた / 　＜仲の守昔＞ってイメージとは / 　その〜[10][0c]「少し、違うかな、と〜
+  2|LIT: <<TODO>>
+  3|EN : @Sorry. I didn't mean to hassle you.
+  4|RE : <<TODO>>
+
+[JP#8403] gaps=0  aln=MED->US#8259  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「俺が考えていた / 　＜仲の守昔＞ってイメージとは / 　その〜[10][0c]「少し、違うかな、と〜
+  2|LIT: <<TODO>>
+  3|EN : @But it's um, well unexpected.@The image I had of the
+ <Sword Magess> was well....@A little different...
+  4|RE : <<TODO>>
+
+[JP#8404] gaps=0  aln=MED->US#8260  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「少し、違うかな、と〜
+  2|LIT: <<TODO>>
+  3|EN : @The image I had of the
+ <Sword Magess> was well....@A little different...
+  4|RE : <<TODO>>
+
+[JP#8405] gaps=1  aln=MED->US#8309  CONF=FAIR unsolved=1  CONF=FAIR unsolved=1
+  1|JP : 「そうやって、何もかも / 　兄し<88be>けてしまえばいいと / 　考えているのね
+  2|LIT: <<TODO>>
+  3|EN : @dead is |the other side,| then
+ this is the interval, the boundary
+ between both places.
+  4|RE : <<TODO>>
+
+[JP#8406] gaps=0  aln=MED->US#8310  CONF=FAIR unsolved=0  CONF=FAIR unsolved=0
+  1|JP : 「＜守昔＞なんて呼ばれる前は / 　ただのアナスタシアだったんだもん / 　仕方ないわよ
+  2|LIT: <<TODO>>
+  3|EN : @It's a ruin of memories.
+ I might be able to make contact
+ with Filgaia from here.
+  4|RE : <<TODO>>
+
+[JP#8407] gaps=0  aln=LOW->US#8311  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「ファルガイアに〜 / 　[0a]かちゃんの待っている世界に / 　帰りたい〜？
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8408] gaps=4  aln=LOW->US#8311  CONF=JP-ONLY unsolved=2  CONF=JP-ONLY unsolved=2
+  1|JP : 「そしてここは、『期方』と『彼方』の / 　<8a43>間に級<8822>する来界<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8409] gaps=2  aln=LOW->US#8311  CONF=JP-ONLY unsolved=2  CONF=JP-ONLY unsolved=2
+  1|JP : 「つまり『<8937><89f1>の奇跡』ね〜 / 　ここからならファルガイアに / 　加じるかもしれない
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8410] gaps=0  aln=LOW->US#8311  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「＜守昔＞なんて呼ばれる前は / 　ただのアナスタシアだったんだもん / 　仕方ないわよ
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8411] gaps=0  aln=LOW->US#8311  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「ファルガイアに〜 / 　[0a]かちゃんの待っている世界に / 　帰りたい〜？
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8412] gaps=4  aln=LOW->US#8311  CONF=JP-ONLY unsolved=2  CONF=JP-ONLY unsolved=2
+  1|JP : 「そしてここは、『期方』と『彼方』の / 　<8a43>間に級<8822>する来界<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8413] gaps=2  aln=LOW->US#8311  CONF=JP-ONLY unsolved=2  CONF=JP-ONLY unsolved=2
+  1|JP : 「つまり『<8937><89f1>の奇跡』ね〜 / 　ここからならファルガイアに / 　加じるかもしれない
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8414] gaps=0  aln=LOW->US#8311  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「＜守昔＞なんて呼ばれる前は / 　ただのアナスタシアだったんだもん / 　仕方ないわよ
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8415] gaps=0  aln=LOW->US#8311  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「ファルガイアに〜 / 　[0a]かちゃんの待っている世界に / 　帰りたい〜？
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8416] gaps=4  aln=LOW->US#8311  CONF=JP-ONLY unsolved=2  CONF=JP-ONLY unsolved=2
+  1|JP : 「そしてここは、『期方』と『彼方』の / 　<8a43>間に級<8822>する来界<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8417] gaps=2  aln=LOW->US#8311  CONF=JP-ONLY unsolved=2  CONF=JP-ONLY unsolved=2
+  1|JP : 「つまり『<8937><89f1>の奇跡』ね〜 / 　ここからならファルガイアに / 　加じるかもしれない
+  2|LIT: <<TODO>>
+  3|EN : 
+  4|RE : <<TODO>>
+
+[JP#8418] gaps=0  aln=LOW->US#8312  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「＜守昔＞なんて呼ばれる前は / 　ただのアナスタシアだったんだもん / 　仕方ないわよ
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8419] gaps=0  aln=LOW->US#8312  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「ファルガイアに〜 / 　[0a]かちゃんの待っている世界に / 　帰りたい〜？
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8420] gaps=4  aln=LOW->US#8312  CONF=JP-ONLY unsolved=2  CONF=JP-ONLY unsolved=2
+  1|JP : 「そしてここは、『期方』と『彼方』の / 　<8a43>間に級<8822>する来界<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8421] gaps=2  aln=LOW->US#8312  CONF=JP-ONLY unsolved=2  CONF=JP-ONLY unsolved=2
+  1|JP : 「つまり『<8937><89f1>の奇跡』ね〜 / 　ここからならファルガイアに / 　加じるかもしれない
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8422] gaps=0  aln=LOW->US#8312  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「＜守昔＞なんて呼ばれる前は / 　ただのアナスタシアだったんだもん / 　仕方ないわよ
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8423] gaps=0  aln=LOW->US#8312  CONF=JP-ONLY unsolved=0  CONF=JP-ONLY unsolved=0
+  1|JP : 「ファルガイアに〜 / 　[0a]かちゃんの待っている世界に / 　帰りたい〜？
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8424] gaps=4  aln=LOW->US#8312  CONF=JP-ONLY unsolved=2  CONF=JP-ONLY unsolved=2
+  1|JP : 「そしてここは、『期方』と『彼方』の / 　<8a43>間に級<8822>する来界<f041><f042>
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
+
+[JP#8425] gaps=2  aln=LOW->US#8312  CONF=JP-ONLY unsolved=2  CONF=JP-ONLY unsolved=2
+  1|JP : 「つまり『<8937><89f1>の奇跡』ね〜 / 　ここからならファルガイアに / 　加じるかもしれない
+  2|LIT: <<TODO>>
+  3|EN : *Do you want to read it?2
+  4|RE : <<TODO>>
