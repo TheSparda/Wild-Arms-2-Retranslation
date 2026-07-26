@@ -16,7 +16,7 @@ def wrap(words):
     return lines
 def main():
     path=sys.argv[1]
-    src=open(path).read().split('\n'); out=[]; i=0; over=[]
+    src=open(path).read().split('\n'); out=[]; i=0; over=[]; comma=[]
     while i<len(src):
         ln=src[i]; m=re.match(r'^\[US#(\d+)\]',ln)
         out.append(ln)
@@ -32,12 +32,16 @@ def main():
         joined=' '.join(' '.join(re_lines).split())
         wl=wrap(joined.split())
         if len(wl)>MAXL or any(len(x)>WIDTH for x in wl): over.append((us,wl))
+        if joined.rstrip().endswith(','): comma.append((us,joined))
         out.append('  RE : '+wl[0])
         for x in wl[1:]: out.append('       '+x)
     open(path,'w').write('\n'.join(out))
     if over:
         print(f"{path}: {len(over)} still over 3x{WIDTH} (need manual shortening):")
         for us,wl in over: print(f"  US#{us}: {wl}")
-    else:
-        print(f"{path}: all RE now fit <=3x{WIDTH}")
+    if comma:
+        print(f"{path}: {len(comma)} box(es) END ON A COMMA (use '...' or restructure — see style guide):")
+        for us,j in comma: print(f"  US#{us}: {j!r}")
+    if not over and not comma:
+        print(f"{path}: all RE now fit <=3x{WIDTH}, no trailing-comma boxes")
 if __name__=='__main__': main()

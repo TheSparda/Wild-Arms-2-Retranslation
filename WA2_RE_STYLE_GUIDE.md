@@ -69,6 +69,15 @@ contains that `{n}` (so it never invents a code or hard-codes a renameable chara
   C, and D..."), break it into separate sentences or across the (up to 3) lines. Each RE line
   should read as clean, complete-feeling English, not a breathless list. Prefer a period over a
   comma when two independent clauses meet.
+- **Never end a box on a trailing comma.** A comma implies the line continues on the same line,
+  but the box closes there, so it reads as broken/truncated (even when the JP fragment genuinely
+  runs into the next box). Fix it one of two ways:
+  - if the box is a genuine lead-in that continues in the NEXT box → end with `...`
+    (e.g. JP それでは / LIT "Well then," → RE **"Well then..."**; matches the game's own idiom —
+    the EN localization rendered it "And so..."),
+  - otherwise → restructure into a complete sentence ending in `.` / `!` / `?`.
+  The same goes for other mid-clause enders (a dangling "and", "but", "so") — either `...` or
+  restructure. A closed box should read as a finished thought or an obvious continuation.
 - Ellipses (`...`) are fine and common in this game's voice.
 - `|word|` is the game's emphasis marker (its version of quotes/italics) — preserve it exactly
   where the JP/EN emphasizes a term (`|hero|`, `|Pillar|`, `|Continue|`).
@@ -130,6 +139,7 @@ contains that `{n}` (so it never invents a code or hard-codes a renameable chara
 - [ ] No RE was overwritten by a LIT that was actually a translator note (babble/sfx lines).
 - [ ] `reflow_re.py` reports all fit ≤3×35.
 - [ ] No em dashes, no `--`, no run-on comma chains.
+- [ ] No box ends on a trailing comma (use `...` for a lead-in, else make it a complete sentence).
 - [ ] Name/control codes `{n}` preserved verbatim; no spelled-out renameable name where a code belongs.
 - [ ] Any `#` annotation is on its own comment line, never inside an RE line.
 - [ ] Speaker taken from EN tags, not inferred.
