@@ -1,6 +1,8 @@
 # [1.01] Prologue  (disc 1)
-# dialogue boxes: 214   speakers: 41
+# dialogue boxes: 217   speakers: 41
 # ============================================================
+
+~~ [1.a] A young man ready for action ~~
   [A truck is seen passing by a valley. Some men are briefing inside.]
 Commander: We now know that the kidnappers are holding the boy hostage... up ahead in the old excavation site known as "The Withered Ruins. Time for the final mission check!
 Musketeer A: (Did you hear about the newly formed special unit?)
@@ -14,17 +16,20 @@ Commander: It's people like you that are most dangerous in the field! Don't get 
 Commander: Our 3rd mission is to rush into the ruins where the hostage is held. It's critical to secure the safety of the hostage first. Numerous monsters have been sighted at the ruins, so don't let your guard down. OK. Let's go. Charge!
 
 ~~ Withered Ruins ~~
+  [The musketeers enter the Withered Ruins. Ashley finds another musketeer standing before a hole.]
 Musketeer: That clumsy fool! The first guy who ran through the fog fell into that hole there. Could you check it out?
 Musketeer: Sorry. I didn't mean to cause trouble.
   [Ashley jumps into the hole.  A man is lying below.]
 Ashley: Hey. Wake up! Can you stand up?
 Musketeer: A new recruit, huh? Looks like you messed up. It's because you tried to score big here so you'd be reassigned to the new unit that is forming.
 Ashley: Take it easy. Stay here until the rescue team arrives.
-Musketeer: We can't do that. Hey, look at that! W hoaa!! [The musketeer shows a knife and throws it to a device. The door beside it opens.]
+Musketeer: We can't do that. Hey, look at that! W hoaa!!
+  [The musketeer shows a knife and throws it to a device. The door beside it opens.]
 Musketeer: Hey rookie, this is to celebrate your assignment. Hang onto it.
   [Tool "Hurl Knife" acquired.]
 Musketeer: The knife can be thrown with the ([]). It must have a use besides just turning the switch. You need to figure it out.
-Ashley: OK, I'll give it a try. [Ashley goes on, deeper in the ruins. He can hear a voice coming from a room before him.] Boastful, Hoarse Voice--: Whoa. How'd this get so blown out of proportion?
+Ashley: OK, I'll give it a try.
+  [Ashley goes on, deeper in the ruins. He can hear a voice coming from a room before him.]
   [Ashley enters the room.  He finds three bandits and the hostage.]
 Leader: Our humble little abduction was to bring comfort to our lives.
 Henchman A: A kidnapping was impossible for us from the start. What do you plan on doing, boss? It's about time those Musketeer boys came charging in.
@@ -50,7 +55,8 @@ Tony: (Sure.)
 Ashley: (Great, We've got a deal!)
   [Tony tries to get the kidnappers' attention.]
 Tony: Hey, old man! How dare you treat me this way. You don't have the guts to properly kidnap anyone!
-Gangal: What'd you say? Hey, you two, grab the brat and shut him up!! [Tony runs around and the goons chase him. He steps on a weird floor.]
+Gangal: What'd you say? Hey, you two, grab the brat and shut him up!!
+  [Tony runs around and the goons chase him. He steps on a weird floor.]
 Tony: Catch me if you can!
   [Tony jumps, activating a switch on the floor.  The place starts shaking.]
 Ashley: Hold it right there! Gangal & Zook: Huh?!
@@ -58,12 +64,14 @@ Gerg: What?!
   [A wall opens behind Tony.  A monster is unleashed.]
 Tony: Waaahhh! I don't know why, but I had a feeling something like this might happen!
 Ashley: If you keep talking, you'll bite you tongue! Gangal & Zook & Gerg: Help! Please!
-Ashley: Hey, you too! [Kalivos appears, chasing everyone. They split up on a fork. The goons go to the right. Ashley and Tony go to the left. Kalivos goes after the goons, who come to a dead end. Ashley hurls a knife at Kalivos's back, allowing the bandits to escape. Ashley runs away too.]
+Ashley: Hey, you too!
+  [Kalivos appears, chasing everyone. They split up on a fork. The goons go to the right. Ashley and Tony go to the left. Kalivos goes after the goons, who come to a dead end. Ashley hurls a knife at Kalivos's back, allowing the bandits to escape. Ashley runs away too.]
   [Outside...]
 Radar Technician: Commander, a large lifeform has been confirmed in the ruins. Most likely, the trapped monster was released by accident! Unfortunately, highly volatile liquid explosives have been found in the monster's secretions. Commander, at this rate...
 Commander: What the... Order the soldiers in the ruins to evacuate immediately! A huge explosion is possible, so we can't handle it above ground. To minimize casualties, we must destroy the entire ruins at once. Release the safety on the large ARM. I'll authorize the use of the Rail Gun.
 Radar Technician: You mean destroy the entire ruins? But we still have soldiers left in the ruins. It's possible the monster could escape before all of them evacuate. By destroying the ruins, some soldiers won't escape in time. Are you going to let them die?
-Commander: ......... I'll take full responsibility. [Inside, the group is still trying to run away from the monster. Tony trips.]
+Commander: ......... I'll take full responsibility.
+  [Inside, the group is still trying to run away from the monster. Tony trips.]
 Tony: Dude!!!
 Gangal: Why do we have to...!
   [The commander appears.]
@@ -73,12 +81,15 @@ Commander: This is an order! If you disobey, you're in violation of regulations.
 Ashley: I cannot sacrifice someone even if it is for the larger good. It's not just me. The commander and everyone else here doesn't want that to happen. Our hearts should be one. Please order those remaining in the ruins to evacuate. Even I can manage to stall for time. No. I'll stop this one!
   [Ashley turns around and attacks Kalivos.]
   [Ashley defeats Kalivos.]
+  [Ashley, Tony and the others are able to evacuate the ruins on time before it explodes.]
 Ashley: I ignored your orders and rook matters into my own hands. I am prepared for my reprimand.
 Commander: I hope so! Your punishment for this incident will be forthcoming! Until then, you're under house-arrest!
 Ashley: Is that all, sir?
 Commander: You have any objections?!
-Ashley: No! no, sir! -------------------------------------------------------------------------------
-Ashley: And that is how this extremely long day ended for me, the new recruit. I did what I thought was right, but it was a violation of orders. I don't believe I was wrong. No one wants to see anyone get hurt. Even though the destination is the same, different people choose such different routes. I don't understand. I just don't understand it. Oh well, with my sentence, I have plenty of time to think. ------------------------------------------------------------------------------- _____________________________________ /[1.b] A former hero now war criminal/ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Ashley: No! no, sir!
+Ashley: And that is how this extremely long day ended for me, the new recruit. I did what I thought was right, but it was a violation of orders. I don't believe I was wrong. No one wants to see anyone get hurt. Even though the destination is the same, different people choose such different routes. I don't understand. I just don't understand it. Oh well, with my sentence, I have plenty of time to think.
+
+~~ [1.b] A former hero now war criminal ~~
   [Five years ago...]
   [In a forest, a big man runs away from a group of men.]
 Man A: That's strange. I thought we chased him in here.
@@ -112,7 +123,8 @@ Voice: Hey, did you hear something over here?
 Brad: Namumi!
 Voice: Oh, it's just a puppy. Scared me. What a waste of time. Let's go. I'm not going to let the others get all the credit.
   [Brad comes out from hiding.  The puppy has a berry with him.]
-Brad: You saved my butt, buddy. Wow. That took guts. You probably came into the forest to avoid the rain too. Let's get out of here together. [Brad continues to find a way out of the forest. On the way, he acquires the tool, Kick Boots.] [TUTORIAL]: *Press ([]) with the Kick Boots and shock the target. Delivering this shock will cause all kinds of things to happen.
+Brad: You saved my butt, buddy. Wow. That took guts. You probably came into the forest to avoid the rain too. Let's get out of here together.
+  [Brad continues to find a way out of the forest. On the way, he acquires the tool, Kick Boots.]
   [Moving on, Brad encounters the hunters.  He hides.]
 Recruit 1: I wonder what just ran into the forest? A dangerous criminal? Maybe a very pale degenerate.
 Recruit 2: Who knows? All I know is that we haven't been told anything and there's no need for us to know either.
@@ -146,12 +158,16 @@ Brad: (I'm out of the forest. I need a place to hide. What about that place...)
   [Brad reaches T'Bok Village.]
 Brad: So this is it...?
   [Brad faints.]
+  [After some time, Brad wakes up in a barn. He's being treated by a girl. The puppy he found in the forest is with them.]
 Girl: I'm glad you woke up. You were sleeping deeply, I thought you'd never wake up.
 Brad: Where am I?
 Girl: You're in T'Bok Village. In a stable. But all the horses are gone. My name is Merrill. Now can I ask you something? Is this puppy your friend?
-Brad: [choice: Yeah, but I just found him.] Merrill: This is a very smart dog. He is the one who told me you were passed out in the rain. What's this dog's name?
+Brad: [choice: Yeah, but I just found him.]
+Merrill: This is a very smart dog. He is the one who told me you were passed out in the rain. What's this dog's name?
   [Brad says the dog's name is Rassyu.]
-Brad: [choice: No. Isn't he from here?] Merrill: No, I haven't seen him before. So I guess I can name him. Let's see... OK, from now on your name is Rassyu. Do you like it?
+Merrill: So, your name is Rassyu. I like that name!
+Brad: [choice: No. Isn't he from here?]
+Merrill: No, I haven't seen him before. So I guess I can name him. Let's see... OK, from now on your name is Rassyu. Do you like it?
 Brad: I'm sorry, but I have to leave this village right away.
 Merrill: Why? You still need to rest! Wait! I'll get you something to eat.
 Brad: ............ You're not afraid of me?
@@ -159,7 +175,8 @@ Merrill: Rassyu says you're not a bad man. Isn't that right Rassyu?
   [There seems to be a commotion outside.]
 Voice 1: Hey! You can't do that in this village!
 Voice 2: Our intention was not to cause such a stir. What we do is for the sake of your village.
-Merrill: Stay here, mister. Don't worry, Rassyu and I will stay with you! [Merrill steps outside. She sees Brad's pursuers are arguing with the villagers.]
+Merrill: Stay here, mister. Don't worry, Rassyu and I will stay with you!
+  [Merrill steps outside. She sees Brad's pursuers are arguing with the villagers.]
 Merrill: There aren't any bad people in this village!
 Posse Leader: Hiding him will only bring your village misfortune. Surely you realize that.
   [Brad steps out of the barn.]
@@ -175,8 +192,10 @@ Recruit 2: I'm sorry we have to do this. We're all from this village.
 Merrill: Was that man a bad man?
 Posse Leader: A bad man? Ho ho! You got it all wrong. Now listen, young lady. That man is a "hero".
 Merrill: A "hero"?
-Posse Leader: Ha ha ha! Ho ho ho! -------------------------------------------------------------------------------
-Brad: Perhaps its... better this way. All I know is fighting. If I kept on going, all I would find is more blood and death. There are few places for someone whose only true home is on the battlefield. I'll consider this a vacation. After all, heroes aren't needed once the shooting stops. If peace means a world that needs no heroes, then that has to be better. =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= _______________________________________ /[1.c] A sorceress just getting started/ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Posse Leader: Ha ha ha! Ho ho ho!
+Brad: Perhaps its... better this way. All I know is fighting. If I kept on going, all I would find is more blood and death. There are few places for someone whose only true home is on the battlefield. I'll consider this a vacation. After all, heroes aren't needed once the shooting stops. If peace means a world that needs no heroes, then that has to be better.
+
+~~ [1.c] A sorceress just getting started ~~
 
 ~~ Palace Village ~~
   [Some people are meeting in a room.]
@@ -190,7 +209,8 @@ Mysterious Girl: Sorry, sorry. Sorry for being late. I haven't quite got the kna
   [The people nod.]
 Villager 3: Excuse me, but... Who are you anyway?
   [The girl points to herself.  The people nod.  She says her name is Lilka.]
-Lilka: (Oh, boy. I messed up again. But at least I came to a place where everyone seems so nice. I know I should hurry, but I guess there's no harm in resting here for a while. [Time passes. Lilka is in a room, talking to a child. A mother can be seen cooking in the kitchen.]
+Lilka: (Oh, boy. I messed up again. But at least I came to a place where everyone seems so nice. I know I should hurry, but I guess there's no harm in resting here for a while.
+  [Time passes. Lilka is in a room, talking to a child. A mother can be seen cooking in the kitchen.]
 Lilka: What's weird is how they dump that stuff on rice to eat it!!
 Boy: That is just so gross!
 Lilka: Right?
@@ -205,10 +225,11 @@ Lilka: Oh, don't be impressed. Anyone can use magic, y'know.
 Boy: You mean, even I can learn magic?
 Lilka: Of course you can! For instance, you can pick out a loved one's voice or your own name in a noisy room. That's a kind of magic, too. Get it?
 Boy: No, I don't get it.
-Lilka: No? Oh... But you will someday. Magic is a power that anyone can use... And magic can do anything. -------------------------------------------------------------------------------
+Lilka: No? Oh... But you will someday. Magic is a power that anyone can use... And magic can do anything.
 
 ~~ Millennium Puzzle ~~
   [FLASHBACK:]
+  [Lilka is on a cube, in a room filled with cubes. The place is one big puzzle.]
 Lilka: Oh, Sis! What am I supposed to do? I don't know what to do! I can't figure it out all alone!!
 Lilka's Sister: >Calm down. It'll be OK. Hey, don't cry. Can you see the big Switchblock behind you? Use your magic on it.
   [Lilka stands.]
@@ -222,7 +243,8 @@ Lilka's Sister: >............ This time I'll show you a different method. It'll 
 Lilka: So why didn't you show me this from the start?!
 Lilka's Sister: >Well.... ............ See the small Switchblock just below where you are?
   [Lilka goes down, in front of the small Switchblock.]
-Lilka's Sister: >Use the same method to get your magic to work. [Lilka fires on the Switchblock. The platform Lilka is standing onto disappears and she falls down. A teleporter appears before her.]
+Lilka's Sister: >Use the same method to get your magic to work.
+  [Lilka fires on the Switchblock. The platform Lilka is standing onto disappears and she falls down. A teleporter appears before her.]
 Lilka: Hey, Sis. Look. It worked this time!
 Lilka's Sister: >There are 3 Switchblocks left. You need to get all of them.
 Lilka: Leave the rest to me. I can manage this.
@@ -296,5 +318,5 @@ Lilka: Yeah.
   [Lilka disappears.]
 Villager: Oops, my shoelace is...
   [A black cat walks by.]
-Boy: I wonder if she'll be OK. -------------------------------------------------------------------------------
-Lilka: I tried to be cool about it, but I might have blown it. I don't think I'd have been cursed if I had accepted a bag lunch. That reminds me... I still haven't had breakfast yet. I'm so hungry! I'm sure it'll be OK! If I get to the Valeria home. I'm sure they'll feed me! Now that that's settled, I'll be fine, just fine! ...at least that's what I thought. =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################
+Boy: I wonder if she'll be OK.
+Lilka: I tried to be cool about it, but I might have blown it. I don't think I'd have been cursed if I had accepted a bag lunch. That reminds me... I still haven't had breakfast yet. I'm so hungry! I'm sure it'll be OK! If I get to the Valeria home. I'm sure they'll feed me! Now that that's settled, I'll be fine, just fine! ...at least that's what I thought.

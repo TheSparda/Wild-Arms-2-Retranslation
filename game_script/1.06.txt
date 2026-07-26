@@ -1,5 +1,5 @@
 # [1.06] Re-opening the Trade Route - Under Traffic and Damzen  (disc 1)
-# dialogue boxes: 93   speakers: 14
+# dialogue boxes: 94   speakers: 14
 # ============================================================
   [Inside Valeria Chateau's parlor...]
 Lilka: What's wrong?
@@ -35,7 +35,7 @@ Lilka: Let's go, Ashley!
 Irving: The Under Traffic is a tunnel south of the Chateau. It serves as a trade route. Other cave-ins could occur, so be careful there.
 Altaecia: Since his injury, my brother has longed for power intently. It's as if he's trying to support not just own body, but the world itself. But can our beloved Filgaia be supported by any one person? Please help my brother! You are strong, unlike me... Nearly as strong as my brother! <Call Menu [Inside the Chateau]> >Buzz... Hiss... (Radio Static) *Clever jamming has rendered the communicators inoperable.
   [The party leaves the Chateau.]
-Irving: >The Under Traffic is located south of Valeria Chateau. Exercise extreme caution as more cave-ins occur. -------------------------------------------------------------------------------
+Irving: >The Under Traffic is located south of Valeria Chateau. Exercise extreme caution as more cave-ins occur.
 
 ~~ Under Traffic ~~
 Irving: >How is Under Traffic? Call in if you find out anything.
@@ -61,8 +61,10 @@ Lilka: To Damzen City from here it's southeast. Let's hurry!
   [The party exits Under Traffic.]
 
 ~~ Damzen City ~~
-Irving: >How is the wounded man doing? Get him to a hospital quickly! [A stange woman with a pointy hat can be found under the shade in Damzen. Ashley talks to the woman.]
-Strange Woman in Costume: At last we meet. You must know that the comets foreboding ill have divided Heaven and Earth. With the passage of time comes a fragment of eternal time. It exists within you, too. Ashley: ???
+Irving: >How is the wounded man doing? Get him to a hospital quickly!
+  [A stange woman with a pointy hat can be found under the shade in Damzen. Ashley talks to the woman.]
+Strange Woman in Costume: At last we meet. You must know that the comets foreboding ill have divided Heaven and Earth. With the passage of time comes a fragment of eternal time. It exists within you, too.
+Ashley: ???
   [Brad talks to the woman.]
 Strange Woman in Costume: Ohh! You have the perfect face for it! The perfect fighting machine, ready to meet and overcome any obstacle! Just perfect to back up Ashley, who sometimes lacks in bravery...
   [Lilka talks to the woman.]
@@ -102,7 +104,8 @@ Ashley: It sure looks that way. Irving, what should we do?
 Irving: >I want you to continue your search in the field.
 Ashley: Roger.
   [Ashley ends the call.]
-Ashley: The Under Traffic cave-in might have been intentional. There might be something in this town that can help us find out. Let's get started quick! [Ashley talks to the townspeople in search for info. Inside one of houses...]
+Ashley: The Under Traffic cave-in might have been intentional. There might be something in this town that can help us find out. Let's get started quick!
+  [Ashley talks to the townspeople in search for info. Inside one of houses...]
 Man: Those strangers just came and broke into the Tower! Unbelievable!
 Woman: I'm sorry, but would you please listen to what the people of my family have to say?
 Gramps: If someone's up to no good, you should take care of 'em right away! Yeah, yeah...
@@ -114,4 +117,4 @@ Irving: >Those incidents could be the work of a single group. I want you to tail
 Ashley: Understood. We will head for Telepath Tower.
 Gramps: S of Damzen is a broadcast tower called the Telepath Tower. My family's tended it for generations. Actually... Strange people are loitering about there even now. It was my daughter's husband who found them, nut he didn't tell us about them. Why not I'll never know!
 Woman: Our family has tended the Telepath Tower at the foot of these mountains for generations. What'll we do now? I hope nothing bad comes of it.
-Man: The Telepath Tower is a broadcast tower that uses Emphatite to create communication waves. I don't know what they intend to do there, but I doubt it's anything good. Isn't it scary? =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################
+Man: The Telepath Tower is a broadcast tower that uses Emphatite to create communication waves. I don't know what they intend to do there, but I doubt it's anything good. Isn't it scary?

@@ -1,4 +1,4 @@
-# area TB — T'Bok Village  (73 dialogue boxes)
+# area TB — T'Bok Village  (84 dialogue boxes)
 # from the game-script ~~Location~~ markers (authoritative area boundary)
 # ============================================================
 
@@ -6,12 +6,16 @@
   [Brad reaches T'Bok Village.]
 Brad: So this is it...?
   [Brad faints.]
+  [After some time, Brad wakes up in a barn. He's being treated by a girl. The puppy he found in the forest is with them.]
 Girl: I'm glad you woke up. You were sleeping deeply, I thought you'd never wake up.
 Brad: Where am I?
 Girl: You're in T'Bok Village. In a stable. But all the horses are gone. My name is Merrill. Now can I ask you something? Is this puppy your friend?
-Brad: [choice: Yeah, but I just found him.] Merrill: This is a very smart dog. He is the one who told me you were passed out in the rain. What's this dog's name?
+Brad: [choice: Yeah, but I just found him.]
+Merrill: This is a very smart dog. He is the one who told me you were passed out in the rain. What's this dog's name?
   [Brad says the dog's name is Rassyu.]
-Brad: [choice: No. Isn't he from here?] Merrill: No, I haven't seen him before. So I guess I can name him. Let's see... OK, from now on your name is Rassyu. Do you like it?
+Merrill: So, your name is Rassyu. I like that name!
+Brad: [choice: No. Isn't he from here?]
+Merrill: No, I haven't seen him before. So I guess I can name him. Let's see... OK, from now on your name is Rassyu. Do you like it?
 Brad: I'm sorry, but I have to leave this village right away.
 Merrill: Why? You still need to rest! Wait! I'll get you something to eat.
 Brad: ............ You're not afraid of me?
@@ -19,7 +23,8 @@ Merrill: Rassyu says you're not a bad man. Isn't that right Rassyu?
   [There seems to be a commotion outside.]
 Voice 1: Hey! You can't do that in this village!
 Voice 2: Our intention was not to cause such a stir. What we do is for the sake of your village.
-Merrill: Stay here, mister. Don't worry, Rassyu and I will stay with you! [Merrill steps outside. She sees Brad's pursuers are arguing with the villagers.]
+Merrill: Stay here, mister. Don't worry, Rassyu and I will stay with you!
+  [Merrill steps outside. She sees Brad's pursuers are arguing with the villagers.]
 Merrill: There aren't any bad people in this village!
 Posse Leader: Hiding him will only bring your village misfortune. Surely you realize that.
   [Brad steps out of the barn.]
@@ -35,8 +40,8 @@ Recruit 2: I'm sorry we have to do this. We're all from this village.
 Merrill: Was that man a bad man?
 Posse Leader: A bad man? Ho ho! You got it all wrong. Now listen, young lady. That man is a "hero".
 Merrill: A "hero"?
-Posse Leader: Ha ha ha! Ho ho ho! -------------------------------------------------------------------------------
-Brad: Perhaps its... better this way. All I know is fighting. If I kept on going, all I would find is more blood and death. There are few places for someone whose only true home is on the battlefield. I'll consider this a vacation. After all, heroes aren't needed once the shooting stops. If peace means a world that needs no heroes, then that has to be better. =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= _______________________________________
+Posse Leader: Ha ha ha! Ho ho ho!
+Brad: Perhaps its... better this way. All I know is fighting. If I kept on going, all I would find is more blood and death. There are few places for someone whose only true home is on the battlefield. I'll consider this a vacation. After all, heroes aren't needed once the shooting stops. If peace means a world that needs no heroes, then that has to be better.
 
 ~~ T'bok Village ~~
 Brad: (The scenery hasn't changed since then. Could it still be the same? I have changed much since that day. Nothing stays the same, no matter what form it is...)
@@ -47,9 +52,19 @@ Lilka: Well, well. Fancy this.
 Woman: Stop that this instant! Don't bother travelers with all your horseplay!
 Woman: Oh, hi, Mister!
 Brad: I said my name isn't "Mister".
-Brad: Is that you? -> If Brad calls the dog Rassyu. Brad: Is it you, Rassyu?
+Brad: Is that you?
+  [If Brad calls the dog Rassyu.]
+Brad: Is it you, Rassyu?
   [Rassyu sounds happy.]
+Woman: I knew it was you, Mister! It's me, Merill! You remember me, right?
+Brad: Uh, of course I do. But you've changed so much...
+Merill: It's been 5 years. Wouldn't it be strange if I hadn't? ............
+  [If Brad calls the dog with a different name.]
   [Rassyu sounds sad.]
+Woman: How could you forget Rassyu? I know it's been 5 years, but still...
+Brad: Let's see, you must be...
+Woman: It's me, Merill. Not the same Merill you knew before. I'm 17 now.
+Merill: We all have to look our age - including Rassyu and me. .........
 Merill: All this time, I had hoped that we would get the chance to meet again.
   [Everyone follows Merill.]
 Merill: After you left, Mister, I asked why everyone called you a "hero". And I asked why a hero like you would be chased down and captured like that. But you're not a bad man anymore, right, Mister? That's why you're here now, right?
@@ -59,7 +74,8 @@ Merill: I wanted to see you so that I could show you someone. After you were tak
 Brad: We'll I'll be...
 Merill: Do you know him?
 Brad: That I do.
-Merill: Oh, thank goodness. [Merill goes to the wheelchair'd man and gets something. She shows something to Brad.]
+Merill: Oh, thank goodness.
+  [Merill goes to the wheelchair'd man and gets something. She shows something to Brad.]
 Merill: He had this on him. This is his name, right?
 Brad: Billy... Billy Pilder. He's a very close friend of mine.
 Merill: I'm happy for you. But he must have amnesia from his fever and injuries. He keeps mumbling that his name is Brad Evans. Oh, well. If he's your friend, that's enough for me.
@@ -94,4 +110,4 @@ Lilka: Look! The data tablets!
 Ashley: They've been destroyed. So they realized we were their pattern to track them. Whoever did this knew a lot about the data tablets.
 Brad: They erased the memory. It looks like the trail runs cold here. Time for good, old-fashioned marching. On to Slayheim!
 Ashley: What's this? It's a teleport item. With this, we can teleport to any town that we've visited at least once before.
-Lilka: But I never did have much luck with this type of item. =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################
+Lilka: But I never did have much luck with this type of item.

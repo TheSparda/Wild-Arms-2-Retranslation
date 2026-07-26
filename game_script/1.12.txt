@@ -16,13 +16,13 @@ Irving: Varukisas was destroyed, but Odessa is not defeated yet. Let's track the
 King of Meria Boule: Ah, so we shall put the Hovercraft to immediate use.
 Irving: We'll look for the data tablets from the Varukisas. A Gull Wing-class ship like that should have 3 data tablets onboard. Once recovered, the tablets will provide us with vital informations about Odessa.
 King of Meria Boule: The Hovercraft is docked on the west coast. I'm counting on you, ARMS. <Call Menu>
-Amy: >The Inland Sea is strange. The tide there flows to the coast. That means the 3 data tablets that fell into the sea may be near the shore. ------------------------------------------------------------------------------- [TUTORIAL]: *Guild Galad has helped link the Map Scope to the Hovercraft's onboard terminal. High-altitude satellite images can now be displayed on the Map Scope. Now you can see all of Filgaia on the monitor, instead of just the surrounding area. To move the Hovercraft forward, press the up directional button or the (X) button. To rotate, press the left or right directional buttons or the [L1][R1] buttons. Ashley's party can board and disembark only at the shore. To disembark from the Hovercraft, touch the shore and press the (O) button. To board the Hovercraft, touch it and press the (X) button.
+Amy: >The Inland Sea is strange. The tide there flows to the coast. That means the 3 data tablets that fell into the sea may be near the shore.
   [ARMS finds and gets all of the 3 data tablets.]
 Ashley: All of them now recovered! Contact Irving for our next instructions!
   [Ashley contacts Irving.]
 Ashley: This is Ashley. All data tablets recovered. Requesting further orders.
 Irving: >Good job. Now return to Meria Boule Castle immediately. <Call Menu>
-Kate: >Once you get the data tablets, head to Meria Boule Castle. The Chief and the King of Meria Boule should be waiting. -------------------------------------------------------------------------------
+Kate: >Once you get the data tablets, head to Meria Boule Castle. The Chief and the King of Meria Boule should be waiting.
   [ARMS returns to Meria Boule Castle.]
 King of Meria Boule: We now have all 3 data tablets. How can we get the information from them? The tablets' protective encryption is very difficult to break.
 Irving: I want to take them to the Sielje Region for analysis.
@@ -34,11 +34,13 @@ Lilka: Yeah. I came here using a Teleport Gem. Didn't quite work, though. Can't 
 King of Meria Boule: Wait a moment... Somewhere near Damzen City is a tunnel for transporting coal to Sielje, isn't there? Go to Damzen City and ask the miners there. They speak brusquely, but deep down they are warmhearted. I'm sure they will help you.
 Irving: Well, let us go look for the tunnel, shall we?
 Lilka: (Yikes!)
-Irving: I give you a new mission! ARMS! Make haste to Damzen City, and from there, to the Sielje Region! Get any information on Odessa you can from the tablets! I'm counting on you! -------------------------------------------------------------------------------
+Irving: I give you a new mission! ARMS! Make haste to Damzen City, and from there, to the Sielje Region! Get any information on Odessa you can from the tablets! I'm counting on you!
   [In Damzen City, ARMS finds information to find a path to Sielje Region.]
 Man in Gunner's Heaven Pub: To get to the Sielje Region from here, Mt. Chug-Chug's underground tunnel is the best bet. The King of Meria Boule really said that? He really did? ............ Mt. Chug-Chug is dead now, so we all thought that the King had abandoned us. So he still remembers us... I'm glad we can be of use again... especially like this. We Damzen city miners will do anything to help you. We'll fight together! First we'll have to free the tunnel. Bring this! It's proof from the King of Meria Boule that I'm the top-man at Mt. Chug-Chug!
   [The man hands the Boss Symbol to the party.]
-Irving: The Sielje Region is southwest of the tunnel out of Mt. Chug-Chug. You go southwest but it's on the north side of the ridge. South of the ridge is the Gate Bridge. -------------------------------------------------------------------------------
+  [ARMS heads to Mt. Chug-Chug and examines the door on the east, near the entrance.]
+  [They use the Boss Symbol on the door and it disappears. They go through the tunnel and find Sielje Region.]
+Irving: The Sielje Region is southwest of the tunnel out of Mt. Chug-Chug. You go southwest but it's on the north side of the ridge. South of the ridge is the Gate Bridge.
 
 ~~ Sielje Region ~~
 Ashley: So this is Lilka's home town...
@@ -125,7 +127,8 @@ Lilka: Yeah. Why? Did you guys have a different plan?
   [The alarm sounds.]
 Ashley: Lilka!
 Lilka: Hey, I didn't do anything! I can't find them anywhere!
-Ashley: Well then where... The data tablets! [Ashley and Lilka heads to McGregor's classroom. Tim and Brad are already there.]
+Ashley: Well then where... The data tablets!
+  [Ashley and Lilka heads to McGregor's classroom. Tim and Brad are already there.]
 McGregor: Someone stole all three data tablets. I'm so sorry.
   [Irving appears on the projector.]
 Ashley: Irving!

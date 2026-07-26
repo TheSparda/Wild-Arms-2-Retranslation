@@ -8,7 +8,9 @@ Tim: I sense the waves of a Guardian. A guardian must be near here. But this is 
 Lilka: A strange Guardian? It doesn't mean that...
 Brad: I can't believe this is a sacred ground dedicated to the Guardians.
 Kanon: .............
-Marivel: It's a waste of time. We need to move on. We have no time to waste. A Voice from Nowhere in Particular: I am the Guardian of Desire. If you want this power, give my name. -> If Ashley gives the wrong name. A Voice from Nowhere in Particular: Those who don't know my name-- leave here immediately. -> If Ashley gives the name "Lucied".
+Marivel: It's a waste of time. We need to move on. We have no time to waste. A Voice from Nowhere in Particular: I am the Guardian of Desire. If you want this power, give my name.
+  [If Ashley gives the wrong name.]
+  [If Ashley gives the name "Lucied".]
   [Ashley teleports somewhere.]
 Lilka: Ashley!
   [Ashley appear to be in a dark space.]
@@ -36,4 +38,4 @@ Lilka: You disappeared so suddenly. I was worried.
 Ashley: Didn't mean to worry you. The Guardian of Desire, Lucied, called me. And he lent his strength to me.
 Kanon: Lucied. He's the Guardian who was always right there beside the <Sword Magess>.
 Tim: I heard he's a noble Guardian for which no Medium exists. If you can borrow Lucied's powers, your warring powers will be strengthened.
-Marivel: In my case, my presence alone guarantees grand victories, but... ...frail humans need to borrow the powers of the Guardians. Be grateful. =-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- #############################################################################
+Marivel: In my case, my presence alone guarantees grand victories, but... ...frail humans need to borrow the powers of the Guardians. Be grateful.

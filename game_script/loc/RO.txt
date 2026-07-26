@@ -1,4 +1,4 @@
-# area RO — Raline Observatory  (157 dialogue boxes)
+# area RO — Raline Observatory  (159 dialogue boxes)
 # from the game-script ~~Location~~ markers (authoritative area boundary)
 # ============================================================
 
@@ -70,12 +70,14 @@ Liz: Only a novice would become unhinged by such an historical emergency.
 Ashley: So, do you have a plan?
 Liz: How I've waited for those words! It's easy. Just run through before the wall shuts. Sounds just like an antelope!
 Ard: Ard...Ard!
-Ashley: When you guys do it, it looks like a collar-lizard. Oh, never mind. It looks like it's worth trying. [The party runs through the path before the wall shuts. Ard gets stuck.]
+Ashley: When you guys do it, it looks like a collar-lizard. Oh, never mind. It looks like it's worth trying.
+  [The party runs through the path before the wall shuts. Ard gets stuck.]
 Ard: Ard.
 Liz: Ah. What a tragedy! I will assist even at the risk of my life! Let's go, Samurai. Rah! Rah! Freedom! Freedom!
 Ashley: What the heck are you doing? Are you only going to cheer? We better do something ourselves!
 Ard: Ard...
-Liz: Isn't there a doctor here?! [The party grabs a statue and places it between the crashing walls. Ard jumps above the statue and goes past the trap.]
+Liz: Isn't there a doctor here?!
+  [The party grabs a statue and places it between the crashing walls. Ard jumps above the statue and goes past the trap.]
 Ard: Ard...Ard, Ard. Ard, Ard. Ard, Ard, Ard. Ar...Ard, Ard...Ard, Ard. Ard...d. Ard, Ard. Ard...Ard, Ard. Ard...Ard, Ard. Ard, Ard...Ard, A...rd. Ard, Ard...Ar...d.
 Liz: Ard is saying "Thanks".
 Lilka: That's awfully short!
@@ -103,7 +105,8 @@ Liz: You promise? That's a promise, right?!
   [The party moves along.  They find a lever that causes Liz to reach the party.]
 Liz: You're late! You're so late I was just about to lay a hand on this poetry anthology I've kept hidden.
 Ashley: I don't care if it's a poetry or the Emperor of Death. I'm in a hurry.
-Liz: It's as if you're casting me aside! Or are you just mocking me? [The party moves on and comes to a wall blocking their path. There's a weird face carved on another wall nearby. They check it.]
+Liz: It's as if you're casting me aside! Or are you just mocking me?
+  [The party moves on and comes to a wall blocking their path. There's a weird face carved on another wall nearby. They check it.]
 Liz: ............ Wow. I wonder why...
 Ashley: Did something happen?
 Liz: Wow. There's a lot they don't teach in school.
@@ -117,7 +120,8 @@ Ashley: I hate to interrupt your glee, but if you have a solution, tell me.
 Liz: Oh, it's easy, really. If we use our graceful tails and stay flexible, the rest is easy.
 Ashley: Please. I hate saying this after asking for help, but please, don't make things worse.
 Liz: Remember that "gentleness" is one of our talents after "kindness". I'm leaving it up to you, Ard! Time to show your power!
-Ard: Ar...Ard! [Ard inserts his tail on the mouth and it reaches the switch. The wall blocking their way is gone.]
+Ard: Ar...Ard!
+  [Ard inserts his tail on the mouth and it reaches the switch. The wall blocking their way is gone.]
 Ashley: Your partner seems to be complaining about something.
 Liz: It seems... If you take calcium before bed, the absorption is best. No one fusses like Lizard.
 Ashley: Look at you, at your age, crying and complaining... in public like that. There's no need for it.
@@ -130,7 +134,8 @@ Ard: Ard...Ard, ArArAr. Ard, Ar-d!
 Liz: He's very "grateful" for the rescue. Now this is a top-notch human drama unfolding.
 Ashley: It seems like one problem turns into 10 problems... which turn into 20 problems. How do you manage to stir up so much trouble?
 Liz: Is trouble like a bamboo shoot, spouting up everywhere?
-Ashley: Or is trouble like a snowball, growing bigger and bigger? [Moving along, the party finds yet another lever down where they can't reach.]
+Ashley: Or is trouble like a snowball, growing bigger and bigger?
+  [Moving along, the party finds yet another lever down where they can't reach.]
 Ashley: Look, a lever in a place like that.
 Liz: Hmmm...there's a lever.
   [Everyone stares at Liz.]
@@ -147,17 +152,21 @@ Liz: Ahhhh...ahhhh! What an ominous sound.
 Liz: Wow! Teleport!
   [Everyone watch the wall go down while Liz falls into oblivion.]
 Lilka: Ah! He disappeared!
-Ashley: Seems like he was born under an accident prone star. [The party moves on and finds another lever blocked by a wall. Liz is standing dizzy near it.]
+Ashley: Seems like he was born under an accident prone star.
+  [The party moves on and finds another lever blocked by a wall. Liz is standing dizzy near it.]
 Ashley: Another lever!
 Lilka: Even if you're faking it, how about noticing the Lizard first?
 Ashley: That's true but... Isn't it strange? If there was a pattern, wouldn't he say something unnecessary?
 Lilka: Hey, hey! ............ Isn't that risky?
-Ashley: Why does that guy, even when he's quiet, make me uneasy? [choice: If Ashley uses his Hurl Knife to wake Liz.] Liz: Ahhh! It's so infrequent we're positioned for battle. [choice: If Lilka uses her Fire Rod to wake Liz.] Liz: Wow! I'm putting my fate in the hands of this warship.
+Ashley: Why does that guy, even when he's quiet, make me uneasy? [choice: If Ashley uses his Hurl Knife to wake Liz.]
+Liz: Ahhh! It's so infrequent we're positioned for battle. [choice: If Lilka uses her Fire Rod to wake Liz.]
+Liz: Wow! I'm putting my fate in the hands of this warship.
 Liz: Eeee- eeee-...Shock treatment isn't terribly soothing. I'm someone who only needs to be told to get it. No need to have the experience.
 Ashley: I'm glad you're doing so well. It's such a relief.
 Liz: Ha, ha, ha, of course. At my death, I hypnotized myself. "I can't die now" I said, and look at the result. It's sure grand to be alive.
 Ashley: I don't care about your joy for living. Just get the lever.
-Liz: Why do I get treated so rudely? Judgement day is just around the corner! You'll get yours then. [Liz flips the lever and re-joins the group. Finally, they find the Germatron in a chest nearby.]
+Liz: Why do I get treated so rudely? Judgement day is just around the corner! You'll get yours then.
+  [Liz flips the lever and re-joins the group. Finally, they find the Germatron in a chest nearby.]
 Ashley: These are the Germatron crystals Irving talked about.
 Liz: Yes indeed, this is the Germatron I've been searching for. The mail order ones from magazines don't begin to compare. These are superb, full or magical powers.
 Ashley: Irving seems to be trying to use the stones to move something.
@@ -171,7 +180,8 @@ Liz: Of course! The problems started when I brought Undines here for an experime
 Liz: Wow! Isn't this like a secret disclosure? There's a traitor among you.
 Ashley: It's you. You!
 Lilka: Maybe, just maybe I thought that really it might be.
-Liz: Whoaaaa! How's that?! It's a move too good to waste for when no one's around. But this might not be the time. [BOSS: Lead Scientific Researcher (Self-Styled) - Liz And his Assistant - Ard]
+Liz: Whoaaaa! How's that?! It's a move too good to waste for when no one's around. But this might not be the time.
+  [BOSS: Lead Scientific Researcher (Self-Styled) - Liz And his Assistant - Ard]
   [The party defeats the Lizardmen.]
 Liz: You fiend. If only I had finished the Bulkogidon.
 Lilka: Wow! He got up.
@@ -181,4 +191,4 @@ Ard: Ar...d Ard. Ard...Arrd, A...rd!
 Ashley: So they're also Odessa.
 Brad: It's hard to hold them in contempt.
 Lilka: Really. I mean, they've got guys like that in their organization. They've got so much money, it's frightening. <Call Menu>
-Kate: >If you have both crystals, return to Valeria Chateau. =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################
+Kate: >If you have both crystals, return to Valeria Chateau.

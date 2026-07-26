@@ -48,8 +48,11 @@ OPT_RE   = re.compile(r'^\s*#\[(0\.[0-9]+)\]\s+(.*?)\s*#*\s*$')
 SUB_RE   = re.compile(r'^\s*~~\s*(.*?)\s*~~\s*$')
 DIR_RE   = re.compile(r'^\s*\[(.*)\]\s*$')
 # Speaker line: optional @, a Name (letters/digits/space/.'?()/-{}), then ':' then optional text.
-SPK_RE   = re.compile(r'^(@?)([A-Z][A-Za-z0-9 .()/?\'’{}\-]{0,28}?):\s{2,}(.*)$')
-SPK_BARE = re.compile(r'^(@?)([A-Z][A-Za-z0-9 .()/?\'’{}\-]{0,28}?):\s*$')
+# up to 3 leading spaces tolerated: some speaker lines are indented a col or two
+# (e.g. " Tony:        ...") but true continuation text sits at col ~14, so this
+# won't swallow continuations. The \s{2,} after the colon is the real discriminator.
+SPK_RE   = re.compile(r'^\s{0,3}(@?)([A-Z][A-Za-z0-9 .()/?\'’{}\-]{0,28}?):\s{2,}(.*)$')
+SPK_BARE = re.compile(r'^\s{0,3}(@?)([A-Z][A-Za-z0-9 .()/?\'’{}\-]{0,28}?):\s*$')
 CHOICE_RE= re.compile(r'^\s*->\s*[0-9]+\.\s*(.*)$')
 CONT_COL = 14  # continuation lines are indented to ~col 14
 
@@ -72,7 +75,10 @@ def parse(text):
                 cur['boxes'].append(pending)
         pending = None
 
-    for ln in lines:
+    skip_until = -1
+    for idx, ln in enumerate(lines):
+        if idx <= skip_until:
+            continue
         m = SEC_RE.match(ln) or OPT_RE.match(ln)
         if m:
             flush()
@@ -105,11 +111,39 @@ def parse(text):
             flush()
             cur['boxes'].append({'kind':'dir','speaker':None,'text':dm.group(1).strip(),'loc':cur.get('loc')})
             continue
+        # a stage direction that WRAPS across lines: opens with [ but no closing ] yet.
+        # Absorb following lines until the ] so the direction (a) flushes the prior speaker and
+        # (b) doesn't get mis-appended as speaker continuation. (Fixes broadcast/transmission run-ons.)
+        ws = ln.strip()
+        if ws.startswith('[') and ']' not in ws and cur is not None:
+            flush()
+            buf = [ws.lstrip('[').strip()]
+            j = idx + 1
+            while j < len(lines) and ']' not in lines[j]:
+                if lines[j].strip(): buf.append(lines[j].strip())
+                j += 1
+            if j < len(lines):
+                buf.append(lines[j].split(']')[0].strip())
+            cur['boxes'].append({'kind':'dir','speaker':None,
+                                 'text':' '.join(' '.join(buf).split()),'loc':cur.get('loc')})
+            skip_until = j     # main loop skips through the closing-] line
+            continue
+        # scene divider (a run of dashes/underscores) ends the current speaker's box
+        if re.match(r'^\s*[-_¯=]{6,}\s*$', ln):
+            flush()
+            continue
         cm = CHOICE_RE.match(ln)
         if cm:
             # choices attach to the current speaker box as continuation
             if pending: pending['text'] += ' [choice: '+cm.group(1).strip()+']'
             else: cur['boxes'].append({'kind':'choice','speaker':None,'text':cm.group(1).strip(),'loc':cur.get('loc')})
+            continue
+        # bare "-> ..." branch annotation (guide conditional, not a numbered choice):
+        # it's a stage direction, so it ENDS the current speaker's box rather than merging in.
+        bm = re.match(r'^\s*->\s*(.*)$', ln)
+        if bm:
+            flush()
+            cur['boxes'].append({'kind':'dir','speaker':None,'text':bm.group(1).strip(),'loc':cur.get('loc')})
             continue
         sp = SPK_RE.match(ln)
         if sp:

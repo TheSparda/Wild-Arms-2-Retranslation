@@ -1,5 +1,5 @@
 # [1.10] Contacting the Guardians  (disc 1)
-# dialogue boxes: 386   speakers: 30
+# dialogue boxes: 388   speakers: 30
 # ============================================================
 
 ~~ Valeria Chateau ~~
@@ -19,9 +19,10 @@ Irving: We will handle what we must. If we flinch, everyone in the world will pa
 Lilka: Oh! Are you going to meet Marina again? Hmmph... Good luck, anyway.
 Brad: Resting up for your next assignment is a duty, too.
 Marivel: We're working hard now, so those who don't help can leave.
-Irving: Good work on getting the Aguelite and Germatron Crystals. Why don't you rest for a little while? -------------------------------------------------------------------------------
+Irving: Good work on getting the Aguelite and Germatron Crystals. Why don't you rest for a little while?
 
 ~~ Town of Meria ~~
+  [Ashley heads to the Town of Meria to see his sweetie. In there, he see three goons chasing Tony and his buddies.]
 Tony: Dude... HELP!!!
 Ashley: Three of you against these kids? That doesn't seem fair. How about taking me on instead?
   [The goons back off a little.]
@@ -74,7 +75,8 @@ Irving: The Valeria Chateau's secret. We'll use this to intercept 'em.
 Ashley: I should have expected something crazy like this! What should we do?
 Irving: You are now free to use the deck. Intercept them there.
 Ashley: OK!
-Irving: Full speed ahead! The battle will soon begin over the Town of Meria! [The landmass where the Valeria Chateau is standing separates from the earth. The Chateau's floating in the sky. Meanwhile, the party heads to the deck and encounters...]
+Irving: Full speed ahead! The battle will soon begin over the Town of Meria!
+  [The landmass where the Valeria Chateau is standing separates from the earth. The Chateau's floating in the sky. Meanwhile, the party heads to the deck and encounters...]
   [BOSS: Progenitor Bird with Wings of Light - Alphael]
   [The party kills the Progenitor Bird.]
   [In the Town of Meria...]
@@ -87,7 +89,9 @@ Ashley: I just found out myself. I'm just as surprised. Tim... Someone must be a
 Tony: Dude! Is that true? Wait a sec. That...
 Lilka: The Varukisas... Odessa withdrew as soon as we defeated that monster, right? Of course, it's still too early to draw conclusions.
 Ashley: What we have to focus on now is protecting Tim. I want you to come to Valeria Chateau with us.
-Tim: ... By "my powers", you mean the powers from my Medium? ............ Alright. Let's do it. [The party leaves. Tim stops for a while and takes a look at his friends, then follows ARMS.] [The party heads to Valeria Chateau. In there, Irving explains to Tim the power that he holds.]
+Tim: ... By "my powers", you mean the powers from my Medium? ............ Alright. Let's do it.
+  [The party leaves. Tim stops for a while and takes a look at his friends, then follows ARMS.]
+  [The party heads to Valeria Chateau. In there, Irving explains to Tim the power that he holds.]
 Tim: The power to awaken the Guardians... I have that power? ............ And there are people who want to use me to get at the Guardian's power?
 Irving: We want to protect you so that your power doesn't get misused.
 Tim: I don't understand it all, but I know I'm scared.
@@ -95,20 +99,24 @@ Irving: You're scared because you don't know the extent of your power. Let's go 
 Tim: My hometown - where I lived with my mother... I understand. Please... Take me there. Wait one second.
 Irving: There's no need to worry about your friends in the Town of Meria. We can explain everything afterwards. You will be able to see them again.
 Tim: OK...
-Irving: Valeria Chateau, full speed ahead! To the village of the Baskars, protectors of the Guardians! [Meanwhile, inside one of Valeria Chateau's guest rooms, Tony and Scott seem to have snuck in.]
+Irving: Valeria Chateau, full speed ahead! To the village of the Baskars, protectors of the Guardians!
+  [Meanwhile, inside one of Valeria Chateau's guest rooms, Tony and Scott seem to have snuck in.]
 Tony: Now how do we meet Tim?
 Scott: In my opinion, you use the common term, we're merely "stowaways"!
 Tony: No matter how you look at it, we're stowaways! That doesn't matter! What matters is helping out Tim! We know he needs us!
 Scott: That's true, but... In my humble opinion, if they find us, we'll be lucky to get off with 100 lashes.
-Tony: Just don't think about that. Think about getting us food. I'm so hungry they'll hear my stomach! ------------------------------------------------------------------------------- [TUTORIAL]: *To move the Valeria Chateau forward, press the up directional button or the (X) button. To turn, press the left or right directional buttons or the [L1][R1] buttons. Ashley's party can board and deplane only at the Landing Pad in the field. Touch the Landing Pad and press the (O) button to see a choice for descending from the Chateau. Touch the Landing Pad and press the (X) button to board.
+Tony: Just don't think about that. Think about getting us food. I'm so hungry they'll hear my stomach!
 Kate: I'm Kate Lindbergh. We've met before, haven't we? Amy and I are the operators. We're also both telepaths.
 Amy: Tada! It's me, Amy Fairchild! The face behind the voice you know and love so well! You can call me "A".
 Gabacho: I'm Gabacho, chief engineer of Valeria Chateau. I ran a butcher shop before I joined the service. I joined ARMS to help out during the crisis. Pleased to meet ya.
 Altaecia: My brother told me once... about a windswept cave far to the northwest, by a Landing Pad no one knows about. It seems Filgaia still has many mysterious places that are yet unexpected.
 Scott: In my humble opinion... Tim should be left in the care of this castle.
 Tony: Nya nya! I stowed away! A@Tony: Hey, dude! Thanks so much for rescuing Tim from the kidnappers!
-Irving: What's wrong? Speed is the key to success in battle! [choice: Where's Baskar Village?] Irving: It's a "hidden village", so it must be deep in the woods. We must scout the area. [choice: I just came to chat] Irving: So Valeria Chateau is ready to take the fight to Odessa. My crew and I are ready to battle Odessa! But still... I wonder if it was right to involve my kid sister, Altaecia, in all of this. I don't want Altaecia to see the savagery that war brings out in people. <Call Menu>
-Erwin: >Ohhh. I am master of the skies. Call on me when you wish to fly. Ohhh. ------------------------------------------------------------------------------- [As soon as ARMS lands on the Landing Pad near Baskar, Irving contacts them.]
+Irving: What's wrong? Speed is the key to success in battle! [choice: Where's Baskar Village?]
+Irving: It's a "hidden village", so it must be deep in the woods. We must scout the area. [choice: I just came to chat]
+Irving: So Valeria Chateau is ready to take the fight to Odessa. My crew and I are ready to battle Odessa! But still... I wonder if it was right to involve my kid sister, Altaecia, in all of this. I don't want Altaecia to see the savagery that war brings out in people. <Call Menu>
+Erwin: >Ohhh. I am master of the skies. Call on me when you wish to fly. Ohhh.
+  [As soon as ARMS lands on the Landing Pad near Baskar, Irving contacts them.]
 Irving: >Hidden in a Forest are the Guardian-worshipping Baskar. Their village, Baskar Village, is so well-hidden it's known as the Hidden Town. I only know that it's around here somewhere. I'm afraid you'll have to search on foot.
   [ARMS finds and enters Baskar.  Irving and Tim are with the party, as well.]
 
@@ -116,7 +124,8 @@ Irving: >Hidden in a Forest are the Guardian-worshipping Baskar. Their village, 
 Tim: This is my hometown.
 Irving: Yes... The home of the Baskars... heirs to the ancient tradition of worship for the "Guardians". ...And where you were born 12 years ago.
 Tim: But I don't remember it all... My earliest memories are traveling with my mother far away from here.
-Irving: First, I would love to hear about Tim's birth. Let's go talk to the Village Chief. Feel free to wander around the village, Tim. There might be clues somewhere... [ARMS heads to the house of the Village Chief, leaving Tim to wander around the village.]
+Irving: First, I would love to hear about Tim's birth. Let's go talk to the Village Chief. Feel free to wander around the village, Tim. There might be clues somewhere...
+  [ARMS heads to the house of the Village Chief, leaving Tim to wander around the village.]
 Village Chief: You have done well in coming here. As you say, Tim is a child of this village. Tim is definitely the child of Sabrina the Guardian sorceress.
 Village Chief: Sabrina, the Guardian sorceress, inspired us. She fell in love with a visiting Merc and bore his child. The child was given the name of Tim, and was loved by all until he was 3. Then... ...Sabrina changed drastically when she learned that her love died from injuries sustained on a mission. Finally Sabrina took her child and left one night. We were all overcome with grief.
 Ashley: Sabrina... She died in the Town of Meria. That much we know. After that, Tim continued living there.
@@ -127,9 +136,11 @@ Village Chief: How...how do you know so much? Tim is one of the few left who has
 Lilka: By "Pillar" you mean...
 Village Chief: The "Pillars" embody the power of the Guardians. It is plain to see that Tim has inherited this ability from Sabrina. But in this village, there is another who also has this ability... You shall meet her soon...
   [Meanwhile Tim wanders in the village.]
-Tim: Irving and them still seem to be talking. Let's look around the village a little bit more and see if anything stirs up memories. [Tim explores the village and comes by a house where there is something shining on a table. Tim checks the shining object.]
+Tim: Irving and them still seem to be talking. Let's look around the village a little bit more and see if anything stirs up memories.
+  [Tim explores the village and comes by a house where there is something shining on a table. Tim checks the shining object.]
 Tim: This... it's just like the one my Mom had.
-Girl with a Soft Voice: ...who are you? [Tim looks surprised as a girl enters the house. The object falls on the floor.]
+Girl with a Soft Voice: ...who are you?
+  [Tim looks surprised as a girl enters the house. The object falls on the floor.]
 Girl with a Soft Voice: Ohh...
   [Tim and the Girl starts searching for the fallen object.]
 Girl with a Soft Voice: (Who is this boy? He's a stranger. I've never seen a boy my own age before. What should I say to him? I don't know. Maybe say Hi? That would be the normal thing to do. They say first impressions are important. I don't know. How can I be so nervous...?)
@@ -172,7 +183,8 @@ Tim: Would it be permitted?
 Irving: In that case, I will make it an official order. ARMS must do everything in its power to help Tim, the heir of the "Pillar". We can expect either Odessa or monsters to attack. We will be ready!
 Ashley: Understood!
 Irving: Now we have nothing to worry about, I guess...
-Village Chief: In that case, please rest for today. Tomorrow when everything is ready I will show you to the trial arena. [The next day, they are about to go to the trial arena when they see Colette waiting at the village entrace.]
+Village Chief: In that case, please rest for today. Tomorrow when everything is ready I will show you to the trial arena.
+  [The next day, they are about to go to the trial arena when they see Colette waiting at the village entrace.]
 Colette: I've been given the duty of showing you the way to the trial arena. The entrance to the trial arena is hidden in the middle of the forest south of the village. There is no identifying mark, so be careful not to miss it!
   [The party exits Baskar Village.]
 
@@ -194,7 +206,8 @@ Tim: Don't worry about me. I'm off now.
 Colette: (Is it OK? They're leaving. I heard it's a dangerous place. Maybe I'll never see 'em again. I'm so spaced. Is it all right for me to stand up? There's no excuse really. Is there something I should be saying now... something that'll make them like me. I remember seeing that in a book. I'm not sure anymore.)
 Colette: Wait. There's a field of flowers nearby. It's a beautiful field of flowers no one knows about. Huh? What am I talking about?
 Tim: I'd like to go there. When we get back, I'd like you to show me the flowers.
-Colette: ............ Yes, then I'll be waiting. I'll be waiting right here for you to come back. [They head north into the trial arena. They find some cute floating creature waiting for them.]
+Colette: ............ Yes, then I'll be waiting. I'll be waiting right here for you to come back.
+  [They head north into the trial arena. They find some cute floating creature waiting for them.]
 Sub-Spirit: I've been waiting. So you're the "Heir". You know. You can get your soul to communicate with the sleeping "Old Ruler" Guardians.
 Tim: Who are you?
 Sub-Spirit: ...? Oh, that's right. You all find it inconvenient when there's no clear name for an existent being.
@@ -281,7 +294,7 @@ Tim: Thank you.
 Colette: I wish the flowers would stay pretty like this forever and ever.
   [Tim goes nearer to Colette.]
 Tim: I wish it could always be like this forever and ever.
-Colette: Yep. -------------------------------------------------------------------------------
+Colette: Yep.
 
 ~~ Baskar Village ~~
 Villager 1: You did it, Tim! You were accepted as a "Pillar"!
@@ -317,7 +330,8 @@ Tim: Ahhhh...
 Man 2: You must give your life for all our sakes...
 Village Chief: You will die.
 Man 1: Die!
-Man 2: ...Die...! ------------------------------------------------------------------------------- [Tim is in one of Valeria Chateau's guest room. Meanwhile, ARMS, Colette and The Village Chief are all gathered in the parlor.]
+Man 2: ...Die...!
+  [Tim is in one of Valeria Chateau's guest room. Meanwhile, ARMS, Colette and The Village Chief are all gathered in the parlor.]
 Ashley: What in the world?! How can you sacrifice a child?! I won't let you get away with this!
 Irving: Calm down, Ashley.
 Ashley: How do you expect me to?! Don't you care about life at all?!
@@ -364,7 +378,8 @@ Antenora: I bet you never thought your home base would be attacked. We found thi
 Antenora: I can't buy any more time. This is enough fun for now. Judecca should have the "Pillar" boy by now. My job is done.
   [Antenora disappears.]
 Lilka: I said wait!
-Ashley: First we have to save Tim! [Tim walks back and forth in a room until the place shakes causing him to be on his knees.]
+Ashley: First we have to save Tim!
+  [Tim walks back and forth in a room until the place shakes causing him to be on his knees.]
 Tim: I have to die, it seems. If I don't die, there's no point to having lived, anyway. Proof that I was ever here will only come if I am gone. ............. I'm scared... I'm so scared...
 Voice of Colette: Nooooooo...!
 Tim: Colette- I want to protect you...you and everyone else. I want to run. I want to run away from it all. I want to protect you so that you aren't scared ever again. The only thing I can do to help you is...
@@ -391,7 +406,8 @@ Judecca: The "Pillar" boy. Will you tell me where he is now? Or would you prefer
 Village Chief: I'll never tell you! The "Pillar" exists to aid the world, not to be your plaything!
 Judecca: Feeble-minded old man.
   [A bright light appears between Judecca and the Baskars.]
-Judecca: Wh-What was that? [The image of Grudiev appears from the light. Then, Tim appears between them.]
+Judecca: Wh-What was that?
+  [The image of Grudiev appears from the light. Then, Tim appears between them.]
 Village Chief: Was that the Blue Dragon? Grudiev, the Guardian of earth...
 Judecca: Is that the "Pillar" boy?!
 Tim: You'd better get out of here now! If you don't...
@@ -412,6 +428,7 @@ Brad: I should've known they would have used a bomb like that!
 Ashley: Ok, everyone, let's go! You come with us! You're part of the group!
   [Tim nods.]
   [BOSS: Explosive Red Thunder Toad - Blastodon]
+  [The party heads in the catapult room where Blastodon is waiting.]
 Ashley: How dare you! One right after another...!
 Brad: Disposal of explosive materials is a very delicate operation! I'll do it after I take care of all of this!
 Kate: >Please wait! The search for explosives found them at the same point as the monsters on the warship. It is likely that explosives have been implanted within the monsters' bodies.
@@ -460,7 +477,7 @@ Ashley: That's so unlike you...
   [Lilka runs toward them.]
 Lilka: Everyone, hurry up! This way! Over here!
   [Tim and Brad comes.  Lilka seems to be complaining to Ashley.]
-Irving: (Under unconscious control...does it mean it's started stabilizing? ............ Or is it running out of control?) -------------------------------------------------------------------------------
+Irving: (Under unconscious control...does it mean it's started stabilizing? ............ Or is it running out of control?)
   [Inside the Village Chief's house, in Baskar Village...]
 Village Chief: This is wonderful! Tim is the perfect "Pillar". With abilities as great as his, he will certainly be able to' manifest the power of the Guardians!
 Tim: Please wait! NO! I don't want to die!
@@ -474,4 +491,4 @@ Irving: In that case, come back with us to Meria Boule. The next battle awaits A
   [Tim, Colette and the Village Chief are left in the house.]
 Tim: I don't want to die. I don't want anyone to die. So take care, Chief. And you too, Colette. I will be back. This is my home, right...?
   [Tim and Colette leave.]
-Village Chief: Will you ever be able to forgive me, Tim? My daughter Sabrina, will your son be able to forgive me? =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################
+Village Chief: Will you ever be able to forgive me, Tim? My daughter Sabrina, will your son be able to forgive me?

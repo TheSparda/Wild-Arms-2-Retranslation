@@ -1,5 +1,5 @@
 # [1.02] The Town to the Western Winds  (disc 1)
-# dialogue boxes: 62   speakers: 13
+# dialogue boxes: 95   speakers: 14
 # ============================================================
   [On a cliff, a mysterious girl can be seen looking at a comet from the sky.]
 Mysterious Girl (?): The comet has disrupt the heavens. I need to do something! I must hurry!
@@ -35,17 +35,51 @@ Tim: The 3 of us hang out together, 'cause we're all orphans. We're so glad that
 Tony: We came here to thank you and to ask you a favor.
 Ashley: A favor?
 Tony: Yeah... Helping people is your job, right? Well, we need your help! We can't do this on our own!
-Ashley: [choice: OK, tell me what's going on.] Tony: We need you to catch a cat... Actually, a kitten.
+Ashley: [choice: OK, tell me what's going on.]
+Tony: We need you to catch a cat... Actually, a kitten.
   [The cat can be seen on the rooftop of the bakery.]
+Tony: This is embarrassing, but... This kitten made off with a treasure of ours. It's the kitten up there on the roof.
+Scott: In my humble opinion... It looks bad to have this happen to us. We find ourselves unable to remedy the situation as the kitten is on the roof.
+Tim: Frightened by our chasing it, the kitten refuses to descend. I am sorry to bother you, but can you do something?
+Tony: You gotta help us, Dude! Our pride is at stake here!
+Tony: You gotta help, Dude. You're the only one I can turn to!
+Scott: In my humble opinion... ...since we were unable to retrieve it ourselves, we have no shred of honor left.
+Tim: Excuse me... I hate to interrupt your rest, but could you do me a favor?
+  [Ashley goes up the roof, through the ladder in the bakery. He tries to get the cat, but it runs away.]
+Man fixing the roof: I'm fixing a hole in the roof. My old lady hates it, but it's handy to be able to come and go through the roof, I think. Well, that looks fun! How 'bout it, sonny? Want me to help you catch that cat?
+Ashley: Yes, please help me!
+Man fixing the roof: Chase that cat this way again. I have a secret weapon. Hee hee! This is no time to be fixing the roof.
   [Ashley chases the cat again to where the man fixing the roof is.]
+Man fixing the roof: Now! screeech!
   [The cat falls into the hole in the roof.]
+Man fixing the roof: Yeah! I gotcha! Did you see that? Did you witness my amazing skill and timing? The cat must be under here. If this is what you want help with, count me in!
   [Ashley enters the building where the cat fell.]
+Ashley: Gotcha! Alright, now be a good kitty...
   [Ashley grabs the mischievou kitten.]
+Ashley: This must be the treasure that the kitten took.
   [Ashley takes the cat out.]
+Tony: Wow, that's great, Dude! Muchas gracias!
+Scott: I am so glad. In my humble opinion... We have successfully preserved our honor.
+Ashley: This is it, right? I got it back!
+Tony: Ah, what the heck. Here, you can have it! This is a matter of principle. I have it back, so I'm happy. Now I'm giving it to you... as a token of my gratitude for getting it back. Take it!
   [Ashley receives a Crest Cap.]
+Tony: Oh, one more thing...
+Tim: Please accept this from me. This is a Medium. It supposedly contains the power of a Guardian. Before she died, Mom gave this to me as a good luck charm. I want you to have it, Ashley.
+Ashley: Are you sure? This must me very special to you.
+Tim: It's OK, 'cause I have another one. Please take it... as a token of my gratitude for saving Tony.
+Ashley: Alright. Thank you, Tim.
   [Ashley acquires Grudiev.]
-Ashley: [choice: Sorry, but I'm busy now.] Tony: Oh. Alright. I guess you have your job to do. That's cool. But I still wanna thank you for the other day. Here, take this. Tim: Please... This is a Medium. It supposedly contains the power of a Guardian. Before she died, Mom gave this to me as a good luck charm. I want you to have it, Ashley. Ashley: Are you sure? This must me very special to you. Tim: It's OK, 'cause I have another one. Please take it... as a token of my gratitude for saving Tony. Ashley: Alright. Thank you, Tim.
+Tim: Equipping characters with a medium boosts their parameters. Each Medium has its own "Custom Command", a special battle command. The "Custom Command" is added to your battle commands and will come in handy. One more thing... Mom said that the Medium also had another type of power. But I can't remember what it was. Sorry.
+Ashley: That's OK, Tim. It's handy enough as it is!
+Ashley: [choice: Sorry, but I'm busy now.]
+Tony: Oh. Alright. I guess you have your job to do. That's cool. But I still wanna thank you for the other day. Here, take this.
+Tim: Please... This is a Medium. It supposedly contains the power of a Guardian. Before she died, Mom gave this to me as a good luck charm. I want you to have it, Ashley.
+Ashley: Are you sure? This must me very special to you.
+Tim: It's OK, 'cause I have another one. Please take it... as a token of my gratitude for saving Tony.
+Ashley: Alright. Thank you, Tim.
   [Grudiev acquired.]
+Tim: Equipping characters with a medium boosts their parameters. Each Medium has its own "Custom Command", a special battle command. The "Custom Command" is added to your battle commands and will come in handy. One more thing... Mom said that the Medium also had another type of power. But I can't remember what it was. Sorry.
+Ashley: That's OK, Tim. It's handy enough as it is!
   [Marina appears.]
 Marina: Oh, there you are. I was looking for you Ashley.
 Ashley: What is it?
@@ -94,4 +128,4 @@ Marina: You're coming right back?
 Ashley: Sure. I'll come right back after the ceremony. I promise.
 Marina: We'll be waiting for you with a big feast for dinner.
 Ashley: Good! I can't wait. Bye. See you soon!
-Marina: Take care! =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################
+Marina: Take care!

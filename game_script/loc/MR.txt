@@ -1,4 +1,4 @@
-# area MR — Town of Meria  (234 dialogue boxes)
+# area MR — Town of Meria  (269 dialogue boxes)
 # from the game-script ~~Location~~ markers (authoritative area boundary)
 # ============================================================
 
@@ -30,17 +30,51 @@ Tim: The 3 of us hang out together, 'cause we're all orphans. We're so glad that
 Tony: We came here to thank you and to ask you a favor.
 Ashley: A favor?
 Tony: Yeah... Helping people is your job, right? Well, we need your help! We can't do this on our own!
-Ashley: [choice: OK, tell me what's going on.] Tony: We need you to catch a cat... Actually, a kitten.
+Ashley: [choice: OK, tell me what's going on.]
+Tony: We need you to catch a cat... Actually, a kitten.
   [The cat can be seen on the rooftop of the bakery.]
+Tony: This is embarrassing, but... This kitten made off with a treasure of ours. It's the kitten up there on the roof.
+Scott: In my humble opinion... It looks bad to have this happen to us. We find ourselves unable to remedy the situation as the kitten is on the roof.
+Tim: Frightened by our chasing it, the kitten refuses to descend. I am sorry to bother you, but can you do something?
+Tony: You gotta help us, Dude! Our pride is at stake here!
+Tony: You gotta help, Dude. You're the only one I can turn to!
+Scott: In my humble opinion... ...since we were unable to retrieve it ourselves, we have no shred of honor left.
+Tim: Excuse me... I hate to interrupt your rest, but could you do me a favor?
+  [Ashley goes up the roof, through the ladder in the bakery. He tries to get the cat, but it runs away.]
+Man fixing the roof: I'm fixing a hole in the roof. My old lady hates it, but it's handy to be able to come and go through the roof, I think. Well, that looks fun! How 'bout it, sonny? Want me to help you catch that cat?
+Ashley: Yes, please help me!
+Man fixing the roof: Chase that cat this way again. I have a secret weapon. Hee hee! This is no time to be fixing the roof.
   [Ashley chases the cat again to where the man fixing the roof is.]
+Man fixing the roof: Now! screeech!
   [The cat falls into the hole in the roof.]
+Man fixing the roof: Yeah! I gotcha! Did you see that? Did you witness my amazing skill and timing? The cat must be under here. If this is what you want help with, count me in!
   [Ashley enters the building where the cat fell.]
+Ashley: Gotcha! Alright, now be a good kitty...
   [Ashley grabs the mischievou kitten.]
+Ashley: This must be the treasure that the kitten took.
   [Ashley takes the cat out.]
+Tony: Wow, that's great, Dude! Muchas gracias!
+Scott: I am so glad. In my humble opinion... We have successfully preserved our honor.
+Ashley: This is it, right? I got it back!
+Tony: Ah, what the heck. Here, you can have it! This is a matter of principle. I have it back, so I'm happy. Now I'm giving it to you... as a token of my gratitude for getting it back. Take it!
   [Ashley receives a Crest Cap.]
+Tony: Oh, one more thing...
+Tim: Please accept this from me. This is a Medium. It supposedly contains the power of a Guardian. Before she died, Mom gave this to me as a good luck charm. I want you to have it, Ashley.
+Ashley: Are you sure? This must me very special to you.
+Tim: It's OK, 'cause I have another one. Please take it... as a token of my gratitude for saving Tony.
+Ashley: Alright. Thank you, Tim.
   [Ashley acquires Grudiev.]
-Ashley: [choice: Sorry, but I'm busy now.] Tony: Oh. Alright. I guess you have your job to do. That's cool. But I still wanna thank you for the other day. Here, take this. Tim: Please... This is a Medium. It supposedly contains the power of a Guardian. Before she died, Mom gave this to me as a good luck charm. I want you to have it, Ashley. Ashley: Are you sure? This must me very special to you. Tim: It's OK, 'cause I have another one. Please take it... as a token of my gratitude for saving Tony. Ashley: Alright. Thank you, Tim.
+Tim: Equipping characters with a medium boosts their parameters. Each Medium has its own "Custom Command", a special battle command. The "Custom Command" is added to your battle commands and will come in handy. One more thing... Mom said that the Medium also had another type of power. But I can't remember what it was. Sorry.
+Ashley: That's OK, Tim. It's handy enough as it is!
+Ashley: [choice: Sorry, but I'm busy now.]
+Tony: Oh. Alright. I guess you have your job to do. That's cool. But I still wanna thank you for the other day. Here, take this.
+Tim: Please... This is a Medium. It supposedly contains the power of a Guardian. Before she died, Mom gave this to me as a good luck charm. I want you to have it, Ashley.
+Ashley: Are you sure? This must me very special to you.
+Tim: It's OK, 'cause I have another one. Please take it... as a token of my gratitude for saving Tony.
+Ashley: Alright. Thank you, Tim.
   [Grudiev acquired.]
+Tim: Equipping characters with a medium boosts their parameters. Each Medium has its own "Custom Command", a special battle command. The "Custom Command" is added to your battle commands and will come in handy. One more thing... Mom said that the Medium also had another type of power. But I can't remember what it was. Sorry.
+Ashley: That's OK, Tim. It's handy enough as it is!
   [Marina appears.]
 Marina: Oh, there you are. I was looking for you Ashley.
 Ashley: What is it?
@@ -89,7 +123,7 @@ Marina: You're coming right back?
 Ashley: Sure. I'll come right back after the ceremony. I promise.
 Marina: We'll be waiting for you with a big feast for dinner.
 Ashley: Good! I can't wait. Bye. See you soon!
-Marina: Take care! =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################
+Marina: Take care!
 
 ~~ Town of Meria ~~
   [Ashley is in his room, in the bakery.]
@@ -117,7 +151,8 @@ Ashley: (Valeria... That's right! I remember meeting a man named Valeria. And I.
 Marina: Ashley...
 Ashley: Oh, I'm sorry. It's nothing. I was just thinking out loud.
 Marina: You were the only one who survived the attack. Don't forget to thank Sir Valeria. It's the mature thing to do.
-Ashley: OK. I will. [Ashley leaves the bakery. Outside, Lilka is watching through the window. She faints and Ashley comes to her aid.]
+Ashley: OK. I will.
+  [Ashley leaves the bakery. Outside, Lilka is watching through the window. She faints and Ashley comes to her aid.]
 Ashley: Hey, you there! What's wrong with you?
 Lilka: H-Help!
 Ashley: Hey, you! Settle down!
@@ -137,7 +172,8 @@ Lilka: Just one, ma'am.
   [Lilka stomach acts up again.]
 Lilka: Actually, casting spells takes a lot of energy. So, I get hungry a LITTLE more quickly than other people.
 Baker's wife: How many do you want?
-Lilka: Um... Five jelly rolls, please. I really appreciate this! [They give Lilka the bread and she eats it. Lilka also tells them her story.]
+Lilka: Um... Five jelly rolls, please. I really appreciate this!
+  [They give Lilka the bread and she eats it. Lilka also tells them her story.]
 Ashley: So you have to go to the Valeria household, too?
   [Lilka finishes the bread.]
 Lilka: What a coincidence, huh? Hey, I know! Let me take you there to thank you for the jelly rolls!
@@ -207,9 +243,10 @@ Brad: We have to go back. Our next mission has been decided.
 Marina: Ashley...
 Ashley: ............ Don't worry. Everything will be alright, Marina.
 Marina: I guess so. Besides, I have this stone now.
-Ashley: With this, it'll be like I never left. Bye. -------------------------------------------------------------------------------
+Ashley: With this, it'll be like I never left. Bye.
 
 ~~ Town of Meria ~~
+  [Ashley heads to the Town of Meria to see his sweetie. In there, he see three goons chasing Tony and his buddies.]
 Tony: Dude... HELP!!!
 Ashley: Three of you against these kids? That doesn't seem fair. How about taking me on instead?
   [The goons back off a little.]
@@ -262,7 +299,8 @@ Irving: The Valeria Chateau's secret. We'll use this to intercept 'em.
 Ashley: I should have expected something crazy like this! What should we do?
 Irving: You are now free to use the deck. Intercept them there.
 Ashley: OK!
-Irving: Full speed ahead! The battle will soon begin over the Town of Meria! [The landmass where the Valeria Chateau is standing separates from the earth. The Chateau's floating in the sky. Meanwhile, the party heads to the deck and encounters...]
+Irving: Full speed ahead! The battle will soon begin over the Town of Meria!
+  [The landmass where the Valeria Chateau is standing separates from the earth. The Chateau's floating in the sky. Meanwhile, the party heads to the deck and encounters...]
   [BOSS: Progenitor Bird with Wings of Light - Alphael]
   [The party kills the Progenitor Bird.]
   [In the Town of Meria...]
@@ -275,7 +313,9 @@ Ashley: I just found out myself. I'm just as surprised. Tim... Someone must be a
 Tony: Dude! Is that true? Wait a sec. That...
 Lilka: The Varukisas... Odessa withdrew as soon as we defeated that monster, right? Of course, it's still too early to draw conclusions.
 Ashley: What we have to focus on now is protecting Tim. I want you to come to Valeria Chateau with us.
-Tim: ... By "my powers", you mean the powers from my Medium? ............ Alright. Let's do it. [The party leaves. Tim stops for a while and takes a look at his friends, then follows ARMS.] [The party heads to Valeria Chateau. In there, Irving explains to Tim the power that he holds.]
+Tim: ... By "my powers", you mean the powers from my Medium? ............ Alright. Let's do it.
+  [The party leaves. Tim stops for a while and takes a look at his friends, then follows ARMS.]
+  [The party heads to Valeria Chateau. In there, Irving explains to Tim the power that he holds.]
 Tim: The power to awaken the Guardians... I have that power? ............ And there are people who want to use me to get at the Guardian's power?
 Irving: We want to protect you so that your power doesn't get misused.
 Tim: I don't understand it all, but I know I'm scared.
@@ -283,19 +323,23 @@ Irving: You're scared because you don't know the extent of your power. Let's go 
 Tim: My hometown - where I lived with my mother... I understand. Please... Take me there. Wait one second.
 Irving: There's no need to worry about your friends in the Town of Meria. We can explain everything afterwards. You will be able to see them again.
 Tim: OK...
-Irving: Valeria Chateau, full speed ahead! To the village of the Baskars, protectors of the Guardians! [Meanwhile, inside one of Valeria Chateau's guest rooms, Tony and Scott seem to have snuck in.]
+Irving: Valeria Chateau, full speed ahead! To the village of the Baskars, protectors of the Guardians!
+  [Meanwhile, inside one of Valeria Chateau's guest rooms, Tony and Scott seem to have snuck in.]
 Tony: Now how do we meet Tim?
 Scott: In my opinion, you use the common term, we're merely "stowaways"!
 Tony: No matter how you look at it, we're stowaways! That doesn't matter! What matters is helping out Tim! We know he needs us!
 Scott: That's true, but... In my humble opinion, if they find us, we'll be lucky to get off with 100 lashes.
-Tony: Just don't think about that. Think about getting us food. I'm so hungry they'll hear my stomach! ------------------------------------------------------------------------------- [TUTORIAL]: *To move the Valeria Chateau forward, press the up directional button or the (X) button. To turn, press the left or right directional buttons or the [L1][R1] buttons. Ashley's party can board and deplane only at the Landing Pad in the field. Touch the Landing Pad and press the (O) button to see a choice for descending from the Chateau. Touch the Landing Pad and press the (X) button to board.
+Tony: Just don't think about that. Think about getting us food. I'm so hungry they'll hear my stomach!
 Kate: I'm Kate Lindbergh. We've met before, haven't we? Amy and I are the operators. We're also both telepaths.
 Amy: Tada! It's me, Amy Fairchild! The face behind the voice you know and love so well! You can call me "A".
 Gabacho: I'm Gabacho, chief engineer of Valeria Chateau. I ran a butcher shop before I joined the service. I joined ARMS to help out during the crisis. Pleased to meet ya.
 Altaecia: My brother told me once... about a windswept cave far to the northwest, by a Landing Pad no one knows about. It seems Filgaia still has many mysterious places that are yet unexpected.
 Scott: In my humble opinion... Tim should be left in the care of this castle.
 Tony: Nya nya! I stowed away! A@Tony: Hey, dude! Thanks so much for rescuing Tim from the kidnappers!
-Irving: What's wrong? Speed is the key to success in battle! [choice: Where's Baskar Village?] Irving: It's a "hidden village", so it must be deep in the woods. We must scout the area. [choice: I just came to chat] Irving: So Valeria Chateau is ready to take the fight to Odessa. My crew and I are ready to battle Odessa! But still... I wonder if it was right to involve my kid sister, Altaecia, in all of this. I don't want Altaecia to see the savagery that war brings out in people. <Call Menu>
-Erwin: >Ohhh. I am master of the skies. Call on me when you wish to fly. Ohhh. ------------------------------------------------------------------------------- [As soon as ARMS lands on the Landing Pad near Baskar, Irving contacts them.]
+Irving: What's wrong? Speed is the key to success in battle! [choice: Where's Baskar Village?]
+Irving: It's a "hidden village", so it must be deep in the woods. We must scout the area. [choice: I just came to chat]
+Irving: So Valeria Chateau is ready to take the fight to Odessa. My crew and I are ready to battle Odessa! But still... I wonder if it was right to involve my kid sister, Altaecia, in all of this. I don't want Altaecia to see the savagery that war brings out in people. <Call Menu>
+Erwin: >Ohhh. I am master of the skies. Call on me when you wish to fly. Ohhh.
+  [As soon as ARMS lands on the Landing Pad near Baskar, Irving contacts them.]
 Irving: >Hidden in a Forest are the Guardian-worshipping Baskar. Their village, Baskar Village, is so well-hidden it's known as the Hidden Town. I only know that it's around here somewhere. I'm afraid you'll have to search on foot.
   [ARMS finds and enters Baskar.  Irving and Tim are with the party, as well.]

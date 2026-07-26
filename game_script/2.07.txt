@@ -1,10 +1,11 @@
 # [2.07] Liberate the Raypoints  (disc 2)
 # dialogue boxes: 145   speakers: 23
 # ============================================================
-Amy: >You want the locations of the Raypoints? I'll tell you. One is near a large island far north of Meria. Another is west of Sylvaland. Another is near the Sielje Region and the last is near Guild Galad. The energy reaction is too weak to pinpoint the exact locations. It's not my fault! Hey, why don't you just ask the people who live there? Good idea, yeah? I'm so smart! ------------------------------------------------------------------------------- ______________ /Raypoint Flam/ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Amy: >You want the locations of the Raypoints? I'll tell you. One is near a large island far north of Meria. Another is west of Sylvaland. Another is near the Sielje Region and the last is near Guild Galad. The energy reaction is too weak to pinpoint the exact locations. It's not my fault! Hey, why don't you just ask the people who live there? Good idea, yeah? I'm so smart!
   [Lilka & Co. into the dungeon until they find the Raypoint's Knight.]
 Lilka: Even if my power is insufficient, I can't stand by and do nothing!
   [BOSS: Spriggan - Flam Knight]
+  [The party eliminates the knight. They move deeper into the Raypoint until they find the Flam's Mana Crystal.]
 Voice reaching Lilka's heart: Hey, Lilka, young daughter.
 Lilka: Who's that peeking into my heart?
 Voice reaching Lilka's heart: I am the will of power. The Spirit of Flam. Lilka... If you want to liberate the Raypoint I control, show me your powers.
@@ -14,7 +15,8 @@ Lilka: If... If my sorcery is not fully developed, then the release of the Raypo
 Spirit of Flam: Understand that it would be impossible. Furthermore, if you fail once the Raypoint cannot be liberated for all of eternity.
 Lilka: Wait...Wait! So you're saying I can make no mistake?
 Spirit of Flam: What's wrong? Why are you hesitating?
-Lilka: .......... I can't do this! I know I'm going to blow it again. I'm not good at this like my sister. It's so impossible! [Lilka appears alone in a space where the blue sky can be seen in the background.]
+Lilka: .......... I can't do this! I know I'm going to blow it again. I'm not good at this like my sister. It's so impossible!
+  [Lilka appears alone in a space where the blue sky can be seen in the background.]
 Lilka: Magic is the power to do anything. It's the power to be like... my big sister who I so adore. I had always believed in that, but it's not true. My Crest Sorcery can't do everything.
   [A glitter of light appears, circling around Lilka.]
 Lilka's Sister's Voice: Are you apprehensive?
@@ -40,6 +42,7 @@ Lilka: ............ Everyone, I'm so sorry. I lost my confidence. It's not like 
   [Brad & Co. explore the Raypoint until they find its knight.]
 Brad: So, Raypoint's protector knight has arrived. You must let me through.
   [BOSS: Spriggan - Geo Knight]
+  [They defeat the Knight and move deeper in the Raypoint until they find Geo's Mana Crystal. Brad moves up the staircase, alone.]
 Voice reaching Brad's heart: Hey, Brad. You with a deceptive shadow in your heart.
 Brad: Directly to my heart? Is that what you mean?
 Voice reaching Brad's heart: I am the will of power. The Spirit of Geo. Hey, Brad. If you want to liberate the Raypoint I control, you must expose the truth.
@@ -136,7 +139,7 @@ Pooka: Once, in the sea of light, I, Pooka, turned back into the light. And by g
 Tim: From now on I'm going to use a stronger Medium. Whoa! I don't care what it is! Wow! I did it!
 Pooka: (It was when I was reborn in the Sea of Light that I first heard of it. I'll never forget this voice that taught Pooka about "Pooka". I'm glad I tried this.)
 Tim: From now on we'll always be together!
-Pooka: That's right! =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= ______________ /Raypoint Muse/ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Pooka: That's right!
   [Kanon & Co. move into the Raypoint until they find its knight.]
 Kanon: The confusion in you... will be cut off along with you!
   [BOSS: Spriggan - Muse Knight]
@@ -144,7 +147,8 @@ Kanon: The confusion in you... will be cut off along with you!
 Voice Reaching Kanon's Heart: Hey, Kanon. To the one who threw it all away, but couldn't throw away their confusion...
 Kanon: Who? Who are you?
 Voice Reaching Kanon's Heart: I am the will of power. Spirit of Muse. If you want to liberate the Raypoint I control, you must rid yourself of your confusion.
-Kanon: My confusion? [Kanon is alone in a space where the blue sky can be seen in the background. She is facing a glitter of light.]
+Kanon: My confusion?
+  [Kanon is alone in a space where the blue sky can be seen in the background. She is facing a glitter of light.]
 Kanon: Confusion. I who gave up everything... but the one and only thing I can't give up is the "confusion". I'll do it. I'll throw it away. That's how I became strong. That's how I got powerful.
   [An image of Aisha appears from the light.]
 Aisha: So, I too discarded my own self?
@@ -177,4 +181,4 @@ Kanon: Fight with us. I am just like you. I want to protect Filgaia. [NARRATION]
   [Kanon acquires the Force: "Gat Lv.4".]
   [The communicator beeps.]
 Ashley: Raypoint liberation complete! Mana, the life blood of Filgaia, is free!
-Irving: >Sure seems that way. I register an increase in Mana here too. That just might be the ticket! Ask Meria Boule, Sylvaland and Guild Galad for permission to use the Live Reflectors! We commence operations against Kuiper Belt upon your return. Return at once! Over and out! -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- #############################################################################
+Irving: >Sure seems that way. I register an increase in Mana here too. That just might be the ticket! Ask Meria Boule, Sylvaland and Guild Galad for permission to use the Live Reflectors! We commence operations against Kuiper Belt upon your return. Return at once! Over and out!

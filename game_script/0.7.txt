@@ -1,5 +1,5 @@
 # [0.7] Fab Science Lab  (disc 0)
-# dialogue boxes: 108   speakers: 7
+# dialogue boxes: 110   speakers: 7
 # ============================================================
   [At Gunner's Heaven - Damzen City Saloon...]
 Luka: Well, you've certainly got some odd friends. What's with 'em?
@@ -51,7 +51,10 @@ Ashley: Wait a minute. What do you mean you want to be shown around?
 Liz: We were locked out by the security system. Finally, the computers rebelled. This is the first class Hard SF. Think you're so smart. But to quote a masked wrestler, "Don't enter a tiger's den and there won't be any orphans". If you face adversity now, everything else will be easy.
 Ashley: The only thing I can think is that they're both bugged. Well, all right. I'll show you around. Just go on home or wherever.
 Liz: How exciting!!! The young one changed his mind. Hip Hip Hooray!
-Ard: Ard...Ar...Ard! -> If they try to leave the Fab Science Lab Liz: Running away? It is I, the one you all loved. If I go off to some remote region, you'll probably never meet a fine hero like me again. -Ashley: Ha. Ha. Ha. It's dangerous, so you can just leave it at that. -Brad: ......... -Lilka: Oh, come on! Coming out in a spotlight like... -Tim: I understand, so please don't get gloomy. -Kanon: I don't like such responsibility. Can you make Ashley my partner? -Marivel: It offends my pride to play the victim so blatantly. It's important to know that the bullied have their own reasons too. Liz: Whoa! How delightful!
+Ard: Ard...Ar...Ard!
+  [If they try to leave the Fab Science Lab]
+Liz: Running away? It is I, the one you all loved. If I go off to some remote region, you'll probably never meet a fine hero like me again. -Ashley: Ha. Ha. Ha. It's dangerous, so you can just leave it at that. -Brad: ......... -Lilka: Oh, come on! Coming out in a spotlight like... -Tim: I understand, so please don't get gloomy. -Kanon: I don't like such responsibility. Can you make Ashley my partner? -Marivel: It offends my pride to play the victim so blatantly. It's important to know that the bullied have their own reasons too.
+Liz: Whoa! How delightful!
   [They move on inside and finds a weird object.]
 Ashley: What is it?
 Liz: It's a UFO we built to take us back to our sea of stars.
@@ -76,7 +79,8 @@ Liz: With the computer revolt, it won't even recognize its master. Time for the 
 Ashley: What is a "Hard SF"? You've been talking about it for awhile now.
 Liz: Hard, soft ...regular?
 Ashley: We'll leave that alone and just deactivate it ourselves.
-Liz: I remember that response! [They respond correctly to the questions given by the system and the door opens. Moving, along...]
+Liz: I remember that response!
+  [They respond correctly to the questions given by the system and the door opens. Moving, along...]
 Ashley: Something's happening!
 Liz: Now, Bulkogidon is revived, crushing the forbidden silence!
 Lilka: Is this the Bulkogidon that you mentioned before?
@@ -97,7 +101,8 @@ Ashley: (Giant?) You show empathy for the strangest things. Let's move on.
 Liz: Whoa! Seeing it so closely really fills me with awe. After all, it's a Space Engine "Streamroller" of my own design. To have this shape fly...
 Ard: Ard!
 Ashley: Time to let 'er rip! We'll see how the experiment fares on this run.
-Liz: You sure blurt out very calmly some very scary things. [Barking, and meows can be heard, then A dog and four kitties enter appear from behind.]
+Liz: You sure blurt out very calmly some very scary things.
+  [Barking, and meows can be heard, then A dog and four kitties enter appear from behind.]
 Lilka: What is it? It's not a dog catcher's house? You're not involved in some kind of animal trade are you?
 Liz: Why were we chased down? We're blood brothers. Adoring ideal scientists form a happy but embarrassing destined partnership.
 Ashley: To summarize, you know them?
@@ -118,8 +123,9 @@ Ashley: Yep.
   [Some object falls from above.  Ashley checks it out.]
 Ashley: What is this?
 Lilka: Wow! Do you think these could be UFO parts?
-Ashley: Whoa!!! Evacuate immediately! [The party gets out of the way, then UFO parts come crashing down. Liz and Ard come falling, as well.]
+Ashley: Whoa!!! Evacuate immediately!
+  [The party gets out of the way, then UFO parts come crashing down. Liz and Ard come falling, as well.]
 Liz: My soul was pulled in by Filgaia's gravity.
 Ard: Ard, Ard.
 Liz: It makes me so mad I'm trembling with anger!
-Ard: Ard, Ar-Ar-Ard. -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- #############################################################################
+Ard: Ard, Ar-Ar-Ard.

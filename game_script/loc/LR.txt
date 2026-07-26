@@ -4,6 +4,7 @@
 
 ~~ Live Reflector ~~
   [In the Reflector room...]
+  [It seems that the party needs to activate the generator first. They try to go and fix the problem. They go out the Reflector room and go to the room in the east. They find the path open.]
 Ashley: There's evidence that someone broke in here. Who else would come here besides us? It has to be...
 Lilka: I wonder if it's those terrorists from before?
 Ashley: Hmm... It could be the "Odessa".
@@ -23,7 +24,8 @@ Ashley: We have no choice. We'll have to protect them. They'll have to come with
 Tony: Darn. You don't trust us much. In reality, we got this far on our own strength.
 Scott: In my humble opinion... It wasn't "our own strength" but the strength of Tim.
 Tim: ............
-Tony: Oh well... [The kids join up with the party. They go further inside and find the operating display.]
+Tony: Oh well...
+  [The kids join up with the party. They go further inside and find the operating display.]
 Ashley: Here's the operating display. OK, I'm going to start-up the Live Reflectors!
   [The generator starts working for a while but stops.]
 Lilka: What? What??? This is so disheartening.
@@ -36,7 +38,8 @@ Tim: No time for that. We've got to get away! It's dangerous here. Ashley!
 Ashley: Ah! Hey, stand back.
 Tim: OK, let's go!
 Tony: Despite your babyface, you've got guts.
-Tim: It's not that. [The Young ARMS leaves. The party destroys Elebart.]
+Tim: It's not that.
+  [The Young ARMS leaves. The party destroys Elebart.]
 Brad: It seems those guys siphoned energy from the power reactor.
 Lilka: Then we should be OK, right?
   [Ashley fires the generator... but is stops again.]
@@ -63,7 +66,9 @@ Ashley: That's what I'm warning against.
   [Everyone goes to the Reflector room.]
 Tony: Don't worry so much, OK? You'll make me lose confidence.
 Tim: The Medium's illumination will protect us all. It's fine. Probably.
-Scott: In my humble opinion, hurrying up would be a very good idea. [The party activates the panel reading "Sacred Forest" and steps on the central pad.] ------------------------------------------------------------------------------- [Meanwhile, Ptolomea, Caina, the Guy with Glasses, and Vinsfeld are gathered together in Odessa's HQ.]
+Scott: In my humble opinion, hurrying up would be a very good idea.
+  [The party activates the panel reading "Sacred Forest" and steps on the central pad.]
+  [Meanwhile, Ptolomea, Caina, the Guy with Glasses, and Vinsfeld are gathered together in Odessa's HQ.]
 Caina: And the Varukisas is now fully equipped. When considering the energy expenditure for takeoffs, frequent use is impossible. Our most serious enemy now is probably financial.
 Ptolomea: For one who's considering making the world an enemy, life is hard.
 Caina: That's because Ptolomea's plant is not operating as planned!
@@ -98,4 +103,5 @@ Vinsfeld: Our enemy is our "finances". That's a good one, Caina.
 Caina: If I spoke too freely, please excuse me.
 Vinsfeld: I'm not criticizing. In fact, I commend your assessment. But there's no need to be concerned. Leave the financing to me.
 Caina: Is it "That Man" again?
-Vinsfeld: ............ ------------------------------------------------------------------------------- [The party appears at the Sacred Forest Live Reflector. They exit the area.] -Ashley: I must hurry... Sylvaland Castle is in the middle of the forest... -Brad: Sylvaland is a forest kingdom. The castle is located in the forest. -Lilka: Yikes! Oh, man, I gotta get going but FAST! Now which way was Sylvaland Castle, anyhow? All I can see from here are trees.
+Vinsfeld: ............
+  [The party appears at the Sacred Forest Live Reflector. They exit the area.]

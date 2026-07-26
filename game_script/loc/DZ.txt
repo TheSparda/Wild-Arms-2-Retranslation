@@ -1,10 +1,12 @@
-# area DZ — Damzen City  (47 dialogue boxes)
+# area DZ — Damzen City  (48 dialogue boxes)
 # from the game-script ~~Location~~ markers (authoritative area boundary)
 # ============================================================
 
 ~~ Damzen City ~~
-Irving: >How is the wounded man doing? Get him to a hospital quickly! [A stange woman with a pointy hat can be found under the shade in Damzen. Ashley talks to the woman.]
-Strange Woman in Costume: At last we meet. You must know that the comets foreboding ill have divided Heaven and Earth. With the passage of time comes a fragment of eternal time. It exists within you, too. Ashley: ???
+Irving: >How is the wounded man doing? Get him to a hospital quickly!
+  [A stange woman with a pointy hat can be found under the shade in Damzen. Ashley talks to the woman.]
+Strange Woman in Costume: At last we meet. You must know that the comets foreboding ill have divided Heaven and Earth. With the passage of time comes a fragment of eternal time. It exists within you, too.
+Ashley: ???
   [Brad talks to the woman.]
 Strange Woman in Costume: Ohh! You have the perfect face for it! The perfect fighting machine, ready to meet and overcome any obstacle! Just perfect to back up Ashley, who sometimes lacks in bravery...
   [Lilka talks to the woman.]
@@ -44,7 +46,8 @@ Ashley: It sure looks that way. Irving, what should we do?
 Irving: >I want you to continue your search in the field.
 Ashley: Roger.
   [Ashley ends the call.]
-Ashley: The Under Traffic cave-in might have been intentional. There might be something in this town that can help us find out. Let's get started quick! [Ashley talks to the townspeople in search for info. Inside one of houses...]
+Ashley: The Under Traffic cave-in might have been intentional. There might be something in this town that can help us find out. Let's get started quick!
+  [Ashley talks to the townspeople in search for info. Inside one of houses...]
 Man: Those strangers just came and broke into the Tower! Unbelievable!
 Woman: I'm sorry, but would you please listen to what the people of my family have to say?
 Gramps: If someone's up to no good, you should take care of 'em right away! Yeah, yeah...
@@ -56,4 +59,4 @@ Irving: >Those incidents could be the work of a single group. I want you to tail
 Ashley: Understood. We will head for Telepath Tower.
 Gramps: S of Damzen is a broadcast tower called the Telepath Tower. My family's tended it for generations. Actually... Strange people are loitering about there even now. It was my daughter's husband who found them, nut he didn't tell us about them. Why not I'll never know!
 Woman: Our family has tended the Telepath Tower at the foot of these mountains for generations. What'll we do now? I hope nothing bad comes of it.
-Man: The Telepath Tower is a broadcast tower that uses Emphatite to create communication waves. I don't know what they intend to do there, but I doubt it's anything good. Isn't it scary? =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################
+Man: The Telepath Tower is a broadcast tower that uses Emphatite to create communication waves. I don't know what they intend to do there, but I doubt it's anything good. Isn't it scary?

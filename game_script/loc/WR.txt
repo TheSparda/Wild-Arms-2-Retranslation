@@ -16,17 +16,20 @@ Commander: It's people like you that are most dangerous in the field! Don't get 
 Commander: Our 3rd mission is to rush into the ruins where the hostage is held. It's critical to secure the safety of the hostage first. Numerous monsters have been sighted at the ruins, so don't let your guard down. OK. Let's go. Charge!
 
 ~~ Withered Ruins ~~
+  [The musketeers enter the Withered Ruins. Ashley finds another musketeer standing before a hole.]
 Musketeer: That clumsy fool! The first guy who ran through the fog fell into that hole there. Could you check it out?
 Musketeer: Sorry. I didn't mean to cause trouble.
   [Ashley jumps into the hole.  A man is lying below.]
 Ashley: Hey. Wake up! Can you stand up?
 Musketeer: A new recruit, huh? Looks like you messed up. It's because you tried to score big here so you'd be reassigned to the new unit that is forming.
 Ashley: Take it easy. Stay here until the rescue team arrives.
-Musketeer: We can't do that. Hey, look at that! W hoaa!! [The musketeer shows a knife and throws it to a device. The door beside it opens.]
+Musketeer: We can't do that. Hey, look at that! W hoaa!!
+  [The musketeer shows a knife and throws it to a device. The door beside it opens.]
 Musketeer: Hey rookie, this is to celebrate your assignment. Hang onto it.
   [Tool "Hurl Knife" acquired.]
 Musketeer: The knife can be thrown with the ([]). It must have a use besides just turning the switch. You need to figure it out.
-Ashley: OK, I'll give it a try. [Ashley goes on, deeper in the ruins. He can hear a voice coming from a room before him.] Boastful, Hoarse Voice--: Whoa. How'd this get so blown out of proportion?
+Ashley: OK, I'll give it a try.
+  [Ashley goes on, deeper in the ruins. He can hear a voice coming from a room before him.]
   [Ashley enters the room.  He finds three bandits and the hostage.]
 Leader: Our humble little abduction was to bring comfort to our lives.
 Henchman A: A kidnapping was impossible for us from the start. What do you plan on doing, boss? It's about time those Musketeer boys came charging in.
@@ -52,7 +55,8 @@ Tony: (Sure.)
 Ashley: (Great, We've got a deal!)
   [Tony tries to get the kidnappers' attention.]
 Tony: Hey, old man! How dare you treat me this way. You don't have the guts to properly kidnap anyone!
-Gangal: What'd you say? Hey, you two, grab the brat and shut him up!! [Tony runs around and the goons chase him. He steps on a weird floor.]
+Gangal: What'd you say? Hey, you two, grab the brat and shut him up!!
+  [Tony runs around and the goons chase him. He steps on a weird floor.]
 Tony: Catch me if you can!
   [Tony jumps, activating a switch on the floor.  The place starts shaking.]
 Ashley: Hold it right there! Gangal & Zook: Huh?!
@@ -60,12 +64,14 @@ Gerg: What?!
   [A wall opens behind Tony.  A monster is unleashed.]
 Tony: Waaahhh! I don't know why, but I had a feeling something like this might happen!
 Ashley: If you keep talking, you'll bite you tongue! Gangal & Zook & Gerg: Help! Please!
-Ashley: Hey, you too! [Kalivos appears, chasing everyone. They split up on a fork. The goons go to the right. Ashley and Tony go to the left. Kalivos goes after the goons, who come to a dead end. Ashley hurls a knife at Kalivos's back, allowing the bandits to escape. Ashley runs away too.]
+Ashley: Hey, you too!
+  [Kalivos appears, chasing everyone. They split up on a fork. The goons go to the right. Ashley and Tony go to the left. Kalivos goes after the goons, who come to a dead end. Ashley hurls a knife at Kalivos's back, allowing the bandits to escape. Ashley runs away too.]
   [Outside...]
 Radar Technician: Commander, a large lifeform has been confirmed in the ruins. Most likely, the trapped monster was released by accident! Unfortunately, highly volatile liquid explosives have been found in the monster's secretions. Commander, at this rate...
 Commander: What the... Order the soldiers in the ruins to evacuate immediately! A huge explosion is possible, so we can't handle it above ground. To minimize casualties, we must destroy the entire ruins at once. Release the safety on the large ARM. I'll authorize the use of the Rail Gun.
 Radar Technician: You mean destroy the entire ruins? But we still have soldiers left in the ruins. It's possible the monster could escape before all of them evacuate. By destroying the ruins, some soldiers won't escape in time. Are you going to let them die?
-Commander: ......... I'll take full responsibility. [Inside, the group is still trying to run away from the monster. Tony trips.]
+Commander: ......... I'll take full responsibility.
+  [Inside, the group is still trying to run away from the monster. Tony trips.]
 Tony: Dude!!!
 Gangal: Why do we have to...!
   [The commander appears.]
@@ -75,9 +81,10 @@ Commander: This is an order! If you disobey, you're in violation of regulations.
 Ashley: I cannot sacrifice someone even if it is for the larger good. It's not just me. The commander and everyone else here doesn't want that to happen. Our hearts should be one. Please order those remaining in the ruins to evacuate. Even I can manage to stall for time. No. I'll stop this one!
   [Ashley turns around and attacks Kalivos.]
   [Ashley defeats Kalivos.]
+  [Ashley, Tony and the others are able to evacuate the ruins on time before it explodes.]
 Ashley: I ignored your orders and rook matters into my own hands. I am prepared for my reprimand.
 Commander: I hope so! Your punishment for this incident will be forthcoming! Until then, you're under house-arrest!
 Ashley: Is that all, sir?
 Commander: You have any objections?!
-Ashley: No! no, sir! -------------------------------------------------------------------------------
-Ashley: And that is how this extremely long day ended for me, the new recruit. I did what I thought was right, but it was a violation of orders. I don't believe I was wrong. No one wants to see anyone get hurt. Even though the destination is the same, different people choose such different routes. I don't understand. I just don't understand it. Oh well, with my sentence, I have plenty of time to think. ------------------------------------------------------------------------------- _____________________________________
+Ashley: No! no, sir!
+Ashley: And that is how this extremely long day ended for me, the new recruit. I did what I thought was right, but it was a violation of orders. I don't believe I was wrong. No one wants to see anyone get hurt. Even though the destination is the same, different people choose such different routes. I don't understand. I just don't understand it. Oh well, with my sentence, I have plenty of time to think.

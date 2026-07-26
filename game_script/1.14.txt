@@ -1,12 +1,12 @@
 # [1.14] Greenhell to T'bok Village  (disc 1)
-# dialogue boxes: 57   speakers: 10
+# dialogue boxes: 65   speakers: 10
 # ============================================================
   [ARMS leaves the Gate Bridge.  The communicator starts beeping.]
 Kate: >The data tablet pattern shows they're now heading northwest.
 Brad: That's northwest from here... I bet they're trying to get through Greenhell!
 Kate: >Greenhell? Did you say "Greenhell"?
 Brad: Greenhell is a trail through the northwest forest. The Greenhell trail is the only way to escape this area. Even animals can't get out.
-Irving: >The tablets' pattern still indicates northwest movement. We'll just have to trust Brad. Follow them! Stay on 'em like a bloodhound! -------------------------------------------------------------------------------
+Irving: >The tablets' pattern still indicates northwest movement. We'll just have to trust Brad. Follow them! Stay on 'em like a bloodhound!
 
 ~~ Greenhell ~~
 Brad: There should be a small village on the other side of the forest. As long as they're cutting through the forest too, they're bound to leave clues.
@@ -26,9 +26,19 @@ Lilka: Well, well. Fancy this.
 Woman: Stop that this instant! Don't bother travelers with all your horseplay!
 Woman: Oh, hi, Mister!
 Brad: I said my name isn't "Mister".
-Brad: Is that you? -> If Brad calls the dog Rassyu. Brad: Is it you, Rassyu?
+Brad: Is that you?
+  [If Brad calls the dog Rassyu.]
+Brad: Is it you, Rassyu?
   [Rassyu sounds happy.]
+Woman: I knew it was you, Mister! It's me, Merill! You remember me, right?
+Brad: Uh, of course I do. But you've changed so much...
+Merill: It's been 5 years. Wouldn't it be strange if I hadn't? ............
+  [If Brad calls the dog with a different name.]
   [Rassyu sounds sad.]
+Woman: How could you forget Rassyu? I know it's been 5 years, but still...
+Brad: Let's see, you must be...
+Woman: It's me, Merill. Not the same Merill you knew before. I'm 17 now.
+Merill: We all have to look our age - including Rassyu and me. .........
 Merill: All this time, I had hoped that we would get the chance to meet again.
   [Everyone follows Merill.]
 Merill: After you left, Mister, I asked why everyone called you a "hero". And I asked why a hero like you would be chased down and captured like that. But you're not a bad man anymore, right, Mister? That's why you're here now, right?
@@ -38,7 +48,8 @@ Merill: I wanted to see you so that I could show you someone. After you were tak
 Brad: We'll I'll be...
 Merill: Do you know him?
 Brad: That I do.
-Merill: Oh, thank goodness. [Merill goes to the wheelchair'd man and gets something. She shows something to Brad.]
+Merill: Oh, thank goodness.
+  [Merill goes to the wheelchair'd man and gets something. She shows something to Brad.]
 Merill: He had this on him. This is his name, right?
 Brad: Billy... Billy Pilder. He's a very close friend of mine.
 Merill: I'm happy for you. But he must have amnesia from his fever and injuries. He keeps mumbling that his name is Brad Evans. Oh, well. If he's your friend, that's enough for me.
@@ -73,4 +84,4 @@ Lilka: Look! The data tablets!
 Ashley: They've been destroyed. So they realized we were their pattern to track them. Whoever did this knew a lot about the data tablets.
 Brad: They erased the memory. It looks like the trail runs cold here. Time for good, old-fashioned marching. On to Slayheim!
 Ashley: What's this? It's a teleport item. With this, we can teleport to any town that we've visited at least once before.
-Lilka: But I never did have much luck with this type of item. =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################
+Lilka: But I never did have much luck with this type of item.

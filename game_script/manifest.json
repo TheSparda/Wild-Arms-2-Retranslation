@@ -5,7 +5,7 @@
    "id": "1.01",
    "title": "Prologue",
    "disc": 1,
-   "boxes": 214,
+   "boxes": 217,
    "speakers": 41,
    "roster": [
     [
@@ -33,12 +33,12 @@
      10
     ],
     [
-     "Posse Leader",
+     "Merrill",
      10
     ],
     [
-     "Merrill",
-     7
+     "Posse Leader",
+     10
     ],
     [
      "Gangal",
@@ -63,12 +63,12 @@
    "id": "1.02",
    "title": "The Town to the Western Winds",
    "disc": 1,
-   "boxes": 62,
-   "speakers": 13,
+   "boxes": 95,
+   "speakers": 14,
    "roster": [
     [
      "Ashley",
-     28
+     38
     ],
     [
      "Marina",
@@ -76,10 +76,22 @@
     ],
     [
      "Tony",
-     5
+     13
+    ],
+    [
+     "Tim",
+     9
     ],
     [
      "Man 2",
+     4
+    ],
+    [
+     "Man fixing the roof",
+     4
+    ],
+    [
+     "Scott",
      4
     ],
     [
@@ -100,18 +112,6 @@
     ],
     [
      "Innkeeper’s daughter",
-     1
-    ],
-    [
-     "Scott",
-     1
-    ],
-    [
-     "Tim",
-     1
-    ],
-    [
-     "Vacant-looking boy",
      1
     ]
    ],
@@ -287,12 +287,12 @@
    "id": "1.06",
    "title": "Re-opening the Trade Route - Under Traffic and Damzen",
    "disc": 1,
-   "boxes": 93,
+   "boxes": 94,
    "speakers": 14,
    "roster": [
     [
      "Ashley",
-     25
+     26
     ],
     [
      "Irving",
@@ -461,7 +461,7 @@
    "id": "1.09",
    "title": "Find the Aguelite and Germatron",
    "disc": 1,
-   "boxes": 234,
+   "boxes": 236,
    "speakers": 14,
    "roster": [
     [
@@ -470,7 +470,7 @@
     ],
     [
      "Liz",
-     62
+     64
     ],
     [
      "Lilka",
@@ -519,7 +519,7 @@
    "id": "1.10",
    "title": "Contacting the Guardians",
    "disc": 1,
-   "boxes": 386,
+   "boxes": 388,
    "speakers": 30,
    "roster": [
     [
@@ -532,7 +532,7 @@
     ],
     [
      "Irving",
-     52
+     54
     ],
     [
      "Village Chief",
@@ -723,16 +723,16 @@
    "id": "1.14",
    "title": "Greenhell to T'bok Village",
    "disc": 1,
-   "boxes": 57,
+   "boxes": 65,
    "speakers": 10,
    "roster": [
     [
      "Brad",
-     22
+     25
     ],
     [
      "Merill",
-     12
+     14
     ],
     [
      "Ashley",
@@ -743,15 +743,15 @@
      6
     ],
     [
+     "Woman",
+     5
+    ],
+    [
      "Kate",
      2
     ],
     [
      "Tim",
-     2
-    ],
-    [
-     "Woman",
      2
     ],
     [
@@ -823,12 +823,12 @@
    "id": "1.16",
    "title": "Alchemic Plant",
    "disc": 1,
-   "boxes": 85,
+   "boxes": 88,
    "speakers": 17,
    "roster": [
     [
      "Ashley",
-     23
+     24
     ],
     [
      "Antenora",
@@ -847,12 +847,12 @@
      5
     ],
     [
-     "Radio Operator F",
+     "Lilka",
      4
     ],
     [
-     "Lilka",
-     3
+     "Radio Operator F",
+     4
     ],
     [
      "Radio Operator C",
@@ -863,15 +863,15 @@
      3
     ],
     [
+     "Tim",
+     3
+    ],
+    [
      "Irving",
      2
     ],
     [
      "Radio Operator B",
-     2
-    ],
-    [
-     "Radio Operator D",
      2
     ]
    ],
@@ -989,12 +989,12 @@
    "id": "1.19",
    "title": "Coffin of 100 Eyes",
    "disc": 1,
-   "boxes": 105,
+   "boxes": 104,
    "speakers": 16,
    "roster": [
     [
      "Ashley",
-     27
+     26
     ],
     [
      "Brad",
@@ -1875,12 +1875,12 @@
    "id": "0.7",
    "title": "Fab Science Lab",
    "disc": 0,
-   "boxes": 108,
+   "boxes": 110,
    "speakers": 7,
    "roster": [
     [
      "Liz",
-     40
+     42
     ],
     [
      "Ashley",

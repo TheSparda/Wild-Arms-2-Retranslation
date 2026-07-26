@@ -80,22 +80,22 @@
   },
   "TB": {
    "name": "T'Bok Village",
-   "boxes": 73,
+   "boxes": 84,
    "roster": [
     [
      "Brad",
-     25
+     28
     ],
     [
      "Merill",
-     12
-    ],
-    [
-     "Ashley",
-     7
+     14
     ],
     [
      "Merrill",
+     10
+    ],
+    [
+     "Ashley",
      7
     ],
     [
@@ -107,11 +107,11 @@
      5
     ],
     [
-     "Girl",
-     2
+     "Woman",
+     5
     ],
     [
-     "Tim",
+     "Girl",
      2
     ]
    ],
@@ -197,11 +197,11 @@
   },
   "MR": {
    "name": "Town of Meria",
-   "boxes": 234,
+   "boxes": 269,
    "roster": [
     [
      "Ashley",
-     82
+     92
     ],
     [
      "Marina",
@@ -209,23 +209,23 @@
     ],
     [
      "Tony",
-     24
+     32
+    ],
+    [
+     "Tim",
+     23
+    ],
+    [
+     "Irving",
+     15
     ],
     [
      "Lilka",
      15
     ],
     [
-     "Tim",
-     15
-    ],
-    [
-     "Irving",
-     13
-    ],
-    [
      "Scott",
-     10
+     13
     ],
     [
      "Baker's wife",
@@ -380,11 +380,11 @@
   },
   "DZ": {
    "name": "Damzen City",
-   "boxes": 47,
+   "boxes": 48,
    "roster": [
     [
      "Ashley",
-     12
+     13
     ],
     [
      "Irving",
@@ -664,11 +664,11 @@
   },
   "RO": {
    "name": "Raline Observatory",
-   "boxes": 157,
+   "boxes": 159,
    "roster": [
     [
      "Liz",
-     62
+     64
     ],
     [
      "Ashley",
@@ -971,11 +971,11 @@
   },
   "AP": {
    "name": "Alchemic Plant",
-   "boxes": 67,
+   "boxes": 70,
    "roster": [
     [
      "Ashley",
-     20
+     21
     ],
     [
      "Antenora",
@@ -990,12 +990,12 @@
      7
     ],
     [
-     "Radio Operator F",
+     "Lilka",
      4
     ],
     [
-     "Lilka",
-     3
+     "Radio Operator F",
+     4
     ],
     [
      "Radio Operator C",
@@ -1158,11 +1158,11 @@
   },
   "CE": {
    "name": "Coffin of 100 Eyes",
-   "boxes": 89,
+   "boxes": 88,
    "roster": [
     [
      "Ashley",
-     24
+     23
     ],
     [
      "Brad",
@@ -1765,11 +1765,11 @@
   },
   "FL": {
    "name": "Fab Science Lab",
-   "boxes": 104,
+   "boxes": 106,
    "roster": [
     [
      "Liz",
-     40
+     42
     ],
     [
      "Ashley",

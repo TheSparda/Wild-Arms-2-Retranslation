@@ -3,7 +3,9 @@
 # ============================================================
 
 ~~ Grotto of Lourdes ~~
-Door: >.......... Retinal Pattern Match Found WELCOME, YOU WITH MAGESS BLOOD. THIS IS WHERE YOUR SLEEPING MEMORY WILL WAKE. [The door opens. They move on until they reach a pedestal. Kanon stands on it. It takes her to a space somewhere.]
+  [In the entrance, a door gets a retinal scan of those who want to enter. Kanon, a descendant of <Sword Magess> examines the door.]
+Door: >.......... Retinal Pattern Match Found WELCOME, YOU WITH MAGESS BLOOD. THIS IS WHERE YOUR SLEEPING MEMORY WILL WAKE.
+  [The door opens. They move on until they reach a pedestal. Kanon stands on it. It takes her to a space somewhere.]
 Kanon: Th...This is...
   [A little girl holding something on her right hand passes by.]
 Kanon: H...Hey you... Where are you going?
@@ -14,7 +16,8 @@ Kanon: That's impossible... You are...
 Girl from Memory: Aisha.
   [Kanon wakes up back in the Grotto.]
 Ashley: Kanon! What is this?
-Kanon: I'm sorry. It'll work next time. It'll be fine. [The party moves on and finds another pedestal. It shows her a scene with a woman carrying a baby.]
+Kanon: I'm sorry. It'll work next time. It'll be fine.
+  [The party moves on and finds another pedestal. It shows her a scene with a woman carrying a baby.]
 Kanon: Mother...
 Kanon's Mother: Aisha, you must listen now... Regardless of the kind of life you're living, we have the blood of the <Sword Magess>. No matter how difficult life gets, forget not blood of <Sword Magess>. Descended from the <Sword Magess> and related to the Valerias, the Bernadettes are having hard times. If I can provide proof of the blood in me, I can live the life of nobility.
   [The mother disappears.]

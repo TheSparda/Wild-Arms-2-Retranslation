@@ -1,7 +1,8 @@
 # [1.15] Kanon the Exorcist  (disc 1)
 # dialogue boxes: 47   speakers: 10
 # ============================================================
-Irving: >We do have some information about Quartly here. To reach Quartly, go up the Lilikis River, which flows into the southwest part of the Inland Sea. You should be able to reach the desert from the coast. Quartly is a town on a bridge spanning a huge rift valley known as Big Valley. That's all the information I have. Over and out. ------------------------------------------------------------------------------- [ARMS gets on the Hovercraft and lands to a coast near a desert. There, they find Quartly.]
+Irving: >We do have some information about Quartly here. To reach Quartly, go up the Lilikis River, which flows into the southwest part of the Inland Sea. You should be able to reach the desert from the coast. Quartly is a town on a bridge spanning a huge rift valley known as Big Valley. That's all the information I have. Over and out.
+  [ARMS gets on the Hovercraft and lands to a coast near a desert. There, they find Quartly.]
 
 ~~ Quartly ~~
   [On their way, a Merc gets their attention.]
@@ -21,7 +22,8 @@ Lilka: But she didn't even say when or where we're supposed to meet.
 Ashley: (The "other" me senses something, but I can't put my finger on it. Just who is Kanon, anyway?)
 Brad: We'll find out tomorrow... when we go to Slayheim Castle. For now, let's just get some rest.
   [That night, at the inn...]
-Ashley: Brad? It's about Slayheim Castle... Hey, where are you? [Ashley goes out and finds Brad talking to the suspicious man earlier. Ashley quietly returns to the inn.]
+Ashley: Brad? It's about Slayheim Castle... Hey, where are you?
+  [Ashley goes out and finds Brad talking to the suspicious man earlier. Ashley quietly returns to the inn.]
   [Brad enters the inn.]
 Ashley: Brad, where were you? I wanted to ask you about Slayheim Castle.
 Brad: Sorry about that. Slayheim Castle is located at the northeastern edge of the salt flats.
@@ -32,11 +34,14 @@ Brad: To get to Slayheim Castle, we must cross the desolate salt flats. The salt
   [The next day, ARMS leaves Quartly and heads to Slayheim Castle.]
 
 ~~ Slayheim Castle ~~
-Ashley: I guess Kanon isn't here yet. The castle hasn't been engulfed by the sea of salt yet. Let's take a look around while we're waiting. [ARMS takes a look in the castle for a while. Brad remembers his past as they go on further in the castle.] [FLASHBACK - On the throne room, Billy helps Brad to walk (or the other way around) towards some Slayheim Liberation Army men.]
+Ashley: I guess Kanon isn't here yet. The castle hasn't been engulfed by the sea of salt yet. Let's take a look around while we're waiting.
+  [ARMS takes a look in the castle for a while. Brad remembers his past as they go on further in the castle.]
+  [FLASHBACK - On the throne room, Billy helps Brad to walk (or the other way around) towards some Slayheim Liberation Army men.]
 SLA soldier: Hey, you can't collapse now, not after coming this far!
 Billy: I know, I know. We can't stop now because this is a chance we can't afford to lose!
 SLA soldier: Captain! The royal family seems to be hiding in a cellar! We request instructions, sir!
-Billy: We can't blow this chance! If we stop here, we'll suffer an irrecoverable setback! [FLASHBACK - In the room past the double doors. Brad, Billy and a SLA soldier are using some crates as a shield as they're being fired upon by their enemies.]
+Billy: We can't blow this chance! If we stop here, we'll suffer an irrecoverable setback!
+  [FLASHBACK - In the room past the double doors. Brad, Billy and a SLA soldier are using some crates as a shield as they're being fired upon by their enemies.]
 SLA soldier: We're low on ammo and most of the squad is wounded! How can you think we still stand a chance
 Billy: We MUST win, no matter what happens. We're gonna turn things around now!
   [Billy fires on their enemies.]
