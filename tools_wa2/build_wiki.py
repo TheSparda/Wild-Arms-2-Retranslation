@@ -15,6 +15,16 @@ INSERT = os.path.join(ROOT, 'insert')
 GS_DIR = os.path.join(ROOT, 'game_script')
 OUT = os.path.join(ROOT, 'wiki', 'index.html')
 
+# ---- raw decoded JP per US# from the master DB (shown as fallback when a FINAL file omits the
+# JP line — which we do for coded/unsolved JP). Coded JP with <b:...> placeholders is still worth
+# showing so every slot's Japanese source is visible in the wiki. ----
+US_JP = {}
+try:
+    for _r in json.load(open(os.path.join(GS_DIR, 'wa2_db.json')))['rows']:
+        if _r.get('jp'): US_JP[_r['us']] = _r['jp']
+except Exception:
+    pass
+
 # ---- all shared config now imported from build_db (edit mappings THERE, not here) ----
 _SECTION_AREAS = DB.SECTION_AREAS
 # area code -> game_script section id that contains it (for placeholder transcript fallback)
@@ -120,7 +130,13 @@ def parse_final(path):
     cur = None
     def flush():
         nonlocal cur
-        if cur: boxes.append(cur); cur = None
+        if cur:
+            # fall back to the master-DB raw JP when the FINAL file has no JP line
+            # (we omit the JP line for coded/unsolved JP, but it should still display)
+            if not cur['jp']:
+                mus = re.match(r'US#(\d+)$', cur['id'])
+                if mus: cur['jp'] = US_JP.get(int(mus.group(1)), '')
+            boxes.append(cur); cur = None
     while i < len(lines):
         ln = lines[i]
         m = re.match(r'\[(US#\d+|NO-SLOT[^\]]*|[^\]]+)\]\s*(.*)', ln)
