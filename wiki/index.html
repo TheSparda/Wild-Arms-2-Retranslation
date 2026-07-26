@@ -53,6 +53,8 @@ body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 -apple-sy
 .nav-scene.todo { color:var(--dim); opacity:.65; }
 .nav-scene.todo:hover { opacity:1; }
 .todotag { color:var(--line); }
+.todotag.star { color:var(--warn); font-weight:700; }
+.nav-legend { font-size:10px; color:var(--dim); margin-top:5px; }
 /* disc headers + placeholders + area sub-scenes */
 .disc-head { font-size:13px; letter-spacing:.14em; color:var(--acc); font-weight:800; margin:28px 0 10px;
               border-bottom:2px solid var(--line); padding-bottom:6px; scroll-margin-top:14px; }
@@ -253,7 +255,7 @@ body.view-comments .controls { display:none; }
   <a class="nav-special" id="nav-comments" href="#comments">💬 My Comments <span class="cnt" id="nav-ccount">0</span></a>
   <a class="nav-special" id="nav-roadmap" href="#roadmap">🗺️ Remaining Work</a>
   <a class="nav-special" id="nav-scenes" href="#top">📖 Back to scenes</a>
-  <div class="prog"><div class="prog-lbl"><span>Progress</span><span>12 deep + 22 first-pass / 71</span></div><div class="prog-track"><div class="prog-fp" style="width:48%"></div><div class="prog-fill" style="width:17%"></div></div></div>
+  <div class="prog"><div class="prog-lbl"><span>Progress</span><span>12 deep + 22 first-pass / 71</span></div><div class="prog-track"><div class="prog-fp" style="width:48%"></div><div class="prog-fill" style="width:17%"></div></div><div class="nav-legend"><span class="todotag star">*</span> English script available, not yet retranslated</div></div>
 <div class="nav-disc">DISC 1<span class="dprog"><span class="dprog-fp" style="width:85%"></span><span class="dprog-fill" style="width:28%"></span></span><span class="dcnt">11+22/39</span></div>
 <a class="nav-scene done" href="#a-1-WR">Withered Ruins <span class="cnt">38</span></a>
 <a class="nav-scene done" href="#a-1-MP">Millennium Puzzle <span class="cnt">20</span></a>
@@ -271,8 +273,8 @@ body.view-comments .controls { display:none; }
 <a class="nav-scene fp" href="#a-1-SD">Sylvaland Castle <span class="cnt">197◐</span></a>
 <a class="nav-scene done" href="#a-1-HM">Halmetz <span class="cnt">19</span></a>
 <a class="nav-scene fp" href="#a-1-HL">Holst <span class="cnt">197◐</span></a>
-<a class="nav-scene todo" href="#a-1-AM">Aguel Mine Shaft <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-1-RO">Raline Observatory <span class="todotag">·</span></a>
+<a class="nav-scene todo" href="#a-1-AM">Aguel Mine Shaft <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
+<a class="nav-scene todo" href="#a-1-RO">Raline Observatory <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
 <a class="nav-scene fp" href="#a-1-BV">Baskar Village <span class="cnt">281◐</span></a>
 <a class="nav-scene fp" href="#a-1-HT">Hidden Trial Arena <span class="cnt">281◐</span></a>
 <a class="nav-scene done" href="#a-1-WV">Warwing Varukisas <span class="cnt">35</span></a>
@@ -280,13 +282,13 @@ body.view-comments .controls { display:none; }
 <a class="nav-scene fp" href="#a-1-SR">Sielje Region <span class="cnt">269◐</span></a>
 <a class="nav-scene fp" href="#a-1-GB">Gate Bridge <span class="cnt">269◐</span></a>
 <a class="nav-scene fp" href="#a-1-GH">Greenhell <span class="cnt">269◐</span></a>
-<a class="nav-scene todo" href="#a-1-TB">T&#x27;Bok Village <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-1-QT">Quartly <span class="todotag">·</span></a>
+<a class="nav-scene todo" href="#a-1-TB">T&#x27;Bok Village <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
+<a class="nav-scene todo" href="#a-1-QT">Quartly <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
 <a class="nav-scene done" href="#a-1-SY">Slayheim Castle <span class="cnt">12</span></a>
 <a class="nav-scene fp" href="#a-1-AP">Alchemic Plant <span class="cnt">209◐</span></a>
-<a class="nav-scene todo" href="#a-1-EZ">Emulator Zone <span class="todotag">·</span></a>
+<a class="nav-scene todo" href="#a-1-EZ">Emulator Zone <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
 <a class="nav-scene fp" href="#a-1-GG">Guild Galad <span class="cnt">209◐</span></a>
-<a class="nav-scene todo" href="#a-1-CM">Closed Mine Shaft <span class="todotag">·</span></a>
+<a class="nav-scene todo" href="#a-1-CM">Closed Mine Shaft <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
 <a class="nav-scene fp" href="#a-1-CE">Coffin of 100 Eyes <span class="cnt">76◐</span></a>
 <a class="nav-scene fp" href="#a-1-DP">Diablo Pillar Ptolomea <span class="cnt">109◐</span></a>
 <a class="nav-scene fp" href="#a-1-DC">Diablo Pillar Caina <span class="cnt">147◐</span></a>
@@ -295,36 +297,36 @@ body.view-comments .controls { display:none; }
 <a class="nav-scene fp" href="#a-1-DJ">Diablo Pillar Judecca <span class="cnt">111◐</span></a>
 <a class="nav-scene fp" href="#a-1-HG">Heimdal Gazzo <span class="cnt">141◐</span></a>
 <div class="nav-disc">DISC 2<span class="dprog"><span class="dprog-fp" style="width:7%"></span><span class="dprog-fill" style="width:7%"></span></span><span class="dcnt">1+0/15</span></div>
-<a class="nav-scene todo" href="#a-2-MM">Memory Maze <span class="todotag">·</span></a>
+<a class="nav-scene todo" href="#a-2-MM">Memory Maze <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
 <a class="nav-scene todo" href="#a-2-MZ">Millennium Puzzle (2) <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-2-SA">Sacrificial Altar <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-2-GL">Grotto of Lourdes <span class="todotag">·</span></a>
+<a class="nav-scene todo" href="#a-2-SA">Sacrificial Altar <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
+<a class="nav-scene todo" href="#a-2-GL">Grotto of Lourdes <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
 <a class="nav-scene done" href="#a-2-LG">Lost Garden <span class="cnt">13</span></a>
-<a class="nav-scene todo" href="#a-2-SV">Sleeping Volcano <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-2-PV">Palace Village <span class="todotag">·</span></a>
+<a class="nav-scene todo" href="#a-2-SV">Sleeping Volcano <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
+<a class="nav-scene todo" href="#a-2-PV">Palace Village <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
 <a class="nav-scene todo" href="#a-2-RF">Raypoint Flam <span class="todotag">·</span></a>
 <a class="nav-scene todo" href="#a-2-RG">Raypoint Geo <span class="todotag">·</span></a>
 <a class="nav-scene todo" href="#a-2-RW">Raypoint Wing <span class="todotag">·</span></a>
 <a class="nav-scene todo" href="#a-2-RM">Raypoint Muse <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-2-TZ">Trapezohedron <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-2-FW">Fiery Wreckage <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-2-ST">Spiral Tower <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-2-GGa">Glaive Le Gable <span class="todotag">·</span></a>
+<a class="nav-scene todo" href="#a-2-TZ">Trapezohedron <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
+<a class="nav-scene todo" href="#a-2-FW">Fiery Wreckage <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
+<a class="nav-scene todo" href="#a-2-ST">Spiral Tower <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
+<a class="nav-scene todo" href="#a-2-GGa">Glaive Le Gable <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
 <div class="nav-disc">OPTIONAL AREAS<span class="dprog"><span class="dprog-fp" style="width:0%"></span><span class="dprog-fill" style="width:0%"></span></span><span class="dcnt">0+0/17</span></div>
 <a class="nav-scene todo" href="#a-3-OD">Odd Headquarters <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-3-WT">Wind Tiger&#x27;s Den <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-3-TL">Thunder Lion Cage <span class="todotag">·</span></a>
+<a class="nav-scene todo" href="#a-3-WT">Wind Tiger&#x27;s Den <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
+<a class="nav-scene todo" href="#a-3-TL">Thunder Lion Cage <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
 <a class="nav-scene todo" href="#a-3-IO">Island Outpost <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-3-DR">Dark Reason <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-3-AI">Abandoned Icebox <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-3-SG">Shining Garden <span class="todotag">·</span></a>
+<a class="nav-scene todo" href="#a-3-DR">Dark Reason <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
+<a class="nav-scene todo" href="#a-3-AI">Abandoned Icebox <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
+<a class="nav-scene todo" href="#a-3-SG">Shining Garden <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
 <a class="nav-scene todo" href="#a-3-MC">Meteorite Crater <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-3-WD">Werewolf&#x27;s Den <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-3-CS">Crimson Castle <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-3-PC">Promised Catacombs <span class="todotag">·</span></a>
+<a class="nav-scene todo" href="#a-3-WD">Werewolf&#x27;s Den <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
+<a class="nav-scene todo" href="#a-3-CS">Crimson Castle <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
+<a class="nav-scene todo" href="#a-3-PC">Promised Catacombs <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
 <a class="nav-scene todo" href="#a-3-GLo">The Guardian Lords <span class="todotag">·</span></a>
 <a class="nav-scene todo" href="#a-3-GZ">Good Luck Zone <span class="todotag">·</span></a>
-<a class="nav-scene todo" href="#a-3-FL">Fab Science Lab <span class="todotag">·</span></a>
+<a class="nav-scene todo" href="#a-3-FL">Fab Science Lab <span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span></a>
 <a class="nav-scene todo" href="#a-3-PW">Pirate&#x27;s Warren <span class="todotag">·</span></a>
 <a class="nav-scene todo" href="#a-3-MA">Monster Album <span class="todotag">·</span></a>
 <a class="nav-scene todo" href="#a-3-SM">Sealed Monsters <span class="todotag">·</span></a>

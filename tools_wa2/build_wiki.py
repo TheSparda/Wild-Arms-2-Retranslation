@@ -318,6 +318,7 @@ def build():
         f'<div class="prog">'
         f'<div class="prog-lbl"><span>Progress</span><span>{done_areas} deep + {fp_areas} first-pass / {total_areas}</span></div>'
         f'<div class="prog-track"><div class="prog-fp" style="width:{covpct}%"></div><div class="prog-fill" style="width:{pct}%"></div></div>'
+        f'<div class="nav-legend"><span class="todotag star">*</span> English script available, not yet retranslated</div>'
         f'</div>'
     ]
     for disc in sorted(GUIDE_AREAS):
@@ -343,7 +344,10 @@ def build():
                 nb = sum(x['nboxes'] for x in fps)
                 nav_html.append(f'<a class="nav-scene fp" href="#{anc}">{esc(aname)} <span class="cnt">{nb}◐</span></a>')
             else:
-                nav_html.append(f'<a class="nav-scene todo" href="#{anc}">{esc(aname)} <span class="todotag">·</span></a>')
+                # untranslated: * if we have English game-script placeholder text for this location
+                has_script = os.path.exists(os.path.join(GS_DIR, 'loc', code + '.txt'))
+                tag = '<span class="todotag star" title="English game-script placeholder available (not yet retranslated)">*</span>' if has_script else '<span class="todotag">·</span>'
+                nav_html.append(f'<a class="nav-scene todo" href="#{anc}">{esc(aname)} {tag}</a>')
     nav_html = '\n'.join(nav_html)
 
     # ---- BODY: one section per guide area; placeholder if untranslated ----
@@ -513,6 +517,8 @@ body {{ margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 -apple-s
 .nav-scene.todo {{ color:var(--dim); opacity:.65; }}
 .nav-scene.todo:hover {{ opacity:1; }}
 .todotag {{ color:var(--line); }}
+.todotag.star {{ color:var(--warn); font-weight:700; }}
+.nav-legend {{ font-size:10px; color:var(--dim); margin-top:5px; }}
 /* disc headers + placeholders + area sub-scenes */
 .disc-head {{ font-size:13px; letter-spacing:.14em; color:var(--acc); font-weight:800; margin:28px 0 10px;
               border-bottom:2px solid var(--line); padding-bottom:6px; scroll-margin-top:14px; }}
