@@ -6,33 +6,24 @@ self-contained interactive HTML file (wiki/index.html). Re-run after each missio
 
 Usage:  python3 tools_wa2/build_wiki.py
 """
-import re, os, glob, html, json, datetime
+import re, os, sys, glob, html, json, datetime
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import build_db as DB   # SINGLE SOURCE OF TRUTH for all config maps + the DB accessor
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INSERT = os.path.join(ROOT, 'insert')
 GS_DIR = os.path.join(ROOT, 'game_script')
 OUT = os.path.join(ROOT, 'wiki', 'index.html')
 
-# ---- English game-script placeholder anchor: guide-area code -> game_script section id.
-# Untranslated areas fall back to showing the Unos Hambalos GameFAQs transcript for that section
-# so every area has readable English content. Mirrors SECTION_AREAS in coverage_report.py.
-_SECTION_AREAS = {
- '1.01':['WR','MP','BI'], '1.02':['MR','SC'], '1.03':['VC'], '1.04':['VC'],
- '1.05':['IP'], '1.06':['UT','DZ','CC'], '1.07':['TT','CC','LR'], '1.08':['SD','HL','SY'],
- '1.09':['AM','HM','BV','HT','WV'], '1.10':['BV','TB','GH','RO'], '1.11':['WV'], '1.12':['TS','SR'],
- '1.13':['GB'], '1.14':['GH','TB'], '1.15':['SY','CM'], '1.16':['AP'], '1.17':['GG','QT'], '1.18':['CM'],
- '1.19':['CE'], '1.20':['DP','DC','DA','DJ','LC'], '1.21':['HG'],
- '2.01':['MM','MZ'], '2.02':['MM'], '2.03':['SA','GL'], '2.04':['LG'], '2.05':['SV'], '2.06':['PV'],
- '2.07':['RF','RG','RW','RM'], '2.08':['TZ'], '2.09':['FW'], '2.10':['ST','GGa'], '2.11':['GGa'],
- '0.1':['CS'], '0.2':['PC'], '0.3':['IO'], '0.4':['GLo'], '0.5':['WD'], '0.6':['GLo'], '0.7':['DR'],
-}
-AREA_SECTION = {}   # area code -> first game_script section id that contains it
+# ---- all shared config now imported from build_db (edit mappings THERE, not here) ----
+_SECTION_AREAS = DB.SECTION_AREAS
+# area code -> game_script section id that contains it (for placeholder transcript fallback)
+AREA_SECTION = {}
 for _sid, _codes in _SECTION_AREAS.items():
     for _c in _codes:
         AREA_SECTION.setdefault(_c, _sid)
-# extra direct maps for areas the guide files under a differently-coded section
-AREA_SECTION.setdefault('FL', '0.7')   # Fab Science Lab = section [0.7]
-AREA_SECTION.setdefault('GP', '1.05')  # Golgotha Prison = same arc as Illsveil Prison [1.05]
+for _c, _sid in DB.AREA_SECTION_EXTRA.items():
+    AREA_SECTION.setdefault(_c, _sid)
 
 def gamescript_html(area_code):
     """Render the parsed English transcript for the section this area belongs to, as placeholder
@@ -101,92 +92,11 @@ def section_gap_html(sid, box_word_set, thresh=0.6):
                         f'<span class="gs-txt">{html.escape(txt)}</span></div>')
     return '\n'.join(rows), nun, len(lines)
 
-# ---- GUIDE SPINE: the authoritative area list from the Syonyx GameFAQs walkthrough, in play order.
-# (code, area name). Disc split matches the guide's two-column ToC. This is the ToC skeleton;
-# untranslated areas render as placeholders.
-GUIDE_AREAS = {
- 1: [  # DISC 1
-    ('WR','Withered Ruins'), ('MP','Millennium Puzzle'), ('BI',"Brad's Intro"),
-    ('MR','Town of Meria'), ('SC','Sword Cathedral'), ('VC','Valeria Chateau'),
-    ('IP','Illsveil Prison'), ('UT','Under Traffic'), ('DZ','Damzen City'),
-    ('TT','Telepath Tower'), ('CC','Mt. Chug-Chug'), ('LR','Live Reflector'),
-    ('GP','Golgotha Prison'), ('SD','Sylvaland Castle'), ('HM','Halmetz'), ('HL','Holst'),
-    ('AM','Aguel Mine Shaft'), ('RO','Raline Observatory'), ('BV','Baskar Village'),
-    ('HT','Hidden Trial Arena'), ('WV','Warwing Varukisas'), ('TS','Tunnel to Sielje Region'),
-    ('SR','Sielje Region'), ('GB','Gate Bridge'), ('GH','Greenhell'), ('TB',"T'Bok Village"),
-    ('QT','Quartly'), ('SY','Slayheim Castle'), ('AP','Alchemic Plant'), ('EZ','Emulator Zone'),
-    ('GG','Guild Galad'), ('CM','Closed Mine Shaft'), ('CE','Coffin of 100 Eyes'),
-    ('DP','Diablo Pillar Ptolomea'), ('DC','Diablo Pillar Caina'), ('DA','Diablo Pillar Antenora'),
-    ('LC','Lost City Archeim'), ('DJ','Diablo Pillar Judecca'), ('HG','Heimdal Gazzo'),
- ],
- 2: [  # DISC 2
-    ('MM','Memory Maze'), ('MZ','Millennium Puzzle (2)'), ('SA','Sacrificial Altar'),
-    ('GL','Grotto of Lourdes'), ('LG','Lost Garden'), ('SV','Sleeping Volcano'),
-    ('PV','Palace Village'), ('RF','Raypoint Flam'), ('RG','Raypoint Geo'), ('RW','Raypoint Wing'),
-    ('RM','Raypoint Muse'), ('TZ','Trapezohedron'), ('FW','Fiery Wreckage'), ('ST','Spiral Tower'),
-    ('GGa','Glaive Le Gable'),
- ],
- 3: [  # OPTIONAL AREAS (guide "Optional areas" list; disc 3 = a virtual grouping for the ToC)
-    ('OD','Odd Headquarters'), ('WT',"Wind Tiger's Den"), ('TL','Thunder Lion Cage'),
-    ('IO','Island Outpost'), ('DR','Dark Reason'), ('AI','Abandoned Icebox'),
-    ('SG','Shining Garden'), ('MC','Meteorite Crater'), ('WD',"Werewolf's Den"),
-    ('CS','Crimson Castle'), ('PC','Promised Catacombs'), ('GLo','The Guardian Lords'),
-    ('GZ','Good Luck Zone'), ('FL','Fab Science Lab'), ('PW',"Pirate's Warren"),
-    ('MA','Monster Album'), ('SM','Sealed Monsters'),
- ],
-}
-# label for each disc/grouping in headers + nav
-DISC_LABEL = {1: 'DISC 1', 2: 'DISC 2', 3: 'OPTIONAL AREAS'}
-
-# ---- Scene registry: map each translated FINAL file to a GUIDE area code (+ scene subtitle, block).
-# Only FINAL files are shown (worked = older drafts). Order within an area = file order below.
-SCENES = [
-    # file,                              area, scene subtitle,                     block
-    ('ashley_opening_FINAL.txt',        'WR', "Withered Ruins prologue → rail-gun standoff", '70'),
-    ('ashley_intro_ruins_FINAL.txt',    'WR', "Inside the ruins: Musketeer push + the kidnapper gang", '23'),
-    ('lilka_intro_FINAL.txt',           'MP', "Magic Lesson with her sister",     '25'),
-    ('brad_intro_FINAL.txt',            'BI', "Fugitive in the Rain",             '24'),
-    ('m1_meria_FINAL.txt',              'MR', 'Ceremony morning',                 '3'),
-    ('m1_swordcathedral_lore_FINAL.txt','SC', "Argetlahm / Sword Magess legend (readable panels)", '5'),
-    ('m1_swordcathedral_FINAL.txt',     'VC', "King of Meria Boule — recurring throne-room audience (spans whole game)", '5'),
-    ('m1_library_history_FINAL.txt',    'VC', "Library history books — the war-criminal hero + 3 nations", '5'),
-    ('m1_crimson_noble_FINAL.txt',      'VC', "Crimson Noble lore panel (Isabel Graceland / Marivel's clan)", '5'),
-    ('m1_chateau_hub_FINAL.txt',        'VC', "Ambient hub chatter (132 recurring NPC/King lines — light-touch fit pass)", '5'),
-    ('m_summit_tablets_briefing_FINAL.txt','WV', "Filgaia Summit + Data Tablets briefing (launches the mid-game)", '5'),
-    ('m_summit_debate_FINAL.txt',       'WV', "The 71st Summit conference debate (cross-border rights / Treaty of Iscariot)", '63'),
-    ('m2_telepathtower_FINAL.txt',      'TT', 'Odessa hijack',                    '29'),
-    ('m2_telepath_lore_FINAL.txt',      'TT', 'Empathite lore scrolls',           '29'),
-    ('m3_livereflector_FINAL.txt',      'LR', 'Startup (intro)',                  '31'),
-    ('m3_livereflector_cont_FINAL.txt', 'LR', 'Medium awakening',                 '31'),
-    ('m4_halmetz_FINAL.txt',            'HM', 'The Odessa trap',                  '32'),
-    ('m_slayheim_backstory_FINAL.txt',  'SY', "Liberation Army backstory — Vinsfeld's betrayal + the true hero", '18'),
-    ('m_caina_taunt_FINAL.txt',         'LG', "Caina's taunt + hollow victory (Odessa broadcast / Frozen Lake)", '53'),
-]
-
-# ---- FIRST-PASS registry: auto-generated files in insert/firstpass/ (localization reflowed to
-# the display window, US# verified) mapped to their guide area(s). These are NOT deep RE yet.
-FIRSTPASS = [
-    # file (in insert/firstpass/),        area codes covered,      block, label
-    ('blk27_IP_GP.txt',   ['IP','GP'], '27',    'Illsveil / Golgotha Prison'),
-    ('blk12_DZ_CC.txt',   ['DZ','CC'], '12',    'Damzen City / Mt. Chug-Chug'),
-    ('blk13_UT_HL.txt',   ['UT'],      '13',    'Under Traffic'),
-    ('blk14_SD.txt',      ['SD','HL'], '14',    'Sylvaland Castle / Holst'),
-    ('blk16_BV_HT.txt',   ['BV','HT'], '16',    'Baskar Village / Hidden Trial Arena'),
-    ('blk17_TS_SR_GB_GH.txt', ['TS','SR','GB','GH'], '17', 'Tunnel to Sielje / Sielje / Gate Bridge / Greenhell'),
-    ('blk18_SY.txt',      ['SY'],      '18',    'Slayheim Castle'),
-    ('blk20_GG_AP.txt',   ['GG','AP'], '20',    'Guild Galad / Alchemic Plant'),
-    # NOTE: block 23 is Ashley's intro (Withered Ruins), now deep-translated as
-    # ashley_intro_ruins_FINAL.txt -> WR. The real Closed Mine Shaft is block 43. blk23_CM.txt retired.
-    ('blk38_CE.txt',      ['CE'],      '38',    'Coffin of 100 Eyes'),
-    ('blk39_DP.txt',      ['DP','DC','DA'], '39', 'Diablo Pillars (Ptolomea/Caina/Antenora)'),
-    ('blk40_DC.txt',      ['DC'],      '40',    'Diablo Pillar Caina (cont.)'),
-    ('blk44_HG.txt',      ['HG'],      '44',    'Heimdal Gazzo (part)'),
-    ('blk45_LC.txt',      ['LC'],      '45',    'Lost City Archeim (a)'),
-    ('blk46_LC.txt',      ['LC'],      '46',    'Lost City Archeim (b)'),
-    ('blk47_LC.txt',      ['LC'],      '47',    'Lost City Archeim (c)'),
-    ('blk49_HG_DP.txt',   ['HG','DJ','DA'], '49', 'Heimdal Gazzo / Diablo Pillars'),
-    ('blk69_DP.txt',      ['DP'],      '69',    'Diablo Pillar Ptolomea (part)'),
-]
+# ---- guide spine + scene/first-pass registries: imported from build_db (single source) ----
+GUIDE_AREAS = DB.GUIDE_AREAS
+DISC_LABEL  = DB.DISC_LABEL
+SCENES      = DB.SCENES
+FIRSTPASS   = DB.FIRSTPASS
 
 def parse_final(path):
     """Return (header_desc, [boxes]) where box = dict(id, speaker, jp, lit, en, re, noslot)."""

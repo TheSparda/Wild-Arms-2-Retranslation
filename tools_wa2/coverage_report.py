@@ -19,47 +19,13 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 GS   = os.path.join(ROOT, 'game_script')
 INS  = os.path.join(ROOT, 'insert')
 
-# game-script section id -> guide-area codes that live in it (from the guide TOC + our SCENES/FIRSTPASS)
-SECTION_AREAS = {
- '1.01': ['WR','MP','BI'],           '1.02': ['MR','SC'],
- '1.03': ['VC'],                     '1.04': ['VC'],
- '1.05': ['IP'],                     '1.06': ['UT','DZ','CC'],
- '1.07': ['TT','CC','LR'],           '1.08': ['SD','HL','SY'],
- '1.09': ['AM','HM','BV','HT','WV'], '1.10': ['BV','TB','GH','RO'],
- '1.11': ['WV'],                     '1.12': ['TS','SR'],
- '1.13': ['GB'],                     '1.14': ['GH','TB'],
- '1.15': ['SY','CM'],                '1.16': ['AP'],
- '1.17': ['GG','QT'],                '1.18': ['CM'],
- '1.19': ['CE'],                     '1.20': ['DP','DC','DA','DJ','LC'],
- '1.21': ['HG'],
- '2.01': ['MM','MZ'],                '2.02': ['MM'],
- '2.03': ['SA','GL'],                '2.04': ['LG'],
- '2.05': ['SV'],                     '2.06': ['PV'],
- '2.07': ['RF','RG','RW','RM'],      '2.08': ['TZ'],
- '2.09': ['FW'],                     '2.10': ['ST','GGa'],
- '2.11': ['GGa'],                    '2.12': [],
- '0.1': ['CS'],  '0.2': ['PC'],  '0.3': ['IO'],  '0.4': ['GLo'],
- '0.5': ['WD'],  '0.6': ['GLo'], '0.7': ['DR'],
-}
-
-# which insert files cover which area (deep + firstpass), mirrors build_wiki
-SCENE_AREA = {  # file -> area
- 'ashley_opening_FINAL.txt':'WR','ashley_intro_ruins_FINAL.txt':'WR','lilka_intro_FINAL.txt':'MP','brad_intro_FINAL.txt':'BI',
- 'm1_meria_FINAL.txt':'MR','m1_swordcathedral_lore_FINAL.txt':'SC','m1_swordcathedral_FINAL.txt':'VC',
- 'm1_library_history_FINAL.txt':'VC','m1_crimson_noble_FINAL.txt':'VC','m1_chateau_hub_FINAL.txt':'VC',
- 'm_summit_tablets_briefing_FINAL.txt':'WV','m_summit_debate_FINAL.txt':'WV',
- 'm2_telepathtower_FINAL.txt':'TT','m2_telepath_lore_FINAL.txt':'TT',
- 'm3_livereflector_FINAL.txt':'LR','m3_livereflector_cont_FINAL.txt':'LR','m4_halmetz_FINAL.txt':'HM',
- 'm_slayheim_backstory_FINAL.txt':'SY','m_caina_taunt_FINAL.txt':'LG',
-}
-FP_AREAS = {  # firstpass file -> area codes
- 'blk27_IP_GP.txt':['IP'],'blk12_DZ_CC.txt':['DZ','CC'],'blk13_UT_HL.txt':['UT'],
- 'blk14_SD.txt':['SD'],'blk16_BV_HT.txt':['BV','HT'],'blk17_TS_SR_GB_GH.txt':['TS','SR','GB','GH'],
- 'blk18_SY.txt':['SY'],'blk20_GG_AP.txt':['GG','AP'],'blk38_CE.txt':['CE'],
- 'blk39_DP.txt':['DP','DC','DA'],'blk40_DC.txt':['DC'],'blk44_HG.txt':['HG'],
- 'blk45_LC.txt':['LC'],'blk46_LC.txt':['LC'],'blk47_LC.txt':['LC'],'blk49_HG_DP.txt':['HG','DJ','DA'],
- 'blk69_DP.txt':['DP'],
-}
+# all area maps imported from build_db (single source of truth)
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import build_db as DB
+SECTION_AREAS = DB.SECTION_AREAS
+SCENE_AREA    = DB.SCENE_AREA     # deep file -> area
+FP_AREAS      = DB.FP_AREAS       # firstpass file -> [area,...]
 
 def count_boxes(path):
     if not os.path.exists(path): return 0

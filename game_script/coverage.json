@@ -65,7 +65,8 @@
    "pct": 69,
    "state": "firstpass",
    "areas": [
-    "IP"
+    "IP",
+    "GP"
    ]
   },
   {
@@ -104,7 +105,7 @@
    "disc": 1,
    "target": 324,
    "deep": 12,
-   "firstpass": 335,
+   "firstpass": 334,
    "pct": 100,
    "state": "done",
    "areas": [
@@ -521,7 +522,8 @@
    "pct": 0,
    "state": "placeholder",
    "areas": [
-    "DR"
+    "DR",
+    "FL"
    ]
   },
   {

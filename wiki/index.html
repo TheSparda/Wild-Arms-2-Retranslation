@@ -361,7 +361,7 @@ body.view-comments .controls { display:none; }
     <h2>🗺️ Remaining Work — beyond raw translation</h2>
     <p class="scenedesc">A fan retranslation is more than translating lines. Here's what still stands between the current state and a playable patched ISO. Status is honest, not optimistic.</p>
     <div class="rm-item st-prog"><div class="rm-head"><span class="rm-title">Raw translation</span><span class="rm-status">in progress</span></div><div class="rm-body">12/71 guide areas have retranslated dialogue (377 insert-ready boxes). This is the visible work — but it is roughly a third of the total effort to ship a patch.</div></div>
-<div class="rm-item st-prog"><div class="rm-head"><span class="rm-title">Kanji decoding (the JP source itself)</span><span class="rm-status">ongoing</span></div><div class="rm-body">The JP script uses a custom two-tier kanji encoding. Global map: 389 kanji solved. Per-scene local tables: 1338 readings across 39 blocks. Every new scene still needs a solve pass before it reads cleanly — this is the hidden cost behind each translated area.</div></div>
+<div class="rm-item st-prog"><div class="rm-head"><span class="rm-title">Kanji decoding (the JP source itself)</span><span class="rm-status">ongoing</span></div><div class="rm-body">The JP script uses a custom two-tier kanji encoding. Global map: 389 kanji solved. Per-scene local tables: 1375 readings across 47 blocks. Every new scene still needs a solve pass before it reads cleanly — this is the hidden cost behind each translated area.</div></div>
 <div class="rm-item st-done"><div class="rm-head"><span class="rm-title">US# slot reconciliation</span><span class="rm-status">per-scene, done as we go</span></div><div class="rm-body">Each box must map to the exact US message slot it overwrites. Done for all translated scenes. 21 boxes are flagged as having NO insertable slot (event-embedded or localization-cut) — those need an engine-level solution or must be dropped, not force-inserted.</div></div>
 <div class="rm-item st-todo"><div class="rm-head"><span class="rm-title">ROM insertion + repointing tool</span><span class="rm-status">NOT STARTED</span></div><div class="rm-body">Nothing is in the ISO yet. Same-size text can be overwritten directly, but most retranslations differ in length, which needs a pointer-recalculation tool (the gadesx/CUE approach). This is the single biggest un-started engineering task.</div></div>
 <div class="rm-item st-done"><div class="rm-head"><span class="rm-title">Fit + line-break pass</span><span class="rm-status">enforced in drafting</span></div><div class="rm-body">Every box is authored to the real WA2 ceiling (≤3 lines × ~35 chars) with manual 0d line breaks. Verified per-scene, but final wrapping only truly confirms in-engine.</div></div>
@@ -4026,40 +4026,7 @@ body.view-comments .controls { display:none; }
   <div class="cwrap" data-key="firstpass/blk27_IP_GP.txt#US#5297"></div>
 </div>
   </div>
-<div class="subscene gap"><h3>Not yet translated in this section <span class="subm">34 of 71 script lines · from transcript <code>1.05</code></span></h3><p class="scenedesc">These English game-script lines have no matching translated box yet. Placeholder reference.</p><div class="gamescript"><div class="gs-line"><span class="gs-spk">Lilka</span><span class="gs-txt">Ashley!</span></div>
-<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">From the beginning, he planned to trick me.</span></div>
-<div class="gs-line"><span class="gs-spk">Lilka</span><span class="gs-txt">But... How do I explain it? If I really wanted, I could use my magic to blast through in a second.</span></div>
-<div class="gs-line"><span class="gs-spk">Lilka</span><span class="gs-txt">Adapt to your circumstances... Hm!</span></div>
-<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">Lilka! Thanks for earlier. You tried to cheer me up, right? ............. Be careful.</span></div>
-<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">Don&#x27;t overdo it. Hey, come over here. It&#x27;s first aid I learned with the musketeers. Even I can help out.</span></div>
-<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">With that Jail Card, you should be able to open the lock! But before that... Thanks, Lilka hand me my equipment.</span></div>
-<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">Ok. Great job. Don&#x27;t look over here.</span></div>
-<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">A mass jailbreak! Is that possible? Preparations done! We&#x27;re off! [Ashley and Lilka move along, they find a prisoner on another floor. They open his cage.]</span></div>
-<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">Aren&#x27;t you going to run away?</span></div>
-<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">Do you know Irving?</span></div>
-<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">How can you say that with certainty?</span></div>
-<div class="gs-line"><span class="gs-spk">Prisoner</span><span class="gs-txt">Death Row Inmate No. 666, Brad Evans. I&#x27;m one of the ARMS members chosen by Irving. Let&#x27;s go. [The party moves along. On their way, they find the Warden, guarding the exit.]</span></div>
-<div class="gs-line"><span class="gs-spk">Brad</span><span class="gs-txt">I can&#x27;t keep up with you!</span></div>
-<div class="gs-line"><span class="gs-spk">Warden</span><span class="gs-txt">Instead of getting me to say cruel things, I should do it myself! GAO...NIM, come here! Go catch my valuable little convicts.</span></div>
-<div class="gs-line"><span class="gs-spk">[BOSS</span><span class="gs-txt">Escapee Capture Robot - GAONIM]</span></div>
-<div class="gs-line"><span class="gs-spk">Warden</span><span class="gs-txt">Ahhh! To say I&#x27;m stupid is a major insult!</span></div>
-<div class="gs-line"><span class="gs-spk">Guy with Glasses</span><span class="gs-txt">This ridiculous handling of things isn&#x27;t right at all.</span></div>
-<div class="gs-line"><span class="gs-spk">Guy with Glasses</span><span class="gs-txt">This ridiculous handling is... You understand now? -------------------------------------------------------------------------------</span></div>
-<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">This way? Where do you plan on going?</span></div>
-<div class="gs-line"><span class="gs-spk">Brad</span><span class="gs-txt">The boat docks. Haven&#x27;t you heard of the plan?</span></div>
-<div class="gs-line"><span class="gs-spk">Lilka</span><span class="gs-txt">We haven&#x27;t been told anything.</span></div>
-<div class="gs-line"><span class="gs-spk">Irving</span><span class="gs-txt">I waited a bit but... Looks like we&#x27;ve finally been able to meet safely.</span></div>
-<div class="gs-line"><span class="gs-spk">Irving</span><span class="gs-txt">Well, there were some changes. I don&#x27;t think anyone would object if I said that getting Brad out of Illsveil was a success. What was my rationale like as the Chief?</span></div>
-<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">As the one oversees other people, the first thing you... need to do for the people is trust your team! I won&#x27;t permit you to move us around like pawns ever again!</span></div>
-<div class="gs-line"><span class="gs-spk">Irving</span><span class="gs-txt">Next time I&#x27;ll keep that in mind. Would you mind handing me my crutches? I can hardly walk without them.</span></div>
-<div class="gs-line"><span class="gs-spk">Lilka</span><span class="gs-txt">Hey, what is it?</span></div>
-<div class="gs-line"><span class="gs-spk">Brad</span><span class="gs-txt">Was the inmate insurrection part of the plan as well? Or was that merely a coincidence?</span></div>
-<div class="gs-line"><span class="gs-spk">Lilka</span><span class="gs-txt">How would I know that?</span></div>
-<div class="gs-line"><span class="gs-spk">Brad</span><span class="gs-txt">Well, actually...</span></div>
-<div class="gs-line"><span class="gs-spk">Guy with Glasses</span><span class="gs-txt">Besides us, who else has business here in Illsveil?</span></div>
-<div class="gs-line"><span class="gs-spk">Inmate</span><span class="gs-txt">Are we really going to get to say sayonara to this hell?</span></div>
-<div class="gs-line"><span class="gs-spk">One-Eyed Giant</span><span class="gs-txt">Yep, and, with the added bonus of re-employment.</span></div>
-<div class="gs-line"><span class="gs-spk">Guy with Glasses</span><span class="gs-txt">It doesn&#x27;t seem adequate, but I&#x27;ll let it go. Time to withdraw! =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################</span></div></div></div>
+
 </section>
 <section class="scene firstpass" id="a-1-UT"><h2>Under Traffic <span class="pill fp">first pass — 106 boxes</span></h2><div class="scenemeta">DISC 1 · guide area <code>UT</code></div><p class="scenedesc">First pass: US localization reflowed to the display window and verified against the real message slots. Not a deep retranslation yet — flagged for a literary RE pass.</p>
   <div class="subscene">
@@ -12948,7 +12915,40 @@ body.view-comments .controls { display:none; }
   <div class="cwrap" data-key="firstpass/blk27_IP_GP.txt#US#5297"></div>
 </div>
   </div>
-
+<div class="subscene gap"><h3>Not yet translated in this section <span class="subm">34 of 71 script lines · from transcript <code>1.05</code></span></h3><p class="scenedesc">These English game-script lines have no matching translated box yet. Placeholder reference.</p><div class="gamescript"><div class="gs-line"><span class="gs-spk">Lilka</span><span class="gs-txt">Ashley!</span></div>
+<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">From the beginning, he planned to trick me.</span></div>
+<div class="gs-line"><span class="gs-spk">Lilka</span><span class="gs-txt">But... How do I explain it? If I really wanted, I could use my magic to blast through in a second.</span></div>
+<div class="gs-line"><span class="gs-spk">Lilka</span><span class="gs-txt">Adapt to your circumstances... Hm!</span></div>
+<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">Lilka! Thanks for earlier. You tried to cheer me up, right? ............. Be careful.</span></div>
+<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">Don&#x27;t overdo it. Hey, come over here. It&#x27;s first aid I learned with the musketeers. Even I can help out.</span></div>
+<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">With that Jail Card, you should be able to open the lock! But before that... Thanks, Lilka hand me my equipment.</span></div>
+<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">Ok. Great job. Don&#x27;t look over here.</span></div>
+<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">A mass jailbreak! Is that possible? Preparations done! We&#x27;re off! [Ashley and Lilka move along, they find a prisoner on another floor. They open his cage.]</span></div>
+<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">Aren&#x27;t you going to run away?</span></div>
+<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">Do you know Irving?</span></div>
+<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">How can you say that with certainty?</span></div>
+<div class="gs-line"><span class="gs-spk">Prisoner</span><span class="gs-txt">Death Row Inmate No. 666, Brad Evans. I&#x27;m one of the ARMS members chosen by Irving. Let&#x27;s go. [The party moves along. On their way, they find the Warden, guarding the exit.]</span></div>
+<div class="gs-line"><span class="gs-spk">Brad</span><span class="gs-txt">I can&#x27;t keep up with you!</span></div>
+<div class="gs-line"><span class="gs-spk">Warden</span><span class="gs-txt">Instead of getting me to say cruel things, I should do it myself! GAO...NIM, come here! Go catch my valuable little convicts.</span></div>
+<div class="gs-line"><span class="gs-spk">[BOSS</span><span class="gs-txt">Escapee Capture Robot - GAONIM]</span></div>
+<div class="gs-line"><span class="gs-spk">Warden</span><span class="gs-txt">Ahhh! To say I&#x27;m stupid is a major insult!</span></div>
+<div class="gs-line"><span class="gs-spk">Guy with Glasses</span><span class="gs-txt">This ridiculous handling of things isn&#x27;t right at all.</span></div>
+<div class="gs-line"><span class="gs-spk">Guy with Glasses</span><span class="gs-txt">This ridiculous handling is... You understand now? -------------------------------------------------------------------------------</span></div>
+<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">This way? Where do you plan on going?</span></div>
+<div class="gs-line"><span class="gs-spk">Brad</span><span class="gs-txt">The boat docks. Haven&#x27;t you heard of the plan?</span></div>
+<div class="gs-line"><span class="gs-spk">Lilka</span><span class="gs-txt">We haven&#x27;t been told anything.</span></div>
+<div class="gs-line"><span class="gs-spk">Irving</span><span class="gs-txt">I waited a bit but... Looks like we&#x27;ve finally been able to meet safely.</span></div>
+<div class="gs-line"><span class="gs-spk">Irving</span><span class="gs-txt">Well, there were some changes. I don&#x27;t think anyone would object if I said that getting Brad out of Illsveil was a success. What was my rationale like as the Chief?</span></div>
+<div class="gs-line"><span class="gs-spk">Ashley</span><span class="gs-txt">As the one oversees other people, the first thing you... need to do for the people is trust your team! I won&#x27;t permit you to move us around like pawns ever again!</span></div>
+<div class="gs-line"><span class="gs-spk">Irving</span><span class="gs-txt">Next time I&#x27;ll keep that in mind. Would you mind handing me my crutches? I can hardly walk without them.</span></div>
+<div class="gs-line"><span class="gs-spk">Lilka</span><span class="gs-txt">Hey, what is it?</span></div>
+<div class="gs-line"><span class="gs-spk">Brad</span><span class="gs-txt">Was the inmate insurrection part of the plan as well? Or was that merely a coincidence?</span></div>
+<div class="gs-line"><span class="gs-spk">Lilka</span><span class="gs-txt">How would I know that?</span></div>
+<div class="gs-line"><span class="gs-spk">Brad</span><span class="gs-txt">Well, actually...</span></div>
+<div class="gs-line"><span class="gs-spk">Guy with Glasses</span><span class="gs-txt">Besides us, who else has business here in Illsveil?</span></div>
+<div class="gs-line"><span class="gs-spk">Inmate</span><span class="gs-txt">Are we really going to get to say sayonara to this hell?</span></div>
+<div class="gs-line"><span class="gs-spk">One-Eyed Giant</span><span class="gs-txt">Yep, and, with the added bonus of re-employment.</span></div>
+<div class="gs-line"><span class="gs-spk">Guy with Glasses</span><span class="gs-txt">It doesn&#x27;t seem adequate, but I&#x27;ll let it go. Time to withdraw! =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################</span></div></div></div>
 </section>
 <section class="scene firstpass" id="a-1-SD"><h2>Sylvaland Castle <span class="pill fp">first pass — 197 boxes</span></h2><div class="scenemeta">DISC 1 · guide area <code>SD</code></div><p class="scenedesc">First pass: US localization reflowed to the display window and verified against the real message slots. Not a deep retranslation yet — flagged for a literary RE pass.</p>
   <div class="subscene">
