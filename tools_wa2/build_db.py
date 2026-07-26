@@ -109,6 +109,10 @@ SCENES = [
  ('m_trust_resolve_FINAL.txt','GGa',"Trust & resolve: doubt breaks a party; drive the demon out of Ashley",'104'),
  ('m_backstories_FINAL.txt','GGa',"Party backstories: Tim, Kanon's sky promise, Marivel's solitude, Ashley's words",'89'),
  ('m_slayheim_recruits_lore_FINAL.txt','SY',"Slayheim front-line recruits + the <Sword Magess> lore panels",'118'),
+ ('m_ashley_lilka_bond_FINAL.txt','RM',"Ashley & Lilka aboard Lombardia: 'are you still you?'",'41'),
+ ('m_kuiper_split_FINAL.txt','GGa',"Vinsfeld's confession + the four-way split into the Kuiper Belt",'66'),
+ ('m_lucied_desire_FINAL.txt','GGa',"Lucied, Guardian of Desire, lends Ashley his power",'77'),
+ ('m_vinsfeld_manifesto_FINAL.txt','SY',"Vinsfeld's Odessa manifesto broadcast",'88'),
 ]
 
 # ---- first-pass registry: auto-generated files (localization reflowed, US#-verified) ----
