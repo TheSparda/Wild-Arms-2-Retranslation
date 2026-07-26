@@ -1,0 +1,378 @@
+# WA2 — Ashley Meets the Sword Magess (Anastasia) — block 116 — DEEP RE
+# =========================================================================================
+# Between life and death, Ashley meets Anastasia, the girl behind the <Sword Magess> legend.
+# She's warm and teasing, nothing like the solemn hero he imagined, and offers to send him
+# back to Filgaia where {2} (Lilka) waits. 9-line preamble + an 11-line exchange repeated 6x
+# (party permutations); RE identical per cycle. Fit <=3x35, no em dashes. {0}Ashley {2}Lilka.
+# =========================================================================================
+
+# ---- preamble (plays once) ----
+[US#8236]
+  EN : I'm...? Where am I?
+  RE : I'm...? Where am I?
+
+[US#8237]
+  EN : It's not a rational deduction, but I'm certain this isn't Filgaia. Where am I?
+  RE : This isn't reason talking, but I'm
+       sure this isn't Filgaia. Where am
+       I?
+
+[US#8238]
+  EN : That's right. It's not the first time we meet. When I got the Argetlahm, in the light we...
+  RE : Right. Not our first meeting. When
+       I drew the Argetlahm, in that light
+       we...
+
+[US#8239]
+  EN : It's the same feeling of protection I got when the Heimdal Gazzo exploded.
+  RE : The same feeling of being shielded
+       as when the Heimdal Gazzo exploded.
+
+[US#8240]
+  EN : I'm certain of it. That sensation was the same as the vibrations I get from you now.
+  RE : I'm sure of it. That was the same
+       as the tremor I feel from you now.
+
+[US#8241]
+  EN : Please tell me. Who are you?
+  RE : Please, tell me. Who are you?
+
+[US#8242]
+  EN : In your era, I guess the <Sword Magess> is the name most well known.
+  RE : In your age, I'm best known by the
+       name <Sword Magess.>
+
+[US#8243]
+  EN : I had always hoped we'd have a chance to talk, 0 Winchester.
+  RE : I always hoped we'd get to talk,
+       {0} Winchester.
+
+[US#8244]
+  EN : There were moments when you were a bit pathetic, but then you'd do something very bold and brave!
+  RE : At times you were a bit pathetic,
+       then you'd do something so bold and
+       brave!
+
+# ---- cycle @ US#8245 ----
+[US#8245]
+  EN : But with her... With {2}, you weren't terribly brave or forthcoming.
+  RE : But with her... With {2}, you were
+       never quite so bold or open.
+
+[US#8246]
+  EN : It makes a big sister want to take you in her arms and take care of you.
+  RE : Makes a big sister want to gather
+       you up and look after you.
+
+[US#8247]
+  EN : Sorry. I didn't mean to hassle you.
+  RE : Sorry. I didn't mean to tease.
+
+[US#8248]
+  EN : But it's um, well unexpected.
+  RE : But it's, um, unexpected.
+
+[US#8249]
+  EN : The image I had of the <Sword Magess> was well....
+  RE : The image I had of the <Sword
+       Magess> was, well...
+
+[US#8250]
+  EN : A little different...
+  RE : A little different...
+
+[US#8251]
+  EN : So you think it's OK to just force your will on everyone?
+  RE : So you think it's fine to force
+       your will on everyone?
+
+[US#8252]
+  EN : Before I was the <Sword Magess>, I was just a girl called Anastasia. I can't help it.
+  RE : Before the <Sword Magess,> I was
+       just a girl named Anastasia. I
+       can't help it.
+
+[US#8253]
+  EN : Do you want to go to Filgaia, to the world where {2} is waiting for you?
+  RE : Do you want to go to Filgaia, where
+       {2} is waiting for you?
+
+[US#8254]
+  EN : dead is |the other side,| then this is the interval, the boundary between both places.
+  RE : If death is |the other side,| this
+       is the boundary between the two.
+
+[US#8255]
+  EN : It's a ruin of memories. I might be able to make contact with Filgaia from here.
+  RE : A ruin of memories. From here I
+       might reach Filgaia.
+
+# ---- cycle @ US#8256 ----
+[US#8256]
+  EN : But with her... With {2}, you weren't terribly brave or forthcoming.
+  RE : But with her... With {2}, you were
+       never quite so bold or open.
+
+[US#8257]
+  EN : It makes a big sister want to take you in her arms and take care of you.
+  RE : Makes a big sister want to gather
+       you up and look after you.
+
+[US#8258]
+  EN : Sorry. I didn't mean to hassle you.
+  RE : Sorry. I didn't mean to tease.
+
+[US#8259]
+  EN : But it's um, well unexpected.
+  RE : But it's, um, unexpected.
+
+[US#8260]
+  EN : The image I had of the <Sword Magess> was well....
+  RE : The image I had of the <Sword
+       Magess> was, well...
+
+[US#8261]
+  EN : A little different...
+  RE : A little different...
+
+[US#8262]
+  EN : So you think it's OK to just force your will on everyone?
+  RE : So you think it's fine to force
+       your will on everyone?
+
+[US#8263]
+  EN : Before I was the <Sword Magess>, I was just a girl called Anastasia. I can't help it.
+  RE : Before the <Sword Magess,> I was
+       just a girl named Anastasia. I
+       can't help it.
+
+[US#8264]
+  EN : Do you want to go to Filgaia, to the world where {2} is waiting for you?
+  RE : Do you want to go to Filgaia, where
+       {2} is waiting for you?
+
+[US#8265]
+  EN : dead is |the other side,| then this is the interval, the boundary between both places.
+  RE : If death is |the other side,| this
+       is the boundary between the two.
+
+[US#8266]
+  EN : It's a ruin of memories. I might be able to make contact with Filgaia from here.
+  RE : A ruin of memories. From here I
+       might reach Filgaia.
+
+# ---- cycle @ US#8267 ----
+[US#8267]
+  EN : But with her... With {2}, you weren't terribly brave or forthcoming.
+  RE : But with her... With {2}, you were
+       never quite so bold or open.
+
+[US#8268]
+  EN : It makes a big sister want to take you in her arms and take care of you.
+  RE : Makes a big sister want to gather
+       you up and look after you.
+
+[US#8269]
+  EN : Sorry. I didn't mean to hassle you.
+  RE : Sorry. I didn't mean to tease.
+
+[US#8270]
+  EN : But it's um, well unexpected.
+  RE : But it's, um, unexpected.
+
+[US#8271]
+  EN : The image I had of the <Sword Magess> was well....
+  RE : The image I had of the <Sword
+       Magess> was, well...
+
+[US#8272]
+  EN : A little different...
+  RE : A little different...
+
+[US#8273]
+  EN : So you think it's OK to just force your will on everyone?
+  RE : So you think it's fine to force
+       your will on everyone?
+
+[US#8274]
+  EN : Before I was the <Sword Magess>, I was just a girl called Anastasia. I can't help it.
+  RE : Before the <Sword Magess,> I was
+       just a girl named Anastasia. I
+       can't help it.
+
+[US#8275]
+  EN : Do you want to go to Filgaia, to the world where {2} is waiting for you?
+  RE : Do you want to go to Filgaia, where
+       {2} is waiting for you?
+
+[US#8276]
+  EN : dead is |the other side,| then this is the interval, the boundary between both places.
+  RE : If death is |the other side,| this
+       is the boundary between the two.
+
+[US#8277]
+  EN : It's a ruin of memories. I might be able to make contact with Filgaia from here.
+  RE : A ruin of memories. From here I
+       might reach Filgaia.
+
+# ---- cycle @ US#8278 ----
+[US#8278]
+  EN : But with her... With {2}, you weren't terribly brave or forthcoming.
+  RE : But with her... With {2}, you were
+       never quite so bold or open.
+
+[US#8279]
+  EN : It makes a big sister want to take you in her arms and take care of you.
+  RE : Makes a big sister want to gather
+       you up and look after you.
+
+[US#8280]
+  EN : Sorry. I didn't mean to hassle you.
+  RE : Sorry. I didn't mean to tease.
+
+[US#8281]
+  EN : But it's um, well unexpected.
+  RE : But it's, um, unexpected.
+
+[US#8282]
+  EN : The image I had of the <Sword Magess> was well....
+  RE : The image I had of the <Sword
+       Magess> was, well...
+
+[US#8283]
+  EN : A little different...
+  RE : A little different...
+
+[US#8284]
+  EN : So you think it's OK to just force your will on everyone?
+  RE : So you think it's fine to force
+       your will on everyone?
+
+[US#8285]
+  EN : Before I was the <Sword Magess>, I was just a girl called Anastasia. I can't help it.
+  RE : Before the <Sword Magess,> I was
+       just a girl named Anastasia. I
+       can't help it.
+
+[US#8286]
+  EN : Do you want to go to Filgaia, to the world where {2} is waiting for you?
+  RE : Do you want to go to Filgaia, where
+       {2} is waiting for you?
+
+[US#8287]
+  EN : dead is |the other side,| then this is the interval, the boundary between both places.
+  RE : If death is |the other side,| this
+       is the boundary between the two.
+
+[US#8288]
+  EN : It's a ruin of memories. I might be able to make contact with Filgaia from here.
+  RE : A ruin of memories. From here I
+       might reach Filgaia.
+
+# ---- cycle @ US#8289 ----
+[US#8289]
+  EN : But with her... With {2}, you weren't terribly brave or forthcoming.
+  RE : But with her... With {2}, you were
+       never quite so bold or open.
+
+[US#8290]
+  EN : It makes a big sister want to take you in her arms and take care of you.
+  RE : Makes a big sister want to gather
+       you up and look after you.
+
+[US#8291]
+  EN : Sorry. I didn't mean to hassle you.
+  RE : Sorry. I didn't mean to tease.
+
+[US#8292]
+  EN : But it's um, well unexpected.
+  RE : But it's, um, unexpected.
+
+[US#8293]
+  EN : The image I had of the <Sword Magess> was well....
+  RE : The image I had of the <Sword
+       Magess> was, well...
+
+[US#8294]
+  EN : A little different...
+  RE : A little different...
+
+[US#8295]
+  EN : So you think it's OK to just force your will on everyone?
+  RE : So you think it's fine to force
+       your will on everyone?
+
+[US#8296]
+  EN : Before I was the <Sword Magess>, I was just a girl called Anastasia. I can't help it.
+  RE : Before the <Sword Magess,> I was
+       just a girl named Anastasia. I
+       can't help it.
+
+[US#8297]
+  EN : Do you want to go to Filgaia, to the world where {2} is waiting for you?
+  RE : Do you want to go to Filgaia, where
+       {2} is waiting for you?
+
+[US#8298]
+  EN : dead is |the other side,| then this is the interval, the boundary between both places.
+  RE : If death is |the other side,| this
+       is the boundary between the two.
+
+[US#8299]
+  EN : It's a ruin of memories. I might be able to make contact with Filgaia from here.
+  RE : A ruin of memories. From here I
+       might reach Filgaia.
+
+# ---- cycle @ US#8300 ----
+[US#8300]
+  EN : But with her... With {2}, you weren't terribly brave or forthcoming.
+  RE : But with her... With {2}, you were
+       never quite so bold or open.
+
+[US#8301]
+  EN : It makes a big sister want to take you in her arms and take care of you.
+  RE : Makes a big sister want to gather
+       you up and look after you.
+
+[US#8302]
+  EN : Sorry. I didn't mean to hassle you.
+  RE : Sorry. I didn't mean to tease.
+
+[US#8303]
+  EN : But it's um, well unexpected.
+  RE : But it's, um, unexpected.
+
+[US#8304]
+  EN : The image I had of the <Sword Magess> was well....
+  RE : The image I had of the <Sword
+       Magess> was, well...
+
+[US#8305]
+  EN : A little different...
+  RE : A little different...
+
+[US#8306]
+  EN : So you think it's OK to just force your will on everyone?
+  RE : So you think it's fine to force
+       your will on everyone?
+
+[US#8307]
+  EN : Before I was the <Sword Magess>, I was just a girl called Anastasia. I can't help it.
+  RE : Before the <Sword Magess,> I was
+       just a girl named Anastasia. I
+       can't help it.
+
+[US#8308]
+  EN : Do you want to go to Filgaia, to the world where {2} is waiting for you?
+  RE : Do you want to go to Filgaia, where
+       {2} is waiting for you?
+
+[US#8309]
+  EN : dead is |the other side,| then this is the interval, the boundary between both places.
+  RE : If death is |the other side,| this
+       is the boundary between the two.
+
+[US#8310]
+  EN : It's a ruin of memories. I might be able to make contact with Filgaia from here.
+  RE : A ruin of memories. From here I
+       might reach Filgaia.

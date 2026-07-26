@@ -100,6 +100,8 @@ SCENES = [
  ('m_vinsfeld_farewell_FINAL.txt','GGa',"Vinsfeld's farewell blow (|Heroes| don't die) boss taunt",'91'),
  ('m_lordblazer_credo_FINAL.txt','GGa',"Lord Blazer's mockery + the party's 'we don't need a hero' credo",'113'),
  ('m_final_heroes_prayer_FINAL.txt','GGa',"Before the Final Battle: the |heroes| prayer (come back safely)",'111'),
+ ('m_anastasia_meeting_FINAL.txt','GGa',"Ashley meets the Sword Magess Anastasia between life and death",'116'),
+ ('m_kanon_pillar_FINAL.txt','GGa',"Kanon / Vinsfeld's hero philosophy / Marina refuses the Pillar",'117'),
 ]
 
 # ---- first-pass registry: auto-generated files (localization reflowed, US#-verified) ----
