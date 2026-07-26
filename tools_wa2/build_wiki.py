@@ -499,6 +499,7 @@ body {{ margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 -apple-s
 .nav-scene {{ display:block; padding:3px 8px; margin:1px 0 1px 8px; color:var(--ink); text-decoration:none;
               border-radius:6px; font-size:13px; }}
 .nav-scene:hover {{ background:var(--panel2); }}
+.nav-scene.active {{ background:var(--panel2); box-shadow:inset 3px 0 0 var(--acc); color:var(--acc); font-weight:600; }}
 .cnt {{ color:var(--dim); font-size:11px; }}
 #main {{ flex:1; padding:26px 34px 80px; max-width:1000px; }}
 .topbar {{ display:flex; gap:18px; align-items:baseline; flex-wrap:wrap; margin-bottom:6px; }}
@@ -1038,6 +1039,46 @@ document.getElementById('cclear').addEventListener('click', function() {{
 /* on load: paint existing saved comments */
 Object.keys(load()).forEach(renderSaved);
 refreshBar();
+
+/* highlight the nav link for whichever area section is currently in view */
+(function() {{
+  var navById = {{}};
+  document.querySelectorAll('.nav-scene[href^="#"]').forEach(function(a) {{
+    navById[a.getAttribute('href').slice(1)] = a;
+  }});
+  var sections = Array.prototype.slice.call(document.querySelectorAll('section.scene[id]'));
+  if (!sections.length) return;
+  var current = null;
+  function setActive(id) {{
+    if (id === current) return;
+    if (current && navById[current]) navById[current].classList.remove('active');
+    current = id;
+    var link = navById[id];
+    if (link) {{
+      link.classList.add('active');
+      // keep the active link visible in the (scrollable) nav
+      var nav = link.closest('nav');
+      if (nav) {{
+        var above = link.offsetTop < nav.scrollTop;
+        var below = link.offsetTop > nav.scrollTop + nav.clientHeight;
+        if (above || below) link.scrollIntoView({{block:'nearest'}});
+      }}
+    }}
+  }}
+  var obs = new IntersectionObserver(function(entries) {{
+    // pick the top-most section currently intersecting the viewport
+    var visible = entries.filter(function(e) {{ return e.isIntersecting; }});
+    if (visible.length) {{
+      visible.sort(function(a,b) {{ return a.boundingClientRect.top - b.boundingClientRect.top; }});
+      setActive(visible[0].target.id);
+    }}
+  }}, {{ rootMargin: '-80px 0px -60% 0px', threshold: 0 }});
+  sections.forEach(function(s) {{ obs.observe(s); }});
+  // clicking a nav link highlights immediately (don't wait for scroll)
+  document.querySelectorAll('.nav-scene[href^="#"]').forEach(function(a) {{
+    a.addEventListener('click', function() {{ setActive(a.getAttribute('href').slice(1)); }});
+  }});
+}})();
 </script>
 </body></html>'''
 
