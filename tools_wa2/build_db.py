@@ -113,6 +113,8 @@ SCENES = [
  ('m_kuiper_split_FINAL.txt','GGa',"Vinsfeld's confession + the four-way split into the Kuiper Belt",'66'),
  ('m_lucied_desire_FINAL.txt','GGa',"Lucied, Guardian of Desire, lends Ashley his power",'77'),
  ('m_vinsfeld_manifesto_FINAL.txt','SY',"Vinsfeld's Odessa manifesto broadcast",'88'),
+ ('m_pillar_trial_FINAL.txt','SA',"Sacrificial Altar trial: Marina + Pooka, the |Combine|, the |Pillar|",'34'),
+ ('m_guildgalad_magic_FINAL.txt','GG',"Guild Galad Crest Sorcery: |Extend| + High Magic sidequest",'67'),
 ]
 
 # ---- first-pass registry: auto-generated files (localization reflowed, US#-verified) ----
