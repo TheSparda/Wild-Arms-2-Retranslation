@@ -1,0 +1,187 @@
+# Block 1 — Palace Village NPCs (Lilka's little-sister admirer, the wheat-field monster panic,
+# the Sacrificial-Altar rumor, comet lore panels). Palace Village = the wheat farming village
+# raided by field monsters; a "girl" (Marina/the Sword Magess) once saved it.
+# Literal-first per WA2_RE_STYLE_GUIDE.md. Boxes whose JP is only a fragment before a bleeding
+# <b:> code are left for a later local-solve pass.
+
+[US#90] (villager)
+  JP : 「わたしでよければ力になります / お話、聞かせてもらえませんか？
+  LIT: If I'll do, I'll lend a hand. Won't you tell me what's wrong?
+  RE : If I'll do, I'll lend a hand. Won't
+       you tell me what's wrong?
+
+[US#93] (young mage girl)
+  JP : 「テレポートジェムの使い方 / まだなれてなくて〜
+  LIT: I'm still not used to how the Teleport Gem works...
+  RE : I'm still not used to how the
+       Teleport Gem works...
+
+[US#94] (young mage girl)
+  JP : 「でもよかった、今のが最後だったんです / これでまた / 変なところに飛んでっちゃったらと思うと〜
+  LIT: But thank goodness, that was the last one. I dreaded warping somewhere strange again.
+  RE : But thank goodness, that was the
+       last one. I dreaded warping
+       somewhere strange again.
+
+[US#95] (young mage girl)
+  JP : 「〜あんた、誰？
+  LIT: ...Hey, who are you?
+  RE : ...Hey, who are you?
+
+[US#99] (Lilka)
+  JP : 「あれも魔法みたいなものよ / わかる？
+  LIT: That's a kind of magic, too. Understand?
+  RE : That's a kind of magic, too.
+       Understand?
+
+[US#100] (Lilka)
+  JP : 「でも、そのうちわかるよ / 魔法はね、誰にでも使えて / そして
+  LIT: But you'll understand in time. Magic can be used by anyone, and...
+  RE : But you'll understand in time.
+       Magic can be used by anyone, and...
+
+[US#101] (Lilka)
+  JP : 「何でもできる力なんだから〜
+  LIT: ...it's a power that can do anything.
+  RE : ...it's a power that can do
+       anything.
+
+[US#102] (little sister)
+  JP : 「お姉ちゃんみたいになれるんだ / だから、途中で逃げ出さないッ！ / あきらめないッ
+  LIT: I can become like you, big sis! So I won't run off partway. I won't give up!
+  RE : I can become like you, big sis! So
+       I won't run off partway. I won't
+       give up!
+
+[US#103] (little sister)
+  JP : 「お姉ちゃんみたいになれるんだ / だから、途中で逃げ出さないッ！ / あきらめないッ
+  LIT: I can become like you, big sis! So I won't run off partway. I won't give up!
+  RE : I can become like you, big sis! So
+       I won't run off partway. I won't
+       give up!
+
+[US#104] (old man)
+  JP : 「ほうほう、空を元に戻す為に / レイポイントなるモノを探していると？ / それは、ご苦労なことだのう
+  LIT: Oho, so you're seeking things called Raypoints to restore the sky? That's hard work indeed.
+  RE : Oho, so you're seeking things
+       called Raypoints to restore the
+       sky? That's hard work indeed.
+
+[US#106] (old man)
+  JP : 「ほうほう / お前さんたちは空を元に戻す為に / レイポイントなるモノを探していると？
+  LIT: Oho, so you lot are seeking things called Raypoints to restore the sky?
+  RE : Oho, so you lot are seeking things
+       called Raypoints to restore the
+       sky?
+
+[US#108] (villager)
+  JP : 「麦の刈り入れ時 / と、ほぼ同じだったからよくおぼえているよ
+  LIT: It was right around the wheat harvest, so I remember it well.
+  RE : It was right around the wheat
+       harvest, so I remember it well.
+
+[US#111] (young man)
+  JP : 「で、今夜は僕の番ってワケ / かったりぃよな、まったく〜
+  LIT: So tonight's my turn. What a drag, honestly...
+  RE : So tonight's my turn. What a drag,
+       honestly...
+
+[US#115] (villager)
+  JP : 「あの家に会いに来てくれたの？ / 多分、外にいると思うんだけど〜
+  LIT: Did you come to see him? He's probably outside, I think.
+  RE : Did you come to see him? He's
+       probably outside, I think.
+
+[US#120] (child)
+  JP : 「国の人はまだ、誰もケガしてないから / ひと安心だよね
+  LIT: No one in the village has been hurt yet, so that's one relief.
+  RE : No one in the village has been hurt
+       yet, so that's one relief.
+
+[US#121] (child)
+  JP : 「でも、いつ攻われるかわからないから / 今夜もお父さんは / パトロールに出ているんだ
+  LIT: But since we never know when they'll attack, my dad's out on patrol again tonight.
+  RE : But since we never know when
+       they'll attack, my dad's out on
+       patrol again tonight.
+
+[US#129] (old man)
+  JP : 「この変な空の原因は / 前に畑の怪物を処分した / せいに違いあるまいてッ！
+  LIT: This strange sky must be because someone got rid of the field monsters before, no doubt!
+  RE : This strange sky must be because
+       someone got rid of the field
+       monsters before, no doubt!
+
+[US#131] (old man)
+  JP : 「この更はきっと / 国の人間が / 食われる番に違いあるまいてッ！
+  LIT: Next, surely, it'll be the villagers' turn to be eaten, no doubt!
+  RE : Next, surely, it'll be the
+       villagers' turn to be eaten, no
+       doubt!
+
+[US#132] (village girl)
+  JP : 「こーいう時は国で一番可愛い娘が / イケニエになるんだよね？ / ああ、わたしってば
+  LIT: At times like this, the prettiest girl in the village becomes the sacrifice, right? Oh, me and my...
+  RE : At times like this, the prettiest
+       girl in the village becomes the
+       sacrifice, right? Oh, me and my...
+
+[US#134] (village girl)
+  JP : 「そうねぇ、わたしが何とかするって / いつも言ってたんだけど / パパとママが反対するのよ
+  LIT: Well, I always said I'd deal with it myself, but Papa and Mama are against it.
+  RE : Well, I always said I'd deal with
+       it myself, but Papa and Mama are
+       against it.
+
+[US#135] (village girl)
+  JP : 「だってホラ、わたしこんなに可愛いし〜
+  LIT: I mean, look, I'm this cute, after all...
+  RE : I mean, look, I'm this cute, after
+       all...
+
+[US#137] (village girl)
+  JP : 「だって、麦畑ばかり攻われるんですもの / そう考える方が
+  LIT: I mean, it's only the wheat fields that get raided, so thinking that way...
+  RE : I mean, it's only the wheat fields
+       that get raided, so thinking that
+       way...
+
+[US#143] (comet lore panel)
+  JP : ＊衛星と流星の違いを / ご存知だろうか？
+  LIT: Do you know the difference between a comet and a meteor?
+  RE : Do you know the difference between
+       a comet and a meteor?
+
+[US#146] (comet lore panel)
+  JP : ＊多くの謎を秘めた衛星には / 方々な神話が残されている
+  LIT: Steeped in many mysteries, comets have all sorts of myths left about them.
+  RE : Steeped in many mysteries, comets
+       have all sorts of myths left about
+       them.
+
+[US#150] (child)
+  JP : 「被害にあっているのが / 麦や麦畑ばっかりで / 国の人には危害を
+  LIT: The ones taking damage are just the wheat and the fields; the villagers haven't been harmed.
+  RE : The ones taking damage are just the
+       wheat and the fields; the villagers
+       haven't been harmed.
+
+[US#151] (child)
+  JP : 「そういえば / 怪物が現われる場所って / 北側の〜
+  LIT: Come to think of it, the place the monsters appear is on the north side...
+  RE : Come to think of it, the place the
+       monsters appear is on the north
+       side...
+
+[US#157] (little sister)
+  JP : 「やっぱり、お姉ちゃんの魔法って / すごいんだッ！
+  LIT: I knew it, big sis, your magic really is amazing!
+  RE : I knew it, big sis, your magic
+       really is amazing!
+
+[US#158] (battle tutorial panel)
+  JP : ＊『本体』には、名前が表示されており / ここのＨＰを０にすることで / ボスキャラクターを倒すことができます
+  LIT: The "body" shows its name; reduce its HP to 0 to defeat the boss character.
+  RE : The "body" shows its name; reduce
+       its HP to 0 to defeat the boss
+       character.

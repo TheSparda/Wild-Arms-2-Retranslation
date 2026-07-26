@@ -129,6 +129,10 @@ SCENES = [
  ('m_raypoint_pooka_FINAL.txt','SV',"Raypoint trial (Pooka): reveal your reason to fight",'58'),
  ('m_raypoint_kanon_FINAL.txt','RW',"Raypoint trial (Kanon): shed your confusion; a hero isn't blood",'59'),
  ('m_crimson_sanctuary_FINAL.txt','SM',"Crimson Nobles' Sanctuary: Ragu/Sealed-Monster lore + Marivel's solitude",'60'),
+ # ---- Track A: NPC/ambient/system sweep ----
+ ('m_system_tutorials_FINAL.txt','WV',"System & vehicle tutorials (Lombardia/Hovercraft/Search System) + Sylvaland chatter",'0'),
+ ('m_halmetz_npc_FINAL.txt','HM',"Halmetz NPCs post-liberation (Bell Tower, 'hero of justice' kids) + Cocytus ambush",'15'),
+ ('m_palace_village_npc_FINAL.txt','PV',"Palace Village NPCs: wheat-field monster panic, sacrifice rumor, comet lore, Lilka's admirer",'1'),
 ]
 
 # ---- first-pass registry: auto-generated files (localization reflowed, US#-verified) ----

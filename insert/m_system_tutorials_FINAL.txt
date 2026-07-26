@@ -1,0 +1,407 @@
+# Block 0 — System / vehicle tutorial panels (Lombardia, Hovercraft, Search System)
+# Ambient functional text. Literal-first per WA2_RE_STYLE_GUIDE.md (JP ＊-panels are
+# self-contained; EN localization drifts in this deep-tail block, so RE follows JP).
+
+[US#2] (system prompt)
+  JP : ＊進みますか？
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#3] (demo notice)
+  JP : でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, this cannot be used, unfortunately.
+  RE : But in this trial version, this
+       cannot be used, unfortunately.
+
+[US#4] (demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version
+       it unfortunately cannot be used.
+
+[US#5] (Ashley, inner)
+  JP : （どこかに / 身を隠すところは〜）
+  LIT: (Somewhere... a place to hide...)
+  RE : (I need somewhere to hide...)
+
+[US#6] (control tutorial)
+  JP : ＊方向キーの左右 / または、ぐボタンを押すことで / 旋回することができます
+  LIT: Press left/right on the D-pad, or the L button, to turn.
+  RE : Press left/right on the D-pad, or
+       the L button, to turn.
+
+[US#7] (Lombardia tutorial)
+  JP : ＊{0}たちを乗り降りさせるのは / アウトフィールド上に置かれた / 発着魔法陣に限ります
+  LIT: {0}'s party can only board and disembark at the Landing Rune set on the outfield.
+  RE : {0}'s party can only board and
+       disembark at the Landing Rune set
+       on the outfield.
+
+[US#8] (Lombardia tutorial)
+  JP : ＊魔法陣に搭乗してぐボタンを押すと / ヴァレリアシャトーから降りる項目が / メニューに表示されます
+  LIT: Board the rune and press the button; the option to leave Valeria Chateau appears in the menu.
+  RE : Board the rune and press the
+       button; the option to leave Valeria
+       Chateau appears in the menu.
+
+[US#9] (Lombardia tutorial)
+  JP : ＊発着魔法陣に搭乗して / ぐボタンを押すと / 乗り込むことができます
+  LIT: Board the Landing Rune and press the button to get aboard.
+  RE : Board the Landing Rune and press
+       the button to get aboard.
+
+[US#10] (control tutorial)
+  JP : ＊方向キーの左右 / または、ぐボタンを押すことで / 旋回することができます
+  LIT: Press left/right on the D-pad, or the L button, to turn.
+  RE : Press left/right on the D-pad, or
+       the L button, to turn.
+
+[US#11] (Lombardia tutorial)
+  JP : ＊方向キーの上下で高度変更も可能です / 下を押すと機体を上昇させ / 上を押すことで下降させます
+  LIT: Up/down on the D-pad changes altitude: down raises the craft, up lowers it.
+  RE : Up/down on the D-pad changes
+       altitude: down raises the craft, up
+       lowers it.
+
+[US#12] (Lombardia tutorial)
+  JP : ＊ロンバルディアは、谷や道など / {0}たちの歩けないところには / 着陸することができません
+  LIT: The Lombardia cannot land where {0}'s party can't walk, like valleys or roads.
+  RE : The Lombardia cannot land where
+       {0}'s party can't walk, like
+       valleys or roads.
+
+[US#13] (Lombardia tutorial)
+  JP : ＊歩行が可能でも / 山や岩場などは、足場が安定しないため / 着陸不可能です
+  LIT: Even where walking is possible, mountains and rocky ground are unstable and can't be landed on.
+  RE : Even where walking is possible,
+       mountains and rocky ground are
+       unstable and can't be landed on.
+
+[US#14] (Lombardia tutorial)
+  JP : ＊広く、平坦な地面上で / ぐボタンを押すと / ロンバルディアは着陸します
+  LIT: On wide, flat ground, press the button and the Lombardia lands.
+  RE : On wide, flat ground, press the
+       button and the Lombardia lands.
+
+[US#15] (Lombardia tutorial)
+  JP : ＊ロンバルディアに搭乗して / ぐボタンを押すと / 再び乗りこむことができます
+  LIT: Board the Lombardia and press the button to get aboard again.
+  RE : Board the Lombardia and press the
+       button to get aboard again.
+
+[US#26] (navigation tutorial)
+  JP : ＊ストーリーが進行していくと / 更に向かうべき目的地が / 順次することがあります
+  LIT: As the story advances, your next destination is shown in turn.
+  RE : As the story advances, your next
+       destination is shown in turn.
+
+[US#27] (navigation tutorial)
+  JP : ＊ですが、一度も訪れたことのない場所は / フィールド上に / マップシンボルが表示されていません
+  LIT: But places you've never visited have no map symbol shown on the field.
+  RE : But places you've never visited
+       have no map symbol shown on the
+       field.
+
+[US#28] (Search System tutorial)
+  JP : ＊フィールドにてぼを押すと / サーチシステムが作動します
+  LIT: Press the button on the field to activate the Search System.
+  RE : Press the button on the field to
+       activate the Search System.
+
+[US#29] (Search System tutorial)
+  JP : ＊目的地の情報をたよりに / サーチシステムを用いて / マップシンボルを探してください
+  LIT: Using your destination info, use the Search System to find the map symbol.
+  RE : Using your destination info, use
+       the Search System to find the map
+       symbol.
+
+[US#30] (navigation tutorial)
+  JP : ＊ストーリーが進行していくと / 更に向かうべき目的地が / 順次することがあります
+  LIT: As the story advances, your next destination is shown in turn.
+  RE : As the story advances, your next
+       destination is shown in turn.
+
+[US#31] (navigation tutorial)
+  JP : ＊ですが、一度も訪れたことのない場所は / フィールド上に / マップシンボルが表示されていません
+  LIT: But places you've never visited have no map symbol shown on the field.
+  RE : But places you've never visited
+       have no map symbol shown on the
+       field.
+
+[US#32] (Search System tutorial)
+  JP : ＊フィールドにてぼを押すと / サーチシステムが作動します
+  LIT: Press the button on the field to activate the Search System.
+  RE : Press the button on the field to
+       activate the Search System.
+
+[US#33] (Search System tutorial)
+  JP : ＊目的地の情報をたよりに / サーチシステムを用いて / マップシンボルを探してください
+  LIT: Using your destination info, use the Search System to find the map symbol.
+  RE : Using your destination info, use
+       the Search System to find the map
+       symbol.
+
+[US#34] (radio)
+  JP : 「{0}に通信連絡して / 更の指示をもらおうッ！
+  LIT: Contact {0} by radio and get your next orders!
+  RE : Contact {0} by radio and get your
+       next orders!
+
+[US#35] (Map Scope upgrade)
+  JP : ＊新機能の追加により / 探査衛星からの高空写真をマップスコープに / ディスプレイすることが可能となりました
+  LIT: With a new feature added, satellite high-altitude photos can now be shown on the Map Scope.
+  RE : With a new feature added, satellite
+       high-altitude photos can now be
+       shown on the Map Scope.
+
+[US#36] (Map Scope upgrade)
+  JP : ＊これまでの沿岸地帯から / より広大なファルガイア全体図を / モニター上にて確認することができます
+  LIT: Beyond the coastal areas so far, you can now check a wider full map of Filgaia on the monitor.
+  RE : Beyond the coastal areas so far,
+       you can now check a wider full map
+       of Filgaia on the monitor.
+
+[US#37] (Hovercraft tutorial)
+  JP : ＊{0}ホバークラフト{0}は / 方向キーの上 / または、ぐボタンを押すことで前進
+  LIT: The Hovercraft moves forward with up on the D-pad, or the button.
+  RE : The Hovercraft moves forward with
+       up on the D-pad, or the button.
+
+[US#38] (control tutorial)
+  JP : ＊方向キーの左右 / または、ぐボタンを押すことで / 旋回することができます
+  LIT: Press left/right on the D-pad, or the button, to turn.
+  RE : Press left/right on the D-pad, or
+       the button, to turn.
+
+[US#39] (Hovercraft tutorial)
+  JP : ＊{0}たちを乗り降りさせるのは / 海岸に限ります
+  LIT: {0}'s party can only board and disembark on the shore.
+  RE : {0}'s party can only board and
+       disembark on the shore.
+
+[US#40] (Hovercraft tutorial)
+  JP : ＊海岸に搭乗して / ぐボタンを押すと / ホバークラフトから降ります
+  LIT: On the shore, press the button to disembark from the Hovercraft.
+  RE : On the shore, press the button to
+       disembark from the Hovercraft.
+
+[US#41] (Hovercraft tutorial)
+  JP : ＊ホバークラフトに搭乗して / ぐボタンを押すと / 乗り込むことができます
+  LIT: Board the Hovercraft and press the button to get aboard.
+  RE : Board the Hovercraft and press the
+       button to get aboard.
+
+[US#42] (control tutorial)
+  JP : ＊方向キーの左右 / または、ぐボタンを押すことで / 旋回することができます
+  LIT: Press left/right on the D-pad, or the button, to turn.
+  RE : Press left/right on the D-pad, or
+       the button, to turn.
+
+[US#43] (Hovercraft tutorial)
+  JP : ＊{0}たちを乗り降りさせるのは / 海岸に限ります
+  LIT: {0}'s party can only board and disembark on the shore.
+  RE : {0}'s party can only board and
+       disembark on the shore.
+
+[US#44] (Hovercraft tutorial)
+  JP : ＊海岸に搭乗して / ぐボタンを押すと / ホバークラフトから降ります
+  LIT: On the shore, press the button to disembark from the Hovercraft.
+  RE : On the shore, press the button to
+       disembark from the Hovercraft.
+
+[US#45] (Hovercraft tutorial)
+  JP : ＊ホバークラフトに搭乗して / ぐボタンを押すと / 乗り込むことができます
+  LIT: Board the Hovercraft and press the button to get aboard.
+  RE : Board the Hovercraft and press the
+       button to get aboard.
+
+[US#46] (party chatter)
+  JP : 「たしか、シルヴァラント館は / 山の中にあるんだったな〜 / 王館も山の中にあるんだったな
+  LIT: Sylvaland Manor's in the mountains, I think... and the royal palace is up there too.
+  RE : Sylvaland Manor's in the mountains,
+       I think... and the royal palace is
+       up there too.
+
+[US#47] (party chatter)
+  JP : 「でも、シルヴァラント館ってどっちだっけ？ / ここからじゃ / 山しか見えないよ〜〜
+  LIT: But which way was Sylvaland Manor, again? From here all I see are mountains...
+  RE : But which way was Sylvaland Manor,
+       again? From here all I see are
+       mountains...
+
+[US#48] (party chatter, groan)
+  JP : {1}ぼォ...
+  LIT: Whoa...
+  RE : Whoa...
+
+[US#51] (Map Scope upgrade)
+  JP : ＊新機能の追加により / 探査衛星からの高空写真をマップスコープに / ディスプレイすることが可能となりました
+  LIT: With a new feature added, satellite high-altitude photos can now be shown on the Map Scope.
+  RE : With a new feature added, satellite
+       high-altitude photos can now be
+       shown on the Map Scope.
+
+[US#52] (Map Scope upgrade)
+  JP : ＊これまでの沿岸地帯から / より広大なファルガイア全体図を / モニター上にて確認することができます
+  LIT: Beyond the coastal areas so far, you can now check a wider full map of Filgaia on the monitor.
+  RE : Beyond the coastal areas so far,
+       you can now check a wider full map
+       of Filgaia on the monitor.
+
+[US#53] (Hovercraft tutorial)
+  JP : ＊{0}ホバークラフト{0}は / 方向キーの上 / または、ぐボタンを押すことで前進
+  LIT: The Hovercraft moves forward with up on the D-pad, or the button.
+  RE : The Hovercraft moves forward with
+       up on the D-pad, or the button.
+
+[US#54] (control tutorial)
+  JP : ＊方向キーの左右 / または、ぐボタンを押すことで / 旋回することができます
+  LIT: Press left/right on the D-pad, or the button, to turn.
+  RE : Press left/right on the D-pad, or
+       the button, to turn.
+
+[US#55] (Hovercraft tutorial)
+  JP : ＊{0}たちを乗り降りさせるのは / 海岸に限ります
+  LIT: {0}'s party can only board and disembark on the shore.
+  RE : {0}'s party can only board and
+       disembark on the shore.
+
+[US#56] (Hovercraft tutorial)
+  JP : ＊海岸に搭乗して / ぐボタンを押すと / ホバークラフトから降ります
+  LIT: On the shore, press the button to disembark from the Hovercraft.
+  RE : On the shore, press the button to
+       disembark from the Hovercraft.
+
+[US#57] (Hovercraft tutorial)
+  JP : ＊ホバークラフトに搭乗して / ぐボタンを押すと / 乗り込むことができます
+  LIT: Board the Hovercraft and press the button to get aboard.
+  RE : Board the Hovercraft and press the
+       button to get aboard.
+
+[US#60] (Hovercraft tutorial)
+  JP : ＊海岸に搭乗して / ぐボタンを押すと / ホバークラフトから降ります
+  LIT: On the shore, press the button to disembark from the Hovercraft.
+  RE : On the shore, press the button to
+       disembark from the Hovercraft.
+
+[US#61] (Hovercraft tutorial)
+  JP : ＊ホバークラフトに搭乗して / ぐボタンを押すと / 乗り込むことができます
+  LIT: Board the Hovercraft and press the button to get aboard.
+  RE : Board the Hovercraft and press the
+       button to get aboard.
+
+[US#62] (party chatter)
+  JP : 「たしか、シルヴァラント館は / 山の中にあるんだったな〜 / 王館も山の中にあるんだったな
+  LIT: Sylvaland Manor's in the mountains, I think... and the royal palace is up there too.
+  RE : Sylvaland Manor's in the mountains,
+       I think... and the royal palace is
+       up there too.
+
+[US#63] (party chatter)
+  JP : 「でも、シルヴァラント館ってどっちだっけ？ / ここからじゃ / 山しか見えないよ〜〜
+  LIT: But which way was Sylvaland Manor, again? From here all I see are mountains...
+  RE : But which way was Sylvaland Manor,
+       again? From here all I see are
+       mountains...
+
+[US#64] (party chatter, groan)
+  JP : {1}ぼォ...
+  LIT: Whoa...
+  RE : Whoa...
+
+[US#65] (control glyph)
+  JP : {1}...
+  LIT: ...
+  RE : ...
+
+[US#66] (radio)
+  JP : 「{0}に通信連絡して / 更の指示をもらおうッ！
+  LIT: Contact {0} by radio and get your next orders!
+  RE : Contact {0} by radio and get your
+       next orders!
+
+[US#69] (Hovercraft tutorial)
+  JP : ＊{0}ホバークラフト{0}は / 方向キーの上 / または、ぐボタンを押すことで前進
+  LIT: The Hovercraft moves forward with up on the D-pad, or the button.
+  RE : The Hovercraft moves forward with
+       up on the D-pad, or the button.
+
+[US#70] (control tutorial)
+  JP : ＊方向キーの左右 / または、ぐボタンを押すことで / 旋回することができます
+  LIT: Press left/right on the D-pad, or the button, to turn.
+  RE : Press left/right on the D-pad, or
+       the button, to turn.
+
+[US#71] (Hovercraft tutorial)
+  JP : ＊{0}たちを乗り降りさせるのは / 海岸に限ります
+  LIT: {0}'s party can only board and disembark on the shore.
+  RE : {0}'s party can only board and
+       disembark on the shore.
+
+[US#72] (Hovercraft tutorial)
+  JP : ＊海岸に搭乗して / ぐボタンを押すと / ホバークラフトから降ります
+  LIT: On the shore, press the button to disembark from the Hovercraft.
+  RE : On the shore, press the button to
+       disembark from the Hovercraft.
+
+[US#73] (Hovercraft tutorial)
+  JP : ＊ホバークラフトに搭乗して / ぐボタンを押すと / 乗り込むことができます
+  LIT: Board the Hovercraft and press the button to get aboard.
+  RE : Board the Hovercraft and press the
+       button to get aboard.
+
+[US#74] (control tutorial)
+  JP : ＊方向キーの左右 / または、ぐボタンを押すことで / 旋回することができます
+  LIT: Press left/right on the D-pad, or the button, to turn.
+  RE : Press left/right on the D-pad, or
+       the button, to turn.
+
+[US#75] (Hovercraft tutorial)
+  JP : ＊{0}たちを乗り降りさせるのは / 海岸に限ります
+  LIT: {0}'s party can only board and disembark on the shore.
+  RE : {0}'s party can only board and
+       disembark on the shore.
+
+[US#78] (party chatter)
+  JP : 「たしか、シルヴァラント館は / 山の中にあるんだったな〜 / 王館も山の中にあるんだったな
+  LIT: Sylvaland Manor's in the mountains, I think... and the royal palace is up there too.
+  RE : Sylvaland Manor's in the mountains,
+       I think... and the royal palace is
+       up there too.
+
+[US#79] (party chatter)
+  JP : 「でも、シルヴァラント館ってどっちだっけ？ / ここからじゃ / 山しか見えないよ〜〜
+  LIT: But which way was Sylvaland Manor, again? From here all I see are mountains...
+  RE : But which way was Sylvaland Manor,
+       again? From here all I see are
+       mountains...
+
+[US#80] (party chatter, groan)
+  JP : {1}ぼォ...
+  LIT: Whoa...
+  RE : Whoa...
+
+[US#81] (control glyph)
+  JP : {1}...
+  LIT: ...
+  RE : ...
+
+[US#82] (radio)
+  JP : 「{0}に通信連絡して / 更の指示をもらおうッ！
+  LIT: Contact {0} by radio and get your next orders!
+  RE : Contact {0} by radio and get your
+       next orders!
+
+[US#83] (Map Scope upgrade)
+  JP : ＊新機能の追加により / 探査衛星からの高空写真をマップスコープに / ディスプレイすることが可能となりました
+  LIT: With a new feature added, satellite high-altitude photos can now be shown on the Map Scope.
+  RE : With a new feature added, satellite
+       high-altitude photos can now be
+       shown on the Map Scope.
+
+[US#84] (Map Scope upgrade)
+  JP : ＊これまでの沿岸地帯から / より広大なファルガイア全体図を / モニター上にて確認することができます
+  LIT: Beyond the coastal areas so far, you can now check a wider full map of Filgaia on the monitor.
+  RE : Beyond the coastal areas so far,
+       you can now check a wider full map
+       of Filgaia on the monitor.

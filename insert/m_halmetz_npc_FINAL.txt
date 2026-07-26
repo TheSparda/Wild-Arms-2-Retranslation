@@ -1,0 +1,261 @@
+# Block 15 — Halmetz town NPCs (post-liberation chatter) + the Cocytus ambush
+# Literal-first per WA2_RE_STYLE_GUIDE.md. JP is in-range here (aligned), so RE follows JP.
+# Boxes whose JP tail bleeds an adjacent panel are translated from the readable lead only.
+
+[US#3767] (townsfolk boy)
+  JP : 「やっぱりＡＲＭＳは僕にとって / 永遠のヒーローですよッ！
+  LIT: To me, ARMS really are heroes forever!
+  RE : To me, ARMS really are heroes
+       forever!
+
+[US#3776] (old man)
+  JP : 「期限が出ないとかなんとかで / まったくこれだから / お役所仕事はダメだっていうんじゃ
+  LIT: "No budget," they say, or some such. This is exactly why bureaucrats are useless.
+  RE : "No budget," they say, or some
+       such. This is exactly why
+       bureaucrats are useless.
+
+[US#3779] (old man)
+  JP : 「この鐘つき堂は / ハルメッツの町のシンボルだったのじゃが / なんて惜いことをするんじゃ
+  LIT: This Bell Tower was the symbol of Halmetz town. What a terrible waste...
+  RE : This Bell Tower was the symbol of
+       Halmetz town. What a terrible
+       waste...
+
+[US#3780] (old man)
+  JP : 「あんたたちにも / 聞かせてあげたかったねぇ
+  LIT: I wish you all could have heard it, too.
+  RE : I wish you all could have heard it,
+       too.
+
+[US#3782] (old man)
+  JP : 「なんでも、こいつには / 魔物が封印されているそうなんじゃ
+  LIT: They say a monster was sealed inside this thing.
+  RE : They say a monster was sealed
+       inside this thing.
+
+[US#3784] (townsfolk)
+  JP : 「ま、こんな時は慎重にならない方が / バカを見るのさ / あんたたちも気を付けな
+  LIT: At times like this, the careless ones get burned. You all watch yourselves too.
+  RE : At times like this, the careless
+       ones get burned. You all watch
+       yourselves too.
+
+[US#3785] (townsfolk)
+  JP : 「強力な同盟を振りかざすのは苦手だが / そんなモノ使っちまったら / 支配する世界が無くなっちまうってのに
+  LIT: I'm no fan of waving around a mighty alliance, but use a thing like that and there's no world left to rule.
+  RE : Wave around a weapon like that and
+       there'd be no world left to rule.
+
+[US#3786] (townsfolk)
+  JP : 「『ハサミ』のあつかい方を / 全部、知らない何とやらは / 手におえなくて、まいるよな
+  LIT: Someone who doesn't fully know how to handle the "Scissors" is a real handful.
+  RE : Someone who doesn't fully know how
+       to handle the "Scissors" is a real
+       handful.
+
+[US#3787] (townsfolk)
+  JP : 「入ってから / アイテムが足りないと気づいても / もう後の祭り、気をつけることね
+  LIT: Realizing you're short on items after you go in is too late. Be careful.
+  RE : Realizing you're short on items
+       after you go in is too late. Be
+       careful.
+
+[US#3792] (old man)
+  JP : 「そうすれば / やつらからこの町を / 守ることだってできたのに
+  LIT: If I could, I'd have protected this town from them myself...
+  RE : If I could, I'd have protected this
+       town from them myself...
+
+[US#3793] (old man)
+  JP : 「でも、あんたたちＡＲＭＳの力が / 必要とされているんだよなぁ / 頑張ってくれ、それしかいえないよ
+  LIT: But your ARMS' strength is what's needed. Give it your all. That's all I can say.
+  RE : But your ARMS' strength is what's
+       needed. Give it your all. That's
+       all I can say.
+
+[US#3794] (townswoman)
+  JP : 「あんたみたいな女の子が / あんなすごいことが / できちゃうんだねぇ
+  LIT: A girl like you can really pull off something that amazing...
+  RE : A girl like you can really pull off
+       something that amazing...
+
+[US#3795] (townsfolk)
+  JP : 「あんたたち / 本当にたいしたもんだよ / これからもこの調子で頼むよッ！
+  LIT: You lot are really something. Keep it up from here on!
+  RE : You lot are really something. Keep
+       it up from here on!
+
+[US#3796] (freed prisoner)
+  JP : 「あのまま一生 / 閉じこめられたままなのかと / 命も希望もなくすとこだったよ
+  LIT: I thought I'd be locked away for life. I nearly lost both my life and my hope.
+  RE : I thought I'd be locked away for
+       life. I nearly lost both my life
+       and my hope.
+
+[US#3803] (townsfolk)
+  JP : 「彼我の戦力比は / オデッサの方に分がありそうだが / ＡＲＭＳには貴族院のバックアップがある
+  LIT: In raw strength Odessa seems to have the edge, but ARMS has the backing of the Noble Court.
+  RE : In raw strength Odessa seems to
+       have the edge, but ARMS has the
+       backing of the Noble Court.
+
+[US#3808] (child)
+  JP : 「これで少しは正義の味方に / 近づけたかな？
+  LIT: Does this bring me a little closer to being a hero of justice?
+  RE : Does this bring me a little closer
+       to being a hero of justice?
+
+[US#3809] (child)
+  JP : 「これで少しは正義の味方に / 近づけたかな？
+  LIT: Does this bring me a little closer to being a hero of justice?
+  RE : Does this bring me a little closer
+       to being a hero of justice?
+
+[US#3810] (child)
+  JP : 「正義の味方になるには / ニンジンもピーマンも / 平気で食べられなきゃだめだって
+  LIT: To be a hero of justice, they say you have to eat your carrots and peppers without complaint.
+  RE : To be a hero of justice, they say
+       you have to eat your carrots and
+       peppers without complaint.
+
+[US#3811] (child)
+  JP : 「それって本当なの？
+  LIT: Is that really true?
+  RE : Is that really true?
+
+[US#3812] (child)
+  JP : 「正義の味方になるには / いっぱい勉強しなきゃだめだって
+  LIT: To be a hero of justice, they say you have to study a whole lot.
+  RE : To be a hero of justice, they say
+       you have to study a whole lot.
+
+[US#3813] (child)
+  JP : 「それって本当なの？
+  LIT: Is that really true?
+  RE : Is that really true?
+
+[US#3814] (child)
+  JP : 「あのおっきい飛行機を / お兄ちゃんたちがやっつけたの？ / すごーいッ！
+  LIT: You big brothers took down that huge airplane? Amazing!
+  RE : You big brothers took down that
+       huge airplane? Amazing!
+
+[US#3815] (child)
+  JP : 「あのおっきい飛行機を / お兄ちゃんたちがやっつけたの？ / すごーいッ！
+  LIT: You big brothers took down that huge airplane? Amazing!
+  RE : You big brothers took down that
+       huge airplane? Amazing!
+
+[US#3816] (child)
+  JP : 「ママにね / ちゃんとお礼をいいなさいって / いわれたの
+  LIT: Mama told me to be sure to thank you properly.
+  RE : Mama told me to be sure to thank
+       you properly.
+
+[US#3826] (old man)
+  JP : 「まことに / めでたいことじゃッ！
+  LIT: Truly a joyous occasion!
+  RE : Truly a joyous occasion!
+
+[US#3829] (old man)
+  JP : 「ああいった手合いは / 敵に回すとやっかいな / タイプなんじゃよ
+  LIT: Those sorts are the troublesome type to make an enemy of.
+  RE : Those sorts are the troublesome
+       type to make an enemy of.
+
+[US#3831] (book panel)
+  JP : ＊その澄んだ鐘の音は / 聞くものの心に届く
+  LIT: The clear tone of that bell reaches the hearts of those who hear it.
+  RE : The clear tone of that bell reaches
+       the hearts of those who hear it.
+
+[US#3832] (book panel)
+  JP : ＊この鐘はハルメッツの名物であり / その音を聞くために各地より / 多くの人々が訪れることもある
+  LIT: The bell is Halmetz's pride; people come from many lands just to hear it ring.
+  RE : The bell is Halmetz's pride; people
+       come from many lands just to hear
+       it ring.
+
+[US#3835] (book panel)
+  JP : ＊そんなときには / 必要・重要と思われることを / メモしておくのだ
+  LIT: At such times, I jot down whatever seems necessary and important.
+  RE : At such times, I jot down whatever
+       seems necessary and important.
+
+[US#3836] (book panel)
+  JP : ＊そうすることによって / 情報を分別し、調理・確認が / 効率よく行えるようになる
+  LIT: Doing so lets me sort information and process and check it efficiently.
+  RE : Doing so lets me sort information
+       and process and check it
+       efficiently.
+
+[US#3837] (book panel)
+  JP : ＊情報を理解することで / 全体が見えてくるということもある / 情報を制するものが世界を制するッ！
+  LIT: Understanding information sometimes reveals the whole picture. Whoever masters information masters the world!
+  RE : Grasp the information and the whole
+       picture appears. Master
+       information, master the world!
+
+[US#3838] (book panel)
+  JP : ＊と、いうのは言い過ぎにしても / 情報を新しく理解するには / 反復することはよい手段だといえる
+  LIT: An overstatement, perhaps, but repetition is a fine way to freshly grasp information.
+  RE : An overstatement, perhaps, but
+       repetition is a fine way to freshly
+       grasp information.
+
+[US#3839] (party)
+  JP : 「ここでまちがいないよね？
+  LIT: This is the place, right?
+  RE : This is the place, right?
+
+[US#3840] (party)
+  JP : 「だけど、さっきのが吉報だとは / 俺にはどうしても思えないんだ
+  LIT: But I just can't bring myself to call that earlier news good tidings.
+  RE : But I just can't bring myself to
+       call that earlier news good
+       tidings.
+
+[US#3843] (party)
+  JP : 「それも、ついさっきまで / 確かにこの町で人が生活していたという / 『ぬくもり』が
+  LIT: And more, a "warmth" that proves people were surely living in this town until just moments ago.
+  RE : And more, a "warmth" that proves
+       people were surely living in this
+       town until just moments ago.
+
+[US#3845] (Cocytus soldier)
+  JP : 「だけど、ご要望には応えられないな / 俺が相手だと / キミたちを倒しかねないからね
+  LIT: But I can't grant your request. If I were your opponent, I might just kill you.
+  RE : But I can't grant your request. If
+       I were your opponent, I might just
+       kill you.
+
+[US#3846] (Cocytus soldier)
+  JP : 「キミたちの攻撃など / これっぽっちも / 利いちゃいないよ
+  LIT: Your attacks aren't having the slightest effect.
+  RE : Your attacks aren't having the
+       slightest effect.
+
+[US#3847] (Cocytus soldier)
+  JP : 「さて、茶番は終りだ / キミたちには / そろそろ、お休みねしてもらおうかな
+  LIT: Well, the farce is over. It's about time I put you all to sleep.
+  RE : Well, the farce is over. It's about
+       time I put you all to sleep.
+
+[US#3849] (party)
+  JP : 「おおおおおおおおおおおおおッ！
+  LIT: Aaaaaahhhh!
+  RE : Aaaaaahhhh!
+
+[US#3851] (Cocytus soldier)
+  JP : 「とりあえずは予定通り / こいつらを / 捕らえることができそうだな
+  LIT: For now, it seems I can capture them as planned.
+  RE : For now, it seems I can capture
+       them as planned.
+
+[US#3852] (inn keeper)
+  JP : 「おひとり方につき{2}ギャラ / {2}人方ですので、{2}ギャラとなります / よろしいですか？
+  LIT: It's {2} Gella per person; for {2} of you that's {2} Gella. Is that all right?
+  RE : It's {2} Gella per person; for {2}
+       of you that's {2} Gella. Is that
+       all right?
