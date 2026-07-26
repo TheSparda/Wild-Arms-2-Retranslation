@@ -30,6 +30,12 @@ Order of preference for the RE:
 3. **A fresh line from the JP** — only when LIT genuinely fails.
 The current EN localization is a *cross-check only*, never the base (it's the thing we're fixing).
 
+**Precedence: the formatting rules (§1–§2) beat the prime directive.** "Use LIT verbatim" means
+*after* it satisfies the hard rules, never in violation of them. If the LIT ends in a comma, has
+an em dash, runs on, or overflows the box, apply the fix (e.g. trailing comma → `...`) and use the
+fixed text — don't copy the raw LIT and don't count that as "reinventing." A directive and a rule
+should never disagree on the same box; if they do, the rule wins.
+
 ### Traps when using LIT as RE (learned applying this at scale)
 - **A LIT is sometimes a translator NOTE, not the line.** e.g. a babble line whose LIT reads
   `Ge-ge-ge... (Ard can only say his own name)` — the real dialogue is the RE, and copying that
@@ -49,6 +55,12 @@ EN-anchored boxes (no usable LIT) alone. It is idempotent and `--dry` reports be
 Name-code safety: it ports a spelled canonical name → `{n}` ONLY where the current RE already
 contains that `{n}` (so it never invents a code or hard-codes a renameable character). Always run
 `--dry` first, then re-run `reflow_re.py` + the validation checklist (§7) after applying.
+
+**Tools must be idempotent and agree.** A second `--dry` right after an apply should report 0
+changes. If it reports a change, two rules are fighting on that box (this happened: `prefer_lit_re`
+kept reverting a `...` lead-in back to the comma-ending LIT). That's a tool bug, not a translation
+choice — fix the tool so it applies the winning rule (per the precedence above), don't hand-patch
+the box each run. `prefer_lit_re` and `reflow_re` should always converge on the same output.
 
 ---
 
