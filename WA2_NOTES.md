@@ -1,5 +1,8 @@
 # Wild Arms 2 (USA) — Reverse-Engineering Notes
 
+> **Kanji encoding + decoding method: see [WA2_KANJI_ENCODING.md](WA2_KANJI_ENCODING.md)**
+> (the two-tier global/block-local model, boundary 0x8a38, and the solving loop).
+
 ## Disc
 - 2 discs. Serial **SCUS_944.84** (Sony US). MODE2/2352, standard ISO9660, volume "WILDARMS2".
 - Disc 1 ~515 MB at `games/Wild Arms 2/Game Files/Wild Arms 2 (USA) (Disc 1)/`.
