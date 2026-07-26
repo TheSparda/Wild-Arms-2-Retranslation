@@ -370,6 +370,22 @@ def build():
                 nav_html.append(f'<a class="nav-scene todo" href="#{anc}">{esc(aname)} {tag}</a>')
     nav_html = '\n'.join(nav_html)
 
+    # ---- per-area context line (disc · code · box counts · untranslated slots · status) ----
+    def area_meta(disc, code, deep_boxes=0, fp_boxes_n=0):
+        t = AREA_TODO.get(code, {})
+        todo, todoc = t.get('todo', 0), t.get('todo_clean', 0)
+        parts = [f'{DISC_LABEL.get(disc,"Disc "+str(disc))} · guide area <code>{esc(code)}</code>']
+        def _n(x, s):
+            if x == 1: return f'{x} {s}'
+            return f'{x} {s}es' if s.endswith(('x', 's')) else f'{x} {s}s'
+        if deep_boxes:    parts.append(_n(deep_boxes, 'deep box'))
+        if fp_boxes_n:    parts.append(_n(fp_boxes_n, 'first-pass box'))
+        if todoc:         parts.append(f'<span class="meta-gap">{_n(todoc, "line")} still to translate</span>')
+        elif todo and (deep_boxes or fp_boxes_n):
+                          parts.append('<span class="meta-ok">no clean-JP lines left</span>')
+        if todo and not todoc: parts.append(_n(todo, 'untranslatable/SFX slot'))
+        return '<div class="scenemeta">' + ' · '.join(parts) + '</div>'
+
     # ---- BODY: one section per guide area; placeholder if untranslated ----
     body = []
     for disc in sorted(GUIDE_AREAS):
@@ -383,7 +399,7 @@ def build():
                 hdr_boxes = sum(x['nboxes'] for x in fps)
                 body.append(f'<section class="scene firstpass" id="{anc}"><h2>{esc(aname)} '
                             f'<span class="pill fp">first pass — {hdr_boxes} boxes</span></h2>'
-                            f'<div class="scenemeta">{DISC_LABEL.get(disc,"Disc "+str(disc))} · guide area <code>{esc(code)}</code></div>'
+                            f'{area_meta(disc, code, fp_boxes_n=hdr_boxes)}'
                             f'<p class="scenedesc">First pass: US localization reflowed to the display window and verified against '
                             f'the real message slots. Not a deep retranslation yet — flagged for a literary RE pass.</p>')
                 for s in fps:
@@ -407,14 +423,14 @@ def build():
                     gs_block = '<p class="scenedesc">Placeholder — this area is in the walkthrough spine but has no retranslation yet.</p>'
                 body.append(f'''<section class="scene placeholder" id="{anc}">
   <h2>{esc(aname)} <span class="pill todo">not yet translated</span></h2>
-  <div class="scenemeta">{DISC_LABEL.get(disc,"Disc "+str(disc))} · guide area <code>{esc(code)}</code></div>
+  {area_meta(disc, code)}
   {gs_block}
 </section>''')
                 continue
             # translated area: header + each scene's boxes
             hdr_boxes = sum(x['nboxes'] for x in scs)
             body.append(f'<section class="scene" id="{anc}"><h2>{esc(aname)} <span class="pill done">{hdr_boxes} boxes</span></h2>'
-                        f'<div class="scenemeta">{DISC_LABEL.get(disc,"Disc "+str(disc))} · guide area <code>{esc(code)}</code></div>')
+                        f'{area_meta(disc, code, deep_boxes=hdr_boxes)}')
             for s in scs:
                 boxes_html = '\n'.join(box_html(b, s['file']) for b in s['boxes'])
                 nnos = s['ntotal'] - s['nboxes']
@@ -497,6 +513,8 @@ body {{ margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 -apple-s
 .scene {{ margin:0 0 40px; scroll-margin-top:14px; }}
 .scene h2 {{ font-size:19px; margin:0 0 4px; color:var(--acc); border-bottom:1px solid var(--line); padding-bottom:6px; }}
 .scenemeta {{ color:var(--dim); font-size:12px; margin-bottom:8px; }}
+.scenemeta .meta-gap {{ color:var(--warn); font-weight:600; }}
+.scenemeta .meta-ok {{ color:var(--re); }}
 .scenemeta code {{ color:var(--dim); }}
 .scenedesc {{ color:var(--dim); font-size:13px; margin:6px 0 16px; font-style:italic; }}
 .notewarn {{ color:var(--warn); font-size:12.5px; background:rgba(255,157,118,.08); padding:6px 10px; border-radius:6px; }}
