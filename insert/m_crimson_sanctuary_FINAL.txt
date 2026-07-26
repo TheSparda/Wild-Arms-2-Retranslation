@@ -1,0 +1,162 @@
+# WA2 — Marivel's Sanctuary / Sealed Monsters lore (SM) — block 60 — DEEP RE
+# =========================================================================================
+# The Crimson Nobles' underground motherland, the origin of all Filgaian life. * panels cover
+# the Guardian-devouring monsters (Ragu) and the Nobles' duty to protect their seed. The scene
+# is really a Marivel character beat: the last of her immortal tribe, alone for centuries, who
+# chooses to walk a while with the mortals who need her. RE literal-first. 3x35, no dashes.
+#   {5} here renders the Crimson-Noble elder Marivel refers to; kept as {5}.
+# =========================================================================================
+
+[US#6780] (panel)
+  EN : *...looks to be empty.
+  RE : *...looks to be empty.
+
+[US#6782] (panel)
+  EN : *Dust storms covered the lands. If the threat is not eradicated, it will destroy everything
+  RE : *Dust storms swept the lands. Left
+       unchecked, the threat will destroy
+       everything.
+
+[US#6783] (panel)
+  EN : *Their power is strong enough to beat a Guardian. It is |destruction| itself.
+  RE : *Their power can fell a Guardian.
+       It is |destruction| itself.
+
+[US#6784] (panel)
+  EN : *They consume the flesh and blood of the Guardians, gaining their power.
+  RE : *They devour the flesh and blood of
+       Guardians, taking their power.
+
+[US#6785] (panel)
+  EN : *The name of this one is Ragu...
+  RE : *The name of this one is Ragu...
+
+[US#6787] (panel)
+  EN : *This is the land of origin from which all life was born there by filling Filgaia.
+  RE : *This is the land of origin, where
+       all life was born to fill Filgaia.
+
+[US#6788] (panel)
+  EN : *This is the source, the motherland for many lifeforms. Even us the Crimson Nobles are no exception.
+  RE : *The source, the motherland of many
+       lifeforms. Even we Crimson Nobles
+       are no exception.
+
+[US#6790] (panel)
+  EN : *But knowing the force of his power, it could simply be mere consolation for us.
+  RE : *But knowing the scale of his
+       power, it may be mere consolation
+       for us.
+
+[US#6791] (panel)
+  EN : *But he won't be able to eradicate our tribe's blood so easily.
+  RE : *Yet he won't wipe out our tribe's
+       blood so easily.
+
+[US#6792] (panel)
+  EN : *Children who are our future light and the proud Crimson Noble seed, must be protected at all cost.
+  RE : *The children, our future light and
+       proud Crimson Noble seed, must be
+       protected at all costs.
+
+[US#6793] (panel)
+  EN : *<Sword Magess>, people of her kind must wholeheartedly hope for this.
+  RE : *The <Sword Magess> and her kind
+       must wish for this with all their
+       hearts.
+
+[US#6795] (panel)
+  EN : *Press the 1 button to have the |Windup Key| throw spring coils out in front of you.
+  RE : *Press 1 for the |Windup Key| to
+       fling spring coils out ahead of
+       you.
+
+[US#6796] (panel)
+  EN : *If you affix the Windup Key to certain blocks, you will see a variety of results.
+  RE : *Fix the Windup Key to certain
+       blocks for a variety of results.
+
+[US#6797] (party)
+  EN : Sanctuary that 5 talked about.
+  RE : ...the Sanctuary that {5} spoke of.
+
+[US#6798] (party)
+  EN : I don't see why the Crimson Nobles would build such an elegant room so deep underground.
+  RE : Why would the Crimson Nobles build
+       so elegant a room this deep
+       underground?
+
+[US#6799] (party)
+  EN : Didn't you have some business to take care of here?
+  RE : Didn't you have some business to
+       see to here?
+
+[US#6800] (Marivel)
+  JP : 「なぜ、わらわはひとりきりなのじゃ？
+  EN : .....Mother...
+  RE : ...Mother...
+
+[US#6801] (Marivel)
+  EN : .....
+  RE : .....
+
+[US#6802] (Marivel)
+  EN : Why am I all alone?
+  RE : Why am I all alone?
+
+[US#6803] (Marivel)
+  EN : I am one of the proud Crimson Nobles, the people chosen to live for eternity.
+  RE : I am a proud Crimson Noble, one
+       chosen to live for eternity.
+
+[US#6804] (Marivel)
+  EN : Why am I the only one still alive? If I had died with the rest of my tribe, I wouldn't be suffering.
+  RE : Why am I the only one left alive?
+       Had I died with my tribe, I would
+       not suffer so.
+
+[US#6805] (Marivel)
+  EN : Hundreds of years have passed since I saw her. Aside from goodbyes being too hard...
+  RE : Hundreds of years since I last saw
+       her. Goodbyes are hard enough,
+       and...
+
+[US#6806] (Marivel)
+  EN : People won't do. People get old and die. I've seen many births and many deaths.
+  RE : People won't do. People age and
+       die. I've seen so many births, so
+       many deaths.
+
+[US#6807] (Marivel)
+  JP : 「わらわを必要としてくれる者たちが / 少なからずいてくれるのじゃ…
+  EN : I no longer have friends in this world.
+  RE : I have no friends left in this
+       world.
+
+[US#6809] (Marivel)
+  EN : ...there are many people who need me.
+  RE : ...there are many people who need
+       me.
+
+[US#6810] (Marivel)
+  EN : I will join these people who are living now for a little while.
+  RE : I'll walk a while with these people
+       living now.
+
+[US#6811] (Marivel)
+  EN : I know we'll have to say good-bye someday, but I'll have no regrets.
+  RE : We must part someday, I know. But
+       I'll have no regrets.
+
+[US#6812] (Marivel)
+  EN : That's what I hope for.
+  RE : That is what I hope for.
+
+[US#6813] (Marivel)
+  EN : Well, we're finished here. Time to move on. Let's go.
+  RE : Well, we're done here. Time to move
+       on. Let's go.
+
+[US#6814] (Marivel)
+  EN : Filgaia doesn't have much time left.
+  RE : Filgaia hasn't much time left.

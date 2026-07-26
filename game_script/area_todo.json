@@ -241,6 +241,14 @@
   "todo": 1,
   "todo_clean": 1
  },
+ "SM": {
+  "blocks": [
+   60
+  ],
+  "done": 30,
+  "todo": 5,
+  "todo_clean": 2
+ },
  "IP": {
   "blocks": [
    27
@@ -430,13 +438,5 @@
   "done": 111,
   "todo": 1,
   "todo_clean": 1
- },
- "SM": {
-  "blocks": [
-   60
-  ],
-  "done": 0,
-  "todo": 35,
-  "todo_clean": 4
  }
 }

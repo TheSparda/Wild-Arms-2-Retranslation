@@ -128,6 +128,7 @@ SCENES = [
  ('m_raypoint_brad_FINAL.txt','RG',"Raypoint trial (Brad): expose the truth",'57'),
  ('m_raypoint_pooka_FINAL.txt','SV',"Raypoint trial (Pooka): reveal your reason to fight",'58'),
  ('m_raypoint_kanon_FINAL.txt','RW',"Raypoint trial (Kanon): shed your confusion; a hero isn't blood",'59'),
+ ('m_crimson_sanctuary_FINAL.txt','SM',"Crimson Nobles' Sanctuary: Ragu/Sealed-Monster lore + Marivel's solitude",'60'),
 ]
 
 # ---- first-pass registry: auto-generated files (localization reflowed, US#-verified) ----
@@ -154,12 +155,11 @@ FIRSTPASS = [
 # ---- area -> STGEVT block(s), for areas ANCHORED but not yet translated (no insert file).
 # These are real content gaps we've located; add an insert file + move to FIRSTPASS once done. ----
 AREA_BLOCKS_EXTRA = {
- # (MM/MZ/PV/GL/RF/RG/RW/SV now translated + registered in SCENES above.)
- 'SM': [60],   # Sealed Monsters — Ragu-* Guardian-eater lore (anchored, not yet translated)
- # NOTE: TZ Trapezohedron, FW Fiery Wreckage, ST Spiral Tower and most OPTIONAL areas (OD/WT/TL/
- # IO/DR/AI/SG/MC/WD/CS/PC/GLo/GZ/FL/PW/MA) have NO dedicated dialogue block — their text is
- # dungeon-navigation panels scattered in shared lore blocks (6-11, 19-22, 60, 65, 74-76) or they
- # are combat-only with no dialogue. Not force-anchored; revisit per-block if we translate them.
+ # (MM/MZ/PV/GL/RF/RG/RW/SV/SM now translated + registered in SCENES above.)
+ # CONFIRMED dialogue-free (verified 2026-07-26): TZ Trapezohedron, FW Fiery Wreckage, ST Spiral
+ # Tower — their names appear ONLY in shared lore blocks (6-11, 108); no dedicated scene text to
+ # translate (navigation/combat dungeons). Likewise most OPTIONAL areas (OD/WT/TL/IO/DR/AI/SG/MC/
+ # WD/CS/PC/GLo/GZ/FL/PW/MA) have no dedicated dialogue block. Left unmapped by design.
 }
 
 # ---- game-script section id -> guide-area codes it contains (placeholder + gap anchor) ----
