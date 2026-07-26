@@ -145,7 +145,21 @@ FIRSTPASS = [
 # ---- area -> STGEVT block(s), for areas ANCHORED but not yet translated (no insert file).
 # These are real content gaps we've located; add an insert file + move to FIRSTPASS once done. ----
 AREA_BLOCKS_EXTRA = {
- # (AM/CM/TB now translated and registered in SCENES above; none currently pending.)
+ # ---- Disc-2 story spine: anchored by content-reading (build_db block profile, 2026-07-26),
+ # not yet translated. Move each to SCENES with an insert file as it gets done. ----
+ 'MZ': [50],   # Millennium Puzzle (2) — tuning the Switchblocks to link to the other world
+ 'MM': [52],   # Memory Maze — "MAGESS BLOOD / SLEEPING MEMORY", Kanon's memory trial
+ 'PV': [54],   # Palace Village / Lombardia arc — the Dragon Dimension refugees ("our world swallowed")
+ 'RG': [57],   # Raypoint (earth/Geo gate)
+ 'RW': [59],   # Raypoint (wind/Wing gate)
+ 'RF': [56],   # Raypoint (sorcery gate)
+ 'SV': [58],   # Sleeping Volcano / Raypoint "reason to fight" gate (element TBD — verify when translating)
+ 'GL': [51],   # Grotto of Lourdes — Gaia "one giant lifeform / life of stars" panels
+ 'SM': [60],   # Sealed Monsters — Ragu-* Guardian-eater lore
+ # NOTE: TZ Trapezohedron, FW Fiery Wreckage, ST Spiral Tower and most OPTIONAL areas (OD/WT/TL/
+ # IO/DR/AI/SG/MC/WD/CS/PC/GLo/GZ/FL/PW/MA) have NO dedicated dialogue block — their text is
+ # dungeon-navigation panels scattered in shared lore blocks (6-11, 19-22, 60, 65, 74-76) or they
+ # are combat-only with no dialogue. Not force-anchored; revisit per-block if we translate them.
 }
 
 # ---- game-script section id -> guide-area codes it contains (placeholder + gap anchor) ----
