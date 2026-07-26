@@ -1,0 +1,96 @@
+# area SC — Sword Cathedral  (75 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Sword Cathedral ~~
+Commander: The significance of ARMS' existence lies therein. I am counting on your actions and efforts! Dismissed!
+  [Two men carries a sword embedded on a rock.  They take it to the stage.]
+People: Hey, isn't that...
+People: Yeah, they say it's essential to a formal knight ceremony.
+People: But, it's the first time I've seen it.
+Man: Those just knighted-- Blessings will be conferred upon you by the <Sword Magess>. Try to draw the Guardian Blade, Argetlahm. which banished the old blaze. He who thinks he is no hero, go ahead and draw the sword. Here, <Sword Magess>... show us the birth of a new hero.
+  [The young men line up to try and draw the Guardian Blade.]
+Young Man: You're wasting my time. There's no way...
+Ashley: What'd you say?
+Young Man: Since this ceremony first started, 100 or so years ago, no one has ever drawn the sword. Do you understand what this means? It means it's setup from the beginning so it can't be drawn. As a ceremony, and as a symbol of power, the sword is meaningless.
+Ashley: That may be so. But doesn't someone have to become the hero? It's not impossible that it's me. Ever since I was little, I have looked up to the heroes who protected everyone. Is that so strange?
+Young Man: The fact that I'm embarrassed means I've really matured. Who cares? It's your turn.
+  [Ashley goes in front to try and pull Argetlahm.  The screen goes white.]
+Man: Wow, how pompous. Don't do anything to encourage it.
+Ashley: Ha. Ha. Ha. Even I thought for a second that it might come out.
+Man: In the end, no one was able to get the Argetlahm, the sword, out.
+Ashley: Everything's fine like this. The fact that the sword could be retrieved means there's some reason for it, right?
+Man: What do you mean?
+Ashley: Whoever retrieves the sword is the "hero," right? A "hero" suddenly appearing means that there will be some disturbance needing a "hero."
+Man: You sure have an interesting way of thinking. Well, but it could be true.
+Ashley: Everything's fine like this. No one wants war.
+Man: Did you know that all the arms we carry are manufactured in Guild Galad? The country has a resource called a "Fossil" and uses it to develop Mechanical Techniques.
+Man 2: The ARMS emblem being designed now has a watchdog motif. There's something not right. Feels like "The National Dog". What do you think?
+Man 3: It looks like our next mission has not been officially determined yet. But it won't be long before some booming voice calls for us. I mean, it's almost guaranteed we'll be assigned to the front line.
+Man 4: It's not possible that matter suddenly develops out of nothing without a reason. But the monsters just keep multiplying. Where in the world are they all coming from?
+Man 5: I'm so nervous. My first appearance. I wish my mom back home could see me now.
+Man 6: It looks like we're a part of the Special Forces. In other words, we're being assigned to the most dangerous front. I wonder how many of us will still be alive 6 months from now.
+Man 7: Taking on this job, I sure feel sorry for guys with girlfriends. For me, ever since I was born, I never managed such troublesome things! So what about you?
+Man 8: We're counting on you, Best luck to you all.
+Man 9: For some reason, I'm nervous. There's no reason why I should be nervous but...
+Man 10: Since ARMS emphasizes the soldiers' skills, personal backgrounds aren't screened. Look around you. Aren't there a lot of unruly looking guys here?
+Commander: Hey, are you having fun yet, Ashley?
+Ashley: Yes, Commander!
+Commander: If you go a bit wild, I'll look the other way today. You'll be busy enough soon. Have fun wild you can. But I don't want to hear any complaints later that "we never get days off."
+Ashley: I understand, Sir.
+Commander: We're affiliated with Meria Boule, but it won't stay that way forever. The new reforms go beyond national boundaries to international peace-keeping activities. We have to make sure that ARMS isn't involved in anything shameful.
+Ashley: Yes, Sir!
+Commander: "Yes, Sir?" You're the one I'm most worried about!
+Ashley: Sor...Sorry.
+Commander: Oh, never mind. More importantly, there's a lot of good food here. Eat and enjoy yourself today. Remember, tomorrow it's back to the front.
+Ashley: Roger!
+  [The place starts shaking.]
+Man: Hey, what's that?
+  [A black wave can be seen in the wall.]
+Man 1: Ooooo! Graaaaaaaaaaah!
+  [The man transforms into a monster.  More follows.]
+Man 2: Gaah! Ga! Ga! Ga!
+Man 3: Geeeee, graaaah!
+Man 4: What kind of a joke is this, huh!?
+Man 5: Orders, please. Someone, please give us orders!
+Commander: Calm down! First things first-- we have to get out of here! We're going to blast through the front gate. [The men who have not turned into monsters yet try to escape. The monsters chase for them.]
+  [They continue to run away but they are stopped by a locked door.]
+Man: Hey, hey.
+  [The monsters reach them.  More and more of them transform to monsters.]
+Ashley: Ooaaaaahhhhh.
+  [Ashley can be seen running in some dimension.]
+Ashley: What? What is it? What's going on? I don't like it! I don't want to be here! I want to go home!
+Inner Voice: If that's the case, you have to survive. Tear the others apart and if you're the last one standing, there's no problem.
+Ashley: I can't possibly do that. Besides, that monster was originally human. He was a friend!
+Inner Voice: Is it fear? Or is it just hesitation? All right. Wipe them all out. I will grant you "power".
+  [Ashley appears to be back in Sword Cathedral surrounded by monsters.]
+Ashley: !! Who, who are you? Who speaks in my heart?
+Inner voice: Me? "I" am "You." Soon I'll be "me." It'll be none other than "You."
+Ashley: Ah! Aaaaaaaaaah! Sor, Sorry, Marina! [Ashley becomes a monster himself. The other monsters attack him. He defeats them.]
+Ashley: Whooo, Graaah......... AM...I...ABLE...TO...FIGHT?
+  [Ashley defeats more of the monsters.  He finds a mirror in the hall.]
+Ashley: THESE HANDS, THESE LEGS, AND THIS BODY. IS... THIS... ME? CAN'T I CHANGE BACK? IS IT INEVITABLE THAT MY BODY WILL TURN TO DUST LIKE THAT MONSTER'S BODY? WILL I EVER GO HOME AGAIN? [Ashley proceeds north, to the room where Argetlahm is. He grabs the sword and pulls it. He can now be seen in some dimension, where a woman is.]
+Woman of the Light: What is your wish?
+Ashley: I have to get home. I promised.
+Woman of the Light: Is that an important promise?
+Ashley: ............
+  [The Woman of the Light presents Argetlahm to him.]
+Woman of the light: ............ I thought It'd be fine if no one who could use the sword ever showed again. I believed it was enough that I alone suffered. If you are ready to take responsibility for it all. If you're willing to risk all to fulfill your promise, grab the sword, Argetlahm.
+Ashley: I made a promise, a foolish promise... But for me, it's a promise I have to keep. [Ashley grabs the sword, he is then surrounded by light and appears back in the Sword Cathedral. He returns to his original appearance.]
+Ashley: Ahhhhh...Mmmm...Oooooo.
+  [Footsteps can be heard.]
+Ashley: Who are you?
+  [A man on crutches walks toward him.]
+Man on Crutches: I'm Irving. Irving Vold Valeria! A man bearing a cross called you!!
+Irving: Take my hand. This bond is the only hope that continues from the past into the future. In other words, our meeting here on earth is "Fate" itself!
+  [Irving presents his hand to Ashley but he faints.]
+  [Meanwhile, a man and a woman are on a cliff above the Cathedral.]
+Large Majestic Warrior: Demon Summoning-- For the experiment to go so well...
+Silver-Haired Key User: What a frightening power! Do we really have to use this power?
+Large Majestic Warrior: We are trying to change history. For that, we need a potent power. It's the greatest power known!
+Silver-Haired Key User: ............
+Large Majestic Warrior: What are you thinking, Caina?
+Caina: What is he planning, making contact with the parallel universe? Did he urge the Demon Summoning on us? I can't believe that man is sympathetic to our ideals.
+Large Majestic Warrior: You don't believe in these powers?
+Caina: The only thing I believe in is Sir Vinsfeld himself.
+Vinsfeld: I'm counting on your work, Caina. =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################

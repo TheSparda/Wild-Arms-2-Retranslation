@@ -1,0 +1,40 @@
+# area SY — Slayheim Castle  (25 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Slayheim Castle ~~
+Ashley: I guess Kanon isn't here yet. The castle hasn't been engulfed by the sea of salt yet. Let's take a look around while we're waiting. [ARMS takes a look in the castle for a while. Brad remembers his past as they go on further in the castle.] [FLASHBACK - On the throne room, Billy helps Brad to walk (or the other way around) towards some Slayheim Liberation Army men.]
+SLA soldier: Hey, you can't collapse now, not after coming this far!
+Billy: I know, I know. We can't stop now because this is a chance we can't afford to lose!
+SLA soldier: Captain! The royal family seems to be hiding in a cellar! We request instructions, sir!
+Billy: We can't blow this chance! If we stop here, we'll suffer an irrecoverable setback! [FLASHBACK - In the room past the double doors. Brad, Billy and a SLA soldier are using some crates as a shield as they're being fired upon by their enemies.]
+SLA soldier: We're low on ammo and most of the squad is wounded! How can you think we still stand a chance
+Billy: We MUST win, no matter what happens. We're gonna turn things around now!
+  [Billy fires on their enemies.]
+  [FLASHBACK - In a room, the SLA surrounds their enemies.]
+SLA Soldier: There is no time to celebrate!
+Billy: What is it?
+SLA Soldier: That loser fugitive must have lost his mind!
+Billy: The King of Slayheim?
+SLA Soldier: He activated the triggering device on the "Angel Halo".
+Brad: Good lord! That's an Angel Weapon! They were permanently banned under the Treaty of Iscariot! There must be a code to deactivate the bomb. The king must know. Beat it out of him if you have to!
+Billy: Believe me, I'd like to, but it's too late. The idiot blew his own brains out.
+Brad: That son of a...!
+Billy: I'll turn that sucker off.
+Brad: Don't be an idiot! We can't afford to lose you!
+Billy: I don't plan on dying. Besides, you still have something that's mine.
+  [Brad tries to stop Billy but he was punched down instead.]
+Billy: Take care of Vinsfeld for me.
+  [Billy leaves.]
+  [FLASHBACKS END.]
+Brad: (Billy... That was our last mission together. When the "Angel Halo" detonated, I never thought I'd see him again. But he mad it back alive. And I have to stay alive so that when the war is over, I cane give him back what I'm holding for him.)
+  [After they're done exploring the castle, ARMS returns to the entrance.]
+  [Kanon enters.]
+Kanon: I will send you to where you belong. You do not belong in this world.
+Ashley: It's you! You're that Merc! Are you an assassin for Odessa?
+Kanon: I don't work for anyone. I only follow my destiny. Besides, Odessa could never tie me down. I don't have anything personal against you. But I must slay the "monster" that lurks within you. I do not tell you to surrender. I simply say, "Accept"!
+  [Kanon leaps to them.]
+Kanon: It is my destiny to hunt down and kill monsters and ghosts. I will cut down anyone who tries to stop me! I have sworn an oath to myself!
+  [ARMS defeats Kanon.]
+Kanon: Damn! I was careless! But this isn't over yet. I will fulfill my oath to myself! ...My oath to kill all monsters! I will hunt you down, no matter where you run to! Till then, stay healthy. Do not rob me of my pleasure. By the way, Vinsfeld said the hero he knew 5 years ago was left-handed. Watch your back from now on! You are my prey, and I won't let anyone else take you!
+  [Kanon leaves.]

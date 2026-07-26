@@ -1,0 +1,111 @@
+# area CE — Coffin of 100 Eyes  (89 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Coffin of 100 Eyes ~~
+Ashley: Something's not right.
+Kanon: Hmmm...
+Lilka: Huh? What is? Why?
+Tim: They might be responding to the stillness.
+Ashley: ............ We traced the supply route from Alchemic Plant to here. But this silence.
+Lilka: You're right.
+Ashley: Either the place was abandoned at the same time the plant was destroyed or the energy supply was no longer needed.
+Kanon: Or it could be one of their little traps.
+Ashley: Either way, let's just continue to search. We can track down Odessa from these clues.
+Lilka: Hmm...
+Ashley: What is it Lilka?
+Lilka: Ashley seems like Brad.
+Ashley: Yeah, because until now, we've been dependent on Brad. Me too. I've really got to get my act together, even more so than before. Otherwise I can't show my face to Brad.
+Lilka: Yep, you're right.
+Ashley: OK, let's start the search! <Call Menu>
+Kate: >This is Kate. Report if you find out where energy from the Alchemic Plant is being sent.
+  [ARMS reaches a control panel.]
+Ashley: The information seems vary fragmented. What are "Heimdal Gazzo" and "Diablo Pillar"?
+  [ARMS finds another control panel.]
+Ashley: Here the information gets fragmented again. I surmise that the generator must be very powerful. Let's get more information.
+  [The party moves on until they hear a familiar voice.]
+Familiar Voice: "L" is the "L" of Lizard. "I" is for incredible. "Z" is for zesty.
+Ashley: Who's there? I'd ask, but I already know. Why do I always get stuck with you?
+Liz: Some kind of fate brings us two together.
+Lilka: They've made an appearance-- the two with varying world views.
+Liz: The young girl hurts feelings so lightly. She sees flaws so rightly.
+Ard: Ard--Ard! Ard!
+Kanon: Who are they? I can't even get mad, I feel so sick.
+Liz: And to say such things during our first meeting. I'm disappointed you're so displeased with my amazing knowledge of that. Getting stuck with an idiot will be my ruin.
+Kanon: I'll kill you!
+Ashley: Whoa, wait Kanon. You can't take this guy seriously.
+Liz: The public opinion polls rate me highly! I've tons of good traits. This is probably the only place in Filgaia where you can hear such praise! I appreciate your support.
+Ard: Ard--Ard! Ard--Ard!
+Liz: I've been training, so get ready to take me on! Come, look, feel. Don't get scared now. Such novices! I am feeling like playing a few tricks! A lovely explosion! Really! We are offering a journey of sleep to a far off land. Today's actions will become tomorrow's legend!
+  [ARMS battles Liz and Ard.]
+Liz: You do such cruel things! I have no choice now but to bring out the mean machine! So, while it's sad to have to say adios, that's just the way it goes. I read somewhere how scientific progress always has victims. Anyway! Here's the nasty creature our recent battle data gave birth to! March, Arms Killer! No morals and no control! Mash 'em and smash 'em!
+  [BOSS: Robotic Monster Assassin - Arms Killer]
+  [ARMS destroys the Arms Killer.]
+Liz: Even the Arms Killer everyone loved... I guess we need to finish the Bulkogidon after all! Darn you!
+Ashley: Why do you stay with Odessa?! Stop conspiring with Vinsfeld!
+Liz: It's none of your business who we are allied with! Ridiculous! I'm going to leave rather than get lectured! Let's go, Ard!
+Ard: Ard, Ard, Ard!
+  [Liz & Ard run away.]
+Lilka: We sure wasted a lot of time with that.
+Kanon: Are they always like that?
+Tim: Seems like it. That was my second encounter.
+Ashley: But we did get something. I find it hard to believe they'd have military power at an abandoned site. These excavation traces are sure to reveal some significance.
+  [They move forward to a big control panel.]
+Ashley: Heimdal Gazzo- A new force for Odessa. And the 4 Diablo Pillar generators that support it. They're a definite concern. ............ For now, let's go back to the Valeria Chateau. We can plan our attack against Heimdal Gazzo and the Diablo Pillars.
+  [The communicator beeps.]
+  [Ashley answers the call.]
+Ashley: Perfect timing. I just got an important piece of info. Odessa was excavating the Heimdal Gazzo. The plant's energy must be for that.
+Kate: >No, it couldn't be that! Well, that may just be it. Right at your point, at your coordinates...!
+Ashley: Stop blabbering and be more specific!
+Amy: >A here. I took over for K 'cause she had to, you know. I detected a heat source directly above you guys! I get superfortress-class mass and energy pressure! Makes the Varukisas look like a joke!
+Ashley: How could you miss something like that till now?
+Amy: >Gosh, it's not my fault!
+Ashley: I get it. Just explain what happened.
+Amy: >They used the wizardry stealth function to shift their phase. The Valeria Chateau's spotting equipment is no match for that kind of stuff. There's more...
+Ashley: What? What is it?
+Amy: >I pinpointed the focus of the heat source's energy. Looks like a carrier-based Heavy ARM. It's big enough to smash you all to bits!
+Ashley: Why didn't you say that first? Anyway, roger. We're getting out of here right now. If we die, we're coming back from hell to haunt you!
+Amy: >Gulp! Yikes!
+  [The party gets out of the dungeon.  A huge flying object floats above them.]
+Antenora: It's on the radar. I'll blow it up on the monitor.
+Ptolomea: Wow. Very impressive.
+Vinsfeld: While the Heimdal Gazzo isn't done, it's the best excavation weaponry. Consider it an honor, ARMS, to offer yourselves up for the testing of the "Soul Deleter".
+Judecca: I wish I could have strangled them to death with my own hands.
+Caina: The Heimdal Gazzo is loaded with a Heavy ARM, the "Soul Deleter". One blow rivals the light of a fixed star. It'll burn everything in its path. Those scoundrels opposing Vinsfeld's ideals best disappear now.
+Antenora: Energy levels are over 75% We've reached firing levels. Arm's fixed, error's adjusted. Ready anytime!
+Vinsfeld: Since the counterattacks were worse than expected... We'll wait for perfection. Raise the energy level to 120%. We will restore the light.
+Judecca: So, what shall we do?
+Antenora: Please wait! Energy cluster response confirmed at a location 4100 distance!
+Vinsfeld: Display it on the monitor. Tha-that's impossible! How can he be alive? Didn't he die in the explosion at the plant having sacrificed himself? [Brad is standing in the desert. He's equipped with a big ARM, a Rail Gun.]
+Brad: I've come back home, Vinsfeld. The scar you gave me... The "Gias" around my neck won't let me die yet. As long as I'm chained to this, I'm coming back as often as I can. That's right. "Heroes" don't die! As long as they have the will to fight.
+  [FLASHBACK.  Back when Brad was left in the Plant.]
+Brad: Come on, Gias. Show me your power of destruction.
+  [Some Doppelgangers appear before him.]
+Brad: Don't be so hasty. Soon, both you and I will be blasted by Gias. Be patient.
+  [The Doppelgangers transform into Brad.]
+Brad: You stole my form just to battle me? ............ Oh, I get it. Hee. Hee. Ha. Ha! Perfect timing. I'm going to make use of this shape.
+  [Brad attacks one of the Doppelgangers.]
+Brad: You can take my shape, my memories, and my skills, right? So, that "dog collar" around your neck is the same as the real one? I'm going to borrow it! [Brad throws the Doppelganger to the plant and the Gias copy explode. Brad runs as fast as he can. FLASHBACK ENDS.]
+Brad: Let's end this grudge I have against you here an now! This blow is my farewell to the past. It's a blow for the Slayheim Liberation Army! It's a beacon for new battles! Take this, Vinsfeld Rhadamanthus.
+  [Brad fires the Rail Gun to the Heimdal Gazzo.]
+Vinsfeld: How can such a thing happen? I won't permit it.
+  [The attack hits the superfortress.]
+Vinsfeld: Oooou! Grrrr! You! Re-adjust the target! I'll make up for that failed death. I'll obliterate him this time!
+Antenora: The generator is damaged. Refilling the "Soul Deleter" is impossible.
+Vinsfeld: Then smash the Heimdal Gazzo on them! Does he think he can drag me down to Hades with him? I won't let you! I won't!
+Caina: Please calm down, Sir Vinsfeld.
+Vinsfeld: How can you come back alive? Are you saying you're a real "hero"? Are you going to say it's a miracle caused by a "hero"?
+Caina: He's not "dead" nor is he a "hero"! You, Sir Vinsfeld, should be aware of that! Let's retreat for now. We'll regroup and wait for victory on the Heimdal Gazzo. Antenora!
+Antenora: The reactor is off. The sub-generator has been started. Evacuate immediately.
+Vinsfeld: Neither a "hero" nor "the dead" will be able to block our way. Ha. Ha. Ha. Yes. We still have our trump card. That's right. We still have the "Nuke". -------------------------------------------------------------------------------
+Ashley: Brad!
+Lilka: Brad!
+Tim: It's not a lie is it? You're really back!
+Brad: I came back to fulfill my duty as a "hero". It seems I can't die just yet.
+Ashley: I finally understand... why we fought and beat Odessa.
+Ashley: While we were powerless and frail against such a great destructive force... through our beliefs, we have evaded danger and discovered greater strength. So when one person has doubts, and cracks develop in our trust, it gets broken.
+Ashley: ............ I want the strength to save others, so I will no longer doubt my friends. I'll trust them fully. So...
+Brad: Somewhere along the way, I don't think I fully trusted you all who are now my friends. So, without going into it, it brought about suspicion.
+Brad: ............ Listen everyone...
+Kanon: ...rather than speak the truth, if there's a way to win trust... it's to move with you all. But I don't plan on having contact with you all. My goal is to exorcise the demon that possesses Ashley!
+Brad: Bonds formed in battle are the strongest. That's what I learned on the battlefield. Ties have already been established between us. =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################

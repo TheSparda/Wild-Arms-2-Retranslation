@@ -1,0 +1,36 @@
+# area QT — Quartly  (23 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Quartly ~~
+  [On their way, a Merc gets their attention.]
+One-eyed female Merc: I need someone to help me exorcise monsters. Interested?
+Lilka: Exorcise monsters?
+Ashley: Some Mercs specialize in monster exorcism. She must be one.
+One-eyed female Merc: I need a little help exorcising monsters in Slayheim Castle.
+Ashley: Help? But I...
+One-eyed female Merc: It's settled, then. Don't worry! It'll be a piece of cake. The exorcism starts tomorrow. I'll see you then.
+Ashley: Wait! I don't know anything about you! How am I supposed to work with you when I don't even know your name?
+One-eyed female Merc: The name's Kanon...
+Ashley: Kanon?
+Kanon: That's what people call me. And that's all you need to know. You're Ashley Winschester.
+  [Kanon leaves.  Meanwhile, Brad stares at a suspicious man as he walks away.]
+Tim: Kanon, huh... She knew who you were, Ashley.
+Lilka: But she didn't even say when or where we're supposed to meet.
+Ashley: (The "other" me senses something, but I can't put my finger on it. Just who is Kanon, anyway?)
+Brad: We'll find out tomorrow... when we go to Slayheim Castle. For now, let's just get some rest.
+  [That night, at the inn...]
+Ashley: Brad? It's about Slayheim Castle... Hey, where are you? [Ashley goes out and finds Brad talking to the suspicious man earlier. Ashley quietly returns to the inn.]
+  [Brad enters the inn.]
+Ashley: Brad, where were you? I wanted to ask you about Slayheim Castle.
+Brad: Sorry about that. Slayheim Castle is located at the northeastern edge of the salt flats.
+Ashley: (How strange... Brad was evasive. But why? No! I mustn't doubt him! If I can't trust a guy I fought side-by-side with, who can I trust?)
+Brad: What is it, Ashley?
+Ashley: Huh? Oh. it's nothing. Forget it.
+Brad: To get to Slayheim Castle, we must cross the desolate salt flats. The salt flats are haunted by ghosts. Don't let them lead you astray!
+  [The next day, ARMS leaves Quartly and heads to Slayheim Castle.]
+
+~~ Quartly ~~
+Man in the entrance: If you find an abandoned city buried in salt on the northern plain, you must stay away! It is what's left of Archeim, heart of the former Slayheim Kingdom.
+Woman: North of Quartly was Archeim, once the largest city in Slayheim. I use the past tense because Archeim is a city of the past. A lost city.
+  [They leave Quartly and go to Archeim.]

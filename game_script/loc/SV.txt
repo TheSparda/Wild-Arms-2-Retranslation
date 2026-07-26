@@ -1,0 +1,58 @@
+# area SV — Sleeping Volcano  (44 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Sleeping Volcano ~~
+  [They move along until they reach the Crater.]
+Voice in the Crater: You puny little beings... Disappear! Get out of my sight! This is no place for inferior beings like you.
+Ashley: Who are you?
+Voice in the Crater: I am the ruler of this land--the legendary wings who rend the sky.
+Lilka: You can't possibly be... Are you...?
+Ashley: Lom...bar...dia.
+  [Lombardia appears before them.]
+Lombardia: It has been years since I have spoken to humans like this. Of course, it appears there are a few non-humans among you as well.
+Tim: I didn't know Dragons could speak.
+Lombardia: Humans believe they're the only intelligent beings around.
+Tim: Sorry.
+Ashley: Our being able to converse will sure speed things up! Lombardia! Filgaia is currently being...
+Lombardia: ...is getting consumed by a parallel universe, right?
+Ashley: How did you know?
+Lombardia: Everything, absolutely everything is exactly the same as before. It's the same as when the Dragon Dimension we lived in was consumed.
+Brad: The Dragon Dimension?
+Lombardia: We Dragons are beings with mechanical bodies. Our homeland was originally a different "universe". But our world was swallowed in a wave of consumption and many were lost forever. The few who were able to change dimensions arrived but couldn't adapt, and simply rotted away.
+Ashley: Then, will you lend us a hand, Lombardia? We are fighting to stop the enroachment on this universe.
+Lombardia: I refuse.
+Lilka: Why? For what reason?
+Lombardia: No one can stop the consumption of the world much less human beings, a lower lifeform.
+Ashley: Even so, we aren't going to give up.
+Lombardia: You have only the smallest chance.
+Tim: But there's still a chance.
+Brad: But it's a chance cloze to zero.
+Lilka: It's just a matter of effort and that can always grow. Right?
+Ashley: In other words, that's right. We want your help, Lombardia!
+Lombardia: Very well. But I have one condition. I want to witness with my own eyes the power of humans struggling to overcome the odds.
+  [BOSS: Dragon Caliber - Lombardia]
+Lombardia: Humans-- show me your powers! If I see a glimmer of possibility, a light, in your strength, you may use my wings as you wish.
+  [The party fights Lombardia.]
+Lombardia: Why hang on? Why hold on? I am Lombardia. No matter what powers you display, they'll never reach me. But why? Why?
+Ashley: It'll reach, though there is still some distance remaining.
+Lilka: I won't give up. If I gave up so easily, Sis would laugh at me.
+Lombardia: .........
+  [The volcano starts shaking.]
+Tim: The earth's energy is heating up rapidly!
+Kanon: One consequence of the battle is that a dormant volcano is active.
+Brad: Escape... Holy...
+Ashley: Lombardia!
+  [Lombardia takes ARMS out of the volcano before it erupts.]
+  [Lombardia is on the catapult deck of the Chateau.]
+  [In the Chateau's strategic planning room...]
+Irving: According to the information from Lombardia, the enroaching... parallel universe comes from the "Kuiper Belt", the birthplace of comets, the... bearers of all ill omens. I will have ARMS aid me in plans against the Kuiper Belt.
+Brad: Physical attacks will be of no use at all. What will we do?
+Irving: My first clue was actually Ashley.
+Ashley: Me?
+Irving: A "World" can be seen as a giant "Life". And physical methods cannot affect something as shapeless as "Life" itself. But... If there is a "Vessel" to contain such a "Life", then we may be able to combat it.
+Kanon: Just as with Ashley, we must trap the "World" in something. But how?
+Irving: I have an idea. Mana is released at the terminals at of Ralines, the Raypoints. "Mana" is the life energy of Filgaia. If we shape the Mana into an artificial life form, we can trap the enroachment inside it. The Kuiper Belt will the live in the Trapezhohedron the prison crafted of Mana.
+Brad: So we will give the root of the enroachment a mortal conception.
+Irving: There is not a moment to lose. It will require all of ARMS' strength to exterminate the Kuiper Belt! You must seek out the 4 Raypoints scattered across Filgaia. The goal of this mission is to set them free. Use clues in various places to free the Raypoints. The future of Filgaia is resting on your shoulders.
+  [The party exits the Chateau.]

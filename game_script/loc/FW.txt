@@ -1,0 +1,34 @@
+# area FW — Fiery Wreckage  (23 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Fiery Wreckage ~~
+Brad: This looks like the wreckage from the Heimdal Gazzo. It's said you can access Odessa's main data bank from here. What do you want to do, Ashley?
+Ashley: Odessa's data bank... Vinsfeld must have meant the Kuiper Belt when he spoke of an enroaching menace. We might be able to get some information. It could be a waste of time, but it's worth a try.
+Brad: He spoke as if he knew something... He knew something we didn't. It's not unlikely.
+Lilka: Anyway, let's look. If nothing comes up, no big deal!
+Brad: Let's split up and research this.
+  [They split up and examine the computers in the room.]
+Lilka: Hmmm... Even if we research data on Odessa now, it doesn't look like anything good will result.
+Brad: Hey! What kind of joke is this?
+  [Everyone gathers around Brad.]
+Lilka: Let me see...Odessa's Membership Power, Activity Strategies...
+Brad: No. The Section after that.
+Ashley: Funding sources? The organization lacked operational funds. So these are their financial bankers.
+Ashley: ............ Impossible! Why would that name be listed here?
+Tim: This must be wrong! It has to be!
+Ashley: Irving Vold Valeria... Why is his name here?
+  [The communicator beeps.  Ashley answers it.]
+Kate: >Oh, my... Holy...! Oh, jeez, we're done for!
+Ashley: Calm yourself down! Just what is going on? We just found something horrible over here!
+Amy: >This is A. As usual, it's pandemonium here. Irving and Altaecia are gone! They're not in the Chateau! They left a note, so we know where they went.
+Ashley: Understood! We'll hurry back right now!
+  [(OPTIONAL)  The party finds Vinsfeld's sword sticking on the ground.]
+  [BOSS: Remaining Poltergeist - Ghost]
+  [The party vanishes Vinsfeld's ghost.]
+Lilka: What will we do from now on?
+Tim: There is no one to command us. But...
+Brad: We already know what we're fighting for. We have a purpose that can guide us.
+Kanon: No one else will lead us. It is time to lead ourselves.
+Marivel: That talk is all fine, but I just want to protect what's mine. I will not let anyone ruin the world I live in, not without a fight.
+Ashley: This last battle looks like it will be our last. Everyone needs to decide for themselves. We will disperse for now. We will meet here again at this time tomorrow. Those with a will to fight can come. =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################

@@ -1,0 +1,18 @@
+# area TZ — Trapezohedron  (10 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Trapezohedron ~~
+Ashley: This is the tip of the Kuiper Belt held in the Mana prison. The pseudo-lifeform--"the enroaching parallel universe", the Kuiper Belt.
+Lilka: Am I imagining this? It's not expanding, is it? It's almost as if something is hatching from an egg.
+Brad: Whoa! It's hatching!!! It's the larva of the enroaching parallel universe!
+  [BOSS: Enroaching Parallel Universe - Larva]
+  [ARMS enters battle against the Larva and defeats it.]
+Ashley: Did we win? Our attack seems to have had an effect on the pseudo lifeform, the enroaching parallel universe.
+Tim: The Kuiper Belt was a section that broke off the main body, right?
+Kanon: What we destroyed was only a small section of it. What we really need to destroy is still out there.
+  [The communicator beeps.]
+Ashley: Irving!
+Irving: >The mission was a failure, just like you warned us... The Kuiper Belt released part of itself just before the core was sealed.
+Ashley: You mean what we fought was just...
+Irving: >The tail of the lizard, yes. Anyway, just come back to Valeria Chateau. The Trapezohedron will self-destruct any minute. =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################

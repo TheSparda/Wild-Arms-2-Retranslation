@@ -1,0 +1,59 @@
+# area WV — Warwing Varukisas  (50 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Warwing Varukisas ~~
+Lilka: Ouch. Ouch. So rough.
+Ashley: Are you guys all right?
+Tim: I'm OK, I think.
+Brad: It looks like I'm OK too.
+Irving: >It's me. Sounds like everyone arrived safely.
+Lilka: Is this what you call "safe"?
+Irving: >If you can complain like that, you must be OK. Now for the next mission-- You have two tasks. One is to silence the enemy's Flying Machine Varukisas. The other is... all of you to safely escape out of there.
+Ashley: Aside from the first task, I hope to manage the second.
+Irving: >After you disrupt the plane's power functions, come back here promptly. Winding back the assault anchor will help us retrieve you guys.
+Ashley: In other words, we've got to ride this on our return? OK. Ok. After completing the mission, return here. And be sure to recover the anchor.
+Irving: >From now on, I'll take the comfort of your ride into consideration. Over and Out. [ARMS shuts the three power plants and tries to go back to the anchor however...]
+Voice of Ptolomea: Hang on there. I just can't let you go on home.
+  [Ptolomea comes down from an elevator.]
+Ashley: Ptolomea!
+Ptolomea: Looks like you guys might actually be worthy opponents for a change. They say you beat Judecca. Is this guy the real thing?
+Ashley: Our justice will never submit to Odessa!
+Ptolomea: Hmm..."Justice". I don't know who came up with that but, "Justice" can be found on any corner. I've got a little in my heart.
+Ashley: You said my "Justice" and your "Justice".
+Ptolomea: You guys did as you pleased to my favorite Varukisas. We have far too many reasons why our swords should cross, right? Here I go! You ARMS kids! Show me what your "Justice" can do.
+  [The party fights Ptolomea.]
+Ptolomea: There! I guess this is enough!
+Ashley: What's going on?
+Ptolomea: The evacuation of the varukisas passengers is almost finished.
+Ashley: You're not...You... You were buying time until all the passengers were off, weren't you?
+Ptolomea: It's pretty tough having to handle soldiers. I was fond of the Varukisas, but it's perfect to bury you all in.
+  [Ptolomea leaves.]
+Ashley: Stop! Ptolomea!!
+Brad: We need to plan our escape rather than chase him. The Varukisas looks like it's not going to last much longer.
+Lilka: And we finally had him silenced. One danger passes, only to have another danger surface.
+Tim: (Did we really silence him?) If the plane crashes, the Valeria Chateau connected by the anchor will fall too.
+Lilka: Ok, right. So then what are we supposed to do?
+Ashley: I've got an idea. You've got to trust me with your lives.
+Lilka: But what are we going to do?
+Ashley: First, we have to contact Irving at the Chateau.
+  [ARMS contacts Irving.]
+Ashley: It's me, Ashley.
+Irving: >You did well. I see black smoke rising from the Varukisas.
+Ashley: Yeah, but there's a slight problem. We're still inside Varukisas! Release the anchor right away! If you don't release it now, the Chateau will crash too!
+Irving: >Hmm...
+Ashley: I don't know where the Varukisas will crash. The ship could cause a major disaster if it crashes here. We must do something.
+Irving: >What're you going to do? Can you abandon ship?
+Ashley: I'll head for the cockpit... Luckily, we're over the sea. Maybe I can belly-land the Varukisas on the water.
+Irving: >Are you sure you can do it?
+Ashley: I'll give it my best shot. It's our only chance.
+Irving: >You can do it! Land that baby and get your butt back here! [ARMS steps on the elevator Ptolomea came down from and reaches the smoking cockpit.]
+Lilka: We'll be OK, right? We'll be able to do something, right?
+Brad: This is where my real work starts.
+Ashley: You know how to fly?
+Brad: The Gull Wing-class Flying Machine Varukisas isn't a bad machine. This plane isn't a plane for terrorists. This plane is...
+Brad: Hang on! We're landing in water. [The Varukisas lands on the water. ARMS is on top of it. The Chateau can be seen flying toward them.]
+Lilka: Hey! Hey! Over here! Over here! Hey, wave your hand too, Tim. Go for it, boy!
+Ashley: It really saved me.
+Brad: Their energy?
+Ashley: That may be it. Lilka & Tim: We're over here! =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################

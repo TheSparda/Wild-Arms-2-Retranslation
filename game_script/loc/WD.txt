@@ -1,0 +1,39 @@
+# area WD — Werewolf's Den  (28 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Werewolf's Den ~~
+  [ARMS explores the den and finds a glyph on the ground.]
+Tim: I sense the waves of a Guardian. A guardian must be near here. But this is a strange, powerful feeling. This is the first time I've ever felt this particular sensation.
+Lilka: A strange Guardian? It doesn't mean that...
+Brad: I can't believe this is a sacred ground dedicated to the Guardians.
+Kanon: .............
+Marivel: It's a waste of time. We need to move on. We have no time to waste. A Voice from Nowhere in Particular: I am the Guardian of Desire. If you want this power, give my name. -> If Ashley gives the wrong name. A Voice from Nowhere in Particular: Those who don't know my name-- leave here immediately. -> If Ashley gives the name "Lucied".
+  [Ashley teleports somewhere.]
+Lilka: Ashley!
+  [Ashley appear to be in a dark space.]
+Ashley: Where is this? A Voice from Nowhere in Particular: I've been waiting for you, Ashley. The one with a connection to the Blazing Demon, Ashley Winschester.
+Ashley: Who are you?!
+  [Lucied appears.]
+Ashley: Lucied!
+Lucied: It's been a long time, Ashley.
+Ashley: Why are you here?
+Lucied: I've been waiting for you. Anastasia asked me to. She wanted me to help you.
+Ashley: Anastasia wanted you to...
+Lucied: But it's meaningless if you aren't the type to use me correctly. I am the Guardian of Desire. I only lend my powers to those who can make use of my powers. Do you understand my meaning?
+Ashley: ............
+Lucied: A person's strong desires become my food, the source of my strength. It's the flesh and blood I need for my power--a desire stronger than any other. I ask you, what is it you desire?
+Ashley: What I desire? I desire a peaceful, daily life. Marina is there with Grandma, Brad and Lilka too, along with everyone from the ARMS. Days with no need to fight, days with no disputes.
+Lucied: Is that your hope?
+Ashley: I don't wish to be a "hero" now! There was a time when I wanted to be a "hero", but that was to protect everyone's happiness. I didn't want to see anyone suffer. But there's a simpler answer. The truth is I wanted to protect Marina's smiling face, so I ...
+Lucied: It doesn't matter what the power is. Power is neither good nor evil. Power can become good or evil depending upon who uses it. The hope is the same. What you wish for is the same as Anastasia. A good desire--a desire suited to become my flesh and blood.
+Ashley: Lucied.
+Lucied: Your strength will come from the hope wrapped around your body. When you desire power, call out my name. For the daily life you desire, I will become the sword to battle all kinds of blazes. I use people's strong hopes for my power. I, the Guardian of Desire, Lucied. I will be with you until the day when your hope has been exhausted.
+  [Attack "Mad Lucied" acquired.]
+  [Ashley appears back in the Den.]
+Brad: Are you OK, Ashley?
+Lilka: You disappeared so suddenly. I was worried.
+Ashley: Didn't mean to worry you. The Guardian of Desire, Lucied, called me. And he lent his strength to me.
+Kanon: Lucied. He's the Guardian who was always right there beside the <Sword Magess>.
+Tim: I heard he's a noble Guardian for which no Medium exists. If you can borrow Lucied's powers, your warring powers will be strengthened.
+Marivel: In my case, my presence alone guarantees grand victories, but... ...frail humans need to borrow the powers of the Guardians. Be grateful. =-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- #############################################################################

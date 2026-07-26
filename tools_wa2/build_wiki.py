@@ -26,12 +26,19 @@ for _c, _sid in DB.AREA_SECTION_EXTRA.items():
     AREA_SECTION.setdefault(_c, _sid)
 
 def gamescript_html(area_code):
-    """Render the parsed English transcript for the section this area belongs to, as placeholder
-    content. Returns (html, section_id, box_count) or ('', None, 0) if unavailable."""
-    sid = AREA_SECTION.get(area_code)
-    if not sid: return '', None, 0
-    path = os.path.join(GS_DIR, sid + '.txt')
-    if not os.path.exists(path): return '', None, 0
+    """Render the parsed English transcript for this AREA as placeholder content.
+    Prefers the per-location file (game_script/loc/<AREA>.txt) — split on the transcript's own
+    ~~Location~~ markers, so content lands under the right area — and falls back to the coarser
+    chapter file only if this area has no location split. Returns (html, source_label, box_count)."""
+    loc_path = os.path.join(GS_DIR, 'loc', area_code + '.txt')
+    if os.path.exists(loc_path):
+        path = loc_path; label = 'loc/' + area_code
+    else:
+        sid = AREA_SECTION.get(area_code)
+        if not sid: return '', None, 0
+        path = os.path.join(GS_DIR, sid + '.txt')
+        if not os.path.exists(path): return '', None, 0
+        label = sid
     rows = []; n = 0
     for ln in open(path, encoding='utf-8').read().split('\n'):
         if ln.startswith('#') or not ln.strip():
@@ -50,7 +57,7 @@ def gamescript_html(area_code):
                         f'<span class="gs-txt">{html.escape(m.group(2))}</span></div>')
         else:
             rows.append(f'<div class="gs-line"><span class="gs-txt">{html.escape(s)}</span></div>')
-    return '\n'.join(rows), sid, n
+    return '\n'.join(rows), label, n
 
 # area code -> game_script section id(s) that contain it (a section can list several areas)
 _AREA_SIDS = {}
@@ -255,31 +262,42 @@ def build():
         for code in codes:
             fp_area.setdefault(code, []).append(rec)
 
-    # ---- per game-script-section word set (all box EN in that section's areas) for gap placeholders
-    sec_words = {}
-    for _sid, _codes in _SECTION_AREAS.items():
+    # ---- per-AREA word set (box EN for that specific area) for gap placeholders ----
+    area_words = {}
+    for _c in set(list(by_area) + list(fp_area)):
         ws = set()
-        for _c in _codes:
-            for sc in by_area.get(_c, []) + fp_area.get(_c, []):
-                for b in sc['boxes']:
-                    if b.get('en'): ws.update(_norm(b['en']).split())
-        sec_words[_sid] = ws
-    # emit each section's uncovered-line placeholder only once, under its LAST guide area
-    _sid_last_area = {}
-    for _sid, _codes in _SECTION_AREAS.items():
-        if _codes: _sid_last_area[_sid] = _codes[-1]
+        for sc in by_area.get(_c, []) + fp_area.get(_c, []):
+            for b in sc['boxes']:
+                if b.get('en'): ws.update(_norm(b['en']).split())
+        area_words[_c] = ws
     def section_gap_block(code):
-        # returns html for any section whose LAST area == code (so it appends after that area's boxes)
-        out = []
-        for _sid, _last in _sid_last_area.items():
-            if _last != code: continue
-            gh, nun, ntot = section_gap_html(_sid, sec_words.get(_sid, set()))
-            if nun:
-                out.append(f'<div class="subscene gap"><h3>Not yet translated in this section '
-                           f'<span class="subm">{nun} of {ntot} script lines · from transcript <code>{esc(_sid)}</code></span></h3>'
-                           f'<p class="scenedesc">These English game-script lines have no matching translated box yet. Placeholder reference.</p>'
-                           f'<div class="gamescript">{gh}</div></div>')
-        return '\n'.join(out)
+        """Uncovered lines for THIS area, from its per-location transcript file (loc/<code>.txt).
+        Split on the transcript's own ~~Location~~ markers, so gaps land under the right area."""
+        loc_path = os.path.join(GS_DIR, 'loc', code + '.txt')
+        if not os.path.exists(loc_path): return ''
+        lines = []
+        for ln in open(loc_path, encoding='utf-8').read().split('\n'):
+            if ln.startswith('#') or not ln.strip(): continue
+            s = ln.strip()
+            if s.startswith(('~~', '[', '->')) and not re.match(r'^[^:]{1,30}:', s): continue
+            m = re.match(r'^([^:]{1,30}):\s*(.*)$', s)
+            if m: lines.append((m.group(1), m.group(2)))
+        bw = area_words.get(code, set())
+        rows = []; nun = 0
+        for spk, txt in lines:
+            nt = _norm(txt)
+            if len(nt) < 6: continue
+            wl = [w for w in nt.split() if len(w) > 2]
+            if not wl: continue
+            if sum(1 for w in wl if w in bw)/len(wl) < 0.6:
+                nun += 1
+                rows.append(f'<div class="gs-line"><span class="gs-spk">{html.escape(spk)}</span>'
+                            f'<span class="gs-txt">{html.escape(txt)}</span></div>')
+        if not nun: return ''
+        return (f'<div class="subscene gap"><h3>Not yet translated in this area '
+                f'<span class="subm">{nun} of {len(lines)} script lines · <code>loc/{esc(code)}</code></span></h3>'
+                f'<p class="scenedesc">These English game-script lines (for this location) have no matching translated box yet. Placeholder reference.</p>'
+                f'<div class="gamescript">{"".join(rows)}</div></div>')
 
     total_boxes = sum(sc['nboxes'] for scs in by_area.values() for sc in scs)
     fp_boxes = sum(sc['nboxes'] for scs in fp_area.values() for sc in scs)

@@ -1,0 +1,110 @@
+# area HT — Hidden Trial Arena  (85 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Hidden Trial Arena ~~
+Colette: Here's the entrance. This is as far as I am able to guide you.
+Brad: This is the Temple of the Guardians. So this is the Trial Arena for testing the "Pillar" ...
+Ashley: And... the chosen candidate is...
+  [Everyone stares at Tim.]
+Tim: ............
+Colette: In the back of the temple is a hall called the "Wall". The knights protecting the candidate can go that far. But, on the other side of the "Wall"...
+Tim: It's just me alone, right?
+Lilka: Everyone has times when they're all alone. Just because it's someone you really like, doesn't mean you can be together all the time. Even if it's really hard, you'll just want to get through it OK. You're a guy. You should be more upbeat. I don't know what this test it, but think of it as something positive that gets you ahead. Right!
+Tim: Yes, you're right.
+Lilka: If your energy level is up for it, you can do anything. It's almost like magic.
+Ashley: Don't worry. We'll protect you.
+Tim: It's something I choose to do, so I can't be glum about it. Thank you very much. I'm fine now.
+  [Tim faces Colette.]
+Tim: Don't worry about me. I'm off now.
+Colette: (Is it OK? They're leaving. I heard it's a dangerous place. Maybe I'll never see 'em again. I'm so spaced. Is it all right for me to stand up? There's no excuse really. Is there something I should be saying now... something that'll make them like me. I remember seeing that in a book. I'm not sure anymore.)
+Colette: Wait. There's a field of flowers nearby. It's a beautiful field of flowers no one knows about. Huh? What am I talking about?
+Tim: I'd like to go there. When we get back, I'd like you to show me the flowers.
+Colette: ............ Yes, then I'll be waiting. I'll be waiting right here for you to come back. [They head north into the trial arena. They find some cute floating creature waiting for them.]
+Sub-Spirit: I've been waiting. So you're the "Heir". You know. You can get your soul to communicate with the sleeping "Old Ruler" Guardians.
+Tim: Who are you?
+Sub-Spirit: ...? Oh, that's right. You all find it inconvenient when there's no clear name for an existent being.
+Pooka: It's Pooka. It's Pooka's Pooka!
+Tim: What? What? What? I don't understand.
+Pooka: Among the various Sub-Spirits, Pooka is special. The sense of "self" is weak. Hmm...I can't explain it well. In other words... Pooka is Pooka. And at the same time, there's something else. Do you understand?
+Lilka: Ah...Um...
+Ashley: Oh, in other words, it's that, right?
+Tim: I'm sorry. I didn't understand it all.
+Brad: I've heard of the Sub-Spirit Pooka. Because the sense of "self" is weak by taking on other information matrixes, one can copy other forms.
+Pooka: That's it! That's exactly what I was trying to say. That one is none other than Pooka!
+Tim: Um, I'm Tim but...Why was the Sub-Spirit waiting for me?
+Pooka: Pooka's role is to guide you under the Guardian's direction. Come with us, Tim. The Guardians want you before it's too late! When Pooka's power is needed use ([]) to call him. For places you can't get to, Pooka can search it for you.
+Tim: I might be in the way, but please let me fight too. Last night, I heard from the Village Chief that I'm a Zoa Priest like my mother. By defeating monsters, I'm able to extract power from the Medium I'm equipped with. I want to pass the trial. I want to be strong too! So please, give me a chance.
+  [They move on.]
+Tim: ...! I feel like I've been pierced. It feels as if the wills here on the grounds are gathering.
+Pooka: Do you feel it? Those are the vibrations of the Guardians. Their wills turn into vibrations searching for powerful shapes. This is one of the trials too!
+  [The place starts shaking.]
+Tim: Bad senses can't feel the hostility in these vibrations. But! Watch out. They're testing us.
+  [BOSS: Compound Plant Monster - Reguleus]
+  [ARMS kills the Compound Plant Monster.]
+Ashley: Was that the "trial"? That monster was a Guardian?
+Pooka: That wasn't a Guardian. The old rulers of Filgaia, the first Guardians, had absolutely no power in the physical world.
+Lilka: Then what was that just now? Even we were attacked by it!!
+Pooka: It was probably just testing... ...not only the "Pillar" but also the strength of the knights protecting the "Pillar".
+Ashley: You've driven it away. The trial...
+Tim: No. It doesn't look like it's over yet. There's a voice calling to me. In order for me to become the "Pillar", I guess I have to go even further.
+  [They continue on and reaches the Wall.]
+Pooka: The "Wall" must start here. What waits on the other side is...
+Tim: ...my "Trial".
+Pooka: Yes. The ability to materialize the powers of the guardians which are now only consciousness. For your trial, you must get hold of the "Combine". With Pooka.
+Tim: Pooka and I?
+Pooka: Didn't I say at the start? I said, "Go together". Tim and Pooka must be together at all times. I want everyone to hand over their Mediums. The Medium is the petrified version of the Guardian's information matrix. For the "Combine", it's essential to have a Medium.
+  [Pooka takes the party's Mediums.]
+Tim: Combine? So this is the other power concealed in the Medium which mom told me about.
+Pooka: Go, Tim.
+  [Tim goes past the "Wall".]
+Tim: This light... The Medium "Odoryuk" is shining again.
+Pooka: Listen to the light. Tim, you can do it. You are the "heir".
+Tim: It's real. I hear a voice.
+Odoryuk: You're the one who's turned our will into power. You, designated as "heir", state your name.
+Tim: Tim. My name is Tim Rhymeless!
+Odoryuk: Your blood becomes my will. Your flesh becomes my power.
+Tim: My blood? Flesh? What in the world!?
+Odoryuk: You, burdened with the fate of death...go forth and overcome it! The unending trial has awakened us!
+  [BOSS: Transforming Ninja Monster - Gehenna Neros]
+Pooka: Release at once all the force you've saved until level 2! The information matrix of the Medium will let Pooka change into a powerful shape. The user's force and Pooka's ability to transform, released together, form a "Combine". First take the Guardians who have offensive powers like "Grudiev"-- and equip them in the GUARD slot. Pooka and Tim can put in motion a "Combine". Just leap over any trial that's in the way!
+  [Tim defeats Gehenna Neros.]
+Odoryuk: Thou hast evaded our illusions. It is the power of the "heir". Tim, you cheated death. The proof is here. Thou art the "heir". By releasing us, the "Pillar" becomes an offering proffered soundly, very soundly. We await thy next "Pillar". An eclipse will fill Filgaia's sky. Thou wilt stand at the Sacrificial Altar to deter this menace.
+  [Tim acquries the Force: "Combine."]
+Tim: Did I pass the trial? I actually passed the trial, didn't I?! I can't believe it.
+Pooka: Better believe it. Make no mistake, your power of belief guided reality. You realized "truth".
+Tim: I passed the trial. It's like a dream. But... I'm so happy! My heart's pounding!
+Pooka: Even Pooka is excited. It's as if Pooka caught Tim's excitement. I'm so excited!
+Tim: I want to hurry and get back to the others! I want the others to feel my excitement!
+  [Tim returns to where he left Ashley and the others.]
+Ashley: Tim! Pooka!
+Lilka: I'm so glad. You're safe. We were all nervous waiting here.
+Brad: So you passed the trial to become the "heir"?
+Tim: Yes! It seems I passed. But it still doesn't feel real. My pounding heart is the only thing that feels different.
+Ashley: You did well, Tim. I'm getting excited now too.
+Lilka: Boy, this excitement really is catching.
+Tim: Yep! Sure seems that way!
+Pooka: It's time to give you the powers Tim got by passing the trial. Part of the power sustaining Filgaia, the Guardian's power, can be realized through Pooka. This is the "Combine"! For the "Combine", everyone's force is needed. It's a joint effort which, using our force, allows Pooka to duplicate the Guardian's shape and abilities. So, we need to remember that this trick can be used only when Pooka's with us.
+  [Ashley, Lilka, and Brad acquire the Force: "Combine."]
+  [The party returns to the entrance.]
+Tim: Colette!
+Colette: Tim!
+Tim: It's over.
+  [Colette grabs Tim's hand and takes him to the secret flower field.]
+Tim: Wow! It's really amazing! I understand why you'd want to show someone.
+Colette: Yep. ............ But I haven't shown anyone yet.
+Tim: Huh?
+Colette: You are the first.
+  [Tim sits down with Colette.]
+Colette: You took the test for me, right?
+  [Tim looks away.]
+Tim: That's not true.
+Colette: Do you think so?
+Tim: ............
+Colette: That's why I wanted to show you the thing most important to me. Because flowers are their prettiest in that moment.
+Tim: Thank you.
+  [Colette moves a little bit away from Tim.]
+Colette: I wish the flowers would stay pretty like this forever and ever.
+  [Tim goes nearer to Colette.]
+Tim: I wish it could always be like this forever and ever.
+Colette: Yep. -------------------------------------------------------------------------------

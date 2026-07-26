@@ -1,0 +1,132 @@
+# area WR — Withered Ruins  (88 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Withered Ruins ~~
+Musketeer: That clumsy fool! The first guy who ran through the fog fell into that hole there. Could you check it out?
+Musketeer: Sorry. I didn't mean to cause trouble.
+  [Ashley jumps into the hole.  A man is lying below.]
+Ashley: Hey. Wake up! Can you stand up?
+Musketeer: A new recruit, huh? Looks like you messed up. It's because you tried to score big here so you'd be reassigned to the new unit that is forming.
+Ashley: Take it easy. Stay here until the rescue team arrives.
+Musketeer: We can't do that. Hey, look at that! W hoaa!! [The musketeer shows a knife and throws it to a device. The door beside it opens.]
+Musketeer: Hey rookie, this is to celebrate your assignment. Hang onto it.
+  [Tool "Hurl Knife" acquired.]
+Musketeer: The knife can be thrown with the ([]). It must have a use besides just turning the switch. You need to figure it out.
+Ashley: OK, I'll give it a try. [Ashley goes on, deeper in the ruins. He can hear a voice coming from a room before him.] Boastful, Hoarse Voice--: Whoa. How'd this get so blown out of proportion?
+  [Ashley enters the room.  He finds three bandits and the hostage.]
+Leader: Our humble little abduction was to bring comfort to our lives.
+Henchman A: A kidnapping was impossible for us from the start. What do you plan on doing, boss? It's about time those Musketeer boys came charging in.
+Gangal: Oh, shut up, Zook. A real man would do something. Hey, Gerg. Isn't it your job to come up with ideas?
+Gerg: After much thought, it's clear that kidnapping isn't our answer. Didn't I say that at the start?
+Gangal: What? You giving predictions of disaster before we even start? What a waste of man power, wimping out like that. Really! Zook & Gerg: ..............
+Gangal: Well, regardless, we've got our trump card. I'll get away no matter what.
+Boy Hostage: Nothing good is going to come from holding me hostage! To start, I have no parents so who's paying the ransom?
+Gerg: Hey boss, did you hear that?
+Gangal: Oh... There go my hopes and dreams.
+  [Ashley hurls a knife to a torch, getting the hostage's attention.]
+Ashley: (Hey...HEY!)
+Boy Hostage: (What?! Who are you?)
+Ashley: (I've come to save you. Are those three the only kidnappers?)
+Boy Hostage: (Yes.)
+Ashley: (Good. You did well. Do you have a name?)
+Boy Hostage: (Oh course I've got a name!)
+  [The boy's name is Tony.]
+Ashley: (OK, Tony. Quickly, can you work with me?)
+Tony: (Sure, but what do you want?)
+Ashley: (Draw their attention.)
+Tony: (Sure.)
+Ashley: (Great, We've got a deal!)
+  [Tony tries to get the kidnappers' attention.]
+Tony: Hey, old man! How dare you treat me this way. You don't have the guts to properly kidnap anyone!
+Gangal: What'd you say? Hey, you two, grab the brat and shut him up!! [Tony runs around and the goons chase him. He steps on a weird floor.]
+Tony: Catch me if you can!
+  [Tony jumps, activating a switch on the floor.  The place starts shaking.]
+Ashley: Hold it right there! Gangal & Zook: Huh?!
+Gerg: What?!
+  [A wall opens behind Tony.  A monster is unleashed.]
+Tony: Waaahhh! I don't know why, but I had a feeling something like this might happen!
+Ashley: If you keep talking, you'll bite you tongue! Gangal & Zook & Gerg: Help! Please!
+Ashley: Hey, you too! [Kalivos appears, chasing everyone. They split up on a fork. The goons go to the right. Ashley and Tony go to the left. Kalivos goes after the goons, who come to a dead end. Ashley hurls a knife at Kalivos's back, allowing the bandits to escape. Ashley runs away too.]
+  [Outside...]
+Radar Technician: Commander, a large lifeform has been confirmed in the ruins. Most likely, the trapped monster was released by accident! Unfortunately, highly volatile liquid explosives have been found in the monster's secretions. Commander, at this rate...
+Commander: What the... Order the soldiers in the ruins to evacuate immediately! A huge explosion is possible, so we can't handle it above ground. To minimize casualties, we must destroy the entire ruins at once. Release the safety on the large ARM. I'll authorize the use of the Rail Gun.
+Radar Technician: You mean destroy the entire ruins? But we still have soldiers left in the ruins. It's possible the monster could escape before all of them evacuate. By destroying the ruins, some soldiers won't escape in time. Are you going to let them die?
+Commander: ......... I'll take full responsibility. [Inside, the group is still trying to run away from the monster. Tony trips.]
+Tony: Dude!!!
+Gangal: Why do we have to...!
+  [The commander appears.]
+Commander: Evacuate immediately! We'll finish things off with a large-scale ARM.
+Ashley: The large-scale ARM needs... But our team is still in the back part of the ruins! If you do that... I won't do it! I can't!
+Commander: This is an order! If you disobey, you're in violation of regulations.
+Ashley: I cannot sacrifice someone even if it is for the larger good. It's not just me. The commander and everyone else here doesn't want that to happen. Our hearts should be one. Please order those remaining in the ruins to evacuate. Even I can manage to stall for time. No. I'll stop this one!
+  [Ashley turns around and attacks Kalivos.]
+  [Ashley defeats Kalivos.]
+Ashley: I ignored your orders and rook matters into my own hands. I am prepared for my reprimand.
+Commander: I hope so! Your punishment for this incident will be forthcoming! Until then, you're under house-arrest!
+Ashley: Is that all, sir?
+Commander: You have any objections?!
+Ashley: No! no, sir! -------------------------------------------------------------------------------
+Ashley: And that is how this extremely long day ended for me, the new recruit. I did what I thought was right, but it was a violation of orders. I don't believe I was wrong. No one wants to see anyone get hurt. Even though the destination is the same, different people choose such different routes. I don't understand. I just don't understand it. Oh well, with my sentence, I have plenty of time to think. ------------------------------------------------------------------------------- _____________________________________ /[1.b] A former hero now war criminal/ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  [Five years ago...]
+  [In a forest, a big man runs away from a group of men.]
+Man A: That's strange. I thought we chased him in here.
+Man B: In this weather, even he'd be exhausted. He can't be very far. We gotta look some more! Call in a bunch of Barghests! They'll chase him out.
+  [The men leave the area.]
+Escapee: Are they gone? Tsk, this reminds me of that other time. But there wasn't any miserable rain back then.
+  [The escapee remembers a part of his past.]
+  [FLASHBACK:]
+  [In a castle, he and his comrades seem to be fighting a battle.]
+  [SCENE: Three men are gathered.]
+Man: Yes, blood did get spilled, but in an era of delusions, if someone doesn't stand up, even more blood will be shed.
+  [SCENE: A group of men, running.]
+Man: We'll blast on through! Don't delay a second!
+  [SCENE: A group of men in a forest.]
+Man: That's impossible! Why did we...No, why'd they die for something like that?
+  [FLASHBACK ENDS.]
+Escapee: This is no time to get stingy with the ammunition. I have to survive. My name still has no meaning.
+  [Meanwhile...]
+Man: Commander, the search party recovered these items from Point 12-SW.
+Posse Leader: An ID card of a Slayheim Liberation Army Soldier. Here, give it to me.
+  [From the ID card, they find out that the escapee's name is Brad Evans.]
+Posse Leader: There's no mistake. It's Brad Evans' ID card. OK, proceed to the recovery point. We must catch him before he gets through the forest!!
+  [Brad runs away from his pursuers.  He reaches a cliff.]
+Brad: (There's no turning back once you go over this cliff. But the Posse is closing in. Even if I die, I can't let my name be dishonored. I am "Brad Evans" of the Slayheim Liberation Army. I cannot delay. I must get to the other side of the forest quickly.)
+  [Brad goes down the cliff.  On his way, he senses something.]
+Brad: What?! Who's there?!
+  [A puppy appears.]
+Brad: Oh, a puppy. Come on. Don't bark, please.
+Voice: Hey, did you hear something over here?
+  [Brad hides behind a tree.]
+Brad: Namumi!
+Voice: Oh, it's just a puppy. Scared me. What a waste of time. Let's go. I'm not going to let the others get all the credit.
+  [Brad comes out from hiding.  The puppy has a berry with him.]
+Brad: You saved my butt, buddy. Wow. That took guts. You probably came into the forest to avoid the rain too. Let's get out of here together. [Brad continues to find a way out of the forest. On the way, he acquires the tool, Kick Boots.] [TUTORIAL]: *Press ([]) with the Kick Boots and shock the target. Delivering this shock will cause all kinds of things to happen.
+  [Moving on, Brad encounters the hunters.  He hides.]
+Recruit 1: I wonder what just ran into the forest? A dangerous criminal? Maybe a very pale degenerate.
+Recruit 2: Who knows? All I know is that we haven't been told anything and there's no need for us to know either.
+Recruit 1: What would you do if he suddenly jumped out here? It wouldn't be a bad idea for us to catch him and get the credit. With a reward, I'll get a horse and return to T'Bok Village. It'll end my mercenary work.
+Recruit 2: If you keep babbling, the search team will beat you silly.
+Brad: There's no order here. Were those two soldiers conscripted recently? That means there's a village nearby.
+  [A roar of something can be heard.]
+Recruit 1: What's that voice I hear?
+Recruit 2: It's a monster! Even the village animals have been attacked by it! Let's get out of here! We're in over our heads!!
+Recruit 1: But where will we go? And how will we get there?
+  [Brad comes out of hiding.]
+Brad: You guys are such trouble!
+Recruit 1: You...You're...
+Brad: Just stay down!
+  [BOSS: Parasite Colony Monster - Gremalkin]
+  [Brad confronts the monster.]
+Brad: (Sure are self-assured, Brad Evans. Lending a hand to your pursuers. Sure, I'll show you what it means to be a "hero." I'll take care of this before the incident gets any bigger!)
+  [Brad defeats Gremalkin.]
+  [Brad goes on his way.]
+Recruit 1: You saved us?
+Recruit 2: Hey!
+  [The Posse Leader, with some men, comes to the scene.]
+Posse Leader: His fighting is even more powerful than it was rumored to be.
+Man: I don't know if our forces are strong enough to defeat him.
+Posse Leader: There's a village on the other side of the forest, right? I've got an idea. Wait, Brad Evans.
+  [Brad is out of the forest.]
+Brad: (I'm out of the forest. I need a place to hide. What about that place...)
+  [Brad reads the sign.]

@@ -1,0 +1,97 @@
+# area AP — Alchemic Plant  (67 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Alchemic Plant ~~
+  [Ashley's party encounters some enemies as soon as they enter the plant.]
+Ashley: Some ambush.
+  [The party defeats them.]
+Ashley: ......... (It can't be Brad. That's impossible....)
+  [ARMS explores the plant until they reach a big control terminal.]
+Lilka: Wow! This seems a bit much!
+Tim: If we can confuse the enemy by using this machine... Our mission will become a lot easier.
+Brad: This looks like a job for me. I'll take care of this. You guys need to go on to the deepest depths. After I finish here, I'll follow. We'll operate independently for a time.
+Ashley: Brad... I understand. Then we'll meet at the deepest depths. OK. Let's go!
+Ashley: (Can we leave Brad all by himself? I've decided to have faith in my friends! But...) [Ashley, Tim and Lilka move along. They reach a door and someone seems to be talking inside.] -Ashley: I think someone's in there. I can't be found so I won't open the door. Hmm... They're transmitting. I wonder how I can intercept the message? -Lilka: Oh, is someone inside? They're saying something. I must know. They're transmitting. -Tim: Someone's inside. I must be quiet now. Wha? I hear a voice but it's so small, I can barely make it out.
+  [They use the communicator to intercept the message.]
+Radio Operator A: >Sir, the Guard Robot is ready. This one has a bad radiator. A sharp temperature change could cause the robot to shut down. Until the new radiator comes, all we can do is improvise.
+Commander: >Understood. Use string and gum if you have to, soldier. [Moving on, the party encounters a robot in their way. Learning about it's weakness to temperature changes, Lilka uses her rods and it explodes. They move along more and find more people transmitting.]
+Radio Operator B: >I think I left my code book in a locker somewhere. Have you seen it?
+Radio Operator E: >Sorry, I ain't seen it. That thing's top secret! You'll catch hell for losing it!
+Radio Operator B: >I'd better find it right away! But where could I have left it?
+  [And another one.]
+Radio Operator C: >Commander, it's time to change the password.
+Commander: >We're using "QOW" now, right?
+Radio Operator C: >No, sir, that was the last one. We're using "ONM" now.
+Commander: >That's what I was about to say. Anyhow, change the password according to the code book.
+Radio Operator C: >Yes, sir!
+  [The party moves on.  The reach a door which uses a voice recognition system.]
+Commander: >Is that equipment check done?
+Radio Operator F: Yes, sir, almost finished. ---
+Radio Operator F: >Did you hear me, sir?
+Commander: >I hear you, soldier. ---
+Radio Operator F: >Um, just a few more things... Mop, recorder, flashlight. One each sir.
+Commander: >Alright, then. Hold on a sec while I start recording. ---
+Commander: >Alright, good work, son. Now you are to help me track down the ARMS intruders.
+Radio Operator F: >Yes, sir. Consider me part of the search team now.
+  [They head over one of the rooms which is now open.  They search the lockers.]
+  [The party finds a Recorder in the lockers.]
+  [They go back to the voice print protected door and used the recorder.]
+  [More transmissions.]
+Radio Operator D: >It's pretty boring considering the incursion of ARMS.
+Radio Operator G: >I know. It's way too mellow. Did ARMS really attack?
+Radio Operator D: >Don't sweat it. Let the patrol 'bots take care of 'em. After all, there's no sense putting ourselves in danger. ---
+Antenora: >What has ARMS done since then?
+Radio Operator E: >All we know is this, ma'am: Several patrol 'bots have been destroyed, but still no trace of ARMS.
+Antenora: >Now get this straight soldier. You and every other troop in this plant is an elite Odessa fighter. So no lame excuses.
+Radio Operator E: >Yes, ma'am! Understood, ma'am! We'll find those AMRS chumps and hang 'em by their petards! -Ashley: If I were closer, I might be able to record Antenora's voice. -Lilka: Ah! If I record that voice from here... -Tim: Is this Antenora's voice? That reminds me, I saw something useful-looking back there.
+  [They use the recorder.]
+  [ARMS goes back to the Voice Verifier and plays Antenora's voice.]
+Voice of Antenora: All right? Don't forget. All the soldiers here at the plant were from Odessa's forces. [Voice Verifier]: *Voice Print Verification Complete: The voice print verified is Antenora Cocytus. The block will be released. -Ashley: Great! It worked. Though it's a machine, it's disappointing how far from the truth it is. And, if it had been a human it could have been worse. -Lilka: I think my voice is way cuter, but... Oh well, a machine couldn't be able to tell that! -Tim: It worked. I can talk now, right?
+  [ARMS moves on past the door.]
+Ashley: We're almost to the energy reactor. It's a dead end up ahead. Let's try elsewhere.
+  [The door up ahead opens.  Antenora appears from it.]
+Lilka: Antenora!
+Antenora: You...you plan on bringing Vinsfeld down?
+  [Some doppelgangers appear and surround them.]
+Ashley: If so, what of it? We're going to put a stop to your schemes!
+Antenora: Impossible. That's not possible for you. Because I'm going to stop you. I'm not going to let you all take him down. I don't want to witness that. Let this "thread" make you dance, dance the dance of death. It suits you all so well.
+  [ARMS fights Antenora.  After the battle...]
+Antenora: Is that all you can do? Don't disappoint me. With your current powers, it's impossible for you to destroy him. Sorry but your organization has an intelligence leak.
+  [Brad appears from the door where Antenora came in through.]
+Ashley: Impossible! Are you sure?
+Antenora: I wonder? What's it like to have someone you trust turn on you? After all, your bonds are only so strong.
+  [The doppelgangers all transform into Brad.]
+Ashley: It's a...
+Antenora: "Doppelganger". Quite an amusing little sideshow, don't you say? This formless monster steals not only shape, but one's memories and skills too. The intelligence was gathered by a doppelganger in the form of Brad. The doppelganger I sent in has stirred up more distrust than we had ever hoped.
+Ashley: How could this happen?
+Brad: What are you doing?! It's not over, yet.
+Ashley: Brad!
+Brad: Hand over the "Eat My Dust"! Now.
+Antenora: What's the matter? He might be a fake as well?
+Ashley: You said our ties were only so strong. Well, you may be right. No, you are right! I once mistrusted a friend... I couldn't completely trust someone I fought alongside of. That's why this time I am putting my trust in my friends! So I don't submit to you! And to strengthen my friendships! Brad! [Ashley throws the 'Eat My Dust' to Brad. He immediately uses it to wipe out the Doppelgangers and create a gap between Ashley's party and Antenora & Brad.]
+Antenora: No need to go all out.
+  [Antenora disappears.]
+Ashley: Ouuuu, Brad... Retreat. We've failed our mission! Retreat and regroup!
+Brad: No. I won't go now. I'm going to finish the mission.
+Ashley: How? "Eat My Dust" has been used, so how are you going to blow up the plant?
+Brad: ............ There's a bomb right here.
+Ashley: Don't be ridiculous! It... the "Gias" won't come off so easily!
+  [More doppelgangers appear.]
+Brad: There's no time. It's not smart like "Eat My Dust" -- the bomb can't be neutralized later on. Before I blow up the plant, you guys need to get out of here.
+Ashley: What are you going to do?
+Brad: I'm going to fulfill my destiny as a hero.
+Ashley: Promise to return. We're heroes because we always return from danger.
+  [Brad looks away.]
+Ashley: Evacuate immediately! Don't look back. Just look forward and get out of here now!
+Lilka: What are you saying?
+Tim: Do you mean? Brad, you're...
+Ashley: Believe! We'll meet again Promise. I promise!
+  [Ashley gets Lilka and Tim.]
+Ashley: Here I go.
+  [Ashley's party flees.]
+Brad: Going off to one's death is what "Heroes" do, I guess.
+  [Brad moves ahead.]
+Brad: Right now, at this moment I understand how "He" felt. ..........Doesn't look I'll be able to keep my promise, but I think I'll be forgiven. I'm off to fulfill my destiny as a "Hero".
+  [Ashley's party exits the plant and sees the plant as it explodes.]
+Ashley: Brad-------- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################

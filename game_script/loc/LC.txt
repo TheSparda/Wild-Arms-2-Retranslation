@@ -1,0 +1,18 @@
+# area LC — Lost City Archeim  (6 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Lost City Archeim ~~
+  [They explore the lost city.]
+Ashley: What? What's this chill?
+Kanon: The stench of death... Only suitable for the lost city. Regardless, it's not well-suited to the world of the living.
+  [Something appears before them.]
+Tim: I can't sense any life waves! This must be...
+Lilka: Eeeeeee... So, you're the ghost's manager. I'll destroy you, so promise me that you won't show up again.
+  [BOSS: Aggressive Poltergeist - Jasoul]
+  [ARMS follows the long road and finds the Diablo Pillar at the end of it.]
+
+~~ Lost City Archeim ~~
+Voice from the Stone: I am the ruler of "death", Ge Ramtos.
+  [Ge Ramtos acquired.]
+Ge Ramtos: My power is an endlessly circulating power. ------------------------------------------------------------------------------- ___________ /Dan Dairam/ ¯¯¯¯¯¯¯¯¯¯¯

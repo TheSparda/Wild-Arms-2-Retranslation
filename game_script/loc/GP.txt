@@ -1,0 +1,86 @@
+# area GP — Golgotha Prison  (64 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Golgotha Prison ~~
+  [Ashley wakes up and finds himself and his allies locked inside a prison.]
+Brad: Are you conscious now?
+Ashley: Ahhh! But I don't feel well. I feel like I'm going to puke.
+  [Ashley shakes his head and stands.]
+Ashley: What in the world happened?
+Brad: I don't know. After I was attacked by the Trask, I couldn't move my body. Then... Through a hazy consciousness I saw everything turn white. That's all I remember. When I came to, I was locked here.
+Ashley: So it's a prison. Darn! Things like this always happen to me.
+  [Ashley goes near Lilka.]
+Brad: Let her stay like that for a bit. It'll help her body recover.
+  [After a while, Lilka wakes up.]
+Ashley: Lilka?
+  [Lilka yawns.]
+Lilka: I'm fine. I'm perfectly fine. But...
+Ashley: Did something happen?
+Lilka: No. It's nothing.
+Lilka: (That's right, Ashley is Ashley. I wonder what happened to me. For example, maybe for a minute I thought Ashley was you.)
+  [Lilka shakes her head and stands.]
+Lilka: But more importantly, how long are we going to stay like this? We've gotta do something. Right?
+Brad: Of course.
+Ashley: Let's start by thinking how to escape from here. [The party examines the place. They see a block a little bit tilted compared to the others.] [GAME MESSAGE]: *Is it tilted just a bit here? It's caught on something!
+  [Brad kicks the block.]
+  [The party moves a block and sees an opening hidden beneath it.]
+  [The party goes down the hole.]
+Man: I watched all the villagers get arrested and followed them here, but I'm at my limit. Behind that door, the villagers are imprisoned. The lever is hard to move, but you guys can manage. Help save everyone. [The lever is hard to move, so the party lets Brad move it. He succeeds. The party enters the opened door.]
+Ashley: These people are...
+Man 1: We are the residents of the village of Halmetz. You all are...
+Ashley: We are not part of "Odessa"! We are fighting to save everyone from the tyranny of the terrorists.
+Man 2: We all might be saved? Will we all get a chance to return to Halmetz together?
+Ashley: Take heart. I promise everyone will have a safe rescue!
+Man 1: This guy with glasses suddenly pulled a weapon on us. After that, we were showed into this dungeon and locked up.
+Boy: So, because you are going to help us, can we believe that you're real allies?
+Lilka: Of course. So, relax. We'll return to your village with all of you.
+Brad: But traveling in a group this large could be dangerous.
+Ashley: Then, I'll go ahead and check things out. Once safe passage is verified you all can leave together.
+Lilka: Hey, don't blow it now.
+Brad: There's no time. Hurry.
+Man: This is where death row inmates were housed and executed back when there was a death sentence. One can't possibly feel safe in such a place. The execution area is at the end. It's a short way out from there, but you might not be alive. [Ashley goes on ahead to check the area. He passes by a room where soldiers are gathered, so he eavesdrops a bit.]
+Odessa Soldier 2: The preparations at the execution should be about ready, right? I don't trust that guy, even though he's on our side.
+Odessa Soldier 1: It's safer if you don't talk so carelessly about Mr. Judecca.
+Ashley: Judecca... Plotting something again?
+  [Moving on, Ashley reaches the execution area.]
+Judecca: Welcome to the execution ground! You finally made it here. I've been waiting. But...I wasn't the only one waiting for you. This...
+  [Ashley looks around, he finds Brad and Lilka crucified above.]
+Ashley: Tsk... Lilka! Brad!
+Brad: Gra!
+Lilka: Sorry... The villagers we just helped were taken as human shields. They said "resist and they're dead". All of this was a trick. He plotted all of this!
+Ashley: Hang on. I'm on my way!
+Judecca: Where are you going? That's not your duty.
+Ashley: What!?
+Judecca: Your opponent is little Trask.
+  [Judecca summons Trask.]
+Ashley: This is the one from before.
+Judecca: Don't think about resisting! I'll kill your buddies if you do... But the preparations aren't finished yet.
+Brad: You mean it's a warning.
+Judecca: Yup. The plan got a little messed up, but there's a reason I captured you ARMS people. By executing all of you publicly, I can rid myself of enemies and also show the terror of Odessa. We didn't kill the people of Halmetz when we caught them so they'd witness the event.
+Ashley: How evil can you be?!
+Brad: It's something a very vain terrorist would do.
+Judecca: Look, even I'd prefer to take care of it myself. But, we have our reasons. I'd appreciate your understanding on this. Go, Trask! But don't kill them too quickly! Graaaa!
+Lilka: Ashley!
+Judecca: Resist and I'll kill the hostages! This is so thrilling. My glasses are about to fall off.
+  [Trask starts attacking, while Ashley dodges its attacks.]
+Inner Voice: (What is it? What are you doing?)
+Ashley: (This voice is echoing again. What is this?)
+Inner Voice: (Don't think. Hesitation is only for fools. What you need now is hope and desire.)
+Ashley: (That's it. I want "power". I want enough "power" to overcome any adversity. If I have that...)
+Inner Voice: (Then take a hold of it.)
+Ashley: (Of what?)
+Inner Voice: (Oneself.)
+  [Ashley emits a bright light.]
+Judecca: This light. It's from that time. Change of plans! Kill all the hostages! [Judecca sees that Brad and Lilka are free from the cross. It seems that Marivel saved them.]
+Marivel: It reached even the lady consort's child. You can't do as you please!
+Marivel: (It's the same light. ... This says "the end". The light of "the start". But I believe it. This time I was late. The light is nostalgic. Right, Ashley?)
+Judecca: Again, something I didn't plan on! Darn, I can't keep up.
+  [Judecca runs away.  Ashley transforms in a Black Knight.]
+Ashley: This is from that time. What happened to me? I don't understand. I don't understand it. But the one thing I do know is... I know I can "fight"! This "pain" and "form" are mine. It's the "power" to fight.
+  [Ashley defeats Trask.]
+Ashley: Ha, ha, ha! It's finished. ............ No. That's wrong. It's started. Woa! My...strength...is...disappearing.
+  [Ashley returns to his original form.]
+Lilka: Ashley, what the heck happened?
+Brad: It must mean this guy was chosen by ARMS. It's not just about "power". It's about shouldering some burden. If that's not the case, I wouldn't be able to overcome the battles I am about to face.
+Lilka: From now on... -------------------------------------------------------------------------------

@@ -1,0 +1,84 @@
+# area SD — Sylvaland Castle  (67 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Sylvaland Castle ~~
+  [The party finds Sylvaland Castle.  In the throne room...]
+Ashley: I have come bearing a Royal Letter from the King of Meria Boule.
+  [A soldier takes the letter and gives it to the Queen.]
+Queen of Sylvaland: I had heard rumors, but I had no idea... A fighting force with no allegiance to any country...very interesting indeed! It does seem like an effective way to counter Odessa, which also operates as a separate entity...
+Ashley: And yet...
+Queen of Sylvaland: I don't think I can accept what is written in this letter. I cannot easily allow free access to our country's Live Reflector. If you of ARMS have permission to come and go as you like, our people might come to doubt their security. After all, why should I consider you of ARMS any different from Odessa?
+Ashley: Your Highness, you see...
+Queen of Sylvaland: I know. I know...You want to "defeat Odessa," as it says here.
+Ashley: ............
+Queen of Sylvaland: It is only reasonable for the powerless to fear the powerful. I have no guarantee that you will not begin acting like Odessa once you have free access to my country. You see my point?
+Ashley: I see...
+Queen of Sylvaland: I'm terribly sorry, but I cannot accept your proposal. Please convey that to the King of Meria Boule, along with my greetings. Oh...wait... It was actually Sir Valeria who proposed this, wasn't it? Only he could have come up with an idea as an independent fighting force. Please tell him to come and visit me with his lovely sister, not ARMS. Thus wishes the Queen of Sylvaland!
+Ashley: I understand, Your Highness.
+  [A Sylvaland Soldier enters the room.]
+Soldier 1: I have an emergency report! Oh...please forgive, Your Highness...
+Queen of Sylvaland: Never mind! What's so important!?
+Soldier 1: Oh yes... There has been a terrorist attack in the Sylvaland town of Halmentz! Reports suggest it was the terrorist band...
+Ashley: Odessa!
+  [The Soldier nods.]
+Ashley: Your Highness!
+Queen of Sylvaland: ............ Even if we put out a call to arms now, our knights won't be able to assemble in time. Well, then...shall we see just how fast our independent fighting force is, then?
+Ashley: With pleasure! Let's go, everyone!
+  [The party leaves.]
+Queen of Sylvaland: (When we meet such grave danger, nothing should keep us apart. That's the obvious conclusion, now that I think about it. I wonder when it was I forgot that true strength comes from joining together? ............ But...)
+Soldier 2: Your Highness, is something the matter?
+Queen of Sylvaland: No, nothing... So, what did you think of them?
+Soldier 2: They seemed very honorable to me, Your Highness. I saw no signs of ulterior motives. I believe they are simply acting for the common good.
+Queen of Sylvaland: I believe you are correct. They are indeed honorable and their desire to protect Filgaia genuine.
+Queen of Sylvaland: (Of course that is also part of what makes me so nervous...) -------------------------------------------------------------------------------
+
+~~ Sylvaland Castle ~~
+Queen of Sylvaland: I was most impressed with your actions on behalf of Halmetz. By the way, Ashley...
+Ashley: Yes, Your Highness!
+Queen of Sylvaland: Are you sufficiently recovered? There were reports that you suffered injury in your recent action.
+Ashley: ............ Thank you very much for asking. Your Highness, but it was nothing.
+Queen of Sylvaland: I am very pleased to hear it. We can't have anything untoward happen to you while protecting Sylvaland, can we?
+  [A Sylvaland Soldier gets something from the Queen and hands it to Ashley.]
+Ashley: This couldn't be...
+Queen of Sylvaland: I give you permission to use the Live Reflectors in Sylvaland. This is a Royal Letter to the King of Meria Boule to that effect. I hope I can entrust you with it.
+Ashley: Your Highness...thank you!
+Queen of Sylvaland: This time, it is I who should thank you. Isn't that so, Sir Valeria!
+  [Sir Valeria enters.]
+Irving: I thank you for the cooperation of Sylvaland. It will ease our labors.
+Ashley: (Irving...)
+Queen of Sylvaland: Sorry to have involved you in this unpleasant affair... Let us end it here. If you go below the castle, I believe you'll find someone waiting for you.
+Ashley: Thank you, Your Highness.
+Irving: Go ahead. I'll se you later. The formalities for granting you permission to use the Live Reflectors may take some time.
+Ashley: I understand. We will wait.
+Queen of Sylvaland: I hope you don't mind waiting for the official papers to be drawn up. I guess we have too much red-tape around here. We could learn some things from you, it seems.
+  [The party leaves the audience chamber.]
+Man 1: Oh!
+Man 2: We were waiting for you!
+  [The party comes down.]
+Man 1: That's funny - they just look like normal people to me.
+Man 2: But they're the heroes who saved us! They're more powerful than they look!
+Ashley: Heroes!? Us...?
+Man 2: Of course!
+Man 1: Is there anyone else around?
+Girl: I heard you were magnificent! Old Man [To Lilka]: I have a single son who is just about your age, Miss. You aren't single, are you? Woman [To Brad]: You're pretty scary-looking... I'm glad you're on our side!
+Man 2: I heard a rumor that a mysterious Black Knight appeared. Did you see it?
+Lilka: J-just you wait a second!
+Irving: I'm so glad you're all safe. There's nothing more ARMS could have hoped for.
+Man 1: You were a great aid to us in a dangerous time.
+Man 2: I trust you will continue to fight the terrorists.
+Irving: Of course. There is no one but ARMS to stand up against Odessa. -------------------------------------------------------------------------------
+  [Meanwhile, In Odessa Headquarters...]
+Antenora: The scout's report is in.
+Vinsfeld: Did Judecca succeed?
+Antenora: No, he has failed. Destroying the ARMS isn't so simple. It appears not a single person was killed. Our casualty list reports "Trask", the anti-human monster, as demolished.
+Vinsfeld: "Trask" was... Impossible. Their power can't compete! How did it happen?
+Antenora: Yes. According to the report, a grotesque "Black Knight" appeared in a flash. A high level energy source registered at the battle location at that time.
+Vinsfeld: A grotesque "Black Knight"? So he's the "trump card" for the ARMS. Or was he...
+Antenora: What do you wish us to do?
+Vinsfeld: We can't let it go. With our operating funds, secure energy for the "Heimdal Gazzo". Then there's the "ARMS" gaining influence. We've got problems. The "Secret Evil Society" is so terrible. Ha. Ha.
+Antenora: You must be joking.
+Vinsfeld: With Caina's Demon Summoning, our forces can grow forever. Our victory is certain if we exert pressure all at once with our superior power. I've always gotten everything I've ever wanted. Power, you, and Filgaia are all mine.
+Antenora: ............
+Vinsfeld: You have new orders. Execute "Operation Guardian" as planned and put a rush on getting hold of that boy. Tonight, I want you here with me.
+Antenora: Yes. =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################

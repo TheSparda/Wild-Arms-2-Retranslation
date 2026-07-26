@@ -1,0 +1,26 @@
+# area UT — Under Traffic  (18 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Under Traffic ~~
+Irving: >How is Under Traffic? Call in if you find out anything.
+  [The party explores Under Traffic.  They find a man on the floor.]
+Ashley: Someone has collapsed!
+Lilka: We've got to help him!
+Peddler: Ooooo, ouuu.
+Brad: He'll be OK. Nothing life-threatening.
+Ashley: Can't leave him as is. Can you move him?
+Brad: I can't do anything drastic, but I'll give it a shot.
+Ashley: Both the Town of Meria and Veleria Chateau are too far away. What should we do?
+  [The communicator rings.]
+Ashley: What?! What the heck happened?!
+Lilka: Isn't that the communicator we just got from Irving?
+Irving: >It's me. Give me a status report.
+Ashley: Ashley here. There's been a cave-in, but I think he will be OK with our help.
+Irving: >You said "he". What's going on?
+Ashley: We found a traveling salesman who was trapped by the cave-in. But from here it's too far to the Valeria Chateau or to the Town of Meria. And yet, we can't just leave him here.
+Irving: >These communicators have a tracer feature. Hold on a sec... ............ Good. You're near an exit that leads south through Under Traffic. From there, go south east to Damzen, an old mining town at the base of the mountain. It's a lot closer than Valeria Chateau or the Town of Meria. I want you to take the injured man there. Can you do it, Ashley?
+Ashley: Roger. I'll do my best, sir.
+Ashley: Hang in there just a little longer!
+Lilka: To Damzen City from here it's southeast. Let's hurry!
+  [The party exits Under Traffic.]

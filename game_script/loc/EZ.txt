@@ -1,0 +1,82 @@
+# area EZ — Emulator Zone  (64 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Emulator Zone ~~
+  [The party examines a red panel.]
+Voice in Space: How can you not question a world full of deception? Worried, confused. You all who don't look back don't deserve a future.
+Voice in Space: The quasi-space (Emulator Zone) was lured by Randolph the Magic Key. Hope you meet death in the dimension interval and rot!
+Ashley: You are Odessa's Cocytus?
+Voice in Space: It's the first time we meet. I am Caina, one of Odessa's Cocytus. You ARMS who opposes Sir Vinsfeld ideals. You've got a red light now. We'll have you stay here in the Emulator Zone with the train.
+  [Caina appears.]
+Ashley: We must arrive on time as scheduled. We want a green light.
+  [BOSS: Special Cocytus Squad Member - Caina]
+Caina: That day of the Demon Summoning, if not at the <Sword Cathedral>... If you hadn't return alive with the Demon inside you, our goals wouldn't be undone!
+Ashley: Huh!? So this was your doing, wasn't it?
+Caina: If so, what're you gonna do about it? Ashley Winschester...
+Ashley: Oooooooooohhhhhh! Oooooooooohhhhhh! Oooooooooohhhhhh! You won't get away with this, Odessa.
+  [The party battles Caina.]
+Caina: (Darn! The mental convergence broke. As long as the generator is running, we can maintain the Emulator Zone. Looks like we better hurry!)
+  [Caina disappears.]
+Ashley: Stop!
+Lilka: I wonder what they're scheming this time?
+Ashley: I don't know. Proceed Until we destroy this Emulator Zone, we can't go back. [ARMS explores the Emulator Zone. They find a room with a huge object floating in the center.]
+Tim: This seems to be the generator creating the Emulator Zone.
+Lilka: What should I do? Should I bash it?
+Ashley: We won't be able to deliver Noel back until we destroy... the zone holding the train. This might be a bit rough, but let's try something! [Tim shoots the blocks that are holding the generator with his Air Ballet. The generator crashes.]
+Tim: Did anything happen? First, let's return to the train.
+  [They try to go back but they see Kanon standing above the gate.]
+Kanon: It's said to be good for buying time, but I won't be doing that.
+Lilka: Kanon!
+Ashley: If Odessa's hired you, you should reconsider! Odessa is a terrorist group which has brought turmoil and destruction to Filgaia!
+Kanon: I'm aware of that.
+Tim: If so, then why?
+Kanon: Ashley Winschester, I have my own reasons why I must fight you. Or should I say I have my reasons why I need to hunt the Demon that lurks inside you.
+Ashley: On a mission to exorcise evil?
+  [Kanon draws her blade.]
+Kanon: That's true too. But it's not all there is! The blood in my body is the blood of a "hero"! As a descendant of the <Sword Magess>, I am destined to destroy the Demon!
+Ashley: A Sword... Magess!
+Kanon: That's right. I have lived until today with the purpose of fighting the Demon! I have thrown away my womanhood and body and lived as a human concealed weapon! I have no resentment toward you, but I do have a reason to take your life.
+  [The party fights Kanon.  Some time passes...]
+Kanon: (The Emulator Zone's generator has been damaged. Looks like this quasi-space won't last too long.)
+Kanon: Let's call it a temporary truce. If we get sucked into the zone's collapse we'll spend eternity as the dead. The only way to get out is to blast the train through the self-repairing dimension at high speed! Hurry, Ashley!
+Ashley: Why are you helping us? Answer me, Kanon!
+Kanon: It's rather commonplace, but to me my reasons are important. I do it because I am the legendary sword that pierces you!
+Ashley: Kanon...
+Kanon: This is the destiny of a descendant of the <Sword Magess>.
+Ashley: Wait! Destiny... Do I really have to battle you for such a flimsy reason? Why do we in the present have to bound to a destiny from the past?!
+Kanon: By carrying out my destiny, I've been able to believe in myself. You wouldn't understand. You wouldn't understand the confusion of an uncertain self.
+  [Kanon disappears.]
+  [Ashley & Co. runs back to the train.]
+Ashley: Noel! Hurry and start the train!
+Noel: I guess now's not the time to ask why. Roger. Emergency ignition start.
+  [The train runs.]
+Ashley: More... Can't you go any faster?
+Conductor: This is the limit! If we go any faster, the train will explode!
+Lilka: Move all the passengers to the cars in front.
+Tim: The rear cars are cargo. I just checked.
+Noel: What concerns me is Odessa's motives.
+Ashley: Aren't they targeting you? Can you think of anything else?
+Noel: Do they plan to take me hostage for a ransom? Funds are needed to run organizations, so terrorists are no different.
+Ashley: Hmmm...
+Lilka: Hey, hey! Isn't that what they call the "Dimension Seam"?
+Tim: But it looks like it'll close up at any moment!
+Ashley: Faster!
+Conductor: Don't ask the impossible. I've been telling you, it's going to explode.
+Noel: Detach the rear cars. It'll make us go faster!
+Conductor: Young Master, Th...that's...
+Noel: Is there a problem? The rear cars are all cargo. Human life cannot be replaced. Or is there something I don't know about?
+Conductor: No. Nothing, Sir.
+Noel: Then hurry.
+Lilka: (Sis...)
+Conductor: I take no responsibility for what may happen. Release the rear cargo cars! [The train's rear cars are released. The train speeds up and is able to exit the Emulator Zone.]
+  [The train arrives at the Guild Galad side of the Urartu Station.]
+Conductor: Oh, my. I'm sure to catch hell for this.
+Ashley: I'm sorry about the train, Noel. But we had to sacrifice it to save you.
+Noel: Don't worry about the train. My father hired you to guard me, and you have done that job splendidly.
+Ashley: But you were very fond of that train, weren't you?
+Noel: I was. But your concern is consolation enough.
+Conductor: Young master, what do we do now?
+Noel: I want you to repair Dianbai Guang. We'll go on ahead and return to Guild Galad at once. If I don't get back soon, Father will be furious. Ashley, let us make haste. Guild Galad is located on the reclaimed land northeast of this station. <Call Menu>
+Amy: Um... Ashley? Oh, I was so worried! I couldn't get through to you! Oh, well, at least you're alright. I wanted to tell you that Guild Galad is on a landfill north of Urartu Station. -------------------------------------------------------------------------------
+  [Ashley's party reaches Guild Galad.]

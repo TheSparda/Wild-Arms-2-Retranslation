@@ -1,0 +1,26 @@
+# area ST — Spiral Tower  (12 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Spiral Tower ~~
+  [The party gets past the puzzle room.]
+  [The party descends further until they encounter a boss.]
+Kanon: It's powerful pressure! Here it comes!
+  [BOSS: Saucer Organism - Grodine]
+  [The party beats the organism.]
+Lilka: It's a long road ahead! Let's hurry up, everyone!
+  [The party descends further until they reach the bottom.]
+Brad: To get this far and still have people get in my way.
+  [BOSS: Terrible Guardian Monster - Manufestu]
+  [They beat the terrible monster.]
+Tim: Huh? This is strange. What could this feeling be? Feels like I'm near a Guardian.
+  [The party approaches the light.]
+Lilka: Wait a minute... What in the world is this?
+Ashley: It's like an ocean, but something different.
+Brad: ..........
+Tim: ...it's a Guardian. This blue mud seems to be one single] Guardian.
+Ashley: How can you tell?
+Tim: I feel it. It has wavelengths similar to other Guardians. I once heard something about a blue sea of mud flowing deep under the bowels of the earth. The being that was the origin of everything, the Guardian of Mud, Glaive Le Gable.
+Kanon: The origin of everything... So, the Kuiper Belt has been eating the Guardian, the so-called source of life, even advancing on Filgaia.
+Ashley: Let's go everyone!
+  [They are transported to the center of Filgaia...the Glaive Le Gable.]

@@ -1,0 +1,86 @@
+# area IP — Illsveil Prison  (63 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Illsveil Prison ~~
+Warden: To you hardened criminals so despised by the public... Welcome to Illsveil Prison. As the 1st convict here, I'm now ruler of this independent domain! In other words, I'm the warden.
+Warden: As you criminals are able to see... Illsveil is an isolated prison island! In other words, it's a natural fort. While it wasn't terribly hard for you convicts to get here, it's impossible for you to get out alive! Once you're used to it, life here isn't too bad. Being on the outside isn't so hot.
+Warden: Here you trouble only useless fools. How about spending your remaining years enjoying yourself here? The longer you are here, the better your life will be. I've got 214 years left on my sentence! Hope you don't have fantasies of escaping yet. And of course, if you win my favor, becoming Prison Warden isn't a dream. The fact that this island is an independent domain stems from that very fact! Ha. Ha. Ha. Ha. Ha.
+  [Ashley gets locked behind bars.]
+Lilka: Anyway, I need to go explain everything to Warden Dokyun. Let me take care of it. You should just stay put and lay low. It's best to take things slow.
+Ashley: So you're used to stuff like this?
+Lilka: Well, sort of! When I was little, I pulled a lot of pranks and got locked in the closet for it.
+Ashley: (Wow, that's too bad...) Regardless, we were disarmed and now I have no weapon. I have no intention of doing anything drastic.
+Lilka: But... How do I explain it? If I really wanted, I could use my magic to blast through in a second.
+  [An explosion can be heard.]
+Lilka: No, no. It's not me! But we can use this. Definitely! I'll retrieve your confiscated weapons.
+Ashley: "Lay low and be patient" she says.
+Lilka: Adapt to your circumstances... Hm!
+Ashley: Lilka! Thanks for earlier. You tried to cheer me up, right? ............. Be careful.
+Lilka: OK!
+Ashley: Don't overdo it. Hey, come over here. It's first aid I learned with the musketeers. Even I can help out.
+  [Lilka explores the prison and finds the equipment inside a locker.]
+Lilka: I bet this is the confiscated equipment. What? What? But did Ashley use a Mechanical Glove like this? Oh, who cares!? I'll take it all and something will work!
+  [Lilka takes the weapons. She also acquires a Jail Card.]
+  [Lilka goes back to Ashley.]
+Ashley: With that Jail Card, you should be able to open the lock! But before that... Thanks, Lilka hand me my equipment.
+  [Lilka opens the lock.]
+Lilka: Hey, sorry to keep you waiting. Here, take this.
+Ashley: Wow, you brought so much. These mechanical gloves are Might Gloves, right? Well, they aren't mine.
+Lilka: I didn't understand, so what could I have done? Anyway, here. Put this on. Hurry. We need to get out of here quickly.
+Ashley: Ok. Great job. Don't look over here.
+Lilka: Oh, come on!
+  [Lilka turns around while Ashley changes.]
+Lilka: That noise we heard earlier was a mass jailbreak. It seems that all the convicts here escaped at once.
+Ashley: A mass jailbreak! Is that possible? Preparations done! We're off! [Ashley and Lilka move along, they find a prisoner on another floor. They open his cage.]
+Ashley: Aren't you going to run away?
+Prisoner: ............ Were you sent by Irving?
+Ashley: What?
+Prisoner: I'm asking you, were you sent by Irving?
+Ashley: Do you know Irving?
+Prisoner: ............ We're not communicating well here, but it has to be you guys.
+Ashley: How can you say that with certainty?
+Prisoner: You've got such a babyface for someone locked up in here.
+Ashley: Uh, thanks.
+Prisoner: Did I say something to offend you? Those Might Gloves are mine. Could you hand them over? There's no time, right?
+  [Ashley hands over his equipment.]
+Ashley: Who the heck are you?
+Prisoner: Death Row Inmate No. 666, Brad Evans. I'm one of the ARMS members chosen by Irving. Let's go. [The party moves along. On their way, they find the Warden, guarding the exit.]
+Warden: Death Row Inmate No. 666! I can't believe it! Even you're thinking of escaping this "paradise!"
+Brad: Sorry, Warden. I'm more at home on the "battlefield" than in "paradise." Thanks for everything.
+Warden: It's way out of hand. You've given me no choice! Arrest them! Arrest them! And after that, death! Death!
+Brad: I can't keep up with you!
+Warden: Instead of getting me to say cruel things, I should do it myself! GAO...NIM, come here! Go catch my valuable little convicts.
+  [BOSS: Escapee Capture Robot - GAONIM]
+  [The party defeats the Robot.]
+  [The party exits and leaves the Warden behind.]
+Warden: Ahhh! To say I'm stupid is a major insult!
+  [The Warden fires randomly.]
+Warden: Whoa!
+Guy with Glasses: No, no! That's not right!
+Warden: Who?!
+Guy with Glasses: This ridiculous handling of things isn't right at all.
+  [The screen goes black.  A shot can be heard.]
+Guy with Glasses: This ridiculous handling is... You understand now? -------------------------------------------------------------------------------
+Brad: Let's hurry! This way!
+Ashley: This way? Where do you plan on going?
+Brad: The boat docks. Haven't you heard of the plan?
+Lilka: We haven't been told anything.
+  [The party moves along.  They see Irving is waiting for them.]
+Irving: I waited a bit but... Looks like we've finally been able to meet safely.
+Ashley: This is... "Everything is going according to your plan." Is that what you were hoping?
+Irving: Well, there were some changes. I don't think anyone would object if I said that getting Brad out of Illsveil was a success. What was my rationale like as the Chief?
+  [Ashley hits Irving.]
+Ashley: As the one oversees other people, the first thing you... need to do for the people is trust your team! I won't permit you to move us around like pawns ever again!
+Irving: Next time I'll keep that in mind. Would you mind handing me my crutches? I can hardly walk without them.
+  [Ashley hands him his crutches.]
+Lilka: Hey, what is it?
+Brad: Was the inmate insurrection part of the plan as well? Or was that merely a coincidence?
+Lilka: How would I know that?
+Brad: Well, actually...
+  [Meanwhile, on the top of Illsveil Prison...]
+Guy with Glasses: Besides us, who else has business here in Illsveil?
+  [Below, a man is surrounded by inmates.]
+Inmate: Are we really going to get to say sayonara to this hell?
+One-Eyed Giant: Yep, and, with the added bonus of re-employment.
+Guy with Glasses: It doesn't seem adequate, but I'll let it go. Time to withdraw! =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################

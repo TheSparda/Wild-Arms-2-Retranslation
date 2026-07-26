@@ -1,0 +1,12 @@
+# area GH — Greenhell  (5 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Greenhell ~~
+Brad: There should be a small village on the other side of the forest. As long as they're cutting through the forest too, they're bound to leave clues.
+Ashley: Do you know anything about the village. Brad?
+Brad: ............ Let's go. Their footprints lead directly north.
+Lilka: Brad, you don't talk very much about yourself, do you?
+  [Brad remembers his past.]
+Brad: I just don't have anything worth talking about. Let's hurry. The longer we wait, the harder the pursuit.
+  [ARMS goes past the forest and reaches to T'bok Village.]

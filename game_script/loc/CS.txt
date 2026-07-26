@@ -1,0 +1,29 @@
+# area CS — Crimson Castle  (18 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Crimson Castle ~~
+  [ARMS followed the path until they reach a coffin.]
+Marivel: Keep the noise down! Where do you think you are!?!
+  [Marivel comes out of the coffin.]
+Marivel: Ah, Ashley and company. I didn't know you where making that noise. So, what brings you here? Surely the "Time of Promise" has not yet come.
+Lilka: Hey! What is Marivel doing here!?!
+Tim: This is where I heard the legendary Immortals supposedly live.
+Marivel: We are the Immortals! The Crimson Nobles, supreme species of Filgaia! We are absolute, true, one-and-only rulers of Filgaia!
+Lilka: Oh, brother. What a windbag.
+Brad: I never knew the Crimson Nobles really existed.
+Kanon: Well, the legendary Lord Blazer is living inside Ashley. Is the idea of Crimson Nobles still living in Filgaia any weirder?
+Marivel: Well, what do you want. Ashley? Surely you did not come to chat.
+Ashley: As you say, the "Time of Promise" has not yet come. But Filgaia now faces the most serious threat in its history.
+Marivel: Yes... the Kuiper Belt.
+Ashley: Not even Lord Blazer could stand up to the might of Kuiper Belt. That's why I need you to fight on our side Marivel, as you once fought with Anastasia! We are fighting to save Filgaia! Will you join us?
+Marivel: Hmm... First Odessa, then Kuiper Belt. Why must such evil attack our beloved Filgaia? As Filgaia's true rulers, we will tolerate no more of this outrage!
+Ashley: I'm putting my foot down NOW!
+Marivel: But I'll have you know... I am doing this because it is my duty as supreme species to protect Filgaia. We simply have a common objective. Otherwise, a proud Crimson Noble would never help you lowly humans. Do not forget that!
+  [Marivel looks for something in her coffin.]
+Marivel: Whoops. I almost forgot this.
+  [Marivel gets the tool: "Electel".]
+Marivel: The Electel zaps anyone in front of you when you press the ([]). And I see you're still using that pathetic Map Scope of yours, eh? Out of pity for you, we will use a bit of Lost Technology to give it a cute but exciting upgrade. Don't look so skeptical! Just leave everything to us! I'll show you how Guild Galad technology can't even hold a candle to ours. Heh heh.
+  [Marivel upgrades the Map Scope.]
+Marivel: There! All finished! How's that for a nice power-up, eh? Ha ha! What do you mean it looks the same? Amateur! Now you can view the Map Scope while in transit by projecting the image onto your retina!
+  [Marivel joins the party.]

@@ -1,0 +1,301 @@
+# area MR — Town of Meria  (234 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ Town of Meria ~~
+  [Three boys are heading to a bakery.  A woman comes out from inside.]
+  [The same woman is now on Ashley's room, opening the curtains.]
+Ashley: Oh, my eyes! Too bright! Who opened the curtains?
+Innkeeper’s daughter: It's me, sleepyhead, it's me.
+Ashley: Oh, it's only you, Marina. Morning.
+  [Ashley gets up from bed.]
+Marina: I know you're on leave, but you can't sleep all day!
+Ashley: I'm confined to quarters, not on leave. Don't you get it?
+Marina: Well, from here I don't see any difference! Anyway, you have visitors.
+Ashley: Visitors? Really? Me? I wonder who it is...
+Marina: Don't keep your friends waiting. Hurry up and go!
+Baker's Wife: Good morning, Ashley. A friend is waiting at the front. (This guy has friends?)
+  [Ashley goes out from the bakery.]
+Tony: Hey, Dude! What's up? Thanks for helpin' out the other day.
+Ashley: Oh yeah, at the Withered Ruins. How have you been, Tony?
+Tony: Excellent, as you can see! But I wouldn't be if you hadn't rescued me, Dude! Um...
+Ashley: Hi. I'm Ashley. Nice to meet you.
+Tony: These two are friends of mine.
+Vacant-looking boy: Very pleased to meet you.
+  [The boy's name is Scott.]
+Scott: Thank you for helping our dear friend the other day. In my humble opinion, you would seem to be a very good person. I am pleased to make your acquaintance.
+Boy in native dress: Hello.
+  [The boy's name is Tim.]
+Tim: The 3 of us hang out together, 'cause we're all orphans. We're so glad that our dear friend Tony is alright. Thank you, Ashley.
+Tony: We came here to thank you and to ask you a favor.
+Ashley: A favor?
+Tony: Yeah... Helping people is your job, right? Well, we need your help! We can't do this on our own!
+Ashley: [choice: OK, tell me what's going on.] Tony: We need you to catch a cat... Actually, a kitten.
+  [The cat can be seen on the rooftop of the bakery.]
+  [Ashley chases the cat again to where the man fixing the roof is.]
+  [The cat falls into the hole in the roof.]
+  [Ashley enters the building where the cat fell.]
+  [Ashley grabs the mischievou kitten.]
+  [Ashley takes the cat out.]
+  [Ashley receives a Crest Cap.]
+  [Ashley acquires Grudiev.]
+Ashley: [choice: Sorry, but I'm busy now.] Tony: Oh. Alright. I guess you have your job to do. That's cool. But I still wanna thank you for the other day. Here, take this. Tim: Please... This is a Medium. It supposedly contains the power of a Guardian. Before she died, Mom gave this to me as a good luck charm. I want you to have it, Ashley. Ashley: Are you sure? This must me very special to you. Tim: It's OK, 'cause I have another one. Please take it... as a token of my gratitude for saving Tony. Ashley: Alright. Thank you, Tim.
+  [Grudiev acquired.]
+  [Marina appears.]
+Marina: Oh, there you are. I was looking for you Ashley.
+Ashley: What is it?
+Marina: A musketeer came and said to give this to you.
+  [Ashley receives a letter.  He reads it.]
+Marina: Well? What does it say?
+Ashley: It says I'm not confined to quarters anymore. And... I've been assigned to the special squad that was just formed.
+  [Some time later, Ashley is in his room, sitting on his bed.]
+Ashley: You're in the special squad! Wow, that's great! This is right outta the old epics! But do I even deserve this? After all, I did get confined to quarters for insubordination. I don't get it. I just don't get it. Why would they pick me for such an honor? And besides... Why was Marina so angry then? I just can't figure it out.
+  [FLASHBACK:]
+Ashley: The new special squad? The one everyone was talking about? Hooray! Hooray! Here, read this! The chief recommended me!
+  [Ashley grabs Marina's hands and shakes it.]
+Ashley: Yippee! I did it, Marina! I did it! Alright!
+Marina: H-Hey! Stop! Ouch! That hurts, Ashley.
+Ashley: I'm celebrating! This is a happy occasion! Aren't you happy, Marina?
+  [Marina turns away from Ashley.]
+Marina: No. Not at all.
+Ashley: Hmph...
+Marina: This isn't something to jump up and down about!
+  [Ashley goes in front of Marina.]
+Ashley: Marina? What are you so upset about? Why aren't you happy for me? They picked me over a lot of other people, you know.
+Marina: Yeah. They did pick you. They picked you for a mission that's even more dangerous than before! How can I be happy about that?
+  [Marina leaves.]
+Ashley: Marina...
+  [FLASHBACK ENDS.]
+Ashley: After that, Marina didn't even say anything to me. We're always together, and sometimes we have fun, but we argue just as much, too. ......... What kind of relationship do I have with Marina, anyway?
+  [The next morning...]
+  [The townspeople are gathered together near the fountain.]
+Woman: Congratulations, Ashley!
+Man: You are something else!
+Man 2: And get assigned to the new squad AND get the Order of Knighthood... I envy you!
+Ashley: Thanks. But to be honest, I still don't believe it myself.
+Man 2: Don't sound so wishy-washy! You're the defender of this town now! So shape up, soldier!
+Ashley: Ha ha ha.
+Man: Well, anyway, I wonder what's keeping Marina. Ands here we are, gathered for a big send-off for Ashley. Where could she be?
+Ashley: ............
+Man 2: I think it's time to leave for the conferment ceremony. It's at the Sword Cathedral, located at the foot of a mountain far to the northeast. Be careful out there. The damage from monsters has been increasing lately.
+Ashley: Don't worry. After all, fighting monsters is my job.
+Man 2: Yes, you're right!
+Ashley: Well, I'll be on my way.
+  [Ashley was about to leave the village when Marina appears.]
+Ashley: Marina! I'm so glad you came!
+Marina: Me, too. I'm sorry about yesterday. I'm happy for you. I don't know why I said those things.
+Ashley: It's OK. Anyway, I have to be going now.
+Marina: You're coming right back?
+Ashley: Sure. I'll come right back after the ceremony. I promise.
+Marina: We'll be waiting for you with a big feast for dinner.
+Ashley: Good! I can't wait. Bye. See you soon!
+Marina: Take care! =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= #############################################################################
+
+~~ Town of Meria ~~
+  [Ashley is in his room, in the bakery.]
+Ashley: I haven't changed at all. My life hasn't changed at all.
+  [Marina enters.]
+Ashley: Marina...
+Marina: You had me worried! I thought you would never wake up again...
+  [Ashley gets up from bed.]
+Ashley: I'm alright! Look, I'm all better now, see?
+Marina: Don't overexert yourself. The attack was only a week ago.
+Ashley: Attack? What attack?
+Marina: Terrorists attacked the ceremony celebrating the new squad.
+Ashley: (They're saying it was a terrorist attack? No, it wasn't! It...)
+Marina: I'll tell Auntie you're awake.
+Ashley: Marina, wait!
+Marina: What? What's wrong?
+Ashley: Am I... I'm still me, right?
+Marina: ............. Huh? Of course you are, Ashley. Who else could you be?
+Ashley: Yeah, you're right. Forget what I said.
+  [Marina goes down and Ashley follows.]
+Baker's wife: Are you sure you're alright?
+Ashley: Yeah. I'm sorry if I worried you.
+Baker's Wife: A nobleman named Sir Valeria carried you back here. You should go thank him when you feel better.
+Ashley: (Valeria... That's right! I remember meeting a man named Valeria. And I... Damn! I can only remember bits and pieces... Why? What happened to me?)
+Marina: Ashley...
+Ashley: Oh, I'm sorry. It's nothing. I was just thinking out loud.
+Marina: You were the only one who survived the attack. Don't forget to thank Sir Valeria. It's the mature thing to do.
+Ashley: OK. I will. [Ashley leaves the bakery. Outside, Lilka is watching through the window. She faints and Ashley comes to her aid.]
+Ashley: Hey, you there! What's wrong with you?
+Lilka: H-Help!
+Ashley: Hey, you! Settle down!
+  [Lilka's stomach grumbles.  Ashley takes her inside.]
+Ashley: So you're a user of magic, a Crest Sorceress?
+Lilka: I goofed with a Teleport Gem and wound up in the wrong spot. I ran out of gems and money to boot. So I walked and walked and made it to this town.
+Baker's wife: Well, what about food? What have you been eating?
+Lilka: Actually, I haven't been. I smelled your freshly baked bread and it drew me here.
+  [Lilka gazes at the bread display.]
+Marina: Um, Auntie, could we...
+Baker's wife: Say no more. Young lady, take as much of our bread as you can carry.
+Lilka: You mean... No, I couldn't...
+Baker's wife: Now, don't be shy. Come on, tell me which kind you like.
+Lilka: Thanks so much! I'll try a jelly roll, please!
+Baker's wife: How many would you like?
+Lilka: Just one, ma'am.
+  [Lilka stomach acts up again.]
+Lilka: Actually, casting spells takes a lot of energy. So, I get hungry a LITTLE more quickly than other people.
+Baker's wife: How many do you want?
+Lilka: Um... Five jelly rolls, please. I really appreciate this! [They give Lilka the bread and she eats it. Lilka also tells them her story.]
+Ashley: So you have to go to the Valeria household, too?
+  [Lilka finishes the bread.]
+Lilka: What a coincidence, huh? Hey, I know! Let me take you there to thank you for the jelly rolls!
+Ashley: Take me there? You don't even look like you know the way.
+Lilka: Well, um, actually... I know roughly where it is! So we can look together! OK? OK?
+Ashley: Yeah, I guess so.
+Lilka: Omigosh! Wait! I haven't introduced myself yet! My name is Lilka. Lilka Eleniak. Pleased to make your acquaintance!
+Ashley: And I'm Ashley. The pleasure's all mine!
+  [Ashley and Lilka set out.]
+
+~~ Town of Meria ~~
+Tony: Hey, dude! How's it going?
+Ashley: Hey, Tony! You, too, Scott! Hiya, Tim! How you guys been?
+Tony: Fit as a fiddle and rarin' to go!! Of course, ol' Tim here has other things on his mind.
+Tim: Hey, Tony... Don't tell him!
+Tony: Why not? After all, he's our buddy, right? Tim is head over heels for some girl.
+Tim: No! You've got it all wrong!!
+Tony: Oh yeah? Sez who?
+Ashley: Alright, just settle down, both of you. (I don't have time for this.)
+Tony: All she did was talk to him. Now his head's in the clouds.
+Tim: I said you're wrong! I just wanted to thank her for what she did.
+Tony: She was nice to you. Now you have a crush on her, right?
+Tim: No! You don't know jack!
+Ashley: Knock it off, already! Hey, Scott, do something about this guy, would you?
+Scott: In my humble opinion... Ashley is in a hurry.
+Ashley: I'm on leave for a bit.
+Scott: You came back just because you're on leave? I don't think so... You came to see Marina, right?
+Ashley: Now, hold on just a minute, Scott. I was just, I...
+Tony: You should have said so, dude. I wouldn't have held you up.
+Tim: Don't waste precious time. You have to see her.
+Ashley: You've got it all wrong! Marina and I... It's not like that between us.
+Tony: Just go, dude! I know you want to see her right away.
+Ashley: Now listen up, all of you! You've got it all wrong!
+  [Ashley hurries.]
+Tim: I hope it works out between Ashley and Marina.
+Tony: You're not the aggressive type, so that girl's perfect for you.
+Scott: In my humble opinion... It seems Ashley is about to make a class change.
+Tony: Huh? A class change? What's that?
+Scott: Hee hee hee!
+  [Ashley enters the bakery.]
+Ashley: Marina! I'm back!
+Marina: Is it OK to be here? Aren't you on a mission?
+Ashley: I'm on leave for a while, you know...
+Marina: If I knew you were coming, I would have prepared something.
+Ashley: That's OK. Marina, I have something for you.
+  [Ashley flashes the Emphatite.]
+Marina: It's very pretty. What is it?
+Ashley: It's called "Emphatite." They say it has the power to transmit thoughts. I don't know if this tiny piece can do that. ... Here.
+Marina: What? You mean...
+Ashley: I want you to have it, Marina.
+Marina: Are you sure?
+Ashley: That's why I cane back. What do I need it for, anyway?
+  [Marina grabs the Emphatite.]
+Marina: Wow, this is great. Ashley...
+Ashley: Yeah?
+Marina: Thank you.
+Marina: Um, Ashley... Oh, never mind. It's nothing. Thanks for the Emphatite.
+Man outside the bakery: How awful. They showed the broadcast in a bucket. Where's the dignity in that?
+Tim: The 3 of us are going to from the Young ARMS. I hope we're as courageous as you guys.
+Scott: In my humble opinion... The terrorist group Odessa is most likely quite a large organization.
+Tony: Those are the chumps who attacked you guys, right? They're no match for you! Beat 'em all black and blue! Hey, that rhymes!
+  [Ashley leaves the town.  He finds Brad and Lilka at the entreance.]
+Lilka: There you are. I thought you'd be here.
+  [Marina is hurrying towards Ashley.]
+Ashley: What's up? Why did you come together like that?
+Brad: We have to go back. Our next mission has been decided.
+Marina: Ashley...
+Ashley: ............ Don't worry. Everything will be alright, Marina.
+Marina: I guess so. Besides, I have this stone now.
+Ashley: With this, it'll be like I never left. Bye. -------------------------------------------------------------------------------
+
+~~ Town of Meria ~~
+Tony: Dude... HELP!!!
+Ashley: Three of you against these kids? That doesn't seem fair. How about taking me on instead?
+  [The goons back off a little.]
+Ashley: What'd you guys do this time?
+Tony: Young AMRS didn't do anything to piss anyone off!
+Scott: In my humble opinion... These hoodlums seem to be after Tim. Arrghh!
+Ashley: Tim, huh? ... That means they must be...
+  [The goons run away.]
+Ashley: Come back and fight, cowards!
+  [The communicator beeps.]
+Kate: >This is Kate. I've spotted a huge flying object over the Town of Meria! It registers the same heat and size as the flying machine at Mt. Keltepekio Siltolingelon!
+Ashley: That was the flying machine Varukisas! Damn! It's too soon for the next action!
+Kate: >Excuse me?
+Ashley: It's nothing. Never mind. We can't touch Odessa as long as they keep their forces airborne like that!
+Irving: >There's a way to get them.
+Ashley: Irving! Do you have a plan?
+Irving: >Well, it hasn't been tested, so I'm not 100% sure... But then, this is no time to sweat the details, eh?
+Ashley: Alright. I'll leave it to you to get us out of this mess.
+Irving: >First, hurry back to the Valeria Chateau. Let the Town of Meria Air War begin!
+  [Varukisas can be seen flying over Meria.  Inside, in the control room...]
+Ptolomea: Making an appearance like this, isn't bad, is it?
+Antenora: Come again? Our mission is to capture the Pillar. I wish you'd not stir things up just for the heck of it.
+Ptolomea: You don't have to tell me. Those monsters in the cage are taken care of, right?
+Odessa Soldier: The de-freezing of Alphael will be completed in 3 minutes.
+Ptolomea: Finish it immediately! You've got 2 minutes!
+Antenora: Ptolomea! I already told you what our goal is!
+Ptolomea: To acquire the "Pillar", right! Forget it. We'll let the monsters loose in town to cause havoc, then grab the Pillar.
+Antenora: Will it really work?
+Odessa Soldier: De-freezing is complete. We're ready to go!
+Ptolomea: Umph! Go stir up some trouble!
+  [Varukisas releases a monster down to the Town of Meria.]
+  [Meanwhile, Ashley returns to Valeria Chateau.]
+Ashley: Lilka! Brad!
+Lilka: Ashley!
+Ashley: Varukisas is in the sky above the Town of Meria! Irving is supposed to have a plan for interception, so I rushed here.
+Lilka: We haven't heard any details, but... We are supposed to gather immediately in the Chateau's Area 51.
+Ashley: Area 51? Wasn't that...?
+Brad: The forbidden zone. I guess it's free now.
+Ashley: I wonder what Irving is starting?
+  [The place starts to crumble.]
+  [Irving can be seen commanding inside the Chateau's command center.]
+Irving: Maximum output from the EMMA motor! Intercept enemy at full speed!
+Kate: Understood! Only 330 until the EMMA motor reaches its limit. All indicators are clear!
+Amy: We're good to go. Everything is as it was in the simulation. What a great job I'm doing! Kate's doing alright, too.
+Kate: Don't say things like that! Are you trying to distract me? You just watch the balancer!
+Amy: Ohh!
+  [The party enters.]
+Ashley: Irving! What is this?
+Irving: The Valeria Chateau's secret. We'll use this to intercept 'em.
+Ashley: I should have expected something crazy like this! What should we do?
+Irving: You are now free to use the deck. Intercept them there.
+Ashley: OK!
+Irving: Full speed ahead! The battle will soon begin over the Town of Meria! [The landmass where the Valeria Chateau is standing separates from the earth. The Chateau's floating in the sky. Meanwhile, the party heads to the deck and encounters...]
+  [BOSS: Progenitor Bird with Wings of Light - Alphael]
+  [The party kills the Progenitor Bird.]
+  [In the Town of Meria...]
+Tony: What's going on, anyway? First me, then Tim gets kidnapped?! Why would anyone kidnap us? No one would pay our ransom. The world's gone nuts!
+Tim: So were they really trying to kidnap me or what?
+  [ARMS appears.]
+Ashley: Is sure looks like a distinct possibility.
+Tim: Ashley!
+Ashley: I just found out myself. I'm just as surprised. Tim... Someone must be after your secret powers.
+Tony: Dude! Is that true? Wait a sec. That...
+Lilka: The Varukisas... Odessa withdrew as soon as we defeated that monster, right? Of course, it's still too early to draw conclusions.
+Ashley: What we have to focus on now is protecting Tim. I want you to come to Valeria Chateau with us.
+Tim: ... By "my powers", you mean the powers from my Medium? ............ Alright. Let's do it. [The party leaves. Tim stops for a while and takes a look at his friends, then follows ARMS.] [The party heads to Valeria Chateau. In there, Irving explains to Tim the power that he holds.]
+Tim: The power to awaken the Guardians... I have that power? ............ And there are people who want to use me to get at the Guardian's power?
+Irving: We want to protect you so that your power doesn't get misused.
+Tim: I don't understand it all, but I know I'm scared.
+Irving: You're scared because you don't know the extent of your power. Let's go together to where you were born. Your fears will go away if we can learn something.
+Tim: My hometown - where I lived with my mother... I understand. Please... Take me there. Wait one second.
+Irving: There's no need to worry about your friends in the Town of Meria. We can explain everything afterwards. You will be able to see them again.
+Tim: OK...
+Irving: Valeria Chateau, full speed ahead! To the village of the Baskars, protectors of the Guardians! [Meanwhile, inside one of Valeria Chateau's guest rooms, Tony and Scott seem to have snuck in.]
+Tony: Now how do we meet Tim?
+Scott: In my opinion, you use the common term, we're merely "stowaways"!
+Tony: No matter how you look at it, we're stowaways! That doesn't matter! What matters is helping out Tim! We know he needs us!
+Scott: That's true, but... In my humble opinion, if they find us, we'll be lucky to get off with 100 lashes.
+Tony: Just don't think about that. Think about getting us food. I'm so hungry they'll hear my stomach! ------------------------------------------------------------------------------- [TUTORIAL]: *To move the Valeria Chateau forward, press the up directional button or the (X) button. To turn, press the left or right directional buttons or the [L1][R1] buttons. Ashley's party can board and deplane only at the Landing Pad in the field. Touch the Landing Pad and press the (O) button to see a choice for descending from the Chateau. Touch the Landing Pad and press the (X) button to board.
+Kate: I'm Kate Lindbergh. We've met before, haven't we? Amy and I are the operators. We're also both telepaths.
+Amy: Tada! It's me, Amy Fairchild! The face behind the voice you know and love so well! You can call me "A".
+Gabacho: I'm Gabacho, chief engineer of Valeria Chateau. I ran a butcher shop before I joined the service. I joined ARMS to help out during the crisis. Pleased to meet ya.
+Altaecia: My brother told me once... about a windswept cave far to the northwest, by a Landing Pad no one knows about. It seems Filgaia still has many mysterious places that are yet unexpected.
+Scott: In my humble opinion... Tim should be left in the care of this castle.
+Tony: Nya nya! I stowed away! A@Tony: Hey, dude! Thanks so much for rescuing Tim from the kidnappers!
+Irving: What's wrong? Speed is the key to success in battle! [choice: Where's Baskar Village?] Irving: It's a "hidden village", so it must be deep in the woods. We must scout the area. [choice: I just came to chat] Irving: So Valeria Chateau is ready to take the fight to Odessa. My crew and I are ready to battle Odessa! But still... I wonder if it was right to involve my kid sister, Altaecia, in all of this. I don't want Altaecia to see the savagery that war brings out in people. <Call Menu>
+Erwin: >Ohhh. I am master of the skies. Call on me when you wish to fly. Ohhh. ------------------------------------------------------------------------------- [As soon as ARMS lands on the Landing Pad near Baskar, Irving contacts them.]
+Irving: >Hidden in a Forest are the Guardian-worshipping Baskar. Their village, Baskar Village, is so well-hidden it's known as the Hidden Town. I only know that it's around here somewhere. I'm afraid you'll have to search on foot.
+  [ARMS finds and enters Baskar.  Irving and Tim are with the party, as well.]

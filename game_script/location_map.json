@@ -1,0 +1,1822 @@
+{
+ "locations": {
+  "WR": {
+   "name": "Withered Ruins",
+   "boxes": 88,
+   "roster": [
+    [
+     "Ashley",
+     18
+    ],
+    [
+     "Brad",
+     10
+    ],
+    [
+     "Commander",
+     6
+    ],
+    [
+     "Gangal",
+     6
+    ],
+    [
+     "Musketeer",
+     6
+    ],
+    [
+     "Recruit 1",
+     6
+    ],
+    [
+     "Tony",
+     6
+    ],
+    [
+     "Man",
+     5
+    ]
+   ],
+   "file": "game_script/loc/WR.txt"
+  },
+  "TB": {
+   "name": "T'Bok Village",
+   "boxes": 73,
+   "roster": [
+    [
+     "Brad",
+     25
+    ],
+    [
+     "Merill",
+     12
+    ],
+    [
+     "Ashley",
+     7
+    ],
+    [
+     "Merrill",
+     7
+    ],
+    [
+     "Posse Leader",
+     6
+    ],
+    [
+     "Lilka",
+     5
+    ],
+    [
+     "Girl",
+     2
+    ],
+    [
+     "Tim",
+     2
+    ]
+   ],
+   "file": "game_script/loc/TB.txt"
+  },
+  "PV": {
+   "name": "Palace Village",
+   "boxes": 23,
+   "roster": [
+    [
+     "Lilka",
+     9
+    ],
+    [
+     "Boy",
+     5
+    ],
+    [
+     "Mother",
+     2
+    ],
+    [
+     "Village Elder",
+     2
+    ],
+    [
+     "Mysterious Girl",
+     1
+    ],
+    [
+     "Old Man",
+     1
+    ],
+    [
+     "Villager 1",
+     1
+    ],
+    [
+     "Villager 2",
+     1
+    ]
+   ],
+   "file": "game_script/loc/PV.txt"
+  },
+  "MP": {
+   "name": "Millennium Puzzle",
+   "boxes": 121,
+   "roster": [
+    [
+     "Lilka",
+     41
+    ],
+    [
+     "Lilka's Sister",
+     16
+    ],
+    [
+     "Anastasia",
+     10
+    ],
+    [
+     "Ashley",
+     9
+    ],
+    [
+     "Boy",
+     8
+    ],
+    [
+     "Tim",
+     8
+    ],
+    [
+     "Marina",
+     6
+    ],
+    [
+     "Father",
+     3
+    ]
+   ],
+   "file": "game_script/loc/MP.txt"
+  },
+  "MR": {
+   "name": "Town of Meria",
+   "boxes": 234,
+   "roster": [
+    [
+     "Ashley",
+     82
+    ],
+    [
+     "Marina",
+     33
+    ],
+    [
+     "Tony",
+     24
+    ],
+    [
+     "Lilka",
+     15
+    ],
+    [
+     "Tim",
+     15
+    ],
+    [
+     "Irving",
+     13
+    ],
+    [
+     "Scott",
+     10
+    ],
+    [
+     "Baker's wife",
+     6
+    ]
+   ],
+   "file": "game_script/loc/MR.txt"
+  },
+  "SC": {
+   "name": "Sword Cathedral",
+   "boxes": 75,
+   "roster": [
+    [
+     "Ashley",
+     23
+    ],
+    [
+     "Man",
+     8
+    ],
+    [
+     "Commander",
+     7
+    ],
+    [
+     "Large Majestic Warrior",
+     4
+    ],
+    [
+     "People",
+     3
+    ],
+    [
+     "Young Man",
+     3
+    ],
+    [
+     "Caina",
+     2
+    ],
+    [
+     "Inner Voice",
+     2
+    ]
+   ],
+   "file": "game_script/loc/SC.txt"
+  },
+  "VC": {
+   "name": "Valeria Chateau",
+   "boxes": 196,
+   "roster": [
+    [
+     "Ashley",
+     55
+    ],
+    [
+     "Irving",
+     53
+    ],
+    [
+     "Lilka",
+     24
+    ],
+    [
+     "Noel",
+     14
+    ],
+    [
+     "Marina",
+     10
+    ],
+    [
+     "Tim",
+     8
+    ],
+    [
+     "Conductor",
+     5
+    ],
+    [
+     "Marivel",
+     4
+    ]
+   ],
+   "file": "game_script/loc/VC.txt"
+  },
+  "IP": {
+   "name": "Illsveil Prison",
+   "boxes": 63,
+   "roster": [
+    [
+     "Ashley",
+     18
+    ],
+    [
+     "Lilka",
+     14
+    ],
+    [
+     "Warden",
+     9
+    ],
+    [
+     "Brad",
+     6
+    ],
+    [
+     "Prisoner",
+     6
+    ],
+    [
+     "Guy with Glasses",
+     5
+    ],
+    [
+     "Irving",
+     3
+    ],
+    [
+     "Inmate",
+     1
+    ]
+   ],
+   "file": "game_script/loc/IP.txt"
+  },
+  "UT": {
+   "name": "Under Traffic",
+   "boxes": 18,
+   "roster": [
+    [
+     "Ashley",
+     8
+    ],
+    [
+     "Irving",
+     4
+    ],
+    [
+     "Lilka",
+     3
+    ],
+    [
+     "Brad",
+     2
+    ],
+    [
+     "Peddler",
+     1
+    ]
+   ],
+   "file": "game_script/loc/UT.txt"
+  },
+  "DZ": {
+   "name": "Damzen City",
+   "boxes": 47,
+   "roster": [
+    [
+     "Ashley",
+     12
+    ],
+    [
+     "Irving",
+     8
+    ],
+    [
+     "Lilka",
+     5
+    ],
+    [
+     "Patient",
+     4
+    ],
+    [
+     "Doctor",
+     3
+    ],
+    [
+     "Man",
+     3
+    ],
+    [
+     "Strange Woman in Costume",
+     3
+    ],
+    [
+     "Calm female voice",
+     2
+    ]
+   ],
+   "file": "game_script/loc/DZ.txt"
+  },
+  "TT": {
+   "name": "Telepath Tower",
+   "boxes": 37,
+   "roster": [
+    [
+     "Ashley",
+     14
+    ],
+    [
+     "Irving",
+     6
+    ],
+    [
+     "Brad",
+     4
+    ],
+    [
+     "Lilka",
+     4
+    ],
+    [
+     "Strange Woman in Costume",
+     4
+    ],
+    [
+     "Marivel",
+     2
+    ],
+    [
+     "Gramps",
+     1
+    ],
+    [
+     "Man",
+     1
+    ]
+   ],
+   "file": "game_script/loc/TT.txt"
+  },
+  "CC": {
+   "name": "Mt. Chug-Chug",
+   "boxes": 21,
+   "roster": [
+    [
+     "Ashley",
+     6
+    ],
+    [
+     "One-Eyed Giant",
+     4
+    ],
+    [
+     "Ptolomea",
+     4
+    ],
+    [
+     "Inner Voice",
+     2
+    ],
+    [
+     "Brad",
+     1
+    ],
+    [
+     "Guy with Glasses",
+     1
+    ],
+    [
+     "Lilka",
+     1
+    ],
+    [
+     "Red-Haired Girl",
+     1
+    ]
+   ],
+   "file": "game_script/loc/CC.txt"
+  },
+  "LR": {
+   "name": "Live Reflector",
+   "boxes": 83,
+   "roster": [
+    [
+     "Ashley",
+     16
+    ],
+    [
+     "Tony",
+     11
+    ],
+    [
+     "Tim",
+     10
+    ],
+    [
+     "Vinsfeld",
+     10
+    ],
+    [
+     "Caina",
+     6
+    ],
+    [
+     "Ptolomea",
+     6
+    ],
+    [
+     "Lilka",
+     5
+    ],
+    [
+     "Scott",
+     5
+    ]
+   ],
+   "file": "game_script/loc/LR.txt"
+  },
+  "SD": {
+   "name": "Sylvaland Castle",
+   "boxes": 67,
+   "roster": [
+    [
+     "Queen of Sylvaland",
+     18
+    ],
+    [
+     "Ashley",
+     17
+    ],
+    [
+     "Antenora",
+     7
+    ],
+    [
+     "Vinsfeld",
+     6
+    ],
+    [
+     "Man 2",
+     5
+    ],
+    [
+     "Irving",
+     4
+    ],
+    [
+     "Man 1",
+     4
+    ],
+    [
+     "Soldier 1",
+     2
+    ]
+   ],
+   "file": "game_script/loc/SD.txt"
+  },
+  "HM": {
+   "name": "Halmetz",
+   "boxes": 22,
+   "roster": [
+    [
+     "Ashley",
+     6
+    ],
+    [
+     "Judecca",
+     6
+    ],
+    [
+     "Lilka",
+     4
+    ],
+    [
+     "Brad",
+     3
+    ],
+    [
+     "Inner Voice",
+     2
+    ],
+    [
+     "Voice of Judecca",
+     1
+    ]
+   ],
+   "file": "game_script/loc/HM.txt"
+  },
+  "GP": {
+   "name": "Golgotha Prison",
+   "boxes": 64,
+   "roster": [
+    [
+     "Ashley",
+     21
+    ],
+    [
+     "Brad",
+     10
+    ],
+    [
+     "Lilka",
+     10
+    ],
+    [
+     "Judecca",
+     9
+    ],
+    [
+     "Inner Voice",
+     4
+    ],
+    [
+     "Man",
+     2
+    ],
+    [
+     "Man 1",
+     2
+    ],
+    [
+     "Marivel",
+     2
+    ]
+   ],
+   "file": "game_script/loc/GP.txt"
+  },
+  "AM": {
+   "name": "Aguel Mine Shaft",
+   "boxes": 11,
+   "roster": [
+    [
+     "Lilka",
+     5
+    ],
+    [
+     "Ashley",
+     3
+    ],
+    [
+     "Brad",
+     3
+    ]
+   ],
+   "file": "game_script/loc/AM.txt"
+  },
+  "RO": {
+   "name": "Raline Observatory",
+   "boxes": 157,
+   "roster": [
+    [
+     "Liz",
+     62
+    ],
+    [
+     "Ashley",
+     55
+    ],
+    [
+     "Lilka",
+     19
+    ],
+    [
+     "Ard",
+     10
+    ],
+    [
+     "Lizardian A",
+     6
+    ],
+    [
+     "Lizardian B",
+     2
+    ],
+    [
+     "A mournful cry in the dark...",
+     1
+    ],
+    [
+     "Brad",
+     1
+    ]
+   ],
+   "file": "game_script/loc/RO.txt"
+  },
+  "BV": {
+   "name": "Baskar Village",
+   "boxes": 209,
+   "roster": [
+    [
+     "Village Chief",
+     34
+    ],
+    [
+     "Irving",
+     33
+    ],
+    [
+     "Tim",
+     33
+    ],
+    [
+     "Ashley",
+     27
+    ],
+    [
+     "Judecca",
+     13
+    ],
+    [
+     "Tony",
+     11
+    ],
+    [
+     "Lilka",
+     10
+    ],
+    [
+     "Antenora",
+     7
+    ]
+   ],
+   "file": "game_script/loc/BV.txt"
+  },
+  "HT": {
+   "name": "Hidden Trial Arena",
+   "boxes": 85,
+   "roster": [
+    [
+     "Tim",
+     34
+    ],
+    [
+     "Pooka",
+     16
+    ],
+    [
+     "Colette",
+     13
+    ],
+    [
+     "Ashley",
+     7
+    ],
+    [
+     "Lilka",
+     6
+    ],
+    [
+     "Odoryuk",
+     4
+    ],
+    [
+     "Brad",
+     3
+    ],
+    [
+     "Sub-Spirit",
+     2
+    ]
+   ],
+   "file": "game_script/loc/HT.txt"
+  },
+  "WV": {
+   "name": "Warwing Varukisas",
+   "boxes": 50,
+   "roster": [
+    [
+     "Ashley",
+     19
+    ],
+    [
+     "Irving",
+     9
+    ],
+    [
+     "Lilka",
+     7
+    ],
+    [
+     "Brad",
+     6
+    ],
+    [
+     "Ptolomea",
+     6
+    ],
+    [
+     "Tim",
+     2
+    ],
+    [
+     "Voice of Ptolomea",
+     1
+    ]
+   ],
+   "file": "game_script/loc/WV.txt"
+  },
+  "SR": {
+   "name": "Sielje Region",
+   "boxes": 87,
+   "roster": [
+    [
+     "Lilka",
+     29
+    ],
+    [
+     "Ashley",
+     23
+    ],
+    [
+     "Terry",
+     12
+    ],
+    [
+     "McGregor",
+     9
+    ],
+    [
+     "Irving",
+     5
+    ],
+    [
+     "Brad",
+     3
+    ],
+    [
+     "Tim",
+     3
+    ],
+    [
+     "Magic School's star pupil",
+     2
+    ]
+   ],
+   "file": "game_script/loc/SR.txt"
+  },
+  "GB": {
+   "name": "Gate Bridge",
+   "boxes": 47,
+   "roster": [
+    [
+     "Liz",
+     21
+    ],
+    [
+     "Ashley",
+     12
+    ],
+    [
+     "Ard",
+     10
+    ],
+    [
+     "Lilka",
+     3
+    ],
+    [
+     "Brad",
+     1
+    ]
+   ],
+   "file": "game_script/loc/GB.txt"
+  },
+  "GH": {
+   "name": "Greenhell",
+   "boxes": 5,
+   "roster": [
+    [
+     "Brad",
+     3
+    ],
+    [
+     "Ashley",
+     1
+    ],
+    [
+     "Lilka",
+     1
+    ]
+   ],
+   "file": "game_script/loc/GH.txt"
+  },
+  "QT": {
+   "name": "Quartly",
+   "boxes": 23,
+   "roster": [
+    [
+     "Ashley",
+     9
+    ],
+    [
+     "Brad",
+     4
+    ],
+    [
+     "One-eyed female Merc",
+     4
+    ],
+    [
+     "Lilka",
+     2
+    ],
+    [
+     "Kanon",
+     1
+    ],
+    [
+     "Man in the entrance",
+     1
+    ],
+    [
+     "Tim",
+     1
+    ],
+    [
+     "Woman",
+     1
+    ]
+   ],
+   "file": "game_script/loc/QT.txt"
+  },
+  "SY": {
+   "name": "Slayheim Castle",
+   "boxes": 25,
+   "roster": [
+    [
+     "Billy",
+     9
+    ],
+    [
+     "Brad",
+     4
+    ],
+    [
+     "Kanon",
+     4
+    ],
+    [
+     "SLA Soldier",
+     3
+    ],
+    [
+     "SLA soldier",
+     3
+    ],
+    [
+     "Ashley",
+     2
+    ]
+   ],
+   "file": "game_script/loc/SY.txt"
+  },
+  "AP": {
+   "name": "Alchemic Plant",
+   "boxes": 67,
+   "roster": [
+    [
+     "Ashley",
+     20
+    ],
+    [
+     "Antenora",
+     9
+    ],
+    [
+     "Brad",
+     9
+    ],
+    [
+     "Commander",
+     7
+    ],
+    [
+     "Radio Operator F",
+     4
+    ],
+    [
+     "Lilka",
+     3
+    ],
+    [
+     "Radio Operator C",
+     3
+    ],
+    [
+     "Radio Operator E",
+     3
+    ]
+   ],
+   "file": "game_script/loc/AP.txt"
+  },
+  "EZ": {
+   "name": "Emulator Zone",
+   "boxes": 64,
+   "roster": [
+    [
+     "Ashley",
+     20
+    ],
+    [
+     "Kanon",
+     10
+    ],
+    [
+     "Noel",
+     9
+    ],
+    [
+     "Conductor",
+     7
+    ],
+    [
+     "Lilka",
+     6
+    ],
+    [
+     "Tim",
+     5
+    ],
+    [
+     "Caina",
+     3
+    ],
+    [
+     "Voice in Space",
+     3
+    ]
+   ],
+   "file": "game_script/loc/EZ.txt"
+  },
+  "GG": {
+   "name": "Guild Galad",
+   "boxes": 42,
+   "roster": [
+    [
+     "Noel",
+     15
+    ],
+    [
+     "Guild Galad Master",
+     10
+    ],
+    [
+     "Ashley",
+     5
+    ],
+    [
+     "Lilka",
+     4
+    ],
+    [
+     "Vinsfeld",
+     3
+    ],
+    [
+     "Antenora",
+     1
+    ],
+    [
+     "Caina",
+     1
+    ],
+    [
+     "Judecca",
+     1
+    ]
+   ],
+   "file": "game_script/loc/GG.txt"
+  },
+  "CM": {
+   "name": "Closed Mine Shaft",
+   "boxes": 41,
+   "roster": [
+    [
+     "Ashley",
+     15
+    ],
+    [
+     "Kanon",
+     9
+    ],
+    [
+     "Tim",
+     6
+    ],
+    [
+     "Lilka",
+     5
+    ],
+    [
+     "Judecca",
+     4
+    ],
+    [
+     "Amy",
+     1
+    ],
+    [
+     "Pooka",
+     1
+    ]
+   ],
+   "file": "game_script/loc/CM.txt"
+  },
+  "HL": {
+   "name": "Holst",
+   "boxes": 29,
+   "roster": [
+    [
+     "Kanon",
+     8
+    ],
+    [
+     "Ashley",
+     7
+    ],
+    [
+     "Judecca",
+     5
+    ],
+    [
+     "Marivel",
+     5
+    ],
+    [
+     "Lilka",
+     2
+    ],
+    [
+     "Tim",
+     1
+    ],
+    [
+     "Voice of Kanon",
+     1
+    ]
+   ],
+   "file": "game_script/loc/HL.txt"
+  },
+  "CE": {
+   "name": "Coffin of 100 Eyes",
+   "boxes": 89,
+   "roster": [
+    [
+     "Ashley",
+     24
+    ],
+    [
+     "Brad",
+     10
+    ],
+    [
+     "Lilka",
+     8
+    ],
+    [
+     "Liz",
+     8
+    ],
+    [
+     "Vinsfeld",
+     8
+    ],
+    [
+     "Kanon",
+     6
+    ],
+    [
+     "Amy",
+     5
+    ],
+    [
+     "Antenora",
+     5
+    ]
+   ],
+   "file": "game_script/loc/CE.txt"
+  },
+  "DP": {
+   "name": "Diablo Pillar Ptolomea",
+   "boxes": 14,
+   "roster": [
+    [
+     "Ptolomea",
+     6
+    ],
+    [
+     "Brad",
+     2
+    ],
+    [
+     "Kanon",
+     2
+    ],
+    [
+     "Lilka",
+     2
+    ],
+    [
+     "Ashley",
+     1
+    ],
+    [
+     "Tim",
+     1
+    ]
+   ],
+   "file": "game_script/loc/DP.txt"
+  },
+  "DA": {
+   "name": "Diablo Pillar Antenora",
+   "boxes": 23,
+   "roster": [
+    [
+     "Antenora",
+     11
+    ],
+    [
+     "Lilka",
+     4
+    ],
+    [
+     "Kanon",
+     3
+    ],
+    [
+     "Ashley",
+     2
+    ],
+    [
+     "Brad",
+     2
+    ],
+    [
+     "Tim",
+     1
+    ]
+   ],
+   "file": "game_script/loc/DA.txt"
+  },
+  "DC": {
+   "name": "Diablo Pillar Caina",
+   "boxes": 17,
+   "roster": [
+    [
+     "Caina",
+     5
+    ],
+    [
+     "Tim",
+     5
+    ],
+    [
+     "Ashley",
+     3
+    ],
+    [
+     "Brad",
+     2
+    ],
+    [
+     "Pooka",
+     2
+    ]
+   ],
+   "file": "game_script/loc/DC.txt"
+  },
+  "LC": {
+   "name": "Lost City Archeim",
+   "boxes": 6,
+   "roster": [
+    [
+     "Ashley",
+     1
+    ],
+    [
+     "Ge Ramtos",
+     1
+    ],
+    [
+     "Kanon",
+     1
+    ],
+    [
+     "Lilka",
+     1
+    ],
+    [
+     "Tim",
+     1
+    ],
+    [
+     "Voice from the Stone",
+     1
+    ]
+   ],
+   "file": "game_script/loc/LC.txt"
+  },
+  "DJ": {
+   "name": "Diablo Pillar Judecca",
+   "boxes": 16,
+   "roster": [
+    [
+     "Judecca",
+     7
+    ],
+    [
+     "Kanon",
+     4
+    ],
+    [
+     "Ashley",
+     3
+    ],
+    [
+     "Lilka",
+     1
+    ],
+    [
+     "Tim",
+     1
+    ]
+   ],
+   "file": "game_script/loc/DJ.txt"
+  },
+  "MM": {
+   "name": "Memory Maze",
+   "boxes": 49,
+   "roster": [
+    [
+     "Anastasia",
+     25
+    ],
+    [
+     "Ashley",
+     18
+    ],
+    [
+     "Irving",
+     3
+    ],
+    [
+     "Altaecia",
+     1
+    ],
+    [
+     "Alteacia",
+     1
+    ],
+    [
+     "Voice of Alteacia",
+     1
+    ]
+   ],
+   "file": "game_script/loc/MM.txt"
+  },
+  "SA": {
+   "name": "Sacrificial Altar",
+   "boxes": 33,
+   "roster": [
+    [
+     "Gaia",
+     13
+    ],
+    [
+     "Tim",
+     7
+    ],
+    [
+     "Pooka",
+     6
+    ],
+    [
+     "Brad",
+     2
+    ],
+    [
+     "Kanon",
+     2
+    ],
+    [
+     "A Mass of Light",
+     1
+    ],
+    [
+     "Ashley",
+     1
+    ],
+    [
+     "Lilka",
+     1
+    ]
+   ],
+   "file": "game_script/loc/SA.txt"
+  },
+  "GL": {
+   "name": "Grotto of Lourdes",
+   "boxes": 32,
+   "roster": [
+    [
+     "Kanon",
+     19
+    ],
+    [
+     "Ashley",
+     5
+    ],
+    [
+     "Girl from Memory",
+     3
+    ],
+    [
+     "Aisha",
+     1
+    ],
+    [
+     "Door",
+     1
+    ],
+    [
+     "Kanon's Mother",
+     1
+    ],
+    [
+     "Lilka",
+     1
+    ],
+    [
+     "Tim",
+     1
+    ]
+   ],
+   "file": "game_script/loc/GL.txt"
+  },
+  "LG": {
+   "name": "Lost Garden",
+   "boxes": 39,
+   "roster": [
+    [
+     "Ashley",
+     19
+    ],
+    [
+     "Caina",
+     8
+    ],
+    [
+     "Marina",
+     5
+    ],
+    [
+     "Irving",
+     2
+    ],
+    [
+     "Brad",
+     1
+    ],
+    [
+     "Kanon",
+     1
+    ],
+    [
+     "Lilka",
+     1
+    ],
+    [
+     "Tim",
+     1
+    ]
+   ],
+   "file": "game_script/loc/LG.txt"
+  },
+  "SV": {
+   "name": "Sleeping Volcano",
+   "boxes": 44,
+   "roster": [
+    [
+     "Lombardia",
+     12
+    ],
+    [
+     "Ashley",
+     10
+    ],
+    [
+     "Brad",
+     5
+    ],
+    [
+     "Irving",
+     5
+    ],
+    [
+     "Lilka",
+     4
+    ],
+    [
+     "Tim",
+     4
+    ],
+    [
+     "Kanon",
+     2
+    ],
+    [
+     "Voice in the Crater",
+     2
+    ]
+   ],
+   "file": "game_script/loc/SV.txt"
+  },
+  "CS": {
+   "name": "Crimson Castle",
+   "boxes": 18,
+   "roster": [
+    [
+     "Marivel",
+     10
+    ],
+    [
+     "Ashley",
+     3
+    ],
+    [
+     "Lilka",
+     2
+    ],
+    [
+     "Brad",
+     1
+    ],
+    [
+     "Kanon",
+     1
+    ],
+    [
+     "Tim",
+     1
+    ]
+   ],
+   "file": "game_script/loc/CS.txt"
+  },
+  "PC": {
+   "name": "Promised Catacombs",
+   "boxes": 10,
+   "roster": [
+    [
+     "Marivel",
+     6
+    ],
+    [
+     "Ashley",
+     2
+    ],
+    [
+     "Dan Dairam",
+     1
+    ],
+    [
+     "Voice form the Stone",
+     1
+    ]
+   ],
+   "file": "game_script/loc/PC.txt"
+  },
+  "TZ": {
+   "name": "Trapezohedron",
+   "boxes": 10,
+   "roster": [
+    [
+     "Ashley",
+     4
+    ],
+    [
+     "Irving",
+     2
+    ],
+    [
+     "Brad",
+     1
+    ],
+    [
+     "Kanon",
+     1
+    ],
+    [
+     "Lilka",
+     1
+    ],
+    [
+     "Tim",
+     1
+    ]
+   ],
+   "file": "game_script/loc/TZ.txt"
+  },
+  "FW": {
+   "name": "Fiery Wreckage",
+   "boxes": 23,
+   "roster": [
+    [
+     "Ashley",
+     7
+    ],
+    [
+     "Brad",
+     6
+    ],
+    [
+     "Lilka",
+     4
+    ],
+    [
+     "Tim",
+     2
+    ],
+    [
+     "Amy",
+     1
+    ],
+    [
+     "Kanon",
+     1
+    ],
+    [
+     "Kate",
+     1
+    ],
+    [
+     "Marivel",
+     1
+    ]
+   ],
+   "file": "game_script/loc/FW.txt"
+  },
+  "WT": {
+   "name": "Wind Tiger's Den",
+   "boxes": 2,
+   "roster": [
+    [
+     "Fengalon",
+     1
+    ],
+    [
+     "Voice from the Stone",
+     1
+    ]
+   ],
+   "file": "game_script/loc/WT.txt"
+  },
+  "TL": {
+   "name": "Thunder Lion Cage",
+   "boxes": 2,
+   "roster": [
+    [
+     "Noua Shax",
+     1
+    ],
+    [
+     "Voice from the Stone",
+     1
+    ]
+   ],
+   "file": "game_script/loc/TL.txt"
+  },
+  "AI": {
+   "name": "Abandoned Icebox",
+   "boxes": 2,
+   "roster": [
+    [
+     "Aru Sulato",
+     1
+    ],
+    [
+     "Voice from the Stone",
+     1
+    ]
+   ],
+   "file": "game_script/loc/AI.txt"
+  },
+  "SG": {
+   "name": "Shining Garden",
+   "boxes": 2,
+   "roster": [
+    [
+     "Stare Roe",
+     1
+    ],
+    [
+     "Voice from the Stone",
+     1
+    ]
+   ],
+   "file": "game_script/loc/SG.txt"
+  },
+  "DR": {
+   "name": "Dark Reason",
+   "boxes": 2,
+   "roster": [
+    [
+     "Leita Salk",
+     1
+    ],
+    [
+     "Voice from the Stone",
+     1
+    ]
+   ],
+   "file": "game_script/loc/DR.txt"
+  },
+  "WD": {
+   "name": "Werewolf's Den",
+   "boxes": 28,
+   "roster": [
+    [
+     "Ashley",
+     10
+    ],
+    [
+     "Lucied",
+     7
+    ],
+    [
+     "Lilka",
+     3
+    ],
+    [
+     "Brad",
+     2
+    ],
+    [
+     "Kanon",
+     2
+    ],
+    [
+     "Marivel",
+     2
+    ],
+    [
+     "Tim",
+     2
+    ]
+   ],
+   "file": "game_script/loc/WD.txt"
+  },
+  "FL": {
+   "name": "Fab Science Lab",
+   "boxes": 104,
+   "roster": [
+    [
+     "Liz",
+     40
+    ],
+    [
+     "Ashley",
+     33
+    ],
+    [
+     "Lilka",
+     18
+    ],
+    [
+     "Ard",
+     12
+    ],
+    [
+     "The long awaited...",
+     1
+    ]
+   ],
+   "file": "game_script/loc/FL.txt"
+  },
+  "ST": {
+   "name": "Spiral Tower",
+   "boxes": 12,
+   "roster": [
+    [
+     "Ashley",
+     3
+    ],
+    [
+     "Tim",
+     3
+    ],
+    [
+     "Brad",
+     2
+    ],
+    [
+     "Kanon",
+     2
+    ],
+    [
+     "Lilka",
+     2
+    ]
+   ],
+   "file": "game_script/loc/ST.txt"
+  },
+  "GGa": {
+   "name": "Glaive Le Gable",
+   "boxes": 82,
+   "roster": [
+    [
+     "Ashley",
+     28
+    ],
+    [
+     "Irving",
+     11
+    ],
+    [
+     "Lord Blazer",
+     5
+    ],
+    [
+     "Marina",
+     4
+    ],
+    [
+     "Tim",
+     4
+    ],
+    [
+     "Kanon",
+     3
+    ],
+    [
+     "Lilka",
+     3
+    ],
+    [
+     "Amy",
+     2
+    ]
+   ],
+   "file": "game_script/loc/GGa.txt"
+  }
+ },
+ "unmapped": {}
+}
