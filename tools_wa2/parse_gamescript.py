@@ -32,7 +32,14 @@ def _norm(s): return re.sub(r'[^a-z0-9]', '', s.lower())
 _BYNORM = {_norm(n): c for n, c in _NAME_CODE.items()}
 # spelling variants in the transcript that differ from our canonical area names
 _ALIAS = {'aguelitemineshaft': 'AM'}
+# Prologue prose sub-headers /[1.a] .../ are location boundaries the ~~markers~~ don't cover.
+# Map each sub-code to its guide area (the three character intros share chapter 1.01).
+SUBCODE_AREA = {'1.a': 'WR', '1.b': 'BI', '1.c': 'MP'}
+SUBHDR_RE = re.compile(r'/\[([0-9]+\.[a-z])\]')   # matches "/[1.b]" anywhere in a line
+
 def loc_to_code(loc):
+    if loc and loc.startswith('__SUB__'):
+        return SUBCODE_AREA.get(loc[len('__SUB__'):])
     n = _norm(loc)
     return _BYNORM.get(n) or _ALIAS.get(n)
 
@@ -76,6 +83,15 @@ def parse(text):
             sections.append(cur)
             continue
         if cur is None:
+            continue
+        # prologue prose sub-header /[1.b] .../ — a location boundary the ~~markers~~ miss
+        hm = SUBHDR_RE.search(ln)
+        if hm and hm.group(1) in SUBCODE_AREA:
+            flush()
+            loc = f"__SUB__{hm.group(1)}"        # sentinel resolved by loc_to_code below
+            cur['loc'] = loc
+            title = ln.strip().strip('/').strip()
+            cur['boxes'].append({'kind':'subarea','speaker':None,'text':title,'loc':loc})
             continue
         sm = SUB_RE.match(ln)
         if sm:

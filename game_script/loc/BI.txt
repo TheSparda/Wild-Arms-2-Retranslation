@@ -1,0 +1,67 @@
+# area BI — Brad's Intro  (35 dialogue boxes)
+# from the game-script ~~Location~~ markers (authoritative area boundary)
+# ============================================================
+
+~~ [1.b] A former hero now war criminal ~~
+  [Five years ago...]
+  [In a forest, a big man runs away from a group of men.]
+Man A: That's strange. I thought we chased him in here.
+Man B: In this weather, even he'd be exhausted. He can't be very far. We gotta look some more! Call in a bunch of Barghests! They'll chase him out.
+  [The men leave the area.]
+Escapee: Are they gone? Tsk, this reminds me of that other time. But there wasn't any miserable rain back then.
+  [The escapee remembers a part of his past.]
+  [FLASHBACK:]
+  [In a castle, he and his comrades seem to be fighting a battle.]
+  [SCENE: Three men are gathered.]
+Man: Yes, blood did get spilled, but in an era of delusions, if someone doesn't stand up, even more blood will be shed.
+  [SCENE: A group of men, running.]
+Man: We'll blast on through! Don't delay a second!
+  [SCENE: A group of men in a forest.]
+Man: That's impossible! Why did we...No, why'd they die for something like that?
+  [FLASHBACK ENDS.]
+Escapee: This is no time to get stingy with the ammunition. I have to survive. My name still has no meaning.
+  [Meanwhile...]
+Man: Commander, the search party recovered these items from Point 12-SW.
+Posse Leader: An ID card of a Slayheim Liberation Army Soldier. Here, give it to me.
+  [From the ID card, they find out that the escapee's name is Brad Evans.]
+Posse Leader: There's no mistake. It's Brad Evans' ID card. OK, proceed to the recovery point. We must catch him before he gets through the forest!!
+  [Brad runs away from his pursuers.  He reaches a cliff.]
+Brad: (There's no turning back once you go over this cliff. But the Posse is closing in. Even if I die, I can't let my name be dishonored. I am "Brad Evans" of the Slayheim Liberation Army. I cannot delay. I must get to the other side of the forest quickly.)
+  [Brad goes down the cliff.  On his way, he senses something.]
+Brad: What?! Who's there?!
+  [A puppy appears.]
+Brad: Oh, a puppy. Come on. Don't bark, please.
+Voice: Hey, did you hear something over here?
+  [Brad hides behind a tree.]
+Brad: Namumi!
+Voice: Oh, it's just a puppy. Scared me. What a waste of time. Let's go. I'm not going to let the others get all the credit.
+  [Brad comes out from hiding.  The puppy has a berry with him.]
+Brad: You saved my butt, buddy. Wow. That took guts. You probably came into the forest to avoid the rain too. Let's get out of here together. [Brad continues to find a way out of the forest. On the way, he acquires the tool, Kick Boots.] [TUTORIAL]: *Press ([]) with the Kick Boots and shock the target. Delivering this shock will cause all kinds of things to happen.
+  [Moving on, Brad encounters the hunters.  He hides.]
+Recruit 1: I wonder what just ran into the forest? A dangerous criminal? Maybe a very pale degenerate.
+Recruit 2: Who knows? All I know is that we haven't been told anything and there's no need for us to know either.
+Recruit 1: What would you do if he suddenly jumped out here? It wouldn't be a bad idea for us to catch him and get the credit. With a reward, I'll get a horse and return to T'Bok Village. It'll end my mercenary work.
+Recruit 2: If you keep babbling, the search team will beat you silly.
+Brad: There's no order here. Were those two soldiers conscripted recently? That means there's a village nearby.
+  [A roar of something can be heard.]
+Recruit 1: What's that voice I hear?
+Recruit 2: It's a monster! Even the village animals have been attacked by it! Let's get out of here! We're in over our heads!!
+Recruit 1: But where will we go? And how will we get there?
+  [Brad comes out of hiding.]
+Brad: You guys are such trouble!
+Recruit 1: You...You're...
+Brad: Just stay down!
+  [BOSS: Parasite Colony Monster - Gremalkin]
+  [Brad confronts the monster.]
+Brad: (Sure are self-assured, Brad Evans. Lending a hand to your pursuers. Sure, I'll show you what it means to be a "hero." I'll take care of this before the incident gets any bigger!)
+  [Brad defeats Gremalkin.]
+  [Brad goes on his way.]
+Recruit 1: You saved us?
+Recruit 2: Hey!
+  [The Posse Leader, with some men, comes to the scene.]
+Posse Leader: His fighting is even more powerful than it was rumored to be.
+Man: I don't know if our forces are strong enough to defeat him.
+Posse Leader: There's a village on the other side of the forest, right? I've got an idea. Wait, Brad Evans.
+  [Brad is out of the forest.]
+Brad: (I'm out of the forest. I need a place to hide. What about that place...)
+  [Brad reads the sign.]

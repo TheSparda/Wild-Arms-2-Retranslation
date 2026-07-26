@@ -2,19 +2,15 @@
  "locations": {
   "WR": {
    "name": "Withered Ruins",
-   "boxes": 88,
+   "boxes": 60,
    "roster": [
     [
      "Ashley",
      18
     ],
     [
-     "Brad",
-     10
-    ],
-    [
      "Commander",
-     6
+     10
     ],
     [
      "Gangal",
@@ -25,19 +21,62 @@
      6
     ],
     [
-     "Recruit 1",
+     "Tony",
      6
     ],
     [
-     "Tony",
+     "Boy Hostage",
+     4
+    ],
+    [
+     "Gerg",
+     3
+    ],
+    [
+     "Musketeer B",
+     2
+    ]
+   ],
+   "file": "game_script/loc/WR.txt"
+  },
+  "BI": {
+   "name": "Brad's Intro",
+   "boxes": 35,
+   "roster": [
+    [
+     "Brad",
+     10
+    ],
+    [
+     "Recruit 1",
      6
     ],
     [
      "Man",
      5
+    ],
+    [
+     "Posse Leader",
+     4
+    ],
+    [
+     "Recruit 2",
+     4
+    ],
+    [
+     "Escapee",
+     2
+    ],
+    [
+     "Voice",
+     2
+    ],
+    [
+     "Man A",
+     1
     ]
    ],
-   "file": "game_script/loc/WR.txt"
+   "file": "game_script/loc/BI.txt"
   },
   "TB": {
    "name": "T'Bok Village",
@@ -78,45 +117,6 @@
    ],
    "file": "game_script/loc/TB.txt"
   },
-  "PV": {
-   "name": "Palace Village",
-   "boxes": 23,
-   "roster": [
-    [
-     "Lilka",
-     9
-    ],
-    [
-     "Boy",
-     5
-    ],
-    [
-     "Mother",
-     2
-    ],
-    [
-     "Village Elder",
-     2
-    ],
-    [
-     "Mysterious Girl",
-     1
-    ],
-    [
-     "Old Man",
-     1
-    ],
-    [
-     "Villager 1",
-     1
-    ],
-    [
-     "Villager 2",
-     1
-    ]
-   ],
-   "file": "game_script/loc/PV.txt"
-  },
   "MP": {
    "name": "Millennium Puzzle",
    "boxes": 121,
@@ -155,6 +155,45 @@
     ]
    ],
    "file": "game_script/loc/MP.txt"
+  },
+  "PV": {
+   "name": "Palace Village",
+   "boxes": 23,
+   "roster": [
+    [
+     "Lilka",
+     9
+    ],
+    [
+     "Boy",
+     5
+    ],
+    [
+     "Mother",
+     2
+    ],
+    [
+     "Village Elder",
+     2
+    ],
+    [
+     "Mysterious Girl",
+     1
+    ],
+    [
+     "Old Man",
+     1
+    ],
+    [
+     "Villager 1",
+     1
+    ],
+    [
+     "Villager 2",
+     1
+    ]
+   ],
+   "file": "game_script/loc/PV.txt"
   },
   "MR": {
    "name": "Town of Meria",
