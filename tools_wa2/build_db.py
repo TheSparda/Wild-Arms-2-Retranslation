@@ -102,6 +102,13 @@ SCENES = [
  ('m_final_heroes_prayer_FINAL.txt','GGa',"Before the Final Battle: the |heroes| prayer (come back safely)",'111'),
  ('m_anastasia_meeting_FINAL.txt','GGa',"Ashley meets the Sword Magess Anastasia between life and death",'116'),
  ('m_kanon_pillar_FINAL.txt','GGa',"Kanon / Vinsfeld's hero philosophy / Marina refuses the Pillar",'117'),
+ ('m_summit_maneuver_FINAL.txt','GGa',"The Live Reflector maneuver to seize the Kuiper Belt (broadcast)",'108'),
+ ('m_demon_summoning_FINAL.txt','GGa',"The Demon Summoning reveal + the party's resolve (Kuiper Belt)",'112'),
+ ('m_swordmagess_memory_FINAL.txt','GGa',"Sword Magess memory: power/sacrifice; Lord Blazer sealed, Marivel's pledge",'62'),
+ ('m_guardian_hearts_FINAL.txt','GGa',"Guardian Lords of the heart: Raftina (love), Justine (courage), Zephyr (hope)",'55'),
+ ('m_trust_resolve_FINAL.txt','GGa',"Trust & resolve: doubt breaks a party; drive the demon out of Ashley",'104'),
+ ('m_backstories_FINAL.txt','GGa',"Party backstories: Tim, Kanon's sky promise, Marivel's solitude, Ashley's words",'89'),
+ ('m_slayheim_recruits_lore_FINAL.txt','SY',"Slayheim front-line recruits + the <Sword Magess> lore panels",'118'),
 ]
 
 # ---- first-pass registry: auto-generated files (localization reflowed, US#-verified) ----
