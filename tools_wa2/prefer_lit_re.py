@@ -27,7 +27,10 @@ def real_lit(lit):
     if not s or 'pending' in s or s=='__LIT_TODO__' or s.startswith('(literal'): return False
     # A LIT that is (or contains) a translator NOTE rather than the line itself: skip it.
     # e.g. "Ge-ge-ge... (Ard can only say his own name)" — the note describes, doesn't translate.
-    if re.search(r'\((?:[^)]*\b(?:can only|note|lit\.|i\.e\.|untranslat|sfx|onomatopoe)\b[^)]*)\)', s, re.I):
+    if re.search(r'\((?:[^)]*\b(?:can only|note|lit\.|i\.e\.|untranslat|sfx|onomatopoe|snoring|snore)\b[^)]*)\)', s, re.I):
+        return False
+    # a LIT that is ENTIRELY a parenthetical stage note (e.g. "(snoring)") is not a translation
+    if re.fullmatch(r'\([^)]*\)', s):
         return False
     return True
 

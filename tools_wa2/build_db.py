@@ -115,6 +115,10 @@ SCENES = [
  ('m_vinsfeld_manifesto_FINAL.txt','SY',"Vinsfeld's Odessa manifesto broadcast",'88'),
  ('m_pillar_trial_FINAL.txt','SA',"Sacrificial Altar trial: Marina + Pooka, the |Combine|, the |Pillar|",'34'),
  ('m_guildgalad_magic_FINAL.txt','GG',"Guild Galad Crest Sorcery: |Extend| + High Magic sidequest",'67'),
+ # ---- previously-unmapped Disc-1 areas, now located + translated ----
+ ('m_aguel_mine_FINAL.txt','AM',"Aguel Mine Shaft: Aguelite/Germatron crystal lore",'33'),
+ ('m_closed_mine_FINAL.txt','CM',"Closed Mine Shaft: Kanon confrontation (Sword Magess blood / the Demon)",'43'),
+ ('m_tbok_village_FINAL.txt','TB',"T'Bok Village: Brad wakes; Merrill + the dog; the Vinsfeld/Slayheim reveal",'2'),
 ]
 
 # ---- first-pass registry: auto-generated files (localization reflowed, US#-verified) ----
@@ -141,9 +145,7 @@ FIRSTPASS = [
 # ---- area -> STGEVT block(s), for areas ANCHORED but not yet translated (no insert file).
 # These are real content gaps we've located; add an insert file + move to FIRSTPASS once done. ----
 AREA_BLOCKS_EXTRA = {
- 'AM': [33],   # Aguel Mine Shaft — Aguelite/Germatron crystal lore (~11 boxes)
- 'CM': [43],   # Closed Mine Shaft — Zoa Priest scene, Odessa after the empty mine (~41 boxes)
- 'TB': [2],    # T'Bok Village — Brad wakes in the stable, Merrill + the dog Rassyu (~123 boxes)
+ # (AM/CM/TB now translated and registered in SCENES above; none currently pending.)
 }
 
 # ---- game-script section id -> guide-area codes it contains (placeholder + gap anchor) ----

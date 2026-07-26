@@ -1,0 +1,226 @@
+# WA2 — Closed Mine Shaft (CM) — block 43 — DEEP RE
+# =========================================================================================
+# The confrontation in the abandoned mine. Kanon (who carries the <Sword Magess> blood) hunts
+# Ashley as the Demon-carrier and her lost |half-self|; Ashley states his creed that power is
+# neither good nor evil and asks Marina to cut him down if the |Other Me| takes over. Plus
+# Marina's Zoa-Priest energy-sensing and the "why an empty mine?" beat that exposes Odessa's plan.
+#   RE = literal where JP is clean, else the localization tidied to fit. 3x35, no dashes.
+#   {0}=Ashley {3}=Marina {4}=Kanon preserved verbatim.
+# =========================================================================================
+
+[US#5975] (panel)
+  EN : *The items use will add new ammunition to the bayonet.
+  RE : *Using this item loads new
+       ammunition into the bayonet.
+
+[US#5976] (panel)
+  EN : *It'll execute a Shockwave attack on the enemy group.
+  RE : *It unleashes a Shockwave attack on
+       the enemy group.
+
+[US#5981] (Marina)
+  EN : Yes, that's right. I can't feel any energy.
+  RE : Yes, that's right. I can't feel any
+       energy here.
+
+[US#5982] (party)
+  EN : They can sense the energy of the earth and spirits.
+  RE : They can sense the energy of the
+       earth and the spirits.
+
+[US#5983] (party)
+  EN : That's proof that 3's abilities as a Zoa Priest have developed.
+  RE : Proof that {3}'s powers as a Zoa
+       Priest have grown.
+
+[US#5984] (Marina)
+  JP : 「オデッサは / 大きなエネルギーを確保するために / やっきになってるんでしょ？
+  LIT: Odessa is desperate to secure a large energy source, isn't it?
+  EN : Odessa's getting frantic trying to secure a large energy source, right?
+  RE : Odessa is desperate to secure a
+       large energy source, isn't it?
+
+[US#5985] (party)
+  EN : Then why would they be after an empty mine?
+  RE : Then why would they be after an
+       empty mine?
+
+[US#5986] (Marina)
+  JP : 「戻ってこない人のことを想っても / 何にも始まらないよ〜
+  LIT: Dwelling on someone who won't come back gets us nowhere.
+  EN : There's no use talking about someone who won't return.
+  RE : Dwelling on someone who won't come
+       back gets us nowhere.
+
+[US#5987] (party)
+  EN : It may take awhile, but if you keep moving forward, the route should appear.
+  RE : It may take a while, but keep
+       moving forward and the way will
+       open.
+
+[US#5988] (Kanon)
+  EN : We have no desire to fight you!
+  RE : We have no wish to fight you!
+
+[US#5989] (Kanon)
+  JP : 「ボクたちは / 戦ってはいけないんですッ！
+  LIT: We are not supposed to fight!
+  EN : We aren't supposed to fight!
+  RE : We are not supposed to fight!
+
+[US#5990] (Kanon)
+  JP : 「あなたが攻ってくるから / わたしたちも / 仕方なく戦っているんじゃないッ！
+  LIT: You're the one attacking us, so we've no choice but to fight back!
+  EN : We're only fighting reluctantly because you attacked us!
+  RE : You're the one attacking us, so
+       we've no choice but to fight back!
+
+[US#5991] (Kanon)
+  EN : If I weren't burdened with destiny, I'd have no reason to fight you.
+  RE : Were I not bound by destiny, I'd
+       have no reason to fight you.
+
+[US#5992] (Kanon)
+  JP : 「〜だがッ！
+  LIT: But!
+  EN : But!
+  RE : But!
+
+[US#5993] (Kanon)
+  EN : 0 Winchester... As long as the Demon lurks within you, I target you.
+  RE : {0} Winchester... while the Demon
+       lurks in you, you are my target.
+
+[US#5994] (Kanon)
+  EN : You are my prey, I who carry the blood of the <Sword Magess>!
+  RE : You are my prey, I who carry the
+       blood of the <Sword Magess>!
+
+[US#5995] (Kanon)
+  EN : Beware!
+  RE : Beware!
+
+[US#5996] (Kanon)
+  EN : are calling to each other. In other words, 0 and my lost |half-self!|
+  RE : ...call to each other. You, {0},
+       and my lost |half-self!|
+
+[US#5997] (Kanon)
+  EN : The battle, determining male or female is the way it should be.
+  RE : A battle to decide which of us
+       remains. That is how it must be.
+
+[US#5998] (Kanon)
+  EN : Are you saying the <Sword Magess> blood in me is a lie?
+  RE : Are you saying the <Sword Magess>
+       blood in me is a lie?
+
+[US#5999] (Kanon)
+  JP : 「そんなハズは〜 / そんなことがあってたまるかッ！
+  LIT: That can't be. I won't stand for such a thing!
+  EN : It can't be. This can't be happening!
+  RE : That can't be. I won't stand for
+       such a thing!
+
+[US#6000] (Kanon)
+  EN : If so, why?! Why won't my sword reach the evil Demon?
+  RE : Then why?! Why won't my sword reach
+       the vile Demon?
+
+[US#6001] (Kanon)
+  EN : Answer me. Demon carrier, my |half-self,| 0 Winchester.
+  RE : Answer me. Demon-carrier, my
+       |half-self,| {0} Winchester.
+
+[US#6002] (Kanon)
+  EN : and get powerful, I gave up my body. And for what?
+  RE : To gain that power, I gave up my
+       body. And for what?
+
+[US#6003] (Ashley)
+  JP : 「そいつは / 何もかもを破滅しかねない / 強力な力を持っている
+  LIT: That thing holds a power strong enough to ruin everything.
+  EN : It's a powerful force which can't help but destroy everything.
+  RE : That thing holds a power strong
+       enough to ruin everything.
+
+[US#6004] (Ashley)
+  EN : But I believe power is neither good nor evil.
+  RE : But I believe power is neither good
+       nor evil.
+
+[US#6005] (Ashley)
+  EN : It is I who willingly uses the Demon's powerful force.
+  RE : It is I who choose to wield the
+       Demon's power.
+
+[US#6006] (Ashley)
+  EN : I wield this power for what I believe in.
+  RE : I wield this power for what I
+       believe in.
+
+[US#6007] (Ashley)
+  EN : I will take the evil power and turn it into my own power in order to defeat Odessa.
+  RE : I'll take this evil power and make
+       it my own, to defeat Odessa.
+
+[US#6008] (Ashley)
+  EN : You don't have to join us.
+  RE : You don't have to join us.
+
+[US#6009] (Ashley)
+  EN : When I can't use the power of the |Other Me| then...
+  RE : When I can no longer control the
+       |Other Me,| then...
+
+[US#6010] (Ashley)
+  EN : 4, I want to borrow your power which carries the blood of the <Sword Magess>.
+  RE : {4}, I want to borrow your power,
+       the <Sword Magess> blood in you.
+
+[US#6011] (Ashley)
+  JP : 「戦うたび、あの力を使うたびに / 俺の街で『もうひとりの俺』が / 大きくなっていくことを〜
+  LIT: Every time I fight, every time I use that power, the |Other Me| inside grows.
+  EN : Every time I fight, every time I use that power, the |Other Me| inside gets bigger.
+  RE : Every time I fight, every time I
+       use that power, the |Other Me|
+       inside grows.
+
+[US#6012] (Ashley)
+  EN : When |I| can't avoid harming what I love, I want you to cut both of us down.
+  RE : When |I| can't help but hurt what I
+       love, cut us both down.
+
+[US#6013] (Ashley)
+  EN : That's why I want you on our side.
+  RE : That's why I want you with us.
+
+[US#6014] (Marivel)
+  EN : While you were dealing with the hero nerd, I took care of things.
+  RE : While you handled the hero wannabe,
+       I took care of things.
+
+[US#6015] (Marivel)
+  EN : Ha. Ha. Ha. Ha. Whenever I'm happy, my glasses fall.
+  RE : Ha. Ha. Ha. When I'm pleased, my
+       glasses slip.
+
+[US#6016] (Marivel)
+  EN : Living in obscurity is so very fitting.
+  RE : Living in the shadows suits me
+       well.
+
+[US#6017] (party)
+  EN : 0!
+  RE : {0}!
+
+[US#6018] (Ashley)
+  JP : 「俺たちが戦うべき相手は / オデッサだ
+  LIT: The ones we should be fighting are Odessa.
+  EN : Our opponent is Odessa.
+  RE : The ones we should be fighting are
+       Odessa.
+
+[US#6019] (party)
+  EN : Let's hurry to Holst!
+  RE : Let's hurry to Holst!

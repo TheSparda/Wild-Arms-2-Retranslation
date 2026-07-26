@@ -1,0 +1,70 @@
+# WA2 — Aguel Mine Shaft (AM) — block 33 — DEEP RE
+# =========================================================================================
+# The mine where Aguelite is dug. NPC/panel lore on the Energy Crystals (Aguelite & Germatron):
+# high-density crystals that powered ancient civilization, and the danger of what they can
+# resurrect. RE = literal where JP is clean, else the localization tidied to fit. 3x35, no dashes.
+# =========================================================================================
+
+[US#5468] (panel)
+  EN : *This Anti-monster missile unit will launch a random attack against the enemy.
+  RE : *This anti-monster missile unit
+       fires a random strike at the enemy.
+
+[US#5469] (miner)
+  EN : The two are said to be high-density crystals which supported ancient civilization's energy needs.
+  RE : They say the two are high-density
+       crystals that powered an ancient
+       civilization.
+
+[US#5470] (miner)
+  EN : Entombed in the earth, it became a corpse of sorts that has been dug out as |crystal.|
+  RE : Buried in the earth, it became a
+       kind of corpse, dug back up as
+       |crystal.|
+
+[US#5471] (sleeping NPC)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring)
+  EN : ...30...30...30...
+  RE : ...zzz...zzz...zzz...
+
+[US#5472] (miner)
+  EN : People are drawn to light that's strong and fleeting. They think it'll make them shine.
+  RE : People are drawn to a strong,
+       fleeting light. They think it will
+       make them shine too.
+
+[US#5473] (miner)
+  EN : It's one of the measures used to resurrect the deadly weapons created by ancient civilizations.
+  RE : It's one of the means used to
+       revive the deadly weapons of the
+       ancient civilizations.
+
+[US#5474] (miner)
+  EN : It causes the black wings of |death| and |destruction| to flutter. That's why people want it.
+  RE : It stirs the black wings of |death|
+       and |destruction.| That's why
+       people crave it.
+
+[US#5475] (Lilka)
+  EN : He's not trying to get it for that, right?
+  RE : He's not after it for that, is he?
+
+[US#5476] (miner)
+  JP : 「大事なのは / それを使う人の心だと / 〜信じて、いる
+  LIT: What matters is the heart of the one who uses it. That's what I believe.
+  EN : I believe what's key is the heart of the person who uses it.
+  RE : What matters is the heart of the
+       one who uses it. That's what I
+       believe.
+
+[US#5477] (miner)
+  JP : 「だから〜
+  LIT: So...
+  EN : So...
+  RE : So...
+
+[US#5480] (panel)
+  EN : *If the same power as the catapult is applied, maybe it'll move?
+  RE : *Apply the same force as the
+       catapult, and maybe it'll move?

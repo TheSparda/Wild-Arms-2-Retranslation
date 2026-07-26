@@ -153,6 +153,30 @@
   "todo": 89,
   "todo_clean": 22
  },
+ "AM": {
+  "blocks": [
+   33
+  ],
+  "done": 11,
+  "todo": 1,
+  "todo_clean": 0
+ },
+ "CM": {
+  "blocks": [
+   43
+  ],
+  "done": 41,
+  "todo": 1,
+  "todo_clean": 1
+ },
+ "TB": {
+  "blocks": [
+   2
+  ],
+  "done": 120,
+  "todo": 4,
+  "todo_clean": 2
+ },
  "IP": {
   "blocks": [
    27
@@ -342,29 +366,5 @@
   "done": 111,
   "todo": 1,
   "todo_clean": 1
- },
- "AM": {
-  "blocks": [
-   33
-  ],
-  "done": 0,
-  "todo": 12,
-  "todo_clean": 3
- },
- "CM": {
-  "blocks": [
-   43
-  ],
-  "done": 0,
-  "todo": 42,
-  "todo_clean": 10
- },
- "TB": {
-  "blocks": [
-   2
-  ],
-  "done": 0,
-  "todo": 124,
-  "todo_clean": 23
  }
 }

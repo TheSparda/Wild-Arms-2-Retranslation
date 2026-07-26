@@ -1,0 +1,630 @@
+# WA2 — T'Bok Village (TB) — block 2 — DEEP RE
+# =========================================================================================
+# Brad's backstory hub. He wakes as a fugitive in T'Bok; the villager girl Merrill (who has
+# waited five years) and the dog {7} tend him. The village reveals he was |{1} Evans| of the
+# Slayheim Liberation Army, betrayed and framed by Vinsfeld Rhadamanthus, who then founded
+# Odessa. The party picks up the data-tablet thieves' trail toward Quartly / Slayheim.
+#   RE = literal where JP is clean, else the localization tidied to fit. 3x35, no dashes.
+#   {0}=Ashley {1}=Brad(=|{1} Evans|) {2}=Lilka {4}=Kanon {7}=the dog. Codes verbatim.
+# =========================================================================================
+
+[US#164] (Merrill)
+  EN : You were sleeping so deeply, I thought you'd never wake up.
+  RE : You were sleeping so deeply, I
+       thought you'd never wake.
+
+[US#165] (Merrill)
+  JP : 「もう置はいないんだけどね
+  EN : But all the horses are gone.
+  RE : Though the horses are all gone now.
+
+[US#166] (Merrill)
+  JP : 「わたしはメリル / ねぇ、今度はわたしが質誓してもいい？[10]
+  EN : My name's Merrill. Now can I ask you something?
+  RE : I'm Merrill. Say, can I ask you
+       something this time?
+
+[US#167] (Merrill)
+  EN : He is the one who told me you were passed out in the rain.
+  RE : He's the one who told me you'd
+       collapsed in the rain.
+
+[US#168] (Merrill)
+  JP : 「じゃあ、わたしが名前をつけていいよね / そうだなぁ〜[10]
+  EN : So I guess I can name him. Let's see...
+  RE : Then I get to name him. Let's
+       see...
+
+[US#169] (Merrill)
+  JP : 「待ってて / 何か食べ物を持ってくるから
+  EN : Wait! I'll get you something to eat.
+  RE : Wait here. I'll bring you something
+       to eat.
+
+[US#170] (Brad)
+  EN : You're not afraid of me?
+  RE : You're not afraid of me?
+
+[US#171] (Merrill)
+  JP : 「だいじょうぶ / わたしと[0a]ぐがいるからッ！
+  EN : Don't worry, {7} and I will stay with you!
+  RE : It's all right. You've got me and
+       {7} here!
+
+[US#172]
+  EN : Surely you realize that.
+  RE : Surely you realize that.
+
+[US#173] (stranger)
+  EN : So it's you, 1 Evans. I came to deliver something that you lost.
+  RE : So it's you, {1} Evans. I've come
+       to return something you lost.
+
+[US#174] (Brad)
+  EN : That's fine by me, but realize that innocent villagers may be hit by stray bullets.
+  RE : Fine by me. But know that stray
+       shots may hit innocent villagers.
+
+[US#175] (villager)
+  EN : Now listen, young lady. That man is a |hero.|
+  RE : Now listen, young lady. That man is
+       a |hero.|
+
+[US#178]
+  EN : He's helping the wounded now.
+  RE : He's tending to the wounded now.
+
+[US#179] (villager)
+  EN : So I'm off to a 1good-luck spot0 1on the southeastern coast0 and say |Thank you!|
+  RE : So I'm off to a good-luck spot on
+       the southeast coast to say |Thank
+       you!|
+
+[US#180] (villager)
+  EN : The good thing that happened? You came here, that's what!
+  RE : The good thing that happened? You
+       coming here, that's what!
+
+[US#181] (Merrill)
+  EN : Did you come to the village just to visit {4}?
+  RE : Did you come to the village just to
+       see {4}?
+
+[US#182] (Merrill)
+  EN : Oops. What am I saying? I-I'm sorry!
+  RE : Oops. What am I saying? I-I'm
+       sorry!
+
+[US#183] (Merrill)
+  EN : Mister, when {4} gets better, does that mean you won't come here anymore?
+  RE : Mister, once {4} recovers, does
+       that mean you won't come here
+       anymore?
+
+[US#184] (Merrill)
+  EN : Oops. What am I saying? Sorry! Never mind!
+  RE : Oops. What am I saying? Sorry!
+       Never mind!
+
+[US#185] (villager)
+  EN : {4}'s condition hasn't changed. Neither has the dark sky.
+  RE : {4}'s condition hasn't changed. Nor
+       has the dark sky.
+
+[US#187] (villager)
+  EN : Hey... You look different. You look a lot healthier.
+  RE : Hey... you look different. A lot
+       healthier.
+
+[US#188] (villager)
+  EN : Now that you are here, we will feel a lot better. That's 'cause you're heroes!
+  RE : With you here, we all feel better.
+       That's because you're heroes.
+
+[US#189] (Merrill)
+  EN : Why did you just disappear like that? You didn't even say goodbye!
+  RE : Why did you just vanish like that?
+       You didn't even say goodbye!
+
+[US#190] (Merrill)
+  EN : Please, everyone, keep an eye on him so he doesn't do anything like that again!
+  RE : Everyone, please keep an eye on him
+       so he doesn't pull that again.
+
+[US#191] (Merrill)
+  JP : 「おじさんはどうしたんですか / なんでいないんですか？
+  EN : Oh, where did he go? Why isn't he with you?
+  RE : Oh, where did he go? Why isn't he
+       with you?
+
+[US#192] (Merrill)
+  EN : I was so worried! I didn't know where you went or even if you were alright!
+  RE : I was so worried! I had no idea
+       where you'd gone, or if you were
+       safe!
+
+[US#193] (villager)
+  EN : {7} told me he had collapsed in the rain. Hard to believe that was 5 years ago.
+  RE : {7} said he'd collapsed in the
+       rain. Hard to believe that was five
+       years ago.
+
+[US#194] (Village Chief)
+  EN : I'm so ashamed I can't do anything for you even though you protected our village.
+  RE : I'm ashamed I can do nothing for
+       you, even after you protected our
+       village.
+
+[US#195] (Village Chief)
+  EN : I'm so ashamed that I can't do anything for the friends of 1.
+  RE : I'm ashamed I can do nothing for
+       {1}'s friends.
+
+[US#196] (Village Chief)
+  JP : 「その事実が国人の心に / 重くのしかかるようでのぉ〜
+  EN : It weighs heavy on the hearts of everyone in the village.
+  RE : That fact weighs heavy on every
+       heart in the village.
+
+[US#197] (villager)
+  EN : This place was dreary enough as it was, but this dark sky is sapping everyone's energy!
+  RE : This place was dreary enough, but
+       the dark sky is draining everyone.
+
+[US#198] (villager)
+  EN : Merrill will be so relieved to see that you're safe, 1.
+  RE : Merrill will be so relieved to see
+       you're safe, {1}.
+
+[US#199] (villager)
+  EN : In this remote village, we see little of worldly goings-on.
+  RE : In this remote village, we hear
+       little of the wider world.
+
+[US#200] (villager)
+  EN : 1 is gone. Perhaps another mission came up...
+  RE : {1} is gone. Perhaps another
+       mission came up...
+
+[US#201] (villager)
+  EN : Without your help, we could not have escaped.
+  RE : Without your help, we could never
+       have escaped.
+
+[US#202] (villager)
+  EN : It was so kindhearted of you to surrender for our sake.
+  RE : It was so kind of you to surrender
+       for our sake.
+
+[US#203] (villager)
+  EN : They robbed us of the village's only boat. That was our only means of transport.
+  RE : They stole the village's only boat,
+       our one means of travel.
+
+[US#204] (villager)
+  EN : As his dearest friend, please come visit {4} in the hope he will recover.
+  RE : As his dearest friend, please visit
+       {4}, in hope he recovers.
+
+[US#205] (villager)
+  EN : But now that 1, his best friend, has come to visit I know he will get better.
+  RE : But now that {1}, his best friend,
+       has come, I know he'll get better.
+
+[US#206] (villager)
+  EN : {4} will be so disappointed.
+  RE : {4} will be so disappointed.
+
+[US#207] (villager)
+  EN : Don't worry about {4}. We'll take good care of him.
+  RE : Don't worry about {4}. We'll take
+       good care of him.
+
+[US#208] (villager)
+  EN : They seemed to be heading for 1the western desert0.
+  RE : They seemed headed for the western
+       desert.
+
+[US#209] (Village Chief)
+  EN : She reminds me of me when I was awaiting my husband's return.
+  RE : She reminds me of myself, awaiting
+       my husband's return.
+
+[US#210] (villager)
+  EN : That's wonderful! Please let us know what we can do! We'll do anything!
+  RE : Wonderful! Please tell us what we
+       can do! Anything at all!
+
+[US#211] (Village Chief)
+  EN : That Merrill. She worries about you so much, you know!
+  RE : That Merrill, she worries about you
+       so much, you know!
+
+[US#212] (Village Chief)
+  EN : Your friendship means so much to her. Please be good to her!
+  RE : Your friendship means so much to
+       her. Please be good to her!
+
+[US#213] (Village Chief)
+  EN : Merrill has worried about you constantly for the past 5 years. I'm so glad to see you!
+  RE : Merrill has worried over you for
+       five years. I'm so glad to see you!
+
+[US#214] (Village Chief)
+  EN : Especially my daughter, Merrill. There wasn't a day she didn't think of you.
+  RE : Especially my daughter Merrill. Not
+       a day passed she didn't think of
+       you.
+
+[US#215] (villager)
+  EN : The water has never run low before. Why now? Does this have something to do with the dark sky?
+  RE : The water's never run low before.
+       Why now? Is it the dark sky?
+
+[US#216] (villager)
+  EN : There's nothing to BE affected!
+  RE : There's nothing left to BE
+       affected!
+
+[US#217] (villager)
+  EN : The only ones left here are a handful of those who love the place too dearly to leave it.
+  RE : Only a handful remain, those who
+       love this place too dearly to
+       leave.
+
+[US#218] (villager)
+  EN : They just rested briefly and then went on. I don't know if they ever made it to safety.
+  RE : They only rested a moment, then
+       moved on. I don't know if they made
+       it.
+
+[US#219] (villager)
+  EN : They plan to go 1west up the coast0 to an inlet, land, then go to 1Quartly, in the northwest0.
+  RE : They mean to go west up the coast
+       to an inlet, land, then on to
+       Quartly in the northwest.
+
+[US#220] (villager)
+  EN : That shows just how behind the rest of the world this village is.
+  RE : That shows just how far behind the
+       world this village is.
+
+[US#221] (villager)
+  EN : Wayfarers like ya are our only source of information about the outside world, ya know.
+  RE : Wayfarers like you are our only
+       news of the outside world.
+
+[US#222] (villager)
+  EN : When the fighting is over, why not stay here? This is a nice, peaceful place.
+  RE : When the fighting's over, why not
+       stay? It's a nice, peaceful place.
+
+[US#223] (villager)
+  EN : Stop by again on your way through these parts. We'll be waiting for you!
+  RE : Stop by again on your way through.
+       We'll be waiting for you!
+
+[US#224] (villager)
+  EN : We're the last residents. We should consider it an honor.
+  RE : We're the last residents. We should
+       count it an honor.
+
+[US#225]
+  EN : What? So you're not with those ruffians who took our boat? Oh, I'm sorry.
+  RE : What? You're not with the ruffians
+       who took our boat? Oh, I'm sorry.
+
+[US#228]
+  EN : [Dumbfounded silence]
+  RE : [Dumbfounded silence]
+
+[US#229] (Brad)
+  EN : Argh... The darkness in... the sky... is spreading...
+  RE : Argh... the darkness in the sky...
+       is spreading...
+
+[US#230] (Brad)
+  JP : 「ひっく、ひっく
+  EN : I'm... I... Ugh...
+  RE : I'm... I... ugh...
+
+[US#231] (Brad)
+  JP : 「〜〜そっちは、危ない〜〜 / ダメだ、ダメだ、ダメだ、ダメだ / ダメなんだよぉ
+  EN : Hic! Hic!
+  RE : Hic! Hic!
+
+[US#232] (Brad)
+  JP : 「人が〜〜 / 〜〜滅れる〜〜 / あはは〜〜
+  EN : Stay away... It's too dangerous! No! No! No, no, no!
+  RE : Stay away... it's too dangerous!
+       No! No! No, no, no!
+
+[US#233] (Brad)
+  JP : 「うううっ〜〜 / ひぃーっ！
+  EN : People... ... people break... Ha ha ha...
+  RE : People... people break... ha ha
+       ha...
+
+[US#234] (Brad)
+  EN : Ugh... Arrghh!
+  RE : Ugh... arrghh!
+
+[US#235]
+  JP : （〜本当にそうなのか？）
+  EN : *Its explosive rounds attack all of your enemies at once.
+  RE : *Its explosive rounds strike all
+       your enemies at once.
+
+[US#236] (Brad)
+  EN : (Could it still be the same?)
+  RE : (Could it still be the same?)
+
+[US#237] (Brad)
+  EN : (I have changed much since that day. Nothing stays the same, no matter what form it is...)
+  RE : (I've changed so much since that
+       day. Nothing stays the same,
+       whatever its form...)
+
+[US#239] (Merrill)
+  JP : 「わたしは？ / メリルのことも / おぼえているわよね？
+  EN : It's me, Merrill! You remember me, right?
+  RE : It's me, Merrill! You remember me,
+       don't you?
+
+[US#240] (Merrill)
+  EN : But you've changed so much...
+  RE : But you've changed so much...
+
+[US#241]
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  EN : ...30...30...30...
+  RE : ...zzz...zzz...zzz...
+
+[US#242] (Merrill)
+  EN : All this time, I had hoped that we would get the chance to meet again.
+  RE : All this time, I hoped we'd get to
+       meet again.
+
+[US#243]
+  EN : 30...30...30...
+  RE : ...zzz...zzz...zzz...
+
+[US#245] (Merrill)
+  EN : And I asked why a hero like you would be chased down and captured like that.
+  RE : And I asked why a hero like you
+       would be hunted down and captured.
+
+[US#246] (Merrill)
+  EN : But you're not a bad man anymore, right, Mister? That's why you're here now, right?
+  RE : But you're not a bad man anymore,
+       right, Mister? That's why you're
+       here.
+
+[US#247] (Merrill)
+  JP : 「〜でも、今はもう / おじさんは悪くないってわかったから / こうして、ここにいるんでしょ？
+  EN : I've been a prisoner ever since that day.
+  RE : But now I know you're not to blame.
+       That's why you're here, isn't it?
+
+[US#248] (Merrill)
+  EN : After you were taken away, {7} told me he was in the forest, unconscious.
+  RE : After you were taken, {7} said he
+       lay unconscious in the forest.
+
+[US#249] (Merrill)
+  EN : I think he was in the Slayheim Liberation Army, like you.
+  RE : I think he was in the Slayheim
+       Liberation Army, like you.
+
+[US#250] (Merrill)
+  EN : He's a very close friend of mine.
+  RE : He's a very close friend of mine.
+
+[US#251] (Merrill)
+  EN : But he must have amnesia from his fever and injuries.
+  RE : But the fever and his wounds must
+       have left him with amnesia.
+
+[US#252] (Merrill)
+  EN : He keeps mumbling that his name is 1 Evans.
+  RE : He keeps mumbling that his name is
+       {1} Evans.
+
+[US#253] (Brad)
+  EN : Oh, well. If he's your friend, that's enough for me.
+  RE : Oh well. If he's your friend,
+       that's enough for me.
+
+[US#254] (Merrill)
+  EN : We weren't able to heal him... in body or mind.
+  RE : We couldn't heal him, in body or in
+       mind.
+
+[US#255] (Merrill)
+  EN : I mean, I'm grateful to you.
+  RE : I mean it, I'm grateful to you.
+
+[US#256] (Village Chief)
+  EN : Many small rebel groups staged scattered uprisings, but they were too unorganized.
+  RE : Many small rebel bands rose up, but
+       they were too scattered.
+
+[US#257] (Village Chief)
+  EN : There then appeared a man who united the opposition into the Slayheim Liberation Army.
+  RE : Then a man appeared who united them
+       into the Slayheim Liberation Army.
+
+[US#258] (Village Chief)
+  EN : That man's name was Vinsfeld Rhadamanthus.
+  RE : That man's name was Vinsfeld
+       Rhadamanthus.
+
+[US#259] (Lilka)
+  EN : Why would the Liberation Army leader turn terrorist?
+  RE : Why would the Liberation Army's
+       leader turn terrorist?
+
+[US#260] (Village Chief)
+  EN : charisma and the bravery of 1 Evans and his companions...
+  RE : ...the charisma, and the bravery of
+       {1} Evans and his comrades...
+
+[US#261] (Village Chief)
+  EN : ...that enabled the Liberation to defeat the military despite their small numbers.
+  RE : ...let the Liberation beat the
+       military despite their small
+       numbers.
+
+[US#262] (Village Chief)
+  EN : But he disappeared during the Final Operation.
+  RE : But he vanished during the Final
+       Operation.
+
+[US#263] (Village Chief)
+  EN : When the fighting was over...
+  RE : When the fighting was over...
+
+[US#264] (Village Chief)
+  JP : 「そして〜
+  EN : we Liberation Army veterans were blamed for the entire war. We were treated like war criminals.
+  RE : ...we Liberation veterans were
+       blamed for the whole war, treated
+       as criminals.
+
+[US#265] (Brad)
+  EN : That's right. It was all a clever trap set and sprung by Vinsfeld.
+  RE : That's right. It was all a clever
+       trap, set and sprung by Vinsfeld.
+
+[US#266] (Merrill)
+  EN : I don't care what anyone says. {7} and I know you're not a bad man.
+  RE : I don't care what anyone says. {7}
+       and I know you're no villain.
+
+[US#267] (Merrill)
+  JP : 「他の人たちが何と言おうと / わたしと[0a]ぐは / おじさんが悪い人じゃないってわかってる
+  EN : Didn't you surrender to spare our village, five years ago?
+  RE : Whatever others say, {7} and I know
+       you're no bad man.
+
+[US#268] (villager)
+  EN : Besides, you helped the recruits from our village at Greenhell, right?
+  RE : Besides, you helped our village's
+       recruits at Greenhell, didn't you?
+
+[US#269] (Merrill)
+  EN : No one in the village thinks you're a bad man, Mister.
+  RE : No one in the village thinks you're
+       a bad man, Mister.
+
+[US#270] (Brad)
+  JP : 「おじさんが / 悪い人だなんて思う人は / この国にはいないよ
+  EN : I return to this village which should have been the site of my grave.
+  RE : I return to the village that should
+       have been my grave.
+
+[US#271] (Brad)
+  EN : That scumbag Vinsfeld formed Odessa and came back before me!
+  RE : That scum Vinsfeld formed Odessa
+       and came back before me!
+
+[US#272] (Brad)
+  EN : He betrayed me AND my friends. I'll never forgive him!
+  RE : He betrayed me AND my friends. I'll
+       never forgive him!
+
+[US#273] (Ashley)
+  EN : Who'd think you were once friends with our enemy, Vinsfeld?
+  RE : Who'd have thought you were once
+       friends with our enemy, Vinsfeld?
+
+[US#274] (Brad)
+  JP : 「まさか、俺たちの相である / ヴィンスフェルトと / つながりがあったなんて〜
+  EN : I thought it was between him and me. I wanted to settle it myself.
+  RE : To think I once had ties to
+       Vinsfeld, our foe...
+
+[US#275] (Brad)
+  EN : I never intended to involve you in my private vendetta.
+  RE : I never meant to drag you into my
+       private vendetta.
+
+[US#276] (Ashley)
+  EN : That makes you our buddy, right, 1?
+  RE : That makes you our buddy, right,
+       {1}?
+
+[US#277] (Lilka)
+  EN : So what if you and Vinsfeld were buddies then, 1. You're not any more, right?
+  RE : So what if you and Vinsfeld were
+       once friends, {1}. Not anymore,
+       right?
+
+[US#278] (Brad)
+  EN : I'm a member of ARMS, sworn enemy of Odessa.
+  RE : I'm a member of ARMS, sworn enemy
+       of Odessa.
+
+[US#279] (Brad)
+  JP : 「いまの僕は、オデッサと戦う / ＡＲＭＳの[05]おだ
+  EN : The thieves who stole the data tablets were traced to this village.
+  RE : I'm {1} of ARMS now, the ones who
+       fight Odessa.
+
+[US#280] (Brad)
+  EN : Just ahead is the ocean. They must have crossed the sea to the continent. Makes sense?
+  RE : The ocean's just ahead. They must
+       have crossed to the continent.
+       Makes sense?
+
+[US#281] (Brad)
+  EN : Knowing Vinsfeld, he could be using the abandoned facilities there as a base of operations.
+  RE : Knowing Vinsfeld, he'd use the
+       abandoned facilities there as a
+       base.
+
+[US#282] (Brad)
+  EN : There's a town called Quartly near there. We should start gathering information there.
+  RE : There's a town called Quartly near
+       there. Let's gather information.
+
+[US#283] (Lilka)
+  EN : But it'll be hard to get to Slayheim without a boat.
+  RE : But it'll be hard to reach Slayheim
+       without a boat.
+
+[US#284] (Brad)
+  EN : Tomorrow we'll figure out a way to get to Slayheim. There has to be a way.
+  RE : Tomorrow we'll find a way to
+       Slayheim. There has to be one.
+
+[US#285] (Merrill)
+  EN : He has the strange habit of collecting junk and bringing it to people he likes.
+  RE : He has an odd habit of collecting
+       junk and giving it to people he
+       likes.
+
+[US#286] (Ashley)
+  EN : So they realized we were using their pattern to track them.
+  RE : So they realized we were tracking
+       them by their own pattern.
+
+[US#287] (Ashley)
+  EN : Whoever did this knew a lot about data tablets.
+  RE : Whoever did this knew a great deal
+       about the data tablets.
+
+[US#288] (Ashley)
+  EN : It looks like the trail runs cold here.
+  RE : Looks like the trail runs cold
+       here.
+
+[US#289] (Ashley)
+  JP : 「どうやら / 追跡はここまでのようだな
+  EN : Time for good, old-fashioned marching. On to Slayheim!
+  RE : It seems the pursuit ends here.
+
+[US#290] (party)
+  EN : With this, we can teleport to any town that we've visited at least once before.
+  RE : With this, we can teleport to any
+       town we've visited at least once.
