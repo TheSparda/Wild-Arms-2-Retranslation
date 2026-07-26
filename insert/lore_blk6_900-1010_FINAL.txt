@@ -1,0 +1,711 @@
+# WA2 — Lore Encyclopedia, Block 6, US#900-1010 — FINAL
+# ============================================================================
+# Prime directive: JP is the ONLY reliable source for this block. The aligned EN
+# is Rosetta drift and is NOT used to decide meaning (per task brief). Multiple
+# named guardian/spirit voices narrate this block; several boxes are two linked
+# scenes: (A) a "founders' council" (Erwin/crew before Odessa) US#904-935ish,
+# (B) Amy/Ebecho/Erwin/Gubacho ARMS-crew banter US#936-967, (C) a long Sir
+# Valeria / Sword Magess / Blaze of Disaster / Guardian lore dump US#968-1002,
+# (D) an eavesdropping-NPC beat about Ashley/Brad's summons US#1003-1006, (E)
+# Palace Village / Raypoint / Raline lore US#1007-1010.
+# Several kanji codes were cross-confirmed against the twin-block script reuse
+# in block 7 (identical text through ~US#967-equivalent, more codes solved
+# there) — noted inline with "[twin-confirmed]". Genuinely unreadable spans are
+# marked [?] rather than invented from the unreliable EN.
+# ============================================================================
+
+[US#901] (examine panel / system message)
+  JP : 「〜でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this demo version, unfortunately, it cannot be used.
+  RE : But in this demo version,
+       unfortunately, it cannot be used.
+
+[US#902] (examine panel / system message)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: However, in this demo version, unfortunately, it cannot be used.
+  RE : However, in this demo version,
+       unfortunately, it cannot be used.
+
+[US#904] (crew member, founders' council)
+  JP : 「タウンメリアの東や、ダムツェンや北東〜 / それ以外には / 街道外周部の北や東に海岸があったな
+  LIT: East of Town Meria, northeast of Damzen. Besides that, there were coastlines to the north and east of the road's outer edge.
+  RE : East of Town Meria, northeast of
+       Damzen. Besides that, coasts to the
+       north and east too.
+
+[US#905] (crew member, founders' council)
+  JP : 「かつて私も / シエルジェにて[?]行に / [?]ち込んだこともあったのだ〜
+  LIT: Once, I too threw myself into [?] training at Sielje.
+  RE : Once, I too threw myself into
+       training at Sielje, long ago.
+
+[US#906] (crew member, founders' council)
+  JP : 「[?][?]、魔術、異界との搭乗術〜 / そして、大[?][?]〜
+  LIT: [?], sorcery, contact with the other world, and great [?].
+  RE : Sorcery, contact with the other
+       world, and great [?] as well.
+
+[US#907] (crew member, founders' council)
+  JP : 「すべては〜 / 〜そう、すべては / そこから始まったのだ〜
+  LIT: All of it... yes, all of it started from there.
+  RE : All of it... yes, all of it started
+       from there.
+
+[US#908] (crew member, founders' council)
+  JP : 「こまかなサーチがカギだな
+  LIT: A careful search is the key.
+  RE : A careful search is the key.
+
+[US#909] (crew member, founders' council)
+  JP : 「私もクルーも / オデッサとの戦いに信念はできている / だが〜
+  LIT: My crew and I have our resolve made up for the fight against Odessa. But...
+  RE : My crew and I have our resolve made
+       up for the fight against Odessa.
+       But...
+
+[US#910] (crew member, founders' council)
+  JP : 「我が仲、{1}を / [巻]き込んだことだけが / 今なお気がかりである〜
+  LIT: The only thing that still weighs on me is that I dragged {1}, my kin, into this.
+  RE : The one thing that still weighs on
+       me is that I dragged {1} into this.
+
+[US#911] (crew member, founders' council)
+  JP : 「身の危険よりも、もっと気がかりなこと〜 / 戦いの中で見せる人間のマイナスの面だけは / {1}には見せたくないな〜
+  LIT: More than the danger to her body, what worries me is this: I don't want {1} to see the ugly side of people that war brings out.
+  RE : More than the danger, what worries
+       me is this: I don't want {1} to see
+       war's ugly side.
+
+[US#912] (crew member, founders' council)
+  JP : 「その制[理]に誓認が無ければ / 我々はオデッサに対する / 強力無比な力を手に入れたといえよう〜
+  LIT: Without a check on that system, we could say we'd have an unmatched, mighty power against Odessa.
+  RE : Without a check on it, we'd hold an
+       unmatched power against Odessa.
+
+[US#913] (crew member, founders' council)
+  JP : 「〜だが〜
+  LIT: But...
+  RE : But...
+
+[US#914] (crew member, founders' council)
+  JP : 「ファルガイアを分断する / 国境誓認と考えてほしい
+  LIT: Think of it as the borders that divide Filgaia.
+  RE : Think of it as the borders dividing
+       Filgaia.
+
+[US#915] (crew member, founders' council)
+  JP : 「さらなる崩落も考えられる / 気をつけて向かってほしい
+  LIT: Further cave-ins are possible too. Please be careful heading there.
+  RE : Further cave-ins are possible.
+       Please be careful heading there.
+
+[US#916] (crew member, founders' council)
+  JP : 「ずっと遠い北東の地〜 / 誰も知らない発着魔法陣の周りには / 強い[力]が支配する魔境があるそうです
+  LIT: Far to the northeast, it's said there's a demon-haunted realm ruled by a powerful force, around a launch magic-circle no one knows of.
+  RE : Far to the northeast, near an
+       unknown launch circle, lies a
+       demon-haunted realm.
+
+[US#917] (crew member, founders' council)
+  JP : 「このファルガイアには / まだまだ不思議な[?]が / 遺されているのですね〜
+  LIT: Filgaia still has strange [things] left behind, it seems.
+  RE : Filgaia still has strange things
+       left behind within it, it seems.
+
+[US#918] (crew member, founders' council)
+  JP : 「でも、帰ることが許されたのは / 戦場に[?]いた / あなたたちだけ〜
+  LIT: But the only ones permitted to return are you, who were there on the battlefield.
+  RE : But the only ones let to return are
+       you, who were there on the
+       battlefield.
+
+[US#919] (crew member, founders' council)
+  JP : 「私はいつ〜 / 味方のもとへ / 『帰る』ことができるのでしょう〜
+  LIT: I wonder when I will be able to "return" to my friend's side.
+  RE : I wonder when I'll be able to
+       "return" to my friend's side.
+
+[US#920] (crew member, founders' council)
+  JP : 「私は、はばたく翼も持っていない / そう、暗い翼すらも〜
+  LIT: I have no wings to flap, not even dark ones.
+  RE : I have no wings to flap. Not even
+       dark ones.
+
+[US#921] (crew member, founders' council)
+  JP : 「ずっと遠い北東の地〜 / 誰も知らない発着魔法陣の周りには / 強い[力]が支配する魔境があるそうです
+  LIT: Far to the northeast, it's said there's a demon-haunted realm ruled by a powerful force, around a launch magic-circle no one knows of.
+  RE : Far to the northeast, near an
+       unknown launch circle, lies a
+       demon-haunted realm.
+
+[US#922] (crew member, founders' council)
+  JP : 「このファルガイアには / まだまだ不思議な[?]が / 遺されているのですね〜
+  LIT: Filgaia still has strange [things] left behind, it seems.
+  RE : Filgaia still has strange things
+       left behind within it, it seems.
+
+[US#923] (crew member, founders' council)
+  JP : 「でもそれは / 考えてみれば幸せなことかもしれない
+  LIT: But thinking about it, that might be a fortunate thing.
+  RE : But thinking about it, that might
+       be a fortunate thing.
+
+[US#924] (crew member, founders' council)
+  JP : 「[?]うだけの選[?][?]という道が / [?]けるんですもの〜
+  LIT: Because a path remains open, one that just lets you hesitate.
+  RE : Because a path remains open, one
+       where you're still free to
+       hesitate.
+
+[US#925] (crew member, founders' council)
+  JP : 「だから、力の無い者は / 力を持つ者に[憧]れ / そして、[恐]れるのかもしれません
+  LIT: That's why those without power may admire those who have it, and fear them too.
+  RE : That's why the powerless may admire
+       the powerful, yet fear them too.
+
+[US#926] (crew member, founders' council)
+  JP : 「でも、忘れないで / 輝は同時に / 同じ強さの起を生み出すということを〜
+  LIT: But don't forget, brilliance also creates, at the same time, a shadow of equal strength.
+  RE : But don't forget, brilliance also
+       creates a shadow of equal strength.
+
+[US#927] (crew member, founders' council)
+  JP : 「同じ輝なら / 私は[包]み込んでくれるような / 優しい輝を望んでいます
+  LIT: If it's the same brilliance, I hope for a gentle one that wraps around me.
+  RE : If it's brilliance either way, I
+       hope for a gentle kind that wraps
+       around me.
+
+[US#928] (crew member, founders' council)
+  JP : 「まるで、自分の身体だけではなく / この世界そのものを / 支えようとしているみたいに〜
+  LIT: As if he is trying to support not just his own body, but this world itself.
+  RE : As if he's trying to support not
+       just himself, but this world
+       itself.
+
+[US#929] (crew member, founders' council)
+  JP : 「味方と私の大好きなファルガイア〜 / 人ひとりの力で支えられるモノでしょうか？
+  LIT: My friend, and this Filgaia I love so much. Can it be supported by the strength of one person?
+  RE : My friend, and this Filgaia I love
+       so much. Can one person bear it
+       all?
+
+[US#930] (crew member, founders' council)
+  JP : 「どうか味方を助けてください / 私には無い、味方と共に並ぶ力を持つ / あなた方なら、きっと〜
+  LIT: Please help my friend. You, who have the strength to stand beside him that I lack, surely you can...
+  RE : Please help my friend. You have the
+       strength to stand at his side.
+       Surely...
+
+[US#931] (crew member, founders' council)
+  JP : 「何でもひとりでかかえ込んでしまうのが / 味方の悪いクセなのです
+  LIT: Taking everything on alone is my friend's bad habit.
+  RE : Taking everything on alone is my
+       friend's bad habit.
+
+[US#932] (crew member, founders' council)
+  JP : 「誰も、ひとりで全てをこなすほどの / 力など持っているはずがありません
+  LIT: No one could possibly have the strength to handle everything alone.
+  RE : No one could possibly have the
+       strength to handle it all alone.
+
+[US#933] (crew member, founders' council)
+  JP : 「でも、誰もが / 誰かを助ける力を持っている〜 / そうではありませんか？
+  LIT: But everyone has the strength to help someone. Isn't that so?
+  RE : But everyone has the strength to
+       help someone. Isn't that so?
+
+[US#934] (crew member, founders' council)
+  JP : 「街道の[?]の流れが / 海岸に向かっているからね
+  LIT: Because the road's current flows toward the coast.
+  RE : Because the road's current flows
+       toward the coast.
+
+[US#935] (crew member, founders' council)
+  JP : 「『街道の落とし物は海岸で探せ』〜 / 〜って、[何]、何かで聞いた事あるよ
+  LIT: "Search the coast for what the road drops," or something. I've heard that somewhere.
+  RE : "Search the coast for what the road
+       drops." Heard that somewhere.
+
+[US#936] (crew member, founders' council)
+  JP : 「でも、レアものの集まりが / もうちょっとかな？
+  LIT: But the collection of rare ones, maybe just a bit more?
+  RE : But my collection of rare ones?
+       Maybe just a bit short still.
+
+[US#937] (crew member, founders' council)
+  JP : 「限られた地形や / 結単な手段を用いないと / 現われない怪獣もいるからね
+  LIT: Because some monsters won't appear unless you use certain terrain or simple methods.
+  RE : Some monsters won't appear without
+       certain terrain or methods.
+
+[US#938] (crew member, founders' council)
+  JP : 「マニアなら / そこらへんも押さえとかなきゃッ！
+  LIT: If you're a real fan, you'd better have that covered too!
+  RE : If you're a real fan, you'd better
+       have that covered too!
+
+[US#939] (Amy Fairchild)
+  JP : 「話はすれども、顔は見えず / ウワサのエイミー・フェアチャイルドとは / ボクのことだよ
+  LIT: You hear the voice but never see the face. That rumored Amy Fairchild is me.
+  RE : You hear the voice, never see the
+       face. That famous Amy Fairchild is
+       me.
+
+[US#940] (Amy Fairchild)
+  JP : 「ミーちゃんって呼んでね☆
+  LIT: Call me Mee-chan, okay? ☆
+  RE : Call me Mee-chan, okay? ☆
+
+[US#941] (Amy Fairchild)
+  JP : 「緊急事態に対する決断力と意外性 / そして、先を見越した達観力は / 誰よりも秀でていると思いませんか？
+  LIT: His decisiveness and unpredictability in an emergency, and his foresight beyond anyone's, don't you think he's more outstanding than anyone else?
+  RE : His decisiveness and
+       unpredictability in a crisis are
+       unmatched.
+
+[US#942] (Amy Fairchild)
+  JP : 「エイミーとふたり / オペレート[担]当している / テレパスメイジです
+  LIT: Amy and I, the two of us, handle operations. We're telepath mages.
+  RE : Amy and I handle operations, the
+       two of us. We're telepath mages.
+
+[US#943] (Ebecho / Chateau engineer)
+  JP : 「そんなもの、飛ばすどころか / [維]持するだけで / 最大な費用がかかっちまうんだが〜
+  LIT: A thing like that, forget flying it, even just keeping it maintained costs a fortune.
+  RE : Forget flying that thing. Just
+       keeping it maintained costs a
+       fortune.
+
+[US#944] (Ebecho / Chateau engineer)
+  JP : 「[貴]方のヴァレリア家はいざしらず / オデッサの連中 / どこから資金を調達しているんだ？
+  LIT: Setting aside your Valeria household, where are those Odessa people raising their funds from?
+  RE : Setting the Valeria house aside,
+       where does Odessa raise its funds?
+
+[US#945] (Erwin / chief pilot)
+  JP : 「飛空機艇と / 女の家のあつかいに関しては / ファルガイアじゃ一番のつもりさ
+  LIT: When it comes to handling airships and ladies, I figure I'm the best in Filgaia.
+  RE : When it comes to airships and
+       ladies, I'm the best in Filgaia.
+
+[US#946] (Erwin / chief pilot)
+  JP : 「そんな僕に何か用かい？
+  LIT: Something you need from me?
+  RE : Something you need from me?
+
+[US#947] (Erwin / chief pilot)
+  JP : 「ヴァレリアシャトーに乗りたいときは / 発着魔法陣上で[0b]かボタンを押してくれ / [搭]乗コールを聞きつけたら回斬してやるぜ
+  LIT: When you want to board Valeria Chateau, press the [0b] button on the launch circle. Once I hear the boarding call, I'll come get you.
+  RE : To board, press the [0b] button on
+       the launch circle. I'll come get
+       you on the call.
+
+[US#948] (Erwin / chief pilot)
+  JP : 「ヴァレリアシャトーから降りたいときは / これまた発着魔法陣上で / [0b]がボタンだ
+  LIT: When you want to disembark from Valeria Chateau, it's the [0b] button, again on the launch circle.
+  RE : To leave, again stand on the launch
+       circle and press the [0b] button.
+
+[US#949] (Erwin / chief pilot)
+  JP : 「発着魔法陣の上以外の場所で / [0b]がボタンを押すと / [専]用メニューが開かれる
+  LIT: If you press the [0b] button anywhere other than on the launch circle, a dedicated menu opens.
+  RE : Press [0b] anywhere else, and a
+       special menu opens up instead.
+
+[US#950] (Erwin / chief pilot)
+  JP : 「ヴァレリアシャトー街での行動や / 僕に操[縦]を任せるときは / [専]用メニューを開いてくれよなッ！
+  LIT: For getting around Valeria Chateau, or when you want to leave the piloting to me, open that dedicated menu!
+  RE : To move around the Chateau, or
+       leave piloting to me, open that
+       menu!
+
+[US#951] (Erwin / chief pilot)
+  JP : 「カオの良さに反比例して / なぜだか目立たない僕からのお願いだッ！ / 出番たのむぜッ！
+  LIT: This is a request from me, who somehow goes unnoticed in inverse proportion to my good looks. Give me my moment to shine!
+  RE : Even good-looking as I am, nobody
+       notices me! Give me my moment to
+       shine!
+
+[US#952] (Ebecho / Chateau engineer)
+  JP : 「オデッサのバルキサスも / 同方の動力機関が / [搭載]されていたと思うな
+  LIT: I bet Odessa's Varukisas had a similar propulsion system installed too.
+  RE : I bet Odessa's Varukisas had a
+       similar engine installed too.
+
+[US#953] (Gubacho / chief engineer)
+  JP : 「ちなみに前の[?]は / [?]乗だったのだッ！
+  LIT: By the way, before this, I was a [?] pilot!
+  RE : By the way, before this, I used to
+       be a pilot!
+
+[US#954] (Gubacho / chief engineer)
+  JP : 「枯急の事態にて / ＡＲＭＳに身を投じたのだ / よろしくたのむぞ
+  LIT: In this urgent crisis, I threw myself into ARMS. Nice to work with you.
+  RE : In this urgent crisis, I threw
+       myself into ARMS. Nice to work with
+       you.
+
+[US#955] (Ebecho / Chateau engineer)
+  JP : 「機関胞の[仲]くれとして / オデッサのエネルギー事情〜 / 気になりますね
+  LIT: As a fellow engineer, Odessa's energy situation... it's something I wonder about.
+  RE : As a fellow engineer, I do wonder
+       about Odessa's energy situation.
+
+[US#956] (Gubacho / chief engineer)
+  JP : 「ちなみに[個]人的なエネルギー事情ですが / 以前、ボクのソースたぷたぷコロッケが / ちょっと目を離したスキに消失したのです
+  LIT: As for my own personal energy situation, my juicy croquette in sauce vanished the moment I looked away.
+  RE : Speaking of my own energy
+       situation, my croquette vanished
+       when I looked away.
+
+[US#957] (Gubacho / chief engineer)
+  JP : 「まさか、シャトー街に侵入してきた / オデッサのふたりが / わきめもふらずにモリモリと〜
+  LIT: Don't tell me those two Odessa infiltrators who snuck into the Chateau devoured it without a second glance.
+  RE : Don't tell me those two Odessa
+       infiltrators just gobbled it right
+       up.
+
+[US#958] (Gubacho / chief engineer)
+  JP : 「ちなみに前の[?]は / [?]乗のせがれでしたッ！
+  LIT: By the way, before this, I was the son of a [?] pilot!
+  RE : By the way, before this, I was a
+       pilot's son!
+
+[US#959] (Ebecho / Chateau engineer)
+  JP : 「[?]ちゃんに逃げられた / [?]ちゃんをひとりにしておけないから / こうしてＡＲＭＳに身を投じました
+  LIT: Since [?]-chan ran off and I couldn't leave [?]-chan alone, I threw myself into ARMS like this.
+  RE : I couldn't leave my dad alone after
+       Mom left, so I threw myself into
+       ARMS.
+
+[US#960] (Erwin / chief pilot)
+  JP : 「まだ見ぬ新しい展開が / きっと待っているはずだぜ
+  LIT: A new development you haven't seen yet is surely waiting.
+  RE : A new development you haven't seen
+       yet is surely waiting.
+
+[US#961] (crew member)
+  JP : 「そういえばシャトーの２Ｆに / 以前、地面のエネルギーとかを / [?]行していたヤツがいたな
+  LIT: Come to think of it, there was someone on the Chateau's 2nd floor once studying earth energy or something.
+  RE : Come to think of it, someone on the
+       2nd floor once studied earth
+       energy.
+
+[US#962] (crew member)
+  JP : 「カタチにとらわれずに / 物事を為していく〜 / [?][不]なようで、[新]しいことだ
+  LIT: Doing things without being bound by form. It seems reckless, but it's something new.
+  RE : Doing things without being bound by
+       form. Reckless, but something new.
+
+[US#963] (crew member)
+  JP : 「それをやってのけるんだから / テロリスト・オデッサ〜 / あなどれない相だろう
+  LIT: Since they can actually pull that off, the terrorist Odessa is not a foe to underestimate.
+  RE : Since they can actually pull that
+       off, Odessa's not a foe to
+       underestimate.
+
+[US#964] (Erwin / chief pilot)
+  JP : 「くそッ、僕だって負けてたまるかよッ！ / スゴイの[力]め込んで / オトコをあげてやらあッ！
+  LIT: Damn it, I won't lose either! I'll pour in something amazing and become a real man!
+  RE : Damn it, I won't lose either! I'll
+       pour it on and show you a real man!
+
+[US#965] (crew member)
+  JP : 「以前は / 心を伝える不思議な渓谷の / 輸出に使われていたらしいぞ
+  LIT: It's said this used to be used for exporting the strange, thought-transmitting valley crystal.
+  RE : It's said this used to transport
+       the strange thought-crystal from
+       the valley.
+
+[US#966] (crew member)
+  JP : 「彼らもヴァレリア家に製造されて / ファルガイア中に派遣されているらしい
+  LIT: They too are made by the Valeria house and dispatched all over Filgaia, it's said.
+  RE : They're made by the Valeria house
+       too, and sent out across Filgaia.
+
+[US#967] (crew member)
+  JP : 「設立は / ＡＲＭＳよりもずっと早いから / 僕たちの味方分ってトコかもな
+  LIT: Since they were founded much earlier than ARMS, maybe they're kind of our senior allies.
+  RE : They were founded well before ARMS,
+       so maybe they're our senior allies.
+
+[US#968] (crew member)
+  JP : 「最後に大[?][術]を[極]めてから / 今度はファルガイアの注目[維]持のために / ここに帰ってきたのです
+  LIT: After finally mastering the great [?] art, he came back here this time to keep watch over Filgaia.
+  RE : After finally mastering that great
+       art, he came back to watch over
+       Filgaia.
+
+[US#969] (crew member)
+  JP : 「遠く、ファルガイアのこれからを / 注目に[置]くために〜
+  LIT: In order to keep a distant eye on Filgaia's future...
+  RE : In order to keep a distant eye on
+       Filgaia's future...
+
+[US#970] (crew member)
+  JP : 「いったい〜 / いつから、何が、どのようにして / 大陸が狂いはじめたのでしょうか〜
+  LIT: Just when, what, and how did the continent start to go wrong?
+  RE : Just when, and how, did the
+       continent start to go wrong?
+
+[US#971] (crew member)
+  JP : 「そして、表にはあまり出しませんが / [?]様もとても大切にしています
+  LIT: And though he doesn't show it much, he also treasures his [younger sister] very much.
+  RE : And though he rarely shows it, he
+       treasures his little sister too.
+
+[US#972] (crew member)
+  JP : 「ですから、ＡＲＭＳの戦力アップに / 多少、ムチャな作戦をとることもあるのです
+  LIT: That's why, to raise ARMS's fighting strength, he sometimes takes on somewhat reckless plans.
+  RE : That's why, to raise ARMS's
+       strength, he sometimes takes
+       reckless risks.
+
+[US#973] (crew member)
+  JP : 「ですから、本当なら指揮官ではなく / 最前線で得意の剣や魔法を / 振るいたかったに違いありません
+  LIT: That's why, in truth, rather than being a commander, he surely wanted to wield his sword and magic at the front line instead.
+  RE : Rather than command, he surely
+       wanted to wield his sword up front.
+
+[US#974] (crew member)
+  JP : 「あの事故さえなければ〜
+  LIT: If only that accident hadn't happened...
+  RE : If only that accident hadn't
+       happened...
+
+[US#975] (crew member)
+  JP : 「剣技も魔法も / 誰よりも優れた冴えをみせた / お人だったのに〜
+  LIT: He was a man who showed brilliance beyond anyone in both swordsmanship and magic...
+  RE : He showed brilliance beyond anyone,
+       in both swordsmanship and magic...
+
+[US#976] (crew member)
+  JP : 「本当に残念です
+  LIT: It's truly a shame.
+  RE : It's truly a shame.
+
+[US#977] (crew member)
+  JP : 「それは、僕たちが考えるよりも / ずっと[?][?]めいたモノに違いない〜
+  LIT: That must be something far more [?] than we imagine.
+  RE : That must be something far deeper
+       than we could ever imagine.
+
+[US#978] (crew member)
+  JP : 「ヴァレリア家が何をしようとしたのか〜 / いや、何をしようとしているのか / 僕にはわからない〜
+  LIT: What the Valeria house tried to do, no, what it's trying to do, I don't know.
+  RE : What the Valeria house tried to do,
+       or is still trying to do, I don't
+       know.
+
+[US#979] (crew member)
+  JP : 「だけど、そいつは / 英雄伝説に振り回された / [?][?]に斬重していくんじゃないか〜
+  LIT: But isn't that someone being tossed about by the hero legend, sinking deeper into [?]?
+  RE : But isn't he just being tossed
+       about by the hero legend, sinking
+       ever deeper?
+
+[US#980] (crew member)
+  JP : 「そして、今、ふたたび〜 / ファルガイアを脅威から保るために / 『ＡＲＭＳ』という名の剣を振るっている〜
+  LIT: And now, once again, he wields the sword named "ARMS" in order to protect Filgaia from the threat.
+  RE : And now, once again, he wields the
+       sword named "ARMS" to guard
+       Filgaia.
+
+[US#981] (crew member)
+  JP : 「これは、運命なのだろうか？ / 〜いや、運命では無いとしたら〜
+  LIT: Is this fate, I wonder? Or, if it's not fate...
+  RE : Is this fate, I wonder? Or, if it's
+       not fate at all...
+
+[US#982] (crew member)
+  JP : 「これは『英雄』という[名]に[縛]りつけられた / [呪]いそのものといえないか〜？
+  LIT: Isn't this itself a curse, one bound tight by the name "hero"?
+  RE : Isn't this itself a curse, one
+       bound tight by the name "hero"?
+
+[US#983] (crew member)
+  JP : 「ヴァレリアの[名]の中に伝えられし / 運命、[呪][縛]、[悲]しみ〜
+  LIT: The fate, the binding curse, the sorrow, handed down within the Valeria name...
+  RE : The fate, the binding curse, and
+       the sorrow handed down in the
+       Valeria name...
+
+[US#984] (crew member)
+  JP : 「ＡＲＭＳを運[営]していくだけの資金や / ヴァレリアシャトーをはじめとする遺跡など / 一[貴][方]に[偏]る力は、そういうワケがあるんだ
+  LIT: The funds to run ARMS, the ruins starting with Valeria Chateau, the power concentrated in one family, there's a reason for all of that.
+  RE : ARMS's funds, the ruins like
+       Valeria Chateau, power in one
+       house. There's a reason.
+
+[US#985] (crew member)
+  JP : 「〜あん？ / もしかして、知らなかったのか？？
+  LIT: Huh? You mean you didn't know?
+  RE : Huh? You mean you didn't know?
+
+[US#986] (crew member)
+  JP : 「だが、それは〜 / かつての『[戦]の[魔][王]』とは / 根本的に異なる脅威なんだッ！
+  LIT: But that is a threat fundamentally different from the old "Blaze of Disaster"!
+  RE : But that's a threat fundamentally
+       different from the old Blaze of
+       Disaster!
+
+[US#987] (crew member)
+  JP : 「僕たちの相は / 僕たちと同じ人間ッ！ / 同じ星に生きる、同じ生命なんだッ！
+  LIT: Our foe is a human just like us! A life living on the same star, the same as us!
+  RE : Our foe is human, just like us!
+       Life on the same star, same as us!
+
+[US#988] (crew member)
+  JP : 「[旧]支配者とも呼ばれる彼らの力が / ファルガイアに及ばなくなったために / [徐]々に世界が[衰][退]しているということは〜
+  LIT: Because the power of those once called the old rulers no longer reaches Filgaia, the world is gradually withering...
+  RE : The old rulers' power no longer
+       reaches Filgaia, so the world
+       slowly withers...
+
+[US#989] (crew member)
+  JP : 「＜剣の少女＞と『[戦]の[魔][王]』との戦いは / 相[討]ち〜 / 〜なんかではない〜
+  LIT: The battle between the <Sword Maiden> and "Blaze of Disaster" was not a mutual kill... no, not that.
+  RE : The <Sword Maiden>'s battle with
+       Blaze of Disaster wasn't a mutual
+       kill.
+
+[US#990] (crew member)
+  JP : 「『[戦]の[魔][王]』の目的が世界の滅亡ならば / 少しずつ達成されようとしている〜
+  LIT: If "Blaze of Disaster's" goal is the world's destruction, it is being achieved, little by little.
+  RE : If Blaze of Disaster's goal is to
+       destroy the world, it's slowly
+       succeeding.
+
+[US#991] (crew member)
+  JP : 「そう、『[戦]の[魔][王]』は / 今もファルガイアを[?]んでいるんだ〜ッ！
+  LIT: Yes, "Blaze of Disaster" is still gnawing at Filgaia even now!
+  RE : Yes, Blaze of Disaster is still
+       gnawing away at Filgaia even now!
+
+[US#992] (crew member)
+  JP : 「いったい、どこからどうやって / オデッサに[伝]わったのだろう？
+  LIT: Just where and how did it get passed on to Odessa, I wonder?
+  RE : Just where, and how, did it get
+       passed on to Odessa, I wonder?
+
+[US#993] (crew member)
+  JP : 「『[魔][王]』とは / ファルガイアを保護するとされる / ガーディアンの[変]異体って話だ
+  LIT: They say the "Blaze of Disaster" is a mutated form of the Guardians said to protect Filgaia.
+  RE : They say Blaze of Disaster is a
+       mutated form of a Filgaia Guardian.
+
+[US#994] (crew member)
+  JP : 「ガーディアンとは世界を支える力と聞く / それと同時の力を持つ『[魔][王]』とは / どれほど恐ろしいモノなんだろう〜
+  LIT: I hear the Guardians are the power that sustains the world. If "Blaze of Disaster" holds power equal to that, how terrifying must it be?
+  RE : Guardians sustain the world, they
+       say. If Blaze holds equal power,
+       how terrifying?
+
+[US#995] (crew member)
+  JP : 「衛星は[凶][兆]を示すというが〜 / ファルガイアを[揺]がすオデッサの動向〜 / あれをさしているのだろうか？
+  LIT: They say comets show a bad omen. Was it pointing to Odessa's movements, which now shake Filgaia?
+  RE : Comets are said to be bad omens.
+       Was it pointing to Odessa's threat
+       to Filgaia?
+
+[US#996] (crew member)
+  JP : 「決起表次をおこなったテロリスト〜 / オデッサの[紋][章]のことなんだが / 渡録のどこかに招っかかるんだよな
+  LIT: The terrorists who made that declaration of uprising. It's about Odessa's crest, but it rings a bell somewhere in my memory.
+  RE : The terrorists who made that
+       declaration. Odessa's crest rings a
+       bell somehow.
+
+[US#997] (crew member)
+  JP : 「どこかの国の[軍]関係者〜 / あるいは、そこに[属]するような機関〜 / 気になるんだよな〜
+  LIT: Someone connected to some nation's military, or an organization belonging to one. It nags at me.
+  RE : Someone tied to some nation's
+       military, or an affiliated group.
+       It nags at me.
+
+[US#998] (crew member)
+  JP : 「あんたが英雄と呼ばれたのは / [突]出した戦闘力と[名][声] / だが、それだけじゃないと僕は考える
+  LIT: You were called a hero for your outstanding combat prowess and renown, but I think it's more than just that.
+  RE : You're called a hero for your
+       combat skill and renown, but it's
+       more than that.
+
+[US#999] (crew member)
+  JP : 「街戦終了後、解放軍を救うために[協]力し / ひとり、[犯]われることで / 追手の目が他に及ぶことを[防]いだ〜
+  LIT: After the civil war ended, you cooperated to save the Liberation Army by letting yourself alone be captured, preventing your pursuers' eyes from reaching the others.
+  RE : After the war, you let yourself be
+       caught alone, so your friends could
+       flee.
+
+[US#1000] (crew member)
+  JP : 「仲間を保ることを知っているから / あんたは、街戦が終って五数年っても / 『英雄』と呼ばれるんだ
+  LIT: Because you know how to protect your comrades, even five years after the war ended, you're still called a "hero."
+  RE : Because you know how to protect
+       your comrades, you're still called
+       a hero, years on.
+
+[US#1001] (crew member)
+  JP : 「その真実の多くは[闇]の中だが / 一説によると、解放軍リーダーが / 保身のために仲間を売ったって話だぜ
+  LIT: Much of that truth remains in darkness, but one theory says the Liberation Army leader sold out his comrades to save himself.
+  RE : Much of the truth stays hidden, but
+       some say your leader sold out his
+       comrades.
+
+[US#1002] (crew member)
+  JP : 「今度は僕たち、ＡＲＭＳが / ファルガイアを保る番だぜ
+  LIT: This time, it's our turn, ARMS's turn, to protect Filgaia.
+  RE : This time it's our turn. ARMS's
+       turn to protect Filgaia.
+
+[US#1003] (male NPC, eavesdropping beat)
+  JP : 「いやらしくない目で / {1}方の観待行為を / おこなっていたんだ
+  LIT: I was, with no ill intent, observing what {1} was doing.
+  RE : It wasn't in any bad way. I was
+       just watching what {1} was doing.
+
+[US#1004] (male NPC, eavesdropping beat)
+  JP : 「その時、{1}方が / {0}方に呼び出されて / お部乗に向かうのを見てしまったんだ〜
+  LIT: At that moment, I happened to see {1} being called by {0} and heading toward the room.
+  RE : At that moment, I saw {1} get
+       called by {0} and head for the
+       room.
+
+[US#1005] (male NPC, eavesdropping beat)
+  JP : 「俺は、{0}方を / 今まで通り信じられるのだろうか？ / 最度の人間不信におちいりそうだよ〜
+  LIT: Can I still trust {0} the way I always have? I feel like I'm about to fall into the worst distrust of people.
+  RE : Can I still trust {0} the way I
+       always have? I feel my trust
+       slipping away.
+
+[US#1006] (male NPC, Raypoint lore)
+  JP : 「普通は人里離れたところにあるんだけど〜
+  LIT: Normally they're found in places far from any settlement, but...
+  RE : Normally they're found far from any
+       settlement, but...
+
+[US#1007] (male NPC, Raypoint lore)
+  JP : 「タウンメリアから北に、道を隔てた先には / パレスヴィレッジという / レイポイントのご利益を受けた国があるんだ
+  LIT: North of Town Meria, across the road, there's a nation called Palace Village that has received the Raypoint's blessing.
+  RE : North of Town Meria, across the
+       road, is Palace Village, a nation
+       blessed by a Raypoint.
+
+[US#1008] (male NPC, Raypoint lore)
+  JP : 「大地を満たす『マナ』が / パレス麦という / 結跡品を生み出しているんだな
+  LIT: The "Mana" that fills the earth is what produces that crop called Palace Wheat.
+  RE : The "Mana" that fills the earth is
+       what grows the crop called Palace
+       Wheat.
+
+[US#1009] (male NPC, Raypoint lore)
+  JP : 「レイライン中の生命エネルギーの流れが / 止まっているみたいなんだッ！
+  LIT: It seems the flow of life energy through the Ley Line has stopped!
+  RE : It seems the flow of life energy
+       through the Ley Line has stopped!
+
+[US#1010] (male NPC, Raypoint lore)
+  JP : 「空だけではない〜 / 見えないところで大地も / この星、全体が何者かに狙われているんだ
+  LIT: Not just the sky. Unseen, the earth too, this whole star, is being targeted by someone.
+  RE : Not just the sky. Unseen, the earth
+       too. This whole star is being
+       targeted.

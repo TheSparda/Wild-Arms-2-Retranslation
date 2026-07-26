@@ -1,0 +1,495 @@
+# WA2 — Lore Encyclopedia, Block 7, US#1391-1460 — FINAL
+# =========================================================================================
+# Prime directive: JP is the ONLY reliable source. The aligned EN is deep-tail Rosetta drift
+# (shifted ~2 boxes) and is used only as a cross-check where it demonstrably matches the JP.
+# Block 7 twins blocks 6/8/9/10/11 (same JP, different local kanji subtable). Residual
+# <b:xxxx> spans here were cross-confirmed against the more-decoded twins 6 and 10 (read-only
+# MEANING cross-check, not a table rewrite). Cross-confirmed codes noted inline "[twin:10/2521]".
+# Genuinely unreadable spans are marked [?]; never invented from the unreliable EN.
+# KEY SOLVED CODES (via twins 6/10): <b:8ad2><b:8ad3>=英雄 "hero"; 義体=bionic body;
+#   心臓/脳=heart/brain (engine/cockpit); 網膜=retina, 投影=project (mapscope); 同胞=kin,
+#   尊重=respect, 壁=wall/border, 疑心暗鬼=suspicion, 天変地異=natural disaster.
+# NAME CODES: this dump uses raw slot codes [05] and [0a] for renameable party members. Best-
+#   effort insert mapping (from EN twins): [05]->{3}, [0a]->{2}. Kept as codes, never spelled.
+#   {0}=Ashley {1}=Brad. GLOSSARY: <Sword Magess>=＜剣の少女＞; Hero of Slayheim; Lombardia;
+#   Heimdal Gazzo; Guild Galad; Valeria Chateau; Live Reflector; Industrial Sorcery.
+# Scene groups: (A) Guild Galad/Slayheim negotiation + Lombardia's pilot (the hero's war
+#   buddy) US#1391-1395; (B) war-council: Chateau-as-evac / Heimdal Gazzo weapon / Vinsfeld /
+#   Dragon-craft / breach-from-within / hero-lore US#1396-1416; (C) bionic-body (義体) lore +
+#   Marivel's retina-mapscope upgrade US#1417-1427; (D) kid/NPC banter: ruins & bridge
+#   sightings, {2} crying, sick-bay nurse, Ebecho's soggy cookies, {3} the rookie US#1428-1451;
+#   (E) examine-panel monologue on preparedness / borders / unity / global threat US#1452-1460.
+# No em dashes. Fit <=3x35.
+# =========================================================================================
+
+[US#1391] (crew member, negotiation history)
+  JP : 「最終的には / メリアブールとシルヴァラントに / <b:8a7b>し切られるカタチとなったそうだ
+  LIT: In the end, it seems the matter was pushed through by Meria Boule and Sylvaland.
+  RE : In the end, Meria Boule and
+       Sylvaland forced the matter
+       through, it seems.
+
+[US#1392] (crew member, negotiation history)
+  JP : 「もちろん、スレイハイムから / 戦って、<b:8afc>ったんだがな〜
+  LIT: Of course, they fought their way up from Slayheim and won.
+  RE : Of course, they fought their
+       way up from Slayheim
+       and won it.
+
+[US#1393] (crew member, on Lombardia's pilot)
+  JP : 「<b:8ad2><b:8ad3>サマの相<b:8afd>に / 機艇の<8a25>いや<b:8a87>最<b:8aa6><b:8a4c>に長けたヤツがいて / そいつがパイロットだったらしいぜ
+  LIT: Among the hero's companions was one skilled with craft and the latest tech; that one was the pilot. [twin:6/1068 英雄=hero]
+  RE : The hero had a partner, a whiz
+       with craft and the newest tech.
+       That one was the pilot.
+
+[US#1394] (crew member, on the hero)
+  JP : 「みんな置って行<b:8ad1>なんて / 一度も無かったかもしれないな
+  LIT: Maybe not once was anyone ever left behind.
+  RE : Maybe not once was anyone
+       ever left behind by him.
+
+[US#1395] (crew member, on the hero)
+  JP : 「かく言う僕も、<b:8ad1>に<b:8a8f><b:8af1>していたんだが / <b:8ad2><b:8ad3>サマのお探を / 録えているわけじゃないしよ
+  LIT: I too served back then, but I don't really remember the hero's face. [twin:6/10 英雄=hero]
+  RE : I served back then myself, but
+       I can't say I remember the
+       hero's face.
+
+[US#1396] (crew member)
+  JP : 「まさか、また / いっしょに戦う回が来ようとはな
+  LIT: To think a time would come to fight together again.
+  RE : To think a day would come to
+       fight side by side again.
+
+[US#1397] (crew member)
+  JP : 「みんなあんたたちに / 未来を<b:8b02>している〜
+  LIT: Everyone is entrusting the future to you. [twin:10/2511 託す=entrust]
+  RE : Everyone is entrusting
+       the future to you.
+
+[US#1398] SKIPPED (no content box in the dump; slot absent from the decode. Nothing to translate.)
+
+[US#1399] (crew member, on the new craft)
+  JP : 「だけど、シャトーと同じく / サーチ機能が備わっていないから / 結<b:8b04>のところ、地道な探<887e>は変わらないがな
+  LIT: But like the Chateau it has no search function, so in the end the plain legwork search is unchanged. [twin:10/2513]
+  RE : But like the Chateau, it has
+       no search function. In the end,
+       plain legwork is unchanged.
+
+[US#1400] SKIPPED (box is control-code garbage: [02][09]とゥ[0e], no readable JP. System/corrupt fragment.)
+
+[US#1401] (crew member, on the new craft)
+  JP : 「ヴァレリアシャトーより / 着陸可能ポイントに自由がきくぶん / 行動可能<b:8aa1>囲が<b:8b03><b:8a7a>に広がったはずだ
+  LIT: Since it lands more freely than Valeria Chateau, its range of action should have widened greatly.
+  RE : It lands more freely than the
+       Chateau, so its range of action
+       should be far wider.
+
+[US#1402] (crew member, on the Chateau)
+  JP : 「今後のシャトーは、あんたたちの足ではなく / <b:8b07>間人の安全確保のために / 解放されることになったぜ
+  LIT: From now the Chateau is freed up not as your transport, but to secure civilians' safety. [民間人=civilians]
+  RE : From now the Chateau won't be
+       your ride. It's freed to keep
+       civilians safe.
+
+[US#1403] (crew member)
+  JP : 「何もかもが / 伝説から / 現実のモノへ変わろうとしている〜
+  LIT: Everything is turning from legend into reality.
+  RE : Everything is turning
+       from legend
+       into reality.
+
+[US#1404] (crew member)
+  JP : 「ファルガイアを攻う脅威が / 更々と伝説を、現実に<b:8b09>らせていく〜 / そんな気がしてならないぜ
+  LIT: The threat assailing Filgaia keeps bringing the legends to life; I can't shake the feeling. [twin:10/2518 蘇る=revive]
+  RE : The threat on Filgaia keeps
+       waking the old legends into
+       reality. I can't shake it.
+
+[US#1405] (crew member)
+  JP : 「このままじゃ / ファルガイアを保るために / ＜<b:8ab9>の少女＞まで<b:8b09>るんじゃないか？
+  LIT: At this rate, might even the <Sword Magess> revive to protect Filgaia? [twin:10/2519 剣=sword]
+  RE : At this rate, might even the
+       <Sword Magess> return to
+       protect Filgaia?
+
+[US#1406] (crew member, on the Heimdal Gazzo weapon)
+  JP : 「そいつがヘイムダル・ガッツォーに / <887c><887d>されているのは / ほぼ、まちがいないだろう〜
+  LIT: That it's loaded aboard Heimdal Gazzo is almost beyond doubt. [搭載=loaded]
+  RE : That it's loaded aboard
+       Heimdal Gazzo is almost
+       beyond doubt.
+
+[US#1407] (crew member, on the weapon)
+  JP : 「その圧倒的な威力から / 戦<b:8b0b>的にあつかわれることは<b:8a97>くないが〜
+  LIT: Given its overwhelming power, it's not unlikely it'd be handled as a strategic weapon, but... [戦略=strategy]
+  RE : With power like that, it may
+       well be treated as a strategic
+       weapon, but...
+
+[US#1408] (crew member, on Vinsfeld)
+  JP : 「気がかりなのは / 追いつめられたヴィンスフェルトが / いつまで<b:8b0c><b:8b0d>な判断を辺せるかということだ
+  LIT: What worries me is how long a cornered Vinsfeld can keep making rational judgments. [冷静/正常=calm/sound]
+  RE : What worries me is how long a
+       cornered Vinsfeld can keep
+       judging with a clear head.
+
+[US#1409] (crew member, on Guild Galad tech)
+  JP : 「ギルドグラードじゃドラゴンの合谷を用いて / 機艇<b:8aa6><b:8a4c>が発<b:8aa3>しているらしいが〜
+  LIT: In Guild Galad they use Dragon fossils, and craft technology has advanced, it seems. [化石=fossil, 技術=tech]
+  RE : In Guild Galad they use Dragon
+       fossils, and craft technology
+       has come far, it seems.
+
+[US#1410] (crew member, on the Dragon-craft)
+  JP : 「機艇と生命体の中間存在 / 幻獣ドラゴンそのものでもない<b:8a78>り / このサイズに飛空機艇をおさめられないぞ
+  LIT: A being between craft and living creature. Short of being the phantom-beast Dragon itself, you couldn't fit a flying craft this small. [限り=short of]
+  RE : Half craft, half living thing.
+       Short of being the Dragon
+       itself, none fits this small.
+
+[US#1411] (crew member, plan of attack)
+  JP : 「外からドンパチやって落ちねぇのなら / 中に侵入して、街部から破滅する / <b:8aee>本的なことだが、確実な作戦だ
+  LIT: If blasting from outside won't down it, sneak inside and wreck it from within. Basic, but a sure plan. [内部=inside, 基本=basic]
+  RE : If blasting it from outside
+       won't work, get inside and wreck
+       it there. Basic, but sure.
+
+[US#1412] (crew member)
+  JP : 「でも、中心要の小<b:8aeb>機が用意されていない / たとえるなら、そう<f040><f042>〜 / 『<b:8ae7>人女<b:8b11>のいない<b:8a9a>』ってとこか？
+  LIT: But no small core craft is provided. To put it... like an inn with no lovely proprietress? [小型機/看板女将/宿]
+  RE : But there's no small core craft.
+       Like, how to put it, an inn
+       with no lovely hostess?
+
+[US#1413] (crew member)
+  JP : 「まあ、どうしてもって言うのなら / あんたたちを / 生身で<b:8a95>出しても構わないんだけどな
+  LIT: Well, if you really insist, I don't mind launching you out in the flesh. [twin:6/1088 射出=launch]
+  RE : Well, if you really insist, I
+       don't mind launching you out
+       in the flesh.
+
+[US#1414] (crew member, on the hero's strength)
+  JP : 「それは、僕たちひとりひとりが / 少しずつ持っているはずの / 大切なモノを保る力だぜ
+  LIT: It's the power each of us should hold a little of, the power to protect what's precious.
+  RE : It's a power each of us should
+       hold a little of. The power to
+       guard what's precious.
+
+[US#1415] (crew member, on the hero)
+  JP : 「それは、力無きゆえに / 『<b:8ad2><b:8ad3>』の力を<b:8a70>めているんだ / けっして『<b:8ad2><b:8ad3>』の<b:8b12>なんかじゃないぜ
+  LIT: The powerless seek the "hero's" power. It's never about the "hero's" bloodline. [twin:10/2521 英雄=hero, 血=blood]
+  RE : The powerless seek a "hero's"
+       strength. It was never about
+       a "hero's" bloodline.
+
+[US#1416] (crew member, hero/bionic lore)
+  JP : 「<b:8ad2><b:8ad3>の<b:8b14><b:8b15>を<b:8b16><895b>する<b:8a9d>や / 人にあらずモノは / <b:8b17><b:8b18>されるらしいが〜
+  LIT: Those who falsely claim the hero's lineage, or things that are not human, are turned away. [詐称=false claim, 拒絶=reject]
+  RE : Those who fake the hero's line,
+       or those who aren't human,
+       get turned away, they say.
+
+[US#1417] (crew member, on bionic bodies)
+  JP : 「さらに、本体との<b:8b17><b:8b18>反応もあるため / 非世に過去で / リスキーな手<b:8a4c>とも聞いているぜ
+  LIT: On top of that there's a rejection reaction with the host body, so I hear it's a very harsh, risky procedure. [拒絶反応/非常に/手術]
+  RE : There's also rejection by the
+       host body, so it's a very harsh,
+       risky procedure, I hear.
+
+[US#1418] (crew member, on bionic bodies)
+  JP : 「それでも / 義体を手に入れようとするってヤツは / 相応のワケ作りってことだろうな
+  LIT: Even so, anyone who'd try to get a bionic body must have a fitting reason. [twin:6/1093 義体=bionic body]
+  RE : Even so, anyone out to get a
+       bionic body must have quite
+       a reason for it.
+
+[US#1419] (crew member, on bionic bodies)
+  JP : 「<89c1>に、生身を一部残して / そっくり<88fb>発するなんてケースは / 聞いた事も無いぜ
+  LIT: Conversely, leaving part of the flesh and developing a whole replacement, I've never heard of it. [twin:6/1094 逆/開発]
+  RE : The reverse, keeping some flesh
+       and building a full replacement,
+       I've never once heard of.
+
+[US#1420] (crew member, on bionic bodies)
+  JP : 「心<b:8b1e>は、エンジン / <b:8b1f><b:8b20>は、コクピットってなカンジだ
+  LIT: The heart is the engine, the brain the cockpit, that sort of thing. [twin:6/1095 心臓/脳]
+  RE : The heart is the engine,
+       the brain is the cockpit.
+       That kind of thing.
+
+[US#1421] (crew member, on bionic bodies)
+  JP : 「言いかえるならば / 人の体も機艇にて構成することも / 可能ってことだぜ
+  LIT: In other words, it's possible to build a human body out of craft components too.
+  RE : Put another way, a human body
+       can be built out of craft
+       parts too.
+
+[US#1422] (crew member, on Industrial Sorcery)
+  JP : 「<8995>か<b:8a76>は、もっと<b:8b24><b:8b25>で / さらに強力なインダストリアルソーサーが / ファルガイアにはあったというぜ
+  LIT: Long ago, Filgaia is said to have had even more complex and powerful Industrial Sorcery. [twin:6/1097 複雑=complex]
+  RE : Long ago, Filgaia is said to
+       have had far more complex and
+       powerful Industrial Sorcery.
+
+[US#1423] (Marivel)
+  JP : 「わらわが可理想なお<b:8b26>らのために / ちょっとだけロストテクノロジーを使って / キュートでドキドキな<b:8b29><b:8b0e>をしてしんぜよう
+  LIT: For you cute little ones, I shall use a bit of Lost Technology to give you a cute, thrilling makeover. [twin:10/2523 お主ら/改造]
+  RE : For you dear ones, I'll use a
+       touch of Lost Technology for a
+       cute, thrilling upgrade.
+
+[US#1424] (Marivel)
+  JP : 「<f041><f041><f041>なんじゃ、その中いの目は / わらわに任せておけば大<b:8b2b><b:8b2c>じゃ
+  LIT: What's with that doubtful look? Leave it to me and it'll be fine. [疑い/大丈夫]
+  RE : What's with that doubtful look?
+       Leave it all to me and
+       it'll be fine.
+
+[US#1425] (Marivel)
+  JP : 「ギルドグラードの<b:8aa6><b:8a4c>など / 足元にも<b:8ad8>ばないことを / ちょっぴり見せつけるだけじゃよ
+  LIT: I'll just show off a little that Guild Galad's technology can't even come close. [twin:10/2525 技術/及ばない]
+  RE : I'll just show off a little how
+       Guild Galad's tech can't even
+       come close to mine.
+
+[US#1426] (Marivel)
+  JP : 「なに、あまり変わったように見えない？ / これだからシロウトは……
+  LIT: What, it doesn't look much different? This is why amateurs...
+  RE : What, it doesn't look any
+       different? Hmph. This is why
+       amateurs...
+
+[US#1427] (Marivel, on the mapscope upgrade)
+  JP : 「これはな、マップスコープの<b:8b2d><b:8b2e>を / <b:8b2f><b:8b30>に<8865>搭<88ab>起することで / 移動中でもマップを見られるのじゃッ！
+  LIT: By projecting the map scope's image onto your retina, you can view the map even while moving! [twin:10/2527 映像/網膜]
+  RE : By casting the map scope's image
+       onto your retina, you can read
+       the map even while moving!
+
+[US#1428] (kid NPC, a sighting)
+  JP : 「どこかの[11]お願い<b:8b32>と谷と道に囲まれた[11]ぉ場所で / ちょっとした遺跡みたいのが見えたんだ
+  LIT: In a place ringed by |[?]|, a valley and a road, I saw something like a small ruin. [emphasized landmark <b:8b32> unsolved]
+  RE : In a spot ringed by |[?]|, a
+       valley and a road, I saw
+       something like a small ruin.
+
+[US#1429] (kid NPC, a sighting)
+  JP : 「なんか、バチバチ輝っていたから / 結構目立っててさ / 一体、何があるトコなんだろうな？
+  LIT: It was sparking and shining, so it really stood out. What on earth is there?
+  RE : It was sparking and shining,
+       so it really stood out. What
+       on earth could be there?
+
+[US#1430] (kid NPC, a sighting)
+  JP : 「<f040><f041><f042>そういえば、[11]おそこから東の方[11]ぉには / [11]お願い<b:8b32>にかかった<89ec>の上[11]ぉに / 場があるのが見えたぜッ
+  LIT: Come to think of it, |to the east of there|, I saw a place |on a bridge spanning the [?]|. [twin:10/2530 橋=bridge]
+  RE : Come to think of it, |east
+       of there| I saw a place on
+       |a bridge over the [?]|.
+
+[US#1431] (kid NPC, on Lombardia)
+  JP : 「ロンバルディアってさ / 何食ってんだろう？ / まさか、人間を食べたりしないよな？
+  LIT: I wonder what Lombardia eats. It doesn't eat people, does it?
+  RE : What does Lombardia even eat?
+       It doesn't eat people,
+       does it?
+
+[US#1432] (kid NPC)
+  JP : 「でも、なんでこんなことしたのかな？
+  LIT: But why did he do something like this?
+  RE : But why would he do
+       something like this?
+
+[US#1433] (kid NPC, on {2})
+  JP : 「[0a]かお<b:8b35>ちゃんが<b:8b36>いてたけど / 何かあったの？
+  LIT: {2} was crying. Did something happen? [twin:10/2533 泣く=cry; [0a]->{2}]
+  RE : {2} was crying earlier.
+       Did something happen?
+
+[US#1434] (kid NPC, on {1})
+  JP : 「やっぱり、あんちゃんが<b:8b36>かしたのかな？ / 大人はたいへんだよねぇ
+  LIT: Did big brother make her cry after all? Adults have it rough, huh. [泣かす=make cry]
+  RE : Did big brother make her cry?
+       Grown-ups sure have it
+       rough, huh.
+
+[US#1435] (kid NPC)
+  JP : 「あの<b:8aad>発じゃ / さすがにダメかと思ったけど / やっぱり僕達の<b:8b37><b:8a6e>の星だ
+  LIT: After that explosion I thought you were done for, but you're our star of hope after all. [twin:10/2535 爆発/希望]
+  RE : After that blast, I really
+       thought you were done. But
+       you're our star of hope.
+
+[US#1436] (kid NPC, "Young ARMS")
+  JP : 「まあ、少数ＡＲＭＳの力を<b:8b38>りたくなったら / いつでも言ってくれよ
+  LIT: If you ever want to borrow the power of the young ARMS, just say so anytime. [twin:10/2536 借りる=borrow]
+  RE : If you ever want to borrow
+       the young ARMS's power,
+       just say the word.
+
+[US#1437] (male NPC, on the sick-bay nurse)
+  JP : 「<b:8b1a>務<b:8a8c>の保護衛さんだけどさ / <b:8ae7>人だけどちょっと、恐いんだよな / いろんな意<b:8a3d>で〜
+  LIT: That nurse in the sick bay, she's a beauty, but a bit scary. In more ways than one. [医務室/美人/意味]
+  RE : The nurse in the sick bay,
+       she's a beauty, but a bit
+       scary. In more ways than one.
+
+[US#1438] (male NPC, teasing)
+  JP : 「とりあえず、お前は数上のお<b:8b35>さんタイプが / 好みだって言っておいたら<b:8b3b>んでたぜ / <f040><f041><f042>なに、<b:8b36>きそうな探してるんだよ？
+  LIT: I told her you go for the older-sister type and she was pleased. Hey, why do you look about to cry? [年上/喜ぶ/泣きそうな顔]
+  RE : I told her you like the older
+       type, and she was pleased. Hey,
+       why look about to cry?
+
+[US#1439] (male NPC)
+  JP : 「いろんな意<b:8a3d>で〜
+  LIT: In every sense of the word... [意味=sense]
+  RE : In more ways
+       than one...
+
+[US#1440] (kid NPC, on Ebecho's cookies)
+  JP : 「この前、エベチョチョ様っていう家から / クッキーを<b:8b3c>ったんだけど / ちょっと、シケってたんだ〜
+  LIT: The other day I got cookies from a kid called Ebecho, but they were a bit soggy. [貰う=receive]
+  RE : The other day a kid named
+       Ebecho gave me cookies, but
+       they were kind of soggy.
+
+[US#1441] (male NPC, on the rookie {3})
+  JP : 「[05]が、がんばってる？ / まだ戦<b:8a3c>に<b:8aa0>れていないんだから / あんまり、無理させないようになッ！
+  LIT: Is {3} doing okay? {3}'s not used to battle yet, so don't push too hard! [慣れる=get used to; [05]->{3}]
+  RE : Is {3} holding up okay? Not
+       used to battle yet, so don't
+       push too hard, okay?
+
+[US#1442] (male NPC, continuation)
+  JP : 「まだ戦<b:8a3c>に<b:8aa0>れていないんだから / あんまり、無理させないようになッ！
+  LIT: Since they're not used to combat yet, don't make them overdo it!
+  RE : They're not used to combat
+       yet, so don't let them
+       overdo it!
+
+[US#1443] (male NPC, thanks)
+  JP : 「<b:8b3d><b:8b3e>されそうになった[05]がを / 助けてくれて、ありがとなッ！
+  LIT: Thanks for saving {3}, who was about to be kidnapped! [誘拐=kidnap; [05]->{3}]
+  RE : Thanks for saving {3} from
+       being kidnapped back there!
+
+[US#1444] (crew member, praising Valeria)
+  JP : 「ヴァレリアさんの行いは / <b:8a4b><b:8b40>の<b:8b41><b:8b42>の<b:8b43><b:8a4a>書に<887d>るかもしれませんね
+  LIT: Mr. Valeria's deeds may one day be written in the history books. [twin:10/2537 歴史の教科書=history textbook]
+  RE : Mr. Valeria's deeds may one
+       day be written into the
+       history books.
+
+[US#1445] (crew member)
+  JP : 「もう、このファルガイアに / あなた方たちを倒せるモノは / いないことでしょう
+  LIT: There is surely no one left in Filgaia who could defeat you.
+  RE : Surely there's no one left in
+       all Filgaia who could
+       defeat you now.
+
+[US#1446] (crew member, on {3})
+  JP : 「[05]ぉさんも / 『スレイハイムの<b:8ad2><b:8ad3>』さんと同じくらい / 強いのではないですか
+  LIT: {3} may now be just as strong as the "Hero of Slayheim." [twin:10/2539 英雄=hero; [05]->{3}]
+  RE : {3} may be just as strong now
+       as the "Hero of Slayheim,"
+       don't you think?
+
+[US#1447] (crew member)
+  JP : 「『スレイハイムの<b:8ad2><b:8ad3>』は / 配達じゃないと言うことですね
+  LIT: The "Hero of Slayheim" is no idle title, it seems. [伊達=idle show; 英雄=hero]
+  RE : The "Hero of Slayheim" is
+       no idle title after all,
+       it seems.
+
+[US#1448] (crew member, on Ebecho's cookies)
+  JP : 「エベチョチョ様の<b:8b45>物のクッキーですが / 大事にしまっていた為 / <b:8b46><b:8a3d><b:8b47><b:8a78>を過ぎていたのではないでしょうか
+  LIT: Ebecho kept his beloved cookies stored so carefully they may have passed their expiration date. [好物/賞味期限]
+  RE : Ebecho stored his beloved
+       cookies so carefully they may
+       be past their sell-by date.
+
+[US#1449] (crew member, on {3})
+  JP : 「[05]が様にとって / <b:8b48>の<b:8a57><b:8a58>の場だったのではないでしょうか
+  LIT: For {3}, this may have been the first real battle. [初/実戦; [05]->{3}]
+  RE : For {3}, this may well have
+       been the first taste of
+       real battle.
+
+[US#1450] (crew member, on {3})
+  JP : 「[05]がくんは / このお館に保護してもらうのが / 正解でしょう
+  LIT: It would be best for {3} to be kept safe here in this castle. [[05]->{3}]
+  RE : It would be best to keep {3}
+       safe here under this
+       castle's care.
+
+[US#1451] (crew member)
+  JP : 「それは結単なことなんかではなく / 誰にだってできることだったんです
+  LIT: That was no easy feat, yet it was something anyone could have done. [簡単=easy]
+  RE : That was no easy feat, yet it
+       was something anyone could
+       have done.
+
+[US#1452] (examine panel, preparedness monologue)
+  JP : ＊それらに対<b:8a98>するためには / 世に、最悪の状況を想定し / 対<b:8a98>方法を確立しておくことである
+  LIT: To deal with them, one must always assume the worst case and set out a way to cope in advance. [twin:10/2541 対処=cope, 常に=always]
+  RE : *To face them, always assume
+       the worst case and set your
+       response in advance.
+
+[US#1453] (examine panel)
+  JP : ＊対<b:8a98>が、後手に回ることで / 状況は悪合の一<b:8b4e>を<89cb>り / 取り<b:8b4f>しの付かない状況になる
+  LIT: When the response falls behind, the situation only worsens until it can't be undone. [twin:10/2542 悪化/取り返し]
+  RE : *When your response lags, the
+       situation only worsens, until
+       it can't be undone.
+
+[US#1454] (examine panel)
+  JP : ＊未部に<b:8ad9>ぐことができなかったとき / 状況の悪合を<b:8ad9>ぎ / <889a><889b>の最小合を<b:8b50>る必要がある
+  LIT: When you can't prevent it beforehand, you must curb the worsening and aim to keep damage minimal. [twin:10/2543 未然/防ぐ/被害]
+  RE : *When you can't prevent it,
+       curb the damage and aim to
+       keep the harm minimal.
+
+[US#1455] (examine panel)
+  JP : ＊ファルガイアにある国々は / 見えない国境という<b:8b51>で押切られ / 人々の心にも<b:8b51>を作る
+  LIT: Filgaia's nations are cut off by invisible walls called borders, and this builds walls in people's hearts too. [twin:10/2544 壁=wall]
+  RE : *Filgaia's nations are split by
+       invisible walls called borders,
+       and walls form in hearts too.
+
+[US#1456] (examine panel)
+  JP : ＊自国を保ろうとしたり / 他国に対し中心暗<b:8b53>になることで / さらに<b:8b54>を願めていくことになる
+  LIT: By guarding one's own nation and growing suspicious of others, the divide only deepens. [疑心暗鬼=suspicion, 溝=rift, 深める=deepen]
+  RE : *Guarding one's own land while
+       fearing others only deepens
+       the rift between them.
+
+[US#1457] (examine panel)
+  JP : ＊ファルガイアの全ての人々がわかりあい / この地に<b:8ae6>まう同胞として / <b:8b55>重しあえるのはいつの回か…
+  LIT: When will all Filgaia's people understand one another and respect each other as kin of this land? [twin:10/2546 住まう/同胞/尊重]
+  RE : *When will all Filgaia's people
+       understand and respect one
+       another as kin of this land?
+
+[US#1458] (examine panel)
+  JP : ＊我々は、それに<b:8b56>する手だてがあるのか？ / 魔物に<b:8a78>ったことではない / 大変地異の可能性もある
+  LIT: Do we even have means to counter it? It's not limited to monsters; natural catastrophes are possible too. [対=counter, 天変地異=disaster]
+  RE : *Do we even have a way to face
+       it? Not just monsters, a natural
+       disaster could strike too.
+
+[US#1459] (examine panel)
+  JP : ＊それらに<b:8b56>する力を / 我々は持っていない
+  LIT: We do not possess the power to counter them. [対する=counter]
+  RE : *We do not hold the power
+       to stand against them.
+
+[US#1460] (examine panel)
+  JP : ＊世界を<b:8a6b>う脅威が来たとき / 我々は滅びるしかないのか
+  LIT: When a threat that assails the world comes, are we left with no choice but to perish? [twin:10/2549 襲う=assail]
+  RE : *When a threat assails the
+       world, are we left only
+       to perish?

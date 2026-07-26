@@ -1,0 +1,263 @@
+# Wild Arms 2 — Lore Encyclopedia, Block 6, US#1231-1278 — FINAL
+# ============================================================================
+# Prime directive: JP is the ONLY reliable source. The aligned EN in the brief
+# is drifted by ~4 boxes (Rosetta drift) and is used only as a cross-check where
+# it demonstrably matches a JP fragment. Residual <b:xxxx> kanji codes were read
+# from JP context + EN cross-check; a few were sanity-checked against twin block
+# 10's decode. Genuinely empty/coded/garbage boxes are marked SKIP, never
+# invented from EN.
+#
+# SCENE: (A) Valeria Chateau mission briefing — deliver a secret letter to the
+# Sylvaland royal court, reactivate the Live Reflector, secure the route
+# (US#1231-1243). (B) Marivel's KnightBlazer lore dump to Ashley — Demon
+# Summoning survivor, Argetlahm, holy+demonic+human-heart = KnightBlazer, "another
+# you" (US#1245-1259). (C) Marivel's crystal-fetch mission — Odessa's lost tech,
+# Aguelite & Germatron energy crystals, the EMMA Motor, Live Reflector transport
+# (US#1260-1273). (D) minor NPC boxes / snore SFX (US#1271-1278).
+#
+# NAME-CODE NOTE: the raw control code shown as [05] is the insert-hero-name
+# opcode; throughout this Marivel scene it addresses Ashley, and the aligned EN
+# renders it "0". Rendered as {0} accordingly.
+# ============================================================================
+
+[US#1231] (party member, denial)
+  JP : 「そんなわけないだろッ！
+  LIT: There's no way that's the case!
+  RE : There's no way that's true!
+
+[US#1232] SKIPPED — no box returned in this range (gap).
+
+[US#1233] (Sir Valeria, mission briefing)
+  JP : 「今回の任務は / この<密>書を / シルヴァラント王室まで届け続けることだ
+  LIT: This mission is to deliver this secret letter to the Sylvaland royal court.
+  RE : Your mission: deliver this letter
+       to the Sylvaland royal court.
+
+[US#1234] (Sir Valeria, mission briefing)
+  JP : 「キミたちの手で、<b:8bda>起動を試み / シルヴァラント国までの / <道>（みち）を確保してほしいッ！
+  LIT: With your own hands, try to reactivate it, and secure the route to Sylvaland!
+  RE : Try to reactivate it yourselves,
+       and secure a route to Sylvaland!
+
+[US#1235] (Sir Valeria, mission briefing)
+  JP : 「ライブリフレクターを出た先 / 小山の中<b:8bdb>にあるのだ / 見つけるのはさほど苦労しないはずだ
+  LIT: Just past the Live Reflector's exit, it's up in the hills. Finding it shouldn't be much trouble.
+  RE : It's just past the Live Reflector,
+       up in the hills. You won't have
+       trouble finding it.
+
+[US#1236] (Sir Valeria, mission briefing)
+  JP : 「<道>中、オデッサの攻撃も充分に考えられる / <密>書は必ず届けてほしい〜 / たのんだぞ、みんな
+  LIT: On the way, an Odessa attack is quite possible. Be sure to deliver the letter. I'm counting on you, everyone.
+  RE : Odessa may well attack en route.
+       Deliver the letter no matter what.
+       I'm counting on you all.
+
+[US#1237] SKIPPED — JP is control code [17] only (no decodable text); aligned EN drift not used.
+
+[US#1238] (party member, interjection)
+  JP : 「<f040><f042>と、その前に〜
+  LIT: Oh, but before that...
+  RE : Oh, but before that...
+
+[US#1239] (Sir Valeria, to a party member)
+  JP : 「キミは、たしか / ゴルゴダ<牢>場で / 俺たちを助けてくれた〜
+  LIT: You're the one who, if I recall, helped us at Golgotha Prison.
+  RE : You're the one who helped us
+       back at Golgotha Prison,
+       if I recall.
+
+[US#1240] SKIPPED — no decoded JP for this box; aligned EN drift not used.
+
+[US#1241] SKIPPED — no box returned in this range (gap).
+
+[US#1242] (Sir Valeria, introducing Marivel)
+  JP : 「<文>通をきっかけに知り合って以来 / 外部<顧問>誓として / ＡＲＭＳに<協>左してもらっているのだ
+  LIT: Ever since we got acquainted through correspondence, she has helped ARMS as an outside advisor.
+  RE : Since we met through letters,
+       she's aided ARMS as an
+       outside advisor.
+
+[US#1243] (party member / teasing beat)
+  JP : 「それとも / これから持つのか？
+  LIT: Or, will you come to (have it) from now on?
+  RE : Or will that come later,
+       perhaps?
+
+[US#1244] SKIPPED — no box returned in this range (gap).
+
+[US#1245] (Marivel, KnightBlazer lore)
+  JP : 「<b:8ace>のエネルギーを発する / 異面の暗<黒>胞〜 / {0}ぎくんの命名だ
+  LIT: A dark entity of another aspect that emits destructive energy. That is the name it was given.
+  RE : A dark being of another aspect
+       that emits destructive energy.
+       That is the name it now bears.
+
+[US#1246] (Marivel, KnightBlazer lore)
+  JP : 「おぬし〜 / オデッサによる降魔<の>儀の / <唯>一の生存者なのであろう？
+  LIT: You are the sole survivor of Odessa's Demon Summoning ritual, are you not?
+  RE : You are the sole survivor
+       of Odessa's Demon Summoning
+       ritual, are you not?
+
+[US#1247] (Marivel, KnightBlazer lore)
+  JP : 「おぬしの<肉体>に<宿>した魔<性>の能力と / あの時、消失したガーディアンブレード / 『アガートラーム』〜
+  LIT: The demonic power dwelling within your body, and the Guardian Blade "Argetlahm" that vanished that day...
+  RE : The demonic power within you,
+       and the vanished Guardian Blade
+       |Argetlahm|...
+
+[US#1248] (Marivel, KnightBlazer lore)
+  JP : 「ぶつかりあう相反するふたつの力が / ギリギリのせめぎあいの中で / 奇跡的な<均衡>をつくりだしておるのじゃ
+  LIT: The two opposing forces that clash, in their razor-edge struggle, create a miraculous balance.
+  RE : Two opposing forces clash within,
+       and in that razor-edge struggle
+       forge a miraculous balance.
+
+[US#1249] (Marivel, KnightBlazer lore)
+  JP : 「<神>聖なる力と、<邪>悪なる力〜 / そして、人の心を備えた / 異面の暗<黒>胞、ナイトブレイザー
+  LIT: The holy power and the evil power, and a human heart as well: the dark entity of another aspect, KnightBlazer.
+  RE : Holy power and demonic power,
+       joined with a human heart:
+       the dark being KnightBlazer.
+
+[US#1250] (Marivel, KnightBlazer lore)
+  JP : 「それは、もうひとりの / おぬし自身じゃよ
+  LIT: That is another you yourself.
+  RE : That is |another you,| you see.
+
+[US#1251] (Marivel, KnightBlazer lore)
+  JP : 「アガートラームの制<御>が / いい<具合>に行われているようだからな
+  LIT: Your control over Argetlahm seems to be going well.
+  RE : Your control over Argetlahm
+       seems to be going well.
+
+[US#1252] (Marivel, KnightBlazer lore)
+  JP : 「今はまだ、目の前の脅威 / オデッサを相手にしておればよい
+  LIT: For now, you need only face the threat before you: Odessa.
+  RE : For now, just face the threat
+       before you: Odessa.
+
+[US#1253] (Ashley, to Marivel)
+  JP : 「キミは / 俺のことを知っているのか？
+  LIT: You... do you know me?
+  RE : You... do you know
+       who I am?
+
+[US#1254] (Marivel)
+  JP : 「まるでそんな口<ぶ>りだ
+  LIT: You speak just as if you do.
+  RE : You speak as though you do.
+
+[US#1255] (Marivel)
+  JP : 「我々としては / まったくの<五>里<霧>中なのだ / 今は、彼女を信じよう
+  LIT: As for us, we are completely in the dark. For now, let us trust her.
+  RE : As for us, we're utterly lost.
+       For now, let us trust her.
+
+[US#1256] (Marivel, to Ashley)
+  JP : 「だが、不確定要<素>が多すぎる / {0}ぉ、キミのカラダのことは / 誰にも話さないでおいた方がいいだろう
+  LIT: But there are too many uncertain factors. {0}, it would be best to tell no one about your body.
+  RE : But too many unknowns remain.
+       {0}, better tell no one
+       about your body.
+
+[US#1257] (party member, acknowledgment)
+  JP : 「〜了解
+  LIT: ...Understood.
+  RE : ...Understood.
+
+[US#1258] (party member)
+  JP : 「すまない / もう一度、頼むよ
+  LIT: Sorry. Once more, please.
+  RE : Sorry. Could you tell me
+       that once more?
+
+[US#1259] SKIPPED — no decoded JP for this box; aligned EN drift not used.
+
+[US#1260] (Marivel, on Odessa)
+  JP : 「わらわのファルガイアを / <b:8bea>手きままに<蹂躙>せんとするオデッサどもに / 生意気にもロストテクノロジーがあるッ！
+  LIT: Those Odessa brutes who would trample my Filgaia as they please, and impudently they wield lost technology!
+  RE : Those Odessa brutes trample my
+       Filgaia as they please, and
+       impudently wield lost technology!
+
+[US#1261] (Marivel, on Odessa)
+  JP : 「彼らに対<抗>するには / こちらも同<等>、あるいはそれ以上の / 戦力を持たねばならぬッ！
+  LIT: To counter them, we must have fighting power equal to or greater than theirs!
+  RE : To oppose them, we need power
+       equal to theirs, or greater!
+
+[US#1262] (Marivel)
+  JP : 「わかるじゃろうッ！ / そこで、わらわの出番なのじゃッ！
+  LIT: You understand, don't you? And that's where I come in!
+  RE : You see now, don't you?
+       This is where I come in!
+
+[US#1263] SKIPPED — no box returned in this range (gap).
+
+[US#1264] (Marivel, crystal mission)
+  JP : 「そこで、必要不可欠となる / エネルギー結<晶>体がふたつ〜 / アグエライト渓谷とゲルマトロン渓谷〜
+  LIT: There, two indispensable energy crystals: Aguelite and Germatron.
+  RE : Two energy crystals are vital:
+       Aguelite and Germatron.
+
+[US#1265] (Marivel, crystal mission)
+  JP : 「このふたつが / 生み出すエネルギーによってのみ / エマ・モーターは起動する
+  LIT: Only by the energy these two produce does the EMMA Motor start.
+  RE : Only the energy these two make
+       can start the EMMA Motor.
+
+[US#1266] (Ashley / party, crystal mission)
+  JP : 「そのふたつの渓谷は / どこで手に入るんだ？
+  LIT: Where can we get those two crystals?
+  RE : Where do we get those
+       two crystals?
+
+[US#1267] SKIPPED — no box returned in this range (gap).
+
+[US#1268] (Marivel, crystal mission)
+  JP : 「よって、ライブリフレクターにて / <転>移可能である
+  LIT: Therefore, transport is possible via the Live Reflector.
+  RE : So we can transport there
+       via the Live Reflector.
+
+[US#1269] (Marivel, crystal mission)
+  JP : 「どちらからでもかまわない / ふたつの渓谷の入手をたのんだぞッ！
+  LIT: Either one is fine. I'm counting on you to obtain both crystals!
+  RE : Either one first is fine.
+       Go retrieve both crystals!
+
+[US#1270] SKIPPED — JP is control code [17] only (no decodable text).
+
+[US#1271] (NPC)
+  JP : 「すみません
+  LIT: Excuse me.
+  RE : Excuse me.
+
+[US#1272] (sleeping NPC, SFX)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snore SFX: gao... gao... gao)
+  RE : zzz...zzz...zzz
+
+[US#1273] (NPC)
+  JP : 「失礼ですけど / 誰かお探しですか？
+  LIT: Excuse me, but are you looking for someone?
+  RE : Excuse me, but are you
+       looking for someone?
+
+[US#1274] SKIPPED — no box returned in this range (gap).
+
+[US#1275] (corrupted box)
+  JP : な何づ[ff]たそぽそ[0c][a4][10][0e][ff]夊[08][80]侍ハぁソ
+  LIT: (garbage bytes, not decodable)
+  RE : [SKIP - unreadable]
+
+[US#1276] (sleeping NPC, SFX)
+  JP : (empty decode; aligned EN = "...30...30...30..." = ぐぉ snore SFX)
+  LIT: (snore SFX)
+  RE : zzz...zzz...zzz
+
+[US#1277] SKIPPED — no decoded JP for this box; aligned EN drift not used.
+
+[US#1278] SKIPPED — no decoded JP for this box; aligned EN drift not used.

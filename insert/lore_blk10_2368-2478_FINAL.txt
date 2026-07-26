@@ -1,0 +1,746 @@
+# WA2 — Lore Encyclopedia block 10 (US#2368-2478) — DEEP RE
+# =========================================================================================
+# Block 10 is a whole-game-spanning "encyclopedia" hub: readable *-panels + repeated character
+# monologues (twinned near-verbatim in blocks 8/9/11) on Raline/Mana/Raypoints, the Kuiper Belt
+# crash, ARMS's founding purpose, Valeria Chateau politics, the Emma Motor mishap ("last supper"
+# gag with Gubacho/Ebecho), Palace Village lore, and the closing Sword Magess/hero-legend lore
+# that pays off Lord Blazer at the endgame. Speakers are NOT tagged in this dump; guessed in
+# parens from content/EN-twin context per box, not invented drama.
+# EN alignment is UNRELIABLE for this block (deep-tail Rosetta drift) — translated from JP.
+# Many boxes carry unsolved <b:xxxx> block-local kanji; where a parallel twin box exists in
+# blocks 8/9/11 (identical script reused per-branch) the meaning is well cross-confirmed even
+# when the exact glyph stays unsolved. Genuinely unrecoverable spans are marked [?].
+# No em dashes. Fit <=3 lines x <=35 chars.
+# =========================================================================================
+
+[US#2369] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But, unfortunately, you cannot use this in the current trial version.
+  RE : But, unfortunately, this can't be
+       used in the trial version.
+
+[US#2370] (system: demo notice, examine panel)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#2371] (merchant, ammo dealer)
+  JP : [17]<b:8a3f>を込められるのは / 伝説のタマゴメスキーさんしかできねぇよ / ま、実在してりゃのハナシだが〜<b:8a40>するとだな〜 / ん、しめて、[02]ギャラってとこだ / 安いモンだろうよか<b:8a3e>バカにしてんのか？ / ギャラ持ってこい、ギャラ[?]しをってな
+  LIT: The legendary Tamagomeski is the only one who can load [bullets] like this. Well, that's assuming he really exists. If you [?]... let's see, that'll be {2} Gella. Cheap, right? [?] You mocking me? Bring me the Gella, no Gella no [?].
+  RE : Only the legendary Tamagomeski
+       could load bullets like this. If
+       he's even real, that is.
+
+[US#2372] (Vinsfeld, on the nuclear plan)
+  JP : 「私の作戦に誤りはない〜 / 執念存在を得るには / この作戦以外にはありえないのだ〜
+  LIT: There is no mistake in my plan. To gain the obsession's prize, there is no way but this plan.
+  RE : There is no mistake in my plan. To
+       gain what I have craved, there is
+       no other way.
+
+[US#2373] (lore panel: Raline)
+  JP : 「彼の地は、レイラインと呼ばれる地脈が / 最大無限に行き交っている地である
+  LIT: That land is where the ley-veins called Raline flow together in greatest abundance.
+  RE : That land is where the ley-veins
+       called Raline flow together in
+       greatest abundance.
+
+[US#2374] (lore panel: Raline / Mana / Raypoints)
+  JP : 「レイラインには / 星の生命エネルギー『マナ』が通い / その終着地帯はレイポイントと呼ばれている
+  LIT: Through Raline flows the planet's life-energy, Mana; the places where it terminates are called Raypoints.
+  RE : Raline carries the planet's
+       life-energy, Mana. Where it ends,
+       we call it a Raypoint.
+
+[US#2375] (lore panel: harnessing Mana)
+  JP : 「星の生命エネルギー〜 / この強い力を / 我々のモノとする術はないのだろうか〜
+  LIT: The planet's life-energy... is there no technique to make this powerful force our own?
+  RE : The planet's life-energy... Is
+       there no way to make this power our
+       own?
+
+[US#2376] (Lord Valeria, oath)
+  JP : 「私が『お前という十字架を背負う』と / あの大聖堂で言ったことを〜
+  LIT: What I said at that great cathedral, "I will bear the cross that is you"...
+  RE : What I said at that cathedral, "I
+       will bear the cross that is you."
+
+[US#2377] (Lord Valeria, continuing / merged box)
+  JP : 「あの時から / 私たちはいっしょに戦う運命にあったのだ / その戦いこそ、この空を取り戻す戦いなのだ
+  LIT: From that moment, our fates were bound to fight together. And that fight is the fight to win back this sky.
+  RE : From that moment, our fates were
+       bound to fight together, to win
+       back this sky.
+
+[US#2378] (lore panel: the Valeria family records)
+  JP : 「そこに眠る渡記は最大にして貴重〜 / だが、ヴァレリアの血を招きし者のみが / その恩恵にあずかれるという〜
+  LIT: The records that sleep there are the vastest and most precious, but only those who carry Valeria blood may share in that benefit.
+  RE : The records sleeping there are vast
+       and precious, but only Valeria
+       blood may draw on them.
+
+[US#2379] (King of Meria Boule)
+  JP : 「私に代って、その任〜 / っきに任せよう / 彼女ならできるはずである / 者としての理性があるなら〜
+  LIT: In my place, that duty... I'll leave it to her. She should be able to do it, if she has the sense to act as [?].
+  RE : In my place, I'll leave that duty
+       to her. She should be able to
+       handle it.
+
+[US#2380] (on the nuke, tactical use)
+  JP : 「復同時を戦術的に / 用いるなどということはないはずだ / だが〜
+  LIT: There shouldn't be any tactical use of the [nuke], but...
+  RE : There shouldn't be any tactical use
+       of the |nuke|. But...
+
+[US#2381] (on Odessa/Vinsfeld's sanity)
+  JP : 「オデッサに、ヴィンスフェルトに / 戦[?]を[?]じるだけの理性が / 残っていないとするならば〜
+  LIT: If Odessa, if Vinsfeld, no longer have the sense left to refrain from tactically using it...
+  RE : If Odessa and Vinsfeld no longer
+       have the sense to hold back from
+       using it...
+
+[US#2382] (consequence)
+  JP : 「来るべき脅威の前に / ファルガイアは滅びかねない〜復同時まで手に入れようとは〜
+  LIT: Before the coming threat, Filgaia could well perish. That they'd even go so far as to seize the [nuke] too...
+  RE : Filgaia could well be destroyed by
+       the coming threat. To think they'd
+       go that far...
+
+[US#2383] (resolve)
+  JP : 「〜そろそろだな / ヤツらをこれ以上野放しにしては / 保るべきファルガイアを失ってしまう
+  LIT: It's about time. If we let them run free any longer, we'll lose the Filgaia we're meant to protect.
+  RE : It's about time. If we let them run
+       free any longer, we'll lose Filgaia
+       for good.
+
+[US#2384] (Guild Galad Master's son)
+  JP : 「ギルドグラードマスターが / ひとり息子を視察と装して / 塩の原野に向かわせていたそうだが〜
+  LIT: The Guild Galad Master reportedly sent his only son under the pretense of an inspection, out to the salt fields.
+  RE : The Guild Galad Master sent his son
+       to the salt fields, calling it an
+       inspection.
+
+[US#2385] (aside on the salt fields)
+  JP : 「彼の地は塩に奪われた大地〜 / いくつかの発掘地帯をのぞいて / 無意味な世界に何の用だったのだ〜
+  LIT: That land is ground claimed by salt. Aside from a few excavation sites, what business could there be in such a barren world?
+  RE : That land is claimed by salt.
+       Outside a few dig sites, what
+       business could he have there?
+
+[US#2386] (Landing Pad lore)
+  JP : 「ずっと遠い北東の地〜 / 誰も知らない発着魔法陣の縁りには / 強い風が支配する魔境があるそうです
+  LIT: Far to the northeast, by the edge of a Landing Pad no one knows about, there is said to be a demonic realm ruled by fierce winds.
+  RE : Far to the northeast, by an unknown
+       Landing Pad, there is a demon-realm
+       ruled by wind.
+
+[US#2387] (Altaecia, on Filgaia's mysteries)
+  JP : 「このファルガイアには / まだまだ不思議な地が / 遺されているのですね〜
+  LIT: There are still so many mysterious places left in this Filgaia, aren't there.
+  RE : Filgaia still has so many
+       mysterious places left unexplored,
+       doesn't it.
+
+[US#2388] (Altaecia, devotion to her brother)
+  JP : 「私にできることがあれば / この身を捨ててでも / 貴方のお役に立ちたいというのに〜
+  LIT: If there's anything I can do, I want to be of use to you, even if it means giving up this body.
+  RE : If there's anything I can do, I'd
+       give up this body itself to be of
+       use to you.
+
+[US#2389] (Altaecia, on happiness)
+  JP : 「何かを失ってから改めて / その存在の大きさに気付くようなモノも / 『幸せ』のひとつなのかもしれません
+  LIT: Sometimes it's only after losing something that you realize how large its presence was. That too might be one kind of happiness.
+  RE : Sometimes you only see how much
+       something mattered after losing it.
+       Maybe that's happiness too.
+
+[US#2390] (Altaecia, on hope for the brother)
+  JP : 「貴方とあなた方なら / いつかオデッサを駆逐することも / できるような気がしてきます〜
+  LIT: With you and your companions, I start to feel that someday you really could drive out Odessa.
+  RE : With you and your friends, I feel
+       like you really could drive out
+       Odessa.
+
+[US#2391] (Altaecia, uncertainty)
+  JP : 「でもそれは、貴方にとって / 終りなのでしょうか？ / それとも〜
+  LIT: But would that be an ending for you? Or would it...
+  RE : But would that be an ending for
+       you? Or would it...
+
+[US#2392] (Altaecia, on barren hearts and monsters)
+  JP : 「私に、貴方と共に戦える力があれば / このような中誓を / いだかずにすむのでしょうか〜？乾いたファルガイアに生まれいずる / 醜悪なモンスターたち〜
+  LIT: If I had the power to fight beside you, would I be spared holding this kind of pledge? The hideous monsters born from a Filgaia gone barren...
+  RE : If I had power to fight at your
+       side, I'd be spared this. Monsters
+       born of a barren Filgaia...
+
+[US#2393] (Altaecia, on the sadness of it)
+  JP : 「それは、乾いた心に生まれいずる / 人の心の過ちに / どこか通じる悲しさがあります
+  LIT: There's a sadness in it that somehow connects to the errors born in a human heart gone dry.
+  RE : There's a sadness in it that echoes
+       the errors born of a dried-up human
+       heart.
+
+[US#2394] (Altaecia, on Odessa's crime)
+  JP : 「オデッサの罪は / 乾いた人の心に落ちた暗い染み
+  LIT: Odessa's crime is a dark stain fallen onto a heart gone dry.
+  RE : Odessa's crime is a dark stain
+       fallen onto a heart that has gone
+       dry.
+
+[US#2395] (Altaecia, humanity's fault)
+  JP : 「それは、ファルガイアに生きる / すべての人の心の大[?]し〜
+  LIT: That is the great [?] of the hearts of everyone who lives in Filgaia.
+  RE : That is the great failing of every
+       heart living in Filgaia.
+
+[US#2396] (Amy or Kate, optimism)
+  JP : 「ＡＲＭＳはいつも / みんなで勝利を勝ち取ってきたんだ / 今度もきっとうまくいくよ
+  LIT: ARMS has always won victory together, everyone as one. This time will surely go well too.
+  RE : ARMS has always won its victories
+       together. This time will go well
+       too.
+
+[US#2397] (Amy or Kate, on the Kuiper Belt landing zone)
+  JP : 「それでもうまくいかないときは / ＡＲＭＳだけじゃなくて / ファルガイアのみんなでがんばろうッ！[?]した / カイバーベルトの降辺地帯を解[?]ッ！
+  LIT: And if it still doesn't work out, let's not just rely on ARMS, let's have all of Filgaia give it their best! We [?] the Kuiper Belt's crash-landing area!
+  RE : And if that's not enough, all of
+       Filgaia can pitch in! We found the
+       Kuiper Belt's crash site!
+
+[US#2398] (lore: the Kuiper Belt crash site)
+  JP : 「カイバーベルトは滅死の大地〜 / 隣の原野に落辺したものと思われるよ
+  LIT: The Kuiper Belt is thought to have crashed down onto the neighboring wasteland, the Land of Death and Destruction.
+  RE : The Kuiper Belt is thought to have
+       crashed in the Land of Death and
+       Destruction nearby.
+
+[US#2399] (location: Kuiper Belt landing 1)
+  JP : 「クアトリーの北側〜 / ちょうどクアトリーとアークハイムの / 中間地帯かな？
+  LIT: North of Quartly, right about halfway between Quartly and Archheim, I think?
+  RE : North of Quartly, right about
+       halfway between Quartly and
+       Archheim.
+
+[US#2400] (Amy, cheering on the party)
+  JP : 「がんばって、みんなッ！ / ミーちゃんからのお願いだよ
+  LIT: Good luck, everyone! This is Amy's request to you.
+  RE : Good luck, everyone! This is Amy's
+       request to you.
+
+[US#2401] (Amy, self-encouragement)
+  JP : 「ミーちゃん / いっしょうけんめい / がんばっているよ〜
+  LIT: Amy is trying her very hardest too, you know.
+  RE : Amy's trying her very hardest too,
+       you know.
+
+[US#2402] (Amy, on Kate)
+  JP : 「ケイちゃんだって / それなりにね
+  LIT: Kate's doing her part too, in her own way.
+  RE : Kate's doing her part too, in her
+       own way.
+
+[US#2403] (Amy, confused at the gloom)
+  JP : 「がんばったみんなが / 暗い探しているなんて / ぜったいおかしいよ
+  LIT: Everyone who tried their hardest looking so gloomy? That's just plain weird.
+  RE : Everyone tried so hard, so why's
+       everyone still looking so gloomy?
+       That's weird.
+
+[US#2404] (location: Kuiper Belt landing 2)
+  JP : 「まずは、タウンメリアから / ずっと北の大きな島〜 / 魔界鍵の一本と近いポイントに、ひとつ
+  LIT: First, far north of Town Meria, there's a large island, one landing point near a Diablo Pillar.
+  RE : First, on a large island far north
+       of Meria, near a Diablo Pillar.
+
+[US#2405] (location: Kuiper Belt landing 3)
+  JP : 「更にシルヴァラントの東方の海上〜 / 雄知高度から空中だと思われるよ
+  LIT: Also, at sea east of Sylvaland, thought to be up in midair, at [an unknown] altitude.
+  RE : And out at sea east of Sylvaland,
+       apparently floating in midair.
+
+[US#2406] (location: Kuiper Belt landing 4)
+  JP : 「みっつめは / ダムツェンの先東〜 / わりとすぐ近くにてポイント確認ッ！
+  LIT: The third one is beyond the east of Damzen, a point confirmed fairly close by!
+  RE : Number three's just past Damzen to
+       the east. Fairly close by,
+       confirmed!
+
+[US#2407] (location: Kuiper Belt landing 5)
+  JP : 「最後のレイポイントは〜 / ギルドグラードの先側 / ぐるぐる巻きの島から反応アリッ！
+  LIT: The last landing point... past Guild Galad, a reading from a spiral-shaped island!
+  RE : The last one's past Guild Galad, a
+       reading from a spiral-shaped
+       island!
+
+[US#2408] (Amy, handing off to the party)
+  JP : 「ミーちゃんは / ミーちゃんのできることをがんばったよ / 後は、みんなのがんばりに期待してるからね
+  LIT: Amy did her best at what Amy can do. The rest is up to everyone else's effort now.
+  RE : Amy did her best at what Amy can
+       do. The rest is up to all of you
+       now.
+
+[US#2409] (musing: the world-eating world)
+  JP : 「世界を食べちゃう『世界』って / いったい何だろう〜
+  LIT: A "world" that eats worlds... what could that even be?
+  RE : A "world" that eats up other
+       worlds... what could that even be?
+
+[US#2410] (musing: dragons vs. the world)
+  JP : 「ドラゴンたちのように / 強い力を持っていても / 『世界』には勝てないんだよね〜
+  LIT: Even something with power as great as the Dragons couldn't beat a "world," huh.
+  RE : Even something as strong as the
+       Dragons couldn't win against a
+       "world."
+
+[US#2411] (musing: could Slayheim or Odessa have solved it)
+  JP : 「じゃあ、スレイハイムやオデッサなら / この異世事態を / カイケツできたのかな？
+  LIT: So could Slayheim or Odessa have resolved this otherworldly situation?
+  RE : So could Slayheim or Odessa have
+       solved this otherworldly mess,
+       then?
+
+[US#2412] (musing: what will happen to the sky)
+  JP : 「空は〜 / ファルガイアは / どうなっちゃうんだろうね〜
+  LIT: The sky... Filgaia... what's going to become of them?
+  RE : The sky... Filgaia... What's going
+       to become of them?
+
+[US#2413] (location: Diablo Pillar 1)
+  JP : 「まずは、先側の道にひとつ〜 / ここは、魔の族道標と言われててね / 道の色が暗く変色している道標なんだよ
+  LIT: First, one along the road ahead. This one's called the demon-clan's road marker, a marker whose color has darkened.
+  RE : First, one along the road ahead.
+       Locals call it the demon-clan's
+       marker, its color gone dark.
+
+[US#2414] (location: Diablo Pillar 2)
+  JP : 「更、少本目ッ！ / ギルドグラードの先東〜 / 谷地にて放たれた地標に確認ッ！
+  LIT: And number two! Past Guild Galad to the east, confirmed at a marker released out in a valley!
+  RE : And number two! Past Guild Galad to
+       the east, at a marker out in a
+       valley!
+
+[US#2415] (location: Diablo Pillar 3)
+  JP : 「どんどんいくよ、族本目ッ！ / 隠れ里先側の山中地帯より確認ッ！ / 山でエネルギー反応なんてヘンだよね？
+  LIT: Keeping going, number three! Confirmed from the mountain region past the hidden village! Weird for a mountain to have an energy reading, right?
+  RE : Keep going, number three! Past the
+       hidden village, in the mountains!
+       Weird to get a reading there!
+
+[US#2416] (location: Diablo Pillar 4)
+  JP : 「最後の最後、四本目ッ！ / ここからずっと北にある大きな島にて確認〜 / でも、陸路も道路も使えないみたいなんだよ
+  LIT: Very last, number four! Confirmed on a large island far north from here. But it seems you can't reach it by land or road.
+  RE : Very last, number four! On a big
+       island far north of here. No land
+       route seems to reach it.
+
+[US#2417] (aside about Kate's hobby)
+  JP : 「ケイちゃんってさ / 少女まんがオタクなんだよ
+  LIT: You know, Kate's actually a huge fan of shoujo manga.
+  RE : You know, Kate's actually a huge
+       fan of shoujo manga.
+
+[US#2418] (teasing Kate)
+  JP : 「いい年こいて / まんが進みながら、よく泣いてるんだよ / ギコハハハッ！
+  LIT: For someone her age, she cries a lot while reading manga. Hyuk hyuk hyuk!
+  RE : For someone her age, she cries a
+       lot reading them. Hyuk hyuk hyuk!
+
+[US#2419] (Kate, deflecting credit)
+  JP : 「ですが、オデッサ以後に / ふりかかった脅威を退けたのは / 各国の協力体制ではないでしょうか〜
+  LIT: But wasn't it the cooperation between nations that turned back the threats that came after Odessa?
+  RE : But wasn't it every nation's
+       cooperation that turned back the
+       threats after Odessa?
+
+[US#2420] (Kate, on teamwork)
+  JP : 「わたしたちの力だけではありません
+  LIT: It wasn't only our own strength.
+  RE : It wasn't only our own strength.
+
+[US#2421] (Kate, on Filgaia uniting)
+  JP : 「ファルガイアのみんなが力をあわせれば / より大きな脅威に立ち向かえる〜 / そんな気がしませんか？勝因は / 各国の協力にあったといえるでしょう
+  LIT: If all of Filgaia joins strength, we can face down even bigger threats, don't you think? You could say the key to victory was every nation's cooperation.
+  RE : If all of Filgaia joins strength,
+       we can face down bigger threats.
+       That's what won it, I think.
+
+[US#2422] (Kate, on Guild Galad's help)
+  JP : 「結にギルドグラードからの / 情報提供と協力にて / 理の脅威をまぬがれたのですから〜
+  LIT: In the end, it was thanks to Guild Galad's information and cooperation that we escaped that reasoned threat.
+  RE : In the end, Guild Galad's
+       information and help are what let
+       us escape that threat.
+
+[US#2423] (Kate, on change)
+  JP : 「わたしたちは / 確実に変わってきています
+  LIT: We are certainly changing, bit by bit.
+  RE : We are certainly changing, bit by
+       bit.
+
+[US#2424] (Kate, hope for the future)
+  JP : 「この力で / ファルガイアも変えていければ / いいのですが〜
+  LIT: If only we could use this strength to change Filgaia as well.
+  RE : If only we could use this strength
+       to change Filgaia as well.
+
+[US#2425] (on ARMS's true purpose)
+  JP : 「オデッサとの戦いは / 前哨戦にすぎないと〜
+  LIT: That the fight with Odessa was merely a skirmish before the real battle...
+  RE : That the fight with Odessa was
+       merely a skirmish before the real
+       battle...
+
+[US#2426] (on ARMS's founding, cont.)
+  JP : 「ＡＲＭＳは / 来るべき世界規模の脅威に対して / 用意されたのだと〜
+  LIT: ...that ARMS was prepared in readiness for a coming, world-scale threat.
+  RE : ...that ARMS was set up in
+       readiness for a coming, world-scale
+       threat.
+
+[US#2427] (on Sielje research)
+  JP : 「指揮官は / この空を、今回の異世事態を / あらかじめ期待していたのでしょうか？限定されているので / 運用に難があるヴァレリアシャトーですが〜
+  LIT: Did the Commander foresee this sky, this otherworldly situation, all along? Valeria Chateau is hard to operate, being so limited, but...
+  RE : Did the Commander foresee this sky,
+       this whole otherworldly mess, all
+       along?
+
+[US#2428] (lore: the four Landing Pads)
+  JP : 「ファルガイアには / 現在４ヶ所の降辺ポイント〜 / 発着魔法陣が確認されています
+  LIT: Currently in Filgaia, four landing points, the magic circles for takeoff and landing, have been confirmed.
+  RE : Currently four landing points, the
+       takeoff and landing circles, are
+       confirmed in Filgaia.
+
+[US#2429] (lore: Landing Pad locations 1)
+  JP : 「まず、ご存知とは思いますが / タウンメリアと隠れ里の付近〜
+  LIT: First, as you probably already know, near Town Meria and the hidden village.
+  RE : First, as you probably know, near
+       Town Meria and the hidden village.
+
+[US#2430] (lore: Landing Pad locations 2)
+  JP : 「そして、レイライン観測施設より東の島と / ギルドグラードの先東にも / ひとつずつ発着魔法陣があります
+  LIT: And there is one takeoff-landing circle each on the island east of the Raline Observatory, and past Guild Galad to the east.
+  RE : And one each on the island east of
+       Raline Observatory, and past Guild
+       Galad to the east.
+
+[US#2431] (on Amy's ties to Sielje)
+  JP : 「まあ、エイミーは / そんなことくらいにしか / 役に立ちませんが〜共にテレパスマジックを学んだ仲なのです
+  LIT: Well, Amy is only good for that much, but... she's someone I studied Telepath Magic together with.
+  RE : Well, Amy's only good for that
+       much. We studied Telepath Magic
+       together, once.
+
+[US#2432] (on the Chief's studies at Sielje)
+  JP : 「たしか、指揮官も / シエルジェにていろいろなことを / 学んでいたとか〜
+  LIT: If I recall, the Commander studied all sorts of things at Sielje as well.
+  RE : If I recall, the Commander studied
+       all sorts of things at Sielje too.
+
+[US#2433] (on the Commander's judgment)
+  JP : 「[?]なところが / 作戦指揮に[?]されているんですね
+  LIT: That [uncanny] quality of his is [reflected] in his command of operations, isn't it.
+  RE : That uncanny quality of his really
+       shows in the way he commands
+       operations.
+
+[US#2434] (skeptic's reply)
+  JP : 「そうかな？ / いいや、そうじゃないさ
+  LIT: You think so? No, that's not it.
+  RE : You think so? No, that's not it.
+
+[US#2435] (on Valeria Chateau's symbolism)
+  JP : 「ヴァレリアシャトーは / ファルガイアの注目を集める[?]〜
+  LIT: Valeria Chateau is [something] that gathers Filgaia's attention.
+  RE : Valeria Chateau is what gathers all
+       of Filgaia's attention.
+
+[US#2436] (elaborating: everyone's ship)
+  JP : 「主は、ファルガイアに生きる僕たち全員〜 / な、そうだろう？[?]作[?]中〜 / つまり、運用できないんだ
+  LIT: Its master is all of us who live in Filgaia. Right? [It's under maintenance], meaning it can't be operated.
+  RE : Its master is all of us who live in
+       Filgaia. Right? So right now it
+       can't be run.
+
+[US#2437] (on evacuation plans)
+  JP : 「いざとなったら民間人を斬殺して / あるのかわからない安全地帯に / 向かう準備をしているのさ
+  LIT: If it comes to it, she's prepared to cut through and head for some safe zone that may not even exist.
+  RE : If it comes to it, she's ready to
+       push through to some safe zone,
+       even if it may not exist.
+
+[US#2438] (worry over Chateau's damage)
+  JP : 「その時、今までのダメージが / いっきに噴き出したら / シャレにならないだろう？[?]も無視できないんだ
+  LIT: If all that accumulated damage bursts out at once then, that'd be no joke, right? [Something] can't be ignored either.
+  RE : If all that damage bursts out at
+       once, that's no joke. Can't ignore
+       it either.
+
+[US#2439] (worry over Valeria's alliance)
+  JP : 「可愛いシャトーが悲鳴をあげちまうぜ / 出撃もできるだけ控えてほしいんだが〜 / そうもいかねぇよな[?]卿がオデッサと / つながっていたって本当なのか？
+  LIT: That poor sweet Chateau'll scream in pain. I wish they'd hold back sorties as much as possible, but I guess that's not gonna happen. Is it true Sir Valeria was really connected to Odessa?
+  RE : That poor Chateau will scream in
+       pain. I wish they'd hold back. Was
+       Valeria tied to Odessa?
+
+[US#2440] (disbelief)
+  JP : 「ワシらはやっぱり / 大切られたんだろうか？
+  LIT: Were we really betrayed after all?
+  RE : Were we really betrayed after all?
+
+[US#2441] (doubt about trust)
+  JP : 「人を信じ続けること / それは、無意味なんだろうか〜？
+  LIT: Continuing to trust people... is that meaningless, then?
+  RE : Continuing to trust people. Is that
+       meaningless, then?
+
+[US#2442] (on the risk being taken)
+  JP : 「今度出撃する時は / 民間人を斬殺して / 危険を回転するつもりらしい
+  LIT: It seems that on the next sortie, they intend to cut through and rotate through the danger with civilians.
+  RE : Next sortie, sounds like it'll cut
+       straight through, risking it with
+       civilians aboard.
+
+[US#2443] (worry over Filgaia's state)
+  JP : 「ファルガイアは / そんなにせっぱつまっているのか？
+  LIT: Is Filgaia really in that desperate a situation?
+  RE : Is Filgaia really in that desperate
+       a situation?
+
+[US#2444] (worry over hopelessness)
+  JP : 「ワシたちの力をあわせても / どうにもならないのか？[?]に閉ざされたまま？
+  LIT: Even if we all pool our strength, is there nothing to be done? Left sealed away in [darkness]?
+  RE : Even if we all join strength, is
+       there nothing to be done? Sealed
+       away like this?
+
+[US#2445] (rallying reply)
+  JP : 「ダメだダメだ、そんなことじゃダメだ / もっとヴァレリア卿の作戦を信じよう / 僕たちを信じてくれよ
+  LIT: No, no, that kind of talk won't do. Let's trust more in Sir Valeria's strategy. Trust us too.
+  RE : No, no, that won't do. Trust Sir
+       Valeria's strategy more. And trust
+       us too.
+
+[US#2446] (call to share the burden)
+  JP : 「自分ひとりでしょいこまないで / みんなの力で何とかしようと考えりゃ / [?]の力も抜けてくるもんだ
+  LIT: Don't shoulder it alone. If you think about handling it with everyone's strength, the [tension] eases up too.
+  RE : Don't shoulder it alone. Share the
+       load with everyone, and some of
+       that tension eases off.
+
+[US#2447] (aside on the Emma Motor mishap)
+  JP : 「そんなことより / エマ・モーターをほったらかして / っきはいずこへッ！Vちゃんが泣きながら / おじやのドンブリ渡してくれたんです
+  LIT: More importantly, where did Miss [5] go, leaving the Emma Motor behind! [She] came crying and handed me a bowl of rice porridge.
+  RE : More importantly, where'd Miss {5}
+       go, leaving the Emma Motor? She
+       cried and gave me porridge.
+
+[US#2448] ("last supper" gag)
+  JP : 「『最後の[?][?]だッ！』 / なんて言いながら〜
+  LIT: While saying something like, "This is our last [supper]!"
+  RE : While saying something like, "This
+       is our last supper!"
+
+[US#2449] (superstition reply)
+  JP : 「[?]起でもありませんよ
+  LIT: That's terribly bad luck to say.
+  RE : That's terribly bad luck to say.
+
+[US#2450] (Emma's wish)
+  JP : 「もしも、ホントに / 最後の[?][?]をしなくちゃならないのなら / ファルガイアのみんなとゴハンを食べたいな
+  LIT: If we really did have to have a last supper, I'd want to eat it with all of Filgaia.
+  RE : If we really had one last supper,
+       I'd want to share it with all of
+       Filgaia.
+
+[US#2451] (on shared meals)
+  JP : 「みんなでいっしょに食べるゴハンは / 少しくらい[?]しでウマイからね / やっぱり、みんないっしょが一番だよ
+  LIT: A meal everyone eats together tastes good even if it's a bit [modest], so being together really is the best.
+  RE : A meal everyone eats together
+       tastes good even if modest.
+       Together really is best.
+
+[US#2452] (Gubacho, on Meria's lacking cuisine)
+  JP : 「考えてみれば、タウンメリアじゃ / ソースたぷたぷコロッケは / 手に入らないんだッ！
+  LIT: Come to think of it, you can't get sauce-drenched croquettes in Town Meria!
+  RE : Come to think of it, you can't get
+       sauce-drenched croquettes in Town
+       Meria!
+
+[US#2453] (Gubacho, indignant)
+  JP : 「なのに、なぜッ！ / あのジャリどもはソースたぷたぷコロッケの / [?]おしいばかりの味を知っているんだッ！
+  LIT: So why, then! How do those brats know the [exquisite], regrettably good taste of sauce-drenched croquettes!
+  RE : So then why do those brats know the
+       exquisite taste of my
+       sauce-drenched croquettes!
+
+[US#2454] (Gubacho, threatening the thieves)
+  JP : 「コソドロめ〜 / あんまりなめてほしくないな / 銃乗のせがれをよぉッ！
+  LIT: Those sneak thieves. I'd rather they didn't underestimate a gunner's son!
+  RE : Those sneak thieves. Don't
+       underestimate a gunner's son!
+
+[US#2455] (aside about Gubacho's crush)
+  JP : 「Wちゃんが / 着ぐるみの女の家にご中心だったんです
+  LIT: Miss [W] was completely smitten with the girl in the mascot costume.
+  RE : He was completely smitten with the
+       girl in the mascot costume.
+
+[US#2456] (Ebecho, embarrassed son)
+  JP : 「せがれとして / こんなショッキングな / 出来事は他にありません
+  LIT: As his son, there's no other event as shocking as this one.
+  RE : As his son, there's no other event
+       as shocking as this one.
+
+[US#2457] (Palace Village lore, on scheming)
+  JP : 「卿のことだ / きっと何かの思惑があるに違いない / 僕はそう、信じている
+  LIT: Knowing him, he surely has some scheme in mind. That's what I believe.
+  RE : Knowing him, he surely has some
+       scheme in mind. That's what I
+       believe.
+
+[US#2458] (lore: Palace Village)
+  JP : 「他にはパレスヴィレッジと呼ばれる / 小さな国があるそうだ
+  LIT: There's also said to be a small nation called Palace Village elsewhere.
+  RE : There's also said to be a small
+       nation called Palace Village
+       elsewhere.
+
+[US#2459] (musing: connection to Raypoints)
+  JP : 「これはやはり / レイポイントの件と / 何か関係あるのではなかろうか？
+  LIT: Might this, after all, have some connection to the Raypoint matter?
+  RE : Might this, after all, have some
+       connection to the Raypoint matter?
+
+[US#2460] (examine panel: Palace Village)
+  JP : 「パレスヴィレッジが誇る / パレス小麦か〜
+  LIT: Palace Village's pride, is it, Palace Wheat?
+  RE : Palace Village's pride, is it?
+       Palace Wheat.
+
+[US#2461] (lore: Mana's effect on crops)
+  JP : 「星の命のエネルギーは / 農作物にも恩恵を与えているんだな[?]戦時に / 各[?]間にとらわれない行動を[?]限ってのが / あっただろう？
+  LIT: The planet's life-energy grants its blessing to crops too, even [in wartime]. Wasn't there [conduct not bound by borders], [limited to] something?
+  RE : The planet's life-energy blesses
+       crops too. Even in war, some
+       conduct crossed borders.
+
+[US#2462] (musing: nations united)
+  JP : 「でもさ、今はこうして貴族共が / 一団団結して脅威にあたっているんだ / ありがたみが[?]ってしまったよな〜
+  LIT: But you know, now that the nations have all united against the threat like this, the gratitude for it has [faded] a bit, hasn't it.
+  RE : Now that the nations have united
+       against the threat, we've taken it
+       for granted a bit.
+
+[US#2463] (musing: ARMS's relevance)
+  JP : 「まあ、イイコトなんだが〜野生も[?]えて / 大辺[?]れての / ファルガイア[?]れッ！
+  LIT: Well, it's a good thing, but... [with the wilds too growing back], all across Filgaia!
+  RE : Well, it's a good thing. But even
+       the wilds are coming back, all
+       across Filgaia!
+
+[US#2464] (musing: continued unity)
+  JP : 「とは、この空を見上げる限り / 言えないよな〜卿は / 本当にファルガイアを愛していました / そして、姉様も同じく〜
+  LIT: But you can't say that, at least while looking up at this sky. He truly loved Filgaia. And he loved his sister the same way, too.
+  RE : But you can't say that, looking up
+       at this sky. He loved Filgaia, and
+       his sister too.
+
+[US#2465] (on Sir Valeria's reasons)
+  JP : 「今回の失望は / やはり、卿に何かの考えが / あってのことです
+  LIT: This disappearance, after all, must be because Sir Valeria had some plan of his own.
+  RE : This disappearance must be because
+       Sir Valeria had some plan of his
+       own.
+
+[US#2466] (on Sir Valeria's secret studies)
+  JP : 「あのヴァレリア卿がファルガイアと姉様〜 / もっとも大切にしていたふたつを / 大切るなんて考えられないことです卿は / 異世と呼ばれる太古の危険な[?][?]を / 修行していたとも聞いています
+  LIT: For Sir Valeria to betray Filgaia and his sister, the two things he cherished most, is unthinkable. I've also heard he was studying an ancient and dangerous [rite] called the Otherworld [Rite].
+  RE : For Sir Valeria to betray Filgaia
+       and his sister is unthinkable. He
+       studied an ancient rite.
+
+[US#2467] (on the Otherworld Rite's nature)
+  JP : 「その異世とは / ファルガイアとは異なる世界より / 異なる命を呼び込むモノだとか〜卿はいろいろなことを修行し / ファルガイアのために / 役立てようとしているのです
+  LIT: That Otherworld Rite is said to summon a foreign life from a world other than Filgaia. He studied many things, meaning to put them to use for Filgaia's sake.
+  RE : That rite is said to summon a
+       foreign life from beyond Filgaia,
+       for Filgaia's own sake.
+
+[US#2468] (on the Rite's darker side)
+  JP : 「ですが、その修行は / 必ずしも注目的なモノだけではないのです
+  LIT: But that study of his wasn't only for the noble purpose people focus on.
+  RE : But that study of his wasn't only
+       for the noble purpose people
+       assume.
+
+[US#2469] (on terrible power for justice)
+  JP : 「巨大な力や危険な術儀〜 / 理想に終らない正義を実現するには / あえてこういうのも必要と言いますが〜
+  LIT: Vast power, dangerous rites... they say such things are necessary, dared into being, to realize a justice that doesn't end in mere ideals, but...
+  RE : Vast power, dangerous rites. They
+       say such things are needed to make
+       justice real.
+
+[US#2470] (recollection: Sir Valeria's own words)
+  JP : 「そういえば、以前〜 / ヴァレリア卿は / そのようなことを口にしていました
+  LIT: Come to think of it, before, Sir Valeria did say something along those lines.
+  RE : Come to think of it, Sir Valeria
+       did once say something like that.
+
+[US#2471] (on the world-devouring threat)
+  JP : 「来るべき[?]の脅威とは / 世界が食い[?]らされていくことだと〜
+  LIT: That the coming threat is one where the world itself would be devoured...
+  RE : That the coming threat is one where
+       the world itself would be eaten
+       away...
+
+[US#2472] (on his foresight)
+  JP : 「このことを / 期待していたのでしょうか〜卿は / さまざまな神誓を学んでいました
+  LIT: Did he foresee this, then? He studied many divine oaths.
+  RE : Did he foresee this all along? He
+       studied so many sacred oaths and
+       rites.
+
+[US#2473] (on his return to Filgaia)
+  JP : 「ですが、大戦神を学めた後 / ファルガイアの注目維持に / [?]めるようになったと聞いています
+  LIT: But after finishing his study of the great war-rites, I hear he came to devote himself to maintaining Filgaia's peace.
+  RE : After his war-rite studies, he
+       devoted himself to keeping
+       Filgaia's peace.
+
+[US#2474] (musing: link to ARMS's founding)
+  JP : 「大戦神が / 今回のＡＲＭＳのきっかけに / なったのでしょうか？彼は / 『英雄』を招きずって生きてきたんだ
+  LIT: Did those great war-rites become the trigger for ARMS this time? He has lived his life dragged along by the summons of the "hero."
+  RE : Did those war-rites trigger ARMS
+       itself? He's lived dragged by the
+       call of the hero.
+
+[US#2475] (musing: deeper than we think)
+  JP : 「それは、僕たちが考えるよりも / ずっと世謎めいたモノに違いない〜
+  LIT: That must be a far more world-mysterious thing than we could ever imagine.
+  RE : That must be far more shrouded in
+       mystery than we could ever imagine.
+
+[US#2476] (uncertainty: what Sir Valeria intended)
+  JP : 「ヴァレリア卿が何をしようとしたのか〜 / いや、何をしようとしているのか / 僕にはわからない〜
+  LIT: What Sir Valeria tried to do, no, what he's trying to do... I don't understand it.
+  RE : What Sir Valeria tried to do, or is
+       trying to do now, I still don't
+       understand.
+
+[US#2477] (closing lore: the hero legend, Sword Magess)
+  JP : 「だけど、そいつは / 英雄伝説に振り回された / 悲劇に斬重していくんじゃないか〜＜剣の聖女＞の〜 / 伝説の時代の『英雄』の血を / 現在に招いているヴァレリア彼〜
+  LIT: But isn't that just being dragged around by hero-legend, spiraling ever further into tragedy? The Valeria who, right now, calls forth the "hero's" blood from the age of the <Sword Magess> legend...
+  RE : Isn't that being dragged by legend
+       into tragedy? The hero's blood,
+       from the Sword Magess age.
+
+[US#2478] (closing lore: ARMS wields that legacy)
+  JP : 「そして、今、ふたたび〜 / ファルガイアを脅威から保るために / 『ＡＲＭＳ』という名の剣を振るっている〜
+  LIT: And now, once again, to protect Filgaia from threats, a sword called "ARMS" is being wielded.
+  RE : And now, once again, a sword called
+       ARMS is wielded to protect Filgaia
+       from threat.

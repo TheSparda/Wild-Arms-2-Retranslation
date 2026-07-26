@@ -1,0 +1,731 @@
+# WA2 — Lore Encyclopedia block 10 (US#2479-2587) — DEEP RE
+# =========================================================================================
+# Continuation of the block-10 "encyclopedia" hub (companion to 2368-2478_FINAL).
+# Block 10 is a whole-game-spanning readable-panel + repeated-monologue hub, twinned near-
+# verbatim in blocks 6/8/9/11. Meaning translated from JP; EN alignment is deep-tail Rosetta
+# drift and used only as a loose cross-check. Residual <b:xxxx> block-local kanji recovered via
+# the block-6 twin decode where a parallel box exists (identical script reused per-branch);
+# genuinely unrecoverable spans marked [?]. Speakers NOT tagged in dump; guessed in parens.
+# This span covers: the hero-legend / Valeria-blood lore, the {1}-observed-entering-{0}'s-room
+# gossip, sky/planet being drained, ARMS unity, Palace Village / Raypoint lore, Landing-Pad and
+# Chateau notes, the Cocytus-era summit/Iscariot Treaty examine panels, the closing Lord Blazer /
+# Over Knight Blazer explanation, {2}'s apology scene, and the endgame Grauswein/Guild Galad plan.
+# No em dashes. Fit <=3 lines x <=35 chars.
+# =========================================================================================
+
+[US#2479] (closing lore: is it destiny?)
+  JP : 「これは、運命なのだろうか？ / 〜いや、運命では無いとしたら〜
+  LIT: Is this destiny? No, and if it is not destiny...
+  RE : Is this destiny? And if it is not
+       destiny after all...
+
+[US#2480] (closing lore: bound by hero-blood)
+  JP : 「これは『英雄』という血に縛りつけられた / 世そのものといえないか〜？
+  LIT: Could this not be said to be a life itself bound up by the blood of the "hero"?
+  RE : Is this not a life bound tight
+       by the blood of the |hero|?
+
+[US#2481] (closing lore: the Valeria bloodline)
+  JP : 「ヴァレリアの血の中に伝えられし / 運命、世謎、悲しみ〜
+  LIT: The destiny, mystery, and sorrow handed down within Valeria blood...
+  RE : The fate, mystery, and sorrow
+       passed down in Valeria blood...
+
+[US#2482] (lore: source of Valeria's wealth) [residual]
+  JP : 「ＡＲＭＳを運<b:8ae6>していくだけの<b:8ae7>金や / ヴァレリアシャトーをはじめとする遺跡など / 一<b:8ae8>に<b:8ae9>る力は、そういうワケがあるんだ
+  LIT: The funds to keep ARMS running, and the ruins like Valeria Chateau, that great inheritance, all comes from that.
+  RE : The funds that keep ARMS running,
+       and Valeria Chateau, all come from
+       that inheritance.
+
+[US#2483] (lore: you didn't know?) [residual]
+  JP : 「<f040><f042>あん？ / もしかして、知らなかったのか？？
+  LIT: Huh? Don't tell me you didn't know?
+  RE : Huh? Don't tell me you
+       didn't know that?
+
+[US#2484] (gossip: the observer) [residual]
+  JP : 「いやらしくない目で / [0a]お方の観待行為を / おこなっていたんだ
+  LIT: I was carrying out my observation of {1}, with entirely innocent eyes.
+  RE : I was observing {1}, with
+       entirely innocent eyes, of course.
+
+[US#2485] (gossip: {1} summoned to {0}'s room) [residual]
+  JP : 「その時、[0a]お方が / [0a]ぉ方に呼び出されて / お部乗に向かうのを見てしまったんだ〜
+  LIT: That was when I saw {1} get summoned by {0} and head toward the room.
+  RE : That's when I saw {1} summoned
+       by {0}, heading for the room.
+
+[US#2486] (gossip: can I still trust them?)
+  JP : 「俺は、[0a]ぉ方を / 今まで通り信じられるのだろうか？ / 最度の人間不信におちいりそうだよ〜
+  LIT: Can I trust {1} the way I always have? I'm about to fall into the deepest distrust of people.
+  RE : Can I still trust {1} like before?
+       I'm sinking into total distrust
+       of everyone.
+
+[US#2487] (lore: ruins are remote) [residual]
+  JP : 「<b:8aed>通は人里離れたところにあるんだけど〜
+  LIT: Usually they're in places far from human dwellings, but...
+  RE : Usually they lie far from any
+       human dwelling, but...
+
+[US#2488] (lore: Palace Village near a Raypoint) [residual]
+  JP : 「タウンメリアから[11]お北に、道を<89ae>てた他[11]ぉには / パレスヴィレッジという / レイポイントの恩恵を<b:8ae5>けた国があるんだ
+  LIT: North of Town Meria, across the road, lies a nation called Palace Village that receives a Raypoint's blessing.
+  RE : North of Meria, across the way,
+       lies Palace Village, a land blessed
+       by a Raypoint.
+
+[US#2489] (lore: Mana makes Palace Wheat) [residual]
+  JP : 「大地を<b:8abf>たす『マナ』が / パレス<b:8ac1>という / 結跡品を生み出しているんだな
+  LIT: The "Mana" that fills the land produces a wondrous crop called Palace Wheat.
+  RE : The Mana that fills the land there
+       yields a marvel of a crop, the
+       Palace Wheat.
+
+[US#2490] (lore: the flow of life-energy has stopped) [residual]
+  JP : 「レイライン中の生命エネルギーの流れが / <b:8aee>っているみたいなんだッ！
+  LIT: The flow of life-energy through the Raline seems to have stopped!
+  RE : The flow of life-energy through
+       Raline seems to have stopped!
+
+[US#2491] (lore: the whole planet is being drained)
+  JP : 「空だけではない〜 / 見えないところで大地も / この星、全体が何者かに食われているんだ
+  LIT: It's not just the sky. In unseen places the land too. The whole planet is being devoured by someone.
+  RE : It's not just the sky. Unseen, the
+       land too. The whole planet is being
+       devoured.
+
+[US#2492] (ARMS unity: we fought as one)
+  JP : 「我らＡＲＭＳ、ひとつとなって / ファルガイアのため / いっしょに戦ってきたではありませんか〜
+  LIT: Have we of ARMS not fought together as one, for Filgaia's sake?
+  RE : Have we of ARMS not fought as one,
+       together, for Filgaia's sake?
+
+[US#2493] (doubt: was it all an act?) [residual]
+  JP : 「あれすらも / <b:8af1>りだったのでしょうか？
+  LIT: Was even that just an act?
+  RE : Was even that just an act?
+
+[US#2494] (defense: I believe in {0}) [residual]
+  JP : 「私は[0a]ぉ方を信じています / 中いからは / この空を<b:8ace>らす力は生まれてきません
+  LIT: I believe in {0}. Doubt will never give birth to the power to clear this sky.
+  RE : I believe in {0}. Doubt will never
+       birth the power to clear this sky
+       again.
+
+[US#2495] (lore: dormant, not extinct) [residual]
+  JP : 「そう、休枯谷ゆえに / 気をつけてくださいよ / いつ<b:8aa1>枯するかわかりませんからね
+  LIT: Yes, since it's only dormant, do be careful. There's no telling when it may erupt.
+  RE : It's only dormant, so take care.
+       There's no telling when it
+       may erupt.
+
+[US#2496] (lore: {0} sealed the ancient ruins) [residual]
+  JP : 「これらはかつて、[0a]ぉ方が / その大きすぎる力を危<893c>して封<b:8af3>した / 太古の遺跡なのです〜
+  LIT: These are ancient ruins that {0}, fearing their far too great power, once sealed away.
+  RE : These are ancient ruins that {0}
+       once sealed, fearing their vast
+       power.
+
+[US#2497] (aside: {5} peeled off her costume) [residual]
+  JP : 「私<b:8af5>人としては / 空が失われ、<b:8af6>輝が閉ざされた時に / <b:8af7>々として着ぐるみを脱がれた〜
+  LIT: Speaking personally, when the sky was lost and the light was shut out, she cheerfully took off her mascot costume.
+  RE : Personally, when the sky and light
+       were shut out, she happily shed
+       her mascot costume.
+
+[US#2498] (aside: worried about {5}) [residual]
+  JP : 「着ぐるみを脱ぎ<b:8a6c>てられた / [05]ぎ方の跡行の方が / 何だか気になってしまうのです
+  LIT: I'm more concerned about {5}'s behavior, casting off her costume like that.
+  RE : It's {5}'s behavior, tossing that
+       costume aside, that has me
+       worried.
+
+[US#2499] (lore: the sea of blue mud) [residual]
+  JP : 「古い言い伝えで、ファルガイアの中心には / すべての生命の<b:8af9>となった / <b:8afa>く<b:8afb>く<b:8afc>の道が広がっているという〜
+  LIT: Old legend says that at Filgaia's center spreads a road of blue mud that became the origin of all life.
+  RE : Old legend says at Filgaia's heart
+       lies a sea of blue mud, the origin
+       of all life.
+
+[US#2500] (lore: Glaive Le Gable) [residual]
+  JP : 「『グラブ・ル・ガブル』〜 / 命の始<8869>、<b:8afc>の道にて / ヴァレリア卿は、いったい何を〜
+  LIT: Glaive Le Gable... at the mud road, the beginning of life, what on earth is Sir Valeria...
+  RE : Glaive Le Gable, the wellspring
+       of life. What could Sir Valeria
+       want there?
+
+[US#2501] (lore: like the Blaze of Disaster's age) [residual]
+  JP : 「まるで『<b:8b02>の<b:8b03><b:8b04>』が / ファルガイアを<b:8b05>き<b:8b06>くそうとした / 伝<b:8b07>の時代、そのままに〜
+  LIT: Just as in the legendary age when the Blaze of Disaster tried to burn Filgaia to nothing...
+  RE : Just like the legendary age when
+       the |Blaze of Disaster| tried to
+       burn away Filgaia.
+
+[US#2502] (lore: a huge comet passed close)
+  JP : 「〜でも、それに先立って / 大きな衛星がファルガイアを / 大切っていったんだ〜
+  LIT: But before that, a huge comet passed close by Filgaia.
+  RE : But before that, a huge comet
+       came very close to Filgaia.
+
+[US#2503] (lore: comet and lost sky linked?) [residual]
+  JP : 「空の<b:8b09>失と衛星の<b:8b0a>近〜 / ふたつの間に / 因果関係は無いのだろうか〜
+  LIT: The loss of the sky and the comet's approach. Is there no causal link between the two?
+  RE : The lost sky and the comet's
+       approach. Could the two not
+       be linked somehow?
+
+[US#2504] (resolve: this time is different)
+  JP : 「〜でも、今度は違う / 僕もいっしょに戦っているつもりだ / 僕もファルガイアを保っているつもりだ
+  LIT: But this time is different. I mean to fight alongside them too. I mean to protect Filgaia too.
+  RE : But this time is different. I mean
+       to fight beside them, to protect
+       Filgaia too.
+
+[US#2505] (hero lore: not by one's own will) [residual]
+  JP : 「だが、そいつひとりの意<b:8b0e>で / 『英雄』になるんじゃない〜
+  LIT: But a person doesn't become a "hero" by his own will alone.
+  RE : But no one becomes a |hero|
+       by his own will alone.
+
+[US#2506] (hero lore: heroes are born of an age)
+  JP : 「その世界と / その時代に生きる人間が望むことで / 生み出されていくもんなんだ
+  LIT: A hero is brought forth by the wishing of the people who live in that world and that age.
+  RE : A hero is brought forth when the
+       people of that world and that age
+       wish for one.
+
+[US#2507] (hero lore: chosen by the people)
+  JP : 「『英雄』は人間がなるもんだ / でも、望んでなるものじゃない / 望まれて生み出されていくものなんだ
+  LIT: A "hero" is something a person becomes, but not by wishing it. It is being wished for that brings one forth.
+  RE : A |hero| is a person who becomes
+       one, not by choosing to, but by
+       being chosen by the people.
+
+[US#2508] (hero lore: Sword Magess in the legend age) [residual]
+  JP : 「『<b:8b02>の<b:8b03><b:8b04>』におびえた / 伝説の時代には＜剣の少女＞を〜
+  LIT: In the legendary age that feared the Blaze of Disaster, the <Sword Magess>...
+  RE : In the legend age that feared the
+       |Blaze of Disaster|, they had the
+       <Sword Magess>.
+
+[US#2509] (hero lore: Slayheim's hero {1} Evans) [residual]
+  JP : 「スレイハイムの<b:8b10><b:8b11>には / 英雄[05]お・エヴァンスを〜 / <f040><f042>というカンジでな
+  LIT: In Slayheim's tyranny, the hero {1} Evans... that sort of thing.
+  RE : In Slayheim's tyranny, the hero
+       {1} Evans. That sort of thing.
+
+[US#2510] (hero lore: will the sky-less age make heroes?)
+  JP : 「〜空を失った / 現在のファルガイアで / 人はまた英雄を望み、生み出すのだろうか？
+  LIT: In today's Filgaia, having lost its sky, will people once again wish for and bring forth a hero?
+  RE : Now that Filgaia's sky is lost,
+       will people again wish a hero
+       into being?
+
+[US#2511] (hope: everyone entrusts you the future) [residual]
+  JP : 「みんなあんたたちに / 未来を<b:8b15>している〜
+  LIT: Everyone is entrusting the future to you.
+  RE : Everyone is entrusting
+       the future to you.
+
+[US#2512] (hope: gathering hopes onto you)
+  JP : 「そして、自分たちの中にある / ファルガイアを保りたいという想いを / あんたたちに集めているんだ
+  LIT: And they are gathering onto you the wish within them to protect Filgaia.
+  RE : And they gather onto you the wish
+       within them all, the wish to
+       protect Filgaia.
+
+[US#2513] (Lombardia: still search on foot) [residual]
+  JP : 「だけど、シャトーと同じく / サーチ機能が備わっていないから / 結<b:8b1b>のところ、地道な探<887e>は変わらないがな
+  LIT: But like Chateau, it has no search feature, so in the end the plain legwork of searching doesn't change.
+  RE : But like Chateau, it has no search
+       feature, so you still have to
+       search the hard way.
+
+[US#2514] (system: search-feature note) [residual]
+  JP : [02][09]ぉュ[0e]
+  LIT: (garbled control/system fragment)
+  RE : [SKIP - system/control fragment]
+
+[US#2515] (system: gap; no content in dump)
+  RE : [SKIP - no box in dump]
+
+[US#2516] (Chateau: freed for evacuation)
+  JP : 「今後のシャトーは、あんたたちの足ではなく / 民間人の安全確保のために / 解放されることになったぜ
+  LIT: From now Chateau won't be your transport, but freed up to secure civilians' safety.
+  RE : From now on, Chateau won't ferry
+       you around. It's freed up to
+       evacuate civilians.
+
+[US#2517] (lore: legend becoming reality)
+  JP : 「何もかもが / 伝説から / 現実のモノへ変わろうとしている〜
+  LIT: Everything is turning from legend into something real.
+  RE : It's as if everything, all the old
+       legends, is turning into
+       reality now.
+
+[US#2518] (lore: threat brings legends alive) [residual]
+  JP : 「ファルガイアを<b:8a63>う脅威が / <b:8b1d>々と伝説を、現実に<b:8b1e>らせていく〜 / そんな気がしてならないぜ
+  LIT: The threat looming over Filgaia keeps bringing the legends, one after another, to life. I can't shake that feeling.
+  RE : This threat over Filgaia keeps
+       bringing the legends to life,
+       one by one. I feel it.
+
+[US#2519] (lore: even the Sword Magess may return) [residual]
+  JP : 「このままじゃ / ファルガイアを保るために / ＜剣の少女＞まで<b:8b1e>るんじゃないか？
+  LIT: At this rate, might even the <Sword Magess> come to life again to protect Filgaia?
+  RE : At this rate, might even the
+       <Sword Magess> return to
+       protect Filgaia?
+
+[US#2520] (hope: the power to protect what matters)
+  JP : 「それは、僕たちひとりひとりが / 少しずつ持っているはずの / 大切なモノを保る力だぜ
+  LIT: That is the power, which each of us should hold a little of, to protect what is precious.
+  RE : That's the power each of us holds
+       a little of, the power to protect
+       what we love.
+
+[US#2521] (hero lore: it's not the blood) [residual]
+  JP : 「それは、力無きゆえに / 『英雄』の力を<b:8b1f>めているんだ / けっして『英雄』の血なんかじゃないぜ
+  LIT: It's because they have no power that they seek the "hero's" power. It's never the "hero's" blood.
+  RE : Having no power, the people seek
+       the |hero's| power. It was never
+       the |hero's| blood.
+
+[US#2522] (hero lore: they ask only strength) [residual]
+  JP : 「英雄の<b:8b21><b:8b22>を<b:8b23><895b>する<b:8abc>や / 人にあらずモノは / <b:8b24><b:8b01>されるらしいが〜
+  LIT: Those who would claim the hero's line, and those who are not truly kin, are said to be turned away, but...
+  RE : Those who falsely claim the hero's
+       line, not true kin, are said to
+       be turned away.
+
+[US#2523] (Marivel, pompous offer) [residual]
+  JP : 「わらわが可<b:8b25>想なお主らのために / ちょっとだけロストテクノロジーを使って / キュートでドキドキな<b:8b27><b:8b28>をしてしんぜよう
+  LIT: For you pitiable lot, I shall use a touch of Lost Technology and grant you a cute, thrilling little upgrade.
+  RE : For you pitiable lot, I shall use
+       a bit of Lost Technology to give
+       you a cute little upgrade.
+
+[US#2524] (Marivel, don't look skeptical) [residual]
+  JP : 「<f041><f041><f041>なんじゃ、その中いの目は / わらわに任せておけば大<b:8b29><b:8b2a>じゃ
+  LIT: What's with that doubtful look? Just leave it all to me and it'll be fine.
+  RE : What's with that doubtful look?
+       Just leave it all to me and
+       all will be well.
+
+[US#2525] (Marivel, outclassing Guild Galad) [residual]
+  JP : 「ギルドグラードの<b:8b2b>術など / 足元にも<b:8b2c>ばないことを / ちょっぴり見せつけるだけじゃよ
+  LIT: I shall merely show you a little of how Guild Galad's technology can't hold a candle to mine.
+  RE : I shall simply show you how Guild
+       Galad's technology can't hold a
+       candle to mine.
+
+[US#2526] (Marivel, amateur!)
+  JP : 「なに、あまり変わったように見えない？ / これだからシロウトは……
+  LIT: What, it doesn't look much different? This is why amateurs...
+  RE : What, it doesn't look different
+       to you? Hmph. This is why
+       amateurs...
+
+[US#2527] (Marivel, map on your retina) [residual]
+  JP : 「これはな、マップスコープの<b:8b2d><b:8b2e>を / <b:8b2f><b:8b30>に<8865><b:8b31>することで / 移動中でもマップを見られるのじゃッ！
+  LIT: This projects the map-scope's image onto your retina, so you can view the map even while moving!
+  RE : This projects the map onto your
+       retina, so you can read it even
+       while moving!
+
+[US#2528] (traveler: ruins between valley and road) [residual]
+  JP : 「どこかの[11]お<b:8b32>と谷と道に<b:8b18>まれた[11]ぉ場所で / ちょっとした遺跡みたいのが見えたんだ
+  LIT: Somewhere hemmed in between a mountain, a valley, and a road, I saw something like a small ruin.
+  RE : Somewhere hemmed in by mountain,
+       valley, and road, I spotted what
+       looked like a small ruin.
+
+[US#2529] (traveler: sparks caught my eye)
+  JP : 「なんか、バチバチ輝っていたから / 結構目立っててさ / 一体、何があるトコなんだろうな？
+  LIT: It was crackling with sparks, so it really stood out. What could be in a place like that?
+  RE : It was crackling with sparks, so
+       it stood out. What could be in
+       a place like that?
+
+[US#2530] (traveler: town on a bridge east) [residual]
+  JP : 「<f040><f041><f042>そういえば、[11]おそこから東の方[11]ぉには / [11]お<b:8b32>にかかった<89ec>の上[11]ぉに / <b:8b33>があるのが見えたぜッ
+  LIT: Come to think of it, east of there, I saw a town up on a bridge spanning a canyon!
+  RE : Come to think of it, east of there
+       I saw a town up on a bridge over
+       a deep canyon!
+
+[US#2531] (traveler: what does Lombardia eat?)
+  JP : 「ロンバルディアってさ / 何食ってんだろう？ / まさか、人間を食べたりしないよな？
+  LIT: What does Lombardia even eat, I wonder? It doesn't eat people, does it?
+  RE : What does Lombardia even eat,
+       anyway? It doesn't eat people,
+       does it?
+
+[US#2532] (traveler: why did he do that?)
+  JP : 「でも、なんでこんなことしたのかな？
+  LIT: But why would he do a thing like this, I wonder?
+  RE : But why would he go and do
+       a thing like this?
+
+[US#2533] (kid: {2} was crying) [residual]
+  JP : 「[0a]かお<b:8b35>ちゃんが<b:8a84>いてたけど / 何かあったの？
+  LIT: {2} was crying. Did something happen?
+  RE : {2} was crying. Did something
+       happen to her?
+
+[US#2534] (kid: did you make her cry?) [residual]
+  JP : 「やっぱり、あんちゃんが<b:8a84>かしたのかな？ / 大人はたいへんだよねぇ
+  LIT: Did the big guy make her cry after all? Grown-ups sure have it rough.
+  RE : Did you make her cry, mister?
+       Grown-ups sure have it rough.
+
+[US#2535] (kid: our indestructible hero) [residual]
+  JP : 「あの<b:8b36>発じゃ / さすがにダメかと思ったけど / やっぱり僕達の<b:8b37>生の星だ
+  LIT: After that explosion, I really thought you were done for, but you're our undying star after all.
+  RE : After that blast I thought you
+       were done for. You really are
+       our undying hero!
+
+[US#2536] (kid: call on Young ARMS) [residual]
+  JP : 「まあ、少数ＡＲＭＳの力を<b:8b38>りたくなったら / いつでも言ってくれよ
+  LIT: Well, if you ever want to borrow the strength of the Young ARMS, just say the word.
+  RE : If you ever need the help of the
+       Young ARMS, just say the word.
+
+[US#2537] (NPC: Valeria goes down in history) [residual]
+  JP : 「ヴァレリアさんの行いは / <b:8a8f><b:8b39>の<b:8b3a><b:8b3b>の<b:8b3c><b:8b3d>書に<887d>るかもしれませんね
+  LIT: Sir Valeria's deeds may well be written into the history books of ages to come.
+  RE : Sir Valeria's deeds may well go
+       down in the history books
+       of ages to come.
+
+[US#2538] (NPC: none can defeat you now)
+  JP : 「もう、このファルガイアに / あなた方たちを倒せるモノは / いないことでしょう
+  LIT: There is surely no one left in this Filgaia who can defeat you.
+  RE : There's surely no one left in
+       all Filgaia who can defeat you
+       now.
+
+[US#2539] (NPC: as strong as Slayheim's hero) [residual]
+  JP : 「[05]ぉさんも / 『スレイハイムの英雄』さんと同じくらい / 強いのではないですか
+  LIT: {0} must be at least as strong as the "Hero of Slayheim" by now.
+  RE : {0} must be every bit as strong
+       now as the |Hero of Slayheim|.
+
+[US#2540] (NPC: anyone could have done it)
+  JP : 「それは結単なことなんかではなく / 誰にだってできることだったんです
+  LIT: It wasn't some simple thing; it was something anyone could have done.
+  RE : It was no simple feat, and yet
+       it was something anyone
+       could have done.
+
+[US#2541] (examine: assume the worst) [residual]
+  JP : ＊それらに対<b:8b43>するためには / 世に、最悪の状況を想定し / 対<b:8b43>方法を確立しておくことである
+  LIT: To counter them, one must assume the worst possible situation and establish countermeasures in advance.
+  RE : *To face them, one must assume
+       the worst case and set up
+       countermeasures in advance.
+
+[US#2542] (examine: falling behind worsens it) [residual]
+  JP : ＊対<b:8b43>が、後手に回ることで / 状況は悪<b:8a44>の一<b:8b44>を<89cb>り / 取り<b:8a77>しの付かない状況になる
+  LIT: When countermeasures fall behind, the situation follows a downward path until it can no longer be undone.
+  RE : *When response falls behind, things
+       spiral downward until they can no
+       longer be undone.
+
+[US#2543] (examine: minimize the damage) [residual]
+  JP : ＊未<b:8b45>に<b:8b45>ぐことができなかったとき / 状況の悪<b:8a44>を<b:8b45>ぎ / <889a><889b>の最小<b:8a44>を<b:8b46>る必要がある
+  LIT: When you cannot prevent it beforehand, you must halt the worsening and work to keep the damage to a minimum.
+  RE : *When prevention fails, you must
+       halt the worsening and keep the
+       damage to a minimum.
+
+[US#2544] (examine: invisible walls of borders) [residual]
+  JP : ＊ファルガイアにある<b:8b47>々は / 見えない<b:8b47><b:8b47>という<b:8b48>で押切られ / 人々の心にも<b:8b48>を作る
+  LIT: The nations of Filgaia are cut off by invisible walls called borders, which build walls in people's hearts as well.
+  RE : *Filgaia's nations are cut off by
+       invisible walls called borders,
+       walls that grow in hearts too.
+
+[US#2545] (examine: division deepens) [residual]
+  JP : ＊自<b:8b47>を保ろうとしたり / 他<b:8b47>に対し<b:8b49>心暗<b:8b49>になることで / さらに<b:8b4a>を<b:8b4a>めていくことになる
+  LIT: By trying to protect one's own nation and growing suspicious of others, the divide only deepens further.
+  RE : *Guarding one's own land and
+       distrusting others only deepens
+       the divide further.
+
+[US#2546] (examine: when will we understand each other?) [residual]
+  JP : ＊ファルガイアの全ての人々がわかりあい / この地に<b:8b4b>まう同胞として / <b:8b4c>重しあえるのはいつの日か…
+  LIT: When will the day come that all Filgaia's people understand one another and respect each other as kin sharing this land?
+  RE : *When will all Filgaians understand
+       each other, and honor one another
+       as kin of one land?
+
+[US#2547] (examine: the next disaster)
+  JP : ＊我々は、それに抗する手だてがあるのか？ / 魔物に限ったことではない / 大変地異の可能性もある
+  LIT: Do we even have the means to resist it? It's not limited to monsters; there's the chance of a great natural disaster too.
+  RE : *Do we even have the means to
+       resist? Not just monsters, but a
+       great natural disaster too.
+
+[US#2548] (examine: we lack the power)
+  JP : ＊それらに抗する力を / 我々は持っていない
+  LIT: We do not possess the power to resist such things.
+  RE : *We do not have the power
+       to resist such things.
+
+[US#2549] (examine: a global threat could destroy us) [residual]
+  JP : ＊世界を<b:8a63>う脅威が来たとき / 我々は滅びるしかないのか
+  LIT: When a threat that looms over the whole world comes, are we left with nothing but to perish?
+  RE : *If a threat looming over the whole
+       world comes, are we left only
+       to perish?
+
+[US#2550] (examine: we must unite, but can we?)
+  JP : ＊その前に、我々はまとまらねばならぬ / だが、人の年だけ思いがあり / 人がまとまることなど不可能なのか？
+  LIT: Before that, we must come together. But with as many hearts as there are people, is uniting even possible?
+  RE : *First we must unite. But with as
+       many hearts as there are people,
+       is that even possible?
+
+[US#2551] (examine: terror, force, or ideals?) [residual]
+  JP : ＊<b:8b4e>もいわせぬ恐<b:8b50>か？ / 抗うことのできない力か？ / <b:8b4f>一された思想か？
+  LIT: Terror that allows no dissent? A force that cannot be resisted? A single unified ideology?
+  RE : *Terror that allows no dissent?
+       An irresistible force? One single
+       unified ideology?
+
+[US#2552] (examine: too many hearts to unite)
+  JP : ＊人の年だけ思いがある / 果たして / 世界をまとめることは可能なのか
+  LIT: There are as many thoughts as there are people. Is it truly possible to unite the world?
+  RE : *There are as many minds as people.
+       Is it truly possible to unite
+       the world?
+
+[US#2553] (examine: past unifiers vanished) [residual]
+  JP : ＊<b:8b3a><b:8b3b>において、<b:8b4f>一を試みた者たちはいた / しかしながら、その全てが / うたかたの<b:8b51>となりて<b:8b52>っていった
+  LIT: In the past there were those who attempted unification, yet all of them faded away like a fleeting dream.
+  RE : *In the past, some strove to unite
+       the world, yet all of them faded
+       like a fleeting dream.
+
+[US#2554] (examine: one ruler unify all?) [residual]
+  JP : ＊そもそも、一人の支配者のもとに / <b:8b4f>一されることは可能なのか？
+  LIT: Is it even possible to be unified under a single ruler in the first place?
+  RE : *Is it even possible to be unified
+       under one single ruler
+       at all?
+
+[US#2555] (examine: unity when all desire it)
+  JP : ＊もし、世界がまとまる時が来たとしたら / それは、世界の人々がそれを望む状況に / なったときだろう
+  LIT: If a time ever comes when the world unites, it will be when the world's people themselves come to desire it.
+  RE : *If the world ever unites, it will
+       be only when its people themselves
+       come to desire it.
+
+[US#2556] (examine: summit schedule) [residual]
+  JP : ＊現在は、定<8943>で<b:8b53>に一度開<b:8b54>されるが / 緊急時には、非<b:8b55>開<b:8b54>も行われる
+  LIT: At present it is held once every set period, but in emergencies an extraordinary session is convened as well.
+  RE : *It's held once each set period,
+       but in a crisis an emergency
+       session is convened too.
+
+[US#2557] (examine: emergency summit at Slayheim's fall) [residual]
+  JP : ＊スレイハイムの崩<b:8b56>の<89d2>には / 今後の世界情<b:8b57>について協議されるため / 非<b:8b55>開<b:8b54>されることとなった
+  LIT: At the time of Slayheim's collapse, an extraordinary session was convened to discuss the coming state of the world.
+  RE : *When Slayheim collapsed, an
+       emergency session was convened
+       on the world's future.
+
+[US#2558] (examine: Treaty of Iscariot discussed) [residual]
+  JP : ＊この時には、注目<b:8b56><b:8b57>でもある / 『イスカリオテ<b:8b56><b:8b57>』について / <b:8b27>めて話し合われた
+  LIT: At that time the much-watched "Treaty of Iscariot" was discussed anew as well.
+  RE : *At that time, the closely watched
+       Treaty of Iscariot was taken up
+       once again.
+
+[US#2559] (examine: the Filgaia Summit's purpose) [residual]
+  JP : ＊自<b:8b47>の利<b:8b58>だけでなく / 世界の注目のためについて話し合われる / それがファルガイアサミットである
+  LIT: Discussing not just one's own national interest but the good of the whole world, that is the Filgaia Summit.
+  RE : *Nations meet not for their own
+       gain but for the good of all.
+       That is the Filgaia Summit.
+
+[US#2560] (examine: unity when all desire it) [empty JP in dump]
+  JP : (no JP decoded; EN twin: unite only when all desire it)
+  LIT: Perhaps the world will unite only when all its people desire unity.
+  RE : *Perhaps the world will unite only
+       when all its people come to
+       desire unity.
+
+[US#2561] (Vinsfeld: power up for the one chance) [residual]
+  JP : 「勝機は一度きりだ / 確実に勝利するため / 貴様らもパワーアップに<b:8adb>めてほしい
+  LIT: There is only one chance to win. To secure victory, I want you too to devote yourselves to powering up.
+  RE : There's only one chance to win.
+       To be sure of it, devote
+       yourselves to powering up.
+
+[US#2562] (lore: Lord Blazer held in check) [residual]
+  JP : 「大切なモノを保る〜 / その信<b:8b5e>によって制<89c7>されていた / ロードブレイザー〜
+  LIT: Protecting what is precious. Lord Blazer was held in check by that very conviction.
+  RE : To protect what he loves. That
+       conviction is what held Lord
+       Blazer in check.
+
+[US#2563] (Vinsfeld: but!)
+  JP : 「だが〜ッ！
+  LIT: But...!
+  RE : But then!
+
+[US#2564] (lore: the same conviction unleashes it) [residual]
+  JP : 「制<89c7>と<b:8b5f>大一体である / 発動のメカニズムもまた / 大切なモノを保ろうとする<b:8b5e><b:8b60>ッ！
+  LIT: Inseparable from that restraint, the very mechanism that triggers his power is also the will to protect what is precious!
+  RE : Bound up with that restraint, the
+       trigger for his power is that same
+       will to protect what he loves!
+
+[US#2565] (system: gap; no content in dump)
+  RE : [SKIP - no box in dump]
+
+[US#2566] (lore: ARMS may unleash the worst) [residual]
+  JP : 「我々は、最<b:8b5f>最悪の存在を / ＡＲＭＳから / 生み出してしまうかもしれない
+  LIT: We may end up birthing the very worst of beings out of ARMS itself.
+  RE : We may end up birthing the very
+       worst of beings out of ARMS
+       itself.
+
+[US#2567] (lore: Over Knight Blazer)
+  JP : 「<f040><f042>オーバーナイトブレイザー〜〜
+  LIT: ...the Over Knight Blazer...
+  RE : ...this Over Knight Blazer...
+
+[US#2568] ({2}: I should have told you sooner)
+  JP : 「ホントはもっと前に / キミに話しておくべきだった
+  LIT: I really should have told you this much sooner.
+  RE : I really should have told you
+       this much sooner.
+
+[US#2569] ({2}: but I couldn't, I was scared) [residual]
+  JP : 「でも、言い出せなかったんだ / <f040><f042><b:8b50>かったんだ〜
+  LIT: But I couldn't bring myself to say it. I was afraid.
+  RE : But I couldn't bring myself
+       to say it. I was scared.
+
+[US#2570] ({2}: I'm sorry, {0})
+  JP : 「ごめん、[0a]か〜
+  LIT: I'm sorry, {0}...
+  RE : I'm sorry, {0}...
+
+[US#2571] ({2}: you won't forgive me)
+  JP : 「やっぱり〜 / 許してはもらえないのか〜
+  LIT: So after all... you won't forgive me, will you.
+  RE : So after all... you won't
+       forgive me, will you.
+
+[US#2572] ({2}: I'm the one at fault)
+  JP : 「悪いのは、わたし〜 / 許されないのは、わたしなのに〜
+  LIT: It's I who am in the wrong. It's I who can't be forgiven.
+  RE : It's I who was wrong. It's I
+       who can't be forgiven.
+
+[US#2573] ({2}: I said nothing when he needed me)
+  JP : 「本当に[05]ぉを / 支えてあげなければいけない時に / 言葉のひとつもかけてあげられなかった〜
+  LIT: When I truly should have supported {0}, I couldn't offer him even one word.
+  RE : When {0} needed my support most,
+       I couldn't say a single word
+       to him.
+
+[US#2574] ({2}: I'm sorry)
+  JP : 「ごめんなさい〜
+  LIT: I'm sorry...
+  RE : I am sorry...
+
+[US#2575] ({2}: how weak am I?)
+  JP : 「わたしは〜 / 何もできない〜 / どこまで弱い人間なんだろう〜
+  LIT: I... can't do anything. Just how weak a person am I?
+  RE : I can't do anything right. Just
+       how weak a person am I?
+
+[US#2576] (plan: strike before its reaction) [residual]
+  JP : 「ギルドグラードが生み出す / 高エネルギーをエサに<b:8b61><b:8b62>し / <b:8b63>反応を<b:8b63>起するまえに<b:8b64>くッ！
+  LIT: We lure it with the high energy Guild Galad produces, and strike before it triggers its nuclear reaction!
+  RE : We'll lure it with Guild Galad's
+       high energy and strike before its
+       reaction ignites!
+
+[US#2577] (closing: that is all)
+  JP : 「それだけだ
+  LIT: That is all.
+  RE : That is all.
+
+[US#2578] (plan: Grauswein descends slowly) [residual]
+  JP : 「幸いなことに / グラウスヴァインの降<b:8b04><8a04>度は / <8a04>いものではない
+  LIT: Fortunately, Grauswein's rate of descent is not a fast one.
+  RE : Fortunately, Grauswein's rate
+       of descent is not
+       a fast one.
+
+[US#2579] (plan: move Chateau to Guild Galad) [residual]
+  JP : 「貴様らの準備が調い更<88f9> / ヴァレリアシャトーを / 降<b:8b04>地帯ギルドグラードまで移動させる
+  LIT: Once your preparations are complete, I will move Valeria Chateau to the descent zone, Guild Galad.
+  RE : Once your preparations are done,
+       I'll move Valeria Chateau to the
+       descent zone, Guild Galad.
+
+[US#2580] (Vinsfeld: power up for the one chance)
+  JP : 「勝機は一度きりだ / 確実に勝利するため / 貴様らもパワーアップに<b:8adb>めてほしい
+  LIT: There is only one chance to win. To secure victory, I want you too to devote yourselves to powering up.
+  RE : There's only one chance to win.
+       To be sure of it, devote
+       yourselves to powering up.
+
+[US#2581] ({0} barred from the Grauswein battle) [residual]
+  JP : 「キミは、グラウスヴァイン戦に / <b:8b0b><b:8b0c>することを<b:8ad1>ずる / 〜理由はわかるな？
+  LIT: I forbid you to take part in the battle with Grauswein. You understand why, don't you?
+  RE : I forbid you to join the fight
+       with Grauswein. You understand
+       why, don't you?
+
+[US#2582] (lore: Grauswein the dragon) [residual]
+  JP : 「グラウスヴァインは / <b:8b65>を抜いて強力な存在 / 幻獣ドラゴンだ
+  LIT: Grauswein is an overwhelmingly powerful being, a phantom-beast Dragon.
+  RE : Grauswein is a Dragon, a phantom
+       beast of overwhelming power,
+       above all others.
+
+[US#2583] (lore: Lord Blazer might awaken) [residual]
+  JP : 「もしも対<b:8b66>するようなことがあれば / キミの街的<b:8b5b><b:8b5c>に存在する / ロードブレイザーが目<b:8b67>めかねない
+  LIT: If it should come to facing it, the Lord Blazer that dwells deep within you might well awaken.
+  RE : If you were to face it, the Lord
+       Blazer dwelling deep within you
+       might awaken.
+
+[US#2584] (support until the Grauswein battle)
+  JP : 「だが、対グラウスヴァイン戦までは / みんなをサポートしてほしい
+  LIT: But until the battle against Grauswein, I want you to support the others.
+  RE : But until the Grauswein battle,
+       I want you to support
+       the others.
+
+[US#2585] (plan: intercept from the Chateau) [residual]
+  JP : 「[05]ぉを<b:8b69>く<b:8a85><b:8a9b>は / エンゲージポイント<b:8b6a>着後 / ヴァレリアシャトーの<b:8b6b><b:8b6c>上にて<88cc>え撃つ
+  LIT: The unit excluding {0} will, after reaching the engage point, intercept from atop Valeria Chateau.
+  RE : The rest, minus {0}, will reach the
+       engage point and intercept from
+       atop Valeria Chateau.
+
+[US#2586] ({0} relieved of duty) [residual]
+  JP : 「〜[05]ぉは / 行動<88b2>限を無<b:8a7e>限<b:8b6d><b:8b6e>
+  LIT: As for {0}, your freedom of action is restricted indefinitely.
+  RE : As for {0}, your freedom of
+       action is restricted
+       indefinitely.
+
+[US#2587] ({0}: stand by until ordered) [residual]
+  JP : 「私の指示があるまで / シャトー街の<b:8a9b>用ルームにて待機〜 / <f040><f042>わかってほしい〜
+  LIT: Until I give the order, stand by in the unit room within the Chateau. Please understand.
+  RE : Until I give the order, wait in
+       the unit room aboard the Chateau.
+       Please understand.

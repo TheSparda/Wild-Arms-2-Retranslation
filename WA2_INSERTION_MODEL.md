@@ -78,4 +78,57 @@ pass. Do NOT split one JP idea across boxes that don't exist — we can only fil
 - PS1 Mode-2/2352 disc: after editing, recompute EDC/ECC per sector (see ps1-disc-editing method).
 - Reinsert file with `cebix/psximager` (psxrip/psxinject, XA-safe) or CDmage.
 
+## ⚠️ JP↔US SLOT ALIGNMENT — the unsolved insertion bridge (investigated, NOT yet built)
+
+**The problem.** We insert into the US disc's English slots, indexed by US#. The US box-stream
+index == the US# (verified: US#3155 = the 3155th `10 0c` box on the US disc), so the **US side needs
+no alignment**. The open question is: *which JP box is the true source for each US slot?* The DB
+(`build_db.py`) pairs them **positionally** (JP box k → US box k). That is correct only where the two
+versions have the same box count/order. They often DON'T: the US localization cut/merged/reordered
+boxes, so JP and US box counts differ per block:
+
+| block | US boxes | JP boxes | diff |
+|---|---|---|---|
+| 5  | 194 | 194 | 0 (positional map is safe) |
+| 4  | 213 | 214 | +1 |
+| 16 | 295 | 297 | +2 |
+| 6  | 380 | 377 | −3 |
+| 12 | 298 | 328 | **+30 (positional map wrong past the first edit)** |
+
+For any block with a nonzero diff, positional `jp` in the DB is misaligned to the US slot after the
+first cut. So the `jp` field the translation agents read is only reliable for count-matched blocks;
+elsewhere it's the right *scene* but can be off by a few boxes deep in the block.
+
+**What does NOT work (all tried, all drift):**
+- `align_v6.py` — fuzzy line-break-sequence match. ~93% only on early/short blocks; drifts hard in
+  deep-tail + mid-game blocks (smears one JP across several EN slots).
+- `align_anchored.py` — proper-noun LIS + interpolation. Only ~13% HIGH-confidence globally; uses
+  only ~14 hardcoded nouns, so anchors are sparse and it interpolates (drifts) between them.
+- `slot_align.py` (built this session) — local-window match on STRUCTURAL signals (examine marker,
+  short/long, digits). Reports "95% HIGH" on block 12 but that confidence is FALSE: nearly every
+  dialogue box is `@`-prefixed + medium-length, so the signals don't discriminate content. Spot-checks
+  showed confidently-mapped slots that are semantically unrelated. **Do not trust its HIGH flags.**
+
+**What DOES work (proven on block 12, the path to build):** align on **content tokens that survive
+BOTH the kanji-coding and the localization** —
+- **katakana loanwords** romanized to rough latin (ガーディアン→gaadian≈Guardian, メリアブール→meriabuuru
+  = "Meria Boule"), fuzzy-matched against the EN box's words. Block 12 has **246/328 JP boxes with
+  katakana/number tokens** — far denser than the 14 proper nouns `align_anchored` uses.
+- **proper nouns + 2+ digit numbers** (same idea, exact match).
+This found a genuine correct pairing that the structural method missed *and* correctly picked a local
+offset (−8) different from the block's dominant (−6) — i.e. it detects real edit points.
+
+**The correct algorithm (to build at insertion time, NOT before):**
+1. Compute content-token sets (katakana-romaji + nouns + numbers) for every JP and US box in a block.
+2. Anchor: match content-bearing boxes by token overlap → a scatter of (JP,US) index pairs.
+3. Take the longest strictly-increasing subsequence of anchors (robust to a few mispairs).
+4. Plain-dialogue runs BETWEEN two anchors inherit the offset of their bracketing anchors. A run whose
+   two bracketing anchors AGREE on offset is safe; where they DISAGREE, an edit lies inside → flag for
+   human review. (~75% of block-12 boxes are anchorable; the unanchored runs are short.)
+
+**Status:** investigated + prototyped, not productionized. It does NOT block translation — agents
+produce correct JP *meaning* regardless of slot mapping. This must be solved before the ISO patch.
+Corrects line ~69 below: the EN-slot workspace's "JP source (via v6 alignment)" is unreliable for
+mismatched blocks; the anchor-bracket method above is the real bridge.
+
 Source: byte analysis of US STGEVT (`Wild Arms 2 (USA) (Disc 1).bin`, LBA 12586) + gadesx notes.

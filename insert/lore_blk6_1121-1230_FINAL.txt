@@ -1,0 +1,760 @@
+# WA2 — Lore Encyclopedia, Block 6, US#1121-1230 — FINAL
+# ============================================================================
+# Prime directive: JP is the ONLY reliable source for this block. The aligned
+# EN lags the JP by ~1 box (Rosetta drift) and is used only as a loose cross-
+# check, never as the meaning source (per task brief).
+#
+# This chunk is the VALERIA CHATEAU / ARMS-REFORMATION arc plus two encyclopedia
+# lore panels:
+#   (A) crew banter praising {0} (US#1121-1126, 1149-1157, 1229-1230),
+#   (B) the Filgaia-Summit "can the world unite?" examine-panel lore
+#       (US#1127-1148, *-marked),
+#   (C) Vold Valeria's ARMS reintroduction + Lilka Eleniak arriving as her
+#       sister's substitute (US#1156-1193),
+#   (D) the "Gias" dog-collar / command-word beat (US#1196-1213),
+#   (E) the Under Traffic cave-in + airspace/border lore (US#1210-1228).
+#
+# Block 6 is a TWIN of blocks 7-11; many residual <b:xxxx> codes here were
+# recovered read-only from the block-10 decode (identical disaster/summit +
+# ARMS-reflection text) and block-8 decode — noted inline "[twin]". Genuinely
+# unreadable single words are marked [?]; nothing invented from the EN.
+#
+# NAME CODES (recovered from the ROM char-ID scheme + style guide, preserved
+# as {n}): [05]ぉ={0} Ashley, [05]お={1} Brad, [05]か={2} Lilka, [05]が={3}
+# Marina, [05]き={4} Kanon. Fixed NPCs spelled: [0a]ぉ=Irving (Vold Valeria,
+# self "I"), [0a]お=Alta, [0a]か={3} Marina (party). {0}/{1}/{2}/{3} kept verbatim.
+#
+# Non-content slots in this range (no box exists): US#1151, 1160, 1164, 1169,
+# 1170, 1177, 1183, 1194, 1195, 1225.
+# ============================================================================
+
+[US#1121] (crew member, praising Ashley)
+  JP : 「[05]ぉさんも / 『スレイハイムの英雄』さんと同じくらい / 強いのではないですか
+  LIT: Mr. {0}, aren't you every bit as strong as the "Hero of Slayheim"?
+  RE : Mr. {0}, aren't you every bit as
+       strong as the Hero of Slayheim?
+
+[US#1122] (crew member)
+  JP : 「『スレイハイムの英雄』は / 配達じゃないと言うことですね
+  LIT: So the "Hero of Slayheim" is no mere [reputation], you mean.
+  RE : So the Hero of Slayheim is no mere
+       reputation, then.
+# 配達 decoded
+       literally; sense is "not just for
+       show" [?]
+
+[US#1125] (crew member)
+  JP : 「[05]がくんは / このお館に保護してもらうのが / 正解でしょう
+  LIT: It's surely best that {3} be kept safe here in this manor.
+  RE : It's surely best that {3} be kept
+       safe here in this manor.
+
+[US#1126] (crew member)
+  JP : 「それは結単なことなんかではなく / 誰にだってできることだったんです
+  LIT: That was no simple thing; it wasn't something just anyone could do.
+  RE : That was no simple feat. It wasn't
+       something just anyone could do.
+
+[US#1123] (crew member, Ebecho's cookies)  [twin-aided]
+  JP : 「エベチョ様の<b:8b95>物のクッキーですが / 大事にしまっていた為 / <b:8ac9><b:8a3d><b:8b96><b:8a78>を過ぎていたのではないでしょうか
+  LIT: Ebecho's prized cookies, saved so carefully, had likely gone past their best-before date.
+  RE : Ebecho's prized cookies were saved
+       so carefully they went past their
+       best-before date.
+# <b:8ac9..8a78>
+       = 賞味期限 (best-before) per EN twin
+
+[US#1124] (crew member)
+  JP : 「[05]が様にとって / <b:8b97>の<b:8a57><b:8a58>の場だったのではないでしょうか
+  LIT: For {3}, it may have been the site of a first taste of battle.
+  RE : For {3}, it may have been a first
+       taste of the battlefield.
+       <b:8b97>/<b:8a57><b:8a58> = 初/出陣,
+       from EN "first time saw action" [?]
+
+[US#1127] (*examine panel, Summit lore)  [twin: blk10]
+  JP : ＊それらに対<b:8a98>するためには / 世に、最悪の状況を想定し / 対<b:8a98>方法を確立しておくことである
+  LIT: To counter them, one must assume the worst possible case and establish a means of response in advance.
+  RE : To counter them, assume the worst
+       case and set out countermeasures in
+       advance.
+# <b:8a98> = 抗 (counter),
+       confirmed vs blk10 US
+# 2547-8
+
+[US#1128] (*examine panel)
+  JP : ＊対<b:8a98>が、後手に回ることで / 状況は悪合の一<b:8b39>を<89cb>り / 取り<b:8b9b>しの付かない状況になる
+  LIT: When the response falls behind, the situation worsens steadily until it can no longer be undone.
+  RE : When the response lags, things only
+       worsen, past the point of any
+       undoing.
+
+[US#1129] (*examine panel)
+  JP : ＊未部に<b:8ae9>ぐことができなかったとき / 状況の悪合を<b:8ae9>ぎ / <889a><889b>の最小合を<b:8b9c>る必要がある
+  LIT: When it can't be prevented beforehand, one must stem the worsening and keep the damage to a minimum.
+  RE : If it can't be prevented, stem the
+       harm and keep the damage to a
+       minimum.
+# <b:8ae9>ぐ=防ぐ,
+       <889a><889b>=被害 (damage) per EN
+       twin
+
+[US#1130] (*examine panel)  [twin: blk10 US#2481-ish]
+  JP : ＊ファルガイアにある国々は / 見えない国境という<b:8b9d>で押切られ / 人々の心にも<b:8b9d>を作る
+  LIT: Filgaia's nations are cut off by invisible walls called borders, and those walls form in people's hearts too.
+  RE : Filgaia's nations are severed by
+       invisible walls called borders,
+       walls that form in the heart too.
+       <b:8b9d> = 壁 (wall)
+
+[US#1131] (*examine panel)
+  JP : ＊自国を保ろうとしたり / 他国に対し中心暗<b:8b9e>になることで / さらに<b:8b9f>を願めていくことになる
+  LIT: Guarding one's own nation and growing suspicious of others only deepens the rift further.
+  RE : Guarding one's own land and eyeing
+       others with suspicion only deepens
+       the rift.
+# 疑心暗鬼 (suspicion);
+       <b:8b9f>=溝/rift [?]
+
+[US#1132] (*examine panel)
+  JP : ＊ファルガイアの全ての人々がわかりあい / この地に<b:8b05>まう同胞として / <b:8ba0>重しあえるのはいつの回か…
+  LIT: When will all Filgaians understand one another and respect each other as kin dwelling on this land?
+  RE : When will all Filgaians understand
+       and respect each other as kin of
+       this land?
+# <b:8b05>まう=住まう(dwell),
+       <b:8ba0>重=尊重(respect)
+
+[US#1133] (*examine panel)  [twin: blk10 US#2547]
+  JP : ＊我々は、それに<b:8ba1>する手だてがあるのか？ / 魔物に<b:8a78>ったことではない / 大変地異の可能性もある
+  LIT: Do we have the means to counter it? Not only monsters, but natural cataclysm is possible too.
+  RE : Do we have any means to counter it?
+       Not just monsters. A great natural
+       disaster too.
+# <b:8ba1>する=抗する,
+       <b:8a78>=限 (only), confirmed vs
+       blk10
+
+[US#1134] (*examine panel)  [twin: blk10 US#2548]
+  JP : ＊それらに<b:8ba1>する力を / 我々は持っていない
+  LIT: We do not hold the power to counter them.
+  RE : And the power to counter them is
+       something we do not have.
+
+[US#1135] (*examine panel)
+  JP : ＊世界を<b:8a6b>う脅威が来たとき / 我々は滅びるしかないのか
+  LIT: When a threat that assails the whole world comes, can we do nothing but perish?
+  RE : When a threat to the whole world
+       comes, can we only perish?
+       <b:8a6b>う=襲う (assail) [?]
+
+[US#1136] (*examine panel)
+  JP : ＊その前に、我々はまとまらねばならぬ / だが、人の年だけ思いがあり / 人がまとまることなど不可能なのか？
+  LIT: Before that, we must unite. But there are as many views as there are people. Is uniting even possible?
+  RE : First, we must unite. But each
+       person holds their own view. Is
+       unity even possible?
+
+[US#1137] (*examine panel)
+  JP : ＊作無もいわせぬ恐<b:8a6a>か？ / <b:8ba1>うことのできない力か？ / <b:8ba2>一された思想か？
+  LIT: Overpowering terror? A force none can resist? A single unified ideology?
+  RE : Terror that brooks no dissent? A
+       force none can resist? One unified
+       creed?
+# 有無を言わせぬ; <b:8a6a>=怖,
+       <b:8ba1>う=抗う, <b:8ba2>一=統一
+
+[US#1138] (*examine panel)
+  JP : ＊人の年だけ思いがある / 果たして / 世界をまとめることは可能なのか
+  LIT: There are as many thoughts as people. Is it truly possible to unite the world?
+  RE : Each person holds a thought of
+       their own. Can the world truly be
+       united?
+
+[US#1139] (*examine panel)
+  JP : ＊<b:8b91><b:8b92>において、<b:8ba2>一を試みた者たちはいた / しかしながら、その全てが / うたかたの理となりて<b:8ba3>っていった
+  LIT: In the past there were those who tried for unity, but all of it faded away like fleeting foam.
+  RE : In ages past, some sought unity.
+       Yet all of it faded away like
+       fleeting foam.
+       <b:8b91><b:8b92>=歴史/過去,
+       <b:8ba2>一=統一
+
+[US#1140] (*examine panel)
+  JP : ＊そもそも、一人の支配者のもとに / <b:8ba2>一されることは可能なのか？
+  LIT: To begin with, is it even possible to be unified under a single ruler?
+  RE : And could the world even be united
+       under a single ruler at all?
+
+[US#1141] (*examine panel)
+  JP : ＊もし、世界がまとまる時が来たとしたら / それは、世界の人々がそれを望む状況に / なったときだろう
+  LIT: If a time comes for the world to unite, it will be when its people have come to wish for it.
+  RE : If a day for the world to unite
+       comes, it will be when its people
+       wish for it.
+
+[US#1142] (*examine panel)
+  JP : ＊現在は、定<8943>で少数に一度開<b:8ad8>されるが / 緊急時には、非世開<b:8ad8>も行われる
+  LIT: At present it is held periodically every few years, but in emergencies an extraordinary session is convened.
+  RE : It is held on a set cycle every few
+       years, with emergency sessions in a
+       crisis.
+# 定期 / 開催; 非常(emergency)
+       session
+
+[US#1143] (*examine panel)
+  JP : ＊スレイハイムの崩滅の<89d2>には / 今後の世界情報について<b:8ba7>議されるため / 非世開<b:8ad8>されることとなった
+  LIT: At the time of Slayheim's collapse, an emergency session was convened to discuss the world's future.
+  RE : At Slayheim's fall, an emergency
+       session was called to weigh the
+       world's future.
+# <89d2>=際/折,
+       <b:8ba7>議=協議, 開催
+
+[US#1144] (*examine panel)
+  JP : ＊この時には、注目<b:8ba8><b:8ba9>でもある / 『イスカリオテ<b:8ba8><b:8ba9>』について / <b:8b79>めて話し合われた
+  LIT: At that time the noted "Treaty of Iscariot" was also discussed anew.
+  RE : At that time the famed Treaty of
+       Iscariot was taken up for
+       discussion once more.
+       <b:8ba8><b:8ba9>=条約 (treaty),
+       <b:8b79>めて=改めて
+
+[US#1145] (*examine panel)
+  JP : ＊自国の利<b:8baa>だけでなく / 世界の注目のためについて話し合われる / それがファルガイアサミットである
+  LIT: Not merely each nation's interests, but the good of the whole world is discussed there. That is the Filgaia Summit.
+  RE : Not just each land's gain, but the
+       good of the whole world is debated.
+       That is the Filgaia Summit.
+# 利益
+       (interest/gain)
+
+[US#1146] (*examine panel)
+  JP : (no JP text decoded in this slot)
+  LIT: (empty slot / continuation)
+  RE : [SKIP - empty examine slot, no JP
+       text]
+
+[US#1147] (Vold Valeria / crew)
+  JP : 「すまないが、彼らに聞いてみてくれないか
+  LIT: Sorry, but would you go ask them?
+  RE : Sorry, but would you go and ask
+       them about it?
+
+[US#1148] (crew member)
+  JP : 「国境誓認という重要な<b:8bad>認をクリアする為に / 必ず通らなければならない道だ
+  LIT: It is a road we must take to clear the crucial matter of border recognition.
+  RE : It's a road we must walk to settle
+       the crucial matter of border
+       recognition.
+# <b:8bad>認=課題/関門
+       sense; "border recognition" per
+       context
+
+[US#1149] (crew member)
+  JP : 「タウンメリアに戻るくらいなら / かまわないさ / ちょっとした休<8914>だと思ってくれ
+  LIT: Going back to Town Meria is no trouble at all. Think of it as a little break.
+  RE : Heading back to Town Meria is no
+       trouble. Think of it as a little
+       breather.
+# 休憩 (break)
+
+[US#1150] (crew member, teasing)
+  JP : 「彼女にでもプレゼントするのかい？ / いいねぇ、俺も[0a]お方に / プレゼントしたいよ
+  LIT: Giving it to your girl? Nice. I'd love to give something to Lady Alta myself.
+  RE : A present for your girl? Nice. I'd
+       love to give one to Lady Alta,
+       myself.
+
+[US#1152] (crew member, teasing)
+  JP : 「そっかそっか / や〜っぱり、[0a]かさんに / 式いに行くんだね〜<f04a>
+  LIT: I see, I see. So you really are going to see {3}, aren't you?
+  RE : I see, I see. So you're off to go
+       see {3} after all, aren't you?
+       会いに (going to meet)
+
+[US#1153] (crew member)
+  JP : 「〜〜〜〜〜は、はやく行けばいいでしょ<f05b>
+  LIT: Just... just go on ahead already, all right?
+  RE : Just... just go on ahead already,
+       would you?
+
+[US#1154] (Marivel, teasing)
+  JP : 「わらわは、いつまでもピチピチじゃが / お<b:8b76>らは、すーぐーにヨボヨボに / なってしまうからねぇ
+  LIT: I stay young and fresh forever, but you lot go all withered and frail before you know it.
+  RE : I stay young forever, but you lot
+       go withered and frail before you
+       know it.
+# わらわ = Marivel's archaic
+       register
+
+[US#1155] (system / control-code box)
+  JP : [17]
+  LIT: (control-code-only box, no JP text decoded)
+  RE : [SKIPPED - system/formatting box,
+       no JP text]
+
+[US#1156] (Vold Valeria, self-intro)
+  JP : 「私は[0a]ぉ〜 / [0a]ぉ・フォルド・ヴァレリア / ヴァレリア<b:8abd>の現当<b:8b76>をつとめている
+  LIT: I am Irving... Irving Vold Valeria. I serve as the current head of the Valeria house.
+  RE : I am Irving... Irving Vold Valeria.
+       I serve as the present head of the
+       Valeria house.
+# <b:8abd>=家
+       (house), 当主 (head)
+
+[US#1157] (Vold Valeria)
+  JP : 「そちらのお<b:8b71>さんが〜
+  LIT: And that young lady over there is...
+  RE : And that young lady over there
+       is...
+# <b:8b71>=嬢 (young lady)
+
+[US#1158] (Vold Valeria)
+  JP : 「かの高名な / 『エレニアックの魔女っ家』だね？
+  LIT: You're the renowned "Eleniak Witch-Girl," are you?
+  RE : You're the famed "Eleniak
+       Witch-Girl," I take it?
+
+[US#1159] (system / control-code box)
+  JP : [17]
+  LIT: (control-code-only box, no JP text decoded)
+  RE : [SKIPPED - system/formatting box,
+       no JP text]
+
+[US#1161] (Vold Valeria)
+  JP : 「〜そう、キミたちＡＲＭＳは滅滅した / だが、すべてが終ったわけではない
+  LIT: Yes, your ARMS was destroyed. But that does not mean everything has ended.
+  RE : Yes, your ARMS was destroyed. But
+       that does not mean all of it has
+       ended.
+
+[US#1162] (Vold Valeria)  [twin: blk8 US#1584-region]
+  JP : 「キミは跡跡的に生還し / ＡＲＭＳが行使される期定であった<88b2><b:8a78>は / 我がヴァレリア<b:8abd>に<88b3>渡されることとなった
+  LIT: You survived against all odds, and the authority over ARMS was handed to my Valeria house.
+  RE : You survived against all odds, and
+       command of ARMS was handed to my
+       Valeria house.
+# 奇跡的 (miraculous),
+       <b:8abd>=家
+
+[US#1163] (Vold Valeria)
+  JP : 「これが意<b:8a3d>するところ / すなわち<f040><f042>
+  LIT: What this means, in other words...
+  RE : And what that means, in other
+       words...
+# 意味 (meaning);
+       <f040><f042> = unsolved DTE pair
+
+[US#1165] (system / control-code box)
+  JP : [17]
+  LIT: (control-code-only box, no JP text decoded)
+  RE : [SKIPPED - system/formatting box,
+       no JP text]
+
+[US#1166] (system / control-code box)
+  JP : [17]
+  LIT: (control-code-only box, no JP text decoded)
+  RE : [SKIPPED - system/formatting box,
+       no JP text]
+
+[US#1167] (Brad)
+  JP : 「<b:8ad1>ＡＲＭＳは滅滅したと〜 / と、いうことは、新生ＡＲＭＳの隊<b:8b47>は / 俺ひとりなのか〜
+  LIT: The old ARMS was destroyed... so does that mean the new ARMS's roster is just me?
+  RE : The old ARMS was destroyed. So the
+       reborn ARMS is just me, then?
+       <b:8ad1>=旧 (old), 隊員/隊列 (roster)
+
+[US#1168] (Vold Valeria)
+  JP : 「そこで、<b:8b87>代の魔術<b:8b6c>と名高い / 『エレニアックの魔女っ家』に / <b:8a8f><b:8b10>を<8923>頼したのだ
+  LIT: So I requested help from the "Eleniak Witch-Girl," renowned as the finest sorceress of the age.
+  RE : So I called on the "Eleniak
+       Witch-Girl," famed as the finest
+       sorceress of the age.
+# 当代 (of the
+       age), 依頼 (request)
+
+[US#1171] (Lilka)
+  JP : 「お<b:8b84>ちゃんは / 魔<b:8ab0><b:8a50>の実験ミスで / 来られなくなってしまいました〜
+  LIT: My big sister couldn't come, because of a mishap in a magic-artifact experiment.
+  RE : My big sister couldn't come. A
+       mishap in a magic experiment kept
+       her away.
+# お姉ちゃん (big sister),
+       魔導具/魔法具
+
+[US#1172] (Lilka)
+  JP : 「<f040><f042>そこで、わたしが代りに来たんです
+  LIT: ...so I came in her place.
+  RE : ...and so I came here in her place.
+
+[US#1173] (system / control-code box)
+  JP : [17]
+  LIT: (control-code-only box, no JP text decoded)
+  RE : [SKIPPED - system/formatting box,
+       no JP text]
+
+[US#1174] (Lilka)
+  JP : 「お<b:8b84>ちゃんみたいになりたいんです〜
+  LIT: I want to become just like my big sister.
+  RE : I want to become just like my big
+       sister someday.
+
+[US#1175] (Lilka)
+  JP : 「たしかに、わたしの魔法なんて / お<b:8b84>ちゃんと比べたら / ぜんぜんなんです〜
+  LIT: It's true, my magic is nothing at all compared to my big sister's.
+  RE : True, my magic is nothing at all
+       next to my big sister's.
+
+[US#1176] (Lilka)
+  JP : 「魔法<b:8a4b><b:8b90>の成<b:8ac7>だって / <b:8aee>ん中くらいです〜 / とても自<b:8bba>にはなりません〜
+  LIT: My grades at magic school were only middling. I really have no confidence.
+  RE : My marks at magic school were only
+       middling. I've no confidence at
+       all.
+# 魔法学校 (magic school), 成績,
+       真ん中, 自信 (confidence)
+
+[US#1178] (Vold Valeria)
+  JP : 「わかっていると思うが / これは<b:8bb4>びではない / <f040><f042>いいね〜
+  LIT: I trust you understand, but this is no game. Understood?
+  RE : I trust you know this is no game.
+       Understood?
+# <b:8bb4>び=遊び
+       (play/game)
+
+[US#1179] (system / control-code box)
+  JP : [17]
+  LIT: (control-code-only box, no JP text decoded)
+  RE : [SKIPPED - system/formatting box,
+       no JP text]
+
+[US#1180] (Lilka)
+  JP : 「女の人よりキレイな剣の人って / <b:8b2b>対に<b:8b5f>たい人だって思ってたんです
+  LIT: I always thought a swordsman prettier than a woman would surely be someone cold.
+  RE : I always thought a swordsman
+       prettier than a woman was bound to
+       be cold.
+# <b:8b2b>対=絶対,
+       <b:8b5f>たい=冷たい (cold) per EN
+
+[US#1181] (Lilka)
+  JP : 「[0a]ぉさんは / そんなことないんですね / <89ab>しい人で、ホントよかったッ！
+  LIT: But you're not like that at all. You're kind. I'm so glad!
+  RE : But you're not like that at all.
+       You're kind. I'm really glad!
+       <89ab>しい=優しい (kind); [0a]ぉ
+       honorific "you"
+
+[US#1182] (Brad)
+  JP : 「さあどうかな？ / [05]かくんが言うほど / <89ab>しくなんかないと思うのだが〜
+  LIT: I wonder about that. I don't think I'm as kind as {2} makes out.
+  RE : I wonder about that. I'm not as
+       kind as {2} makes me out to be.
+       <89ab>しい=優しい (kind)
+
+[US#1184] (Brad)
+  JP : 「最近は、『どうやらそうらしい』 / <f040><f042>と、思えるくらいにはなってきたよ
+  LIT: Lately I've come around to thinking, "maybe that's so, after all."
+  RE : Lately I've come around to thinking
+       maybe that's so, after all.
+
+[US#1185] (Vold Valeria)
+  JP : 「フム、そうだな〜 / 準備にもう少し時間がかかりそうだ
+  LIT: Hmm, right. The preparations look to take a little more time.
+  RE : Hmm, right. The preparations will
+       take a little more time yet.
+
+[US#1186] (Vold Valeria)
+  JP : 「こちらの準備が調い更<88f9> / 最<b:8b97>の任務を通達する / それまでは<b:8bbd>街で時間をつぶしてほしい
+  LIT: Once our preparations are set, I'll relay your first mission. Until then, pass the time about the town.
+  RE : Once we're ready, I'll relay your
+       first mission. Until then, pass the
+       time in the town.
+# 最初 (first),
+       <b:8bbd>街 = the Chateau town
+
+[US#1187] (Vold Valeria)
+  JP : 「キミたち最<b:8b97>の任務は / もうひとりのＡＲＭＳメンバーと / 合流することである
+  LIT: Your first mission is to link up with one more ARMS member.
+  RE : Your first mission is to join up
+       with one more ARMS member.
+# 最初
+       (first)
+
+[US#1188] (Vold Valeria)
+  JP : 「向こうには、すでに連絡をつけてある / キミたちはそこに行って / 合流するだけでいい〜
+  LIT: I've already made contact with the other side. You need only go there and join up.
+  RE : I've already made contact ahead.
+       You need only go there and join up.
+
+[US#1189] (Vold Valeria)
+  JP : 「<8979>全の準備で / <b:8bbf>んでほしい〜
+  LIT: I want you to proceed with everything fully prepared.
+  RE : I want you to set out fully
+       prepared for anything.
+# 万全 (fully
+       prepared), <b:8bbf>む=臨む/進む
+
+[US#1190] (Vold Valeria)
+  JP : (no JP text decoded in this slot)
+  LIT: (empty slot / continuation)
+  RE : [SKIP - empty slot, no JP text]
+
+[US#1191] (Vold Valeria)
+  JP : (no JP text decoded in this slot)
+  LIT: (empty slot / continuation)
+  RE : [SKIP - empty slot, no JP text]
+
+[US#1192] (Vold Valeria)
+  JP : 「<8965>人[05]ぉ・ウィンチェスターの / 護着の任を<b:8bbc>えるッ！
+  LIT: I charge you with escorting the prisoner, {0} Winchester!
+  RE : I charge you with escorting the
+       prisoner, {0} Winchester!
+# 罪人
+       (prisoner/criminal), 護送 (escort),
+       与える (charge)
+
+[US#1193] (Vold Valeria)
+  JP : 「護着先は<f040><f042> / 『イルズベイル<8917><8963>他』ッ！
+  LIT: The destination for the escort is... the "Prison Island of Illsveil"!
+  RE : The escort's destination is the
+       Prison Island of Illsveil!
+# 監獄島
+       (prison island)
+
+[US#1196] (Vold Valeria)
+  JP : 「それが、ＡＲＭＳの / 存在意義であるのだッ！
+  LIT: That is the very reason ARMS exists!
+  RE : That is the very reason ARMS
+       exists!
+
+[US#1197] (Vold Valeria)
+  JP : 「できれば<b:8b93>えてほしいものだな
+  LIT: If you can, I'd like you to answer that.
+  RE : If you can, I'd like to hear you
+       answer that.
+# <b:8b93>える=応える/答える
+
+[US#1198] (Vold Valeria)
+  JP : 「スレイハイム解放<b:8ae6>の英雄〜 / [05]お・エヴァンス / ウワサに違わぬ<b:8a57><b:8a58>を<b:8b96>待しているよ
+  LIT: Hero of the Slayheim Liberation Army, {1} Evans. I expect great deeds worthy of the rumors.
+  RE : Hero of the Slayheim Liberation
+       Army, {1} Evans. I expect deeds
+       worthy of the rumors.
+# 解放軍
+       (Liberation Army), 期待 (expect)
+
+[US#1199] (Vold Valeria, command word)
+  JP : 「〜カンダ・ロエストラ・アマントス〜
+  LIT: ...Kanda Roestra Amanthos...
+  RE : ...Kanda Roestra Amanthos...
+
+[US#1200] (Vold Valeria)
+  JP : 「その、コマンドワードは〜
+  LIT: That command word...
+  RE : That command word of yours...
+
+[US#1201] (Vold Valeria)
+  JP : 「もしもキミに / 反<89c1>の意<b:8ad0>が認められたら<f040><f042>
+  LIT: If any intent of rebellion is detected in you...
+  RE : If any sign of rebellion is ever
+       detected in you...
+# 反逆
+       (rebellion), 意図/意志 (intent)
+
+[US#1202] (Vold Valeria)
+  JP : 「あるいは無理<b:8bc4>理 / 『ギアス』を取り外そうとしたら / その場で、ドカン、だ
+  LIT: Or if you try to force the "Gias" off, it's Boom, right on the spot.
+  RE : Or if you try to force off the
+       Gias, it's Boom, on the spot.
+       無理矢理 (by force)
+
+[US#1203] (Brad)
+  JP : 「<8965>人を手<b:8bc6>にして<8a25>うのに / こいつは、おあつらえむきの / 『<b:8bc7>の<888a><b:8b11>』という<b:8b02>か〜
+  LIT: To keep a criminal on a leash, this "dog collar" is just the thing, is that it?
+  RE : So to keep a criminal leashed, this
+       dog collar is just the thing?
+# 罪人
+       (criminal), 犬の首輪 (dog collar) per
+       EN twin
+
+[US#1204] (Brad)
+  JP : 「チッ、エンブレムも / <b:8bc7>の<888a><b:8b11>ときてやがる〜
+  LIT: Tch. Even the emblem looks like a dog collar.
+  RE : Tch. Even the emblem looks like a
+       dog collar.
+# 犬の首輪 (dog collar)
+
+[US#1205] (Brad)
+  JP : 「もっとも<f040><f042> / いずれの国にも<b:8a38>してないから / 『国<b:8abd>の<b:8bca>』になりきれないのが残念だ
+  LIT: Then again, since we belong to no nation, it's a shame we can't fully be a "nation's dog."
+  RE : Then again, we belong to no nation,
+       so we can't quite be a "nation's
+       dog." Pity.
+# 属してない (belong), 国家の犬
+       (nation's dog)
+
+[US#1206] (Brad)
+  JP : 「『国<b:8abd>の<b:8bca>』と呼ぶには / あまりにも<b:8ad5>良<b:8bc7>ぞろいだな
+  LIT: To call us a "nation's dog," we're far too much a pack of strays.
+  RE : To call us a "nation's dog," we're
+       too much a pack of strays.
+# 野良犬
+       (stray dogs)
+
+[US#1207] (Vold Valeria)
+  JP : 「〜ケイトくんか〜
+  LIT: ...Ah, it's you, Kate.
+  RE : ...Ah, it's you, Kate. # Kate
+       Lindbergh (telepath)
+
+[US#1208] (Vold Valeria)
+  JP : 「〜そうか、わかった〜
+  LIT: ...I see. Understood.
+  RE : ...I see. Understood.
+
+[US#1209] (Vold Valeria)
+  JP : 「〜彼らにあたってもらうこととしよう〜
+  LIT: ...We'll have them handle it.
+  RE : ...We'll have them see to it.
+
+[US#1210] (Vold Valeria, Under Traffic)
+  JP : 「ここより[11]お先[11]ぉにある / 地辺交<b:8a56><89ca>アンダートラフィックスにて / 崩落事故が発生したもようッ！
+  LIT: A cave-in seems to have struck the underground trade route, Under Traffic, just ahead of here.
+  RE : A cave-in has struck the
+       underground trade route, Under
+       Traffic, just ahead of here!
+       地底交易路 (underground trade route)
+
+[US#1211] (Vold Valeria)
+  JP : 「交<b:8a56><89ca>の<b:8bcb>断は / 人々の生<b:8a57>に起<b:8b32>を<b:8ad2>ぼす / 至急、回<b:8bcc>につとめてほしいッ！
+  LIT: Blocking the trade route harms people's livelihood. See to its restoration at once!
+  RE : Cutting the route harms people's
+       livelihood. See to its repair at
+       once!
+# 交易路 (trade route), 遮断
+       (block), 支障 (harm), 回復 (restore)
+
+[US#1212] (crew member)
+  JP : 「お役所の『すぐやる<b:8bad>』みたい
+  LIT: It's like a government office's "we'll-do-it-right-now department."
+  RE : Just like a government's "we'll-do-
+       it-now" department.
+# すぐやる課
+       (do-it-now dept)
+
+[US#1213] (Vold Valeria)
+  JP : 「私も度を<b:8a41>して / ふざけてしまったからな
+  LIT: I too went too far and got carried away with the joking.
+  RE : I too went too far and got carried
+       away joking.
+# 度を越して (went too far)
+
+[US#1214] (Vold Valeria)
+  JP : 「そんなことよりも / こいつを持っていけ
+  LIT: Never mind that. Take this with you.
+  RE : Never mind that. Take this along
+       with you.
+
+[US#1215] (Vold Valeria, Call menu)
+  JP : 「メニューに追<b:8b10>された / 『つうしん』<b:8ada>目を選<b:8a66>することで / ここと回線をつなぐことが可能だ
+  LIT: By choosing the "Call" item newly added to the menu, you can open a line to us here.
+  RE : Choose the new "Call" item on the
+       menu to open a direct line to us
+       here.
+# 追加 (added), 項目 (item), 選択
+       (choose)
+
+[US#1216] (Vold Valeria)
+  JP : 「役立ててほしい
+  LIT: I hope you'll put it to good use.
+  RE : I hope you'll put it to good use.
+
+[US#1217] (crew member)
+  JP : 「何とかなったかもしれないのに / 空を飛ばれてしまっては / 俺たちには、手が出せないッ！
+  LIT: We might have managed, but once they took to the sky, there was nothing we could do!
+  RE : We might have managed it, but once
+       they took to the sky we couldn't
+       touch them!
+
+[US#1218] (crew member)
+  JP : 「だが、あの場に立ちはだかったのは / 何も相の飛空機艇だけではない〜
+  LIT: But it wasn't only the enemy's airship that stood in our way there.
+  RE : It wasn't only the enemy airship
+       that stood in our way there.
+# 相=敵
+       (enemy), 飛空機艇 (airship)
+
+[US#1219] (crew member)
+  JP : 「たとえ、あの場に我々が / 飛空機艇を用意していたとしても / <b:8bd0><b:8a56>には国境を飛び<b:8a41>えることはできない
+  LIT: Even had we readied an airship there, we could not actually have crossed the border.
+  RE : Even with an airship of our own
+       there, we could never truly cross
+       the border.
+# 実際 (actually), 飛び越える
+       (cross over)
+
+[US#1220] (crew member)
+  JP : 「そんなことをしたら / 領空誓認で<b:8bd1>えられてしまう
+  LIT: If we did that, we'd be seized for violating their airspace.
+  RE : Do that, and we'd be seized for
+       violating their airspace.
+# 捕えられて
+       (seized)
+
+[US#1221] (system / control-code box)
+  JP : [17]
+  LIT: (control-code-only box, no JP text decoded)
+  RE : [SKIPPED - system/formatting box,
+       no JP text]
+
+[US#1222] (crew member / Lilka)
+  JP : 「わたしたちは / 正しいことをしようとしているのに / どうしてジャマが入るの？
+  LIT: We're trying to do what's right, so why does something always get in the way?
+  RE : We're trying to do what's right.
+       Why does something always get in
+       the way?
+
+[US#1223] (crew member, border lore)
+  JP : 「自分を保るために / 他者を<b:8b69><b:8b2b>し、心の<b:8b9d>は / 見えない『線』となって、世界を分かつ〜
+  LIT: To guard oneself, one shuns others, and the walls of the heart become invisible "lines" that divide the world.
+  RE : To guard yourself you shun others,
+       and the heart's walls become
+       invisible lines dividing the world.
+# 排斥 (shun), <b:8b9d>=壁 (wall)
+
+[US#1224] (crew member)
+  JP : 「それが、国境だよ
+  LIT: That is what a border is.
+  RE : That is what a border is.
+
+[US#1226] (Vold Valeria)
+  JP : 「その準備が調うまで / キミたちは待機状態としよう
+  LIT: Until those preparations are set, you'll remain on standby.
+  RE : Until those preparations are ready,
+       you'll be kept on standby.
+
+[US#1227] (Vold Valeria)
+  JP : 「とりあえず、解<b:8ba3>だ
+  LIT: For now, you're dismissed.
+  RE : For now, you're all dismissed.
+
+[US#1228] (system / control-code box)
+  JP : [17]
+  LIT: (control-code-only box, no JP text decoded)
+  RE : [SKIPPED - system/formatting box,
+       no JP text]
+
+[US#1229] (crew member, teasing)
+  JP : 「あげるの？ / [0a]かさんに
+  LIT: You're giving it to her? To {3}?
+  RE : You're giving it to her? To {3}?
+
+[US#1230] (crew member, teasing)
+  JP : 「[05]ぉと / [0a]かさんって、<b:8bd5>人同胞？
+  LIT: Are {0} and {3} a couple, then?
+  RE : So {0} and {3}, are you two a
+       couple?
+# <b:8bd5>人同胞 = 恋人同士
+       (sweethearts) per context [?]

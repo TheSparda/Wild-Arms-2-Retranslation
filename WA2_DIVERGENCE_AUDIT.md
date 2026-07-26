@@ -1,5 +1,17 @@
 # WA2 — EN/JP Localization Divergence Audit
 
+⚠️ **UNVERIFIED — DO NOT TRUST THE FINDINGS BELOW YET.** Spot-checking two of the flagged
+"CONFIRMED COMPRESSIONS" (JP#3107, and the 英雄/生け贄 line at JP#690) against
+`WA2_EN_JP_COMPARISON.txt` showed both are almost certainly **alignment artifacts, not real
+divergences**: in both cases the same JP text is duplicated across multiple adjacent EN#/JP#
+pairs (the aligner smearing one JP message across several EN slots), and the paired EN line
+is from an obviously unrelated scene (kidnapping/ransom dialogue next to a reflective
+"hero=sacrifice" line; a "Valeria blood/Hero" line next to a "three nations" line). This
+matches the file's own caveat that even the HIGH-confidence tier is only ~93% accurate — these
+two landed in the ~7%. The underlying JP content is still real and may be worth revisiting with
+better alignment, but every item below needs re-verification against ground truth (not just
+this heuristic alignment) before being treated as a genuine finding. Revisit later.
+
 Systematic scan of all 7,766 aligned message pairs using the v6 linebreak-sequence
 alignment (`tools_wa2/align_v6.py`, HIGH-confidence tier ~93% accurate). Method: compare
 JP content-length vs EN word-count per pair; flag extreme ratios; manually verify each

@@ -1,0 +1,730 @@
+# Wild Arms 2 — Lore Encyclopedia, Block 8, US#1527-1637 — FINAL
+# ============================================================================
+# Prime directive: JP is the ONLY reliable source for this block. The aligned
+# EN is Rosetta drift and is NOT used to decide meaning. This block is a TWIN
+# of blocks 6/9/10/11 (same lore-encyclopedia script, different local kanji
+# subtable). Residual <b:xxxx> codes here were cross-recovered against the
+# fully-solved twin in block 6 (US#900-1010) and the twin in block 10
+# (US#2372-2490) — noted inline as [twin: blk6 #xxx] / [twin: blk10 #xxxx].
+# Scenes: (A) Irving/Sir Valeria strategy + Raline/Mana/leyline lore #1527-1556,
+# (B) Altaecia (sister, 3rd-person "big brother/my friend") lament #1557-1583,
+# (C) Amy "Mee-chan" Raypoint-report banter #1584-1613, (D) Amy/Kate
+# telepath + ARMS-founding reflection #1614-1633, (E) Chateau engineer
+# (Gubacho/Erwin) endgame banter #1634-1637.
+# Note: 味方 here reads as "my brother / my friend" (Altaecia re Irving), per
+# the blk6 twin convention. Genuinely unreadable single words marked [?].
+# ============================================================================
+
+[US#1527] (examine panel / system prompt)
+  JP :
+  LIT: *Do you want to read it?
+  RE : *Read it?
+# SKIPPED-ish: system examine prompt; kept minimal per format.
+
+[US#1529] (examine panel / system message)
+  JP : 「〜でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this demo version, unfortunately, it cannot be used.
+  RE : But in this demo version,
+       unfortunately, it cannot be used.
+
+[US#1530] (examine panel / system message)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: However, in this demo version, unfortunately, it cannot be used.
+  RE : However, in this demo version,
+       unfortunately, it cannot be used.
+
+[US#1531] (system / residual)
+  JP : [17]
+  LIT: (control code only)
+  RE : [SKIP - control code only]
+
+[US#1532] (Sir Valeria / Irving, strategy)
+  JP : 「私の作戦に[誤]りはない〜 / [信]念存在を[護]るには / この作戦以外にはありえないのだ〜
+  LIT: There is no error in my plan. To protect what I believe must exist, there is no path but this one.
+  RE : There is no error in my plan.
+       To guard what I believe in,
+       no other path exists.
+# [twin: blk10 #2372] EN "My planning, my strategies were not wrong!"
+
+[US#1533] (Sir Valeria / Irving)
+  JP : 「彼の地は、レイラインと呼ばれる地[脈]が / 最大無限に行き交っている地である
+  LIT: That land is a place where the veins called leylines cross in vast, endless numbers.
+  RE : That land is where the leyline
+       veins cross, vast and endless.
+# [twin: blk10 #2373]
+
+[US#1534] (Sir Valeria / Irving)
+  JP : 「レイラインには / 星の生命エネルギー『マナ』が通い / その終着地帯はレイポイントと呼ばれている
+  LIT: Through the leylines flows the planet's life-energy, "Mana." Its terminal zones are called Raypoints.
+  RE : Through the leylines flows the
+       planet's life-energy, "Mana." Its
+       ends are called Raypoints.
+
+[US#1535] (Sir Valeria / Irving)
+  JP : 「星の生命エネルギー〜 / この強い力を / 我々のモノとする術はないのだろうか〜
+  LIT: The planet's life-energy. Is there no way to make this powerful force our own?
+  RE : The planet's life-energy. Is there
+       no way to make this power our own?
+
+[US#1536] (Sir Valeria / Irving)
+  JP : 「私が『お前という[十][字][架]を[背][負]う』と / あの大聖[堂]で言ったことを〜
+  LIT: What I said in that great cathedral, "I shall bear the cross that is you."
+  RE : What I said in that cathedral:
+       "You are the cross I bear."
+# [twin: blk6 context; EN "You are the cross I gladly bear."]
+
+[US#1537] (Sir Valeria / Irving)
+  JP : 「あの時から / 私たちはいっしょに戦う運命にあったのだ / その戦いこそ、この空を取り戻す戦いなのだ
+  LIT: From that time, we were fated to fight together. That fight is the fight to reclaim this sky.
+  RE : Since then we were fated to fight
+       as one. That fight is to reclaim
+       this sky.
+
+[US#1538] (Sir Valeria / Irving)
+  JP : 「そこに[遺]る渡記は最大にして貴重〜 / だが、ヴァレリアの血を招きし者のみが / その恩恵にあずかれるという〜
+  LIT: The records left there are vast and precious, but only those of Valeria blood may share in their blessing.
+  RE : The records there are vast and
+       precious. Only Valeria blood may
+       share their blessing.
+
+[US#1539] (Sir Valeria / Irving)
+  JP : 「私に代って、その任〜 / [05]きに任せよう / 彼女ならできるはずである
+  LIT: In my place, that duty, I'll entrust to her. She should be able to do it.
+  RE : In my place, I'll entrust that
+       duty to her. She can do it.
+
+[US#1540] (Sir Valeria / Irving)
+  JP : 「理同時を戦術的に / 用いるなどということはないはずだ / だが〜
+  LIT: They should never use it tactically, all at once. But...
+  RE : They'd never use it tactically,
+       all at once. But...
+# residual/garbled JP; [twin: blk10 #2381] EN "...it would never
+# attempt the tactical use of nuclear weapons. However..."
+
+[US#1541] (Sir Valeria / Irving)
+  JP : 「オデッサに、ヴィンスフェルトに / 戦[術]を[案]じるだけの理性が / 残っていないとするならば〜
+  LIT: If Odessa, if Vinsfeld, no longer has the reason left even to devise strategy...
+  RE : If Odessa, if Vinsfeld, has no
+       reason left to plan with...
+
+[US#1542] (Sir Valeria / Irving)
+  JP : 「来るべき脅威の前に / ファルガイアは滅びかねない〜
+  LIT: Before the coming threat, Filgaia could be destroyed.
+  RE : Before the coming threat, Filgaia
+       could be destroyed.
+
+[US#1543] (Sir Valeria / Irving)
+  JP : 「〜そろそろだな / ヤツらをこれ以上野放しにしては / 保るべきファルガイアを失ってしまう
+  LIT: It's about time. If we leave them loose any longer, we'll lose the Filgaia we ought to protect.
+  RE : It's nearly time. Leave them loose
+       longer and we lose the Filgaia we
+       must protect.
+
+[US#1544] (Sir Valeria / Irving)
+  JP : 「ギルドグラードマスターが / ひとり[息]家を視[察]と[称]して / 隣の原野に向かわせていたそうだが〜
+  LIT: They say the Guild Galad Master sent his only son off to the neighboring wastes on the pretext of an inspection.
+  RE : The Guild Galad Master sent his
+       only son to the wastes, calling
+       it an inspection.
+# [twin: blk10 #2384]
+
+[US#1545] (Sir Valeria / Irving)
+  JP : 「彼の地は隣に奪われた大地〜 / いくつかの発掘地帯をのぞいて / 無意味な世界に何の用だったのだ〜
+  LIT: That land is one taken by the neighbor. Apart from a few excavation zones, what use is there in that meaningless world?
+  RE : That land was seized by the
+       neighbor. Barren but for a few
+       dig sites. What use is it?
+
+[US#1546] (crew member, coast/search lore)
+  JP : 「タウンメリアの東や、ダムツェンや北東〜 / それ以外には / [11]お街道外縁部の北や東[11]ぉに海岸があったな
+  LIT: East of Town Meria, northeast of Damzen. Besides those, there were coasts to the north and east of the road's outer edge.
+  RE : East of Town Meria, northeast of
+       Damzen. Also coasts north and east
+       of the road's rim.
+
+[US#1547] (crew member)
+  JP : 「かつて私も / シエルジェにて修行に / [打]ち込んだこともあったのだ〜
+  LIT: Once, I too threw myself into training at Sielje.
+  RE : Once, I too threw myself into
+       training at Sielje, long ago.
+# [twin: blk6 #905]
+
+[US#1548] (crew member)
+  JP : 「[精]神、魔術、異界との搭乗術〜 / そして、大戦神〜
+  LIT: Spirit, sorcery, the art of contact with the other world, and the great war-god.
+  RE : Spirit, sorcery, contact with the
+       other world, and the war-god.
+# [twin: blk6 #906]
+
+[US#1549] (crew member)
+  JP : 「すべては〜 / 〜そう、すべては / そこから始まったのだ〜
+  LIT: All of it, yes, all of it, started from there.
+  RE : All of it. Yes, all of it started
+       from there.
+
+[US#1550] (crew member)
+  JP : 「こまかなサーチがカギだな
+  LIT: A careful search is the key.
+  RE : A careful search is the key.
+
+[US#1551] (Irving, re sister)
+  JP : 「私もクルーも / オデッサとの戦いに信念はできている / だが〜
+  LIT: My crew and I have our resolve set for the fight against Odessa. But...
+  RE : My crew and I have our resolve set
+       for the fight against Odessa.
+       But...
+
+[US#1552] (Irving, re sister)
+  JP : 「我が仲、{1}を / [巻]き込んだことだけが / 今なお気がかりである〜
+  LIT: The only thing that still weighs on me is that I dragged {1}, my kin, into this.
+  RE : The one thing that still weighs on
+       me is that I dragged {1} into this.
+# [twin: blk6 #910]
+
+[US#1553] (Irving, re sister)
+  JP : 「身の危険よりも、もっと気がかりなこと〜 / 戦いの中で見せる人間のマイナスの面だけは / [0a]おには見せたくないな〜
+  LIT: More than the danger to her, what worries me is this: I don't want her to see the ugly side of people that war brings out.
+  RE : More than the danger, I don't want
+       her to see the ugly side war brings
+       out in people.
+
+[US#1554] (crew member)
+  JP : 「その制[御]に誓認が無ければ / 我々はオデッサに対する / 強力無比な力を手に入れたといえよう〜
+  LIT: Without a check on that control, we could say we'd have an unmatched power against Odessa.
+  RE : Without a check on it, we'd hold
+       an unmatched power against Odessa.
+# [twin: blk6 #912]
+
+[US#1555] (crew member)
+  JP : 「〜だが〜
+  LIT: But...
+  RE : But...
+
+[US#1556] (crew member)
+  JP : 「ファルガイアを分断する / 共通誓認と考えてほしい
+  LIT: Think of it as the borders that divide Filgaia.
+  RE : Think of it as the borders that
+       divide Filgaia.
+# [twin: blk6 #914]
+
+[US#1557] (crew member)
+  JP : 「さらなる崩落も考えられる / 気をつけて向かってほしい
+  LIT: Further cave-ins are possible too. Please be careful heading there.
+  RE : Further cave-ins are possible.
+       Please be careful heading there.
+
+[US#1558] (crew member)
+  JP : 「[11]おずっと遠い北東の地〜 / 誰も知らない発着魔法陣の縁り[11]ぉには / 強い[力]が支配する魔境があるそうです
+  LIT: Far to the northeast, they say a demon-haunted realm ruled by a powerful force lies near a launch circle no one knows of.
+  RE : Far northeast, near an unknown
+       launch circle, lies a demon realm
+       ruled by great power.
+# [twin: blk6 #916]
+
+[US#1559] (crew member)
+  JP : 「このファルガイアには / まだまだ不思議な[所]が / 遺されているのですね〜
+  LIT: Filgaia still has strange places left behind, it seems.
+  RE : Filgaia still has strange places
+       left behind within it, it seems.
+# [twin: blk6 #917]
+
+[US#1560] (Altaecia, re brother/Irving)
+  JP : 「私にできることがあれば / この身を[捨]ててでも / 味方のお役に立ちたいというのに〜
+  LIT: If there were something I could do, I'd give up my own life to be of use to my brother.
+  RE : If I could do anything, I'd give
+       my own life to be of use to my
+       brother.
+
+[US#1561] (Altaecia)
+  JP : 「何かを失ってから[初]めて / その存在の大きさに気付くようなモノも / 『幸せ』のひとつなのかもしれません
+  LIT: To realize how great a thing was only after losing it, that too may be a kind of "happiness."
+  RE : To grasp a thing's worth only once
+       it's lost, that too may be a kind
+       of happiness.
+
+[US#1562] (Altaecia)
+  JP : 「味方とあなた方なら / いつかオデッサを駆[逐]することも / できるような気がしてきます〜
+  LIT: With my brother and all of you, I feel someday you could even drive Odessa out.
+  RE : With my brother and you, someday
+       you could drive Odessa out. I feel
+       it.
+
+[US#1563] (Altaecia)
+  JP : 「でもそれは、味方にとって / 終りなのでしょうか？ / それとも〜
+  LIT: But would that be the end for my brother? Or...
+  RE : But would that be the end for my
+       brother? Or...
+
+[US#1564] (Altaecia)
+  JP : 「私に、味方と共に戦える力があれば / このような中誓を / いだかずにすむのでしょうか〜？
+  LIT: If I had the strength to fight beside my brother, could I be spared holding such half-vows?
+  RE : If I could fight at my brother's
+       side, would I be spared this doubt?
+
+[US#1565] (Altaecia)
+  JP : 「それは、乾いた心に生まれいずる / 人の心の過ちに / どこか通じる悲しさがあります
+  LIT: There is a sadness in it that somehow connects to the errors of the human heart, born in a barren heart.
+  RE : There is a sadness in it, akin to
+       the errors born in a barren human
+       heart.
+
+[US#1566] (Altaecia)
+  JP : 「オデッサの[罪]は / 乾いた人の心に落ちた暗い[染]み
+  LIT: Odessa's crime is a dark stain fallen upon the barren human heart.
+  RE : Odessa's crime is a dark stain
+       upon the barren human heart.
+
+[US#1567] (Altaecia)
+  JP : 「それは、ファルガイアに生きる / すべての人の心の大[映]し〜
+  LIT: It is a great reflection of the hearts of all who live in Filgaia.
+  RE : It reflects the hearts of all who
+       live in Filgaia.
+
+[US#1568] (Altaecia)
+  JP : 「でも、帰ることが許されたのは / 戦場に[赴]いた / あなたたちだけ〜
+  LIT: But the only ones permitted to return are you, who went to the battlefield.
+  RE : But only you, who went to the
+       battlefield, are permitted to
+       return.
+# [twin: blk6 #918]
+
+[US#1569] (Altaecia)
+  JP : 「私はいつ〜 / 味方のもとへ / 『帰る』ことができるのでしょう〜
+  LIT: I wonder when I will be able to "return" to my brother's side.
+  RE : I wonder when I'll be able to
+       "return" to my brother's side.
+
+[US#1570] (Altaecia)
+  JP : 「私は、はばたく[翼]も持っていない / そう、暗い[翼]すらも〜
+  LIT: I have no wings to flap, not even dark ones.
+  RE : I have no wings to flap. Not even
+       dark ones.
+# [twin: blk6 #920]
+
+[US#1571] (crew member; repeat of #1558)
+  JP : 「[11]おずっと遠い北東の地〜 / 誰も知らない発着魔法陣の縁り[11]ぉには / 強い[力]が支配する魔境があるそうです
+  LIT: Far to the northeast, they say a demon-haunted realm ruled by a powerful force lies near a launch circle no one knows of.
+  RE : Far northeast, near an unknown
+       launch circle, lies a demon realm
+       ruled by great power.
+
+[US#1572] (crew member; repeat of #1559)
+  JP : 「このファルガイアには / まだまだ不思議な[所]が / 遺されているのですね〜
+  LIT: Filgaia still has strange places left behind, it seems.
+  RE : Filgaia still has strange places
+       left behind within it, it seems.
+
+[US#1573] (Altaecia)
+  JP : 「でもそれは / 考えてみれば幸せなことかもしれない
+  LIT: But thinking about it, that might be a fortunate thing.
+  RE : But thinking about it, that might
+       be a fortunate thing.
+
+[US#1574] (Altaecia)
+  JP : 「政うだけの選[択][肢]という道が / [開]けるんですもの〜
+  LIT: Because a path remains open, the option that just lets you hesitate.
+  RE : Because a path stays open, the
+       freedom to hesitate at all.
+# [twin: blk6 #924]
+
+[US#1575] (Altaecia)
+  JP : 「だから、力の無い者は / 力を持つ者に[憧]れ / そして、[恐]れるのかもしれません
+  LIT: That's why the powerless may admire those who have power, and fear them too.
+  RE : So the powerless may admire the
+       powerful, yet fear them too.
+# [twin: blk6 #925]
+
+[US#1576] (Altaecia)
+  JP : 「でも、忘れないで / 輝は同時に / 同じ強さの起を生み出すということを〜
+  LIT: But don't forget, brilliance also creates, at the same time, a shadow of equal strength.
+  RE : But don't forget, brilliance also
+       casts a shadow of equal strength.
+# [twin: blk6 #926]
+
+[US#1577] (Altaecia)
+  JP : 「同じ輝なら / 私は[包]み込んでくれるような / [優]しい輝を望んでいます
+  LIT: If it's the same brilliance, I hope for a gentle one that wraps around me.
+  RE : If it's brilliance either way, I
+       long for a gentle kind that wraps
+       around me.
+# [twin: blk6 #927]
+
+[US#1578] (Altaecia)
+  JP : 「まるで、自分の身体だけではなく / この世界そのものを / 支えようとしているみたいに〜
+  LIT: As if he is trying to support not just his own body, but this world itself.
+  RE : As if he's trying to hold up not
+       just himself, but this world
+       itself.
+
+[US#1579] (Altaecia)
+  JP : 「味方と私の大好きなファルガイア〜 / 人ひとりの力で支えられるモノでしょうか？
+  LIT: My brother, and this Filgaia I love. Can it be held up by the strength of one person?
+  RE : My brother, and this Filgaia I
+       love. Can one person bear it all?
+
+[US#1580] (Altaecia)
+  JP : 「どうか味方を助けてください / 私には無い、味方と共に[並]ぶ力を持つ / あなた方なら、きっと〜
+  LIT: Please help my brother. You, who have the strength to stand beside him that I lack, surely you can...
+  RE : Please help my brother. You have
+       the strength to stand at his side.
+       Surely...
+# [twin: blk6 #930]
+
+[US#1581] (Altaecia)
+  JP : 「何でもひとりでかかえ込んでしまうのが / 味方の悪いクセなのです
+  LIT: Taking everything on alone is my brother's bad habit.
+  RE : Taking everything on alone is my
+       brother's bad habit.
+
+[US#1582] (Altaecia)
+  JP : 「誰も、ひとりで全てをこなすほどの / 力など持っているはずがありません
+  LIT: No one could possibly have the strength to handle everything alone.
+  RE : No one could possibly handle it
+       all alone.
+
+[US#1583] (Altaecia)
+  JP : 「でも、誰もが / 誰かを助ける力を持っている〜 / そうではありませんか？
+  LIT: But everyone has the strength to help someone. Isn't that so?
+  RE : But everyone has the strength to
+       help someone. Isn't that so?
+
+[US#1584] (Amy / Mee-chan)
+  JP : 「ＡＲＭＳはいつも / みんなで勝利を勝ち取ってきたんだ / 今度もきっとうまくいくよ
+  LIT: ARMS has always won victory with everyone together. It'll surely work out this time too.
+  RE : ARMS has always won together.
+       It'll work out this time too.
+
+[US#1585] (Amy / Mee-chan)
+  JP : 「それでもうまくいかないときは / ＡＲＭＳだけじゃなくて / ファルガイアのみんなでがんばろうッ！
+  LIT: And even if that doesn't work, then not just ARMS, but all of Filgaia can pull together!
+  RE : And if that fails, not just ARMS,
+       but all of Filgaia, let's pull
+       together!
+
+[US#1586] (Amy / Mee-chan, Kuiper Belt report)
+  JP : 「カイバーベルトは滅死の大地〜 / 隣の原野に落辺したものと思われるよ
+  LIT: The Kuiper Belt seems to have crashed onto the neighboring wastes, the Land of Death.
+  RE : The Kuiper Belt crashed in the
+       Land of Death, out on the
+       neighboring wastes.
+
+[US#1587] (Amy / Mee-chan)
+  JP : 「[11]おクアトリーの北側[11]ぉ〜 / ちょうどクアトリーとアークハイムの / 中間地帯かな？
+  LIT: North of Quartly. Just about the midpoint between Quartly and Archheim, maybe?
+  RE : North of Quartly, about halfway
+       between Quartly and Archheim.
+
+[US#1588] (Amy / Mee-chan)
+  JP : 「がんばって、みんなッ！ / ミーちゃんからのお願いだよ
+  LIT: Good luck, everyone! It's a wish from Mee-chan.
+  RE : Good luck, everyone! Mee-chan's
+       counting on you!
+
+[US#1589] (Amy / Mee-chan)
+  JP : 「ミーちゃん / いっしょうけんめい / がんばっているよ〜
+  LIT: Mee-chan is trying her very hardest, you know.
+  RE : Mee-chan's been trying her very
+       hardest, you know.
+
+[US#1590] (Amy / Mee-chan)
+  JP : 「ケイちゃんだって / それなりにね
+  LIT: And Kay-chan, well, in her own way too.
+  RE : And Kay-chan, in her own way too.
+
+[US#1591] (Amy / Mee-chan)
+  JP : 「がんばったみんなが / 暗い探しているなんて / ぜったいおかしいよ
+  LIT: Everyone worked so hard, so it's just wrong for them all to look so gloomy.
+  RE : We all worked so hard. It's wrong
+       for everyone to look so gloomy.
+
+[US#1592] (Amy / Mee-chan, Raypoint report)
+  JP : 「まずは、[11]おタウンメリアから / ずっと北の大きな他[11]ぉ〜 / 魔界鍵の一本と[間]近いポイントに、ひとつ
+  LIT: First, on a big island far north of Town Meria, one is at a point right near a Diablo Pillar.
+  RE : First, a big island far north of
+       Meria, one point right by a Diablo
+       Pillar.
+
+[US#1593] (Amy / Mee-chan)
+  JP : 「更に[11]おシルヴァラントの東方の[海]上[11]ぉ〜 / [未]知高度から空中だと思われるよ
+  LIT: Next, over the sea east of Sylvaland, apparently up in the air at some unknown altitude.
+  RE : Next, over the sea east of
+       Sylvaland, seemingly in mid-air.
+
+[US#1594] (Amy / Mee-chan)
+  JP : 「みっつめは / [11]おダムツェンの先東[11]ぉ〜 / わりとすぐ近くにてポイント確認ッ！
+  LIT: The third is southeast of Damzen. A point confirmed fairly close by!
+  RE : The third one, southeast of
+       Damzen, confirmed fairly close by!
+
+[US#1595] (Amy / Mee-chan)
+  JP : 「最後のレイポイントは〜 / [11]おギルドグラードの先側[11]ぉ / ぐるぐる[巻]きの他から反応アリッ！
+  LIT: The last Raypoint, southeast of Guild Galad. A response from the coiled island!
+  RE : The last Raypoint, southeast of
+       Guild Galad, a signal from the
+       Coil Island!
+
+[US#1596] (Amy / Mee-chan)
+  JP : 「ミーちゃんは / ミーちゃんのできることをがんばったよ / 後は、みんなのがんばりに[期]待してるからね
+  LIT: Mee-chan did her best at what she could do. The rest, I'm counting on everyone's effort.
+  RE : Mee-chan did all she could. The
+       rest, I'm counting on all of you.
+
+[US#1597] (Amy / Mee-chan)
+  JP : 「世界を食べちゃう『世界』って / いったい何だろう〜
+  LIT: A "world" that eats up worlds, whatever could that be?
+  RE : A "world" that devours worlds.
+       Whatever could that be?
+
+[US#1598] (Amy / Mee-chan)
+  JP : 「ドラゴンたちのように / 強い力を持っていても / 『世界』には勝てないんだよね〜
+  LIT: Even with power as strong as the dragons', you can't beat a "world," huh.
+  RE : Even power like the dragons' can't
+       beat a whole "world," huh.
+
+[US#1599] (Amy / Mee-chan)
+  JP : 「〜じゃあ、スレイハイムやオデッサなら / この異世事態を / カイケツできたのかな？
+  LIT: Then, could Slayheim or Odessa have solved this strange-world situation?
+  RE : Could Slayheim or Odessa have
+       solved this crisis, I wonder?
+
+[US#1600] (Amy / Mee-chan)
+  JP : 「空は〜 / ファルガイアは / どうなっちゃうんだろうね
+  LIT: The sky, Filgaia, what's going to become of them?
+  RE : The sky. Filgaia. What's going
+       to become of them?
+
+[US#1601] (Amy / Mee-chan, Raypoint detail)
+  JP : 「まずは、[11]お先側の道[11]ぉにひとつ〜 / ここは、魔の族[の]道標と言われててね / 道の[色]が暗く変[色]している道標なんだよ
+  LIT: First, one to the southeast, said to be a demon-clan waymark, a marker where the road's color has darkened.
+  RE : First, one to the southeast, a
+       demon-clan marker where the road
+       runs dark.
+
+[US#1602] (Amy / Mee-chan)
+  JP : 「更、少本目ッ！ / [11]おギルドグラードの先東[11]ぉ〜 / 谷地にて[放]たれた地標に確認ッ！
+  LIT: And the next one! Southeast of Guild Galad, confirmed at a marker set out in a valley!
+  RE : And the next one! Southeast of
+       Guild Galad, at a marker in a
+       valley!
+
+[US#1603] (Amy / Mee-chan)
+  JP : 「どんどんいくよ、族本目ッ！ / [11]お隠れ里先側の山[間]地[帯][11]ぉより確認ッ！ / 山でエネルギー反応なんてヘンだよね？
+  LIT: On we go, the next one! Confirmed in the mountains southeast of the hidden village! Energy in the mountains, weird, right?
+  RE : On we go, the next! In the
+       mountains southeast of the hidden
+       village. Weird, right?
+
+[US#1604] (Amy / Mee-chan)
+  JP : 「最後の最後、[四]本目ッ！ / [11]おここからずっと北にある大きな他[11]ぉにて確認〜 / でも、陸[路]も道[路]も使えないみたいなんだよ
+  LIT: The very last, the fourth! Confirmed on a big island far north of here, but you can't reach it by land or road.
+  RE : The very last, the fourth! A big
+       island far north, no land route
+       to it though.
+
+[US#1605] (Amy / Mee-chan, re Kate)
+  JP : 「ケイちゃんってさ / 少女まんがオタクなんだよ
+  LIT: You know, Kay-chan is a shoujo-manga geek.
+  RE : You know, Kay-chan's a total
+       shoujo-manga geek.
+
+[US#1606] (Amy / Mee-chan, re Kate)
+  JP : 「いい[年]こいて / まんが進みながら、よく描いてるんだよ / ギコハハハッ！
+  LIT: Grown as she is, she's always drawing while reading her manga. Gee-ha-ha-ha!
+  RE : Grown as she is, always drawing
+       while reading manga. Hee-hee-ha!
+
+[US#1607] (crew member, coast lore)
+  JP : 「街道の[?]の流れが / 海岸に向かっているからね
+  LIT: Because the road's current flows toward the coast.
+  RE : Because the road's current flows
+       toward the coast.
+# [twin: blk6 #934] one word unrecovered in either copy.
+
+[US#1608] (crew member, coast lore)
+  JP : 「『街道の落とし物は海岸で探せ』〜 / 〜って、[何]、何かで聞いた事あるよ
+  LIT: "Search the coast for what the road drops," or something. I've heard that somewhere.
+  RE : "Search the coast for what the
+       road drops." Heard that somewhere.
+
+[US#1609] (crew member, monster-collector)
+  JP : 「でも、レアものの集まりが / もうちょっとかな？
+  LIT: But my collection of rare ones, maybe just a bit more to go?
+  RE : But my collection of rare ones?
+       Maybe just a bit short still.
+
+[US#1610] (crew member)
+  JP : 「限られた地標や / 結単な手段を用いないと / 現われない怪獣もいるからね
+  LIT: Because some monsters won't appear unless you use certain landmarks or simple methods.
+  RE : Some monsters won't appear without
+       certain spots or methods, you see.
+
+[US#1611] (crew member)
+  JP : 「マニアなら / そこらへんも押さえとかなきゃッ！
+  LIT: If you're a real fan, you'd better have that covered too!
+  RE : If you're a real fan, you'd better
+       have that covered too!
+
+[US#1612] (Amy Fairchild, intro)
+  JP : 「話はすれども、[顔]は見えず / ウワサのエイミー・フェアチャイルドとは / ボクのことだよ
+  LIT: You hear the voice but never see the face. That rumored Amy Fairchild is me.
+  RE : You hear the voice, never see the
+       face. That famous Amy Fairchild is
+       me.
+# [twin: blk6 #939]
+
+[US#1613] (Amy Fairchild)
+  JP : 「ミーちゃんって呼んでね☆
+  LIT: Call me Mee-chan, okay? ☆
+  RE : Call me Mee-chan, okay? ☆
+
+[US#1614] (Kate / telepath, ARMS reflection)
+  JP : 「ですが、オデッサ以後に / ふりかかった脅威を[退]けたのは / [公]共の協力体制ではないでしょうか〜
+  LIT: But wasn't it a system of shared cooperation that repelled the threats that fell upon us after Odessa?
+  RE : But it was shared, public
+       cooperation that repelled the
+       threats after Odessa.
+
+[US#1615] (Kate / telepath)
+  JP : 「わたしたちの力だけではありません
+  LIT: It was not by our strength alone.
+  RE : It was not by our strength alone.
+
+[US#1616] (Kate / telepath)
+  JP : 「ファルガイアのみんなが力をあわせれば / より大きな脅威に立ち向かえる〜 / そんな気がしませんか？
+  LIT: If all of Filgaia joins strength, we can face an even greater threat. Don't you feel that?
+  RE : If all Filgaia joins strength, we
+       can face any greater threat. Don't
+       you feel it?
+
+[US#1617] (Kate / telepath)
+  JP : 「結にギルドグラードからの / 情報[提][供]と協力にて / 理の脅威をまぬがれたのですから〜
+  LIT: In the end it was thanks to Guild Galad's information and cooperation that we escaped that threat.
+  RE : In the end, Guild Galad's intel
+       and aid let us escape that threat.
+
+[US#1618] (Kate / telepath)
+  JP : 「わたしたちは / 確実に変わってきています
+  LIT: We are surely changing.
+  RE : We are surely changing for the
+       better.
+
+[US#1619] (Kate / telepath)
+  JP : 「この力で / ファルガイアも変えていければ / いいのですが〜
+  LIT: I only hope we can change Filgaia too with this power.
+  RE : I only hope we can change Filgaia
+       too with this power.
+
+[US#1620] (Kate / telepath)
+  JP : 「オデッサとの戦いは / 前[哨]戦にすぎないと〜
+  LIT: That the fight with Odessa was no more than an opening skirmish...
+  RE : That the fight with Odessa was
+       only an opening skirmish...
+
+[US#1621] (Kate / telepath)
+  JP : 「ＡＲＭＳは / 来るべき世界[広]域の脅威に対して / [結][成]されたのだと〜
+  LIT: That ARMS was formed to face a coming, world-wide threat...
+  RE : That ARMS was formed to meet a
+       coming, world-wide threat...
+
+[US#1622] (Kate / telepath)
+  JP : 「指揮[官]は / この空を、今回の異世事態を / あらかじめ期待していたのでしょうか？
+  LIT: Did the Commander foresee this sky, this strange-world crisis, all along?
+  RE : Did the Commander foresee this
+       sky, this crisis, all along?
+
+[US#1623] (Kate / telepath, Landing Pad report)
+  JP : 「ファルガイアには / 現在４ヶ所の降辺ポイント〜 / 発着魔法陣が確認されています
+  LIT: In Filgaia, four landing points, launch circles, are currently confirmed.
+  RE : Filgaia now has four confirmed
+       landing points, the launch circles.
+
+[US#1624] (Kate / telepath)
+  JP : 「まず、ご存知とは思いますが / タウンメリアと隠れ里の付近〜
+  LIT: First, as you likely know, near Town Meria and the hidden village.
+  RE : First, as you likely know, near
+       Town Meria and the hidden village.
+
+[US#1625] (Kate / telepath)
+  JP : 「そして、レイライン観待[施]設より東の他と / ギルドグラードの先東にも / ひとつずつ発着魔法陣があります
+  LIT: And there's one launch circle each on the island east of the Raline Observatory, and southeast of Guild Galad.
+  RE : And one each, east of the Raline
+       Observatory and southeast of Guild
+       Galad.
+# [twin: blk10 #2430]
+
+[US#1626] (Kate / telepath, re Amy)
+  JP : 「まあ、エイミーは / そんなことくらいにしか / 役に立ちませんが〜
+  LIT: Well, that's about all Amy is any use for, I'm afraid.
+  RE : Well, that's about all Amy's any
+       use for, I'm afraid.
+
+[US#1627] (Kate / telepath, re Commander)
+  JP : 「たしか、指揮[官]も / シエルジェにていろいろなことを / 神んでいたとか〜
+  LIT: If I recall, the Commander too studied many things at Sielje.
+  RE : The Commander, too, studied many
+       things at Sielje, I recall.
+
+[US#1628] (Kate / telepath, re Commander)
+  JP : 「[博][識]なところが / 作戦指揮に[活][用]されているんですね
+  LIT: His broad knowledge is put to use in his tactical command.
+  RE : His broad knowledge is put to use
+       in his tactical command.
+# [twin: blk10 #2433]
+
+[US#1629] (Kate / telepath, re Commander)
+  JP : 「緊急事態に対する決断力と意外性 / そして、先を見[越]した達観力は / 誰よりも[秀]でていると思いませんか？
+  LIT: His decisiveness and unpredictability in a crisis, and his farseeing insight, aren't they more outstanding than anyone's?
+  RE : His decisiveness in a crisis, and
+       his farseeing insight, outdo
+       anyone's, don't they?
+
+[US#1630] (Kate / telepath)
+  JP : 「エイミーとふたり / オペレート[担]当している / テレパスメイジです
+  LIT: Amy and I, the two of us, handle operations. We're telepath mages.
+  RE : Amy and I handle operations, the
+       two of us. We're telepath mages.
+# [twin: blk6 #942]
+
+[US#1631] (Chateau engineer, re Chateau)
+  JP : 「そうかな？ / いいや、そうじゃないさ
+  LIT: Is that so? No, that's not it.
+  RE : Is that so? No, that's not it.
+
+[US#1632] (Chateau engineer)
+  JP : 「ヴァレリアシャトーは / ファルガイアの注目を[集][約]する[象][徴]
+  LIT: Valeria Chateau is a symbol that draws the focus of all Filgaia.
+  RE : Valeria Chateau is a symbol that
+       draws all Filgaia's eyes.
+
+[US#1633] (Chateau engineer)
+  JP : 「[主]は、ファルガイアに生きる僕たち全体〜 / な、そうだろう？
+  LIT: Her master is all of us who live in Filgaia. Right, isn't that so?
+  RE : Her master is all of us who live
+       in Filgaia. Right?
+
+[US#1634] (Chateau engineer, endgame)
+  JP : 「いざとなったら民間人を斬殺して / あるのかわからない安全地[帯]に / 向かう準備をしているのさ
+  LIT: When it comes to it, she's readied to carry civilians off to a safe zone that may or may not exist.
+  RE : When the time comes, she'll bear
+       civilians to a safe zone, if one
+       even exists.
+# [twin: blk10 #2437] (JP 斬殺 garbled; meaning = evacuate to safety)
+
+[US#1635] (Chateau engineer)
+  JP : 「その時、今までのダメージが / いっきに[噴]き出したら / シャレにならないだろう？
+  LIT: If all the damage so far bursts out at once then, it'd be no joke, right?
+  RE : If all that damage bursts out at
+       once then, it'd be no joke, right?
+
+[US#1636] (Chateau engineer)
+  JP : 「可愛いシャトーが悲[鳴]をあげちまうぜ / 出撃もできるだけ[控]えてほしいんだが〜 / そうもいかねぇよな
+  LIT: My darling Chateau would let out a scream. I'd like to hold back the sorties if I could, but that's not how it goes.
+  RE : My darling Chateau would cry out.
+       I'd cut back the sorties if I
+       could, but no such luck.
+
+[US#1637] (Chateau engineer)
+  JP : 「ヴァレリアシャトーを使って / ハデに暴れてやろうぜッ！
+  LIT: Let's take Valeria Chateau and go on a wild rampage!
+  RE : Let's take Valeria Chateau and
+       raise some hell!
