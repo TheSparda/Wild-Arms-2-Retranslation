@@ -103,6 +103,37 @@ big lore cluster is `{8, 9, 11}` (452 shared codes, 98% match; first 40 EN lines
 
 ---
 
+## 4b. Parallel-fleet solving (how to bulk-solve the local tier with many agents)
+
+Proven workflow (one session cleared ~62 blocks, +575 local solves, 25%→30% clean-JP):
+
+1. **Agents are READ-ONLY. Coordinator writes.** Each agent gets ONE block, proposes solves as
+   text with witness snippets, and NEVER touches `block_tables.json` or `wa2_kanji_map.py`. The
+   coordinator re-verifies every proposal against the real decode (substitute the kanji, grep the
+   block, confirm 2 genuinely independent contexts) BEFORE writing. This is non-negotiable: if
+   agents wrote directly they'd race on the shared files and slip guesses past the dual-witness bar.
+   Real errors this caught: duplicate-line "dual witnesses" (one line, not two), single-witness
+   overreach, and a legit dual-glyph (`8a47`&`8a70` both=捨) that looked like a conflict.
+2. **Twin-first ordering is the highest-leverage move.** Solve one representative of a twin cluster
+   (§4) FIRST, then run `twin_merge.py` — it propagates for free. Block 8 → +34 solves in 9/11.
+   Cluster reps worth doing early: 8 (→9,11), 41 (→42,64,87), 96 (→109,115), 73 (→the 9-block set,
+   but that one is mostly non-lexical).
+3. **Bound the agent's INPUT, not just its prompt.** Dense blocks (>400 unsolved occ: 6,7,16,17…)
+   time out if handed the full brief. `kanji_agent_brief.py` caps output for those (top 25 codes,
+   60 rows) — cut brief size ~4× and retries succeeded in minutes. Give each agent that tool +
+   "cap tool calls ~8".
+4. **Concurrency ceiling is a hard 20 subagents.** Keep it saturated by firing a replacement the
+   instant one finishes; excess launches error harmlessly.
+5. **Diminishing returns are steep and legible.** First ~20 blocks average 8–20 solves; the tail is
+   mostly COUNT:0 — and that's CORRECT discipline, not failure (control-byte padding, font tables,
+   verbatim-repeated lines). Stop the fleet once zero-results dominate; don't dispatch obviously
+   sparse blocks. The residue clears during per-scene translation.
+6. **Aligned-EN cross-checks catch GLOBAL mis-solves that okurigana alone misses.** This session,
+   block 15's EN "Defender of Justice" vs decode 新義 exposed `88e9` as 正 not 新 — a ~155-occurrence
+   global error. Periodically audit the global map against EN, not just solve forward.
+
+---
+
 ## 5. Hard rules (don't corrupt the corpus)
 
 1. **A disputed or guessed decode is WORSE than an unsolved `<b:xxxx>`.** When twins disagree on the
@@ -118,9 +149,11 @@ big lore cluster is `{8, 9, 11}` (452 shared codes, 98% match; first 40 EN lines
 
 ## 6. Current status (update as it moves)
 
-- Global map: ~376 solved / ~230 high-value unsolved (+ a low-frequency tail).
-- Block-local: ~1,540 solved across ~58 blocks; ~11,600 (block,code) slots still `<b:xxxx>`.
-- Overall decodability (DB `jp_clean`): **~2,150 / 8,516 boxes (25%)**.
+- Global map: ~388 solved (+ 88e9 corrected 新→正, a ~155-occurrence fix). Low-frequency tail remains.
+- Block-local: **~2,115 solved across ~76 blocks** (after the parallel-fleet run, §4b).
+- Overall decodability (DB `jp_clean`): **~2,572 / 8,516 boxes (30%)**.
 
-The remaining local tier is a long tail (most slots occur once), so it clears fastest *during*
-per-scene translation rather than by bulk solving.
+The remaining local tier is a genuine long tail (most slots occur once, or sit in control-byte /
+font-table / duplicate-line regions that can't be dual-witnessed), so it clears fastest *during*
+per-scene translation rather than by further bulk solving. The parallel fleet has already skimmed
+the dual-witnessable content off every high-value block.
