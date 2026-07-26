@@ -1,0 +1,452 @@
+# WA2 — Raline Observatory (RO) — block 38, US#5651-5733 — DEEP RE
+# =========================================================================================
+# The Liz & Ard scene: the party finds Undines thrashing two lizardmen and rescues them.
+# Liz (the theatrical "scientist") monologues grandly; Ard can only ever say his own name.
+# Liz reveals his Germatron war-monster scheme and his loyalty to Odessa, then the duo flee.
+#   Deep RE from JP where clean; elsewhere polished from the (very stilted) US localization.
+#   Voice: Liz = pompous ham; Ard = one-word straight man; Ashley/Lilka = deadpan party.
+#   Fit <=3 lines x <=35 chars. No em dashes. Name codes preserved verbatim.
+# =========================================================================================
+
+[US#5655] (Liz, offscreen)
+  JP : 「〜いかないのかなぁ？ / わからない〜 / わからないな〜
+  LIT: ...won't it work, I wonder? I don't get it... I really don't get it...
+  EN : Aren't you coming? I don't get it. I just don't get it.
+  RE : Why won't it budge? I don't get it.
+       I just don't get it...
+
+[US#5656] (Liz)
+  LIT: Good grief. What a role I've landed.
+  EN : I've really had it.
+  RE : Good grief. What a role I got stuck
+       with.
+
+[US#5659] (Ashley)
+  LIT: (It can't be...)
+  EN : (It can't be...)
+  RE : (No way. It can't be...)
+
+[US#5660] (Liz)
+  LIT: I can't move a hand, a leg, or a tail. Our lives are in a nosedive.
+  EN : I can't move a hand, leg or tail. Our consciousness and fate are in a nosedive.
+  RE : Can't move a hand, a leg, a tail.
+       Our fate's in a full nosedive.
+
+[US#5661] (Liz)
+  LIT: The energy pouring endlessly from the earth is ideal for peacetime research.
+  EN : The energy that continually spouts from the earth is perfect for an excursion in peacetime.
+  RE : The energy pouring from the earth
+       is perfect for peacetime work.
+
+[US#5662] (Liz)
+  LIT: This is a scientist's ambition! It can't stop until it is fulfilled!
+  EN : This is a scientist's ambition! It can't be stopped until it's fulfilled!
+  RE : This is a scientist's ambition!
+       Nothing stops it till it's done!
+
+[US#5663] (Liz)
+  JP : 「それでは
+  LIT: Well then,
+  EN : And so...
+  RE : And so...
+
+[US#5664] (Liz)
+  JP : 「ここはひとつ / パーティーの戦力アップというのは / どうであろう？
+  LIT: How about this: we boost the party's fighting strength, hm?
+  EN : How about having a party to boost morale?
+  RE : So how about we boost the party's
+       strength, hm?
+
+[US#5665] (Liz)
+  LIT: Joy and sorrow, trading places, will color what comes next.
+  EN : The alternating events of joy and sorrow will taint future developments.
+  RE : Joy and sorrow trading turns will
+       color whatever comes next.
+
+[US#5666] (Liz)
+  LIT: Let's work together at the observatory. Just don't drag me down.
+  EN : Let's work together here at the observatory. Just don't hold us back.
+  RE : Let's work together at the lab.
+       Just don't drag us down.
+
+[US#5667] (Liz)
+  LIT: Not dragging others down is my one talent! I was born for this day.
+  EN : Not holding one back is my one specialty! I was born for this day.
+  RE : Not dragging others down is my one
+       talent! I was born for this day.
+
+[US#5668] (Liz)
+  LIT: Like a shrewd general, let's make for the gate. And after that...
+  EN : As a resourceful general, let's get to the gate. After that...
+  RE : Like a shrewd general, to the gate!
+       And after that...
+
+[US#5669] (Liz)
+  LIT: A vision flashed behind my eyes: me hitting the lever, floating like a butterfly, stinging like a bee.
+  EN : A vision flashed on my lids of me pushing the lever like a bee, and dancing like a butterfly.
+  RE : I saw it: me at the lever, floating
+       like a butterfly, stinging like a
+       bee.
+
+[US#5670] (Liz)
+  LIT: All to win the title of Shooting King. Ha. Ha. Ha.
+  EN : All for wanting the title of Shooting King. Ha. Ha. Ha.
+  RE : All to be crowned Shooting King.
+       Ha. Ha. Ha.
+
+[US#5671] (Liz)
+  LIT: But isn't that the dream of anyone with a gift out of the ordinary?
+  EN : But, isn't that what anyone with unusual characteristics hopes for?
+  RE : But isn't that the dream of anyone
+       born a touch extraordinary?
+
+[US#5672] (Liz)
+  LIT: Just like the selfish hopes a transfer student carries in.
+  EN : It's just like the selfish expectations transfer students harbor.
+  RE : Like the selfish hopes a transfer
+       student carries in on day one.
+
+[US#5673] (Liz)
+  LIT: Even so, the Shooting King keeps no close ties in his past.
+  EN : Be that as it may, the Shooting King's background has no close relationships.
+  RE : Even so, a Shooting King keeps no
+       close ties behind him.
+
+[US#5674] (Liz)
+  LIT: Let's go, Ard! The bond of friendship!
+  EN : Let's go, Ard! The friendship cross.
+  RE : Let's go, Ard! The bond of
+       friendship!
+
+[US#5676] (Liz)
+  LIT: A healthy mind in a healthy body, they say. What a tired old joke.
+  EN : That a healthy spirit comes from a healthy body, is an old joke, indeed.
+  RE : A sound mind in a sound body, they
+       say. What a tired old joke.
+
+[US#5677] (Liz)
+  LIT: It's simple. Just dash through before the wall slams shut.
+  EN : It's easy. Just run through before the wall shuts.
+  RE : Simple. Dash through before the
+       wall slams shut.
+
+[US#5678] (Liz)
+  JP : 「さながら / カモシカのごとくッ！
+  LIT: Just like an antelope!
+  EN : Sounds just like an antelope!
+  RE : Swift as an antelope, no less!
+
+[US#5679] (Lilka)
+  LIT: Oh, forget it. Looks like it's worth a shot, anyway.
+  EN : Oh, never mind. It looks like it's worth trying.
+  RE : Oh, forget it. Looks worth a shot,
+       anyway.
+
+[US#5680] (Liz)
+  LIT: I'll assist you at the risk of my life! Let's go, Samurai!
+  EN : I will assist even at the risk of my life! Let's go, Samurai.
+  RE : I'll help at the risk of my life!
+       Let's go, Samurai!
+
+[US#5681] (Ard)
+  JP : 「げげげ、げげげげ / げーげーげー / げっげげげー げっげっげ
+  LIT: Ge-ge-ge, ge-ge-ge-ge... (Ard can only say his own name)
+  EN : Ar...Ard, Ard...Ard, Ard. Ar...d. Ard, Ard. Ard...Ard, Ard.
+  RE : Ar...Ard, Ard...Ard, Ard. Ar...d.
+       Ard, Ard. Ard...Ard, Ard.
+
+[US#5682] (Ard)
+  LIT: Ard...Ard, Ard. Ard, Ard...Ard...
+  EN : Ard...Ard, Ard. Ard, Ard...Ard, A...rd. Ard, Ard...Ar...d.
+  RE : Ard...Ard, Ard. Ard, Ard...Ard,
+       A...rd. Ard, Ard...Ar...d.
+
+[US#5683] (Lilka)
+  LIT: Your buddy's in a crisis and you're off doing some silly dance prayer?
+  EN : And while your buddy's in a crisis situation, you're doing a silly dance prayer.
+  RE : Your buddy's in a crisis and you're
+       doing a silly dance prayer?
+
+[US#5684] (Liz)
+  LIT: That's no dance prayer. It guarantees results. Very popular in the Agaruta Region.
+  EN : That's not a dance prayer. It does promise satisfaction. It's very popular in the Agaruta Region.
+  RE : It's no mere prayer. It guarantees
+       results. All the rage in Agaruta.
+
+[US#5685] (Liz)
+  LIT: Practically speaking, silencing an intellectual is as good as a death sentence.
+  EN : As a practical problem, isn't not letting an intellectual speak the same as a death sentence?
+  RE : Practically speaking, silencing an
+       intellectual is a death sentence.
+
+[US#5686] (Liz)
+  LIT: After all, there's only the one body.
+  EN : After all, it's just one body.
+  RE : After all, I've only got the one
+       body.
+
+[US#5687] (Liz)
+  JP : 「〜その、注目的に
+  LIT: ...that is, scientifically speaking...
+  EN : Something scientific that's...
+  RE : That is, scientifically speaking...
+
+[US#5688] (Liz)
+  LIT: Everyone's scientific hopes make me strong. Fantasy and reality: a fine line.
+  EN : Everyone's scientific hopes make me strong. There's a fine line between fantasy and reality.
+  RE : Everyone's hopes make me strong.
+       Fantasy and reality: a fine line.
+
+[US#5689] (Lilka)
+  LIT: That's not even clever, let alone scientific.
+  EN : It's not even witty, much less scientific.
+  RE : That's not even clever, let alone
+       scientific.
+
+[US#5690] (Liz)
+  LIT: You won't turn to stone, but from past cases, you might black out!
+  EN : You won't petrify, but judging from previous experiences, you might lose consciousness!
+  RE : You won't turn to stone. But from
+       past cases, you might black out!
+
+[US#5691] (Liz)
+  LIT: You're so late I nearly cracked open the poetry book I keep hidden.
+  EN : You're so late I was just about to lay a hand on this poetry anthology I've kept hidden.
+  RE : You're so late I nearly opened the
+       poetry book I keep hidden away.
+
+[US#5692] (Liz)
+  LIT: Oh my. I wonder why...
+  EN : Wow. I wonder why...
+  RE : Oh my. I wonder why...
+
+[US#5693] (Liz)
+  LIT: Just picturing the switch, the hand, the block cutting it off, makes me shiver.
+  EN : Just imagining the switch and the hand intercepted by the block makes me quiver.
+  RE : Picturing the switch, the reach,
+       the block cutting it off, makes
+       me shiver.
+
+[US#5694] (Liz)
+  LIT: I've just hit on a brilliant idea!
+  EN : I just came up with a brilliant idea!
+  RE : I've just hit on a brilliant idea!
+
+[US#5695] (Liz)
+  LIT: With our graceful tails and a little flexibility, the rest is easy.
+  EN : If we use our graceful tails and stay flexible, the rest is easy.
+  RE : Our graceful tails plus a bit of
+       flexibility, and the rest is easy.
+
+[US#5696] (Liz)
+  LIT: I hate to say it after begging for help, but please, don't make it worse.
+  EN : I hate saying this after asking for help, but please, don't make things worse.
+  RE : Hate to say it after begging for
+       help, but please, don't make it
+       worse.
+
+[US#5698] (Liz)
+  LIT: Calcium before bed absorbs best. No one frets over it like a Lizard.
+  EN : If you take calcium before bed, the absorption is best. No one fusses like Lizard.
+  RE : Calcium before bed absorbs best.
+       Nobody frets over it like a Lizard.
+
+[US#5699] (Ard)
+  JP : 「そんなハズはないだろう
+  LIT: That can't possibly be right.
+  EN : in public like that. There's no need for it.
+  RE : Surely that can't be right...
+
+[US#5700] (Lilka)
+  LIT: Looks like his tail's caught in the switch. So how do we do this?
+  EN : It seems his tail got caught in the switch. How do you propose we proceed?
+  RE : His tail's caught in the switch.
+       So how do we do this?
+
+[US#5701] (Ashley)
+  LIT: (I mean, the guy's lived plenty long already.)
+  EN : (I mean, the guy has lived long enough already.)
+  RE : (I mean, he's lived plenty long
+       already...)
+
+[US#5702] (Ard)
+  JP : 「アンタのムチャクチャに / 俺たちをまきこまないでくれッ！
+  LIT: Don't drag us into your reckless mess!
+  EN : Don't drag us into your crazy plans!
+  RE : Don't drag us into your reckless
+       schemes!
+
+[US#5703] (Ashley)
+  LIT: Let's just hurry and save him.
+  EN : Let's just hurry and save him.
+  RE : Let's just hurry and save him.
+
+[US#5705] (Liz)
+  JP : 「うむ、これぞ良質の / ヒューマンドラマである
+  LIT: Mm, now THIS is a fine human drama.
+  EN : Now this is a top-notch human drama unfolding.
+  RE : Mm. Now THIS is a fine piece of
+       human drama.
+
+[US#5706] (Lilka)
+  LIT: One problem turns into twenty. How do you stir up this much trouble?
+  EN : which turn into 20 problems. How do you manage to stir up so much trouble?
+  RE : One problem becomes twenty. How do
+       you stir up this much trouble?
+
+[US#5707] (Liz)
+  JP : 「それに、名バイプレイヤーってのは / 自分の出番を心得て / なおかつキッチリこなすもんだと思うけど
+  LIT: Besides, a great supporting player knows his cue and nails it every time.
+  EN : Besides, good players anticipate their turn and perform with perfection.
+  RE : Besides, a great supporting player
+       knows his cue and nails it every
+       time.
+
+[US#5708] (Liz)
+  JP : 「〜その、注目的に注目ッ！
+  LIT: ...that is, scientifically, pay attention!
+  EN : Scientifically speaking...
+  RE : That is, scientifically... look
+       sharp!
+
+[US#5709] (Liz)
+  JP : 「注目とくれば / いたし方ありませぬな / 注目者のはしくれとして
+  LIT: When science calls, there's no helping it, as a lowly man of science.
+  EN : Science is unavoidable as a two-bit scientist.
+  RE : When science calls, I can't refuse.
+       Not as a lowly man of science.
+
+[US#5710] (Liz)
+  LIT: Ready for the grand Show of World Wonders to begin?
+  EN : Ready for the opening of the Show of World Wonders?
+  RE : Ready for the Show of World Wonders
+       to begin?
+
+[US#5711] (Liz)
+  LIT: The goal of science is to give people hopes and dreams.
+  EN : The goal of science is to give people hopes and dreams.
+  RE : The goal of science is to give
+       people hope and dreams.
+
+[US#5712] (Lilka)
+  LIT: Strange, isn't it? If there were a pattern, he'd blurt something needless.
+  EN : Isn't it strange? If there was a pattern, wouldn't he say something unnecessary?
+  RE : Strange, no? On cue, he blurts out
+       something completely needless.
+
+[US#5713] (Ard)
+  LIT: ...30...30...30...
+  EN : ...30...30...30...
+  RE : ...30...30...30...
+
+[US#5714] (Liz)
+  LIT: Tell me once and I've got it. No need to live through it myself.
+  EN : I'm someone who only needs to be told to get it. No need to have the experience.
+  RE : Tell me once and I've got it. No
+       need to live it out myself.
+
+[US#5715] (Liz)
+  LIT: On my deathbed I hypnotized myself. |I cannot die now|, and look at me.
+  EN : At my death, I hypnotized myself. |I can't die now| I said, and look at the result.
+  RE : On my deathbed I hypnotized myself.
+       |I cannot die now.| And look at me.
+
+[US#5716] (Liz)
+  LIT: It sure is grand to be alive.
+  EN : It's sure grand to be alive.
+  RE : It's a grand thing to be alive.
+
+[US#5717] (Liz)
+  LIT: Judgement day is right around the corner! You'll get what's coming.
+  EN : Judgement day is just around the corner! You'll get yours then.
+  RE : Judgement day is right around the
+       corner! You'll get yours then.
+
+[US#5718] (Liz)
+  LIT: The mail-order ones can't compare. These are superb, brimming with magic.
+  EN : The mail order ones from magazines don't begin to compare. These are superb, full of magical powers.
+  RE : The mail-order ones can't compare.
+       These are superb, brimming with
+       magic.
+
+[US#5719] (Liz)
+  LIT: That's what I'd do.
+  EN : That's what I'd do.
+  RE : That's what I'd do.
+
+[US#5721] (Liz)
+  LIT: What is it? You don't look pleased. It doesn't suit you.
+  EN : What is it? You don't look pleased. It doesn't suit you.
+  RE : What's the matter? That sour look
+       doesn't suit you.
+
+[US#5722] (Liz)
+  JP : 「決まっておろう / ゲルマトロン渓谷よ / 知らぬ存ぜぬとは言わせんぞ
+  LIT: Isn't it obvious? The Germatron Valley. Don't play dumb with me.
+  EN : Why else would I be here? The Germatron, silly. You can't say you didn't know.
+  RE : Isn't it obvious? Germatron Valley.
+       Don't you dare play dumb with me.
+
+[US#5723] (Liz)
+  LIT: My plan to use the Germatron at the lab is ruined. I'd have made a grand war beast.
+  EN : My plans to use the Germatron at the research lab are ruined. I was to make a grand war monster.
+  RE : My Germatron plan for the lab is
+       ruined. I'd have built a grand war
+       beast.
+
+[US#5724] (Liz)
+  LIT: The trouble began when I brought Undines here to experiment. It went berserk.
+  EN : The problems started when I brought Undines here for an experiment. He started acting wild.
+  RE : It began when I brought Undines
+       here to test it. It went berserk.
+
+[US#5725] (Liz)
+  LIT: You saved me from near death, so I owe you. But the Germatron...
+  EN : You guys saved me from near death, so I owe you, but the Germatron...
+  RE : You saved me from near death, so I
+       owe you. But the Germatron...
+
+[US#5726] (Liz)
+  LIT: Never. Or I'd have dangerous men after me. This is my proof of loyalty to Odessa.
+  EN : Never. Or else I'd be pursued by dangerous men. This is proof of my loyalty to Odessa.
+  RE : Never. I'd have dangerous men after
+       me. This is my proof of loyalty to
+       Odessa.
+
+[US#5728] (Liz)
+  LIT: Oho! Isn't this just like a secret being spilled?
+  EN : Wow! Isn't this like a secret disclosure?
+  RE : Oho! Isn't this just like a secret
+       being spilled?
+
+[US#5729] (Liz)
+  JP : 「人知れず、そっと見せるにはもったいない / そんなスゴイ戦いの仕方 / よもや、こんな場発で使おうとはッ！
+  LIT: Too fine a fighting style to show in secret. And to use it in a spot like this!
+  EN : It's a move too good to waste for when no one's around. But this might not be the time.
+  RE : A fighting style too fine to waste
+       unseen. And to use it here, of all
+       places!
+
+[US#5730] (Liz)
+  LIT: Sorry for the trouble. We'll say adios here, now that it's all a mess.
+  EN : Sorry to have troubled you. We're going to say adios here, now that everything's messed up.
+  RE : Sorry for the trouble. We'll say
+       adios here, now it's all a mess.
+
+[US#5731] (Liz)
+  LIT: But we're not running. Any historian would call this a brave withdrawal.
+  EN : But we're not running away. Any historian would declare this as a brave withdrawal.
+  RE : But we're not fleeing. A historian
+       would call it a brave withdrawal.
+
+[US#5732] (Liz)
+  LIT: Enjoy the rest of your grand adventure.
+  EN : Enjoy the continuation of your grand adventure.
+  RE : Enjoy the rest of your grand
+       adventure.
+
+[US#5733] (Ashley)
+  LIT: They've got so much money it's downright scary.
+  EN : They've got so much money, it's frightening.
+  RE : They've got so much money it's
+       downright scary.

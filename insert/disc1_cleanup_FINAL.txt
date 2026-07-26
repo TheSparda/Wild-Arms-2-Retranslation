@@ -1,0 +1,255 @@
+# WA2 — DISC 1 CLEANUP — the last clean-JP ambient/tutorial slots across Disc 1 blocks
+# =========================================================================================
+# These are the remaining placeholder slots on Disc 1 whose decoded JP is clean and whose EN
+# is real content (not Demo-Version stubs or "Do you want to read it?" prompts). Mostly tier-2
+# tutorial text (Encounter Cancel, Continue system, jump-down, Medium/Custom Command) and
+# ambient NPC fragments. Polished from the US localization, JP-checked. Fit <=3x35, no dashes.
+# Name codes: {0}=Ashley {1}=Brad {2}=Lilka {3}=Marina {5}=Liz {6}=Ard preserved verbatim.
+# "30...30...30" is the game's snore SFX (JP: ぐぉ〜) — left verbatim.
+# =========================================================================================
+
+# ---- block 3 : Town of Meria (ambient + tutorials the FINAL file missed) ----
+
+[US#314] (Delivery kid)
+  EN : I didn't know the Dude had any friends other than me.
+  RE : Didn't know the Dude had friends
+       besides me.
+
+[US#333] (tutorial)
+  EN : Usually it looks like a, but if b appears, you can avoid the fight.
+  RE : Usually you see a, but when b shows
+       up, you can dodge the fight.
+
+[US#334] (tutorial)
+  EN : Once you see b, just press the 3 button before the fight starts.
+  RE : Once b appears, just press the 3
+       button before the fight begins.
+
+[US#336] (tutorial)
+  EN : Usually it looks like a, but if b appears, you can avoid the fight.
+  RE : Usually you see a, but when b shows
+       up, you can dodge the fight.
+
+[US#337] (tutorial)
+  EN : Once you see b, just press the 3 button before the fight starts.
+  RE : Once b appears, just press the 3
+       button before the fight begins.
+
+[US#338] (tutorial)
+  EN : Easy, right? That's the Encounter Cancel feature. Make good use of it.
+  RE : Easy, right? That's Encounter
+       Cancel. Put it to good use.
+
+[US#351] (townswoman)
+  EN : While you're here, would you listen to one complaint?
+  RE : While you're here, mind hearing one
+       little complaint?
+
+[US#353] (townswoman)
+  EN : Get near her, and she corners you and blabs endlessly about it. Where it is, its shape.
+  RE : Get near her and she corners you,
+       going on about the place. Where it
+       is, its shape, all of it.
+
+[US#354] (townswoman)
+  EN : What a bore.
+  RE : What a bore...
+
+[US#360] (sleeping NPC)
+  EN : 30...30...30...
+  RE : Zzz...zzz...zzz...
+
+[US#428] (soldier)
+  EN : I've been assigned to the special squad that is just being formed.
+  RE : I've been assigned to the new
+       special squad they're forming.
+
+[US#432] (Marina)
+  EN : This is a Medium. It supposedly contains the power of a Guardian.
+  RE : This is a Medium. They say it holds
+       the power of a Guardian.
+
+[US#433] (Marina)
+  EN : Before she died, Mom gave this to me as a good luck charm. I want you to have it, 0.
+  RE : Mom gave me this as a charm before
+       she passed. I want you to have it,
+       {0}.
+
+[US#435] (Marina)
+  EN : Each Medium has its own |Custom Command,| a special battle command.
+  RE : Each Medium has its own |Custom
+       Command,| a special battle move.
+
+[US#436] (Marina)
+  EN : The |Custom Command| is added to your battle commands and will come in handy.
+  RE : The |Custom Command| joins your
+       battle menu. It'll come in handy.
+
+[US#445] (townsman)
+  EN : I just can't figure it out.
+  RE : I just can't figure it out.
+
+[US#447] (sleeping NPC)
+  EN : ...30...30...30...
+  RE : ...zzz...zzz...zzz...
+
+[US#453] (townswoman)
+  EN : I'm sorry about yesterday. I'm happy for you. I don't know why I said those things.
+  RE : Sorry about yesterday. I'm happy
+       for you, truly. I don't know why I
+       said those things.
+
+[US#466] (voice)
+  EN : The strangeness you feel inside you...
+  RE : That strangeness you feel inside
+       you...
+
+[US#471] (townsman)
+  EN : My life hasn't changed at all.
+  RE : My life hasn't changed one bit.
+
+# ---- block 23 : Withered Ruins (Continue-system tutorial + Musketeer ambient) ----
+
+[US#5022] (tutorial)
+  EN : *In the |oops| state, you can press the 2 button to go ahead and jump down.
+  RE : *In the |oops| state, press the 2
+       button to jump down.
+
+[US#5023] (tutorial)
+  EN : *You can also jump down by dashing off an edge without the |oops| action.
+  RE : *You can also jump down by dashing
+       off an edge, no |oops| needed.
+
+[US#5032] (Musketeer)
+  EN : There are going to be more and more people like this.
+  RE : There'll be more and more of these
+       types around.
+
+[US#5033] (Musketeer)
+  EN : You'll return to the condition you were in before the battle and get to redo it.
+  RE : You snap back to how you were
+       before the fight and redo it.
+
+[US#5034] (Musketeer)
+  EN : The |Continue| system is convenient but its use is limited.
+  RE : The |Continue| system is handy, but
+       you can't use it forever.
+
+[US#5035] (Musketeer)
+  EN : Each time you hit |Continue| one Gimel Coin is spent.
+  RE : Each |Continue| costs you one Gimel
+       Coin.
+
+[US#5045] (Musketeer)
+  EN : If you fall by mistake, you'll be held up like me.
+  RE : Slip up and fall, and you'll get
+       stuck like me.
+
+[US#5046] (Musketeer)
+  EN : Don't sweat it, though. Take it slow and proceed with caution.
+  RE : Don't sweat it. Take it slow and
+       step with care.
+
+# ---- block 24 : Brad's Intro (jump-down + boss tutorials) ----
+
+[US#5068] (tutorial)
+  EN : *In the |oops| state, you can press the 2 button to go ahead and jump down.
+  RE : *In the |oops| state, press the 2
+       button to jump down.
+
+[US#5069] (tutorial)
+  EN : *You can also jump down by dashing off an edge without the |oops| action.
+  RE : *You can also jump down by dashing
+       off an edge, no |oops| needed.
+
+[US#5078] (tutorial)
+  EN : *Delivering this shock will cause all kinds of things to happen.
+  RE : *Landing this shock can set off all
+       sorts of effects.
+
+[US#5089] (tutorial)
+  EN : *Defeat a Boss character by attacking the Main Body at its name and reducing its HP to 0.
+  RE : *Beat a Boss by hitting the Main
+       Body at its name and dropping its
+       HP to 0.
+
+# ---- block 25 : Lilka's Intro (jump-down tutorial + ambient) ----
+
+[US#5101] (tutorial)
+  EN : *In the |oops| state, you can press the 2 button to go ahead and jump down.
+  RE : *In the |oops| state, press the 2
+       button to jump down.
+
+[US#5102] (tutorial)
+  EN : *You can also jump down by dashing off an edge without the |oops| action.
+  RE : *You can also jump down by dashing
+       off an edge, no |oops| needed.
+
+[US#5110] (sleeping NPC)
+  EN : ...30...30...30...
+  RE : ...zzz...zzz...zzz...
+
+# ---- block 29 : Telepath Tower (Booty Call tutorial) ----
+
+[US#5327] (tutorial)
+  EN : *With the Booty Call, press 1 and you can see all the items in a room.
+  RE : *With Booty Call, press 1 to reveal
+       every item in the room.
+
+# ---- block 31 : Live Reflector (system freeze notice) ----
+
+[US#5404] (system)
+  EN : *To guarantee smooth operation, we'll temporarily freeze the function of the Live Reflector.
+  RE : *To keep things smooth, the Live
+       Reflector is briefly frozen.
+
+# ---- block 32 : Halmetz (trap-scene fragments) ----
+
+[US#5416] (villager)
+  EN : But...
+  RE : But...
+
+[US#5440] (sleeping NPC)
+  EN : ...30...30...30...
+  RE : ...zzz...zzz...zzz...
+
+[US#5445] (villager)
+  EN : You all are...
+  RE : You all are...
+
+[US#5453] (sleeping NPC)
+  EN : (...30...30...30...)
+  RE : (...zzz...zzz...zzz...)
+
+[US#5454] (Ashley)
+  EN : (That conversation has me worried. I wonder if something happened to 2.)
+  RE : (That talk has me worried. Did
+       something happen to {2}?)
+
+# ---- block 63 : Warwing Varukisas / Summit (EMMA motor countdown + Kate) ----
+
+[US#6936] (Kate)
+  EN : Only 330 until the EMMA motor reaches its limit. All indicators are clear!
+  RE : Only 330 left before the EMMA motor
+       maxes out. All indicators clear!
+
+[US#6937] (Kate)
+  EN : What a great job I'm doing! Kate's doing alright, too.
+  RE : I'm doing great! Kate's holding up
+       just fine, too.
+
+[US#6941] (girl)
+  EN : I have that power?
+  RE : I have that kind of power?
+
+[US#6942] (sleeping NPC)
+  EN : ...30...30...30...
+  RE : ...zzz...zzz...zzz...
+
+[US#6945] (girl)
+  EN : Take me there.
+  RE : Please, take me there.
+
+[US#6965] (system)
+  EN : >500 until contact!
+  RE : >500 until contact!

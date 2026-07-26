@@ -94,6 +94,7 @@ SCENES = [
  ('m4_halmetz_FINAL.txt','HM','The Odessa trap','32'),
  ('m_slayheim_backstory_FINAL.txt','SY',"Liberation Army backstory — Vinsfeld's betrayal + the true hero",'18'),
  ('m_caina_taunt_FINAL.txt','LG',"Caina's taunt + hollow victory (Odessa broadcast / Frozen Lake)",'53'),
+ ('m_raline_lizard_FINAL.txt','RO',"Liz & Ard rescue + the Germatron / Odessa reveal (comic scene)",'38'),
 ]
 
 # ---- first-pass registry: auto-generated files (localization reflowed, US#-verified) ----
@@ -227,6 +228,17 @@ def main():
     for fn, areas in FP_AREAS.items():
         p = os.path.join(INS, 'firstpass', fn)
         if os.path.exists(p): ingest(p, 'firstpass', lambda f,u,a=areas: a[0])
+
+    # cross-block cleanup files: one file spanning many blocks; area is looked up per-US by block.
+    blk_area = {}   # block -> primary area (first area that claims it)
+    for f, area, _s, blk in SCENES:
+        for b in str(blk).split(): blk_area.setdefault(int(b), area)
+    for f, codes, blk, _l in FIRSTPASS:
+        blk_area.setdefault(int(blk), codes[0])
+    for fn in ('disc1_cleanup_FINAL.txt',):
+        p = os.path.join(INS, fn)
+        if os.path.exists(p):
+            ingest(p, 'deep', lambda f, u: blk_area.get(offs[u] // UBLK, ''))
 
     rows = []
     for us in range(nslot):
