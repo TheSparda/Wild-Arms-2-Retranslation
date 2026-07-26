@@ -1,5 +1,9 @@
 # Wild Arms 2 — Retranslation Guidance Notes
 
+> **The canonical RE rules now live in [WA2_RE_STYLE_GUIDE.md](WA2_RE_STYLE_GUIDE.md).**
+> This file is kept for background: the documented localization problems and source links.
+> If anything here conflicts with the style guide, the style guide wins.
+
 **Goal:** move the English script closer to the Japanese meaning, and clarify the parts the
 original (rushed) localization made confusing — without over-localizing or going stiffly literal.
 

@@ -1,5 +1,10 @@
 # WA2 Insertion Workspace — README
 
+> **How to WRITE the RE line: see [../WA2_RE_STYLE_GUIDE.md](../WA2_RE_STYLE_GUIDE.md) (canonical).**
+> NOTE: the `blk###.txt` / `NOW:` / `FIT:` workflow below is the OLDER model. We now translate into
+> per-scene `*_FINAL.txt` files (`[US#] / JP / LIT / EN / RE`) ingested by the master DB
+> (`game_script/wa2_db.json` via `build_db.py`). The budget/pointer constraints below still apply.
+
 **This is the primary workspace.** Everything here is oriented to the end goal: **inserting
 retranslated English into the EN (USA) ISO by refilling existing text boxes.** Read
 `../WA2_INSERTION_MODEL.md` first — it defines the hard constraints.
