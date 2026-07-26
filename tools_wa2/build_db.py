@@ -119,6 +119,15 @@ SCENES = [
  ('m_aguel_mine_FINAL.txt','AM',"Aguel Mine Shaft: Aguelite/Germatron crystal lore",'33'),
  ('m_closed_mine_FINAL.txt','CM',"Closed Mine Shaft: Kanon confrontation (Sword Magess blood / the Demon)",'43'),
  ('m_tbok_village_FINAL.txt','TB',"T'Bok Village: Brad wakes; Merrill + the dog; the Vinsfeld/Slayheim reveal",'2'),
+ # ---- Disc-2 story spine (anchored + translated) ----
+ ('m_memory_maze_FINAL.txt','MM',"Memory Maze: Kanon's memory trial + the Argetlahm/Lord Blazer lore",'52'),
+ ('m_millennium_puzzle2_FINAL.txt','MZ',"Millennium Puzzle (2): tuning the Switchblocks to reach the other world",'50'),
+ ('m_lombardia_FINAL.txt','PV',"Palace Village / Lombardia: the Dragon-Dimension refugees + the Wing's test",'54'),
+ ('m_gaia_altar_FINAL.txt','GL',"Grotto of Lourdes / Gaia: the Other World, the |Pillar|, Marina's refusal",'51'),
+ ('m_raypoint_lilka_FINAL.txt','RF',"Raypoint trial (Lilka): magic belongs to anyone",'56'),
+ ('m_raypoint_brad_FINAL.txt','RG',"Raypoint trial (Brad): expose the truth",'57'),
+ ('m_raypoint_pooka_FINAL.txt','SV',"Raypoint trial (Pooka): reveal your reason to fight",'58'),
+ ('m_raypoint_kanon_FINAL.txt','RW',"Raypoint trial (Kanon): shed your confusion; a hero isn't blood",'59'),
 ]
 
 # ---- first-pass registry: auto-generated files (localization reflowed, US#-verified) ----
@@ -145,17 +154,8 @@ FIRSTPASS = [
 # ---- area -> STGEVT block(s), for areas ANCHORED but not yet translated (no insert file).
 # These are real content gaps we've located; add an insert file + move to FIRSTPASS once done. ----
 AREA_BLOCKS_EXTRA = {
- # ---- Disc-2 story spine: anchored by content-reading (build_db block profile, 2026-07-26),
- # not yet translated. Move each to SCENES with an insert file as it gets done. ----
- 'MZ': [50],   # Millennium Puzzle (2) — tuning the Switchblocks to link to the other world
- 'MM': [52],   # Memory Maze — "MAGESS BLOOD / SLEEPING MEMORY", Kanon's memory trial
- 'PV': [54],   # Palace Village / Lombardia arc — the Dragon Dimension refugees ("our world swallowed")
- 'RG': [57],   # Raypoint (earth/Geo gate)
- 'RW': [59],   # Raypoint (wind/Wing gate)
- 'RF': [56],   # Raypoint (sorcery gate)
- 'SV': [58],   # Sleeping Volcano / Raypoint "reason to fight" gate (element TBD — verify when translating)
- 'GL': [51],   # Grotto of Lourdes — Gaia "one giant lifeform / life of stars" panels
- 'SM': [60],   # Sealed Monsters — Ragu-* Guardian-eater lore
+ # (MM/MZ/PV/GL/RF/RG/RW/SV now translated + registered in SCENES above.)
+ 'SM': [60],   # Sealed Monsters — Ragu-* Guardian-eater lore (anchored, not yet translated)
  # NOTE: TZ Trapezohedron, FW Fiery Wreckage, ST Spiral Tower and most OPTIONAL areas (OD/WT/TL/
  # IO/DR/AI/SG/MC/WD/CS/PC/GLo/GZ/FL/PW/MA) have NO dedicated dialogue block — their text is
  # dungeon-navigation panels scattered in shared lore blocks (6-11, 19-22, 60, 65, 74-76) or they

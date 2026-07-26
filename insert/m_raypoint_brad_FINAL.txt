@@ -1,0 +1,41 @@
+# WA2 — Raypoint trial: Brad (RG) — block 57 — DEEP RE
+# =========================================================================================
+# Brad's Raypoint gate: the guardian demands he expose the truth (mostly ability panels here).
+# RE literal-first. 3x35, no dashes. {1}=Brad.
+# =========================================================================================
+
+[US#6702] (Liz)
+  EN : I better let them know that something fancier would be more appropriate to my tastes.
+  RE : I should tell them something
+       grander would better suit my...
+
+[US#6705] (panel)
+  EN : *By pressing the 1 button, an earthquake will erupt in the room, shocking the foundation.
+  RE : *Press 1 to set off an earthquake
+       in the room, stunning the enemy.
+
+[US#6706] (panel)
+  EN : *It'll destroy all at once every wooden box and cracked wall in the room.
+  RE : *It shatters every wooden box and
+       cracked wall in the room at once.
+
+[US#6707] (panel)
+  EN : *It'll achieve a Satellite-ground beam attack for an attack on the enemy group.
+  RE : *It delivers a Satellite
+       ground-beam strike on the enemy
+       group.
+
+[US#6709] (ally)
+  JP : 「[05]およ〜
+  EN : Hey, 1.
+  RE : Hey, {1}.
+
+[US#6710] (Raypoint)
+  EN : If you want to liberate the Raypoint I control, you must expose the truth.
+  RE : If you would free the Raypoint I
+       hold, you must expose the truth.
+
+[US#6711] (panel)
+  EN : *The runaway Heavy ARM will deliver an attack on the enemy 3 times the normal force.
+  RE : *The runaway Heavy ARM hits the
+       enemy for triple the normal damage.

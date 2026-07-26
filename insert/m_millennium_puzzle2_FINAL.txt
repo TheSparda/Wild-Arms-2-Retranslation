@@ -1,0 +1,54 @@
+# WA2 — Millennium Puzzle (2) (MZ) — block 50 — DEEP RE
+# =========================================================================================
+# Tuning the Puzzle's Switchblocks to open a link to the other world; Lilka steels herself to
+# trust her magic under the time limit before the space destabilizes.
+#   RE = literal where JP is clean, else the localization tidied to fit. 3x35, no dashes.
+#   {0}=Ashley preserved.
+# =========================================================================================
+
+[US#6348] (party)
+  JP : 「[05]ぉのサルベージポイントまで / およそ、１５００ｍｐｚ〜
+  EN : It's about 1500 mpz to 0's Salvage Point.
+  RE : It's about 1500 mpz to {0}'s
+       Salvage Point.
+
+[US#6349] (party)
+  EN : If all five Switchblocks respond, you can tune the coordinates.
+  RE : If all five Switchblocks respond,
+       you can tune the coordinates.
+
+[US#6350] (party)
+  JP : 「あとは、異なる世界をリンクさせるために / 大きなスイッチブロック〜 / ビッグジェネレイターを起動させれば〜
+  EN : To link to the other world, start the large Switchblock, the big generator.
+  RE : To link to the other world, start
+       the large Switchblock, the big
+       generator.
+
+[US#6351] (party)
+  EN : Once you're done tuning, the Puzzle's space will lose its structure and become unstable.
+  RE : Once tuned, the Puzzle's space
+       loses its structure and turns
+       unstable.
+
+[US#6352] (party)
+  JP : 「だから、ジェネレイター起動のチャンスは / あまり多くは無いのよ / おそらく年分、ううん年左右かな〜
+  EN : That's why there are only a few chances to start the generator. A few minutes? A few seconds.
+  RE : So there are only a few chances to
+       start the generator. A few minutes?
+       A few seconds.
+
+[US#6353] (Lilka)
+  JP : 「全部、わたしにかかっているんだよね〜 / わたしがしっかりしなくちゃ / わたしの、魔法を信じなくちゃッ！
+  EN : Everything's up to me. I've got to get it together. I must trust my magic powers.
+  RE : It's all on me. I have to focus. I
+       must trust my magic.
+
+[US#6359] (Lilka)
+  JP : 「これじゃ / あの時と同じだよ〜
+  EN : It's just like that other time.
+  RE : It's just like that other time.
+
+[US#6360] (Lilka)
+  JP : 「うん、ありがとう〜 / へいき、へっちゃらだよ〜
+  EN : Hey, thanks. I'm fine. It's easy.
+  RE : Hey, thanks. I'm fine. It's easy.

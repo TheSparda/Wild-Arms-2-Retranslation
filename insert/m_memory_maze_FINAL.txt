@@ -1,0 +1,312 @@
+# WA2 — Memory Maze (MM) — block 52 — DEEP RE
+# =========================================================================================
+# The Sleeping-Memory trial for those of <Sword Magess> blood. Kanon's backstory (the fallen
+# Bernadette line; giving up her body to become a |hero|) frames a deep lore dump on the
+# Argetlahm, Lord Blazer, and how the Magess sealed the Demon behind the event horizon at the
+# cost of her life. Ties directly to Ashley carrying Lord Blazer within him.
+#   RE = literal where JP is clean, else the localization tidied to fit. 3x35, no dashes.
+#   NOTE: '6' in these panels renders the <Sword Magess> (Anastasia), not Ard — historical
+#   narration; rendered as 'the Magess' in RE. {0}=Ashley preserved.
+# =========================================================================================
+
+[US#6415] (panel)
+  EN : *Press 1 to use the Rad Blades to erase any damage you receive from the ground and allow rapid motion.
+  RE : *Press 1 for the Rad Blades to
+       cancel ground damage and dash fast.
+
+[US#6416] (panel)
+  EN : *Once used, you cannot change direction or stop until you've made contact with something.
+  RE : *Once used, you can't turn or stop
+       until you hit something.
+
+[US#6418] (inscription)
+  EN : >WELCOME, YOU WITH MAGESS BLOOD. THIS IS WHERE YOUR SLEEPING MEMORY WILL WAKE.
+  RE : >WELCOME, YOU OF MAGESS BLOOD. HERE
+       YOUR SLEEPING MEMORY WILL WAKE.
+
+[US#6420] (inscription)
+  EN : >ENTRY BEYOND THIS POINT IS PROHIBITED.
+  RE : >ENTRY BEYOND THIS POINT IS
+       PROHIBITED.
+
+[US#6421] (Kanon)
+  EN : At my house... Hm.... There's no place for me.
+  RE : At my house... hm. There's no place
+       for me.
+
+[US#6422] (Kanon)
+  EN : It'll be fine.
+  RE : It'll be fine.
+
+[US#6423] (Kanon)
+  EN : Regardless of the kind of life you're living, we have the blood of the <Sword Magess>.
+  RE : Whatever life you lead, the <Sword
+       Magess> blood is in us.
+
+[US#6424] (Kanon)
+  EN : Descended from the <Sword Magess> and related to the Valerias, the Bernadettes are having hard times.
+  RE : Kin to the Valerias, descended from
+       the Magess, the Bernadettes have
+       fallen on hard times.
+
+[US#6425] (Kanon)
+  EN : If I can provide proof of the blood in me, I can live the life of nobility.
+  RE : Prove the blood in me, and I can
+       live a noble's life.
+
+[US#6427] (Kanon)
+  EN : If I have the blood of the <Sword Magess> in me, then awaken that |memory.|
+  RE : If the <Sword Magess> blood is in
+       me, then wake that |memory.|
+
+[US#6428] (Kanon)
+  EN : I will awaken memories regarding Lord Blazer.
+  RE : I will wake the memories of Lord
+       Blazer.
+
+[US#6429] (Kanon)
+  EN : Be careful you don't get killed by me then.
+  RE : Take care I don't kill you when I
+       do.
+
+[US#6430] (Kanon)
+  EN : They were killed. They were killed, right? And I survived.
+  RE : They were killed. They were,
+       weren't they? And I survived.
+
+[US#6431] (Kanon)
+  EN : If I exorcise the monsters, I can become a |hero.|
+  RE : If I exorcise the monsters, I can
+       become a |hero.|
+
+[US#6432] (Kanon)
+  EN : I can become a |hero,| fitting to the blood of the <Sword Magess> flowing in me.
+  RE : A |hero| worthy of the <Sword
+       Magess> blood that flows in me.
+
+[US#6433] (Kanon)
+  JP : 「身体のあちこちも動かない〜 / いいや〜 / 義手や義足で何とかなる
+  EN : Parts of my body won't move. But...I can manage with an artificial arm and leg.
+  RE : Parts of my body won't move. But I
+       can manage with an artificial arm
+       and leg.
+
+[US#6434] (Kanon)
+  EN : I got it. I'll get reborn into a body that knows no pain.
+  RE : I understand. I'll be reborn in a
+       body that knows no pain.
+
+[US#6435] (Kanon)
+  EN : My body and my name... I will throw away my old self.
+  RE : My body, my name... I cast off my
+       old self.
+
+[US#6436] (Kanon)
+  EN : This is me. I won't deny it. It's a fact.
+  RE : This is me. I won't deny it. It's a
+       fact.
+
+[US#6437] (Kanon)
+  EN : But! The <Sword Magess> blood in my body is a fact too.
+  RE : But! The <Sword Magess> blood in me
+       is a fact too.
+
+[US#6438] (Kanon)
+  EN : No problem.
+  RE : No problem.
+
+[US#6439] (Ashley)
+  EN : It's been awakened in me, the memory of the <Sword Magess>.
+  RE : It has woken in me, the memory of
+       the <Sword Magess.>
+
+[US#6440] (memory)
+  JP : [13]坦女の手にしたガーディアンブレード / [13]『アガートラーム』についてであった〜
+  EN : ...were of the Guardian Blade, the |Argetlahm| in the hands of the goddess.
+  RE : ...concerned the Guardian Blade,
+       the |Argetlahm,| in the goddess's
+       hands.
+
+[US#6441] (memory)
+  EN : From the |Future| rulers, the Guardian's body was born the sword, the Argetlahm.
+  RE : From the |Future| rulers, from a
+       Guardian's body, the sword
+       Argetlahm was born.
+
+[US#6442] (memory)
+  EN : The sword is a type of spirit response weapon that changes the user's will to battle strength.
+  RE : The sword is a spirit-response
+       weapon that turns the user's will
+       into fighting strength.
+
+[US#6443] (memory)
+  EN : The oppressive power consumes the user's spirit, so one with a strong spirit is chosen.
+  RE : Its crushing power consumes the
+       wielder's spirit, so one of strong
+       spirit is chosen.
+
+[US#6444] (memory)
+  EN : 6 plied the Guardian Blade, Argetlahm, with the strongest of human wills, |desire.|
+  RE : The Magess wielded the Argetlahm
+       with the strongest of human wills:
+       |desire.|
+
+[US#6449] (Ashley)
+  JP : 「心配かけたな
+  EN : Sorry to have worried you.
+  RE : Sorry to have worried you.
+
+[US#6454] (memory)
+  EN : ...was about the far distant past when Filgaia was burned by the Blaze of Disaster, |Lord Blazer.|
+  RE : ...the far distant past, when
+       Filgaia burned in the Blaze of
+       Disaster, |Lord Blazer.|
+
+[US#6455] (memory)
+  EN : The Demon, Lord Blazer who plies the scorching hell fire by thought, takes in all the wrath, sorrow and negative feelings of peopl
+  RE : Lord Blazer wields hellfire by
+       thought, feeding on human wrath and
+       sorrow, swelling into a curse.
+
+[US#6456] (memory)
+  EN : Each time the hell fire is waved, 100 wraths, and 1000 sorrows are born surpassing a new threshold.
+  RE : Each time the hellfire sweeps, a
+       hundred wraths and a thousand
+       sorrows are born anew.
+
+[US#6457] (memory)
+  EN : Those possessing flesh and blood, consume flesh and blood to come into being. Those who consume emotions, in other words, |hearts,
+  RE : Things of flesh consume flesh to
+       form. Things of emotion, of
+       |heart,| take shape the same way.
+
+[US#6458] (memory)
+  EN : They destroy beings of similar substance.
+  RE : They destroy beings of like
+       substance.
+[US#6459] (memory)
+  EN : Physical forms taken by spirits and forms of similar substance also need to be cut by the |Spirit's Blade.|
+  RE : Spirit-forms and their like can
+       only be cut by the |Spirit's
+       Blade.|
+
+[US#6460] (memory)
+  EN : The |Argetlahm| could destroy Lord Blazer because both were beings of similar substance.
+  RE : Argetlahm could destroy Lord Blazer
+       because both were of like
+       substance.
+
+[US#6461] (memory)
+  EN : Concealed in you and controlled by you is Lord Blazer.
+  RE : Hidden in you, held in check by
+       you, is Lord Blazer.
+
+[US#6462] (memory)
+  EN : By living with Lord Blazer you were able to take on the Argetlahm which was all...
+  RE : By living with Lord Blazer, you
+       could take up the Argetlahm at
+       all...
+
+[US#6463] (memory)
+  EN : ...dependent on your spirit, in other words, |heart.|
+  RE : ...it all rests on your spirit, in
+       other words, your |heart.|
+
+[US#6464] (Ashley)
+  JP : 「実信がわかないな / どこか、ハッキリしない〜 / 頼りない信信だ
+  EN : I can't feel it. It's not at all clear. It's only a vague sensation.
+  RE : I can't feel it. Nothing's clear.
+       Just a faint, unreliable sense.
+
+[US#6465] (memory)
+  EN : But the equilibrium could collapse anytime and lapse into an uncontrollable situation.
+  RE : But the balance could break any
+       time, and slip beyond control.
+
+[US#6466] (memory)
+  EN : The power to save the world and the power to destroy the world...
+  RE : The power to save the world, and
+       the power to destroy it...
+
+[US#6467] (memory)
+  EN : Either way, you're on a tightrope between two overwhelming powers.
+  RE : Either way, you walk a tightrope
+       between two overwhelming powers.
+
+[US#6468] (memory)
+  JP : 「この事を忘れるな〜
+  EN : Don't ever forget this.
+  RE : Never forget this.
+
+[US#6469] (Kanon)
+  EN : The suspicions have finally been cleared.
+  RE : The doubts are finally cleared.
+
+[US#6470] (Kanon)
+  EN : I'm now confident that the blood of the <Sword Magess> flows within me.
+  RE : I'm certain now: the <Sword Magess>
+       blood flows within me.
+
+[US#6471] (Kanon)
+  EN : Please, a little more... I'd rid this body, if I could die a |hero.|
+  RE : Please, a little more... I'd give
+       up this body to die a |hero.|
+
+[US#6472] (memory)
+  EN : ...are of the Blaze of Disaster, Lord Blazer, who will burn the world.
+  RE : ...are of the Blaze of Disaster,
+       Lord Blazer, who will burn the
+       world.
+
+[US#6473] (memory)
+  EN : The reason 6 couldn't completely destroy Lord Blazer, ironically, is due to the |humans| from the world one was to protect.
+  RE : Ironically, what kept the Magess
+       from destroying Lord Blazer was the
+       |humans| she meant to protect.
+
+[US#6474] (memory)
+  EN : Negative feelings will end the world of humans.
+  RE : Negative feelings will end the
+       world of humans.
+
+[US#6475] (memory)
+  EN : No matter how much 6 brandished the power of his spirit, with only one person's |heart,| in the face of Lord Blazer's rebirth, it 
+  RE : However much the Magess wielded her
+       spirit, one person's |heart| alone
+       was wasted against his rebirth.
+
+[US#6476] (memory)
+  EN : As a last resort, 6, in exchange for her life, trapped Lord Blazer behind the event horizon to protect Filgaia.
+  RE : As a last resort, she gave her life
+       to trap Lord Blazer behind the
+       event horizon and save Filgaia.
+
+[US#6477] (memory)
+  EN : But, as long as negative feelings continue, the chains that bind could be released and Lord Blazer could revive, leading to a futu
+  RE : But while negative feelings
+       persist, the chains may loosen and
+       he may revive.
+
+[US#6479] (memory)
+  EN : Fleeing from the event horizon and hiding in your body was his first step toward resurrection.
+  RE : Fleeing the event horizon to hide
+       in your body was his first step to
+       revival.
+
+[US#6480] (Ashley)
+  EN : Something snapped violently inside me... If that's it...
+  RE : Something snapped hard inside me...
+       if that's it...
+
+[US#6481] (Ashley)
+  EN : I wonder what it is? I'm worried.
+  RE : I wonder what it is? It worries me.
+
+[US#6482] (Ashley)
+  EN : We need to check every nook and cranny of the ruins.
+  RE : We should check every nook and
+       cranny of the ruins.
+
+[US#6483] (Ashley)
+  EN : I can't leave the ruins yet!
+  RE : I can't leave the ruins yet!

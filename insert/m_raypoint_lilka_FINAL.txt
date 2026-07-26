@@ -1,0 +1,103 @@
+# WA2 — Raypoint trial: Lilka (RF) — block 56 — DEEP RE
+# =========================================================================================
+# Lilka's Raypoint gate. The guardian demands supreme sorcery with no mistakes; Lilka panics,
+# then remembers her strength isn't Crest Sorcery but that magic belongs to anyone and never
+# gives up. RE literal-first. 3x35, no dashes. {2}=Lilka.
+# =========================================================================================
+
+[US#6664] (panel)
+  EN : *Press the 1 button for the Change Rod to shoot Magic Bullets ahead.
+  RE : *Press 1 for the Change Rod to fire
+       Magic Bullets ahead.
+
+[US#6665] (panel)
+  EN : *Hitting a large Gem with a Magic Bullet turns it into a Gem Block. Hit again, it will return to a Gem.
+  RE : *A Magic Bullet turns a large Gem
+       into a Gem Block. Hit it again
+       to...
+
+[US#6674] (Lilka)
+  JP : 「[05]かよ〜
+  EN : 2...
+  RE : {2}...
+
+[US#6675] (Raypoint)
+  EN : If you want to liberate the Raypoint I control, show me your powers.
+  RE : If you would free the Raypoint I
+       hold, show me your power.
+
+[US#6676] (Raypoint)
+  EN : Understand that only those with supreme sorcery will be able to liberate the Raypoint.
+  RE : Know that only one of supreme
+       sorcery can free the Raypoint.
+
+[US#6677] (Raypoint)
+  EN : If my sorcery is not fully developed, then the release of the Raypoint is...
+  RE : If your sorcery is unripe, then the
+       Raypoint's release is...
+
+[US#6678] (Raypoint)
+  EN : Furthermore, if you fail once the Raypoint cannot be liberated for all of eternity.
+  RE : And fail once, and the Raypoint can
+       never be freed, for all eternity.
+
+[US#6679] (Lilka)
+  EN : So you're saying I can make no mistake?
+  RE : So I can't make a single mistake?
+
+[US#6680] (Lilka)
+  JP : 「〜〜できないよ〜〜
+  EN : I can't do this!
+  RE : I can't do this!
+
+[US#6681] (Lilka)
+  EN : I know I'm going to blow it again. I'm not good at this like my sister. It's so impossible!
+  RE : I know I'll botch it again. I'm not
+       gifted like my sister. It's
+       hopeless.
+
+[US#6682] (Lilka)
+  EN : Everyone, I'm so sorry. I lost my confidence. It's not like me at all.
+  RE : Everyone, I'm sorry. I lost my
+       nerve. It isn't like me at all.
+
+[US#6684] (Lilka)
+  EN : Something I can do. Something only I can do... and that's my magic.
+  RE : Something I can do. Something only
+       I can do... and that's my magic.
+
+[US#6685] (Lilka)
+  JP : 「クレストソーサーじゃなかった / そうよ、わかっていたはずなのに / いつのまにか、忘れていたの
+  EN : I'm not a Crest Sorceress. I knew that, but forgot somewhere along the way.
+  RE : I'm no Crest Sorceress. I knew
+       that, but somewhere I forgot it.
+
+[US#6686] (Lilka)
+  EN : I forgot that magic can be used by anyone and can do almost anything.
+  RE : I forgot that magic can be used by
+       anyone, and can do almost anything.
+
+[US#6687] (Lilka)
+  EN : Even when I stumble and make mistakes, my magic doesn't surrender.
+  RE : Even when I stumble and fail, my
+       magic never gives up.
+
+[US#6689] (Lilka)
+  EN : I love Filgaia. I love everyone! Everyone!
+  RE : I love Filgaia. I love everyone!
+       Everyone!
+
+[US#6690] (Lilka)
+  EN : Don't turn away from me.
+  RE : Don't turn away from me.
+
+[US#6691] (panel)
+  EN : *The magic will be concentrated and activate two Crest Sorcery commands consecutively.
+  RE : *The magic concentrates and fires
+       two Crest Sorcery commands in a
+       row.
+
+[US#6692] (Liz)
+  EN : I better let them know that something fancier would be more appropriate to my tastes.
+  RE : I should tell them something
+       grander would better suit my...

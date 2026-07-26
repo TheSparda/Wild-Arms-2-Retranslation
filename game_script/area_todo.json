@@ -177,6 +177,70 @@
   "todo": 4,
   "todo_clean": 2
  },
+ "MM": {
+  "blocks": [
+   52
+  ],
+  "done": 57,
+  "todo": 1,
+  "todo_clean": 1
+ },
+ "MZ": {
+  "blocks": [
+   50
+  ],
+  "done": 8,
+  "todo": 3,
+  "todo_clean": 0
+ },
+ "PV": {
+  "blocks": [
+   54
+  ],
+  "done": 17,
+  "todo": 1,
+  "todo_clean": 0
+ },
+ "GL": {
+  "blocks": [
+   51
+  ],
+  "done": 39,
+  "todo": 1,
+  "todo_clean": 1
+ },
+ "RF": {
+  "blocks": [
+   56
+  ],
+  "done": 19,
+  "todo": 1,
+  "todo_clean": 1
+ },
+ "RG": {
+  "blocks": [
+   57
+  ],
+  "done": 7,
+  "todo": 1,
+  "todo_clean": 1
+ },
+ "SV": {
+  "blocks": [
+   58
+  ],
+  "done": 14,
+  "todo": 5,
+  "todo_clean": 4
+ },
+ "RW": {
+  "blocks": [
+   59
+  ],
+  "done": 20,
+  "todo": 1,
+  "todo_clean": 1
+ },
  "IP": {
   "blocks": [
    27
@@ -366,70 +430,6 @@
   "done": 111,
   "todo": 1,
   "todo_clean": 1
- },
- "MZ": {
-  "blocks": [
-   50
-  ],
-  "done": 0,
-  "todo": 11,
-  "todo_clean": 6
- },
- "MM": {
-  "blocks": [
-   52
-  ],
-  "done": 0,
-  "todo": 58,
-  "todo_clean": 6
- },
- "PV": {
-  "blocks": [
-   54
-  ],
-  "done": 0,
-  "todo": 18,
-  "todo_clean": 2
- },
- "RG": {
-  "blocks": [
-   57
-  ],
-  "done": 0,
-  "todo": 8,
-  "todo_clean": 2
- },
- "RW": {
-  "blocks": [
-   59
-  ],
-  "done": 0,
-  "todo": 21,
-  "todo_clean": 2
- },
- "RF": {
-  "blocks": [
-   56
-  ],
-  "done": 0,
-  "todo": 20,
-  "todo_clean": 4
- },
- "SV": {
-  "blocks": [
-   58
-  ],
-  "done": 0,
-  "todo": 19,
-  "todo_clean": 7
- },
- "GL": {
-  "blocks": [
-   51
-  ],
-  "done": 0,
-  "todo": 40,
-  "todo_clean": 9
  },
  "SM": {
   "blocks": [

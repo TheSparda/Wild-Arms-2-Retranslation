@@ -1,0 +1,95 @@
+# WA2 — Palace Village / Lombardia (PV) — block 54 — DEEP RE
+# =========================================================================================
+# The party seeks Lombardia, the legendary Wing of Heaven. The Dragon-Dimension refugees
+# explain their universe was devoured by the |encroachment|; Lombardia disdains humans as a
+# lower lifeform but agrees to test them, lending its wings if it sees a glimmer of possibility.
+#   RE = literal where JP is clean, else the localization tidied to fit. 3x35, no dashes.
+# =========================================================================================
+
+[US#6540] (panel)
+  EN : *It's a portable missile launcher for attacking a single enemy.
+  RE : *A portable missile launcher for
+       striking a single enemy.
+
+[US#6541] (Lombardia)
+  EN : This is no place for inferior beings like you.
+  RE : This is no place for inferior
+       beings like you.
+
+[US#6544] (Lombardia)
+  EN : Of course, it appears there are a few non-humans among you as well.
+  RE : Though it seems a few non-humans
+       stand among you as well.
+
+[US#6545] (refugee)
+  EN : Lombardia! Filgaia is currently being...
+  RE : Lombardia! Filgaia is even now
+       being consumed...
+
+[US#6546] (refugee)
+  EN : It's the same as when the Dragon Dimension we lived in was consumed.
+  RE : It's the same as when the Dragon
+       Dimension we lived in was devoured.
+
+[US#6547] (refugee)
+  EN : Our homeland was originally a different |universe.|
+  RE : Our homeland was once a different
+       |universe.|
+
+[US#6548] (refugee)
+  EN : But our world was swallowed in a wave of consumption and many were lost forever.
+  RE : But our world was swallowed by a
+       wave of consumption, and many were
+       lost forever.
+
+[US#6549] (refugee)
+  EN : The few who were able to change dimensions arrived but couldn't adapt, and simply rotted away.
+  RE : The few who crossed dimensions here
+       couldn't adapt, and simply withered
+       away.
+
+[US#6550] (refugee)
+  EN : We are fighting to stop the encroachment on this universe.
+  RE : We fight to halt the encroachment
+       on this universe.
+
+[US#6551] (Lombardia)
+  EN : ...much less human beings, a lower lifeform.
+  RE : ...let alone humans, a lower
+       lifeform.
+
+[US#6552] (refugee)
+  JP : 「そうだよね？
+  EN : Right?
+  RE : Right?
+
+[US#6553] (refugee)
+  EN : We want your help, Lombardia!
+  RE : We ask for your help, Lombardia!
+
+[US#6554] (Lombardia)
+  EN : I want to witness with my own eyes the power of humans struggling to overcome the odds.
+  RE : I would see with my own eyes the
+       power of humans who struggle
+       against the odds.
+
+[US#6555] (Lombardia)
+  EN : If I see a glimmer of possibility, a light, in your strength, you may use my wings as you wish.
+  RE : Show me a glimmer of possibility,
+       and you may use my wings as you
+       wish.
+
+[US#6556] (Lombardia)
+  EN : I am Lombardia. No matter what powers you display, they'll never reach me.
+  RE : I am Lombardia. Whatever power you
+       show, it will never reach me.
+
+[US#6557] (Lilka)
+  JP : 「なのに、なぜなのだッ！
+  EN : But why? Why?
+  RE : But why? Why?
+
+[US#6558] (Lilka)
+  EN : If I gave up so easily, Sis would laugh at me.
+  RE : If I gave up so easily, Sis would
+       laugh at me.
