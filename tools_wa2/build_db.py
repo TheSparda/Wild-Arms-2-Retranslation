@@ -95,6 +95,11 @@ SCENES = [
  ('m_slayheim_backstory_FINAL.txt','SY',"Liberation Army backstory — Vinsfeld's betrayal + the true hero",'18'),
  ('m_caina_taunt_FINAL.txt','LG',"Caina's taunt + hollow victory (Odessa broadcast / Frozen Lake)",'53'),
  ('m_raline_lizard_FINAL.txt','RO',"Liz & Ard rescue + the Germatron / Odessa reveal (comic scene)",'38'),
+ # ---- Disc 2 endgame spine (STGEVT is one whole-game file, byte-identical on both discs) ----
+ ('m_swordmagess_truth_FINAL.txt','GGa',"The Sword Magess Anastasia's truth: desire, Lucied, Lord Blazer",'92'),
+ ('m_vinsfeld_farewell_FINAL.txt','GGa',"Vinsfeld's farewell blow (|Heroes| don't die) boss taunt",'91'),
+ ('m_lordblazer_credo_FINAL.txt','GGa',"Lord Blazer's mockery + the party's 'we don't need a hero' credo",'113'),
+ ('m_final_heroes_prayer_FINAL.txt','GGa',"Before the Final Battle: the |heroes| prayer (come back safely)",'111'),
 ]
 
 # ---- first-pass registry: auto-generated files (localization reflowed, US#-verified) ----

@@ -1,0 +1,257 @@
+# WA2 — Lord Blazer's Mockery & the Party's Credo — block 113 — DEEP RE
+# =========================================================================================
+# The thematic climax. Lord Blazer (the Blazing Demon, now cast out of Ashley's body) gloats:
+# he fed on the negativity of the party's battles; Argetlahm belongs only to the "Hero of the
+# Sword," and this is an era with no heroes. The party answers with the game's core message:
+# we don't NEED a hero. Not an era without heroes, but one that doesn't need them, because if
+# everyone's hearts unite, anyone can be the hero, and the world is protected by all life,
+# not one sacrifice. Ends with the Young ARMS' cheerful send-off.
+#   Deep RE, EN-anchored. Fit <=3x35, no em dashes. {0}=Ashley {1}=Brad preserved.
+# =========================================================================================
+
+[US#8163] (Lord Blazer)
+  EN : You ask who I am? That's harsh after we've been together for so long and even fought, too.
+  RE : You ask who I am? Cruel, after all
+       our time together, our battles.
+
+[US#8164] (Lord Blazer)
+  EN : I owe you my thanks.
+  RE : I owe you my thanks.
+
+[US#8165] (Lord Blazer)
+  EN : It was my good fortune to live inside your body after being trapped behind the Event Horizon.
+  RE : What luck, to lodge in your body
+       after being sealed behind the Event
+       Horizon.
+
+[US#8166] (Lord Blazer)
+  EN : The negative feelings that grew inside you during battles are now the food that sustains me.
+  RE : The dark feelings your battles bred
+       are the very food that sustains me.
+
+[US#8167] (Lord Blazer)
+  EN : Swirling inside all humans are the most unsightly and strong energy forces.
+  RE : Within every human swirls the
+       ugliest, strongest energy of all.
+
+[US#8168] (Lord Blazer)
+  EN : In your battles you've seen the true nature of people and it's that negativity that I feed on.
+  RE : Your battles bared people's true
+       nature. On that dark I feed.
+
+[US#8169] (Lord Blazer)
+  EN : I'll give you the honor of witnessing the world burning into oblivion.
+  RE : I grant you the honor of watching
+       the world burn to nothing.
+
+[US#8170] (Lord Blazer)
+  EN : But don't say you forgot that you weren't able to draw the Argetlahm.
+  RE : Don't pretend you forgot: you could
+       never draw the Argetlahm yourself.
+
+[US#8171] (Lord Blazer)
+  EN : Once you had my strength, the strength you tried to destroy, then you finally got the sword.
+  RE : Only with my power, the power you
+       tried to destroy, did you finally
+       claim the sword.
+
+[US#8172] (Lord Blazer)
+  EN : Now that I'm free of your body, you're only a mere human. You cannot draw Argetlahm.
+  RE : Free of your body now, you're just
+       a human. You cannot draw Argetlahm.
+
+[US#8173] (Lord Blazer)
+  EN : Argetlahm is meant to be wielded by the |Hero of the Sword.|
+  RE : Argetlahm is meant for the |Hero of
+       the Sword| alone.
+
+[US#8174] (Lord Blazer)
+  EN : Lament the era of no |heroes!| And live in fear of the future that will burn to smithereens.
+  RE : Mourn this age with no |heroes!|
+       And dread the future burning to
+       ash.
+
+[US#8175] (Ashley)
+  EN : ...is not such a puny world that it's sustained by the power of only a |hero.|
+  RE : ...this world isn't so small that
+       one |hero| alone holds it up.
+
+[US#8176] (Ashley)
+  EN : This world is full of the interactions and exchanges of the people and their thoughts, so...
+  RE : It's full of people, their bonds
+       and their thoughts, all woven
+       together, so...
+
+[US#8177] (Ashley)
+  EN : ...the power that sustains the universe exists in Filgaia. It's the power of all life!
+  RE : ...the power holding the universe
+       is right here. The power of all
+       life!
+
+[US#8178] (Ashley)
+  EN : No. No. Not |without| heroes, but an era that doesn't need heroes.
+  RE : No. Not an age |without| heroes,
+       but one that doesn't need them.
+
+[US#8179] (Ashley)
+  EN : We don't need a |hero|!!!!
+  RE : We don't need a |hero|!!!
+
+[US#8180] (Ashley)
+  EN : There's no value in a world protected by such things.
+  RE : A world that leans on such things
+       isn't worth much.
+
+[US#8181] (Ashley)
+  EN : If everyone's hearts become one, then we can rise and stand together.
+  RE : If everyone's hearts become one, we
+       can rise and stand together.
+
+[US#8182] (Ashley)
+  EN : We can support the world without sacrificing a |hero.| Miracles can happen!
+  RE : We can hold up the world with no
+       |hero| sacrificed. Miracles happen!
+
+[US#8183] (Ashley)
+  EN : We can never make the same mistake 0 made.
+  RE : We can't repeat the mistake {0}
+       once made.
+
+[US#8186] (Ashley)
+  EN : The Argetlahm isn't a weapon to bury demons.
+  RE : Argetlahm was never a weapon for
+       burying demons.
+
+[US#8187] (Ashley)
+  EN : By gathering the will to live into power, it becomes the key to open the door to the future.
+  RE : Gathering the will to live into
+       power, it's the key that opens the
+       door to the future.
+
+[US#8188] (Ashley)
+  EN : It's not a power to be wielded alone. It's a power for everyone to wield together.
+  RE : Not a power for one to wield alone,
+       but for everyone to wield together.
+
+[US#8189] (Ashley)
+  EN : If it won't arrive when I pray alone, we'll pray together as one.
+  RE : If one prayer won't reach, we'll
+       pray together as one.
+
+[US#8190] (Ashley)
+  EN : Everyone, everyone was born on this star, and lived here.
+  RE : Everyone was born on this star, and
+       lived their life here.
+
+[US#8191] (Ashley)
+  EN : Only when you're alive do you get to fall in love or get to fight with others.
+  RE : Only the living get to fall in
+       love, or to quarrel with others.
+
+[US#8192] (Ashley)
+  EN : If tomorrow comes because today's life light starts the creation of the future then...
+  RE : If tomorrow dawns because today's
+       light of life begins the future,
+       then...
+
+[US#8193] (Ashley)
+  EN : ...this light should be delivered to those battling at the end of today!
+  RE : ...let that light reach those still
+       fighting at the close of today!
+
+[US#8194] (Ashley)
+  EN : Right now, all the souls in Filgaia are trying to join together!
+  RE : Right now, every soul in Filgaia is
+       trying to join as one!
+
+[US#8195] (Ashley)
+  EN : It's stopping all life from fighting simply to keep alive.
+  RE : It stops all life from fighting
+       just to cling to survival.
+
+[US#8196] (Ashley)
+  EN : We are not powerless! We have the strength of our united hearts.
+  RE : We are not powerless! Our united
+       hearts are our strength.
+
+[US#8197] (Ashley)
+  EN : Take this power and throw it against the wars confronting you!
+  RE : Take this power and hurl it against
+       the battles before you!
+
+[US#8198] (Ashley)
+  EN : That's why we must fight too!
+  RE : That's why we, too, must fight!
+
+[US#8199] (Ashley)
+  EN : We don't need to be protected by someone special.
+  RE : We don't need some special someone
+       to protect us.
+
+[US#8200] (Ashley)
+  EN : Because it's important, so very important, we must protect it ourselves.
+  RE : Because it matters so much, we have
+       to protect it with our own hands.
+
+[US#8201] (Ashley)
+  EN : If someone has to be the |hero,| then anyone should be able to become the |hero.|
+  RE : If someone must be |hero,| then
+       anyone should be able to become
+       one.
+
+[US#8202] (Ashley)
+  EN : The prayers must have reached them, right? Everyone is fighting to protect Filgaia now.
+  RE : The prayers reached them, didn't
+       they? All Filgaia fights for itself
+       now.
+
+[US#8203] (Ashley)
+  EN : Because it's so important, we're going to protect it with our own hands.
+  RE : Because it's so precious, we'll
+       protect it with our own hands.
+
+[US#8204] (Young ARMS)
+  EN : I'm not sure we can handle it on our own, so if we get into trouble, help us out, Dude. OK?
+  RE : Not sure we can manage alone, so if
+       we hit trouble, lend a hand, Dude.
+       OK?
+
+[US#8205] (Young ARMS)
+  EN : When you get into a bind, the Young ARMS could help you out in return.
+  RE : And in a bind, the Young ARMS
+       just might help you back.
+
+[US#8206] (Young ARMS)
+  EN : We like Filgaia just like everyone else!
+  RE : We love Filgaia, same as everyone
+       else!
+
+[US#8207] (Ashley)
+  EN : This world, the life we live, and 0 all...
+  RE : This world, the life we live, and
+       {0}, all of it...
+
+[US#8208] (Ashley)
+  EN : I like today better than yesterday, and I like the unknown tomorrow even more.
+  RE : I like today more than yesterday,
+       and the unknown tomorrow most of
+       all.
+
+[US#8209] (Ashley)
+  EN : Let's all head off to tomorrow together.
+  RE : Let's all set off for tomorrow
+       together.
+
+[US#8210] (Ashley)
+  EN : Everyone together...
+  RE : Everyone, together...
+
+[US#8211] (Ashley)
+  EN : Everyone here and everyone waiting for us, and...
+  RE : Everyone here, and everyone waiting
+       for us, and...
+
+[US#8212] (Irving)
+  EN : Don't hassle me. I refuse to ever do such unsuitable work!
+  RE : Don't pester me. I'll never take on
+       such unfitting work!

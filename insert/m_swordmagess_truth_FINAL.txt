@@ -1,0 +1,232 @@
+# WA2 — The Sword Magess's Truth — block 92 — DEEP RE
+# =========================================================================================
+# The ancient Sword Magess (Anastasia) reveals her real story: she was no noble hero, just a
+# girl who fought out of DESIRE, not to win but to not lose the people she loved. Lord Blazer
+# (the Blazing Demon) once tried to consume the world; her power came from her will to live,
+# and Lucied (her Guardian) drew his strength from that same desire. She had to "die to become
+# a hero," but she rejects the idea that sacrifice is the only way. Ties directly to Marivel's
+# clan and the party's own fight against Lord Blazer inside Ashley.
+#   Deep RE, EN-anchored (JP mostly coded here). Fit <=3x35, no em dashes. Names preserved.
+# =========================================================================================
+
+[US#7633] (Anastasia)
+  EN : It's not just a story. It's a battle that actually happened.
+  RE : It's not just a story. It was a
+       real battle, fought and lived.
+
+[US#7634] (Ashley)
+  EN : This sad sensation. It's not the first time I've felt this!
+  RE : This sorrow... it isn't the first
+       time I've felt it!
+
+[US#7635] (Ashley)
+  EN : It's a part of that other me, isn't it?
+  RE : It's a part of that other me,
+       isn't it?
+
+[US#7636] (Anastasia)
+  EN : That which is within you now is Lord Blazer, the Blazing Demon who once tried to consume the world.
+  RE : What dwells in you now is Lord
+       Blazer, the Blazing Demon that once
+       sought to devour the world.
+
+[US#7637] (Anastasia)
+  EN : I was just an ordinary girl who until then believed sword training was dumb. I'd never held one.
+  RE : I was an ordinary girl. I thought
+       sword training was foolish. I'd
+       never even held one.
+
+[US#7638] (Anastasia)
+  EN : But it wasn't because I wanted to |win.|
+  RE : But it was never about wanting to
+       |win.|
+
+[US#7639] (Anastasia)
+  EN : It was because I didn't want to lose the people I loved.
+  RE : It was because I couldn't bear to
+       lose the people I loved.
+
+[US#7640] (Anastasia)
+  EN : Besides, I personally hate death. I really didn't want to die.
+  RE : And honestly, I hate death. I did
+       not want to die.
+
+[US#7641] (voice)
+  EN : Well, that disqualifies you as a Magess.
+  RE : Well, that disqualifies you as a
+       Magess.
+
+[US#7642] (Anastasia)
+  EN : Rather than worrying about the world, I was thinking of myself and my family.
+  RE : Instead of the world, I thought of
+       myself and my family.
+
+[US#7643] (Anastasia)
+  EN : Because I have the blood of the Valeria family doesn't make me a |hero.|
+  RE : Valeria blood in my veins never
+       made me a |hero.|
+
+[US#7644] (Anastasia)
+  EN : Was anyone else in my family able to get hold of the Argetlahm?
+  RE : Did anyone else in my family ever
+       draw the Argetlahm?
+
+[US#7645] (Anastasia)
+  EN : There's no significance in the blood of the Valeria Family.
+  RE : There's nothing special in Valeria
+       blood.
+
+[US#7646] (Ashley)
+  EN : Just now...you said...
+  RE : Just now... you said...
+
+[US#7647] (Anastasia)
+  EN : I said there's no significance that I'm a blood relative of the Valeria Family.
+  RE : I said being of Valeria blood means
+       nothing at all.
+
+[US#7648] (Anastasia)
+  EN : Even though Lord Blazer killed all hope, I never lost the desire to live.
+  RE : Even as Lord Blazer crushed all
+       hope, I never lost the desire to
+       live.
+
+[US#7649] (Ashley)
+  EN : Hmm...
+  RE : Hmm...
+
+[US#7650] (Anastasia)
+  EN : I mean, I still wanted to eat lots of good food and have fun with my friends.
+  RE : I still wanted good food, and good
+       times with my friends.
+
+[US#7651] (Anastasia)
+  EN : I didn't want to let go of |life| so easily.
+  RE : I wasn't about to let go of |life|
+       so easily.
+
+[US#7652] (Anastasia)
+  EN : That's what was |special.| I think my power was from |desire.|
+  RE : That was the |special| thing. My
+       power came from |desire.|
+
+[US#7653] (Anastasia)
+  EN : Eventually he was always by my side, but soon he became a presence I couldn't do without.
+  RE : In time he was always at my side,
+       then someone I could no longer do
+       without.
+
+[US#7654] (Marivel)
+  EN : That's Lucied for you.
+  RE : That's Lucied for you.
+
+[US#7655] (Anastasia)
+  EN : A long time ago he told me that it was my willpower that gave Lucied his power.
+  RE : Long ago he told me my own will was
+       what gave Lucied his power.
+
+[US#7656] (Anastasia)
+  EN : I think |desire| is simply the power of the will to live?
+  RE : Isn't |desire| just the power of
+       the will to live?
+
+[US#7657] (Anastasia)
+  EN : Power is neither good nor bad. Never deny it just because it's full of |desire.|
+  RE : Power is neither good nor evil.
+       Don't deny it just for being full
+       of |desire.|
+
+[US#7658] (Anastasia)
+  EN : What saved Filgaia from the Blaze of Disaster was |desire.|
+  RE : What saved Filgaia from the Blaze
+       of Disaster was |desire.|
+
+[US#7659] (Anastasia)
+  EN : But there are no road markers en route.
+  RE : But the road ahead has no
+       signposts.
+
+[US#7660] (Anastasia)
+  EN : I have to go back home.
+  RE : I have to go back home now.
+
+[US#7661] (Anastasia)
+  EN : It's a light that cares greatly for you.
+  RE : It's a light that holds you very
+       dear.
+
+[US#7662] (Anastasia)
+  EN : The other world is a place where I no longer can be. So...
+  RE : The other world is no longer a
+       place for me. So...
+
+[US#7663] (Anastasia)
+  EN : But I must go.
+  RE : But I must go.
+
+[US#7664] (Anastasia)
+  EN : I was afraid to fight! I never wanted to be called a Holy Woman.
+  RE : I was afraid to fight! I never
+       wanted to be called a Holy Woman.
+
+[US#7665] (Anastasia)
+  EN : But I had no choice!
+  RE : But I had no choice!
+
+[US#7666] (Anastasia)
+  EN : In order to save all I loved, I had to fight!
+  RE : To save all that I loved, I had to
+       fight!
+
+[US#7667] (Anastasia)
+  EN : I loved talking about just nothing with my friends.
+  RE : I loved talking about nothing at
+       all with my friends.
+
+[US#7668] (Anastasia)
+  EN : I was happy just being able to spend time with my mother and father.
+  RE : I was happy just spending time with
+       my mother and father.
+
+[US#7669] (Anastasia)
+  EN : I even had someone I liked.
+  RE : There was even someone I loved.
+
+[US#7670] (Anastasia)
+  EN : But, only by my giving up everything was I able to save the world.
+  RE : But only by giving up everything
+       could I save the world.
+
+[US#7671] (Anastasia)
+  EN : I didn't know how to put it into words, but I knew.
+  RE : I couldn't put it into words, but I
+       knew.
+
+[US#7672] (Anastasia)
+  EN : I had to die to become a |hero!| I wouldn't have been able to get rid of the Blaze of Disaster.
+  RE : I had to die to become a |hero.|
+       No other way could banish the Blaze
+       of Disaster.
+
+[US#7673] (Anastasia)
+  EN : Everyone, everyone wanted it.
+  RE : Everyone. Everyone wished it.
+
+[US#7674] (Anastasia)
+  EN : They wanted me to die.
+  RE : They wanted me to die.
+
+[US#7675] (Anastasia)
+  EN : To protect what's important, rather become a |hero| as a |sacrifice,| I'll find another way.
+  RE : To protect what matters, I won't be
+       a |hero| through |sacrifice.| I'll
+       find another way.
+
+[US#7676] (Anastasia)
+  EN : And stop the suffering of the Valeria.
+  RE : And end the suffering of the
+       Valeria line.
+
+[US#7677] (Anastasia)
+  EN : Thanks for everything, Lucied.
+  RE : Thank you for everything, Lucied.

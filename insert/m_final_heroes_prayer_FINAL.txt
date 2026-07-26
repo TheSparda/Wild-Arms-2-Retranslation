@@ -1,0 +1,505 @@
+# WA2 — Before the Final Battle: the |heroes| prayer — block 111 — DEEP RE
+# =========================================================================================
+# The pre-assault prayer (Marina's voice): humans fight because they're frail, not despite it;
+# a plea for every party member to come back safely. The 18-line speech repeats 6x, once per
+# party-composition permutation (name-code roll-call differs only cosmetically). RE is identical
+# across cycles by design. Fit <=3x35, no em dashes. {1}Brad {2}Lilka {3}Marina {4}Kanon {5}Liz.
+# =========================================================================================
+
+# ---- cycle @ US#8029 ----
+[US#8029]
+  EN : ...the battle of the |heroes.|
+  RE : ...the battle of the |heroes.|
+
+[US#8030]
+  EN : Everyone has weaknesses and frailties. They are humans just like us.
+  RE : Everyone has weaknesses and
+       frailties. They're human, like us.
+
+[US#8031]
+  EN : They're humans who shed tears and blood. They get hurt and ragged, but still fight.
+  RE : They shed tears and blood. They
+       get hurt and worn down, but they
+       fight on.
+
+[US#8032]
+  EN : It's people just like us fighting...
+  RE : It's people just like us out there
+       fighting...
+
+[US#8033]
+  EN : So, we have to fight with them.
+  RE : So we have to fight alongside them.
+
+[US#8034]
+  EN : To offer a prayer... Intense feelings always reach the intended.
+  RE : A prayer... True feeling always
+       reaches the one it's meant for.
+
+[US#8035]
+  EN : To one's prayers and goodwill distance makes no difference no matter how far it is.
+  RE : No matter the distance, a prayer
+       and its goodwill carry all the way.
+
+[US#8036]
+  EN : I don't want to let go of the hands clasped.
+  RE : I don't want to let go of these
+       clasped hands.
+
+[US#8037]
+  EN : But...
+  RE : But...
+
+[US#8038]
+  EN : To not be able to believe in my friends here and now... that isn't a world worth...
+  RE : To not trust my friends, here and
+       now... that's no world worth
+       saving.
+
+[US#8039]
+  EN : It's not logic! It's my own conclusion!
+  RE : It's not logic. It's my own
+       conclusion!
+
+[US#8040]
+  EN : 2 and 3.
+  RE : {2} and {3}.
+
+[US#8041]
+  EN : 1, 4 and 5.
+  RE : {1}, {4} and {5}.
+
+[US#8042]
+  EN : Come back safely!
+  RE : Come back safely!
+
+[US#8043]
+  EN : 2 and 3.
+  RE : {2} and {3}.
+
+[US#8044]
+  EN : 1 and 4.
+  RE : {1} and {4}.
+
+[US#8045]
+  EN : Come back safely!
+  RE : Come back safely!
+
+[US#8046]
+  EN : ...and...
+  RE : ...and...
+
+# ---- cycle @ US#8048 ----
+[US#8048]
+  EN : ...the battle of the |heroes.|
+  RE : ...the battle of the |heroes.|
+
+[US#8049]
+  EN : Everyone has weaknesses and frailties. They are humans just like us.
+  RE : Everyone has weaknesses and
+       frailties. They're human, like us.
+
+[US#8050]
+  EN : They're humans who shed tears and blood. They get hurt and ragged, but still fight.
+  RE : They shed tears and blood. They
+       get hurt and worn down, but they
+       fight on.
+
+[US#8051]
+  EN : It's people just like us fighting...
+  RE : It's people just like us out there
+       fighting...
+
+[US#8052]
+  EN : So, we have to fight with them.
+  RE : So we have to fight alongside them.
+
+[US#8053]
+  EN : To offer a prayer... Intense feelings always reach the intended.
+  RE : A prayer... True feeling always
+       reaches the one it's meant for.
+
+[US#8054]
+  EN : To one's prayers and goodwill distance makes no difference no matter how far it is.
+  RE : No matter the distance, a prayer
+       and its goodwill carry all the way.
+
+[US#8055]
+  EN : I don't want to let go of the hands clasped.
+  RE : I don't want to let go of these
+       clasped hands.
+
+[US#8056]
+  EN : But...
+  RE : But...
+
+[US#8057]
+  EN : To not be able to believe in my friends here and now... that isn't a world worth...
+  RE : To not trust my friends, here and
+       now... that's no world worth
+       saving.
+
+[US#8058]
+  EN : It's not logic! It's my own conclusion!
+  RE : It's not logic. It's my own
+       conclusion!
+
+[US#8059]
+  EN : 2 and 3.
+  RE : {2} and {3}.
+
+[US#8060]
+  EN : 1, 4 and 5.
+  RE : {1}, {4} and {5}.
+
+[US#8061]
+  EN : Come back safely!
+  RE : Come back safely!
+
+[US#8062]
+  EN : 2 and 3.
+  RE : {2} and {3}.
+
+[US#8063]
+  EN : 1 and 4.
+  RE : {1} and {4}.
+
+[US#8064]
+  EN : Come back safely!
+  RE : Come back safely!
+
+[US#8065]
+  EN : ...and...
+  RE : ...and...
+
+# ---- cycle @ US#8067 ----
+[US#8067]
+  EN : ...the battle of the |heroes.|
+  RE : ...the battle of the |heroes.|
+
+[US#8068]
+  EN : Everyone has weaknesses and frailties. They are humans just like us.
+  RE : Everyone has weaknesses and
+       frailties. They're human, like us.
+
+[US#8069]
+  EN : They're humans who shed tears and blood. They get hurt and ragged, but still fight.
+  RE : They shed tears and blood. They
+       get hurt and worn down, but they
+       fight on.
+
+[US#8070]
+  EN : It's people just like us fighting...
+  RE : It's people just like us out there
+       fighting...
+
+[US#8071]
+  EN : So, we have to fight with them.
+  RE : So we have to fight alongside them.
+
+[US#8072]
+  EN : To offer a prayer... Intense feelings always reach the intended.
+  RE : A prayer... True feeling always
+       reaches the one it's meant for.
+
+[US#8073]
+  EN : To one's prayers and goodwill distance makes no difference no matter how far it is.
+  RE : No matter the distance, a prayer
+       and its goodwill carry all the way.
+
+[US#8074]
+  EN : I don't want to let go of the hands clasped.
+  RE : I don't want to let go of these
+       clasped hands.
+
+[US#8075]
+  EN : But...
+  RE : But...
+
+[US#8076]
+  EN : To not be able to believe in my friends here and now... that isn't a world worth...
+  RE : To not trust my friends, here and
+       now... that's no world worth
+       saving.
+
+[US#8077]
+  EN : It's not logic! It's my own conclusion!
+  RE : It's not logic. It's my own
+       conclusion!
+
+[US#8078]
+  EN : 2 and 3.
+  RE : {2} and {3}.
+
+[US#8079]
+  EN : 1, 4 and 5.
+  RE : {1}, {4} and {5}.
+
+[US#8080]
+  EN : Come back safely!
+  RE : Come back safely!
+
+[US#8081]
+  EN : 2 and 3.
+  RE : {2} and {3}.
+
+[US#8082]
+  EN : 1 and 4.
+  RE : {1} and {4}.
+
+[US#8083]
+  EN : Come back safely!
+  RE : Come back safely!
+
+[US#8084]
+  EN : ...and...
+  RE : ...and...
+
+# ---- cycle @ US#8086 ----
+[US#8086]
+  EN : ...the battle of the |heroes.|
+  RE : ...the battle of the |heroes.|
+
+[US#8087]
+  EN : Everyone has weaknesses and frailties. They are humans just like us.
+  RE : Everyone has weaknesses and
+       frailties. They're human, like us.
+
+[US#8088]
+  EN : They're humans who shed tears and blood. They get hurt and ragged, but still fight.
+  RE : They shed tears and blood. They
+       get hurt and worn down, but they
+       fight on.
+
+[US#8089]
+  EN : It's people just like us fighting...
+  RE : It's people just like us out there
+       fighting...
+
+[US#8090]
+  EN : So, we have to fight with them.
+  RE : So we have to fight alongside them.
+
+[US#8091]
+  EN : To offer a prayer... Intense feelings always reach the intended.
+  RE : A prayer... True feeling always
+       reaches the one it's meant for.
+
+[US#8092]
+  EN : To one's prayers and goodwill distance makes no difference no matter how far it is.
+  RE : No matter the distance, a prayer
+       and its goodwill carry all the way.
+
+[US#8093]
+  EN : I don't want to let go of the hands clasped.
+  RE : I don't want to let go of these
+       clasped hands.
+
+[US#8094]
+  EN : But...
+  RE : But...
+
+[US#8095]
+  EN : To not be able to believe in my friends here and now... that isn't a world worth...
+  RE : To not trust my friends, here and
+       now... that's no world worth
+       saving.
+
+[US#8096]
+  EN : It's not logic! It's my own conclusion!
+  RE : It's not logic. It's my own
+       conclusion!
+
+[US#8097]
+  EN : 2 and 3.
+  RE : {2} and {3}.
+
+[US#8098]
+  EN : 1, 4 and 5.
+  RE : {1}, {4} and {5}.
+
+[US#8099]
+  EN : Come back safely!
+  RE : Come back safely!
+
+[US#8100]
+  EN : 2 and 3.
+  RE : {2} and {3}.
+
+[US#8101]
+  EN : 1 and 4.
+  RE : {1} and {4}.
+
+[US#8102]
+  EN : Come back safely!
+  RE : Come back safely!
+
+[US#8103]
+  EN : ...and...
+  RE : ...and...
+
+# ---- cycle @ US#8105 ----
+[US#8105]
+  EN : ...the battle of the |heroes.|
+  RE : ...the battle of the |heroes.|
+
+[US#8106]
+  EN : Everyone has weaknesses and frailties. They are humans just like us.
+  RE : Everyone has weaknesses and
+       frailties. They're human, like us.
+
+[US#8107]
+  EN : They're humans who shed tears and blood. They get hurt and ragged, but still fight.
+  RE : They shed tears and blood. They
+       get hurt and worn down, but they
+       fight on.
+
+[US#8108]
+  EN : It's people just like us fighting...
+  RE : It's people just like us out there
+       fighting...
+
+[US#8109]
+  EN : So, we have to fight with them.
+  RE : So we have to fight alongside them.
+
+[US#8110]
+  EN : To offer a prayer... Intense feelings always reach the intended.
+  RE : A prayer... True feeling always
+       reaches the one it's meant for.
+
+[US#8111]
+  EN : To one's prayers and goodwill distance makes no difference no matter how far it is.
+  RE : No matter the distance, a prayer
+       and its goodwill carry all the way.
+
+[US#8112]
+  EN : I don't want to let go of the hands clasped.
+  RE : I don't want to let go of these
+       clasped hands.
+
+[US#8113]
+  EN : But...
+  RE : But...
+
+[US#8114]
+  EN : To not be able to believe in my friends here and now... that isn't a world worth...
+  RE : To not trust my friends, here and
+       now... that's no world worth
+       saving.
+
+[US#8115]
+  EN : It's not logic! It's my own conclusion!
+  RE : It's not logic. It's my own
+       conclusion!
+
+[US#8116]
+  EN : 2 and 3.
+  RE : {2} and {3}.
+
+[US#8117]
+  EN : 1, 4 and 5.
+  RE : {1}, {4} and {5}.
+
+[US#8118]
+  EN : Come back safely!
+  RE : Come back safely!
+
+[US#8119]
+  EN : 2 and 3.
+  RE : {2} and {3}.
+
+[US#8120]
+  EN : 1 and 4.
+  RE : {1} and {4}.
+
+[US#8121]
+  EN : Come back safely!
+  RE : Come back safely!
+
+[US#8122]
+  EN : ...and...
+  RE : ...and...
+
+# ---- cycle @ US#8124 ----
+[US#8124]
+  EN : ...the battle of the |heroes.|
+  RE : ...the battle of the |heroes.|
+
+[US#8125]
+  EN : Everyone has weaknesses and frailties. They are humans just like us.
+  RE : Everyone has weaknesses and
+       frailties. They're human, like us.
+
+[US#8126]
+  EN : They're humans who shed tears and blood. They get hurt and ragged, but still fight.
+  RE : They shed tears and blood. They
+       get hurt and worn down, but they
+       fight on.
+
+[US#8127]
+  EN : It's people just like us fighting...
+  RE : It's people just like us out there
+       fighting...
+
+[US#8128]
+  EN : So, we have to fight with them.
+  RE : So we have to fight alongside them.
+
+[US#8129]
+  EN : To offer a prayer... Intense feelings always reach the intended.
+  RE : A prayer... True feeling always
+       reaches the one it's meant for.
+
+[US#8130]
+  EN : To one's prayers and goodwill distance makes no difference no matter how far it is.
+  RE : No matter the distance, a prayer
+       and its goodwill carry all the way.
+
+[US#8131]
+  EN : I don't want to let go of the hands clasped.
+  RE : I don't want to let go of these
+       clasped hands.
+
+[US#8132]
+  EN : But...
+  RE : But...
+
+[US#8133]
+  EN : To not be able to believe in my friends here and now... that isn't a world worth...
+  RE : To not trust my friends, here and
+       now... that's no world worth
+       saving.
+
+[US#8134]
+  EN : It's not logic! It's my own conclusion!
+  RE : It's not logic. It's my own
+       conclusion!
+
+[US#8135]
+  EN : 2 and 3.
+  RE : {2} and {3}.
+
+[US#8136]
+  EN : 1, 4 and 5.
+  RE : {1}, {4} and {5}.
+
+[US#8137]
+  EN : Come back safely!
+  RE : Come back safely!
+
+[US#8138]
+  EN : 2 and 3.
+  RE : {2} and {3}.
+
+[US#8139]
+  EN : 1 and 4.
+  RE : {1} and {4}.
+
+[US#8140]
+  EN : Come back safely!
+  RE : Come back safely!
+
+[US#8141]
+  EN : ...and...
+  RE : ...and...

@@ -1,0 +1,169 @@
+# WA2 — Vinsfeld's Farewell Blow (Slayheim) — block 91 — DEEP RE
+# =========================================================================================
+# Vinsfeld Rhadamanthus, the false 'hero' of the Slayheim Liberation Army, strikes his
+# farewell blow: bound by the |Gias| curse at his neck, heroes don't die while the will to
+# fight endures. 5-line taunt repeated 6x (party permutations); RE identical per cycle.
+# Fit <=3x35, no em dashes.
+# =========================================================================================
+
+# ---- cycle @ US#7594 ----
+[US#7594]
+  EN : The scar you gave me... This |Gias| around my neck won't let me die yet.
+  RE : The scar you gave me... this |Gias|
+       at my neck won't let me die yet.
+
+[US#7595]
+  EN : As long as I'm chained to this, I'm coming back as often as I can.
+  RE : As long as I'm bound to it, I'll
+       keep coming back, again and again.
+
+[US#7596]
+  EN : That's right. |Heroes| don't die! As long as they have the will to fight.
+  RE : |Heroes| don't die, not while the
+       will to fight remains.
+
+[US#7597]
+  EN : This blow is my farewell to the past. It's a blow for the Slayheim Liberation Army!
+  RE : This blow is my farewell to the
+       past. A blow for the Slayheim
+       Liberation Army!
+
+[US#7598]
+  EN : It's a beacon for new battles! Take this, Vinsfeld Rhadamanthus.
+  RE : A beacon for new battle! Take this,
+       Vinsfeld Rhadamanthus!
+
+# ---- cycle @ US#7600 ----
+[US#7600]
+  EN : The scar you gave me... This |Gias| around my neck won't let me die yet.
+  RE : The scar you gave me... this |Gias|
+       at my neck won't let me die yet.
+
+[US#7601]
+  EN : As long as I'm chained to this, I'm coming back as often as I can.
+  RE : As long as I'm bound to it, I'll
+       keep coming back, again and again.
+
+[US#7602]
+  EN : That's right. |Heroes| don't die! As long as they have the will to fight.
+  RE : |Heroes| don't die, not while the
+       will to fight remains.
+
+[US#7603]
+  EN : This blow is my farewell to the past. It's a blow for the Slayheim Liberation Army!
+  RE : This blow is my farewell to the
+       past. A blow for the Slayheim
+       Liberation Army!
+
+[US#7604]
+  EN : It's a beacon for new battles! Take this, Vinsfeld Rhadamanthus.
+  RE : A beacon for new battle! Take this,
+       Vinsfeld Rhadamanthus!
+
+# ---- cycle @ US#7606 ----
+[US#7606]
+  EN : The scar you gave me... This |Gias| around my neck won't let me die yet.
+  RE : The scar you gave me... this |Gias|
+       at my neck won't let me die yet.
+
+[US#7607]
+  EN : As long as I'm chained to this, I'm coming back as often as I can.
+  RE : As long as I'm bound to it, I'll
+       keep coming back, again and again.
+
+[US#7608]
+  EN : That's right. |Heroes| don't die! As long as they have the will to fight.
+  RE : |Heroes| don't die, not while the
+       will to fight remains.
+
+[US#7609]
+  EN : This blow is my farewell to the past. It's a blow for the Slayheim Liberation Army!
+  RE : This blow is my farewell to the
+       past. A blow for the Slayheim
+       Liberation Army!
+
+[US#7610]
+  EN : It's a beacon for new battles! Take this, Vinsfeld Rhadamanthus.
+  RE : A beacon for new battle! Take this,
+       Vinsfeld Rhadamanthus!
+
+# ---- cycle @ US#7612 ----
+[US#7612]
+  EN : The scar you gave me... This |Gias| around my neck won't let me die yet.
+  RE : The scar you gave me... this |Gias|
+       at my neck won't let me die yet.
+
+[US#7613]
+  EN : As long as I'm chained to this, I'm coming back as often as I can.
+  RE : As long as I'm bound to it, I'll
+       keep coming back, again and again.
+
+[US#7614]
+  EN : That's right. |Heroes| don't die! As long as they have the will to fight.
+  RE : |Heroes| don't die, not while the
+       will to fight remains.
+
+[US#7615]
+  EN : This blow is my farewell to the past. It's a blow for the Slayheim Liberation Army!
+  RE : This blow is my farewell to the
+       past. A blow for the Slayheim
+       Liberation Army!
+
+[US#7616]
+  EN : It's a beacon for new battles! Take this, Vinsfeld Rhadamanthus.
+  RE : A beacon for new battle! Take this,
+       Vinsfeld Rhadamanthus!
+
+# ---- cycle @ US#7618 ----
+[US#7618]
+  EN : The scar you gave me... This |Gias| around my neck won't let me die yet.
+  RE : The scar you gave me... this |Gias|
+       at my neck won't let me die yet.
+
+[US#7619]
+  EN : As long as I'm chained to this, I'm coming back as often as I can.
+  RE : As long as I'm bound to it, I'll
+       keep coming back, again and again.
+
+[US#7620]
+  EN : That's right. |Heroes| don't die! As long as they have the will to fight.
+  RE : |Heroes| don't die, not while the
+       will to fight remains.
+
+[US#7621]
+  EN : This blow is my farewell to the past. It's a blow for the Slayheim Liberation Army!
+  RE : This blow is my farewell to the
+       past. A blow for the Slayheim
+       Liberation Army!
+
+[US#7622]
+  EN : It's a beacon for new battles! Take this, Vinsfeld Rhadamanthus.
+  RE : A beacon for new battle! Take this,
+       Vinsfeld Rhadamanthus!
+
+# ---- cycle @ US#7624 ----
+[US#7624]
+  EN : The scar you gave me... This |Gias| around my neck won't let me die yet.
+  RE : The scar you gave me... this |Gias|
+       at my neck won't let me die yet.
+
+[US#7625]
+  EN : As long as I'm chained to this, I'm coming back as often as I can.
+  RE : As long as I'm bound to it, I'll
+       keep coming back, again and again.
+
+[US#7626]
+  EN : That's right. |Heroes| don't die! As long as they have the will to fight.
+  RE : |Heroes| don't die, not while the
+       will to fight remains.
+
+[US#7627]
+  EN : This blow is my farewell to the past. It's a blow for the Slayheim Liberation Army!
+  RE : This blow is my farewell to the
+       past. A blow for the Slayheim
+       Liberation Army!
+
+[US#7628]
+  EN : It's a beacon for new battles! Take this, Vinsfeld Rhadamanthus.
+  RE : A beacon for new battle! Take this,
+       Vinsfeld Rhadamanthus!
