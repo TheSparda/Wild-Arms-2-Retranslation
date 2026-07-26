@@ -160,6 +160,20 @@ for s in slots:
         tables[b][f'{c:04x}']=cluster_read[r]; solved+=1
 total_local_slots=len(slots)
 print(f'\nlocal slots total: {total_local_slots}, solved: {solved} ({solved*100//total_local_slots}%)')
-json.dump({str(b):dict(sorted(t.items())) for b,t in sorted(tables.items())},
-          open('font_work/block_tables.json','w'), ensure_ascii=False, indent=0)
-print('wrote font_work/block_tables.json')
+# MERGE into the existing table (do NOT overwrite — earlier runs destroyed 1000+ hand solves).
+# Existing entries win on conflict; we only ADD codes this pass newly resolved.
+import os
+BT='font_work/block_tables.json'
+existing=json.load(open(BT)) if os.path.exists(BT) else {}
+added=0; conflicts=0
+for b,t in tables.items():
+    sb=str(b); existing.setdefault(sb,{})
+    for c,ch in t.items():
+        if c in existing[sb]:
+            if existing[sb][c]!=ch: conflicts+=1
+        else:
+            existing[sb][c]=ch; added+=1
+json.dump({k:dict(sorted(existing[k].items())) for k in sorted(existing,key=lambda x:int(x))},
+          open(BT,'w'), ensure_ascii=False, indent=0)
+print(f'merged into {BT}: +{added} new codes, {conflicts} conflicts kept as-existing, '
+      f'total {sum(len(v) for v in existing.values())}')

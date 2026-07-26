@@ -5,14 +5,14 @@ localization is infamous for turning coherent Japanese into word-salad, and the 
 Odessa duo **Liz & Ard** got hit hardest.
 
 Their JP names are **トカ & ゲー** (*Toka & Gě*), a pun on **トカゲ** (*tokage*, "lizard"). The
-localization's **Liz + Ard = "Lizard"** is a genuine transcreation win, so we kept it. Liz is
-the pompous talker; Ard is the straight-"man" who can only ever say his own name, "translated"
-by Liz. In Japanese Liz is a *coherent, rhythmic* blowhard; the localization kept his flowery
-vocabulary but dropped the connective logic, so he reads as nonsense. Our goal: make his lines
-*parse* again while keeping the pompous-scientist register. No invented jokes, no catchphrase.
+localization's **Liz + Ard = "Lizard"** is a genuine transcreation win, so we kept it. Liz is the
+pompous talker; Ard is the straight-"man" who can only ever say his own name, "translated" by Liz.
+In Japanese, Liz is a *coherent, rhythmic* blowhard; the loc kept his flowery vocabulary but
+dropped the connective logic, so he reads as nonsense. Our goal: make his lines *parse* again
+while keeping the pompous-scientist register. No invented jokes, no catchphrase.
 
-Each box below is shown four ways:
-- **JP** — the original Japanese (all lines here are verified from the disc, no reconstruction)
+Each box is shown four ways:
+- **JP** — the original Japanese
 - **Literal** — a plain, meaning-first gloss
 - **Original loc** — the shipped English
 - **Ours** — our retranslation (must also fit the in-game box: max 3 lines × 35 characters)
@@ -21,7 +21,7 @@ Feedback very welcome, especially on whether Liz's voice lands.
 
 ---
 
-## Line-by-line
+## Part 1 — verified JP (fully decoded)
 
 **US#5663**
 - JP: 「それでは
@@ -61,9 +61,6 @@ Feedback very welcome, especially on whether Liz's voice lands.
 - Original loc: Science is unavoidable as a two-bit scientist.
 - **Ours:** When science calls, one cannot refuse. Not as a humble man of science.
 
-*(注目者 literally = "one who draws notice"; the loc renders his running "man of science" bit,
-which fits the scene, so we kept that reading.)*
-
 **US#5722 — Liz admits what he's really after**
 - JP: 「決まっておろう / ゲルマトロン渓谷よ / 知らぬ存ぜぬとは言わせんぞ
 - Literal: Isn't it obvious? The Germatron Valley. Don't play dumb with me.
@@ -78,25 +75,60 @@ which fits the scene, so we kept that reading.)*
 
 ---
 
-### Bonus: Ard's entire performance
+## Part 2 — the funniest disasters (JP still decoding)
+
+WA2 stores some kanji in a per-scene code table we're still reverse-engineering, so a few of
+this scene's boxes aren't cleanly readable from the disc yet. We refuse to reconstruct Japanese
+we can't verify, so these show the literal + loc + ours only, with the JP marked *pending*. These
+are the ones the localization mangled worst, which is exactly why they're worth showing.
+
+**US#5669 — Liz's grand plan** *(JP: pending kanji decode)*
+- Literal: A vision flashed behind my eyes: me at the lever, floating like a butterfly, stinging like a bee.
+- Original loc: A vision flashed on my lids of me pushing the lever like a bee, and dancing like a butterfly.
+- **Ours:** In my mind's eye: me at the lever, floating like a butterfly, stinging like a bee.
+
+*(A deliberate Muhammad Ali riff in the JP; the loc swapped the bee and the butterfly.)*
+
+**US#5661 — the observatory's power source** *(JP: pending kanji decode)*
+- Literal: The energy pouring endlessly from the earth is ideal for peacetime research.
+- Original loc: The energy that continually spouts from the earth is perfect for an excursion in peacetime.
+- **Ours:** Endless energy, welling up from the very earth. Ideal for peacetime research.
+
+**US#5662 — Liz's mission statement** *(JP: pending kanji decode)*
+- Literal: This is a man of science's true ambition! It can't stop until it's fulfilled!
+- Original loc: This is a scientist's ambition! It can't be stopped until it's fulfilled!
+- **Ours:** Such is a man of science's ambition! It cannot rest until it is fulfilled!
+
+**US#5723 — the villain reveal** *(JP: pending kanji decode)*
+- Literal: My scheme to build an unearthly war-beast using the valley here is ruined.
+- Original loc: My plans to use the Germatron at the research lab are ruined. I was to make a grand war monster.
+- **Ours:** My scheme to forge a grand war-beast from the valley here is undone.
+
+**US#5731 — fleeing with dignity intact** *(JP: pending kanji decode)*
+- Literal: But this is no retreat. Later generations, any historian, would call it a brave withdrawal.
+- Original loc: But we're not running away. Any historian would declare this as a brave withdrawal.
+- **Ours:** But we do not flee. Any historian would deem this a brave withdrawal.
+
+---
+
+## Bonus: Ard's entire performance
 
 Ard can only ever say his own name; the loc nailed this and we kept it verbatim.
-
 - JP: 「げげげ、げげげげ / げーげーげー / げっげげげー げっげっげ
 - Literal: (a string of "ge" sounds, i.e. just his name)
-- Original loc / Ours: Ar...Ard, Ard...Ard, Ard. Ar...d. Ard, Ard. Ard...Ard, Ard.
+- Loc / Ours: Ar...Ard, Ard...Ard, Ard. Ar...d. Ard, Ard. Ard...Ard, Ard.
 
 ---
 
 ### Notes for commenters
 - **Voice, not gags.** We deliberately did NOT invent new jokes or give Liz a catchphrase. The
-  goal was to make his existing lines *parse* while keeping his pompous register. Too far? Not
-  far enough?
+  goal was to make his existing lines *parse* while keeping his pompous register. Too far? Not far
+  enough?
 - **Box limit.** Every line must fit the in-game text box (max 3 lines × 35 characters), so some
   phrasings are tighter than we'd write in prose.
-- **Honesty note.** WA2 stores some kanji in a per-scene code table we're still decoding, so a
-  chunk of this scene's JP isn't cleanly readable yet. Every JP line shown above is one we've
-  fully verified from the disc; we left out the boxes whose Japanese we can't yet display with
-  confidence rather than reconstruct them.
+- **Why some JP is "pending."** WA2 encodes many kanji in per-scene tables; we've decoded most of
+  the game but this scene has holdouts with no cross-reference to confirm them. Rather than post
+  Japanese we can't verify, we mark those boxes pending. The literal/loc/ours lines for them are
+  grounded in the parts we *can* read plus the shipped English.
 
 *Full 72-box scene available on request.*
