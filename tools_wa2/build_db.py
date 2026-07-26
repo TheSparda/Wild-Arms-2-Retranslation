@@ -125,11 +125,11 @@ FIRSTPASS = [
  ('blk14_SD.txt',['SD','HL'],'14','Sylvaland Castle / Holst'),
  ('blk16_BV_HT.txt',['BV','HT'],'16','Baskar Village / Hidden Trial Arena'),
  ('blk17_TS_SR_GB_GH.txt',['TS','SR','GB','GH'],'17','Tunnel to Sielje / Sielje / Gate Bridge / Greenhell'),
- ('blk18_SY.txt',['SY'],'18','Slayheim Castle'),
+ ('blk18_SY.txt',['SY','QT'],'18','Slayheim Castle / Quartly (merc recruit)'),
  ('blk20_GG_AP.txt',['GG','AP'],'20','Guild Galad / Alchemic Plant'),
  ('blk38_CE.txt',['CE'],'38','Coffin of 100 Eyes'),
  ('blk39_DP.txt',['DP','DC','DA'],'39','Diablo Pillars (Ptolomea/Caina/Antenora)'),
- ('blk40_DC.txt',['DC'],'40','Diablo Pillar Caina (cont.)'),
+ ('blk40_DC.txt',['DC','EZ'],'40','Diablo Pillar Caina / Emulator Zone (Caina/Noel)'),
  ('blk44_HG.txt',['HG'],'44','Heimdal Gazzo (part)'),
  ('blk45_LC.txt',['LC'],'45','Lost City Archeim (a)'),
  ('blk46_LC.txt',['LC'],'46','Lost City Archeim (b)'),
@@ -137,6 +137,14 @@ FIRSTPASS = [
  ('blk49_HG_DP.txt',['HG','DJ','DA'],'49','Heimdal Gazzo / Diablo Pillars'),
  ('blk69_DP.txt',['DP'],'69','Diablo Pillar Ptolomea (part)'),
 ]
+
+# ---- area -> STGEVT block(s), for areas ANCHORED but not yet translated (no insert file).
+# These are real content gaps we've located; add an insert file + move to FIRSTPASS once done. ----
+AREA_BLOCKS_EXTRA = {
+ 'AM': [33],   # Aguel Mine Shaft — Aguelite/Germatron crystal lore (~11 boxes)
+ 'CM': [43],   # Closed Mine Shaft — Zoa Priest scene, Odessa after the empty mine (~41 boxes)
+ 'TB': [2],    # T'Bok Village — Brad wakes in the stable, Merrill + the dog Rassyu (~123 boxes)
+}
 
 # ---- game-script section id -> guide-area codes it contains (placeholder + gap anchor) ----
 SECTION_AREAS = {

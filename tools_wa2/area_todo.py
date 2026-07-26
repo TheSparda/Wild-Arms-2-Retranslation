@@ -27,6 +27,8 @@ def area_blocks():
         for b in str(blk).replace('+', ' ').split(): ab.setdefault(area, set()).add(int(b))
     for f, codes, blk, label in DB.FIRSTPASS:
         for c in codes: ab.setdefault(c, set()).add(int(blk))
+    for c, blks in getattr(DB, 'AREA_BLOCKS_EXTRA', {}).items():
+        for b in blks: ab.setdefault(c, set()).add(int(b))
     return ab
 
 def is_content(en):
