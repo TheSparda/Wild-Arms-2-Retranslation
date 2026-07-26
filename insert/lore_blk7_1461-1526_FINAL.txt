@@ -1,0 +1,422 @@
+# WA2 — Lore Encyclopedia, Block 7, US#1461-1526 — FINAL
+# =========================================================================================
+# Prime directive: JP is the ONLY reliable source. The aligned EN is deep-tail Rosetta drift
+# and is NOT used to decide meaning (per task brief) except where it demonstrably matches the
+# JP. Block 7 is a TWIN of blocks 6/8/10/11 (same JP script, different local kanji subtable),
+# so many unsolved <b:xxxx> codes here were cross-confirmed against the more-decoded twin copy
+# in block 6 (summit intro = blk6 US#1136-1146; EMMA/Guardian ops; Cocytus endgame). This is
+# READ-ONLY cross-checking of MEANING, not any edit to a kanji table. Genuinely unreadable
+# spans are marked [?] rather than invented from the unreliable EN.
+# Scene groups: (A) Filgaia Summit / world-unification lore-encyclopedia (＊ examine panels)
+# US#1461-1471 [twin blk6 1136-1146]; (B) EMMA-motor restart + Guardian-contact + rest orders
+# (Gubacho/commander ARMS ops) US#1472-1491; (C) endgame — Odessa Cocytus (Caina/Judecca)
+# seizing the |Key| boy (Tim, the Pillar), Valeria Chateau intrusion, Young ARMS kids' farewell
+# to [05], bomb in the catapult room US#1492-1526.
+# GLOSSARY: Filgaia Summit = ファルガイアサミット; Treaty of Iscariot = 『イスカリオテ条約』;
+# Slayheim = スレイハイム; EMMA motor = エマ・モーター (perpetual-motion / lost tech);
+# Guardians = ガーディアン; |Key| = 『鍵』 (the sacrificial Pillar boy; kept literal per JP,
+# EN localization renders it |Pillar|); Young ARMS = 少年ＡＲＭＳ; Valeria Chateau =
+# ヴァレリアシャトー; ARMS control code [05] = a party-member name code, preserved verbatim
+# (never expanded to a literal name). No em dashes. Fit <=3x35.
+# =========================================================================================
+
+[US#1461] (Filgaia Summit lore / examine panel)
+  JP : ＊その前に、我々はまとまらねばならぬ / だが、人の年だけ思いがあり / 人がまとまることなど不可能なのか？
+  LIT: But first, we must come together. Yet there are as many thoughts as there are people. Is uniting even impossible?
+  RE : But first, we must unite.
+       Yet each holds their own mind.
+       Can people ever come together?
+
+[US#1462] (Filgaia Summit lore / examine panel) [twin: blk6 1137]
+  JP : ＊作無もいわせぬ恐[怖]か？ / [抗]うことのできない力か？ / [統]一された思想か？
+  LIT: A terror that allows no objection? A power that cannot be resisted? A single, unified ideology?
+  RE : A terror none dare defy?
+       A power none can resist?
+       A single, unified ideal?
+
+[US#1463] (Filgaia Summit lore / examine panel)
+  JP : ＊人の年だけ思いがある / 果たして / 世界をまとめることは可能なのか
+  LIT: There are as many thoughts as there are people. Can the world truly be made one?
+  RE : As many minds as people.
+       Can the world truly
+       be made one?
+
+[US#1464] (Filgaia Summit lore / examine panel) [twin: blk6 1139]
+  JP : ＊[過去]において、[統]一を試みた者たちはいた / しかしながら、その全てが / うたかたの理となりて[消]っていった
+  LIT: In the past there were those who tried unification, yet all of them faded away like fleeting foam.
+  RE : In the past, some tried
+       to unite the world. Yet all
+       faded like fleeting foam.
+
+[US#1465] (Filgaia Summit lore / examine panel) [twin: blk6 1140]
+  JP : ＊そもそも、一人の[支]配者のもとに / [統]一されることは可能なのか？
+  LIT: In the first place, is it even possible to be unified under a single ruler?
+  RE : And could the world be
+       united at all under
+       just one ruler?
+
+[US#1466] (Filgaia Summit lore / examine panel) [twin: blk6 1141]
+  JP : ＊もし、世界がまとまる時が来たとしたら / それは、世界の人々がそれを[望]む状況に / なったときだろう
+  LIT: If the time ever comes for the world to unite, it will be when its people come to desire it.
+  RE : If the world ever unites,
+       it will be when its people
+       come to desire it.
+
+[US#1467] (Filgaia Summit lore / examine panel) [twin: blk6 1142]
+  JP : ＊現在は、定[期]で[数年]に一度開[催]されるが / 緊急時には、非[常]開[催]も行われる
+  LIT: Currently it is held regularly once every few years, but in emergencies an extraordinary session is also convened.
+  RE : Normally it convenes once
+       every few years, with special
+       sessions called in a crisis.
+
+[US#1468] (Filgaia Summit lore / examine panel) [twin: blk6 1143]
+  JP : ＊スレイハイムの崩滅の[際]には / 今後の世界情[勢]について[協]議されるため / 非[常]開[催]されることとなった
+  LIT: At Slayheim's collapse, an extraordinary session was convened to discuss the world's future situation.
+  RE : At Slayheim's collapse,
+       a special session met to
+       discuss the world's future.
+
+[US#1469] (Filgaia Summit lore / examine panel) [twin: blk6 1144]
+  JP : ＊この時には、注目[条][約]でもある / 『イスカリオテ[条][約]』について / [改]めて話し合われた
+  LIT: At this time, the noteworthy "Treaty of Iscariot" was also discussed anew.
+  RE : This time, the noted
+       Treaty of Iscariot was
+       also discussed anew.
+
+[US#1470] (Filgaia Summit lore / examine panel) [twin: blk6 1145]
+  JP : ＊自国の利[益]だけでなく / 世界の[平和]のためについて話し合われる / それがファルガイアサミットである
+  LIT: It is discussed not only for one's own national interests, but for the sake of the whole world. That is the Filgaia Summit.
+  RE : Not for one nation's gain,
+       but for the whole world's sake.
+       That is the Filgaia Summit.
+
+[US#1471] SKIPPED (JP box is empty in the decode; the only text is EN Rosetta drift about
+  the Treaty of Iscariot, which is already covered by US#1469's decoded JP. No source text
+  to translate.)
+
+[US#1472] (commander / ARMS ops)
+  JP : 「少しの間だと思うが / 体を休めておいてくれ
+  LIT: It won't be long, but rest your body for now.
+  RE : It won't be long, but
+       rest yourselves
+       for now.
+
+[US#1473] SKIPPED (no content box at this US# in the brief; system/empty slot.)
+
+[US#1474] (Gubacho / chief engineer)
+  JP : 「〜ふ〜ん〜 / ま、がんばってねぇ〜
+  LIT: Hmmm... well, good luck, then.
+  RE : Hmmm... well,
+       good luck with that.
+
+[US#1475] (Gubacho / chief engineer) [twin: blk6 EMMA lore]
+  JP : 「これさえあれば / 機関部でホコリを[かぶ]っている / エマ・モーターを[再]起動できそうだな
+  LIT: With this, it looks like we can restart the EMMA motor that's gathering dust in the engine room.
+  RE : With this, we can restart
+       the EMMA motor gathering
+       dust in the engine room.
+
+[US#1476] (Gubacho / chief engineer)
+  JP : 「[電][磁]連結を応用した / 一[種]の[永][久]機関〜 / ロストテクノロジーの[遺]物じゃ
+  LIT: A kind of perpetual-motion engine that applies electromagnetic linkage. A relic of lost technology.
+  RE : A perpetual-motion engine
+       built on electromagnetic links.
+       A relic of lost technology.
+
+[US#1477] (Gubacho / chief engineer)
+  JP : 「けっして、その[昔]に / 『エマさん』って人が発[明]したから / その名前がつけられたワケではないぞ
+  LIT: And don't think it got its name because someone called "Emma" invented it long ago.
+  RE : And no, it wasn't named
+       for some |Emma| who
+       invented it long ago.
+
+[US#1478] (Gubacho / chief engineer)
+  JP : 「そろそろ、エマ・モーターの[再]起動に / 取り[掛]かった方が良いのではないか？
+  LIT: Isn't it about time we got started on restarting the EMMA motor?
+  RE : Isn't it about time we
+       got to work restarting
+       the EMMA motor?
+
+[US#1479] (commander / ARMS ops)
+  JP : 「みんな、ご苦労であった / あとは、私と[05]ぎくんとで / 作[業]に取り[掛]かるとしよう
+  LIT: Good work, everyone. Now [05] and I will get to work on the operation.
+  RE : Good work, everyone.
+       Now [05] and I will get
+       to work on it.
+
+[US#1480] (commander / ARMS ops)
+  JP : 「エマ・モーターの[再]起動が完了しだい / [次]のミッションを通達する / それまでは、[各]自自由行動だ
+  LIT: As soon as the EMMA motor's restart is complete, I'll relay your next mission. Until then, act freely on your own.
+  RE : Once the EMMA motor is
+       restarted, I'll relay your
+       next mission. Rest till then.
+
+[US#1481] (Gubacho / chief engineer)
+  JP : 「[年代]物のエマ・モーターとて / ちょいちょいの / コレもんで[再]起動はバッチリじゃ
+  LIT: Even an antique EMMA motor like this, with a bit of tinkering, I'll get it restarted just fine.
+  RE : Even an antique EMMA motor,
+       with a little tinkering,
+       I'll restart it just fine.
+
+[US#1482] (Gubacho / chief engineer)
+  JP : 「ま、時間がたりないゆえに / 起動後の動作確認とか / 安全テストとかは、まあ、アレじゃがな
+  LIT: Well, since there's not enough time, the post-startup checks and safety tests are, well, you know...
+  RE : Well, with time so short,
+       the startup checks and safety
+       tests are, well, you know...
+
+[US#1483] (commander / ARMS ops)
+  JP : 「こちらの準備ができ[次第] / 我々は『ガーディアン』と[交信]を試みる
+  LIT: As soon as we're ready here, we will attempt to make contact with the Guardians.
+  RE : As soon as we're ready,
+       we'll try to make contact
+       with the Guardians.
+
+[US#1484] (commander / ARMS ops)
+  JP : 「『世界を[支]える力』と呼ばれる / [神秘]の保護獣と[交信]できれば / 大きな戦力となる
+  LIT: If we can contact the mystical protector-beasts called "the power that supports the world," they'll be great fighting strength.
+  RE : Called the power that
+       holds up the world, these
+       Guardians would be a great ally.
+
+[US#1485] (commander / ARMS ops)
+  JP : 「その[交信]の『[鍵]』が / ようやく判[明]したのだ
+  LIT: We have finally learned the "key" to making that contact.
+  RE : And we've finally learned
+       the |key| to making
+       that contact.
+
+[US#1486] (commander / ARMS ops)
+  JP : 「戦いの[規]域がどんどん大きくなる〜 / 俺たちの力で / どこまで[受]け止めていられるのだろう
+  LIT: The scale of this fight keeps growing. How far can we hold it back with our own strength?
+  RE : The scale of battle keeps
+       growing. How far can our
+       strength hold it back?
+
+[US#1487] (commander / ARMS ops)
+  JP : 「もしも、[ひる]むようなことがあれば / 人々が[送]るささやかな[幸せ]は / 世界の果てまで[損な]ることとなる
+  LIT: If we ever flinch, the modest happiness people live will be lost to the ends of the world.
+  RE : If we ever flinch, the
+       small peace people enjoy
+       will be lost to the world's end.
+
+[US#1488] (commander / ARMS ops)
+  JP : 「そうさせないための / ＡＲＭＳだ
+  LIT: ARMS exists to keep that from happening.
+  RE : That is what ARMS
+       is here to prevent.
+
+[US#1489] (commander / ARMS ops)
+  JP : 「[短]い時間だが / 身体を休めておいてほしい / 休[息]も立派な任務だからな
+  LIT: It's only a short while, but I want you to rest. Rest is a fine duty too.
+  RE : It's only a short while,
+       but rest yourselves.
+       Rest is a duty too.
+
+[US#1490] (Young ARMS boy)
+  JP : 「そんなことが許されるのかッ！
+  LIT: How could such a thing be allowed?!
+  RE : How could such a thing
+       be allowed?!
+
+[US#1491] SKIPPED (JP box is a lone control code [17] with no dialogue text; system/formatting
+  box, nothing to translate.)
+
+[US#1492] (Young ARMS boy)
+  JP : 「[05]がの命ひとつで / ファルガイアの命、すべてが救われる
+  LIT: With [05]'s single life, all the lives of Filgaia will be saved.
+  RE : With [05]'s single life,
+       all of Filgaia's lives
+       will be saved.
+
+[US#1493] SKIPPED (no content box at this US# in the brief; system/empty slot.)
+
+[US#1494] (Young ARMS boy)
+  JP : 「[...][...]そんなの〜 / そんなの、オデッサのヤツらと同じだよッ！
+  LIT: ...That's... that's just the same as those Odessa people!
+  RE : ...That's... that's just
+       like those Odessa people!
+
+[US#1495] SKIPPED (JP box is a lone control code [17] with no dialogue text; system/formatting
+  box, nothing to translate.)
+
+[US#1496] (system alert)
+  JP : ＞何者かが / ヴァレリアシャトー街に侵入したもようッ！
+  LIT: It appears someone has intruded into Valeria Chateau!
+  RE : >Someone appears to have
+       broken into Valeria Chateau!
+
+[US#1497] SKIPPED (no content box at this US# in the brief; system/empty slot.)
+
+[US#1498] (crew member)
+  JP : 「その[隔][壁]を破[壊]して / 侵入してくるとなると[...][...]
+  LIT: If they've broken through that bulkhead and are coming in...
+  RE : If they've broken through
+       that bulkhead and are
+       coming this way...
+
+[US#1499] SKIPPED (JP box is a lone control code [17] with no dialogue text; the EN Rosetta
+  here about the De Le Metalica hull has no matching decoded JP. Nothing to translate.)
+
+[US#1500] (crew member)
+  JP : 「そう、[?][動]するだけでいいッ！
+  LIT: Yes, you just have to [?], and that's all!
+  RE : Yes, you just have to
+       [?], and that's all!
+
+[US#1501] SKIPPED (no content box at this US# in the brief; system/empty slot.)
+
+[US#1502] (Young ARMS boy)
+  JP : 「急ごうッ！
+  LIT: Let's hurry!
+  RE : Let's hurry!
+
+[US#1503] (Caina / Cocytus)
+  JP : 「今ごろはジュデッカが / 『鍵』の[少年]を確保しているはず / 私の役目はここまでよ〜
+  LIT: By now Judecca should have secured the |Key| boy. My part ends here.
+  RE : By now Judecca has the
+       |Key| boy in hand. My
+       part ends here.
+
+[US#1504] (the |Key| boy / Tim)
+  JP : 「死なないと / ボクは、ボクである意[味]が無いんだ
+  LIT: Unless I die, there's no meaning in my being me.
+  RE : Unless I die, there's no
+       meaning in my being me.
+
+[US#1505] (the |Key| boy / Tim)
+  JP : 「いなくなって[初]めて / ボクがここにいた[証]ができるんだ〜
+  LIT: Only once I'm gone can there be proof that I was ever here.
+  RE : Only once I'm gone can
+       there be proof that I
+       was ever here.
+
+[US#1506] (the |Key| boy / Tim, sleeping)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snore) ...snore... snore... snore...
+  RE : zzz...zzz...zzz
+
+[US#1507] (the |Key| boy / Tim)
+  JP : 「こわいよ〜 / こわいよ〜
+  LIT: I'm scared... I'm so scared...
+  RE : I'm scared...
+       I'm so scared...
+
+[US#1508] (Young ARMS boy)
+  JP : 「[走]っていきたい〜 / 駆けつけたい〜
+  LIT: I want to go to them... I want to rush over to them...
+  RE : I want to go to them...
+       I want to rush to their side...
+
+[US#1509] (Young ARMS boy)
+  JP : 「キミが[怖]いめにあわないように / ボクがキミを[守]りたいよ〜
+  LIT: I want to protect you so you won't have to face anything frightening.
+  RE : I want to protect you
+       so you never face
+       anything frightening again.
+
+[US#1510] (Young ARMS boy)
+  JP : 「そのために / 俺ができることは〜
+  LIT: And to do that, what I can do is...
+  RE : And to do that, what
+       I can do is...
+
+[US#1511] (Young ARMS boy)
+  JP : 「考えるまでもないだろう / [走]って行くんだよ / できるだろ？ [05]がならさ
+  LIT: It's obvious, isn't it? You go to them. You can do that, right, [05]?
+  RE : It's obvious, isn't it?
+       You go to them. You can
+       do that, right, [05]?
+
+[US#1512] (Young ARMS boy)
+  JP : 「この[船]に[乗]り込んでみたんだけど / やっぱりダメなんだよ
+  LIT: We snuck aboard this ship, but it's no use after all.
+  RE : We snuck aboard this
+       ship, but it's no
+       use after all.
+
+[US#1513] (Young ARMS boy)
+  JP : 「僕たちの代りにな / そうだ、少[年]ＡＲＭＳ代表ってことでさ
+  LIT: In our place, yeah. As the one who represents Young ARMS.
+  RE : In our place. Yeah, as
+       the one who stands for
+       Young ARMS.
+
+[US#1514] (Young ARMS boy)
+  JP : 「でもな、[05]が〜 / 立ち上がるのは / 自分自身の足だぞ
+  LIT: But listen, [05], the one who stands up is you, on your own two feet.
+  RE : But listen, [05], when
+       you rise, it's on your
+       own two feet.
+
+[US#1515] (Young ARMS boy)
+  JP : 「無理なんかしなくていいんだ / みんな、本当に自分のしたいことは / 何とかできるようになってるんもんだ
+  LIT: You don't have to force yourself. What you truly want to do, you'll always find a way to manage.
+  RE : Don't force yourself.
+       What you truly want to do,
+       you'll find a way to manage.
+
+[US#1516] (Young ARMS boy)
+  JP : 「僕たちのぶんまで / あんちゃんを助けてやってくれよなッ！
+  LIT: Help out big brother for our sake too!
+  RE : Help out big brother
+       for our sake too!
+
+[US#1517] (Young ARMS boy)
+  JP : 「[05]がは / ずいぶんと強くなったように思われます
+  LIT: [05] seems to have grown quite strong.
+  RE : [05] seems to have
+       grown quite strong.
+
+[US#1518] (Young ARMS boy)
+  JP : 「最[初]から / [05]がは強かったんだ
+  LIT: From the very start, [05] was strong.
+  RE : From the very start,
+       [05] was strong.
+
+[US#1519] (Young ARMS boy)
+  JP : 「じゃなければ / 僕たち、少[年]ＡＲＭＳの / 一[員]なんかじゃねぇよ〜
+  LIT: Otherwise, he'd never be one of us, a member of Young ARMS.
+  RE : Or he'd never have been
+       one of us, a member
+       of Young ARMS.
+
+[US#1520] (Caina / Cocytus)
+  JP : 「[痛]いのイヤでしょ？
+  LIT: You don't want it to hurt, do you?
+  RE : You don't want it to
+       hurt, now do you?
+
+[US#1521] (crew member / defiant)
+  JP : 「世界を[守]るために / 『鍵』は存在するのだ / お前たちの道[具]なんかではないッ！
+  LIT: The |Key| exists to protect the world, not to be your tool!
+  RE : The |Key| exists to
+       protect the world, not
+       to be your plaything!
+
+[US#1522] (Caina / Cocytus)
+  JP : 「お前を確保するのが / 今回の作戦だが / ちょっとばかりお仕置きが必要だね
+  LIT: This operation was to capture you, but it seems you need a bit of punishment first.
+  RE : Our mission was to capture
+       you, but it seems you
+       need some punishment first.
+
+[US#1523] (Caina / Cocytus)
+  JP : 「作戦変更ッ！ / 『鍵』の確保が[不可]能ならば / 破滅するまでのことよッ！
+  LIT: Change of plan! If capturing the |Key| is impossible, then we'll just destroy him!
+  RE : Change of plan! If the
+       |Key| can't be taken,
+       then we destroy him!
+
+[US#1524] (system alert)
+  JP : ＞ヴァレリアシャトー街にて / [爆][発]物反応を[探]知ッ！ / 場所は〜 カタパルト部ですッ！
+  LIT: In Valeria Chateau, an explosive reaction detected! The location is the catapult section!
+  RE : >Bomb detected in Valeria
+       Chateau! Location: the
+       catapult section!
+
+[US#1525] SKIPPED (JP box is empty in the decode; the only text is EN Rosetta drift already
+  covered by US#1523's decoded JP. No source text to translate.)
+
+[US#1526] SKIPPED (JP box is empty in the decode; the only text is EN Rosetta drift already
+  covered by US#1524's decoded JP. No source text to translate.)
