@@ -1,0 +1,553 @@
+# WA2 — TOWN OF MERIA — NPC / ambient dialogue (block 3, US#293-490) — DEEP RE
+# =========================================================================================
+# The full town of Meria the morning of Ashley's send-off: bakery patrons, Marina's family, the
+# orphan kids (Tony/Scott/Tim), the inn, and the tutorial NPCs (Encounter Cancel, Personal Skills,
+# ARM modding, Merc lore, Mediums). Complements m1_meria_FINAL.txt (the 16-box ceremony spine) —
+# together they complete area MR. Also carries the raw Ashley/Marina argument that the story hinges on.
+# JP block-decoded (block 3, fully tabled). No em dashes. <=3 lines. US# = real block-3 slots.
+# GLOSSARY: {0}=Ashley {2}=Marina (name codes [05]=Ashley slot, [0a]=Marina slot in raw JP); Dude/
+#   あんちゃん = Tony's nickname for Ashley; ミーディアム=Medium; 渡り鳥=Merc; ＰＳポイント=PS points.
+# Columns: JP (clean) / LIT / EN (current) / RE (final).
+# =========================================================================================
+
+[US#293] (examine prompt)
+  JP : ＊進みますか？
+  LIT: Do you want to proceed?
+  EN : Do you want to read it?
+  RE : Read it?
+
+[US#300] (Baker)
+  JP : 「行く前に、うちのパンを食べていきな
+  LIT: Before you go, have some of our bread.
+  EN : Try my bread before you go.
+  RE : Before you head out, have
+       some of our bread.
+
+[US#302] (Baker's wife)
+  JP : 「何だか、家族の頃の / {0}を見ているみたい
+  LIT: Somehow it's like seeing {0} back when he was a child.
+  EN : This reminds me of when you were a child.
+  RE : Somehow it's like seeing you
+       back when you were a boy, {0}.
+
+[US#305] (townsman)
+  JP : 「この岸に出没するモンスターも / バカにはできないからね
+  LIT: The monsters that show up on this shore aren't to be taken lightly either.
+  EN : The monsters around here are nothing to be sneezed at.
+  RE : The monsters on this shore
+       aren't to be taken lightly.
+
+[US#307] (Tony, on Marina's bread)
+  JP : 「それに、{2}ちゃんの / 苦しむ姿も見たくなかったしな
+  LIT: Besides, I didn't want to see {2} suffering either.
+  EN : Besides, I wouldn't want to see {2} heartbroken.
+  RE : Besides, I didn't want to
+       see {2} hurting either.
+
+[US#309] (Tony)
+  JP : 「{2}ちゃんがつくってるって / 考えただけで、もう〜
+  LIT: Just thinking that {2} made it, and oh...
+  EN : When I think that {2} made this with her own hand...
+  RE : Just the thought that {2}
+       made this herself, and oh...
+
+[US#310] (Tony)
+  JP : 「あ、おばちゃんがつくっているとか / そういうのは、なし / 基本でしょ？
+  LIT: Ah, no saying the old lady made it. That's the basic rule, right?
+  EN : So I don't wanna hear that the old lady makes it, OK? That would ruin the fantasy.
+  RE : And no saying the old lady
+       made it, okay? That's the
+       rule.
+
+[US#313] (Tony, of Ashley's friends)
+  JP : 「知らなかった〜 / あんちゃん / 僕たち以外にも友だちいたんだ〜
+  LIT: I had no idea. Dude, you had friends besides us.
+  EN : I didn't know the Dude had any friends other than me.
+  RE : Had no idea, Dude. You've got
+       friends besides us.
+
+[US#316] (Scott, relieved)
+  JP : 「{0}さんに / わたくしたち以外にも / お友だちがいて安心しました
+  LIT: I'm relieved that {0} has friends besides us.
+  EN : ... {0} has friends other than us. I am quite relieved.
+  RE : I'm relieved that you have
+       friends besides us, {0}.
+
+[US#320] (old man, reminiscing)
+  JP : 「ワシも若い頃は〜（以下、雄弁）
+  LIT: In my young days too... (and on, eloquently)
+  EN : When I was young, I... (snip)
+  RE : In my day, I... (and on,
+       and on, and on)
+
+[US#324] (townsman)
+  JP : 「ＯＫ！ ＯＫ！ / 若いうちは / そのくらいハメを外さなきゃイカン
+  LIT: OK! OK! While you're young you've got to cut loose that much.
+  EN : That's good! 'Cuz when you're young, sometimes you gotta go wild, right?
+  RE : OK, OK! While you're young
+       you've got to cut loose a
+       little, right?
+
+[US#339] (girl, flirting with Ashley)
+  JP : 「これから、あんたを{2}から / 私に振り向かせようとしてるのに / 肝心のあんたがいなくなったらどーすんのッ
+  LIT: I'm about to make you turn from {2} to me, and if you up and vanish, what am I to do?!
+  EN : Here I am trying to get you to notice me instead of {2} and you're not even around!
+  RE : I'm trying to steal you away
+       from {2}, and here you go
+       vanishing on me!
+
+[US#341] (girl)
+  JP : 「何だかいつも / ケンカしているみたいに / 見えるのよね
+  LIT: Somehow you two always look like you're quarreling.
+  EN : It seems like you two are always arguing, you know?
+  RE : Somehow you two always look
+       like you're bickering.
+
+[US#342] (girl, about the chateau)
+  JP : 「わたしはその岸が / 気になってしょうがないのよ〜
+  LIT: I just can't stop wondering about that shore.
+  EN : I just HAVE to find out what is really going on.
+  RE : I just can't stop wondering
+       about that place.
+
+[US#343] (girl, on monsters)
+  JP : 「カエルみたいな『ゴモラトード』や / ダンゴ虫みたいな『ピルバグ』は / 実に危険なモンスターだって
+  LIT: The frog-like "Gomorrah Toad" and the pill-bug-like "Pill Bug" are truly dangerous monsters.
+  EN : The really dangerous monsters are frog-like Gomorrah Toads and porcupine-looking Pill Bugs.
+  RE : The frog-like Gomorrah Toads
+       and pill-bug Pill Bugs are
+       really dangerous, they say.
+
+[US#344] (girl, embarrassed)
+  JP : 「〜やだ、わたし / 何だか、怪獣マニアみたいじゃない〜
+  LIT: Oh no, don't I sound like some monster geek?
+  EN : I bet I just sounded like one of those monster-fan geeks.
+  RE : Oh no, don't I sound like
+       some monster geek?
+
+[US#348] (townswoman)
+  JP : 「助からなかった人たちは残念だったけど〜
+  LIT: It's a shame about the ones who couldn't be saved, but...
+  EN : It's too bad about the others.
+  RE : It's a shame about the ones
+       who couldn't be saved, but...
+
+[US#349] (townswoman)
+  JP : 「でもね、彼女 / 苦しんだり / 落ち込んだりするだけじゃ、ダメなんだよ
+  LIT: But you know, dear, just grieving and getting down over it won't do.
+  EN : But don't feel sad or get depressed about them, loverboy.
+  RE : But you know, dear, just
+       grieving and moping over it
+       won't do.
+
+[US#350] (townswoman)
+  JP : 「その人たちのことをずっと忘れずに / アタシたちは、次るく楽しく生きなくちゃ / いけないんだと思うの。 いい？
+  LIT: Never forgetting them, we've got to live brightly and happily from here on. All right?
+  EN : Instead, we must keep them in our hearts, and live life to the fullest. OK?
+  RE : We keep them in our hearts and
+       go on living brightly. That's
+       how it should be. All right?
+
+[US#361] (old man)
+  JP : 「〜なんじゃ、楽しそうじゃな若いの / だったらワシの話は / あとにさせてもらうよ
+  LIT: Oh, you look busy having fun, youngster. Then I'll save my story for later.
+  EN : Young feller, you seem pretty busy, so I'll save this story for later.
+  RE : You look busy, youngster.
+       I'll save my story for
+       later, then.
+
+[US#364] (guest, on his room)
+  JP : 「もしテロがここに侵入するとしたら / あの穴からくるかもしれないからね / やっぱり部屋をかえてもらって正解だったな
+  LIT: If terrorists broke in here, they might come through that hole, so switching rooms was the right call.
+  EN : I bet the terrorists would use that hole to sneak in here. It's good I changed rooms!
+  RE : If terrorists broke in, they'd
+       use that hole. Switching rooms
+       was the right call.
+
+[US#368] (guest)
+  JP : 「文句を言って / こっちの部屋に変えてもらったんだ
+  LIT: I complained and had them switch me to this room.
+  EN : So I complained and had them put me in this room instead.
+  RE : I complained and got them to
+       switch me to this room.
+
+[US#369] (kid, showing off)
+  JP : 「見た？ 見た？ / 見てくれたかな？ / 僕のぜつみょーなタイミングを
+  LIT: Did you see it? Did you? My exquisite timing?
+  EN : Did you see that? Did you witness my amazing skill and timing?
+  RE : Did you see? Did you see my
+       perfect timing just now?
+
+[US#374] (townsman)
+  JP : 「モンスター以外にも / テロリストなんてモノにまで / 気をつけなくちゃいけないなんて〜
+  LIT: To have to watch out for terrorists on top of monsters...
+  EN : First monsters, then terrorists. If it isn't one thing, it's another.
+  RE : Monsters, and now terrorists
+       too. It's always something.
+
+[US#377] (girl, on sorceresses)
+  JP : 「〜でも、魔法使いって / おばあさんとかのイメージがありました〜
+  LIT: But I always pictured a mage as some old woman.
+  EN : Witches use magic, but witches are usually old hags...
+  RE : But I always pictured a mage
+       as some old woman...
+
+[US#379] (kid, to Lilka)
+  JP : 「ボクには、何もないから / すごくうらやましいです
+  LIT: I've got nothing, so I really envy you.
+  EN : I can't do anything, so I really envy you.
+  RE : I've got no talent at all,
+       so I really envy you.
+
+[US#381] (examine — Personal Skills tutorial)
+  JP : ＊バトル時に効果を発揮する / この機能は / ＰＳポイントを消費することで修得できる
+  LIT: This feature, which takes effect in battle, is learned by spending PS points.
+  EN : These skills used in battle are acquired by spending PS points.
+  RE : These battle skills are
+       learned by spending
+       PS points.
+
+[US#384] (examine)
+  JP : ＊しかし、すべてのパーソナルスキルを / 修得するためには、９９ポイント以上の / ＰＳポイントが必要と設定されている
+  LIT: But learning every Personal Skill is set to require more than 99 PS points.
+  EN : However, acquiring all Personal Skills takes more than 99 points.
+  RE : But learning every Personal
+       Skill takes more than 99
+       PS points.
+
+[US#386] (examine)
+  JP : ＊だが、すべてのスキルが / ＰＳポイント１で修得できるのではない
+  LIT: But not every skill can be learned for 1 PS point.
+  EN : Some skills require more than 1 PS point.
+  RE : And not every skill can be
+       learned for just 1 PS point.
+
+[US#387] (examine)
+  JP : ＊お手軽なパーソナルスキルを / たくさん設定するか / 効果の高いスキルを地道に設定するか〜
+  LIT: Set many cheap Personal Skills, or steadily set high-effect ones...
+  EN : You can acquire many simple Personal Skills, or save up to acquire a single powerful one.
+  RE : Set many cheap skills, or
+       save up for a few powerful
+       ones. Your call.
+
+[US#391] (examine — ARM modding)
+  JP : ＊最後に / ただ働きはするなッ！
+  LIT: Lastly: don't work for free!
+  EN : Lastly, never work for free!
+  RE : And lastly: never
+       work for free!
+
+[US#392] (examine)
+  JP : ＊攻撃力を高めるのか / 命中率を高めるのか / それとも、弾年を費やすのか
+  LIT: Raise attack power, raise hit rate, or spend on ammo count?
+  EN : You can enhance your attack power, your hit probability, or your ammo count.
+  RE : Raise attack power, raise
+       accuracy, or boost ammo
+       capacity.
+
+[US#393] (examine)
+  JP : ＊どのようなアームにしたいのかを決め / 効率のよい改造をおすすめする
+  LIT: Decide what kind of ARM you want, and mod efficiently, I'd advise.
+  EN : Decide what kind of ARM you want, then modify efficiently.
+  RE : Decide what kind of ARM you
+       want, then mod it
+       efficiently.
+
+[US#394] (examine)
+  JP : ＊すべてを徹底的に / パワーアップしようとすると / 使い勝手の悪いアームになることがある
+  LIT: Trying to power up everything thoroughly can make for an ARM that's awkward to use.
+  EN : Trying to enhance every aspect can result in an ARM that is awkward to use.
+  RE : Trying to max out everything
+       can leave you with an ARM
+       that's awkward to use.
+
+[US#396] (examine — Merc lore)
+  JP : ＊『渡り鳥』は / 大きく分けると二つのタイプに分かれる
+  LIT: "Mercs" split broadly into two types.
+  EN : Mercs can be broadly divided into two types.
+  RE : Mercs split broadly
+       into two types.
+
+[US#397] (examine)
+  JP : ＊一つは、遺跡に潜り、探索しながら / 遺跡にある宝物を手に入れようとするタイプ
+  LIT: One type dives into ruins, exploring, trying to claim the treasures within.
+  EN : One type hunts for treasures in the ruins.
+  RE : One dives into ruins,
+       exploring for the
+       treasures inside.
+
+[US#399] (examine)
+  JP : ＊どちらにせよ、世間一般の人々から見れば / ならず者と大差ないことを / 知っておく必要がある
+  LIT: Either way, in the eyes of ordinary folk they're little different from ruffians; you should know that.
+  EN : Remember that the public considers both types to be scoundrels.
+  RE : Either way, ordinary folk see
+       them as little better than
+       ruffians. Bear that in mind.
+
+[US#402] (Innkeeper)
+  JP : 「おひとり方につき一緒{n}ギャラ / {n}人方ですので、{n}ギャラとなります / よろしいですか？
+  LIT: It's {n} Gella per person, and for {n} people that's {n} Gella. Is that all right?
+  EN : The rate is Gella/night per person. So people makes Gella total. OK?
+  RE : It's {n} Gella per person, so
+       for {n} that's {n} Gella.
+       All right?
+
+[US#405] (Baker's wife)
+  JP : 「それよりもお友だちが来ているわよ
+  LIT: More to the point, a friend of yours is here.
+  EN : Anyway, you have visitors.
+  RE : Anyway, a friend of yours
+       is here to see you.
+
+[US#407] (Tony)
+  JP : 「あんちゃんが / 僕を助けてくれたおかげだよ
+  LIT: It's all thanks to you saving me, Dude.
+  EN : But I wouldn't be if you hadn't rescued me, Dude!
+  RE : It's all because you saved
+       me, Dude!
+
+[US#409] (Scott)
+  JP : 「わたくしなりの結論といたしましては / どうやらあなたは / とても良い人とお見受けしました
+  LIT: My conclusion is that you appear to be a very good person.
+  EN : In my humble opinion, you would seem to be a very good person.
+  RE : My conclusion is that you
+       seem to be a very good
+       person.
+
+[US#410] (Scott / Tim)
+  JP : 「これからも / お見知りおきをよろしくお願いします
+  LIT: Please continue to think kindly of us.
+  EN : I am pleased to make your acquaintance.
+  RE : Please think kindly of
+       us from here on.
+
+[US#412] (Tony, the favor)
+  JP : 「力を貸してくれよ / 僕たちじゃどうしようもできないんだ
+  LIT: Lend us your strength. We can't do anything on our own.
+  EN : Well, we need your help! We can't do this on our own!
+  RE : Lend us a hand. We can't
+       manage this on our own.
+
+[US#414] (Tony)
+  JP : 「家父に / 僕の大事な宝物を / とられちゃったんだ〜
+  LIT: That cat took a treasure precious to me.
+  EN : This kitten made off with a treasure of ours.
+  RE : That cat ran off with a
+       treasure precious to me.
+
+[US#415] (Tony)
+  JP : 「わかるかな？ / あの屋根の上にいる家父がそうなんだ
+  LIT: See it? That cat up on the roof is the one.
+  EN : It's the kitten up there on the roof.
+  RE : See it? That cat up on the
+       roof is the one.
+
+[US#416] (Scott)
+  JP : 「何とかしたいのは、やまやまなのですが / いかんともしがたいのは / 家父ちゃんは屋根の上ということです
+  LIT: We badly want to do something, but the trouble is the cat is up on the roof.
+  EN : We find ourselves unable to remedy the situation as the kitten is on a roof.
+  RE : We'd love to help, but the
+       trouble is the cat is up
+       on the roof.
+
+[US#417] (Scott)
+  JP : 「ごめんなさい / 何とかなりませんか？
+  LIT: Sorry, but could you do something?
+  EN : I am sorry to bother you, but can you do something?
+  RE : Sorry to ask, but could
+       you do something?
+
+[US#421] (kid, the Medium)
+  JP : 「これはミーディアムといって / ガーディアンの力が / 宿っているといわれてるんです
+  LIT: This is called a Medium; a Guardian's power is said to dwell in it.
+  EN : This is a Medium. It supposedly contains the power of a Guardian.
+  RE : This is a Medium. A Guardian's
+       power is said to dwell
+       within it.
+
+[US#422] (kid)
+  JP : 「死んだ母さんが、お守りにって〜 / {0}さん / 危険なお仕事しているから〜元気です
+  LIT: My late mother gave it as a charm. {0}, you do dangerous work, so... take care.
+  EN : Before she died, Mom gave this to me as a good luck charm. I want you to have it, 0.
+  RE : My late mom gave it to me as
+       a charm. You do dangerous
+       work, {0}, so please take it.
+
+[US#424] (kid)
+  JP : 「そして、それぞれのミーディアムには / 『カスタムコマンド』と呼ばれる / バトル用コマンドがそなわっています
+  LIT: And each Medium comes with a battle command called a "Custom Command".
+  EN : Each Medium has its own |Custom Command,| a special battle command.
+  RE : And each Medium carries a
+       battle command called a
+       |Custom Command|.
+
+[US#425] (kid)
+  JP : 「バトル時のコマンドに / 新たに追加される『カスタムコマンド』は / きっと役に立つと思います
+  LIT: The Custom Command, newly added to your battle commands, will surely be useful.
+  EN : The |Custom Command| is added to your battle commands and will come in handy.
+  RE : The |Custom Command| gets added
+       to your battle menu, and it's
+       sure to come in handy.
+
+[US#430] (Tony, on principle)
+  JP : 「とられたモノが惜しいんじゃなくて / 宝物をとられたコトが悔しかったんだ
+  LIT: It's not that the thing was precious; it was being robbed of my treasure that stung.
+  EN : This is a matter of principle. I have it back, so I'm happy.
+  RE : It's not the thing itself.
+       Being robbed of my treasure
+       is what stung.
+
+[US#438] (kid, forgetful)
+  JP : 「ごめんなさい / 〜忘れてしまいました〜
+  LIT: Sorry... I've forgotten it...
+  EN : But I can't remember what it was. Sorry.
+  RE : Sorry... I've gone and
+       forgotten it...
+
+[US#441] (Ashley, doubting)
+  JP : 「〜でも、なんで俺が選ばれたんだ〜 / そうだ、俺は命令違反をして / 謹慎処分を受けるくらいしかしていないのに
+  LIT: But why was I chosen? All I did was disobey orders and get confined to quarters.
+  EN : But do I even deserve this? After all, I did get confined to quarters for insubordination.
+  RE : But why was I chosen? All I
+       did was break orders and land
+       in confinement.
+
+[US#442] (Ashley)
+  JP : 「わからない〜 / わからないな〜
+  LIT: I don't get it... I just don't get it.
+  EN : I don't get it. I just don't get it.
+  RE : I don't get it...
+       I just don't get it.
+
+[US#444] (Ashley)
+  JP : 「どうしてあの時 / {2}はあんなに叱ったのかな？
+  LIT: Why did {2} scold me so much back then?
+  EN : Why was {2} so angry then?
+  RE : Why did {2} come down
+       on me so hard back then?
+
+[US#446] (Ashley)
+  JP : 「いつも一緒にいて / 楽しいこともたくさんあるけれど / 同じくらいケンカもしているかな〜
+  LIT: We're always together, plenty of fun, but about as much quarreling too.
+  EN : We're always together, and sometimes we have fun, but we argue just as much, too.
+  RE : Always together, lots of good
+       times, but about as much
+       bickering too.
+
+[US#448] (Ashley)
+  JP : 「〜俺と{2}って / いったい何なんだろう〜
+  LIT: What on earth are {2} and I to each other?
+  EN : What kind of relationship do I have with {2}, anyway?
+  RE : What are {2} and I
+       to each other, anyway?
+
+[US#450] (Tony, at the send-off)
+  JP : 「{0}を / みんなで見送ろうって時に / 何やってんのかな？
+  LIT: When everyone's here to see {0} off, what's she doing?
+  EN : And here we are, all gathered for a big send-off for 0. Where could she be?
+  RE : Everyone's here to see {0}
+       off, and where's she got to?
+
+[US#455] (Ashley, leaving)
+  JP : 「〜じゃ、行ってくる
+  LIT: Well then, I'm off.
+  EN : Bye. See you soon!
+  RE : Well then... I'm off.
+
+[US#457] (Ashley)
+  JP : 「{2}だって、うれしいだろ？
+  LIT: You're glad too, aren't you, {2}?
+  EN : Aren't you happy, {2}?
+  RE : You're glad for me too,
+       aren't you, {2}?
+
+[US#458] (Ashley)
+  JP : 「たくさんの仲間の中から / 俺が選ばれたんだよ / 〜よろこんでくれないのか〜？
+  LIT: I was chosen out of so many comrades. Won't you be glad for me?
+  EN : Why aren't you happy for me? They picked me over a lot of other people, you know.
+  RE : I was picked out of so many.
+       Won't you be glad for me?
+
+[US#459] (Marina)
+  JP : 「そして〜 / {0}は、今よりも / もっと危険な任務に就くことになるのよ
+  LIT: And... {0}, you'll be taking on missions far more dangerous than now.
+  EN : They picked you for a mission that's even more dangerous than before!
+  RE : And it means you'll be taking
+       on missions far more dangerous
+       than now, {0}.
+
+[US#460] (Marina)
+  JP : 「そんなこと / わたしは、うれしくない〜
+  LIT: That's not something I can be glad about.
+  EN : How can I be happy about that?
+  RE : That's not something I
+       can be glad about.
+
+[US#473] (Marina, later)
+  JP : 「〜何なの？
+  LIT: ...What is it?
+  EN : Huh?
+  RE : ...What is it?
+
+[US#474] (Marina)
+  JP : 「{0}は、{0}よ / それ以外の何だっていうの？
+  LIT: {0} is {0}. What else would you be?
+  EN : Of course you are, 0. Who else could you be?
+  RE : You're you, {0}. What else
+       would you be?
+
+[US#476] (Marina)
+  JP : 「調家が戻ったら / ご挨拶くらいには行ってきなさい
+  LIT: Once you're feeling yourself again, at least go pay your respects.
+  EN : You should go thank him when you feel better.
+  RE : Once you're feeling yourself
+       again, go and pay your
+       respects, at least.
+
+[US#479] (Marina)
+  JP : 「ヴァレリアさんへのご挨拶 / 忘れちゃダメよ / 家族じゃないんだから
+  LIT: Don't forget to greet Sir Valeria. You're not family, after all.
+  EN : Don't forget to go thank Sir Valeria. It's the mature thing to do.
+  RE : Don't forget to thank Sir
+       Valeria. You're not family,
+       after all.
+
+[US#481] (traveler)
+  JP : 「それでジェムは使い切っちゃうし / お金も無くなっちゃうし〜
+  LIT: So I used up all my gems, and I'm out of money too...
+  EN : I ran out of gems and money to boot.
+  RE : So I used up all my gems,
+       and I'm broke too...
+
+[US#483] (traveler)
+  JP : 「つい、お店の焼けたパンのニオイに誘われて / なんとなーく、フラっと〜
+  LIT: The smell of the shop's fresh bread just drew me in, sort of wandering...
+  EN : I smelled your freshly baked bread and it drew me here.
+  RE : The smell of your fresh bread
+       just drew me in, wandering
+       over without thinking.
+
+[US#484] (Baker)
+  JP : 「お姉ちゃん、うちのパンで良かったら / いくらでも持っていっていいんだよ
+  LIT: Miss, if our bread suits you, take as much as you like.
+  EN : Young lady, take as much of our bread as you can carry.
+  RE : Miss, if you like our bread,
+       take as much as you please.
+
+[US#490] (Marina, introducing herself)
+  JP : 「わたしは、{2} / {2}・エレニアック / よろしくお願いしますッ！
+  LIT: I'm {2}. {2} Eleniak. Pleased to meet you!
+  EN : My name is 2. 2 Eleniak. Pleased to make your acquaintance!
+  RE : I'm {2}. {2} Eleniak.
+       Pleased to meet you!
+
+# =========================================================================================
+# STATUS: Town of Meria NPC/ambient — DEEP RE (68 boxes, block 3). Completes area MR alongside
+#   m1_meria_FINAL.txt (ceremony spine). US# reconciled by construction; em-dash-free; <=3 lines.
+# COVERS: bakery patrons, Marina's family, orphan kids (Tony/Scott/Tim + kitten-on-roof favor),
+#   inn, flirt girl, tutorial NPCs (Encounter Cancel via 333-338 already in ceremony file, Personal
+#   Skills 381-387, ARM modding 391-394, Merc lore 396-399, Medium 421-425), and the Ashley/Marina
+#   argument (441-460) + morning-after (473-490). Name codes: {0}=Ashley {2}=Marina, {n}=number slot.
+# NOTE: skipped pure-SFX/dup slots (16 code, 30 filler, exact-duplicate tutorial repeats). The battle
+#   tutorial encounter-cancel pair (333-338) belongs with the ceremony walk; kept there.
+# =========================================================================================

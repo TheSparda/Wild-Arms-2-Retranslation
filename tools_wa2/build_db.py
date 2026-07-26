@@ -79,6 +79,7 @@ SCENES = [
  ('lilka_intro_FINAL.txt','MP',"Magic Lesson with her sister",'25'),
  ('brad_intro_FINAL.txt','BI',"Fugitive in the Rain",'24'),
  ('m1_meria_FINAL.txt','MR','Ceremony morning','3'),
+ ('m1_meria_npc_FINAL.txt','MR','Town NPCs & ambient (bakery, kids, inn, tutorials, Ashley/Marina argument)','3'),
  ('m1_swordcathedral_lore_FINAL.txt','SC',"Argetlahm / Sword Magess legend (readable panels)",'5'),
  ('m1_swordcathedral_FINAL.txt','VC',"King of Meria Boule — recurring throne-room audience (spans whole game)",'5'),
  ('m1_library_history_FINAL.txt','VC',"Library history books — the war-criminal hero + 3 nations",'5'),
