@@ -80,6 +80,9 @@ def process(path, dry):
             stats['kept_no_lit']+=1; out.extend(block); continue
         ported=port_codes(lit.strip(), cur_re)
         if ported!=lit.strip(): stats['ported']+=1
+        # No box may end on a trailing comma (style guide). A LIT that does is a lead-in that
+        # continues in the next box, so end it with '...' instead of copying the dangling comma.
+        ported=re.sub(r',\s*$', '...', ported)
         wl=wrap(' '.join(ported.split()))
         if len(wl)>MAXL or any(len(x)>WIDTH for x in wl):
             stats['kept_overfit']+=1; out.extend(block); continue
