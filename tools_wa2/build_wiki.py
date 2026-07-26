@@ -456,16 +456,24 @@ def build():
 <title>Wild Arms 2 — Retranslation Wiki</title>
 <style>
 {fontface}
-:root {{ --bg:#12141a; --panel:#1b1e27; --panel2:#232734; --ink:#e6e8ef; --dim:#9aa0b4; --acc:#6fb2ff;
-        --jp:#ffd479; --lit:#8fd3a0; --en:#c9a0ff; --re:#7fe3ff; --warn:#ff9d76; --line:#2d3140; }}
+/* palette tuned to the WA2 in-game menu: deep blue-slate panels, parchment text,
+   pale-cyan headers, burgundy accent frame */
+:root {{ --bg:#0e1622; --panel:#1c2740; --panel2:#243350; --ink:#ece3c8; --dim:#9fa8bd; --acc:#8fd0e8;
+        --jp:#f0c674; --lit:#a7d29a; --en:#c9a0ff; --re:#8fd0e8; --warn:#e88f6b; --line:#3a4a6e;
+        --bevel-hi:#3d5488; --bevel-lo:#0a1120; --frame:#7a2f3a; }}
 * {{ box-sizing:border-box; }}
 body {{ margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }}
 #wrap {{ display:flex; min-height:100vh; }}
-#side {{ width:310px; flex:0 0 310px; background:var(--panel); border-right:1px solid var(--line);
+#side {{ width:310px; flex:0 0 310px;
+         background:linear-gradient(180deg,#1c2740,#141d30);
+         border-right:2px solid var(--frame); box-shadow:inset -1px 0 0 var(--bevel-hi);
          position:sticky; top:0; height:100vh; overflow:auto; padding:16px 12px; }}
-#side h1 {{ font-size:16px; margin:0 0 8px; color:var(--acc); }}
+#side h1 {{ font-size:17px; margin:0 0 8px; color:#fff; letter-spacing:.5px;
+            text-shadow:0 1px 2px #000, 0 0 6px rgba(143,208,232,.35); }}
 #side .sub {{ color:var(--dim); font-size:12px; margin-bottom:14px; }}
-.statuscard {{ background:var(--panel2); border:1px solid var(--line); border-radius:8px;
+.statuscard {{ background:linear-gradient(180deg,#243350,#1a2338);
+               border:1px solid var(--bevel-hi); border-radius:6px;
+               box-shadow:inset 0 1px 0 rgba(143,208,232,.15), 0 2px 4px var(--bevel-lo);
                padding:10px 11px; margin:0 0 14px; font-size:11.5px; }}
 .statuscard .sc-row {{ display:flex; align-items:center; gap:6px; padding:1.5px 0; }}
 .statuscard .sc-k {{ color:var(--dim); flex:1; }}
@@ -506,12 +514,16 @@ body {{ margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 -apple-s
 .cnt {{ color:var(--dim); font-size:11px; }}
 #main {{ flex:1; padding:26px 34px 80px; max-width:1000px; }}
 .topbar {{ display:flex; gap:18px; align-items:baseline; flex-wrap:wrap; margin-bottom:6px; }}
-.topbar h1 {{ font-size:22px; margin:0; }}
+.topbar h1 {{ font-size:22px; margin:0; color:#fff; letter-spacing:.5px;
+              text-shadow:0 1px 2px #000, 0 0 8px rgba(143,208,232,.3); }}
 .stats {{ color:var(--dim); font-size:13px; }}
 .controls {{ margin:14px 0 22px; display:flex; gap:14px; flex-wrap:wrap; font-size:13px; color:var(--dim); }}
 .controls label {{ cursor:pointer; user-select:none; }}
 .scene {{ margin:0 0 40px; scroll-margin-top:14px; }}
-.scene h2 {{ font-size:19px; margin:0 0 4px; color:var(--acc); border-bottom:1px solid var(--line); padding-bottom:6px; }}
+.scene h2 {{ font-size:19px; margin:0 0 4px; color:#fff; padding:4px 10px;
+             background:linear-gradient(180deg,#2a3a5e,#1a2338);
+             border:1px solid var(--bevel-hi); border-left:4px solid var(--frame); border-radius:5px;
+             box-shadow:inset 0 1px 0 rgba(143,208,232,.15); text-shadow:0 1px 2px #000; }}
 .scenemeta {{ color:var(--dim); font-size:12px; margin-bottom:8px; }}
 .scenemeta .meta-gap {{ color:var(--warn); font-weight:600; }}
 .scenemeta .meta-ok {{ color:var(--re); }}
@@ -548,7 +560,9 @@ body.hide-gs .subscene.gap {{ display:none; }}
 .subscene {{ margin:10px 0 20px; }}
 .subscene h3 {{ font-size:15px; margin:14px 0 2px; color:var(--re); }}
 .subscene .subm {{ font-size:11.5px; color:var(--dim); font-weight:400; }}
-.box {{ background:var(--panel); border:1px solid var(--line); border-radius:9px; padding:10px 12px; margin:10px 0; }}
+.box {{ background:linear-gradient(180deg,#1e2942,#18213600); background-color:#1b2438;
+        border:1px solid var(--bevel-hi); border-radius:6px; padding:10px 12px; margin:10px 0;
+        box-shadow:inset 0 1px 0 rgba(143,208,232,.10), 0 1px 3px var(--bevel-lo); }}
 .box.noslot {{ opacity:.55; border-style:dashed; }}
 .boxhead {{ margin-bottom:6px; }}
 .bid {{ font-weight:700; color:var(--acc); font-size:12.5px; }}
