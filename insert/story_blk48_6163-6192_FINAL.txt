@@ -1,0 +1,167 @@
+# WA2 — Block 48, US#6163-6192 — FINAL (Judecca boss scene + Kanon's hero-blood awakening — block 48 complete)
+# =========================================================================================
+# The Judecca confrontation, intercut with Kanon's Sword-Magess-heir awakening: Judecca (the
+# glasses-adjusting sadist who "handicapped" the party to savor their suffering), Kanon's blood
+# boiling with destiny as she readies to exorcise the demon, Ashley/Brad calling out Judecca's
+# tricks and demanding a fair fight, Tim's fury at Judecca toying with lives, and the closing
+# philosophical exchange on whether not hesitating to take a life to protect your own is the
+# "human" ideal. Note EN is Rosetta-drifted here; RE follows JP. Judecca theatrical/cruel.
+
+[US#6163] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#6164] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#6165] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#6173] (party)
+  JP : 「ここから出る手置は / ただひとつということか / フッ、おもしろい発<b:8a38>だッ！
+  LIT: So there's only one way out of here; heh, an amusing turn of events!
+  RE : So there's only one way out of
+       here; heh, an amusing turn of
+       events!
+
+[US#6174] (Judecca)
+  JP : 「この人間暗<b:8a3a> / [05]きの<b:8a3b><b:8a3c>にかかりて消えるは / いかなる魔物か〜
+  LIT: This human hidden weapon, {4}; what manner of demon is it that will vanish under her blade?
+  RE : This human hidden weapon, {4};
+       what manner of demon will vanish
+       under her blade?
+
+[US#6175] (Kanon)
+  JP : 「あたしに流れる<b:8a3d>が<b:8a3e>ぐッ！ / この身に<89a3><b:8a3f>った<b:8a40>命が<b:8a41>いているッ！
+  LIT: The blood flowing in me seethes! The destiny borne in this body cries out!
+  RE : The blood flowing in me seethes!
+       The destiny borne in this body
+       cries out!
+
+[US#6176] (Kanon)
+  JP : 「見せてやるよ / <b:8a42><b:8a43>の<b:8a44><b:8a45>ってヤツをね〜
+  LIT: I'll show you; what a descendant of the hero can do.
+  RE : I'll show you; what a descendant
+       of the hero can do.
+
+[US#6177] (Judecca)
+  JP : 「うれしいですねぇ〜 / あんまりうれしいから / <b:8a46><b:8a47>がズリ落ちてしまいそうですよ
+  LIT: How delightful; I'm so delighted my glasses are about to slide right off.
+  RE : How delightful; I'm so delighted
+       my glasses are about to slide
+       right off.
+
+[US#6178] (Ashley)
+  JP : 「お前の案<b:8a48>も<b:8a49>も / もう俺たちには通じない / 正々<b:8a4a>々、決着をつけようッ！
+  LIT: Your schemes and your traps won't work on us anymore; let's settle this fair and square!
+  RE : Your schemes and traps won't work
+       on us anymore; let's settle this
+       fair and square!
+
+[US#6179] (Judecca)
+  JP : 「俺はあくまでも / ゲームを楽しむために / あなた方にハンデを<b:8a4b>えていたに過ぎません
+  LIT: I merely gave you a handicap, purely to enjoy the game.
+  RE : I merely gave you a handicap,
+       purely to enjoy the game.
+
+[US#6180] (Judecca)
+  JP : 「あなた方の苦<b:8a4c>が長招き / 追いつめられるさまを見るためにね
+  LIT: To draw out your suffering and watch you be driven into a corner.
+  RE : To draw out your suffering and
+       watch you be driven into a
+       corner.
+
+[US#6181] (Judecca)
+  JP : 「わかっていませんね / それではまったく意<b:8a4f>がないッ！
+  LIT: You just don't get it; there's no point to it that way at all!
+  RE : You just don't get it; there's no
+       point to it that way at all!
+
+[US#6182] (Tim)
+  JP : 「いっしょうけんめいに生きようとしている / 人の命を、あなたはそんなふうに / もてあそんでいるのですかッ！
+  LIT: People trying with all their might to live; and you toy with their lives like that?!
+  RE : People trying with all their
+       might to live; and you toy with
+       their lives like that?!
+
+[US#6183] (Tim)
+  JP : 「<b:8a4c>みを知らないあなたを / ボクは許さないッ！ / 許すもんかッ！
+  LIT: You who know nothing of pain; I won't forgive you! I never will!
+  RE : You who know nothing of pain; I
+       won't forgive you! I never will!
+
+[US#6184] (Judecca)
+  JP : 「まぜてほしければ / せいぜい、かわいい話で / <b:8a50>きわめいてもらおうかッ！
+  LIT: If you want in, then at least wail for me in a nice cute little voice!
+  RE : If you want in, then at least
+       wail for me in a nice cute little
+       voice!
+
+[US#6185] (Judecca)
+  JP : 「何もそんなにムキになるなんて / つまらない<b:8a59>らだな〜 / 失<b:8a5a>しちゃったよ
+  LIT: Getting so worked up over nothing; what a dull fellow; I'm disappointed.
+  RE : Getting so worked up over
+       nothing; what a dull fellow. I'm
+       disappointed.
+
+[US#6186] (Ashley)
+  JP : 「命を<b:8a5d>けてない者などに / 命のやり取りをする<b:8a5e><b:8a5f>などない
+  LIT: One who won't stake his own life has no right to trade in lives.
+  RE : One who won't stake his own life
+       has no right to trade in lives.
+
+[US#6187] (Ashley)
+  JP : 「でも、命のやりとりに / ためらいを信じられないような / 辺<b:8a61>にだけはなりたくない
+  LIT: But I never want to become the kind of lowlife who feels no hesitation in trading lives.
+  RE : But I never want to become the
+       kind of lowlife who feels no
+       hesitation in trading lives.
+
+[US#6188] (Judecca)
+  JP : 「〜これから、どんなふうに / 世界が、終<b:8a62>を<88cc>える、のか〜 / 楽しみ、だったのに〜
+  LIT: I was so looking forward... to seeing just how... the world would meet its end...
+  RE : I was so looking forward... to
+       seeing just how... the world
+       would meet its end...
+
+[US#6189] (Judecca)
+  JP : 「自分の命を<b:8a64>るために / 誰かの命を<b:8a65>うことをためらわない〜 / 『人間』、〜ってヤツだな
+  LIT: Not hesitating to take another's life to protect your own; that's what a "human" is.
+  RE : Not hesitating to take another's
+       life to protect your own; that's
+       what a |human| is.
+
+[US#6190] (Ashley)
+  JP : 「それもまた / 『人間』の理想だと俺は思う
+  LIT: And that too, I think, is an ideal of the "human."
+  RE : And that too, I think, is an
+       ideal of the |human|.
+
+[US#6191] (Judecca)
+  JP :
+  LIT: (EN only) It's |human| to not hesitate taking another's life when you're protecting your own.
+  RE : It's |human| not to hesitate
+       taking another's life to protect
+       your own. [?]
+
+[US#6192] (Ashley)
+  JP :
+  LIT: (EN only) I think that's the ideal for |humans| to strive for.
+  RE : I think that's the ideal for
+       |humans| to strive for. [?]
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#6166] SKIPPED - no content box in decode
+[US#6167] SKIPPED - no content box in decode
+[US#6168] SKIPPED - no content box in decode
+[US#6169] SKIPPED - no content box in decode
+[US#6170] SKIPPED - no content box in decode
+[US#6171] SKIPPED - no content box in decode
+[US#6172] SKIPPED - no content box in decode
