@@ -1,0 +1,653 @@
+# WA2 — Block 17, US#4251-4350 — FINAL (Sielje part 2: McGregor scientist, Irving's past, tutorials)
+# =========================================================================================
+# Sielje continued: the scientist's running "(remainder omitted)" gag, the Edgeworth-Kuiper Belt
+# naming, Gate Bridge directions (JP says east 東端 where EN said west — kept JP), the failed
+# resurrection teacher, Irving's Sielje observatory past (comet/omen research, ARMS founding),
+# the aging scholar loop, and the Force/Crest/attribute/Teleport-Orb/Crimson-Noble study panels.
+# JP-primary; EN aligns well. SKIPPED slots at end.
+
+[US#4251] (student)
+  JP : 「なぜか、これを見てると / すいこまれそうになるの〜 / でも、とてもなつかしい信じがする〜
+  LIT: Somehow, staring at this, I feel I'll be drawn in; and yet it feels so nostalgic.
+  RE : Somehow, staring at this, I feel
+       I'll be drawn in. And yet it
+       feels so nostalgic.
+
+[US#4252] (student)
+  JP : 「ちょっと、ジェラシー信じちゃうわね
+  LIT: Makes me a little jealous, honestly.
+  RE : Makes me a little jealous,
+       honestly.
+
+[US#4253] (student)
+  JP : 「もっと、<b:8ab7><b:8a6f>にお願いしたいわよね / 私が言ったことは街緒だよ
+  LIT: I wish he'd keep it more to the point; but don't tell anyone I said so.
+  RE : I wish he'd keep it more to the
+       point. But don't tell anyone I
+       said so.
+
+[US#4254] (student)
+  JP : 「そうでなくっちゃッ！
+  LIT: That's the spirit!
+  RE : That's the spirit!
+
+[US#4255] (student)
+  JP : 「元気づけてあげれば？
+  LIT: Why not cheer him up?
+  RE : Why not cheer him up?
+
+[US#4256] (student)
+  JP : 「さすがは / 『エレニアックの魔女っ家』の<b:8a68>ね / 〜え？ <b:8abb><b:8abc>じゃないの？
+  LIT: Just what you'd expect of the "Eleniak Witch-Girl"'s sister! ...Eh? You're not?
+  RE : Just what you'd expect of the
+       |Eleniak Witch-Girl|'s sister!
+       ...Eh? You're not?
+
+[US#4257] (student)
+  JP : 「『エレニアックの魔女っ家』って / 聞いたことない？
+  LIT: Haven't you heard of the "Eleniak Witch-Girl"?
+  RE : Haven't you heard of the |Eleniak
+       Witch-Girl|?
+
+[US#4258] (scientist)
+  JP : 「ヴァレリア<b:8ac2>からの<b:8ac3><b:8ac4>で我々はそれを / 『エッジワース＝カイバーベルト』と / 呼<895b>することになった
+  LIT: At the Valeria house's proposal, we came to call it the "Edgeworth-Kuiper Belt."
+  RE : At the Valeria house's proposal,
+       we came to call it the
+       |Edgeworth-Kuiper Belt|.
+
+[US#4259] (scientist)
+  JP : 「全く未知の<b:8ac0><b:8ac1>〜 / それが私の技術者魂に枯をつけたことと / なったのであり〜（以辺、<b:8ac6><b:8ac7>）
+  LIT: A wholly unknown phenomenon; and that is what set my engineer's soul alight, for... (remainder omitted)
+  RE : A wholly unknown phenomenon. And
+       that set my engineer's soul
+       alight, for... (omitted)
+
+[US#4260] (scientist)
+  JP : 「〜それならば、シエルジェに<b:8a76>した / [11]お街道の対<b:8ac8>[11]ぉに谷に<b:8aaa>まれた場所がある / そこにそれらしきものがあったと思うが〜
+  LIT: In that case, across the inland sea from Sielje there's a valley-ringed spot; I believe something like it was there.
+  RE : In that case, |across the inland
+       sea| lies a valley-ringed spot. I
+       believe it was there.
+
+[US#4261] (scientist)
+  JP : 「だが、そこへ行くにはゲートブリッジの / はね<89ec>の部分をあげなくては / <89d3>で街道に入ることはできないんだ
+  LIT: But to go there, you must raise the Gate Bridge's drawbridge span, or no ship can enter the inland sea.
+  RE : But to go there you must raise
+       the Gate Bridge's span, or no
+       ship can enter the sea.
+
+[US#4262] (scientist)
+  JP : 「はね<89ec>の部分を上げる装置は / [11]おゲートブリッジの東<89f5>[11]ぉだ / テレポートオーブなどを忘れるなよ
+  LIT: The device that raises the span is at the Gate Bridge's east end; don't forget a Teleport Orb.
+  RE : The device that raises the span
+       is at the Gate Bridge's |east
+       end|. Bring a Teleport Orb.
+
+[US#4263] (scientist)
+  JP : 「ああ、言い忘れていたが / その装置は、[11]お金<b:8aca>[11]ぉで<b:8aaa>まれてしまっていてね / それをどうにかしなくちゃならないんだ〜
+  LIT: Ah, I forgot to say: the device is fenced in by chain-link; you'll have to deal with that somehow.
+  RE : Ah, I forgot to say: the device
+       is fenced in by |chain-link|.
+       You'll have to manage that.
+
+[US#4264] (scientist)
+  JP : 「〜だが、それが結果的に私の技術者魂に / 枯をつけたこととなったのであり〜 / （以辺、<b:8ac6><b:8ac7>）
+  LIT: But in the end, that is what set my engineer's soul alight, for... (remainder omitted)
+  RE : But in the end, that set my
+       engineer's soul alight, for...
+       (omitted)
+
+[US#4265] (scholar)
+  JP : 「古代人は、恐ろしいモノをつくったものだ / あんなモノがゴロゴロあったに違いない / 〜だから、滅亡した〜のか？
+  LIT: The ancients made terrible things; there must have been heaps of them; is that why they perished?
+  RE : The ancients made terrible
+       things, heaps of them, surely. Is
+       that why they perished?
+
+[US#4266] (scientist)
+  JP : 「ふむ、それは<b:8acb>だが〜 / それが私の技術者魂に枯をつけたことと / なったのであり〜（以辺、<b:8ac6><b:8ac7>）
+  LIT: Hm, that is a mystery; and it too set my engineer's soul alight, for... (remainder omitted)
+  RE : Hm, that is a mystery. And it too
+       set my engineer's soul alight,
+       for... (omitted)
+
+[US#4267] (scientist)
+  JP : 「ああ、それだったらここから[11]お先側の<b:8aa0>[11]ぉに / それらしき、モノがあったと思ったよ
+  LIT: Ah, that: I believe something of the sort was on the cape yonder from here.
+  RE : Ah, that. I believe something of
+       the sort was on the |cape yonder|
+       from here.
+
+[US#4268] (scientist)
+  JP : 「だけど、やっかいなことに / 中に入るには[11]お<b:8aca><b:8acc>パターン[11]ぉを / <b:8acd>合しなければ入れないんだ
+  LIT: But troublesomely, to get inside you must pass a retinal-pattern match.
+  RE : But troublesomely, to get inside
+       you must pass a |retinal-pattern|
+       match.
+
+[US#4269] (scientist)
+  JP : 「だが、それが結果的に私の技術者魂に / 枯をつけたこととなったのであり〜 / （以辺、<b:8ac6><b:8ac7>）
+  LIT: But in the end, that is what set my engineer's soul alight, for... (remainder omitted)
+  RE : But in the end, that set my
+       engineer's soul alight, for...
+       (omitted)
+
+[US#4270] (scientist)
+  JP : 「確かココから[11]お側の道[11]ぉにあるって話しだが〜 / ああ、それから何故かその<b:8ace>りの道の<8a07>が / 暗くなっているそうだよ
+  LIT: I recall it's said to be in the sea off yonder; ah, and for some reason the water around it has gone dark.
+  RE : It's said to be in the |sea off
+       yonder|. Ah, and the water around
+       it has gone dark.
+
+[US#4271] (scientist)
+  JP : 「〜そう、それが結果的に私の技術者魂に / 枯をつけたこととなったのであり〜 / （以辺、<b:8ac6><b:8ac7>）
+  LIT: Yes, and that in the end set my engineer's soul alight, for... (remainder omitted)
+  RE : Yes, and that in the end set my
+       engineer's soul alight, for...
+       (omitted)
+
+[US#4272] (teacher)
+  JP : 「だが、発生の魔法を使って / 発らそうなどという考えをおこしてはイカン / 彼のためを思えばこそだよ〜
+  LIT: But you must not think of using the Revive spell to bring him back; for his own sake.
+  RE : But you must not think of using
+       the Revive spell to bring him
+       back. For his own sake.
+
+[US#4273] (scientist)
+  JP : 「あぁ、なんということだ / 解放<b:8ad3>中だったのにッ！ / このままでは、私の好跡心が<b:8aa4>たされない〜
+  LIT: Oh, what a thing! I was mid-analysis! At this rate my curiosity will go unsatisfied.
+  RE : Oh, what a thing! I was mid-
+       analysis! At this rate my
+       curiosity goes unsatisfied.
+
+[US#4274] (scientist)
+  JP : 「〜だが、それが結果的に私の技術者魂に / 枯をつけたこととなったのであり〜 / （以辺、<b:8ac6><b:8ac7>）
+  LIT: But that in the end set my engineer's soul alight, for... (remainder omitted)
+  RE : But that in the end set my
+       engineer's soul alight, for...
+       (omitted)
+
+[US#4275] (scholar)
+  JP : 「だが、その教<b:8ad5>の言っていた / 『２つの<89d9>悪な<88e0>動』とは？
+  LIT: But what were those "two malign waveforms" that teacher spoke of?
+  RE : But what were those |two malign
+       waveforms| that teacher spoke of?
+
+[US#4276] (scholar)
+  JP : 「１つは核ドラゴンのモノだろうが / もう１つは、何のことだろうか？
+  LIT: One must be the Nuclear Dragon's; but what could the other be?
+  RE : One must be the Nuclear Dragon's.
+       But what could the other be?
+
+[US#4277] (scholar)
+  JP : 「そうすれば / 暗い空を消滅させるコトだって / 可能かもしれないな
+  LIT: If we did that, even erasing this dark sky might be possible.
+  RE : If we did that, even erasing this
+       dark sky might be possible.
+
+[US#4278] (scholar)
+  JP : 「あれは多分、古代表次の遺跡のひとつじゃな / あれを手にした者が / 悪用していなければよいのじゃが〜
+  LIT: That's likely a relic of the ancient civilization; I only hope whoever holds it hasn't turned it to ill.
+  RE : That's likely a relic of the
+       ancients. I only hope its holder
+       hasn't turned it to ill.
+
+[US#4279] (student)
+  JP : 「大<b:8ad9><b:8ada>ですよ / その魔法は失<893d>しても / それほど危険ではないですから〜
+  LIT: It's all right; even if that spell fails, it isn't so dangerous.
+  RE : It's all right. Even if that
+       spell fails, it isn't so
+       dangerous.
+
+[US#4280] (student)
+  JP : 「その街、<b:8adb>方がもう<b:8adb>方を取り込むかたちで / １つになり、そして消えました〜 / あれは、一体なんだったのでしょう？
+  LIT: Then one absorbed the other, they became one, and vanished; what on earth were they?
+  RE : Then one absorbed the other, they
+       became one, and vanished. What on
+       earth were they?
+
+[US#4281] (student)
+  JP : 「私にできることを見つけて / 少しでもフォローできるように / がんばってみます
+  LIT: I'll find what I can do, and try my best to back him up even a little.
+  RE : I'll find what I can do, and try
+       my best to back him up even a
+       little.
+
+[US#4282] (teacher)
+  JP : 「<b:8adf>体も魂もないのに / 無理に『発生の魔法』を行えば / アンデッドを作り出すだけだったのに〜
+  LIT: With neither body nor soul, forcing the Revive spell would only have created an undead.
+  RE : With neither body nor soul,
+       forcing the Revive spell would
+       only have made an undead.
+
+[US#4283] (teacher)
+  JP : 「こんな<b:8ae0><b:8a8e>的なことを忘れるなんて / 私は、教<b:8ad5>失<b:8ae1>ですね〜
+  LIT: To forget something so basic; I'm a failure as a teacher.
+  RE : To forget something so basic. I'm
+       a failure as a teacher.
+
+[US#4284] (teacher)
+  JP : 「私が<8864>わりに実験をしていれば〜
+  LIT: If only I had run the experiment in his place...
+  RE : If only I had run the experiment
+       in his place...
+
+[US#4285] (observatory keeper)
+  JP : 「時として空は思いもよらぬモノを / よこして来る事があるんだが〜 / 中心の空が無くなってしまってはな〜
+  LIT: At times the sky sends us the unforeseen; but with the sky itself gone now...
+  RE : At times the sky sends us the
+       unforeseen. But with the sky
+       itself gone now...
+
+[US#4286] (observatory keeper)
+  JP : 「何かとんでもない事を / いつものように / ひとりでかかえこんでいるに違いない
+  LIT: He must be shouldering something enormous all alone, as he always does.
+  RE : He must be shouldering something
+       enormous all alone, as he always
+       does.
+
+[US#4287] (observatory keeper)
+  JP : 「僕たちや、お前さんたちに / <b:8ae8>ち次けてくれれば / もっと楽になれるってのによ
+  LIT: If he'd just confide in us, or in you lot, he could breathe so much easier.
+  RE : If he'd just confide in us, or in
+       you lot, he could breathe so much
+       easier.
+
+[US#4288] (observatory keeper)
+  JP : 「だが、研行はいつもひとりで<b:8aef><b:8af0>していた〜 / まるで他者を<b:8af1><b:8af2>するような / <b:8af3><b:8aaa>気だったとおぼえている
+  LIT: But he always pursued his research alone; I remember an air about him that seemed to shut others out.
+  RE : But he always researched alone. I
+       remember an air about him that
+       shut others out.
+
+[US#4289] (observatory keeper)
+  JP : 「失われた空を見ていると / まるで、今回の回を / 期待していたような口<b:8a5c>りだったな
+  LIT: Watching the lost sky, he spoke almost as if he'd been expecting this day.
+  RE : Watching the lost sky, he spoke
+       almost as if he'd been expecting
+       this day.
+
+[US#4290] (observatory keeper)
+  JP : 「そう、[0a]ぉは / 『やがて、世界は脅威に<b:8af4>みこまれる』と / 言い残してシエルジェを<b:8af5>ったのだ
+  LIT: Yes: {0} left Sielje with the words, "In time, the world will be swallowed by a threat."
+  RE : Yes: {0} left Sielje with the
+       words, "In time, the world will
+       be swallowed by a threat."
+
+[US#4291] (observatory keeper)
+  JP : 「彼はいったい / この<b:8ad4>体<b:8af6>遠<b:8af7>で / 何を観待していたんだろうか〜
+  LIT: What on earth was he observing through this telescope?
+  RE : What on earth was he observing
+       through this telescope?
+
+[US#4292] (observatory keeper)
+  JP : 「中でも彼は / <b:8af9>星と<b:8afa><b:8afb>の因果関係について / <8868>心に調べていたっけな〜
+  LIT: Above all, he was intent on studying the link between comets and ill omens.
+  RE : Above all, he was intent on
+       studying the link between comets
+       and ill omens.
+
+[US#4293] (observatory keeper)
+  JP : 「何もかもひとりで / 解決しようと思うな、と
+  LIT: Tell him: don't try to solve everything alone.
+  RE : Tell him: don't try to solve
+       everything alone.
+
+[US#4294] (observatory keeper)
+  JP : 「あいつの<b:8ace>りには / あいつと行動を<b:8b01>にする / <b:8ab9>間がいつもいるんだ
+  LIT: Around him there are always companions who act alongside him.
+  RE : Around him there are always
+       companions who act alongside him.
+
+[US#4295] (observatory keeper)
+  JP : 「なのに、中心のあいつが / 気づいていないだけなんだ
+  LIT: And yet the man himself is the only one who hasn't noticed.
+  RE : And yet the man himself is the
+       only one who hasn't noticed.
+
+[US#4296] (observatory keeper)
+  JP : 「それからしばらくして / ＡＲＭＳを組<b:8ad8>している〜
+  LIT: Not long after that, he formed ARMS.
+  RE : Not long after that, he formed
+       ARMS.
+
+[US#4297] (observatory keeper)
+  JP : 「彼がＡＲＭＳを組<b:8ad8>したのは / <b:8b02>部でも、もちろんオデッサのためでもない
+  LIT: He didn't form ARMS on a whim, nor, of course, merely because of Odessa.
+  RE : He didn't form ARMS on a whim,
+       nor, of course, merely because of
+       Odessa.
+
+[US#4298] (observatory keeper)
+  JP : 「来るべき、今回のために / 備えていたんじゃないのか？
+  LIT: Wasn't he preparing for this very day to come?
+  RE : Wasn't he preparing for this very
+       day to come?
+
+[US#4299] (observatory keeper)
+  JP : 「でも、それ以上に不可解なのは / [0a]ぉのヤツ〜 / この異世事態を期待していたみたいなんだ
+  LIT: But stranger still: that {0} seemed to have been expecting this calamity.
+  RE : But stranger still: that {0}
+       seemed to have been expecting
+       this calamity.
+
+[US#4300] (observatory keeper)
+  JP : 「ファルガイアの空に / 何かあったのか〜？
+  LIT: Did something happen in Filgaia's sky?
+  RE : Did something happen in Filgaia's
+       sky?
+
+[US#4301] (observatory keeper)
+  JP : 「そういえば、まめに<b:8a68>に連絡していたな / たったひとりの<b:8adf><8a0e>だから / 大切にしているんだろうな
+  LIT: Come to think of it, he kept in touch with his sister diligently; his only kin, so he treasures her.
+  RE : He kept in touch with his sister
+       diligently. His only kin, so he
+       treasures her.
+
+[US#4302] (observatory keeper)
+  JP : 「だから、今でも<b:8b04>力するぜ / できることがあったら / 何でも言ってくれ
+  LIT: So I'll help even now; if there's anything I can do, just say the word.
+  RE : So I'll help even now. If there's
+       anything I can do, just say the
+       word.
+
+[US#4303] (scholar)
+  JP : 「もう、歳かのぉ〜
+  LIT: Getting old, am I...
+  RE : Getting old, am I...
+
+[US#4304] (scholar)
+  JP : 「もう、歳かのぉ〜
+  LIT: Getting old, am I...
+  RE : Getting old, am I...
+
+[US#4305] (scholar)
+  JP : 「もう、歳かのぉ〜
+  LIT: Getting old, am I...
+  RE : Getting old, am I...
+
+[US#4306] (scholar)
+  JP : 「もう、数かのぉ〜
+  LIT: Getting old, am I...
+  RE : Getting old, am I...
+
+[US#4307] (scholar)
+  JP : 「もう、数かのぉ〜
+  LIT: Getting old, am I...
+  RE : Getting old, am I...
+
+[US#4308] (scholar)
+  JP : 「歳は、ワシの<b:8b0a>くらい離れておるんじゃが / <b:8abd>達ができたようでうれしいのぉ
+  LIT: She's young enough to be my grandchild, but I'm glad to have made a friend.
+  RE : She's young enough to be my
+       grandchild, but I'm glad to have
+       made a friend.
+
+[US#4309] (scholar)
+  JP : 「こんな時だからこそ / 必要なコトだと思わない？
+  LIT: In times like these especially, don't you think that's needed?
+  RE : In times like these especially,
+       don't you think that's needed?
+
+[US#4310] (scholar)
+  JP : 「でも、あなた方が倒してくれたようですね / 私からもお礼を言わせていただきますよ / それから、このことは他言無用ですぞ
+  LIT: But it seems you defeated it; let me thank you as well; and not a word of this to anyone.
+  RE : But it seems you defeated it. Let
+       me thank you as well. And not a
+       word of this to anyone.
+
+[US#4311] (scholar)
+  JP : 「こんなことを言うとあなた方に / <b:8b18>られるかもしれませんが / 一目、そのドラゴンを<b:8b19>見したかったですね
+  LIT: You may scold me for saying so, but I'd have liked one look at that Dragon.
+  RE : You may scold me for saying so,
+       but I'd have liked one look at
+       that Dragon.
+
+[US#4312] (student)
+  JP : 「さあ、ちょっと分からないですね / 物知りなマクレガー先生なら / 知っているかもしれませんよ
+  LIT: Hm, I couldn't say; the learned Mr. McGregor might know.
+  RE : Hm, I couldn't say. The learned
+       Mr. McGregor might know.
+
+[US#4313] (scholar)
+  JP : 「あれは、機艇と生体の中間に級置する / 『幻獣ドラゴン』の遺<b:8b1f>だ / 一<b:8a81>に『合谷』と呼ばれている
+  LIT: That is the remains of a "Dragon," between machine and living being; commonly called a "fossil."
+  RE : That is the remains of a
+       |Dragon|, between machine and
+       living being. A |fossil|.
+
+[US#4314] (scholar)
+  JP : 「ここまで / 完全に<b:8b20><b:8ae1>が<b:8b21>って掘り出されたのは / ごく<b:8b22>なことだよ
+  LIT: For one to be dug out this completely intact is exceedingly rare.
+  RE : For one to be dug out this
+       completely intact is exceedingly
+       rare.
+
+[US#4315] (NPC)
+  JP : 「行ってみるかい？[18]か
+  LIT: Want to go take a look?
+  RE : Want to go take a look?
+
+[US#4316] (NPC)
+  JP : 「〜ん？ 場にもどるのかい？[18]か
+  LIT: Hm? Heading back to town?
+  RE : Hm? Heading back to town?
+
+[US#4317] (NPC)
+  JP : 「〜ん？ 場にもどるのかい？[18]か
+  LIT: Hm? Heading back to town?
+  RE : Hm? Heading back to town?
+
+[US#4318] (NPC)
+  JP : 「〜ん？ 場にもどるのかい？[18]か
+  LIT: Hm? Heading back to town?
+  RE : Hm? Heading back to town?
+
+[US#4319] (innkeeper)
+  JP : 「おひとり方につき一緒[02]ギャラ / [02]人方ですので、[02]ギャラとなります / よろしいですか？[18]か
+  LIT: It's {2} Gella per guest; for {2} people, that's {2} Gella; all right?
+  RE : It's {2} Gella per guest a night.
+       For your party, that's {2} Gella.
+       All right?
+
+[US#4320] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4321] (study panel)
+  JP : ＊『フォース』が一定<8875><b:8b37>まり / それを解放することで / 結単な力を発揮することができるのだ
+  LIT: When "Force" accumulates to a set level, releasing it lets you unleash special power.
+  RE : When |Force| accumulates to a set
+       level, releasing it unleashes
+       special power.
+
+[US#4322] (study panel)
+  JP : ＊ただし、『フォース』を使用すると / その分の概<b:8b36>力が消<b:8b38>されるため / 使用後のフォース残<886f>に<88f7>意が必要だ
+  LIT: But using "Force" consumes that much willpower, so mind your remaining Force after use.
+  RE : But using |Force| consumes that
+       much willpower, so mind your
+       remaining Force after use.
+
+[US#4323] (study panel)
+  JP : ＊場合によっては / 魔法やＡＲＭを使うための / 概<b:8b36>力が残っていないこともあり得る
+  LIT: In some cases, no willpower may remain to use magic or ARMs.
+  RE : In some cases, no willpower may
+       remain to use magic or ARMs.
+
+[US#4324] (study panel)
+  JP : ＊『フォース』は強力な効果を持つので / 使いどころを間違わなければ / <b:8af2>大な効果を発揮するだろう
+  LIT: "Force" has powerful effects; used at the right moment, it will prove tremendous.
+  RE : |Force| has powerful effects.
+       Used at the right moment, it will
+       prove tremendous.
+
+[US#4325] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4326] (study panel)
+  JP : ＊なお、ゲートブリッジ東<89f5>には / 関係者以外立ち入り<b:8b3c>止の為 / 金<b:8aca>が発ってあります
+  LIT: Note: the Gate Bridge's east end is fenced in chain-link, off-limits to all but personnel.
+  RE : Note: the Gate Bridge's east end
+       is fenced in chain-link, staff
+       only.
+
+[US#4327] (study panel)
+  JP : ＊また、シエルジェ街道への / 交通規制もこの<89ec>によって<8847>っています
+  LIT: Traffic into the Sielje inland sea is likewise controlled by this bridge.
+  RE : Traffic into the Sielje inland
+       sea is likewise controlled by
+       this bridge.
+
+[US#4328] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4329] (study panel)
+  JP : ＊<b:8b3e>だったところでは / 『地』『水』『枯』『<89f9>』『<b:8b3f>』 / などである
+  LIT: The principal ones are Earth, Water, Fire, Wind, and Lightning.
+  RE : The principal ones are Earth,
+       Water, Fire, Wind, and Lightning.
+
+[US#4330] (study panel)
+  JP : ＊モンスターと呼ばれる異面のものたちも / 同方に属性を持つものが年多くいる / そして、弱帯となる属性もある
+  LIT: The beings called monsters likewise often bear attributes; and some attributes are weaknesses.
+  RE : Monsters likewise often bear
+       attributes. And some attributes
+       are weaknesses.
+
+[US#4331] (study panel)
+  JP : ＊つまり、モンスターの弱帯属性の / 魔法で<b:8a4a>撃することで / より大きなダメージを<b:8b40>えられる
+  LIT: In short, striking with magic of a monster's weak attribute deals greater damage.
+  RE : In short, striking with magic of
+       a monster's weak attribute deals
+       greater damage.
+
+[US#4332] (study panel)
+  JP : ＊<89c1>に、属性である魔法で<b:8a4a>撃しても / 作効な<b:8a4a>撃方法には為らないのである
+  LIT: Conversely, striking with magic of its own attribute makes for no effective attack.
+  RE : Conversely, striking with magic
+       of its own attribute makes for no
+       effective attack.
+
+[US#4333] (study panel)
+  JP : ＊クレストソーサラーは世に / 属性を気にしながら魔法を使う必要がある / 属性を<b:8b41>めて<b:8ae0>めて一人前といえるだろう
+  LIT: A Crest Sorcerer must always mind attributes when casting; only mastering them makes one full-fledged.
+  RE : A Crest Sorcerer must always mind
+       attributes. Mastering them makes
+       one full-fledged.
+
+[US#4334] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4335] (study panel)
+  JP : ＊使用者の渡録にある情<b:8b43>を変<88fb>し / その地へ一<b:8b44>にして運ぶことができる
+  LIT: It converts the scene in the user's memory and carries them there in an instant.
+  RE : It converts the scene in the
+       user's memory and carries them
+       there in an instant.
+
+[US#4336] (study panel)
+  JP : ＊ただし、そのテレポート先は / 場や館に<b:8ae4>定されるなど / 機能的に完<b:8a98>といえるものではない
+  LIT: But its destinations are limited to towns and halls; functionally it is not perfect.
+  RE : But its destinations are limited
+       to towns and halls. Functionally
+       it is not perfect.
+
+[US#4337] (study panel)
+  JP : ＊時<88dd>、指定外の所へテレポートするなど / まだまだ<b:8b26>良の<b:8b45>地のある / 魔<b:8a3a>アイテムだといえる
+  LIT: At times it teleports somewhere unintended; a magic item with room yet for improvement.
+  RE : At times it teleports somewhere
+       unintended. A magic item with
+       room yet for improvement.
+
+[US#4338] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4339] (study panel)
+  JP : ＊クレストグラフを使用することで / 魔法発動に必要な魔法<b:8a77>の作成など / <b:8a76>倒な<b:8a3f>儀が不要となるのだ
+  LIT: Using a Crest Graph removes the need for tiresome rites like drawing the sigils spells require.
+  RE : Using a Crest Graph removes the
+       need for tiresome rites like
+       drawing sigils.
+
+[US#4340] (study panel)
+  JP : ＊時<88dd>、レア・クレストグラフと呼ばれる / 通世の効果を<b:8b46>かに上回る効果を発揮する / クレストグラフができあがることがある
+  LIT: At times a Crest Graph far surpassing the usual effect is produced: the Rare Crest Graph.
+  RE : At times a Crest Graph far
+       surpassing the usual is produced:
+       the Rare Crest Graph.
+
+[US#4341] (study panel)
+  JP : ＊同じ魔法でも威力がアップしたり / ターゲットの<b:8b47><b:8a6c>など / その効果は<b:8af2>大だといえる
+  LIT: The same spell gains power, or wider targets; its effects are tremendous.
+  RE : The same spell gains power, or
+       wider targets. Its effects are
+       tremendous.
+
+[US#4342] (study panel)
+  JP : ＊レア・クレストグラフを手に入れたら / どの魔法を作成するかが / 考えどころになってくるだろう
+  LIT: Should you obtain a Rare Crest Graph, which spell to create becomes the question.
+  RE : Should you obtain a Rare Crest
+       Graph, which spell to create
+       becomes the question.
+
+[US#4343] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4344] (study panel)
+  JP : ＊それらの表面が<b:8b4c>分か残っていたため / 魔法<b:8a5a>者の間で、その古代魔法の復活を / 試みるものも少なくない
+  LIT: Because some of those texts survive, not a few magic scholars attempt to revive the ancient magic.
+  RE : Because some of those texts
+       survive, not a few scholars try
+       to revive the ancient magic.
+
+[US#4345] (study panel)
+  JP : ＊<b:8b4d>世代の魔法体<b:8b48>の<892a>願さを / 現在に伝える重要表面である
+  LIT: They are vital texts conveying to the present the depth of a former age's magic system.
+  RE : They are vital texts conveying to
+       the present the depth of a former
+       age's magic.
+
+[US#4346] (study panel)
+  JP : ＊もし、この古代魔法が復活したならば / 現在の魔法をレベル１とし / 上級魔法に級置づけレベル２と名付ける
+  LIT: Should this ancient magic revive, present magic would rank Level 1 and the higher Level 2.
+  RE : Should this ancient magic revive,
+       present magic would rank Level 1
+       and the higher Level 2.
+
+[US#4347] (study panel)
+  JP : ＊上級魔法が復活したならば / さらなる魔法効果の研行も / 活発になっていくことだろう
+  LIT: If the higher magic revives, research into further spell effects will surely flourish.
+  RE : If the higher magic revives,
+       research into further spell
+       effects will surely flourish.
+
+[US#4348] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4349] (study panel)
+  JP : ＊その名を『ノーブルレッド<b:8aed>』 / <b:8b51>遠に近い<b:8b52>命と / 不死といわれる<b:8adf>体を持った<b:8b4e><b:8aed>である
+  LIT: Named the "Crimson Noble" race: beings of near-eternal life and bodies said to be undying.
+  RE : Named the |Crimson Noble| race:
+       beings of near-eternal life and
+       bodies said to be undying.
+
+[US#4350] (study panel)
+  JP : ＊単名・イモータルとも呼ばれ / この地上を<b:8b53>配していたともいわれる
+  LIT: Also called simply the Immortals, they are said to have once ruled this earth.
+  RE : Also called simply the Immortals,
+       they are said to have once ruled
+       this earth.
