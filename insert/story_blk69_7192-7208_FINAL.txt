@@ -1,0 +1,110 @@
+# WA2 — Block 69, US#7192-7208 — FINAL (Ptolomea's Cocytus ambush at the mountains — block 69 complete)
+# =========================================================================================
+# The party is tracked into the mountains and confronted by Ptolomea's cell of Odessa's Cocytus
+# corps ("Ptolomea and His Fun Friends"): the warning they were followed, Ptolomea's mocking
+# "lucky your opponent was sweet ol' me," recognizing them as the Illsveil trespassers, weighing
+# shooting them on the spot while the Varukisas warms up, and the launch call. JP-primary;
+# Cocytus/Varukisas/Ptolomea kept.
+
+[US#7192] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#7193] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#7194] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#7195] (party)
+  JP : 「この谷に / テロリストが発<b:8a38>している / 可能性がありますッ！
+  LIT: There's a chance the terrorists are lurking in this valley!
+  RE : There's a chance the terrorists
+       are lurking in this valley!
+
+[US#7196] (party)
+  JP : 「モンスターなんかじゃない / 立ちはだかる、人間
+  LIT: Not a monster; it's humans standing in our way.
+  RE : Not a monster; it's humans
+       standing in our way.
+
+[US#7197] (party)
+  JP : 「何者かが / 僕方たちの跡をつけてきてるってな
+  LIT: She said someone's been tailing us.
+  RE : She said someone's been tailing
+       us.
+
+[US#7198] (Ptolomea)
+  JP : 「よかったな、おめェら / やさしー、僕方が相手でよ
+  LIT: Lucky you lot; your opponent's sweet ol' innocent me.
+  RE : Lucky you lot; your opponent's
+       sweet ol' innocent me.
+
+[US#7199] (sleeper)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+[US#7200] (Ptolomea)
+  JP : 「オデッサ結戦隊 / 『トロメア方とゆかいな<b:8a46>間たち』だッ！
+  LIT: Odessa's special forces: "Ptolomea and His Merry Companions"!
+  RE : Odessa's special forces:
+       |Ptolomea and His Merry
+       Companions|!
+
+[US#7201] (Ptolomea)
+  JP : 「俺たち以外に / イルズベイルに侵入したの / たしか、こいつらだったよな〜
+  LIT: The ones besides us who broke into Illsveil; that was this bunch, wasn't it.
+  RE : The ones besides us who broke
+       into Illsveil; that was this
+       bunch, wasn't it.
+
+[US#7202] (Cocytus member)
+  JP : 「どこかの場の自<892c>団かな？ / 女の家が<b:8a4b>じっているみたいだけど〜
+  LIT: Some town's vigilante band, maybe? There seem to be a couple of girls mixed in.
+  RE : Some town's vigilante band,
+       maybe? There seem to be a couple
+       of girls mixed in.
+
+[US#7203] (Cocytus member)
+  JP : 「何だったら / この場で<b:8a4c><b:8a4d>しちゃおうか？ / バルキサスの<b:8a4e>気が終るまで<b:8a4f><b:8a50>だし
+  LIT: If you like, shall we just shoot them here on the spot? We've time to kill till the Varukisas warms up.
+  RE : If you like, shall we just shoot
+       them here? We've time to kill
+       till the Varukisas warms up.
+
+[US#7204] (sleeper)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+[US#7205] (Cocytus member)
+  JP : 「バルキサスの離陸準備 / 完了したみたいよ / 行きましょう〜
+  LIT: Looks like the Varukisas's launch prep is done; let's go.
+  RE : Looks like the Varukisas's launch
+       prep is done; let's go.
+
+[US#7206] (Ptolomea)
+  JP : 「僕方たち、４人 / オデッサ結戦隊『コキュートス』ッ！
+  LIT: The four of us; Odessa's special forces "Cocytus"!
+  RE : The four of us; Odessa's special
+       forces |Cocytus|!
+
+[US#7207] (Ptolomea)
+  JP : 「<8934><88e0>ジャックじゃ / 僕方たちのこと乗れられなかったからな / せいぜい、ハデに<b:8a52>伝をたのむぜ
+  LIT: The broadcast hijack didn't get us noticed, so at least do us the favor of some flashy publicity.
+  RE : The broadcast hijack didn't get
+       us noticed, so at least do us
+       some flashy publicity.
+
+[US#7208] (Ptolomea)
+  JP : 「がっはっはっはっはッ！
+  LIT: Gwahahahaha!
+  RE : Gwahahahaha!
