@@ -1,0 +1,116 @@
+# WA2 — Block 21 — PROPAGATED from lore-twin cluster (payload-exact match)
+# Auto-filled by tools_wa2/propagate_twins.py from already-translated twin boxes.
+# Each RE is copied verbatim from a byte-identical JP box elsewhere in the 6/7/8/9/10/11
+# cluster. 25 boxes filled; 60 unique boxes still need translation.
+# match: 'exact' = byte-identical payload; 'text' = same decoded text, different kanji table.
+
+[US#4862] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4863] (propagated:exact)
+  JP : 「<f040><f042>でも、今回の体験版では / 残念ながら使用することができません
+  RE : But in this demo version,
+       unfortunately, it cannot be used.
+
+[US#4864] (propagated:exact)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  RE : However, in this demo version,
+       unfortunately, it cannot be used.
+
+[US#4866] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4869] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4872] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4875] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4878] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4881] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4884] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4888] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4891] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4896] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4900] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4906] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4909] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4913] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4917] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4921] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4926] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4932] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#4948] (propagated:text)
+  JP : 「<f041><f041><f041>なんじゃ、その中いの目は / わらわに任せておけば大<b:8ad6><b:8ad7>じゃ
+  RE : What's with that doubtful look?
+       Leave it all to me and
+       it'll be fine.
+
+[US#4949] (propagated:text)
+  JP : 「ギルドグラードの<b:8ad8><b:8a63>など / 足元にも<b:8ad9>ばないことを / ちょっぴり見せつけるだけじゃよ
+  RE : I'll just show off a little how
+       Guild Galad's tech can't even
+       come close to mine.
+
+[US#4950] (propagated:exact)
+  JP : 「なに、あまり変わったように見えない？ / これだからシロウトは……
+  RE : What, it doesn't look any
+       different? Hmph. This is why
+       amateurs...
+
+[US#4951] (propagated:text)
+  JP : 「これはな、マップスコープの<b:8adc><b:8a82>を / <b:8add><b:8ade>に<8865>搭<88ab>起することで / 移動中でもマップを見られるのじゃッ！
+  RE : By casting the map scope's image
+       onto your retina, you can read
+       the map even while moving!
+

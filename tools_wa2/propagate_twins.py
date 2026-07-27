@@ -20,7 +20,8 @@ import wa2_jp_decode as W
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 JD = W.load_jp()
-CLUSTER = [6, 7, 8, 9, 10, 11]
+# source blocks (translated lore twins) + any extra targets passed on the CLI get added below
+CLUSTER = [6, 7, 8, 9, 10, 11, 21, 26]
 
 def block_payloads(blk):
     """Return list of (in_block_index, raw_payload_bytes) for a block."""

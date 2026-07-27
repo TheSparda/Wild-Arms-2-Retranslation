@@ -1,0 +1,20 @@
+# WA2 — Block 26 — PROPAGATED from lore-twin cluster (payload-exact match)
+# Auto-filled by tools_wa2/propagate_twins.py from already-translated twin boxes.
+# Each RE is copied verbatim from a byte-identical JP box elsewhere in the 6/7/8/9/10/11
+# cluster. 3 boxes filled; 84 unique boxes still need translation.
+# match: 'exact' = byte-identical payload; 'text' = same decoded text, different kanji table.
+
+[US#5129] (propagated:exact)
+  JP : ＊進みますか？[18]か
+  RE : Do you want to proceed?
+
+[US#5130] (propagated:exact)
+  JP : 「<f040><f042>でも、今回の体験版では / 残念ながら使用することができません
+  RE : But in this demo version,
+       unfortunately, it cannot be used.
+
+[US#5131] (propagated:exact)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  RE : However, in this demo version,
+       unfortunately, it cannot be used.
+
