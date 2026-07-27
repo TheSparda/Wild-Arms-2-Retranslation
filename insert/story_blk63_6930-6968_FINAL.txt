@@ -1,0 +1,202 @@
+# WA2 — Block 63, US#6930-6968 (remaining) — FINAL (Area 51 interception + Baskar-village decision + peers' debate — block 63 complete)
+# =========================================================================================
+# Three threads: (1) the emergency Area-51 muster to intercept the Varukisas with the EMMA
+# motor (the twin-operator "Mee/Kate" gag, radar contact, "intercept at full speed"), (2) Tim's
+# scene deciding to seek the truth of the Guardians' power inside him by going to his birthplace,
+# the Baskar village (Guardians' protectors), with Ashley reassuring him, and (3) the peers'-
+# council debate over granting ARMS cross-border rights (a councilor warning it's "legal
+# terrorism," the pro-defense rebuttal). JP-primary; Varukisas/EMMA/Baskar kept.
+
+[US#6930] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#6931] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#6932] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#6933] (party)
+  JP : 「[0a]ぉに / <88cc>撃案があるっていうから / 駆けつけたんだが〜
+  LIT: They said {0} had an interception plan, so I rushed over here, but...
+  RE : They said {0} had an interception
+       plan, so I rushed over here,
+       but...
+
+[US#6934] (party)
+  JP : 「ただ、シャトー街の / エリア５１に緊急集合って〜ッ！
+  LIT: All it said was: emergency muster at the Chateau's Area 51!
+  RE : All it said was: emergency muster
+       at the Chateau's Area 51!
+
+[US#6935] (party)
+  JP : 「最大戦<8a04>にて、相を<88cc>撃するッ！
+  LIT: Intercept the enemy at full battle speed!
+  RE : Intercept the enemy at full
+       battle speed!
+
+[US#6936] (operator)
+  JP : 「エマ・モーター乗界置動まで、あと３３０ / だいじょうぶです。正世運発していますッ！
+  LIT: 330 to go until the EMMA motor hits its limit; all's well, running normally!
+  RE : 330 to go until the EMMA motor
+       hits its limit; all's well,
+       running normally!
+
+[US#6937] (operator)
+  JP : 「ミーちゃん、エラーイッ！ / ケイちゃんも、ちょっとエライッ！
+  LIT: Little Mee, you're the greatest! Little Kate, you're pretty great too!
+  RE : Little Mee, you're the greatest!
+       Little Kate, you're pretty great
+       too!
+
+[US#6938] (operator)
+  JP : 「あんたはバランサーに<88f7>意していてッ！
+  LIT: You keep your eye on the balancer!
+  RE : You keep your eye on the
+       balancer!
+
+[US#6939] (party)
+  JP : 「こいつを使って / ヤツらを<88cc>え撃つッ！
+  LIT: We'll use this to intercept them!
+  RE : We'll use this to intercept them!
+
+[US#6940] (party)
+  JP : 「で、俺たちはどうすればいい？
+  LIT: So, what do we need to do?
+  RE : So, what do we need to do?
+
+[US#6941] (Tim)
+  JP : 「ボクに / そんな力があったなんて〜
+  LIT: To think I had a power like that in me...
+  RE : To think I had a power like that
+       in me...
+
+[US#6942] (sleeper)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+[US#6943] (Tim)
+  JP : 「そして〜 / そのガーディアンの力を / <89d0>っている人たちもいるんですね〜
+  LIT: And there are people after that Guardian power of mine, aren't there...
+  RE : And there are people after that
+       Guardian power of mine, aren't
+       there...
+
+[US#6944] (Ashley)
+  JP : 「キミの生まれ故<b:8a3b>にいっしょに行こう / そこで、何かがわかれば / その不安は消え<b:8a3c>るはずだ
+  LIT: Let's go together to where you were born; if we learn something there, that fear should fade.
+  RE : Let's go together to where you
+       were born; if we learn something
+       there, that fear should fade.
+
+[US#6945] (Tim)
+  JP : 「ボクを連れていってください〜
+  LIT: Please, take me there.
+  RE : Please, take me there.
+
+[US#6946] (Tim)
+  JP : 「あ、でも〜
+  LIT: Ah, but...
+  RE : Ah, but...
+
+[US#6947] (Ashley)
+  JP : 「後で事情は説次するし / 何も、これから / <b:8a3f>えなくなるというわけではない
+  LIT: I'll explain the whole story later; it's not as though you'll never see them again.
+  RE : I'll explain the whole story
+       later; it's not as though you'll
+       never see them again.
+
+[US#6948] (Ashley)
+  JP : 「ガーディアンの<b:8a40>人 / 『バスカー』たちの集落を目指すぞッ！
+  LIT: We make for the village of the Baskars, the protectors of the Guardians!
+  RE : We make for the village of the
+       Baskars, protectors of the
+       Guardians!
+
+[US#6949] (party)
+  JP : 「そんなことよりも / [05]がが大変なんだ / 何とかしてやりたいのが友達だろッ！
+  LIT: Never mind that; {3} is in trouble; wanting to help is what friends are for, right?!
+  RE : Never mind that; {3} is in
+       trouble; wanting to help is what
+       friends are for, right?!
+
+[US#6950] (Marivel)
+  JP : 「わたくしなりの結<b:8a41>といたしましては / もし、ここで見つかった場合 / お<b:8a45><b:8a46><b:8a47>きくらいじゃすまないのでは？
+  LIT: In my own estimation, if we're found here, a mere spanking won't be the end of it, I'd think.
+  RE : In my own estimation, if we're
+       found here, a mere spanking won't
+       be the end of it.
+
+[US#6951] (party)
+  JP : 「さっきから / お<b:8a48>が<b:8a49>って、目がまわりそうだ
+  LIT: My stomach's been growling for a while now; I'm about to get dizzy.
+  RE : My stomach's been growling for a
+       while now; I'm about to get
+       dizzy.
+
+[US#6954] (councilor)
+  JP : 「こいつは合法的なテロ活動だッ！ / ヤツらより始末が悪いッ！
+  LIT: This is legalized terrorism! Worse to deal with than the terrorists themselves!
+  RE : This is legalized terrorism!
+       Worse to deal with than the
+       terrorists themselves!
+
+[US#6955] (councilor)
+  JP : 「いっしょのレベルで考えるのは / どうかとも思われますが
+  LIT: To lump the two together on the same level seems questionable, I'd say.
+  RE : To lump the two together on the
+       same level seems questionable,
+       I'd say.
+
+[US#6956] (councilor)
+  JP : 「お人好しを / 美徳か、何かと / カン違いしてるんじゃないのか？
+  LIT: Aren't you mistaking mere soft-heartedness for a virtue of some sort?
+  RE : Aren't you mistaking mere
+       soft-heartedness for a virtue of
+       some sort?
+
+[US#6957] (councilor)
+  JP : 「テロリストに対して / いかなる対抗手段を / 講じるおつもりでしょうか？
+  LIT: Just what countermeasures do you intend to take against the terrorists?
+  RE : Just what countermeasures do you
+       intend to take against the
+       terrorists?
+
+[US#6958] (councilor)
+  JP : 「テロリストどもが / どのような戦力を持っていようと / それを上回る防衛力を持っていればよいこと
+  LIT: However much strength the terrorists have, we need only hold a defensive power that outstrips it.
+  RE : However much strength the
+       terrorists have, we need only a
+       defense that outstrips it.
+
+[US#6960] (councilor)
+  JP : 「その恐ろしさは / 目の当たりにしなければ / わかるまいて〜
+  LIT: You'll not grasp how terrible it is until you've seen it with your own eyes.
+  RE : You'll not grasp how terrible it
+       is until you've seen it with your
+       own eyes.
+
+[US#6964] (radio)
+  JP : ＞レーダーにて / 相性飛空機艇バルキサスと<88c1>待される / 高<8868><8869>反応をとらえましたッ！
+  LIT: On radar, we've caught a high-heat reading believed to be the enemy flying machine Varukisas!
+  RE : On radar, we've caught a
+       high-heat reading believed to be
+       the enemy Varukisas!
+
+[US#6968] (councilor)
+  JP : 「ヤツらの恐ろしさを / 目の当たりにしてきたんだろうがッ！
+  LIT: You've seen for yourself just how terrible they are, haven't you!
+  RE : You've seen for yourself just how
+       terrible they are, haven't you!
+
+# --- SKIPPED (control/empty slots in range) ---
+# (all other US# in 6930-6968 range are control/empty or already done)
