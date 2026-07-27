@@ -1,0 +1,255 @@
+# WA2 — Block 8, US#1700-1738 — FINAL (Valeria-backstory slice, hand-translated)
+# =========================================================================================
+# Chateau NPCs discussing Sir Valeria (Irving Vold Valeria): the Drifters he organized, his
+# mastery of astronomy, the founding of ARMS, his lone sister, and the "hero's-blood curse"
+# theme. JP is the ONLY reliable source here (block 8 is deep-tail; aligned EN drifts).
+# Canonical terms per WA2_NAME_DICTIONARY: Sir Valeria, ARMS, Filgaia, Drifters, Quartly,
+# Blaze of Disaster. A few residual <b:xxxx> kanji recovered from context; genuinely
+# unreadable spans left [?]. Hand-done in main thread (agent fleet hit API limit).
+
+[US#1700] (Chateau NPC)
+  JP : 「以前は / 心を伝える不思議な渓谷の / <b:8b23>出に使われていたらしいぞ
+  LIT: Long ago they were used to carry hearts across a strange valley, it's said.
+  RE : Long ago, they say these carried
+       hearts across a strange valley.
+
+[US#1701] (Chateau NPC)
+  JP : 「彼らもヴァレリア公に組織されて / ファルガイア中に派遣されているらしい
+  LIT: They too were organized by Sir Valeria and dispatched all across Filgaia.
+  RE : Sir Valeria organized them and
+       sent them all across Filgaia.
+
+[US#1702] (Chateau NPC)
+  JP : 「設立は / ＡＲＭＳよりもずっと早いから / 僕たちの味貴分ってトコかもな
+  LIT: They were founded long before ARMS, so they're sort of our seniors.
+  RE : They were founded long before
+       ARMS, so they're our seniors,
+       you might say.
+
+[US#1703] (Chateau NPC)
+  JP : 「今回の失望は / やはり、公に何かの考えが / あってのことです
+  LIT: This disappearance must be because Sir Valeria has some plan in mind.
+  RE : This vanishing act, Sir Valeria
+       must have his reasons for it.
+
+[US#1704] (Chateau NPC)
+  JP : 「あのヴァレリア公がファルガイアと妹様 / もっとも大切にしていたふたつを / 大切るなんて考えられないことです
+  LIT: Unthinkable that Sir Valeria would cast aside the two he treasured most: Filgaia and his sister.
+  RE : That he'd forsake the two he
+       treasured most, Filgaia and his
+       sister, is unthinkable.
+
+[US#1705] (Chateau NPC)
+  JP : 「その異世とは / ファルガイアとは異なる世界より / 異なる命を呼び込むモノだとか〜
+  LIT: That other world draws in alien life from a world unlike Filgaia.
+  RE : That other realm draws alien
+       life from a world unlike our own.
+
+[US#1706] (Chateau NPC)
+  JP : 「ですが、その修行禁術は / 必ずしも注目的なモノだけではないのです
+  LIT: But those forbidden arts he studied were not merely for show.
+  RE : But those forbidden arts he
+       studied were not merely for show.
+
+[US#1707] (Chateau NPC)
+  JP : 「莫大な力や危険な術儀 / 理想に終らない正義を実現するには / あえてこういうのも必要と言いますが〜
+  LIT: Vast power, dangerous arts. To make real a justice that's more than ideals, they say even these are needed.
+  RE : To make justice more than an
+       ideal, they say even vast, perilous
+       power is needed.
+
+[US#1708] (Chateau NPC)
+  JP : 「そういえば、以前 / ヴァレリア公は / そのようなことを口にしていました
+  LIT: Come to think of it, Sir Valeria once said something like that.
+  RE : Come to think of it, Sir Valeria
+       once said as much.
+
+[US#1709] (Chateau NPC)
+  JP : 「来るべき真の脅威とは / 世界が食い<b:8b2c>らされていくことだと〜
+  LIT: That the true threat to come is the world being devoured.
+  RE : That the true threat to come
+       would be the world devoured.
+
+[US#1710] (Chateau NPC)
+  JP : 「このことを / 期待していたのでしょうか〜
+  LIT: Was he anticipating this all along?
+  RE : Was he expecting this all along?
+
+[US#1711] (Chateau NPC)
+  JP : 「ですが、大戦神を修めた後 / ファルガイアの平和維持に / 努めるようになったと聞いています
+  LIT: But after mastering astronomy, I hear he devoted himself to keeping Filgaia at peace.
+  RE : After mastering astronomy, I hear
+       he turned to keeping Filgaia at
+       peace.
+
+[US#1712] (Chateau NPC)
+  JP : 「大戦神が / 今回のＡＲＭＳのきっかけに / なったのでしょうか？
+  LIT: Did astronomy become the spark for ARMS this time?
+  RE : Did his astronomy become the
+       spark that founded ARMS?
+
+[US#1713] (Chateau NPC)
+  JP : 「ですが、その責は / すべて自分で受け止める信念なのです
+  LIT: But it's his conviction to bear all that responsibility himself.
+  RE : Yet he holds to bearing all that
+       responsibility himself.
+
+[US#1714] (Chateau NPC)
+  JP : 「ファルガイアの生命を保るために / 『自分』を殺すことをいとわない / 公はそのように考えています
+  LIT: To protect Filgaia's life, he won't hesitate to sacrifice "himself." That is how he thinks.
+  RE : To save Filgaia's life, he'd not
+       hesitate to sacrifice himself.
+       That is his mind.
+
+[US#1715] (Chateau NPC)
+  JP : 「たったひとりの肉親と / 保るべき、たったひとつの故郷 / 公にとってはどちらも大切なモノなのです
+  LIT: His one blood relative and the one homeland he must protect: both precious to him.
+  RE : His one living kin, and the one
+       homeland he must protect, both
+       precious to him.
+
+[US#1716] (Chateau NPC)
+  JP : 「現在では塩の中に埋もれてしまい / 何も無いところだと聞いていますが〜
+  LIT: These days it's buried in salt, an empty place, or so I hear.
+  RE : These days it's buried in salt,
+       an empty place, so I hear.
+
+[US#1717] (Chateau NPC)
+  JP : 「それでも目指すなら / クアトリーの場を中継地にするのが / まちがいないでしょう
+  LIT: Still, if you head there, Quartly is surely your best waystation.
+  RE : Still, if you go, make Quartly
+       your waystation. You won't
+       go wrong.
+
+[US#1718] (Chateau NPC)
+  JP : 「クアトリーは、街道の先東に流れ込む / リキキス河にそって上った先 / 塩の道にある場です
+  LIT: Quartly sits on the salt road, upriver along the Likikis that empties southeast.
+  RE : Quartly lies on the salt road,
+       up the Likikis that flows out
+       to the southeast.
+
+[US#1719] (Chateau NPC)
+  JP : 「最後に大戦神を修めてから / 今度はファルガイアの平和維持のために / ここに帰ってきたのです
+  LIT: After finally mastering astronomy, he returned here to keep Filgaia at peace.
+  RE : Having mastered astronomy at
+       last, he came back here to keep
+       Filgaia at peace.
+
+[US#1720] (Chateau NPC)
+  JP : 「遠く、ファルガイアのこれからを / 平和に導くために〜
+  LIT: To guide Filgaia's distant future toward peace.
+  RE : To lead Filgaia's far future
+       toward peace.
+
+[US#1721] (Chateau NPC)
+  JP : 「いったい / いつから、何が、どのようにして / 大陸が狂いはじめたのでしょうか〜
+  LIT: When, what, and how did the continent first begin to go awry?
+  RE : When, and how, did this land
+       first begin to go awry?
+
+[US#1722] (Chateau NPC)
+  JP : 「そして、表にはあまり出しませんが / 妹様もとても大切にしています
+  LIT: And though he rarely shows it, he treasures his younger sister deeply.
+  RE : And though he rarely shows it,
+       he treasures his sister deeply.
+
+[US#1723] (Chateau NPC)
+  JP : 「ですから、ＡＲＭＳの戦力アップに / 多少、ムチャな作戦をとることもあるのです
+  LIT: So to strengthen ARMS, he sometimes takes rather reckless measures.
+  RE : So to strengthen ARMS, he'll take
+       rather reckless measures at times.
+
+[US#1724] (Chateau NPC)
+  JP : 「ですから、本当なら指揮官ではなく / 最前線で得意の剣や魔法を / 振るいたかったに違いありません
+  LIT: So really, rather than commanding, he surely wished to wield his sword and magic on the front line.
+  RE : Rather than command, he surely
+       longed to wield sword and magic
+       on the front line.
+
+[US#1725] (Chateau NPC)
+  JP : 「あの事故さえなければ〜
+  LIT: If only that accident had never happened...
+  RE : If only that accident had never
+       happened...
+
+[US#1726] (Chateau NPC)
+  JP : 「剣術も魔法も / 誰よりも優れた腕えをみせた / お人だったのに〜
+  LIT: He was a man who showed greater skill in swordsmanship and magic than anyone.
+  RE : A man who showed greater skill
+       at sword and spell than anyone,
+       he was.
+
+[US#1727] (Chateau NPC)
+  JP : 「本当に残念です
+  LIT: Truly a shame.
+  RE : Truly a shame.
+
+[US#1728] (Chateau NPC)
+  JP : 「それは、僕たちが考えるよりも / ずっと世謎めいたモノに違いない〜
+  LIT: It must be far more fateful and strange than we imagine.
+  RE : It must be far stranger and more
+       fateful than we imagine.
+
+[US#1729] (Chateau NPC)
+  JP : 「ヴァレリア公が何をしようとしたのか / いや、何をしようとしているのか / 僕にはわからない〜
+  LIT: What Sir Valeria tried to do, no, is trying to do, I cannot fathom.
+  RE : What Sir Valeria meant to do,
+       no, still means to do, I cannot
+       fathom.
+
+[US#1730] (Chateau NPC)
+  JP : 「だけど、そいつは / 英雄伝説に振り回された / 悲劇に斬重していくんじゃないか〜
+  LIT: But maybe he's headed for a tragedy driven by the legend of the hero.
+  RE : But perhaps he heads toward a
+       tragedy driven by the hero
+       legend.
+
+[US#1731] (Chateau NPC)
+  JP : 「そして、今、ふたたび / ファルガイアを脅威から保るために / 『ＡＲＭＳ』という名の剣を振るっている〜
+  LIT: And now, once again, he wields a sword named ARMS to shield Filgaia from the threat.
+  RE : And now, again, he wields a sword
+       named |ARMS| to shield Filgaia
+       from the threat.
+
+[US#1732] (Chateau NPC)
+  JP : 「これは、運命なのだろうか？ / 〜いや、運命では無いとしたら〜
+  LIT: Is this destiny? ...And if it is not destiny...
+  RE : Is this destiny? And if it is
+       not destiny, then...
+
+[US#1733] (Chateau NPC)
+  JP : 「これは『英雄』という血に縛りつけられた / 世いそのものといえないか〜？
+  LIT: Could this not be the very fate bound to the blood called "hero"?
+  RE : Could this be the very fate bound
+       to the blood called |hero|?
+
+[US#1734] (Chateau NPC)
+  JP : 「ヴァレリアの血の中に伝えられし / 運命、世謎、悲しみ〜
+  LIT: The destiny, the fate, the sorrow handed down in Valeria blood.
+  RE : The destiny, the fate, the sorrow
+       passed down in Valeria blood.
+
+[US#1735] (Chateau NPC)
+  JP : 「ＡＲＭＳを運営していくだけの資金や / ヴァレリアシャトーをはじめとする遺跡など / 一貴に<b:8b47>る力は、そういうワケがあるんだ
+  LIT: The funds to run ARMS, ruins like Valeria Chateau, the power over such holdings: that's the reason.
+  RE : The funds to run ARMS, ruins
+       like Valeria Chateau, all that
+       wealth has its reason.
+
+[US#1736] (Chateau NPC)
+  JP : 「あん？ / もしかして、知らなかったのか？？
+  LIT: Huh? Don't tell me you didn't know?
+  RE : Huh? Don't tell me you didn't
+       know all that?
+
+[US#1737] (Chateau NPC)
+  JP : 「だが、それは / かつての『剣の剣士』とは / 根本的に異なる脅威なんだッ！
+  LIT: But that is a threat fundamentally different from the "Blaze of Disaster" of old.
+  RE : But that threat is nothing like
+       the |Blaze of Disaster| of old!
+
+[US#1738] (Chateau NPC)
+  JP : 「僕たちの相は / 僕たちと同じ人間ッ！ / 同じ星に生きる、同じ生命なんだッ！
+  LIT: Our foe is human like us! The same life, living on the same star!
+  RE : Our foe is human, like us! Same
+       life, on the same star!
