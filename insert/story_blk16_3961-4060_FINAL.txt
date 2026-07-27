@@ -1,0 +1,637 @@
+# WA2 — Block 16, US#3961-4060 — FINAL (Baskar part 2: Sabrina's story, Glaive Le Gable panels, Tim's trial)
+# =========================================================================================
+# Baskar Village continued: the Mana-drain crisis and the fang-tower, the Guardian Lords
+# (Raftina/Justine/Zephyr), Colette's nightmares, the village's guilt over the |Key|, the
+# Glaive Le Gable "Wedge" lore panels (Elw shrine), Sabrina's backstory ([13] = flashback/
+# narration boxes), Tim's introduction and the trial requirement, and US#4165's famous
+# Contactee definition territory. |Key| kept literal (EN: Pillar). JP-primary; EN aligns well.
+
+[US#3961] (villager)
+  JP : 「それは、<89d3>の上からでは / 見つからないとも聞いているぞ
+  LIT: And I hear it can't be found from the deck of a boat.
+  RE : And I hear it can't be found from
+       the deck of a boat.
+
+[US#3962] (villager)
+  JP : 「この、食われてしまった空を見上げれば / あきらめてしまうのも / 無理はない〜
+  LIT: Looking up at this devoured sky, it's no wonder some give up.
+  RE : Looking up at this devoured sky,
+       it's no wonder some give up.
+
+[US#3963] (chief)
+  JP : 「そう、[11]お里の先側[11]ぉより / 急<88f1>に『マナ』が失われているのだ
+  LIT: Yes: from beyond the village, Mana is being lost at a sudden, terrible rate.
+  RE : Yes. |Beyond the village|, Mana
+       is being lost at a sudden,
+       terrible rate.
+
+[US#3964] (chief)
+  JP : 「これがオデッサのしわざならば / すぐにでも食い止めないと / ファルガイアは<b:8ac1>からびてしまいかねん
+  LIT: If this is Odessa's doing, it must be stopped at once, or Filgaia may wither dry.
+  RE : If this is Odessa's doing, it
+       must be stopped at once, or
+       Filgaia may wither dry.
+
+[US#3965] (chief)
+  JP : 「それがオデッサのしわざならば / 自分たちが発配を<b:8ab7>む世界そのものが / 傷ついていることに、なぜ気づかないッ！
+  LIT: If it is Odessa's doing, why don't they see they're wounding the very world they hope to rule?!
+  RE : If it is Odessa's doing, why
+       can't they see they wound the
+       very world they'd rule?!
+
+[US#3966] (villager)
+  JP : 「キミの命ひとつで / この悲<b:8ac7>を救うことができるのだ / 政わないでほしい〜
+  LIT: With your one life, this tragedy can be redeemed; please do not falter.
+  RE : With your one life, this tragedy
+       can be redeemed. Please do not
+       falter.
+
+[US#3967] (chief)
+  JP : 「見えざる相とは、<b:8aca>の弱い心〜 / そして、来るべき脅威 / 空を食らい、未来閉ざす『何か』〜
+  LIT: The unseen foe is our own weak hearts, and the coming threat: the "something" that devours the sky and closes the future.
+  RE : The unseen foe is our own weak
+       hearts, and the coming threat
+       that devours the sky.
+
+[US#3968] (chief)
+  JP : 「遠く未来を見<b:8acd>えてると / 我々の相は、オデッサではない〜 / それは、キミも同じ事だよ
+  LIT: Looking far into the future, our enemy is not Odessa; and the same is true for you.
+  RE : Looking far into the future, our
+       enemy is not Odessa. The same is
+       true for you.
+
+[US#3969] (chief)
+  JP : 「だが『空が食われる』と表現されたほどの〜 / [05]がの命を必要とするほどの / 脅威といえようか〜
+  LIT: But is it a threat so great as "the sky being devoured," so great as to require {3}'s life?
+  RE : But is it a threat so great as
+       the devoured sky, so great as to
+       require {3}'s life?
+
+[US#3970] (villager)
+  JP : 「そう考えるのだ〜 / それ以上を考えないようにするのだ
+  LIT: That is what we think; and we make ourselves think no further.
+  RE : That is what we think. And we
+       make ourselves think no further.
+
+[US#3971] (villager)
+  JP : 「これもすべて / ガーディアンのお導きに違いない〜
+  LIT: All of this must surely be the Guardians' guidance.
+  RE : All of this must surely be the
+       Guardians' guidance.
+
+[US#3972] (elder)
+  JP : 「どうか、[05]がに / 『鍵』を継がせてやってほしい
+  LIT: Please, help {3} inherit the "Key."
+  RE : Please, help {3} inherit the
+       |Key|.
+
+[US#3973] (villager)
+  JP : 「『鍵』を発える<b:8acf>間がいたから / 人知を<b:8a6b>える / 戦いを<b:8a6e>り<b:8a6b>えてこれたのです
+  LIT: Because the "Key" had companions to uphold it, battles beyond human knowing could be overcome.
+  RE : Because the |Key| had companions
+       to uphold it, battles beyond
+       knowing could be overcome.
+
+[US#3974] (villager)
+  JP : 「ならば、私たちも / 『鍵』を発える力となりましょう〜
+  LIT: Then let us too become strength that upholds the "Key."
+  RE : Then let us too become strength
+       that upholds the |Key|.
+
+[US#3975] (villager)
+  JP : 「<b:8aa2>で力を合わせることで / 『鍵』の命を<b:8a64>やさずとも / 世界を発えていられるように〜
+  LIT: By joining all our strength, may the world be upheld without spending the "Key"'s life.
+  RE : By joining all our strength, may
+       the world be upheld without
+       spending the |Key|'s life.
+
+[US#3976] (villager)
+  JP : 「でも、そのすべてが / 地上にあるとは<b:8aa9>らないのです
+  LIT: But not all of them are necessarily on the ground.
+  RE : But not all of them are
+       necessarily on the ground.
+
+[US#3977] (villager)
+  JP : 「<89f9>の道には / <89f9>の『マナ』が<b:8a8e>えられし<b:8a7d><b:8a7e>が / たゆたっていると伝えられています
+  LIT: On the sea of wind, they say, drifts a shrine holding the wind's Mana.
+  RE : On the sea of wind, they say,
+       drifts a shrine holding the
+       wind's Mana.
+
+[US#3978] (villager)
+  JP : 「いいえ、持っていたと / 言うべきでしょうか〜
+  LIT: No; perhaps I should say it once held them.
+  RE : No. Perhaps I should say it once
+       held them.
+
+[US#3979] (villager)
+  JP : 「いつしか人の心から輝きは失われ / そして今、ファルガイアから / 輝きが失われようとしています
+  LIT: At some point the light left people's hearts; and now the light is leaving Filgaia itself.
+  RE : The light left people's hearts
+       long ago. Now the light is
+       leaving Filgaia itself.
+
+[US#3980] (villager)
+  JP : 「『愛』のラフティーナ / 『勇気』のジャスティーン / 『<b:8ad1><b:8ab7>』のゼファー〜
+  LIT: Raftina of "Love," Justine of "Courage," Zephyr of "Hope."
+  RE : Raftina of |Love|, Justine of
+       |Courage|, Zephyr of |Hope|.
+
+[US#3981] (villager)
+  JP : 「ガーディアンロードならば / この空の異世事態を / 何とかしてくれるのでしょうか？
+  LIT: Could the Guardian Lords do something about this sky's calamity, I wonder?
+  RE : Could the Guardian Lords do
+       something about this sky's
+       calamity, I wonder?
+
+[US#3982] (villager)
+  JP : 「おそらくは / あの<897f>が、星のエネルギー『マナ』を / 奪っているからでしょう〜
+  LIT: Most likely it is because that tower is stealing the planet's Mana.
+  RE : Most likely it is because that
+       tower is stealing the planet's
+       Mana.
+
+[US#3983] (villager)
+  JP : 「あれは何と<b:8ad2>々しい<897f>でしょうか〜 / まるで大地に突き立てられた / ケモノの<b:8a94>のようです
+  LIT: What a baleful tower that is, like a beast's fang driven into the earth.
+  RE : What a baleful tower that is,
+       like a beast's fang driven into
+       the earth.
+
+[US#3984] (villager)
+  JP : 「あなたの役<8913>は / そのような未来から / この星を守ることなのですよ
+  LIT: Your role is to protect this planet from such a future.
+  RE : Your role is to protect this
+       planet from such a future.
+
+[US#3985] (villager)
+  JP : 「古の伝<b:8ad4>にあるように / 『<b:8a74><b:8a75>』（ディザスター）が / <b:8a63>びファルガイアを<b:8ad5><b:8ad6>するのでしょうか？
+  LIT: As in the old prophecy, will "Disaster" once again lay Filgaia to ruin?
+  RE : As in the old prophecy, will
+       |Disaster| once again lay Filgaia
+       to ruin?
+
+[US#3986] (village woman)
+  JP : 「あなたは、あなたの<b:8ad8>きなヒトを〜 / あなたを<b:8ad8>きと言ってくれるヒトを / 守り抜ける力を手にすることができるのよ
+  LIT: You can gain the power to protect the ones you love, and the ones who say they love you.
+  RE : You can gain the power to protect
+       the ones you love, and the ones
+       who love you.
+
+[US#3987] (village woman)
+  JP : 「バスカーとして生まれし者は / 『鍵』の運命を<89a3>右うか / 人の心を<b:8ad9>てるしかないのよ〜
+  LIT: One born Baskar must either bear the fate of the "Key," or cast away their human heart.
+  RE : One born Baskar must either bear
+       the fate of the |Key|, or cast
+       away their human heart.
+
+[US#3988] (village woman)
+  JP : 「誰も、[05]がひとりに / 世界の命運を<89a3>右わすことに / 後ろめたいものを信じているからなのよ
+  LIT: It's because everyone feels the guilt of laying the world's fate on {3} alone.
+  RE : It's because everyone feels the
+       guilt of laying the world's fate
+       on {3} alone.
+
+[US#3989] (village woman)
+  JP : 「お前は、この里の人間に〜 / そして、ファルガイアに生きる / すべての命に愛されているんだよ
+  LIT: You are loved by the people of this village, and by every life that lives on Filgaia.
+  RE : You are loved by the people of
+       this village, and by every life
+       on Filgaia.
+
+[US#3990] (village woman)
+  JP : 「そのことを / 忘れないでおくれよ〜
+  LIT: Please never forget that.
+  RE : Please never forget that.
+
+[US#3991] (village woman)
+  JP : 「いつまでも、いつまでも〜 / ファルガイアの未来となって / 残っていくんだよ
+  LIT: Forever and ever, it will remain, becoming Filgaia's future.
+  RE : Forever and ever, it will remain,
+       becoming Filgaia's future.
+
+[US#3992] (chief)
+  JP : 「ファルガイアの中心には / すべての始りとなった / 泥のガーディアンが<b:8adc>たわるという〜
+  LIT: At Filgaia's center, they say, lies the Guardian of mud from which all things began.
+  RE : At Filgaia's center, they say,
+       lies the Guardian of mud from
+       which all things began.
+
+[US#3993] (chief)
+  JP : 「泥のガーディアン『グラブ・ル・ガブル』が / 食われし時こそ / <b:8a99>にファルガイアの命が<b:8ada>たれる時なのじゃ
+  LIT: When the mud Guardian "Glaive Le Gable" is devoured, that is when Filgaia's life is truly severed.
+  RE : When the mud Guardian |Glaive Le
+       Gable| is devoured, Filgaia's
+       life is truly severed.
+
+[US#3994] (chief)
+  JP : 「だが、ファルガイアの空と未来を閉ざす / この暗<b:8adf>を<b:8ae0>うこと、<b:8add><89f9>にはかなわず〜
+  LIT: But to sweep away this darkness that closes Filgaia's sky and future is beyond even the storm.
+  RE : But to sweep away this darkness
+       that closes Filgaia's sky is
+       beyond even the storm.
+
+[US#3995] (chief)
+  JP : 「力ではない〜 / 力だけでは、本当に大切なモノは / 守れないのじゃ〜
+  LIT: Not power; power alone cannot protect what truly matters.
+  RE : Not power. Power alone cannot
+       protect what truly matters.
+
+[US#3996] (chief)
+  JP : 「ガーディアンたちは / 暗示する夢などではなく / 来たるべき未来を<b:8ae1>えてくれたのですじゃ
+  LIT: The Guardians showed us not some hinting dream, but the future that is to come.
+  RE : The Guardians showed us not some
+       hinting dream, but the future
+       that is to come.
+
+[US#3997] (chief)
+  JP : 「あの家と私が視（み）た夢〜 / 『ファルガイアの血が<b:8a45>み取られる』とは / いったい何を意<b:8ae3>するのであろうか？
+  LIT: The dream that child and I both saw: "Filgaia's blood being drained"; what could it mean?
+  RE : The dream that child and I both
+       saw, Filgaia's blood being
+       drained, what could it mean?
+
+[US#3998] (chief)
+  JP : 「ファルガイアの血〜 / それは、星の生命エネルギー〜 / 『マナ』を指しているのではあるまいか？
+  LIT: Filgaia's blood: does it not point to the planet's life energy, the Mana?
+  RE : Filgaia's blood. Does it not
+       point to the planet's life
+       energy, the |Mana|?
+
+[US#3999] (chief)
+  JP : 「これが意<b:8ae3>するもの〜 / そして、その時いっしょに視えた / 暗く、<b:8ad2>々しい<897f>の起は、いったい〜
+  LIT: What this means, and the dark, baleful tower we saw at the same time, what are they?
+  RE : What this means, and the dark,
+       baleful tower we saw with it,
+       what are they?
+
+[US#4000] (chief)
+  JP : 「手にすれば強力なエネルギーを / モノにすることとなろう / じゃが、しかし〜
+  LIT: To seize it would be to command mighty energy; and yet...
+  RE : To seize it would be to command
+       mighty energy. And yet...
+
+[US#4001] (chief)
+  JP : 「まかりまちがえば / ファルガイアの死に至るやもしれぬ / 危険なモノじゃて〜
+  LIT: One misstep and it could bring Filgaia's death; a dangerous thing it is.
+  RE : One misstep and it could bring
+       Filgaia's death. A dangerous
+       thing it is.
+
+[US#4002] (chief)
+  JP : 「いずれヤツらは / 星の生命エネルギー『マナ』にまで / 手を出すのやもしれぬな〜
+  LIT: In time they may reach even for the planet's life energy, the Mana.
+  RE : In time they may reach even for
+       the planet's life energy, the
+       |Mana|.
+
+[US#4003] (chief)
+  JP : 「それは、同時に『鍵』としての乗を / みがいていることでもあるのだ
+  LIT: That is, at the same time, the polishing of your gift as the "Key."
+  RE : That is, at the same time, the
+       polishing of your gift as the
+       |Key|.
+
+[US#4004] (chief)
+  JP : 「やがて導かれるじゃろう / 生け左の祭壇にて / その命を<b:8a64>やし<b:8a66>くすその時まで〜
+  LIT: In time you will be led to the Sacrificial Altar, until the moment you spend your life utterly.
+  RE : In time you will be led to the
+       Sacrificial Altar, until you
+       spend your life utterly.
+
+[US#4005] (chief)
+  JP : 「そうは思えぬ〜 / もっと、<88bf>大であいまいな / 脅威としかいい表せぬナニかではあるまいか
+  LIT: I think not; is it not something vaster and more shapeless, describable only as a threat?
+  RE : I think not. Is it not something
+       vaster, more shapeless, only
+       describable as a threat?
+
+[US#4006] (chief)
+  JP : 「お前は命を<b:8ad9>てるのではない / そう、未来に<b:8ae5>げるのじゃ〜 / カタチを変えて、<b:8a96>遠に生きるのじゃ〜
+  LIT: You are not throwing your life away; you offer it to the future, and live forever in a changed form.
+  RE : You are not throwing your life
+       away. You offer it to the future,
+       and live on, changed.
+
+[US#4007] (chief)
+  JP : 「認めたくはないが / 生け左もまた、生きるために / 必要なすべなのじゃよ〜
+  LIT: I do not wish to admit it, but the sacrifice too is a means needed in order to live.
+  RE : I do not wish to admit it, but
+       the sacrifice too is a means
+       needed in order to live.
+
+[US#4008] (elder)
+  JP : 「これならば / ガーディアンたちも / 『鍵』として認めてくれるじゃろう
+  LIT: With this, the Guardians too will surely accept you as the "Key."
+  RE : With this, the Guardians too will
+       surely accept you as the |Key|.
+
+[US#4009] (villager)
+  JP : 「みんなで守れば / 『鍵』に頼らなくたって / ファルガイアを発えていけるんだよ
+  LIT: If everyone protects it, Filgaia can be upheld without relying on the "Key."
+  RE : If everyone protects it, Filgaia
+       can be upheld without relying on
+       the |Key|.
+
+[US#4010] (Colette/girl)
+  JP : 「この想いだけが / わたしの<b:8aea><b:8aeb>です / この<b:8aea><b:8aeb>で世界のために戦いたいの〜
+  LIT: This feeling alone is my weapon; with this weapon I want to fight for the world.
+  RE : This feeling alone is my weapon.
+       With it, I want to fight for the
+       world.
+
+[US#4011] (villager)
+  JP : 「だって、みんなのがんばりでここまで / ここまでいろんな脅威をはねのけて / これたんだもの〜
+  LIT: After all, everyone's efforts have carried us this far, fending off threat after threat.
+  RE : After all, everyone's efforts
+       have carried us this far, fending
+       off threat after threat.
+
+[US#4012] (villager)
+  JP : 「それはまるで / 一本の『鍵』に<b:8a9a>相するような / 大きな力だとおもいます〜
+  LIT: I believe that is a power great enough to rival a single "Key."
+  RE : I believe that is a power great
+       enough to rival a single |Key|.
+
+[US#4013] (girl)
+  JP : 「『ファルガイアの血が<b:8a45>み取られている』〜 / [11]お先側の山[11]ぉに突き立つ<b:8a94>が / 星の命を傷つけているのよ〜
+  LIT: "Filgaia's blood is being drained": the fang thrust up in the mountains yonder is wounding the planet's life.
+  RE : Filgaia's blood is being drained.
+       The fang in the |mountains
+       yonder| wounds the planet.
+
+[US#4014] (girl)
+  JP : 「止めなきゃ〜 / 止めないと、空よりも先に / 大地が無くなってしまうの〜
+  LIT: We must stop it; if we don't, the land will vanish before the sky does.
+  RE : We must stop it. If we don't, the
+       land will vanish before the sky
+       does.
+
+[US#4015] (girl)
+  JP : 「未知の、大きな力に乗れることが / こんなにも恐ろしい事だなんて〜 / [05]がくんは強いと思う〜
+  LIT: To think that touching a great unknown power is this frightening; {3} is strong, I think.
+  RE : To think touching a great unknown
+       power is this frightening. {3} is
+       strong, I think.
+
+[US#4016] (girl)
+  JP : 「わたしじゃない誰かが見ている夢を / 遠くからボンヤリながめるように / 信じているの〜
+  LIT: It feels like dimly watching, from far away, a dream someone else is dreaming.
+  RE : It feels like dimly watching,
+       from far away, a dream someone
+       else is dreaming.
+
+[US#4017] (girl)
+  JP : 「<89bb>っていると / 誰かがわたしの中に / 入ってくるような信信がして〜
+  LIT: When I sleep, it feels as if someone is coming inside me.
+  RE : When I sleep, it feels as if
+       someone is coming inside me.
+
+[US#4018] (girl)
+  JP : 「今<b:8af3>もまた / 怖い夢を見るんじゃないかと思うと〜
+  LIT: When I think I might have another frightening dream tonight...
+  RE : When I think I might have another
+       frightening dream tonight...
+
+[US#4019] (villager)
+  JP : 「だから、『鍵』には / 方々な力がガーディアンから / <b:8a8f>けられているの
+  LIT: That is why many powers have been granted to the "Key" by the Guardians.
+  RE : That is why many powers have been
+       granted to the |Key| by the
+       Guardians.
+
+[US#4020] (villager)
+  JP : 「〜生け左の祭壇以外で / 命を落とすことがないようにね〜
+  LIT: So that it does not lose its life anywhere but the Sacrificial Altar, you see.
+  RE : So that it does not lose its life
+       anywhere but the Sacrificial
+       Altar, you see.
+
+[US#4021] (villager)
+  JP : 「誰もがそのことに / どこか<b:8af4>誓をいだくことがあっても / 『鍵』が無くなることはありませんでした〜
+  LIT: However much anyone harbored doubts about it, the "Key" never ceased to be.
+  RE : However much anyone harbored
+       doubts about it, the |Key| never
+       ceased to be.
+
+[US#4022] (girl)
+  JP : 「そうするには / ファルガイアを護らなきゃ / いけないの〜
+  LIT: And to do that, I have to protect Filgaia.
+  RE : And to do that, I have to protect
+       Filgaia.
+
+[US#4023] (girl)
+  JP : 「〜ごめんね / わたしわかっていたのに / 言い出せなかったの〜
+  LIT: I'm sorry; I knew, and yet I couldn't bring myself to say it.
+  RE : I'm sorry. I knew, and yet I
+       couldn't bring myself to say it.
+
+[US#4024] (girl)
+  JP : 「わたしが、『鍵』になれば / よかったのにね〜
+  LIT: It should have been me who became the "Key," shouldn't it?
+  RE : It should have been me who became
+       the |Key|, shouldn't it?
+
+[US#4025] (girl)
+  JP : 「だから〜
+  LIT: So...
+  RE : So...
+
+[US#4026] (villager)
+  JP : 「あんたらを / たよりにしてるからな
+  LIT: We're counting on you, you know.
+  RE : We're counting on you, you know.
+
+[US#4027] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4028] (lore panel)
+  JP : ＊すべての生命の<b:8b02>となった原<b:8b03>の存在 / 泥のガーディアン『グラブ・ル・ガブル』
+  LIT: The primal being that became the source of all life: the mud Guardian "Glaive Le Gable."
+  RE : The primal being that became the
+       source of all life: the mud
+       Guardian |Glaive Le Gable|.
+
+[US#4029] (lore panel)
+  JP : ＊母なる存在グラブ・ル・ガブルは / ファルガイアに年多の命を / <b:8b04>み落としていく
+  LIT: The mother-being Glaive Le Gable births countless lives into Filgaia.
+  RE : The mother-being Glaive Le Gable
+       births countless lives into
+       Filgaia.
+
+[US#4030] (lore panel)
+  JP : ＊ガーディアン、古<b:8b05><b:8b06>エルゥ / 人間と動物たち〜
+  LIT: The Guardians, the ancient race of Elw, humans and the animals...
+  RE : The Guardians, the ancient race
+       of Elw, humans and the animals...
+
+[US#4031] (lore panel)
+  JP : ＊地にあふれる命は / 時に手を取り、反発し / <b:8b07><b:8b08>と<b:8b09><b:8a65>を<b:8b0a>り<b:8b0b>していく〜
+  LIT: The lives that fill the land sometimes join hands, sometimes clash, weaving prosperity and decline.
+  RE : The lives that fill the land join
+       hands and clash, weaving
+       prosperity and decline.
+
+[US#4032] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4033] (lore panel)
+  JP : ＊無知なるグラブ・ル・ガブルは / 無<b:8b0d>道に命を<b:8b04>み落とし / ファルガイアを<b:8b0e>たしていく〜
+  LIT: The unknowing Glaive Le Gable births life without design, filling Filgaia.
+  RE : The unknowing Glaive Le Gable
+       births life without design,
+       filling Filgaia.
+
+[US#4034] (lore panel)
+  JP : ＊<8995>か伝<b:8ad4>の彼方に存在する古<b:8b05><b:8b06>エルゥは / グラブ・ル・ガブルの<b:8ace>動を / 星の心<b:8b0f>として<b:8aa9>定しようと<b:8a7d><b:8a7e>を建立する
+  LIT: The Elw of distant legend raised a shrine to steady Glaive Le Gable's stirrings as the planet's heartbeat.
+  RE : The Elw of distant legend raised
+       a shrine to steady its stirrings
+       as the planet's heartbeat.
+
+[US#4035] (lore panel)
+  JP : ＊『<b:8b0c>』、そう呼ばれた<b:8a7d><b:8a7e>は / 言葉通り、グラブ・ル・ガブルに突き立ち / その無<b:8b0d>道な<b:8ace>動を<b:8b10>制するのであった
+  LIT: The shrine called the "Wedge," true to its name, pierces Glaive Le Gable and restrains its planless stirrings.
+  RE : The shrine called the |Wedge|,
+       true to its name, pierces it and
+       restrains its stirrings.
+
+[US#4038] (narration)
+  JP : 「１２数前、キミが生まれた故<b:8b1c>だ
+  LIT: The home where you were born, twelve years ago.
+  RE : The home where you were born,
+       twelve years ago.
+
+[US#4039] (party)
+  JP : 「我々で / 国の代表に話を聞いてみよう
+  LIT: Let's go and hear what the village's head has to say.
+  RE : Let's go and hear what the
+       village's head has to say.
+
+[US#4040] (party)
+  JP : 「それまで[05]がは / 国の中で自由にしていてくれ / 何か手がかりがあるかもしれないからな
+  LIT: Until then, {3}, feel free to roam the village; there may be clues somewhere.
+  RE : Until then, {3}, feel free to
+       roam the village. There may be
+       clues somewhere.
+
+[US#4041] (elder)
+  JP : 「おっしゃるとおり / [05]がはこの国の家族です
+  LIT: Just as you say: {3} is a child of this village.
+  RE : Just as you say: {3} is a child
+       of this village.
+
+[US#4042] (elder)
+  JP : 「ガーディアンの<b:8b1e>女 / サブリナのひとり<89e2>家 / [05]がに、まちがいありません
+  LIT: He is without doubt {3}, the only child of Sabrina, sorceress of the Guardians.
+  RE : He is without doubt {3}, the only
+       child of Sabrina, sorceress of
+       the Guardians.
+
+[US#4043] (flashback narration)
+  JP : [13]<8aa2>に<b:8b23><b:8b24>された小さな命は / [13][05]がと名付けられ / [13]３<b:8b25>まで<b:8b26>てられる。が〜
+  LIT: The small life blessed by all was named {3}, and raised until age three. But...
+  RE : The small life blessed by all was
+       named {3}, and raised until age
+       three. But...
+
+[US#4044] (flashback narration)
+  JP : [13]冒険にて受けたケガが元で / [13]<8b27><8a0e>が亡くなったのを<b:8b28>に / [13]サブリナの方家が一変したという
+  LIT: When her beloved died of wounds taken adventuring, Sabrina, they say, changed utterly.
+  RE : When her beloved died of wounds
+       taken adventuring, Sabrina, they
+       say, changed utterly.
+
+[US#4045] (flashback narration)
+  JP : [13]やがてサブリナは / [13]<8ab0>い[05]がを連れて国を出<b:8ab8> / [13]その後の行方は、ようとしてつかめなかった
+  LIT: In time Sabrina took young {3} and left the village; where she went, none could learn.
+  RE : In time Sabrina took young {3}
+       and left the village. Where she
+       went, none could learn.
+
+[US#4046] (elder)
+  JP : 「[05]がのお母さんは / タウンメリアを<b:8a8c>れた後 / そこで亡くなっています
+  LIT: {3}'s mother passed away there, after leaving Town Meria.
+  RE : {3}'s mother passed away there,
+       after leaving Town Meria.
+
+[US#4047] (elder)
+  JP : 「以来、[05]がは / タウンメリアで<b:8a8a>らしていました
+  LIT: Since then, {3} has lived in Town Meria.
+  RE : Since then, {3} has lived in Town
+       Meria.
+
+[US#4048] (elder)
+  JP : 「長数にわたって / [05]がの行方を / 調査しておりましたゆえ〜
+  LIT: For we spent long years searching for {3}'s whereabouts.
+  RE : For we spent long years searching
+       for {3}'s whereabouts.
+
+[US#4049] (elder)
+  JP : 「いかにも / [05]がこそ、今に少ない / 『鍵』の資質を持った存在なのです
+  LIT: Indeed: {3} is one of the few beings left who holds the gift of the "Key."
+  RE : Indeed: {3} is one of the few
+       left who holds the gift of the
+       |Key|.
+
+[US#4050] (elder)
+  JP : 「[05]がには / サブリナより招き継いだ / 『鍵』の乗が強く見られていたのです
+  LIT: In {3}, the gift of the "Key" inherited from Sabrina showed itself strongly.
+  RE : In {3}, the gift of the |Key|
+       inherited from Sabrina showed
+       itself strongly.
+
+[US#4051] (elder)
+  JP : 「そうですじゃ / この国には、もうひとり / 『鍵』の資質を持つものがいましてな〜
+  LIT: Indeed; in this village there is one more who holds the gift of the "Key."
+  RE : Indeed. In this village there is
+       one more who holds the gift of
+       the |Key|.
+
+[US#4052] (elder)
+  JP : 「みなさまに / 招き合わせたいと思うのですが〜
+  LIT: I should like to introduce her to you all.
+  RE : I should like to introduce her to
+       you all.
+
+[US#4053] (Tim)
+  JP : 「ボクは[05]が / よかったら、キミの名前を / <b:8ae1>えてほしいな
+  LIT: I'm {3}; if it's all right, I'd like to know your name.
+  RE : I'm {3}. If it's all right, I'd
+       like to know your name.
+
+[US#4054] (elder)
+  JP : 「〜キミは、いったい〜 / どうして[0a]がとミーディアムが / 呼び合っているんだろう〜
+  LIT: You... why is it that {3} and the Mediums call to one another?
+  RE : You... why is it that {3} and the
+       Mediums call to one another?
+
+[US#4057] (elder)
+  JP : 「そのためには / 『鍵』の能力が / どうしても必要不可欠である
+  LIT: For that, the power of the "Key" is utterly indispensable.
+  RE : For that, the power of the |Key|
+       is utterly indispensable.
+
+[US#4058] (elder)
+  JP : 「完全な『鍵』として信<b:8b2f>するために / 試練を受けて / 能力を継<b:8ad4>する必要があるのです
+  LIT: To awaken as a complete "Key," he must undergo the trial and inherit the power.
+  RE : To awaken as a complete |Key|, he
+       must undergo the trial and
+       inherit the power.
+
+[US#4059] (Tim)
+  JP : 「できないよ、そんなの〜 / ボクなんかにそんなこと〜
+  LIT: I can't do that... not someone like me...
+  RE : I can't do that... not someone
+       like me...
+
+[US#4060] (elder)
+  JP : 「それに、<8979>が一、[05]がの<b:8b31>性が / 『鍵』として不充分だった場合 / ガーディアンを受け止められぬやもしれぬ
+  LIT: And should {3}'s aptitude prove insufficient as the "Key," he may fail to receive the Guardians.
+  RE : And should {3}'s aptitude prove
+       insufficient as the |Key|, he may
+       fail to receive the Guardians.
