@@ -1,0 +1,283 @@
+# WA2 — Block 9, US#2321-2364 — FINAL (post-Odessa: Ashley salvage/rescue + Filgaia-decay debrief + Lord Blazer confession)
+# =========================================================================================
+# After Odessa's fall: Irving's briefing to salvage/rescue {1} Winchester via Lilka's Crest-
+# Sorceress gate and the faint Empathite signal; the debrief on Filgaia's slow decay (native
+# life dwindling, monsters replacing it, not Odessa's doing); the plan to seek answers at Baskar
+# Village and the Grotto of Lourdes; and Ashley confessing to Kanon that the "other self" inside
+# him is Lord Blazer, the Blaze of Disaster, "so we are enemies." JP-primary (EN drifts here),
+# unreadable spans [?]. Name codes {0}/{1}/{2}/{4}/{6}/[05]/[0a] preserved. Hand-done (main thread).
+
+[US#2321] (Irving)
+  JP : 「人質救出のミッションはＡＲＭＳにとって / <b:8a81>めてのことだが失<893d>は許されない〜ッ！ / 頼んだぞ
+  LIT: A hostage-rescue mission is a first for ARMS, but failure is not allowed! I'm counting on you.
+  RE : A hostage rescue is a first for
+       ARMS, but we cannot fail. I'm
+       counting on you.
+
+[US#2322] (Irving)
+  JP : 「同時に、ルルドの<89c8>の情報を / つかむこととしよう
+  LIT: At the same time, let's gather intel on the Grotto of Lourdes.
+  RE : At the same time, gather intel on
+       the Grotto of Lourdes.
+
+[US#2323] (Irving)
+  JP : 「<8856>査の<b:8bf3><b:8bf4>は貴様らに一任する / 情報の斬集、および探<887e>を行ってほしい
+  LIT: I leave the order of the investigation to you; gather information and search.
+  RE : I leave the order up to you.
+       Gather information and search.
+
+[US#2324] (tech NPC)
+  JP : 「これは、[05]ぉさんの / 通信機から発せられる信応谷のパターンです
+  LIT: This is the Empathite-signal pattern coming from {1}'s comm device.
+  RE : This is the Empathite-signal
+       pattern from {1}'s comm device.
+
+[US#2325] (tech NPC)
+  JP : 「通世なら、ノイズに<895e>れてしまうほど / <89b8>弱な<b:8aa2>出反応です / 時間はかかると思います〜
+  LIT: The detection signal is so faint it'd normally be lost in the noise; it will take time.
+  RE : The signal's so faint it'd
+       normally be lost in noise. This
+       will take time.
+
+[US#2326] (tech NPC)
+  JP : 「それに〜
+  LIT: What's more...
+  RE : What's more...
+
+[US#2327] (Irving)
+  JP : 「私はこれから / ＡＲＭＳメンバーを<b:8b79>集する
+  LIT: I'll gather the ARMS members now.
+  RE : I'll gather the ARMS members now.
+
+[US#2328] (party)
+  JP : 「それだけ<89b8>弱な年<8875>では / 発信地帯の結定もままならないはずだ / どうやって救出するつもりだ？
+  LIT: With a signal that faint, you can't even pin down the source; how do you plan to rescue him?
+  RE : With a signal that faint, you
+       can't fix the source. How do you
+       mean to rescue him?
+
+[US#2329] (Kanon)
+  JP : 「〜だが、あたりはとってある / 今は、こいつにかける他あるまい〜
+  LIT: But I've got a lead. For now, we've no choice but to bet on this.
+  RE : But I've got a lead. For now,
+       we've no choice but to bet on it.
+
+[US#2330] (Irving)
+  JP : 「<8860><8861>は間違いないのだが / どうやら、何かしらの<b:8bf5>がずれているらしい / おそらくは、そこから連なる注行世界〜
+  LIT: The location's certain, but something seems out of alignment; likely the parallel world linked to it.
+  RE : The location's certain, but
+       something's out of alignment.
+       Likely the parallel world.
+
+[US#2331] (Irving)
+  JP : 「[05]かくんなら / その方法がわかるのではないのかな？
+  LIT: Wouldn't {4} know the way to do it?
+  RE : Wouldn't {4} know the way to do
+       it?
+
+[US#2332] (Irving)
+  JP : 「ゲートのコントロールは / クレストソーサレスである / キミにしかできない〜
+  LIT: Only you, a Crest Sorceress, can control the gate.
+  RE : Only you, a Crest Sorceress, can
+       control the gate.
+
+[US#2333] (Irving)
+  JP : 「サルベージ対<b:8ac2>は / [05]ぉ・ウィンチェスターッ！
+  LIT: The salvage target is {1} Winchester!
+  RE : The salvage target is {1}
+       Winchester!
+
+[US#2334] (Irving)
+  JP : 「ゼロと、そうじゃない年<8875>のあいだには / どれくらいの<881a>離があるかわかるか？
+  LIT: Do you know the distance between zero and a number that isn't zero?
+  RE : Do you know the distance between
+       zero and a number that isn't
+       zero?
+
+[US#2335] (Kanon)
+  JP : 「おきろッ！
+  LIT: Wake up!
+  RE : Wake up!
+
+[US#2336] (tech NPC)
+  JP : 「信応谷の使用を一時的に<b:8bfb>結 / 他の反応にジャマされることは / ぜんぜんありませんッ！
+  LIT: All Empathite use is temporarily frozen, so there'll be no interference from other signals!
+  RE : All Empathite use is frozen for
+       now, so no other signal will
+       interfere!
+
+[US#2337] (tech NPC)
+  JP : 「<b:8bfc>定<8875>以上の反応を捕<8993>できれば / サルベージポイントの結定が可能ですッ！
+  LIT: If we catch a signal above the threshold, we can fix the salvage point!
+  RE : Catch a signal above the
+       threshold, and we can fix the
+       salvage point!
+
+[US#2338] (party NPC)
+  JP : 「[05]ぉさんが帰ってくるって / 本当なんですかッ！
+  LIT: Is it true that {1} is coming back?
+  RE : Is it true that {1} is coming
+       back?
+
+[US#2339] (Kanon)
+  JP : 「そうでなくてはな〜 / お前を<8c01>るのはあたし / 誰に<88b3>るつもりはない
+  LIT: It has to be. I'm the one who'll hunt you; I won't leave that to anyone else.
+  RE : It has to be. I'm the one who'll
+       hunt you. I'll leave that to no
+       one.
+
+[US#2340] (Irving)
+  JP : 「貴様ら、全体の<b:8b2d>力によって / こうしてまた / ここにＡＲＭＳメンバーが置うことができた
+  LIT: By all of your efforts, the ARMS members are gathered here once again.
+  RE : By all your efforts, the ARMS
+       members are gathered here once
+       again.
+
+[US#2341] (Irving)
+  JP : 「本当に、よくやってくれた
+  LIT: You've truly done well.
+  RE : You've truly done well.
+
+[US#2342] (Irving)
+  JP : 「テロ<b:8ab5><b:8ab6>オデッサの滅滅と / [05]ぉのサルベージ完了 / これにて、対オデッサの全作戦を終了する
+  LIT: With the terrorist Odessa destroyed and {1}'s salvage complete, all operations against Odessa are ended.
+  RE : With Odessa destroyed and {1}
+       recovered, our war on Odessa is
+       ended.
+
+[US#2343] (Ashley)
+  JP : 「俺がいないあいだ / ファルガイアはどうなってしまったんだ？ / この作り方は、いったい〜
+  LIT: What became of Filgaia while I was gone? What is all this?
+  RE : What became of Filgaia while I
+       was gone? What is all this?
+
+[US#2344] (Irving)
+  JP : 「いや、正確には / もっと、ずっと以前から<8c03><b:8bf8>に / かつ確実に事態は進行してきたのだろう
+  LIT: No, to be exact, it's been progressing quietly and surely since far earlier.
+  RE : No, to be exact, it's been
+       creeping on, quiet and sure, since
+       long before.
+
+[US#2345] (Irving)
+  JP : 「我々が、オデッサ<8c04><b:8a5d>に / 目を<b:8ba9>われているあいだにも / ファルガイアは<b:8b52>かに<b:8b50>まれていたのだ
+  LIT: Even as our eyes were fixed on the Odessa affair, Filgaia was quietly being devoured.
+  RE : Even as our eyes were on Odessa,
+       Filgaia was quietly being
+       devoured.
+
+[US#2346] (Irving)
+  JP : 「<b:8b5a><89f8>は、生態<b:8bc4>の変質から始まった
+  LIT: The symptoms began with changes in the living world.
+  RE : The symptoms began with changes
+       in the living world.
+
+[US#2347] (Irving)
+  JP : 「まず、なじみの動<b:8bbc>物が<b:8b18>少し / とって代るように / モンスター<b:8b21>が<b:8a97><b:8b76>してきた
+  LIT: First, familiar plants and animals dwindled, and monster life came to take their place.
+  RE : First, familiar plants and beasts
+       dwindled, and monster life rose
+       to take their place.
+
+[US#2348] (Irving)
+  JP : 「これは渡録に新しいことであろう
+  LIT: This has never happened before now.
+  RE : This has never happened before
+       now.
+
+[US#2349] (Irving)
+  JP : 「当<b:8a81>、<8911>来<b:8b21>の動<b:8bbc>物の<b:8b18>少は / モンスター<b:8b21>の<b:8a97><b:8b76>に / <8c05>うものと考えられて
+  LIT: At first, the decline of native life was thought to come with the rise of monster life.
+  RE : At first we thought native life's
+       decline came with the rise of
+       monsters.
+
+[US#2350] (Irving)
+  JP : 「だが、中心のモンスター<b:8b21>は / いったいどこからやってきたのか？ / 大きな中誓帯である
+  LIT: But where did the monster life itself come from? That's the great question.
+  RE : But where did the monsters
+       themselves come from? That's the
+       great question.
+
+[US#2351] (Irving)
+  JP : 「でも〜
+  LIT: But...
+  RE : But...
+
+[US#2352] (Irving)
+  JP : 「ヴィンスフェルトも言っていた / モンスター<b:8b21>の<b:8a97><b:8b76>は / オデッサの仕<b:8ac8>ではないらしい〜
+  LIT: Vinsfeld said it too: the rise of monster life is apparently not Odessa's doing.
+  RE : Vinsfeld said it too. The rise of
+       monsters is not Odessa's doing.
+
+[US#2353] (Irving)
+  JP : 「あの状況で / ヤツが<8c07>をついていたとは考えにくい / と、なるとやはり〜
+  LIT: It's hard to think he was lying in that situation. Which means, after all...
+  RE : Hard to think he lied in that
+       moment. Which means, after all...
+
+[US#2354] (Irving)
+  JP : 「それは / シエルジェ自分領に設置されている / 大戦<b:8ad1>からの観待報告に<b:8af0>を発した〜
+  LIT: It began with an observation report from the observatory in the Sielje domain.
+  RE : It began with a report from the
+       observatory in Sielje.
+
+[US#2355] (Lilka)
+  JP : 「いつか、バスカーの里長さんが話してくれた / 理見の街殺と一<88a8>しますね / まさか、この事を指してたなんて〜
+  LIT: This matches the vision the Baskar village chief once told us of; to think it meant this.
+  RE : This matches the Baskar chief's
+       vision he once told us. To think
+       it meant this.
+
+[US#2356] (Irving)
+  JP : 「ガーディアンならば / ファルガイア<b:8ab4>域の、この事<b:8ac2>異変に対して / 何かを信知しているかもしれない
+  LIT: A Guardian might sense something about this Filgaia-wide upheaval.
+  RE : A Guardian might sense something
+       of this Filgaia-wide upheaval.
+
+[US#2357] (Irving)
+  JP : 「よし、バスカーたちの里に向かって / 手がかりを探ってみよう
+  LIT: All right, let's head for the Baskar village and look for a clue.
+  RE : All right, let's head to the
+       Baskar village and search for a
+       clue.
+
+[US#2358] (Kanon)
+  JP : 「『<8c09>間の世界』で / [05]くから聞いたんだ
+  LIT: I heard it from {6} in the "Between World."
+  RE : I heard it from {6} in the
+       |Between World|.
+
+[US#2359] (Kanon)
+  JP : 「キミも〜 / ＜剣の聖女＞の血を招いていたなんて〜
+  LIT: To think you too carried the <Sword Magess> blood...
+  RE : To think you too carried the
+       <Sword Magess> blood...
+
+[US#2360] (Kanon)
+  JP : 「もうひとつ〜
+  LIT: One more thing...
+  RE : One more thing...
+
+[US#2361] (Ashley)
+  JP : 「俺の街にいる『もうひとりの俺』〜 / そいつは、ロードブレイザー〜 / かつて『剣の剣士』と呼ばれた魔<b:8be4>だ
+  LIT: The "other me" inside me is Lord Blazer, the demon once called the Sword Wielder.
+  RE : The |other me| inside is Lord
+       Blazer, the demon once called the
+       |Sword Wielder|.
+
+[US#2362] (Kanon)
+  JP : 「つまり、私たちは / 相同胞、と、いうわけなんだな〜
+  LIT: So that makes us... enemies, then.
+  RE : So that makes us enemies, then.
+
+[US#2363] (Ashley)
+  JP : 「俺をＡＲＭＳから / 外した方がいいんじゃないかな〜？
+  LIT: Maybe I should be taken out of ARMS?
+  RE : Maybe I should be taken out of
+       ARMS?
+
+[US#2364] (Ashley)
+  JP : 「俺のこの力は / いずれ、みんなを<b:8acd>つけかねない〜
+  LIT: This power of mine could end up hurting everyone someday.
+  RE : This power of mine could end up
+       hurting everyone someday.
