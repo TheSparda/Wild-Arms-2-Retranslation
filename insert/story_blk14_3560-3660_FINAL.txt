@@ -1,0 +1,541 @@
+# WA2 — Block 14, US#3560-3660 — FINAL (Sylvaland Castle part 1: knights, bell tower, Queen's court)
+# =========================================================================================
+# Sylvaland Castle arc: the bell-tower false-alarm aftermath, gushing guards praising Lilka
+# ({2}, the castle idol), the sexist knight put in his place, the "visual check, yosh!" guard
+# gag, the proud knight brotherhood grumbling about ARMS getting the glory, the Queen's court
+# (Odessa as the ironic "great cause" that united the three nations), and the Vinsfeld/Valeria
+# reflection. Voice: knights pompous, guards earnest, Queen stately (わらわ archaic royal "we").
+# JP-primary; EN aligns well here.
+
+[US#3560] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#3561] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#3562] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#3563] (night guard)
+  JP : 「左ずの番で<89bb>いんです / お願いしますから / びっくりさせないでくださいよ
+  LIT: I'm sleepy from the all-night watch; please, I beg you, don't startle me.
+  RE : I'm sleepy from the all-night
+       watch. Please, I beg you, don't
+       startle me.
+
+[US#3564] (guard)
+  JP : 「もうイタズラしないように / ここで、見右ってますからね
+  LIT: I'm standing watch here so there'll be no more pranks.
+  RE : I'm standing watch here so
+       there'll be no more pranks.
+
+[US#3565] (guard)
+  JP : 「オデッサの脅威〜 / 我々は、どこまで / たちうちできるのでしょうか？
+  LIT: The menace of Odessa; how far can we truly stand against it?
+  RE : The menace of Odessa. How far can
+       we truly stand against it?
+
+[US#3566] (guard)
+  JP : 「意外なところで / 意外な情報が聞けるかもしれませんよ / やはり、情報は足で探すものですね
+  LIT: You may hear surprising things in surprising places; information is found on foot, after all.
+  RE : You may hear surprising things in
+       surprising places. Information is
+       found on foot.
+
+[US#3567] (guard)
+  JP : 「やはり / あなたたちはただ者じゃないッ！
+  LIT: I knew it: you people are no ordinary folk!
+  RE : I knew it: you people are no
+       ordinary folk!
+
+[US#3568] (bell keeper)
+  JP : 「今後は、本当に目集のために / この発を灯らすことが / あるかもしれないですねぇ
+  LIT: From now on, this bell may yet ring for a true muster.
+  RE : From now on, this bell may yet
+       ring for a true muster.
+
+[US#3569] (guard)
+  JP : 「イタズラだったからよかったものの / 本当の目集だったらどうなってたんだ？
+  LIT: Good thing it was a prank; what if it had been a real muster?
+  RE : Good thing it was a prank. What
+       if it had been a real muster?
+
+[US#3570] (guard)
+  JP : 「ひとつの戦いが終ろうとしている〜 / そんな気がしますッ！
+  LIT: One battle is about to end; that's the feeling I get!
+  RE : One battle is about to end.
+       That's the feeling I get!
+
+[US#3571] (guard)
+  JP : 「ここまでの道のりは / <88a5>いようで長かった〜〜 / 人はなぜ国具なんてつくったんだろう
+  LIT: The road here felt short yet long; why did people ever make borders?
+  RE : The road here felt short yet
+       long. Why did people ever make
+       borders?
+
+[US#3572] (courtier)
+  JP : 「あなた方の活躍を / 我が国のすべての人が / <895b>えることでしょう
+  LIT: All the people of our land will surely sing of your deeds.
+  RE : All the people of our land will
+       surely sing of your deeds.
+
+[US#3573] (courtier)
+  JP : 「ぜひ、客のものに / 話をかけてやってください
+  LIT: Please, do speak with the guests inside.
+  RE : Please, do speak with the guests
+       inside.
+
+[US#3574] (courtier)
+  JP : 「これからも共に力を合わせ / 平和のために力を尽くしましょう
+  LIT: Let us keep joining strength and give our all for peace.
+  RE : Let us keep joining strength and
+       give our all for peace.
+
+[US#3575] (courtier)
+  JP : 「緑に囲まれたこの美しい館は / 私たちの自慢です
+  LIT: This beautiful castle wrapped in green is our pride.
+  RE : This beautiful castle wrapped in
+       green is our pride.
+
+[US#3576] (eager guard)
+  JP : 「すぐに助けに行って差し上げますッ！ / って、現実には無理ですけど / 意気込みはそれぐらいある、ということで
+  LIT: I'll rush to your rescue at once! ...Well, realistically I can't, but that's how much spirit I've got!
+  RE : I'll rush to your rescue at once!
+       Well, realistically I can't, but
+       that's my spirit!
+
+[US#3577] (smitten guard)
+  JP : 「いやぁ、良かった良かったぁ / [05]かさんに / もしものコトがあったら俺は〜ッ！
+  LIT: Oh, thank goodness, thank goodness! If anything had happened to {2}, I'd have...!
+  RE : Oh, thank goodness, thank
+       goodness! If anything had
+       happened to {2}, I'd have...!
+
+[US#3578] (smitten guard)
+  JP : 「そうですかぁ、良かった良かったぁ / [05]かさんに / もしものコトがあったら俺は〜ッ！
+  LIT: Is that so! Thank goodness! If anything had happened to {2}, I'd have...!
+  RE : Is that so! Thank goodness! If
+       anything had happened to {2}, I'd
+       have...!
+
+[US#3579] (smitten guard)
+  JP : 「これからも / [05]かさんを / 守ってあげてくださいね
+  LIT: Please keep protecting {2} from here on, won't you?
+  RE : Please keep protecting {2} from
+       here on, won't you?
+
+[US#3580] (courtier)
+  JP : 「今回の活躍の件、聞いてますよ / またこれからも / 見右ってくださいね
+  LIT: I've heard of your recent deeds; keep watching over us, won't you?
+  RE : I've heard of your recent deeds.
+       Keep watching over us, won't you?
+
+[US#3581] (courtier)
+  JP : 「でもこうしてまた / 無事に帰式できてなによりです
+  LIT: But nothing gladdens me more than your safe return.
+  RE : But nothing gladdens me more than
+       your safe return.
+
+[US#3582] (courtier)
+  JP : 「初めのうちは / あまり陸から離れたところを / 飛行しない方がいいかもしれませんね
+  LIT: At first, it may be best not to fly too far from land.
+  RE : At first, it may be best not to
+       fly too far from land.
+
+[US#3583] (guard)
+  JP : 「いまじゃ[05]かさんは / このシルヴァラント館のアイドルですよ
+  LIT: These days {2} is the idol of this Sylvaland Castle.
+  RE : These days {2} is the idol of
+       this Sylvaland Castle.
+
+[US#3584] (courtier)
+  JP : 「いやはや / 感賛の言葉しかでませんな
+  LIT: My my; I have nothing but words of admiration.
+  RE : My my. I have nothing but words
+       of admiration.
+
+[US#3585] (knight)
+  JP : 「さすがはＡＲＭＳに選ばれただけはある / 人は見かけによらないということか / これからもキミたちの活躍を期待している
+  LIT: Worthy of being chosen for ARMS indeed; one can't judge by looks, it seems; we expect great things of you.
+  RE : Worthy of ARMS indeed. One can't
+       judge by looks, it seems. We
+       expect great things of you.
+
+[US#3586] (knight)
+  JP : 「キミたちの実力のほど / しかと見せてもらった / 味方として心強い限りだ
+  LIT: I have seen your strength full well; as allies, nothing could hearten me more.
+  RE : I have seen your strength full
+       well. As allies, nothing could
+       hearten me more.
+
+[US#3587] (pompous knight)
+  JP : 「〜まあいい、オデッサなる敵 / 我ら同胞団が守ってみせるから / 大<89d3>に守ったつもりでいたまえ
+  LIT: Well, no matter: our brotherhood will guard against this Odessa; consider yourselves grandly protected.
+  RE : Well, no matter: our brotherhood
+       will guard against Odessa.
+       Consider yourselves protected.
+
+[US#3588] (pompous knight)
+  JP : 「〜〜メリアブール王も / なにもこのような者たちを / 使者として遣わすこともなかろうに
+  LIT: ...That the King of Meria Boule would send such people as envoys, honestly.
+  RE : ...That the King of Meria Boule
+       would send such people as envoys,
+       honestly.
+
+[US#3589] (pompous knight)
+  JP : 「キミのような者でも / ＡＲＭＳの隊員になれるようでは / その実力を見るまでもないな
+  LIT: If even the likes of you can join ARMS, I needn't bother testing its strength.
+  RE : If even the likes of you can join
+       ARMS, I needn't bother testing
+       its strength.
+
+[US#3590] (checking guard)
+  JP : 「指差し確認、よーしッ！
+  LIT: Point-and-confirm... all clear!
+  RE : Point-and-confirm... all clear!
+
+[US#3591] (checking guard)
+  JP : 「それを確かめるべく / 指差し確認が必要だッ！ / 忘れるなよッ！
+  LIT: To be sure of it, a point-and-confirm is required! Don't forget!
+  RE : To be sure of it, a point-and-
+       confirm is required! Don't
+       forget!
+
+[US#3592] (checking guard)
+  JP : 「指差し確認、よーしッ！
+  LIT: Point-and-confirm... all clear!
+  RE : Point-and-confirm... all clear!
+
+[US#3593] (checking guard)
+  JP : 「指差し確認、よーしッ！
+  LIT: Point-and-confirm... all clear!
+  RE : Point-and-confirm... all clear!
+
+[US#3594] (checking guard)
+  JP : 「指差し確認をすれば探し出せるハズだッ！ / 指差し確認、よーしッ！
+  LIT: With a point-and-confirm you're sure to find it! Point-and-confirm... all clear!
+  RE : With a point-and-confirm you're
+       sure to find it! Point-and-
+       confirm... all clear!
+
+[US#3595] (checking guard)
+  JP : 「指差し確認をすれば探し出せるハズだッ！ / 指差し確認、よーしッ！
+  LIT: With a point-and-confirm you're sure to find it! Point-and-confirm... all clear!
+  RE : With a point-and-confirm you're
+       sure to find it! Point-and-
+       confirm... all clear!
+
+[US#3596] (checking guard)
+  JP : 「指差し確認をすれば探し出せるハズだッ！ / 指差し確認、よーしッ！
+  LIT: With a point-and-confirm you're sure to find it! Point-and-confirm... all clear!
+  RE : With a point-and-confirm you're
+       sure to find it! Point-and-
+       confirm... all clear!
+
+[US#3597] (checking guard)
+  JP : 「指差し確認をすれば探し出せるハズだッ！ / 指差し確認、よーしッ！
+  LIT: With a point-and-confirm you're sure to find it! Point-and-confirm... all clear!
+  RE : With a point-and-confirm you're
+       sure to find it! Point-and-
+       confirm... all clear!
+
+[US#3600] (official)
+  JP : 「だけど、こんな異世事態が起きている今 / それにまわす期余なんてないんだ
+  LIT: But with this calamity upon us, there's simply no budget to spare for it.
+  RE : But with this calamity upon us,
+       there's simply no budget to spare
+       for it.
+
+[US#3602] (townsperson)
+  JP : 「その灯り焼く発の光は / 美しいこの国を表わしているようだ
+  LIT: The glow of those ringing bells seems the very image of this beautiful land.
+  RE : The glow of those ringing bells
+       seems the very image of this
+       beautiful land.
+
+[US#3603] (townsperson)
+  JP : 「だけど、空が暗くなってから / 発を灯らしても空しく焼くだけさ〜
+  LIT: But since the sky went dark, ringing the bells only echoes emptily.
+  RE : But since the sky went dark,
+       ringing the bells only echoes
+       emptily.
+
+[US#3607] (knight)
+  JP : 「武の道に生きてきたわたしですが / 魔法の力、認めざるを得ません
+  LIT: I have lived by the way of arms, yet I must acknowledge the power of magic.
+  RE : I have lived by the way of arms,
+       yet I must acknowledge the power
+       of magic.
+
+[US#3608] (knight)
+  JP : 「いま外では / 大変なことになっているというのに / 〜〜私はいったい〜〜
+  LIT: Out there, terrible things are happening, and I... what am I doing?
+  RE : Out there, terrible things are
+       happening, and I... what am I
+       doing?
+
+[US#3609] (bell keeper)
+  JP : 「むやみに発を灯らしたりするのは / 止めてくださいね
+  LIT: Please refrain from ringing the bell without cause.
+  RE : Please refrain from ringing the
+       bell without cause.
+
+[US#3610] (bell keeper)
+  JP : 「非世事態と思い / 飛び込んでくる衛同が / いるかもしれませんから
+  LIT: Guards might come rushing in thinking it an emergency, you see.
+  RE : Guards might come rushing in
+       thinking it an emergency, you
+       see.
+
+[US#3611] (pompous knight)
+  JP : 「ＡＲＭＳなどばかりに頼っておらんで / 自分たちで何とかしてみせようという気は / 我ら同胞団には、ないのかッ！
+  LIT: Instead of leaning on ARMS, has our brotherhood no spirit to handle it ourselves?!
+  RE : Instead of leaning on ARMS, has
+       our brotherhood no spirit to
+       handle it ourselves?!
+
+[US#3613] (pompous knight)
+  JP : 「いやぁ、まったくもって残念だな / ハッハッハッ〜〜
+  LIT: Ah, what a pity indeed! Ha ha ha!
+  RE : Ah, what a pity indeed! Ha ha ha!
+
+[US#3614] (pompous knight)
+  JP : 「それにしても、ギルドグラードの同胞も / ＡＲＭＳに活躍の場を持っていかれるとは / 何とも、ふがいないヤツラよ
+  LIT: Still, for Guild Galad's knights to let ARMS steal the stage; what spineless fellows.
+  RE : Still, for Guild Galad's knights
+       to let ARMS steal the stage. What
+       spineless fellows.
+
+[US#3615] (pompous knight)
+  JP : 「あの『核』については / 我らシルヴァラントの同胞団が / 解決してみせようぞッ！
+  LIT: As for that nuke, we, the Sylvaland brotherhood, shall settle it ourselves!
+  RE : As for that nuke, we, the
+       Sylvaland brotherhood, shall
+       settle it ourselves!
+
+[US#3616] (lady knight)
+  JP : 「いえ、きっとわたしだけでないはず / 世界中の人が、あなたたちを信じています / あなたたちＡＲＭＳの勝利をッ！
+  LIT: No, surely it is not just I; people the world over believe in you, in ARMS' victory!
+  RE : No, surely it is not just I.
+       People the world over believe in
+       you, in ARMS' victory!
+
+[US#3617] (lady knight)
+  JP : 「なにかを大切なものを守りたい / そういう想いが剣を強くした / わたしはそう思っています
+  LIT: The wish to protect something dear is what made the sword strong; so I believe.
+  RE : The wish to protect something
+       dear is what made the sword
+       strong. So I believe.
+
+[US#3618] (lady knight)
+  JP : 「いつでも行動をとれるよう / 準備だけは怠らないようにしないと / 守るべきものも守れなくなってしまう
+  LIT: Unless we stay ever ready to act, we'll fail to protect what we must.
+  RE : Unless we stay ever ready to act,
+       we'll fail to protect what we
+       must.
+
+[US#3619] (lady knight)
+  JP : 「あなたたちのこれからの活躍に / わたしも期待しておりますので
+  LIT: I too look forward to your deeds to come.
+  RE : I too look forward to your deeds
+       to come.
+
+[US#3620] (knight)
+  JP : 「その小さな体のどこに / あのバルキサスを墜とす力が / 備わっているのか不思議だ〜
+  LIT: Where in that small frame lies the power to down the Varukisas; it's a wonder.
+  RE : Where in that small frame lies
+       the power to down the Varukisas?
+       It's a wonder.
+
+[US#3621] (knight)
+  JP : 「今回は / 我らの活躍を見せられなかったが / 更こそはッ！
+  LIT: This time we had no chance to show our worth; but next time, surely!
+  RE : This time we had no chance to
+       show our worth. But next time,
+       surely!
+
+[US#3622] (knight)
+  JP : 「現場近くにいたキミたちなら / なにか知ってるんじゃないか？ / よければ教えてくれないか
+  LIT: You were near the scene; surely you know something? Tell me, if you would.
+  RE : You were near the scene; surely
+       you know something? Tell me, if
+       you would.
+
+[US#3624] (knight)
+  JP : 「我ら同胞団の存在を知ってなお / そのようなことをいうのであれば / その愚かさを身をもって教えるしかないな
+  LIT: If they say such things knowing our brotherhood exists, we've no choice but to teach them their folly firsthand.
+  RE : If they say such things knowing
+       our brotherhood exists, we must
+       teach them their folly.
+
+[US#3630] (courtier)
+  JP : 「何か解決の糸口が見つかれば / 良いのですが〜
+  LIT: If only some thread toward a solution could be found...
+  RE : If only some thread toward a
+       solution could be found...
+
+[US#3633] (courtier)
+  JP : 「その不安を取り除けるのは / あなたたち、ＡＲＭＳをおいて / 他ならないでしょう
+  LIT: None but you of ARMS can lift that fear from them.
+  RE : None but you of ARMS can lift
+       that fear from them.
+
+[US#3634] (scholar)
+  JP : 「ただ、あの同時が作られた当時の記録があれば / なにかしらヒントになることでも / わかるとおもうのですが〜〜
+  LIT: Still, if records from when that weapon was made remain, I believe some hint could be found.
+  RE : Still, if records from when that
+       weapon was made remain, some hint
+       could be found.
+
+[US#3636] (courtier)
+  JP : 「ぜひ、お式いになっていってください
+  LIT: Please, do pay your respects before you go.
+  RE : Please, do pay your respects
+       before you go.
+
+[US#3638] (knight captain)
+  JP : 「もし、このシルヴァラントが / 核ドラゴンに攻われたとしても / この私が、命をかけてお守りいたしますッ！
+  LIT: Should this Sylvaland be attacked by the Nuclear Dragon, I will protect it with my life!
+  RE : Should this Sylvaland be attacked
+       by the Nuclear Dragon, I will
+       protect it with my life!
+
+[US#3639] (courtier, aside)
+  JP : 「〜でも、なんでご結婚しなかったのだろう？
+  LIT: (...But why did she never marry, I wonder?)
+  RE : (...But why did she never marry,
+       I wonder?)
+
+[US#3640] (courtier)
+  JP : 「今回に備えてオデッサは / かねてよりファルガイア制圧を / 願く、密かに目論んでいたのでしょうね
+  LIT: Odessa must have long and quietly schemed the conquest of Filgaia in preparation for this day.
+  RE : Odessa must have long and quietly
+       schemed the conquest of Filgaia
+       for this day.
+
+[US#3642] (courtier)
+  JP : 「あなたたちと / できることは違うかもしれませんが / 平和を望む心はいっしょです
+  LIT: What we can do may differ from you, but our hearts wishing for peace are one.
+  RE : What we can do may differ from
+       you, but our hearts wishing for
+       peace are one.
+
+[US#3643] (guard)
+  JP : 「こうなると、よっぽどのことじゃ / 起きそうにはないな……
+  LIT: At this rate, nothing short of a cataclysm will wake him...
+  RE : At this rate, nothing short of a
+       cataclysm will wake him...
+
+[US#3644] (guard)
+  JP : 「これでは、館を守るなんて / できやしないんじゃないのか？
+  LIT: Like this, how is he supposed to guard the castle at all?
+  RE : Like this, how is he supposed to
+       guard the castle at all?
+
+[US#3645] (guard)
+  JP : 「ん？ あんな所に人影がある…… / この人、どうにかして動かせないかなぁ
+  LIT: Hm? There's a figure over there... can't we get this fellow to move somehow?
+  RE : Hm? There's a figure over
+       there... can't we get this fellow
+       to move somehow?
+
+[US#3646] (Marivel-ish grumble)
+  JP : 「これだからニンゲンというやつは / ブツブツ……
+  LIT: This is exactly why humans are... *grumble grumble*
+  RE : This is exactly why humans are...
+       *grumble grumble*
+
+[US#3647] (courtier)
+  JP : 「それが、事実だとするならば / 今までのいきさつも納得がいきますね / すべては、仕組まれたことだった〜？
+  LIT: If that is fact, then everything until now makes sense; it was all orchestrated?
+  RE : If that is fact, then everything
+       until now makes sense. It was all
+       orchestrated?
+
+[US#3648] (courtier)
+  JP : 「ヴァレリア公は / 慈愛の強い、やさしく、優しい方〜 / ファルガイアを本気で愛していた方〜
+  LIT: Sir Valeria is a man of deep compassion, gentle and kind; a man who truly loved Filgaia.
+  RE : Sir Valeria is a man of deep
+       compassion, gentle and kind. He
+       truly loved Filgaia.
+
+[US#3649] (courtier)
+  JP : 「これしか〜 / 本当にこんなに優しい手段しか / なかったのでしょうか〜？
+  LIT: Was this truly the only way; only so gentle-cruel a means as this?
+  RE : Was this truly the only way? Only
+       so gentle-cruel a means as this?
+
+[US#3652] (Queen)
+  JP : 「そう考えると / オデッサは臨国協力態勢の『大義名分』〜 / そのように信じられなくもないのです
+  LIT: Seen so, Odessa was the "great cause" for the nations' cooperation; one could almost believe it.
+  RE : Seen so, Odessa was the |great
+       cause| for the nations'
+       cooperation. One could believe
+       it.
+
+[US#3653] (Queen)
+  JP : 「あくまで、これは結果論ですが〜
+  LIT: Though this is, of course, only hindsight.
+  RE : Though this is, of course, only
+       hindsight.
+
+[US#3654] (Queen)
+  JP : 「そこにたどり着くまでの / 道のりが違っただけで / お互いを傷つけ合うことになろうとは〜
+  LIT: To think we wounded one another merely because our roads to that place differed.
+  RE : To think we wounded one another
+       merely because our roads to that
+       place differed.
+
+[US#3656] (Queen)
+  JP : 「あなたたちが彼のものたちを守ってくれると / わらわだけでなく / ファルガイアのすべての民が信じていますよ
+  LIT: Not only we, but all the people of Filgaia believe you will protect them.
+  RE : Not only we, but all the people
+       of Filgaia believe you will
+       protect them.
+
+[US#3657] (Queen)
+  JP : 「人の営為の中で / これほど多国が / まとまったことがあったでしょうか
+  LIT: In all human endeavor, have so many nations ever come together so?
+  RE : In all human endeavor, have so
+       many nations ever come together
+       so?
+
+[US#3660] (Queen)
+  JP : 「これからも世界平和のために / 尽力されることを願っています
+  LIT: We pray you continue to devote your strength to the world's peace.
+  RE : We pray you continue to devote
+       your strength to the world's
+       peace.
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#3598] SKIPPED - no content box in decode
+[US#3599] SKIPPED - no content box in decode
+[US#3601] SKIPPED - no content box in decode
+[US#3604] SKIPPED - no content box in decode
+[US#3605] SKIPPED - no content box in decode
+[US#3606] SKIPPED - no content box in decode
+[US#3612] SKIPPED - no content box in decode
+[US#3623] SKIPPED - no content box in decode
+[US#3625] SKIPPED - no content box in decode
+[US#3626] SKIPPED - no content box in decode
+[US#3627] SKIPPED - no content box in decode
+[US#3628] SKIPPED - no content box in decode
+[US#3629] SKIPPED - no content box in decode
+[US#3631] SKIPPED - no content box in decode
+[US#3632] SKIPPED - no content box in decode
+[US#3635] SKIPPED - no content box in decode
+[US#3637] SKIPPED - no content box in decode
+[US#3641] SKIPPED - no content box in decode
+[US#3650] SKIPPED - no content box in decode
+[US#3651] SKIPPED - no content box in decode
+[US#3655] SKIPPED - no content box in decode
+[US#3658] SKIPPED - no content box in decode
+[US#3659] SKIPPED - no content box in decode
