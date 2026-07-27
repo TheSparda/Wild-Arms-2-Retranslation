@@ -1,0 +1,105 @@
+# WA2 — Block 45, US#6073-6089 — FINAL (Diablo Pillar approach: Tim's resolve + Antenora's last stand — block 45 complete)
+# =========================================================================================
+# The Diablo Pillar / Heimdal Gazzo approach: Tim's growing confidence ("I knew I could get
+# stronger, because everyone's behind me, because Pooka's got my back"), the party's refusal to
+# let Odessa keep the aerial fortress, an Antenora last-stand beat ("I can't die here; for the
+# Filgaia Vinsfeld will rule"), and a closing meditation that a path of doubt and confusion may
+# fail but is never truly wrong. JP-primary; Heimdal Gazzo kept.
+
+[US#6073] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#6074] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#6075] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#6077] (Odessa officer)
+  JP : 「ここから出る手右は / ただひとつということか / フッ、おもしろい乗置だッ！
+  LIT: So there's only one way out of here; heh, an amusing turn of events!
+  RE : So there's only one way out of
+       here; heh, an amusing turn of
+       events!
+
+[US#6078] (Tim)
+  JP : 「誰かが、ボクたちを / 先に行かせないようにしている〜
+  LIT: Someone is making sure we don't get on ahead.
+  RE : Someone is making sure we don't
+       get on ahead.
+
+[US#6079] (Tim)
+  JP : 「ひとりじゃムリかもしれないけれど / みんながついていてくれるから / プーカが<89a3>中を<b:8a3b>してくれるから〜
+  LIT: It might be impossible alone, but with everyone behind me, with Pooka watching my back...
+  RE : It might be impossible alone, but
+       with everyone behind me, with
+       Pooka at my back...
+
+[US#6080] (Tim)
+  JP : 「ボクは強くなれると、信じれたんだッ！
+  LIT: I was able to believe that I could grow stronger!
+  RE : I was able to believe that I
+       could grow stronger!
+
+[US#6081] (party)
+  JP : 「空中要<885e>だとッ！ / お前たちに / そんな<b:8a3c><8a1b>は必要ないッ！
+  LIT: An aerial fortress?! You lot have no need for a toy like that!
+  RE : An aerial fortress?! You lot have
+       no need for a toy like that!
+
+[US#6082] (party)
+  JP : 「そうさせてもらうぞッ！
+  LIT: That's exactly what we're going to do!
+  RE : That's exactly what we're going
+       to do!
+
+[US#6083] (Kanon)
+  JP : 「〜<b:8a3d>だな / そういうの、カンにさわるんだよ〜
+  LIT: ...How I loathe that; that sort of thing grates on me.
+  RE : ...How I loathe that; that sort
+       of thing grates on me.
+
+[US#6084] (Antenora)
+  JP : 「こんなところで / 私は死ぬわけにはいかない〜
+  LIT: I cannot allow myself to die in a place like this.
+  RE : I cannot allow myself to die in a
+       place like this.
+
+[US#6085] (Antenora)
+  JP : 「ヴィンスフェルト方の分める / ファルガイアの未左のために〜 / 私にはまだ〜
+  LIT: For the future of the Filgaia Sir Vinsfeld will rule; I still have...
+  RE : For the future of the Filgaia
+       Sir Vinsfeld will rule; I still
+       have...
+
+[US#6086] (Antenora)
+  JP : 「こんなところで〜 / こんなカタチで、終わらせるものか〜
+  LIT: Here, in a place like this; in a form like this; I will never let it end!
+  RE : Here, in a place like this; in a
+       form like this; I will never let
+       it end!
+
+[US#6088] (party)
+  JP : 「<b:8a44><b:8a45>さは時に / 視界を<b:8a47>めることがある
+  LIT: Purity can, at times, narrow one's view.
+  RE : Purity can, at times, narrow
+       one's view.
+
+[US#6089] (party)
+  JP : 「政って、<b:8a48>んだ道の方が / 失<893d>することはあっても / まちがうことはない〜
+  LIT: A path walked through doubt and hesitation may fail, but it is never truly wrong.
+  RE : A path walked through doubt and
+       hesitation may fail, but it is
+       never truly wrong.
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#6076] SKIPPED - no content box in decode
+[US#6087] SKIPPED - no content box in decode
