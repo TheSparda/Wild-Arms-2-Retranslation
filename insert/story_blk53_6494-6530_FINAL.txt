@@ -1,0 +1,165 @@
+# WA2 — Block 53, US#6494-6530 — FINAL (Mental Jamming dungeon + Kanon's revenge on Ashley — block 53 complete)
+# =========================================================================================
+# The dungeon where a party member must stay behind as a "jammer" to suppress Randolph's magic
+# (the repeated leave-a-jammer prompts + My Mike / bayonet weapon-item lore panels), and the
+# Kanon-vs-Ashley confrontation: Kanon (as "Ashley Winchester," her lost love Vinsfeld's killer)
+# luring the party to the Land of Promise to make Ashley taste losing everything, Ashley's
+# desperation to save Marina, Tim's support, and Kanon demanding revenge. JP-primary.
+# Note: this scene names the taunt-note lines (6512-6515) handled elsewhere; here are the 25
+# still-open boxes. |Frozen Lake of Hell, First Round| = 凍結地獄 第一界層 style flavor.
+
+[US#6494] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#6495] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#6496] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#6497] (tutorial panel)
+  JP : ＊マイマイクは[0b]おを置すことで / [05]ぎのステキな発話を / <b:8a38>くことができます
+  LIT: For My Mike, press [0b] and you can hear {5}'s lovely song.
+  RE : For My Mike, press [0b] and you
+       can hear {5}'s lovely song.
+
+[US#6498] (tutorial panel)
+  JP : ＊<b:8a39><b:8a3a>に<b:8a3b>むモンスターを呼び出して / 強制的にバトルを開始することができます
+  LIT: It summons the monsters lurking about and forces a battle to begin.
+  RE : It summons the lurking monsters
+       and forces a battle to begin.
+
+[US#6499] (lore panel)
+  JP : ＊アイテムとして使用することで / バイアネットに新たな<b:8a3c><b:8a3d>を / 追<b:8a3e>します
+  LIT: Using it as an item adds new ammunition to the bayonet.
+  RE : Using it as an item adds new
+       ammunition to the bayonet.
+
+[US#6500] (lore panel)
+  JP : ＊高圧エネルギー<b:8a3c>を発<b:8a3f>し / 相<b:8a40>体に対して<b:8a41>撃を行います
+  LIT: It fires high-voltage energy shells, striking a single enemy.
+  RE : It fires high-voltage energy
+       shells, striking a single enemy.
+
+[US#6501] (system)
+  JP : ＊ランドルフの魔力を抑制するためには / 誰かがここに残って / 概<b:8a46>ジャミングを行う必要があります
+  LIT: To suppress Randolph's magic power, someone must stay here and perform Mental Jamming.
+  RE : To suppress Randolph's magic,
+       someone must stay here and
+       perform Mental Jamming.
+
+[US#6502] (prompt)
+  JP : ＊だれかをジャマーとして残しますか？ / １．はい / ２．いいえ[1a]か
+  LIT: Leave someone behind as a jammer? 1. Yes 2. No
+  RE : Leave someone behind as a jammer?
+       1. Yes 2. No
+
+[US#6503] (system)
+  JP : ＊ランドルフの魔力を抑制するためには / 誰かがここに残って / 概<b:8a46>ジャミングを行う必要があります
+  LIT: To suppress Randolph's magic power, someone must stay here and perform Mental Jamming.
+  RE : To suppress Randolph's magic,
+       someone must stay here and
+       perform Mental Jamming.
+
+[US#6504] (prompt)
+  JP : ＊だれかをジャマーとして残しますか？ / １．はい / ２．いいえ[1a]か
+  LIT: Leave someone behind as a jammer? 1. Yes 2. No
+  RE : Leave someone behind as a jammer?
+       1. Yes 2. No
+
+[US#6505] (system)
+  JP : ＊ランドルフの魔力を抑制するためには / 誰かがここに残って / 概<b:8a46>ジャミングを行う必要があります
+  LIT: To suppress Randolph's magic power, someone must stay here and perform Mental Jamming.
+  RE : To suppress Randolph's magic,
+       someone must stay here and
+       perform Mental Jamming.
+
+[US#6506] (prompt)
+  JP : ＊だれかをジャマーとして残しますか？ / １．はい / ２．いいえ[1a]か
+  LIT: Leave someone behind as a jammer? 1. Yes 2. No
+  RE : Leave someone behind as a jammer?
+       1. Yes 2. No
+
+[US#6508] (control code)
+  JP : [03][09]<9896>[13]<983d>[15][80][05][10][04]
+  LIT: (control/format codes only)
+  RE : [03][09]<9896>[13]<983d>[15][80][05][10][04]
+
+[US#6509] (system)
+  JP : ＊ランドルフの魔力を抑制するためには / 誰かがここに残って / 概<b:8a46>ジャミングを行う必要があります
+  LIT: To suppress Randolph's magic power, someone must stay here and perform Mental Jamming.
+  RE : To suppress Randolph's magic,
+       someone must stay here and
+       perform Mental Jamming.
+
+[US#6510] (prompt)
+  JP : ＊だれかをジャマーとして残しますか？ / １．はい / ２．いいえ[1a]か
+  LIT: Leave someone behind as a jammer? 1. Yes 2. No
+  RE : Leave someone behind as a jammer?
+       1. Yes 2. No
+
+[US#6516] (control code)
+  JP : [03][a1]<9b08>[13][10]$
+  LIT: (control/format codes only)
+  RE : [03][a1]<9b08>[13][10]$
+
+[US#6517] (Ashley)
+  JP : 「急いで助けなきゃ / [0a]かにもしものことがあったら / 俺は〜
+  LIT: I have to save her fast; if anything happens to {2}, I...
+  RE : I have to save her fast. If
+       anything happens to {2}, I...
+
+[US#6518] (Brad)
+  JP : 「あせりはミッションに起<b:8a55>する / そして、お前の場合は / 何よりも〜
+  LIT: Panic endangers the mission; and in your case, more than anyone's...
+  RE : Panic endangers the mission. And
+       in your case, more than
+       anyone's...
+
+[US#6519] (Tim)
+  JP : 「ボクたちだって / [0a]かさんを助けたい気持ちは / [05]ぉさんと同じです
+  LIT: We want to save {2} every bit as much as you do, {1}.
+  RE : We want to save {2} every bit as
+       much as you do, {1}.
+
+[US#6520] (Ashley)
+  JP : 「〜手を<b:8a58>してほしい〜 / いっしょに[0a]かを / 救出してくれないか
+  LIT: ...I need your help; will you help me rescue {2}?
+  RE : ...I need your help. Will you
+       help me rescue {2}?
+
+[US#6522] (Kanon)
+  JP : 「〜<b:8a5a>だな、そういうの〜 / いちいちカンにさわんだよッ！
+  LIT: ...How I loathe that; every bit of it grates on me!
+  RE : ...How I loathe that; every bit
+       of it grates on me!
+
+[US#6523] (Kanon)
+  JP : 「あの<89c7>方なくして / 未<b:8a5c>を<b:8a5d>ることなどありえないのだ / それを貴方は〜
+  LIT: Without that man, there could be no future to speak of; and you took him from me...
+  RE : Without that man, there could be
+       no future to speak of; and you
+       took him from me...
+
+[US#6526] (Kanon)
+  JP : 「〜わかるか？
+  LIT: ...Do you understand?
+  RE : ...Do you understand?
+
+[US#6530] (Kanon)
+  JP : 「そうだ、そうだよ[05]ぉ〜 / そのバケモノの力だッ！
+  LIT: Yes, that's it, {1}; that monster's power!
+  RE : Yes, that's it, {1}; that
+       monster's power!
+
+# --- SKIPPED (control/empty slots in range; boxes 6507/6511 no content) ---
+[US#6507] SKIPPED - no content box in decode
+[US#6511] SKIPPED - no content box in decode
