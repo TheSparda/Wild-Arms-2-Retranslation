@@ -1,0 +1,114 @@
+# WA2 — Block 65, US#6974-6989 — FINAL (Guardian rune-verse inscriptions + Flare/weapon lore — block 65 complete)
+# =========================================================================================
+# A Guardian shrine block: the Flare Gun (Photosphere) / bayonet / missile weapon-item lore
+# panels, and a set of cryptic Guardian rune-verse inscriptions (poetic omen-prophecy about the
+# life-water, the returning beast-spirits, the twin moons, the sun of hope, Yggdrasil's fall,
+# the flame of disaster, and the war-tree's ruin), closing with Tim sensing a Guardian-near
+# presence. NOTE: the English dump is heavily Rosetta-drifted here (it names Norse gods
+# Wotan/Saturn/Thor/Frigg/Tiu that do NOT correspond to the JP verse), so RE follows the
+# readable JP imagery, not the EN names. Kanji-dense; [?] marks best-effort verse lines.
+
+[US#6974] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#6975] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#6976] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#6977] (tutorial panel)
+  JP : ＊フォトスフィアは[0b]おを左すことで / <b:8a39>上に<b:8a3a>次乗を<b:8a3b>出して / <b:8a3c><b:8a3d>の暗闇を次るく<b:8a3a>らします
+  LIT: For the Photosphere, press [0b] to fire a flare overhead and brightly light the surrounding darkness.
+  RE : For the Photosphere, press [0b] to
+       fire a flare overhead and light
+       the surrounding darkness.
+
+[US#6978] (tutorial panel)
+  JP : ＊<b:8a39>上にあるスイッチに命中させることで / そのスイッチを切り<8864>えることもできます
+  LIT: By hitting a switch overhead, you can also flip that switch.
+  RE : By hitting a switch overhead, you
+       can also flip that switch.
+
+[US#6979] (lore panel)
+  JP : ＊強力なミサイルをもって / 相全体に対して<b:8a3f>撃を行います
+  LIT: With a powerful missile, it strikes the entire enemy line.
+  RE : With a powerful missile, it
+       strikes the entire enemy line.
+
+[US#6980] (lore panel)
+  JP : ＊アイテムとして使用することで / バイアネットに新たな乗<b:8a46>を / 追<b:8a47>します
+  LIT: Using it as an item adds new ammunition to the bayonet.
+  RE : Using it as an item adds new
+       ammunition to the bayonet.
+
+[US#6981] (lore panel)
+  JP : ＊<b:8a48>撃と<b:8a3b>撃の / 行<b:8a49>コンビネーション<b:8a3f>撃を / 相<b:8a4a>体に対して行います
+  LIT: It delivers a combination attack of gunfire and blade to a single enemy.
+  RE : It delivers a combination attack
+       of gunfire and blade to a single
+       enemy.
+
+[US#6982] (rune verse)
+  JP : ＊果てしなく流るる生命の水は / その時、<b:8a4c>で渡る<b:8a4d>の大<b:8a4e>を<b:8a4f>て / <b:8a50>を見ることなき死の<b:8a51><b:8a52>とならん
+  LIT: The endlessly flowing water of life, in that hour, forsaking the great flow it once crossed, shall become a river of death that sees no light.
+  RE : The endless water of life shall,
+       in that hour, become a lightless
+       river of death. [?]
+
+[US#6983] (rune verse)
+  JP : ＊還える、還える、<b:8a54>に還える〜 / 力を失いし守護獣たちの<b:8a56>が<b:8a54>に還える / そして意<b:8a57>は谷へと変わる
+  LIT: Returning, returning, returning to the earth; the spirits of the power-drained guardian-beasts return to the earth, and will turns to silence.
+  RE : Returning to the earth; the
+       power-drained guardian-beasts'
+       spirits return, will turns silent. [?]
+
+[US#6984] (rune verse)
+  JP : ＊見辺ろすは<890a>、古きと新しきふたつの<890a>〜 / <890a>は、<89ab>しさにつつみこむ<b:8a58>の探と / 無<b:8a59><b:8a5a>な<b:8a5b>の女王の探を<b:8a5c>せ持たん
+  LIT: Looking down are the moons, old and new, two moons; the moon bears both the face of a mother who wraps you in tenderness and that of a merciless queen of night.
+  RE : Two moons look down, old and new;
+       one face a tender mother's, one a
+       merciless night-queen's. [?]
+
+[US#6985] (rune verse)
+  JP : ＊太陽の<b:8a5f>きは、希望の<b:8a5f>き / 生きる者の<89e5>に希望という名の欠<b:8a62>があれば / 闇を<b:8a63>いし、太陽とならん
+  LIT: The sun's radiance is the radiance of hope; if in the heart of the living there is a shard named hope, it will drive off the dark and become the sun.
+  RE : The sun's radiance is hope's; a
+       shard named hope in a living
+       heart drives off the dark. [?]
+
+[US#6986] (rune verse)
+  JP : ＊<b:8a64>と道を<b:8a65>えし<88bf><b:8a66>（システム）〜 / ユグドラシルの倒滅<b:8a67>が<b:8a68>里を駆けし時 / 告死<b:8a64>使が<b:8a69>い上がる
+  LIT: The great system that strayed from its path; when Yggdrasil's ruin-heralds race across the land, the death-announcing angels rise up.
+  RE : The great system strayed from its
+       path; when Yggdrasil's ruin races
+       the land, death's heralds rise. [?]
+
+[US#6987] (rune verse)
+  JP : ＊<b:8a6a><b:8a6b>と<b:8a6c><b:8a6d>に<b:8a6e>ちた<8a08>金の<b:8a68>数<b:8a6f>は / <b:8a69>い降りし戦争の<b:8a72>によりて<b:8a73><b:8a74>に帰す / 後に残るは、<b:8a75>女と<b:8a76>と、ただ<b:8a77>望〜
+  LIT: The golden fields once full of grace and plenty are laid to ruin by the descending flame of war; what remains is a maiden, tears, and only despair.
+  RE : The golden fields of plenty are
+       laid to ruin by war's flame;
+       left: a maiden, tears, despair. [?]
+
+[US#6988] (rune verse)
+  JP : ＊守護の枯は未来を<b:8a3a>らし、<b:8a79><b:8a7a>を<b:8a7b>らん / だが、戦争の枯は未来を<b:8a7c>やし / <b:8a7d>元的破滅を<b:8a7e>来せん
+  LIT: The tree of protection lights the future and brings peace; but the tree of war withers the future and calls down utter, dimensional ruin.
+  RE : The tree of protection lights the
+       future; the tree of war withers
+       it and calls down utter ruin. [?]
+
+[US#6989] (Tim)
+  JP : 「おかしいな〜 / 何だろう？ このカンジ〜 / ガーディアンに近い信信が流れる〜
+  LIT: Strange... what is this feeling? A sensation like being near a Guardian runs through me.
+  RE : Strange... what is this feeling?
+       A sense of being near a Guardian
+       runs through me.
