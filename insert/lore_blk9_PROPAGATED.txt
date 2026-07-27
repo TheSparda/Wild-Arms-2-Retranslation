@@ -1,1996 +1,1997 @@
 # WA2 — Block 9 — PROPAGATED from lore-twin cluster (payload-exact match)
 # Auto-filled by tools_wa2/propagate_twins.py from already-translated twin boxes.
 # Each RE is copied verbatim from a byte-identical JP box elsewhere in the 6/7/8/9/10/11
-# cluster. 363 boxes filled; 42 unique boxes still need translation.
+# cluster. 363 boxes filled; 0 unique boxes still need translation.
+# match: 'exact' = byte-identical payload; 'text' = same decoded text, different kanji table.
 
-[US#1952] (propagated)
+[US#1952] (propagated:exact)
   JP : 「<f040><f042>でも、今回の体験版では / 残念ながら使用することができません
   RE : But in this demo version,
        unfortunately, it cannot be used.
 
-[US#1953] (propagated)
+[US#1953] (propagated:exact)
   JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
   RE : However, in this demo version,
        unfortunately, it cannot be used.
 
-[US#1955] (propagated)
+[US#1955] (propagated:exact)
   JP : 「私の作戦に<b:8a46>りはない〜 / <b:8a47>念存在を<b:8a48>るには / この作戦以外にはありえないのだ〜
   RE : There is no mistake in my plan. To
        gain what I have craved, there is
        no other way.
 
-[US#1956] (propagated)
+[US#1956] (propagated:exact)
   JP : 「彼の地は、レイラインと呼ばれる地<89f4>が / 最大無限に行き交っている地である
   RE : That land is where the ley-veins
        called Raline flow together in
        greatest abundance.
 
-[US#1957] (propagated)
+[US#1957] (propagated:exact)
   JP : 「レイラインには / 星の生命エネルギー『マナ』が通い / その終着地帯はレイポイントと呼ばれている
   RE : Raline carries the planet's
        life-energy, Mana. Where it ends,
        we call it a Raypoint.
 
-[US#1958] (propagated)
+[US#1958] (propagated:exact)
   JP : 「星の生命エネルギー〜 / この強い力を / 我々のモノとする術はないのだろうか〜
   RE : The planet's life-energy... Is
        there no way to make this power our
        own?
 
-[US#1959] (propagated)
+[US#1959] (propagated:exact)
   JP : 「私が『お前という<b:8a4d><b:8a4e><b:8a4f>を<89a3><b:8a50>う』と / あの大聖<b:8a52>で言ったことを〜
   RE : What I said at that cathedral, "I
        will bear the cross that is you."
 
-[US#1960] (propagated)
+[US#1960] (propagated:exact)
   JP : 「あの時から / 私たちはいっしょに戦う運命にあったのだ / その戦いこそ、この空を取り戻す戦いなのだ
   RE : From that moment, our fates were
        bound to fight together, to win
        back this sky.
 
-[US#1961] (propagated)
+[US#1961] (propagated:exact)
   JP : 「そこに<89bb>る渡記は最大にして貴重〜 / だが、ヴァレリアの血を招きし者のみが / その恩恵にあずかれるという〜
   RE : The records sleeping there are vast
        and precious, but only Valeria
        blood may draw on them.
 
-[US#1962] (propagated)
+[US#1962] (propagated:exact)
   JP : 「私に代って、その任〜 / [05]きに任せよう / 彼女ならできるはずである
   RE : In my place, I'll leave that duty
        to her. She should be able to
        handle it.
 
-[US#1963] (propagated)
+[US#1963] (propagated:exact)
   JP : 「理同時を戦術的に / 用いるなどということはないはずだ / だが〜
   RE : There shouldn't be any tactical use
        of the |nuke|. But...
 
-[US#1964] (propagated)
+[US#1964] (propagated:exact)
   JP : 「オデッサに、ヴィンスフェルトに / 戦<b:8a5d>を<b:8a5e>じるだけの理性が / 残っていないとするならば〜
   RE : If Odessa and Vinsfeld no longer
        have the sense to hold back from
        using it...
 
-[US#1965] (propagated)
+[US#1965] (propagated:exact)
   JP : 「来るべき脅威の前に / ファルガイアは滅びかねない〜
   RE : Filgaia could well be destroyed by
        the coming threat. To think they'd
        go that far...
 
-[US#1966] (propagated)
+[US#1966] (propagated:exact)
   JP : 「〜そろそろだな / ヤツらをこれ以上野放しにしては / 保るべきファルガイアを失ってしまう
   RE : It's about time. If we let them run
        free any longer, we'll lose Filgaia
        for good.
 
-[US#1967] (propagated)
+[US#1967] (propagated:exact)
   JP : 「ギルドグラードマスターが / ひとり<89e2>家を視<b:8a61>と<895b>して / 隣の原野に向かわせていたそうだが〜
   RE : The Guild Galad Master sent his son
        to the salt fields, calling it an
        inspection.
 
-[US#1968] (propagated)
+[US#1968] (propagated:exact)
   JP : 「彼の地は隣に奪われた大地〜 / いくつかの発掘地帯をのぞいて / 無意味な世界に何の用だったのだ〜
   RE : That land is claimed by salt.
        Outside a few dig sites, what
        business could he have there?
 
-[US#1969] (propagated)
+[US#1969] (propagated:exact)
   JP : 「タウンメリアの東や、ダムツェンや北東〜 / それ以外には / [11]お街道外縁部の北や東[11]ぉに海岸があったな
   RE : East of Town Meria, northeast of
        Damzen. Also coasts north and east
        of the road's rim.
 
-[US#1970] (propagated)
+[US#1970] (propagated:exact)
   JP : 「かつて私も / シエルジェにて修行に / <b:8a69>ち込んだこともあったのだ〜
   RE : Once, I too threw myself into
        training at Sielje, long ago.
 
-[US#1971] (propagated)
+[US#1971] (propagated:exact)
   JP : 「<b:8a6a>神、魔術、異界との搭乗術〜 / そして、大戦神〜
   RE : Spirit, sorcery, contact with the
        other world, and the war-god.
 
-[US#1972] (propagated)
+[US#1972] (propagated:exact)
   JP : 「すべては〜 / <f040><f042>そう、すべては / そこから始まったのだ〜
   RE : All of it... yes, all of it started
        from there.
 
-[US#1973] (propagated)
+[US#1973] (propagated:exact)
   JP : 「こまかなサーチがカギだな
   RE : A careful search is the key.
 
-[US#1974] (propagated)
+[US#1974] (propagated:exact)
   JP : 「私もクルーも / オデッサとの戦いに信念はできている / だが〜
   RE : My crew and I have our resolve set
        for the fight against Odessa.
        But...
 
-[US#1975] (propagated)
+[US#1975] (propagated:exact)
   JP : 「我が仲、[0a]おを / <8812>き込んだことだけが / 今なお気がかりである〜
   RE : The one thing that still weighs on
        me is that I dragged {1} into this.
 
-[US#1976] (propagated)
+[US#1976] (propagated:exact)
   JP : 「身の危険よりも、もっと気がかりなこと〜 / 戦いの中で見せる人間のマイナスの面だけは / [0a]おには見せたくないな〜
   RE : More than the danger, I don't want
        her to see the ugly side war brings
        out in people.
 
-[US#1977] (propagated)
+[US#1977] (propagated:exact)
   JP : 「その制<89c7>に誓認が無ければ / 我々はオデッサに対する / 強力無比な力を手に入れたといえよう〜
   RE : Without a check on it, we'd hold an
        unmatched power against Odessa.
 
-[US#1979] (propagated)
+[US#1979] (propagated:exact)
   JP : 「ファルガイアを分断する / 共通誓認と考えてほしい
   RE : Think of it as the borders that
        divide Filgaia.
 
-[US#1980] (propagated)
+[US#1980] (propagated:exact)
   JP : 「さらなる崩落も考えられる / 気をつけて向かってほしい
   RE : Further cave-ins are possible.
        Please be careful heading there.
 
-[US#1981] (propagated)
+[US#1981] (propagated:exact)
   JP : 「[11]おずっと遠い北東の地〜 / 誰も知らない発着魔法陣の縁り[11]ぉには / 強い<89f9>が支配する魔境があるそうです
   RE : Far northeast, near an unknown
        launch circle, lies a demon realm
        ruled by great power.
 
-[US#1982] (propagated)
+[US#1982] (propagated:exact)
   JP : 「このファルガイアには / まだまだ不思議な<b:8a7e>が / 遺されているのですね〜
   RE : Filgaia still has strange places
        left behind within it, it seems.
 
-[US#1983] (propagated)
+[US#1983] (propagated:exact)
   JP : 「私にできることがあれば / この身を<b:8a7f>ててでも / 味方のお役に立ちたいというのに〜
   RE : If I could do anything, I'd give
        my own life to be of use to my
        brother.
 
-[US#1984] (propagated)
+[US#1984] (propagated:exact)
   JP : 「何かを失ってから<b:8a81>めて / その存在の大きさに気付くようなモノも / 『幸せ』のひとつなのかもしれません
   RE : To grasp a thing's worth only once
        it's lost, that too may be a kind
        of happiness.
 
-[US#1985] (propagated)
+[US#1985] (propagated:exact)
   JP : 「味方とあなた方なら / いつかオデッサを駆<b:8a82>することも / できるような気がしてきます〜
   RE : With my brother and you, someday
        you could drive Odessa out. I feel
        it.
 
-[US#1986] (propagated)
+[US#1986] (propagated:exact)
   JP : 「でもそれは、味方にとって / 終りなのでしょうか？ / それとも〜
   RE : But would that be the end for my
        brother? Or...
 
-[US#1987] (propagated)
+[US#1987] (propagated:exact)
   JP : 「私に、味方と共に戦える力があれば / このような中誓を / いだかずにすむのでしょうか〜？
   RE : If I could fight at my brother's
        side, would I be spared this doubt?
 
-[US#1988] (propagated)
+[US#1988] (propagated:exact)
   JP : 「それは、乾いた心に生まれいずる / 人の心の過ちに / どこか通じる悲しさがあります
   RE : There is a sadness in it, akin to
        the errors born in a barren human
        heart.
 
-[US#1989] (propagated)
+[US#1989] (propagated:exact)
   JP : 「オデッサの<b:8a87>は / 乾いた人の心に落ちた暗い<b:8a88>み
   RE : Odessa's crime is a dark stain
        upon the barren human heart.
 
-[US#1990] (propagated)
+[US#1990] (propagated:exact)
   JP : 「それは、ファルガイアに生きる / すべての人の心の大<b:8a8a>し〜
   RE : It reflects the hearts of all who
        live in Filgaia.
 
-[US#1991] (propagated)
+[US#1991] (propagated:exact)
   JP : 「でも、帰ることが許されたのは / 戦場に<b:8a8b>いた / あなたたちだけ〜
   RE : But only you, who went to the
        battlefield, are permitted to
        return.
 
-[US#1992] (propagated)
+[US#1992] (propagated:exact)
   JP : 「私はいつ〜 / 味方のもとへ / 『帰る』ことができるのでしょう〜
   RE : I wonder when I'll be able to
        "return" to my brother's side.
 
-[US#1993] (propagated)
+[US#1993] (propagated:exact)
   JP : 「私は、はばたく<b:8a8c>も持っていない / そう、暗い<b:8a8c>すらも〜
   RE : I have no wings to flap. Not even
        dark ones.
 
-[US#1994] (propagated)
+[US#1994] (propagated:exact)
   JP : 「[11]おずっと遠い北東の地〜 / 誰も知らない発着魔法陣の縁り[11]ぉには / 強い<89f9>が支配する魔境があるそうです
   RE : Far northeast, near an unknown
        launch circle, lies a demon realm
        ruled by great power.
 
-[US#1995] (propagated)
+[US#1995] (propagated:exact)
   JP : 「このファルガイアには / まだまだ不思議な<b:8a7e>が / 遺されているのですね〜
   RE : Filgaia still has strange places
        left behind within it, it seems.
 
-[US#1996] (propagated)
+[US#1996] (propagated:exact)
   JP : 「でもそれは / 考えてみれば幸せなことかもしれない
   RE : But thinking about it, that might
        be a fortunate thing.
 
-[US#1997] (propagated)
+[US#1997] (propagated:exact)
   JP : 「政うだけの選<b:8a8f><b:8a90>という道が / <b:8a91>けるんですもの〜
   RE : Because a path stays open, the
        freedom to hesitate at all.
 
-[US#1998] (propagated)
+[US#1998] (propagated:exact)
   JP : 「だから、力の無い者は / 力を持つ者に<b:8a92>れ / そして、<b:8a93>れるのかもしれません
   RE : So the powerless may admire the
        powerful, yet fear them too.
 
-[US#1999] (propagated)
+[US#1999] (propagated:exact)
   JP : 「でも、忘れないで / 輝は同時に / 同じ強さの起を生み出すということを〜
   RE : But don't forget, brilliance also
        creates a shadow of equal strength.
 
-[US#2000] (propagated)
+[US#2000] (propagated:exact)
   JP : 「同じ輝なら / 私は<b:8a95>み込んでくれるような / <89ab>しい輝を望んでいます
   RE : If it's brilliance either way, I
        long for a gentle kind that wraps
        around me.
 
-[US#2001] (propagated)
+[US#2001] (propagated:exact)
   JP : 「まるで、自分の身体だけではなく / この世界そのものを / 支えようとしているみたいに〜
   RE : As if he's trying to hold up not
        just himself, but this world
        itself.
 
-[US#2002] (propagated)
+[US#2002] (propagated:exact)
   JP : 「味方と私の大好きなファルガイア〜 / 人ひとりの力で支えられるモノでしょうか？
   RE : My brother, and this Filgaia I
        love. Can one person bear it all?
 
-[US#2003] (propagated)
+[US#2003] (propagated:exact)
   JP : 「どうか味方を助けてください / 私には無い、味方と共に<b:8a9a>ぶ力を持つ / あなた方なら、きっと〜
   RE : Please help my brother. You have
        the strength to stand at his side.
        Surely...
 
-[US#2004] (propagated)
+[US#2004] (propagated:exact)
   JP : 「何でもひとりでかかえ込んでしまうのが / 味方の悪いクセなのです
   RE : Taking everything on alone is my
        brother's bad habit.
 
-[US#2005] (propagated)
+[US#2005] (propagated:exact)
   JP : 「誰も、ひとりで全てをこなすほどの / 力など持っているはずがありません
   RE : No one could possibly have the
        strength to handle it all alone.
 
-[US#2006] (propagated)
+[US#2006] (propagated:exact)
   JP : 「でも、誰もが / 誰かを助ける力を持っている<f040><f042> / そうではありませんか？
   RE : But everyone has the strength to
        help someone. Isn't that so?
 
-[US#2007] (propagated)
+[US#2007] (propagated:exact)
   JP : 「ＡＲＭＳはいつも / みんなで勝利を勝ち取ってきたんだ / 今度もきっとうまくいくよ
   RE : ARMS has always won together.
        It'll work out this time too.
 
-[US#2008] (propagated)
+[US#2008] (propagated:exact)
   JP : 「それでもうまくいかないときは / ＡＲＭＳだけじゃなくて / ファルガイアのみんなでがんばろうッ！
   RE : And if that's not enough, all of
        Filgaia can pitch in! We found the
        Kuiper Belt's crash site!
 
-[US#2009] (propagated)
+[US#2009] (propagated:exact)
   JP : 「カイバーベルトは滅死の大地〜 / 隣の原野に落辺したものと思われるよ
   RE : The Kuiper Belt is thought to have
        crashed in the Land of Death and
        Destruction nearby.
 
-[US#2010] (propagated)
+[US#2010] (propagated:exact)
   JP : 「[11]おクアトリーの北側[11]ぉ〜 / ちょうどクアトリーとアークハイムの / 中間地帯かな？
   RE : North of Quartly, right about
        halfway between Quartly and
        Archheim.
 
-[US#2011] (propagated)
+[US#2011] (propagated:exact)
   JP : 「がんばって、みんなッ！ / ミーちゃんからのお願いだよ
   RE : Good luck, everyone! This is Amy's
        request to you.
 
-[US#2012] (propagated)
+[US#2012] (propagated:exact)
   JP : 「ミーちゃん / いっしょうけんめい / がんばっているよ〜
   RE : Amy's trying her very hardest too,
        you know.
 
-[US#2013] (propagated)
+[US#2013] (propagated:exact)
   JP : 「ケイちゃんだって / それなりにね
   RE : Kate's doing her part too, in her
        own way.
 
-[US#2014] (propagated)
+[US#2014] (propagated:exact)
   JP : 「がんばったみんなが / 暗い探しているなんて / ぜったいおかしいよ
   RE : Everyone tried so hard, so why's
        everyone still looking so gloomy?
        That's weird.
 
-[US#2015] (propagated)
+[US#2015] (propagated:exact)
   JP : 「まずは、[11]おタウンメリアから / ずっと北の大きな他[11]ぉ〜 / 魔界鍵の一本と<b:8aa0>近いポイントに、ひとつ
   RE : First, a big island far north of
        Meria, one point right by a Diablo
        Pillar.
 
-[US#2016] (propagated)
+[US#2016] (propagated:exact)
   JP : 「更に[11]おシルヴァラントの東方の<b:8aa1>上[11]ぉ〜 / <b:8aa2>知高度から空中だと思われるよ
   RE : Next, over the sea east of
        Sylvaland, seemingly in mid-air.
 
-[US#2017] (propagated)
+[US#2017] (propagated:exact)
   JP : 「みっつめは / [11]おダムツェンの先東[11]ぉ〜 / わりとすぐ近くにてポイント確認ッ！
   RE : Number three's just past Damzen to
        the east. Fairly close by,
        confirmed!
 
-[US#2018] (propagated)
+[US#2018] (propagated:exact)
   JP : 「最後のレイポイントは〜 / [11]おギルドグラードの先側[11]ぉ / ぐるぐる<8812>きの他から反応アリッ！
   RE : The last one's past Guild Galad, a
        reading from a spiral-shaped
        island!
 
-[US#2019] (propagated)
+[US#2019] (propagated:exact)
   JP : 「ミーちゃんは / ミーちゃんのできることをがんばったよ / 後は、みんなのがんばりに<b:8aa3>待してるからね
   RE : Mee-chan did all she could. The
        rest, I'm counting on all of you.
 
-[US#2020] (propagated)
+[US#2020] (propagated:exact)
   JP : 「世界を食べちゃう『世界』って / いったい何だろう〜
   RE : A "world" that eats up other
        worlds... what could that even be?
 
-[US#2021] (propagated)
+[US#2021] (propagated:exact)
   JP : 「ドラゴンたちのように / 強い力を持っていても / 『世界』には勝てないんだよね〜
   RE : Even power like the dragons' can't
        beat a whole "world," huh.
 
-[US#2022] (propagated)
+[US#2022] (propagated:exact)
   JP : 「<f040><f042>じゃあ、スレイハイムやオデッサなら / この異世事態を / カイケツできたのかな？
   RE : So could Slayheim or Odessa have
        solved this otherworldly mess,
        then?
 
-[US#2023] (propagated)
+[US#2023] (propagated:exact)
   JP : 「空は〜 / ファルガイアは / どうなっちゃうんだろうね
   RE : The sky... Filgaia... What's going
        to become of them?
 
-[US#2024] (propagated)
+[US#2024] (propagated:exact)
   JP : 「まずは、[11]お先側の道[11]ぉにひとつ〜 / ここは、魔の族<894b>道標と言われててね / 道の<8a07>が暗く変<8a07>している道標なんだよ
   RE : First, one to the southeast, a
        demon-clan marker where the road
        runs dark.
 
-[US#2025] (propagated)
+[US#2025] (propagated:exact)
   JP : 「更、少本目ッ！ / [11]おギルドグラードの先東[11]ぉ〜 / 谷地にて<89ae>たれた地標に確認ッ！
   RE : And the next one! Southeast of
        Guild Galad, at a marker in a
        valley!
 
-[US#2026] (propagated)
+[US#2026] (propagated:exact)
   JP : 「どんどんいくよ、族本目ッ！ / [11]お隠れ里先側の山<b:8aa7>地<89e8>[11]ぉより確認ッ！ / 山でエネルギー反応なんてヘンだよね？
   RE : On we go, the next! In the
        mountains southeast of the hidden
        village. Weird, right?
 
-[US#2027] (propagated)
+[US#2027] (propagated:exact)
   JP : 「最後の最後、<88d1>本目ッ！ / [11]おここからずっと北にある大きな他[11]ぉにて確認〜 / でも、陸<89ca>も道<89ca>も使えないみたいなんだよ
   RE : Very last, number four! On a big
        island far north of here. No land
        route seems to reach it.
 
-[US#2028] (propagated)
+[US#2028] (propagated:exact)
   JP : 「ケイちゃんってさ / 少女まんがオタクなんだよ
   RE : You know, Kate's actually a huge
        fan of shoujo manga.
 
-[US#2029] (propagated)
+[US#2029] (propagated:exact)
   JP : 「いい<b:8aa8>こいて / まんが進みながら、よく描いてるんだよ / ギコハハハッ！
   RE : Grown as she is, always drawing
        while reading manga. Hee-hee-ha!
 
-[US#2030] (propagated)
+[US#2030] (propagated:exact)
   JP : 「街道の<89fc>の流れが / 海岸に向かっているからね
   RE : Because the road's current flows
        toward the coast.
 
-[US#2031] (propagated)
+[US#2031] (propagated:exact)
   JP : 「『街道の落とし物は海岸で探せ』<f040><f042> / 〜って、<b:8aaa>、何かで聞いた事あるよ
   RE : "Search the coast for what the
        road drops." Heard that somewhere.
 
-[US#2032] (propagated)
+[US#2032] (propagated:exact)
   JP : 「でも、レアものの集まりが / もうちょっとかな？
   RE : But my collection of rare ones?
        Maybe just a bit short still.
 
-[US#2033] (propagated)
+[US#2033] (propagated:exact)
   JP : 「限られた地標や / 結単な手段を用いないと / 現われない怪獣もいるからね
   RE : Some monsters won't appear without
        certain spots or methods, you see.
 
-[US#2034] (propagated)
+[US#2034] (propagated:exact)
   JP : 「マニアなら / そこらへんも押さえとかなきゃッ！
   RE : If you're a real fan, you'd better
        have that covered too!
 
-[US#2035] (propagated)
+[US#2035] (propagated:exact)
   JP : 「話はすれども、<b:8aaf>は見えず / ウワサのエイミー・フェアチャイルドとは / ボクのことだよ
   RE : You hear the voice, never see the
        face. That famous Amy Fairchild is
        me.
 
-[US#2036] (propagated)
+[US#2036] (propagated:exact)
   JP : 「ミーちゃんって呼んでね☆
   RE : Call me Mee-chan, okay? ☆
 
-[US#2037] (propagated)
+[US#2037] (propagated:exact)
   JP : 「ですが、オデッサ以後に / ふりかかった脅威を<b:8a44>けたのは / <b:8ab0>共の協力体制ではないでしょうか〜
   RE : But it was shared, public
        cooperation that repelled the
        threats after Odessa.
 
-[US#2038] (propagated)
+[US#2038] (propagated:exact)
   JP : 「わたしたちの力だけではありません
   RE : It wasn't only our own strength.
 
-[US#2039] (propagated)
+[US#2039] (propagated:exact)
   JP : 「ファルガイアのみんなが力をあわせれば / より大きな脅威に立ち向かえる〜 / そんな気がしませんか？
   RE : If all of Filgaia joins strength,
        we can face down bigger threats.
        That's what won it, I think.
 
-[US#2040] (propagated)
+[US#2040] (propagated:exact)
   JP : 「結にギルドグラードからの / 情報<b:8ab2>族と協力にて / 理の脅威をまぬがれたのですから〜
   RE : In the end, Guild Galad's intel
        and aid let us escape that threat.
 
-[US#2041] (propagated)
+[US#2041] (propagated:exact)
   JP : 「わたしたちは / 確実に変わってきています
   RE : We are certainly changing, bit by
        bit.
 
-[US#2042] (propagated)
+[US#2042] (propagated:exact)
   JP : 「この力で / ファルガイアも変えていければ / いいのですが〜
   RE : If only we could use this strength
        to change Filgaia as well.
 
-[US#2043] (propagated)
+[US#2043] (propagated:exact)
   JP : 「オデッサとの戦いは / 前<b:8ab3>戦にすぎないと〜
   RE : That the fight with Odessa was
        only an opening skirmish...
 
-[US#2044] (propagated)
+[US#2044] (propagated:exact)
   JP : 「ＡＲＭＳは / 来るべき世界<b:8ab4>域の脅威に対して / <b:8ab5><b:8ab6>されたのだと〜
   RE : That ARMS was formed to meet a
        coming, world-wide threat...
 
-[US#2045] (propagated)
+[US#2045] (propagated:exact)
   JP : 「指揮<899d>は / この空を、今回の異世事態を / あらかじめ期待していたのでしょうか？
   RE : Did the Commander foresee this sky,
        this whole otherworldly mess, all
        along?
 
-[US#2046] (propagated)
+[US#2046] (propagated:exact)
   JP : 「ファルガイアには / 現在４ヶ所の降辺ポイント〜 / 発着魔法陣が確認されています
   RE : Filgaia now has four confirmed
        landing points, the launch circles.
 
-[US#2047] (propagated)
+[US#2047] (propagated:exact)
   JP : 「まず、ご存知とは思いますが / タウンメリアと隠れ里の付近〜
   RE : First, as you probably know, near
        Town Meria and the hidden village.
 
-[US#2048] (propagated)
+[US#2048] (propagated:exact)
   JP : 「そして、レイライン観待<88e4>設より東の他と / ギルドグラードの先東にも / ひとつずつ発着魔法陣があります
   RE : And one each, east of the Raline
        Observatory and southeast of Guild
        Galad.
 
-[US#2049] (propagated)
+[US#2049] (propagated:exact)
   JP : 「まあ、エイミーは / そんなことくらいにしか / 役に立ちませんが〜
   RE : Well, Amy's only good for that
        much. We studied Telepath Magic
        together, once.
 
-[US#2050] (propagated)
+[US#2050] (propagated:exact)
   JP : 「たしか、指揮<899d>も / シエルジェにていろいろなことを / 神んでいたとか〜
   RE : The Commander, too, studied many
        things at Sielje, I recall.
 
-[US#2051] (propagated)
+[US#2051] (propagated:exact)
   JP : 「<b:8ab9><b:8aba>なところが / 作戦指揮に<b:8abb><b:8abc>されているんですね
   RE : His broad knowledge is put to use
        in his tactical command.
 
-[US#2052] (propagated)
+[US#2052] (propagated:exact)
   JP : 「緊急事態に対する決断力と意外性 / そして、先を見<b:8a41>した達観力は / 誰よりも<b:8abe>でていると思いませんか？
   RE : His decisiveness in a crisis, and
        his farseeing insight, outdo
        anyone's, don't they?
 
-[US#2053] (propagated)
+[US#2053] (propagated:exact)
   JP : 「エイミーとふたり / オペレート<8847>当している / テレパスメイジです
   RE : Amy and I handle operations, the
        two of us. We're telepath mages.
 
-[US#2054] (propagated)
+[US#2054] (propagated:exact)
   JP : 「そうかな？ / いいや、そうじゃないさ
   RE : You think so? No, that's not it.
 
-[US#2055] (propagated)
+[US#2055] (propagated:exact)
   JP : 「ヴァレリアシャトーは / ファルガイアの注目を<b:8ac2><b:8ac3>する<b:8ac4><8882>
   RE : Valeria Chateau is a symbol that
        draws all Filgaia's eyes.
 
-[US#2056] (propagated)
+[US#2056] (propagated:exact)
   JP : 「<b:8abf>は、ファルガイアに生きる僕たち全体〜 / な、そうだろう？
   RE : Her master is all of us who live
        in Filgaia. Right?
 
-[US#2057] (propagated)
+[US#2057] (propagated:exact)
   JP : 「いざとなったら民間人を斬殺して / あるのかわからない安全地<89e8>に / 向かう準備をしているのさ
   RE : When the time comes, she'll bear
        civilians to a safe zone, if one
        even exists.
 
-[US#2058] (propagated)
+[US#2058] (propagated:exact)
   JP : 「その時、今までのダメージが / いっきに<b:8acb>き出したら / シャレにならないだろう？
   RE : If all that damage bursts out at
        once then, it'd be no joke, right?
 
-[US#2059] (propagated)
+[US#2059] (propagated:exact)
   JP : 「可愛いシャトーが悲<b:8ace>をあげちまうぜ / 出撃もできるだけ<b:8acf>えてほしいんだが〜 / そうもいかねぇよな
   RE : My darling Chateau would cry out.
        I'd cut back the sorties if I
        could, but no such luck.
 
-[US#2060] (propagated)
+[US#2060] (propagated:exact)
   JP : 「ヴァレリアシャトーを使って / ハデに暴れてやろうぜッ！
   RE : Let's take Valeria Chateau and
        raise some hell!
 
-[US#2061] (propagated)
+[US#2061] (propagated:exact)
   JP : 「<b:8ad3>度<b:8ad3>度の出撃が<89d3>体に<b:8ad4>いて / けっこうガタがきているんのさ
   RE : All these sorties wear on her
        hull. She's getting rickety.
 
-[US#2062] (propagated)
+[US#2062] (propagated:exact)
   JP : 「出撃があるたびに / 『これが最後』と思って / 大切にあつかっているつもりなんだぜ
   RE : Every sortie, I tell myself it's
        the last, and treat her with care.
 
-[US#2063] (propagated)
+[US#2063] (propagated:exact)
   JP : 「そりゃもう、女の家なみに
   RE : Why, as gently as I'd treat a
        lady.
 
-[US#2064] (propagated)
+[US#2064] (propagated:exact)
   JP : 「そんなもの、飛ばすどころか / 維持するだけで / 最大な費用がかかっちまうんだが〜
   RE : Never mind flying her. Just
        keeping her running costs a
        fortune.
 
-[US#2065] (propagated)
+[US#2065] (propagated:exact)
   JP : 「貴<b:8ad9>方のヴァレリア公はいざしらず / オデッサの連中 / どこから<b:8adb>金を調達しているんだ？
   RE : Sir Valeria's a noble, sure. But
        that Odessa lot, where's their
        money come from?
 
-[US#2066] (propagated)
+[US#2066] (propagated:exact)
   JP : 「飛空機艇と / 女の家のあつかいに関しては / ファルガイアじゃ一番のつもりさ
   RE : When it comes to airships and
        ladies, I'm the best in Filgaia.
 
-[US#2067] (propagated)
+[US#2067] (propagated:exact)
   JP : 「そんな僕に何か用かい？[18]か
   RE : Something you need from me?
 
-[US#2068] (propagated)
+[US#2068] (propagated:exact)
   JP : 「ヴァレリアシャトーに乗りたいときは / 発着魔法陣上で[0b]かボタンを押してくれ / <887c>乗コールを聞きつけたら回斬してやるぜ
   RE : To board, press [0b] over a
        Landing Pad. I'll swing round at
        the boarding call.
 
-[US#2069] (propagated)
+[US#2069] (propagated:exact)
   JP : 「ヴァレリアシャトーから降りたいときは / これまた発着魔法陣上で / [0b]がボタンだ
   RE : To get off, again press [0b]
        over a Landing Pad.
 
-[US#2070] (propagated)
+[US#2070] (propagated:exact)
   JP : 「発着魔法陣の上以外の場所で / [0b]がボタンを押すと / <b:8adf>用メニューが開かれる
   RE : Press [0b] off a Landing Pad
        and the Special Menu opens.
 
-[US#2071] (propagated)
+[US#2071] (propagated:exact)
   JP : 「ヴァレリアシャトー街での行動や / 僕に<b:8adc>最を任せるときは / <b:8adf>用メニューを開いてくれよなッ！
   RE : To move about the Chateau or let
        me pilot, open the Special Menu!
 
-[US#2072] (propagated)
+[US#2072] (propagated:exact)
   JP : 「カオの良さに反比<8943>して / なぜだか目立たない僕からのお願いだッ！ / 出番たのむぜッ！[18]か
   RE : Even good-looking as I am, nobody
        notices me! Give me my moment to
        shine!
 
-[US#2073] (propagated)
+[US#2073] (propagated:exact)
   JP : 「ワシらはやっぱり / 大切られたんだろうか？
   RE : Have we been cast aside, after
        all?
 
-[US#2074] (propagated)
+[US#2074] (propagated:exact)
   JP : 「人を信じ続けること / それは、無意味なんだろうか〜？
   RE : Continuing to trust people. Is that
        meaningless, then?
 
-[US#2075] (propagated)
+[US#2075] (propagated:exact)
   JP : 「今度出撃する時は / 民間人を斬殺して / 危険を回転するつもりらしい
   RE : Next sortie, the plan is to move
        the civilians clear and turn the
        danger aside.
 
-[US#2076] (propagated)
+[US#2076] (propagated:exact)
   JP : 「ファルガイアは / そんなにせっぱつまっているのか？
   RE : Is Filgaia really in that desperate
        a situation?
 
-[US#2077] (propagated)
+[US#2077] (propagated:exact)
   JP : 「ワシたちの力をあわせても / どうにもならないのか？
   RE : Even if we all join strength, is
        there nothing to be done? Sealed
        away like this?
 
-[US#2078] (propagated)
+[US#2078] (propagated:exact)
   JP : 「ダメだダメだ、そんなことじゃダメだ / もっとヴァレリア公の作戦を信じよう / 僕たちを信じてくれよ
   RE : No, no, that won't do. Trust Sir
        Valeria's plan more. Trust us.
 
-[US#2079] (propagated)
+[US#2079] (propagated:exact)
   JP : 「自分ひとりでしょいこまないで / みんなの力で何とかしようと考えりゃ / <b:8ae2>の力も抜けてくるもんだ
   RE : Don't shoulder it alone. Lean on
        everyone, and the strain eases.
 
-[US#2080] (propagated)
+[US#2080] (propagated:exact)
   JP : 「そんなことより / エマ・モーターをほったらかして / [05]ぎ<b:8ae3>はいずこへッ！
   RE : More to the point, {3} left the
        EMMA motor behind and went, where?
 
-[US#2081] (propagated)
+[US#2081] (propagated:exact)
   JP : 「いったい何者なんだろう？ / まさか、ワシと同じく / 前<b:8a3e>は銃乗なのか〜ッ！
   RE : Who is she, anyway? Don't tell me
        she was a gunner before, like me!
 
-[US#2082] (propagated)
+[US#2082] (propagated:exact)
   JP : 「その出力に / <89d3>体の方が / ついていっておらんくらいだからのう
   RE : The hull can hardly keep up with
        that output.
 
-[US#2083] (propagated)
+[US#2083] (propagated:exact)
   JP : 「何とかならんのか〜？
   RE : Can't something be done about it?
 
-[US#2084] (propagated)
+[US#2084] (propagated:exact)
   JP : 「オデッサのバルキサスも / 同方の動力機関が / <887c><887d>されていたと思うな
   RE : I bet Odessa's Varukisas had a
        similar engine installed too.
 
-[US#2085] (propagated)
+[US#2085] (propagated:exact)
   JP : 「ちなみに前<b:8a3e>は / 銃乗だったのだッ！
   RE : By the way, my old trade? Gunner!
 
-[US#2086] (propagated)
+[US#2086] (propagated:exact)
   JP : 「枯急の事態にて / ＡＲＭＳに<b:8ae5>せ任じたのだ / よろしくたのむぞ
   RE : This dire crisis, I threw in with
        ARMS. Good to work with you.
 
-[US#2087] (propagated)
+[US#2087] (propagated:exact)
   JP : 「『最後の<b:8ae8><b:8ae9>だッ！』 / <f040><f042>なんて言いながら〜
   RE : Going on about "the last supper,"
        he was...
 
-[US#2088] (propagated)
+[US#2088] (propagated:exact)
   JP : 「<b:8aea>起でもありませんよ
   RE : That's dreadful luck to say.
 
-[US#2089] (propagated)
+[US#2089] (propagated:exact)
   JP : 「もしも、ホントに / 最後の<b:8ae8><b:8ae9>をしなくちゃならないのなら / ファルガイアのみんなとゴハンを食べたいな
   RE : If it truly were a last supper,
        I'd want to eat it with all of
        Filgaia.
 
-[US#2090] (propagated)
+[US#2090] (propagated:exact)
   JP : 「みんなでいっしょに食べるゴハンは / 少<8913>り<b:8a97>しでウマイからね / やっぱり、みんないっしょが一番だよ
   RE : A meal shared tastes better.
        Being together really is best.
 
-[US#2091] (propagated)
+[US#2091] (propagated:exact)
   JP : 「考えてみれば、タウンメリアじゃ / ソースたぷたぷコロッケは / 手に入らないんだッ！
   RE : Come to think of it, you can't get
        sauce-drenched croquettes in Town
        Meria!
 
-[US#2092] (propagated)
+[US#2092] (propagated:exact)
   JP : 「なのに、なぜッ！ / あのジャリどもはソースたぷたぷコロッケの / <b:8aeb>おしいばかりの味を知っているんだッ！
   RE : So why do those brats know the
        maddening taste of my sauce-
        drenched croquettes?
 
-[US#2093] (propagated)
+[US#2093] (propagated:exact)
   JP : 「<f040><f042>コソドロめ〜 / あんまりなめてほしくないな / 銃乗のせがれをよぉッ！
   RE : Those sneak thieves. Don't
        underestimate a gunner's son!
 
-[US#2094] (propagated)
+[US#2094] (propagated:exact)
   JP : 「<b:8ae7>ちゃんが / 着ぐるみの女の家にご中心だったんです
   RE : My dad was smitten with the lady
        in the mascot suit.
 
-[US#2095] (propagated)
+[US#2095] (propagated:exact)
   JP : 「せがれとして / こんなショッキングな / 出来事は他にありません
   RE : As his son, there's no other event
        as shocking as this one.
 
-[US#2096] (propagated)
+[US#2096] (propagated:exact)
   JP : 「このまま / ソースたぷたぷコロッケ消失事件は / 政<b:8aed>入りとなってしまうのでしょうか？
   RE : Will the case of the vanished
        croquettes go unsolved, then?
 
-[US#2097] (propagated)
+[US#2097] (propagated:exact)
   JP : 「[0a]ぎ様と / [0a]く様です
   RE : It's {5} and {6}.
 
-[US#2098] (propagated)
+[US#2098] (propagated:exact)
   JP : 「ふたりとも非世に協力的で / すぐに仲良しになってしまいました
   RE : They're both so helpful, we hit
        it off at once.
 
-[US#2099] (propagated)
+[US#2099] (propagated:exact)
   JP : 「彼らも / ソースたぷたぷコロッケ大好き同僚ですから
   RE : After all, they love sauce-
        drenched croquettes too.
 
-[US#2100] (propagated)
+[US#2100] (propagated:exact)
   JP : 「機関胞の<b:8af0>くれとして / オデッサのエネルギー事情〜 / 気になりますね
   RE : As a bit of an engineer, I wonder
        about Odessa's energy source.
 
-[US#2101] (propagated)
+[US#2101] (propagated:exact)
   JP : 「ちなみに<b:8af1>人的なエネルギー事情ですが / 以前、ボクのソースたぷたぷコロッケが / ちょっと目を離したスキに消失したのです
   RE : As for my own energy, my croquette
        vanished the moment I looked away.
 
-[US#2102] (propagated)
+[US#2102] (propagated:exact)
   JP : 「まさか、シャトー街に侵入してきた / オデッサのふたりが / わきめもふらずにモリモリと〜
   RE : Don't tell me those two Odessa
        infiltrators just gobbled it right
        up.
 
-[US#2103] (propagated)
+[US#2103] (propagated:exact)
   JP : 「ちなみに前<b:8a3e>は / 銃乗のせがれでしたッ！
   RE : By the way, before this? A
        gunner's son!
 
-[US#2104] (propagated)
+[US#2104] (propagated:exact)
   JP : 「<b:8af2>ちゃんに逃げられた / <b:8ae7>ちゃんをひとりにしておけないから / こうしてＡＲＭＳに<b:8ae5>せ任じました
   RE : Mom ran off, and I couldn't leave
        dad alone, so I joined ARMS.
 
-[US#2105] (propagated)
+[US#2105] (propagated:exact)
   JP : 「う、運命がひかれあい / もつれあって / くんずほぐれつ〜
   RE : F-fate, drawn together, tangled,
        grappling...
 
-[US#2106] (propagated)
+[US#2106] (propagated:exact)
   JP : 「公のことだ / きっと何かの思<b:8a8e>があるに違いない / 僕はそう、信じている
   RE : Being Sir Valeria, he surely has
        his reasons. That's what I
        believe.
 
-[US#2107] (propagated)
+[US#2107] (propagated:exact)
   JP : 「他にはパレスヴィレッジと呼ばれる / 小さな国があるそうだ
   RE : There's also said to be a small
        nation called Palace Village
        elsewhere.
 
-[US#2108] (propagated)
+[US#2108] (propagated:exact)
   JP : 「これはやはり / レイポイントの件と / 何か関係あるのではなかろうか？
   RE : Might this, after all, have some
        connection to the Raypoint matter?
 
-[US#2109] (propagated)
+[US#2109] (propagated:exact)
   JP : [02][09][f8]エ[06]「パレスヴィレッジが<b:8b12>る / パレス<b:8b10>か〜
   RE : Palace Village's famous Palace
        Wheat, is it...
 
-[US#2110] (propagated)
+[US#2110] (propagated:exact)
   JP : 「星の命のエネルギーは / <b:8b13>作物にも恩恵を<b:8b14>えているんだな
   RE : The planet's life energy blesses
        the crops as well.
 
-[US#2111] (propagated)
+[US#2111] (propagated:exact)
   JP : 「でもさ、今はこうして貴族共が / 一<88a8>団結して脅威にあたっているんだ / ありがたみが<b:8b18>ってしまったよな〜
   RE : But now the nations stand united
        against the threat, so it feels
        less special somehow.
 
-[US#2112] (propagated)
+[US#2112] (propagated:exact)
   JP : 「まあ、イイコトなんだが〜
   RE : Well, it's a good thing. But even
        the wilds are coming back, all
        across Filgaia!
 
-[US#2113] (propagated)
+[US#2113] (propagated:exact)
   JP : 「<f040><f042>とは、この空を見上げる限り / 言えないよな〜
   RE : ...though you'd never say so,
        looking up at this sky.
 
-[US#2114] (propagated)
+[US#2114] (propagated:exact)
   JP : 「<b:8b1b><b:8a64>に<b:8b1c>いて行ける場所に / あるとは考えにくい〜
   RE : Hard to think it's anywhere you
        could just walk to.
 
-[US#2115] (propagated)
+[US#2115] (propagated:exact)
   JP : 「ヴァレリアシャトー、ホバークラフト〜 / ありとあらゆる移動手段を駆使してでも / 魔界鍵を発見しなければな〜
   RE : Valeria Chateau, Hovercraft, by
        every means of travel we must find
        the Demon Realm Key.
 
-[US#2116] (propagated)
+[US#2116] (propagated:exact)
   JP : 「キミたちの行動<b:8b1e>拠街に / ホバークラフトを / 発移させてみるんだ
   RE : I'll move the Hovercraft into
        your range of operations.
 
-[US#2117] (propagated)
+[US#2117] (propagated:exact)
   JP : 「せっかく、テレポートオーブに対応した / アポーツ機能なんだ / 活用しなきゃ<b:8acc>だぜ
   RE : The Aport feature now works with
        the TeleportOrb. Put it to use.
 
-[US#2118] (propagated)
+[US#2118] (propagated:exact)
   JP : 「まだ見ぬ新しい<b:8b20>開が / きっと待っているはずだぜ
   RE : Some new road you've yet to see
        is surely waiting.
 
-[US#2119] (propagated)
+[US#2119] (propagated:exact)
   JP : 「そういえばシャトーの２Ｆに / 以前、地面のエネルギーとかを / 修行していたヤツがいたな
   RE : Come to think of it, someone on
        the Chateau's 2nd floor studied
        earth energy.
 
-[US#2120] (propagated)
+[US#2120] (propagated:exact)
   JP : 「カタチにとらわれずに / 物事を為していく〜 / <b:8b1b><b:8a64>なようで、難しいことだ
   RE : Getting things done unbound by
        form. Sounds easy, but it's
        hard.
 
-[US#2121] (propagated)
+[US#2121] (propagated:exact)
   JP : 「それをやってのけるんだから / テロリスト・オデッサ〜 / あなどれない相だろう
   RE : Since they can actually pull that
        off, Odessa's not a foe to
        underestimate.
 
-[US#2122] (propagated)
+[US#2122] (propagated:exact)
   JP : 「くそッ、僕だって<b:8a50>けてたまるかよッ！ / スゴイの<89db>め込んで / オトコをあげてやらあッ！
   RE : Damn it, I won't lose! I'll cook
        up something amazing and prove
        myself!
 
-[US#2123] (propagated)
+[US#2123] (propagated:exact)
   JP : 「以前は / 心を伝える不思議な渓谷の / <b:8b23>出に使われていたらしいぞ
   RE : Long ago, they say these carried
        hearts across a strange valley.
 
-[US#2124] (propagated)
+[US#2124] (propagated:exact)
   JP : 「彼らもヴァレリア公に<b:8ab5><b:8ab6>されて / ファルガイア中に派<b:8b24>されているらしい
   RE : Sir Valeria organized them and
        sent them all across Filgaia.
 
-[US#2125] (propagated)
+[US#2125] (propagated:exact)
   JP : 「設立は / ＡＲＭＳよりもずっと早いから / 僕たちの味貴分ってトコかもな
   RE : They were founded long before
        ARMS, so they're our seniors,
        you might say.
 
-[US#2126] (propagated)
+[US#2126] (propagated:exact)
   JP : 「今回の失望は / やはり、公に何かの考えが / あってのことです
   RE : This vanishing act, Sir Valeria
        must have his reasons for it.
 
-[US#2127] (propagated)
+[US#2127] (propagated:exact)
   JP : 「あのヴァレリア公がファルガイアと仲様〜 / もっとも大切にしていたふたつを / 大切るなんて考えられないことです
   RE : That he'd forsake the two he
        treasured most, Filgaia and his
        sister, is unthinkable.
 
-[US#2128] (propagated)
+[US#2128] (propagated:exact)
   JP : 「その<b:8b26>世とは / ファルガイアとは異なる世界より / 異なる命を呼び込むモノだとか〜
   RE : That other realm draws alien
        life from a world unlike our own.
 
-[US#2129] (propagated)
+[US#2129] (propagated:exact)
   JP : 「ですが、その修行街殺は / 必ずしも注目的なモノだけではないのです
   RE : But those forbidden arts he
        studied were not merely for show.
 
-[US#2130] (propagated)
+[US#2130] (propagated:exact)
   JP : 「<88bf>大な力や危険な術儀〜 / 理想に終らない正義を実現するには / あえてこういうのも必要と言いますが〜
   RE : Vast power, dangerous rites. They
        say such things are needed to make
        justice real.
 
-[US#2131] (propagated)
+[US#2131] (propagated:exact)
   JP : 「そういえば、以前〜 / ヴァレリア公は / そのようなことを口にしていました
   RE : Come to think of it, Sir Valeria
        once said as much.
 
-[US#2132] (propagated)
+[US#2132] (propagated:exact)
   JP : 「来るべき<b:8b2b>の脅威とは / 世界が食い<b:8b2c>らされていくことだと〜
   RE : That the true threat to come
        would be the world devoured.
 
-[US#2133] (propagated)
+[US#2133] (propagated:exact)
   JP : 「このことを / 期待していたのでしょうか〜
   RE : Did he foresee this all along? He
        studied so many sacred oaths and
        rites.
 
-[US#2134] (propagated)
+[US#2134] (propagated:exact)
   JP : 「ですが、大戦神を<b:8ac6>めた後 / ファルガイアの注目維持に / <b:8b2d>めるようになったと聞いています
   RE : After mastering astronomy, I hear
        he turned to keeping Filgaia at
        peace.
 
-[US#2135] (propagated)
+[US#2135] (propagated:exact)
   JP : 「大戦神が / 今回のＡＲＭＳのきっかけに / なったのでしょうか？
   RE : Did his astronomy become the
        spark that founded ARMS?
 
-[US#2136] (propagated)
+[US#2136] (propagated:exact)
   JP : 「ですが、その<b:8b2e>は / すべて自分で受け止める信念なのです
   RE : Yet he holds to bearing all that
        responsibility himself.
 
-[US#2137] (propagated)
+[US#2137] (propagated:exact)
   JP : 「ファルガイアの生命を保るために / 『自分』を<b:8b30>すことをいとわない〜 / 公はそのように考えています
   RE : To save Filgaia's life, he'd not
        hesitate to sacrifice himself.
        That is his mind.
 
-[US#2138] (propagated)
+[US#2138] (propagated:exact)
   JP : 「たったひとりの銃<8a0e>と / 保るべき、たったひとつの故<b:8b32>〜 / 公にとってはどちらも大切なモノなのです
   RE : His one living kin, and the one
        homeland he must protect, both
        precious to him.
 
-[US#2139] (propagated)
+[US#2139] (propagated:exact)
   JP : 「現在では隣の中に<89db>もれてしまい / 何も無いところだと聞いていますが〜
   RE : These days it's buried in salt,
        an empty place, so I hear.
 
-[US#2140] (propagated)
+[US#2140] (propagated:exact)
   JP : 「それでも目指すなら / クアトリーの場を中<b:8b36>地にするのが / まちがいないでしょう
   RE : Still, if you go, make Quartly
        your waystation. You won't
        go wrong.
 
-[US#2141] (propagated)
+[US#2141] (propagated:exact)
   JP : 「クアトリーは、[11]お街道の先東[11]ぉに流れ込む / リキキス<89e7>にそって上った先 / <88db>の道にある場です
   RE : Quartly lies on the salt road,
        up the Likikis that flows out
        to the southeast.
 
-[US#2142] (propagated)
+[US#2142] (propagated:exact)
   JP : 「最後に大戦神を<b:8ac6>めてから / 今度はファルガイアの注目維持のために / ここに帰ってきたのです
   RE : Having mastered astronomy at
        last, he came back here to keep
        Filgaia at peace.
 
-[US#2143] (propagated)
+[US#2143] (propagated:exact)
   JP : 「遠く、ファルガイアのこれからを / 注目に<b:8b37>くために〜
   RE : To lead Filgaia's far future
        toward peace.
 
-[US#2144] (propagated)
+[US#2144] (propagated:exact)
   JP : 「いったい〜 / いつから、何が、どのようにして / <b:8b3b>陸が<b:8aeb>いはじめたのでしょうか〜
   RE : When, and how, did this land
        first begin to go awry?
 
-[US#2145] (propagated)
+[US#2145] (propagated:exact)
   JP : 「そして、表にはあまり出しませんが / 仲様もとても大切にしています
   RE : And though he rarely shows it,
        he treasures his sister deeply.
 
-[US#2146] (propagated)
+[US#2146] (propagated:exact)
   JP : 「ですから、ＡＲＭＳの戦力アップに / 多少、ムチャな作戦をとることもあるのです
   RE : That's why, to raise ARMS's
        strength, he sometimes takes
        reckless risks.
 
-[US#2147] (propagated)
+[US#2147] (propagated:exact)
   JP : 「ですから、本当なら指揮<899d>ではなく / 最前線で得意の剣や魔法を / 振るいたかったに違いありません
   RE : Rather than command, he surely
        longed to wield sword and magic
        on the front line.
 
-[US#2148] (propagated)
+[US#2148] (propagated:exact)
   JP : 「あの事故さえなければ〜
   RE : If only that accident hadn't
        happened...
 
-[US#2149] (propagated)
+[US#2149] (propagated:exact)
   JP : 「剣術も魔法も / 誰よりも<89ab>れた<b:8b3f>えをみせた / お人だったのに〜
   RE : A man who showed greater skill
        at sword and spell than anyone,
        he was.
 
-[US#2150] (propagated)
+[US#2150] (propagated:exact)
   JP : 「本当に残念です
   RE : It's truly a shame.
 
-[US#2151] (propagated)
+[US#2151] (propagated:exact)
   JP : 「それは、僕たちが考えるよりも / ずっと世謎めいたモノに違いない〜
   RE : It must be far stranger and more
        fateful than we imagine.
 
-[US#2152] (propagated)
+[US#2152] (propagated:exact)
   JP : 「ヴァレリア公が何をしようとしたのか〜 / いや、何をしようとしているのか / 僕にはわからない〜
   RE : What Sir Valeria meant to do,
        no, still means to do, I cannot
        fathom.
 
-[US#2153] (propagated)
+[US#2153] (propagated:exact)
   JP : 「だけど、そいつは / 英雄伝説に振り回された / 悲<b:8b42>に斬重していくんじゃないか〜
   RE : But perhaps he heads toward a
        tragedy driven by the hero
        legend.
 
-[US#2154] (propagated)
+[US#2154] (propagated:exact)
   JP : 「そして、今、ふたたび〜 / ファルガイアを脅威から保るために / 『ＡＲＭＳ』という名の剣を振るっている〜
   RE : And now, again, he wields a sword
        named |ARMS| to shield Filgaia
        from the threat.
 
-[US#2155] (propagated)
+[US#2155] (propagated:exact)
   JP : 「これは、運命なのだろうか？ / 〜いや、運命では無いとしたら〜
   RE : Is this fate, I wonder? Or, if it's
        not fate at all...
 
-[US#2156] (propagated)
+[US#2156] (propagated:exact)
   JP : 「これは『英雄』という血に謎りつけられた / 世いそのものといえないか〜？
   RE : Could this be the very fate bound
        to the blood called |hero|?
 
-[US#2157] (propagated)
+[US#2157] (propagated:exact)
   JP : 「ヴァレリアの血の中に伝えられし / 運命、世謎、悲しみ〜
   RE : The destiny, the fate, the sorrow
        passed down in Valeria blood.
 
-[US#2158] (propagated)
+[US#2158] (propagated:exact)
   JP : 「ＡＲＭＳを運<b:8b46>していくだけの<b:8adb>金や / ヴァレリアシャトーをはじめとする遺跡など / 一貴<b:8ad9>に<b:8b47>る力は、そういうワケがあるんだ
   RE : The funds to run ARMS, ruins
        like Valeria Chateau, all that
        wealth has its reason.
 
-[US#2159] (propagated)
+[US#2159] (propagated:exact)
   JP : 「<f040><f042>あん？ / もしかして、知らなかったのか？？
   RE : Huh? You mean you didn't know?
 
-[US#2160] (propagated)
+[US#2160] (propagated:exact)
   JP : 「だが、それは〜 / かつての『剣の剣士』とは / <b:8b4b>本的に異なる脅威なんだッ！
   RE : But that threat is nothing like
        the |Blaze of Disaster| of old!
 
-[US#2161] (propagated)
+[US#2161] (propagated:exact)
   JP : 「僕たちの相は / 僕たちと同じ人間ッ！ / 同じ星に生きる、同じ生命なんだッ！
   RE : Our foe is human, just like us!
        Life on the same star, same as us!
 
-[US#2162] (propagated)
+[US#2162] (propagated:exact)
   JP : 「<b:8b4c>支配者とも呼ばれる彼らの力が / ファルガイアに及ばなくなったために / <b:8b4e>々に世界が<b:8b2c>野合しているということは〜
   RE : Their power, they were called
        rulers, no longer reaches Filgaia,
        so the world slowly withers.
 
-[US#2163] (propagated)
+[US#2163] (propagated:exact)
   JP : 「＜剣の聖女＞と『剣の剣士』との戦いは / 相<b:8b4f>ち〜 / <f040><f042>なんかではない〜
   RE : The <Sword Magess> and the |Sword
        Wielder|, their battle was no
        mutual end.
 
-[US#2164] (propagated)
+[US#2164] (propagated:exact)
   JP : 「『剣の剣士』の目的が世界の滅亡ならば / 少しずつ達成されようとしている〜
   RE : If the |Sword Wielder| seeks the
        world's ruin, it is slowly
        coming to pass.
 
-[US#2165] (propagated)
+[US#2165] (propagated:exact)
   JP : 「そう、『剣の剣士』は / 今もファルガイアを<b:8b50>んでいるんだ〜ッ！
   RE : Yes, the |Sword Wielder| gnaws
        at Filgaia even now!
 
-[US#2166] (propagated)
+[US#2166] (propagated:exact)
   JP : 「いったい、どこからどうやって / オデッサに<b:8b54><b:8b55>したのだろう？
   RE : How on earth did it reach Odessa,
        and from where?
 
-[US#2167] (propagated)
+[US#2167] (propagated:exact)
   JP : 「『剣士』とは / ファルガイアを保護するとされる / ガーディアンの暴<b:8b57>体って話だ
   RE : They say the |Wielder| is a
        Guardian gone berserk, one meant
        to protect Filgaia.
 
-[US#2168] (propagated)
+[US#2168] (propagated:exact)
   JP : 「ガーディアンとは世界を支える力と聞く / それと同時の力を持つ『剣士』とは / どれほど恐ろしいモノなんだろう〜
   RE : Guardians uphold the world. A
        |Wielder| with equal power, how
        fearsome must it be?
 
-[US#2169] (propagated)
+[US#2169] (propagated:exact)
   JP : 「衛星は<b:8b59><b:8b5a>を示すというが〜 / ファルガイアを<b:8b5b>がすオデッサの動<8945>〜 / あれをさしているのだろうか？
   RE : The satellite is said to signal
        [?]. Odessa's stirrings that
        menace Filgaia, does it mean those?
 
-[US#2170] (propagated)
+[US#2170] (propagated:exact)
   JP : 「決起表次をおこなったテロリスト〜 / オデッサの<888a><b:8b5c>のことなんだが / 渡録のどこかに招っかかるんだよな
   RE : Those terrorists who rose up,
        Odessa. Something in the records
        nags at me.
 
-[US#2171] (propagated)
+[US#2171] (propagated:exact)
   JP : 「どこかの共の軍関係者〜 / あるいは、そこに<b:8a38>するような機関〜 / 気になるんだよな〜
   RE : Some nation's military, or an
        agency tied to them. It bothers
        me.
 
-[US#2172] (propagated)
+[US#2172] (propagated:exact)
   JP : 「あんたが英雄と呼ばれたのは / <b:8b5e><b:8a41>した戦闘力と果<b:8b44> / だが、それだけじゃないと僕は考える
   RE : They called you a hero for your
        great strength and deeds. But it
        was more than that, I think.
 
-[US#2173] (propagated)
+[US#2173] (propagated:exact)
   JP : 「街戦終了後、解放軍を救うために限力し / ひとり、<8965>われることで / 追手の目が他に及ぶことを防いだ〜
   RE : After the fighting, to save the
        Liberation Army you let yourself
        be taken, drawing pursuit away.
 
-[US#2174] (propagated)
+[US#2174] (propagated:exact)
   JP : 「仲間を保ることを知っているから / あんたは、街戦が終って<88d2>数年っても / 『英雄』と呼ばれるんだ
   RE : Because you know how to shield
        your comrades, they still call
        you a hero years on.
 
-[US#2175] (propagated)
+[US#2175] (propagated:exact)
   JP : 「その<b:8b2b>実の多くは<b:8ae1>の中だが / 一説によると、解放軍リーダーが / 保身のために仲間を<b:8b62>ったって話だぜ
   RE : Much of the truth is buried, but
        one tale says the Army's leader
        sold out his comrades to survive.
 
-[US#2176] (propagated)
+[US#2176] (propagated:exact)
   JP : 「今度は僕たち、ＡＲＭＳが / ファルガイアを保る番だぜ
   RE : Now it's our turn, ARMS, to
        protect Filgaia.
 
-[US#2177] (propagated)
+[US#2177] (propagated:exact)
   JP : 「いやらしくない目で / [0a]お方の観待行為を / おこなっていたんだ
   RE : It wasn't in any bad way. I was
        just watching what {1} was doing.
 
-[US#2178] (propagated)
+[US#2178] (propagated:exact)
   JP : 「その時、[0a]お方が / [0a]ぉ方に呼び出されて / お部乗に向かうのを見てしまったんだ〜
   RE : At that moment, I saw {1} get
        called by {0} and head for the
        room.
 
-[US#2179] (propagated)
+[US#2179] (propagated:exact)
   JP : 「俺は、[0a]ぉ方を / 今まで通り信じられるのだろうか？ / 最度の人間不信におちいりそうだよ〜
   RE : Can I still trust {2} as before?
        I feel myself sinking into deep
        mistrust.
 
-[US#2180] (propagated)
+[US#2180] (propagated:exact)
   JP : 「<b:8b66>通は人里離れたところにあるんだけど〜
   RE : Normally it sits far from any
        village.
 
-[US#2181] (propagated)
+[US#2181] (propagated:exact)
   JP : 「タウンメリアから[11]お北に、道を<89ae>てた他[11]ぉには / パレスヴィレッジという / レイポイントの恩恵を受けた国があるんだ
   RE : North of Town Meria, across the
        road, lies Palace Village, a land
        blessed by a Raypoint.
 
-[US#2182] (propagated)
+[US#2182] (propagated:exact)
   JP : 「大地を<b:8b0e>たす『マナ』が / パレス<b:8b10>という / 結跡品を生み出しているんだな
   RE : The |Mana| that fills the land
        yields a crystalline crop, the
        Palace Wheat.
 
-[US#2183] (propagated)
+[US#2183] (propagated:exact)
   JP : 「レイライン中の生命エネルギーの流れが / <b:8b67>っているみたいなんだッ！
   RE : The life-energy flow through the
        Ley Lines seems to be failing!
 
-[US#2184] (propagated)
+[US#2184] (propagated:exact)
   JP : 「空だけではない〜 / 見えないところで大地も / この星、全体が何者かに食われているんだ
   RE : Not just the sky. Unseen, the
        land too. This whole star is
        being devoured.
 
-[US#2185] (propagated)
+[US#2185] (propagated:exact)
   JP : 「マナはファルガイアが持つ / もっとも大きなエネルギー〜 / そして、無くてはならないモノなんだ
   RE : Mana is Filgaia's greatest energy,
        and something the world cannot
        do without.
 
-[US#2186] (propagated)
+[US#2186] (propagated:exact)
   JP : 「ジェムはレイラインからこぼれた / 生命エネルギーの結<b:8ad5>だからね
   RE : Gems are crystals of life energy
        spilled from the Ley Lines.
 
-[US#2187] (propagated)
+[US#2187] (propagated:exact)
   JP : 「バスカーたちが隠れ住む里の付近は / ファルガイアの中でも / 作年のレイラインが通っているところなんだ
   RE : Near the village where the Baskar
        hide runs one of Filgaia's oldest
        Ley Lines.
 
-[US#2188] (propagated)
+[US#2188] (propagated:exact)
   JP : 「だから、里の縁拠には / 願く険しい山が広がっているんだな
   RE : That's why steep, forbidding
        mountains ring the village.
 
-[US#2189] (propagated)
+[US#2189] (propagated:exact)
   JP : 「ホルストの場や / 俺が以前<b:8b6f>めていたレイライン観待<88e4>設は / その<b:8b70>型的なパターンだよ
   RE : The Holst site, and the Ley-Line
        station where I once worked, are
        typical of it.
 
-[US#2190] (propagated)
+[US#2190] (propagated:exact)
   JP : 「どちらも / ライブリフレクターを使えば / それほど遠いものではない
   RE : Using the Live Reflector,
        neither of them is all
        that far away.
 
-[US#2191] (propagated)
+[US#2191] (propagated:exact)
   JP : 「アグエライト渓谷なら、『遺跡渓谷』行きに / ゲルマトロン渓谷なら、『枯谷<b:8b72><89f4>』行きに / 飛び込めばすぐだよ
   RE : For Aguelite Valley, board the
        Ruins Valley run; for Germatron,
        the Withered Valley run.
 
-[US#2192] (propagated)
+[US#2192] (propagated:exact)
   JP : 「その<b:8b73>動も / 生命エネルギーによって / 支えられているらしいんだな
   RE : That system too, it seems, is
        sustained by life energy.
 
-[US#2193] (propagated)
+[US#2193] (propagated:exact)
   JP : 「シャトーの近くにも一軒あるぞ / [11]お先東の山の中[11]ぉだ
   RE : There's one near the Chateau too,
        up in the southeast mountains.
 
-[US#2194] (propagated)
+[US#2194] (propagated:exact)
   JP : 「そこにもレイラインが通っているから / ライブリフレクターの<b:8b73>動には / <b:8b0f>しているというわけだ
   RE : A Ley Line runs there too, so
        it suits running a Live
        Reflector.
 
-[US#2195] (propagated)
+[US#2195] (propagated:exact)
   JP : 「味のため、<b:8b75>気に戦線に任<b:8b76>する一<b:8b77>の<b:8b78>〜 / ああ、これからも観待したい〜
   RE : Those who take cheerfully to the
        front for our sake. I hope to
        keep seeing it.
 
-[US#2196] (propagated)
+[US#2196] (propagated:exact)
   JP : 「でも今は〜 / ヴァレリアシャトーの<b:8b7a><b:8b7b>を / いやらしくない目で観待したいんだな
   RE : But for now, I'd like to keep an
        honest eye on the Chateau's
        goings-on.
 
-[US#2197] (propagated)
+[US#2197] (propagated:exact)
   JP : 「我らＡＲＭＳ、ひとつとなって / ファルガイアのため / いっしょに戦ってきたではありませんか〜
   RE : Have we of ARMS not fought as one,
        together, for Filgaia's sake?
 
-[US#2198] (propagated)
+[US#2198] (propagated:exact)
   JP : 「あれすらも / <b:8b7c>りだったのでしょうか？
   RE : Was even that a lie?
 
-[US#2199] (propagated)
+[US#2199] (propagated:exact)
   JP : 「私は[0a]ぉ方を信じています / 中いからは / この空を<b:8b1a>らす力は生まれてきません
   RE : I believe in {2}. Doubt will
        never birth the power to clear
        this sky.
 
-[US#2200] (propagated)
+[US#2200] (propagated:exact)
   JP : 「そう、休枯谷ゆえに / 気をつけてくださいよ / いつ<b:8acb>枯するかわかりませんからね
   RE : Yes, it's only dormant, so take
        care. No telling when it'll
        erupt.
 
-[US#2201] (propagated)
+[US#2201] (propagated:exact)
   JP : 「これらはかつて、[0a]ぉ方が / その大きすぎる力を危<893c>して封<b:8b7e>した / 太古の遺跡なのです〜
   RE : These are ancient ruins {2} once
        sealed away, fearing their too-
        great power.
 
-[US#2202] (propagated)
+[US#2202] (propagated:exact)
   JP : 「私<b:8af1>人としては / 空が失われ、<b:8b80>輝が閉ざされた時に / <b:8b81>々として着ぐるみを脱がれた〜
   RE : Myself, when the sky was lost and
        its light shut away, she gladly
        shed her mascot suit.
 
-[US#2203] (propagated)
+[US#2203] (propagated:exact)
   JP : 「着ぐるみを脱ぎ<b:8a7f>てられた / [05]ぎ方の跡行の方が / 何だか気になってしまうのです
   RE : What became of {3}, who cast off
        the suit, is what nags at me.
 
-[US#2204] (propagated)
+[US#2204] (propagated:exact)
   JP : 「あの着ぐるみの辺には / ちゃんと女の家が入っていたんですよ
   RE : There really was a lovely woman
        inside that mascot suit.
 
-[US#2205] (propagated)
+[US#2205] (propagated:exact)
   JP : 「それも、金<b:8b82>で / 抜けるように<b:8b83>が<b:8b84>くて / <b:8b85>は<b:8aef>えるように眠くて〜
   RE : Blonde, with a dazzling fair
        complexion, and eyes red as if
        aflame...
 
-[US#2206] (propagated)
+[US#2206] (propagated:exact)
   JP : 「あ、あれ？ / 眠い〜、<b:8b85>〜？
   RE : Uh, wait... red... eyes?
 
-[US#2207] (propagated)
+[US#2207] (propagated:exact)
   JP : 「<f040><f042>さびしいです〜
   RE : It's lonely now.
 
-[US#2208] (propagated)
+[US#2208] (propagated:exact)
   JP : 「何だか、最近、サッパリです〜
   RE : Somehow, lately, it's
        all dried up.
 
-[US#2209] (propagated)
+[US#2209] (propagated:exact)
   JP : 「そして、ここから先にあるのは / [0a]お方のお部乗ですけど〜 / お部乗でお見かけすることは〜
   RE : And ahead from here is
        {1}'s room, though I rarely
        see her there.
 
-[US#2210] (propagated)
+[US#2210] (propagated:exact)
   JP : 「〜あ、いえいえ / けっして立ち聞きしていたわけじゃ / ありませんから〜
   RE : Ah, no, no. It's not
        like I was eavesdropping
        or anything.
 
-[US#2211] (propagated)
+[US#2211] (propagated:exact)
   JP : 「〜あ、いえいえ / けっして立ち聞きしたわけじゃ / ありませんから〜
   RE : Ah, no, no. It's not
        like I was eavesdropping
        or anything.
 
-[US#2212] (propagated)
+[US#2212] (propagated:exact)
   JP : 「〜あ、いえいえ / けっして立ち聞きしたわけじゃ / ありませんから〜
   RE : Ah, no, no. It's not
        like I was eavesdropping
        or anything.
 
-[US#2213] (propagated)
+[US#2213] (propagated:exact)
   JP : 「ヴァレリア公はご多少な方です / お部乗にいらっしゃらないようでしたら / 他のフロアかもしれません
   RE : Sir Valeria is a busy man. If not
        in his room, he may be on another
        floor.
 
-[US#2214] (propagated)
+[US#2214] (propagated:exact)
   JP : 「他のフロアに向かう場合は / 正面のエレベーターを / ご利用ください
   RE : For other floors, please use the
        elevator straight ahead.
 
-[US#2215] (propagated)
+[US#2215] (propagated:exact)
   JP : 「古い言い伝えで、ファルガイアの中心には / すべての生命の軒となった / <b:8b88>く<b:8b89>く<b:8b8a>の道が広がっているという〜
   RE : Old legend says a road of blue
        mud, the source of all life, lies
        at Filgaia's heart.
 
-[US#2216] (propagated)
+[US#2216] (propagated:exact)
   JP : 「『グラブ・ル・ガブル』〜 / 命の始<8869>、<b:8b8a>の道にて / ヴァレリア公は、いったい何を〜
   RE : |Glaive Le Gable|, the mud road
        where life began. What could Sir
        Valeria want there?
 
-[US#2217] (propagated)
+[US#2217] (propagated:exact)
   JP : 「まるで『剣の剣士』が / ファルガイアを<b:8b8c>き限くそうとした / 伝<b:8b8d>の時代、そのままに〜
   RE : Just like the legendary age when
        the |Sword Wielder| tried to burn
        Filgaia away.
 
-[US#2218] (propagated)
+[US#2218] (propagated:exact)
   JP : 「〜でも、それに先立って / 大きな衛星がファルガイアを / 大切っていったんだ〜
   RE : But just before that, a great
        comet passed close by Filgaia.
 
-[US#2219] (propagated)
+[US#2219] (propagated:exact)
   JP : 「空の<b:8b8f>失と衛星の搭近〜 / ふたつの間に / 因果関係は無いのだろうか〜
   RE : The sky's loss and the comet's
        approach. Is there no link
        between them?
 
-[US#2220] (propagated)
+[US#2220] (propagated:exact)
   JP : 「あらゆる<887e>相機能から / その存在を消し去る / ウィザードリィステルス〜
   RE : Wizardry Stealth erases it from
        every form of surveillance.
 
-[US#2221] (propagated)
+[US#2221] (propagated:exact)
   JP : 「だが、存在を消し去れるのは / ステルス対<b:8ac2>である / ヘイムダル・ガッツォーのみだッ！
   RE : But it only hides the stealth
        unit itself, the Heimdal Gazzo!
 
-[US#2222] (propagated)
+[US#2222] (propagated:exact)
   JP : 「システムを支える魔界鍵は<8991><8992>同部〜 / それだけに、強力な防衛星陣を / <b:8b91>いてくるかもしれないな〜
   RE : The Demon Realm Keys behind the
        system are exposed, so they may
        set strong defenses.
 
-[US#2223] (propagated)
+[US#2223] (propagated:exact)
   JP : 「最大<b:8ab4>域のエネルギー<b:8b93>だからな / その使い<b:8b94>が気になるだろう？
   RE : It's a top-tier power plant. Makes
        you wonder what it's for, doesn't
        it?
 
-[US#2224] (propagated)
+[US#2224] (propagated:exact)
   JP : 「パイプラインの / <89c1>探知をおこなっているんだが〜 / 結果は、もう少しまってくれよ
   RE : We're tracing the pipeline now.
        Give us a bit longer for results.
 
-[US#2225] (propagated)
+[US#2225] (propagated:exact)
   JP : 「だけど、その着陸可能ポイントの少なさと / サーチシステムが使えない帯が / 不便といえば不便だな
   RE : Still, so few Landing Pads, and
        zones where search won't work.
        Inconvenient, that.
 
-[US#2226] (propagated)
+[US#2226] (propagated:exact)
   JP : 「<8a12>やかな探<887e>をおこなうなら / ホバークラフトの方に / 分があるってことだな
   RE : If you want a thorough
        search, the Hovercraft
        has the advantage there.
 
-[US#2227] (propagated)
+[US#2227] (propagated:exact)
   JP : 「ファルガイア貴族共のうち / ギルドグラードが / どうにもこうにもごねていたらしいが〜
   RE : Of the Filgaian nations, Guild
        Galad was said to balk at every
        turn.
 
-[US#2228] (propagated)
+[US#2228] (propagated:exact)
   JP : 「最終的には / メリアブールとシルヴァラントに / 押し切られるカタチとなったそうだ
   RE : In the end, Meria Boule and
        Sylvaland wore them down, they
        say.
 
-[US#2229] (propagated)
+[US#2229] (propagated:exact)
   JP : 「〜でも、今度は違う / 僕もいっしょに戦っているつもりだ / 僕もファルガイアを保っているつもりだ
   RE : But this time is different. I mean
        to fight beside them, to protect
        Filgaia too.
 
-[US#2230] (propagated)
+[US#2230] (propagated:exact)
   JP : 「だが、そいつひとりの意僚で / 『英雄』になるんじゃない〜
   RE : But no one becomes a |hero| by
        their own will alone.
 
-[US#2231] (propagated)
+[US#2231] (propagated:exact)
   JP : 「その世界と / その時代に生きる人間が望むことで / 生み出されていくもんなんだ
   RE : They're made by the wishes of the
        people living in that world, that
        age.
 
-[US#2232] (propagated)
+[US#2232] (propagated:exact)
   JP : 「『英雄』は人間がなるもんだ / でも、望んでなるものじゃない / 望まれて生み出されていくものなんだ
   RE : A |hero| is a person made one,
        not by wanting it, but by being
        wanted.
 
-[US#2233] (propagated)
+[US#2233] (propagated:exact)
   JP : 「『剣の剣士』におびえた / 伝説の時代には＜剣の聖女＞を〜
   RE : The age that feared the |Sword
        Wielder| brought forth the
        <Sword Magess>.
 
-[US#2234] (propagated)
+[US#2234] (propagated:exact)
   JP : 「スレイハイムの暴<b:8b99>には / 英雄[05]お・エヴァンスを〜 / <f040><f042>というカンジでな
   RE : In Slayheim's tyranny, the hero
        {1} Evans. That sort of thing.
 
-[US#2235] (propagated)
+[US#2235] (propagated:exact)
   JP : 「〜空を失った / 現在のファルガイアで / 人はまた英雄を望み、生み出すのだろうか？
   RE : In this sky-less Filgaia, will
        people again wish a hero into
        being?
 
-[US#2236] (propagated)
+[US#2236] (propagated:exact)
   JP : 「<b:8b9b>圧された状況から / 『<b:8b9c>命』だの『解放』だの / 理みたいなことを<b:8b9e>んで同僚を<b:8b9f>るのさ
   RE : From oppression, he spouts
        "revolution" and "liberation" to
        rally the others.
 
-[US#2237] (propagated)
+[US#2237] (propagated:exact)
   JP : 「あいつの理につきあわされて / 最後は、全体で<b:8ba0><b:8ba1>いを / しなくちゃいけない状況になるんだ
   RE : We get dragged along with his
        ideals, then must clean up the
        whole mess.
 
-[US#2238] (propagated)
+[US#2238] (propagated:exact)
   JP : 「なんで、あんな現実味の<b:8ba2>い理想<b:8b17>に / みんなついて行くのだろう〜
   RE : Why does everyone follow such an
        unrealistic dreamer?
 
-[US#2239] (propagated)
+[US#2239] (propagated:exact)
   JP : 「やっぱり、自信ありげに理を<b:8b31>られると / たとえメッキでも / <b:8ba3>力を信じてしまうのだろうか？
   RE : Preach ideals with confidence and
        people believe, even when it's
        all a veneer?
 
-[US#2240] (propagated)
+[US#2240] (propagated:exact)
   JP : 「だいじょうぶだ / 今度もまた、<b:8ba7><b:8ba8>のマイトグローブで / 跡跡を起こしてくれるさ
   RE : It'll be fine. He'll work another
        miracle with his left-hand Might
        Glove.
 
-[US#2241] (propagated)
+[US#2241] (propagated:exact)
   JP : 「もちろん、スレイハイムから / 戦って、<b:8ba9>ったんだがな〜
   RE : Of course, he won it from
        Slayheim by fighting for it.
 
-[US#2242] (propagated)
+[US#2242] (propagated:exact)
   JP : 「英雄サマの相<b:8baa>に / 機艇の<8a25>いや<b:8adc>最術術に長けたヤツがいて / そいつがパイロットだったらしいぜ
   RE : The hero's war buddy was a whiz
        with machines and flying. He was
        the pilot, they say.
 
-[US#2243] (propagated)
+[US#2243] (propagated:exact)
   JP : 「みんな置って行軍なんて / 一度も無かったかもしれないな
   RE : They likely never once marched in
        proper formation.
 
-[US#2244] (propagated)
+[US#2244] (propagated:exact)
   JP : 「かく言う僕も、軍に任<b:8b76>していたんだが / 英雄サマのお探を / 録えているわけじゃないしよ
   RE : I served in the army myself, but
        I don't even recall the hero's
        face.
 
-[US#2245] (propagated)
+[US#2245] (propagated:exact)
   JP : 「まさか、また / いっしょに戦う回が来ようとはな
   RE : To think a day would come to
        fight side by side again.
 
-[US#2246] (propagated)
+[US#2246] (propagated:exact)
   JP : 「みんなあんたたちに / 未来を<b:8bac>している〜
   RE : Everyone is entrusting the future
        to you.
 
-[US#2247] (propagated)
+[US#2247] (propagated:exact)
   JP : 「そして、自分たちの中にある / ファルガイアを保りたいという想いを / あんたたちに集めているんだ
   RE : And they gather onto you the wish
        within them all, the wish to
        protect Filgaia.
 
-[US#2250] (propagated)
+[US#2250] (propagated:exact)
   JP : 「ヴァレリアシャトーより / 着陸可能ポイントに自由がきくぶん / 行動可能<b:8b1e>拠が<b:8afc>段に広がったはずだ
   RE : It lands more freely than the
        Chateau, so your range should be
        far wider.
 
-[US#2251] (propagated)
+[US#2251] (propagated:exact)
   JP : 「今後のシャトーは、あんたたちの足ではなく / 民間人の安全確保のために / 解放されることになったぜ
   RE : From now the Chateau won't ferry
        you. It's freed to keep civilians
        safe.
 
-[US#2252] (propagated)
+[US#2252] (propagated:exact)
   JP : 「何もかもが / 伝説から / 現実のモノへ変わろうとしている〜
   RE : Everything is turning
        from legend
        into reality.
 
-[US#2253] (propagated)
+[US#2253] (propagated:exact)
   JP : 「ファルガイアを攻う脅威が / 更々と伝説を、現実に<b:8bb0>らせていく〜 / そんな気がしてならないぜ
   RE : The threat on Filgaia keeps
        turning legend real. I can't shake
        the feeling.
 
-[US#2254] (propagated)
+[US#2254] (propagated:exact)
   JP : 「このままじゃ / ファルガイアを保るために / ＜剣の聖女＞まで<b:8bb0>るんじゃないか？
   RE : At this rate, might even the
        <Sword Magess> return to protect
        Filgaia?
 
-[US#2255] (propagated)
+[US#2255] (propagated:exact)
   JP : 「そいつがヘイムダル・ガッツォーに / <887c><887d>されているのは / ほぼ、まちがいないだろう〜
   RE : That it's loaded aboard
        Heimdal Gazzo is almost
        beyond doubt.
 
-[US#2256] (propagated)
+[US#2256] (propagated:exact)
   JP : 「その圧倒的な威力から / 戦<b:8a5d>的にあつかわれることは難くないが〜
   RE : With such overwhelming power, it's
        easily used as a weapon of war.
 
-[US#2257] (propagated)
+[US#2257] (propagated:exact)
   JP : 「気がかりなのは / 追いつめられたヴィンスフェルトが / いつまで<b:8bb1><b:8bb2>な判断を辺せるかということだ
   RE : What worries me is how long a
        cornered Vinsfeld can keep his
        judgment sound.
 
-[US#2258] (propagated)
+[US#2258] (propagated:exact)
   JP : 「ギルドグラードじゃドラゴンの合谷を用いて / 機艇術術が発<b:8b20>しているらしいが〜
   RE : In Guild Galad, machine-craft has
        advanced using Dragon fossils, so
        they say.
 
-[US#2259] (propagated)
+[US#2259] (propagated:exact)
   JP : 「機艇と生命体の中間存在 / 幻獣ドラゴンそのものでもない限り / このサイズに飛空機艇をおさめられないぞ
   RE : Only a Dragon, half machine and
        half living, could fit an airship
        this small.
 
-[US#2260] (propagated)
+[US#2260] (propagated:exact)
   JP : 「外からドンパチやって落ちねぇのなら / 中に侵入して、街部から破滅する / 軒本的なことだが、確実な作戦だ
   RE : If it won't fall from outside,
        get in and wreck it from within.
        Basic, but sure.
 
-[US#2261] (propagated)
+[US#2261] (propagated:exact)
   JP : 「でも、中心要の小型機が用意されていない / たとえるなら、そう<f040><f042>〜 / 『険人女<b:8bb6>のいない<b:8b04>』ってとこか？
   RE : But there's no small craft for
        the job. Like an inn with no
        pretty hostess, you might say?
 
-[US#2262] (propagated)
+[US#2262] (propagated:exact)
   JP : 「まあ、どうしてもって言うのなら / あんたたちを / 生身で<b:8af5>出しても構わないんだけどな
   RE : Well, if you truly insist, I don't
        mind launching you out there in
        the flesh.
 
-[US#2263] (propagated)
+[US#2263] (propagated:exact)
   JP : 「それは、僕たちひとりひとりが / 少しずつ持っているはずの / 大切なモノを保る力だぜ
   RE : That's the power each of us holds
        a little of, the power to protect
        what we love.
 
-[US#2264] (propagated)
+[US#2264] (propagated:exact)
   JP : 「それは、力無きゆえに / 『英雄』の力を求めているんだ / けっして『英雄』の血なんかじゃないぜ
   RE : It's the powerless who seek a
        |hero|'s strength. It's never
        about a hero's blood.
 
-[US#2265] (propagated)
+[US#2265] (propagated:exact)
   JP : 「英雄の<b:8bb8><b:8bb9>を<b:8bba><895b>する<b:8b08>や / 人にあらずモノは / <b:8bbb>殿されるらしいが〜
   RE : Those who falsely claim the hero's
        line, and things not human, are
        turned away, they say.
 
-[US#2266] (propagated)
+[US#2266] (propagated:exact)
   JP : 「さらに、本体との<b:8bbb>殿反応もあるため / 非世に過去で / リスキーな手術とも聞いているぜ
   RE : And with the risk of the body
        rejecting it, I hear it's a harsh,
        risky operation.
 
-[US#2267] (propagated)
+[US#2267] (propagated:exact)
   JP : 「それでも / 義体を手に入れようとするってヤツは / 相応のワケ作りってことだろうな
   RE : Even so, anyone out to get a
        bionic body must have quite
        a reason for it.
 
-[US#2268] (propagated)
+[US#2268] (propagated:exact)
   JP : 「<89c1>に、生身を一部残して / そっくり<88fb>発するなんてケースは / 聞いた事も無いぜ
   RE : The reverse, keeping some flesh
        and building a full replacement,
        I've never once heard of.
 
-[US#2269] (propagated)
+[US#2269] (propagated:exact)
   JP : 「心<b:8b87>は、エンジン / <b:8bc1><b:8bc2>は、コクピットってなカンジだ
   RE : The heart's the engine, the brain
        the cockpit, so to speak.
 
-[US#2270] (propagated)
+[US#2270] (propagated:exact)
   JP : 「言いかえるならば / 人の体も機艇にて構成することも / 可能ってことだぜ
   RE : Put another way, a human body
        can be built out of craft
        parts too.
 
-[US#2271] (propagated)
+[US#2271] (propagated:exact)
   JP : 「<8995>か<b:8aaa>は、もっと<b:8bc5><b:8bc6>で / さらに強力なインダストリアルソーサーが / ファルガイアにはあったというぜ
   RE : Long ago, they say, Filgaia held
        far mightier Industrial Sorcerers
        than this.
 
-[US#2272] (propagated)
+[US#2272] (propagated:exact)
   JP : 「わらわが可理想なお<b:8abf>らのために / ちょっとだけロストテクノロジーを使って / キュートでドキドキな<b:8bc9><b:8bb3>をしてしんぜよう
   RE : For my darling little ones, I
        shall use a touch of Lost Tech
        and give you a charming makeover.
 
-[US#2273] (propagated)
+[US#2273] (propagated:exact)
   JP : 「<f041><f041><f041>なんじゃ、その中いの目は / わらわに任せておけば大<b:8bca><b:8bcb>じゃ
   RE : What is that doubtful look? Leave
        it to me and all shall be well.
 
-[US#2274] (propagated)
+[US#2274] (propagated:exact)
   JP : 「ギルドグラードの術術など / 足元にも及ばないことを / ちょっぴり見せつけるだけじゃよ
   RE : I shall merely show that Guild
        Galad's craft cannot hold a
        candle to mine.
 
-[US#2275] (propagated)
+[US#2275] (propagated:exact)
   JP : 「なに、あまり変わったように見えない？ / これだからシロウトは……
   RE : What, it doesn't look any
        different? Hmph. This is why
        amateurs...
 
-[US#2276] (propagated)
+[US#2276] (propagated:exact)
   JP : 「これはな、マップスコープの<b:8bcc><b:8bcd>を / <b:8bce><b:8bcf>に<8865>搭<88ab>起することで / 移動中でもマップを見られるのじゃッ！
   RE : This casts the MapScope onto your
        eye, so you can read the map even
        on the move!
 
-[US#2277] (propagated)
+[US#2277] (propagated:exact)
   JP : 「どこかの[11]お願い<b:8bd1>と谷と道に拠まれた[11]ぉ場所で / ちょっとした遺跡みたいのが見えたんだ
   RE : In a spot ringed by mountains, a
        valley, and the sea, I saw a
        small ruin.
 
-[US#2278] (propagated)
+[US#2278] (propagated:exact)
   JP : 「なんか、バチバチ輝っていたから / 結構目立っててさ / 一体、何があるトコなんだろうな？
   RE : It was sparking and shining,
        so it really stood out. What
        on earth could be there?
 
-[US#2279] (propagated)
+[US#2279] (propagated:exact)
   JP : 「<f040><f041><f042>そういえば、[11]おそこから東の方[11]ぉには / [11]お願い<b:8bd1>にかかった<89ec>の上[11]ぉに / 場があるのが見えたぜッ
   RE : Come to think of it, east of there
        I saw a place set atop a span in
        the mountains.
 
-[US#2280] (propagated)
+[US#2280] (propagated:exact)
   JP : 「ロンバルディアってさ / 何食ってんだろう？ / まさか、人間を食べたりしないよな？
   RE : What does Lombardia even eat?
        It doesn't eat people,
        does it?
 
-[US#2281] (propagated)
+[US#2281] (propagated:exact)
   JP : 「でも、なんでこんなことしたのかな？
   RE : But why would he do
        something like this?
 
-[US#2282] (propagated)
+[US#2282] (propagated:exact)
   JP : 「[0a]かお<b:8bd4>ちゃんが描いてたけど / 何かあったの？
   RE : {2}'s big sister was sketching
        something. Did something happen?
 
-[US#2283] (propagated)
+[US#2283] (propagated:exact)
   JP : 「やっぱり、あんちゃんが描かしたのかな？ / 大人はたいへんだよねぇ
   RE : Did the big guy have her draw it?
        Being a grown-up is hard, huh.
 
-[US#2284] (propagated)
+[US#2284] (propagated:exact)
   JP : 「あの爆発じゃ / さすがにダメかと思ったけど / やっぱり僕達の<b:8bd5>望の星だ
   RE : After that blast I feared the
        worst, but they're our guiding
        hope after all.
 
-[US#2285] (propagated)
+[US#2285] (propagated:exact)
   JP : 「まあ、少数ＡＲＭＳの力を<b:8bd6>りたくなったら / いつでも言ってくれよ
   RE : If you ever want to borrow us few
        ARMS members' strength, just say
        the word.
 
-[US#2286] (propagated)
+[US#2286] (propagated:exact)
   JP : 「<b:8bbd>務<b:8ae4>の保護衛さんだけどさ / 険人だけどちょっと、恐いんだよな / いろんな意味で〜
   RE : That guard on duty, she's
        striking, but a bit scary. In
        more ways than one.
 
-[US#2287] (propagated)
+[US#2287] (propagated:exact)
   JP : 「とりあえず、お前は数上のお<b:8bd4>さんタイプが / 好みだって言っておいたら<b:8bd9>んでたぜ / <f040><f041><f042>なに、描きそうな探してるんだよ？
   RE : I told her you like the older type
        and she lit up. What, hunting
        someone to sketch?
 
-[US#2288] (propagated)
+[US#2288] (propagated:exact)
   JP : 「いろんな意味で〜
   RE : In more ways
        than one...
 
-[US#2289] (propagated)
+[US#2289] (propagated:exact)
   JP : 「この前、エベチョチョ様っていう家から / クッキーを<b:8bda>ったんだけど / ちょっと、シケってたんだ〜
   RE : The other day I got cookies from
        one Ebechocho, but they'd gone a
        bit stale.
 
-[US#2290] (propagated)
+[US#2290] (propagated:exact)
   JP : 「[05]が、がんばってる？ / まだ戦闘に慣れていないんだから / あんまり、無理させないようになッ！
   RE : Is {3} holding up? He's new to
        combat, so don't push him too
        hard!
 
-[US#2291] (propagated)
+[US#2291] (propagated:exact)
   JP : 「まだ戦闘に慣れていないんだから / あんまり、無理させないようになッ！
   RE : He's new to combat, so don't push
        him too hard!
 
-[US#2292] (propagated)
+[US#2292] (propagated:exact)
   JP : 「<b:8bdb><b:8bdc>されそうになった[05]がを / 助けてくれて、ありがとなッ！
   RE : Thanks for saving {3} when he was
        nearly overwhelmed!
 
-[US#2293] (propagated)
+[US#2293] (propagated:exact)
   JP : 「ヴァレリアさんの行いは / 神<b:8bdd>の<b:8bde><b:8bdf>の<b:8be0><b:8a6a>書に<887d>るかもしれませんね
   RE : Sir Valeria's deeds may yet be
        written into the scripture of the
        gods.
 
-[US#2294] (propagated)
+[US#2294] (propagated:exact)
   JP : 「もう、このファルガイアに / あなた方たちを倒せるモノは / いないことでしょう
   RE : Surely there's no one left in
        all Filgaia who could
        defeat you now.
 
-[US#2295] (propagated)
+[US#2295] (propagated:exact)
   JP : 「[05]ぉさんも / 『スレイハイムの英雄』さんと同じくらい / 強いのではないですか
   RE : Aren't you as strong as the |Hero
        of Slayheim| himself?
 
-[US#2296] (propagated)
+[US#2296] (propagated:exact)
   JP : 「『スレイハイムの英雄』は / 配達じゃないと言うことですね
   RE : So the |Hero of Slayheim| is no
        mere reputation, then.
 
-[US#2297] (propagated)
+[US#2297] (propagated:exact)
   JP : 「エベチョチョ様の<b:8be2>物のクッキーですが / 大事にしまっていた為 / <b:8b45>味<b:8aa3>限を過ぎていたのではないでしょうか
   RE : Ebechocho's prized cookies, saved
        so carefully, had likely gone
        past their date.
 
-[US#2298] (propagated)
+[US#2298] (propagated:exact)
   JP : 「[05]が様にとって / <b:8a81>の活<b:8a76>の場だったのではないでしょうか
   RE : For {3}, it may have been his
        first real taste of the field.
 
-[US#2299] (propagated)
+[US#2299] (propagated:exact)
   JP : 「[05]がくんは / このお館に保護してもらうのが / 正解でしょう
   RE : It's surely best that {3} be kept
        safe here in this manor.
 
-[US#2300] (propagated)
+[US#2300] (propagated:exact)
   JP : 「それは結単なことなんかではなく / 誰にだってできることだったんです
   RE : That was no simple feat. It wasn't
        something just anyone could do.
 
-[US#2301] (propagated)
+[US#2301] (propagated:exact)
   JP : ＊それらに対抗するためには / 世に、最悪の状況を想定し / 対抗方法を確立しておくことである
   RE : To counter them, assume the worst
        and set countermeasures in
        advance.
 
-[US#2302] (propagated)
+[US#2302] (propagated:exact)
   JP : ＊対抗が、後手に回ることで / 状況は悪合の一<b:8b94>を<89cb>り / 取り<b:8a8a>しの付かない状況になる
   RE : When the response lags, things
        only worsen, past the point of
        undoing.
 
-[US#2303] (propagated)
+[US#2303] (propagated:exact)
   JP : ＊未部に防ぐことができなかったとき / 状況の悪合を防ぎ / <889a><889b>の最小合を<b:8be6>る必要がある
   RE : If it can't be prevented, stem
        the harm and keep the damage
        minimal.
 
-[US#2304] (propagated)
+[US#2304] (propagated:exact)
   JP : ＊ファルガイアにある共々は / 見えない共通という<b:8be7>で押切られ / 人々の心にも<b:8be7>を作る
   RE : Filgaia's nations are split by
        invisible walls called borders,
        walls in the heart as well.
 
-[US#2305] (propagated)
+[US#2305] (propagated:exact)
   JP : ＊自共を保ろうとしたり / 他共に対し中心暗<b:8be8>になることで / さらに<b:8be9>を願めていくことになる
   RE : Guarding one's own land and eyeing
        others with suspicion only deepens
        the rift.
 
-[US#2306] (propagated)
+[US#2306] (propagated:exact)
   JP : ＊ファルガイアの全ての人々がわかりあい / この地に住まう同胞として / <b:8bea>重しあえるのはいつの回か…
   RE : When will all Filgaians understand
        and respect each other as kin of
        this land?
 
-[US#2307] (propagated)
+[US#2307] (propagated:exact)
   JP : ＊我々は、それに抗する手だてがあるのか？ / 魔物に限ったことではない / 大変地異の可能性もある
   RE : Do we have any means to counter
        it? Not just monsters. A great
        disaster too.
 
-[US#2308] (propagated)
+[US#2308] (propagated:exact)
   JP : ＊それらに抗する力を / 我々は持っていない
   RE : We do not have the power to resist
        them.
 
-[US#2310] (propagated)
+[US#2310] (propagated:exact)
   JP : ＊その前に、我々はまとまらねばならぬ / だが、人の年だけ思いがあり / 人がまとまることなど不可能なのか？
   RE : First, we must unite. But each
        person holds their own view. Is
        unity even possible?
 
-[US#2311] (propagated)
+[US#2311] (propagated:exact)
   JP : ＊作無もいわせぬ恐<b:8a93>か？ / 抗うことのできない力か？ / 統一された思想か？
   RE : Terror that allows no dissent? A
        power none can resist? One unified
        creed?
 
-[US#2312] (propagated)
+[US#2312] (propagated:exact)
   JP : ＊人の年だけ思いがある / 果たして / 世界をまとめることは可能なのか
   RE : Each person holds a thought of
        their own. Can the world truly be
        united?
 
-[US#2313] (propagated)
+[US#2313] (propagated:exact)
   JP : ＊<b:8bde><b:8bdf>において、統一を試みた者たちはいた / しかしながら、その全てが / うたかたの理となりて<b:8bed>っていった
   RE : In ages past, some sought unity.
        Yet all of it faded like fleeting
        foam.
 
-[US#2314] (propagated)
+[US#2314] (propagated:exact)
   JP : ＊そもそも、一人の支配者のもとに / 統一されることは可能なのか？
   RE : Is it even possible to unite
        under a single ruler?
 
-[US#2315] (propagated)
+[US#2315] (propagated:exact)
   JP : ＊もし、世界がまとまる時が来たとしたら / それは、世界の人々がそれを望む状況に / なったときだろう
   RE : If the world ever unites, it will
        be when its people themselves
        desire it.
 
-[US#2316] (propagated)
+[US#2316] (propagated:exact)
   JP : ＊現在は、定<8943>で少数に一度開催されるが / 緊急時には、非世開催も行われる
   RE : It's held on a set cycle every few
        years, with emergency sessions in
        a crisis.
 
-[US#2317] (propagated)
+[US#2317] (propagated:exact)
   JP : ＊スレイハイムの崩滅の<89d2>には / 今後の世界情報について協議されるため / 非世開催されることとなった
   RE : At Slayheim's fall, an emergency
        session was called to weigh the
        world's future.
 
-[US#2318] (propagated)
+[US#2318] (propagated:exact)
   JP : ＊この時には、注目<b:8bf0><b:8bf1>でもある / 『イスカリオテ<b:8bf0><b:8bf1>』について / <b:8bc9>めて話し合われた
   RE : At that time the Treaty of
        Iscariot was taken up for
        discussion once more.
 
-[US#2319] (propagated)
+[US#2319] (propagated:exact)
   JP : ＊自共の利<b:8bf2>だけでなく / 世界の注目のためについて話し合われる / それがファルガイアサミットである
   RE : Not just each land's gain, but the
        whole world's good is debated.

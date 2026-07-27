@@ -47,6 +47,17 @@ def is_trivial(pl):
     real = re.sub(r'[^0-9A-Za-z぀-ヿ㐀-鿿]', '', real)
     return len(real) < 4
 
+def norm_text(pl, blk):
+    """Normalized decoded text key: strip unsolved <...> / [..] codes + spacing so the SAME
+    line matches across twins even when their block-local kanji tables differ (raw bytes differ,
+    decoded readable text is identical). Requires >=6 real chars to avoid generic collisions."""
+    if pl is None:
+        return None
+    t = W.decode_block(pl, blk)
+    key = re.sub(r'<[^>]*>|\[[^\]]*\]|[\s　/〜ッ]', '', t)
+    real = re.sub(r'[^0-9A-Za-z぀-ヿ㐀-鿿]', '', key)
+    return key if len(real) >= 6 else None
+
 db = json.load(open(os.path.join(ROOT, 'game_script', 'wa2_db.json')))['rows']
 def first_us(blk): return min(int(r['us']) for r in db if int(r['block']) == blk)
 def block_of(us):
@@ -61,8 +72,9 @@ def en_ok(blk, us):
 FU = {b: first_us(b) for b in CLUSTER}
 BX = {b: block_payloads(b) for b in CLUSTER}
 
-# Build payload -> RE index from every translated lore FINAL file.
-pay2re = {}
+# Build indexes from every translated lore FINAL file: exact-payload AND normalized-text.
+pay2re = {}       # raw JP payload bytes -> RE (exact twin match)
+txt2re = {}       # normalized decoded text -> RE (cross-table twin match)
 RE_RX = re.compile(r'\[US#(\d+)\](.*?)(?=\n\[US#|\Z)', re.S)
 BODY_RX = re.compile(r'  RE : (.*?)(?=\n  (?:JP|LIT|EN) :|\n#|\n\[US#|\n\n|\Z)', re.S)
 for f in glob.glob(os.path.join(ROOT, 'insert', 'lore_blk*_FINAL.txt')):
@@ -80,6 +92,8 @@ for f in glob.glob(os.path.join(ROOT, 'insert', 'lore_blk*_FINAL.txt')):
             pl = BX[b][k][1]
             if pl and b'\x10\x0c' not in pl and not is_trivial(pl):
                 pay2re.setdefault(pl, re_txt)
+                nk = norm_text(pl, b)
+                if nk: txt2re.setdefault(nk, re_txt)
 
 # Which US# are already translated (any RE-bearing file), so we don't overwrite.
 done_us = set()
@@ -96,9 +110,16 @@ def propagate(blk):
         if us in done_us: continue          # already has a real translation
         if is_trivial(pl):                   # control-only/empty box: not a fillable slot
             continue
-        if pl and pl in pay2re:
+        re_txt = None; how = None
+        if pl in pay2re:
+            re_txt, how = pay2re[pl], 'exact'
+        else:
+            nk = norm_text(pl, blk)          # cross-table twin: same text, different kanji codes
+            if nk and nk in txt2re:
+                re_txt, how = txt2re[nk], 'text'
+        if re_txt is not None:
             jp = ' '.join(W.decode_block(pl, blk).replace('\n', ' / ').split())
-            filled.append((us, jp, pay2re[pl]))
+            filled.append((us, jp, re_txt, how))
         else:
             gaps.append(us)
     return filled, gaps
@@ -113,9 +134,10 @@ if __name__ == '__main__':
             o.write(f"# WA2 — Block {blk} — PROPAGATED from lore-twin cluster (payload-exact match)\n")
             o.write(f"# Auto-filled by tools_wa2/propagate_twins.py from already-translated twin boxes.\n")
             o.write(f"# Each RE is copied verbatim from a byte-identical JP box elsewhere in the 6/7/8/9/10/11\n")
-            o.write(f"# cluster. {len(filled)} boxes filled; {len(gaps)} unique boxes still need translation.\n\n")
-            for us, jp, re_txt in filled:
-                o.write(f"[US#{us}] (propagated)\n")
+            o.write(f"# cluster. {len(filled)} boxes filled; {len(gaps)} unique boxes still need translation.\n")
+            o.write(f"# match: 'exact' = byte-identical payload; 'text' = same decoded text, different kanji table.\n\n")
+            for us, jp, re_txt, how in filled:
+                o.write(f"[US#{us}] (propagated:{how})\n")
                 o.write(f"  JP : {jp[:200]}\n")
                 o.write(f"  RE : {re_txt}\n\n")
         print(f"block {blk}: filled {len(filled)}, gaps {len(gaps)} -> {os.path.basename(outp)}")
