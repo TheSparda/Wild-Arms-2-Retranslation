@@ -1,0 +1,298 @@
+# WA2 — Block 8, US#1638-1699 — FINAL (Chateau NPCs: airship pilot, butcher-son gag, Palace Village lore)
+# =========================================================================================
+# Valeria Chateau NPC banter + lore: the Lombardia pilot's boarding tutorial, the butcher's-son
+# ARMS recruit and his chili-cheeseburger ("sauce-drenched croquette") running gag, the EMMA
+# motor mystery, Palace Village / Mana / Raypoint crops, and Irving's Diablo Pillar / Demon
+# Realm Key search. JP-primary; unreadable kanji spans marked [?]. FILL boxes (twins of already-
+# done chunks: 1643,1644,1649,1651,1653,1654,1661,1668,1670,1672,1679,1684,1685,1689,1698) are
+# omitted here and will come via payload propagation. Hand-done (fleet API limit).
+
+[US#1638] (Lombardia pilot)
+  JP : 「<b:8ad3>度<b:8ad3>度の出撃が<89d3>体に<b:8ad4>いて / けっこうガタがきているんのさ
+  LIT: All these repeated sorties are wearing on her hull; she's getting pretty rickety.
+  RE : All these sorties wear on her
+       hull. She's getting rickety.
+
+[US#1639] (Lombardia pilot)
+  JP : 「出撃があるたびに / 『これが最後』と思って / 大切にあつかっているつもりなんだぜ
+  LIT: Every sortie, I think "this is the last one" and handle her with care.
+  RE : Every sortie, I tell myself it's
+       the last, and treat her with care.
+
+[US#1640] (Lombardia pilot)
+  JP : 「そりゃもう、女の家なみに
+  LIT: Why, as gently as I'd treat a lady.
+  RE : Why, as gently as I'd treat a
+       lady.
+
+[US#1641] (Lombardia pilot)
+  JP : 「そんなもの、飛ばすどころか / 維持するだけで / 最大な費用がかかっちまうんだが〜
+  LIT: Never mind flying her, just keeping her running costs a fortune.
+  RE : Never mind flying her. Just
+       keeping her running costs a
+       fortune.
+
+[US#1642] (Lombardia pilot)
+  JP : 「貴族方のヴァレリア公はいざしらず / オデッサの連中 / どこから<b:8adb>金を調達しているんだ？
+  LIT: Sir Valeria's a noble, fine, but that Odessa lot, where do they get their money?
+  RE : Sir Valeria's a noble, sure. But
+       that Odessa lot, where's their
+       money come from?
+
+[US#1645] (Lombardia pilot)
+  JP : 「ヴァレリアシャトーに乗りたいときは / 発着魔法陣上で[0b]かボタンを押してくれ / 搭乗コールを聞きつけたら回斬してやるぜ
+  LIT: To board Valeria Chateau, press [0b] over a Landing Pad; I'll come around when I hear the boarding call.
+  RE : To board, press [0b] over a
+       Landing Pad. I'll swing round at
+       the boarding call.
+
+[US#1646] (Lombardia pilot)
+  JP : 「ヴァレリアシャトーから降りたいときは / これまた発着魔法陣上で / [0b]がボタンだ
+  LIT: To disembark from Valeria Chateau, again it's the [0b] button over a Landing Pad.
+  RE : To get off, again press [0b]
+       over a Landing Pad.
+
+[US#1647] (Lombardia pilot)
+  JP : 「発着魔法陣の上以外の場所で / [0b]がボタンを押すと / <b:8adf>用メニューが開かれる
+  LIT: Press [0b] somewhere other than a Landing Pad and the Special Menu opens.
+  RE : Press [0b] off a Landing Pad
+       and the Special Menu opens.
+
+[US#1648] (Lombardia pilot)
+  JP : 「ヴァレリアシャトー街での行動や / 僕に<b:8adc>最を任せるときは / <b:8adf>用メニューを開いてくれよなッ！
+  LIT: To move about Valeria Chateau or leave the piloting to me, open the Special Menu!
+  RE : To move about the Chateau or let
+       me pilot, open the Special Menu!
+
+[US#1650] (Chateau NPC)
+  JP : 「ワシらはやっぱり / 大切られたんだろうか？
+  LIT: Have we been cast aside after all?
+  RE : Have we been cast aside, after
+       all?
+
+[US#1652] (Chateau NPC)
+  JP : 「今度出撃する時は / 民間人を斬殺して / 危険を回転するつもりらしい
+  LIT: On the next sortie, the plan seems to be to evacuate the civilians and turn the danger aside.
+  RE : Next sortie, the plan is to move
+       the civilians clear and turn the
+       danger aside.
+
+[US#1655] (Chateau NPC)
+  JP : 「ダメだダメだ、そんなことじゃダメだ / もっとヴァレリア公の作戦を信じよう / 僕たちを信じてくれよ
+  LIT: No, no, that won't do. Let's trust Sir Valeria's plan more. Trust us.
+  RE : No, no, that won't do. Trust Sir
+       Valeria's plan more. Trust us.
+
+[US#1656] (Chateau NPC)
+  JP : 「自分ひとりでしょいこまないで / みんなの力で何とかしようと考えりゃ / <b:8ae2>の力も抜けてくるもんだ
+  LIT: Don't shoulder it alone; think of pulling through with everyone's strength, and the tension eases.
+  RE : Don't shoulder it alone. Lean on
+       everyone, and the strain eases.
+
+[US#1657] (Chateau NPC)
+  JP : 「そんなことより / エマ・モーターをほったらかして / [05]ぎ<b:8ae3>はいずこへッ！
+  LIT: More to the point, {3} left the EMMA motor behind and went, where?
+  RE : More to the point, {3} left the
+       EMMA motor behind and went, where?
+
+[US#1658] (butcher's son, ARMS recruit)
+  JP : 「いったい何者なんだろう？ / まさか、ワシと同じく / 前<b:8a3e>は銃乗なのか〜ッ！
+  LIT: Who is she, anyway? Don't tell me she was a gunner before, like me!
+  RE : Who is she, anyway? Don't tell me
+       she was a gunner before, like me!
+
+[US#1659] (Chateau NPC)
+  JP : 「その出力に / <89d3>体の方が / ついていっておらんくらいだからのう
+  LIT: The hull can hardly keep up with that output.
+  RE : The hull can hardly keep up with
+       that output.
+
+[US#1660] (Chateau NPC)
+  JP : 「何とかならんのか〜？
+  LIT: Can't something be done about it?
+  RE : Can't something be done about it?
+
+[US#1662] (butcher's son)
+  JP : 「ちなみに前<b:8a3e>は / 銃乗だったのだッ！
+  LIT: By the way, my former trade was gunner!
+  RE : By the way, my old trade? Gunner!
+
+[US#1663] (butcher's son)
+  JP : 「枯急の事態にて / ＡＲＭＳに<b:8ae5>せ任じたのだ / よろしくたのむぞ
+  LIT: In this dire emergency I threw in with ARMS. Good to be working with you.
+  RE : This dire crisis, I threw in with
+       ARMS. Good to work with you.
+
+[US#1664] (butcher's son)
+  JP : 「『最後の<b:8ae8><b:8ae9>だッ！』 / なんて言いながら〜
+  LIT: Saying things like "this is the last supper!"...
+  RE : Going on about "the last supper,"
+       he was...
+
+[US#1665] (butcher's son)
+  JP : 「<b:8aea>起でもありませんよ
+  LIT: That's terribly bad luck to say.
+  RE : That's dreadful luck to say.
+
+[US#1666] (butcher's son)
+  JP : 「もしも、ホントに / 最後の<b:8ae8><b:8ae9>をしなくちゃならないのなら / ファルガイアのみんなとゴハンを食べたいな
+  LIT: If it really had to be a last supper, I'd want to eat it with everyone in Filgaia.
+  RE : If it truly were a last supper,
+       I'd want to eat it with all of
+       Filgaia.
+
+[US#1667] (butcher's son)
+  JP : 「みんなでいっしょに食べるゴハンは / 少<8913>り<b:8a97>しでウマイからね / やっぱり、みんないっしょが一番だよ
+  LIT: A meal eaten all together tastes better; being together really is best.
+  RE : A meal shared tastes better.
+       Being together really is best.
+
+[US#1669] (butcher's son)
+  JP : 「なのに、なぜッ！ / あのジャリどもはソースたぷたぷコロッケの / <b:8aeb>おしいばかりの味を知っているんだッ！
+  LIT: So why do those brats know the maddeningly good taste of my sauce-drenched croquettes?
+  RE : So why do those brats know the
+       maddening taste of my sauce-
+       drenched croquettes?
+
+[US#1671] (butcher's son)
+  JP : 「<b:8ae7>ちゃんが / 着ぐるみの女の家にご中心だったんです
+  LIT: My dad was smitten with the lady in the costume.
+  RE : My dad was smitten with the lady
+       in the mascot suit.
+
+[US#1673] (butcher's son)
+  JP : 「このまま / ソースたぷたぷコロッケ消失事件は / 政<b:8aed>入りとなってしまうのでしょうか？
+  LIT: Will the case of the vanished sauce-drenched croquettes go unsolved like this?
+  RE : Will the case of the vanished
+       croquettes go unsolved, then?
+
+[US#1674] (butcher's son)
+  JP : 「[0a]ぎ様と / [0a]く様です
+  LIT: It's {5} and {6}.
+  RE : It's {5} and {6}.
+
+[US#1675] (butcher's son)
+  JP : 「ふたりとも非世に協力的で / すぐに仲良しになってしまいました
+  LIT: They're both extremely helpful, and we hit it off at once.
+  RE : They're both so helpful, we hit
+       it off at once.
+
+[US#1676] (butcher's son)
+  JP : 「彼らも / ソースたぷたぷコロッケ大好き同僚ですから
+  LIT: They're colleagues who love sauce-drenched croquettes too, after all.
+  RE : After all, they love sauce-
+       drenched croquettes too.
+
+[US#1677] (butcher's son)
+  JP : 「機関胞の<b:8af0>くれとして / オデッサのエネルギー事情〜 / 気になりますね
+  LIT: As a bit of an engineer, I do wonder about Odessa's energy situation.
+  RE : As a bit of an engineer, I wonder
+       about Odessa's energy source.
+
+[US#1678] (butcher's son)
+  JP : 「ちなみに<b:8af1>人的なエネルギー事情ですが / 以前、ボクのソースたぷたぷコロッケが / ちょっと目を離したスキに消失したのです
+  LIT: As for my personal energy situation, my sauce-drenched croquette vanished the moment I looked away.
+  RE : As for my own energy, my croquette
+       vanished the moment I looked away.
+
+[US#1680] (butcher's son)
+  JP : 「ちなみに前<b:8a3e>は / 銃乗のせがれでしたッ！
+  LIT: By the way, before this I was a gunner's son!
+  RE : By the way, before this? A
+       gunner's son!
+
+[US#1681] (butcher's son)
+  JP : 「<b:8af2>ちゃんに逃げられた / <b:8ae7>ちゃんをひとりにしておけないから / こうしてＡＲＭＳに<b:8ae5>せ任じました
+  LIT: My mom ran off, and I couldn't leave dad alone, so I threw in with ARMS like this.
+  RE : Mom ran off, and I couldn't leave
+       dad alone, so I joined ARMS.
+
+[US#1682] (butcher's son)
+  JP : 「う、運命がひかれあい / もつれあって / くんずほぐれつ〜
+  LIT: F-fate drawing together, tangling, grappling...
+  RE : F-fate, drawn together, tangled,
+       grappling...
+
+[US#1683] (Chateau NPC)
+  JP : 「公のことだ / きっと何かの思<b:8a8e>があるに違いない / 僕はそう、信じている
+  LIT: Being Sir Valeria, he surely has some intention. That's what I believe.
+  RE : Being Sir Valeria, he surely has
+       his reasons. That's what I
+       believe.
+
+[US#1686] (Chateau NPC)
+  JP : 「パレスヴィレッジが<b:8b12>る / パレス<b:8b10>か〜
+  LIT: The Palace [Wheat] that Palace Village [produces], is it...
+  RE : Palace Village's famous Palace
+       Wheat, is it...
+
+[US#1687] (Chateau NPC)
+  JP : 「星の命のエネルギーは / <b:8b13>作物にも恩恵を<b:8b14>えているんだな
+  LIT: The planet's life energy blesses the crops too.
+  RE : The planet's life energy blesses
+       the crops as well.
+
+[US#1688] (Chateau NPC)
+  JP : 「でもさ、今はこうして貴族共が / 一致団結して脅威にあたっているんだ / ありがたみが<b:8b18>ってしまったよな〜
+  LIT: But now the nobles are united against the threat, so it feels less remarkable somehow.
+  RE : But now the nations stand united
+       against the threat, so it feels
+       less special somehow.
+
+[US#1690] (Chateau NPC)
+  JP : 「とは、この空を見上げる限り / 言えないよな〜
+  LIT: ...though you couldn't say so, looking up at this sky.
+  RE : ...though you'd never say so,
+       looking up at this sky.
+
+[US#1691] (Chateau NPC)
+  JP : 「<b:8b1b><b:8a64>に<b:8b1c>いて行ける場所に / あるとは考えにくい〜
+  LIT: It's hard to think it's anywhere you could simply walk to.
+  RE : Hard to think it's anywhere you
+       could just walk to.
+
+[US#1692] (Irving briefing)
+  JP : 「ヴァレリアシャトー、ホバークラフト〜 / ありとあらゆる移動手段を駆使してでも / 魔界鍵を発見しなければな〜
+  LIT: Valeria Chateau, the Hovercraft, using every means of travel, we must find the Demon Realm Key.
+  RE : Valeria Chateau, Hovercraft, by
+       every means of travel we must find
+       the Demon Realm Key.
+
+[US#1693] (Irving briefing)
+  JP : 「キミたちの行動<b:8b1e>拠街に / ホバークラフトを / 発移させてみるんだ
+  LIT: I'll move the Hovercraft to within your area of operations.
+  RE : I'll move the Hovercraft into
+       your range of operations.
+
+[US#1694] (Irving briefing)
+  JP : 「せっかく、テレポートオーブに対応した / アポーツ機能なんだ / 活用しなきゃ<b:8acc>だぜ
+  LIT: The Aport feature now works with the TeleportOrb, so make good use of it.
+  RE : The Aport feature now works with
+       the TeleportOrb. Put it to use.
+
+[US#1695] (Irving briefing)
+  JP : 「まだ見ぬ新しい<b:8b20>開が / きっと待っているはずだぜ
+  LIT: Some new development you've yet to see is surely waiting.
+  RE : Some new road you've yet to see
+       is surely waiting.
+
+[US#1696] (Chateau NPC)
+  JP : 「そういえばシャトーの２Ｆに / 以前、地面のエネルギーとかを / 修行していたヤツがいたな
+  LIT: Come to think of it, someone on the Chateau's 2nd floor was studying earth energy and such.
+  RE : Come to think of it, someone on
+       the Chateau's 2nd floor studied
+       earth energy.
+
+[US#1697] (Chateau NPC)
+  JP : 「カタチにとらわれずに / 物事を為していく〜 / <b:8b1b><b:8a64>なようで、難しいことだ
+  LIT: Getting things done without being bound by form; sounds simple, but it's hard.
+  RE : Getting things done unbound by
+       form. Sounds easy, but it's
+       hard.
+
+[US#1699] (butcher's son)
+  JP : 「くそッ、僕だって<b:8a50>けてたまるかよッ！ / スゴイの<89db>め込んで / オトコをあげてやらあッ！
+  LIT: Damn it, I won't lose either! I'll cook up something amazing and prove myself a man!
+  RE : Damn it, I won't lose! I'll cook
+       up something amazing and prove
+       myself!
