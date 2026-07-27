@@ -1,0 +1,689 @@
+# WA2 — Block 49, US#6206-6341 — FINAL (Heimdal Gazzo climax: escape pods, Vinsfeld showdown — block 49 complete)
+# =========================================================================================
+# The Heimdal Gazzo endgame: the fortress rockets toward the sea of stars, the scattered party
+# reaches escape pods guided by Empathite-linked hearts (Lilka's promise, Kanon's exorcism vow,
+# Tim/Pooka's hope, Marivel's casket quip), Brad confronts Vinsfeld (the betrayal, "I promised
+# Him and Ptolomea"), Vinsfeld's Soul Deleter + Mad Mountains + nuke threats, his motive reveal
+# (unite humanity against the coming threat), and Ashley's race to the last pod. JP-primary.
+
+[US#6206] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#6207] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#6208] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#6209] (party)
+  JP : 「それに脱出右置は５つとも単々のところに / 配置されているようだ
+  LIT: What's more, the five escape devices seem to be placed in separate locations.
+  RE : What's more, the five escape
+       devices seem to be placed in
+       separate locations.
+
+[US#6210] (party)
+  JP : 「ここまで発てこれとは / つくづく僕たちはついてないらしいな
+  LIT: To come this far and get this; we really do have rotten luck.
+  RE : To come this far and get this; we
+       really do have rotten luck.
+
+[US#6211] (party)
+  JP : 「時間がないんだ、早くッ！
+  LIT: There's no time; hurry!
+  RE : There's no time; hurry!
+
+[US#6212] (Brad)
+  JP : 「俺だってみすみす無<b:8a3a>死にするような / まねはしないさ
+  LIT: I'm not about to throw my life away for nothing either.
+  RE : I'm not about to throw my life
+       away for nothing either.
+
+[US#6213] (Lilka)
+  JP : 「みんなで戻ろうって<b:8a39>重したんだから / <b:8a39>重は、破っちゃいけないんだよッ！ / 絶対に<b:8a39>重は<b:8a3c>ってよッ！
+  LIT: We promised we'd all return together, and promises mustn't be broken! Keep the promise, no matter what!
+  RE : We promised we'd all return
+       together, and promises mustn't be
+       broken! Keep it, no matter what!
+
+[US#6214] (Lilka)
+  JP : 「<b:8a39>重、忘れないでよねッ！
+  LIT: Don't you forget the promise!
+  RE : Don't you forget the promise!
+
+[US#6215] (Tim)
+  JP : 「[05]ぉさんも早く準備してください / 時間はそんなに無いはずですから
+  LIT: {1}, please prepare quickly too; there shouldn't be much time left.
+  RE : {1}, please prepare quickly too.
+       There shouldn't be much time
+       left.
+
+[US#6216] (Ashley)
+  JP : 「俺もすぐに脱出準備をする / みんな、地上でまた式おうッ！
+  LIT: I'll prepare to escape right after; everyone, let's meet again on the ground!
+  RE : I'll prepare to escape right
+       after. Everyone, let's meet again
+       on the ground!
+
+[US#6217] (prompt)
+  JP : ＊入り口まで戻りますか？[18]か
+  LIT: Return to the entrance?
+  RE : Return to the entrance?
+
+[US#6218] (panel)
+  JP : ＊ドア開閉状況 / ロック レッド / オープン ブルー・グリーン
+  LIT: Door status: Locked, Red; Open, Blue and Green.
+  RE : Door status: Locked: Red. Open:
+       Blue, Green.
+
+[US#6219] (panel)
+  JP : ＊ドア開閉状況 / ロック レッド / オープン ブルー・グリーン
+  LIT: Door status: Locked, Red; Open, Blue and Green.
+  RE : Door status: Locked: Red. Open:
+       Blue, Green.
+
+[US#6220] (panel)
+  JP : ＊ドア開閉状況 / ロック ブルー / オープン レッド・グリーン
+  LIT: Door status: Locked, Blue; Open, Red and Green.
+  RE : Door status: Locked: Blue. Open:
+       Red, Green.
+
+[US#6221] (panel)
+  JP : ＊ドア開閉状況 / ロック ブルー / オープン レッド・グリーン
+  LIT: Door status: Locked, Blue; Open, Red and Green.
+  RE : Door status: Locked: Blue. Open:
+       Red, Green.
+
+[US#6222] (panel)
+  JP : ＊ドア開閉状況 / ロック グリーン / オープン レッド・ブルー
+  LIT: Door status: Locked, Green; Open, Red and Blue.
+  RE : Door status: Locked: Green. Open:
+       Red, Blue.
+
+[US#6223] (panel)
+  JP : ＊ドア開閉状況 / ロック グリーン / オープン レッド・ブルー
+  LIT: Door status: Locked, Green; Open, Red and Blue.
+  RE : Door status: Locked: Green. Open:
+       Red, Blue.
+
+[US#6224] (Brad)
+  JP : 「長くはないな〜 / まもなく、オデッサとの戦いに / 終止<b:8a49>が<b:8a4a>たれようとしている〜
+  LIT: Not long now; soon the war with Odessa will be brought to its close.
+  RE : Not long now. Soon the war with
+       Odessa will be brought to its
+       close.
+
+[US#6225] (Brad)
+  JP : 「僕たちは / 生きていかなければいけないッ！
+  LIT: We have to keep on living!
+  RE : We have to keep on living!
+
+[US#6226] (Brad)
+  JP : 「生きて渡らなければならぬ<b:8a4c>野があるッ！ / <b:8a4e>いの無い未発へ / <89eb>けなければいけない<89ec>があるッ！
+  LIT: There's a wilderness we must cross alive! A bridge we must build to a future without war!
+  RE : There's a wilderness we must
+       cross alive! A bridge we must
+       build to a future without war!
+
+[US#6228] (Lilka)
+  JP : 「通信機から[05]おの心の話が / 聞こえてきたんだッ！ / 信応谷が心を<b:8a4f>いでくれているッ！
+  LIT: I could hear the voice of {1}'s heart from the communicator! The Empathite is joining our hearts!
+  RE : I could hear the voice of {1}'s
+       heart from the communicator! The
+       Empathite joins our hearts!
+
+[US#6229] (Ashley)
+  JP : 「だいじょうぶだ / 脱出ポッドのロックは / ここのパネルから<b:8a50>作できる
+  LIT: It's all right: the escape pod's lock can be worked from this panel.
+  RE : It's all right: the escape pod's
+       lock can be worked from this
+       panel.
+
+[US#6230] (Ashley)
+  JP : 「そう、俺たちは終らない / まだまだやらなきゃいけないことが / たくさん残っているからな
+  LIT: That's right, we don't end here; there's still so much left we have to do.
+  RE : That's right, we don't end here.
+       There's still so much left we
+       have to do.
+
+[US#6231] (Marivel-ish observer)
+  JP : 「いいや、『英雄』ならば / これくらいのこと / あっておかしくはないか〜
+  LIT: No; if he's a "hero," something like this is hardly strange, is it.
+  RE : No; if he's a |hero|, something
+       like this is hardly strange, is
+       it.
+
+[US#6232] (Marivel)
+  JP : 「そっちはまかせたぞ / 僕は一足先に / ベッドで休ませてもらう
+  LIT: I leave that side to you; I'll be taking my rest in bed a step ahead.
+  RE : I leave that side to you. I'll be
+       taking my rest in bed a step
+       ahead.
+
+[US#6233] (Tim)
+  JP : 「でも、脱出ポッドの / ロックの解<b:8a53>方法がわかんないよ〜
+  LIT: But I don't know how to release the escape pod's lock...
+  RE : But I don't know how to release
+       the escape pod's lock...
+
+[US#6234] (Tim)
+  JP : 「どうしよう〜 / ボクは、どうすれば〜
+  LIT: What do I do? What should I do?
+  RE : What do I do? What should I do?
+
+[US#6235] (Tim)
+  JP : 「心を強く持つんだ〜 / みんなを<b:8a3c>りたいから / 強くなるんだ〜
+  LIT: Hold your heart strong; I'll grow strong because I want to protect everyone.
+  RE : Hold your heart strong. I'll grow
+       strong because I want to protect
+       everyone.
+
+[US#6236] (Pooka)
+  JP : 「絶望とは、<b:8a55>望を絶やすこと / それは、未発への可能性を / <b:8a56>定してしまうことなのダッ！
+  LIT: Despair is the extinguishing of hope; it is the denial of the future's very possibility!
+  RE : Despair is the extinguishing of
+       hope. It is the denial of the
+       future's very possibility!
+
+[US#6237] (Pooka)
+  JP : 「[05]が、キミは弱くなんかない / あきらめないキミの強さ〜 / それは、未発へきっと続くのダ
+  LIT: {3}, you are not weak; your never-giving-up strength will surely carry to the future.
+  RE : {3}, you are not weak. Your
+       never-giving-up strength will
+       surely carry to the future.
+
+[US#6239] (Ashley)
+  JP : 「通信機の信応谷が / 俺たちの心を / ひとつに<b:8a4f>いでくれているッ！
+  LIT: The communicator's Empathite is joining our hearts into one!
+  RE : The communicator's Empathite is
+       joining our hearts into one!
+
+[US#6240] (Ashley)
+  JP : 「だいじょうぶだ / 今すぐ、脱出ポッドのロックを外す / <b:8a57>り込んで待っていてくれ
+  LIT: It's all right: I'll undo the pod's lock right now; get in and wait for me.
+  RE : It's all right: I'll undo the
+       pod's lock right now. Get in and
+       wait for me.
+
+[US#6241] (Tim)
+  JP : 「わかりましたッ！ / ボクは脱出ポッドで待ってます / [05]ぉさんも急いでくださいッ！
+  LIT: Understood! I'll wait in the escape pod; please hurry too, {1}!
+  RE : Understood! I'll wait in the
+       escape pod. Please hurry too,
+       {1}!
+
+[US#6242] (Marivel)
+  JP : 「このポッドが / あたしの<b:8a58>にならぬよう<b:8a59>るとしよう / 〜<b:8a5a><b:8a5b>が悪すぎる
+  LIT: I shall pray this pod does not become my coffin; that would be in terribly poor taste.
+  RE : I shall pray this pod does not
+       become my coffin. That would be
+       in terribly poor taste.
+
+[US#6243] (Kanon)
+  JP : 「〜まさかッ！ / 墜落しているのではないッ！ / その<89c1>だッ！
+  LIT: ...It can't be! We're not falling; it's the reverse!
+  RE : ...It can't be! We're not
+       falling; it's the reverse!
+
+[US#6244] (Kanon)
+  JP : 「暴走した機関部は / ヘイムダル・ガッツォーを / <b:8a5c>に向かって〜
+  LIT: The runaway engines are driving Heimdal Gazzo toward the heavens...
+  RE : The runaway engines are driving
+       Heimdal Gazzo toward the
+       heavens...
+
+[US#6245] (Kanon)
+  JP : 「いや、星の道へと / 急上昇させているッ！ / このままでは〜
+  LIT: No: hurtling it up toward the sea of stars! At this rate...
+  RE : No: hurtling it up toward the sea
+       of stars! At this rate...
+
+[US#6247] (Ashley)
+  JP : 「様の心の話〜 / 通信機に込められた信応谷が / 俺のところに<b:8a5d>いてくれたッ！
+  LIT: The voice of your heart; the Empathite set in the communicator carried it to me!
+  RE : The voice of your heart; the
+       Empathite in the communicator
+       carried it to me!
+
+[US#6248] (Kanon)
+  JP : 「たしかに今〜 / ヘイムダル・ガッツォーの高度は / <b:8a5e><8a04>度的に上昇しているッ！
+  LIT: It's certain: Heimdal Gazzo's altitude is climbing at breakneck speed!
+  RE : It's certain: Heimdal Gazzo's
+       altitude is climbing at breakneck
+       speed!
+
+[US#6249] (Ashley)
+  JP : 「だが、あきらめるなッ！ / 俺たちはこんなところで / 終ってはいけないんだッ！
+  LIT: But don't give up! We must not end in a place like this!
+  RE : But don't give up! We must not
+       end in a place like this!
+
+[US#6250] (Kanon)
+  JP : 「そうか〜 / そうだな、終ってはいけない / 〜あたしにも聞こえるぞ
+  LIT: I see... that's right, we must not end; ...I can hear it too.
+  RE : I see... that's right, we must
+       not end. ...I can hear it too.
+
+[US#6251] (Kanon)
+  JP : 「お前の心の話に<b:8a5f>じって / 魔<b:8a60>の<8a27><8a28>が / あたしの心に続いてくる〜
+  LIT: Mixed into the voice of your heart, the demon's howl reaches my heart too.
+  RE : Mixed into the voice of your
+       heart, the demon's howl reaches
+       my heart too.
+
+[US#6252] (Kanon)
+  JP : 「安心しろ〜 / お前を<b:8a61>うのは、このあたしだ〜
+  LIT: Rest easy: the one who will exorcise you is me.
+  RE : Rest easy: the one who will
+       exorcise you is me.
+
+[US#6253] (Kanon)
+  JP : 「だから、お前も / 何としてでも生き<b:8a62>びろ / 〜いいな
+  LIT: So you too: survive, whatever it takes. ...Understood?
+  RE : So you too: survive, whatever it
+       takes. ...Understood?
+
+[US#6254] (Lilka)
+  JP : 「でも、ひとりはイヤだよ / いつもいっしょ〜 / みんないっしょでなきゃイヤだよ
+  LIT: But I hate being alone; always together; it has to be everyone together!
+  RE : But I hate being alone. Always
+       together; it has to be everyone
+       together!
+
+[US#6255] (Lilka)
+  JP : 「何とかしてよッ！ / わたしの魔法だけじゃ / 何ともならない、よ〜
+  LIT: Do something! My magic alone can't fix this...!
+  RE : Do something! My magic alone
+       can't fix this...!
+
+[US#6257] (Ashley)
+  JP : 「今から脱出ポッドの / ロックを解<b:8a53>する / だから、落ち着いて待っていて
+  LIT: I'm releasing the escape pod's lock now; so calm down and wait.
+  RE : I'm releasing the escape pod's
+       lock now. So calm down and wait.
+
+[US#6258] (Ashley)
+  JP : 「通信機の信応谷が / 俺たちの心を<b:8a4f>いでくれているから / キミはひとりぼっちじゃない
+  LIT: The communicator's Empathite is joining our hearts, so you are not alone.
+  RE : The communicator's Empathite is
+       joining our hearts, so you are
+       not alone.
+
+[US#6259] (Ashley)
+  JP : 「俺の話、続いているだろう？ / 〜キミの話も俺に続いている〜 / だから、だいじょうぶだッ！
+  LIT: My voice is reaching you, isn't it? Yours is reaching me too; so it's all right!
+  RE : My voice is reaching you, isn't
+       it? Yours is reaching me too. So
+       it's all right!
+
+[US#6260] (Lilka)
+  JP : 「ちょ、ちょっと / あんまりヘンなトコ（？）まで / のぞいたりしないでよねッ！
+  LIT: W-wait a second! Don't go peeking into any weird places (?!), all right?!
+  RE : W-wait a second! Don't go peeking
+       into any weird places (?!), all
+       right?!
+
+[US#6261] (Lilka)
+  JP : 「[05]ぉに伝えてないこと / まだ、たくさんあるんだからッ！
+  LIT: There's still so much I haven't told you, {1}!
+  RE : There's still so much I haven't
+       told you, {1}!
+
+[US#6262] (sleeper)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+[US#6263] (Lilka)
+  JP : 「でも〜 / はげましてくれて / ありがとう〜
+  LIT: But... thank you for cheering me on.
+  RE : But... thank you for cheering me
+       on.
+
+[US#6264] (Lilka)
+  JP : 「もう、だいじょうぶ / [05]ぉといっしょなら / へいき、へっちゃらだよッ！
+  LIT: I'm fine now; with you, {1}, I'm right as rain!
+  RE : I'm fine now. With you, {1}, I'm
+       right as rain!
+
+[US#6265] (Judecca)
+  JP : 「アークスマッシャーの試<b:8a3f>に / その身を<b:8a69>げること輝<b:8a6a>と思うがいい / ＡＲＭＳどもよ〜
+  LIT: Consider it an honor, you ARMS, to offer your bodies to the Arc Smasher's testing.
+  RE : Consider it an honor, you ARMS,
+       to offer your bodies to the Arc
+       Smasher's testing.
+
+[US#6266] (Judecca)
+  JP : 「その一撃は / <b:8a6d>星の<b:8a6e>きにも<b:8a6f>相し / あらゆるものを<b:8a70>き<b:8a71>くす〜
+  LIT: Its single blow rivals the light of a fixed star, burning all things to nothing.
+  RE : Its single blow rivals the light
+       of a fixed star, burning all
+       things to nothing.
+
+[US#6267] (Odessa officer)
+  JP : 「ヴィンスフェルト方の / 理想に<b:8a72>せぬ辺<b:8a73>な<b:8a74>よ / ここで<b:8a75>発するがいい〜
+  LIT: You vermin unfit for Sir Vinsfeld's ideal: you may vanish here.
+  RE : You vermin unfit for Sir
+       Vinsfeld's ideal: you may vanish
+       here.
+
+[US#6268] (Odessa gunner)
+  JP : 「<89d0>帯<8947>定、<b:8a78><b:8a79><b:8a7a>正〜 / いつでも〜 いけますッ！
+  LIT: Target locked, error corrected; ready any time!
+  RE : Target locked, error corrected;
+       ready any time!
+
+[US#6273] (Vinsfeld)
+  JP : 「亡者め、この私を / <b:8a83><b:8a84>魔<b:8a5d>へと招き込むハラかッ！ / そうはさせるかッ！ させるものかッ！
+  LIT: You revenant; you mean to drag me down to hell with you?! I won't allow it! Never!
+  RE : You revenant; you mean to drag me
+       down to hell with you?! I won't
+       allow it! Never!
+
+[US#6274] (Vinsfeld)
+  JP : 「『英雄』が起こした / 跡跡とでも言うつもりかッ！
+  LIT: Will you call it a miracle wrought by a "hero"?!
+  RE : Will you call it a miracle
+       wrought by a |hero|?!
+
+[US#6275] (Odessa officer)
+  JP : 「それはヴィンスフェルト方も / よく、ご存知のはずですッ！
+  LIT: That, Sir Vinsfeld, you should know better than anyone!
+  RE : That, Sir Vinsfeld, you should
+       know better than anyone!
+
+[US#6276] (Odessa officer)
+  JP : 「この場は<b:8a41>きます / 体<b:8a86>をたてなおし / ヘイムダル・ガッツォーにて必<b:8a87>を<b:8a7b>します
+  LIT: We withdraw for now; we regroup and stake certain victory at Heimdal Gazzo.
+  RE : We withdraw for now. We regroup
+       and stake certain victory at
+       Heimdal Gazzo.
+
+[US#6280] (Vinsfeld)
+  JP : 「そうだ、まだ切り<b:8a88>は / 我が手の街にあるのだから〜
+  LIT: Yes: the trump card still rests in my hand.
+  RE : Yes: the trump card still rests
+       in my hand.
+
+[US#6281] (Vinsfeld)
+  JP : 「そう、我々にはまだ / 『<b:8a89>』がある〜
+  LIT: Yes: we still have the "nuke."
+  RE : Yes: we still have the |nuke|.
+
+[US#6283] (Ashley)
+  JP : 「だけど、それ以上に大事なのは / 俺たち、ただのひとりも欠けることなく / ここに戻ってくるということだ
+  LIT: But what matters more is this: that we return here without a single one of us missing.
+  RE : But what matters more is this:
+       that we return here without a
+       single one of us missing.
+
+[US#6289] (Ashley)
+  JP : 「５人いたから / オデッサと戦い続けることができたんだ
+  LIT: It's because there were five of us that we could keep fighting Odessa.
+  RE : It's because there were five of
+       us that we could keep fighting
+       Odessa.
+
+[US#6290] (Ashley)
+  JP : 「だから / オデッサを倒したときも / ５人そろっていよう
+  LIT: So when we defeat Odessa, let's be five together still.
+  RE : So when we defeat Odessa, let's
+       be five together still.
+
+[US#6291] (Ashley)
+  JP : 「俺たち５人 / その時に誰か欠けていたとしたら / 何かがきっと足りないと思う〜
+  LIT: If any of the five of us were missing then, something would surely be lacking.
+  RE : If any of the five of us were
+       missing then, something would
+       surely be lacking.
+
+[US#6292] (party)
+  JP : 「いざという時は / ここから / ヴァレリアシャトーに帰還できる
+  LIT: If it comes to it, we can return to Valeria Chateau from here.
+  RE : If it comes to it, we can return
+       to Valeria Chateau from here.
+
+[US#6293] (Ashley)
+  JP : 「さあ、行くぞッ！ / みんなッ！
+  LIT: Now, let's go, everyone!
+  RE : Now, let's go, everyone!
+
+[US#6294] (Ashley)
+  JP : 「さあ、行くぞッ！ / みんなッ！
+  LIT: Now, let's go, everyone!
+  RE : Now, let's go, everyone!
+
+[US#6296] (Brad)
+  JP : 「お前の愚かな野望は / この僕が〜 / いや、僕たちが阻止する
+  LIT: Your foolish ambition, I will... no: WE will stop it.
+  RE : Your foolish ambition, I will...
+       no: WE will stop it.
+
+[US#6297] (Brad)
+  JP : 「お前に裏切られた / 仲間たちのためにもッ！
+  LIT: For the comrades you betrayed as well!
+  RE : For the comrades you betrayed as
+       well!
+
+[US#6298] (Brad)
+  JP : 「お前の愚かな野望は / この僕が〜 / いや、僕たちが阻止する
+  LIT: Your foolish ambition, I will... no: WE will stop it.
+  RE : Your foolish ambition, I will...
+       no: WE will stop it.
+
+[US#6299] (Brad)
+  JP : 「『あいつ』と / そして、トロメアと<b:8a39>重したのだ / お前が暴走する前に止めると
+  LIT: I promised "him," and Ptolomea too: to stop you before you ran wild.
+  RE : I promised |him|, and Ptolomea
+       too: to stop you before you ran
+       wild.
+
+[US#6300] (Brad)
+  JP : 「お前に裏切られ<b:8a8f>っていった / 解放<b:8a90>の仲間たちのためにも / お前を、止めてみせるッ！
+  LIT: For the Liberation Army comrades who fell betrayed by you, I WILL stop you!
+  RE : For the Liberation Army comrades
+       who fell betrayed by you, I WILL
+       stop you!
+
+[US#6301] (Vinsfeld)
+  JP : 「お前のような<895e>いモノが / この私を止めるだと？
+  LIT: A stray like you, stop ME?
+  RE : A stray like you, stop ME?
+
+[US#6302] (Vinsfeld)
+  JP : 「<b:8a91>わせるなッ！
+  LIT: Don't make me laugh!
+  RE : Don't make me laugh!
+
+[US#6303] (Vinsfeld)
+  JP : 「たとえ『英雄』であろうと / この私を止めることなどできんッ！
+  LIT: Even a "hero" cannot stop me!
+  RE : Even a |hero| cannot stop me!
+
+[US#6305] (Vinsfeld)
+  JP : 「よくも、私のアンテノーラを…… / 何があろうと許すことはできん / <b:8a94><b:8a95>に死ねると思うなッ！
+  LIT: How dare you... my Antenora... whatever happens, I will not forgive it. Don't think you'll die easily!
+  RE : How dare you... my Antenora...
+       I will not forgive it. Don't
+       think you'll die easily!
+
+[US#6306] (Vinsfeld)
+  JP : 「我が理想は / お前らごときに止められるほど / <b:8a96>々しいモノではないッ！
+  LIT: My ideal is not so paltry a thing that the likes of you could stop it!
+  RE : My ideal is not so paltry a thing
+       that the likes of you could stop
+       it!
+
+[US#6307] (Vinsfeld)
+  JP : 「ここから生きて帰れると思うな / 我が魔<b:8a97>、『<b:8a98>気谷<89f4>』にて / <b:8a99>り<b:8a9a>ってくれる
+  LIT: Don't think you'll leave here alive; my demon blade, "Mad Mountain Range," will cut you down.
+  RE : Don't think you'll leave here
+       alive; my demon blade, |Mad
+       Mountains|, will cut you down.
+
+[US#6308] (Vinsfeld)
+  JP : 「<b:8a9b>配者の手で<b:8a9c>られること / 輝<b:8a6a>と知るがいいッ！
+  LIT: Know it for an honor to be slain by the ruler's own hand!
+  RE : Know it for an honor to be slain
+       by the ruler's own hand!
+
+[US#6309] (Vinsfeld)
+  JP : 「我らオデッサは / ファルガイアを更代へと<b:8a5d>く / 開<b:8aa1>者であったッ！
+  LIT: We, Odessa, were the pioneers to lead Filgaia into the next age!
+  RE : We, Odessa, were the pioneers to
+       lead Filgaia into the next age!
+
+[US#6310] (Vinsfeld)
+  JP : 「このままでは人間という<b:8aac>の / <b:8aad>界を<88cc>えようとしているのだぞ
+  LIT: At this rate, what comes will exceed the limits of the human race.
+  RE : At this rate, what comes will
+       exceed the limits of the human
+       race.
+
+[US#6311] (Vinsfeld)
+  JP : 「地にあふれるモンスターどもに<b:8aae>うには / すべて人は力の辺に / <b:8a9f>一されなければならない〜
+  LIT: To stand against the monsters flooding the land, all humanity must be unified under power.
+  RE : To stand against the monsters
+       flooding the land, all humanity
+       must be unified under power.
+
+[US#6312] (Vinsfeld)
+  JP : 「それが、これから<8915>り発る / 脅威に対する / <b:8aaf>一絶対の方法だったのだ〜
+  LIT: That was the one absolute answer to the threat descending upon us.
+  RE : That was the one absolute answer
+       to the threat descending upon us.
+
+[US#6313] (Brad)
+  JP : 「バカなッ！ / モンスターを<b:8a50>り、地に<b:8ab0>れさせたのは / お前たちオデッサではないかッ！
+  LIT: Absurd! It was you, Odessa, who drove the monsters and flooded the land with them!
+  RE : Absurd! It was you, Odessa, who
+       drove the monsters and flooded
+       the land with them!
+
+[US#6314] (Vinsfeld)
+  JP : 「<b:8a85>方にも<b:8ab1>が願い / 『降魔<b:8ab2>儀』を用いてな〜
+  LIT: We had our uses for them too, by way of the "Demon Summoning" you know so well.
+  RE : We had our uses for them too, by
+       way of the |Demon Summoning| you
+       know so well.
+
+[US#6315] (Vinsfeld)
+  JP : 「だが考えてもみろ / この<88a5><b:8a7b>間にこれだけのモンスターを / 放つすべがあるというのか？
+  LIT: But think: is there any way to loose this many monsters in so short a span?
+  RE : But think: is there any way to
+       loose this many monsters in so
+       short a span?
+
+[US#6316] (Vinsfeld)
+  JP : 「制<89c7>できないモンスターを / 無特<b:8ab3>に生み出す<b:8a9d><8875>に / 何の意<b:8a5b>がある？
+  LIT: What meaning is there in mindlessly spawning monsters that cannot be controlled?
+  RE : What meaning is there in
+       mindlessly spawning monsters that
+       cannot be controlled?
+
+[US#6317] (Vinsfeld)
+  JP : 「ならばうぬらも / ヘイムダル・ガッツォーとともに / 墜ちるがいいッ！
+  LIT: Then you too may fall together with Heimdal Gazzo!
+  RE : Then you too may fall together
+       with Heimdal Gazzo!
+
+[US#6319] (party)
+  JP : 「[05]ぉッ！
+  LIT: {1}!
+  RE : {1}!
+
+[US#6320] (party)
+  JP : 「これだけ<88bf>大な空中要<885e>だ / 脱出ポッドくらい用意されているはず / そいつを探し出すぞ
+  LIT: A flying fortress this vast must have escape pods; let's find them.
+  RE : A flying fortress this vast must
+       have escape pods. Let's find
+       them.
+
+[US#6324] (Ashley)
+  JP : 「今までと同じ<b:8abc>回を / ただの回世を取り戻すために / 俺は戦ってきたんだ
+  LIT: I've fought to take back the same ordinary days we had before; nothing more.
+  RE : I've fought to take back the same
+       ordinary days we had before.
+       Nothing more.
+
+[US#6325] (Vinsfeld)
+  JP : 「くだらぬ / そのようなモノのために / 我らが理想に<b:8a8a>を突き立てたというのかッ！
+  LIT: Worthless! For something like THAT you drove a blade into our ideal?!
+  RE : Worthless! For something like
+       THAT you drove a blade into our
+       ideal?!
+
+[US#6326] (Vinsfeld)
+  JP : 「この私に / 終りなどというものが<b:8abf>れるなど / あってはならぬことだったからな〜
+  LIT: For an "end" to come calling on ME was a thing that must never be.
+  RE : For an end to come calling on ME
+       was a thing that must never be.
+
+[US#6327] (Vinsfeld)
+  JP : 「いいだろう / <b:8ac0>の終りを<b:8ac1>めるならくれてやる / 完全なる『終<b:8ac2>』をなッ！
+  LIT: Very well: if you seek the feast's end, I shall grant it: a perfect and total "finale"!
+  RE : Very well: if you seek the
+       feast's end, I shall grant it: a
+       perfect and total |finale|!
+
+[US#6328] (Vinsfeld)
+  JP : 「そして〜 / ファルガイアも終るのだッ！
+  LIT: And with it, Filgaia too shall end!
+  RE : And with it, Filgaia too shall
+       end!
+
+[US#6329] (Brad)
+  JP : 「ギルドグラードから強<b:8ac3>した / 戦<b:8ac4><b:8a89>同時を / 発<b:8a3f>するつもりなのかッ！
+  LIT: You mean to launch the strategic nuclear weapon you stole from Guild Galad?!
+  RE : You mean to launch the strategic
+       nuclear weapon you stole from
+       Guild Galad?!
+
+[US#6339] (Ashley)
+  JP : 「まにあってくれッ！ / 脱出ポッドッ！
+  LIT: Make it in time! Escape pod!
+  RE : Make it in time! Escape pod!
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#6227] SKIPPED - no content box in decode
+[US#6238] SKIPPED - no content box in decode
+[US#6246] SKIPPED - no content box in decode
+[US#6256] SKIPPED - no content box in decode
+[US#6269] SKIPPED - no content box in decode
+[US#6270] SKIPPED - no content box in decode
+[US#6271] SKIPPED - no content box in decode
+[US#6272] SKIPPED - no content box in decode
+[US#6277] SKIPPED - no content box in decode
+[US#6278] SKIPPED - no content box in decode
+[US#6279] SKIPPED - no content box in decode
+[US#6282] SKIPPED - no content box in decode
+[US#6284] SKIPPED - no content box in decode
+[US#6285] SKIPPED - no content box in decode
+[US#6286] SKIPPED - no content box in decode
+[US#6287] SKIPPED - no content box in decode
+[US#6288] SKIPPED - no content box in decode
+[US#6295] SKIPPED - no content box in decode
+[US#6304] SKIPPED - no content box in decode
+[US#6318] SKIPPED - no content box in decode
+[US#6321] SKIPPED - no content box in decode
+[US#6322] SKIPPED - no content box in decode
+[US#6323] SKIPPED - no content box in decode
+[US#6330] SKIPPED - no content box in decode
+[US#6331] SKIPPED - no content box in decode
+[US#6332] SKIPPED - no content box in decode
+[US#6333] SKIPPED - no content box in decode
+[US#6334] SKIPPED - no content box in decode
+[US#6335] SKIPPED - no content box in decode
+[US#6336] SKIPPED - no content box in decode
+[US#6337] SKIPPED - no content box in decode
+[US#6338] SKIPPED - no content box in decode
+[US#6340] SKIPPED - no content box in decode
+[US#6341] SKIPPED - no content box in decode
