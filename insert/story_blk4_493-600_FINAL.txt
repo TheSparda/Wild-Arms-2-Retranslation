@@ -1,0 +1,389 @@
+# WA2 — Block 4, US#493-600 — FINAL (Town Meria homecoming: Marina, the kids, town warmth, part 1)
+# =========================================================================================
+# Early-game Town Meria homecoming after Ashley's rescue: the baker (Marina) baking for everyone,
+# townsfolk on waiting for loved ones, Marina's apology and vow to wait, the kids' hero worship
+# ("Hero of Meria" chants), Tim's charm credited for Ashley's safety, the falling-in-love girl,
+# and the cheerful "it'll all work out!" girl. Warm small-town register. JP-primary; EN aligns
+# well in this early block. SKIPPED slots at end.
+
+[US#493] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#494] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#495] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#496] (Marina)
+  JP : 「じゃあ、わたしは / みんなのために / たくさん、たくさんパンを焼きましょう
+  LIT: Well then, I'll bake lots and lots of bread for everyone!
+  RE : Well then, I'll bake lots and
+       lots of bread for everyone!
+
+[US#497] (Marina)
+  JP : 「お<b:8a56>が空いて、くじけても / もう一度元気になれる / ヤキソバパンを焼いておくわ
+  LIT: Even if hunger gets you down, I'll have yakisoba buns baked that'll perk you right back up.
+  RE : Even if hunger gets you down,
+       I'll have yakisoba buns baked to
+       perk you right back up.
+
+[US#498] (townsperson)
+  JP : 「すぐに / いつもの[0a]かに戻るから
+  LIT: She'll be back to her usual self, {2}, in no time.
+  RE : She'll be back to her usual self,
+       {2}, in no time.
+
+[US#499] (townsperson)
+  JP : 「ケンカしても / すぐに仲<8865>りできるのが / あなたと[0a]かじゃない
+  LIT: Even when you quarrel, making up right away, that's you and {2} all over, isn't it?
+  RE : Even when you quarrel, making up
+       right away; that's you and {2}
+       all over, isn't it?
+
+[US#500] (townsperson)
+  JP : 「ありがとうございます〜
+  LIT: Thank you so much.
+  RE : Thank you so much.
+
+[US#501] (townsperson)
+  JP : 「だから、早く行ってあげて / あの家の心が / 不安に<b:8a58>りつぶされないうちに〜
+  LIT: So go to her quickly, before that girl's heart is crushed by worry.
+  RE : So go to her quickly, before that
+       girl's heart is crushed by worry.
+
+[US#502] (townsperson)
+  JP : 「どうか、[0a]かをお願いします〜 / わたしができることは / みなさんに全てを<b:8a59>すことくらいです
+  LIT: Please, look after {2}; all I can do is entrust everything to you.
+  RE : Please, look after {2}. All I can
+       do is entrust everything to you.
+
+[US#503] (townswoman)
+  JP : 「[05]ぉが行方不次の時 / 本当にそう思ったのよ〜
+  LIT: When {1} went missing, I truly felt it.
+  RE : When {1} went missing, I truly
+       felt it.
+
+[US#504] (townswoman)
+  JP : 「誰かを待たせているのなら / 必ず帰ってくるくらいの / 意気込みで行ってこなくっちゃ
+  LIT: If someone's waiting for you, you must set out resolved to come home without fail.
+  RE : If someone's waiting for you, you
+       must set out resolved to come
+       home without fail.
+
+[US#505] (townswoman)
+  JP : 「誰かを待たせているのなら / 必ず帰ってくるくらいの / 意気込みで行ってこなくっちゃ
+  LIT: If someone's waiting for you, you must set out resolved to come home without fail.
+  RE : If someone's waiting for you, you
+       must set out resolved to come
+       home without fail.
+
+[US#506] (townsperson)
+  JP : 「たまには / 帰ってきてあげてね
+  LIT: Do come home now and then, won't you?
+  RE : Do come home now and then, won't
+       you?
+
+[US#507] (townsperson)
+  JP : 「無事だったからいいけど / あんまり心配させないでよ〜 / お願いだから〜
+  LIT: It's fine since you're safe, but don't worry us so; please.
+  RE : It's fine since you're safe, but
+       don't worry us so. Please.
+
+[US#508] (townsperson)
+  JP : 「本当にありがとうございます / なんてお礼を言ったらいいか〜
+  LIT: Thank you, truly; I don't know how to thank you enough.
+  RE : Thank you, truly. I don't know
+       how to thank you enough.
+
+[US#509] (Marina)
+  JP : 「私、あなたを信じて待ってるから / ずっとずっと、待ってるから
+  LIT: I'll believe in you and wait; I'll wait forever and ever.
+  RE : I'll believe in you and wait.
+       I'll wait forever and ever.
+
+[US#510] (Marina)
+  JP : 「〜だから、必ず帰って来てね / 私との<b:8a62>重、必ず乗ってね / 〜必ず〜〜
+  LIT: So come home without fail; keep your promise to me, without fail... without fail...
+  RE : So come home without fail. Keep
+       your promise to me, without
+       fail... without fail...
+
+[US#511] (Marina)
+  JP : 「あの〜 [05]ぉのこと / よろしくお願いします〜
+  LIT: Um... please take good care of {1} for me.
+  RE : Um... please take good care of
+       {1} for me.
+
+[US#512] (Marina)
+  JP : 「〜待つのがこんなにも / ツライことだなんて初めて知ったわ〜
+  LIT: I never knew until now how painful waiting could be.
+  RE : I never knew until now how
+       painful waiting could be.
+
+[US#513] (townsperson)
+  JP : 「そういえば、[05]おさんは / 今回は、いらっしゃらないのですか？
+  LIT: Come to think of it, is {1} not with you today?
+  RE : Come to think of it, is {1} not
+       with you today?
+
+[US#516] (Marina)
+  JP : 「〜そう、私はそれを認めて / 受け入れなくちゃいけなかったのに / 今まで、ごめんなさい〜[05]ぉ〜
+  LIT: Yes: I should have acknowledged it and accepted it; I'm sorry it took me this long, {1}.
+  RE : Yes: I should have acknowledged
+       it and accepted it. I'm sorry it
+       took me this long, {1}.
+
+[US#523] (kid)
+  JP : 「お配達になってもらえるかな？
+  LIT: Will you be my friend?
+  RE : Will you be my friend?
+
+[US#528] (townsperson)
+  JP : 「でも、前はあんなに場には / 近づいてこなかったはずなのに〜 / あの空のせいなのかな？
+  LIT: But it never used to come so close to town; is it because of that sky, I wonder?
+  RE : But it never used to come so
+       close to town. Is it because of
+       that sky, I wonder?
+
+[US#529] (townswoman)
+  JP : 「あ、あなたたちが助けてくれたのよね
+  LIT: Ah, it was you who rescued her, wasn't it?
+  RE : Ah, it was you who rescued her,
+       wasn't it?
+
+[US#530] (townswoman)
+  JP : 「ま、他力本願な私が / 言えることじゃないけど〜
+  LIT: Well, it's not my place to talk, leaning on others as I do.
+  RE : Well, it's not my place to talk,
+       leaning on others as I do.
+
+[US#531] (townsperson)
+  JP : 「まったく、この果報者〜ッ！
+  LIT: Honestly, you lucky devil!
+  RE : Honestly, you lucky devil!
+
+[US#533] (kid)
+  JP : 「『タウンメリアの英雄[05]お』
+  LIT: "{1}, Hero of Town Meria!"
+  RE : |{1}, Hero of Town Meria!|
+
+[US#535] (kid)
+  JP : 「『タウンメリアの英雄[05]か』 / 〜えッ！ / タウンメリアの出身じゃないの？
+  LIT: "{2}, Hero of Town Meria!" ...Huh? You're not from Town Meria?
+  RE : |{2}, Hero of Town Meria!| ...Huh?
+       You're not from Town Meria?
+
+[US#536] (kid)
+  JP : 「『タウンメリアの英雄[05]が』 / 〜えッ！ / タウンメリアの出身じゃないの？
+  LIT: "{3}, Hero of Town Meria!" ...Huh? You're not from Town Meria?
+  RE : |{3}, Hero of Town Meria!| ...Huh?
+       You're not from Town Meria?
+
+[US#538] (kid)
+  JP : 「〜あ、でも / 一番は、[0a]かちゃんにか〜
+  LIT: Oh, but I guess {2} gets to hear it first.
+  RE : Oh, but I guess {2} gets to hear
+       it first.
+
+[US#539] (kid)
+  JP : 「パンだけだと思うけど〜
+  LIT: Though I think it's just bread.
+  RE : Though I think it's just bread.
+
+[US#540] (kid)
+  JP : 「パンだけだと思うけど〜
+  LIT: Though I think it's just bread.
+  RE : Though I think it's just bread.
+
+[US#544] (kid)
+  JP : 「僕も大きくなったら / あんちゃんみたくなるからなッ！
+  LIT: When I grow up, I'm gonna be just like you, mister!
+  RE : When I grow up, I'm gonna be just
+       like you, mister!
+
+[US#546] (kid)
+  JP : 「あれ？ 全部『あ』ではじまっちゃった
+  LIT: Huh? They all started with "A"!
+  RE : Huh? They all started with "A"!
+
+[US#549] (kid)
+  JP : 「良かったッ！ / 無事だったんだなッ！
+  LIT: Thank goodness! You're safe!
+  RE : Thank goodness! You're safe!
+
+[US#550] (kid)
+  JP : 「そーだよなッ！ / 遺跡のモンスターもやっつけちゃうんだもん / あんちゃんが、やられるわけないよなッ！
+  LIT: Right?! You beat the ruins monsters and everything; no way you'd lose, mister!
+  RE : Right?! You beat the ruins
+       monsters and everything. No way
+       you'd lose, mister!
+
+[US#551] (kid)
+  JP : 「知らなかった〜 / あんちゃん / 僕たち以外にも配達いたんだ〜
+  LIT: I never knew; mister, you had friends besides us?
+  RE : I never knew. Mister, you had
+       friends besides us?
+
+[US#554] (courtier)
+  JP : 「[05]ぉさんが無事だったのも / [05]がくんの差し上げた / お乗りがあったからでは、ないでしょうか
+  LIT: Perhaps {1} came through safe because of the charm {3} gave him.
+  RE : Perhaps {1} came through safe
+       because of the charm {3} gave
+       him.
+
+[US#555] (courtier)
+  JP : 「[05]ぉさんに / わたくしたち以外にも / お配達がいて安心しました
+  LIT: I am relieved to know {1} has friends besides ourselves.
+  RE : I am relieved to know {1} has
+       friends besides ourselves.
+
+[US#566] (elder)
+  JP : 「若いモンは / それくらい悪運が強くて / しぶとくなくちゃイカン
+  LIT: Young folk ought to have just that kind of devil's luck and stubbornness.
+  RE : Young folk ought to have just
+       that kind of devil's luck and
+       stubbornness.
+
+[US#570] (elder)
+  JP : 「でも、たまには帰ってきて / [0a]かちゃんを / 安心させてあげなくちゃダメだよ
+  LIT: But you must come home now and then and put {2} at ease.
+  RE : But you must come home now and
+       then and put {2} at ease.
+
+[US#573] (elder)
+  JP : 「あんまり、[0a]かちゃんを / 心配させないようになぁ
+  LIT: Don't go worrying {2} too much now, you hear?
+  RE : Don't go worrying {2} too much
+       now, you hear?
+
+[US#581] (girl)
+  JP : 「でも、人を『好き』になる気持ちって / なんだか不思議だね / いつの間にか『好き』になってるんだもん
+  LIT: But the feeling of coming to love someone is a strange thing; before you know it, you're in love.
+  RE : The feeling of coming to love
+       someone is strange. Before you
+       know it, you're in love.
+
+[US#583] (girl)
+  JP : 「〜もしかして、私〜 / 〜でも、そんなことは〜
+  LIT: ...Could it be that I... no, surely not...
+  RE : ...Could it be that I... no,
+       surely not...
+
+[US#584] (girl)
+  JP : 「今、世界が大変なことになってるのに / あの人と話していると / なんだか心が落ち着くの
+  LIT: Even with the world in such trouble, talking with him somehow puts my heart at ease.
+  RE : Even with the world in such
+       trouble, talking with him somehow
+       puts my heart at ease.
+
+[US#585] (girl)
+  JP : 「そんなに頼りがいが / あるってわけでも、ないんだけどね / なんでかな？
+  LIT: It's not as if he's especially dependable, either; I wonder why?
+  RE : It's not as if he's especially
+       dependable, either. I wonder why?
+
+[US#590] (townsperson)
+  JP : 「そうですか〜 / ヴァレリアシャトーも決して / 安全ではないのですね
+  LIT: I see... so not even Valeria Chateau is truly safe.
+  RE : I see... so not even Valeria
+       Chateau is truly safe.
+
+[US#592] (townswoman)
+  JP : 「あぁ〜 / いったい私たちは / どうなってしまうのかしら〜
+  LIT: Oh my... whatever will become of us?
+  RE : Oh my... whatever will become of
+       us?
+
+[US#597] (cheerful girl)
+  JP : 「だいじょーぶッ！ / なんとかなるってばッ！ / アタシが言うんだから間違いないよッ！
+  LIT: It's fiiine! It'll work out, I'm telling you! And if I say so, it's certain!
+  RE : It's fiiine! It'll work out, I'm
+       telling you! If I say so, it's
+       certain!
+
+[US#598] (cheerful girl)
+  JP : 「ま、そのくらい / 気楽に、前向きに行こうってことだよ
+  LIT: Well, the point is: take it easy and stay positive, that much at least.
+  RE : Well, the point is: take it easy
+       and stay positive, that much at
+       least.
+
+[US#599] (cheerful girl)
+  JP : 「だいじょーぶッ！ / なんとかなるってばッ！ / アタシが言うんだから間違いないよッ！
+  LIT: It's fiiine! It'll work out, I'm telling you! And if I say so, it's certain!
+  RE : It's fiiine! It'll work out, I'm
+       telling you! If I say so, it's
+       certain!
+
+[US#600] (cheerful girl)
+  JP : 「ま、そのくらい / 気楽に、前向きに行こうってことだよ
+  LIT: Well, the point is: take it easy and stay positive, that much at least.
+  RE : Well, the point is: take it easy
+       and stay positive, that much at
+       least.
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#514] SKIPPED - no content box in decode
+[US#515] SKIPPED - no content box in decode
+[US#517] SKIPPED - no content box in decode
+[US#518] SKIPPED - no content box in decode
+[US#519] SKIPPED - no content box in decode
+[US#520] SKIPPED - no content box in decode
+[US#521] SKIPPED - no content box in decode
+[US#522] SKIPPED - no content box in decode
+[US#524] SKIPPED - no content box in decode
+[US#525] SKIPPED - no content box in decode
+[US#526] SKIPPED - no content box in decode
+[US#527] SKIPPED - no content box in decode
+[US#532] SKIPPED - no content box in decode
+[US#534] SKIPPED - no content box in decode
+[US#537] SKIPPED - no content box in decode
+[US#541] SKIPPED - no content box in decode
+[US#542] SKIPPED - no content box in decode
+[US#543] SKIPPED - no content box in decode
+[US#545] SKIPPED - no content box in decode
+[US#547] SKIPPED - no content box in decode
+[US#548] SKIPPED - no content box in decode
+[US#552] SKIPPED - no content box in decode
+[US#553] SKIPPED - no content box in decode
+[US#556] SKIPPED - no content box in decode
+[US#557] SKIPPED - no content box in decode
+[US#558] SKIPPED - no content box in decode
+[US#559] SKIPPED - no content box in decode
+[US#560] SKIPPED - no content box in decode
+[US#561] SKIPPED - no content box in decode
+[US#562] SKIPPED - no content box in decode
+[US#563] SKIPPED - no content box in decode
+[US#564] SKIPPED - no content box in decode
+[US#565] SKIPPED - no content box in decode
+[US#567] SKIPPED - no content box in decode
+[US#568] SKIPPED - no content box in decode
+[US#569] SKIPPED - no content box in decode
+[US#571] SKIPPED - no content box in decode
+[US#572] SKIPPED - no content box in decode
+[US#574] SKIPPED - no content box in decode
+[US#575] SKIPPED - no content box in decode
+[US#576] SKIPPED - no content box in decode
+[US#577] SKIPPED - no content box in decode
+[US#578] SKIPPED - no content box in decode
+[US#579] SKIPPED - no content box in decode
+[US#580] SKIPPED - no content box in decode
+[US#582] SKIPPED - no content box in decode
+[US#586] SKIPPED - no content box in decode
+[US#587] SKIPPED - no content box in decode
+[US#588] SKIPPED - no content box in decode
+[US#589] SKIPPED - no content box in decode
+[US#591] SKIPPED - no content box in decode
+[US#593] SKIPPED - no content box in decode
+[US#594] SKIPPED - no content box in decode
+[US#595] SKIPPED - no content box in decode
+[US#596] SKIPPED - no content box in decode
