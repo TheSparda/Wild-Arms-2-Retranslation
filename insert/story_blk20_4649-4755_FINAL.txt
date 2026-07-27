@@ -1,0 +1,575 @@
+# WA2 — Block 20, US#4649-4755 — FINAL (Guild Galad part 1: tech-pride NPCs, Master's apology, Full Clip)
+# =========================================================================================
+# Guild Galad city-state arc: tech-brag townsfolk ("Guild Galad's technology!"), pollution
+# guilt, the dragon-fossil fuel blasphemy, the Master's apology after the nuke train ("we
+# reaped what we sowed"), the spy suspicion (who told Odessa the nuke was aboard?), the
+# scientist's Full Clip ARM gift, the Master's son's changed heart, Ley-Point tips (coiled-
+# snake isle), and the waiting-girlfriend vignette. JP-primary; EN aligns fairly well.
+
+[US#4649] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4650] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#4651] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#4652] (innkeeper)
+  JP : 「あの、そのお礼と言ってはなんですが / 渡り<b:8a5f>の方からお聞きしたコトを / <b:8a60>えてあげましょう
+  LIT: Well, call it a thank-you: let me share something I heard from a Drifter.
+  RE : Well, call it a thank-you: let me
+       share something I heard from a
+       Drifter.
+
+[US#4653] (innkeeper)
+  JP : 「ココから先側にある大きな他より / [11]お更に先側の他[11]ぉには / 何かの遺跡のようなモノがあるそうなんです
+  LIT: Beyond the big island off yonder, on the isle farther yet, there's said to be something like ruins.
+  RE : Beyond the big island off yonder,
+       on the |isle farther yet|, there
+       are said to be ruins.
+
+[US#4654] (innkeeper)
+  JP : 「まぁ、<b:8a61>なる<89e6>かもしれませんけど / お役に立てたらうれしいですね
+  LIT: Well, it may be mere rumor, but I'd be glad if it helps.
+  RE : Well, it may be mere rumor, but
+       I'd be glad if it helps.
+
+[US#4655] (innkeeper)
+  JP : 「でも、あの同隊さんは / いつも緒まってくれるのよ / ありがたいけど〜 お金、大<b:8a3e><b:8a3f>なのかな？
+  LIT: That soldier always lodges here; I'm grateful, but is his money all right, I wonder?
+  RE : That soldier always lodges here.
+       I'm grateful, but is his money
+       all right, I wonder?
+
+[US#4656] (kid)
+  JP : 「とても、うれしかったよ / 同隊って、恐そうなイメージがあったけど / あの同隊さんはやさしかったな
+  LIT: It made me really happy; I'd pictured soldiers as scary, but that soldier was kind.
+  RE : It made me really happy. I'd
+       pictured soldiers as scary, but
+       that soldier was kind.
+
+[US#4657] (kid)
+  JP : 「なんでだろ？
+  LIT: I wonder why?
+  RE : I wonder why?
+
+[US#4658] (townsperson)
+  JP : 「ギルドグラードの<b:8a65><b:8a66>力は / 世界一ぃぃぃぃッ！
+  LIT: Guild Galad's technology is number one in the woooorld!
+  RE : Guild Galad's technology is
+       number one in the woooorld!
+
+[US#4659] (townsperson)
+  JP : 「アンタの<89de><b:8a69>はどうなの？ / やっぱり、<b:8a6a><b:8a6b>？ / そっかそっか、やっぱりそうだろうなぁ
+  LIT: What's your hometown like? Still well water, right? Thought so, thought so.
+  RE : What's your hometown like? Still
+       well water, right? Thought so,
+       thought so.
+
+[US#4660] (townsperson)
+  JP : 「ここは、<8a13><b:8a50><b:8a51><b:8a52>置<b:8a6c>ギルドグラードッ！ / ハイテクな場だぜ
+  LIT: This is the industrial city-state Guild Galad! A high-tech town!
+  RE : This is the industrial city-state
+       Guild Galad! A high-tech town!
+
+[US#4661] (townsperson)
+  JP : 「あ、ごめん / ちょっと不<b:8a6f><b:8a70>だったね〜
+  LIT: Oh, sorry; that was a bit tactless of me.
+  RE : Oh, sorry. That was a bit
+       tactless of me.
+
+[US#4662] (engineer)
+  JP : 「我々のしていることは / <b:8a76>とドラゴンに対する / いわば冒<b:8a77>行為じゃからな〜
+  LIT: What we do is, so to speak, blasphemy against the gods and the Dragons.
+  RE : What we do is, so to speak,
+       blasphemy against the gods and
+       the Dragons.
+
+[US#4663] (engineer)
+  JP : 「はるか<b:8a7c> / このファルガイアに様<b:8a7d>していた / 恐るべき<b:8a7e>配者の<b:8a7f>だッ！
+  LIT: Long ago, these were the bones of the fearsome rulers who reigned over this Filgaia!
+  RE : Long ago, these were the bones of
+       the fearsome rulers who reigned
+       over this Filgaia!
+
+[US#4664] (braggart)
+  JP : 「ギルドグラードの<b:8a42><b:8a5b>力を持ってすれば / あの<b:8a88>ねぇ空なんか / イッパツでクリーンにしてやれるぜッ！
+  LIT: With Guild Galad's tech, we'd have that filthy sky clean in one shot!
+  RE : With Guild Galad's tech, we'd
+       have that filthy sky clean in one
+       shot!
+
+[US#4665] (braggart)
+  JP : 「ギルドグラードの<b:8a42><b:8a5b>力を持ってすれば / 核ドラゴンの１<b:8a89>や２<b:8a89> / イチコロだぜッ！
+  LIT: With Guild Galad's tech, one or two Nuclear Dragons would be a pushover!
+  RE : With Guild Galad's tech, one or
+       two Nuclear Dragons would be a
+       pushover!
+
+[US#4666] (braggart)
+  JP : 「ギルドグラードの<b:8a42><b:8a5b>力を持ってすれば / オデッサに核を撃たれる前に / なんとかできたものをッ！
+  LIT: With Guild Galad's tech, we could have done something before Odessa fired the nuke!
+  RE : With Guild Galad's tech, we could
+       have done something before Odessa
+       fired the nuke!
+
+[US#4667] (braggart)
+  JP : 「ギルドグラードの<b:8a42><b:8a5b>力を持ってすれば / オデッサの<88e6>帯の１コや２コ / <b:8a8a><b:8a61>に滅滅してやるぜ
+  LIT: With Guild Galad's tech, we'd smash an Odessa base or two with ease!
+  RE : With Guild Galad's tech, we'd
+       smash an Odessa base or two with
+       ease!
+
+[US#4668] (townswoman)
+  JP : 「きっと今まで、ファルガイアを / <b:8a88>してきた<b:8a8b>なのでしょう〜
+  LIT: Surely this is the punishment for having polluted Filgaia all this time.
+  RE : Surely this is the punishment for
+       having polluted Filgaia all this
+       time.
+
+[US#4669] (townswoman)
+  JP : 「でもね、<8a13>場から出る<b:8a88>れた水を / 道へ流すのはオデッサと同じくらい / 悪いことだと思うの
+  LIT: But you know, dumping factory wastewater into the sea is as evil as anything Odessa did, I think.
+  RE : But dumping factory wastewater
+       into the sea is as evil as
+       anything Odessa did, I think.
+
+[US#4670] (townswoman)
+  JP : 「ギルドグラードでは / いろいろな<b:8a8f>り物を開発しているけど / アタシには、必要ないわ
+  LIT: Guild Galad develops all sorts of vehicles, but I have no need of them.
+  RE : Guild Galad develops all sorts of
+       vehicles, but I have no need of
+       them.
+
+[US#4671] (Master)
+  JP : 「はやく聞くコト聞き出して / <8a03><8a04>かつ確実かつ<b:8a70>重に対<b:8a90>してくれ / もちろん、ワシらも助力はおしまないぞ
+  LIT: Learn what you must quickly, then act swiftly, surely, and prudently; of course, we'll spare no aid.
+  RE : Learn what you must quickly, then
+       act swiftly, surely, prudently.
+       We'll spare no aid.
+
+[US#4672] (Master)
+  JP : 「しかし、ドラゴンとは良い生き物だな / 死んでいても生きていても / ワシに利<b:8a91>をもたらしてくれるッ
+  LIT: But Dragons are fine creatures: dead or alive, they bring me profit!
+  RE : But Dragons are fine creatures.
+       Dead or alive, they bring me
+       profit!
+
+[US#4673] (Master)
+  JP : 「がっはっはっはっ〜
+  LIT: Gwa ha ha ha!
+  RE : Gwa ha ha ha!
+
+[US#4674] (Master)
+  JP : 「ワシは、自分のまいた種を / 自分で<b:8a95>ろうとしたまでのコト / 単にお前たちに礼を言われる<b:8a96>合いはないぞ
+  LIT: I merely tried to reap the seeds I myself had sown; no cause for you to thank me.
+  RE : I merely tried to reap the seeds
+       I myself had sown. No cause for
+       you to thank me.
+
+[US#4675] (Master)
+  JP : 「礼ならこちらが言わせてもらおう / 手間かけさせてすまなかったな
+  LIT: The thanks should be mine to give; sorry for the trouble we caused you.
+  RE : The thanks should be mine to
+       give. Sorry for the trouble we
+       caused you.
+
+[US#4676] (Master)
+  JP : 「今更、ムシのいい話しだが / お前たちの力を<b:8a97>してほしい
+  LIT: It's brazen of me to ask now, but I need you to lend us your strength.
+  RE : It's brazen of me to ask now, but
+       I need you to lend us your
+       strength.
+
+[US#4677] (Master)
+  JP : 「もちろん / ワシらもできるだけのコトはするつもりだ / すまないが頼むぞ
+  LIT: Of course, we mean to do everything we can as well; sorry, but I'm counting on you.
+  RE : Of course, we mean to do all we
+       can as well. Sorry, but I'm
+       counting on you.
+
+[US#4678] (soldier)
+  JP : 「『ヘイムダル・ガッツォー』に『核』ッ！ / この２つの<b:8a98>っているオデッサと / どう戦えというんだッ！
+  LIT: "Heimdal Gazzo" AND the nuke! How are we to fight an Odessa holding both of these?!
+  RE : |Heimdal Gazzo| AND the nuke! How
+       are we to fight an Odessa holding
+       both of these?!
+
+[US#4679] (soldier)
+  JP : 「しかし、なぜオデッサは / 『核』を<89dc>陸に<b:8a9a>んでいることを / 知っていたんだ？
+  LIT: But how did Odessa know the nuke was being carried on that train?
+  RE : But how did Odessa know the nuke
+       was being carried on that train?
+
+[US#4680] (soldier)
+  JP : 「スパイでもいるというのかッ！
+  LIT: Are you saying there's a spy?!
+  RE : Are you saying there's a spy?!
+
+[US#4681] (engineer)
+  JP : 「ま、我々はドラゴンの遺跡を概<b:8a67>して / <b:8a8c>料にしているのだから / それも当たり前か〜
+  LIT: Well, we refine Dragon remains into fuel, so I suppose that's only natural.
+  RE : Well, we refine Dragon remains
+       into fuel, so I suppose that's
+       only natural.
+
+[US#4682] (townsperson)
+  JP : 「ま、空がこんなになっちゃ / 気持ちも分からんではないが
+  LIT: Well, with the sky like this, I can't say I don't understand the feeling.
+  RE : Well, with the sky like this, I
+       can't say I don't understand the
+       feeling.
+
+[US#4683] (hothead)
+  JP : 「そんな<b:8aa1><b:8aa2><b:8aa3><b:8aa4>には / オレがヤキをいれてやるぜッ！
+  LIT: I'll give that two-faced so-and-so a lesson myself!
+  RE : I'll give that two-faced
+       so-and-so a lesson myself!
+
+[US#4684] (townsperson)
+  JP : 「ホントに世界征服する気が / あるのかね
+  LIT: Did they ever really mean to conquer the world, I wonder?
+  RE : Did they ever really mean to
+       conquer the world, I wonder?
+
+[US#4685] (soldier)
+  JP : 「だが、たった一人の<b:8aab><b:8aac>で / <88e6>帯一つを<b:8aad>せたんだから / それはそれで、スゲェことだぜ
+  LIT: Still, to bring down a whole base at the cost of a single casualty; that's something, in its way.
+  RE : Still, to bring down a whole base
+       at the cost of one casualty.
+       That's something.
+
+[US#4686] (scientist)
+  JP : 「ドラゴンの生体サンプルの解<b:8aae>によって / 使用者の概<b:8a76>力をアームに付<b:8aaf>する / 『フルフラット』が完成したのです
+  LIT: By analyzing the Dragon's living sample, I completed "Full Clip," which imparts the user's willpower to an ARM.
+  RE : By analyzing the Dragon's living
+       sample, I completed |Full Clip|:
+       it feeds your will to an ARM.
+
+[US#4687] (scientist)
+  JP : 「まだ、制<89c7>が<b:8ab0>しいですが / [05]ぉさんなら / 使いこなせると思います
+  LIT: Control is still difficult, but I believe you, {1}, could master it.
+  RE : Control is still difficult, but I
+       believe you, {1}, could master
+       it.
+
+[US#4688] (scientist)
+  JP : 「<88f7>意帯としては / 発動するとアームの全<b:8a43>を発<b:8ab1>し<b:8ab2>くして / しまうこと
+  LIT: One caution: on activation it fires off every round in the ARM.
+  RE : One caution: on activation it
+       fires off every round in the ARM.
+
+[US#4689] (scientist)
+  JP : 「また、アームの残<b:8ab3>年によって / 威力が変合します / どうぞ、<b:8ab4>けとってください
+  LIT: Its power also varies with the ARM's remaining ammo; please, take it.
+  RE : Its power also varies with the
+       ARM's remaining ammo. Please,
+       take it.
+
+[US#4690] (aide)
+  JP : 「<b:8ab7><b:8ab8>が過ぎるコトがありますが / どうか、大目に見てやってください〜〜
+  LIT: His jokes sometimes go too far; please be forgiving of him.
+  RE : His jokes sometimes go too far.
+       Please be forgiving of him.
+
+[US#4691] (Master's son)
+  JP : 「少しでもファルガイアの為に / 役立ってくれたらうれしいです
+  LIT: I would be glad if it serves Filgaia even a little.
+  RE : I would be glad if it serves
+       Filgaia even a little.
+
+[US#4692] (Master's son)
+  JP : 「今回の件で / 父上も少し変わったような気がします
+  LIT: I feel this affair has changed my father a little, too.
+  RE : I feel this affair has changed my
+       father a little, too.
+
+[US#4693] (Master's son)
+  JP : 「今回の件で / 父上も少し変わったような気がします
+  LIT: I feel this affair has changed my father a little, too.
+  RE : I feel this affair has changed my
+       father a little, too.
+
+[US#4694] (townsperson)
+  JP : 「ファルガイアに<b:8a85><b:8a86>が戻ると / そう、信じていたのに〜
+  LIT: I truly believed peace would return to Filgaia...
+  RE : I truly believed peace would
+       return to Filgaia...
+
+[US#4695] (townsperson)
+  JP : 「この暗い空〜 / まるで、オデッサの<b:8ab9>念を表わしている〜 / そのように信じずには、いられません〜
+  LIT: This dark sky, as if it embodies Odessa's lingering malice; I cannot help but believe it.
+  RE : This dark sky, as if it embodies
+       Odessa's lingering malice. I
+       cannot help but believe it.
+
+[US#4696] (Master's son)
+  JP : 「それから『核』のコトですが〜 / わたくしも知らなかったコトとはいえ / <88fc>してしまったみたいですみませんでした〜
+  LIT: And as for the nuke: though I did not know myself, it seems I deceived you, and I am sorry.
+  RE : And as for the nuke: though I did
+       not know myself, it seems I
+       deceived you. I am sorry.
+
+[US#4697] (library worker)
+  JP : 「〜ん？ / 今、変な魔法の使い方をしたような〜？ / まあ、いいか
+  LIT: Hm? Did I just use magic in some odd way? Ah, never mind.
+  RE : Hm? Did I just use magic in some
+       odd way? Ah, never mind.
+
+[US#4698] (library worker)
+  JP : 「なんたって、<b:8a9c>書<b:8a9d>の<b:8abb>だからね
+  LIT: He is, after all, the lord of the library.
+  RE : He is, after all, the lord of the
+       library.
+
+[US#4699] (library worker)
+  JP : 「おかげで、俺はコキ使われちゃったよ〜 / ああ、<b:8abc><b:8abd>が<b:8abd>いよ〜〜〜ん？ / 今、変な魔法の使い方をしたような〜？
+  LIT: Thanks to that I've been worked to the bone; oh, my head aches... hm? Did I just use magic oddly?
+  RE : I've been worked to the bone. Oh,
+       my head aches... hm? Did I just
+       use magic oddly?
+
+[US#4700] (library worker)
+  JP : 「そこで、閉<b:8abe>渡念の『<b:8abf><b:8ac0><8a0c>品』を / プレゼントされたんだ / でも、変な魔法の使い方をしたような〜？
+  LIT: There I was given a "closing-sale keepsake" as a present; but did I just use magic oddly?
+  RE : There I was given a closing-sale
+       keepsake as a present. But did I
+       just use magic oddly?
+
+[US#4701] (townsperson)
+  JP : 「それは、『みんなが今回も無事だった』〜 / <b:8ac1><b:8ab3>は、全部気にも止めなかった事ですが / とっても、大切なコトだったんですね
+  LIT: It's that "everyone made it through today safe" — before, I never gave it a thought, but it was precious all along.
+  RE : "Everyone made it through today
+       safe." I never gave it a thought
+       before, but it was precious.
+
+[US#4702] (scholar)
+  JP : 「そういえば、ココから[11]お先側[11]ぉに / ヘビがとぐろを<8812>いた方な他があるんじゃが / そこには、地<89f4>が集まっているそうじゃ
+  LIT: Come to think of it, off yonder is an isle like a coiled snake; they say the earth's energy gathers there.
+  RE : Come to think of it, |off yonder|
+       is an isle like a coiled snake.
+       Energy gathers there.
+
+[US#4703] (scholar)
+  JP : 「そこがレイポイントかもしれんぞい
+  LIT: That may well be a Raypoint.
+  RE : That may well be a Raypoint.
+
+[US#4704] (scholar)
+  JP : 「人の手が入りにくい所が可能性が高いの / <8943>えば、枯谷の枯口とかじゃな〜
+  LIT: Places hard for human hands to reach are likeliest; say, a volcano's crater.
+  RE : Places hard for human hands to
+       reach are likeliest. Say, a
+       volcano's crater.
+
+[US#4705] (scholar)
+  JP : 「何回かの同時実験をしていた / 渡記も残っておる / それが破滅への<b:8a93>だったのかもしれんの〜
+  LIT: Records remain of several experiments; perhaps those were the road to their ruin.
+  RE : Records remain of several
+       experiments. Perhaps those were
+       the road to their ruin.
+
+[US#4706] (scholar)
+  JP : 「もしかしたら〜 / いや、ワシの特<b:8ac3>違いじゃろ〜 / そう、間違いであってほしいの〜
+  LIT: Could it be... no, surely my calculations are wrong; yes, I hope they are wrong.
+  RE : Could it be... no, surely my
+       calculations are wrong. Yes, I
+       hope they are wrong.
+
+[US#4707] (scholar)
+  JP : 「４鍵のうちの１鍵が / [11]おギルドグラードから先東の谷を<b:8ac4>えた岸り[11]ぉに / あることが分かったんじゃ
+  LIT: We've learned that one of the four keys lies beyond the valley yonder-east of Guild Galad.
+  RE : We've learned one of the four
+       keys lies |beyond the valley
+       yonder-east| of Guild Galad.
+
+[US#4708] (scholar)
+  JP : 「このことは、ヴァレリアシャトーの / オペレーターお<b:8ac5>ちゃんにも伝えとくぞい
+  LIT: I'll pass this along to the operator lass at Valeria Chateau as well.
+  RE : I'll pass this along to the
+       operator lass at Valeria Chateau
+       as well.
+
+[US#4709] (waiting girl)
+  JP : 「あっと / 私がこんなこと言ってたなんて街<b:8ac9>だよ / 〜でも<8a0d>いなぁ、まだ<b:8aca>りてないのかな〜
+  LIT: Oh! Keep it secret that I said any of this. But he's late; hasn't he come down yet?
+  RE : Oh! Keep it secret that I said
+       any of this. But he's late.
+       Hasn't he come down yet?
+
+[US#4710] (waiting girl)
+  JP : 「その後、謝ってきたんだけど〜 / <b:8acb>って逃げちゃったの
+  LIT: Afterward he came to apologize, but then he panicked and ran off.
+  RE : Afterward he came to apologize,
+       but then he panicked and ran off.
+
+[US#4711] (waiting girl)
+  JP : 「その場で許しても良かったんだけど / こっちから謝りたかったから〜 / 私って、意地っ<b:8acc>りかもね？
+  LIT: I could have forgiven him then and there, but I wanted to apologize first myself; stubborn of me, maybe?
+  RE : I could have forgiven him then,
+       but I wanted to apologize first
+       myself. Stubborn, maybe?
+
+[US#4712] (waiting girl)
+  JP : 「あぁ〜 / あの暗い空は / 私の心<b:8acd>を表わしているようだわ〜
+  LIT: Ahh, that dark sky is like a mirror of my own heart.
+  RE : Ahh, that dark sky is like a
+       mirror of my own heart.
+
+[US#4713] (waiting girl)
+  JP : 「でも、そこがいいところなのかもね〜 / にしても<8a0d>いわねぇ
+  LIT: But maybe that's his charm; still, he IS late.
+  RE : But maybe that's his charm.
+       Still, he IS late.
+
+[US#4714] (storyteller)
+  JP : 「まぁ、その後 / オレも急いで逃げたけどね〜
+  LIT: Well, after that I beat a quick retreat myself.
+  RE : Well, after that I beat a quick
+       retreat myself.
+
+[US#4715] (townsperson)
+  JP : 「でも、オデッサみたいな<b:8ad4>は / <b:8ace><b:8ad5>してほしいよ
+  LIT: But the likes of Odessa, I'd like to see wiped away for good.
+  RE : But the likes of Odessa, I'd like
+       to see wiped away for good.
+
+[US#4716] (engineer)
+  JP : 「だが、使い方を<b:8ad6>り / スレイハイムのニの<b:8ad7>だけには / ならないようにな
+  LIT: But mind how we use them, lest we become a second Slayheim.
+  RE : But mind how we use them, lest we
+       become a second Slayheim.
+
+[US#4718] (townsperson)
+  JP : 「一体、何と戦うつもりなのだ？
+  LIT: Just what does he mean to fight?
+  RE : Just what does he mean to fight?
+
+[US#4719] (engineer)
+  JP : 「使い方を間違えないことだ
+  LIT: The key is not to mistake how it is used.
+  RE : The key is not to mistake how it
+       is used.
+
+[US#4721] (storyteller)
+  JP : 「ちょうど、謝りたかったし / 式いたかったし〜 / でも、ダメだったなぁ〜
+  LIT: I'd wanted to apologize, wanted to see her; but it was no good.
+  RE : I'd wanted to apologize, wanted
+       to see her. But it was no good.
+
+[US#4724] (cheerful girl)
+  JP : 「そうやって / あたしの『がんばり』を / ちょっとづつ分けてあげられるんだから
+  LIT: That way I can share out my "ganbari" spirit a little at a time.
+  RE : That way I can share out my
+       try-your-best spirit a little at
+       a time.
+
+[US#4725] (cheerful girl)
+  JP : 「オンナ心とファルガイアの空って
+  LIT: A woman's heart and Filgaia's sky, they say...
+  RE : A woman's heart and Filgaia's
+       sky, they say...
+
+[US#4729] (cheerful girl)
+  JP : 「あたしには自信無いな〜
+  LIT: I don't know if I've got it in me.
+  RE : I don't know if I've got it in
+       me.
+
+[US#4730] (girl)
+  JP : 「モテモテなのよ〜
+  LIT: He's ever so popular with the girls!
+  RE : He's ever so popular with the
+       girls!
+
+[US#4731] (girl)
+  JP : 「信じられる？
+  LIT: Can you believe it?
+  RE : Can you believe it?
+
+[US#4733] (examine)
+  JP : ＊とても高いので見なかったことにしよう
+  LIT: It's terribly expensive; let's pretend we never saw it.
+  RE : It's terribly expensive. Let's
+       pretend we never saw it.
+
+[US#4739] (Master's son)
+  JP : 「それは彼らに対して / 失礼ではありませんかッ！
+  LIT: Father, is that not terribly rude to them?!
+  RE : Father, is that not terribly rude
+       to them?!
+
+[US#4740] (Master's son)
+  JP : 「わたくしはこうして / 無事にギルドグラードまで / たどり着くことができたのです
+  LIT: It is thanks to them that I made it back to Guild Galad safely at all.
+  RE : It is thanks to them that I made
+       it back to Guild Galad safely at
+       all.
+
+[US#4743] (Master)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+[US#4745] (Master's son)
+  JP : 「そ、それは〜
+  LIT: Th-that is...
+  RE : Th-that is...
+
+[US#4750] (Master's son)
+  JP : 「それが、今回の件で / オデッサの手に落ちてしまったのです
+  LIT: And in this affair, it has fallen into Odessa's hands.
+  RE : And in this affair, it has fallen
+       into Odessa's hands.
+
+[US#4751] (Ashley)
+  JP : 「俺たちをだましていたことは / 確かに許せないことだ / でも〜
+  LIT: Deceiving us was, indeed, unforgivable. But...
+  RE : Deceiving us was, indeed,
+       unforgivable. But...
+
+[US#4752] (Ashley)
+  JP : 「それならば / 俺たちにも手伝えることがある
+  LIT: In that case, there is something we too can help with.
+  RE : In that case, there is something
+       we too can help with.
+
+[US#4753] (Ashley)
+  JP : 「ヤツらが手に入れた幻同時で / 何をしようとも / 俺たちが必ずくいとめよう
+  LIT: Whatever they mean to do with the weapon they've taken, we will surely stop them.
+  RE : Whatever they mean to do with the
+       weapon they've taken, we will
+       surely stop them.
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#4717] SKIPPED - no content box in decode
+[US#4720] SKIPPED - no content box in decode
+[US#4722] SKIPPED - no content box in decode
+[US#4723] SKIPPED - no content box in decode
+[US#4726] SKIPPED - no content box in decode
+[US#4727] SKIPPED - no content box in decode
+[US#4728] SKIPPED - no content box in decode
+[US#4732] SKIPPED - no content box in decode
+[US#4734] SKIPPED - no content box in decode
+[US#4735] SKIPPED - no content box in decode
+[US#4736] SKIPPED - no content box in decode
+[US#4737] SKIPPED - no content box in decode
+[US#4738] SKIPPED - no content box in decode
+[US#4741] SKIPPED - no content box in decode
+[US#4742] SKIPPED - no content box in decode
+[US#4744] SKIPPED - no content box in decode
+[US#4746] SKIPPED - no content box in decode
+[US#4747] SKIPPED - no content box in decode
+[US#4748] SKIPPED - no content box in decode
+[US#4749] SKIPPED - no content box in decode
+[US#4754] SKIPPED - no content box in decode
+[US#4755] SKIPPED - no content box in decode
