@@ -1,0 +1,252 @@
+# WA2 — Block 8 — PROPAGATED from lore-twin cluster (payload-exact match)
+# Auto-filled by tools_wa2/propagate_twins.py from already-translated twin boxes.
+# Each RE is copied verbatim from a byte-identical JP box elsewhere in the 6/7/8/9/10/11
+# cluster. 44 boxes filled; 0 unique boxes still need translation.
+
+[US#1643] (propagated)
+  JP : 「飛空機艇と / 女の家のあつかいに関しては / ファルガイアじゃ一番のつもりさ
+  RE : When it comes to airships and
+       ladies, I'm the best in Filgaia.
+
+[US#1644] (propagated)
+  JP : 「そんな僕に何か用かい？[18]か
+  RE : Something you need from me?
+
+[US#1649] (propagated)
+  JP : 「カオの良さに反比<8943>して / なぜだか目立たない僕からのお願いだッ！ / 出番たのむぜッ！[18]か
+  RE : Even good-looking as I am, nobody
+       notices me! Give me my moment to
+       shine!
+
+[US#1651] (propagated)
+  JP : 「人を信じ続けること / それは、無意味なんだろうか〜？
+  RE : Continuing to trust people. Is that
+       meaningless, then?
+
+[US#1653] (propagated)
+  JP : 「ファルガイアは / そんなにせっぱつまっているのか？
+  RE : Is Filgaia really in that desperate
+       a situation?
+
+[US#1654] (propagated)
+  JP : 「ワシたちの力をあわせても / どうにもならないのか？
+  RE : Even if we all join strength, is
+       there nothing to be done? Sealed
+       away like this?
+
+[US#1661] (propagated)
+  JP : 「オデッサのバルキサスも / 同方の動力機関が / <887c><887d>されていたと思うな
+  RE : I bet Odessa's Varukisas had a
+       similar engine installed too.
+
+[US#1668] (propagated)
+  JP : 「考えてみれば、タウンメリアじゃ / ソースたぷたぷコロッケは / 手に入らないんだッ！
+  RE : Come to think of it, you can't get
+       sauce-drenched croquettes in Town
+       Meria!
+
+[US#1670] (propagated)
+  JP : 「<f040><f042>コソドロめ〜 / あんまりなめてほしくないな / 銃乗のせがれをよぉッ！
+  RE : Those sneak thieves. Don't
+       underestimate a gunner's son!
+
+[US#1672] (propagated)
+  JP : 「せがれとして / こんなショッキングな / 出来事は他にありません
+  RE : As his son, there's no other event
+       as shocking as this one.
+
+[US#1679] (propagated)
+  JP : 「まさか、シャトー街に侵入してきた / オデッサのふたりが / わきめもふらずにモリモリと〜
+  RE : Don't tell me those two Odessa
+       infiltrators just gobbled it right
+       up.
+
+[US#1684] (propagated)
+  JP : 「他にはパレスヴィレッジと呼ばれる / 小さな国があるそうだ
+  RE : There's also said to be a small
+       nation called Palace Village
+       elsewhere.
+
+[US#1685] (propagated)
+  JP : 「これはやはり / レイポイントの件と / 何か関係あるのではなかろうか？
+  RE : Might this, after all, have some
+       connection to the Raypoint matter?
+
+[US#1689] (propagated)
+  JP : 「まあ、イイコトなんだが〜
+  RE : Well, it's a good thing. But even
+       the wilds are coming back, all
+       across Filgaia!
+
+[US#1698] (propagated)
+  JP : 「それをやってのけるんだから / テロリスト・オデッサ〜 / あなどれない相だろう
+  RE : Since they can actually pull that
+       off, Odessa's not a foe to
+       underestimate.
+
+[US#1754] (propagated)
+  JP : 「いやらしくない目で / [0a]お方の観待行為を / おこなっていたんだ
+  RE : It wasn't in any bad way. I was
+       just watching what {1} was doing.
+
+[US#1755] (propagated)
+  JP : 「その時、[0a]お方が / [0a]ぉ方に呼び出されて / お部乗に向かうのを見てしまったんだ〜
+  RE : At that moment, I saw {1} get
+       called by {0} and head for the
+       room.
+
+[US#1767] (propagated)
+  JP : 「どちらも / ライブリフレクターを使えば / それほど遠いものではない
+  RE : Using the Live Reflector,
+       neither of them is all
+       that far away.
+
+[US#1774] (propagated)
+  JP : 「我らＡＲＭＳ、ひとつとなって / ファルガイアのため / いっしょに戦ってきたではありませんか〜
+  RE : Have we of ARMS not fought as one,
+       together, for Filgaia's sake?
+
+[US#1785] (propagated)
+  JP : 「何だか、最近、サッパリです〜
+  RE : Somehow, lately, it's
+       all dried up.
+
+[US#1786] (propagated)
+  JP : 「そして、ここから先にあるのは / [0a]お方のお部乗ですけど〜 / お部乗でお見かけすることは〜
+  RE : And ahead from here is
+       {1}'s room, though I rarely
+       see her there.
+
+[US#1787] (propagated)
+  JP : 「〜あ、いえいえ / けっして立ち聞きしていたわけじゃ / ありませんから〜
+  RE : Ah, no, no. It's not
+       like I was eavesdropping
+       or anything.
+
+[US#1788] (propagated)
+  JP : 「〜あ、いえいえ / けっして立ち聞きしたわけじゃ / ありませんから〜
+  RE : Ah, no, no. It's not
+       like I was eavesdropping
+       or anything.
+
+[US#1789] (propagated)
+  JP : 「〜あ、いえいえ / けっして立ち聞きしたわけじゃ / ありませんから〜
+  RE : Ah, no, no. It's not
+       like I was eavesdropping
+       or anything.
+
+[US#1803] (propagated)
+  JP : 「<8a12>やかな探<887e>をおこなうなら / ホバークラフトの方に / 分があるってことだな
+  RE : If you want a thorough
+       search, the Hovercraft
+       has the advantage there.
+
+[US#1806] (propagated)
+  JP : 「〜でも、今度は違う / 僕もいっしょに戦っているつもりだ / 僕もファルガイアを保っているつもりだ
+  RE : But this time is different. I mean
+       to fight beside them, to protect
+       Filgaia too.
+
+[US#1822] (propagated)
+  JP : 「まさか、また / いっしょに戦う回が来ようとはな
+  RE : To think a day would come to
+       fight side by side again.
+
+[US#1824] (propagated)
+  JP : 「そして、自分たちの中にある / ファルガイアを保りたいという想いを / あんたたちに集めているんだ
+  RE : And they gather onto you the wish
+       within them all, the wish to
+       protect Filgaia.
+
+[US#1829] (propagated)
+  JP : 「何もかもが / 伝説から / 現実のモノへ変わろうとしている〜
+  RE : Everything is turning
+       from legend
+       into reality.
+
+[US#1832] (propagated)
+  JP : 「そいつがヘイムダル・ガッツォーに / <887c><887d>されているのは / ほぼ、まちがいないだろう〜
+  RE : That it's loaded aboard
+       Heimdal Gazzo is almost
+       beyond doubt.
+
+[US#1840] (propagated)
+  JP : 「それは、僕たちひとりひとりが / 少しずつ持っているはずの / 大切なモノを保る力だぜ
+  RE : That's the power each of us holds
+       a little of, the power to protect
+       what we love.
+
+[US#1844] (propagated)
+  JP : 「それでも / 義体を手に入れようとするってヤツは / 相応のワケ作りってことだろうな
+  RE : Even so, anyone out to get a
+       bionic body must have quite
+       a reason for it.
+
+[US#1845] (propagated)
+  JP : 「<89c1>に、生身を一部残して / そっくり<88fb>発するなんてケースは / 聞いた事も無いぜ
+  RE : The reverse, keeping some flesh
+       and building a full replacement,
+       I've never once heard of.
+
+[US#1847] (propagated)
+  JP : 「言いかえるならば / 人の体も機艇にて構成することも / 可能ってことだぜ
+  RE : Put another way, a human body
+       can be built out of craft
+       parts too.
+
+[US#1852] (propagated)
+  JP : 「なに、あまり変わったように見えない？ / これだからシロウトは……
+  RE : What, it doesn't look any
+       different? Hmph. This is why
+       amateurs...
+
+[US#1855] (propagated)
+  JP : 「なんか、バチバチ輝っていたから / 結構目立っててさ / 一体、何があるトコなんだろうな？
+  RE : It was sparking and shining,
+       so it really stood out. What
+       on earth could be there?
+
+[US#1857] (propagated)
+  JP : 「ロンバルディアってさ / 何食ってんだろう？ / まさか、人間を食べたりしないよな？
+  RE : What does Lombardia even eat?
+       It doesn't eat people,
+       does it?
+
+[US#1858] (propagated)
+  JP : 「でも、なんでこんなことしたのかな？
+  RE : But why would he do
+       something like this?
+
+[US#1865] (propagated)
+  JP : 「いろんな意味で〜
+  RE : In more ways
+       than one...
+
+[US#1871] (propagated)
+  JP : 「もう、このファルガイアに / あなた方たちを倒せるモノは / いないことでしょう
+  RE : Surely there's no one left in
+       all Filgaia who could
+       defeat you now.
+
+[US#1876] (propagated)
+  JP : 「[05]がくんは / このお館に保護してもらうのが / 正解でしょう
+  RE : It's surely best that {3} be kept
+       safe here in this manor.
+
+[US#1877] (propagated)
+  JP : 「それは結単なことなんかではなく / 誰にだってできることだったんです
+  RE : That was no simple feat. It wasn't
+       something just anyone could do.
+
+[US#1887] (propagated)
+  JP : ＊その前に、我々はまとまらねばならぬ / だが、人の年だけ思いがあり / 人がまとまることなど不可能なのか？
+  RE : First, we must unite. But each
+       person holds their own view. Is
+       unity even possible?
+
+[US#1889] (propagated)
+  JP : ＊人の年だけ思いがある / 果たして / 世界をまとめることは可能なのか
+  RE : Each person holds a thought of
+       their own. Can the world truly be
+       united?
+
