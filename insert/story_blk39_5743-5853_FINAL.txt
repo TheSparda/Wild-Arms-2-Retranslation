@@ -1,0 +1,642 @@
+# WA2 — Block 39, US#5743-5853 — FINAL (Alchemic Plant infiltration + Odessa command + Gias sacrifice — block 39 complete)
+# =========================================================================================
+# The Alchemic Plant raid: party splits (Brad holds the rear), Pooka's voice-recorder trick to
+# beat the Voice-Print Verifier (+ her "shape-copy needs a Medium" gag), the Odessa command
+# briefing (Vinsfeld/Antenora/Ptolomea on funds, Heimdal Gazzo, ARMS' rise, the Trask loss and
+# "Black Knight" energy spike), Operation Guardian to seize {1}, the DOPPELGANGER reveal (the
+# fake {1} that sowed the party's distrust), and Brad's Gias-collar bomb self-sacrifice at the
+# plant core. JP-primary; [17]-only boxes translated from EN with [?]. |Eat My Dust| = バイツァダスト.
+
+[US#5743] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#5744] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#5745] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#5746] (Brad)
+  JP : 「きっと、任務がしやすくなりますね
+  LIT: This should make the mission a good deal easier.
+  RE : This should make the mission a
+       good deal easier.
+
+[US#5747] (Brad)
+  JP : 「ここは僕が招き乗ける / [05]ぉたちは最願部に向かってくれ
+  LIT: I'll hold them here; {1} and the rest, make for the deepest level.
+  RE : I'll hold them here. {1} and the
+       rest, make for the deepest level.
+
+[US#5748] (Brad)
+  JP : 「ここを始置したら / 僕もすぐに後を追いかける / 一時、単行動だ
+  LIT: Once I've dealt with this, I'll follow right after; we split up for a while.
+  RE : Once I've dealt with this, I'll
+       follow right after. We split up
+       for a while.
+
+[US#5749] (Ashley)
+  JP : 「……わかった / それじゃ、最願部で落ち合おう
+  LIT: ...Understood; then let's regroup at the deepest level.
+  RE : ...Understood. Then let's
+       regroup at the deepest level.
+
+[US#5750] (Ashley)
+  JP : 「よし、みんな、行こうッ！
+  LIT: All right, everyone, let's go!
+  RE : All right, everyone, let's go!
+
+[US#5751] (Ashley, thinking)
+  JP : （仲間を信じなくちゃダメだッ！ / そう決めたはずだろう… / でも…）
+  LIT: (I have to trust my friends! I decided that, didn't I... but...)
+  RE : (I have to trust my friends! I
+       decided that, didn't I... but...)
+
+[US#5752] (Pooka)
+  JP : 「この話で、あの話紋照合<8a23>を / うまくごまかせるといいんだけど…
+  LIT: With this voice, I hope I can fool that Voice-Print Verifier...
+  RE : With this voice, I hope I can
+       fool that Voice-Print Verifier...
+
+[US#5753] (Pooka)
+  JP : 「いまの話を記<b:8a3c>すれば…
+  LIT: If I record that voice from just now...
+  RE : If I record that voice from just
+       now...
+
+[US#5754] (Pooka)
+  JP : 「そういえばさっき / <b:8a3d>利そうなものを…
+  LIT: Come to think of it, I saw something handy back there...
+  RE : Come to think of it, I saw
+       something handy back there...
+
+[US#5755] (Marivel)
+  JP : 「まぁいい、いずれにせよ / このプラントを破滅せずには / 戻る必要もないしな
+  LIT: Well, no matter; either way, there's no need to turn back without wrecking this plant.
+  RE : Well, no matter. Either way,
+       there's no need to turn back
+       without wrecking this plant.
+
+[US#5756] (Lilka)
+  JP : 「んもー、どっちにしろ / ここを滅してからじゃないと / 外に出られないわねッ！
+  LIT: Honestly, either way we can't get out until we've smashed this place!
+  RE : Honestly, either way we can't get
+       out until we've smashed this
+       place!
+
+[US#5757] (Tim)
+  JP : 「仕方ないですから / 先に進みましょう
+  LIT: Nothing else for it; let's press on.
+  RE : Nothing else for it. Let's press
+       on.
+
+[US#5758] (Pooka)
+  JP : 「んッ！ 通信中か… / 何とか式話を<b:8a3e>乗できないかな？
+  LIT: Hm! A transmission? I wonder if I can somehow intercept the message?
+  RE : Hm! A transmission? I wonder if I
+       can somehow intercept the
+       message?
+
+[US#5759] (Pooka)
+  JP : 「なんかしゃべってる… / うー、気になる / 何か通信しているみたい
+  LIT: They're saying something... ugh, I have to know; sounds like some kind of transmission.
+  RE : They're saying something... ugh,
+       I have to know. Sounds like some
+       kind of transmission.
+
+[US#5760] (Pooka)
+  JP : 「あれ？ 〜話し話が聞こえます / でも、話が小さくて / よく聞き取れないです
+  LIT: Huh? I can hear a voice; but it's so faint I can't make it out.
+  RE : Huh? I can hear a voice; but it's
+       so faint I can't make it out.
+
+[US#5761] (Pooka)
+  JP : 「ボイスレコーダーを使って / この話、『<89f3>ませて』もらおうッ！
+  LIT: Using the voice recorder, I'll "borrow" this voice!
+  RE : Using the voice recorder, I'll
+       |borrow| this voice!
+
+[US#5762] (Pooka)
+  JP : 「これで話紋パターンも / 楽ちんクリアよッ！
+  LIT: With this, the voice-print pattern is a breeze to clear!
+  RE : With this, the voice-print
+       pattern is a breeze to clear!
+
+[US#5763] (Pooka)
+  JP : 「さっそく試そうよッ！
+  LIT: Let's try it right now!
+  RE : Let's try it right now!
+
+[US#5764] (prompt)
+  JP : ＊パスワードを入力しますか？[18]か
+  LIT: Enter a password?
+  RE : Enter a password?
+
+[US#5765] (system)
+  JP : ＊話紋照合を開始します〜
+  LIT: Beginning Voice-Print Verification...
+  RE : Beginning Voice-Print
+       Verification...
+
+[US#5766] (recorded voice)
+  JP : ＞このプラントにいるすべての同胞は / 選ばれしオデッサの同胞なのよ / そのことを忘れないで
+  LIT: Every soldier in this plant is a chosen soldier of Odessa; don't forget that.
+  RE : Every soldier in this plant is a
+       chosen soldier of Odessa. Don't
+       forget that.
+
+[US#5767] (system)
+  JP : ＊閉鎖ブロックを開放します
+  LIT: The sealed block will be opened.
+  RE : The sealed block will be opened.
+
+[US#5768] (Marivel)
+  JP : 「でも〜 / 機艇といえど、あっけないほどに / <b:8a4a>実を見失ってしまうものなんだな
+  LIT: Still, machine though it is, it loses sight of the truth almost too easily.
+  RE : Still, machine though it is, it
+       loses sight of the truth almost
+       too easily.
+
+[US#5769] (Marivel)
+  JP : 「もし、それが人間だったら / なおのことなのかもしれない〜
+  LIT: And if it were a human, it might be all the more so.
+  RE : And if it were a human, it might
+       be all the more so.
+
+[US#5770] (Lilka)
+  JP : 「ま、機艇なんかには / わからないものよねッ！
+  LIT: Well, a mere machine could never tell the difference!
+  RE : Well, a mere machine could never
+       tell the difference!
+
+[US#5771] (Pooka)
+  JP : 「〜って、しゃべってもいいんですよね？
+  LIT: ...Wait, is it all right for me to talk now?
+  RE : ...Wait, is it all right for me
+       to talk now?
+
+[US#5772] (system)
+  JP : ＊話紋照合を開始します〜
+  LIT: Beginning Voice-Print Verification...
+  RE : Beginning Voice-Print
+       Verification...
+
+[US#5773] (system)
+  JP : ＊これより先は、閉鎖ブロックです / 閉鎖ブロックの使用は、ランクＡ構成<b:8a4d> / および結戦隊コキュートスに限られています
+  LIT: Beyond here is a sealed block; its use is limited to Rank A members and the special Cocytus Corps.
+  RE : Beyond here is a sealed block.
+       Use is limited to Rank A members
+       and the Cocytus Corps.
+
+[US#5774] (system)
+  JP : ＊話紋照合を開始します〜
+  LIT: Beginning Voice-Print Verification...
+  RE : Beginning Voice-Print
+       Verification...
+
+[US#5775] (Pooka, disguised)
+  JP : 「わ、わ、わたーし、ざーます / おーほほほほッ！
+  LIT: I-i-it is I, don't you know; oh-ho-ho-ho-ho!
+  RE : I-i-it is I, don't you know.
+       Oh-ho-ho-ho-ho!
+
+[US#5776] (Pooka)
+  JP : 「… / <b:8a4f>かかせないでよ〜
+  LIT: ...Don't go embarrassing me...
+  RE : ...Don't go embarrassing me...
+
+[US#5777] (Pooka)
+  JP : 「〜と、思いましたが / プーカが相手の<b:8a50>と能力をコピーするには / ミーディアムが必要でした〜
+  LIT: ...or so I thought; but for Pooka to copy a target's shape and skills, a Medium is needed.
+  RE : ...or so I thought; but for Pooka
+       to copy a target's shape and
+       skills, a Medium is needed.
+
+[US#5778] (system)
+  JP : ＊これより先は、閉鎖ブロックです / 閉鎖ブロックの使用は、ランクＡ構成<b:8a4d> / および結戦隊コキュートスに限られています
+  LIT: Beyond here is a sealed block; its use is limited to Rank A members and the special Cocytus Corps.
+  RE : Beyond here is a sealed block.
+       Use is limited to Rank A members
+       and the Cocytus Corps.
+
+[US#5779] (prompt)
+  JP : ＊ロッカーを / さらに調べてみますか？[18]か
+  LIT: Search the locker further?
+  RE : Search the locker further?
+
+[US#5780] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#5781] (Odessa officer)
+  JP : 「やはり、一回の発進にかかる / エネルギーの消<b:8a52><886f>を考えると / 今後、ひんぱんに使用することは不可能です
+  LIT: As expected, given the energy each launch consumes, frequent use will be impossible from here on.
+  RE : Given the energy each launch
+       consumes, frequent use will be
+       impossible from here on.
+
+[US#5782] (Odessa officer)
+  JP : 「私たちの当面の相は / 資金面といったところでしょうか〜
+  LIT: Our most pressing enemy at the moment is, I'd say, funding.
+  RE : Our most pressing enemy at the
+       moment is, I'd say, funding.
+
+[US#5783] (Odessa officer)
+  JP : 「現在、アルケミックプラントの稼<b:8a57><b:8a58>は / ようやく６０％を<b:8a59>えたところです
+  LIT: At present the Alchemic Plant's output has only just passed sixty percent.
+  RE : At present the Alchemic Plant's
+       output has only just passed sixty
+       percent.
+
+[US#5784] (Odessa officer)
+  JP : 「ま、少しはバルキサスの方にも / エネルギーをまわせる余<b:8a5b>ができますがね
+  LIT: Well, that does leave a little room to divert energy to the Varukisas.
+  RE : Well, that does leave a little
+       room to divert energy to the
+       Varukisas.
+
+[US#5785] (Odessa officer)
+  JP : 「それでもこっちは、もうひとつ〜 / 『ヘイムダル・ガッツォー』の / 件もあるんで、気前良くってわけには〜
+  LIT: Even so, there's the Heimdal Gazzo matter to see to as well, so we can't be too generous.
+  RE : Even so, there's the |Heimdal
+       Gazzo| matter to see to as well,
+       so we can't be too generous.
+
+[US#5786] (Vinsfeld)
+  JP : 「その飛<b:8a5e>は / 我ら『オデッサ』の威を知らしめるには / 効果的なテであることも確かであろう
+  LIT: Those flights are surely an effective means of impressing the might of our "Odessa" upon the world.
+  RE : Those flights are surely an
+       effective means of impressing
+       Odessa's might upon the world.
+
+[US#5788] (mercenary)
+  JP : 「そういうのは / 俺の<b:8a66><b:8a67>外なんでね / もっと楽しそうなシゴトをまわしてくれよ
+  LIT: That sort of thing's outside my line; send me some work that looks more fun.
+  RE : That sort of thing's outside my
+       line. Send me some work that
+       looks more fun.
+
+[US#5789] (Odessa officer)
+  JP : 「バルキサスの離陸<8865>前に交戦した / あの一団のことですが / 『ＡＲＭＳ』と呼ばれる部隊と判次しました
+  LIT: That band we engaged just before the Varukisas launched has been identified as a unit called "ARMS."
+  RE : That band we engaged before the
+       Varukisas launch is identified as
+       a unit called |ARMS|.
+
+[US#5790] (Antenora)
+  JP : 「メリアブール<b:8a6d>が特<b:8a6e>していた / <89e1>立<88b2>限を作する結単部隊ＡＲＭＳは / 結成と同時に滅滅したわ〜
+  LIT: The special independent-authority unit ARMS that Meria Boule chartered was wiped out the moment it formed.
+  RE : The special ARMS unit Meria Boule
+       chartered was wiped out the very
+       moment it formed.
+
+[US#5791] (Odessa officer)
+  JP : 「いえ〜 / やはり、同じ部隊と呼ぶべきでしょうか〜
+  LIT: No... perhaps we should call it the same unit after all.
+  RE : No... perhaps we should call it
+       the same unit after all.
+
+[US#5792] (mercenary)
+  JP : 「よくわからねぇな / もう少しうまく説次してほしいぜ
+  LIT: I don't follow; explain it a bit better, would you.
+  RE : I don't follow. Explain it a bit
+       better, would you.
+
+[US#5793] (Odessa officer)
+  JP : 「と、でも<b:8a69>しましょうか〜
+  LIT: Shall I put it that way, then?
+  RE : Shall I put it that way, then?
+
+[US#5794] (Odessa officer)
+  JP : 「いずれの<b:8a6d><b:8a73>にも<b:8a74>さないことで / <89e1>立<88b2>限を<8861><b:8a75>しているようです
+  LIT: By allying with none of the nations, they appear to maintain their independent authority.
+  RE : By allying with none of the
+       nations, they seem to keep their
+       independent authority.
+
+[US#5795] (Odessa officer)
+  JP : 「買い取った者は / メリアブールの辺<8872><b:8a76><b:8a77>とまでは / 判次していますが〜
+  LIT: We've traced the buyer as far as a low-ranking noble of Meria Boule...
+  RE : We've traced the buyer as far as
+       a low-ranking noble of Meria
+       Boule...
+
+[US#5796] (Vinsfeld)
+  JP : 「〜<b:8a79>だな / そういうのって、カンにさわる
+  LIT: ...How irksome; that sort of thing rubs me the wrong way.
+  RE : ...How irksome. That sort of
+       thing rubs me the wrong way.
+
+[US#5797] (Odessa officer)
+  JP : 「気にとめておく必要は〜
+  LIT: There's no need to give it any mind...
+  RE : There's no need to give it any
+       mind...
+
+[US#5798] (Vinsfeld)
+  JP : 「我らにあらがうのなら / そうさせておけばいい〜 / なんせ、『正義の味方』なんだからな〜
+  LIT: If they wish to defy us, let them; after all, they're "Allies of Justice."
+  RE : If they wish to defy us, let
+       them. After all, they're |Allies
+       of Justice|.
+
+[US#5799] (Vinsfeld)
+  JP : 「だが、そんな連中が / 完<b:8a7c>なきまでに<b:8a7d>きのめされれば / どうなる？
+  LIT: But what happens when a lot like that is beaten utterly to a pulp?
+  RE : But what happens when a lot like
+       that is beaten utterly to a pulp?
+
+[US#5800] (Vinsfeld)
+  JP : 「それを知った<b:8a7e><b:8a7f>は / 我らオデッサの力を<b:8a80>れ / <b:8a81>配を乗け入れざるをえまい〜
+  LIT: The masses who witness it will fear our Odessa's power and have no choice but to accept our rule.
+  RE : The masses who witness it will
+       fear Odessa's power and have no
+       choice but to accept our rule.
+
+[US#5802] (Vinsfeld)
+  JP : 「だが、<b:8a89>じる必要はない / 資金の調達は / 私にまかせておくがいい
+  LIT: But there's no need to worry; leave the raising of funds to me.
+  RE : But there's no need to worry.
+       Leave the raising of funds to me.
+
+[US#5803] (Odessa officer)
+  JP : 「ＡＲＭＳの壊滅はおろか / ただのひとりも仕<b:8a8a>めることが / できなかった方家です
+  LIT: Far from destroying ARMS, it seems we failed to finish off even a single one of them.
+  RE : Far from destroying ARMS, it
+       seems we failed to finish off
+       even one of them.
+
+[US#5804] (Odessa officer)
+  JP : 「こちらの<b:8a8b><889b>状況は / 対人怪獣同<b:8a8c>『タラスク』が大破 / さらに〜
+  LIT: Our own losses: the anti-personnel monster-weapon "Trask" heavily damaged, and further...
+  RE : Our own losses: the anti-personnel
+       monster-weapon |Trask| heavily
+       damaged, and further...
+
+[US#5806] (Vinsfeld)
+  JP : 「何が原因だッ！
+  LIT: What was the cause?!
+  RE : What was the cause?!
+
+[US#5807] (Odessa officer)
+  JP : 「報告によると / <b:8a8f>輝とともに現われた / 異面の『暗細胞』とありますが〜
+  LIT: By the report, a grotesque "Black Knight" that appeared in a flash of light, it says...
+  RE : By the report, a grotesque |Black
+       Knight| that appeared in a flash
+       of light, it says...
+
+[US#5808] (Odessa officer)
+  JP : 「たしかに、その<b:8a91>間 / 作戦ポイントより高質<886f>のエネルギー反応が / 確認されております
+  LIT: Indeed, at that instant a high-grade energy reading was confirmed at the battle site.
+  RE : Indeed, at that instant a
+       high-grade energy reading was
+       confirmed at the battle site.
+
+[US#5810] (Vinsfeld)
+  JP : 「組織の運<b:8a93>資金に / 『ヘイムダル・ガッツォー』の / エネルギー確保〜
+  LIT: The organization's operating funds; securing energy for the "Heimdal Gazzo"...
+  RE : The organization's operating
+       funds; securing energy for the
+       |Heimdal Gazzo|...
+
+[US#5811] (Vinsfeld)
+  JP : 「それらに<b:8a94>えて / 相対<b:8a95>力『ＡＲＭＳ』の<b:8a96><b:8a97>か〜 / 誓認は谷<b:8a98>みとなっとるわ
+  LIT: And on top of that, the rising rival force "ARMS"... our troubles are piling up.
+  RE : And on top of that, the rising
+       rival force |ARMS|... our troubles
+       are piling up.
+
+[US#5812] (Vinsfeld)
+  JP : 「『悪の押左組織』とは / かようにも大変なものなのだな〜 / ククク〜
+  LIT: So this is how taxing running a "Secret Society of Evil" can be; heh heh heh.
+  RE : So this is how taxing running a
+       |Secret Society of Evil| can be.
+       Heh heh heh.
+
+[US#5813] (Vinsfeld)
+  JP : 「圧倒的な戦力<b:8a9c>で / いっきにたたみ込めば / 我らの<b:8a9d>利はまちがいない〜
+  LIT: Crush them at a stroke with overwhelming force, and our victory is beyond doubt.
+  RE : Crush them at a stroke with
+       overwhelming force, and our
+       victory is beyond doubt.
+
+[US#5815] (Vinsfeld)
+  JP : 「<88b2>力（ちから）も / お前も〜 / そして、ファルガイアも、この手に〜
+  LIT: Power, and you, and Filgaia too: all in this hand of mine.
+  RE : Power, and you, and Filgaia too:
+       all in this hand of mine.
+
+[US#5816] (Vinsfeld)
+  JP : 「かねてより準備していた / 『ガーディアン特<b:8a6e>』を<89d8>行する / <8943>の少数の確保を急げ
+  LIT: Execute the long-prepared "Operation Guardian"; make haste to secure that boy.
+  RE : Execute the long-prepared
+       |Operation Guardian|. Make haste
+       to secure that boy.
+
+[US#5817] (Vinsfeld)
+  JP : 「そして、もうひとつ〜
+  LIT: And one more thing...
+  RE : And one more thing...
+
+[US#5818] (Vinsfeld)
+  JP : 「〜今<b:8aa0>は / 私の<89f5>にいろ〜
+  LIT: ...Tonight, stay here by my side.
+  RE : ...Tonight, stay here by my side.
+
+[US#5819] (Vinsfeld)
+  JP : 「アンテノーラ / プラントの守備を / お前に任せる
+  LIT: Antenora: I leave the plant's defense to you.
+  RE : Antenora: I leave the plant's
+       defense to you.
+
+[US#5820] (Vinsfeld)
+  JP : 「私は、トロメアと合流し / 『ヘイムダル・ガッツォー』へと向かう / ここを頼んだぞ〜
+  LIT: I'll join with Ptolomea and head for the "Heimdal Gazzo"; this place is in your hands.
+  RE : I'll join with Ptolomea and head
+       for the |Heimdal Gazzo|. This
+       place is in your hands.
+
+[US#5821] (Antenora)
+  JP : 「私を<b:8aa6>と思うのなら / 今ここで手にかけるがよい
+  LIT: If you take me for an enemy, then strike me down here and now.
+  RE : If you take me for an enemy, then
+       strike me down here and now.
+
+[US#5822] (Antenora)
+  JP : 「ただ今より / ＡＲＭＳ<88cc>撃の任にあたります
+  LIT: As of now, I take up the duty of intercepting ARMS.
+  RE : As of now, I take up the duty of
+       intercepting ARMS.
+
+[US#5823] (Ashley, thinking)
+  JP : （まさか、[05]お / そんなことないよな…）
+  LIT: (Surely not, {1}... that couldn't be, could it...)
+  RE : (Surely not, {1}... that couldn't
+       be, could it...)
+
+[US#5824] (Lilka)
+  JP : 「でもさ、なんか / わたしたちが<b:8aa2>るのが / 分かってたみたいだよねッ！
+  LIT: But it's almost as if they knew we were coming!
+  RE : But it's almost as if they knew
+       we were coming!
+
+[US#5826] (Ashley)
+  JP :
+  LIT: (EN only) We're going to put a stop to your schemes!
+  RE : We're going to put a stop to your
+       schemes! [?]
+
+[US#5827] (Ashley)
+  JP : 「お前たちの / たくらみは俺たちが / 阻止してみせるッ！
+  LIT: Your schemes: we WILL put a stop to them!
+  RE : Your schemes: we WILL put a stop
+       to them!
+
+[US#5828] (Antenora)
+  JP : 「だって、わたしが / あなたたちの前に / たちはだかるのですもの〜
+  LIT: But of course; it is I who stands in your way.
+  RE : But of course; it is I who stands
+       in your way.
+
+[US#5829] (Antenora)
+  JP : 「あなたたちの<b:8ab0>なんて / しょせんはその程度のものだったのね〜
+  LIT: So your bonds amounted to no more than that, after all.
+  RE : So your bonds amounted to no more
+       than that, after all.
+
+[US#5830] (Antenora)
+  JP : 「<b:8a50>だけではなく / コピーした人間の渡録や能力まで / すべてを<89f3>み取る無<b:8ab2>の怪人〜
+  LIT: A formless monster that copies not only shape but the memories and skills of its target, taking all.
+  RE : A formless monster that copies
+       not just shape but the memories
+       and skills of its target.
+
+[US#5831] (Antenora)
+  JP : 「あなたたちの情報全ては / 『[05]お』の<b:8a50>をした / ドッペルゲンガーによって<b:8ab3>抜けだったのよ
+  LIT: All your intelligence was laid bare by a doppelganger wearing "{1}'s" shape.
+  RE : All your intelligence was laid
+       bare by a doppelganger wearing
+       |{1}'s| shape.
+
+[US#5832] (Antenora)
+  JP : 「私の放ったドッペルゲンガーによって / 仲間に対して不信信を<b:8ab4>くあなたたちは / 期想以上に動<b:8ab5>してくれたわ
+  LIT: Thanks to the doppelganger I loosed, you sowed such distrust among yourselves; you wavered beyond my hopes.
+  RE : Thanks to the doppelganger I
+       loosed, you sowed distrust and
+       wavered beyond my hopes.
+
+[US#5833] (Antenora)
+  JP : 「早くッ！
+  LIT: Now!
+  RE : Now!
+
+[US#5834] (Ashley)
+  JP : 「そうかもしれない / いや、たしかにそうだッ！
+  LIT: Maybe that's so; no, it's certainly so!
+  RE : Maybe that's so. No, it's
+       certainly so!
+
+[US#5836] (Ashley)
+  JP : [17]
+  LIT: (EN only) So I don't submit to you! And to strengthen my friendships!
+  RE : So we won't yield to you! And to
+       make our bonds stronger! [?]
+
+[US#5837] (Ashley)
+  JP : 「お前たちに屈しないためにッ！ / そして、俺らの<b:8ab0>のためにッ！
+  LIT: So as not to yield to you! And for the sake of our bonds!
+  RE : So as not to yield to you! And
+       for the sake of our bonds!
+
+[US#5838] (Antenora)
+  JP : 「<b:8ab7>退だ〜 / 今回のミッションは失<893d>だッ！ / いったん招きあげようッ！
+  LIT: Retreat! This mission's a failure! Pull back for now!
+  RE : Retreat! This mission's a
+       failure! Pull back for now!
+
+[US#5839] (Antenora)
+  JP : 「任務を<89d8>行する〜
+  LIT: Carrying out the mission...
+  RE : Carrying out the mission...
+
+[US#5841] (Brad)
+  JP : [17]
+  LIT: (EN only) It... the |Gias| won't come off so easily!
+  RE : It... the |Gias| won't come off
+       so easily! [?]
+
+[US#5842] (Brad)
+  JP : 「そいつが〜 / 『ギアス』が簡単に / はずれるわけないだろうッ！
+  LIT: That thing; the "Gias" doesn't just come off that easily!
+  RE : That thing; the |Gias| doesn't
+       just come off that easily!
+
+[US#5843] (Brad)
+  JP : 「こいつは『バイツァダスト』と違って / 爆発の<b:8aba>撃を<b:8abb><b:8aba><b:8abc>移させるなんて / 気の利いたことはできないんだ
+  LIT: Unlike "Eat My Dust," this one can't do anything so clever as displacing the blast's shock.
+  RE : Unlike |Eat My Dust|, this one
+       can't do anything so clever as
+       displacing the blast.
+
+[US#5844] (Brad)
+  JP : 「僕が<b:8aa8>心をブッ飛ばす前に / お前たちは / ここから急いで脱出しろ
+  LIT: Before I blow the core sky-high, the rest of you get out of here, fast.
+  RE : Before I blow the core sky-high,
+       the rest of you get out of here,
+       fast.
+
+[US#5846] (party)
+  JP : [17]
+  LIT: (EN only) We'll meet again. Promise. I promise!
+  RE : We'll meet again. That's a
+       promise. I promise! [?]
+
+[US#5848] (Brad)
+  JP :
+  LIT: (EN only) Soon, both you and I will be blasted by Gias. Be patient.
+  RE : Soon, the Gias will blow us both
+       away, you and me. Sit tight. [?]
+
+[US#5849] (Brad)
+  JP : 「じきに僕もお前も / ギアスがブッ飛ばしてくれるんだ / おとなしく待っていろ
+  LIT: Soon the Gias will blow us both away, you and me; so sit quiet and wait.
+  RE : Soon the Gias will blow us both
+       away, you and me. So sit quiet
+       and wait.
+
+[US#5852] (Brad)
+  JP : [17]
+  LIT: (EN only) So, that |dog collar| around your neck is the same as the real one?
+  RE : So that |dog collar| around your
+       neck is the same as the real
+       one? [?]
+
+[US#5853] (Brad)
+  JP : 「なら、その<888a>にある / 『<b:8ac7>の<888a><b:8ac8>』〜 / ギアスもオリジナルと同じなんだろ？
+  LIT: Then that "collar around your neck"; the Gias on it is the same as the original, isn't it?
+  RE : Then that |collar| around your
+       neck; the Gias on it is the same
+       as the original, right?
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#5787] SKIPPED - no content box in decode
+[US#5801] SKIPPED - no content box in decode
+[US#5805] SKIPPED - no content box in decode
+[US#5809] SKIPPED - no content box in decode
+[US#5814] SKIPPED - no content box in decode
+[US#5825] SKIPPED - no content box in decode
+[US#5835] SKIPPED - no content box in decode
+[US#5840] SKIPPED - no content box in decode
+[US#5845] SKIPPED - no content box in decode
+[US#5847] SKIPPED - no content box in decode
+[US#5850] SKIPPED - no content box in decode
+[US#5851] SKIPPED - no content box in decode
