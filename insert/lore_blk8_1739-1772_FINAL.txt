@@ -1,0 +1,216 @@
+# WA2 — Block 8, US#1739-1772 — FINAL (Guardians / Blaze of Disaster + Mana/Ley-Line lore)
+# =========================================================================================
+# Chateau NPC lore run: the Sword Magess vs the Blaze of Disaster ("Sword Wielder"), Guardians
+# as the world's supporting power, Odessa suspicions, then Mana / Ley Lines / Gems / Palace
+# Village / Live Reflector geography. JP-primary (deep-tail; EN drifts). This range is heavily
+# kanji-coded; genuinely unreadable single spans are marked [?] rather than invented. Canonical
+# terms per WA2_NAME_DICTIONARY: Sword Magess, Blaze of Disaster, Guardian, Mana, Ley Line, Gem,
+# Palace Village, Live Reflector, Aguelite, Germatron, Quartly. Hand-done (API limit on fleet).
+
+[US#1739] (Chateau NPC)
+  JP : 「支配者とも呼ばれる彼らの力が / ファルガイアに及ばなくなったために / 徐々に世界が<b:8b2c>野合しているということは〜
+  LIT: Because the power of those called rulers no longer reaches Filgaia, the world is slowly [decaying].
+  RE : Their power, they were called
+       rulers, no longer reaches Filgaia,
+       so the world slowly withers.
+
+[US#1740] (Chateau NPC)
+  JP : 「＜剣の聖女＞と『剣の剣士』との戦いは / 相打ち / なんかではない〜
+  LIT: The battle between the <Sword Magess> and the "Sword Wielder" was no mutual kill.
+  RE : The <Sword Magess> and the |Sword
+       Wielder|, their battle was no
+       mutual end.
+
+[US#1741] (Chateau NPC)
+  JP : 「『剣の剣士』の目的が世界の滅亡ならば / 少しずつ達成されようとしている〜
+  LIT: If the Sword Wielder's aim is the world's ruin, it is slowly being achieved.
+  RE : If the |Sword Wielder| seeks the
+       world's ruin, it is slowly
+       coming to pass.
+
+[US#1742] (Chateau NPC)
+  JP : 「そう、『剣の剣士』は / 今もファルガイアを<b:8b50>んでいるんだ〜ッ！
+  LIT: Yes, the Sword Wielder is [gnawing at] Filgaia even now!
+  RE : Yes, the |Sword Wielder| gnaws
+       at Filgaia even now!
+
+[US#1743] (Chateau NPC)
+  JP : 「いったい、どこからどうやって / オデッサに<b:8b54><b:8b55>したのだろう？
+  LIT: How on earth did it come to Odessa, and from where?
+  RE : How on earth did it reach Odessa,
+       and from where?
+
+[US#1744] (Chateau NPC)
+  JP : 「『剣士』とは / ファルガイアを保護するとされる / ガーディアンの暴走体って話だ
+  LIT: They say the "Wielder" is a runaway form of the Guardians said to protect Filgaia.
+  RE : They say the |Wielder| is a
+       Guardian gone berserk, one meant
+       to protect Filgaia.
+
+[US#1745] (Chateau NPC)
+  JP : 「ガーディアンとは世界を支える力と聞く / それと同時の力を持つ『剣士』とは / どれほど恐ろしいモノなんだろう〜
+  LIT: Guardians are the power that upholds the world. How fearsome must a "Wielder" with equal power be?
+  RE : Guardians uphold the world. A
+       |Wielder| with equal power, how
+       fearsome must it be?
+
+[US#1746] (Chateau NPC)
+  JP : 「衛星は<b:8b59><b:8b5a>を示すというが〜 / ファルガイアを<b:8b5b>がすオデッサの動<8945>〜 / あれをさしているのだろうか？
+  LIT: They say the satellite signals [?]. Does it point to Odessa's movements that threaten Filgaia?
+  RE : The satellite is said to signal
+       [?]. Odessa's stirrings that
+       menace Filgaia, does it mean those?
+
+[US#1747] (Chateau NPC)
+  JP : 「決起表次をおこなったテロリスト〜 / オデッサの<888a><b:8b5c>のことなんだが / 渡録のどこかに招っかかるんだよな
+  LIT: The terrorists who rose up, Odessa's [?]; something about the records nags at me.
+  RE : Those terrorists who rose up,
+       Odessa. Something in the records
+       nags at me.
+
+[US#1748] (Chateau NPC)
+  JP : 「どこかの共の軍関係者〜 / あるいは、そこに<b:8a38>するような機関〜 / 気になるんだよな〜
+  LIT: Some nation's military people, or an agency tied to them; it bothers me.
+  RE : Some nation's military, or an
+       agency tied to them. It bothers
+       me.
+
+[US#1749] (Chateau NPC)
+  JP : 「あんたが英雄と呼ばれたのは / <b:8b5e><b:8a41>した戦闘力と果<b:8b44> / だが、それだけじゃないと僕は考える
+  LIT: You were called a hero for your [outstanding] combat power and [deeds]; but I think it was more than that.
+  RE : They called you a hero for your
+       great strength and deeds. But it
+       was more than that, I think.
+
+[US#1750] (Chateau NPC)
+  JP : 「街戦終了後、解放軍を救うために限力し / ひとり、<8965>われることで / 追手の目が他に及ぶことを防いだ〜
+  LIT: After the fighting, you strained to save the Liberation Army, letting yourself be [taken] alone to keep pursuers off the rest.
+  RE : After the fighting, to save the
+       Liberation Army you let yourself
+       be taken, drawing pursuit away.
+
+[US#1751] (Chateau NPC)
+  JP : 「仲間を保ることを知っているから / あんたは、街戦が終って<88d2>数年っても / 『英雄』と呼ばれるんだ
+  LIT: Because you know how to protect your comrades, you're still called a hero years after the fighting ended.
+  RE : Because you know how to shield
+       your comrades, they still call
+       you a hero years on.
+
+[US#1752] (Chateau NPC)
+  JP : 「その真実の多くは<b:8ae1>の中だが / 一説によると、解放軍リーダーが / 保身のために仲間を<b:8b62>ったって話だぜ
+  LIT: Much of the truth is [buried], but one account says the Liberation Army's leader [sold out] his comrades to save himself.
+  RE : Much of the truth is buried, but
+       one tale says the Army's leader
+       sold out his comrades to survive.
+
+[US#1753] (Chateau NPC)
+  JP : 「今度は僕たち、ＡＲＭＳが / ファルガイアを保る番だぜ
+  LIT: Now it's our turn, ARMS, to protect Filgaia.
+  RE : Now it's our turn, ARMS, to
+       protect Filgaia.
+
+[US#1756] (Chateau NPC)
+  JP : 「俺は、[0a]ぉ方を / 今まで通り信じられるのだろうか？ / 最度の人間不信におちいりそうだよ〜
+  LIT: Can I still trust {2} as before? I feel myself falling into deep mistrust of people.
+  RE : Can I still trust {2} as before?
+       I feel myself sinking into deep
+       mistrust.
+
+[US#1757] (Chateau NPC)
+  JP : 「<b:8b66>通は人里離れたところにあるんだけど〜
+  LIT: Normally it's in a place far from any village.
+  RE : Normally it sits far from any
+       village.
+
+[US#1758] (Chateau NPC)
+  JP : 「タウンメリアから北に、道を隔てた他には / パレスヴィレッジという / レイポイントの恩恵を受けた国があるんだ
+  LIT: North of Town Meria, across the road, there's a nation called Palace Village blessed by a Raypoint.
+  RE : North of Town Meria, across the
+       road, lies Palace Village, a land
+       blessed by a Raypoint.
+
+[US#1759] (Chateau NPC)
+  JP : 「大地を満たす『マナ』が / パレス<b:8b10>という / 結跡品を生み出しているんだな
+  LIT: The "Mana" that fills the land produces a crystalline product called Palace [Wheat].
+  RE : The |Mana| that fills the land
+       yields a crystalline crop, the
+       Palace Wheat.
+
+[US#1760] (Chateau NPC)
+  JP : 「レイライン中の生命エネルギーの流れが / <b:8b67>っているみたいなんだッ！
+  LIT: The flow of life energy through the Ley Lines seems to be [slowing/failing]!
+  RE : The life-energy flow through the
+       Ley Lines seems to be failing!
+
+[US#1761] (Chateau NPC)
+  JP : 「空だけではない〜 / 見えないところで大地も / この星、全体が何者かに食われているんだ
+  LIT: Not just the sky. Unseen, the land too; this whole star is being devoured by something.
+  RE : Not just the sky. Unseen, the
+       land too. This whole star is
+       being devoured.
+
+[US#1762] (Chateau NPC)
+  JP : 「マナはファルガイアが持つ / もっとも大きなエネルギー〜 / そして、無くてはならないモノなんだ
+  LIT: Mana is Filgaia's greatest energy, and something it cannot do without.
+  RE : Mana is Filgaia's greatest energy,
+       and something the world cannot
+       do without.
+
+[US#1763] (Chateau NPC)
+  JP : 「ジェムはレイラインからこぼれた / 生命エネルギーの結<b:8ad5>だからね
+  LIT: Gems are crystals of life energy spilled from the Ley Lines.
+  RE : Gems are crystals of life energy
+       spilled from the Ley Lines.
+
+[US#1764] (Chateau NPC)
+  JP : 「バスカーたちが隠れ住む里の付近は / ファルガイアの中でも / 作年のレイラインが通っているところなんだ
+  LIT: The area near the village where the Baskar hide is one of Filgaia's [oldest] Ley-Line paths.
+  RE : Near the village where the Baskar
+       hide runs one of Filgaia's oldest
+       Ley Lines.
+
+[US#1765] (Chateau NPC)
+  JP : 「だから、里の縁拠には / 願く険しい山が広がっているんだな
+  LIT: That's why steep, forbidding mountains spread around the village's edges.
+  RE : That's why steep, forbidding
+       mountains ring the village.
+
+[US#1766] (Chateau NPC)
+  JP : 「ホルストの場や / 俺が以前勤めていたレイライン観待施設は / その典型的なパターンだよ
+  LIT: The Holst site and the Ley-Line observation facility where I once worked are typical of it.
+  RE : The Holst site, and the Ley-Line
+       station where I once worked, are
+       typical of it.
+
+[US#1768] (Chateau NPC)
+  JP : 「アグエライト渓谷なら、『遺跡渓谷』行きに / ゲルマトロン渓谷なら、『枯谷<b:8b72><89f4>』行きに / 飛び込めばすぐだよ
+  LIT: For Aguelite Valley, jump in bound for the "Ruins Valley"; for Germatron Valley, for the "Withered Valley [?]."
+  RE : For Aguelite Valley, board the
+       Ruins Valley run; for Germatron,
+       the Withered Valley run.
+
+[US#1769] (Chateau NPC)
+  JP : 「その<b:8b73>動も / 生命エネルギーによって / 支えられているらしいんだな
+  LIT: That [operation] too seems to be sustained by life energy.
+  RE : That system too, it seems, is
+       sustained by life energy.
+
+[US#1770] (Chateau NPC)
+  JP : 「シャトーの近くにも一軒あるぞ / 先東の山の中だ
+  LIT: There's one near the Chateau too, up in the mountains to the southeast.
+  RE : There's one near the Chateau too,
+       up in the southeast mountains.
+
+[US#1771] (Chateau NPC)
+  JP : 「そこにもレイラインが通っているから / ライブリフレクターの<b:8b73>動には / 適しているというわけだ
+  LIT: A Ley Line runs there too, so it's well suited to running a Live Reflector.
+  RE : A Ley Line runs there too, so
+       it suits running a Live
+       Reflector.
+
+[US#1772] (Chateau NPC)
+  JP : 「味のため、<b:8b75>気に戦線に任<b:8b76>する一<b:8b77>の<b:8b78>〜 / ああ、これからも観待したい〜
+  LIT: [?] cheerfully taking to the front for our sake; ah, I'd like to keep watching that.
+  RE : Those who take cheerfully to the
+       front for our sake. I hope to
+       keep seeing it.
