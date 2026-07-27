@@ -1,0 +1,833 @@
+# WA2 — Block 18, US#4449-4592 — FINAL (Quartly/Slayheim: Eliza's grudge, hero-legend truth, spy rumors — block 18 complete)
+# =========================================================================================
+# Quartly (merc town by the Slayheim salt flats): Archheim the lost capital, Eliza Victoria's
+# grudge (her moderate family guillotined by the revolution), the Slayheim Liberation War's dark
+# side (Vinsfeld selling out the Army, Brad's true heroism as decoy), the townsfolk's spy gossip
+# needling the party (the traitor foreshadowing), Kanon recognition, and Brad's inner doubt.
+# JP-primary; EN aligns well. Ruins/exploration panels included. SKIPPED slots at end.
+
+[US#4449] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4450] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#4451] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#4452] (townsperson)
+  JP : 「でも、いけませんね〜 / 本当に危険な目にあわないと / 立ち上がろうとしないなんて〜
+  LIT: But it's no good, is it: refusing to stand up until real danger strikes.
+  RE : But it's no good, is it: refusing
+       to stand up until real danger
+       strikes.
+
+[US#4453] (townsperson)
+  JP : 「<8a1b>体的に<889a><889b>を右けないから / 誰も、危機信を乗れさせているけど / これこそ危険なことなのでは？
+  LIT: Since no concrete harm has come, everyone's let their sense of danger slip; isn't that itself the danger?
+  RE : Since no concrete harm has come,
+       everyone's let their guard slip.
+       Isn't that the danger?
+
+[US#4454] (townsperson)
+  JP : 「私もこのあいだまで / 危機信を失っていましたが〜
+  LIT: I too had lost my sense of danger until the other day.
+  RE : I too had lost my sense of danger
+       until the other day.
+
+[US#4455] (townsperson)
+  JP : 「でも、とくに大きな発ぎが / 起きたわけじゃないから / <b:8a38>々に<b:8a39>れてきちゃったわ
+  LIT: But since no great uproar came of it, little by little the shock wore off.
+  RE : But since no great uproar came of
+       it, little by little the shock
+       wore off.
+
+[US#4456] (scholar)
+  JP : 「そう、過去面で<b:8a3b>られるように / アークハイムは / 失われた、過去の場なのです
+  LIT: Yes: as it is told in the past tense, Archheim is a lost city of the past.
+  RE : Yes: as it is told in the past
+       tense, Archheim is a lost city of
+       the past.
+
+[US#4457] (scholar)
+  JP : 「ですが、数幼き娘に / 何ができるものではなく / やがて、この地より<b:8a43>を消したのです
+  LIT: But there was nothing a young girl could do, and in time she vanished from this land.
+  RE : But there was nothing a young
+       girl could do, and in time she
+       vanished from this land.
+
+[US#4458] (scholar)
+  JP : 「生きていれば / <b:8a44>しく成長しているはず / 今は、どこで何をしているのか〜
+  LIT: If she lives, she must have grown beautiful; where is she now, and what is she doing?
+  RE : If she lives, she must have grown
+       beautiful. Where is she now, and
+       what is she doing?
+
+[US#4459] (scholar)
+  JP : 「残されたひとり娘のエリザ<b:8a4a>は / 解放軍に強い恨みを / いだいていたといいますが〜
+  LIT: The sole surviving daughter, Eliza, is said to have harbored a fierce grudge against the Liberation Army.
+  RE : The sole surviving daughter,
+       Eliza, harbored a fierce grudge
+       against the Liberation Army.
+
+[US#4460] (scholar)
+  JP : 「街戦の<8865>後、解放軍も<b:8a4b>解してしまい / エリザ<b:8a4a>の恨みははらせぬまま / 今にいたっているのです
+  LIT: Right after the civil war the Army disbanded, and Eliza's grudge remains unavenged to this day.
+  RE : Right after the war the Army
+       disbanded, and Eliza's grudge
+       remains unavenged to this day.
+
+[US#4461] (townsperson)
+  JP : 「そう〜 / あなたたちのようにね
+  LIT: Yes... just like you all did.
+  RE : Yes... just like you all did.
+
+[US#4462] (townswoman)
+  JP : 「だからこそ / ここからの動きが / 恐ろしいのよ〜
+  LIT: That is exactly why their next move is so frightening.
+  RE : That is exactly why their next
+       move is so frightening.
+
+[US#4463] (townswoman)
+  JP : 「大勢でやってきて / 武器とか食料とかを調達していたのは / あなたと、その仲間だったわよね
+  LIT: The big group that came buying weapons and food; that was you and your companions, wasn't it?
+  RE : The big group that came buying
+       weapons and food; that was you
+       and your companions, wasn't it?
+
+[US#4464] (townswoman)
+  JP : 「大<886f>の物資をかき集めて / 先の<88db>の道に向かっていったそうじゃない / あれがウワサのオデッサかしら？
+  LIT: They gathered up masses of supplies and headed for the desert yonder, I hear; was that the famous Odessa?
+  RE : They gathered masses of supplies
+       and headed for the desert yonder.
+       Was that the famous Odessa?
+
+[US#4465] (townsperson)
+  JP : 「この<b:8a51>変地異も、そう〜
+  LIT: This cataclysm too, the same.
+  RE : This cataclysm too, the same.
+
+[US#4466] (townswoman)
+  JP : 「ファルガイアに生きる全員に / ふりかかる脅威だから / ウワサを聞いてもおもしろくなんかないわ
+  LIT: It's a threat falling on everyone in Filgaia, so even gossip about it brings no fun.
+  RE : It's a threat falling on everyone
+       in Filgaia, so even gossip brings
+       no fun.
+
+[US#4467] (townswoman)
+  JP : 「たしかに不安はあるけど / 正<8865>言って、恐れはないの
+  LIT: There's unease, certainly; but honestly speaking, no fear.
+  RE : There's unease, certainly. But
+       honestly speaking, no fear.
+
+[US#4468] (townswoman)
+  JP : 「あまりにも / 非世<b:8a54>な出<b:8a55>事ばかりだから / どこか信信がマヒしているのかも〜
+  LIT: With nothing but unearthly events, perhaps my senses have gone numb somewhere.
+  RE : With nothing but unearthly
+       events, perhaps my senses have
+       gone numb somewhere.
+
+[US#4469] (townswoman)
+  JP : 「スレイハイム解放戦役っていうと / 何だかカッコイイけれど / いろいろと暗いウワサは<b:8a59>えないわ
+  LIT: "The Slayheim Liberation War" sounds gallant, but the dark rumors around it never fade.
+  RE : The Slayheim Liberation War
+       sounds gallant, but the dark
+       rumors around it never fade.
+
+[US#4470] (townswoman)
+  JP : 「そうよね / どんなに取り<b:8a5a>っても / 戦争は戦争だもの
+  LIT: That's right: dress it up however you like, war is war.
+  RE : That's right: dress it up however
+       you like, war is war.
+
+[US#4471] (townsperson)
+  JP : 「人が生きている限り / ウワサは口の端にのぼるもんだからね
+  LIT: As long as people live, rumor will find its way to their lips.
+  RE : As long as people live, rumor
+       will find its way to their lips.
+
+[US#4472] (townsperson)
+  JP : 「今となっては / 浮かばれない<b:8a68>がさまよう / 死者の場となっているとか〜
+  LIT: Now, they say, it's a city of the dead where unquiet souls wander.
+  RE : Now, they say, it's a city of the
+       dead where unquiet souls wander.
+
+[US#4473] (townswoman)
+  JP : 「そこは、スレイハイムの王都 / アークハイムがあった場所なのよ
+  LIT: That's where Archheim, Slayheim's royal capital, once stood.
+  RE : That's where Archheim, Slayheim's
+       royal capital, once stood.
+
+[US#4474] (townswoman)
+  JP : 「アークハイムには / ライブリフレクターが備えられていて / それを中心に栄えていたの
+  LIT: Archheim had a Live Reflector, and flourished around it.
+  RE : Archheim had a Live Reflector,
+       and flourished around it.
+
+[US#4475] (townswoman)
+  JP : 「でも、５数前の街戦で / かつての栄<b:8a6a>も人の命も / 全部、塩にのまれてしまったけどね
+  LIT: But in the civil war five years back, its old glory and its people's lives were all swallowed by the salt.
+  RE : But in the civil war five years
+       back, its glory and its people
+       were swallowed by the salt.
+
+[US#4476] (townswoman)
+  JP : 「今や、アークハイムの<b:8a6b>人は / 浮かばれない亡者ばかりと聞いてるわ
+  LIT: Now, I hear, Archheim's only residents are the restless dead.
+  RE : Now, I hear, Archheim's only
+       residents are the restless dead.
+
+[US#4477] (townswoman)
+  JP : 「これでも持っていって / 彼らの仲間にならないように / 気をつけなさいよ
+  LIT: Take this with you, and mind you don't end up joining their number.
+  RE : Take this with you, and mind you
+       don't end up joining their
+       number.
+
+[US#4478] (townswoman)
+  JP : 「ようするに、見<b:8a6e>めるための / 判断力が大事ってことね
+  LIT: In short, what matters is the judgment to see through to the truth.
+  RE : In short, what matters is the
+       judgment to see through to the
+       truth.
+
+[US#4481] (gossip)
+  JP : 「ちょっと / 気になることがあるのよね
+  LIT: There's just one thing that's been bothering me.
+  RE : There's just one thing that's
+       been bothering me.
+
+[US#4482] (gossip)
+  JP : 「どうしてあんたたちの行くところ / 相であるオデッサが / 必ず現われるのかしら？
+  LIT: Why is it that wherever you go, your foe Odessa is sure to appear?
+  RE : Why is it that wherever you go,
+       your foe Odessa is sure to
+       appear?
+
+[US#4483] (gossip)
+  JP : 「もしかして / あんたたちの情報が / 向こうに<b:8a71>抜けなんじゃないの？
+  LIT: Could it be your information is leaking straight through to them?
+  RE : Could it be your information is
+       leaking straight through to them?
+
+[US#4484] (gossip)
+  JP : 「なのに、行く先々で / オデッサに出くわすなんて / 不思議な話だとは思わない？
+  LIT: And yet you run into Odessa at every turn; doesn't that strike you as strange?
+  RE : And yet you run into Odessa at
+       every turn. Doesn't that strike
+       you as strange?
+
+[US#4485] (gossip)
+  JP : 「そうよッ！ / スパイよ、密告者、街通者よッ！
+  LIT: That's it! A spy! An informer! A collaborator!
+  RE : That's it! A spy! An informer! A
+       collaborator!
+
+[US#4486] (gossip)
+  JP : 「きっとそういうのが / いるに違わないわッ！
+  LIT: There must be one among you, I'm sure of it!
+  RE : There must be one among you, I'm
+       sure of it!
+
+[US#4487] (gossip)
+  JP : 「気をつけてごらんなさい / ホラ、心当たりが / あるんじゃないかしら〜
+  LIT: Look sharp; see, doesn't someone come to mind?
+  RE : Look sharp. See, doesn't someone
+       come to mind?
+
+[US#4488] (scholar)
+  JP : 「それも大きな<88f6><889b>〜 / <b:8a73><889b>、<b:8a73><b:8a74>と呼ばれるような / <88bf>大な力が、あるいは〜
+  LIT: Or some great calamity; a vast power of the kind called disaster; or else...
+  RE : Or some great calamity, a vast
+       power of the kind called
+       disaster. Or else...
+
+[US#4489] (scholar)
+  JP : 「ですが、大地が完全に塩にのまれるのを / 阻止してくれたのも事実なのです
+  LIT: And yet it is also fact that it kept the land from being wholly swallowed by the salt.
+  RE : And yet it is also fact that it
+       kept the land from being wholly
+       swallowed by the salt.
+
+[US#4490] (scholar)
+  JP : 「世の中、いったい何が / うまく作用するのかわからないものです
+  LIT: In this world, one never knows what will turn out to work for the good.
+  RE : In this world, one never knows
+       what will turn out to work for
+       the good.
+
+[US#4491] (townsperson)
+  JP : 「ここはかつて / 大地を失った世界〜 / 今さら<8845>きはしませんよ
+  LIT: This was a world that lost its land once already; nothing surprises me now.
+  RE : This was a world that lost its
+       land once already. Nothing
+       surprises me now.
+
+[US#4492] (scholar)
+  JP : 「その<b:8a79>都の名はアークハイム〜 / スレイハイム国の中心ともいえる / 大きな場の亡<b:8a7b>です
+  LIT: The ruined capital's name is Archheim: the ghost of a great city, heart of the Slayheim nation.
+  RE : The ruined capital's name is
+       Archheim: the ghost of a great
+       city, heart of Slayheim.
+
+[US#4493] (scholar)
+  JP : 「渡り左たちが / 一<b:8a7e><b:8a7f>金を<b:8a80>見ているそうですが / さて、うまくいくのでしょうか？
+  LIT: The Drifters, I hear, dream of striking it rich there; will it go well, I wonder?
+  RE : The Drifters, I hear, dream of
+       striking it rich there. Will it
+       go well, I wonder?
+
+[US#4494] (scholar)
+  JP : 「その塩の辺には / かつて、スレイハイムと呼ばれた / 軍事大国があったのです〜
+  LIT: In that salt waste there once stood the military great power called Slayheim.
+  RE : In that salt waste there once
+       stood the military great power
+       called Slayheim.
+
+[US#4495] (townsperson)
+  JP : 「だけど、弱い心ゆえに / 手を取り合い協力していくすべを / 知っているものなのかもしれない
+  LIT: And yet perhaps it is the weak-hearted who know the way of joining hands and working together.
+  RE : And yet perhaps it is the weak-
+       hearted who know the way of
+       joining hands together.
+
+[US#4496] (townsperson)
+  JP : 「以前では考えられなかったことだ / 国と国、人と人とが / 手を取り合っていくなんて…
+  LIT: It would have been unthinkable before: nation with nation, person with person, joining hands...
+  RE : It would have been unthinkable
+       before: nation with nation,
+       person with person, joined...
+
+[US#4497] (cynic)
+  JP : 「最後には / この空のようになっちまうものさ
+  LIT: In the end, it all winds up like this sky.
+  RE : In the end, it all winds up like
+       this sky.
+
+[US#4498] (townsperson)
+  JP : 「あんたも本当に仲間を信じているなら / <b:8a81>いを<b:8a88>らす方法だって / あったと僕は思うぜ
+  LIT: If you truly trusted your companion, I reckon there was a way to clear the doubt.
+  RE : If you truly trusted your
+       companion, I reckon there was a
+       way to clear the doubt.
+
+[US#4499] (townsperson)
+  JP : 「でもよ、弱さを<89b8><b:8a89>も持っていない / 完<b:8a8a>な心を持っているヤツは / 人間として、どこか欠けているに違いない
+  LIT: But a fellow with a perfect heart and not a scrap of weakness must be lacking somewhere as a human.
+  RE : But a fellow with a perfect heart
+       and not a scrap of weakness must
+       be lacking as a human.
+
+[US#4500] (townsperson)
+  JP : 「そう、思わないか？
+  LIT: Don't you think so?
+  RE : Don't you think so?
+
+[US#4501] (suspicious NPC)
+  JP : 「あんた、あやしい連中とつるんで / 近頃この場に出<b:8a8b>しているよな？
+  LIT: You've been hanging with that shady lot, coming and going here lately, haven't you?
+  RE : You've been hanging with that
+       shady lot, coming and going here
+       lately, haven't you?
+
+[US#4502] (suspicious NPC)
+  JP : 「あんた、まさか / テロリスト・オデッサに / <b:8a8c>しているんじゃないだろうな
+  LIT: Don't tell me you're mixed up with the terrorists, Odessa?
+  RE : Don't tell me you're mixed up
+       with the terrorists, Odessa?
+
+[US#4503] (suspicious NPC)
+  JP : 「見間違いなんかじゃないッ！
+  LIT: I know what I saw!
+  RE : I know what I saw!
+
+[US#4504] (suspicious NPC)
+  JP : 「悪いことは言わない / あんたらの中に裏切り者がいる / 気をつけたほうがいい
+  LIT: Take my word for it: there's a traitor among you; you'd best beware.
+  RE : Take my word for it: there's a
+       traitor among you. You'd best
+       beware.
+
+[US#4505] (townsperson)
+  JP : 「もしも、ファルガイア中の人間が / 同方に手を取り、あきらめなかったとすれば / この異世事態、切り抜けられるのかもな
+  LIT: If everyone in Filgaia joined hands the same way and refused to give up, we might yet weather this calamity.
+  RE : If everyone in Filgaia joined
+       hands and refused to give up, we
+       might weather this calamity.
+
+[US#4506] (townsperson)
+  JP : 「だからといって / すべてを<88ab>げ出すつもりはない
+  LIT: That said, I've no intention of throwing it all away.
+  RE : That said, I've no intention of
+       throwing it all away.
+
+[US#4507] (townsperson)
+  JP : 「私たち、スレイハイムの民は / かつて<b:8a59><b:8a91>を<b:8a92>り<b:8a93>えてきたんだ
+  LIT: We, the people of Slayheim, have overcome despair before.
+  RE : We, the people of Slayheim, have
+       overcome despair before.
+
+[US#4508] (townsperson)
+  JP : 「今度も右け止めてみせるだけだ
+  LIT: We'll simply weather this one too.
+  RE : We'll simply weather this one
+       too.
+
+[US#4509] (townsperson)
+  JP : 「だが、空を失うといった / <b:8a94>無的な<b:8a73><889b>に対して / どこまで<b:8a95>えるのだろうか？
+  LIT: But against a nihilistic calamity like losing the sky, how long can we hold?
+  RE : But against a nihilistic calamity
+       like losing the sky, how long can
+       we hold?
+
+[US#4510] (townsperson)
+  JP : 「私には / わかりかねるな
+  LIT: That, I could not say.
+  RE : That, I could not say.
+
+[US#4511] (scholar)
+  JP : 「ヴィンスフェルトは / スレイハイム国と / 取り招きを交わそうとしたという
+  LIT: Vinsfeld, they say, sought to strike a bargain with the Slayheim state.
+  RE : Vinsfeld, they say, sought to
+       strike a bargain with the
+       Slayheim state.
+
+[US#4512] (scholar)
+  JP : 「レジスタンス活動の<8996>止と招き<88fb>えに / <b:8a99>と<88b2>力をつかもうと / <b:8a9a>案したそうだ
+  LIT: In exchange for halting the resistance, he schemed to seize wealth and power, so it's said.
+  RE : In exchange for halting the
+       resistance, he schemed to seize
+       wealth and power.
+
+[US#4513] (scholar)
+  JP : 「そんなつもりのために / 解放軍に参加した民衆たちは / 命を<b:8a9d>したわけではない
+  LIT: The common folk who joined the Liberation Army did not risk their lives for ends like those.
+  RE : The common folk who joined the
+       Liberation Army did not risk
+       their lives for ends like those.
+
+[US#4514] (scholar)
+  JP : 「当部、大きく反発され / その時を<b:8a9e>にヴィンスフェルトの<b:8a9f>持は / 辺降<b:8aa0>の一<b:8aa1>をたどったらしい
+  LIT: Naturally there was great backlash, and from that moment Vinsfeld's support only slid downhill.
+  RE : Naturally there was great
+       backlash, and from that moment
+       Vinsfeld's support slid downhill.
+
+[US#4515] (scholar)
+  JP : 「その時の確<b:8aa2>が / 後に解放軍を売り渡すなどという / <b:8aa4><b:8a86>につながったんだろうな
+  LIT: The rancor of that time likely led to the outrage of later selling out the Liberation Army.
+  RE : The rancor of that time likely
+       led to the outrage of later
+       selling out the Army.
+
+[US#4516] (scholar)
+  JP : 「だが、その最後は / あまりにも悲<b:8aa5>であったと
+  LIT: But their end, they say, was tragic beyond measure.
+  RE : But their end, they say, was
+       tragic beyond measure.
+
+[US#4517] (scholar)
+  JP : 「リーダーのヴィンスフェルトは / 私的な目<b:8aa6>見のために解放軍を利用しようと / たくらんでいたというではないか
+  LIT: Their leader Vinsfeld, they say, schemed to use the Liberation Army for his own private gain.
+  RE : Their leader Vinsfeld, they say,
+       schemed to use the Liberation
+       Army for private gain.
+
+[US#4518] (scholar)
+  JP : 「それどころか / 戦後、戦犯として自身の立場が危うくなると / 保身のために解放軍を売ったとも〜
+  LIT: Worse: when his own standing as a war criminal grew perilous after the war, he sold the Army to save himself.
+  RE : Worse: when his standing grew
+       perilous after the war, he sold
+       the Army to save himself.
+
+[US#4519] (scholar)
+  JP : 「<b:8a3b>られる事実と / <b:8a3b>られない真実〜
+  LIT: The facts that are told, and the truth that is not.
+  RE : The facts that are told, and the
+       truth that is not.
+
+[US#4520] (scholar)
+  JP : 「スレイハイムの戦いもまた / 部りなのだ〜
+  LIT: The battle of Slayheim, too, is but one part of it.
+  RE : The battle of Slayheim, too, is
+       but one part of it.
+
+[US#4521] (scholar)
+  JP : 「スレイハイムの国<b:8aa7>に異を<b:8aa8>えていた / 穏健派一家ヴィクトリア<b:8a3c>は / 王に連なるものとして処断されたという
+  LIT: The moderate house of Victoria, who dissented from Slayheim's policy, were executed as kin to the king.
+  RE : The moderate house of Victoria,
+       who dissented from state policy,
+       were executed as king's kin.
+
+[US#4522] (scholar)
+  JP : 「当<b:8aa9>は断<b:8aaa><b:8aab>の<b:8aac>と消え / 数幼いひとり娘は解放軍を<b:8aad>みながら / 行方をくらませたと聞いている
+  LIT: The house vanished to the guillotine, and the young only daughter, hating the Liberation Army, disappeared.
+  RE : The house fell to the guillotine,
+       and the young only daughter,
+       hating the Army, disappeared.
+
+[US#4523] (scholar)
+  JP : 「悲しみは / 悲しみを呼ぶと言うが / まさにその言葉通りだと思わないか？
+  LIT: Sorrow calls to sorrow, they say; is this not exactly that?
+  RE : Sorrow calls to sorrow, they say.
+       Is this not exactly that?
+
+[US#4524] (townsperson)
+  JP : 「あやしい一団がこの場から / 大<886f>の物資を搬出していたとの話と / 何か関係あるのかもしれぬ
+  LIT: It may have some link to the tale of a shady band hauling masses of supplies from this town.
+  RE : It may have some link to the tale
+       of a shady band hauling supplies
+       from this town.
+
+[US#4525] (townsperson)
+  JP : 「もしや、あの一団こそが / <b:8ab0>を発がすオデッサなる<b:8ab1>だろうか？
+  LIT: Could that band be the very Odessa that has the world astir?
+  RE : Could that band be the very
+       Odessa that has the world astir?
+
+[US#4526] (townsperson)
+  JP : 「そうだ、先の<88db>の道に物資を運んでいた / あの連中の仲間だろ？ / その<b:8ab2>い目、忘れはしないぞ
+  LIT: That's right: you're with the lot that hauled supplies to the desert yonder, aren't you? I don't forget those sharp eyes.
+  RE : You're with the lot that hauled
+       supplies to the desert, aren't
+       you? I don't forget those eyes.
+
+[US#4527] (townsperson)
+  JP : 「だが、今回はなぜ / 連中と行動を<b:8ab3>にしていないのだ
+  LIT: But why aren't you with them this time?
+  RE : But why aren't you with them this
+       time?
+
+[US#4528] (townsperson)
+  JP : 「ならば、行き場を失った / スレイハイム解放軍の残<b:8ab6>が / オデッサなのだろうか？
+  LIT: Then could Odessa be the remnants of the Slayheim Liberation Army, left with nowhere to go?
+  RE : Then could Odessa be the remnants
+       of the Liberation Army, left with
+       nowhere to go?
+
+[US#4529] (old woman)
+  JP : 「ん？ / お<b:8abc>さん、恐い探してどうしたんだい？ / あぁ、元からだったかねぇ
+  LIT: Hm? What's with the scary face, young man? Oh; it was always like that, was it.
+  RE : Hm? What's with the scary face,
+       young man? Oh; it was always like
+       that, was it.
+
+[US#4530] (old woman)
+  JP : 「まぁ、英雄話に<b:8abd><b:8abe>はつきものだけど / でも世人では考えられないほどの / 戦<b:8abf>をあげたに違いないわ
+  LIT: Well, hero tales always come embroidered; still, his deeds must have been beyond any common man.
+  RE : Well, hero tales always come
+       embroidered. Still, his deeds
+       were beyond any common man.
+
+[US#4531] (old woman)
+  JP : 「英雄なんて / 得てしてそんなものなのかねぇ / 一度くらいは見たかった気がするね
+  LIT: Maybe that's just how heroes are; still, I'd have liked to see him once.
+  RE : Maybe that's just how heroes are.
+       Still, I'd have liked to see him
+       once.
+
+[US#4532] (old woman)
+  JP : 「スレイハイムの解放軍の<b:8ac0><b:8ac1>は / [05]おとかいう / 英雄だったっていう話しだけどね
+  LIT: The Slayheim Liberation Army's figurehead was some hero called {1}, so the story goes.
+  RE : The Liberation Army's figurehead
+       was some hero called {1}, so the
+       story goes.
+
+[US#4533] (old woman)
+  JP : 「戦争って、一人の英雄の力で / どうにかなるものなのかしらねぇ / 話しが<b:8abd><b:8abe>されてるんじゃないのかい？
+  LIT: Can one hero's strength really turn a war? Isn't the story just embroidered?
+  RE : Can one hero's strength really
+       turn a war? Isn't the story just
+       embroidered?
+
+[US#4534] (cynic)
+  JP : 「なんのために戦い / なんのために死んでいったのか / 無<b:8ac3>に命を<b:8ac4>らしただけじゃない
+  LIT: What did they fight for, what did they die for? They only spent their lives for nothing.
+  RE : What did they fight for, what did
+       they die for? They only spent
+       their lives for nothing.
+
+[US#4535] (cynic)
+  JP : 「なんであそこまで / しなきゃならいのかねぇ / 本当に、<b:8ac5>かしいことだね
+  LIT: Why did it have to go that far? Truly a foolish business.
+  RE : Why did it have to go that far?
+       Truly a foolish business.
+
+[US#4536] (townsperson)
+  JP : 「だとすれば / 英雄ではない僕たちができることを / 今回にでも見つけなければならないな
+  LIT: In that case, we who are no heroes must find what we can do, and find it now.
+  RE : In that case, we who are no
+       heroes must find what we can do,
+       and find it now.
+
+[US#4537] (townsperson)
+  JP : 「だが、どこか緊<b:8abe>信が / 欠けているようにも思われるのだ
+  LIT: And yet a certain urgency seems to be missing somewhere.
+  RE : And yet a certain urgency seems
+       to be missing somewhere.
+
+[US#4538] (townsperson)
+  JP : 「５数前の街戦のように / 誰もが英雄の出現を / <b:8a91>んでいるのではなかろうか
+  LIT: Perhaps, as in the civil war five years back, everyone is wishing for a hero to appear.
+  RE : Perhaps, as in the civil war five
+       years back, everyone is wishing
+       for a hero to appear.
+
+[US#4539] (veteran)
+  JP : 「だが、真に[05]おを / 英雄と呼ばしめる理由は / そこではないのだ
+  LIT: But the true reason {1} deserves the name of hero is not that.
+  RE : But the true reason {1} deserves
+       the name of hero is not that.
+
+[US#4540] (veteran)
+  JP : 「あの<b:8acb><b:8acc>党によって売られた解放軍同胞を / <b:8ace>が身を<b:8acf><b:8ad0>にして<b:8ad1>り抜いたところこそ / 彼を英雄たらしめているのだ
+  LIT: It is that he shielded his sold-out Army comrades at the cost of his own body; that is what makes him a hero.
+  RE : He shielded his sold-out Army
+       comrades at the cost of his own
+       body. That makes him a hero.
+
+[US#4541] (veteran)
+  JP : 「でも、彼は、<b:8ac8>び<b:8a43>を現わすと / 追跡部隊から同胞の目をそらすため / <b:8ad2>の役をかって出たんだ
+  LIT: But when he showed himself again, he volunteered as the decoy to draw the pursuers' eyes from his comrades.
+  RE : When he showed himself again, he
+       volunteered as decoy to draw the
+       pursuers from his comrades.
+
+[US#4542] (veteran)
+  JP : 「英雄の名前には<b:8ad3><8875>があるから / 追っ手はこぞって / [05]おをねらったという
+  LIT: A hero's name carries a price, so the pursuers all went after {1}, they say.
+  RE : A hero's name carries a price, so
+       the pursuers all went after {1},
+       they say.
+
+[US#4543] (veteran)
+  JP : 「彼のおかげで / 元解放軍に参加した民衆は / 追跡部隊から逃れることができたんだ
+  LIT: Thanks to him, the common folk who'd joined the Army escaped the pursuit units.
+  RE : Thanks to him, the common folk
+       who'd joined the Army escaped the
+       pursuit units.
+
+[US#4544] (veteran)
+  JP : 「この僕も / 英雄[05]おに救われた / 元スレイハイム解放軍なんだよ〜
+  LIT: I myself am former Slayheim Liberation Army, saved by the hero {1}.
+  RE : I myself am former Slayheim
+       Liberation Army, saved by the
+       hero {1}.
+
+[US#4545] (porter)
+  JP : 「僕たちも<b:8ad4>われて / 連中を手伝っていたから / まちがいはない〜
+  LIT: We were hired to help that lot ourselves, so there's no mistake.
+  RE : We were hired to help that lot
+       ourselves, so there's no mistake.
+
+[US#4546] (porter)
+  JP : 「そのことを話すのは構わないが / 悪い〜 / いくらか都合してもらえないだろうか〜？[18]が
+  LIT: I don't mind telling you about it, but, sorry: could you spare me a little something?
+  RE : I don't mind telling you about
+       it, but, sorry: could you spare
+       me a little something?
+
+[US#4547] (porter)
+  JP : 「僕たちは、そのプラントに / 武器や食料を搬出しに行ったんだが〜
+  LIT: We went to haul weapons and food out to that plant, but...
+  RE : We went to haul weapons and food
+       out to that plant, but...
+
+[US#4548] (porter)
+  JP : 「僕たちは、そのプラントに / 武器や食料を搬出しに行ったんだ
+  LIT: We went to haul weapons and food out to that plant.
+  RE : We went to haul weapons and food
+       out to that plant.
+
+[US#4549] (porter)
+  JP : 「そこでは / 大<886f>の物資を調達して / <b:8ad6>密裏な特<b:8a9a>をすすめていたようだ
+  LIT: There they were amassing supplies and advancing some secret work, it seemed.
+  RE : There they were amassing supplies
+       and advancing some secret work,
+       it seemed.
+
+[US#4550] (porter)
+  JP : 「<89f5>には、<8999>陸<b:8ad7>を<8996>められる / 海岸もあったから / 道<89ca>からの物資の搬入もあったんだろう
+  LIT: Nearby was a shore where a barge could anchor, so supplies must have come in by sea as well.
+  RE : Nearby was a shore where a barge
+       could anchor, so supplies must
+       have come in by sea as well.
+
+[US#4551] (porter)
+  JP : 「だが、あの回は / それだけではなかったのだ〜
+  LIT: But that day, that was not all.
+  RE : But that day, that was not all.
+
+[US#4552] (porter)
+  JP : 「作<b:8ad8>が終ると / 連中は僕たちに向かって / <b:8ad9>を撃ってきたんだ
+  LIT: When the work was done, that lot turned their guns on us.
+  RE : When the work was done, that lot
+       turned their guns on us.
+
+[US#4553] (porter)
+  JP : 「僕は命からがら逃げのびたが / 他の仲間はみんな〜
+  LIT: I fled with my life, barely; but all the others...
+  RE : I fled with my life, barely. But
+       all the others...
+
+[US#4554] (porter)
+  JP : 「くそッ、ヤツら / いったい何だったんだッ！
+  LIT: Damn them; what in blazes were they?!
+  RE : Damn them; what in blazes were
+       they?!
+
+[US#4555] (townsperson)
+  JP : 「だが、あの戦役の中 / <b:8adb>真も近しい者も失われてしまい / その探を知る者は誰もいない
+  LIT: But in that war, both photographs and those close to him were lost; no one knows his face.
+  RE : But in that war, both photographs
+       and those close to him were lost.
+       No one knows his face.
+
+[US#4556] (townsperson)
+  JP : 「そのあたりが / 彼の英雄合、伝説合に / <b:8adc>陸をかけているのじゃないのか？
+  LIT: Isn't that exactly what fuels his heroization, his legend?
+  RE : Isn't that exactly what fuels his
+       heroization, his legend?
+
+[US#4557] (townsperson)
+  JP : 「あんたらが<b:8ae5><b:8ae6>されたのは / <b:8ae7>部なのか〜？ / それとも〜
+  LIT: Was it mere chance you were ambushed? Or something else?
+  RE : Was it mere chance you were
+       ambushed? Or something else?
+
+[US#4558] (townsperson)
+  JP : 「こんなにキケンが目<b:8ae9><b:8aea>しの時代に / ホント、タイミングよく / ＡＲＭＳが結成されていてよかったよ〜
+  LIT: In times this openly dangerous, it's truly lucky ARMS was formed with such good timing.
+  RE : In times this openly dangerous,
+       it's truly lucky ARMS was formed
+       with such good timing.
+
+[US#4560] (strategist NPC)
+  JP : 「デカブツほど / よくメシを食うはずだ / あとは動けなくなるのを待てばいい
+  LIT: The bigger the beast, the more it must eat; then just wait for it to be unable to move.
+  RE : The bigger the beast, the more it
+       must eat. Then just wait for it
+       to be unable to move.
+
+[US#4561] (strategist NPC)
+  JP : 「これでどうかな？
+  LIT: How's that for a plan?
+  RE : How's that for a plan?
+
+[US#4564] (townsperson)
+  JP : 「いったい、どこから調達しているんだろう〜
+  LIT: Where on earth are they getting it all from?
+  RE : Where on earth are they getting
+       it all from?
+
+[US#4566] (townsperson)
+  JP : 「信じたくはないけど / 元スレイハイム解放軍が / 今回の発動に関係しているなんてことは〜
+  LIT: I don't want to believe it, but could the former Liberation Army be tied to these attacks?
+  RE : I don't want to believe it, but
+       could the former Liberation Army
+       be tied to these attacks?
+
+[US#4567] (townsperson)
+  JP : 「〜考えすぎだよな
+  LIT: ...I'm overthinking it, right?
+  RE : ...I'm overthinking it, right?
+
+[US#4569] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4573] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4576] (lore panel)
+  JP : ＊世界には、人の手の入っていない / 遺跡が多々残っているはずだ
+  LIT: The world must still hold many ruins untouched by human hands.
+  RE : The world must still hold many
+       ruins untouched by human hands.
+
+[US#4577] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4583] (Marina)
+  JP : 「[05]ぉ・ウィンチェスター〜
+  LIT: {1} Winchester...
+  RE : {1} Winchester...
+
+[US#4584] (party)
+  JP : 「[05]ぉさんのこと / 知っていました〜
+  LIT: She knew who you were, {1}.
+  RE : She knew who you were, {1}.
+
+[US#4585] (party, thinking)
+  JP : （[05]き、何者なんだ〜ッ？）
+  LIT: (Just who is {4}, anyway?!)
+  RE : (Just who is {4}, anyway?!)
+
+[US#4586] (party)
+  JP : 「今回は / ここで身体を休めておこう
+  LIT: For today, let's rest ourselves here.
+  RE : For today, let's rest ourselves
+       here.
+
+[US#4587] (party)
+  JP : 「いないのか？
+  LIT: Not here?
+  RE : Not here?
+
+[US#4588] (party)
+  JP : 「スレイハイム館のことを / くわしく聞きたかったんだけど〜
+  LIT: I wanted to ask in detail about Slayheim Castle, but...
+  RE : I wanted to ask in detail about
+       Slayheim Castle, but...
+
+[US#4589] (NPC)
+  JP : 「スレイハイム館は / 塩の原野を北側に突き進んだ / 外れに級置している
+  LIT: Slayheim Castle sits at the far edge, pressing north across the salt plain.
+  RE : Slayheim Castle sits at the far
+       edge, pressing north across the
+       salt plain.
+
+[US#4590] (Brad, thinking)
+  JP : （……いや、[05]おを信じるんだ / 仲間を信じられないでどうする / いっしょに戦ってきた仲間じゃないか）
+  LIT: (...No: I trust {1}. What am I if I can't trust a comrade? We fought side by side, didn't we?)
+  RE : (...No: I trust {1}. What am I if
+       I can't trust a comrade? We
+       fought side by side.)
+
+[US#4592] (innkeeper)
+  JP : 「おひとり方につき一緒[02]ギャラ / [02]人方ですので、[02]ギャラとなります / よろしいですか？[18]か
+  LIT: It's {2} Gella per guest; for {2} people, that's {2} Gella; all right?
+  RE : It's {2} Gella per guest a night.
+       For your party, that's {2} Gella.
+       All right?
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#4559] SKIPPED - no content box in decode
+[US#4562] SKIPPED - no content box in decode
+[US#4563] SKIPPED - no content box in decode
+[US#4565] SKIPPED - no content box in decode
+[US#4568] SKIPPED - no content box in decode
+[US#4570] SKIPPED - no content box in decode
+[US#4571] SKIPPED - no content box in decode
+[US#4572] SKIPPED - no content box in decode
+[US#4574] SKIPPED - no content box in decode
+[US#4575] SKIPPED - no content box in decode
+[US#4578] SKIPPED - no content box in decode
+[US#4579] SKIPPED - no content box in decode
+[US#4580] SKIPPED - no content box in decode
+[US#4581] SKIPPED - no content box in decode
+[US#4582] SKIPPED - no content box in decode
+[US#4591] SKIPPED - no content box in decode
