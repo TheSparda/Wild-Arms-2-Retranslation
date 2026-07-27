@@ -1,0 +1,319 @@
+# WA2 — Block 8, US#1825-1885 — FINAL (Lombardia/Heimdal lore, Marivel's makeover, Chateau NPCs, disaster examine-panels)
+# =========================================================================================
+# Mixed Chateau content: Lombardia/Heimdal Gazzo tactics, bionic-body (義体) lore, Marivel's
+# haughty makeover of the party (archaic register: warawa/-ja per WA2_CHARACTER_ROSTER), the
+# MapScope upgrade, kid/NPC banter, and the Filgaia-disaster examine panels (US#1878-1885,
+# which recur from the block-6 lore twin). JP-primary; unreadable kanji spans [?]. FILL boxes
+# (1829,1832,1840,1844,1845,1847,1852,1855,1857,1858,1865,1871,1876,1877) left for propagation.
+# Marivel voice: elevated/archaic English, never modern slang. Hand-done (fleet API limit).
+
+[US#1825] (Chateau NPC)
+  JP : 「だけど、シャトーと同じく / サーチ機能が備わっていないから / 結<b:8bad>のところ、地道な探<887e>は変わらないがな
+  LIT: But like the Chateau, it has no search function, so in the end the legwork of searching is the same.
+  RE : But like the Chateau, it has no
+       search function, so the legwork
+       stays the same.
+
+[US#1827] (Chateau NPC)
+  JP : 「ヴァレリアシャトーより / 着陸可能ポイントに自由がきくぶん / 行動可能<b:8b1e>拠が<b:8afc>段に広がったはずだ
+  LIT: Since it can land more freely than Valeria Chateau, your range of action should be far wider.
+  RE : It lands more freely than the
+       Chateau, so your range should be
+       far wider.
+
+[US#1828] (Chateau NPC)
+  JP : 「今後のシャトーは、あんたたちの足ではなく / 民間人の安全確保のために / 解放されることになったぜ
+  LIT: From now the Chateau won't be your transport; it'll be freed up to keep civilians safe.
+  RE : From now the Chateau won't ferry
+       you. It's freed to keep civilians
+       safe.
+
+[US#1830] (Chateau NPC)
+  JP : 「ファルガイアを攻う脅威が / 更々と伝説を、現実に<b:8bb0>らせていく〜 / そんな気がしてならないぜ
+  LIT: The threat assailing Filgaia keeps turning legend into reality; I can't shake that feeling.
+  RE : The threat on Filgaia keeps
+       turning legend real. I can't shake
+       the feeling.
+
+[US#1831] (Chateau NPC)
+  JP : 「このままじゃ / ファルガイアを保るために / ＜剣の聖女＞まで<b:8bb0>るんじゃないか？
+  LIT: At this rate, might even the <Sword Magess> appear to protect Filgaia?
+  RE : At this rate, might even the
+       <Sword Magess> return to protect
+       Filgaia?
+
+[US#1833] (Chateau NPC)
+  JP : 「その圧倒的な威力から / 戦<b:8a5d>的にあつかわれることは難くないが〜
+  LIT: Given its overwhelming power, it's easy to see it treated as a weapon of war.
+  RE : With such overwhelming power, it's
+       easily used as a weapon of war.
+
+[US#1834] (Chateau NPC)
+  JP : 「気がかりなのは / 追いつめられたヴィンスフェルトが / いつまで<b:8bb1><b:8bb2>な判断を辺せるかということだ
+  LIT: What worries me is how long a cornered Vinsfeld can keep making sound decisions.
+  RE : What worries me is how long a
+       cornered Vinsfeld can keep his
+       judgment sound.
+
+[US#1835] (Chateau NPC)
+  JP : 「ギルドグラードじゃドラゴンの合谷を用いて / 機艇術術が発<b:8b20>しているらしいが〜
+  LIT: In Guild Galad, machine-craft has advanced using Dragon fossils, they say.
+  RE : In Guild Galad, machine-craft has
+       advanced using Dragon fossils, so
+       they say.
+
+[US#1836] (Chateau NPC)
+  JP : 「機艇と生命体の中間存在 / 幻獣ドラゴンそのものでもない限り / このサイズに飛空機艇をおさめられないぞ
+  LIT: Only a Dragon itself, that in-between of machine and living being, could fit a flying craft into this size.
+  RE : Only a Dragon, half machine and
+       half living, could fit an airship
+       this small.
+
+[US#1837] (Chateau NPC)
+  JP : 「外からドンパチやって落ちねぇのなら / 中に侵入して、街部から破滅する / 軒本的なことだが、確実な作戦だ
+  LIT: If shooting from outside won't down it, get inside and destroy it from within; basic, but a sure plan.
+  RE : If it won't fall from outside,
+       get in and wreck it from within.
+       Basic, but sure.
+
+[US#1838] (Chateau NPC)
+  JP : 「でも、中心要の小型機が用意されていない / たとえるなら、そう〜 / 『険人女<b:8bb6>のいない<b:8b04>』ってとこか？
+  LIT: But there's no small craft for the core role; it's like, well, an inn with no lovely proprietress?
+  RE : But there's no small craft for
+       the job. Like an inn with no
+       pretty hostess, you might say?
+
+[US#1839] (Chateau NPC)
+  JP : 「まあ、どうしてもって言うのなら / あんたたちを / 生身で<b:8af5>出しても構わないんだけどな
+  LIT: Well, if you really insist, I don't mind launching you out there in the flesh.
+  RE : Well, if you truly insist, I don't
+       mind launching you out there in
+       the flesh.
+
+[US#1841] (Chateau NPC)
+  JP : 「それは、力無きゆえに / 『英雄』の力を求めているんだ / けっして『英雄』の血なんかじゃないぜ
+  LIT: It's because they're powerless that they seek a hero's power; it's not about a hero's blood at all.
+  RE : It's the powerless who seek a
+       |hero|'s strength. It's never
+       about a hero's blood.
+
+[US#1842] (Chateau NPC)
+  JP : 「英雄の<b:8bb8><b:8bb9>を<b:8bba><895b>する<b:8b08>や / 人にあらずモノは / <b:8bbb>殿されるらしいが〜
+  LIT: Those who [falsely claim] the hero's [lineage], and things that are not human, are turned away, it's said.
+  RE : Those who falsely claim the hero's
+       line, and things not human, are
+       turned away, they say.
+
+[US#1843] (Chateau NPC)
+  JP : 「さらに、本体との<b:8bbb>殿反応もあるため / 非世に過去で / リスキーな手術とも聞いているぜ
+  LIT: And because of rejection with the host body, I hear it's an extremely [severe], risky procedure.
+  RE : And with the risk of the body
+       rejecting it, I hear it's a harsh,
+       risky operation.
+
+[US#1846] (Chateau NPC)
+  JP : 「心<b:8b87>は、エンジン / <b:8bc1><b:8bc2>は、コクピットってなカンジだ
+  LIT: The heart's the engine, the brain's the cockpit, sort of thing.
+  RE : The heart's the engine, the brain
+       the cockpit, so to speak.
+
+[US#1848] (Chateau NPC)
+  JP : 「<8995>か<b:8aaa>は、もっと<b:8bc5><b:8bc6>で / さらに強力なインダストリアルソーサーが / ファルガイアにはあったというぜ
+  LIT: Long ago, they say, Filgaia had far more [advanced], even mightier Industrial Sorcerers.
+  RE : Long ago, they say, Filgaia held
+       far mightier Industrial Sorcerers
+       than this.
+
+[US#1849] (Marivel)
+  JP : 「わらわが可理想なお<b:8abf>らのために / ちょっとだけロストテクノロジーを使って / キュートでドキドキな<b:8bc9><b:8bb3>をしてしんぜよう
+  LIT: For my adorable little ones, I shall use a touch of Lost Technology and grant you a cute, thrilling makeover.
+  RE : For my darling little ones, I
+       shall use a touch of Lost Tech
+       and give you a charming makeover.
+
+[US#1850] (Marivel)
+  JP : 「なんじゃ、その中いの目は / わらわに任せておけば大<b:8bca><b:8bcb>じゃ
+  LIT: What is that doubtful look? Leave it to me and all shall be well.
+  RE : What is that doubtful look? Leave
+       it to me and all shall be well.
+
+[US#1851] (Marivel)
+  JP : 「ギルドグラードの術術など / 足元にも及ばないことを / ちょっぴり見せつけるだけじゃよ
+  LIT: I shall merely show, a little, that Guild Galad's craft cannot hold a candle to mine.
+  RE : I shall merely show that Guild
+       Galad's craft cannot hold a
+       candle to mine.
+
+[US#1853] (Marivel)
+  JP : 「これはな、マップスコープの<b:8bcc><b:8bcd>を / <b:8bce><b:8bcf>に<8865>搭<88ab>起することで / 移動中でもマップを見られるのじゃッ！
+  LIT: This projects the MapScope's image onto your [retina], so you can view the map even while moving!
+  RE : This casts the MapScope onto your
+       eye, so you can read the map even
+       on the move!
+
+[US#1854] (Chateau NPC / kid)
+  JP : 「どこかの願い<b:8bd1>と谷と道に拠まれた場所で / ちょっとした遺跡みたいのが見えたんだ
+  LIT: In a place ringed by mountains, a valley, and the sea, I saw something like a small ruin.
+  RE : In a spot ringed by mountains, a
+       valley, and the sea, I saw a
+       small ruin.
+
+[US#1856] (Chateau NPC / kid)
+  JP : 「そういえば、そこから東の方には / 願い<b:8bd1>にかかった<89ec>の上に / 場があるのが見えたぜッ
+  LIT: Come to think of it, east of there I saw a place atop a [bridge] spanning the mountains.
+  RE : Come to think of it, east of there
+       I saw a place set atop a span in
+       the mountains.
+
+[US#1859] (kid)
+  JP : 「[0a]かお<b:8bd4>ちゃんが描いてたけど / 何かあったの？
+  LIT: {2}'s big sister was drawing something; did something happen?
+  RE : {2}'s big sister was sketching
+       something. Did something happen?
+
+[US#1860] (kid)
+  JP : 「やっぱり、あんちゃんが描かしたのかな？ / 大人はたいへんだよねぇ
+  LIT: Did the big guy make her draw it after all? Being a grown-up is hard, huh.
+  RE : Did the big guy have her draw it?
+       Being a grown-up is hard, huh.
+
+[US#1861] (Chateau NPC)
+  JP : 「あの爆発じゃ / さすがにダメかと思ったけど / やっぱり僕達の<b:8bd5>望の星だ
+  LIT: After that blast I thought surely they were done for, but they're our hope after all.
+  RE : After that blast I feared the
+       worst, but they're our guiding
+       hope after all.
+
+[US#1862] (Chateau NPC)
+  JP : 「まあ、少数ＡＲＭＳの力を<b:8bd6>りたくなったら / いつでも言ってくれよ
+  LIT: Well, if you ever want to borrow us few ARMS members' strength, just say so anytime.
+  RE : If you ever want to borrow us few
+       ARMS members' strength, just say
+       the word.
+
+[US#1863] (kid)
+  JP : 「<b:8bbd>務<b:8ae4>の保護衛さんだけどさ / 険人だけどちょっと、恐いんだよな / いろんな意味で〜
+  LIT: That guard on duty; she's striking, but a little scary, in more ways than one.
+  RE : That guard on duty, she's
+       striking, but a bit scary. In
+       more ways than one.
+
+[US#1864] (kid)
+  JP : 「とりあえず、お前は数上のお<b:8bd4>さんタイプが / 好みだって言っておいたら<b:8bd9>んでたぜ / なに、描きそうな探してるんだよ？
+  LIT: Anyway, I told her you like the older-sister type and she was thrilled; what, are you looking for someone to draw?
+  RE : I told her you like the older type
+       and she lit up. What, hunting
+       someone to sketch?
+
+[US#1866] (kid)
+  JP : 「この前、エベチョチョ様っていう家から / クッキーを<b:8bda>ったんだけど / ちょっと、シケってたんだ〜
+  LIT: The other day I got cookies from someone called Ebechocho, but they'd gone a bit stale.
+  RE : The other day I got cookies from
+       one Ebechocho, but they'd gone a
+       bit stale.
+
+[US#1867] (Chateau NPC)
+  JP : 「[05]が、がんばってる？ / まだ戦闘に慣れていないんだから / あんまり、無理させないようになッ！
+  LIT: Is {3} doing all right? He's not used to combat yet, so don't push him too hard!
+  RE : Is {3} holding up? He's new to
+       combat, so don't push him too
+       hard!
+
+[US#1868] (Chateau NPC)
+  JP : 「まだ戦闘に慣れていないんだから / あんまり、無理させないようになッ！
+  LIT: He's not used to combat yet, so don't push him too hard!
+  RE : He's new to combat, so don't push
+       him too hard!
+
+[US#1869] (Chateau NPC)
+  JP : 「<b:8bdb><b:8bdc>されそうになった[05]がを / 助けてくれて、ありがとなッ！
+  LIT: Thanks for saving {3} when he was about to be [overwhelmed]!
+  RE : Thanks for saving {3} when he was
+       nearly overwhelmed!
+
+[US#1870] (Chateau NPC)
+  JP : 「ヴァレリアさんの行いは / 神<b:8bdd>の<b:8bde><b:8bdf>の<b:8be0><b:8a6a>書に<887d>るかもしれませんね
+  LIT: Sir Valeria's deeds may well be recorded in the [scripture] of the gods someday.
+  RE : Sir Valeria's deeds may yet be
+       written into the scripture of the
+       gods.
+
+[US#1872] (Chateau NPC)
+  JP : 「[05]ぉさんも / 『スレイハイムの英雄』さんと同じくらい / 強いのではないですか
+  LIT: Aren't you as strong as the "Hero of Slayheim" himself?
+  RE : Aren't you as strong as the |Hero
+       of Slayheim| himself?
+
+[US#1873] (Chateau NPC)
+  JP : 「『スレイハイムの英雄』は / 配達じゃないと言うことですね
+  LIT: So the "Hero of Slayheim" is no mere reputation, then.
+  RE : So the |Hero of Slayheim| is no
+       mere reputation, then.
+
+[US#1874] (Chateau NPC)
+  JP : 「エベチョチョ様の<b:8be2>物のクッキーですが / 大事にしまっていた為 / <b:8b45>味<b:8aa3>限を過ぎていたのではないでしょうか
+  LIT: As for Ebechocho's prized cookies, saved so carefully, they'd probably gone past their best-before date.
+  RE : Ebechocho's prized cookies, saved
+       so carefully, had likely gone
+       past their date.
+
+[US#1875] (Chateau NPC)
+  JP : 「[05]が様にとって / <b:8a81>の活<b:8a76>の場だったのではないでしょうか
+  LIT: For {3}, it may well have been his first true taste of the field.
+  RE : For {3}, it may have been his
+       first real taste of the field.
+
+[US#1878] (examine panel)
+  JP : ＊それらに対抗するためには / 世に、最悪の状況を想定し / 対抗方法を確立しておくことである
+  LIT: To counter them, always assume the worst case and establish countermeasures in advance.
+  RE : To counter them, assume the worst
+       and set countermeasures in
+       advance.
+
+[US#1879] (examine panel)
+  JP : ＊対抗が、後手に回ることで / 状況は悪合の一<b:8b94>を<89cb>り / 取り<b:8a8a>しの付かない状況になる
+  LIT: When the response falls behind, the situation worsens step by step until it can't be undone.
+  RE : When the response lags, things
+       only worsen, past the point of
+       undoing.
+
+[US#1880] (examine panel)
+  JP : ＊未部に防ぐことができなかったとき / 状況の悪合を防ぎ / <889a><889b>の最小合を<b:8be6>る必要がある
+  LIT: When it can't be prevented beforehand, one must stem the worsening and keep the damage to a minimum.
+  RE : If it can't be prevented, stem
+       the harm and keep the damage
+       minimal.
+
+[US#1881] (examine panel)
+  JP : ＊ファルガイアにある共々は / 見えない共通という<b:8be7>で押切られ / 人々の心にも<b:8be7>を作る
+  LIT: Filgaia's nations are cut apart by invisible walls called borders, walls that form in people's hearts too.
+  RE : Filgaia's nations are split by
+       invisible walls called borders,
+       walls in the heart as well.
+
+[US#1882] (examine panel)
+  JP : ＊自共を保ろうとしたり / 他共に対し中心暗<b:8be8>になることで / さらに<b:8be9>を願めていくことになる
+  LIT: Guarding one's own nation and growing suspicious of others only deepens the rift.
+  RE : Guarding one's own land and eyeing
+       others with suspicion only deepens
+       the rift.
+
+[US#1883] (examine panel)
+  JP : ＊ファルガイアの全ての人々がわかりあい / この地に住まう同胞として / <b:8bea>重しあえるのはいつの回か…
+  LIT: When will all Filgaians understand each other and, as kin of this land, come to respect one another?
+  RE : When will all Filgaians understand
+       and respect each other as kin of
+       this land?
+
+[US#1884] (examine panel)
+  JP : ＊我々は、それに抗する手だてがあるのか？ / 魔物に限ったことではない / 大変地異の可能性もある
+  LIT: Do we have the means to resist it? Not just monsters; a great natural disaster is possible too.
+  RE : Do we have any means to counter
+       it? Not just monsters. A great
+       disaster too.
+
+[US#1885] (examine panel)
+  JP : ＊それらに抗する力を / 我々は持っていない
+  LIT: We do not have the power to resist them.
+  RE : We do not have the power to resist
+       them.
