@@ -1,0 +1,259 @@
+# WA2 — Block 67, US#7034-7145 — FINAL (Extend-magic researcher NPC + magic lore panels — block 67 complete)
+# =========================================================================================
+# The High-Level-Magic researcher (a bubbly Crest Sorcerer from Sielje who ends everything with
+# "...right? ...isn't it?"): his Extend research, the "deliver the Magic Book to Karayan and
+# come back" errand, the effect-sphere upgrade (Single->Group->All), plus the magic-use lore
+# panels (fire/ice's original purpose, now-used-to-kill-monsters, more-power-more-danger,
+# next-gen sorcerers wanting peaceful use). His menu repeats verbatim 5x; canonical set is
+# US#7034-7058, the four later passes are DUPs. JP-primary; keep his 〜よね tic.
+
+[US#7034] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#7035] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#7036] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#7037] (researcher)
+  JP : 「いやね、ボクね / ここで左右魔法の乗行をしているんだよ / 見ればわかる？ そうだよね
+  LIT: See, me, I'm doing Crest Sorcery research here; you can tell just by looking, right? Right.
+  RE : See, me, I'm doing Crest Sorcery
+       research here. You can tell just
+       by looking, right? Right.
+
+[US#7038] (researcher)
+  JP : 「シエルジェ自分領から / こんな<89c4>他くんだりまでやってきて / 乗行を続けたかいがあったみたいだね[10]
+  LIT: Coming all the way from the Sielje homeland to a remote place like this, the research seems to have paid off.
+  RE : Coming all the way from the
+       Sielje homeland to this remote
+       place, my research paid off.
+
+[US#7039] (researcher)
+  JP : 「聞いてくれるよね？
+  LIT: You'll hear me out, right?
+  RE : You'll hear me out, right?
+
+[US#7040] (researcher)
+  JP : 「彼なら<b:8a39>地に<b:8a3a>ったギルドの<b:8a3b>間たちに / 上級魔法の秘<b:8a3d>を伝えられるはずなんだ / たしか、そうだったよね？
+  LIT: He should be able to pass the secrets of High Magic to guild members scattered across the land; that's right, isn't it?
+  RE : He can pass the secrets of High
+       Magic to guild members across the
+       land. That's right, isn't it?
+
+[US#7041] (researcher)
+  JP : 「ボクからの言付けだってこと / 伝えといてね
+  LIT: Tell him it's a message from me, all right?
+  RE : Tell him it's a message from me,
+       all right?
+
+[US#7042] (researcher)
+  JP : 「うん、ＯＫＯＫ / 実験通りだね
+  LIT: Yep, OK OK; just like in the experiment, right?
+  RE : Yep, OK OK. Just like in the
+       experiment, right?
+
+[US#7043] (researcher)
+  JP : 「<b:8a41>ったね / <b:8a41>ってるよね？
+  LIT: Now you're in a fix; you're in a fix, aren't you?
+  RE : Now you're in a fix. You're in a
+       fix, aren't you?
+
+[US#7044] (researcher)
+  JP : 「そうそう、ボクはキミのような / 魔法少女を待っていたんだよね
+  LIT: That's it: I've been waiting for a young sorceress just like you, you know?
+  RE : That's it: I've been waiting for
+       a young sorceress just like you,
+       you know?
+
+[US#7045] (researcher)
+  JP : 「乗行の成果『エクステンション』を / キミに受けとってほしいんだ / 受けとってくれるよね？
+  LIT: I want you to take the fruit of my research, the "Extend"; you'll take it, won't you?
+  RE : I want you to take the fruit of
+       my research, the |Extend|. You'll
+       take it, won't you?
+
+[US#7046] (researcher)
+  JP : 「さらにね、魔法<b:8a47>果実<b:8a49>が / 『<b:8a4a>体 → グループ』 / 『グループ → 全体』になるんだよね
+  LIT: What's more, the magic's effect range goes "Single -> Group" and "Group -> All," you know?
+  RE : What's more, the magic's range
+       goes |Single to Group|, then
+       |Group to All|, you know?
+
+[US#7047] (researcher)
+  JP : 「すごいよね？ すごいよね？ / うん、たいしたことないよ
+  LIT: Amazing, right? Amazing, right? ...Yeah, it's no big deal.
+  RE : Amazing, right? Amazing, right?
+       ...Yeah, it's no big deal.
+
+[US#7048] (researcher)
+  JP : 「さてと、ボクは更になんの乗行を / しようかな？
+  LIT: Well then, what should I research next, I wonder?
+  RE : Well then, what should I research
+       next, I wonder?
+
+[US#7049] (researcher)
+  JP : 「でもね / キミには<8a25>えないモノだと思うんだね / ごめんね、許してくれるよね？
+  LIT: But you know, I don't think you could handle it; sorry, you'll forgive me, right?
+  RE : But you know, I don't think you
+       could handle it. Sorry, you'll
+       forgive me, right?
+
+[US#7050] (researcher)
+  JP : 「でも、まだ何の乗行かは / 秘<b:8a4b>だから発えられないんだね / ごめんね、<b:8a4c>ってないよね？
+  LIT: But what I'm researching is still secret, so I can't tell you; sorry, you're not mad, right?
+  RE : But what I'm researching is still
+       secret, so I can't tell you.
+       Sorry, you're not mad, right?
+
+[US#7051] (researcher)
+  JP : 「ボクは、準備できてるよ / 上級魔法つくる？ / もちろん、つくるよね？
+  LIT: I'm all ready; want to make High Magic? Of course you want to, right?
+  RE : I'm all ready. Want to make High
+       Magic? Of course you do, right?
+
+[US#7052] (researcher)
+  JP : 「結単一番に / 上級魔法をつくってあげるよ / それでいいよね？
+  LIT: I'll whip you up some first-rate High Magic; that'll do, right?
+  RE : I'll whip you up some first-rate
+       High Magic. That'll do, right?
+
+[US#7053] (researcher)
+  JP : 「カラヤンくんに魔<b:8a38>書を渡したら / またここに押てね / それまでに準備をしておくからね
+  LIT: Once you've handed the Magic Book to Karayan, come back here; I'll have it ready by then.
+  RE : Once you've handed the Magic Book
+       to Karayan, come back here. I'll
+       have it ready by then.
+
+[US#7054] (lore panel)
+  JP : ＊火の魔法で火をおこし<b:8a53>をとり / 氷の魔法でモノを<b:8a54>らせることで保存したり / そういった使われ方をするべきなのである
+  LIT: Fire magic to make fire and warmth, ice magic to freeze and preserve; such is how it ought to be used.
+  RE : Fire magic to make warmth, ice
+       magic to freeze and preserve;
+       such is how it ought to be used.
+
+[US#7055] (lore panel)
+  JP : ＊しかし今は、それら本押の使われ方より / モンスターを倒すための手<b:8a55>として / 用いられることが<b:8a56>となっている
+  LIT: Yet today, more than those proper uses, it is chiefly employed as a means to slay monsters.
+  RE : Yet today, more than those proper
+       uses, it is chiefly employed to
+       slay monsters.
+
+[US#7056] (lore panel)
+  JP : ＊それに<b:8a57>い / より強力な魔法が求められている現状は / ある<b:8a59>の危険性をはらんでいると言える
+  LIT: Accordingly, the present demand for ever more powerful magic can be said to carry a certain danger.
+  RE : Accordingly, the present demand
+       for ever more powerful magic
+       carries a certain danger.
+
+[US#7057] (lore panel)
+  JP : ＊より強力な魔法を求めることは / より強力な同時を求めると同じ
+  LIT: To seek more powerful magic is the same as to seek more powerful weapons.
+  RE : To seek more powerful magic is
+       the same as to seek more powerful
+       weapons.
+
+[US#7058] (lore panel)
+  JP : ＊更世代のクレストソーサラーたちが / 魔法の<b:8a4e>勝利用することを / 強く願うものである
+  LIT: The next-generation Crest Sorcerers strongly wish for the peaceful use of magic.
+  RE : The next-generation Crest
+       Sorcerers strongly wish for the
+       peaceful use of magic.
+
+# --- DUP repeats (same NPC menu, verbatim JP; reuse the canonical RE at insertion) ---
+[US#7059] DUP of 7036 (demo notice) — reuse RE
+[US#7060] DUP of 7037 (research intro) — reuse RE
+[US#7061] DUP of 7038 (Sielje homeland) — reuse RE
+[US#7062] DUP of 7039 (hear me out) — reuse RE
+[US#7063] DUP of 7040 (impart to guild) — reuse RE
+[US#7064] DUP of 7041 (message from me) — reuse RE
+[US#7065] DUP of 7042 (OK OK, experiment) — reuse RE
+[US#7066] DUP of 7043 (in a fix) — reuse RE
+[US#7067] DUP of 7044 (waiting for you) — reuse RE
+[US#7068] DUP of 7045 (Extend gift) — reuse RE
+[US#7069] DUP of 7046 (effect sphere) — reuse RE
+[US#7070] DUP of 7047 (amazing right?) — reuse RE
+[US#7071] DUP of 7048 (what next?) — reuse RE
+[US#7072] DUP of 7049 (can't handle it) — reuse RE
+[US#7073] DUP of 7050 (still secret) — reuse RE
+[US#7074] DUP of 7051 (ready, make?) — reuse RE
+[US#7075] DUP of 7052 (first-rate) — reuse RE
+[US#7076] DUP of 7053 (Karayan errand) — reuse RE
+[US#7077] DUP of 7054 (fire/ice panel) — reuse RE
+[US#7078] DUP of 7055 (now-destroy panel) — reuse RE
+[US#7079] DUP of 7056 (danger panel) — reuse RE
+[US#7080] DUP of 7057 (seeking=weapons panel) — reuse RE
+[US#7081] DUP of 7058 (next-gen panel) — reuse RE
+[US#7082] DUP of 7036 (demo notice) — reuse RE
+[US#7083] DUP of 7037 (research intro) — reuse RE
+[US#7084] DUP of 7038 (Sielje homeland) — reuse RE
+[US#7085] DUP of 7039 (hear me out) — reuse RE
+[US#7086] DUP of 7040 (impart to guild) — reuse RE
+[US#7087] DUP of 7041 (message from me) — reuse RE
+[US#7088] DUP of 7042 (OK OK, experiment) — reuse RE
+[US#7089] DUP of 7043 (in a fix) — reuse RE
+[US#7090] DUP of 7044 (waiting for you) — reuse RE
+[US#7091] DUP of 7045 (Extend gift) — reuse RE
+[US#7092] DUP of 7046 (effect sphere) — reuse RE
+[US#7093] DUP of 7047 (amazing right?) — reuse RE
+[US#7094] DUP of 7048 (what next?) — reuse RE
+[US#7095] DUP of 7049 (can't handle it) — reuse RE
+[US#7096] DUP of 7050 (still secret) — reuse RE
+[US#7097] DUP of 7051 (ready, make?) — reuse RE
+[US#7098] DUP of 7052 (first-rate) — reuse RE
+[US#7099] DUP of 7053 (Karayan errand) — reuse RE
+[US#7100] DUP of 7054 (fire/ice panel) — reuse RE
+[US#7101] DUP of 7055 (now-destroy panel) — reuse RE
+[US#7102] DUP of 7056 (danger panel) — reuse RE
+[US#7103] DUP of 7057 (seeking=weapons panel) — reuse RE
+[US#7104] DUP of 7058 (next-gen panel) — reuse RE
+[US#7105] DUP of 7036 (demo notice) — reuse RE
+[US#7106] DUP of 7037 (research intro) — reuse RE
+[US#7107] DUP of 7038 (Sielje homeland) — reuse RE
+[US#7108] DUP of 7039 (hear me out) — reuse RE
+[US#7109] DUP of 7040 (impart to guild) — reuse RE
+[US#7110] DUP of 7041 (message from me) — reuse RE
+[US#7111] DUP of 7042 (OK OK, experiment) — reuse RE
+[US#7112] DUP of 7043 (in a fix) — reuse RE
+[US#7113] DUP of 7044 (waiting for you) — reuse RE
+[US#7114] DUP of 7045 (Extend gift) — reuse RE
+[US#7115] DUP of 7046 (effect sphere) — reuse RE
+[US#7116] DUP of 7047 (amazing right?) — reuse RE
+[US#7117] DUP of 7048 (what next?) — reuse RE
+[US#7118] DUP of 7049 (can't handle it) — reuse RE
+[US#7119] DUP of 7050 (still secret) — reuse RE
+[US#7120] DUP of 7051 (ready, make?) — reuse RE
+[US#7121] DUP of 7052 (first-rate) — reuse RE
+[US#7122] DUP of 7053 (Karayan errand) — reuse RE
+[US#7123] DUP of 7054 (fire/ice panel) — reuse RE
+[US#7124] DUP of 7055 (now-destroy panel) — reuse RE
+[US#7125] DUP of 7056 (danger panel) — reuse RE
+[US#7126] DUP of 7057 (seeking=weapons panel) — reuse RE
+[US#7127] DUP of 7058 (next-gen panel) — reuse RE
+[US#7128] DUP of 7036 (demo notice) — reuse RE
+[US#7129] DUP of 7037 (research intro) — reuse RE
+[US#7130] DUP of 7038 (Sielje homeland) — reuse RE
+[US#7131] DUP of 7039 (hear me out) — reuse RE
+[US#7132] DUP of 7040 (impart to guild) — reuse RE
+[US#7133] DUP of 7041 (message from me) — reuse RE
+[US#7134] DUP of 7042 (OK OK, experiment) — reuse RE
+[US#7135] DUP of 7043 (in a fix) — reuse RE
+[US#7136] DUP of 7044 (waiting for you) — reuse RE
+[US#7137] DUP of 7045 (Extend gift) — reuse RE
+[US#7138] DUP of 7046 (effect sphere) — reuse RE
+[US#7139] DUP of 7047 (amazing right?) — reuse RE
+[US#7140] DUP of 7048 (what next?) — reuse RE
+[US#7141] DUP of 7049 (can't handle it) — reuse RE
+[US#7142] DUP of 7050 (still secret) — reuse RE
+[US#7143] DUP of 7051 (ready, make?) — reuse RE
+[US#7144] DUP of 7052 (first-rate) — reuse RE
+[US#7145] DUP of 7053 (Karayan errand) — reuse RE
