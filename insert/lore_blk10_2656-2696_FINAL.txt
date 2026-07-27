@@ -1,0 +1,220 @@
+# WA2 — Block 10, US#2656-2696 — FINAL (Irving's dragon briefing: Lombardia / Sleeping Volcano / Kuiper Belt)
+# =========================================================================================
+# Irving's endgame war-council briefing: the party fought Grauswein and knows a Dragon's ruinous
+# power; humans need that power (the risk of being corrupted by it, as Slayheim and Odessa were);
+# the plan to claim the legendary dragon |Lombardia| at the |Sleeping Volcano| (the Raline
+# Observatory's watched Withered Valley), then the final operation against the |Kuiper Belt| via
+# Mana and the |Trapezohedron|. Key uncompressed briefing; EN tracks JP closely. JP-primary,
+# unreadable spans [?]. Trailing byte-garbage boxes (2691-2693) marked SKIP. Hand-done (main thread).
+
+[US#2656] (Irving)
+  JP : 「グラウスヴァインと戦った貴様らは / その幻<b:8a41>した破滅力を / 充分に認<b:8a92>しているはずだ
+  LIT: You who fought Grauswein must know full well its illusory power of ruin.
+  RE : You who fought Grauswein know full
+       well its ruinous power.
+
+[US#2657] (Irving)
+  JP : 「人類の力を幻えた / 圧倒的な異能力を<88ab>入する作戦だな
+  LIT: It's a plan to bring in an overwhelming power beyond humanity's own.
+  RE : It's a plan to harness a power
+       overwhelming, beyond humanity's
+       own.
+
+[US#2658] (Irving)
+  JP : 「もしも、伝説どおりに / ドラゴンの力を手にすることができれば / その時は〜
+  LIT: If, as the legend says, we can take the Dragon's power into our hands, then...
+  RE : If, as the legend says, we can
+       claim the Dragon's power, then...
+
+[US#2660] (party)
+  JP : 「だけど〜 / そんな<88bf>大な異能力を / 俺たちに制<89c7>できるすべはあるのか？
+  LIT: But do we even have a way to control such a vast, alien power?
+  RE : But do we have any way to control
+       such a vast power?
+
+[US#2661] (party)
+  JP : 「そして、手にした力におぼれずに〜 / 自分を見失わずにいつづけることが / できるのだろうか？
+  LIT: And can we keep from drowning in that power, from losing ourselves?
+  RE : And keep from drowning in it, from
+       losing ourselves?
+
+[US#2662] (Ashley)
+  JP : 「俺には〜 / いや、ロードブレイザーを街<b:8b8c>している / 俺だからわかることがある
+  LIT: There's something I know, precisely because I hold Lord Blazer inside me.
+  RE : There's something I know, because
+       I hold Lord Blazer within me.
+
+[US#2663] (Ashley)
+  JP : 「心で力を制<89c7>しているつもりでも / 戦いの中に身を置いているうちに / いつしか力が心を支配していくような信信〜
+  LIT: Even when you think your heart rules the power, in battle the power slowly comes to rule the heart.
+  RE : You think your heart rules the
+       power, but in battle the power
+       comes to rule the heart.
+
+[US#2664] (Ashley)
+  JP : 「スレイハイムやオデッサは / あの信信に<b:8b78>り<b:8acc>されていったから / 滅びの道を<b:8b8d>まざるをえなかった〜
+  LIT: Slayheim and Odessa were consumed by that, and had no choice but to walk the road to ruin.
+  RE : Slayheim and Odessa were consumed
+       by it, and had to walk the road
+       to ruin.
+
+[US#2665] (Ashley)
+  JP : 「違うかな〜、[0a]ぉ？
+  LIT: Am I wrong, {2}?
+  RE : Am I wrong, {2}?
+
+[US#2666] (Irving)
+  JP : 「そして、たびかさなる<88f1><b:8a3c>により / ロードブレイザーが / キミの街で<b:8b8e>大しているのもうかがえる〜
+  LIT: And with each repeated battle, I can see Lord Blazer swelling within you.
+  RE : And with each battle, I can see
+       Lord Blazer swelling within you.
+
+[US#2667] (Irving)
+  JP : 「だが、今の人類には / ドラゴンの力が必要なのだッ！
+  LIT: But humanity, as it stands now, needs the Dragon's power!
+  RE : But humanity, as it stands now,
+       needs the Dragon's power!
+
+[US#2668] (Irving)
+  JP : 「この異世事態を〜 / 閉<885e>した危機的状況を / ブチ破るだけの強い力がッ！
+  LIT: A strength great enough to break through this abnormal, closed-off crisis!
+  RE : A strength great enough to break
+       through this closed-off crisis!
+
+[US#2669] (party)
+  JP : 「でも、本当に強くなったのか？ / 強い力を手にするだけ / 心も強くなってきたのか〜？
+  LIT: But have we truly grown stronger? By gaining power, have our hearts grown stronger too?
+  RE : But have we truly grown stronger?
+       Gaining power, did our hearts
+       grow with it?
+
+[US#2670] (party)
+  JP : 「わからない〜 / わからないな〜
+  LIT: I don't know. I just don't know.
+  RE : I don't know. I just don't know.
+
+[US#2671] (Irving)
+  JP : 「だから、駆け抜けるしかない / 駆け抜けた後で / 結果を<b:8b91>ぐしかないのだ〜
+  LIT: So we can only run it through, and reckon with the outcome afterward.
+  RE : So we can only run it through, and
+       reckon with the outcome after.
+
+[US#2672] (Irving)
+  JP : 「我々が行ってきたことを / 後の人間に考えてもらうためにも / 世界は全力で<b:8b45>衛しなければならない
+  LIT: So that later generations can weigh what we did, we must defend the world with all our strength.
+  RE : So those who come after can judge
+       what we did, we must defend the
+       world with all we have.
+
+[US#2673] (Irving)
+  JP : 「今は、ファルガイアを / 保り抜くことを考えよう〜
+  LIT: For now, let's think only of protecting Filgaia to the end.
+  RE : For now, let's think only of
+       seeing Filgaia through.
+
+[US#2674] (Irving)
+  JP : 「情報によると、ドラゴンの所在は / エネルギーとなるマグマの元であるらしい
+  LIT: Our intel says the Dragon dwells at the source of the magma that fuels it.
+  RE : Our intel says the Dragon dwells
+       at the magma source that fuels it.
+
+[US#2675] (Irving)
+  JP : 「ならば、期想されるポイントは〜 / 『<89bb>れる枯谷』だッ！
+  LIT: If so, the likely spot is the "Sleeping Volcano"!
+  RE : If so, the likely spot is the
+       |Sleeping Volcano|!
+
+[US#2676] (Irving)
+  JP : 「以前、貴様らも任務で<b:8b92>れた / レイライン観待所の、観待対<b:8a98>〜 / <89bb>れる枯谷こそがドラゴン伝説の<b:8aa6><b:8aa7>である
+  LIT: The Raline Observatory you once visited on a mission watches it; the Sleeping Volcano is the very stage of the Dragon legend.
+  RE : The Raline Observatory you visited
+       watches it. The Sleeping Volcano
+       is the Dragon legend's stage.
+
+[US#2677] (Irving)
+  JP : 「現在は<b:8b93>動を<8996>止している / この休枯谷に<b:8b94>えられたマグマエネルギーは / ドラゴンを維持するのに相応しいものだ
+  LIT: The magma energy held in this now-dormant volcano is fit to sustain a Dragon.
+  RE : The magma energy in this dormant
+       volcano is fit to sustain a
+       Dragon.
+
+[US#2678] (Irving)
+  JP : 「新たな任務を<b:8ac5>える / 『<89bb>れる枯谷』において / ドラゴンと搭乗、その力を手にしてほしい
+  LIT: I give you a new mission: at the "Sleeping Volcano," bond with the Dragon and claim its power.
+  RE : Your new mission: at the |Sleeping
+       Volcano|, bond with the Dragon and
+       claim its power.
+
+[US#2679] (Irving)
+  JP : 「ドラゴンの名は〜 / 『ロンバルディア』 / 大空を切り<b:8b95>く伝説の<b:8b16>だッ！
+  LIT: The Dragon's name is "Lombardia," the legendary wing that cuts through the open sky!
+  RE : The Dragon's name is |Lombardia|,
+       the legendary wing that cuts the
+       open sky!
+
+[US#2680] (Irving)
+  JP : 「『カイバーベルト』（衛星の<b:8b96>）と呼<895b>する / <b:8b5f><b:8b97>を示す衛星の故<b:8b98>になぞらえたものだ
+  LIT: We call it the "Kuiper Belt" (a comet field), likening it to the comet that heralds calamity.
+  RE : We call it the |Kuiper Belt|, a
+       comet field, named for the comet
+       that heralds calamity.
+
+[US#2681] (Irving)
+  JP : 「ＡＲＭＳは / 対カイバーベルト最終作戦に<b:8b0b><b:8b0c>してもらう
+  LIT: I want ARMS to take part in the final operation against the Kuiper Belt.
+  RE : I want ARMS in the final operation
+       against the Kuiper Belt.
+
+[US#2682] (party)
+  JP : 「いったい、どうするつもりなんだ？
+  LIT: Just what do you intend to do?
+  RE : Just what do you intend to do?
+
+[US#2685] (party)
+  JP : 「だが、どうやって？
+  LIT: But how?
+  RE : But how?
+
+[US#2686] (Irving)
+  JP : 「まず、レイラインの気<b:8aec>りとされる / レイポイントにて / ライブエネルギー『マナ』を解放
+  LIT: First, at the Raypoints where the Ley Lines surface, we release the living energy "Mana."
+  RE : First, at the Raypoints where the
+       Ley Lines surface, we release the
+       Mana.
+
+[US#2687] (Irving)
+  JP : 「『マナ』とはファルガイアの / ライブエネルギーのことである
+  LIT: "Mana" is Filgaia's living energy.
+  RE : |Mana| is Filgaia's living energy.
+
+[US#2688] (Irving)
+  JP : 「マナを構成することで / <8972><8973>生命のフィールドを<b:8b9b><b:8b28> / その中に『侵食異世界』を捕謎ッ！
+  LIT: By marshalling Mana, we form a field of life and trap the "encroaching other-world" within it!
+  RE : By marshalling Mana, we form a
+       field of life and trap the
+       encroaching other-world in it!
+
+[US#2689] (Irving)
+  JP : 「そうッ！ / マナの<8962><8963>『トラペゾヘドロン』を / カイバーベルトの滅ぼすべき銃体とするッ！
+  LIT: Yes! We make the Mana crystal "Trapezohedron" the target to destroy the Kuiper Belt!
+  RE : Yes! The Mana crystal
+       |Trapezohedron| becomes the target
+       to destroy the Kuiper Belt!
+
+[US#2690] (Irving)
+  JP : 「ＡＲＭＳの全力を持って / カイバーベルトを<b:8b9c><b:8b01>させるッ！
+  LIT: With all of ARMS' strength, we will bring down the Kuiper Belt!
+  RE : With all of ARMS' strength, we
+       bring down the Kuiper Belt!
+
+[US#2691] (garbage)
+  JP : [02][08][10][01]
+  RE : [SKIP - control/garbage box, no text]
+
+[US#2692] (garbage)
+  JP : ぽ[ff]ィネ<ee2a>[02]
+  RE : [SKIP - garbage box, no readable text]
+
+[US#2693] (garbage)
+  JP : [fd]ぽアらニ[04]でヤトねぬそ[08]シ[80][7f][01]
+  RE : [SKIP - garbage box, no readable text]
