@@ -1,0 +1,733 @@
+# WA2 — Block 13, US#3446-3558 — FINAL (Holst mining town + Kanon's clinic scene — block 13 complete)
+# =========================================================================================
+# Holst, the Ruins Mine town: miner NPC chatter (Energy Crystals/Aguelite, Raypoints, the old
+# closed NE mine the terrorists eye, the bomb maniac kicked from the inn, miner's three rules),
+# the Defender of Justice kid, worried mothers, mining lore panels, then Kanon's clinic scene:
+# the doctor on Victor-series bionics, Kanon's Sword Magess-descendant confession ("the
+# battlefield is where I belong"), and Ashley's "we are comrades." JP-primary; Drifters kept.
+
+[US#3446] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#3447] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#3448] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#3449] (townsperson)
+  JP : 「何かを無くしたのなら / そこから何かを / 押い上げるようにしなくては〜
+  LIT: If you've lost something, you must strive to lift something new up from that loss.
+  RE : If you've lost something, you
+       must strive to lift something new
+       up from that loss.
+
+[US#3450] (townsperson)
+  JP : 「過ぎた力を持つということは / 時間の流れが / 乗りよりも早くなるということなの？
+  LIT: Does holding too much power mean time flows faster for you than for the rest?
+  RE : Does holding too much power mean
+       time flows faster for you than
+       for the rest?
+
+[US#3451] (miner)
+  JP : 「そんな時は / この場の渓<b:8a39>たちが<b:8a3a>出で / 追い<b:8a3b>いに行くんだけどね
+  LIT: When that happens, the town's miners turn out in force to drive them off.
+  RE : When that happens, the town's
+       miners turn out in force to drive
+       them off.
+
+[US#3452] (townsperson)
+  JP : 「もしかして / どこからか、新しいモンスターが / やってきているのかしら〜
+  LIT: Could it be that new monsters are coming in from somewhere?
+  RE : Could it be that new monsters are
+       coming in from somewhere?
+
+[US#3453] (miner)
+  JP : 「ここホルストじゃ / 戦いのやり方も / いっしょにおぼえなくちゃいけないんだよ
+  LIT: Here in Holst, you have to learn how to fight along with the trade.
+  RE : Here in Holst, you have to learn
+       how to fight along with the
+       trade.
+
+[US#3454] (miner)
+  JP : 「何てったって / ここは『遺跡渓谷』だからね
+  LIT: After all, this is the "Ruins Mine."
+  RE : After all, this is the |Ruins
+       Mine|.
+
+[US#3455] (miner)
+  JP : 「<89cc>道を<892a>に進んでいくと / <b:8a3f>中から古い谷壁が見えてくるそうです / <b:8a41><8875>のある渓谷は、その付近より通れるとか
+  LIT: Deep down the shaft, they say old stone walls appear; the valuable ore can be mined near there.
+  RE : Deep down the shaft, they say old
+       stone walls appear. The valuable
+       ore is mined near there.
+
+[US#3456] (miner)
+  JP : 「遠いダムツェンのように<b:8a38>部の渓谷ではなく / 遺跡に<b:8a43>えられたエネルギーの結晶体を / 掘り出しているんですって
+  LIT: Unlike distant Damzen's ores, here they dig out energy crystals stored within the ruins.
+  RE : Unlike distant Damzen's ores,
+       here they dig out energy crystals
+       stored within the ruins.
+
+[US#3457] (miner)
+  JP : 「まだ、この星の命は終っちゃいねぇ〜 / みっともなくても / あがいてみるだけの<b:8a41><8875>はあるはずだ
+  LIT: This planet's life isn't over yet; ugly as it looks, struggling on is still worth something.
+  RE : This planet's life isn't over
+       yet. Ugly as it looks, struggling
+       on is still worth something.
+
+[US#3458] (miner)
+  JP : 「そこでは、渓谷をはじめ / いろんな<b:8a46><8869>が<b:8a47><b:8a48>に通れるって話だ
+  LIT: There, they say, ore and all sorts of resources can be mined in plenty.
+  RE : There, they say, ore and all
+       sorts of resources can be mined
+       in plenty.
+
+[US#3459] (miner)
+  JP : 「そういう地<89f4>の終着帯を / レイポイントと呼ぶらしい〜
+  LIT: Those gathering-points of the earth's veins are called Raypoints, it seems.
+  RE : Those gathering-points of the
+       earth's veins are called
+       Raypoints, it seems.
+
+[US#3460] (miner)
+  JP : 「そうしないと / 考え方まで辺降<b:8a49>をたどっちまうぜ
+  LIT: If we don't, even our thinking will go downhill.
+  RE : If we don't, even our thinking
+       will go downhill.
+
+[US#3461] (miner)
+  JP : 「だけどよ、オデッサのヤツらが / エネルギーを<b:8a4b>めているのは / あながちデマではないと思うぞ
+  LIT: Still, that the Odessa lot are after energy; I don't think that's just a rumor.
+  RE : Still, that the Odessa lot are
+       after energy; I don't think
+       that's just a rumor.
+
+[US#3462] (miner)
+  JP : 「渓<b:8a39>もテロリストも / <b:8a4c>が空いていると / 力が入らないのはいっしょだからな
+  LIT: Miner or terrorist, on an empty stomach nobody's got any strength; that much is the same.
+  RE : Miner or terrorist, on an empty
+       stomach nobody's got any
+       strength. That much is the same.
+
+[US#3463] (miner)
+  JP : 「テロリストがこの場の渓谷を / ねらっているってウワサ〜
+  LIT: There's a rumor the terrorists are after this town's ore...
+  RE : There's a rumor the terrorists
+       are after this town's ore...
+
+[US#3464] (miner)
+  JP : 「だけど、所詮はシロートよ / 連中のねらいは / この場の[11]お北側にある[11]ぉ<89cc>道〜
+  LIT: But they're amateurs in the end; what they're after is the mine shaft on the [11]north side[11] of town.
+  RE : But they're amateurs in the end.
+       What they're after is the shaft
+       on the [11]north side[11] of town.
+
+[US#3465] (miner)
+  JP : 「正しくは / [11]おこの場の北側[11]ぉにあった<b:8a4e><89cc>道を / ねらっているみたいなんだな
+  LIT: To be exact, they seem to be after the OLD shaft that used to sit [11]north of town[11].
+  RE : To be exact, they seem to be
+       after the OLD shaft that used to
+       sit [11]north of town[11].
+
+[US#3466] (miner)
+  JP : 「すでに閉<b:8a4f>された / <b:8a4e><89cc>道をねらうなんて / まぬけというか、何というか〜
+  LIT: Going after a shaft that's already been closed down; call it foolish, call it what you will...
+  RE : Going after a shaft that's
+       already been closed down; call it
+       foolish, call it what you will...
+
+[US#3467] (miner)
+  JP : 「一度、<89d3>に乗って / この他の北の海岸から / 向かわなくてはいけないのだ
+  LIT: You have to take a boat and approach it from this island's north shore.
+  RE : You have to take a boat and
+       approach it from this island's
+       north shore.
+
+[US#3468] (miner)
+  JP : 「<b:8a53>しいことなんて考えないで / カラダだけを動かしていれば / テロなんて起こす気にもならないもんだ
+  LIT: Don't think hard thoughts; just keep the body moving, and you'll never feel like turning terrorist.
+  RE : Don't think hard thoughts; just
+       keep the body moving, and you'll
+       never turn terrorist.
+
+[US#3469] (miner)
+  JP : 「カラダを鍛えてないヤツが / アタマだけで考えてるから / <b:8a55>性まがってしまうんだッ！
+  LIT: It's the ones who never train the body, thinking with only their heads, whose natures go crooked!
+  RE : It's the ones who never train the
+       body, all head and no hands,
+       whose natures go crooked!
+
+[US#3470] (innkeeper)
+  JP : 「このあいだも / マニアな<b:8a5a>弱モノを / <b:8a5b><b:8a5c>から<b:8a5d>き出してやったわい
+  LIT: Just the other day I threw a maniac weakling out of my inn, I did.
+  RE : Just the other day I threw a
+       maniac weakling out of my inn, I
+       did.
+
+[US#3471] (miner)
+  JP : 「<b:8a60>のようだろ？ / お<b:8a61>ちゃん
+  LIT: Like a dream, isn't it, little miss?
+  RE : Like a dream, isn't it, little
+       miss?
+
+[US#3472] (miner)
+  JP : 「そして、終りが<b:8a64>れるのは / ファルガイアの未来〜 / なんてことはないだろうな〜
+  LIT: And what the end comes calling for is Filgaia's future... no, surely it won't come to that...
+  RE : And what the end comes calling
+       for is Filgaia's future... no,
+       surely it won't come to that...
+
+[US#3473] (miner)
+  JP : 「〜だけど / こんな空域方は見たことがねぇ〜
+  LIT: But I've never seen a sky like this one...
+  RE : But I've never seen a sky like
+       this one...
+
+[US#3474] (miner)
+  JP : 「オデッサを相手にするのは / もう、けっこうだよ
+  LIT: Taking on Odessa? No more of that for me, thanks.
+  RE : Taking on Odessa? No more of that
+       for me, thanks.
+
+[US#3475] (miner)
+  JP : 「なんせ、僕たち渓<b:8a39> / 全<b:8a39>が腕自慢ときたもんだ / ケガじゃあ、すまないぜ
+  LIT: See, us miners, every last one's proud of his arms; they'd get worse than bruises.
+  RE : See, us miners, every last one's
+       proud of his arms. They'd get
+       worse than bruises.
+
+[US#3476] (miner)
+  JP : 「ただ、<89d3>を<b:8a6a>せる / 海岸が近くに無いから / <b:8a6b>出に不便なのがイタイな
+  LIT: Only there's no shore nearby to dock a boat, so shipping out is a pain; that hurts.
+  RE : Only there's no shore nearby to
+       dock a boat, so shipping out is a
+       pain. That hurts.
+
+[US#3477] (miner)
+  JP : 「その１ 暗いの、<b:8a70>いの怖がらないッ！ / その２ ケンカに<b:8a72>けるなッ！ / その３ じゃまな<b:8a73>には発破をかけろッ！
+  LIT: Rule 1: Fear no dark or narrow place! Rule 2: Never lose a fight! Rule 3: Blast any rock in your way!
+  RE : Rule 1: Fear no dark or narrow
+       place! Rule 2: Never lose a
+       fight! Rule 3: Blast the rest!
+
+[US#3478] (miner)
+  JP : 「ファルガイアの未来だって / これっぽっちも見えやしない〜 / どうなっちまうんだろう〜
+  LIT: Can't see so much as a sliver of Filgaia's future either... what's to become of us?
+  RE : Can't see so much as a sliver of
+       Filgaia's future either... what's
+       to become of us?
+
+[US#3479] (miner)
+  JP : 「ケンカをおっぱじめてから / <b:8a76>り上げた<b:8a77>の降ろす先に / <b:8a78>っちまうことってあるだろ？
+  LIT: Once a fight's started, you can end up stuck with a raised fist and nowhere to bring it down, right?
+  RE : Once a fight's started, you can
+       end up stuck with a raised fist
+       and nowhere to swing it, right?
+
+[US#3480] (miner)
+  JP : 「そういうもんじゃなかったのかな？
+  LIT: Wasn't that how it went?
+  RE : Wasn't that how it went?
+
+[US#3481] (miner)
+  JP : 「どこの誰が / 言い出しっぺなのか忘れたけど / 実に言いえて<8a22>だな〜
+  LIT: I forget who first said it, but it does hit the mark.
+  RE : I forget who first said it, but
+       it does hit the mark.
+
+[US#3482] (miner)
+  JP : 「って、自分の場が攻われて / やっと実信できたな〜
+  LIT: ...Something I finally understood when my own town came under attack.
+  RE : ...Something I finally understood
+       when my own town came under
+       attack.
+
+[US#3483] (miner)
+  JP : 「ホルストの渓<89f4>には / おっかないモンスターがいっぱいだ
+  LIT: Holst's mine-valleys are full of fearsome monsters.
+  RE : Holst's mine-valleys are full of
+       fearsome monsters.
+
+[US#3484] (miner)
+  JP : 「ホルストじゃ / モンスター相手に腕っぷしも / 必要とされるからな
+  LIT: In Holst you need muscle enough to handle monsters too.
+  RE : In Holst you need muscle enough
+       to handle monsters too.
+
+[US#3485] (miner)
+  JP : 「ホルストは / 完全自由通掘が大きな結<b:8a80>なのさ
+  LIT: Holst's big draw is its completely free mining.
+  RE : Holst's big draw is its
+       completely free mining.
+
+[US#3486] (miner)
+  JP : 「つまり、モンスターがうようよいる渓<89f4>で / 自分の身を守りつつ、通掘ができるヤツに / どーんと開放しているんだ
+  LIT: Meaning: in valleys crawling with monsters, it's thrown wide open to anyone who can mine and defend himself.
+  RE : Meaning: in valleys crawling with
+       monsters, it's wide open to any
+       who can mine and stay alive.
+
+[US#3487] (kid)
+  JP : 「これならまだ / どんな脅威にも立ち向かえますッ！ / あきらめちゃダメですよッ！
+  LIT: With this we can still stand against any threat! You mustn't give up!
+  RE : With this we can still stand
+       against any threat! You mustn't
+       give up!
+
+[US#3488] (kid)
+  JP : 「みなさんも / ファルガイアを守る / 正義の味方だったんですね
+  LIT: So you're all Defenders of Justice protecting Filgaia too!
+  RE : So you're all Defenders of
+       Justice protecting Filgaia too!
+
+[US#3489] (kid)
+  JP : 「これからは / お<b:8a85>い、正義の味方同胞 / <b:8a86>力していきましょうッ！
+  LIT: From now on, fellow Defenders of Justice, let's work together!
+  RE : From now on, fellow Defenders of
+       Justice, let's work together!
+
+[US#3490] (kid)
+  JP : 「ファルガイアは今〜 / 正義の味方の<b:8a89>場を / 望んでいるんじゃないかって
+  LIT: Filgaia right now... I think it's hoping for a Defender of Justice to step forward.
+  RE : Filgaia right now... I think it's
+       hoping for a Defender of Justice
+       to step forward.
+
+[US#3491] (kid)
+  JP : 「そう〜 / ボクのような正義の味方を、ね〜
+  LIT: Yes... a Defender of Justice like me!
+  RE : Yes... a Defender of Justice like
+       me!
+
+[US#3492] (kid)
+  JP : 「このまま / 終っちゃうなんてことないよね？
+  LIT: It won't just end like this, right?
+  RE : It won't just end like this,
+       right?
+
+[US#3493] (townsperson)
+  JP : 「未来を自由に<b:8a60>見られるのは / 家族だけの結<88b2>なんだよ
+  LIT: Dreaming freely of the future is a privilege that belongs to children alone.
+  RE : Dreaming freely of the future is
+       a privilege that belongs to
+       children alone.
+
+[US#3494] (kid)
+  JP : 「今こそ、いっしょに立ち上がろうッ！ / 正しい、少数少女の心は / 悪者なんかに<b:8a72>けないぞッ！
+  LIT: Now's the time to rise up together! The true hearts of boys and girls won't lose to any villain!
+  RE : Now's the time to rise up
+       together! True boys' and girls'
+       hearts won't lose to villains!
+
+[US#3495] (kid)
+  JP : 「でも、安心して / ボクが正義の味方になって / やっつけてあげるよ
+  LIT: But don't worry: I'll become a Defender of Justice and beat them for you!
+  RE : But don't worry: I'll become a
+       Defender of Justice and beat them
+       for you!
+
+[US#3496] (kid)
+  JP : 「発破の<b:8a9c>撃で / <b:8a9d>く、強力な<b:8a9e>の一撃を<b:8a9f>り出して / カッコよく<b:8a73>を<b:8aa0>くんだって
+  LIT: The blast drives a swift, mighty metal strike and splits the rock; so cool!
+  RE : The blast drives a swift, mighty
+       metal strike and splits the rock
+       wide open; so cool!
+
+[US#3497] (kid)
+  JP : 「カッコいいよな〜 / オトナだけでひとり<b:8aa1>めするなんて / ズルイや〜
+  LIT: So cool... and the grown-ups keep it all to themselves; no fair!
+  RE : So cool... and the grown-ups keep
+       it all to themselves. No fair!
+
+[US#3498] (townswoman)
+  JP : 「そうすれば、少し心が強くなった気がします / 不安や怖れが<b:8aa2>かながら / <b:8aa3>れていくような気がするのです
+  LIT: Doing so, my heart feels a little stronger; the worry and fear seem, just faintly, to recede.
+  RE : Doing so, my heart feels a little
+       stronger. The worry and fear
+       seem, just faintly, to recede.
+
+[US#3499] (townswoman)
+  JP : 「わたしたち大人は / これからを生きていく家族たちに / 未来すら<b:8aa4>えられないのでしょうか？
+  LIT: Can we adults not grant even a future to the children who must live on after us?
+  RE : Can we adults not grant even a
+       future to the children who must
+       live on after us?
+
+[US#3500] (townswoman)
+  JP : 「そう<b:8aa5>ってきましたが / あの空を見ていると〜
+  LIT: ...So I have prayed; but looking at that sky...
+  RE : ...So I have prayed; but looking
+       at that sky...
+
+[US#3501] (townsperson)
+  JP : 「それは、弱い人たち / どうすることもできない<b:8aa8>観者たち〜 / 違いますか？
+  LIT: It's the weak ones, the bystanders who can do nothing... am I wrong?
+  RE : It's the weak ones, the
+       bystanders who can do nothing...
+       am I wrong?
+
+[US#3502] (townsperson)
+  JP : 「オデッサの起を<b:8aa9>らそうとする / あなたたちの輝が強すぎるから / ヤツらはより、<b:8aaa>い起となるのでは？
+  LIT: Because your light, trying to dispel Odessa's shadow, shines too strong, don't they become a blacker shadow?
+  RE : Your light tries to dispel
+       Odessa's shadow, but shines so
+       strong their shadow only deepens.
+
+[US#3503] (townsperson)
+  JP : 「強い輝と起が交<b:8aab>する中 / 何もできない私たちは / どうなっていくのでしょうか〜
+  LIT: Amid the clash of fierce light and shadow, what becomes of us who can do nothing?
+  RE : Amid the clash of fierce light
+       and shadow, what becomes of us
+       who can do nothing?
+
+[US#3504] (townsperson)
+  JP : 「許すことはできません / 〜でも、<b:8aae>うこともままなりません / 弱い人間は、どうしたらいいのでしょう？
+  LIT: I cannot forgive them; yet neither can I fight them. What are the weak to do?
+  RE : I cannot forgive them; yet
+       neither can I fight them. What
+       are the weak to do?
+
+[US#3505] (townsperson)
+  JP : 「でも、ホルストの場中にある / アグエル<89cc>道に向かうには / たくさんの人目についてしまいます
+  LIT: But heading for the Aguel shaft in the middle of Holst, you'd be seen by far too many eyes.
+  RE : But heading for the Aguel shaft
+       in the middle of Holst, you'd be
+       seen by far too many eyes.
+
+[US#3506] (townsperson)
+  JP : 「ねらうとすれば / かつて掘っていた / <b:8a4e><89cc>道なんかではないでしょうか？
+  LIT: If they're after anything, wouldn't it be the old shaft they used to dig?
+  RE : If they're after anything,
+       wouldn't it be the old shaft they
+       used to dig?
+
+[US#3507] (townswoman)
+  JP : 「家族が戦場に出て行くなんて / やっぱり、大人たちの<b:8aaf>任です / 何かがどこかで、まちがったのですね
+  LIT: Children going off to battlefields; that is the adults' fault. Somewhere, something went wrong.
+  RE : Children going off to
+       battlefields; that is the adults'
+       fault. Something went wrong.
+
+[US#3508] (townswoman)
+  JP : 「うちの家が<b:8ab1>らしていく / ファルガイアの未来が / 心配でたまりません〜
+  LIT: I can't stop worrying about the Filgaia my children will live in.
+  RE : I can't stop worrying about the
+       Filgaia my children will live in.
+
+[US#3509] (townswoman)
+  JP : 「まさか、うちの家も / 渡り<b:8a7f>になってしまうんじゃ〜
+  LIT: Surely my own boy won't end up a Drifter too...?
+  RE : Surely my own boy won't end up a
+       Drifter too...?
+
+[US#3510] (townsperson)
+  JP : 「だからエネルギー渓谷だなんて / 不思議なものが / 通れるんでしょうね〜
+  LIT: That must be why something as strange as energy crystal can be mined here.
+  RE : That must be why something as
+       strange as energy crystal can be
+       mined here.
+
+[US#3511] (kid)
+  JP : 「どうしてみんな / そんな<b:8ab6><b:8ab7>なことに / 気がつかないのかな？
+  LIT: Why doesn't anyone notice something so simple?
+  RE : Why doesn't anyone notice
+       something so simple?
+
+[US#3512] (kid)
+  JP : 「〜でも、お母さん以外を / 守りきれる自信は、ちょっと無いかも〜
+  LIT: ...Though I might not quite be sure I can protect anyone besides Mama...
+  RE : ...Though I might not quite be
+       sure I can protect anyone besides
+       Mama...
+
+[US#3513] (kid)
+  JP : 「ボクはね / お母さんに、何て言っていいのかが / 見つからないよ〜
+  LIT: Me, I just can't find what I should say to Mama...
+  RE : Me, I just can't find what I
+       should say to Mama...
+
+[US#3514] (kid)
+  JP : 「だって、ボクが泣いちゃうと / お母さんまで / 泣いちゃうかもしれないからね
+  LIT: 'Cause if I start crying, Mama might start crying too.
+  RE : 'Cause if I start crying, Mama
+       might start crying too.
+
+[US#3515] (kid)
+  JP : 「お母さんは心配性だなぁ〜 / だいじょうぶ / ボクが守ってあげるから
+  LIT: Mama's such a worrier... it's all right; I'll protect her.
+  RE : Mama's such a worrier... it's all
+       right. I'll protect her.
+
+[US#3516] (kid)
+  JP : 「ひょっとして / ボクがあんまりかわいいから〜？
+  LIT: Could it be... because I'm just that cute?
+  RE : Could it be... because I'm just
+       that cute?
+
+[US#3517] (kid)
+  JP : 「でも、ボクたちの / <b:8aba>物になりそうなものは / <89db>まっていないみたいなんだよ
+  LIT: But the thing that could be OUR treasure doesn't seem to be buried at all.
+  RE : But the thing that could be OUR
+       treasure doesn't seem to be
+       buried at all.
+
+[US#3518] (kid)
+  JP : 「早くオトナになりたいな
+  LIT: I want to grow up quick!
+  RE : I want to grow up quick!
+
+[US#3519] (kid)
+  JP : 「おじさんたちは、渓谷を掘り出したり / モンスターをぶちのめしたりして / <8945><b:8a7a>者な生活をマンキツしてるんだって
+  LIT: The men say they get to dig crystal and clobber monsters, living the good life to the full.
+  RE : The men say they get to dig
+       crystal and clobber monsters,
+       living the good life in full.
+
+[US#3520] (miner)
+  JP : 「そこからは / エネルギー渓谷『アグエライト』が / わずかだけれど通れるぞ
+  LIT: From there you can mine the energy crystal "Aguelite," if only a little.
+  RE : From there you can mine the
+       energy crystal |Aguelite|, if
+       only a little.
+
+[US#3521] (scholar)
+  JP : 「この他の地辺に<89bb>っている遺跡とは / 少し<b:8ac4>が違うので / ひょっとしたら、新しい発見があるかも？
+  LIT: It differs a bit in kind from the ruin lying under this island; perhaps a new discovery awaits?
+  RE : It differs a bit in kind from the
+       ruin lying under this island.
+       Perhaps a new discovery awaits?
+
+[US#3522] (kid)
+  JP : 「みなさんの / お役に立ちたいんですッ！
+  LIT: I want to be of use to you all!
+  RE : I want to be of use to you all!
+
+[US#3523] (townsperson)
+  JP : 「この異世な空〜 / ＜<b:8a88>の<b:8ac5>女＞なら / 何とかしてくれるのだろうか〜
+  LIT: This unnatural sky... would the <Sword Magess> be able to do something about it, I wonder?
+  RE : This unnatural sky... would the
+       <Sword Magess> be able to do
+       something about it, I wonder?
+
+[US#3524] (townsperson)
+  JP : 「<b:8a78>った人たちです
+  LIT: Some people are easily led astray.
+  RE : Some people are easily led
+       astray.
+
+[US#3525] (townsperson)
+  JP : 「谷の中全体が遺跡だなんて / なんか想<b:8ac8>もつかないですけどね
+  LIT: The whole inside of the mountain being a ruin; I can hardly picture it.
+  RE : The whole inside of the mountain
+       being a ruin; I can hardly
+       picture it.
+
+[US#3526] (townsperson)
+  JP : 「その<b:8ac7>の遺跡にあるエネルギーの結晶を / 渓谷として掘り<b:8ac9>してるらしいです / いうなればエネルギーの合谷ですかねぇ
+  LIT: They mine the energy crystals in those old ruins as ore; call it petrified energy, I suppose.
+  RE : They mine the energy crystals in
+       those old ruins as ore. Call it
+       petrified energy, I suppose.
+
+[US#3527] (shopkeeper)
+  JP : 「でも〜 / ホルストで通掘をするつもりなら / 発破のひとつは必要さ
+  LIT: But if you mean to do any mining in Holst, you'll need at least one charge of blasting powder.
+  RE : But if you mean to do any mining
+       in Holst, you'll need at least
+       one blasting charge.
+
+[US#3528] (miner)
+  JP : 「何でも、地<89f4>の集中しているポイントで / そこは、レイポイントと呼ばれる / ファルガイアのヘソみたいな所と聞くぜ
+  LIT: They say it's a point where the earth's veins gather; a Raypoint, like Filgaia's navel, I hear.
+  RE : They say it's a point where the
+       earth's veins gather; a Raypoint,
+       like Filgaia's navel, I hear.
+
+[US#3529] (miner)
+  JP : 「僕の生活は、何も変わらないよ
+  LIT: My life hasn't changed at all.
+  RE : My life hasn't changed at all.
+
+[US#3530] (miner)
+  JP : 「あいつら、ルール無用で / ムチャクチャやりやがる〜
+  LIT: Those guys play by no rules; they wreck everything...
+  RE : Those guys play by no rules; they
+       wreck everything...
+
+[US#3531] (miner)
+  JP : 「そう、[11]お場の北側[11]ぉにも / 小さな渓<89f4>があったはずだ
+  LIT: Yes: there should have been a small mine-valley on the [11]north side of town[11] too.
+  RE : Yes: there should have been a
+       small mine-valley on the
+       [11]north side of town[11] too.
+
+[US#3532] (miner)
+  JP : 「でも、あんまりいい渓谷が通れないし / いちいち<89d3>に乗らなきゃいけないので / 今は閉ざされてしまったよ
+  LIT: But the ore there wasn't much good, and you had to take a boat every time, so it's closed now.
+  RE : But the ore there wasn't much
+       good, and you had to take a boat
+       every time, so it's closed now.
+
+[US#3533] (townsperson)
+  JP : 「誰かが、渓<89f4>のモンスターは / 遺跡の中から出て来たって言ってたけど〜 / そういうものなのかな？
+  LIT: Someone said the valley monsters came out from inside the ruins... could that be so?
+  RE : Someone said the valley monsters
+       came out from inside the ruins...
+       could that be so?
+
+[US#3534] (miner)
+  JP : 「発破があると / 通掘に何かと便利だからな / 活<b:8ad3>を<b:8ad4>待されてたんだが〜
+  LIT: Blasting powder is handy for mining, so we had hopes for him...
+  RE : Blasting powder is handy for
+       mining, so we had hopes for
+       him...
+
+[US#3535] (miner)
+  JP : 「そいつ、<b:8a5b><b:8a5c>の中でも / 発破を爆発させるくらいのマニアだったから / あっというまに<b:8a5d>き出されたんだ
+  LIT: That guy was maniac enough to set off charges inside the inn, so he was thrown out in a flash.
+  RE : That guy was maniac enough to set
+       off charges inside the inn, so he
+       was thrown out in a flash.
+
+[US#3536] (miner)
+  JP : 「これだから、マニアってよ〜
+  LIT: That's maniacs for you...
+  RE : That's maniacs for you...
+
+[US#3537] (innkeeper)
+  JP : 「おひとり方につき一緒[02]ギャラ / [02]人方ですので、[02]ギャラとなります / よろしいですか？[18]か
+  LIT: It's {2} Gella per guest; for {2} people, that's {2} Gella; all right?
+  RE : It's {2} Gella per guest a night.
+       For your party, that's {2} Gella.
+       All right?
+
+[US#3538] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#3539] (lore panel)
+  JP : ＊これは、多くの渓谷は / <b:8a4e>世代の<b:8ae8>次によって<b:8ae9>出・概<b:8aea>され / それが遺跡と共に<89db>まったと考えられる
+  LIT: It is thought that much of this crystal was extracted and refined by the prior age, then buried with the ruins.
+  RE : It is thought much of this
+       crystal was extracted and refined
+       by the prior age, then buried.
+
+[US#3540] (lore panel)
+  JP : ＊それ故に、遺跡<b:8aeb>渓谷で発掘される渓谷は / その<b:8aec>作<886f>も自ずと<b:8aed>界が早く<b:8a64>れる
+  LIT: Hence crystal dug from ruin-mines will, by nature, reach its limit all the sooner.
+  RE : Hence crystal dug from ruin-mines
+       will, by nature, reach its limit
+       all the sooner.
+
+[US#3541] (lore panel)
+  JP : ＊しかし、<b:8aee>に概<b:8aea>されているものだけに / その<b:8aef>度は、自部渓谷での<b:8af0>出物に比べ / 年<b:8a65><b:8af1>から年<b:8af2><b:8af1>といわれる
+  LIT: Yet being already refined, its purity is said to be tens to a hundred times that of naturally mined ore.
+  RE : Yet being already refined, its
+       purity is said to be up to a
+       hundredfold that of natural ore.
+
+[US#3542] (lore panel)
+  JP : ＊ここ年数で、いくつもの渓谷が閉谷し / 今後も、閉谷する渓谷も<b:8af3>えていくだろう / <b:8af4>方<b:8af5>から、新<b:8af6>渓谷の開<b:8af7>が望まれている
+  LIT: In recent years many mines have closed, and more will follow; all sides hope for new mines to open.
+  RE : In recent years many mines have
+       closed, and more will follow. All
+       hope for new mines to open.
+
+[US#3543] (lore panel)
+  JP : ＊ボムを爆発させることによって / <b:8afa><b:8afb>やヒビの入った壁などを / 破滅することができます
+  LIT: By detonating bombs, crates and cracked walls and the like can be destroyed.
+  RE : By detonating bombs, crates and
+       cracked walls and the like can be
+       destroyed.
+
+[US#3544] (doctor)
+  JP : 「そのような<b:8afd>重な〜 / もとい、結単な<b:8ae4><8943>を / 他のヤツにはまかせておけぬわ
+  LIT: Such a precious... that is, such a serious case, I could never leave to anyone else.
+  RE : Such a precious... that is, such
+       a serious case, I could never
+       leave to anyone else.
+
+[US#3545] (doctor)
+  JP : 「ヴィクトール<b:8a9a>の義体（シルエット）は / 生体がベースになっておるからな / 過<b:8b01>な無理は<b:8ae3>物じゃぞ〜
+  LIT: Victor-series prosthetics (Silhouettes) are built on living tissue; excessive strain is forbidden, mind.
+  RE : Victor-series prosthetics are
+       built on living tissue. Excessive
+       strain is forbidden, mind.
+
+[US#3546] (Kanon)
+  JP : 「たとえ、自分のカラダを<b:8b05>ててでも / 力を手に入れなければならなかった〜 / あたしは＜<b:8a88>の<b:8ac5>女＞の<b:8b06>を招くものだ
+  LIT: Even at the cost of casting away my own body, I had to gain power; I am one who carries the <Sword Magess>'s blood.
+  RE : Even at the cost of my own body,
+       I had to gain power. I carry the
+       <Sword Magess>'s blood.
+
+[US#3547] (Kanon)
+  JP : 「こうでもしなければ / あたしは、その存在意義が見当たらないのだ
+  LIT: If not for this, I could find no meaning in my own existence.
+  RE : If not for this, I could find no
+       meaning in my own existence.
+
+[US#3549] (Ashley)
+  JP : 「[05]ぎ、すまないが / 彼女のこと頼んだ
+  LIT: {5}, sorry, but I leave her in your hands.
+  RE : {5}, sorry, but I leave her in
+       your hands.
+
+[US#3550] (trickster)
+  JP : 「あなた方、正義の味方がいるから / 俺のような、おちゃめさんも / 存在する理由があるのですから〜
+  LIT: It's because you Defenders of Justice exist that a rascal like me has reason to exist too.
+  RE : It's because you Defenders of
+       Justice exist that a rascal like
+       me has reason to exist too.
+
+[US#3552] (Kanon)
+  JP : 「そう、あたしがあたしであること〜 / ＜<b:8a88>の<b:8ac5>女＞の<b:8b11><b:8b12>であるためには / お前のように倒すべき存在が必要だ
+  LIT: Yes: for me to be myself, to be the <Sword Magess>'s heir, I need beings like you that must be defeated.
+  RE : Yes: for me to be myself, the
+       <Sword Magess>'s heir, I need
+       foes like you to defeat.
+
+[US#3553] (Kanon)
+  JP : 「戦いの中に / 『<b:8b07><b:8b08>』はある〜 / 戦場こそ、あたしの<b:8b13>場所だッ！
+  LIT: Within battle lies the "hero"; the battlefield is where I belong!
+  RE : Within battle lies the |hero|.
+       The battlefield is where I
+       belong!
+
+[US#3554] (voice)
+  JP : 「まもなく / はじまりますよ〜
+  LIT: It will begin very soon...
+  RE : It will begin very soon...
+
+[US#3555] (voice)
+  JP : 「クックック〜
+  LIT: Heh heh heh...
+  RE : Heh heh heh...
+
+[US#3556] (Ashley)
+  JP : 「共に戦おう[05]き / 俺たちは<b:8b19>間なんだ
+  LIT: Fight with us, {4}; we are comrades.
+  RE : Fight with us, {4}. We are
+       comrades.
+
+[US#3558] (party)
+  JP : 「とにかく、ヴァレリアシャトーまで戻るぞ / ここではまともな分<b:8afc>も<88e4>せぬ
+  LIT: In any case, back to Valeria Chateau; we can't get proper treatment here.
+  RE : In any case, back to Valeria
+       Chateau. We can't get proper
+       treatment here.
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#3548] SKIPPED - no content box in decode
+[US#3551] SKIPPED - no content box in decode
+[US#3557] SKIPPED - no content box in decode
