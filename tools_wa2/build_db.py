@@ -162,6 +162,57 @@ SCENES = [
  ('lore_blk9_PROPAGATED.txt','VC',"Lore blk9 propagated (twin auto-fill)",'9'),
  ('lore_blk10_PROPAGATED.txt','VC',"Lore blk10 propagated (twin auto-fill)",'10'),
  ('lore_blk11_PROPAGATED.txt','VC',"Lore blk11 propagated (twin auto-fill)",'11'),
+ # ---- disc-1 completion sweep (2026-07-27): deep RE for every remaining disc-1 story block ----
+ ('story_blk1_86-159_FINAL.txt','PV',"Palace Village opening: Lilka, wheat-field monster, comet lore, boss mechanics",'1'),
+ ('story_blk3_294-489_FINAL.txt','MR',"Town Meria opening: ceremony, gratitude, tutorials, Ashley's awakening",'3'),
+ ('story_blk4_493-600_FINAL.txt','MR',"Town Meria homecoming part 1: Marina, the kids, town warmth",'4'),
+ ('story_blk4_601-702_FINAL.txt','MR',"Town Meria part 2: Ashley/Marina heart-to-heart",'4'),
+ ('story_blk12_3147-3229_FINAL.txt','DZ',"Damzen City part 1: town NPCs & ambient",'12'),
+ ('story_blk12_3230-3313_FINAL.txt','DZ',"Damzen City part 2: doctor, bar, miners' loyalty",'12'),
+ ('story_blk12_3314-3379_FINAL.txt','DZ',"Damzen City part 3: sailor, Marivel's Hob & Nob, waitress Luca",'12'),
+ ('story_blk12_3380-3444_FINAL.txt','DZ',"Damzen City part 4: legends, Ley Points, Marivel's tip",'12'),
+ ('story_blk13_3446-3558_FINAL.txt','UT',"Holst mining town + Kanon's clinic scene",'13'),
+ ('story_blk14_3560-3660_FINAL.txt','SD',"Sylvaland Castle part 1: knights, bell tower, Queen's court",'14'),
+ ('story_blk14_3661-3759_FINAL.txt','SD',"Sylvaland part 2: nation lore panels, Queen's audience",'14'),
+ ('story_blk15_3764-3850_FINAL.txt','HM',"Halmetz aftermath + the empty town + Judecca ambush",'15'),
+ ('story_blk16_3854-3960_FINAL.txt','BV',"Baskar Village: the |Key| sacrifice arc, part 1",'16'),
+ ('story_blk16_3961-4060_FINAL.txt','BV',"Baskar part 2: Sabrina's story, Glaive Le Gable panels",'16'),
+ ('story_blk16_4061-4147_FINAL.txt','BV',"Baskar part 3: dream-seer, Tim's choice, the trial betrayal",'16'),
+ ('story_blk17_4149-4250_FINAL.txt','TS',"Sielje Region part 1: magic academy, Mr. Day, sleepy students",'17'),
+ ('story_blk17_4251-4350_FINAL.txt','TS',"Sielje part 2: McGregor scientist, Irving's past, tutorials",'17'),
+ ('story_blk17_4351-4447_FINAL.txt','TS',"Sielje part 3: study panels, Lilka's sister, data-tablet chatter",'17'),
+ ('story_blk18_4449-4592_FINAL.txt','SY',"Quartly/Slayheim: Eliza's grudge, hero-legend truth, spy rumors",'18'),
+ ('story_blk19_4595-4645_FINAL.txt','SY',"Slayheim ruins: Angel Halo / Iscariot Treaty lore + Brad's memory + Kanon",'19'),
+ ('story_blk20_4649-4755_FINAL.txt','GG',"Guild Galad part 1: tech-pride NPCs, Master's apology",'20'),
+ ('story_blk20_4756-4860_FINAL.txt','GG',"Guild Galad part 2: Grauswein counter-plan",'20'),
+ ('story_blk21_4865-4952_FINAL.txt','VC',"Crimson Noble lore scrolls + Marivel's recruitment (Map Scope)",'21'),
+ ('story_blk22_4955-5014_FINAL.txt','TB',"Meria Boule subway station: Noel escort, Merc chatter, Crimson Noble lore",'22'),
+ ('story_blk26_5133-5236_FINAL.txt','VC',"ARMS barracks + Argetlahm/Sword Magess lore + the sword-taking scene",'26'),
+ ('story_blk27_5239-5297_FINAL.txt','IP',"Illsveil Prison + Brad's recruitment / jailbreak",'27'),
+ ('story_blk28_5302-5316_FINAL.txt','UT',"Map-system tutorial + weapon lore",'28'),
+ ('story_blk30_5354-5366_FINAL.txt','CM',"Dungeon puzzle: prism gem for Marina + weapon lore",'30'),
+ ('story_blk32_5408-5459_FINAL.txt','HM',"Halmetz trap dungeon: captives, Judecca's public-execution plot, rescue",'32'),
+ ('story_blk35_5565-5592_FINAL.txt','WV',"Varukisas raid: mission briefing + Brad vs Odessa + crash escape",'35'),
+ ('story_blk36_5596-5636_FINAL.txt','GB',"Gate Bridge puzzle + Liz & Ard boss banter",'36'),
+ ('story_blk37_5639-5647_FINAL.txt','CE',"Diablo Tower lore inscriptions + Lilka's ghost-banishing quip",'37'),
+ ('story_blk39_5743-5853_FINAL.txt','DP',"Alchemic Plant infiltration + Odessa command + Brad's Gias sacrifice",'39'),
+ ('story_blk40_5855-5913_FINAL.txt','DC',"Emulator Zone train + Caina vs Kanon showdown",'40'),
+ ('story_blk44_6022-6069_FINAL.txt','HG',"Diablo Pillar / Heimdal Gazzo intel + Wire Hook + Liz & Ard rematch",'44'),
+ ('story_blk45_6073-6089_FINAL.txt','LC',"Diablo Pillar approach: Tim's resolve + Antenora's last stand",'45'),
+ ('story_blk46_6092-6131_FINAL.txt','LC',"Antenora boss scene: her revenge on Vinsfeld's killer",'46'),
+ ('story_blk47_6139-6157_FINAL.txt','LC',"Dying rebel officer: trust, justice, and a hero's send-off",'47'),
+ ('story_blk48_6163-6192_FINAL.txt','DJ',"Judecca boss scene + Kanon's hero-blood awakening",'48'),
+ ('story_blk49_6206-6341_FINAL.txt','HG',"Heimdal Gazzo climax: escape pods, Vinsfeld showdown",'49'),
+ ('story_blk53_6494-6530_FINAL.txt','LG',"Mental Jamming dungeon + Kanon's revenge on Ashley",'53'),
+ ('story_blk61_6816-6881_FINAL.txt','GGa',"Bulkogidon / Lizardian alien comedy scene",'61'),
+ ('story_blk63_6930-6968_FINAL.txt','WV',"Area 51 interception + Baskar-village decision + peers' debate",'63'),
+ ('story_blk65_6974-6989_FINAL.txt','GGa',"Guardian rune-verse inscriptions + Flare/weapon lore",'65'),
+ ('story_blk67_7034-7145_FINAL.txt','GG',"Extend-magic researcher NPC + magic lore panels",'67'),
+ ('story_blk68_7148-7190_FINAL.txt','GG',"Monster-Card album collector + name-change + shop hub",'68'),
+ ('story_blk69_7192-7208_FINAL.txt','DP',"Ptolomea's Cocytus ambush at the mountains",'69'),
+ ('story_blk71_7237-7248_FINAL.txt','IP',"Post-Illsveil rendezvous: no-more-pawns + safe reunion",'71'),
+ ('story_blk72_7250-7264_FINAL.txt','IP',"Ruins evacuation stand: buy time for the trapped team",'72'),
+ ('story_blk74_7274-7301_FINAL.txt','WV',"Living-bomb monsters + Gull Wing air-battle briefing",'74'),
 ]
 
 # ---- first-pass registry: auto-generated files (localization reflowed, US#-verified) ----
@@ -312,7 +363,7 @@ def main():
         for b in str(blk).split(): blk_area.setdefault(int(b), area)
     for f, codes, blk, _l in FIRSTPASS:
         blk_area.setdefault(int(blk), codes[0])
-    for fn in ('disc1_cleanup_FINAL.txt',):
+    for fn in ('disc1_cleanup_FINAL.txt', 'boilerplate_sweep_FINAL.txt', 'story_disc1_gapfill_FINAL.txt'):
         p = os.path.join(INS, fn)
         if os.path.exists(p):
             ingest(p, 'deep', lambda f, u: blk_area.get(offs[u] // UBLK, ''))

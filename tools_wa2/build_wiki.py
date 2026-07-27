@@ -262,7 +262,10 @@ def build():
         by_area.setdefault(area, []).append(dict(file=fname, area=area, subtitle=subtitle, block=blk,
                                 desc=desc, boxes=boxes, nboxes=len(real), ntotal=len(boxes)))
     all_final = {os.path.basename(p) for p in glob.glob(os.path.join(INSERT, '*_FINAL.txt'))}
-    unregistered = sorted(all_final - present)
+    # multi-block sweep files span many areas; they are routed per-box via block->area in
+    # build_db.py (not a single SCENES entry), so they are registered by design — not a gap.
+    DB_ROUTED = {'disc1_cleanup_FINAL.txt', 'boilerplate_sweep_FINAL.txt', 'story_disc1_gapfill_FINAL.txt'}
+    unregistered = sorted(all_final - present - DB_ROUTED)
 
     # index FIRSTPASS files by area code (auto-generated, US#-verified, not deep RE)
     fp_area = {}
