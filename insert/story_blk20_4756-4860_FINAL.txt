@@ -1,0 +1,346 @@
+# WA2 — Block 20, US#4756-4860 — FINAL (Guild Galad part 2: Grauswein counter-plan — block 20 complete)
+# =========================================================================================
+# Guild Galad close: why nobody sane wants a nuked world, Ashley's musing on "world domination"
+# vs the diversity of hearts, the Grauswein tracking crisis (radar jamming, empty-reactor lore),
+# the factory-link generator lure plan, the Master's defiance, and the Last Dragon / Lombardia
+# legend reveal. US#4798-4860 are verbatim JP repeats of the 4756-4797 pool (NPC line reuse) —
+# marked DUP; reuse the matching RE at insertion. JP-primary.
+
+[US#4756] (scholar)
+  JP : 「その地には生命の<89e2><b:8b0a>が宿ること<b:8b0b>わず / <b:8b0c><b:8b0d>の死せる大地と合すといいます
+  LIT: In such land no seed of life may dwell; it becomes, they say, an eternally dead earth.
+  RE : In such land no seed of life may
+       dwell. It becomes, they say, an
+       eternally dead earth.
+
+[US#4757] (scholar)
+  JP : 「そのような地に<889a>われた世界を / 誰が<b:8b0e>んで征服しましょうか
+  LIT: Who would gladly conquer a world covered in such land?
+  RE : Who would gladly conquer a world
+       covered in such land?
+
+[US#4758] (Master)
+  JP : 「わしも核同時を / オデッサを<b:8b0f>制するための / いわば<b:8b10>止力として用いるつもりだった
+  LIT: I too meant to use the nuclear weapon as, so to speak, a deterrent to check Odessa.
+  RE : I too meant to use the nuclear
+       weapon as, so to speak, a
+       deterrent to check Odessa.
+
+[US#4759] (Master)
+  JP : 「ヤツらもまた / 交<b:8b11>の手<b:8ab3>として / 核同時を<b:8b12>りかざしてくるはずだ
+  LIT: They too will surely brandish the nuke as a bargaining tool.
+  RE : They too will surely brandish the
+       nuke as a bargaining tool.
+
+[US#4760] (party)
+  JP : 「[05]ぉさん〜 / どうかしました？
+  LIT: {1}... is something the matter?
+  RE : {1}... is something the matter?
+
+[US#4761] (Ashley)
+  JP : 「オデッサの言う『世界征服』って / 大変なことなんだなって〜 / 考えていたんだ
+  LIT: I was just thinking what an enormous thing Odessa's "world conquest" really is.
+  RE : I was just thinking what an
+       enormous thing Odessa's |world
+       conquest| really is.
+
+[US#4762] (Ashley)
+  JP : 「でも、みんなそれぞれ / 自分の意<b:8b15>や考えを持っていた〜 / あたり前のことだけどね
+  LIT: But everyone had their own opinions and thoughts; obvious as that sounds.
+  RE : But everyone had their own
+       opinions and thoughts. Obvious as
+       that sounds.
+
+[US#4763] (Ashley)
+  JP : 「中には目的を同じくする人たちもいた / でも、その達成手<b:8ab3>は / やっぱりバラバラだったんだ
+  LIT: Some even shared the same goal; but their means of reaching it were still all different.
+  RE : Some even shared the same goal.
+       But their means of reaching it
+       were still all different.
+
+[US#4764] (Ashley)
+  JP : 「人の心は、ひとつではない〜
+  LIT: People's hearts are not one.
+  RE : People's hearts are not one.
+
+[US#4765] (Ashley)
+  JP : 「人の年だけ思<b:8aba>が交<b:8b16>する / このファルガイア〜 / 『征服』の一言でまとめられるのだろうか〜
+  LIT: In this Filgaia, as many minds cross as there are people; can one word, "conquest," ever bind it?
+  RE : As many minds cross here as there
+       are people. Can one word,
+       conquest, ever bind it?
+
+[US#4766] (Master's son)
+  JP : 「『世界征服』という<b:8b17>きには / 一種<b:8b18><b:8a5c>なモノがあります
+  LIT: There is something almost grandiose in the ring of "world conquest."
+  RE : There is something almost
+       grandiose in the ring of |world
+       conquest|.
+
+[US#4767] (Master's son)
+  JP : 「ですが、実<89d2>に<b:8b19>分するにあたって / <b:8b1a><b:8ab0>ばかりで / 決して、<b:8b1b>心地の良いモノではないはずです
+  LIT: But actually governing would be nothing but hardship; by no means a comfortable seat.
+  RE : But actually governing would be
+       nothing but hardship. By no means
+       a comfortable seat.
+
+[US#4768] (Master's son)
+  JP : 「その地<b:8b1c>性、<b:8b1d>式性〜 / <b:8a45><b:8a50>や法制度〜 / [05]ぉさんの言う、人の心〜
+  LIT: Each region's character, its customs, industry and law; and, as {1} says, people's hearts.
+  RE : Each region's character, customs,
+       industry and law. And, as {1}
+       says, people's hearts.
+
+[US#4769] (Master's son)
+  JP : 「ひとつに / まとめなければならないことは / たくさんありすぎます〜
+  LIT: There is far too much that would have to be bound into one.
+  RE : There is far too much that would
+       have to be bound into one.
+
+[US#4770] (Ashley)
+  JP : 「それでも、俺たちの前には / それを為そうとする者が / 立ちはだかってくる〜
+  LIT: And yet, before us stand those who would attempt exactly that.
+  RE : And yet, before us stand those
+       who would attempt exactly that.
+
+[US#4771] (Ashley)
+  JP : 「でも、今、この<b:8b1e>間 / オデッサは誰かを苦しめているんだよ
+  LIT: But right now, this very moment, Odessa is making someone suffer.
+  RE : But right now, this very moment,
+       Odessa is making someone suffer.
+
+[US#4772] (kid)
+  JP : 「やっつけなくちゃ / いけないんだよ〜
+  LIT: We've got to beat them, we've got to!
+  RE : We've got to beat them, we've got
+       to!
+
+[US#4773] (Master's son)
+  JP : 「ですよね？ / 父上〜
+  LIT: Isn't that right, Father?
+  RE : Isn't that right, Father?
+
+[US#4774] (engineer)
+  JP : 「テレポートオーブの / <b:8b20>移<b:8b21>果に対応した / アポーツ機能を<887c><887d>だ
+  LIT: We'll install an Aport function matched to the Teleport Orb's warp effect.
+  RE : We'll install an Aport function
+       matched to the Teleport Orb's
+       warp effect.
+
+[US#4775] (engineer)
+  JP : 「これで / ファルガイア外道の<b:8b22>行も可能となる / 頼む、ヤツらを止めてくれ〜
+  LIT: With this, travel across Filgaia's outer seas becomes possible; please, stop them.
+  RE : With this, travel across
+       Filgaia's outer seas is possible.
+       Please, stop them.
+
+[US#4776] (operator)
+  JP : 「現在、核ドラゴン『グラウスヴァイン』は / 最大<8a04>度４８０で / ファルガイアに向かって降辺中
+  LIT: The Nuclear Dragon "Grauswein" is now descending toward Filgaia at a top speed of 480.
+  RE : The Nuclear Dragon |Grauswein| is
+       now descending toward Filgaia at
+       a top speed of 480.
+
+[US#4777] (operator)
+  JP : 「グラウスヴァイン自身が放つ<8868><886f>が / レーダーの観待機能を<b:8b25>わすジャマーとなり / 正確な<b:8b26>道待定に<b:8a7e><88f6>が生じています
+  LIT: The heat Grauswein itself gives off jams the radar's tracking, hindering precise course prediction.
+  RE : The heat Grauswein gives off jams
+       the radar's tracking, hindering
+       precise course prediction.
+
+[US#4778] (operator)
+  JP : 「降辺地帯のわりだしには / もう少し時間が必要です
+  LIT: We need a little more time to fix the landing zone.
+  RE : We need a little more time to fix
+       the landing zone.
+
+[US#4779] (scholar)
+  JP : 「<b:8b27>りましたね〜 / どちらも私たちの / 理解の<b:8b08><b:8b28>を<b:8ac4>えています
+  LIT: We're at a loss; both exceed the bounds of our understanding.
+  RE : We're at a loss. Both exceed the
+       bounds of our understanding.
+
+[US#4780] (scholar)
+  JP : 「魔<b:8b2b>によると / <b:8b2c><b:8b2d><8865>後のグラウスヴァインは / カラっぽの反応<b:8b2e>みたいなもんでな
+  LIT: By the old grimoires, Grauswein just after summoning is like an empty reactor.
+  RE : By the old grimoires, Grauswein
+       just after summoning is like an
+       empty reactor.
+
+[US#4781] (scholar)
+  JP : 「体街に、エネルギーを<b:8aee>え / そいつを使って核反応を<b:8b2f>起させるらしい
+  LIT: It stores energy within its body and uses it to trigger the nuclear reaction, they say.
+  RE : It stores energy within its body
+       and uses it to trigger the
+       nuclear reaction.
+
+[US#4782] (scholar)
+  JP : 「そう、グラウスヴァインは / 取り込むエネルギーを<b:8a3a>めて行動する
+  LIT: Yes: Grauswein acts by seeking energy to absorb.
+  RE : Yes: Grauswein acts by seeking
+       energy to absorb.
+
+[US#4783] (scholar)
+  JP : 「<89c1>に言えば / 高エネルギー反応をちらつかせてやれば / つまり〜
+  LIT: Put the other way: dangle a high-energy reaction before it, and, in short...
+  RE : Put the other way: dangle a
+       high-energy reaction before it,
+       and, in short...
+
+[US#4784] (engineer)
+  JP : 「それぞれの<8a13><b:8b33>を / コンビナート状にリンクさせれば / アルケミックプラント<b:8ae8>みの出力も可能だ
+  LIT: Link the individual factories into a combine and output rivaling the Alchemic Plant is possible.
+  RE : Link the factories into a combine
+       and output rivaling the Alchemic
+       Plant is possible.
+
+[US#4785] (party)
+  JP : 「ギルドグラードマスター〜 / ご発力、<b:8abd>み入ります
+  LIT: Guild Galad Master, we are deeply grateful for your aid.
+  RE : Guild Galad Master, we are deeply
+       grateful for your aid.
+
+[US#4786] (Master)
+  JP : 「それに、わしとて / ファルガイアに生きる命のひとつ / 悪あがきくらいしてみるわい
+  LIT: Besides, I too am one life living on Filgaia; I'll thrash about a little before the end!
+  RE : Besides, I too am one life living
+       on Filgaia. I'll thrash about a
+       little before the end!
+
+[US#4787] (Master)
+  JP : 「こっちは<8a13><b:8b33>をリンクして / <b:8b37><b:8b38>ジェネレイター右りに / かかるとするかな
+  LIT: We'll set to linking the factories and building the makeshift generator, then.
+  RE : We'll set to linking the
+       factories and building the
+       makeshift generator, then.
+
+[US#4788] (operator)
+  JP : 「作戦は、成果です
+  LIT: The operation is a success.
+  RE : The operation is a success.
+
+[US#4789] (scholar)
+  JP : 「核の開発を阻止した、配置の発調関係は / オデッサの<b:8b24><b:8abc>がなければ / 実現しなかっただろうに〜
+  LIT: The cooperation that stopped the nuclear development would never have formed without Odessa's threat.
+  RE : The cooperation that stopped the
+       nuclear development would never
+       have formed without Odessa.
+
+[US#4790] (Master's son)
+  JP : 「たしかに〜 / そうかもしれません / <b:8b3d><b:8b3e>なものですね〜
+  LIT: Indeed... perhaps that is so; how ironic it is.
+  RE : Indeed... perhaps that is so. How
+       ironic it is.
+
+[US#4791] (soldier)
+  JP : 「この状況辺で / あんなのが何<b:8a89>もやってきたら / いくらＡＲＭＳでもお手上げだぞ
+  LIT: If several of those came in this situation, even ARMS would be helpless.
+  RE : If several of those came in this
+       situation, even ARMS would be
+       helpless.
+
+[US#4792] (engineer)
+  JP : 「機艇と生命体の<b:8b41>合存在、ドラゴン〜 / ギルドグラードにて生<b:8a45>される機艇は / ドラゴンの合谷を用いたものだ
+  LIT: Dragons, fusions of machine and living being; the machines made in Guild Galad use Dragon fossils.
+  RE : Dragons, fusions of machine and
+       living being. Our machines are
+       made from Dragon fossils.
+
+[US#4793] (scholar)
+  JP : 「もしかしたら / 他にも我らの力となる / ドラゴンが存在するのではないかと〜
+  LIT: Perhaps there exist other Dragons that could become our strength.
+  RE : Perhaps there exist other Dragons
+       that could become our strength.
+
+[US#4794] (scholar)
+  JP : 「あくまでも、ウワサなのでな / その信念性がどこまであるか / 正<8865>わからぬ〜
+  LIT: It is only rumor, mind; how much truth it holds, I honestly cannot say.
+  RE : It is only rumor, mind. How much
+       truth it holds, I honestly cannot
+       say.
+
+[US#4795] (scholar)
+  JP : 「だが、ギルドグラードには / 最後のドラゴン伝説が / 今も伝えられておるのだ〜
+  LIT: But in Guild Galad, the legend of the Last Dragon is told even now.
+  RE : But in Guild Galad, the legend of
+       the Last Dragon is told even now.
+
+[US#4796] (scholar)
+  JP : 「『ロンバルディア』〜 / <b:8b23>空を切り<b:8b43>く伝説の<b:8b44> / ドラゴンキャリバー、ロンバルディア〜
+  LIT: "Lombardia": the legendary wing that cuts the sky; the Dragon Caliber, Lombardia.
+  RE : |Lombardia|: the legendary wing
+       that cuts the sky. The Dragon
+       Caliber, Lombardia.
+
+[US#4797] (innkeeper)
+  JP : 「おひとり方につき一緒[02]ギャラ / [02]人方ですので、[02]ギャラとなります / よろしいですか？[18]か
+  LIT: It's {2} Gella per guest; for {2} people, that's {2} Gella; all right?
+  RE : It's {2} Gella per guest a night.
+       For your party, that's {2} Gella.
+       All right?
+
+# --- DUP: US#4798-4860 are verbatim JP repeats of the 4756-4797 pool (NPC line reuse). ---
+# Reuse the matching RE above at insertion time:
+[US#4798] DUP of 4770
+[US#4799] DUP of 4771
+[US#4800] DUP of 4772
+[US#4801] DUP of 4773
+[US#4802] DUP of 4774
+[US#4803] DUP of 4775
+[US#4804] DUP of 4776
+[US#4805] DUP of 4777
+[US#4806] DUP of 4778
+[US#4807] DUP of 4779
+[US#4808] DUP of 4780
+[US#4809] DUP of 4781
+[US#4810] DUP of 4782
+[US#4811] DUP of 4783
+[US#4812] DUP of 4784
+[US#4813] DUP of 4785
+[US#4814] DUP of 4786
+[US#4815] DUP of 4787
+[US#4816] DUP of 4788
+[US#4817] DUP of 4789
+[US#4818] DUP of 4790
+[US#4819] DUP of 4791
+[US#4820] DUP of 4792
+[US#4821] DUP of 4793
+[US#4822] DUP of 4794
+[US#4823] DUP of 4795
+[US#4824] DUP of 4796
+[US#4825] DUP of 4797
+[US#4826] DUP of 4770
+[US#4827] DUP of 4771
+[US#4828] DUP of 4772
+[US#4829] DUP of 4773
+[US#4830] DUP of 4774
+[US#4831] DUP of 4775
+[US#4832] DUP of 4776
+[US#4833] DUP of 4777
+[US#4834] DUP of 4778
+[US#4835] DUP of 4779
+[US#4836] DUP of 4780
+[US#4837] DUP of 4781
+[US#4838] DUP of 4782
+[US#4839] DUP of 4783
+[US#4840] DUP of 4784
+[US#4841] DUP of 4785
+[US#4842] DUP of 4786
+[US#4843] DUP of 4787
+[US#4844] DUP of 4788
+[US#4845] DUP of 4789
+[US#4846] DUP of 4790
+[US#4847] DUP of 4791
+[US#4848] DUP of 4792
+[US#4849] DUP of 4793
+[US#4850] DUP of 4794
+[US#4851] DUP of 4795
+[US#4852] DUP of 4796
+[US#4853] DUP of 4797
+[US#4854] DUP of 4770
+[US#4855] DUP of 4771
+[US#4856] DUP of 4772
+[US#4857] DUP of 4773
+[US#4858] DUP of 4774
+[US#4859] DUP of 4775
+[US#4860] DUP of 4776
