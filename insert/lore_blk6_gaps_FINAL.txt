@@ -1,0 +1,138 @@
+# WA2 — Block 6 — FINAL (remaining unique gap boxes: US#1014-1113)
+# =========================================================================================
+# The last block-6 boxes that didn't propagate (their block-local kanji codes differ enough from
+# the twins to break the text-match key). Content is the same Chateau lore already translated in
+# blocks 8/10 (Ley Line/Baskar, Glaive Le Gable, Wizardry Stealth/Heimdal Gazzo, hero-legend,
+# Marivel, Young-ARMS kid banter). JP-primary; unreadable spans [?]. Name codes preserved.
+
+[US#1014] (Chateau NPC)
+  JP : 「バスカーたちが隠れ住む里の付近は / ファルガイアの中でも / 作年のレイラインが通っているところなんだ
+  LIT: The area near the village where the Baskar hide is one of Filgaia's oldest Ley-Line paths.
+  RE : Near where the Baskar hide runs
+       one of Filgaia's oldest Ley Lines.
+
+[US#1021] (Chateau NPC)
+  JP : 「そこにもレイラインが通っているから / ライブリフレクターの<b:8b0c>動には / <b:8b0e>しているというわけだ
+  LIT: A Ley Line runs there too, so it's well suited to running a Live Reflector.
+  RE : A Ley Line runs there too, so it
+       suits running a Live Reflector.
+
+[US#1027] (Chateau NPC)
+  JP : 「そう、休枯谷ゆえに / 気をつけてくださいよ / いつ<b:8b19>枯するかわかりませんからね
+  LIT: Yes, since it's a dormant valley, take care; there's no telling when it'll erupt.
+  RE : Yes, it's only dormant, so take
+       care. No telling when it'll erupt.
+
+[US#1032] (Chateau NPC)
+  JP : 「それも、金<b:8b21>で / 抜けるように<b:8b22>が<b:8b23>くて / <b:8b24>は<b:8a90>えるように眠くて〜
+  LIT: Blonde, too, with a dazzlingly fair complexion, and eyes red as if burning...
+  RE : Blonde, with a dazzling fair
+       complexion, and eyes red as if
+       aflame...
+
+[US#1042] (Chateau NPC)
+  JP : 「古い言い伝えで、ファルガイアの中心には / すべての生命の<b:8b0d>となった / <b:8b28>く<b:8b29>く<b:8b2a>の道が広がっているという〜
+  LIT: An old legend says a road of blue mud, the source of all life, spreads at Filgaia's center.
+  RE : Old legend says a road of blue
+       mud, the source of all life, lies
+       at Filgaia's heart.
+
+[US#1043] (Chateau NPC)
+  JP : 「『グラブ・ル・ガブル』〜 / 命の始<8869>、<b:8b2a>の道にて / ヴァレリア<b:8a85>は、いったい何を〜
+  LIT: "Glaive Le Gable," the mud road where life began; what could Sir Valeria want there?
+  RE : |Glaive Le Gable|, the mud road
+       where life began. What could Sir
+       Valeria want there?
+
+[US#1046] (Chateau NPC)
+  JP : 「空の<b:8b30>失と衛星の搭近〜 / ふたつの間に / 因果関係は無いのだろうか〜
+  LIT: The sky's loss and the comet's approach; is there no causal link between the two?
+  RE : The sky's loss and the comet's
+       approach. Is there no link
+       between them?
+
+[US#1047] (Chateau NPC)
+  JP : 「あらゆる<887e>相機能から / その存在を消し<b:8a47>る / ウィザードリィステルス〜
+  LIT: Wizardry Stealth erases its presence from every mode of surveillance.
+  RE : Wizardry Stealth erases it from
+       every form of surveillance.
+
+[US#1048] (Chateau NPC)
+  JP : 「だが、存在を消し<b:8a47>れるのは / ステルス対<b:8b33>である / ヘイムダル・ガッツォーのみだッ！
+  LIT: But the only thing it renders invisible is the stealth unit itself, the Heimdal Gazzo!
+  RE : But it only hides the stealth
+       unit itself, the Heimdal Gazzo!
+
+[US#1062] (Chateau NPC)
+  JP : 「〜空を失った / 現在のファルガイアで / 人はまた英雄を望み、生み出すのだろうか？
+  LIT: In this present Filgaia, its sky lost, will people again wish for and create a hero?
+  RE : In this sky-less Filgaia, will
+       people again wish a hero into
+       being?
+
+[US#1063] (Chateau NPC)
+  JP : 「<b:8b42>圧された状況から / 『<b:8b43>命』だの『解放』だの / 理みたいなことを<b:8b45>んで同<b:8ad0>を<b:8b46>るのさ
+  LIT: From an oppressed state, he spouts "revolution" and "liberation" and such ideals to rally his fellows.
+  RE : From oppression, he spouts
+       "revolution" and "liberation" to
+       rally the others.
+
+[US#1064] (Chateau NPC)
+  JP : 「あいつの理につきあわされて / 最後は、全<b:8b47>で<b:8b48><b:8b49>いを / しなくちゃいけない状況になるんだ
+  LIT: We get dragged along with his ideals and end up having to clean up the whole mess together.
+  RE : We get dragged along with his
+       ideals, then must clean up the
+       whole mess.
+
+[US#1068] (Chateau NPC)
+  JP : 「もちろん、スレイハイムから / 戦って、<b:8b52>ったんだがな〜
+  LIT: Of course, he took it from Slayheim by fighting for it.
+  RE : Of course, he won it from
+       Slayheim by fighting for it.
+
+[US#1070] (Chateau NPC)
+  JP : 「みんな置って行<b:8ae6>なんて / 一度も無かったかもしれないな
+  LIT: They probably never once marched in proper formation.
+  RE : They likely never once marched in
+       proper formation.
+
+[US#1087] (Chateau NPC)
+  JP : 「外からドンパチやって落ちねぇのなら / 中に侵入して、街部から破滅する / <b:8b0d>本的なことだが、確実な作戦だ
+  LIT: If shooting from outside won't down it, get inside and destroy it from within; basic, but a sure plan.
+  RE : If it won't fall from outside, get
+       in and wreck it from within.
+       Basic, but sure.
+
+[US#1090] (Chateau NPC)
+  JP : 「それは、僕たちひとりひとりが / 少しずつ持っているはずの / 大切なモノを保る力だぜ
+  LIT: It's the power each of us holds a little of, to protect what we treasure.
+  RE : It's the power each of us holds a
+       little of, to guard what we
+       treasure.
+
+[US#1092] (Chateau NPC)
+  JP : 「英雄の<b:8b66><b:8b67>を<b:8b68><895b>する<b:8a9d>や / 人にあらずモノは / <b:8b69><b:8b2b>されるらしいが〜
+  LIT: Those who falsely claim the hero's lineage, and things that are not human, are turned away, it's said.
+  RE : Those who falsely claim the hero's
+       line, and things not human, are
+       turned away, they say.
+
+[US#1110] (kid)
+  JP : 「やっぱり、あんちゃんが<b:8b85>かしたのかな？ / 大人はたいへんだよねぇ
+  LIT: Did the big guy make her cry after all? Grown-ups have it rough, huh.
+  RE : Did the big guy make her cry?
+       Grown-ups have it rough, huh.
+
+[US#1112] (kid)
+  JP : 「まあ、少数ＡＲＭＳの力を<b:8b88>りたくなったら / いつでも言ってくれよ
+  LIT: Well, if you ever want to borrow us Young ARMS' strength, just say so anytime.
+  RE : If you ever want to borrow us
+       Young ARMS' strength, just say
+       the word.
+
+[US#1113] (kid)
+  JP : 「<b:8b6b>務室の保護衛さんだけどさ / <b:8b06>人だけどちょっと、恐いんだよな / いろんな意<b:8a3d>で〜
+  LIT: That guard in the sick bay; she's striking, but a little scary, in more ways than one.
+  RE : That guard in the sick bay, she's
+       striking, but a bit scary. In more
+       ways than one.
