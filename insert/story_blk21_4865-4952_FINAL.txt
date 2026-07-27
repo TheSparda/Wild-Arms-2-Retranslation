@@ -1,0 +1,488 @@
+# WA2 — Block 21, US#4865-4952 (remaining) — FINAL (Crimson Noble lore scrolls + Marivel's recruitment — block 21 complete)
+# =========================================================================================
+# The Crimson Noble (Noble Red) lore-encyclopedia block: their scrolls on being the sun-fearing
+# night-dwelling supreme species, their pseudo-life golems/companions, Lord Blazer the
+# Devourer of Souls, their reappraisal of humanity (weak yet mastering flight & magic; the
+# Sword Magess who fought the demon that ate their brethren), the Guardians' decline (eroded by
+# human negativity), Lucied "of Desire" and the Sword Magess's will-to-live, Raypoints (the
+# four elements), the machine-flesh Dragons from another dimension and the world-devouring
+# Peril, plus Marivel's わらわ recruitment scene ("only a common aim; a proud Crimson Noble
+# would never fight beside lowly humans otherwise") and the Map Scope upgrade gag. JP-primary.
+# Many ＊進みますか？ are plain "Proceed?" prompts (EN drifted; ignore EN there). Marivel = わらわ.
+
+[US#4865] (lore scroll)
+  JP : ＊大地を<b:8a3f>るがす彼の力 / 立ち向かう全てを<b:8a40>砕せしものなり
+  LIT: His power shakes the very earth and crushes all who stand against it.
+  RE : His power shakes the very earth
+       and crushes all who stand against
+       it.
+
+[US#4867] (lore scroll)
+  JP : ＊<b:8a44>の輝は、我々の<b:8a52>を焼き / 肉体を焼き尽くそうとする / これは<b:8a56>の世界に生きる者の宿命
+  LIT: The sun's rays sear our skin and would burn our flesh to nothing; such is the fate of those who live in the night.
+  RE : The sun's rays sear our skin and
+       would burn our flesh; such is the
+       fate of night-dwellers.
+
+[US#4868] (lore scroll)
+  JP : ＊<b:8a44>の輝さえ<89b2>ることができれば / 我々は<b:8a58>の世界すらも / 手に入れることは可能なのだッ！
+  LIT: If only we could ward off the sun's rays, we could seize even the world of day!
+  RE : If only we could ward off the
+       sun's rays, we could seize even
+       the world of day!
+
+[US#4870] (lore scroll)
+  JP : ＊地上に<b:8a5c>れ、我が物探の人間も / 我々においては / 辺<8872>種<b:8a5e>でしかない
+  LIT: Humans, spreading over the world as if it were theirs, are to us no more than an inferior species.
+  RE : Humans, spreading as if the world
+       were theirs, are to us no more
+       than an inferior species.
+
+[US#4871] (lore scroll)
+  JP : ＊生態<b:8a5b>の<88c4>帯 / それは、いわずもがな / 世界を<b:8a50>配する種<b:8a5e>であるということだ
+  LIT: The top of the ecosystem; needless to say, that means the species that rules the world.
+  RE : The top of the ecosystem;
+       needless to say, the species that
+       rules the world.
+
+[US#4873] (lore scroll)
+  JP : ＊血の通わぬ、無機質の身体に / 我らの<b:8a62><b:8a63>によって / <8972><8973>的生命を宿す
+  LIT: Into bloodless, inorganic bodies, by our arts, we breathe a pseudo-life.
+  RE : Into bloodless, inorganic bodies,
+       by our arts, we breathe a
+       pseudo-life.
+
+[US#4874] (lore scroll)
+  JP : ＊<b:8a64>一無<b:8a65> / 我らが時と、共にする者なり
+  LIT: Peerless and unique, they are the ones who walk alongside us through time.
+  RE : Peerless and unique, they are the
+       ones who walk alongside us through
+       time.
+
+[US#4876] (lore scroll)
+  JP : ＊<b:8a6b>ばくかの『血』を族え / <b:8a6c>かなる時と暗<b:8a42>… / 我らは<b:8a6d>の<b:8a6e>へと還る
+  LIT: An offering of some "blood," a span of silence and darkness; and we return to the vessels of our souls.
+  RE : An offering of |blood|, a span of
+       silence and darkness; and we
+       return to our souls' vessels.
+
+[US#4877] (lore scroll)
+  JP : ＊遠き過<b:8a46>から生き / <b:8a3e>かなる未来へと生きる / <b:8a4f><89aa>の時と共にあり
+  LIT: Living from the distant past, living on into the distant future; we are of time immemorial.
+  RE : Living from the distant past on
+       into the distant future; we are
+       of time immemorial.
+
+[US#4879] (lore scroll)
+  JP : ＊しかし、間違いなく同時たちは / 彼のものに『殺』された
+  LIT: But there is no doubt: our brethren were "slain" by that being.
+  RE : But there is no doubt: our
+       brethren were |slain| by that
+       being.
+
+[US#4880] (lore scroll)
+  JP : ＊<b:8a6d>を<b:8a72>らい、<b:8a73>ち砕く者 / <b:8a74>の魔<b:8a75>・ロードブレイザー…
+  LIT: The one who devours souls and crushes them: the demon Lord Blazer...
+  RE : The one who devours souls and
+       crushes them: the demon Lord
+       Blazer...
+
+[US#4882] (lore scroll)
+  JP : ＊我らがノーブルレッド / <b:8a76>相足り得る者 / この地上に存在するわけもない
+  LIT: We, the Crimson Nobles; there could exist no other being on this earth fit to be our equal.
+  RE : We, the Crimson Nobles; no other
+       being on this earth could be our
+       equal.
+
+[US#4883] (lore scroll)
+  JP : ＊地に<b:8a5c>れし『人』 / 彼の者、<b:8a76>相なしと<b:8a78>るなかれ / 我らが彼の者の<b:8a76>相と知れ
+  LIT: "Humans" who cover the earth; do not think them without a rival; know that WE are their rival.
+  RE : |Humans| who cover the earth; do
+       not think them without a rival;
+       know that WE are it.
+
+[US#4885] (lore scroll)
+  JP : ＊年多の魔物たちを呼び / 使いし者を攻わせる / 『魔』のグッズである
+  LIT: It summons many demons and sets them upon the one who uses it; an "evil" implement.
+  RE : It summons many demons and sets
+       them upon its user; an |evil|
+       implement.
+
+[US#4886] (lore scroll)
+  JP : ＊しかし、このグッズのみで / <b:8a7b>を現す者もあり
+  LIT: Yet there is one who shows himself only through this implement.
+  RE : Yet there is one who shows
+       himself only through this
+       implement.
+
+[US#4887] (lore scroll)
+  JP : ＊その者、比<b:8a7c>なき力にて / 全ての者を<b:8a73>ち砕く
+  LIT: That one, with power beyond compare, crushes all.
+  RE : That one, with power beyond
+       compare, crushes all.
+
+[US#4889] (lore scroll)
+  JP : ＊その<b:8a7f>り、愚かな行為は / <8979>死に<8875>するッ！
+  LIT: Such folly, such sacrilege, is deserving of death!
+  RE : Such folly, such sacrilege, is
+       deserving of death!
+
+[US#4890] (lore scroll)
+  JP : ＊いま一度 / 我らの威を示し / 左<b:8a80>を辺す必要があるのか
+  LIT: Must we once more display our might and deal them a chastising blow?
+  RE : Must we once more display our
+       might and deal them a chastising
+       blow?
+
+[US#4892] (lore scroll)
+  JP : ＊ひ弱な人間は / 獣のように<b:8a83>い<b:8a84>も<b:8a85>も持たない / 生身であればこれほど弱い生き物はない
+  LIT: Frail humans have neither the sharp claws nor fangs of beasts; in the flesh, no creature is weaker.
+  RE : Frail humans have neither claws
+       nor fangs; in the flesh, no
+       creature is weaker.
+
+[US#4893] (lore scroll)
+  JP : ＊しかし、獣たちにはない概<b:8a75>力を持ち / あまつさえ魔法さえ使いこなす
+  LIT: Yet they possess a spirit beasts lack, and moreover they wield even magic.
+  RE : Yet they possess a spirit beasts
+       lack, and moreover they wield
+       even magic.
+
+[US#4894] (lore scroll)
+  JP : ＊なにより我らを<8845>かせしは＜<b:8a86>の<b:8a87>女＞ / 彼のガーディアンブレード / アガートラームを<b:8a88>るいし者
+  LIT: Above all, what astonished us was the <Sword Magess>, wielder of that Guardian Blade, the Argetlahm.
+  RE : Above all, what astonished us was
+       the <Sword Magess>, wielder of
+       the Guardian Blade Argetlahm.
+
+[US#4895] (lore scroll)
+  JP : ＊我らが同時を<b:8a72>らうた / <b:8a74>の魔<b:8a75>とさえ<b:8a89><894b>に戦う彼の<b:8a7b> / 我らの認識を改めさせるに充分すぎる
+  LIT: One who fought on equal terms even with the demon that devoured our brethren; more than enough to change our view.
+  RE : One who fought on equal terms
+       with the demon that ate our
+       brethren; enough to change our view.
+
+[US#4897] (lore scroll)
+  JP : ＊我らの<b:8a8c>けた<b:8a6b>ばくかの知識を / 昇<b:8a8d>させるはいいが / 進むべき道を<b:8a8e>る
+  LIT: They may build on the fragments of knowledge we bequeathed them, yet they stray from the path they should walk.
+  RE : They build on the knowledge we
+       bequeathed, yet stray from the
+       path they should walk.
+
+[US#4898] (lore scroll)
+  JP : ＊なぜ、同時同胞で<b:8a8f>い殺し合う / なぜ、破滅することしか考えぬ / なぜ、自らの愚かさに気づかぬ
+  LIT: Why do they slay their own kin? Why think only of destruction? Why not see their own folly?
+  RE : Why do they slay their own kin?
+       Why think only of destruction?
+       Why not see their own folly?
+
+[US#4899] (lore scroll)
+  JP : ＊所<b:8a90>は辺<b:8a91>な生き物か / 自ら進むは滅びの道をゆく者よ / 過ちに気づかぬ<b:8a4b>らに、先はない
+  LIT: Inferior creatures after all, then? They who walk of their own will down ruin's road; blind to error, they have no future.
+  RE : Inferior creatures after all?
+       Blind to their errors, walking
+       ruin's road, they have no future.
+
+[US#4901] (lore scroll)
+  JP : ＊我らがノーブルレッドでさえ / その領<b:8a93>に<b:8a94>達することは / <b:8a95>わぬかもしれぬ存在
+  LIT: Beings that perhaps even we Crimson Nobles could never reach.
+  RE : Beings that perhaps even we
+       Crimson Nobles could never reach.
+
+[US#4902] (lore scroll)
+  JP : ＊肉体を失い、意識の生命体となりても / その大いなる力に<b:8a96>りが来ることなど / あり得ないはずであった
+  LIT: Having shed their bodies to become beings of pure consciousness, their great power should never have waned.
+  RE : Having become beings of pure
+       consciousness, their great power
+       should never have waned.
+
+[US#4903] (lore scroll)
+  JP : ＊だが、<b:8a6b>時からか / ガーディアンはその力を弱め / ファルガイアに<b:8a97><b:8a98>することを止めた
+  LIT: Yet at some point the Guardians grew weak and ceased to intervene in Filgaia.
+  RE : Yet at some point the Guardians
+       grew weak and ceased to intervene
+       in Filgaia.
+
+[US#4904] (lore scroll)
+  JP : ＊意識体となったガーディアンの力は / ファルガイアに<89e2>づく者たちの / 意識と<b:8a69>力が<8869>である
+  LIT: The power of the Guardians-turned-consciousness sprang from the minds and vigor of all who lived on Filgaia.
+  RE : The Guardians' power sprang from
+       the minds and vigor of all who
+       lived on Filgaia.
+
+[US#4905] (lore scroll)
+  JP : ＊その力が少しずつ絶たれていったのだ / 人間の<b:8a9a>の信情がガーディアンを<b:8a9b>食し / その力を弱めたきっかけとなったのだろう
+  LIT: That power was severed bit by bit; perhaps humans' negative feelings eroded the Guardians and weakened them.
+  RE : That power was severed bit by
+       bit; humans' negative feelings
+       eroded and weakened the Guardians.
+
+[US#4907] (lore scroll)
+  JP : ＊<b:8a9c>しみ、<b:8a9d>り、<b:8a9e>み、不<b:8a9f>… / <b:8a9a>の信情はガーディアンの力を<b:8aa0>ぎ / 同時たちの命を<b:8aa1>う
+  LIT: Grief, anger, envy, impiety; such negative feeling saps the Guardians' power and steals the lives of kin.
+  RE : Grief, anger, envy, impiety; such
+       feeling saps the Guardians and
+       steals the lives of kin.
+
+[US#4908] (lore scroll)
+  JP : ＊破滅への道をひた<b:8aa2>る / その<b:8a7b>は<b:8aa3><b:8aa4>であり / 愚かなる辺<b:8a91>生物の<b:8a7b>でもある
+  LIT: Racing down the road to ruin; that is their sad, foolish, inferior nature.
+  RE : Racing down the road to ruin;
+       that is their sad, foolish,
+       inferior nature.
+
+[US#4910] (lore scroll)
+  JP : ＊『<b:8aa5><b:8aa6>』のガーディアン・ルシエド / ＜<b:8a86>の<b:8a87>女＞に<b:8aa7>り<b:8aa8>い / <b:8aa9>時も離れぬ強き力
+  LIT: The Guardian of "Desire," Lucied; at the <Sword Magess>'s side always, a strength that never left her.
+  RE : The Guardian of |Desire|, Lucied;
+       ever at the <Sword Magess>'s
+       side, a strength never leaving.
+
+[US#4911] (lore scroll)
+  JP : ＊その<8a1b>現し力の<8869>は / ＜<b:8a86>の<b:8a87>女＞の『<b:8aa5><b:8aa6>』 / 『生きようとする心』
+  LIT: The source of that manifested power was the <Sword Magess>'s "desire," her will to live.
+  RE : The source of that power was the
+       <Sword Magess>'s |desire|, her
+       will to live.
+
+[US#4912] (lore scroll)
+  JP : ＊強き想いは / ガーディアンに実体さえも<b:8aaa>え / その力、尽きることなし
+  LIT: A fervent will gave the Guardian even physical form, and its power never ran dry.
+  RE : A fervent will gave the Guardian
+       even physical form, and its power
+       never ran dry.
+
+[US#4914] (lore scroll)
+  JP : ＊レイポイントは<88d1>大元<b:8aac>である / 『地』『水』『枯』『<89f9>』により / 構成されている
+  LIT: Raypoints are made of the four great elements: Earth, Water, Fire, and Wind.
+  RE : Raypoints are made of the four
+       great elements: Earth, Water,
+       Fire, and Wind.
+
+[US#4915] (lore scroll)
+  JP : ＊それぞれのレイポイントには / ファルガイアの<b:8aad>大なエネルギーが / <b:8aae><b:8aaf>されているのである
+  LIT: Within each Raypoint is stored a vast measure of Filgaia's energy.
+  RE : Within each Raypoint is stored a
+       vast measure of Filgaia's energy.
+
+[US#4916] (lore scroll)
+  JP : ＊それはまさに / ファルガイアの生命としての力
+  LIT: It is, in truth, the power that is Filgaia's very life.
+  RE : It is, in truth, the power that
+       is Filgaia's very life.
+
+[US#4918] (lore scroll)
+  JP : ＊これは、我らノーブルレッドが / 生態<b:8a5b>の<88c4>帯にいることを<b:8ab1>す
+  LIT: This shows that we Crimson Nobles stand at the summit of the ecosystem.
+  RE : This shows that we Crimson Nobles
+       stand at the summit of the
+       ecosystem.
+
+[US#4919] (lore scroll)
+  JP : ＊弱き生き物は強き物に<b:8ab2>食される / 故に、家<b:8ab3>を残すために / <b:8a6b><b:8ab4><8979>と<b:8ab5>み、増えようとする
+  LIT: The weak are preyed upon by the strong; hence, to leave descendants, they breed and multiply in great number.
+  RE : The weak are preyed on by the
+       strong; so, to leave heirs, they
+       breed and multiply in number.
+
+[US#4920] (lore scroll)
+  JP : ＊死を幻<b:8a67>した我らは / 他種のように、大きく<b:8ab5>み増やす必要はない / それが強者の<b:8a77>
+  LIT: We who know not death need not breed in great number like other species; that is the proof of the strong.
+  RE : We who know not death need not
+       breed in number like other kinds;
+       that is the proof of the strong.
+
+[US#4922] (lore scroll)
+  JP : ＊機艇と<b:8ab7>合した生命体『ドラゴン』 / その存在は、ファルガイアの生命の<b:8ab8>から / 外れた存在といえよう
+  LIT: The living beings fused with machinery, "Dragons"; their existence falls outside Filgaia's frame of life.
+  RE : The machine-fused living beings,
+       |Dragons|; they fall outside
+       Filgaia's frame of life.
+
+[US#4923] (lore scroll)
+  JP : ＊我らが作りしゴーレムとも違う存在 / 作機体と無機体との<b:8ab7>合は / 未知なるテクノロジーによるものか
+  LIT: Beings unlike even the golems we made; this fusion of organic and inorganic may owe to some unknown technology.
+  RE : Beings unlike even our golems;
+       this fusion of organic and
+       inorganic owes to unknown tech.
+
+[US#4924] (lore scroll)
+  JP : ＊知性を作する彼らの言葉に<b:8aa7>れば / このファルガイアと違う更元から / やってきたという
+  LIT: By the words of these intelligent beings, they came from a dimension other than this Filgaia.
+  RE : By the words of these intelligent
+       beings, they came from a
+       dimension other than Filgaia.
+
+[US#4925] (lore scroll)
+  JP : ＊更元の<b:8ab9>を<b:8a67>えるという / 我らノーブルレッドですら成し得ぬ所行 / 彼の者たちの力とはどれほどのものか〜
+  LIT: To cross the wall between dimensions; a feat beyond even us Crimson Nobles; just how great is their power?
+  RE : To cross between dimensions, a
+       feat beyond even us; just how
+       great is their power?
+
+[US#4927] (lore scroll)
+  JP : ＊そんなことがあり得るのか / 『世界』が『世界』を<b:8a72>らう / 全てが無に帰すことなど
+  LIT: Could such a thing be? One "world" devouring another "world," everything returning to nothing?
+  RE : Could such a thing be? One |world|
+       devouring another, everything
+       returning to nothing?
+
+[US#4928] (lore scroll)
+  JP : ＊ファルガイアに、その『侵食』が来たとき / この地に生きる者たちに、なにができよう
+  LIT: When that "encroachment" comes to Filgaia, what could those who live here possibly do?
+  RE : When that |encroachment| comes to
+       Filgaia, what could those who
+       live here possibly do?
+
+[US#4929] (lore scroll)
+  JP : ＊我らに比<b:8a7c>しうる者たちが / 『逃げる』しか、<b:8a63>がなかったのだ
+  LIT: Beings that could rival even us had no recourse but to "flee."
+  RE : Beings that could rival even us
+       had no recourse but to |flee|.
+
+[US#4930] (lore scroll)
+  JP : ＊力を弱め、<b:8a97><b:8a98>しなくなったガーディアン / 彼らの力ですら、絶対の保<b:8a77>になり得ない
+  LIT: The Guardians, weakened and withdrawn; even their power can be no absolute guarantee.
+  RE : The Guardians, weakened and
+       withdrawn; even their power is no
+       absolute guarantee.
+
+[US#4931] (lore scroll)
+  JP : 「『世界』 / それは乗れることの<b:8a95>わぬ存在…
+  LIT: A "world"; a thing that cannot be overcome...
+  RE : A |world|; a thing that cannot be
+       overcome...
+
+[US#4933] (lore panel)
+  JP : ＊マイスター・[05]く<b:8abc>による / 発<b:8abd><b:8a39>更世代同<b:8a6e>の試作体である
+  LIT: A prototype of the developing next-generation weapon, by Meister {6}.
+  RE : A prototype next-generation
+       weapon, developed by Meister {6}.
+
+[US#4934] (lore panel)
+  JP : ＊増設スロットに / 『メカのもと』を取り付けることで / <b:8abb>撃力を強合していくことも可能である
+  LIT: By fitting a "Mecha Boost" into the expansion slot, its attack power can be strengthened.
+  RE : By fitting a |Mecha Boost| into
+       the expansion slot, its attack
+       power can be strengthened.
+
+[US#4935] (lore panel)
+  JP : ＊お家方のしつけから / オペレーション・ジェノサイドまで / その使用<b:8abe><b:8abf>は<b:8ac0>広く設定されている
+  LIT: From disciplining the kids to Operation Genocide, its range of uses is set very broad.
+  RE : From disciplining the kids to
+       Operation Genocide, its range of
+       uses is set very broad.
+
+[US#4936] (Marivel)
+  JP : 「どうしてここにおるのじゃ / 『<b:8ac2>重の時』は / まだ来ておらぬようじゃが？
+  LIT: Why art thou here? The "Time of Promise" would seem not yet come.
+  RE : Why art thou here? The |Time of
+       Promise| would seem not yet come.
+
+[US#4937] (Marivel)
+  JP : 「そして、このファルガイアの / <b:8a64>一にして絶対・行<b:8ac3>、<b:8ac4>の<b:8a50>配者じゃッ！
+  LIT: And I am the one and only, absolute, unrivaled ruler of this Filgaia!
+  RE : And I am the one and only,
+       absolute, unrivaled ruler of this
+       Filgaia!
+
+[US#4938] (Marivel)
+  JP : 「ノーブルレッドの生き残りが / いたとしていてもおかしくはないな
+  LIT: It would be no surprise if a survivor of the Crimson Nobles yet lived.
+  RE : It would be no surprise if a
+       survivor of the Crimson Nobles
+       yet lived.
+
+[US#4939] (party)
+  JP : 「いま、ファルガイアは / 未<b:8ac6>作の危機に<b:8ac7>している
+  LIT: Filgaia now faces an unprecedented crisis.
+  RE : Filgaia now faces an
+       unprecedented crisis.
+
+[US#4940] (party)
+  JP : 「だから[05]ぎ、キミの力を<b:8ac9>りたい / かつてアナスタシアとキミが / 共に戦ったようにッ！
+  LIT: So, {5}, we want to borrow your strength; as you once fought together with Anastasia!
+  RE : So, {5}, we want your strength;
+       as you once fought together with
+       Anastasia!
+
+[US#4941] (party)
+  JP : 「俺らは、ファルガイアを守りたいんだッ！ / ファルガイアを守るために / いっしょに戦ってくれないか？
+  LIT: We want to protect Filgaia! Will you fight alongside us to protect it?
+  RE : We want to protect Filgaia! Will
+       you fight alongside us to protect
+       it?
+
+[US#4942] (party)
+  JP : [17]
+  LIT: (EN only) We are fighting to save Filgaia! Will you join us?
+  RE : We're fighting to save Filgaia!
+       Will you join us? [?]
+
+[US#4945] (Marivel)
+  JP : 「ただ、利<889b>が一<88a8>しただけじゃ / そうでなければ、<b:8acf>り高きノーブルレッドが / 人間と共に戦うことなどありえんのじゃ
+  LIT: Our interests merely happen to align; otherwise a proud Crimson Noble would never fight beside humans.
+  RE : Our interests merely align;
+       otherwise a proud Crimson Noble
+       would never fight beside humans.
+
+[US#4946] (Marivel)
+  JP : [17]
+  LIT: (EN only) We simply have a common objective. Otherwise, a proud Crimson Noble would never help you lowly humans.
+  RE : We simply share an aim.
+       Otherwise a proud Crimson Noble
+       would never help you humans. [?]
+
+[US#4948] (Marivel)
+  JP : 「なんじゃ、その中いの目は / わらわに任せておけば大<b:8ad6><b:8ad7>じゃ
+  LIT: What's with that doubtful look? Leave it to me and all will be well.
+  RE : What's with that doubtful look?
+       Leave it to me and all will be
+       well.
+
+[US#4949] (Marivel)
+  JP : 「ギルドグラードの<b:8ad8><b:8a63>など / 足元にも<b:8ad9>ばないことを / ちょっぴり見せつけるだけじゃよ
+  LIT: I'll show you a little of how Guild Galad's craft can't hold a candle to mine.
+  RE : I'll show you a little of how
+       Guild Galad's craft can't hold a
+       candle to mine.
+
+[US#4950] (Marivel)
+  JP : 「なに、あまり変わったように見えない？ / これだからシロウトは……
+  LIT: What, it doesn't look much changed? Amateurs, honestly...
+  RE : What, it doesn't look much
+       changed? Amateurs, honestly...
+
+[US#4951] (Marivel)
+  JP : 「これはな、マップスコープの<b:8adc><b:8a82>を / <b:8add><b:8ade>に<8865>搭<88ab>起することで / 移動中でもマップを見られるのじゃッ！
+  LIT: This projects the Map Scope's image onto your retina, so you can view the map even while moving!
+  RE : This projects the Map Scope onto
+       your retina, so you can view the
+       map even while moving!
+
+[US#4952] (Marivel)
+  JP :
+  LIT: (EN only) Now you can view the Map Scope while in transit by projecting the image onto your retina!
+  RE : Now you can view the Map Scope in
+       transit, projected onto your
+       retina! [?]
+
+# --- SKIPPED (control/empty + plain "Proceed?" prompts already covered elsewhere) ---
+[US#4866] SKIPPED - plain "Proceed?" prompt (dup of 493-style)
+[US#4869] SKIPPED - plain "Proceed?" prompt
+[US#4872] SKIPPED - plain "Proceed?" prompt
+[US#4875] SKIPPED - plain "Proceed?" prompt
+[US#4878] SKIPPED - plain "Proceed?" prompt
+[US#4881] SKIPPED - plain "Proceed?" prompt
+[US#4884] SKIPPED - plain "Proceed?" prompt
+[US#4888] SKIPPED - plain "Proceed?" prompt
+[US#4891] SKIPPED - plain "Proceed?" prompt
+[US#4896] SKIPPED - plain "Proceed?" prompt
+[US#4900] SKIPPED - plain "Proceed?" prompt
+[US#4906] SKIPPED - plain "Proceed?" prompt
+[US#4909] SKIPPED - plain "Proceed?" prompt
+[US#4913] SKIPPED - plain "Proceed?" prompt
+[US#4917] SKIPPED - plain "Proceed?" prompt
+[US#4921] SKIPPED - plain "Proceed?" prompt
+[US#4926] SKIPPED - plain "Proceed?" prompt
+[US#4932] SKIPPED - plain "Proceed?" prompt
