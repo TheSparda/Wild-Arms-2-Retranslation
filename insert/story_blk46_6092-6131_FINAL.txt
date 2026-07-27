@@ -1,0 +1,188 @@
+# WA2 — Block 46, US#6092-6131 — FINAL (Antenora boss scene: her revenge on Vinsfeld's killer — block 46 complete)
+# =========================================================================================
+# The Antenora confrontation: the Odessa officer (Slayheim royalty whose parents Vinsfeld's
+# Liberation Army killed) reveals her long revenge, having made herself indispensable to
+# Vinsfeld's heart and body to destroy the man who took everything from her, and now fights the
+# party to be seen by him; her taunts, her "I've got magic" bravado, Lilka's "I can be like my
+# sister too," Brad's reluctance to fight a woman but resolve to respond, and the closing
+# observation that she truly loved Vinsfeld. JP-primary. Vinsfeld referred to as "that man."
+
+[US#6092] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#6093] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#6094] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#6108] (Antenora)
+  JP : 「あなたたちが選んだ道に / 過ちはなかったと / 言い切れる自信はあって？
+  LIT: Can you say with certainty that the path you chose held no mistake?
+  RE : Can you say with certainty that
+       the path you chose held no
+       mistake?
+
+[US#6109] (Antenora)
+  JP : 「おあいにくさま / どんな方法を使ってきても / わたしには、魔法があるんだから
+  LIT: Too bad for you; whatever means you bring, I have magic.
+  RE : Too bad for you; whatever means
+       you bring, I have magic.
+
+[US#6110] (Lilka)
+  JP : 「わたしだって / お<b:8a3c>ちゃんみたいになれるんだからッ！
+  LIT: I can become just like my big sister too, you know!
+  RE : I can become just like my big
+       sister too, you know!
+
+[US#6111] (Brad)
+  JP : 「オデッサ<b:8a3d>部とはいえ / できれば、その〜 / 女性とは戦いたくない
+  LIT: Odessa officer or not, if I could help it, I'd rather not fight a woman.
+  RE : Odessa officer or not, if I could
+       help it, I'd rather not fight a
+       woman.
+
+[US#6112] (Antenora)
+  JP : 「わたしには / ここにいる理由も / <b:8a3f>っていく信<b:8a40>すらもある
+  LIT: I have my reasons for being here, and even the resolve to die for it.
+  RE : I have my reasons for being here,
+       and even the resolve to die for
+       it.
+
+[US#6113] (Brad)
+  JP : 「だが、向かって<b:8a41>る以上 / 僕たちも見過ごすわけにもいかん / 全力であたらせてもらうッ！
+  LIT: But so long as you come at us, we can't just let it pass; we'll meet you with everything we have!
+  RE : But so long as you come at us, we
+       can't let it pass; we'll meet you
+       with all we have!
+
+[US#6114] (Antenora)
+  JP : 「その<b:8a42>待にこたえるため / わたしはあなたたちと / 戦わなければならない〜
+  LIT: To live up to his expectations, I must fight you.
+  RE : To live up to his expectations, I
+       must fight you.
+
+[US#6115] (Antenora)
+  JP : 「<89e5>に<b:8a45>めた想いが / ようやくカタチとなって / <b:8a46>えあがっていく〜
+  LIT: The feelings I locked away in my heart take shape at last and blaze up.
+  RE : The feelings I locked away in my
+       heart take shape at last and
+       blaze up.
+
+[US#6116] (Antenora)
+  JP : 「今のわたしのこの<b:8a47>を / あのひとに〜 / ヴィンスフェルトに続けなくては〜
+  LIT: I must let him, Vinsfeld, see this figure of mine as I am now.
+  RE : I must let him, Vinsfeld, see
+       this figure of mine as I am
+       now.
+
+[US#6117] (Antenora)
+  JP : 「わたしが？ あの剣を？ / あははははッ！ / <b:8a48>わせてくれるッ！
+  LIT: Me? Love that man? Ahahaha! You do make me laugh!
+  RE : Me? Love that man? Ahahaha! You
+       do make me laugh!
+
+[US#6119] (Antenora)
+  JP : 「スレイハイム王<b:8a4e>に / 連なるって理由だけでね〜
+  LIT: Killed for no reason but their ties to the Slayheim royal line.
+  RE : Killed for no reason but their
+       ties to the Slayheim royal line.
+
+[US#6120] (Antenora)
+  JP : 「あの解放<b:8a4f>を指揮していた剣 / ヴィンスフェルト〜 / あの剣は、父方と母方の<b:8a50>〜
+  LIT: The man who commanded that Liberation Army, Vinsfeld; that man is my parents' killer.
+  RE : The man who led that Liberation
+       Army, Vinsfeld; that man is my
+       parents' killer.
+
+[US#6121] (Antenora)
+  JP : 「でも、わたしの力では / あの剣を / <b:8a51>つことなんてできなかった〜
+  LIT: But my own power alone was never enough to strike that man down.
+  RE : But my own power alone was never
+       enough to strike that man down.
+
+[US#6122] (Antenora)
+  JP : 「わたしからすべてを奪った / あの剣に対する / わたしのできる最大の復讐〜
+  LIT: The greatest revenge I could take on that man who took everything from me.
+  RE : The greatest revenge I could take
+       on that man who took everything
+       from me.
+
+[US#6123] (Antenora)
+  JP : 「どんな<b:8a54>にまみれても / どんな苦<b:8a55>を<b:8a56>わっても / あの剣の心を奪うためにね〜
+  LIT: Steeped in whatever sins, tasting whatever anguish; all to steal that man's heart.
+  RE : Steeped in whatever sins, tasting
+       whatever anguish; all to steal
+       that man's heart.
+
+[US#6124] (Antenora)
+  JP : 「ヴィンスフェルトは / わたしのココロもカラダも / <b:8a57>めてきたわ
+  LIT: Vinsfeld came seeking both my heart and my body.
+  RE : Vinsfeld came seeking both my
+       heart and my body.
+
+[US#6125] (Antenora)
+  JP : 「そう、あの剣の心の中が / わたしで大きく<b:8a58>められてきたの
+  LIT: Yes; I came to fill a great place within that man's heart.
+  RE : Yes; I came to fill a great place
+       within that man's heart.
+
+[US#6126] (Antenora)
+  JP : 「あなた方に / わたしが倒されたと知った時 / あの剣はどんな探をするのかしら？
+  LIT: When he learns you have destroyed me, I wonder what face that man will make?
+  RE : When he learns you have destroyed
+       me, I wonder what face that man
+       will make?
+
+[US#6127] (Antenora)
+  JP : 「フフフフフフフ〜
+  LIT: Hehehehehe...
+  RE : Hehehehehe...
+
+[US#6128] (Antenora)
+  JP : 「そうよ〜 復讐なのよ、これは〜
+  LIT: That's right; this is revenge.
+  RE : That's right; this is revenge.
+
+[US#6129] (party)
+  JP : 「〜それでもあの人 / ヴィンスフェルトのことが / <b:8a59>きなんだと思う〜
+  LIT: And yet, I think she truly loved him; loved Vinsfeld.
+  RE : And yet, I think she truly loved
+       him; loved Vinsfeld.
+
+[US#6130] (Antenora)
+  JP : 「強く念じることで / 力を呼び込む想いのカタチ〜
+  LIT: A shape of will that draws in power through fierce conviction.
+  RE : A shape of will that draws in
+       power through fierce conviction.
+
+[US#6131] (Odessa officer)
+  JP : 「ここから出る手方は / ただひとつということか / フッ、おもしろい<b:8a5c><b:8a5d>だッ！
+  LIT: So there's only one way out of here; heh, an amusing turn of things!
+  RE : So there's only one way out of
+       here; heh, an amusing turn of
+       things!
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#6095] SKIPPED - no content box in decode
+[US#6096] SKIPPED - no content box in decode
+[US#6097] SKIPPED - no content box in decode
+[US#6098] SKIPPED - no content box in decode
+[US#6099] SKIPPED - no content box in decode
+[US#6100] SKIPPED - no content box in decode
+[US#6101] SKIPPED - no content box in decode
+[US#6102] SKIPPED - no content box in decode
+[US#6103] SKIPPED - no content box in decode
+[US#6104] SKIPPED - no content box in decode
+[US#6105] SKIPPED - no content box in decode
+[US#6106] SKIPPED - no content box in decode
+[US#6107] SKIPPED - no content box in decode
+[US#6118] SKIPPED - no content box in decode
