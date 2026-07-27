@@ -1,0 +1,339 @@
+# WA2 — Block 27, US#5239-5297 — FINAL (Illsveil Prison + Brad's recruitment / jailbreak — block 27 complete)
+# =========================================================================================
+# Brad Evans's introduction at Illsveil, the isolated prison-island turned "independent domain":
+# the mistaken-identity meeting (party takes him for {0}'s messenger, hands over the Might
+# Gloves), the warden's PA orders (GAONIM start-up, suppress the riot, inmates dead or alive),
+# the Illsveil/Vinsfeld lore panels (the "hell dressed as paradise," Vinsfeld Rhadamanthus the
+# vanished Liberation Army leader, {1} Evans succeeding him), the self-styled warden's welcome
+# ("214 years left on my sentence"), and the mass jailbreak. Brad terse; warden bombastic.
+# JP-primary. |paradise| = 楽獄 (pun: paradise-prison), |hell| = 地獄.
+
+[US#5239] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#5240] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#5241] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#5242] (Brad)
+  JP : 「と、その前に〜
+  LIT: But before that...
+  RE : But before that...
+
+[US#5243] (Brad)
+  JP : 「〜[0a]ぉの使いの者か？
+  LIT: ...Are you {0}'s messenger?
+  RE : ...Are you {0}'s messenger?
+
+[US#5244] (Brad)
+  JP : 「話はかみ合っていないようだが / どうやらお前たちが / そうらしいな〜
+  LIT: We don't seem to be on the same page, but it looks like you're the ones after all.
+  RE : We don't seem to be on the same
+       page, but it looks like you're
+       the ones after all.
+
+[US#5245] (Brad)
+  JP : 「そのマイトグローブは、僕のだ / よこしてくれ / 時間がないんだろ？
+  LIT: Those Might Gloves are mine; hand them over. There's no time, right?
+  RE : Those Might Gloves are mine; hand
+       them over. There's no time,
+       right?
+
+[US#5246] (Brad)
+  JP : 「[0a]ぉが選んだ / ＡＲＭＳのメンバーのひとり〜
+  LIT: One of the ARMS members {0} chose.
+  RE : One of the ARMS members {0}
+       chose.
+
+[US#5247] (Brad)
+  JP : 「らしい、ぜ
+  LIT: Or so it seems.
+  RE : Or so it seems.
+
+[US#5248] (PA)
+  JP : ＞<8963>長命令により / 調備備は『ガオニム』の / 起動チェックを急げ
+  LIT: By the warden's order, maintenance crew: hurry the start-up check on "GAONIM."
+  RE : By the warden's order,
+       maintenance crew: hurry the
+       start-up check on |GAONIM|.
+
+[US#5249] (PA)
+  JP : ＞繰り返す〜
+  LIT: Repeat...
+  RE : Repeat...
+
+[US#5250] (PA)
+  JP : ＞侵入者は、搭乗した剣性２名 / なおもイルズベイル街に逃亡中 / 繰り返す〜
+  LIT: The intruders are two armed men, still at large on Illsveil island; repeat...
+  RE : The intruders are two armed men,
+       still at large on Illsveil
+       island. Repeat...
+
+[US#5251] (PA)
+  JP : ＞繰り返す〜
+  LIT: Repeat...
+  RE : Repeat...
+
+[US#5252] (PA)
+  JP : ＞<8965>人の生死は誓わない / ただちに制圧にかかれ / 繰り返す〜
+  LIT: Inmates wanted dead or alive; move to suppress at once; repeat...
+  RE : Inmates wanted dead or alive.
+       Move to suppress at once. Repeat...
+
+[US#5253] (sleeper)
+  JP : ＊〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+[US#5254] (PA)
+  JP : ＞セキュリティーシステムは / 解右されました / <88f9>一待機所を解放します
+  LIT: The security system has been released; opening the No. 1 waiting area.
+  RE : The security system has been
+       released. Opening the No. 1
+       waiting area.
+
+[US#5255] (lore panel)
+  JP : ＊それが犯罪者にとって / 恐最の二つ名で知られる / 『イルズベイル<8917><8963>他』の前身である
+  LIT: That is the origin of what convicts know by its fearsome byname: "Illsveil Prison."
+  RE : That is the origin of what
+       convicts know by its fearsome
+       byname: |Illsveil Prison|.
+
+[US#5256] (lore panel)
+  JP : ＊積み重ねられていった / <8965>人たちの怨念は、<8917><8963>他をやがて / <89e1>立自分領へと至らしめる
+  LIT: The inmates' accumulated grudges eventually turned the prison island into an independent domain.
+  RE : The inmates' accumulated grudges
+       eventually turned the prison into
+       an independent domain.
+
+[US#5257] (lore panel)
+  JP : ＊最高級役をほこる / 犯罪者による処分システム
+  LIT: A convict-run penal system boasting the harshest sentences.
+  RE : A convict-run penal system
+       boasting the harshest sentences.
+
+[US#5258] (lore panel)
+  JP : ＊『地<8963>』にして『楽獄』〜 / イルズベイル<8917><8963>他の囚人は / 決して消えることはない〜
+  LIT: A "hell" that is a "paradise"; the inmates of Illsveil Prison never vanish from it.
+  RE : A |hell| that is a |paradise|;
+       the inmates of Illsveil Prison
+       never leave it.
+
+[US#5259] (lore panel)
+  JP : ＊解放軍指導者 / ヴィンスフェルト・ラダマンテュス
+  LIT: Liberation Army leader Vinsfeld Rhadamanthus.
+  RE : Liberation Army leader Vinsfeld
+       Rhadamanthus.
+
+[US#5260] (lore panel)
+  JP : ＊魔導の謀と知略に長け / 戦闘に、大衆に取り入れることで / 解放軍戦力の充実合をはかる
+  LIT: Skilled in dark schemes and strategy, he built up the Liberation Army's strength in battle and among the people.
+  RE : Skilled in dark schemes and
+       strategy, he built the Liberation
+       Army's strength in war and crowd.
+
+[US#5261] (lore panel)
+  JP : ＊そのカリスマ性によって / 解放軍の結重を<89cd>谷なものとし / ゲリラ活動を展開する
+  LIT: By his charisma he made the Liberation Army's bonds unshakable and unfolded guerrilla campaigns.
+  RE : By his charisma he made the
+       Liberation Army's bonds firm and
+       unfolded guerrilla campaigns.
+
+[US#5262] (lore panel)
+  JP : ＊武昇クーデターの際寿に / 突如として姿を消すものの / 解放軍の中核的存在〜
+  LIT: At the height of the armed coup he suddenly vanished, yet he was the very core of the Liberation Army.
+  RE : At the height of the armed coup
+       he suddenly vanished, yet he was
+       the Army's very core.
+
+[US#5263] (lore panel)
+  JP : ＊[05]お・エヴァンスが / 後を招き継ぐことで
+  LIT: With {1} Evans taking over after him...
+  RE : With {1} Evans taking over after
+       him...
+
+[US#5264] (lore panel)
+  JP : ＊解放軍は２数に渡る / 数多の戦いに勝利するのであった
+  LIT: ...the Liberation Army won its many battles over the span of two years.
+  RE : ...the Liberation Army won its
+       many battles over the span of two
+       years.
+
+[US#5265] (Lilka)
+  JP : 「あれれ？
+  LIT: Huh? Huh?
+  RE : Huh? Huh?
+
+[US#5266] (Lilka)
+  JP : 「でも、[05]ぉって / こんな機艇儀のグローブとか / 使ってたっけ〜
+  LIT: But did {1} ever use a mechanical glove like this?
+  RE : But did {1} ever use a mechanical
+       glove like this?
+
+[US#5267] (Lilka)
+  JP : 「ま、いいかッ！ / とりあえず、みんな持っていけば / なんとかなるなるッ！
+  LIT: Well, whatever! If I just take it all along, it'll work out somehow!
+  RE : Well, whatever! If I just take it
+       all along, it'll work out
+       somehow!
+
+[US#5268] (inmate)
+  JP : 「開けろッ！ ここから出せッ！ / 俺は何もしちゃいないッ！ / ちょっと調べればわかることだッ！
+  LIT: Open up! Let me out! I didn't do anything! A quick check would prove it!
+  RE : Open up! Let me out! I didn't do
+       anything! A quick check would
+       prove it!
+
+[US#5269] (inmate)
+  JP : 「何たってあそこは / 一度入っちまうと、二度と生きて出られない / 消道の<8917><8963>他だからな
+  LIT: After all, it's an isolated prison island; once you're in, you never come out alive.
+  RE : After all, it's an isolated
+       prison island; once you're in,
+       you never come out alive.
+
+[US#5270] (Lilka)
+  JP : 「イルズベイル<8917><8963>他に着いたら / わたしが無罪を取次してあげるから / だから、それまでの辛抱よ〜
+  LIT: Once we reach Illsveil Prison, I'll get you cleared, so hang in there till then.
+  RE : Once we reach Illsveil Prison,
+       I'll get you cleared, so hang in
+       there till then.
+
+[US#5271] (warden)
+  JP : 「ようこそッ！ / イルズベイル<8917><8963>他へッ！
+  LIT: Welcome! To Illsveil Prison!
+  RE : Welcome! To Illsveil Prison!
+
+[US#5272] (warden)
+  JP : 「小生は最悪の<8965>人にして / この自分領の処分者ッ！ / すなわち<8963>長であるッ！
+  LIT: I am the worst of convicts and the executioner of this domain; in other words, the warden!
+  RE : I am the worst of convicts and
+       this domain's executioner; in
+       other words, the warden!
+
+[US#5273] (warden)
+  JP : 「ここ、イルズベイルは消道の<8917><8963>他ッ！ / すなわち、獄部の要<889b>であるのだ
+  LIT: Here, Illsveil is an isolated prison island; in other words, a natural fortress of incarceration!
+  RE : Here, Illsveil is an isolated
+       prison island; a natural fortress
+       of incarceration!
+
+[US#5275] (warden)
+  JP : 「どうせシャバにいたところで / 他人方の政迷になることはあっても / 役には立たないボンクラどもなんだからよ
+  LIT: Out in the world you'd only be a nuisance to others; useless dolts, the lot of you.
+  RE : Out in the world you'd only be a
+       nuisance to others; useless
+       dolts, the lot of you.
+
+[US#5277] (warden)
+  JP : 「小生自身も、命寿は残り２１４数ッ！ / もはや生きて出ようなんて / ファンタジーもおきないわ、実<89d2>
+  LIT: My own sentence has 214 years left! I don't even fantasize about getting out alive anymore, truly.
+  RE : My own sentence has 214 years
+       left! I don't even dream of
+       getting out alive anymore.
+
+[US#5278] (warden)
+  JP : 「ん〜、そうだな〜 / 小生に気に入られれば / <8962>名昇くらいは、夢ではないぞ
+  LIT: Hmm, let's see; win my favor and even a promotion to warden is no idle dream.
+  RE : Hmm, let's see; win my favor and
+       even a promotion to warden is no
+       idle dream.
+
+[US#5279] (warden)
+  JP : 「ここは<8917><8963>他にして / 自分領であるイルズベイル / つまりは、そういうトコロだッ！
+  LIT: This is Illsveil, a prison island that is its own domain; that's just the sort of place it is!
+  RE : This is Illsveil, a prison island
+       that is its own domain; that's
+       just the sort of place it is!
+
+[US#5281] (Lilka)
+  JP : 「わたしにまかせて / [05]ぉはここで / おとなしくしててよ
+  LIT: Leave it to me; {1}, you just stay put here and behave.
+  RE : Leave it to me. {1}, you just
+       stay put here and behave.
+
+[US#5283] (Brad)
+  JP : 「幼い頃はイタズラをして / よく押し入れに / 閉じ込められたもんスよ
+  LIT: As a kid I pulled pranks and got shut in the closet for it plenty.
+  RE : As a kid I pulled pranks and got
+       shut in the closet for it plenty.
+
+[US#5284] (Brad)
+  JP : 「どっちにしても / こっちは搭乗解右されて / <8991>同の状態なんだ
+  LIT: Either way, we've been disarmed and left with nothing.
+  RE : Either way, we've been disarmed
+       and left with nothing.
+
+[US#5285] (Brad)
+  JP : 「思いきったことを / するつもりはないよ
+  LIT: I've no intention of doing anything drastic.
+  RE : I've no intention of doing
+       anything drastic.
+
+[US#5289] (sleeper)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+[US#5290] (Brad)
+  JP : 「気をつけてな
+  LIT: Take care.
+  RE : Take care.
+
+[US#5291] (Brad)
+  JP : 「この機艇儀のグローブ〜 / たしかマイトグローブって言ったっけな / これは俺のじゃないぞ
+  LIT: These mechanical gloves; Might Gloves, was it? These aren't mine.
+  RE : These mechanical gloves; Might
+       Gloves, was it? These aren't
+       mine.
+
+[US#5292] (Lilka)
+  JP : 「とにかく、ホラ / 乗備して、乗備して / 急いでここから逃げ出すわよ
+  LIT: Anyway, here; gear up, gear up; we're getting out of here fast.
+  RE : Anyway, here; gear up, gear up.
+       We're getting out of here fast.
+
+[US#5293] (Lilka)
+  JP : 「ここにいる<8965>人たちが / いっせいに逃げ出したみたいなの
+  LIT: It looks like all the inmates here broke out at once.
+  RE : It looks like all the inmates
+       here broke out at once.
+
+[US#5295] (warden)
+  JP : 「しーんじられんッ！ / お前までもが / この『楽獄』を飛びだそうというのかッ！
+  LIT: Un-be-lievable! Even YOU mean to bolt from this "paradise"?!
+  RE : Un-be-lievable! Even YOU mean to
+       bolt from this |paradise|?!
+
+[US#5296] (Brad)
+  JP : 「どうやら僕には / 『楽獄』よりも『戦場』がむいているんでね / 長い間、世話になった
+  LIT: Seems the "battlefield" suits me better than "paradise"; thanks for the long hospitality.
+  RE : Seems the |battlefield| suits me
+       better than |paradise|. Thanks
+       for the long hospitality.
+
+[US#5297] (warden)
+  JP : 「こうなったら、もうッ！ / 殺捕ッ、殺捕ッ、殺捕ッ、殺捕ッ、殺捕ッ！ / その後、死命ッ、死命ッ、死命ッ、死命ッ！
+  LIT: If it's come to this! Seize them, seize them, seize them! And then, death, death, death, death!
+  RE : If it's come to this! Seize them,
+       seize them, seize them! And then,
+       death, death, death!
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#5274] SKIPPED - no content box in decode
+[US#5276] SKIPPED - no content box in decode
+[US#5280] SKIPPED - no content box in decode
+[US#5282] SKIPPED - no content box in decode
+[US#5286] SKIPPED - no content box in decode
+[US#5287] SKIPPED - no content box in decode
+[US#5288] SKIPPED - no content box in decode
+[US#5294] SKIPPED - no content box in decode
