@@ -1,0 +1,75 @@
+# WA2 — Block 71, US#7237-7248 — FINAL (post-Illsveil rendezvous: no-more-pawns + safe reunion — block 71 complete)
+# =========================================================================================
+# The rendezvous after getting {1} out of Illsveil: an ally confirming the plan went as hoped
+# ("getting {1} out was near enough a success"), the trust-your-team line, Ashley's refusal to
+# be moved around like chess pieces again, and the withdrawal call. JP-primary.
+
+[US#7237] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#7238] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#7239] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#7240] (ally)
+  JP : 「〜手はずを / 聞いていないのか？
+  LIT: Haven't you been told the plan?
+  RE : Haven't you been told the plan?
+
+[US#7241] (ally)
+  JP : 「どうやら無事に / 出右えたようだな
+  LIT: Looks like we managed to meet up safely.
+  RE : Looks like we managed to meet up
+       safely.
+
+[US#7242] (ally)
+  JP : 「すべては / あなたの特乗どおり〜 / と、いうわけですか〜？
+  LIT: So everything went just as you planned; is that it?
+  RE : So everything went just as you
+       planned; is that it?
+
+[US#7243] (ally)
+  JP : 「[05]おをイルズベイルから / こうして連れ出せたのだ / ほぼ成<b:8a38>と言ってさしつかえないだろう
+  LIT: We got {1} out of Illsveil like this; it's fair to call it near enough a success.
+  RE : We got {1} out of Illsveil like
+       this; fair to call it near enough
+       a success.
+
+[US#7244] (ally)
+  JP : 「仲間を信頼するんだッ！
+  LIT: Trust your comrades!
+  RE : Trust your comrades!
+
+[US#7245] (Ashley)
+  JP : 「今度、俺たちを / チェスの<b:8a3b>のようにあつかったら / <b:8a3c>対に許さないッ！
+  LIT: If you ever treat us like chess pieces again, I'll never forgive it!
+  RE : If you ever treat us like chess
+       pieces again, I'll never forgive
+       it!
+
+[US#7246] (Brad)
+  JP : 「そいつがないと / ロクに<b:8a3f>くこともできないのでね〜
+  LIT: Without those, I can hardly even walk.
+  RE : Without those, I can hardly even
+       walk.
+
+[US#7247] (party)
+  JP : 「それとも、全部だったのか〜？
+  LIT: Or was the whole thing part of it?
+  RE : Or was the whole thing part of
+       it?
+
+[US#7248] (party)
+  JP : 「<b:8a4b>斬するぞッ！
+  LIT: Time to withdraw!
+  RE : Time to withdraw!

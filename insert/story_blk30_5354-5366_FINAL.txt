@@ -1,0 +1,79 @@
+# WA2 — Block 30, US#5354-5366 — FINAL (dungeon puzzle: prism gem for Marina + weapon lore — block 30 complete)
+# =========================================================================================
+# A dungeon puzzle segment: bayonet/instant-death-ammo and Freeze Rod weapon-item lore panels
+# (freeze the purple flames, freeze certain objects), and a small character beat where the
+# party pries a sparkling seven-color prism gem from a crack in the machinery, and Ashley notes
+# Marina ({2}) loved things like this. JP-primary.
+
+[US#5354] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#5355] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#5356] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#5359] (lore panel)
+  JP : ＊アイテムとして使用することで / バイアネットに新たな置発を / 追<b:8a38>します
+  LIT: Using it as an item adds new ammunition to the bayonet.
+  RE : Using it as an item adds new
+       ammunition to the bayonet.
+
+[US#5360] (lore panel)
+  JP : ＊一定の確<b:8a39>で生命<b:8a3a>動を<b:8a3b>つ<b:8a3c>撃を / 相<b:8a3d>体に対して行います
+  LIT: With a fixed chance, it deals a life-stopping strike to a single enemy.
+  RE : With a fixed chance, it deals an
+       instant-death strike to a single
+       enemy.
+
+[US#5361] (lore panel)
+  JP : ＊フリーズロッドは[0b]おを<b:8a3e>すことで / 魔力を<b:8a3f>の<b:8a40>に変えて / 前方に発<b:8a41>することができます
+  LIT: For the Freeze Rod, press [0b] to turn magic into a bolt of ice and fire it forward.
+  RE : For the Freeze Rod, press [0b] to
+       turn magic into a bolt of ice and
+       fire it forward.
+
+[US#5362] (lore panel)
+  JP : ＊<b:8a42><8a07>の<b:8a43>を消すことや / 結定のものを<b:8a44>らせることができます
+  LIT: It can extinguish the purple flames and freeze certain objects.
+  RE : It can extinguish the purple
+       flames and freeze certain
+       objects.
+
+[US#5363] (party)
+  JP : 「<b:8a48>置のすきまに / 何か<b:8a49>まっている〜
+  LIT: Something's lodged in a gap in the machinery.
+  RE : Something's lodged in a gap in
+       the machinery.
+
+[US#5364] (party)
+  JP : 「こいつを取れば / きっと、だいじょうぶだ / レバーを動かしてみよう
+  LIT: If I pull this out, it should be fine; let's try the lever.
+  RE : If I pull this out, it should be
+       fine. Let's try the lever.
+
+[US#5365] (party)
+  JP : 「キラキラしていて / 輝に<b:8a4b>かすと / 向こう<89f5>が<b:8a4c><8a07>に<b:8a4d>いて見える〜
+  LIT: It sparkles; held up to the light, the far side shows through in seven colors.
+  RE : It sparkles; held up to the
+       light, the far side shows through
+       in seven colors.
+
+[US#5366] (Ashley)
+  JP : 「[0a]か〜 / こういうの<b:8a4e>きだったな
+  LIT: {2}... she loved things like this.
+  RE : {2}... she loved things like
+       this.
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#5357] SKIPPED - no content box in decode
+[US#5358] SKIPPED - no content box in decode

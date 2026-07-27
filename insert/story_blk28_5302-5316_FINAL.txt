@@ -1,0 +1,72 @@
+# WA2 — Block 28, US#5302-5316 — FINAL (map-system tutorial + weapon lore — block 28 complete)
+# =========================================================================================
+# A tutorial/HUD block: bayonet special-ammo weapon lore and the world-map tutorial panels
+# (white dot = your character, red dots = known towns/castles, yellow wedge = facing direction),
+# plus two short party lines urging haste. JP-primary.
+
+[US#5302] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#5303] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#5304] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#5310] (lore panel)
+  JP : ＊アイテムとして使用することで / バイアネットに新たな押左を / 追右します
+  LIT: Using it as an item adds new ammunition to the bayonet.
+  RE : Using it as an item adds new
+       ammunition to the bayonet.
+
+[US#5311] (lore panel)
+  JP : ＊結単乗押により / 相グループに対して置撃を行います
+  LIT: With special shells, it strikes a group of enemies.
+  RE : With special shells, it strikes a
+       group of enemies.
+
+[US#5312] (tutorial panel)
+  JP : ＊自キャラを発い帯で表示し / 現在級置を中心に / <b:8a38>岸地<b:8a39>を表示します
+  LIT: Your character shows as a white dot, and the nearby land is displayed centered on your position.
+  RE : Your character shows as a white
+       dot, with the nearby land
+       centered on your position.
+
+[US#5313] (tutorial panel)
+  JP : ＊マップ上の眠い帯は / これまでに発見した場や館です
+  LIT: The red dots on the map are the towns and castles you've discovered so far.
+  RE : The red dots on the map are the
+       towns and castles you've
+       discovered so far.
+
+[US#5314] (tutorial panel)
+  JP : ＊中心の発い帯からのびる<8a08><8a07>い<89e8>は / マップの方向を示してます
+  LIT: The yellow wedge extending from the center white dot shows the map's facing direction.
+  RE : The yellow wedge from the center
+       white dot shows which way the map
+       faces.
+
+[US#5315] (party)
+  JP : 「急ごうよッ！
+  LIT: Let's hurry!
+  RE : Let's hurry!
+
+[US#5316] (party)
+  JP : 「どうする〜？
+  LIT: So what'll we do?
+  RE : So what'll we do?
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#5305] SKIPPED - no content box in decode
+[US#5306] SKIPPED - no content box in decode
+[US#5307] SKIPPED - no content box in decode
+[US#5308] SKIPPED - no content box in decode
+[US#5309] SKIPPED - no content box in decode

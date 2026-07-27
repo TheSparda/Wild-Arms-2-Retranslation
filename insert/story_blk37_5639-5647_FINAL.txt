@@ -1,0 +1,62 @@
+# WA2 — Block 37, US#5639-5647 — FINAL (Diablo Tower lore inscriptions + Lilka's ghost-banishing quip — block 37 complete)
+# =========================================================================================
+# Cryptic Diablo-Tower / dimensional-serpent lore inscriptions (attributed to the historian
+# Aachen Grish: "the serpent's tail lies between dimensions, its head is the Diablo Tower"),
+# analysis that the weapon could scorch a whole continent in an instant and was once wielded as
+# a strategic bargaining chip rather than an outright weapon, and Lilka's line that such a thing
+# doesn't belong in the world of the living, promising to destroy it so it never rises again.
+# JP-primary. Aachen Grish = アーチェン・グリッシュ.
+
+[US#5639] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#5640] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#5641] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#5643] (inscription)
+  JP : ＊蛇の<888b>には更元の<b:8a3b>間〜 / 蛇の<b:8a3c>には魔界の<897f>〜 / 『<b:8a3d>者アーチェン・グリッシュ』
+  LIT: The serpent's tail lies in the gap between dimensions; its head, the tower of the demon world. --the historian Aachen Grish
+  RE : The serpent's tail lies between
+       dimensions; its head, the demon
+       world's tower. --Aachen Grish
+
+[US#5644] (inscription)
+  JP : ＊解<b:8a42>データによれば / その威力は大陸を一<b:8a43>にして / <b:8a44><b:8a45>と合すことさえ可能であった
+  LIT: By analysis data, its power could turn a whole continent to scorched earth in an instant.
+  RE : By analysis data, its power could
+       turn a whole continent to
+       scorched earth in an instant.
+
+[US#5645] (inscription)
+  JP : ＊その威力故に、同時としてでなく / 戦<b:8a46>的交<b:8a47>手<b:8a48>とされたのではないかと / <88c1>待されている
+  LIT: For that power, it's thought to have been used not as a weapon but as a strategic bargaining tool.
+  RE : For that power, it's thought to
+       have served not as a weapon but a
+       strategic bargaining chip.
+
+[US#5646] (Lilka)
+  JP : 「それでも / 生者の世界には / <8973>つかわしくないもの
+  LIT: Even so, it's a thing that has no place in the world of the living.
+  RE : Even so, it's a thing that has no
+       place in the world of the living.
+
+[US#5647] (Lilka)
+  JP : 「やっつけてあげるから / <b:8a4d>度とバケて出てこないでよね
+  LIT: I'll destroy it for you, so promise you won't come haunting back ever again.
+  RE : I'll destroy it for you, so
+       promise you won't come haunting
+       back ever again.
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#5642] SKIPPED - no content box in decode

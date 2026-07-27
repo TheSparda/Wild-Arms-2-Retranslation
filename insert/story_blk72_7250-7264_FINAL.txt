@@ -1,0 +1,80 @@
+# WA2 — Block 72, US#7250-7264 — FINAL (ruins evacuation stand: buy time for the trapped team — block 72 complete)
+# =========================================================================================
+# A ruins scene where a soldier insists the team still deep in the ruins must be evacuated
+# before any drastic action; his "our hearts are one," his offer to stall for time himself, and
+# boss-mechanics tutorial panels (defeat = Main Body HP to 0; limbs give EXP/Gella). JP-primary.
+
+[US#7250] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#7251] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#7252] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#7254] (soldier)
+  JP : 「何だかわかんないけれど / こんなことが起きるんじゃないかって / 気がしていたんだよッ！
+  LIT: I can't say why, but I had a feeling something like this might happen!
+  RE : I can't say why, but I had a
+       feeling something like this might
+       happen!
+
+[US#7258] (soldier)
+  JP : 「しかし、遺跡の<892a>には / まだ多くの<b:8a38>間たちがいますッ！ / そんなことをしたら〜〜
+  LIT: But there are still many of our comrades deep in the ruins! If you do that...
+  RE : But there are still many of our
+       comrades deep in the ruins! If
+       you do that...
+
+[US#7259] (soldier)
+  JP : 「俺だけじゃない / 隊長だって、ここにいるみんなだって / そんなこと誰も<b:8a3e>んじゃいないはずです
+  LIT: It's not just me; the captain, everyone here; no one wants that to happen.
+  RE : It's not just me; the captain,
+       everyone here; no one wants that
+       to happen.
+
+[US#7260] (soldier)
+  JP : 「心はひとつのはずです
+  LIT: Our hearts should be as one.
+  RE : Our hearts should be as one.
+
+[US#7261] (soldier)
+  JP : 「遺跡街に残っている / <b:8a38>間の<b:8a3f>乗を指揮してください / 俺だって、時間<b:8a40>ぎくらいはできます
+  LIT: Please give the order to evacuate the comrades left in the ruins; even I can at least buy some time.
+  RE : Please order the comrades left in
+       the ruins to evacuate; even I can
+       at least buy time.
+
+[US#7262] (soldier)
+  JP : 「いいえ〜
+  LIT: No...
+  RE : No...
+
+[US#7263] (tutorial panel)
+  JP : ＊『本体』には、名前が表示されており / ここのＨＰを０にすることで / ボスキャラクターを倒すことができます
+  LIT: The Main Body bears its name; reduce its HP to 0 to defeat the boss.
+  RE : The Main Body bears its name;
+       reduce its HP to 0 to defeat the
+       boss.
+
+[US#7264] (tutorial panel)
+  JP : ＊『<b:8a41>部級』のＨＰを０にしても / ボスキャラクターを倒すことはできませんが / その分のＥＸＰやギャラを<b:8a44>得できます
+  LIT: Dropping a "limb part" to 0 HP won't defeat the boss, but you earn EXP and Gella for it.
+  RE : Dropping a |limb| to 0 HP won't
+       defeat the boss, but you earn EXP
+       and Gella for it.
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#7253] SKIPPED - no content box in decode
+[US#7255] SKIPPED - no content box in decode
+[US#7256] SKIPPED - no content box in decode
+[US#7257] SKIPPED - no content box in decode
