@@ -1,0 +1,119 @@
+# WA2 — Block 47, US#6139-6157 — FINAL (dying rebel officer: trust, justice, and a hero's send-off — block 47 complete)
+# =========================================================================================
+# A defeated rebel/mercenary officer's dying scene: his reflection on the man who could charge
+# in first because he trusted the comrades at his back, his bitterness that the world only
+# serves those in power, his last stand ("I'll pulverize you"), his question of whether justice
+# belongs to the winners, and his final plea for mercy on his men (the responsibility was his),
+# recognizing Ashley as a true "hero" and entrusting his troops to the party. JP-primary.
+
+[US#6139] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#6140] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#6141] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#6143] (officer)
+  JP : 「<b:8a38>っ先に駆け出すか〜 / あいつの後ろにはいつも / <b:8a39>るべき仲間がいたからな〜
+  LIT: Charging out ahead of everyone; behind him there were always comrades he had to protect.
+  RE : Charging out ahead of everyone;
+       behind him there were always
+       comrades he had to protect.
+
+[US#6144] (officer)
+  JP : 「後ろにいる仲間を信じていたから / 自分が<b:8a38>っ先に / 駆け出すことができたんだな〜
+  LIT: It was because he trusted the comrades at his back that he could charge out in front.
+  RE : It was because he trusted the
+       comrades at his back that he
+       could charge out in front.
+
+[US#6146] (officer)
+  JP : 「だから強くなって / ここまでやって<b:8a3c>たッ！
+  LIT: That's how we grew strong and fought our way this far!
+  RE : That's how we grew strong and
+       fought our way this far!
+
+[US#6147] (officer)
+  JP : 「いいや、ブチ<b:8a43>くッ！
+  LIT: No, I'll pulverize you!
+  RE : No, I'll pulverize you!
+
+[US#6148] (officer)
+  JP : 「所<b:8a46>、そんなものは / 為<b:8a47>者どもに<b:8a48>合のいい世界よ / 僕方たちにゃ、きゅうくつなところよッ！
+  LIT: In the end, such a world only suits those in power; for the likes of us, it's a suffocating place!
+  RE : In the end, such a world only
+       suits those in power; for us,
+       it's a suffocating place!
+
+[US#6149] (officer)
+  JP : 「ひとつ聞かせろや〜
+  LIT: Let me ask you one thing.
+  RE : Let me ask you one thing.
+
+[US#6150] (officer)
+  JP : 「お前たちが正しいのか？ / 正義ってやつは / <b:8a50>ったお前たちにあるのかッ！
+  LIT: Are you the ones in the right? Does "justice" belong to you, the winners?!
+  RE : Are you the ones in the right?
+       Does justice belong to you, the
+       winners?!
+
+[US#6151] (officer)
+  JP : 「けッ、どっちにしても / 僕方はここまでのようだ〜 / もう、ろくに立って、られねぇぜ〜
+  LIT: Tch; either way, this is as far as I go; I can't even stand properly anymore.
+  RE : Tch; either way, this is as far
+       as I go; I can't even stand
+       anymore.
+
+[US#6152] (officer)
+  JP : 「部辺<b:8a49>（あいつら）のこと / できるだけ、<b:8a51>大な<b:8a52>置を頼むぜ / ムシのいいのはわかってるがよ〜
+  LIT: My men; show them what leniency you can, I ask you; I know it's a selfish thing to ask.
+  RE : My men; show them what leniency
+       you can, I ask you; I know it's a
+       selfish thing to ask.
+
+[US#6153] (officer)
+  JP : 「部辺<b:8a49>を動かしたのは / 僕方たちだ〜 / <b:8a53>任はこっちにある
+  LIT: It was I who set my men in motion; the responsibility rests with me.
+  RE : It was I who set my men in
+       motion; the responsibility rests
+       with me.
+
+[US#6154] (officer)
+  JP : 「戦場で交わした<b:8a4a>重は / 何よりも重い
+  LIT: A promise made on the battlefield weighs heavier than anything.
+  RE : A promise made on the battlefield
+       weighs heavier than anything.
+
+[US#6155] (officer)
+  JP : 「おめぇに<b:8a55>えてよかった / やっぱりおめぇは / 『<b:8a56><b:8a57>』だぜ
+  LIT: I'm glad I got to meet you; you really are a "hero."
+  RE : I'm glad I got to meet you; you
+       really are a |hero|.
+
+[US#6156] (officer)
+  JP : 「部辺<b:8a49>のこと / よろしく、頼めるの、は〜 / 〜おめぇら、だけだから、な〜
+  LIT: My men; the only ones I can trust to look after them... are you...
+  RE : My men; the only ones I can
+       trust to look after them... are
+       you...
+
+[US#6157] (Odessa officer)
+  JP : 「ここから出る手<b:8a59>は / ただひとつということか / フッ、おもしろい<b:8a5a><b:8a5b>だッ！
+  LIT: So there's only one way out of here; heh, an amusing turn of events!
+  RE : So there's only one way out of
+       here; heh, an amusing turn of
+       events!
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#6142] SKIPPED - no content box in decode
+[US#6145] SKIPPED - no content box in decode
