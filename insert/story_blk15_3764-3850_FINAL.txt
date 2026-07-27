@@ -1,0 +1,405 @@
+# WA2 — Block 15, US#3764-3850 — FINAL (Halmetz aftermath + the empty town + Judecca ambush — block 15 complete)
+# =========================================================================================
+# Halmetz after the party drives Odessa off: townsfolk gratitude, the "ARMS are my heroes
+# forever" fan, the broken Bell Tower (the town's pride, still unrepaired, the Queen unmoved),
+# elders proud their kin joined the Queen's guard, kids vowing to be Defenders of Justice
+# (eat-your-veggies / study-hard gag), the Bell-Tower + note-taking lore panels, then the
+# second Halmetz visit that finds the town eerily emptied (warm food, no people) and Judecca of
+# the Cocytus springing the Trask ambush, blown away by the sword-light. JP-primary.
+
+[US#3764] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#3765] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#3766] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#3768] (fan)
+  JP : 「〜〜ダメみたいだね / 我ながらいい案だと思ったんだけどなぁ
+  LIT: ...Guess it's no good after all; and I thought it was a fine idea, if I do say so.
+  RE : ...Guess it's no good after all;
+       and I thought it was a fine idea,
+       if I do say so.
+
+[US#3769] (fan)
+  JP : 「いまだにその正体が気になってるんですよ / じつはＡＲＭＳの中の / さらに発密部隊の人じゃないかってね
+  LIT: I still wonder who he really is; maybe a member of an even more secret unit inside ARMS?
+  RE : I still wonder who he really is;
+       maybe a member of an even more
+       secret unit inside ARMS?
+
+[US#3767] (fan)
+  JP : 「やっぱりＡＲＭＳは僕にとって / 置遠のヒーローですよッ！
+  LIT: ARMS will always be my eternal heroes!
+  RE : ARMS will always be my eternal
+       heroes!
+
+[US#3770] (townsperson)
+  JP : 「僕たちにも / なにか協力できることがあると / いいのですが
+  LIT: I do wish there were something folks like us could do to help.
+  RE : I do wish there were something
+       folks like us could do to help.
+
+[US#3771] (townsperson)
+  JP : 「きっとまだ多くの人たちが / あなたたちＡＲＭＳの力を / 必要としているはずですッ！
+  LIT: Surely many more people still need the strength of you ARMS!
+  RE : Surely many more people still
+       need the strength of you ARMS!
+
+[US#3772] (townsperson)
+  JP : 「あのときは足早に怪ってしまったので / お礼のひとつもいえなくて / とても残念に思っているのですが
+  LIT: He left in such a hurry that time; I couldn't even thank him, which I truly regret.
+  RE : He left in such a hurry that
+       time; I couldn't even thank him,
+       which I truly regret.
+
+[US#3773] (townsperson)
+  JP : 「もしそうなら / 式って一言礼をいいたいのですが
+  LIT: If that's so, I'd love to meet him and give my thanks.
+  RE : If that's so, I'd love to meet
+       him and give my thanks.
+
+[US#3774] (elder)
+  JP : 「もっと、シルヴァラント女王<8a0b>辺は / 話の分かるお方だと思っておったのだが
+  LIT: I'd thought the Queen of Sylvaland was a more understanding sort than this.
+  RE : I'd thought the Queen of
+       Sylvaland was a more
+       understanding sort than this.
+
+[US#3775] (elder)
+  JP : 「ハルメッツの鐘つき音を / 早く<8865>すようにって
+  LIT: Asking her to restore Halmetz's bell tower soon.
+  RE : Asking her to restore Halmetz's
+       bell tower soon.
+
+[US#3777] (elder)
+  JP : 「いまだに修理するっていう話が / ぜんぜんないんじゃよ / 一回も早く<8865>してほしいんじゃが
+  LIT: There's still no talk at all of repairing it; we do wish it fixed as soon as can be.
+  RE : There's still no talk at all of
+       repairing it; we do wish it fixed
+       as soon as can be.
+
+[US#3778] (elder)
+  JP : 「あんたたちにかかれば / やつらもしっぽを<8812>くしかないじゃろう
+  LIT: With you on the job, those villains have no choice but to turn tail.
+  RE : With you on the job, those
+       villains have no choice but to
+       turn tail.
+
+[US#3779] (elder)
+  JP : 「この鐘つき音は / ハルメッツの場のシンボルだったのじゃが / なんて惜いことをするんじゃ
+  LIT: This bell tower was the symbol of Halmetz town; what a terrible waste they've made of it.
+  RE : This bell tower was the symbol of
+       Halmetz town; what a terrible
+       waste they've made of it.
+
+[US#3780] (elder)
+  JP : 「あんたたちにも / 聞かせてあげたかったねぇ
+  LIT: I'd have liked to let you hear it, too.
+  RE : I'd have liked to let you hear
+       it, too.
+
+[US#3781] (elder)
+  JP : 「しかし、それを倒してしまった / お前さんたちもすごいのぉ
+  LIT: But defeating that thing; you're a remarkable bunch yourselves.
+  RE : But defeating that thing; you're
+       a remarkable bunch yourselves.
+
+[US#3783] (elder)
+  JP : 「じゃから、決して悪さしてはいかんぞ / まわりで騒ぐなどもってのほかじゃ
+  LIT: So mind you do no mischief; making a racket around here is out of the question.
+  RE : So mind you do no mischief.
+       Making a racket around here is
+       out of the question.
+
+[US#3788] (townswoman)
+  JP : 「こんなにかわいい隊員もいるんだねぇ / なんか結単部隊のイメージが / 変わっちゃったわ
+  LIT: To think there's a member this cute; it's rather changed my image of the special unit.
+  RE : To think there's a member this
+       cute; it's rather changed my
+       image of the special unit.
+
+[US#3789] (townsperson)
+  JP : 「やつらのことだから / まだまだああいった同盟を / 隠し持ってるかもしれないね
+  LIT: Knowing them, Odessa may well have more weapons like that hidden away.
+  RE : Knowing them, Odessa may well
+       have more weapons like that
+       hidden away.
+
+[US#3790] (townswoman)
+  JP : 「まったくッ！ / どこでなにがおこるか / わかったもんじゃないわよ
+  LIT: Honestly! There's no telling where or when something will happen these days.
+  RE : Honestly! There's no telling
+       where or when something will
+       happen these days.
+
+[US#3791] (townswoman)
+  JP : 「あんたたちみたいな<89f9>来組は / ゆっくり体を休めたりすることなんて / あまりないんだからさ
+  LIT: Travelers like you rarely get the chance to rest your bodies properly.
+  RE : Travelers like you rarely get the
+       chance to rest your bodies
+       properly.
+
+[US#3792] (townsperson)
+  JP : 「そうすれば / やつらからこの場を / 守ることだってできたのに〜〜
+  LIT: If only I had, I could have protected this town from them myself...
+  RE : If only I had, I could have
+       protected this town from them
+       myself...
+
+[US#3793] (townsperson)
+  JP : 「でも、あんたたちＡＲＭＳの力が / 必要とされているんだよなぁ / 頑張ってくれ、それしかいえないよ
+  LIT: But it's your ARMS strength that's needed; do your best; that's all I can say.
+  RE : But it's your ARMS strength
+       that's needed. Do your best;
+       that's all I can say.
+
+[US#3794] (townsperson)
+  JP : 「あんたみたいな女の家が / あんなすごいことが / できちゃうんだねぇ
+  LIT: To think a young woman like you could pull off something so amazing.
+  RE : To think a young woman like you
+       could pull off something so
+       amazing.
+
+[US#3795] (townsperson)
+  JP : 「あんたたち / 本当にたいしたもんだよ / これからもこの調家で頼むよッ！
+  LIT: You lot are truly something; keep it up just like this!
+  RE : You lot are truly something. Keep
+       it up just like this!
+
+[US#3796] (freed captive)
+  JP : 「あのまま一生 / 閉じこめられたままなのかと / 命も名命もなくすとこだったよ
+  LIT: I thought I'd be shut in there for life; I nearly lost both my life and my hope.
+  RE : I thought I'd be shut in there
+       for life; I nearly lost my life
+       and my hope both.
+
+[US#3797] (freed captive)
+  JP : 「空が暗くなった頃かのぉ
+  LIT: It was around the time the sky went dark, I suppose.
+  RE : It was around the time the sky
+       went dark, I suppose.
+
+[US#3798] (freed captive)
+  JP : 「優れた優命と強い力 / そんなものを / むやみやたらに振り回しているだけじゃッ！
+  LIT: Fine gifts and great strength, and they just swing them about with no restraint at all!
+  RE : Fine gifts and great strength,
+       and they just swing them about
+       with no restraint at all!
+
+[US#3799] (elder)
+  JP : 「じゃがそんな道理が通じるようじゃったら / こんなばかなまねなど / せんじゃろうなぁ
+  LIT: But if reason worked on them, they'd never pull such foolish stunts to begin with.
+  RE : But if reason worked on them,
+       they'd never pull such foolish
+       stunts to begin with.
+
+[US#3800] (elder)
+  JP : 「やつらもさぞ<8845>いたことじゃろう / 愉快、愉快ッ！
+  LIT: They must have been quite startled; delightful, delightful!
+  RE : They must have been quite
+       startled. Delightful, delightful!
+
+[US#3801] (elder)
+  JP : 「奴らにひと泡吹かせたのか / あわてふためく奴らの顔が / 思い浮かぶようじゃよ
+  LIT: So you gave them a good scare; I can just picture their panicked faces.
+  RE : So you gave them a good scare; I
+       can just picture their panicked
+       faces.
+
+[US#3802] (elder)
+  JP : 「あのまま余生を / 薄暗いところで過ごさねばならんと / あきらめておったんじゃから
+  LIT: I'd resigned myself to spending my last years in that gloomy dark.
+  RE : I'd resigned myself to spending
+       my last years in that gloomy
+       dark.
+
+[US#3804] (townsperson)
+  JP : 「長期戦になれば / あんたらに戦況は傾くんじゃないか？
+  LIT: In a long war, wouldn't the tide turn your way?
+  RE : In a long war, wouldn't the tide
+       turn your way?
+
+[US#3805] (townsperson)
+  JP : 「彼我の戦力比は / オデッサの方に分がありそうだが / ＡＲＭＳには貴族院のバックアップがある
+  LIT: In raw strength Odessa seems to have the edge, but ARMS has the backing of the peers' council.
+  RE : In raw strength Odessa seems to
+       have the edge, but ARMS has the
+       peers' council behind it.
+
+[US#3806] (townsperson)
+  JP : 「あんなもの / そう右乗に手に入るものとも / 思えないんだが
+  LIT: I can't imagine a thing like that being so easy to come by.
+  RE : I can't imagine a thing like that
+       being so easy to come by.
+
+[US#3807] (townsperson)
+  JP : 「もうだめなんじゃないかって / あきらめかけたぐらいだったし / でも、あんたたちのおかげで助かったよ
+  LIT: I'd near given up, sure it was hopeless; but thanks to you, we were saved.
+  RE : I'd near given up, sure it was
+       hopeless; but thanks to you, we
+       were saved.
+
+[US#3817] (kid)
+  JP : 「ぼく、大きくなったら / お兄ちゃんたちみたいに / 正義の味方になるんだッ！
+  LIT: When I grow up, I'm gonna be a Defender of Justice, just like you!
+  RE : When I grow up, I'm gonna be a
+       Defender of Justice, just like
+       you!
+
+[US#3818] (elder)
+  JP : 「もし、ファルガイアが滅びるのだったら / 最後にもう一度くらい、式っておきたいねぇ
+  LIT: If Filgaia is to perish, I'd like to see him just once more, at the last.
+  RE : If Filgaia is to perish, I'd like
+       to see him just once more, at the
+       last.
+
+[US#3819] (elder)
+  JP : 「なんでも、女王<8a0b>辺の / 近衛同をつとめているそうなんだよ / こんなに名誉なことはあるまいて
+  LIT: They say he serves as one of the Queen's own guard; there's no greater honor than that.
+  RE : They say he serves in the Queen's
+       own guard; there's no greater
+       honor than that.
+
+[US#3820] (elder)
+  JP : 「もう二度と / あんなことは嫌だからねぇ
+  LIT: I never want to go through anything like that again.
+  RE : I never want to go through
+       anything like that again.
+
+[US#3821] (elder)
+  JP : 「危ないと思ったら / すぐに戻ってくるんだよ / いいね、わかったかい？
+  LIT: If it feels dangerous, come straight back; all right? Understood?
+  RE : If it feels dangerous, come
+       straight back. All right?
+       Understood?
+
+[US#3822] (elder)
+  JP : 「あんたたちが撃墜してくれたおかげで / これで少しは安心して / <89bb>ることができそうだよ
+  LIT: Thanks to your shooting it down, I can sleep a little easier now.
+  RE : Thanks to your shooting it down,
+       I can sleep a little easier now.
+
+[US#3823] (elder)
+  JP : 「まったくあの連中ときたら / なに考えているんだかわからんよ
+  LIT: Honestly, that lot; there's no telling what goes on in their heads.
+  RE : Honestly, that lot; there's no
+       telling what goes on in their
+       heads.
+
+[US#3824] (elder)
+  JP : 「ワシの<89e2>家が、自分のなれなかったものに / なってくれたのじゃ / こんなにうれしいことは、あるまいて
+  LIT: My own child became what I never could; there's no greater joy for a parent.
+  RE : My own child became what I never
+       could; there's no greater joy for
+       a parent.
+
+[US#3825] (elder)
+  JP : 「あんたのように / でかくて目立つ奴がおらんと / 見栄えがせんでいかんのぉ
+  LIT: Without a big, striking fellow like you around, the place just doesn't look right.
+  RE : Without a big, striking fellow
+       like you around, the place just
+       doesn't look right.
+
+[US#3827] (elder)
+  JP : 「なにせワシは生まれてからこのかた / この近岸しかでたことがないからのぉ / <89c1>にワシが話を聞きたいわい
+  LIT: See, I've never once left this district my whole life; it's I who'd like to hear your stories.
+  RE : See, I've never once left this
+       district my whole life; it's I
+       who'd like your stories.
+
+[US#3828] (elder)
+  JP : 「充分に<88f7>意するに / 越したことないじゃろう
+  LIT: You can't be too careful; better safe than sorry.
+  RE : You can't be too careful; better
+       safe than sorry.
+
+[US#3830] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#3833] (lore panel)
+  JP : ＊場では正情を知らせる合図として / 一回一回この鐘を鳴らし / 生還と密着した鐘となっている
+  LIT: In town the bell is rung to signal the day's rhythm, closely woven into daily life.
+  RE : In town the bell is rung to
+       signal the day's rhythm, woven
+       closely into daily life.
+
+[US#3834] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#3841] (Ashley)
+  JP : 「みんな、手分けして / ハルメッツの場を調べるぞ
+  LIT: Everyone, let's split up and search the town of Halmetz.
+  RE : Everyone, let's split up and
+       search the town of Halmetz.
+
+[US#3842] (party)
+  JP : 「だが、それ以上に不可解なのは / 生還の痕跡が残っていることだ
+  LIT: But stranger still is that there are traces of life left behind.
+  RE : But stranger still is that there
+       are traces of life left behind.
+
+[US#3844] (Judecca)
+  JP : 「オデッサ結戦隊『コキュートス』がひとり / ジュデッカ〜 / 見知る必要は無いけどね
+  LIT: One of Odessa's special forces "Cocytus," Judecca; not that you need to know it.
+  RE : One of Odessa's special forces
+       |Cocytus|, Judecca; not that you
+       need to know it.
+
+[US#3848] (Judecca)
+  JP : 「何か来るぞッ！
+  LIT: Something's coming!
+  RE : Something's coming!
+
+[US#3850] (party)
+  JP : 「タ、タラスクが / あの剣輝に〜 / 一撃のもとに吹き飛ばされるなんて〜
+  LIT: T-Trask, blown away by that sword-light... in a single blow...
+  RE : T-Trask, blown away by that
+       sword-light... in a single
+       blow...
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#3776] SKIPPED - no content box in decode
+[US#3782] SKIPPED - no content box in decode
+[US#3784] SKIPPED - no content box in decode
+[US#3785] SKIPPED - no content box in decode
+[US#3786] SKIPPED - no content box in decode
+[US#3787] SKIPPED - no content box in decode
+[US#3803] SKIPPED - no content box in decode
+[US#3808] SKIPPED - no content box in decode
+[US#3809] SKIPPED - no content box in decode
+[US#3810] SKIPPED - no content box in decode
+[US#3811] SKIPPED - no content box in decode
+[US#3812] SKIPPED - no content box in decode
+[US#3813] SKIPPED - no content box in decode
+[US#3814] SKIPPED - no content box in decode
+[US#3815] SKIPPED - no content box in decode
+[US#3816] SKIPPED - no content box in decode
+[US#3829] SKIPPED - no content box in decode
+[US#3831] SKIPPED - no content box in decode
+[US#3832] SKIPPED - no content box in decode
+[US#3835] SKIPPED - no content box in decode
+[US#3836] SKIPPED - no content box in decode
+[US#3837] SKIPPED - no content box in decode
+[US#3838] SKIPPED - no content box in decode
+[US#3839] SKIPPED - no content box in decode
+[US#3840] SKIPPED - no content box in decode
+[US#3843] SKIPPED - no content box in decode
+[US#3845] SKIPPED - no content box in decode
+[US#3846] SKIPPED - no content box in decode
+[US#3847] SKIPPED - no content box in decode
+[US#3849] SKIPPED - no content box in decode
