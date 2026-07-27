@@ -1,0 +1,100 @@
+# WA2 — Block 68, US#7148-7190 — FINAL (Monster-Card album collector + name-change + shop hub — block 68 complete)
+# =========================================================================================
+# A service-NPC hub whose prompts cycle repeatedly: the Monster-Card collector (trades your
+# cards for an "Album" you can browse anywhere), the name-change offer, a shop's "want to look
+# around?" prompt, and a "...dead batteries?" flavor line. Canonical distinct set is
+# US#7148-7157; the same five prompts repeat verbatim afterward and are marked DUP (JP matched
+# where present, EN cycle-position otherwise). JP-primary.
+
+[US#7148] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#7149] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#7150] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#7151] (card collector)
+  JP : 「そうかそうか / それじゃ、怪獣カードがどこでも見られる / アルバムと交<88fb>してやろう
+  LIT: I see, I see; then I'll trade you an Album where you can view your Monster Cards anywhere.
+  RE : I see, I see; then I'll trade you
+       an Album where you can view your
+       Monster Cards anywhere.
+
+[US#7152] (card collector)
+  JP : 「メニューに『アルバム』の左目が右えるから / それを選んで、あとは見たいカードを / 選乗するだけ、どうだ置利だろう？
+  LIT: An "Album" entry appears in the menu; just select it and pick the card you want to see. Handy, right?
+  RE : An |Album| entry appears in the
+       menu; just select it and pick the
+       card you want. Handy, right?
+
+[US#7153] (card collector)
+  JP : 「どうだい、カードを見て行くかい？ / １．カードを確認していく / ２．カードの確認しない[1a]か
+  LIT: Well, want to look through the cards? 1. Check the cards. 2. No need to check.
+  RE : Well, want to look through the
+       cards? 1. Check the cards. 2. No
+       need to check.
+
+[US#7154] (name changer)
+  JP : 「どうじゃ、名前を<8864>えるかい？[18]か
+  LIT: So, want to change your name?
+  RE : So, want to change your name?
+
+[US#7155] (shopkeeper)
+  JP : 「<b:8a40>やかしでもいいから見て行かないか？ / １．品<b:8a41>えが気になるから見て行く / ２．いまは見て行く気にならない[1a]か
+  LIT: Even just browsing is fine; won't you take a look? 1. I'm curious, show me. 2. Not in the mood now.
+  RE : Even just browsing is fine; won't
+       you look? 1. I'm curious, show me.
+       2. Not in the mood now.
+
+[US#7157] (flavor)
+  JP : ＊………<8934>大切れ？
+  LIT: ...Dead batteries?
+  RE : ...Dead batteries?
+
+# --- DUP repeats (same hub prompts, verbatim; reuse the canonical RE at insertion) ---
+[US#7159] DUP of 7154 (change name) — reuse RE
+[US#7160] DUP of 7155 (look around) — reuse RE
+[US#7161] DUP of 7154 (change name) — reuse RE
+[US#7162] DUP of 7157 (dead batteries) — reuse RE
+[US#7164] DUP of 7154 (change name) — reuse RE
+[US#7166] DUP of 7152 (album menu) — reuse RE
+[US#7167] DUP of 7157 (dead batteries) — reuse RE
+[US#7168] DUP of 7154 (change name) — reuse RE
+[US#7169] DUP of 7154 (change name) — reuse RE
+[US#7171] DUP of 7157 (dead batteries) — reuse RE
+[US#7173] DUP of 7152 (album menu) — reuse RE
+[US#7174] DUP of 7154 (change name) — reuse RE
+[US#7175] DUP of 7155 (look around) — reuse RE
+[US#7176] DUP of 7155 (look around) — reuse RE
+[US#7178] DUP of 7157 (dead batteries) — reuse RE
+[US#7180] DUP of 7152 (album menu) — reuse RE
+[US#7181] DUP of 7153 (see cards) — reuse RE
+[US#7182] DUP of 7154 (change name) — reuse RE
+[US#7183] DUP of 7155 (look around) — reuse RE
+[US#7185] DUP of 7157 (dead batteries) — reuse RE
+[US#7187] DUP of 7152 (album menu) — reuse RE
+[US#7188] DUP of 7153 (see cards) — reuse RE
+[US#7189] DUP of 7154 (change name) — reuse RE
+[US#7190] DUP of 7155 (look around) — reuse RE
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#7156] SKIPPED - no content box in decode
+[US#7158] SKIPPED - no content box in decode
+[US#7163] SKIPPED - no content box in decode
+[US#7165] SKIPPED - no content box in decode
+[US#7170] SKIPPED - no content box in decode
+[US#7172] SKIPPED - no content box in decode
+[US#7177] SKIPPED - no content box in decode
+[US#7179] SKIPPED - no content box in decode
+[US#7184] SKIPPED - no content box in decode
+[US#7186] SKIPPED - no content box in decode
