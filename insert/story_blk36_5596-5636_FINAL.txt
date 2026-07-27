@@ -1,0 +1,270 @@
+# WA2 — Block 36, US#5596-5636 — FINAL (Gate Bridge puzzle + Liz & Ard boss banter — block 36 complete)
+# =========================================================================================
+# The Gate Bridge control-panel puzzle (raise/lower to open/close) and a Liz & Ard (Toka & Gě)
+# encounter: the Odessa duo's self-important tokusatsu-villain patter (Toka the brains with his
+# 〜トカ tic, Gě the muscle), their "Bulkogidon if only it were finished" lament, the
+# "birthday suit" gag, boasting they delayed the party on a grand scale, the "word-torture" bit,
+# and the "the era of the intellectual gangster is over" exit. Weapon/bayonet lore panels too.
+# Toka: theatrical, self-adoring, ends lines with 〜トカ. JP-primary; Bulkogidon kept.
+
+[US#5596] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#5597] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#5598] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#5599] (party)
+  JP : 「またコントロールパネルを / 右作しなくちゃいけないってことか
+  LIT: Does this mean I have to go work the control panel all over again?
+  RE : Does this mean I have to go work
+       the control panel all over again?
+
+[US#5600] (party)
+  JP : 「しかたがない / コントロールパネルまで戻って / 右作し<8865>しだな
+  LIT: Nothing for it; back to the control panel to redo it.
+  RE : Nothing for it; back to the
+       control panel to redo it.
+
+[US#5601] (Lilka)
+  JP : 「なんで<89ec>が上がってるのよッ！ / またコントロールパネルまで / 戻らなきゃならないの？
+  LIT: Why is the bridge up?! Do I have to go all the way back to the control panel again?
+  RE : Why is the bridge up?! Do I have
+       to go all the way back to the
+       control panel again?
+
+[US#5602] (party)
+  JP : 「仕方ありません / また、コントロールパネルを / 右作しに行きましょう
+  LIT: It can't be helped; let's go work the control panel again.
+  RE : It can't be helped; let's go work
+       the control panel again.
+
+[US#5603] (Lilka)
+  JP : 「<89ec>が上がってたら / どうしようかと思っちゃったもんね
+  LIT: If the bridge were up, I really wouldn't know what to do.
+  RE : If the bridge were up, I really
+       wouldn't know what to do.
+
+[US#5604] (party)
+  JP : 「先に進むぞッ！
+  LIT: Let's go on ahead!
+  RE : Let's go on ahead!
+
+[US#5605] (Toka)
+  JP : 「今や全<b:8a3d><b:8a3e>々<b:8a3f>々にとどろきわたる / 魔法のテロリスト『オデッサ』の隠し<b:8a40> / トカとゲーとは、我々らのことよ
+  LIT: The magic terrorists "Odessa," whose name thunders across the whole land; their hidden blades, Toka and Gě, are us!
+  RE : The magic terrorists |Odessa|,
+       thundering across the land;
+       their hidden blades, us: Toka & Gě!
+
+[US#5606] (Toka)
+  JP : 「けして怪しい者ではない
+  LIT: We are by no means anyone suspicious.
+  RE : We are by no means anyone
+       suspicious.
+
+[US#5607] (Toka)
+  JP : 「やっぱり我々たちには / 隠しても隠しきれない / <b:8a42>く危険な<b:8a43>りがつきものだトカ
+  LIT: As ever, that sweet, dangerous scent clings to us, hide it as we might, ...or so it goes.
+  RE : As ever, that sweet, dangerous
+       scent clings to us, hide it as we
+       might, or so it goes.
+
+[US#5608] (Toka)
+  JP : 「我々の<b:8a44><b:8a45>とッ！ / ゲーのパワーッ！ / さらに加えて、我々のカッコ良さッ！
+  LIT: My genius! And Gě's power! And on top of that, my dashing good looks!
+  RE : My genius! And Gě's power! And on
+       top of that, my dashing good
+       looks!
+
+[US#5609] (Toka)
+  JP : 「どこをとっても一流の我々たちが / ファルガイアじゃ<b:8a47>流の貴様らに渡す / 見たことの無い最後の招<b:8a48>ッ！
+  LIT: First-rate in every way, we present you second-rate Filgaians a final invitation you've never seen!
+  RE : First-rate in every way, we grant
+       you second-rate Filgaians a final
+       invitation you've never seen!
+
+[US#5610] (party)
+  JP : 「立ちはだかるなら / 突き崩すのみッ！ / ゆくぞッ！
+  LIT: If you stand in our way, we'll just break through! Here we go!
+  RE : If you stand in our way, we'll
+       just break through! Here we go!
+
+[US#5611] (Toka)
+  JP : 「我々の特<b:8a4f>儀に / 何か大切なモノが欠けてたトカ？ / もしかして『<b:8a50><b:8a51>』？
+  LIT: Was something vital missing from my grand performance? Could it be... "poetry," ...or something?
+  RE : Was something vital missing from
+       my grand performance? Could it
+       be... |poetry|, or something?
+
+[US#5612] (Toka)
+  JP : 「お代は、見てのお帰りだトカッ！
+  LIT: One look and the price is: off you go home, ...or something!
+  RE : One look and the price is: off
+       you go home, or something!
+
+[US#5613] (Toka)
+  JP : 「ビックリドッキリ<8872>の / <b:8a5b>生<b:8a5c><b:8a5d>怪獣<b:8a5e>団（？）までもが / 眠家の手にサブミッションかのごとくッ！
+  LIT: Even the astonishing Monster-Regeneration Squad (?) went down as if submitting to a mere babe!
+  RE : Even the astonishing
+       Monster-Regeneration Squad (?)
+       went down like it yielded to a babe!
+
+[US#5614] (Toka)
+  JP : 「おのれ〜 ブルコギドンさえあれば / 誰もがしびれる / ブルコギドンさえ完成していれば〜
+  LIT: Curse it; if only I had Bulkogidon, all would be spellbound; if only Bulkogidon were finished...
+  RE : Curse it; with Bulkogidon all
+       would be spellbound. If only it
+       were finished...
+
+[US#5615] (Toka)
+  JP : 「<b:8a5f>回今回<b:8a60>った / <b:8a61>辺どもに<8a0d>れをとることなど / ムダ<b:8a62>ほどもありはしないのにッ！
+  LIT: To be held up by hoodlums we only just met; that's not worth even the tiniest scrap of trouble!
+  RE : To be held up by hoodlums we only
+       just met isn't worth the tiniest
+       scrap of trouble!
+
+[US#5616] (Toka)
+  JP : 「身<b:8a63>いするほど<b:8a64>が立つッ
+  LIT: I'm shaking with rage!
+  RE : I'm shaking with rage!
+
+[US#5617] (Toka)
+  JP : 「今回の<b:8a65><b:8a66>的ノウハウは / きっと我々らを<b:8a67>重の地に<b:8a48>くこと必至
+  LIT: This day's scientific know-how is sure to lead us to the Promised Land, no doubt about it.
+  RE : This day's scientific know-how is
+       sure to lead us to the Promised
+       Land, no doubt about it.
+
+[US#5618] (Toka)
+  JP : 「その回を楽しみに / <888a>を長くして待っていたら / こんな姿に〜
+  LIT: While I waited eagerly, neck craned for that day, we ended up in this shape...
+  RE : While I waited eagerly, neck
+       craned for that day, we ended up
+       in this shape...
+
+[US#5619] (Toka)
+  JP : 「我々らは、生まれた時より<b:8a69>り高きこの姿 / <b:8a6a>に言う / 『生まれたまんまの姿』というヤツだトカ
+  LIT: We've worn this proud form since birth; bluntly put, we're in our "birthday suits," ...or something.
+  RE : We've worn this proud form since
+       birth; bluntly put, we're in our
+       |birthday suits|, or something.
+
+[US#5620] (Toka)
+  JP : 「どっちにせよ / 我々らは貴様らの足止めに / かつて無いほど見事に成<b:8a6b>をおさめた
+  LIT: Either way, we've succeeded in delaying you on a grander scale than ever before.
+  RE : Either way, we've succeeded in
+       delaying you on a grander scale
+       than ever before.
+
+[US#5621] (Toka)
+  JP : 「<b:8a6c><b:8a6d>、信<b:8a6e>信<88f1>
+  LIT: Now then; thanks, thanks.
+  RE : Now then; thanks, thanks.
+
+[US#5622] (Toka)
+  JP : 「我々のおしげもなくさらした / まばゆいばかりの<b:8a70><b:8a71>っぷりに / ヴィンちゃんもきっとご<b:8a72><b:8a73>の方家？
+  LIT: With the dazzling brilliance we so freely displayed, surely Vinny himself would be delighted?
+  RE : With the dazzling brilliance we
+       so freely displayed, surely Vinny
+       himself would be delighted?
+
+[US#5623] (Toka)
+  JP : 「<b:8a74><b:8a75>の<b:8a76><b:8a77>と我々には / どこまで行っても追いつけぬものトカ
+  LIT: My youthful visions and I can never be caught, no matter how far you chase, ...or something.
+  RE : My youthful visions and I can
+       never be caught, no matter how
+       far you chase, or something.
+
+[US#5624] (Toka)
+  JP : 「１０代最後の思い出に / <b:8a78>り行く我々らの姿を / <b:8a79><b:8a7a>同部のドングリまなこに<b:8a7b>きつけたまえ
+  LIT: As your last memory of your teens, sear the sight of our departing figures into your goggling little eyes.
+  RE : As your last teen memory, sear
+       the sight of our departure into
+       your goggling little eyes.
+
+[US#5625] (Toka)
+  JP : 「アデュー〜ッ！
+  LIT: Adieu!
+  RE : Adieu!
+
+[US#5626] (lore panel)
+  JP : ＊アイテムとして使用することで / バイアネットに新たな<b:8a7d><b:8a7e>を / 追加します
+  LIT: Using it as an item adds new ammunition to the bayonet.
+  RE : Using it as an item adds new
+       ammunition to the bayonet.
+
+[US#5627] (lore panel)
+  JP : ＊<b:8a7f>撃<88e0>を広<b:8a80><b:8a81><b:8a82>にて発<b:8a83>し / 相全体に対して<b:8a84>撃を行います
+  LIT: It looses shockwaves over a wide area, striking the entire enemy line.
+  RE : It looses shockwaves over a wide
+       area, striking the entire enemy
+       line.
+
+[US#5628] (Gate Bridge prompt)
+  JP : ＊ゲートブリッジを辺げて、閉鎖しますか？ / １．ブリッジを辺げて閉鎖する / ２．閉鎖しない[1a]か
+  LIT: Lower the Gate Bridge to close it? 1. Lower and close. 2. Don't close.
+  RE : Lower the Gate Bridge to close
+       it? 1. Lower and close. 2. Don't
+       close.
+
+[US#5629] (Gate Bridge prompt)
+  JP : ＊ゲートブリッジを上げて、開放しますか？ / １．ブリッジを上げて開放する / ２．開放しない[1a]か
+  LIT: Raise the Gate Bridge to open it? 1. Raise and open. 2. Don't open.
+  RE : Raise the Gate Bridge to open it?
+       1. Raise and open. 2. Don't open.
+
+[US#5630] (Toka)
+  JP : 「あったまい〜ッ！ / そして我々、カッチョええ〜ッ！
+  LIT: So smaaart! And we're so cooool!
+  RE : So smaaart! And we're so cooool!
+
+[US#5631] (Toka)
+  JP : 「ゲートを上げてしまえば / もうこっちのものだトカ
+  LIT: Once we raise the gate, it's all ours, ...or something.
+  RE : Once we raise the gate, it's all
+       ours, or something.
+
+[US#5632] (Toka)
+  JP : 「我々は同胞だよ〜 / 同胞だったら知っている / <b:8a8f>事はヒツジと知っているモノだトカ
+  LIT: I'm a gentleman; a gentleman knows that no means no, ...or something.
+  RE : I'm a gentleman; and a gentleman
+       knows that no means no, or
+       something.
+
+[US#5633] (Toka)
+  JP : 「さっそく言葉<b:8a92>めの準備だトカッ！ / お上も<8990>っちゃいられない / <b:8a93><b:8a94>安地の危険なセリフが、やあ、<b:8a72><887d>
+  LIT: Time to prep the word-torture, ...or something! Even the censors can't keep up; oh, my dangerous lines abound!
+  RE : Time to prep the word-torture, or
+       something! Even the censors can't
+       keep up with my dangerous lines!
+
+[US#5634] (Toka)
+  JP : 「それでも連中が<b:8a95>まなければ / どうするんだってッ！ / 〜知れたことだトカ〜
+  LIT: And if that still doesn't make them flinch, what then, you ask? ...Isn't it obvious, ...or something.
+  RE : And if that still doesn't make
+       them flinch, what then? ...Isn't
+       it obvious, or something.
+
+[US#5635] (Gě)
+  JP : 「ブって、ブって / 言うこと聞くまで / ブチのめすッ！
+  LIT: Smack 'em, smack 'em, pound 'em till they do as they're told!
+  RE : Smack 'em, smack 'em, pound 'em
+       till they do as they're told!
+
+[US#5636] (Toka)
+  JP : 「同胞の<b:8a96><b:8a97>をかなぐり<b:8a54>てて / インテリヤクザの時代はもう終ったトカ〜
+  LIT: Casting off the gentleman's mask; the age of the intellectual gangster is over, ...or something.
+  RE : Casting off the gentleman's mask;
+       the age of the intellectual
+       gangster is over, or something.
