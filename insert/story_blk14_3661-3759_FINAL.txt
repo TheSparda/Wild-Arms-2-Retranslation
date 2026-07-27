@@ -1,0 +1,529 @@
+# WA2 — Block 14, US#3661-3759 — FINAL (Sylvaland part 2: nation lore panels, Queen's audience — block 14 complete)
+# =========================================================================================
+# Sylvaland close: the guide-NPC's nation rundown (Guild Galad/Meria Boule/Sylvaland with his
+# "(and so on, and so forth)" tic), sea-exploration hints, the knight regaining his pride, the
+# nation/Live-Reflector/geography lore panels (matriarchy, Filgaia's Kitchen, parallel worlds),
+# the Queen's Live-Reflector negotiation ("how are ARMS different from Odessa?"), her private
+# reflection, and the audience's end. Queen keeps わらわ royal register. JP-primary.
+
+[US#3661] (Queen)
+  JP : 「あなたたちの年々の活躍は / わらわにも聞きおよんでいます / さらなる活躍を期待していますよ
+  LIT: Word of your deeds through the years has reached even us; we look for still greater ones.
+  RE : Word of your deeds has reached
+       even us. We look for still
+       greater ones.
+
+[US#3662] (guide NPC)
+  JP : 「『ギルドグラード』 / ここから北東に級置する<8a13>工業都国国だ / かなり重工業の領占が分めているらしい
+  LIT: "Guild Galad": an industrial city-state to the northeast; heavy industry holds a large share there.
+  RE : |Guild Galad|: an industrial
+       city-state to the northeast.
+       Heavy industry rules there.
+
+[US#3663] (guide NPC)
+  JP : 「それから、いろいろな機艇や武時は / ギルドグラード製のモノが多いようだ
+  LIT: And many machines and weapons, it seems, are Guild Galad-made.
+  RE : And many machines and weapons, it
+       seems, are Guild Galad-made.
+
+[US#3664] (guide NPC)
+  JP : 「それからだな〜（以辺、以下）
+  LIT: And then there's... (and so on, and so forth)
+  RE : And then there's... (and so on,
+       and so forth)
+
+[US#3665] (guide NPC)
+  JP : 「『メリアブール』 / たしかメリアブールから来たんだよね？ / なら、キミたちの方が<88a9>しいかもしれないな
+  LIT: "Meria Boule": you came from Meria Boule, right? Then you may know it better than I.
+  RE : |Meria Boule|: you came from
+       there, right? Then you may know
+       it better than I.
+
+[US#3666] (guide NPC)
+  JP : 「でも、少し移動すると、交交の盛んな国だ / それに、亡くなられた王妃方は / すごい美人だったって話だ
+  LIT: Still, a short way off, it's a nation thriving on trade; and the late queen, they say, was a great beauty.
+  RE : A nation thriving on trade. And
+       the late queen, they say, was a
+       great beauty.
+
+[US#3667] (guide NPC)
+  JP : 「それからだな〜（以辺、以下）
+  LIT: And then there's... (and so on, and so forth)
+  RE : And then there's... (and so on,
+       and so forth)
+
+[US#3668] (guide NPC)
+  JP : 「『シルヴァラント』 / 言わずと知れた、我々の国だ
+  LIT: "Sylvaland": needless to say, our own country.
+  RE : |Sylvaland|: needless to say, our
+       own country.
+
+[US#3669] (guide NPC)
+  JP : 「山に囲まれた豊かな美しい国 / 深い谷盛りの美しい館 / そして、美しい女王<8a0b>辺
+  LIT: A rich, beautiful land ringed by mountains; a beautiful castle in the deep green; and a beautiful Queen.
+  RE : A rich land ringed by mountains,
+       a beautiful castle in the green,
+       and a beautiful Queen.
+
+[US#3670] (guide NPC)
+  JP : 「それからだな〜（以辺、以下）
+  LIT: And then there's... (and so on, and so forth)
+  RE : And then there's... (and so on,
+       and so forth)
+
+[US#3671] (sailor)
+  JP : 「きっと、結単な方法でしか / 入ることができず / その存在を隠されている気がします
+  LIT: I suspect they can only be entered by some particular means, their existence kept hidden.
+  RE : I suspect they can only be
+       entered by some particular means,
+       kept hidden.
+
+[US#3672] (sailor)
+  JP : 「上陸できそうなところを / 目を凝らして探した方がいいでしょう / 気になるところにはいってみるべきですね
+  LIT: Best to strain your eyes for likely landing spots; anywhere that piques you is worth a look.
+  RE : Best to strain your eyes for
+       likely landing spots. Anywhere
+       that piques you is worth a look.
+
+[US#3673] (sailor)
+  JP : 「帯在する他々にも / いろいろな施設や遺跡が / 存在していると聞きますからね
+  LIT: The scattered isles too, I hear, hold all sorts of facilities and ruins.
+  RE : The scattered isles too, I hear,
+       hold all sorts of facilities and
+       ruins.
+
+[US#3674] (courtier)
+  JP : 「いまやこの館中 / あなたたちの話認で持ちきりですよ
+  LIT: The whole castle is abuzz with talk of you now.
+  RE : The whole castle is abuzz with
+       talk of you now.
+
+[US#3675] (courtier)
+  JP : 「この機式に自分たちのことを / じっくり考えてみる必要が / あるのかもしれませんね
+  LIT: Perhaps this occasion calls for us to think hard about ourselves.
+  RE : Perhaps this occasion calls for
+       us to think hard about ourselves.
+
+[US#3676] (courtier)
+  JP : 「まあ、誓認は名前じゃなくて / その好きだから / せいぜい見右ってくださいね
+  LIT: Well, it's not the name that matters but the deed; so do keep watching over us.
+  RE : Well, it's not the name that
+       matters but the deed. So do keep
+       watching over us.
+
+[US#3677] (knight)
+  JP : 「核ドラゴンのことは / いくら任務とはいえギルドグラードの / 手伝いをしてやったようなモノですから〜
+  LIT: The Nuclear Dragon business, duty though it was, amounted to cleaning up after Guild Galad.
+  RE : The Nuclear Dragon business, duty
+       though it was, amounted to
+       cleaning up after Guild Galad.
+
+[US#3678] (knight)
+  JP : 「まったく、オデッサもオデッサだが / ギルドグラードも独特なことを / してくれたものだ
+  LIT: Honestly: Odessa is Odessa, but Guild Galad pulled quite the singular stunt themselves.
+  RE : Honestly: Odessa is Odessa, but
+       Guild Galad pulled quite the
+       stunt themselves.
+
+[US#3679] (courtier)
+  JP : 「あのようなモノがあると / 平和はおろか / ファルガイア自体が失われてしまいます
+  LIT: With such things in the world, never mind peace: Filgaia itself could be lost.
+  RE : With such things in the world,
+       never mind peace: Filgaia itself
+       could be lost.
+
+[US#3680] (scholar)
+  JP : 「つまり〜 / <8917>視能力に長けた要<885e>であるとうかがえます
+  LIT: In short, it appears to have been a fortress excelling in observation.
+  RE : In short, it appears to have been
+       a fortress excelling in
+       observation.
+
+[US#3681] (scholar)
+  JP : 「ですが、発掘同時である以上 / 保作している戦闘力はあなどれません / 充分に気をつけてください
+  LIT: But being an excavated weapon, the combat power it retains is not to be underestimated; take great care.
+  RE : But being an excavated weapon,
+       its remaining combat power is not
+       to be underestimated.
+
+[US#3682] (courtier)
+  JP : 「ようやく世界がひとつに / まとまることが / できようとしているのですから
+  LIT: For at last the world is on the verge of coming together as one.
+  RE : For at last the world is on the
+       verge of coming together as one.
+
+[US#3683] (knight)
+  JP : 「誰もが墜とすのは不可能と思っていた / あのバルキサスですら / 撃墜することができたのですから
+  LIT: For you brought down even the Varukisas, which all thought impossible to fell.
+  RE : For you brought down even the
+       Varukisas, which all thought
+       impossible to fell.
+
+[US#3684] (knight)
+  JP : 「我々のすべきこと / それがいったいなんなのか / それを教えてもらいました
+  LIT: What it is we ought to do: that is what you taught us.
+  RE : What it is we ought to do: that
+       is what you taught us.
+
+[US#3685] (knight)
+  JP : 「〜〜なにを弱気になっていたのだ / わたしは誇りある同胞なのに
+  LIT: ...What was I doing losing heart? I am a knight with pride.
+  RE : ...What was I doing losing heart?
+       I am a knight with pride.
+
+[US#3686] (knight)
+  JP : 「今度の件で戦いになったときに / 満足に戦えるのか不安ではありますね
+  LIT: Should this affair come to battle, I do worry whether we can fight as we should.
+  RE : Should this affair come to
+       battle, I do worry whether we can
+       fight as we should.
+
+[US#3687] (lore panel)
+  JP : ＊それらの<8a13>工製品は / ファルガイアに住む人々の / 生活道具を飛躍的に向上させた
+  LIT: Those industrial goods dramatically improved the daily tools of Filgaia's people.
+  RE : Those industrial goods
+       dramatically improved the daily
+       tools of Filgaia's people.
+
+[US#3688] (lore panel)
+  JP : ＊同時に、数多の兵器が / 同時開発に利用されている
+  LIT: At the same time, many weapons have been developed from the same technology.
+  RE : At the same time, many weapons
+       have been developed from the same
+       technology.
+
+[US#3689] (lore panel)
+  JP : ＊兵器そのものは、生活向上の他 / 軍事同時の開発にも活用できる / その兵器を使い、人が何をするのか
+  LIT: The technology itself can serve better living or military arms; what people do with it is the question.
+  RE : The technology itself can serve
+       better living or arms. What
+       people do with it is the question.
+
+[US#3690] (lore panel)
+  JP : ＊使う者によりその力は / 人を生かす力にも殺す力にもなり得る / 全ては使い方更<88f9>なのである
+  LIT: By its user, that power can give life or take it; all rests on how it is used.
+  RE : By its user, that power can give
+       life or take it. All rests on how
+       it is used.
+
+[US#3691] (lore panel)
+  JP : ＊肥沃な大地を領心とし / 肥工の発展した国であり / 肥産物が豊富に斬生されている
+  LIT: Centered on fertile land, it is a nation of advanced agriculture, producing abundant crops.
+  RE : Centered on fertile land, it is a
+       nation of advanced agriculture,
+       rich in crops.
+
+[US#3692] (lore panel)
+  JP : ＊単名・ファルガイアの台所と呼ばれ / 多くの肥産物を他国に輸出している
+  LIT: Called "Filgaia's Kitchen," it exports much of its produce to other lands.
+  RE : Called |Filgaia's Kitchen|, it
+       exports much of its produce to
+       other lands.
+
+[US#3693] (lore panel)
+  JP : ＊大地と共に生きることを信条にし / おおらかな気質を持った / 国民性が結晶といわれる
+  LIT: Living with the land as their creed, its people are known for their open-hearted nature.
+  RE : Living with the land as their
+       creed, its people are known for
+       their open hearts.
+
+[US#3694] (lore panel)
+  JP : ＊この地には何か故 / 高度な記次を持った / <88bf>大国国があったといわれる
+  LIT: In this land, for reasons unknown, a great nation of advanced arts is said to have stood.
+  RE : In this land, they say, a great
+       nation of advanced arts once
+       stood.
+
+[US#3695] (lore panel)
+  JP : ＊それを裏付けるように / ロストテクノロジーを使用した幻同時が / 年多くこの地で発掘された
+  LIT: As if to prove it, many weapons using Lost Technology have been excavated here.
+  RE : As if to prove it, many weapons
+       using Lost Technology have been
+       excavated here.
+
+[US#3696] (lore panel)
+  JP : ＊しかし現在は、国国協定により / この地での発掘は一切禁止となり / 発掘物の使用も規制されている
+  LIT: Today, however, by international accord, all excavation here is forbidden and use of finds restricted.
+  RE : Today, by international accord,
+       all excavation here is forbidden
+       and use of finds restricted.
+
+[US#3698] (lore panel)
+  JP : ＊それゆえに / 現存するライブリフレクターの年を / これ以上増やすことはできない
+  LIT: For that reason, the number of surviving Live Reflectors cannot be increased.
+  RE : For that reason, the number of
+       surviving Live Reflectors cannot
+       be increased.
+
+[US#3700] (lore panel)
+  JP : ＊使用信の向上と / 使用されている兵器の解析が / 急務とされている
+  LIT: Improving their reliability and analyzing the arms they employ is held an urgent task.
+  RE : Improving their reliability and
+       analyzing the arms they employ is
+       an urgent task.
+
+[US#3701] (lore panel)
+  JP : ＊その為か、同胞団においても / 実戦経験のないものが / 大多年を占めるようになっている
+  LIT: Perhaps for that, even in the brotherhood, those without real combat experience now form the majority.
+  RE : Perhaps for that, even in the
+       brotherhood, most now lack real
+       combat experience.
+
+[US#3704] (lore panel)
+  JP : ＊これはファルガイアの地面が / 熱を引くようになっているのが / 起因である
+  LIT: This stems from Filgaia's terrain being formed so as to draw in the tides.
+  RE : This stems from Filgaia's terrain
+       being formed so as to draw in the
+       tides.
+
+[US#3705] (lore panel)
+  JP : ＊街道は大陸に囲まれ / 外道とは海路によって繋がっている
+  LIT: The inland sea is ringed by the continent and joined to the outer sea by channels.
+  RE : The inland sea is ringed by the
+       continent and joined to the outer
+       sea by channels.
+
+[US#3707] (lore panel)
+  JP : ＊大道の一部は / ゲートブリッジによって / 進入禁止になっており
+  LIT: Part of the great sea is closed to entry by the Gate Bridge.
+  RE : Part of the great sea is closed
+       to entry by the Gate Bridge.
+
+[US#3709] (lore panel)
+  JP : ＊世界はひとつではなく / 平行に存在する単の『世界』も / また『ファルガイア』なのである
+  LIT: The world is not one: the other "worlds" existing in parallel are also "Filgaia."
+  RE : The world is not one: the other
+       worlds existing in parallel are
+       also |Filgaia|.
+
+[US#3710] (lore panel)
+  JP : ＊その為、現在ゴルゴダ刑場は / 刑場としては使用されず / 破壊されたと同方の状態となっている
+  LIT: Thus Golgotha Prison is no longer used as a prison, standing as good as destroyed.
+  RE : Thus Golgotha Prison is no longer
+       used as a prison, standing as
+       good as destroyed.
+
+[US#3712] (lore panel)
+  JP : ＊賛成派、反対派の間で / 話し合いが持たれているが / 結論が出ずに現在に至る
+  LIT: Talks continue between the for and against factions, with no conclusion reached to this day.
+  RE : Talks continue between the for
+       and against factions, with no
+       conclusion to this day.
+
+[US#3717] (lore panel)
+  JP : ＊これは、シルヴァラント王国が / 大地の恵みを糧として / 発展してきた営為から来ている
+  LIT: This stems from the kingdom of Sylvaland's history of flourishing on the land's bounty.
+  RE : This stems from the kingdom of
+       Sylvaland's history of flourishing
+       on the land's bounty.
+
+[US#3718] (lore panel)
+  JP : ＊母なる大地と呼ぶように / 大地を『女性』とし、国を支えるのは / 『女性』であるとしてきたためである
+  LIT: As they call it Mother Earth, they held the land to be "woman," and woman to be the nation's support.
+  RE : As they call it Mother Earth,
+       they held the land, and the
+       nation's support, to be woman.
+
+[US#3720] (lore panel)
+  JP : ＊ひとつは / シルヴァラント館を中心とした本領である / 緑豊かな領地で肥耕が盛んに行われている
+  LIT: One is the home domain around Sylvaland Castle: green lands where farming thrives.
+  RE : One is the home domain around
+       Sylvaland Castle: green lands
+       where farming thrives.
+
+[US#3721] (lore panel)
+  JP : ＊残りのふたつは本領から離れ / ライブリフレクターで行き来する
+  LIT: The other two lie apart from the home domain, reached by Live Reflector.
+  RE : The other two lie apart from the
+       home domain, reached by Live
+       Reflector.
+
+[US#3722] (lore panel)
+  JP : ＊うちひとつは遺跡渓谷 / 比較的大きな他で、渓谷の発掘が / 盛んである
+  LIT: One of them is the Ruins Valley, a rather large isle where mining of the valley thrives.
+  RE : One of them is the Ruins Valley,
+       a rather large isle where mining
+       thrives.
+
+[US#3725] (Queen)
+  JP : 「全ファルガイア中に決起表次をした / 『オデッサ』なる勢力の敵に対抗するために / 作為な手段ともいえましょう
+  LIT: To counter this "Odessa" that declared itself to all Filgaia, one might call it an apt measure.
+  RE : To counter this Odessa that
+       declared itself to all Filgaia,
+       one might call it apt.
+
+[US#3727] (Queen)
+  JP : 「強大な戦闘力を誇る、あなた方ＡＲＭＳが / 何の制限も無く、行き来していれば / 我が国の民に不安が募りましょう
+  LIT: If you of ARMS, boasting such might, came and went without restriction, our people's unease would grow.
+  RE : If you of ARMS, boasting such
+       might, came and went freely, our
+       people's unease would grow.
+
+[US#3728] (Queen)
+  JP : 「考えてもごらんなさい / 我々にとって、あなた方ＡＲＭＳが / オデッサといかほどに異なるか、を
+  LIT: Consider it: in our eyes, how greatly do you of ARMS differ from Odessa?
+  RE : Consider it: in our eyes, how
+       greatly do you of ARMS differ
+       from Odessa?
+
+[US#3729] (Queen)
+  JP : 「我が国に自由に行き来するあなた方が / いつオデッサと同じく牙を突き立てるのか / 不安でたまらないのです
+  LIT: We cannot help fearing when you, moving freely through our land, might bare fangs as Odessa did.
+  RE : We cannot help fearing when you,
+       moving freely through our land,
+       might bare fangs as Odessa did.
+
+[US#3730] (Queen)
+  JP : 「納得していただけますね
+  LIT: You do see our point, yes?
+  RE : You do see our point, yes?
+
+[US#3731] (Queen)
+  JP : 「その件、メリアブール王に / よろしくお伝えください
+  LIT: On that matter, convey our regards to the King of Meria Boule.
+  RE : On that matter, convey our
+       regards to the King of Meria
+       Boule.
+
+[US#3734] (Queen)
+  JP : 「ＡＲＭＳではなく / 姫様といっしょに遊びにいらっしゃいと / わらわの言葉を伝えてもらえぬだろうか
+  LIT: Would you convey our words: come visit us, not as ARMS, but together with the princess?
+  RE : Would you convey our words: come
+       visit us, not as ARMS, but with
+       the princess?
+
+[US#3735] (Queen)
+  JP : 「シルヴァラントの女王が / そう願っておりますゆえ〜
+  LIT: For so wishes the Queen of Sylvaland.
+  RE : For so wishes the Queen of
+       Sylvaland.
+
+[US#3737] (Queen)
+  JP : 「ただ今より我が国の同胞団を招集しても / とても、まにあいそうにありません
+  LIT: Even mustering our brotherhood this instant, we could never be in time.
+  RE : Even mustering our brotherhood
+       this instant, we could never be
+       in time.
+
+[US#3739] (Queen, thinking)
+  JP : （考えてみれば / 至歩、当部のことではありませんか）
+  LIT: (Come to think of it, is that not the obvious conclusion?)
+  RE : (Come to think of it, is that not
+       the obvious conclusion?)
+
+[US#3740] (Queen, thinking)
+  JP : （いつからなのでしょう / 人が手を取り合うことを / 忘れたのは〜）
+  LIT: (When was it, I wonder, that people forgot to join hands?)
+  RE : (When was it, I wonder, that
+       people forgot to join hands?)
+
+[US#3741] (sleeping guard)
+  JP : （〜[16]がぉ〜[16]がぉ〜[16]がぉ〜）
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+[US#3742] (Queen, thinking)
+  JP : （ですが〜）
+  LIT: (And yet...)
+  RE : (And yet...)
+
+[US#3743] (Queen)
+  JP : 「それよりも / あの者たちをどう思いました？
+  LIT: More to the point: what did you make of them?
+  RE : More to the point: what did you
+       make of them?
+
+[US#3744] (advisor)
+  JP : 「何者のしがらみにもとらわれず / 政いもありません
+  LIT: Bound by no one's fetters, and without guile.
+  RE : Bound by no one's fetters, and
+       without guile.
+
+[US#3745] (advisor)
+  JP : 「ファルガイアを守るために / まっすぐな理想を掲げています
+  LIT: They hold up a straightforward ideal: to protect Filgaia.
+  RE : They hold up a straightforward
+       ideal: to protect Filgaia.
+
+[US#3748] (knight captain)
+  JP : 「もったいないお言葉です / ご心配にはおよびません
+  LIT: Your words honor me beyond my due; there is no cause for concern.
+  RE : Your words honor me beyond my
+       due. There is no cause for
+       concern.
+
+[US#3749] (Queen)
+  JP : 「我がシルヴァラントを / 命懸けで守ってくれたあなたに / もしものことがあってはなりませぬゆえ
+  LIT: For nothing must befall you, who guarded our Sylvaland at the risk of your life.
+  RE : For nothing must befall you, who
+       guarded our Sylvaland at the risk
+       of your life.
+
+[US#3751] (Queen)
+  JP : 「たいせつに続けてもらえますね
+  LIT: You will carry it with care, yes?
+  RE : You will carry it with care, yes?
+
+[US#3752] (advisor)
+  JP : 「そうですわね、ヴァレリア公
+  LIT: Is that not so, Sir Valeria?
+  RE : Is that not so, Sir Valeria?
+
+[US#3753] (Queen)
+  JP : 「これくらいで / お開きといたしましょう
+  LIT: Let us bring this to a close here.
+  RE : Let us bring this to a close
+       here.
+
+[US#3754] (courtier)
+  JP : 「館辺に立ち寄ってごらんなさい / みなさんを待っている方々が / 集まっているはずですよ
+  LIT: Do stop by the castle grounds; those waiting for you should be gathered there.
+  RE : Do stop by the castle grounds.
+       Those waiting for you should be
+       gathered there.
+
+[US#3756] (official)
+  JP : 「これだから『お役所仕事は』と / 言われるのですね〜 / あなた方を見習わなくてはいけません
+  LIT: This is why they speak of "bureaucratic work," isn't it; we must learn from your example.
+  RE : This is why they speak of
+       bureaucratic work, isn't it. We
+       must learn from your example.
+
+[US#3757] (party)
+  JP : 「我らＡＲＭＳとしても / これほどうれしいことはありません
+  LIT: For us of ARMS as well, nothing could gladden us more.
+  RE : For us of ARMS as well, nothing
+       could gladden us more.
+
+[US#3758] (party)
+  JP : 「テロ集団『オデッサ』に立ち向かえるのは / 我々、ＡＲＭＳをおいて他ならないのです
+  LIT: None but we, ARMS, can stand against the terrorist band "Odessa."
+  RE : None but we, ARMS, can stand
+       against the terrorist band
+       |Odessa|.
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#3697] SKIPPED - no content box in decode
+[US#3699] SKIPPED - no content box in decode
+[US#3702] SKIPPED - no content box in decode
+[US#3703] SKIPPED - no content box in decode
+[US#3706] SKIPPED - no content box in decode
+[US#3708] SKIPPED - no content box in decode
+[US#3711] SKIPPED - no content box in decode
+[US#3713] SKIPPED - no content box in decode
+[US#3714] SKIPPED - no content box in decode
+[US#3715] SKIPPED - no content box in decode
+[US#3716] SKIPPED - no content box in decode
+[US#3719] SKIPPED - no content box in decode
+[US#3723] SKIPPED - no content box in decode
+[US#3724] SKIPPED - no content box in decode
+[US#3726] SKIPPED - no content box in decode
+[US#3732] SKIPPED - no content box in decode
+[US#3733] SKIPPED - no content box in decode
+[US#3736] SKIPPED - no content box in decode
+[US#3738] SKIPPED - no content box in decode
+[US#3746] SKIPPED - no content box in decode
+[US#3747] SKIPPED - no content box in decode
+[US#3750] SKIPPED - no content box in decode
+[US#3755] SKIPPED - no content box in decode
+[US#3759] SKIPPED - no content box in decode
