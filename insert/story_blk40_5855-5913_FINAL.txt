@@ -1,0 +1,360 @@
+# WA2 — Block 40, US#5855-5913 — FINAL (Emulator Zone train + Caina vs Kanon showdown — block 40 complete)
+# =========================================================================================
+# The cargo-train run through Guild Galad's tunnel that drops into Odessa's "Emulator Zone":
+# Noel's escort musing on his father, the Air Ballet tutorial, the train's cargo-car purge,
+# Caina of the Cocytus trapping the party ("red light / green light"), the Kanon backstory beat
+# (Sword Magess descendant destined to hunt the Demon inside Ashley, having cast off womanhood
+# and flesh to live as a human hidden weapon), Ashley's rebuttal ("why must the present be
+# bound to a destiny from the past?"), the truce to escape the collapsing zone, and the plan to
+# ram the train through the self-repairing dimensional seam at speed. JP-primary.
+
+[US#5855] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#5856] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#5857] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#5858] (tutorial panel)
+  JP : ＊エアリアルバレットは[0b]おを右すことで / 乗置の空気を発状に変合させて / 前方に発<b:8a38>することができます
+  LIT: For the Air Ballet, press [0b] to spin the surrounding air into a spiral and fire it forward.
+  RE : For the Air Ballet, press [0b] to
+       spin the surrounding air into a
+       spiral and fire it forward.
+
+[US#5859] (tutorial panel)
+  JP : ＊これを命中させることで / 離れた級置にあるブロックや谷<b:8a39>を / 移動させることができます
+  LIT: By landing a hit, you can move distant blocks and statues from afar.
+  RE : By landing a hit, you can move
+       distant blocks and statues from
+       afar.
+
+[US#5860] (escort)
+  JP : 「ウワサのＡＲＭＳ / この目にさせてもらいます
+  LIT: The famous ARMS; I'll see them with my own eyes.
+  RE : The famous ARMS; I'll see them
+       with my own eyes.
+
+[US#5861] (Caina)
+  JP : 「<b:8a43>み、政い〜 / <b:8a44>り<b:8a45>ることを知らないお前たちに / 未守へと進む資格など無いッ！
+  LIT: Worry, waver; you who never look back have no right to walk on into the future!
+  RE : Worry, waver; you who never look
+       back have no right to walk on
+       into the future!
+
+[US#5862] (Noel)
+  JP : 「わたくしの護衛と言っていましたが / これでは、目立ってしまって / <89c1>に危ないのではないかと思えます
+  LIT: He said it's for my protection, but with all this attention I think it puts me in more danger.
+  RE : He said it's for my protection,
+       but with all this attention it
+       puts me in more danger.
+
+[US#5863] (Noel, thinking)
+  JP : （あるいは / いざという時のために / 戦力として同行させている、か）
+  LIT: (Or perhaps he keeps them along as fighting strength, for when the time comes...)
+  RE : (Or perhaps he keeps them along
+       as fighting strength, for when
+       the time comes...)
+
+[US#5864] (Brad, thinking)
+  JP : （[05]お〜 / こんな時、お前なら、どう考える〜）
+  LIT: ({1}... at a time like this, what would you make of it?)
+  RE : ({1}... at a time like this, what
+       would you make of it?)
+
+[US#5865] (Noel)
+  JP : 「ノエルのお父さんは / なーんか、ヤな信じなんだけど
+  LIT: Noel's father; something about him gives me an uneasy feeling.
+  RE : Noel's father; something about
+       him gives me an uneasy feeling.
+
+[US#5866] (Noel)
+  JP : 「父上はあのような性格ですが / ギルドグラードのことを思っての / あの言動なのです
+  LIT: Father is that sort of man, but all he says and does is out of thought for Guild Galad.
+  RE : Father is that sort of man, but
+       all he says and does is out of
+       thought for Guild Galad.
+
+[US#5867] (Noel)
+  JP : 「父上もまた / <b:8a4f>やかな世界に戻ることを / <b:8a50>んでいるはずです
+  LIT: Father, too, must wish for a return to a gentle world.
+  RE : Father, too, must wish for a
+       return to a gentle world.
+
+[US#5868] (Noel)
+  JP : 「求める結果は同じはずなのに / どうして / 人は、それぞれ違う道を選ぶのだろう？
+  LIT: Though the end we seek should be the same, why do people each choose different paths?
+  RE : Though the end we seek should be
+       the same, why do people each
+       choose different paths?
+
+[US#5869] (Noel)
+  JP : 「やっぱり、わからないな〜
+  LIT: I just don't have the answer.
+  RE : I just don't have the answer.
+
+[US#5870] (conductor)
+  JP : 「もともとは / ギルドグラードで生<b:8a52>された<8a13><b:8a53><b:8a54>品を / 他<b:8a55>へ<b:8a56>出する<b:8a57>物<89ca><b:8a58>なんです
+  LIT: Originally this was a freight line for exporting Guild Galad's manufactured goods to other lands.
+  RE : Originally this was a freight
+       line for exporting Guild Galad's
+       goods to other lands.
+
+[US#5871] (conductor)
+  JP : 「トンネルに入る前と後で / まったく<b:8a59>観が異なるんですが〜 / おかしいな〜
+  LIT: The scenery before and after the tunnel is utterly different; that's strange...
+  RE : The scenery before and after the
+       tunnel is utterly different.
+       That's strange...
+
+[US#5872] (party)
+  JP : 「陸<b:8a3c>に確認してみましょう
+  LIT: Let's check with the conductor.
+  RE : Let's check with the conductor.
+
+[US#5875] (Noel)
+  JP : 「ここで / 待っていてくれ、ノエル
+  LIT: Wait here, Noel.
+  RE : Wait here, Noel.
+
+[US#5876] (escort)
+  JP : 「ウワサのＡＲＭＳ / この目にさせてもらいます
+  LIT: The famous ARMS; I'll see them with my own eyes.
+  RE : The famous ARMS; I'll see them
+       with my own eyes.
+
+[US#5877] (conductor)
+  JP : 「わかりました / 緊急発進させましょう
+  LIT: Understood; let's make an emergency launch.
+  RE : Understood; let's make an
+       emergency launch.
+
+[US#5878] (Caina)
+  JP : 「<b:8a5f><b:8a60>の運<b:8a61>には / 資金が必要ですからね / テロリストもまた部りなのでしょう
+  LIT: Running an organization takes funds; terrorists are no exception, I'd say.
+  RE : Running an organization takes
+       funds; terrorists are no
+       exception, I'd say.
+
+[US#5881] (conductor)
+  JP : 「後部は<b:8a57>物陸<b:8a5e>だけのはず / 人の命には代えられないはずです
+  LIT: The rear cars should be cargo only; no cargo is worth a human life.
+  RE : The rear cars should be cargo
+       only; no cargo is worth a human
+       life.
+
+[US#5882] (Caina)
+  JP : 「それとも〜 / わたくしの知らないことでも？
+  LIT: Or is there something I don't know about?
+  RE : Or is there something I don't
+       know about?
+
+[US#5883] (control code)
+  JP : [01][10]ど[02][10]<9803>[10]ゑ
+  LIT: (control/format codes only)
+  RE : [01][10]ど[02][10]<9803>[10]ゑ
+
+[US#5884] (conductor)
+  JP : 「〜後部、<b:8a57>物陸<b:8a5e>パージッ！
+  LIT: Rear cargo cars, purge!
+  RE : Rear cargo cars, purge!
+
+[US#5885] (Caina)
+  JP : 「このまま更元の<b:8a67>間の亡者となりて / <b:8a68>ち果てるがいいッ！
+  LIT: Stay as you are and become wraiths lost in the gap between dimensions, and rot away!
+  RE : Stay as you are and become
+       wraiths lost between dimensions,
+       and rot away!
+
+[US#5886] (Caina)
+  JP : 「私はカイーナ〜 / オデッサがコキュートスのひとり
+  LIT: I am Caina, one of Odessa's Cocytus.
+  RE : I am Caina, one of Odessa's
+       Cocytus.
+
+[US#5887] (Caina)
+  JP : 「ヴィンスフェルト方の / 理想にたてつくＡＲＭＳよ〜
+  LIT: You ARMS who defy Sir Vinsfeld's ideal...
+  RE : You ARMS who defy Sir Vinsfeld's
+       ideal...
+
+[US#5888] (Caina)
+  JP : 「ここで眠信<8903>だ / <89dc>陸と<b:8a6a>にエミュレーターゾーンに / とどまってもらおうか
+  LIT: It's a red light for you here; you'll stay put in the Emulator Zone along with the train.
+  RE : It's a red light for you here.
+       You'll stay put in the Emulator
+       Zone along with the train.
+
+[US#5889] (party)
+  JP : 「<b:8a6c>信<8903>にさせてもらうよ
+  LIT: We'll be giving ourselves a green light, thanks.
+  RE : We'll be giving ourselves a green
+       light, thanks.
+
+[US#5890] (Caina)
+  JP : 「<b:8a71>方ひとりが / その身に魔<b:8a72>を宿して生還しなければ / 我らの理想は、<b:8a74>ることはなかったッ！
+  LIT: Had you not returned alive with the Demon housed in your body, our ideal would never have taken shape!
+  RE : Had you not returned alive with
+       the Demon in your body, our ideal
+       would never have taken shape!
+
+[US#5891] (Kanon)
+  JP : 「やはり〜 / お前たちの仕<b:8a53>だったのか〜
+  LIT: So it was your doing after all.
+  RE : So it was your doing after all.
+
+[US#5892] (Caina, thinking)
+  JP : （ジェネレイターがある限り / もうしばらくエミュレーターゾーンは / <b:8a76>持できそうだが〜）
+  LIT: (As long as the generator holds, the Emulator Zone should last a while longer...)
+  RE : (As long as the generator holds,
+       the Emulator Zone should last a
+       while longer...)
+
+[US#5893] (Brad, thinking)
+  JP : （事は急いだ方がよさそうだな）
+  LIT: (Looks like we'd best hurry.)
+  RE : (Looks like we'd best hurry.)
+
+[US#5894] (Ashley)
+  JP : 「先に向かってみよう / このエミュレーターゾーンを破らない限り / 俺たちは戻れそうもないからな
+  LIT: Let's push ahead; unless we break this Emulator Zone, it doesn't look like we can get back.
+  RE : Let's push ahead. Unless we break
+       this Emulator Zone, it doesn't
+       look like we can get back.
+
+[US#5895] (party)
+  JP : 「とりあえず / <89dc>陸まで戻ってみましょう
+  LIT: For now, let's head back to the train.
+  RE : For now, let's head back to the
+       train.
+
+[US#5896] (Ashley)
+  JP : 「オデッサは / このファルガイアに<b:8a7a><8945>を呼び込んでいる / テロリストなんだぞッ！
+  LIT: Odessa are terrorists who are calling calamity down upon this Filgaia!
+  RE : Odessa are terrorists calling
+       calamity down upon this Filgaia!
+
+[US#5897] (Kanon)
+  JP : 「いや、<b:8a71>方の街的<b:8a7c><b:8a7d>に<b:8a7e>んでいる / 魔<b:8a72>を<b:8a7f>る理由があるというべきか
+  LIT: No; I should say I have reason to hunt the Demon that dwells deep within you.
+  RE : No; I should say I have reason to
+       hunt the Demon that dwells deep
+       within you.
+
+[US#5898] (Kanon)
+  JP : 「＜<b:8a6e>の<b:8a6f>女＞の<b:8a85><b:8a86>である / このあたしには / 魔<b:8a72>を駆<b:8a87>する宿命があるんだよッ！
+  LIT: As a descendant of the <Sword Magess>, I bear the destiny to hunt down the Demon!
+  RE : As a descendant of the <Sword
+       Magess>, I bear the destiny to
+       hunt down the Demon!
+
+[US#5899] (Kanon)
+  JP : 「魔<b:8a72>を<b:8a7f>り<b:8a88>くすために / あたしは今回まで生きてきたッ！
+  LIT: To hunt the Demon to extinction, I have lived until this very day!
+  RE : To hunt the Demon to extinction,
+       I have lived until this very day!
+
+[US#5900] (Kanon)
+  JP : 「オンナであることも / いや、生身をも<b:8a89>て<b:8a8a>って / 人間暗<b:8a8b>として生きてきたのだッ！
+  LIT: My womanhood; no, even my flesh, I cast away, to live as a human hidden weapon!
+  RE : My womanhood, no, even my flesh,
+       I cast away, to live as a human
+       hidden weapon!
+
+[US#5901] (Kanon)
+  JP : 「〜<b:8a71>方に<b:8a8c>みはない / だが、<b:8a71>方の命をもらう理由はあるのだ
+  LIT: I bear you no grudge; but I have reason to take your life.
+  RE : I bear you no grudge; but I have
+       reason to take your life.
+
+[US#5902] (Brad, thinking)
+  JP : （どうやら、この<8972><8973>空間 / 長くは持たないようだな〜）
+  LIT: (It seems this pseudo-space won't hold together much longer...)
+  RE : (It seems this pseudo-space won't
+       hold together much longer...)
+
+[US#5903] (Ashley)
+  JP : 「一時休戦だ / ゾーンの崩滅に<b:8a8d>みこまれると / <b:8a8e>遠に更元をさまよう亡者となるぞ
+  LIT: A temporary truce; get caught in the zone's collapse and you'll wander the dimensions as a wraith forever.
+  RE : A temporary truce. Get caught in
+       the zone's collapse and you'll
+       wander as a wraith forever.
+
+[US#5904] (Ashley)
+  JP : 「自<b:8a8f><b:8a90><b:8a91>を始めた更元の<b:8a62>ぎ目に / <89dc>陸を高<8a04>で突っ込ませれば / 抜け出せるはずだッ！
+  LIT: If we ram the train at full speed into the dimensional seam that's begun to self-repair, we should break out!
+  RE : If we ram the train at full speed
+       into the self-repairing
+       dimensional seam, we break out!
+
+[US#5905] (party)
+  JP : 「急げ、[05]ぉッ！
+  LIT: Hurry, {1}!
+  RE : Hurry, {1}!
+
+[US#5906] (Kanon)
+  JP : 「あたしは〜 / <b:8a71>方を<b:8a94>く伝説の<b:8a95>だからだッ！
+  LIT: Because I am the legendary sword that pierces you!
+  RE : Because I am the legendary sword
+       that pierces you!
+
+[US#5907] (Ashley)
+  JP : 「そんな、あいまいなモノのために / 俺たちは戦わなければいけないのか？
+  LIT: Must we fight over something so vague as that?
+  RE : Must we fight over something so
+       vague as that?
+
+[US#5908] (Ashley)
+  JP : 「どうして、現在（いま）を生きる俺たちが / 過<b:8a8a>（むかし）からの宿命などに / <b:8a96>られなきゃいけないんだッ！
+  LIT: Why must we, who live in the now, be bound by a destiny out of the past?!
+  RE : Why must we, who live in the now,
+       be bound by a destiny out of the
+       past?!
+
+[US#5909] (Kanon)
+  JP : 「<b:8a71>方にはわかるまい〜 / あやふやな自分を / かかえこむという不安を〜
+  LIT: You wouldn't understand; the unease of carrying an uncertain self within you.
+  RE : You wouldn't understand; the
+       unease of carrying an uncertain
+       self within you.
+
+[US#5910] (Ashley)
+  JP : 「よし、少々<b:8a99>っぽいが / 何とかしてみようッ！
+  LIT: All right; it's a bit reckless, but let's give it a try!
+  RE : All right; it's a bit reckless,
+       but let's give it a try!
+
+[US#5911] (Lilka)
+  JP :
+  LIT: (EN only) I haven't even caught up to my sister yet!
+  RE : I haven't even caught up to my
+       sister yet! [?]
+
+[US#5912] (Lilka)
+  JP :
+  LIT: (EN only) Won't it work anymore? Hey, Pooka, answer me.
+  RE : Won't it work anymore? Hey,
+       Pooka, answer me. [?]
+
+[US#5913] (Ashley)
+  JP :
+  LIT: (EN only) ...the zone that's holding the train. This might be a bit rough, but let's try something!
+  RE : ...the zone holding the train.
+       This might be rough, but let's
+       try something! [?]
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#5873] SKIPPED - no content box in decode
+[US#5874] SKIPPED - no content box in decode
+[US#5879] SKIPPED - no content box in decode
+[US#5880] SKIPPED - no content box in decode
