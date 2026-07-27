@@ -1,0 +1,332 @@
+# WA2 — Block 61, US#6816-6881 — FINAL (Bulkogidon / Lizardian alien comedy scene — block 61 complete)
+# =========================================================================================
+# The tokusatsu-parody optional scene: the crashed Lizardian aliens (who end sentences with a
+# "...or something" / 〜トカ tic) and their tokusatsu-hero alter ego "Bulkogidon," their sob
+# story (drifted here, crash-landed, no Planetary Federation, no rescue squad, must fend for
+# themselves), the "banish you from Planet F" gag, their Space Engine "Steamroller," the
+# volunteers who'll see them off, and the grand "off to the sea of stars!" launch. Ashley's
+# straight-man asides ("Science, huh?", "so what do we do?", "don't get sentimental over
+# something so weird, we're moving on"). Bulkogidon is grandiose/heroic; Lizardian is the
+# 〜トカ mumbler. Many [17]-only boxes rendered from EN with [?]. JP-primary where legible.
+
+[US#6816] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#6817] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#6818] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#6820] (party)
+  JP : 「危険なんだから / そのくらいにしておいてくれよ
+  LIT: It's dangerous, so leave it at that, would you.
+  RE : It's dangerous, so leave it at
+       that, would you.
+
+[US#6821] (sign)
+  JP : ＊<b:8a46>し<b:8a47>り、新聞<b:8a48><b:8a49>お断りッ！ / 〜と、書かれている
+  LIT: "No high-pressure sales, no newspaper solicitations!" it reads.
+  RE : |No high-pressure sales, no
+       newspaper solicitations!| it
+       reads.
+
+[US#6822] (sign)
+  JP :
+  LIT: (EN only) It's written: High-Pressure Sales and Newspaper Solicitations Prohibited!
+  RE : It reads: High-Pressure Sales and
+       Newspaper Solicitations
+       Prohibited! [?]
+
+[US#6824] (Bulkogidon)
+  JP : 「輝るッ！ 回るッ！ <b:8a5b>が出るッ！ / 抜けばタマ<b:8a5c>る<b:8a5d>の輝<b:8a5e><b:8a5f>ッ！
+  LIT: It shines! It spins! It roars! Draw it and the Red Beam Gun scatters its bullets!
+  RE : It shines! It spins! It roars!
+       Draw it and the Red Beam Gun
+       scatters its bullets!
+
+[US#6825] (Lizardian)
+  JP : 「もしかすると / すごいショッキングなシーンが / <b:8a60>り広げられるトカ
+  LIT: A truly shocking scene might unfold here, ...or something.
+  RE : A truly shocking scene might
+       unfold here, or something.
+
+[US#6826] (Lizardian)
+  JP : [17]
+  LIT: (EN only) A shocking scene might play itself out right here before us.
+  RE : A shocking scene might play out
+       right here before us. [?]
+
+[US#6829] (Ashley)
+  JP : [17]
+  LIT: (EN only) But why are you here? Weren't you on the Heimdal Gazzo?
+  RE : But why are you here? Weren't you
+       on the Heimdal Gazzo? [?]
+
+[US#6834] (Bulkogidon)
+  JP :
+  LIT: (EN only) I have a dream to fulfill, even if it means working with terrorists. I want the endless sea of stars.
+  RE : I have a dream to fulfill, even
+       working with terrorists. I want
+       the endless sea of stars. [?]
+
+[US#6836] (Ashley)
+  JP : [17]
+  LIT: (EN only) But really, why did such |unique| creatures as you two decide to team up with Odessa?
+  RE : But really, why did creatures as
+       |unique| as you two team up with
+       Odessa? [?]
+
+[US#6838] (Bulkogidon)
+  JP : 「科学かッ！
+  LIT: Science, is it?!
+  RE : Science, is it?!
+
+[US#6839] (Ashley)
+  JP :
+  LIT: (EN only) Science, huh?
+  RE : Science, huh? [?]
+
+[US#6841] (Bulkogidon)
+  JP : 「その<b:8a6e>さえかなえられれば / 人<b:8a80>無<889b>にして無渉<89e2><b:8a81> / あなた方の<b:8a82><b:8a83>は<b:8a84>重さるるであろう〜
+  LIT: If only that wish is granted, all beings hale and peace assured, your peace would be safeguarded too.
+  RE : If only that wish comes true, all
+       beings hale and peace assured,
+       your peace safeguarded too.
+
+[US#6842] (Lizardian)
+  JP : 「あんまり<b:8a82><b:8a83>すぎちゃって / 人生に<b:8a85><b:8a86>をきたすおそれも / あるトカ、ないトカ〜
+  LIT: Too much peace might just throw your life out of joint, ...or something, or not.
+  RE : Too much peace might just throw
+       your life out of joint, or
+       something, or not.
+
+[US#6843] (Bulkogidon)
+  JP : 「そのうち、食事の<b:8a87>念が消失し / 穴っぽこの中で<88d2><b:8a89>を断っているうちに / <b:8a8a>を<b:8a8b>える話が小さくなっていく〜
+  LIT: In time the very notion of food fades; shut in a hole, cut off from worldly matters, the sutra's voice grows faint.
+  RE : In time the notion of food fades;
+       shut in a hole, cut off, the
+       sutra's chant grows faint.
+
+[US#6844] (Bulkogidon)
+  JP : 「わーおッ！ / 考えただけで<b:8a8c>りを開きそうッ！
+  LIT: Wow! Just imagining it, I could reach enlightenment!
+  RE : Wow! Just imagining it, I could
+       reach enlightenment!
+
+[US#6845] (Ashley)
+  JP : 「で、俺たちは / 何を、どうしたらいいんだ？
+  LIT: So, what exactly are we supposed to do?
+  RE : So, what exactly are we supposed
+       to do?
+
+[US#6846] (Ashley)
+  JP :
+  LIT: (EN only) So what are we supposed to do?
+  RE : So what are we supposed to do?
+       [?]
+
+[US#6848] (Bulkogidon)
+  JP : 「なのに<b:8a8f>街してほしいとは / いったいどういうコトだ
+  LIT: And yet you want to be shown around; whatever do you mean by that?
+  RE : And yet you want to be shown
+       around; whatever do you mean by
+       that?
+
+[US#6849] (Lizardian)
+  JP : 「いよいよもってコンピュータの反<8945>ッ！ / こいつぁ、一<8872>品のハードＳＦだトカ / 〜おのれ、あじなマネを
+  LIT: At last, the computers rebel! First-class hard sci-fi, this, ...or something; curse you, playing it clever.
+  RE : At last, the computers rebel!
+       First-class hard sci-fi, or
+       something. Curse you, so clever.
+
+[US#6850] (Lizardian)
+  JP : [17]
+  LIT: (EN only) Finally, the computers rebelled. This is first class Hard SF. Think you're so smart.
+  RE : At last the computers rebelled.
+       First-class hard sci-fi. Think
+       you're so smart. [?]
+
+[US#6852] (Bulkogidon)
+  JP : 「まあいいか / とにかく<b:8a8f>街してやるから / 故郷でも、どこでも帰るんだぞ
+  LIT: Well, no matter; I'll show you around, so off you go home, or wherever.
+  RE : Well, no matter; I'll show you
+       around, so off you go home, or
+       wherever.
+
+[US#6853] (Ashley)
+  JP : 「このド<8915>力な<b:8a9e><b:8a9f>ボディに<b:8a78>められた / まったくもって、いい<89c7>身分〜 / そいつはいったい…
+  LIT: Housed in that absurdly powerful, stout body, and quite the cushy rank too; just what is that...
+  RE : Housed in that absurdly powerful,
+       stout body, and quite the cushy
+       rank too; what is that...
+
+[US#6854] (Lizardian)
+  JP : 「我置らは / ブラリ、きままに飛来した / リザード星人なんだトカ
+  LIT: We are Lizardians, who came drifting in on a whim, ...or something.
+  RE : We are Lizardians, who came
+       drifting in on a whim, or
+       something.
+
+[US#6855] (Lizardian)
+  JP : 「墜落したともいう
+  LIT: Or you could say we crash-landed.
+  RE : Or you could say we
+       crash-landed.
+
+[US#6856] (Ashley)
+  JP : 「どおりで / 世界観がまるでデタラメだと思ったッ！
+  LIT: No wonder; I thought your whole worldview was pure nonsense!
+  RE : No wonder; I thought your whole
+       worldview was pure nonsense!
+
+[US#6857] (Lizardian)
+  JP : 「<b:8aa4>星連<b:8aa5>に所<b:8aa6>していない / 岸<b:8aa7>くんだりまで来てくれる / 救急戦隊などいないんだトカ〜
+  LIT: We belong to no Planetary Federation, and no rescue squad comes all the way out to these boondocks, ...or something.
+  RE : We're in no Planetary Federation,
+       and no rescue squad comes to
+       these boondocks, or something.
+
+[US#6858] (Lizardian)
+  JP : 「だったら / 自分たちのチカラで / 何とかしなけりゃいけないんだトカ
+  LIT: So then, we have to manage somehow by our own power, ...or something.
+  RE : So then, we have to manage
+       somehow by our own power, or
+       something.
+
+[US#6859] (Lizardian)
+  JP : 「これって、<889a><889b><b:8aa8>想？ / ちがうよね？
+  LIT: Is this playing the victim? No, that's not it, right?
+  RE : Is this playing the victim? No,
+       that's not it, right?
+
+[US#6860] (Bulkogidon)
+  JP : 「さっそく、<b:8aa4>星Ｆから追放〜 / じゃなくて / 着り出してやろう
+  LIT: Right then, banished from Planet F; no, rather, let's see you off.
+  RE : Right then, banished from Planet
+       F; no, rather, let's see you off.
+
+[US#6861] (Bulkogidon)
+  JP :
+  LIT: (EN only) So, we'll banish you from Planet F. No. No. Really. We'll send you off.
+  RE : So, banished from Planet F. No.
+       No. Really. We'll send you off.
+       [?]
+
+[US#6863] (party)
+  JP : [17]
+  LIT: (EN only) All we have to do now is get in.
+  RE : All we have to do now is get in.
+       [?]
+
+[US#6866] (Bulkogidon)
+  JP : 「ブールーコーギードーンッ！
+  LIT: BUL-KO-GI-DOOON!
+  RE : BUL-KO-GI-DOOON!
+
+[US#6867] (Bulkogidon)
+  JP : [17]
+  LIT: (EN only) Bulkogidon!
+  RE : Bulkogidon! [?]
+
+[US#6870] (Bulkogidon)
+  JP : 「〜ブルコギドンッ！
+  LIT: ...Bulkogidon!
+  RE : ...Bulkogidon!
+
+[US#6871] (Ashley)
+  JP : 「<8a22>なところに / 信情移入するんじゃない / 先を急ぐぞ
+  LIT: Don't go getting sentimental over something so weird; we're pressing on.
+  RE : Don't go getting sentimental over
+       something so weird; we're
+       pressing on.
+
+[US#6872] (Lizardian)
+  JP : 「やっぱ間近で見ると / ホレボレしちゃうトカ / しちゃわないトカ〜
+  LIT: Up close it really is breathtaking, ...or something, or maybe not.
+  RE : Up close it really is
+       breathtaking, or something, or
+       maybe not.
+
+[US#6873] (Bulkogidon)
+  JP : 「さすがは我置の設特した / 宇宙エンジン『ゴリ<b:8a46>し』なのだ / この面状を飛ばしちゃうなんて〜
+  LIT: Just what you'd expect of my own Space Engine "Steamroller"; to think it flies this whole thing!
+  RE : Just what you'd expect of my own
+       Space Engine |Steamroller|; to
+       think it flies this whole thing!
+
+[US#6874] (Lizardian)
+  JP : 「アンタ、どうぶつ金<b:8ac1>にでも / 手、出しちゃったの？
+  LIT: You didn't go dabbling in some animal-trade business, did you?
+  RE : You didn't go dabbling in some
+       animal-trade business, did you?
+
+[US#6875] (Bulkogidon)
+  JP : 「言うならば、こやつらは義<b:8ac2><b:8ac3> / 理想の科学者をお<b:8ac4>い<b:8ac5>し上げる / うれしはずかし運命<b:8a98>同体
+  LIT: You might call them blood brothers; a happy-yet-bashful bond of destiny that reveres the ideal scientist.
+  RE : You might call them blood
+       brothers; a happy, bashful bond
+       of destiny revering the scientist.
+
+[US#6876] (Lizardian)
+  JP : 「我置らを / 故郷をへと右立たせてくれるため / ボランティアとして<b:8ac7>力してもらったトカ
+  LIT: They volunteered to help set us off on our way home, ...or something.
+  RE : They volunteered to help set us
+       off on our way home, or
+       something.
+
+[US#6877] (Bulkogidon)
+  JP : [17]
+  LIT: (EN only) We had them volunteer to help with our departure to the homeland.
+  RE : We had them volunteer to help us
+       depart for the homeland. [?]
+
+[US#6879] (Ashley)
+  JP : 「<b:8ab9>手に俺たちの星を / <b:8acc>してしまうのは、どうかと思うけど
+  LIT: Leaving our planet in their hands so casually; I have to wonder about that.
+  RE : Leaving our planet in their hands
+       so casually; I have to wonder
+       about that.
+
+[US#6880] (Bulkogidon)
+  JP : 「単れろ切れろは離陸の時に言う言葉ッ！ / 我置を<b:8acd>愛するモノどもに見着られ / いざ行かんッ！ 星の道へッ！
+  LIT: "Cast off, cut loose" are words for takeoff! Seen off by those who adore me, now away! To the sea of stars!
+  RE : |Cast off, cut loose| are words
+       for takeoff! Seen off by those
+       who adore me, away! To the stars!
+
+[US#6881] (Bulkogidon)
+  JP :
+  LIT: (EN only) Separate. Cut. Words for takeoff. To be sent off by those I adore... Off we go to the sea of stars.
+  RE : Cast off, cut loose: words for
+       takeoff. Seen off by those I
+       adore... off to the stars. [?]
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#6819] SKIPPED - no content box in decode
+[US#6823] SKIPPED - no content box in decode
+[US#6827] SKIPPED - no content box in decode
+[US#6828] SKIPPED - no content box in decode
+[US#6830] SKIPPED - no content box in decode
+[US#6831] SKIPPED - no content box in decode
+[US#6832] SKIPPED - no content box in decode
+[US#6833] SKIPPED - no content box in decode
+[US#6835] SKIPPED - no content box in decode
+[US#6837] SKIPPED - no content box in decode
+[US#6840] SKIPPED - no content box in decode
+[US#6847] SKIPPED - no content box in decode
+[US#6851] SKIPPED - no content box in decode
+[US#6862] SKIPPED - no content box in decode
+[US#6864] SKIPPED - no content box in decode
+[US#6865] SKIPPED - no content box in decode
+[US#6868] SKIPPED - no content box in decode
+[US#6869] SKIPPED - no content box in decode
+[US#6878] SKIPPED - no content box in decode
