@@ -1,0 +1,717 @@
+# WA2 — Block 16, US#3854-3960 — FINAL (Baskar Village: the |Key| sacrifice arc, part 1)
+# =========================================================================================
+# Baskar Village story: the villagers' faith in the |Key| (『鍵』; EN localization renders it
+# |Pillar| — kept literal as |Key| per blk7 precedent, it's the sacrificial-medium concept and
+# Tim's role), Sabrina's legacy, the Sacrificial Altar (生け贄の祭壇) in the Urartu mountains,
+# the chief's resolve, and the anti-hero theme (the world shouldn't be saved by one alone).
+# Speakers: Baskar villagers, chief (elder じゃ register), Tim's guardians, Marina-like village
+# woman. JP-primary; EN aligns fairly well here (key story beat), used as cross-check.
+# Residual-kanji boxes translated from readable JP + EN confirmation. SKIPPED slots at end.
+
+[US#3854] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#3856] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#3857] (party)
+  JP : 「もうしばらく国の中をまわって / この国にいた頃の / 渡録の手がかりを探してみよう
+  LIT: Let's go around the village a while longer and look for clues to the records from when he lived here.
+  RE : Let's look around the village a
+       while longer for clues to his
+       time here.
+
+[US#3859] (villager)
+  JP : 「私にも / 『鍵』の乗があれば / 置にファルガイアを発えていけたのにな〜
+  LIT: If I too had the gift of the "Key," I could have helped uphold Filgaia.
+  RE : If I too had the gift of the
+       |Key|, I could have helped uphold
+       Filgaia.
+
+[US#3862] (villager)
+  JP : 「バスカーは『鍵』を発え / 『鍵』に発えられる世界に生きる民だからな
+  LIT: The Baskar are a people who uphold the "Key," living in a world upheld by the "Key."
+  RE : The Baskar are a people who
+       uphold the |Key|, in a world the
+       |Key| upholds.
+
+[US#3863] (villager)
+  JP : 「だが、それが『鍵』の決めたことならば / 私は運命を置にしようと思う / それもまた、バスカーの生き方〜
+  LIT: But if that is what the "Key" has decided, I will accept my fate; that too is the Baskar way.
+  RE : But if that is what the |Key| has
+       decided, I accept my fate. That
+       too is the Baskar way.
+
+[US#3865] (villager)
+  JP : 「その[0a]がが / 何かを信じ取り / あなた方に伝えたいことがあると〜
+  LIT: {3} has sensed something, and has something he wants to tell you all.
+  RE : {3} has sensed something, and has
+       something he wants to tell you
+       all.
+
+[US#3867] (chief)
+  JP : 「我らはガーディアンと置に在り〜 / すなわち / 星の命と置に在るのだ
+  LIT: We dwell alongside the Guardians; that is, alongside the life of the planet itself.
+  RE : We dwell alongside the Guardians.
+       That is, alongside the life of
+       the planet itself.
+
+[US#3872] (village woman)
+  JP : 「やっと気づいたの / 世界はひとりで守ろうとするから / つらくて、たいへんなのよ
+  LIT: I finally realized: trying to protect the world alone is what makes it so painful and hard.
+  RE : I finally realized. Trying to
+       protect the world alone is what
+       makes it so hard.
+
+[US#3873] (village woman)
+  JP : 「みんなで少しずつファルガイアを守れば / あなたひとりに / すべてを押しつけることなんて無かったのよ
+  LIT: If everyone protected Filgaia a little at a time, we'd never have had to push it all onto you alone.
+  RE : If everyone guarded Filgaia a
+       little at a time, we'd never have
+       pushed it all on you.
+
+[US#3874] (village woman)
+  JP : 「いっしょに戦い / そして、生きていくという / 現実から〜
+  LIT: From the reality that we fight together, and live on together...
+  RE : From the reality that we fight
+       together, and live on together...
+
+[US#3879] (villager)
+  JP : 「星を輝かせる / 大いなる生命のエネルギーが / もしも、悪用されたなら〜
+  LIT: If the great life energy that makes the planet shine were ever turned to ill use...
+  RE : If the great life energy that
+       makes the planet shine were
+       turned to ill use...
+
+[US#3882] (villager)
+  JP : 「あなたの命を得ることで / ガーディアンは力を取り戻して / きっと世界を救ってくださるわ
+  LIT: By receiving your life, the Guardians will regain their power and surely save the world.
+  RE : By receiving your life, the
+       Guardians will regain their power
+       and surely save the world.
+
+[US#3884] (villager)
+  JP : 「あなたには / 谷と合したガーディアンの意志と置に / 生け左の祭壇に向かってもらわなくては〜
+  LIT: You must go to the Sacrificial Altar, together with the Guardians' will made stone.
+  RE : You must go to the Sacrificial
+       Altar, with the Guardians' will
+       made stone.
+
+[US#3886] (villager)
+  JP : 「私たちがすがるのは / あなたしかいないのよ / わかってちょうだい
+  LIT: You are the only one we can cling to; please understand.
+  RE : You are the only one we can cling
+       to. Please understand.
+
+[US#3887] (villager)
+  JP : 「そして〜 / 『鍵』として / 生け左の祭壇に立ってちょうだい〜
+  LIT: And so, as the "Key," please stand at the Sacrificial Altar.
+  RE : And so, as the |Key|, please
+       stand at the Sacrificial Altar.
+
+[US#3889] (villager)
+  JP : 「だから、どんなにそしりをうけようと / 信念はできているわ
+  LIT: So however we may be reviled, our resolve is set.
+  RE : So however we may be reviled, our
+       resolve is set.
+
+[US#3890] (village woman)
+  JP : 「剣の家にしておくの / もったいないわ
+  LIT: Keeping it in a swordsman's house; what a waste.
+  RE : Keeping it in a swordsman's
+       house. What a waste.
+
+[US#3891] (village woman)
+  JP : 「やっぱり、あなた / サブリナの血を招いているのね〜
+  LIT: You really do carry Sabrina's blood after all, don't you?
+  RE : You really do carry Sabrina's
+       blood after all, don't you?
+
+[US#3892] (villager)
+  JP : 「ファルガイアの未来を / 発えるために / 無くてはならない命なんです
+  LIT: It is a life we cannot do without, for the sake of upholding Filgaia's future.
+  RE : It is a life we cannot do
+       without, for the sake of
+       Filgaia's future.
+
+[US#3893] (villager)
+  JP : 「試練の道中 / よろしくお願いします
+  LIT: Please look after him on the road of trials.
+  RE : Please look after him on the road
+       of trials.
+
+[US#3895] (chief)
+  JP : 「ならば、バスカーの民は / お前を発える『鍵』となろう / そうすれば、いっしょに戦えるじゃろう
+  LIT: Then the Baskar people shall become the "Key" that upholds you; that way we can fight together.
+  RE : Then the Baskar shall become the
+       |Key| that upholds you. That way
+       we fight together.
+
+[US#3900] (chief)
+  JP : 「『鍵』の立つべきは、生け左の祭壇〜
+  LIT: Where the "Key" must stand is the Sacrificial Altar.
+  RE : Where the |Key| must stand is the
+       Sacrificial Altar.
+
+[US#3901] (chief)
+  JP : 「遠く、ウラルトゥの谷地にあるという / 生け左の祭壇にて / 『鍵』が世界を発える時が来たようじゃ
+  LIT: At the Sacrificial Altar far in the Urartu mountains, it seems the time has come for the "Key" to uphold the world.
+  RE : At the Sacrificial Altar far in
+       the Urartu mountains, the |Key|'s
+       time has come.
+
+[US#3902] (chief)
+  JP : 「では、かつてはガーディアン / またはガーディアンの一部であったものを / 何と呼ぶか知っておるかの？
+  LIT: Then do you know what we call that which was once a Guardian, or a part of one?
+  RE : Then do you know what we call
+       that which was once a Guardian,
+       or a part of one?
+
+[US#3907] (chief)
+  JP : 「ガーディアンの意志が / 谷となりしミーディアムは / きっと未来へ導いてくれましょう
+  LIT: The Mediums, the Guardians' will made stone, will surely guide us to the future.
+  RE : The Mediums, the Guardians' will
+       made stone, will surely guide us
+       to the future.
+
+[US#3913] (chief)
+  JP : 「じゃが、お前たちが / すべてをあきらめてないように / わしもまだ、あきらめてはおらぬ
+  LIT: But just as you all have not given up on everything, neither have I given up yet.
+  RE : But just as you all have not
+       given up, neither have I given up
+       yet.
+
+[US#3916] (chief)
+  JP : 「チャンスは一度きり〜 / この一戦が / ファルガイアの未来を決めるのじゃ
+  LIT: There is but one chance; this single battle decides Filgaia's future.
+  RE : There is but one chance. This
+       single battle decides Filgaia's
+       future.
+
+[US#3922] (chief)
+  JP : 「彼の空にて / お前の戦うべき運命が待っておる〜
+  LIT: In yonder sky waits the fate you must fight.
+  RE : In yonder sky waits the fate you
+       must fight.
+
+[US#3932] (villager)
+  JP : 「私を許すほどに / お前は強い心を持っているのか？
+  LIT: Do you have a heart strong enough to forgive me?
+  RE : Do you have a heart strong enough
+       to forgive me?
+
+[US#3943] (chief)
+  JP : 「正義を守る戦いによって / ファルガイアが傷ついているという事実を / 忘れないでほしい〜
+  LIT: Do not forget the fact that even a battle to defend justice wounds Filgaia.
+  RE : Do not forget: even a battle to
+       defend justice wounds Filgaia.
+
+[US#3945] (chief)
+  JP : 「部る後〜 / お前は自分の命について / もう一度考えるがいい
+  LIT: Afterward, you would do well to think once more on your own life.
+  RE : Afterward, you would do well to
+       think once more on your own life.
+
+[US#3948] (villager)
+  JP : 「そのために / 人としての道を外れることは / すでに信念の上である
+  LIT: To that end, straying from the human path is a resolve we have already made.
+  RE : To that end, straying from the
+       human path is a resolve we have
+       already made.
+
+[US#3950] (villager)
+  JP : 「もう、後戻りはできぬ〜 / あきらめるのだ
+  LIT: There is no turning back now; give it up.
+  RE : There is no turning back now.
+       Give it up.
+
+[US#3955] (chief)
+  JP : 「だが、たくさんのマナが集まれば / ひとつの大きな星となる〜
+  LIT: But when much Mana gathers, it becomes one great star.
+  RE : But when much Mana gathers, it
+       becomes one great star.
+
+[US#3956] (chief)
+  JP : 「それは、星を救いたいという / 我らの想いとも同じではなかろうか？
+  LIT: Is that not the same as our own wish to save the planet?
+  RE : Is that not the same as our own
+       wish to save the planet?
+
+[US#3855] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#3858] (villager)
+  JP : 「その方が、一本の『鍵』に / かかる右<8847>が少なくなるからな
+  LIT: That way, the burden falling on a single "Key" is lessened.
+  RE : That way, the burden falling on a
+       single |Key| is lessened.
+
+[US#3860] (villager)
+  JP : 「私では[05]がの乗に遠く<b:8a3b>ばぬが / 置に世界を発えることができたなら〜
+  LIT: My gift falls far short of {3}'s, but if only I could help uphold the world alongside him...
+  RE : My gift falls far short of {3}'s,
+       but if only I could help uphold
+       the world with him...
+
+[US#3861] (villager)
+  JP : 「[05]がの<8a12>い<b:8a3c>から / 少しでも重圧を / 取り<b:8a3d>いてやれるのにな
+  LIT: I could take even a little of the weight from {3}'s small shoulders.
+  RE : I could take even a little of the
+       weight from {3}'s small
+       shoulders.
+
+[US#3864] (chief)
+  JP : 「[0a]がに<8865>搭誓うがいい / 『鍵』たる身のお前ならば / 何かがつかめるかもしれない〜
+  LIT: Ask {3} yourself; being a "Key" yourself, you may grasp something of it.
+  RE : Ask {3} yourself. Being a |Key|
+       yourself, you may grasp something
+       of it.
+
+[US#3866] (chief)
+  JP : 「この星を<b:8a46>む未知なる脅威を / お前はまだ / 信じ取っていないのか？
+  LIT: Have you still not sensed the unknown threat gnawing at this planet?
+  RE : Have you still not sensed the
+       unknown threat gnawing at this
+       planet?
+
+[US#3868] (chief)
+  JP : 「ならばこそ、[05]がよ / 夢見の告げし、その街<b:8a48>〜 / 無視できぬこと理解できるだろう
+  LIT: All the more then, {3}: you must see the dream's telling cannot be ignored.
+  RE : All the more then, {3}. You must
+       see the dream's telling cannot be
+       ignored.
+
+[US#3869] (chief)
+  JP : 「だが〜 / 何かが確実に / ファルガイアに起ころうとしているのだ
+  LIT: But something is surely about to happen to Filgaia.
+  RE : But something is surely about to
+       happen to Filgaia.
+
+[US#3870] (chief)
+  JP : 「我らバスカーは / ファルガイアの未来を<b:8a4c>い / あえて心を<b:8a4d>とせねばならないのだ
+  LIT: We Baskar, for Filgaia's future, must deliberately turn our hearts to stone.
+  RE : We Baskar, for Filgaia's future,
+       must deliberately turn our hearts
+       to stone.
+
+[US#3871] (village woman)
+  JP : 「そんな、あなたひとりに / ファルガイアのすべてを / 押しつけていた自分が<b:8a51>ずかしいわ
+  LIT: I'm ashamed of myself for pushing all of Filgaia onto you alone.
+  RE : I'm ashamed of myself for pushing
+       all of Filgaia onto you alone.
+
+[US#3875] (village woman)
+  JP : 「だから、『鍵』に / すべてを<b:8a55>そうとしたの
+  LIT: That's why we tried to entrust everything to the "Key."
+  RE : That's why we tried to entrust
+       everything to the |Key|.
+
+[US#3876] (village woman)
+  JP : 「でもね、そうすることで / 人間として大切な心が死んでいったわ / その<b:8a56>みが、今はとてもつらい〜
+  LIT: But in doing so, the heart that matters most in a person died away; that pain is very hard now.
+  RE : But in doing so, the heart that
+       matters most in us died away.
+       That pain is hard now.
+
+[US#3877] (villager)
+  JP : 「そこでは / ガーディアンが<b:8a59>りし幻意<b:8a5a>体『ガイア』と / そして〜
+  LIT: There, the avatar "Gaia" that the Guardians left behind, and...
+  RE : There, the avatar |Gaia| that the
+       Guardians left behind, and...
+
+[US#3878] (villager)
+  JP : 「人の心を<b:8a5b>る / ガーディアンロードたちが / 『鍵』の<b:8a5c>着を待っていると〜
+  LIT: ...the Guardian Lords who watch over human hearts await the "Key"'s arrival.
+  RE : ...the Guardian Lords who watch
+       over human hearts await the
+       |Key|'s arrival.
+
+[US#3880] (villager)
+  JP : 「それは、大きな脅威であると同時に / 星の命が<b:8a5f>しく傷つけられてしまうことに / 他ならないのです
+  LIT: That is at once a great threat and nothing less than a grievous wound to the planet's life.
+  RE : That is at once a great threat
+       and a grievous wound to the
+       planet's life.
+
+[US#3881] (villager)
+  JP : 「わずかに残る山の<b:8a62>しさ〜 / 私たちはファルガイアに残る『マナ』を / 大切にしなければいけません
+  LIT: The little beauty the mountains keep: we must treasure the Mana left in Filgaia.
+  RE : The little beauty the mountains
+       keep. We must treasure the Mana
+       left in Filgaia.
+
+[US#3883] (villager)
+  JP : 「ガーディアンの力が<b:8a65>えるということは / ファルガイアの命運が<b:8a66>きると / 言い<8864>えることができるのです
+  LIT: To say the Guardians' power wanes is to say Filgaia's fate runs out.
+  RE : To say the Guardians' power wanes
+       is to say Filgaia's fate runs
+       out.
+
+[US#3885] (villager)
+  JP : 「ですが、私は〜 / 『空が食われる』という / 未だ目に<b:8a67>らない脅威が気になります
+  LIT: And yet the unseen threat, "the sky being devoured," troubles me more.
+  RE : And yet the unseen threat, the
+       sky being devoured, troubles me
+       more.
+
+[US#3888] (villager)
+  JP : 「でも、私たちバスカーは / 他の誰よりも / ファルガイアの未来を<b:8a68>じているわ
+  LIT: But we Baskar believe in Filgaia's future more than anyone.
+  RE : But we Baskar believe in
+       Filgaia's future more than
+       anyone.
+
+[US#3894] (chief)
+  JP : 「ファルガイアを発えるべき / 運命を<89a3>右いし者である〜
+  LIT: He is the one who bears the fate of upholding Filgaia.
+  RE : He is the one who bears the fate
+       of upholding Filgaia.
+
+[US#3896] (chief)
+  JP : 「[05]がならば / この脅威を<b:8a6c>けられるかもしれぬ
+  LIT: {3} may be able to turn this threat aside.
+  RE : {3} may be able to turn this
+       threat aside.
+
+[US#3897] (chief)
+  JP : 「悲しき『鍵』の運命を / <b:8a6e>り<b:8a6b>えて行けるかもしれぬ〜
+  LIT: He may be able to overcome the sad fate of the "Key."
+  RE : He may be able to overcome the
+       sad fate of the |Key|.
+
+[US#3898] (chief)
+  JP : 「だが、運命を切り開く力を / その<b:8a71>に、まだ込められるのならば / <b:8a72>ってみるのも悪くないかもしれぬ〜
+  LIT: But if that hand can still hold the power to carve open fate, it may not be bad to defy it.
+  RE : But if that hand can still hold
+       the power to carve open fate,
+       defying it may not be bad.
+
+[US#3899] (chief)
+  JP : 「お前たちを見ていると / そんな<89f9>にも思えてきよる
+  LIT: Watching you all, I begin to think it might be so.
+  RE : Watching you all, I begin to
+       think it might be so.
+
+[US#3903] (chief)
+  JP : 「『<b:8a74><b:8a75>』（ディザスター）〜 / ファルガイアを破滅せんとする / 意志ある力を『<b:8a74><b:8a75>』と呼ぶのじゃ
+  LIT: "Disaster": a willed power that would destroy Filgaia is what we call "Disaster."
+  RE : |Disaster|. A willed power that
+       would destroy Filgaia is what we
+       call |Disaster|.
+
+[US#3904] (chief)
+  JP : 「ファルガイアでも年少ない / 星の命『マナ』の<b:8a78>かな<b:8a79>地じゃからな
+  LIT: It is one of the few lands left in Filgaia still rich with the planet's life, Mana.
+  RE : It is one of the few lands left
+       in Filgaia still rich with Mana.
+
+[US#3905] (chief)
+  JP : 「その名は『ガイア』〜 / まばゆき輝に<b:8a7b>まれた / 守護者となるはずであったが〜
+  LIT: Its name was "Gaia"; it was to be a protector wrapped in dazzling light, but...
+  RE : Its name was |Gaia|, meant to be
+       a protector wrapped in dazzling
+       light, but...
+
+[US#3906] (chief)
+  JP : 「<b:8a7f>ちてしまった<b:8a80><b:8a81>より / ミーディアムを集めてくだされ
+  LIT: Please gather the Mediums from the fallen sanctuaries.
+  RE : Please gather the Mediums from
+       the fallen sanctuaries.
+
+[US#3908] (chief)
+  JP : 「政わないでおくれ[05]が〜 / 人も、この星も / これ以上傷つくのは<b:8a84>えられないんじゃよ
+  LIT: Do not falter, {3}; neither people nor this planet can bear to be wounded further.
+  RE : Do not falter, {3}. Neither
+       people nor this planet can bear
+       more wounds.
+
+[US#3909] (chief)
+  JP : 「ファルガイアから / 星の命を奪っていったのは / 他ならぬ『<b:8a7a>の<b:8a74><b:8a75>』なんじゃよ
+  LIT: What stole the planet's life from Filgaia was none other than the "Blaze of Disaster."
+  RE : What stole the planet's life from
+       Filgaia was none other than the
+       |Blaze of Disaster|.
+
+[US#3910] (chief)
+  JP : 「封じられしガーディアンの力を / ここに解放しておくれ〜 / お前は<89ab>しい家なんじゃろう〜？
+  LIT: Release the sealed power of the Guardians here; you are a kind child, are you not?
+  RE : Release the sealed power of the
+       Guardians here. You are a kind
+       child, are you not?
+
+[US#3911] (chief)
+  JP : 「失われし<88d1>大のガーディアンの / <89e2><b:8a87>と意志が / この里には、残っているんだよ
+  LIT: The hearts and wills of the four lost great Guardians still remain in this village.
+  RE : The hearts and wills of the four
+       lost great Guardians still remain
+       in this village.
+
+[US#3912] (chief)
+  JP : 「<b:8a89>世とは離れて<b:8a8a>らす / バスカーの隠れ里ですじゃ
+  LIT: This is the hidden village of the Baskar, living apart from the outside world.
+  RE : This is the hidden village of the
+       Baskar, living apart from the
+       outside world.
+
+[US#3914] (chief)
+  JP : 「わしとて、ファルガイアを護りたい〜 / 護りたいという心を<b:8a8d>に変えて / いっしょに戦いたいのじゃ
+  LIT: I too wish to protect Filgaia; to turn that wish into a blade and fight beside you.
+  RE : I too wish to protect Filgaia. To
+       turn that wish into a blade and
+       fight beside you.
+
+[US#3915] (chief)
+  JP : 「じゃが、その反動は / 小さいものではなく / ファルガイアに大きく右<8847>をかける
+  LIT: But the backlash is no small thing; it weighs heavily on Filgaia.
+  RE : But the backlash is no small
+       thing. It weighs heavily on
+       Filgaia.
+
+[US#3917] (chief)
+  JP : 「じゃが、これが運命ならば〜 / 運命ならば、受け入れるだけではなく / <b:8a6e>り<b:8a6b>えることもできるかもしれない〜
+  LIT: But if this is fate, then fate may be not only accepted, but overcome.
+  RE : But if this is fate, then fate
+       may be not only accepted, but
+       overcome.
+
+[US#3918] (chief)
+  JP : 「[05]がはそこで / ガーディアンの力を解き放ち / 幻意<b:8a5a>体『ガイア』を降<b:8a91>させねばならぬ
+  LIT: There {3} must release the Guardians' power and call down the avatar "Gaia."
+  RE : There {3} must release the
+       Guardians' power and call down
+       the avatar |Gaia|.
+
+[US#3919] (chief)
+  JP : 「この時のために / [05]がと、<b:8a92>まわしきさだめは / 今回まで生きてきたのだ〜
+  LIT: For this moment, {3} and his accursed fate have lived until today.
+  RE : For this moment, {3} and his
+       accursed fate have lived until
+       today.
+
+[US#3920] (chief)
+  JP : 「ファルガイアより奪われし『マナ』は / ここより[11]お<8995>か東の空[11]ぉに集重しておる
+  LIT: The Mana stolen from Filgaia gathers in the sky far east of here.
+  RE : The Mana stolen from Filgaia
+       gathers in the sky |far east of
+       here|.
+
+[US#3921] (chief)
+  JP : 「ファルガイアを守りしは / 『鍵』が<89a3>右ったさだめ〜
+  LIT: To protect Filgaia is the fate the "Key" bears.
+  RE : To protect Filgaia is the fate
+       the |Key| bears.
+
+[US#3923] (chief)
+  JP : 「[11]お先側の山[11]ぉに突き立てられた / 高くそびえる暗い<897f>〜 / それはまるで<b:8a93>血の<b:8a94>のごとく〜
+  LIT: A dark tower thrust high out of the mountains yonder, like a fang of clotted blood.
+  RE : A dark tower thrust high from
+       the |mountains yonder|, like a
+       fang of clotted blood.
+
+[US#3924] (chief)
+  JP : 「すべては / 運命の<b:8a90>の中にあって / 正しくあるのじゃ
+  LIT: All things stand right within the wheel of fate.
+  RE : All things stand right within
+       the wheel of fate.
+
+[US#3925] (chief)
+  JP : 「[05]がよ〜 / 運命に<b:8a72>うことなく / すべてを受け入れるがよい
+  LIT: {3}, do not defy fate; accept all of it.
+  RE : {3}, do not defy fate. Accept all
+       of it.
+
+[US#3926] (chief)
+  JP : 「『鍵』は死して / ファルガイアに<b:8a96><89aa>に / 生きるがさだめ〜
+  LIT: The "Key"'s fate is to die, and live forever within Filgaia.
+  RE : The |Key|'s fate is to die, and
+       live forever within Filgaia.
+
+[US#3927] (chief)
+  JP : 「『<b:8a7a>の<b:8a74><b:8a75>』によって封印されし / ガーディアンの意<b:8a5a>の合谷 / <f040><f042>ミーディアム〜
+  LIT: The crystallized consciousness of Guardians sealed by the "Blaze of Disaster": the Mediums.
+  RE : The crystallized minds of
+       Guardians sealed by the |Blaze of
+       Disaster|: the Mediums.
+
+[US#3928] (chief)
+  JP : 「その力は、ファルガイアに未来を<b:8a97>き / 『鍵』を生け左の祭壇へと導くであろう〜
+  LIT: Their power will open a future for Filgaia and guide the "Key" to the Sacrificial Altar.
+  RE : Their power will open Filgaia's
+       future and guide the |Key| to the
+       Sacrificial Altar.
+
+[US#3929] (chief)
+  JP : 「だが、やがて人の手に<b:8a98>る / <b:8a99>の脅威が、空を食らいつつ<b:8a8c>れるはず / かつての『<b:8a7a>の<b:8a74><b:8a75>』に<b:8a9a>相するような〜
+  LIT: But a true threat beyond human hands will come devouring the sky, one to rival the old "Blaze of Disaster."
+  RE : But a true threat beyond human
+       hands will come devouring the
+       sky, to rival the old |Blaze|.
+
+[US#3930] (chief)
+  JP : 「だが、バスカーの民を<b:8a9b>いる者として / 私情をはさむことは許されぬ
+  LIT: But as one who leads the Baskar people, I am not permitted personal feelings.
+  RE : But as one who leads the Baskar
+       people, I am not permitted
+       personal feelings.
+
+[US#3931] (chief)
+  JP : 「我らはガーディアンの意志を / 伝え、実<b:8a9d>する者ゆえに〜
+  LIT: For we are those who convey and carry out the Guardians' will.
+  RE : For we are those who convey and
+       carry out the Guardians' will.
+
+[US#3933] (chief)
+  JP : 「だが、サブリナは〜 / <b:8a9e>は、こんな私を / やっぱり許してはくれぬのだろうな〜
+  LIT: But Sabrina... she would never forgive me for this after all, would she?
+  RE : But Sabrina... she would never
+       forgive me for this after all,
+       would she?
+
+[US#3934] (chief)
+  JP : 「じゃが、確実に未来を<b:8a9f>らす / 確かな輝なのじゃよ
+  LIT: And yet it is a sure light that will brighten the future.
+  RE : And yet it is a sure light that
+       will brighten the future.
+
+[US#3935] (chief)
+  JP : 「そうだ〜 / 運命はひとりで<89a3>右うのではない / <b:8aa2>で<89a3>右えば、重さも<b:8aa3>くなっていく
+  LIT: Yes: fate is not borne alone; borne by all, its weight grows lighter.
+  RE : Yes. Fate is not borne alone.
+       Borne by all, its weight grows
+       lighter.
+
+[US#3936] (chief)
+  JP : 「生きる命すべてならば / <b:8a4a><b:8a4b>なくしてファルガイアを / <89a3>右っていけるかもしれぬ〜
+  LIT: If all living lives bear it, Filgaia may be upheld without any sacrifice.
+  RE : If all living lives bear it,
+       Filgaia may be upheld without any
+       sacrifice.
+
+[US#3937] (chief)
+  JP : 「どうして / このような<b:8aa4><b:8aa5>な道理に / 今まで気がつかなかったのか〜
+  LIT: Why did we never notice so simple a truth until now?
+  RE : Why did we never notice so simple
+       a truth until now?
+
+[US#3938] (chief)
+  JP : 「よもや、すべての命の始<8869>〜 / 『グラブ・ル・ガブル』に / 何かがあったということではないか〜？
+  LIT: Could something have happened to "Glaive Le Gable," the wellspring of all life?
+  RE : Could something have happened to
+       |Glaive Le Gable|, the wellspring
+       of all life?
+
+[US#3939] (chief)
+  JP : 「だが、『<b:8a7a>の<b:8a74><b:8a75>』によって / ガーディアンの力は封印されてしまい / <b:8a80><b:8a81>は<b:8aa8>され、<b:8a7f>ちてしまったという〜
+  LIT: But by the "Blaze of Disaster" the Guardians' power was sealed, and the sanctuary defiled and fallen.
+  RE : But by the |Blaze of Disaster|
+       the Guardians' power was sealed,
+       the sanctuary defiled.
+
+[US#3940] (chief)
+  JP : 「<b:8a7f>ちた<b:8a80><b:8a81>は / 『鍵』を待つ、生け左の祭壇となり / 今に至っているのだ
+  LIT: The fallen sanctuary became the Sacrificial Altar that awaits the "Key," and so it remains.
+  RE : The fallen sanctuary became the
+       Sacrificial Altar awaiting the
+       |Key|, and so it remains.
+
+[US#3941] (chief)
+  JP : 「<b:8a99>に恐ろしきは / 戦いが生み出す右のエネルギー〜
+  LIT: What is truly fearsome is the negative energy that battle brings forth.
+  RE : What is truly fearsome is the
+       negative energy that battle
+       brings forth.
+
+[US#3942] (chief)
+  JP : 「かつて、『<b:8a7a>の<b:8a74><b:8a75>』に無<b:8aa9>の力を<b:8aaa>えし / 右のエネルギーは今〜 / ファルガイアにに<b:8aab><b:8aac>しつつあるのだ
+  LIT: The negative energy that once fed the "Blaze of Disaster" boundless power now swells over Filgaia.
+  RE : The negative energy that once fed
+       the |Blaze of Disaster| now
+       swells over Filgaia.
+
+[US#3944] (chief)
+  JP : 「ファルガイアの<b:8a7c>地をまわり / その目に世界の<b:8aaf>状を<b:8a67>してこい
+  LIT: Go around Filgaia's lands and see the world's plight with your own eyes.
+  RE : Go around Filgaia's lands and see
+       the world's plight with your own
+       eyes.
+
+[US#3946] (chief)
+  JP : 「ゆえに、心を<b:8ab1>すのだ〜
+  LIT: Therefore, they still their hearts.
+  RE : Therefore, they still their
+       hearts.
+
+[US#3947] (chief)
+  JP : 「大きな目的を果たすため / 小さき事に心動かされぬよう / 心を<b:8ab1>しているのだ
+  LIT: To fulfill a great purpose, they still their hearts, that small things may not sway them.
+  RE : To fulfill a great purpose, they
+       still their hearts, that small
+       things not sway them.
+
+[US#3949] (chief)
+  JP : 「いや、もっと大きな脅威が / 願く、<b:8ab5>かに進行しているに違いない
+  LIT: No, a still greater threat must be advancing, deep and unseen.
+  RE : No, a still greater threat must
+       be advancing, deep and unseen.
+
+[US#3951] (elder)
+  JP : 「出<b:8ab8>したサブリナと / その血を受け継ぐ[05]がを / １０数に渡って追っていたのだ
+  LIT: We pursued the runaway Sabrina and {3}, heir to her blood, for over ten years.
+  RE : We pursued the runaway Sabrina
+       and {3}, heir to her blood, for
+       over ten years.
+
+[US#3952] (elder)
+  JP : 「あとはお前が / 『鍵』を受け継いでくれれば / もう、何も<b:8a4c>うことはない
+  LIT: Now if you would only inherit the "Key," I would want for nothing more.
+  RE : Now if you would only inherit the
+       |Key|, I would want for nothing
+       more.
+
+[US#3953] (elder)
+  JP : 「『鍵』には / <b:8ab9>達など、必要ないというのに〜
+  LIT: And yet a "Key" has no need of friends...
+  RE : And yet a |Key| has no need of
+       friends...
+
+[US#3954] (elder)
+  JP : 「お前は『<b:8aba><b:8abb>』に / なりたくはないのかッ！
+  LIT: Do you not wish to become a "hero"?!
+  RE : Do you not wish to become a
+       |hero|?!
+
+[US#3957] (chief)
+  JP : 「ひとりひとりは、小さな欠<b:8abc>でも / ひとつになれば / 星を発える力〜
+  LIT: Each alone is a small fragment, but made one, a power to uphold the planet...
+  RE : Each alone is a small fragment,
+       but made one, a power to uphold
+       the planet...
+
+[US#3958] (chief)
+  JP : 「そう、<b:8abe>しき『鍵』に代れるような / 大きな力になりえないだろうか？
+  LIT: Yes: could it not become a power great enough to replace the sorrowful "Key"?
+  RE : Yes. Could it not become a power
+       great enough to replace the
+       sorrowful |Key|?
+
+[US#3959] (chief)
+  JP : 「レイラインの行きつく場所 / <88d1>つのレイポイントには星を面作るほどの / マナが<b:8a8e>えられているという〜
+  LIT: Where the Ley Lines converge, the four Raypoints are said to hold Mana enough to form a planet.
+  RE : Where the Ley Lines converge, the
+       four Raypoints hold Mana enough
+       to form a planet.
+
+[US#3960] (chief)
+  JP : 「[11]お里の<8995>か先東の<b:8ac0>上[11]ぉには / レイポイントのひとつがあると / 伝えられているが〜
+  LIT: One Raypoint is said to lie on the sea far southeast of the village.
+  RE : One Raypoint is said to lie on
+       the sea |far southeast of the
+       village|.
