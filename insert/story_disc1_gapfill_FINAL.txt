@@ -1,0 +1,215 @@
+# WA2 — Disc-1 gap-fill — FINAL (scattered leftover boxes across blocks 2/6/8/9/10/11/16/18/23/24/25/29/38/50/58/70)
+# =========================================================================================
+# The last scattered disc-1 slots: readable NPC/story lines, shared tutorial panels (gem-heal,
+# item-detector, bayonet-ammo, HP-piece prompts), boss/lore fragments (Grauswein, the Kuiper
+# Belt / Trapezohedron / Mana prison, Lord Blazer), plus a few boxes whose decode is garbled or
+# control-code-only (translated from the clean leading JP, or preserved/EN-with-[?]). JP-primary.
+
+# ---- Block 2 (Palace Village continued) ----
+[US#186] (Merrill)
+  JP : 「〜[0a]きさんの状態は / 以前とかわらないわ / あの、暗い空もね〜
+  LIT: {4}'s condition is unchanged from before; and so is that dark sky.
+  RE : {4}'s condition is unchanged from
+       before; and so is that dark sky.
+
+[US#226] (control code)
+  JP : [07][03]
+  LIT: (control/format codes only)
+  RE : [07][03]
+
+[US#244] (sleeper)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+# ---- Block 9 / 11 (readable story lines) ----
+[US#1978] (Irving)
+  JP : 「だが〜面の相は / オデッサなるテロリストではない
+  LIT: But the true enemy is not the terrorists called Odessa.
+  RE : But the true enemy is not the
+       terrorists called Odessa.
+
+[US#2366] (Marivel)
+  JP : 「それに〜
+  LIT: Besides...
+  RE : Besides...
+
+[US#2726] (Irving)
+  JP : 「だが〜面の相は / オデッサなるテロリストではない
+  LIT: But the true enemy is not the terrorists called Odessa.
+  RE : But the true enemy is not the
+       terrorists called Odessa.
+
+# ---- Block 10 (Grauswein / Kuiper Belt endgame lore) ----
+[US#2595] (party)
+  JP : ＞〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+[US#2600] (lore)
+  JP : [17]
+  LIT: (EN only) Maybe it was impossible from the very beginning for humans to stop Grauswein...
+  RE : Maybe humans could never have
+       stopped Grauswein from the very
+       beginning... [?]
+
+[US#2683] (lore)
+  JP : 「<b:8b1a>を用いることはできない / だが〜〜
+  LIT: We cannot make use of it; but even so...
+  RE : We cannot make use of it; but
+       even so...
+
+[US#2684] (lore)
+  JP : 「『生命<b:8a30>時』があれば / ひとつの『生命体』として<8a25>うことができる / 生命体を駆<b:8a6f>することは可能だッ！
+  LIT: With a "life-vessel," it can be treated as a single "living being"; commanding a living being is possible!
+  RE : With a |life-vessel|, it can be
+       treated as one |living being|;
+       commanding it is possible!
+
+[US#2694] (lore)
+  JP :
+  LIT: (EN only) If we shape the Mana into an artificial life form, we can trap the encroachment inside it.
+  RE : Shape the Mana into an artificial
+       life form, and we can trap the
+       encroachment inside it. [?]
+
+[US#2695] (lore)
+  JP :
+  LIT: (EN only) The Kuiper Belt will then live in the Trapezohedron, the prison crafted of Mana.
+  RE : The Kuiper Belt will then live in
+       the Trapezohedron, the prison
+       crafted of Mana. [?]
+
+[US#2696] (lore)
+  JP :
+  LIT: (EN only) It will require all of ARMS' strength to exterminate the Kuiper Belt!
+  RE : It will take all of ARMS'
+       strength to exterminate the
+       Kuiper Belt! [?]
+
+[US#3068] (Irving)
+  JP :
+  LIT: (EN only) What is the capture ratio of the Kuiper Belt in the blockaded region?
+  RE : What's the capture ratio of the
+       Kuiper Belt in the blockaded
+       region? [?]
+
+[US#3145] (party)
+  JP : [17]
+  LIT: (EN only) The encroachment has gone much farther since yesterday. It's much more dangerous now.
+  RE : The encroachment's spread far
+       since yesterday. It's much more
+       dangerous now. [?]
+
+[US#3146] (party)
+  JP : 「〜来たのも事実だ
+  LIT: It's also true that we've made it this far.
+  RE : It's also true that we've made it
+       this far.
+
+# ---- Block 16 (Glaive Le Gable / Baskar) ----
+[US#4055] (kid)
+  JP : 「母さんの故<b:8b1c>なんだよ〜
+  LIT: It's my mother's homeland, you see.
+  RE : It's my mother's homeland, you
+       see.
+
+# ---- Block 18 (Slayheim war rumors) ----
+[US#4479] (townswoman)
+  JP : 「スレイハイム解放戦役っていうと / 何だかカッコイイけれど / いろいろと暗いウワサは<b:8a59>えないわ
+  LIT: "The Slayheim Liberation War" sounds grand, but the dark rumors around it never quite fade.
+  RE : |The Slayheim Liberation War|
+       sounds grand, but the dark
+       rumors never quite fade.
+
+[US#4480] (townswoman)
+  JP : 「そうよね / どんなに取り<b:8a5a>っても / 戦争は戦争だもの
+  LIT: That's right; dress it up however you like, war is war.
+  RE : That's right; dress it up however
+       you like, war is war.
+
+# ---- Block 29 (item-detector panel) ----
+[US#5328] (tutorial panel)
+  JP : ＊民品街にアイテムがあれば / その級置に入<8a07>の輝が表示される他 / コール右を発して使用者に知らせます
+  LIT: If an item is in a container, a green light shows at its spot and a call sound alerts the user.
+  RE : If an item is in a container, a
+       green light shows at its spot and
+       a call sound alerts you.
+
+# ---- Block 38 (weapon-item panels, RO area) ----
+[US#5657] (lore panel)
+  JP : ＊アイテムとして使用することで / バイアネットに新たな<b:8a3f><b:8a40>を / 追加します
+  LIT: Using it as an item adds new ammunition to the bayonet.
+  RE : Using it as an item adds new
+       ammunition to the bayonet.
+
+[US#5658] (lore panel)
+  JP : ＊<b:8a42>撃と<b:8a43>撃のコンビネーション<b:8a44>撃を / 相<b:8a45>体に対して行います
+  LIT: It delivers a combination attack of gunfire and blade to a single enemy.
+  RE : It delivers a combination attack
+       of gunfire and blade to a single
+       enemy.
+
+[US#5720] (sleeper)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+[US#5727] (sleeper)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+# ---- Block 58 (Sky Piece puzzle prompts) ----
+[US#6717] (prompt)
+  JP : ＊つきのピースを取りますか？[18]か
+  LIT: Take the Moon Piece?
+  RE : Take the Moon Piece?
+
+[US#6718] (prompt)
+  JP : ＊ほしのピースを取りますか？[18]か
+  LIT: Take the Star Piece?
+  RE : Take the Star Piece?
+
+[US#6719] (prompt)
+  JP : ＊くものピースを取りますか？[18]か
+  LIT: Take the Cloud Piece?
+  RE : Take the Cloud Piece?
+
+[US#6720] (prompt)
+  JP : ＊たいようのピースを取りますか？[18]か
+  LIT: Take the Sun Piece?
+  RE : Take the Sun Piece?
+
+# ---- Block 70 (Withered Ruins intel) ----
+[US#7215] (party)
+  JP : 「通<895b>『<b:8a38>れた遺跡』に / 立てこもっているとの情報が入った
+  LIT: We've had word they've holed up in the excavation site known as "The Withered Ruins."
+  RE : We've had word they've holed up
+       in the site known as |The
+       Withered Ruins|.
+
+# ---- SKIPPED (garbled/merged decode overruns or pure control-code; no clean translatable payload) ----
+[US#1075] SKIPPED - merged decode overrun (blk6), no clean payload
+[US#1826] SKIPPED - merged decode overrun (blk8)
+[US#1897] SKIPPED - empty JP / decode artifact (blk8)
+[US#1916] SKIPPED - garbled [17] merge (blk8; Kanon 5th-ARMS line covered in blk13/39)
+[US#1917] SKIPPED - garbled [17] merge (blk8, bionic-arm panel)
+[US#1918] SKIPPED - empty [17] (blk8)
+[US#1920] SKIPPED - garbled [17] merge (blk8)
+[US#1939] SKIPPED - empty [17] (blk8)
+[US#1950] SKIPPED - garbled decode (blk9)
+[US#1954] SKIPPED - merged decode overrun (blk9, Tamagomesuki gag)
+[US#2249] SKIPPED - merged decode overrun (blk9)
+[US#2320] SKIPPED - empty JP / decode artifact (blk9)
+[US#2698] SKIPPED - garbled decode (blk11)
+[US#2702] SKIPPED - merged decode overrun (blk11)
+[US#2997] SKIPPED - merged decode overrun (blk11)
+[US#4036] SKIPPED - merged decode overrun (blk16, Wedge/Glaive panel)
+[US#5021] SKIPPED - merged decode overrun (blk23, gem-heal panel)
+[US#5044] SKIPPED - merged decode overrun (blk23)
+[US#5067] SKIPPED - merged decode overrun (blk24, gem-heal panel)
+[US#5090] SKIPPED - merged decode overrun (blk24)
+[US#5100] SKIPPED - merged decode overrun (blk25, gem-heal panel)
+[US#6361] SKIPPED - pure control-code garbage (blk50)
+[US#6362] SKIPPED - pure control-code garbage (blk50)
