@@ -1,0 +1,273 @@
+# WA2 — Block 1, US#86-159 (remaining) — FINAL (Palace Village opening: Lilka, wheat monsters, comet lore, boss mechanics — block 1 complete)
+# =========================================================================================
+# The Palace Village opening arc: Lilka (bright, aspiring sorceress) fumbling her Teleport Gem,
+# the villagers living in fear of the strange sky and the monster eating the harvested Palace
+# wheat in the northeast granary (the "unlucky direction"), the vain girl who thinks God's
+# jealous of her looks, a farmer's boy on patrol duty, the fire-worship shrine to the north,
+# Lilka's "magic is a power anyone can use" speech, comet-vs-meteor lore panels, and the
+# boss-mechanics tutorial panels (defeat = body HP to 0; limbs give EXP/Gella). JP-primary.
+# Lilka: bright, upbeat; Drifters kept (EN said "Mercs").
+
+[US#86] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#87] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#88] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#91] (narration)
+  JP : [13]国人に危<889b>はないものの / [13]<8a3c><b:8a3d>おびえて<b:8a3e>らせるほど / [13]人々の心は強いものではない
+  LIT: No villager had come to harm, yet the people's hearts were not so strong as to live unshaken by fear.
+  RE : No villager had come to harm, yet
+       their hearts were not strong
+       enough to live unafraid.
+
+[US#92] (narration)
+  JP : [13]今<b:8a3f>の集式は / [13]怪物に対する誓認を<b:8a40>じていたのであった
+  LIT: Tonight's gathering had been called to discuss the matter of the monster.
+  RE : Tonight's gathering had been
+       called to discuss the matter of
+       the monster.
+
+[US#96] (Lilka)
+  JP : 「ダメなんですよねぇ / どうしてもテレポートジェム〜 / 〜あ、<b:8a4a>移用アイテム使うのニガテなんです
+  LIT: It's no good; I just can't with the Teleport Gem... oh, I mean, I'm bad with warp-type items.
+  RE : It's no good; I just can't with
+       the Teleport Gem... I mean, I'm
+       bad with warp-type items.
+
+[US#97] (Lilka)
+  JP : 「魔法を<b:8a4b>強しているんですけど / あのアイテムだけは / なんかもう、相性わるくて〜
+  LIT: I'm studying magic, but that one item just; ugh, it and I really don't get along.
+  RE : I'm studying magic, but that one
+       item just; ugh, it and I really
+       don't get along.
+
+[US#98] (Lilka)
+  JP : 「<8943>えばねー、<b:8a4c>りがどんなにうるさくても / 自分の名前とか、好きな人の話とか / 不思議と聞き分けられるでしょ？
+  LIT: See, no matter how noisy it is around you, you can somehow pick out your own name or a loved one's voice, right?
+  RE : See, no matter how noisy it is,
+       you can somehow pick out your own
+       name or a loved one's voice, right?
+
+[US#105] (elder)
+  JP : 「ふ〜む、お前さんの探しているモノかどうか / 分からんが、[11]お北の方[11]ぉに / なんでも、<b:8a53>を<b:8a54>っておる所があるそうだよ
+  LIT: Hmm, can't say if it's what you seek, but they say there's a place [11]to the north[11] where flame is worshipped.
+  RE : Hmm, can't say if it's what you
+       seek, but [11]to the north[11] is a
+       place where flame is worshipped.
+
+[US#107] (elder)
+  JP : 「ふ〜む、お前さんの探しているモノかどうか / 分からんが、[11]お北の方[11]ぉに / なんでも、<b:8a53>を<b:8a54>っておる所があるそうだよ
+  LIT: Hmm, can't say if it's what you seek, but they say there's a place [11]to the north[11] where flame is worshipped.
+  RE : Hmm, can't say if it's what you
+       seek, but [11]to the north[11] is a
+       place where flame is worshipped.
+
+[US#109] (innkeeper)
+  JP : 「おひとり方につき一緒[02]ギャラ / [02]人方ですので、[02]ギャラとなります / よろしいですか？[18]か
+  LIT: It's {2} Gella per guest; for {2} people, that's {2} Gella; all right?
+  RE : It's {2} Gella per guest a night.
+       For your party, that's {2} Gella.
+       All right?
+
+[US#110] (villager)
+  JP : 「倉物<b:8a5d>の中は今 / パレス麦でいっぱいだよ
+  LIT: The granary's packed full of Palace wheat right now.
+  RE : The granary's packed full of
+       Palace wheat right now.
+
+[US#112] (villager)
+  JP : 「彼らなら、こんな誓認 / <b:8a65><b:8a66>に解決してくれるだろうからね
+  LIT: A pair like them should settle a problem like this easily enough.
+  RE : A pair like them should settle a
+       problem like this easily enough.
+
+[US#113] (villager)
+  JP : 「ところで、お<b:8a6a>ちゃんは / どこから来たんだい？
+  LIT: By the way, young lady, where are you from?
+  RE : By the way, young lady, where are
+       you from?
+
+[US#114] (villager)
+  JP : 「斬穫した麦は / 倉物<b:8a5d>に / たっぷり蓄えられているんだよ
+  LIT: The harvested wheat is stored up in plenty in the granary.
+  RE : The harvested wheat is stored up
+       in plenty in the granary.
+
+[US#116] (townswoman)
+  JP : 「空があんな<89f9>でしょ / 外に出ちゃダメって言ってるのに / 全部聞いてくれないの
+  LIT: The sky's like that, so I keep telling him not to go outside, but he won't listen to a word.
+  RE : The sky's like that, so I keep
+       telling him not to go outside,
+       but he won't listen.
+
+[US#117] (villager)
+  JP : 「今回の事件なんかには / <b:8a72>任なんだけど〜
+  LIT: They'd be perfectly suited to a matter like this.
+  RE : They'd be perfectly suited to a
+       matter like this.
+
+[US#118] (kid)
+  JP : 「〜あのさ、この変な空も / お姉ちゃんの魔法で元どおりに / できないかな〜？
+  LIT: Say, could you fix this weird sky back to normal with your magic, big sis?
+  RE : Say, could you fix this weird sky
+       back to normal with your magic,
+       big sis?
+
+[US#119] (kid)
+  JP : 「〜でも、空が変になってなければ / もっと良かったのにな〜
+  LIT: But it'd be even better if the sky hadn't gone weird.
+  RE : But it'd be even better if the
+       sky hadn't gone weird.
+
+[US#122] (villager)
+  JP : 「国のみんなに / いろいろ<b:8a7a>いてみたらどうかな？
+  LIT: Why not try asking the villagers all sorts of things?
+  RE : Why not try asking the villagers
+       all sorts of things?
+
+[US#123] (villager)
+  JP : 「斬穫した麦は / ホラ、国の北側の倉物<b:8a5d>に / 蓄えられているんだよ
+  LIT: The harvested wheat is stored, see, in the granary on the north side of the village.
+  RE : The harvested wheat is stored,
+       see, in the granary on the
+       village's north side.
+
+[US#124] (villager)
+  JP : 「知っているかな？ / その方級は<b:8a8c><b:8a6d>といって / 良くないことがやってくる方級なんだ
+  LIT: Did you know? That direction is called the "demon's gate"; ill things come from it.
+  RE : Did you know? That direction is
+       the |demon's gate|; ill things
+       come from it.
+
+[US#125] (villager)
+  JP : 「ここ、パレスヴィレッジでは / 倉物<b:8a5d>の建っているあたり〜 / <f040><f042>そう、北側のことだね
+  LIT: Here in Palace Village, that's around where the granary stands; yes, the north side.
+  RE : Here in Palace Village, that's
+       around where the granary stands;
+       yes, the north side.
+
+[US#126] (villager)
+  JP : 「こんな岸<b:8a8d>の国に / やって来るような『渡り鳥』なんて / そうそういるもんじゃないさ
+  LIT: There aren't many "Drifters" who'd come out to a backwater village like this.
+  RE : There aren't many |Drifters|
+       who'd come out to a backwater
+       village like this.
+
+[US#127] (villager)
+  JP : 「『食べ物の<b:8a8e>みは恐ろしい』〜ってね / よほど畑の怪物の / 処分された<b:8a8f>いは強いらしいの
+  LIT: "The grudge of the hungry is a fearsome thing," they say; the monster driven from the fields must bear a fierce one.
+  RE : |A hungry grudge is a fearsome
+       thing|, they say; the field-driven
+       monster must bear a fierce one.
+
+[US#128] (elder)
+  JP : 「早く気を<b:8a90>めて / 空を元に戻してくれんかのぉ
+  LIT: I do wish they'd settle down and set the sky right again.
+  RE : I do wish they'd settle down and
+       set the sky right again.
+
+[US#130] (villager)
+  JP : 「畑の<b:8a91>ん中で / もんぎゅもんぎゅ、麦を食っている / 谷のような怪物の<b:8a92>をッ！
+  LIT: Right in the middle of the field, a mountain of a monster, chomp-chomping the wheat; I saw it!
+  RE : Right in the middle of the field,
+       a mountain of a monster
+       chomp-chomping the wheat; I saw it!
+
+[US#133] (vain girl)
+  JP : 「そうねぇ、おばあちゃんは / <b:8a8f>いだタタリだって言ってるけど / わたしが可愛いから<b:8a96>方が<b:8a97><b:8a98>してるのよ
+  LIT: Well, granny calls it a curse, but really it's God jealous of me for being so cute.
+  RE : Well, granny calls it a curse,
+       but really it's God jealous of me
+       for being so cute.
+
+[US#136] (vain girl)
+  JP : 「そんなのイヤよ / 私、まだ<b:8a75>もロクにしてないのに〜
+  LIT: I won't have it; I haven't even had a proper romance yet!
+  RE : I won't have it; I haven't even
+       had a proper romance yet!
+
+[US#138] (villager)
+  JP : 「パレス麦の斬穫で / <b:8a9f>ただしかったから / よくおぼえているよ
+  LIT: We were run off our feet with the Palace wheat harvest, so I remember it well.
+  RE : We were run off our feet with the
+       Palace wheat harvest, so I
+       remember it well.
+
+[US#139] (townswoman)
+  JP : 「あの通り空が変になってるけど / <b:8aa0><88cc>するわよ
+  LIT: The sky's gone strange, as you see, but I welcome you all the same.
+  RE : The sky's gone strange, as you
+       see, but I welcome you all the
+       same.
+
+[US#140] (townswoman)
+  JP : 「いえね、以前にこの国に<b:8aa3>れた女の家が / 怪物を処分してくれたんですよ / とっても、元気な娘でしたよ
+  LIT: See, a young woman who visited the village before drove off a monster for us; a very spirited girl.
+  RE : See, a young woman who visited
+       before drove off a monster for
+       us; a very spirited girl.
+
+[US#141] (villager)
+  JP : 「これまでは / 畑ばかりが<b:8aa5>らされていたからね
+  LIT: Until now it's been only the fields getting ravaged.
+  RE : Until now it's been only the
+       fields getting ravaged.
+
+[US#142] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#144] (lore panel)
+  JP : ＊他<b:8aad>体の欠<b:8ab0>が / 招力によって<b:8ab1>星に招きつけられ / 大気<b:8ab2>に突入したものを『流星』と呼ぶ
+  LIT: A fragment of a heavenly body drawn by gravity into a planet's atmosphere is called a "meteor."
+  RE : A fragment of a heavenly body
+       drawn by gravity into the
+       atmosphere is called a |meteor|.
+
+[US#145] (lore panel)
+  JP : ＊『衛星』は<b:8ab3>星に対して / 一定の<b:8aac>道を運行する星を指し / <b:8a4c><b:8a58>を持って現れるという〜
+  LIT: A "comet" travels a fixed orbit relative to a star and appears at set intervals.
+  RE : A |comet| travels a fixed orbit
+       relative to a star and appears at
+       set intervals.
+
+[US#147] (lore panel)
+  JP : ＊とくに、不<b:8ab6>の<b:8ab7>（しょう）と / 伝えられることもしばしばである / だが、その理由は次らかにされていない
+  LIT: In particular, they are often held to be omens of ill; yet the reason for this is never made clear.
+  RE : They are often held to be omens
+       of ill; yet the reason for this
+       is never made clear.
+
+[US#149] (Lilka)
+  JP : 「これって<b:8ab8>対 / 国とか、国の人じゃなくて / 斬穫した麦が<89d0>われているってことよね
+  LIT: This absolutely means it's not the village or the villagers, but the harvested wheat that's being targeted.
+  RE : This absolutely means it's not
+       the village or the people, but
+       the harvested wheat, being hunted.
+
+[US#154] (Lilka)
+  JP : 「でも、ちょっとくらいは / 落ち着いて<b:8aba><b:8abb>してくださーいッ！
+  LIT: But at least calm down a little and find somewhere safe, pleeease!
+  RE : But at least calm down a little
+       and find somewhere safe,
+       pleeease!
+
+[US#159] (tutorial panel)
+  JP : ＊『<b:8a6f>部級』のＨＰを０にしても / ボスキャラクターを倒すことはできませんが / その分のＥＸＰやギャラを<b:8ac0>得できます
+  LIT: Dropping a "limb part" to 0 HP won't defeat the boss, but you earn EXP and Gella for it.
+  RE : Dropping a |limb| to 0 HP won't
+       defeat the boss, but you earn EXP
+       and Gella for it.
