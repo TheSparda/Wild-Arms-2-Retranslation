@@ -1,0 +1,283 @@
+# WA2 — Block 8, US#1773-1824 — FINAL (hero-legend lore + Marivel foreshadow + Glaive Le Gable / stealth system)
+# =========================================================================================
+# Chateau NPC lore: faith in {0}, the mascot-suit girl (Marivel foreshadow: blonde, fair, red
+# eyes), Glaive Le Gable (the mud sea, wellspring of life), the comet vs the devoured sky, the
+# Heimdal Gazzo / Wizardry Stealth system shielding the Diablo Pillars, and the big "what makes
+# a hero" meditation (Sword Magess vs Blaze of Disaster; heroes are made when people need them).
+# JP-primary; unreadable kanji spans [?]. FILL boxes (1774,1785-89,1803,1806,1822,1824) omitted
+# for twin propagation. Canonical terms per WA2_NAME_DICTIONARY. Hand-done (fleet API limit).
+
+[US#1773] (Chateau NPC)
+  JP : 「でも今は〜 / ヴァレリアシャトーの<b:8b7a><b:8b7b>を / いやらしくない目で観待したいんだな
+  LIT: But for now, I'd like to watch over the Chateau's [comings and goings] with honest eyes.
+  RE : But for now, I'd like to keep an
+       honest eye on the Chateau's
+       goings-on.
+
+[US#1775] (Chateau NPC)
+  JP : 「あれすらも / <b:8b7c>りだったのでしょうか？
+  LIT: Was even that a [lie/act]?
+  RE : Was even that a lie?
+
+[US#1776] (Chateau NPC)
+  JP : 「私は[0a]ぉ方を信じています / 中いからは / この空を<b:8b1a>らす力は生まれてきません
+  LIT: I believe in {2}. From doubt, no power to clear this sky will ever be born.
+  RE : I believe in {2}. Doubt will
+       never birth the power to clear
+       this sky.
+
+[US#1777] (Chateau NPC)
+  JP : 「そう、休枯谷ゆえに / 気をつけてくださいよ / いつ<b:8acb>枯するかわかりませんからね
+  LIT: Yes, since it's a dormant valley, take care; there's no telling when it'll erupt.
+  RE : Yes, it's only dormant, so take
+       care. No telling when it'll
+       erupt.
+
+[US#1778] (Chateau NPC)
+  JP : 「これらはかつて、[0a]ぉ方が / その大きすぎる力を危<893c>して封<b:8b7e>した / 太古の遺跡なのです〜
+  LIT: These are ancient ruins that {2} once sealed, fearing their too-great power.
+  RE : These are ancient ruins {2} once
+       sealed away, fearing their too-
+       great power.
+
+[US#1779] (Chateau NPC)
+  JP : 「私<b:8af1>人としては / 空が失われ、<b:8b80>輝が閉ざされた時に / <b:8b81>々として着ぐるみを脱がれた〜
+  LIT: Personally, when the sky was lost and its light shut away, she cheerfully took off her costume.
+  RE : Myself, when the sky was lost and
+       its light shut away, she gladly
+       shed her mascot suit.
+
+[US#1780] (Chateau NPC)
+  JP : 「着ぐるみを脱ぎ<b:8a7f>てられた / [05]ぎ方の跡行の方が / 何だか気になってしまうのです
+  LIT: What became of {3}, who cast off the costume, is what nags at me.
+  RE : What became of {3}, who cast off
+       the suit, is what nags at me.
+
+[US#1781] (Chateau NPC)
+  JP : 「あの着ぐるみの辺には / ちゃんと女の家が入っていたんですよ
+  LIT: There really was a lovely woman inside that costume.
+  RE : There really was a lovely woman
+       inside that mascot suit.
+
+[US#1782] (Chateau NPC)
+  JP : 「それも、金<b:8b82>で / 抜けるように<b:8b83>が<b:8b84>くて / <b:8b85>は<b:8aef>えるように眠くて〜
+  LIT: Blonde, too, with a dazzlingly fair complexion, and eyes [red] as if burning...
+  RE : Blonde, with a dazzling fair
+       complexion, and eyes red as if
+       aflame...
+
+[US#1783] (Chateau NPC)
+  JP : 「あ、あれ？ / 眠い〜、<b:8b85>〜？
+  LIT: Uh, wait? Eyes... red...?
+  RE : Uh, wait... red... eyes?
+
+[US#1784] (Chateau NPC)
+  JP : 「さびしいです〜
+  LIT: It's lonely now.
+  RE : It's lonely now.
+
+[US#1790] (Chateau NPC)
+  JP : 「ヴァレリア公はご多少な方です / お部乗にいらっしゃらないようでしたら / 他のフロアかもしれません
+  LIT: Sir Valeria is a busy man; if he's not in his room, he may be on another floor.
+  RE : Sir Valeria is a busy man. If not
+       in his room, he may be on another
+       floor.
+
+[US#1791] (Chateau NPC)
+  JP : 「他のフロアに向かう場合は / 正面のエレベーターを / ご利用ください
+  LIT: To reach other floors, please use the elevator straight ahead.
+  RE : For other floors, please use the
+       elevator straight ahead.
+
+[US#1792] (Chateau NPC)
+  JP : 「古い言い伝えで、ファルガイアの中心には / すべての生命の軒となった / <b:8b88>く<b:8b89>く<b:8b8a>の道が広がっているという〜
+  LIT: An old legend says a road of blue mud, the source of all life, spreads at Filgaia's center.
+  RE : Old legend says a road of blue
+       mud, the source of all life, lies
+       at Filgaia's heart.
+
+[US#1793] (Chateau NPC)
+  JP : 「『グラブ・ル・ガブル』〜 / 命の始<8869>、<b:8b8a>の道にて / ヴァレリア公は、いったい何を〜
+  LIT: "Glaive Le Gable," the mud road where life began; what could Sir Valeria want there?
+  RE : |Glaive Le Gable|, the mud road
+       where life began. What could Sir
+       Valeria want there?
+
+[US#1794] (Chateau NPC)
+  JP : 「まるで『剣の剣士』が / ファルガイアを<b:8b8c>き限くそうとした / 伝<b:8b8d>の時代、そのままに〜
+  LIT: Just like the legendary age when the Sword Wielder tried to burn Filgaia away.
+  RE : Just like the legendary age when
+       the |Sword Wielder| tried to burn
+       Filgaia away.
+
+[US#1795] (Chateau NPC)
+  JP : 「〜でも、それに先立って / 大きな衛星がファルガイアを / 大切っていったんだ〜
+  LIT: But just before that, a great comet passed close by Filgaia.
+  RE : But just before that, a great
+       comet passed close by Filgaia.
+
+[US#1796] (Chateau NPC)
+  JP : 「空の<b:8b8f>失と衛星の搭近〜 / ふたつの間に / 因果関係は無いのだろうか〜
+  LIT: The sky's loss and the comet's approach; is there no causal link between the two?
+  RE : The sky's loss and the comet's
+       approach. Is there no link
+       between them?
+
+[US#1797] (Chateau NPC)
+  JP : 「あらゆる<887e>相機能から / その存在を消し去る / ウィザードリィステルス〜
+  LIT: Wizardry Stealth erases its presence from every mode of surveillance.
+  RE : Wizardry Stealth erases it from
+       every form of surveillance.
+
+[US#1798] (Chateau NPC)
+  JP : 「だが、存在を消し去れるのは / ステルス対<b:8ac2>である / ヘイムダル・ガッツォーのみだッ！
+  LIT: But the only thing it renders invisible is the stealth unit itself, the Heimdal Gazzo!
+  RE : But it only hides the stealth
+       unit itself, the Heimdal Gazzo!
+
+[US#1799] (Chateau NPC)
+  JP : 「システムを支える魔界鍵は<8991><8992>同部〜 / それだけに、強力な防衛星陣を / <b:8b91>いてくるかもしれないな〜
+  LIT: The Demon Realm Keys upholding the system are exposed, so they may set a strong defensive line.
+  RE : The Demon Realm Keys behind the
+       system are exposed, so they may
+       set strong defenses.
+
+[US#1800] (Chateau NPC)
+  JP : 「最大<b:8ab4>域のエネルギー<b:8b93>だからな / その使い<b:8b94>が気になるだろう？
+  LIT: It's a top-tier energy [plant], so you'd wonder what it's used for, right?
+  RE : It's a top-tier power plant. Makes
+       you wonder what it's for, doesn't
+       it?
+
+[US#1801] (Chateau NPC)
+  JP : 「パイプラインの / <89c1>探知をおこなっているんだが〜 / 結果は、もう少しまってくれよ
+  LIT: We're tracing the pipeline now; give us a little longer for results.
+  RE : We're tracing the pipeline now.
+       Give us a bit longer for results.
+
+[US#1802] (Chateau NPC)
+  JP : 「だけど、その着陸可能ポイントの少なさと / サーチシステムが使えない帯が / 不便といえば不便だな
+  LIT: Still, the scarcity of Landing Pads and the zones where the search system won't work are inconvenient.
+  RE : Still, so few Landing Pads, and
+       zones where search won't work.
+       Inconvenient, that.
+
+[US#1804] (Chateau NPC)
+  JP : 「ファルガイア貴族共のうち / ギルドグラードが / どうにもこうにもごねていたらしいが〜
+  LIT: Among the Filgaian nations, Guild Galad was apparently balking at every turn.
+  RE : Of the Filgaian nations, Guild
+       Galad was said to balk at every
+       turn.
+
+[US#1805] (Chateau NPC)
+  JP : 「最終的には / メリアブールとシルヴァラントに / 押し切られるカタチとなったそうだ
+  LIT: In the end, Meria Boule and Sylvaland apparently wore them down.
+  RE : In the end, Meria Boule and
+       Sylvaland wore them down, they
+       say.
+
+[US#1807] (Chateau NPC)
+  JP : 「だが、そいつひとりの意僚で / 『英雄』になるんじゃない〜
+  LIT: But one doesn't become a "hero" by one's own will alone.
+  RE : But no one becomes a |hero| by
+       their own will alone.
+
+[US#1808] (Chateau NPC)
+  JP : 「その世界と / その時代に生きる人間が望むことで / 生み出されていくもんなんだ
+  LIT: They're brought forth by the wishes of the people living in that world, that age.
+  RE : They're made by the wishes of the
+       people living in that world, that
+       age.
+
+[US#1809] (Chateau NPC)
+  JP : 「『英雄』は人間がなるもんだ / でも、望んでなるものじゃない / 望まれて生み出されていくものなんだ
+  LIT: A hero is a human who becomes one; not by wanting it, but by being wanted.
+  RE : A |hero| is a person made one,
+       not by wanting it, but by being
+       wanted.
+
+[US#1810] (Chateau NPC)
+  JP : 「『剣の剣士』におびえた / 伝説の時代には＜剣の聖女＞を〜
+  LIT: In the legendary age that feared the Sword Wielder, the <Sword Magess> appeared.
+  RE : The age that feared the |Sword
+       Wielder| brought forth the
+       <Sword Magess>.
+
+[US#1811] (Chateau NPC)
+  JP : 「スレイハイムの暴<b:8b99>には / 英雄[05]お・エヴァンスを〜 / というカンジでな
+  LIT: In Slayheim's tyranny, the hero {1} Evans; that sort of thing.
+  RE : In Slayheim's tyranny, the hero
+       {1} Evans. That sort of thing.
+
+[US#1812] (Chateau NPC)
+  JP : 「〜空を失った / 現在のファルガイアで / 人はまた英雄を望み、生み出すのだろうか？
+  LIT: In this present Filgaia, its sky lost, will people again wish for and create a hero?
+  RE : In this sky-less Filgaia, will
+       people again wish a hero into
+       being?
+
+[US#1813] (Chateau NPC)
+  JP : 「<b:8b9b>圧された状況から / 『<b:8b9c>命』だの『解放』だの / 理みたいなことを<b:8b9e>んで同僚を<b:8b9f>るのさ
+  LIT: From an oppressed state, he spouts "revolution" and "liberation" and such ideals to rally his fellows.
+  RE : From oppression, he spouts
+       "revolution" and "liberation" to
+       rally the others.
+
+[US#1814] (Chateau NPC)
+  JP : 「あいつの理につきあわされて / 最後は、全体で<b:8ba0><b:8ba1>いを / しなくちゃいけない状況になるんだ
+  LIT: We get dragged along with his ideals and end up having to clean up the whole mess together.
+  RE : We get dragged along with his
+       ideals, then must clean up the
+       whole mess.
+
+[US#1815] (Chateau NPC)
+  JP : 「なんで、あんな現実味の<b:8ba2>い理想<b:8b17>に / みんなついて行くのだろう〜
+  LIT: Why does everyone follow such an unrealistic dreamer?
+  RE : Why does everyone follow such an
+       unrealistic dreamer?
+
+[US#1816] (Chateau NPC)
+  JP : 「やっぱり、自信ありげに理を<b:8b31>られると / たとえメッキでも / <b:8ba3>力を信じてしまうのだろうか？
+  LIT: When ideals are preached with confidence, maybe people believe the power, even if it's just a veneer.
+  RE : Preach ideals with confidence and
+       people believe, even when it's
+       all a veneer?
+
+[US#1817] (Chateau NPC)
+  JP : 「だいじょうぶだ / 今度もまた、<b:8ba7><b:8ba8>のマイトグローブで / 跡跡を起こしてくれるさ
+  LIT: It'll be fine; he'll work another miracle with that Might Glove of his left hand.
+  RE : It'll be fine. He'll work another
+       miracle with his left-hand Might
+       Glove.
+
+[US#1818] (Chateau NPC)
+  JP : 「もちろん、スレイハイムから / 戦って、<b:8ba9>ったんだがな〜
+  LIT: Of course, he took it from Slayheim by fighting for it.
+  RE : Of course, he won it from
+       Slayheim by fighting for it.
+
+[US#1819] (Chateau NPC)
+  JP : 「英雄サマの相<b:8baa>に / 機艇の<8a25>いや<b:8adc>最術術に長けたヤツがいて / そいつがパイロットだったらしいぜ
+  LIT: The hero's war buddy was a whiz with craft and piloting; he was the pilot, they say.
+  RE : The hero's war buddy was a whiz
+       with machines and flying. He was
+       the pilot, they say.
+
+[US#1820] (Chateau NPC)
+  JP : 「みんな置って行軍なんて / 一度も無かったかもしれないな
+  LIT: They probably never once marched in proper formation.
+  RE : They likely never once marched in
+       proper formation.
+
+[US#1821] (Chateau NPC)
+  JP : 「かく言う僕も、軍に任<b:8b76>していたんだが / 英雄サマのお探を / 録えているわけじゃないしよ
+  LIT: I served in the army myself, but I don't actually remember the hero's face.
+  RE : I served in the army myself, but
+       I don't even recall the hero's
+       face.
+
+[US#1823] (Chateau NPC)
+  JP : 「みんなあんたたちに / 未来を<b:8bac>している〜
+  LIT: Everyone is entrusting the future to you.
+  RE : Everyone is entrusting the future
+       to you.
