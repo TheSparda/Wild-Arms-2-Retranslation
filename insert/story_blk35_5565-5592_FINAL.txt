@@ -1,0 +1,182 @@
+# WA2 — Block 35, US#5565-5592 — FINAL (Varukisas raid: mission briefing + Brad vs Odessa + crash escape — block 35 complete)
+# =========================================================================================
+# The boarding raid on Odessa's flying fortress Varukisas: the mission briefing (silence the
+# Varukisas + the assault-anchor retrieval that links back to Valeria Chateau), an Odessa
+# officer's "justice is cheap, found on any corner" taunt and the realization the party was
+# buying time to evacuate passengers, the Varukisas failing and threatening to drag Valeria
+# Chateau down with it via the anchor, and Brad's guilt ("my call dragged everyone into this")
+# as they race to the cockpit/anchor. JP-primary; Varukisas kept.
+
+[US#5565] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#5566] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#5567] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#5568] (radio)
+  JP : ＞さて、ミッションの説次だ / 貴様らに<b:8a41>えられた任務はふたつある
+  LIT: Now for the mission briefing; you've been given two tasks.
+  RE : Now for the mission briefing;
+       you've been given two tasks.
+
+[US#5569] (radio)
+  JP : ＞ひとつは、相性飛空機艇バルキサスの<898f><8990> / もうひとつは〜
+  LIT: One: silence the enemy flying machine Varukisas. The other...
+  RE : One: silence the enemy flying
+       machine Varukisas. The other...
+
+[US#5570] (radio)
+  JP : ＞貴様らが / そこから無事に脱出することである
+  LIT: ...is for all of you to escape from there safely.
+  RE : ...is for all of you to escape
+       from there safely.
+
+[US#5571] (radio)
+  JP : ＞アサルトアンカーを<8812>き戻すことで / 貴様らの回斬を行う
+  LIT: By winding back the assault anchor, we'll retrieve you.
+  RE : By winding back the assault
+       anchor, we'll retrieve you.
+
+[US#5572] (party)
+  JP : 「〜ＯＫ、わかったよ / 任務<89d8>行後、現在地帯まで帰還 / アンカーの回斬をたのむよ
+  LIT: Okay, understood; after the mission, we return here; count on you for the anchor recovery.
+  RE : Okay, understood; after the
+       mission we return here. Count on
+       you for the anchor recovery.
+
+[US#5573] (radio)
+  JP : ＞以上だ
+  LIT: Over and out.
+  RE : Over and out.
+
+[US#5574] (Odessa officer)
+  JP : 「ジュデッカのヤツを<b:8a46>けたっていうし / こいつは、いよいよホンモノか？
+  LIT: They say you beat Judecca; so is this one the real deal at last?
+  RE : They say you beat Judecca; so is
+       this one the real deal at last?
+
+[US#5575] (Odessa officer)
+  JP : 「どこのどいつが決めたのか知らねぇけどよ / 『正義』なんてモンは / そこら岸に<b:8a48>がっているもんだぜ
+  LIT: I don't know who decided it, but "justice" is a thing you'll find lying around on any street corner.
+  RE : I don't know who decided it, but
+       |justice| is a thing you'll find
+       on any street corner.
+
+[US#5576] (Odessa officer)
+  JP : 「この僕方の<89e5>にもな
+  LIT: Even here in this heart of mine.
+  RE : Even here in this heart of mine.
+
+[US#5577] (Odessa officer)
+  JP : 「僕方とお前たち / <b:8a4a>を交えるには充分すぎる理由がある / そうだろう？
+  LIT: You and I have more than reason enough to cross swords; don't we?
+  RE : You and I have more than reason
+       enough to cross swords; don't we?
+
+[US#5578] (Odessa officer)
+  JP : 「乗<b:8a3e>の<b:8a46><b:8a4c>が完了するまでの / 時間<b:8a4d>ぎを<b:8a4e>って出てたのかッ！
+  LIT: So you were out there buying time until the evacuation of the passengers was done!
+  RE : So you were out there buying time
+       until the passengers were all
+       evacuated!
+
+[US#5579] (Odessa officer)
+  JP : 「バルキサスはお気に入りだったけどよ / お前たちを<b:8a4f>るのには / <b:8a50><b:8a49>の<b:8a51><8861>となってくれそうだぜ
+  LIT: The Varukisas was a favorite of mine, but it'll make a fine grave to bury you all in.
+  RE : The Varukisas was a favorite of
+       mine, but it'll make a fine grave
+       to bury you all in.
+
+[US#5580] (party)
+  JP : 「どうやらこのバルキサス / そう長く持ちそうもない
+  LIT: This Varukisas doesn't look like it'll hold together much longer.
+  RE : This Varukisas doesn't look like
+       it'll hold together much longer.
+
+[US#5581] (party)
+  JP : 「一<b:8a52><b:8a53>ってまた一<b:8a52>なのぉッ！
+  LIT: One peril passes, and here comes another!
+  RE : One peril passes, and here comes
+       another!
+
+[US#5582] (party)
+  JP : 「このまま、この飛空機艇が墜落すれば / アンカーで<b:8a54>がっている / ヴァレリアシャトーだっていっしょに〜
+  LIT: If this flying machine crashes as it is, Valeria Chateau, linked by the anchor, goes down with it...
+  RE : If this machine crashes as it is,
+       Valeria Chateau, linked by the
+       anchor, goes down with it...
+
+[US#5583] (party)
+  JP : 「一<b:8a52><b:8a53>ってまた一<b:8a52>なのぉッ！
+  LIT: One peril passes, and here comes another!
+  RE : One peril passes, and here comes
+       another!
+
+[US#5584] (Tim)
+  JP : 「このままでは / アンカーの場所までたどりつけません / それどころか〜
+  LIT: At this rate we won't even reach the anchor; and worse than that...
+  RE : At this rate we won't even reach
+       the anchor; and worse than
+       that...
+
+[US#5585] (party)
+  JP : 「この飛空機艇が墜落すれば / アンカーで<b:8a54>がっている / ヴァレリアシャトーだっていっしょに〜
+  LIT: If this flying machine crashes, Valeria Chateau, linked by the anchor, goes down with it...
+  RE : If this machine crashes, Valeria
+       Chateau, linked by the anchor,
+       goes down with it...
+
+[US#5586] (Ashley)
+  JP : 「それにこいつは / テロリストの駆るものじゃない / そう、こいつは〜
+  LIT: Besides, this thing isn't something terrorists pilot; no, this is...
+  RE : Besides, this thing isn't
+       something terrorists pilot; no,
+       this is...
+
+[US#5587] (Ashley)
+  JP : 「俺ひとりの判断で / みんなを<8812>き込んでしまった
+  LIT: By my own call alone, I dragged everyone into this.
+  RE : By my own call alone, I dragged
+       everyone into this.
+
+[US#5588] (Ashley)
+  JP : 「僕たちだけの方が / 危険は回<b:8a4c>しやすいからな
+  LIT: It's easier to steer clear of danger with just us.
+  RE : It's easier to steer clear of
+       danger with just us.
+
+[US#5589] (party)
+  JP : 「もう、あまり時間もなさそうだ
+  LIT: We don't seem to have much time left.
+  RE : We don't seem to have much time
+       left.
+
+[US#5590] (party)
+  JP : 「このタイプの飛空機艇のコクピットは / たしか…
+  LIT: The cockpit on this type of flying machine is, if I recall...
+  RE : The cockpit on this type of
+       flying machine is, if I recall...
+
+[US#5591] (party)
+  JP : 「この先って、さっき行ったはずだよね / 単の所を探さないとッ！
+  LIT: We've already been up ahead here, haven't we? We need to search somewhere else!
+  RE : We've already been up ahead here,
+       haven't we? We need to search
+       somewhere else!
+
+[US#5592] (party)
+  JP :
+  LIT: (EN only) We've already been this way. Let's look somewhere else!
+  RE : We've already been this way.
+       Let's look somewhere else! [?]
