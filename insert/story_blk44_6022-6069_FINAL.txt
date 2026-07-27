@@ -1,0 +1,241 @@
+# WA2 — Block 44, US#6022-6069 — FINAL (Diablo Pillar / Heimdal Gazzo intel + Wire Hook + Liz & Ard rematch — block 44 complete)
+# =========================================================================================
+# Post-Alchemic-Plant: the party gathers intel on the Heimdal Gazzo and its four "Diablo Pillar"
+# generators (魔界鍵, the Key-of-the-Demon-World generators; kept "Diablo Pillars" per WA2
+# localization), lore panels on how the Pillars power the fortress (destroy one and the rest
+# still run; all four must fall), Brad's resolve ("I've got to get my act together or I can't
+# face {1}"), the Wire Hook tutorial, and a Liz & Ard (Toka & Gě) rematch with the "Arms Killer"
+# monster and the "science always has its victims" gag. JP-primary; Toka's 〜トカ tic kept.
+
+[US#6022] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#6023] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#6024] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#6026] (lore panel)
+  JP : ＊アルケミックプラントの置滅による / エネルギー誓認をオールクリア
+  LIT: The energy problem caused by the Alchemic Plant's destruction is fully cleared.
+  RE : The energy problem from the
+       Alchemic Plant's destruction is
+       fully cleared.
+
+[US#6027] (lore panel)
+  JP : ＊魔界鍵よりのエネルギー族<898d>を発持しつつ / ヘイムダル・ガッツォーの安定にあたれ〜
+  LIT: Maintain the energy supply from the Diablo Pillars and see to Heimdal Gazzo's stability.
+  RE : Maintain the energy supply from
+       the Diablo Pillars and keep
+       Heimdal Gazzo stable.
+
+[US#6028] (party)
+  JP : 「にしても / 『ヘイムダル・ガッツォー』に / 『魔界鍵』とは、いったい〜
+  LIT: Still; "Heimdal Gazzo," "Diablo Pillar"; just what are these?
+  RE : Still; |Heimdal Gazzo|, |Diablo
+       Pillar|; just what are these?
+
+[US#6030] (lore panel)
+  JP : ＊たとえ、ひとつの魔界鍵が破滅されても / 他の魔界鍵が存在する限り / ジェネレイターとして充分に機能する〜
+  LIT: Even if one Diablo Pillar is destroyed, as long as the others remain, it functions fully as a generator.
+  RE : Even if one Diablo Pillar is
+       destroyed, so long as the others
+       stand, it still functions fully.
+
+[US#6031] (party)
+  JP : 「<b:8a3e>するに / 強力なジェネレイターのようだな / もう少し、情報を集めてみよう
+  LIT: In short, it seems to be a powerful generator; let's gather a bit more information.
+  RE : In short, it seems to be a
+       powerful generator. Let's gather
+       a bit more information.
+
+[US#6033] (lore panel)
+  JP : ＊<b:8a40>大なエネルギー消<b:8a41><886f>を弱帯とする / ヘイムダル・ガッツォーであるが / 魔界鍵によって、その弱帯を<b:8a42><b:8a43>
+  LIT: Heimdal Gazzo's weakness is its vast energy consumption, but the Diablo Pillars cover that weakness.
+  RE : Heimdal Gazzo's weakness is its
+       vast energy use, but the Diablo
+       Pillars cover for it.
+
+[US#6034] (lore panel)
+  JP : ＊４つの魔界鍵を完全に<898f><8990>させない限り / 圧倒的な破滅力を作する / ヘイムダル・ガッツォーに抗するすべはない
+  LIT: Unless all four Diablo Pillars are silenced completely, there's no way to counter Heimdal Gazzo's overwhelming destructive force.
+  RE : Unless all four Diablo Pillars
+       are silenced, there's no
+       countering Heimdal Gazzo's force.
+
+[US#6035] (lore panel)
+  JP : ＊いわば、魔界鍵こそ / ヘイムダル・ガッツォーの / ライフラインであるといえよう〜
+  LIT: In a word, the Diablo Pillars are Heimdal Gazzo's very lifeline.
+  RE : In a word, the Diablo Pillars are
+       Heimdal Gazzo's very lifeline.
+
+[US#6036] (Brad)
+  JP : 「それを発持するという / ４つの魔界鍵なるジェネレイターも / 気がかりだな〜
+  LIT: And the four Diablo Pillar generators said to sustain it; those are a worry too.
+  RE : And the four Diablo Pillar
+       generators said to sustain it;
+       those are a worry too.
+
+[US#6037] (sleeper)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+[US#6039] (Ashley)
+  JP : 「ヘイムダル・ガッツォーと / 魔界鍵に対抗する作戦を立てるぞ
+  LIT: Let's draw up a plan to counter Heimdal Gazzo and the Diablo Pillars.
+  RE : Let's draw up a plan to counter
+       Heimdal Gazzo and the Diablo
+       Pillars.
+
+[US#6042] (tutorial panel)
+  JP : ＊ワイヤーフックは[0b]おを<b:8a45>すことで / カギ爪を前方に発<b:8a47>することができます
+  LIT: For the Wire Hook, press [0b] to fire the hooked claw straight ahead.
+  RE : For the Wire Hook, press [0b] to
+       fire the hooked claw straight
+       ahead.
+
+[US#6043] (tutorial panel)
+  JP : ＊カギ爪をクイに撃ち込むことで / <b:8a48>いては渡れない場所へ移動することが / 可能になります
+  LIT: By sinking the claw into a post, you can cross to places you couldn't reach on foot.
+  RE : By sinking the claw into a post,
+       you can cross to places you
+       couldn't reach on foot.
+
+[US#6044] (Brad)
+  JP : 「アルケミックプラントからの / 族<898d><b:8a4a><89ca>をたどって / ここが判次したんだ〜
+  LIT: We traced the supply route from the Alchemic Plant and pinned this place down.
+  RE : We traced the supply route from
+       the Alchemic Plant and pinned
+       this place down.
+
+[US#6046] (Brad)
+  JP : 「あるいは / エネルギーの族<898d>がすでに / 必要でなくなったか〜
+  LIT: Or perhaps the energy supply was simply no longer needed.
+  RE : Or perhaps the energy supply was
+       simply no longer needed.
+
+[US#6048] (Brad)
+  JP : 「俺はもっと、ずっと〜 / 今まで以上に / しっかりしなくちゃいけないんだ
+  LIT: I have to pull myself together, far more than ever before.
+  RE : I have to pull myself together,
+       far more than ever before.
+
+[US#6049] (Brad)
+  JP : 「じゃないと / [05]おに合わせる探が無い
+  LIT: Otherwise I'll have no face to show {1}.
+  RE : Otherwise I'll have no face to
+       show {1}.
+
+[US#6050] (Ashley)
+  JP : 「って、誰だかわかってるけど〜 / その前に、何でいつもいつも / 俺が相手をしなくちゃいけないんだ
+  LIT: I say that, but I already know who; and why is it always ME who has to deal with you?
+  RE : I say that, but I already know
+       who; and why is it always ME who
+       has to deal with you?
+
+[US#6052] (Toka)
+  JP : 「それほどまでに我々の / すごすぎるアレのノウハウが / お気に<b:8a54>さないとは、見置なったぜ
+  LIT: So my far-too-brilliant know-how displeases you that much; I've seen your true colors now.
+  RE : So my far-too-brilliant know-how
+       displeases you that much; I've
+       seen your true colors now.
+
+[US#6053] (Gě)
+  JP : 「バカにかかっちゃ / 我々もかたなしだトカ
+  LIT: Getting saddled with an idiot will be the ruin of us, ...or something.
+  RE : Getting saddled with an idiot
+       will be the ruin of us, or
+       something.
+
+[US#6055] (Toka)
+  JP : [17]
+  LIT: (EN only) Come, look, feel. Don't get scared now. Such novices!
+  RE : Come, look, feel! Don't lose your
+       nerve now. Such novices! [?]
+
+[US#6056] (Toka)
+  JP : 「<b:8a5a>て、見て、さわってみて / <b:8a5b>抜かすなよ / <b:8a5c>々モノがーッ！
+  LIT: Come, look, touch; don't lose your nerve, you utter greenhorns!
+  RE : Come, look, touch; don't lose
+       your nerve, you utter greenhorns!
+
+[US#6057] (Toka)
+  JP : 「可<b:8a5e><b:8a5f><b:8a60>ッ！ <b:8a61><b:8a62>無限ッ！ / な我々らが / はるかな<89bb>りの<b:8a63>を<b:8a64>げてしんぜよう
+  LIT: Boundless potential! Limitless might! We of such caliber shall grant you a journey of eternal slumber!
+  RE : Boundless potential! Limitless
+       might! We shall grant you a
+       journey of eternal slumber!
+
+[US#6059] (Toka)
+  JP :
+  LIT: (EN only) I have no choice now but to bring out the mean machine!
+  RE : I've no choice now but to bring
+       out the mean machine! [?]
+
+[US#6061] (Toka)
+  JP : [17]
+  LIT: (EN only) I read somewhere how scientific progress always has victims.
+  RE : I read somewhere how scientific
+       progress always has its victims.
+       [?]
+
+[US#6062] (Toka)
+  JP : 「<b:8a66><b:8a67>の発<b:8a68>には<b:8a69><b:8a6a>がつきものと / 何かの<b:8a6b><b:8a6c>をひもといた<89d2>に / 書いてあったトカ、無かったトカ〜
+  LIT: "Scientific progress always has its victims," some book I once cracked open said, ...or something, or not.
+  RE : |Progress always has its
+       victims|, some book I once cracked
+       open said, or something, or not.
+
+[US#6063] (Toka)
+  JP : 「とにかくッ！ / 今までの戦<b:8a6d>データが生み出した / シリーズ後<89a7>のニクイ<b:8a6e>ッ！
+  LIT: Anyway! Behold the fiendish latest of the series, born from all our battle data so far!
+  RE : Anyway! Behold the fiendish
+       latest of the series, born from
+       all our battle data!
+
+[US#6065] (party)
+  JP : [17]
+  LIT: (EN only) Stop conspiring with Vinsfeld!
+  RE : Stop conspiring with Vinsfeld!
+       [?]
+
+[US#6068] (party)
+  JP : [17]
+  LIT: (EN only) I find it hard to believe they'd have military power at an abandoned site.
+  RE : Hard to believe they'd station
+       fighting strength at an abandoned
+       site. [?]
+
+[US#6069] (party)
+  JP : 「完全に手放された<88e4>設に / 戦力をさいているとは考えにくい〜
+  LIT: It's hard to imagine them sparing fighting strength for a wholly abandoned facility.
+  RE : It's hard to imagine them sparing
+       fighting strength for a wholly
+       abandoned facility.
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#6025] SKIPPED - no content box in decode
+[US#6029] SKIPPED - no content box in decode
+[US#6032] SKIPPED - no content box in decode
+[US#6038] SKIPPED - no content box in decode
+[US#6040] SKIPPED - no content box in decode
+[US#6041] SKIPPED - no content box in decode
+[US#6045] SKIPPED - no content box in decode
+[US#6047] SKIPPED - no content box in decode
+[US#6051] SKIPPED - no content box in decode
+[US#6054] SKIPPED - no content box in decode
+[US#6058] SKIPPED - no content box in decode
+[US#6060] SKIPPED - no content box in decode
+[US#6064] SKIPPED - no content box in decode
+[US#6066] SKIPPED - no content box in decode
+[US#6067] SKIPPED - no content box in decode
