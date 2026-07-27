@@ -1,0 +1,392 @@
+# WA2 — Block 22, US#4955-5014 — FINAL (Meria Boule subway station: Noel escort, Merc chatter, Crimson Noble lore — block 22 complete)
+# =========================================================================================
+# The Meria Boule railway station where the party escorts Noel (Guild Galad Master's son) home
+# aboard the "Dianbai Guang" cargo-train: the philosopher NPC (force can't beat the human heart),
+# a war-widow and her son waiting at the station for a husband who won't return, cynical Merc
+# chatter (this crisis is a chance to strike it rich), Guild Galad's fossil-mining lore, the
+# Crimson Nobles / Mt. Urartu legend (a proud red-blooded race the sun once burned like blades,
+# now perfect conditions since the sky was devoured), and Noel's modest send-off. JP-primary.
+# Dianbai Guang = 電白輝 (the named train). Drifters/Mercs: EN said "Mercs"; RE keeps Drifters.
+
+[US#4955] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4956] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#4957] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#4958] (control code)
+  JP : [04]ぽむ[17][18]
+  LIT: (control/format codes only)
+  RE : [04]ぽむ[17][18]
+
+[US#4960] (philosopher)
+  JP : 「力で解決できないとするなら / いったい、何をもって / 我々は置めばいいのでしょうか
+  LIT: If force cannot solve it, then with what are we to fight at all?
+  RE : If force cannot solve it, then
+       with what are we to fight at all?
+
+[US#4961] (townsperson)
+  JP : 「その生きた力が / ファルガイアの失われた空を / <b:8a38><b:8a39>しているなんて〜
+  LIT: To think that living power soars through Filgaia's lost sky...
+  RE : To think that living power soars
+       through Filgaia's lost sky...
+
+[US#4962] (townsperson)
+  JP : 「機艇<b:8a3a><b:8a3b>には欠かすことのできない / 古代生物の合谷を発掘し / ギルドグラードに<b:8a40>していたのです
+  LIT: It mined the fossils of ancient creatures, indispensable to machine-making, and sold them to Guild Galad.
+  RE : It mined ancient-creature fossils,
+       vital to machine-making, and sold
+       them to Guild Galad.
+
+[US#4963] (philosopher)
+  JP : 「でも、乗けないのは / 脅威だけなんだろうか〜
+  LIT: But is it only threats that can't be overcome by force, I wonder?
+  RE : But is it only threats that can't
+       be overcome by force, I wonder?
+
+[US#4964] (philosopher)
+  JP : 「たとえば、人の心とか / 俺たちが<b:8a46>る岸とする信念なんかも / 力では乗けないものと思いたいな
+  LIT: The human heart, say, or the beliefs we stand on; I'd like to think force can't break those.
+  RE : The human heart, say, or the
+       beliefs we stand on; I'd like to
+       think force can't break those.
+
+[US#4965] (philosopher)
+  JP : 「それができないってことは / <b:8a47><b:8a48>や力には / <b:8a49>界があるってことじゃないのか
+  LIT: And if it can't, doesn't that mean technology and power have their limits?
+  RE : And if it can't, doesn't that
+       mean technology and power have
+       their limits?
+
+[US#4966] (philosopher)
+  JP : 「失われた空に、<b:8a4c>同左〜 / いったいファルガイアは / どうなってしまうんだろうな
+  LIT: A lost sky, nuclear weapons... whatever is to become of Filgaia?
+  RE : A lost sky, nuclear weapons...
+       whatever is to become of Filgaia?
+
+[US#4967] (townsperson)
+  JP : 「ライブリフレクターの / 自由使用<88b2>しかり / この地辺鉄道のフリーパスしかりだ
+  LIT: Free use of the Live Reflector, and a free pass on this subway too, no less.
+  RE : Free use of the Live Reflector,
+       and a free pass on this subway
+       too, no less.
+
+[US#4968] (townsperson)
+  JP : 「ギルドグラードマスターといえば / <b:8a4e><b:8a4f>で作名だからな / それくらい意外なことなんだぜ
+  LIT: The Guild Galad Master is famous for being a stubborn old sort, so it's that surprising.
+  RE : The Guild Galad Master is famous
+       for being a stubborn old sort, so
+       it's that surprising.
+
+[US#4969] (conductor)
+  JP : 「『<89de><89df>輝』を<b:8a53>り、<b:8a54>に在るのが / 陸<b:8a52>である私の使命です
+  LIT: To protect the "Dianbai Guang" and see her through to the end is my duty as conductor.
+  RE : To protect the |Dianbai Guang|
+       and see her through is my duty as
+       conductor.
+
+[US#4970] (conductor)
+  JP : 「〜それから / <89dc>陸もなるべく大事に<8a25>ってください / その〜 大事な『<89de><89df>輝』ですので〜
+  LIT: And please, be as gentle with the train as you can; she's my precious "Dianbai Guang," you see.
+  RE : And please, be as gentle with the
+       train as you can; she's my
+       precious |Dianbai Guang|.
+
+[US#4971] (Merc)
+  JP : 「あんまり<89e5>を<b:8a56>って / 言えるもんじゃないのかもしれないな
+  LIT: Maybe it's not the sort of life a man can brag about.
+  RE : Maybe it's not the sort of life a
+       man can brag about.
+
+[US#4972] (Merc)
+  JP : 「でもな、<b:8a57><b:8a58>にうつむいて / ただ右ちひしがれている連中よりは / ずっと人間らしい生き方をしているつもりだ
+  LIT: But it beats living hunched in despair like those broken folks; more human, the way I see it.
+  RE : But it beats living hunched in
+       despair like those broken folks;
+       more human, the way I see it.
+
+[US#4973] (Merc)
+  JP : 「どんな世界であろうと / <b:8a5a><b:8a5b>に生きていこうとするヤツは / けっこう何とかなるもんだぜ
+  LIT: Whatever the world's like, a fellow bent on living greedily tends to manage well enough.
+  RE : Whatever the world's like, a
+       fellow bent on living greedily
+       tends to manage well enough.
+
+[US#4974] (Merc)
+  JP : 「今度の異世事態〜 / 少なくとも僕たち渡り鳥は / 一<b:8a5d><b:8a5e>金のチャンスとみるね
+  LIT: This crisis; at least we Drifters see it as a chance to strike it rich in one shot.
+  RE : This crisis; at least we Drifters
+       see it as a chance to strike it
+       rich in one shot.
+
+[US#4975] (Merc)
+  JP : 「まあ、命あっての物<b:8a5f>だがな
+  LIT: Well, so long as we stay alive to spend it.
+  RE : Well, so long as we stay alive to
+       spend it.
+
+[US#4976] (Merc)
+  JP : 「少なくとも / スレイハイム解放戦は僕に / オンナとメシを<b:8a61>えてくれたな
+  LIT: At the least, the Slayheim liberation war gave me women and food aplenty.
+  RE : At the least, the Slayheim
+       liberation war gave me women and
+       food aplenty.
+
+[US#4977] (Merc)
+  JP : 「今じゃこうして / 渡り鳥の<b:8a62><8973>事をして / <b:8a63>口をしのいでいるわけさ
+  LIT: Now I scrape by doing odd Drifter jobs like this, just getting by.
+  RE : Now I scrape by doing odd Drifter
+       jobs like this, just getting by.
+
+[US#4978] (conductor)
+  JP : 「『<89de><89df>輝』を<b:8a53>り、<b:8a54>に在るのが / 陸<b:8a52>である私の使命です
+  LIT: To protect the "Dianbai Guang" and see her through to the end is my duty as conductor.
+  RE : To protect the |Dianbai Guang|
+       and see her through is my duty as
+       conductor.
+
+[US#4979] (war widow)
+  JP : 「だとすれば / いつまでもここで『過<b:8a65>』に<b:8a66>られていては / うちの人に<b:8a67>し<b:8a68>ありませんね
+  LIT: If so, then clinging here to the "past" forever would be a disservice to my husband.
+  RE : If so, then clinging here to the
+       past forever would be a
+       disservice to my husband.
+
+[US#4980] (war widow)
+  JP : 「私たちはここで / あの人の帰りを / 待つべきではない、と〜
+  LIT: That we should not go on waiting here for him to come home...
+  RE : That we should not go on waiting
+       here for him to come home...
+
+[US#4981] (war widow)
+  JP : 「でも、うちの人が戦の果てに何を遺したのか / それを見つけるまでは / ここをあとにできないのです〜
+  LIT: But until I learn what my husband left behind at the end of that war, I cannot leave this place.
+  RE : But until I learn what my husband
+       left behind at that war's end, I
+       cannot leave this place.
+
+[US#4982] (war widow)
+  JP : 「ですが、年多の帰らない人〜 / 年多の帰らない命が / <b:8a6f>の大地に<898f>んでいるのです
+  LIT: But so many who never returned, so many lost lives, lie sleeping beneath the salt flats.
+  RE : But so many who never returned,
+       so many lost lives, lie sleeping
+       beneath the salt flats.
+
+[US#4983] (war widow)
+  JP : 「ですが、戦<8945>が<88f1>しさを<b:8a59>す中 / 行方が知れなくなってしまったのです
+  LIT: But as the fighting grew fierce, he went missing.
+  RE : But as the fighting grew fierce,
+       he went missing.
+
+[US#4984] (war widow)
+  JP : 「今回もこうして<89e2>家と一<b:8a77>に / 人が行き交うステーションで / うちの人の<b:8a78>を<8856>しているのです
+  LIT: Today, too, my child and I wait at the crowded station, searching for my husband's return.
+  RE : Today, too, my child and I wait
+       at the crowded station, watching
+       for my husband's return.
+
+[US#4985] (widow's son)
+  JP : 「やっとわかったんだ / お<b:8a7a>さんを<b:8a43>へ帰すのは / お<b:8a79>さんじゃない、俺の役目だって
+  LIT: I finally understood: taking Mother home isn't Father's job, it's mine.
+  RE : I finally understood: taking
+       Mother home isn't Father's job,
+       it's mine.
+
+[US#4986] (widow's son)
+  JP : 「<b:8a7b>いているお<b:8a7a>さんを見ていると / 時々、そう思うことがあるんだ
+  LIT: Watching Mother cry, sometimes I think that.
+  RE : Watching Mother cry, sometimes I
+       think that.
+
+[US#4987] (widow's son)
+  JP : 「でも、きっと帰ってくるよね？ / 俺のお<b:8a79>さんといっしょに
+  LIT: But he'll surely come home, right? Together with my father.
+  RE : But he'll surely come home,
+       right? Together with my father.
+
+[US#4988] (widow's son)
+  JP : 「でもね、帰って来たら / すぐにわかるはずだよ
+  LIT: But when he comes home, I'll know him right away.
+  RE : But when he comes home, I'll know
+       him right away.
+
+[US#4989] (widow's son)
+  JP : 「だって、俺のお<b:8a79>さんだもの
+  LIT: After all, he's my father.
+  RE : After all, he's my father.
+
+[US#4990] (widow's son)
+  JP : 「だから、<b:8a7d>回もおとといも / その前の回も / ずーっと、お<b:8a7a>さんと待っているんだ
+  LIT: So yesterday, the day before, and the day before that, I've waited with Mother all this while.
+  RE : So yesterday, the day before, and
+       before that, I've waited with
+       Mother all this while.
+
+[US#4991] (scholar)
+  JP : 「<b:8a81><b:8a82>によると / そのふもとにこそ / 『ノーブルレッド』の館があるという
+  LIT: According to the old texts, it's at that mountain's foot that the castle of the "Crimson Nobles" stands.
+  RE : By the old texts, it's at that
+       mountain's foot that the |Crimson
+       Nobles|' castle stands.
+
+[US#4992] (scholar)
+  JP : 「だが、この<b:8a83>険なるウラルトゥの谷<b:8a84>を / <b:8a7e>えることが / どれほどまでに<b:8a85><b:8a86>なことであろうか〜
+  LIT: But scaling the perilous face of Mt. Urartu; what a formidable task that would be.
+  RE : But scaling the perilous face of
+       Mt. Urartu; what a formidable
+       task that would be.
+
+[US#4993] (scholar)
+  JP : 「また、<8845><b:8a89>すべきは / 年多のモンスター<b:8a5f>が得意とする / 結単能力をも取り込むことができるらしい
+  LIT: What's more striking, they can even absorb the special abilities many monsters excel at.
+  RE : What's more striking, they can
+       even absorb the special abilities
+       many monsters excel at.
+
+[US#4994] (scholar)
+  JP : 「だが、なぜに / 『ノーブルレッド』は<b:8a78>を消し / 伝説の中に生きるのみなのだろうか？
+  LIT: But why did the "Crimson Nobles" vanish, living on only in legend?
+  RE : But why did the |Crimson Nobles|
+       vanish, living on only in legend?
+
+[US#4995] (scholar)
+  JP : 「それは<b:8a8a>輝〜 / 我々には、何てこと無い<b:8a8b><b:8a8a>の輝であるが / 彼らにとっては<b:8a8c><8868>の<b:8a8d>に<b:8a8e>しいという
+  LIT: It was the sunlight; nothing to us, but to them it was like being cut by burning blades.
+  RE : It was the sunlight; nothing to
+       us, but to them like being cut by
+       burning blades.
+
+[US#4996] (scholar)
+  JP : 「空を失い、<b:8a8b><b:8a8a>無き今〜 / 伝説に生きる彼らが<b:8a8f>び目信めるには / もっとも相応しい状況ではなかろうか
+  LIT: With the sky lost and no sunlight now, could conditions be more fitting for those legend-dwellers to wake?
+  RE : With the sky lost and no sunlight
+       now, could conditions better suit
+       those legend-dwellers to wake?
+
+[US#4997] (scholar)
+  JP : 「『ノーブルレッド』〜 / 高<b:8a93>なる眠き<b:8a94>の一<b:8a95>とされた者の伝説が / このウラルトゥの谷に残されているのだ
+  LIT: The "Crimson Nobles"; the legend of that proud, red-blooded race lingers here in Mt. Urartu.
+  RE : The |Crimson Nobles|; the legend
+       of that proud, red-blooded race
+       lingers here in Mt. Urartu.
+
+[US#4998] (townsperson)
+  JP : 「機艇とも生物ともつかない / 古代生物の『合谷』によって / 発<b:8a96>を<89d8>げたってのは作名な話だ
+  LIT: It's a famous tale: they built their boom on the "fossils" of ancient creatures, half-machine, half-beast.
+  RE : It's a famous tale: they built
+       their boom on the fossils of
+       half-machine ancient creatures.
+
+[US#4999] (townsperson)
+  JP : 「僕はこの地には / 古代からの発<b:8a97>や遺<b:8a3a>が / まだまだ<89bb>っているとにらんでいるんだが〜
+  LIT: I reckon this land still holds plenty of ancient secrets and relics yet undiscovered.
+  RE : I reckon this land still holds
+       plenty of ancient secrets and
+       relics yet undiscovered.
+
+[US#5000] (attendant)
+  JP : 「と、とりあえず / ノエルぼっちゃんをお願いします〜
+  LIT: A-anyway, please look after young master Noel.
+  RE : A-anyway, please look after young
+       master Noel.
+
+[US#5001] (Noel)
+  JP : 「<b:8a9a>通の方でよかった / あんまりスゴイ人たちに護衛されても / <b:8a9b><b:8a4f>ですからね
+  LIT: I'm glad they're ordinary folk; being guarded by anyone too grand would only be uncomfortable.
+  RE : I'm glad they're ordinary folk;
+       being guarded by anyone too grand
+       would be uncomfortable.
+
+[US#5002] (attendant)
+  JP : 「この<b:8a9c>からいっきに / ギルドグラードへ向かいますが / なにぶん、用心にこした事はありません
+  LIT: From here you head straight for Guild Galad; but you can never be too careful.
+  RE : From here you head straight for
+       Guild Galad; but you can never be
+       too careful.
+
+[US#5003] (attendant)
+  JP : 「<b:8a9d>を<b:8a5c>がす悪<b:8a9e>オデッサより / どうかお護りください
+  LIT: Please guard him from those villains of Odessa who threaten the peace.
+  RE : Please guard him from those
+       villains of Odessa who threaten
+       the peace.
+
+[US#5004] (attendant)
+  JP : 「陸<b:8a99>の方までお願いします
+  LIT: Please begin boarding now.
+  RE : Please begin boarding now.
+
+[US#5005] (Lilka)
+  JP : 「もっとド派手で / 金ピカの乗り物を想<b:8a9f>していたんだ〜
+  LIT: I'd pictured something far flashier, all gold and glitter.
+  RE : I'd pictured something far
+       flashier, all gold and glitter.
+
+[US#5006] (Noel)
+  JP : 「何よりも / その機能性を重要視するのです
+  LIT: Above all else, we prize functionality.
+  RE : Above all else, we prize
+       functionality.
+
+[US#5007] (Noel)
+  JP : 「わたくしが乗るからといって / <b:8aa5><b:8aa6>に<b:8aa7>られた<89dc>陸など / 用意することはありませんよ
+  LIT: Just because I'm aboard is no reason to lay on a gaudily decorated train.
+  RE : Just because I'm aboard is no
+       reason to lay on a gaudily
+       decorated train.
+
+[US#5008] (Noel)
+  JP : 「〜それに、わたくしは / この『<89de><89df>輝』が大<b:8aa3>きですから / むしろ、うれしいくらいです
+  LIT: Besides, I love this "Dianbai Guang"; if anything, it makes me glad.
+  RE : Besides, I love this |Dianbai
+       Guang|; if anything, it makes me
+       glad.
+
+[US#5009] (conductor)
+  JP : 「定<89c2>通りに<b:8aa8>着しないと / お<b:8a79>上に私が<b:8aa9>られてしまいますッ！
+  LIT: If we don't arrive on schedule, your father will have my hide!
+  RE : If we don't arrive on schedule,
+       your father will have my hide!
+
+[US#5010] (conductor)
+  JP : 「キミを護るためとはいえ / <b:8a98>物陸<b:8a99>を<b:8aaa><b:8aab>にしてしまった
+  LIT: To protect you, we've had to sacrifice the cargo cars.
+  RE : To protect you, we've had to
+       sacrifice the cargo cars.
+
+[US#5011] (Noel)
+  JP : 「みなさんが<b:8a79>から<8923>頼されたのは / あくまでも、わたくしの護衛〜 / 任務は立派に果たしているではありませんか
+  LIT: What Father charged you with was, above all, my protection; and you've performed it splendidly.
+  RE : What Father charged you with was,
+       above all, my protection; and
+       you've done it splendidly.
+
+[US#5012] (attendant)
+  JP : 「わたくしたちは / 単行動でギルドグラードまで / 先に戻らせてもらいます
+  LIT: We'll go on ahead separately and return to Guild Galad first.
+  RE : We'll go on ahead separately and
+       return to Guild Galad first.
+
+[US#5013] (Noel)
+  JP : 「急いで『わたくし』を続けないと / <b:8a79>上がまた<b:8aad>りだすかもしれませんから
+  LIT: I'd best hurry back to my duties, or Father may start fuming again.
+  RE : I'd best hurry back to my duties,
+       or Father may start fuming again.
+
+[US#5014] (attendant)
+  JP : 「ギルドグラードは / このステーションを出て / [11]お北側[11]ぉの<89db>め立て地にあります
+  LIT: Guild Galad lies on the reclaimed land to the [11]north side[11], out from this station.
+  RE : Guild Galad lies on the reclaimed
+       land to the [11]north side[11],
+       out from this station.
