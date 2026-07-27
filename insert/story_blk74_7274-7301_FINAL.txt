@@ -1,0 +1,184 @@
+# WA2 — Block 74, US#7274-7301 — FINAL (living-bomb monsters + Gull Wing air-battle briefing — block 74 complete)
+# =========================================================================================
+# An airship-battle mission: the discovery that Odessa's monster-weapons are LIVING BOMBS
+# (volatile explosive secreted in their bodies, no metal signature; the EM Cage catapult in
+# section D52 to fling them clear), the two-part demo on bomb power and control, the Chief's
+# refusal to leave the fight and her "I believe in you," the assault-anchor storming plan, and
+# the full battle briefing to down the enemy Gull Wing-class flyer over the sea SW of Halmetz.
+# JP-primary; EM Cage / Gull Wing / assault-anchor kept.
+
+[US#7274] (party)
+  JP : 「こいつを / 置づけてからにするぞッ！
+  LIT: I'll get to that once I've dealt with this lot!
+  RE : I'll get to that once I've dealt
+       with this lot!
+
+[US#7275] (radio)
+  JP : ＞先ほど発知された左発物反応ですが / <8882>街に出現したモンスターと / ほぼ、同じポイントより確認されています
+  LIT: That explosive reading detected earlier registers from nearly the same point as the monsters aboard.
+  RE : That explosive reading registers
+       from nearly the same point as the
+       monsters aboard.
+
+[US#7276] (radio)
+  JP : ＞おそらくは〜 / モンスターの体街に左発物が / <89db>め込まれたのではないかとッ！
+  LIT: Most likely, explosives have been embedded within the monsters' bodies!
+  RE : Most likely, explosives have been
+       embedded within the monsters'
+       bodies!
+
+[US#7277] (radio)
+  JP : ＞スキャニングの結果 / 体街に金<b:8a38>反応は見られなかった
+  LIT: The scan showed no metal signature within their bodies.
+  RE : The scan showed no metal
+       signature within their bodies.
+
+[US#7278] (radio)
+  JP : ＞<89c1>に、モンスターが分<b:8a39>する体<b:8a3a>からは / 揮発性の高い<b:8a3a>体左<b:8a3b>にも<8973>た成分が / 多<886f>に発出されている
+  LIT: Rather, the fluids the monsters secrete give off, in quantity, something like a highly volatile liquid explosive.
+  RE : Rather, their secreted fluids
+       give off, in quantity, something
+       like a volatile liquid explosive.
+
+[US#7279] (radio)
+  JP : ＞つまり、あいつは〜 / 生きた左方だってことだ
+  LIT: In other words, those things are living bombs.
+  RE : In other words, those things are
+       living bombs.
+
+[US#7280] (radio)
+  JP : ＞と、いうより / 連中は、もとよりそのつもりだ
+  LIT: Or rather, that was their intent from the very start.
+  RE : Or rather, that was their intent
+       from the very start.
+
+[US#7281] (radio)
+  JP : ＞Ｄ５２<b:8a40><b:8a41>には / <8882><887d><b:8a42>用のカタパルトが備えつけてある / そいつを使って、強制<b:8a43>出するんだ
+  LIT: Section D52 has a catapult for jettisoning; use it to force them off the ship.
+  RE : Section D52 has a jettison
+       catapult; use it to force them
+       off the ship.
+
+[US#7282] (radio)
+  JP : ＞<b:8a44>員、戦闘準備ッ！ / 相、怪獣同時の生命力を周辺させ / 部る後、こちらで捕<b:8a48>作戦に移行するッ！
+  LIT: All hands, battle stations! First wear down the monster-weapons' vitality; then we shift to the capture operation!
+  RE : All hands, battle stations! Wear
+       down the monster-weapons, then we
+       shift to capture!
+
+[US#7283] (radio)
+  JP : ＞１つは、左発の威力そのもの / もうひとつは〜 / 左発をコントロールできること
+  LIT: One is the sheer power of the blast; the other is being able to control the blast.
+  RE : One is the sheer power of the
+       blast; the other is being able to
+       control it.
+
+[US#7284] (radio)
+  JP : ＞よくできた左方ほど / 一<b:8a4b>的な認<b:8a4c>以上に左発しないものさ
+  LIT: The better-made the bomb, the less it blows beyond its intended reckoning.
+  RE : The better-made the bomb, the
+       less it blows beyond its intended
+       reckoning.
+
+[US#7285] (Tim)
+  JP : 「でも、危険なことに変わりがないんだ / [0a]ぉ〜 / あなたは<b:8a4d><b:8a4e>してくれ
+  LIT: But it's dangerous all the same; {0}, please take cover.
+  RE : But it's dangerous all the same;
+       {0}, please take cover.
+
+[US#7286] (Chief)
+  JP : ＞わたしも指揮<899d>だ / いっしょに戦う以上 / ここを離れるわけにはいかない
+  LIT: I'm the commander; so long as we fight together, I cannot leave this place.
+  RE : I'm the commander; so long as we
+       fight together, I cannot leave
+       this place.
+
+[US#7287] (Chief)
+  JP : ＞貴様らを信じている / だから〜 / 見事、作戦を<89d8>行してほしいッ！
+  LIT: I believe in you all; so, carry out the operation brilliantly!
+  RE : I believe in you all; so, carry
+       out the operation brilliantly!
+
+[US#7288] (soldier)
+  JP : 「了解ッ！ / 誰かが信じてくれるなら / 俺たちも実力以上の結果を出せるッ！
+  LIT: Roger! If someone believes in us, we can pull off more than our ability alone!
+  RE : Roger! If someone believes in us,
+       we can pull off more than our
+       ability alone!
+
+[US#7289] (soldier)
+  JP : 「総員離脱ッ！ / ＥＭケイジにて / キャプチュード、スタンバイッ！
+  LIT: All hands, disengage! EM Cage; captured, standing by!
+  RE : All hands, disengage! EM Cage;
+       captured, standing by!
+
+[US#7292] (Chief)
+  JP : 「これより本<8882>は / 相、ガル・ウィング<8872>飛空機艇の / <88cc>撃にあたる
+  LIT: From now, this ship engages in an interception of the enemy Gull Wing-class flying machine.
+  RE : From now, this ship intercepts
+       the enemy Gull Wing-class flying
+       machine.
+
+[US#7293] (Chief)
+  JP : 「[05]ぉ、[05]お / [05]か、[05]がらは / アサルトアンカーにて相機街部に強攻
+  LIT: {1}, {0}, {2}, and {3} storm the enemy craft's interior via the assault anchor.
+  RE : {1}, {0}, {2}, and {3} storm the
+       enemy craft's interior via the
+       assault anchor.
+
+[US#7294] (Chief)
+  JP : 「飛空機艇の戦闘機能を / 完全に<898f><8990>させることが / 本作戦の<88f9>一目<8861>とする
+  LIT: Completely silencing the flying machine's combat functions is this operation's sole objective.
+  RE : Completely silencing the flyer's
+       combat functions is this
+       operation's sole objective.
+
+[US#7295] (Chief)
+  JP : 「現在、本<8882>と相機は / ハルメッツより / 先東方向０８００地帯を<b:8a54>行中
+  LIT: At present our ship and the enemy craft are flying over the zone bearing 0800 southeast of Halmetz.
+  RE : At present our ship and the enemy
+       craft fly the zone bearing 0800
+       southeast of Halmetz.
+
+[US#7296] (Chief)
+  JP : 「すなわち、道のど<b:8a55>ん中である
+  LIT: In other words, right over the middle of the sea.
+  RE : In other words, right over the
+       middle of the sea.
+
+[US#7297] (Chief)
+  JP : 「辺の者の心配は無い / 何としてでもここで / 相、ガル・ウィング<8872>飛空機艇を墜とすッ！
+  LIT: No need to fear for anyone below; whatever it takes, we down the enemy Gull Wing-class flyer here!
+  RE : No need to fear for anyone below;
+       whatever it takes, we down the
+       Gull Wing flyer here!
+
+[US#7298] (Chief)
+  JP : 「相戦力を<b:8a56>ぐ<b:8a57><b:8a58>の機式だ / この一戦、必ず<b:8a59>ち取るッ！ / 以上だッ！
+  LIT: It's a prime chance to blunt the enemy's strength; this battle, we WILL win! Over!
+  RE : A prime chance to blunt the
+       enemy's strength; this battle, we
+       WILL win! Over!
+
+[US#7299] (soldier)
+  JP : 「<8a0d>れンなよ / 自分の出番でしくじるヤツは / 戦場じゃ長生きできねえぞッ！
+  LIT: Don't be late; anyone who muffs his cue doesn't live long on the battlefield!
+  RE : Don't be late; anyone who muffs
+       his cue doesn't live long on the
+       battlefield!
+
+[US#7300] (soldier)
+  JP : 「トリガーの準備できました / タイミング、お願いしますッ！
+  LIT: The trigger's ready; the timing's on you!
+  RE : The trigger's ready; the timing's
+       on you!
+
+[US#7301] (Chief)
+  JP : 「それらを解放することが / 今回の任務の目的である
+  LIT: Setting them free is the objective of this mission.
+  RE : Setting them free is the
+       objective of this mission.
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#7290] SKIPPED - no content box in decode
+[US#7291] SKIPPED - no content box in decode
