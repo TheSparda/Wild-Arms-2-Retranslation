@@ -1,0 +1,438 @@
+# WA2 — Block 12, US#3147-3229 — FINAL (Damzen City / Telepath Tower NPCs, part 1)
+# =========================================================================================
+# Story-block sweep, Damzen City arc: Drifter (渡り鳥) banter on Odessa and world peace, the
+# treasure-hunter and his Booty Call (トレジャーコール), the town constable, tunnel/Sielje
+# geography, and Telepath Tower townsfolk fretting over the terrorists and the aging Empathite.
+# Terms per WA2_NAME_DICTIONARY: Drifter(s) for 渡り鳥 (NEVER "expedition/team"; original EN used
+# "Mercs"), Empathite (信応谷), Booty Call kept (localization's item name), Sielje. JP-primary;
+# EN drift here is mild (~1-2 boxes) and used as cross-check. Voice: casual townsfolk.
+# Boxes 3147-3149, 3152-3154, 3158, 3164, 3166, 3177, 3189, 3192, 3194-3195, 3200, 3202, 3213-3214,
+# 3220 are demo-notices/system or covered by twin propagation — SKIPPED notes at end.
+
+[US#3150] (system: demo notice, examine)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#3151] (elder NPC)
+  JP : 「左右を示す乗星が / 置をわかったのは知っておろう
+  LIT: You know the guiding star that shows the way has [fallen/been lost].
+  RE : You know the guiding star that
+       shows the way has been lost.
+
+[US#3155] (Drifter NPC)
+  JP : 「癒しの弱い[05]ぉの / バックアップはお闇にまかせたぞ
+  LIT: Backing up {1}, who's weak at healing, I leave to you.
+  RE : Backing up {1}, who's weak at
+       healing, I leave to you.
+
+[US#3156] (Drifter NPC)
+  JP : 「そっちの方が / この状況を打開できるような / 気がしないかい？
+  LIT: Doesn't that seem the better way to break out of this situation?
+  RE : Doesn't that seem the better way
+       to break out of this?
+
+[US#3157] (Drifter NPC)
+  JP : 「でも、依頼だって人間だ / 人間にできることを大きく抱えたお願いは / 誰がかなえてくれるんだ？
+  LIT: But clients are human too; who grants a wish too big for what humans can do?
+  RE : But clients are human too. Who
+       grants a wish too big for human
+       hands?
+
+[US#3159] (Drifter NPC)
+  JP : 「世界のみんなのためになること〜 / そんなのは、渡り鳥なんかじゃなく / 依頼方にお願いするもんだ
+  LIT: Something for the whole world's sake, that's a thing you ask of heroes, not of Drifters.
+  RE : Something for the whole world's
+       sake? You don't ask Drifters for
+       that.
+
+[US#3160] (Drifter NPC)
+  JP : 「僕にも魔法が使えたら / オデッサなんかの / 依頼を許しちゃいないぜ
+  LIT: If I could use magic, I wouldn't let the likes of Odessa have their way.
+  RE : If I could use magic, I wouldn't
+       let the likes of Odessa have
+       their way.
+
+[US#3161] (Drifter NPC)
+  JP : 「自由が信条の渡り鳥だ / テロリストに支配されるなんて / まっぴらごめんだね
+  LIT: Drifters live by freedom; being ruled by terrorists is out of the question.
+  RE : Drifters live by freedom. Being
+       ruled by terrorists? Out of the
+       question.
+
+[US#3162] (Drifter NPC)
+  JP : 「渡り鳥なら / 基本中の基本さッ！
+  LIT: For a Drifter, that's the most basic of basics!
+  RE : For a Drifter, that's the most
+       basic of basics!
+
+[US#3163] (Drifter NPC)
+  JP : 「渡り鳥なら / 情報を集めなければッ！
+  LIT: A Drifter has to gather information!
+  RE : A Drifter has to gather
+       information!
+
+[US#3165] (Drifter NPC)
+  JP : 「シエルジェ自分領って祈の場には / 魔法や幻術を施行している / お婆ちゃんみたいのがたくさんいるらしいな
+  LIT: In the Sielje domain, they say there are many grandmotherly types practicing magic and illusion arts.
+  RE : In the Sielje domain, they say
+       many grandmotherly types practice
+       magic and illusions.
+
+[US#3167] (Drifter NPC)
+  JP : 「そんな奴らを相手にしなきゃいけないんだ / 『渡り鳥』稼業も楽じゃないぜ
+  LIT: Having to deal with people like that, the Drifter trade is no easy living.
+  RE : Dealing with people like that,
+       the |Drifter| trade is no easy
+       living.
+
+[US#3168] (Drifter NPC)
+  JP : 「えーっと、何だっけな〜
+  LIT: Uh, now where was that...
+  RE : Uh, now where was that...
+
+[US#3169] (Drifter NPC)
+  JP : 「世界平和を本気で考えているなら / 辺手なモンスターより / たちが悪いかもしれんな
+  LIT: If they're serious about world peace, they may be worse trouble than any flashy monster.
+  RE : Someone dead serious about world
+       conquest may be worse trouble
+       than any monster.
+
+[US#3170] (Drifter NPC)
+  JP : 「しかし、世界平和なんて / 本気で考えてるやつが / いるなんて思いもしなかったぜ
+  LIT: Still, I never imagined anyone seriously thought about world peace.
+  RE : Still, I never imagined anyone
+       took over-the-world schemes
+       seriously.
+
+[US#3171] (Drifter NPC)
+  JP : 「でも、そうするには / ものすごい勇気がいるってもんよ
+  LIT: But doing that takes tremendous courage.
+  RE : But doing that takes tremendous
+       courage.
+
+[US#3172] (treasure hunter)
+  JP : 「よかったな / 今あんたらは、跡跡の勇者を / 無料で運んでいるんだぜ
+  LIT: Lucky you; right now you're carrying a miraculous brave man free of charge.
+  RE : Lucky you. Right now you're
+       looking at a genuine brave man,
+       free of charge.
+
+[US#3173] (treasure hunter)
+  JP : 「ちびっ家にはわからない / オトナのぜいたくってもんよ
+  LIT: A grown-up's luxury that little kids wouldn't understand.
+  RE : A grown-up's luxury little kids
+       wouldn't understand.
+
+[US#3174] (treasure hunter)
+  JP : 「世の中、努力したヤツが / 必ずしもうまくいくとはかぎらねぇ / あー、ゆかい、ゆかいッ！
+  LIT: In this world, those who work hardest don't always come out ahead. Ah, delightful, delightful!
+  RE : Those who try hardest don't always
+       win in this world. Ah, delightful,
+       delightful!
+
+[US#3175] (treasure hunter)
+  JP : 「トレジャーコールさえ手に入れれば / あとはお宝ザックザクってもんよ / あくせく働く必要ないね
+  LIT: Once I get the Booty Call, treasure comes pouring in; no need to slave away.
+  RE : Once I get the Booty Call,
+       treasure pours in. No need to
+       slave away.
+
+[US#3176] (treasure hunter)
+  JP : 「お宝に反応して / その級置を知らせてくれる / まさに僕向きの便利なグッズだ
+  LIT: It reacts to treasure and tells you where it is; a handy gadget made for someone like me.
+  RE : It senses treasure and points the
+       way. A handy gadget made just for
+       me.
+
+[US#3178] (treasure hunter)
+  JP : 「ちびっ家だもんな〜
+  LIT: Well, you're just a kid.
+  RE : Well, you're just a kid.
+
+[US#3179] (treasure hunter)
+  JP : 「僕みたいに / ボロは着ててもココロが錦なら / そんなモン貧しくはないね
+  LIT: If you wear rags but your heart is brocade, like me, you're not poor at all.
+  RE : Wear rags with a heart of brocade,
+       like me, and you're not poor at
+       all.
+
+[US#3180] (treasure hunter)
+  JP : 「そう、僕に足りないのは / 金銀財宝、お宝ちゃん / 早くトレジャーコールを見つけないとな
+  LIT: Right, what I lack is gold, silver, treasure! Gotta find that Booty Call soon.
+  RE : What I lack is gold, silver,
+       treasure! Gotta find that Booty
+       Call soon.
+
+[US#3181] (treasure hunter)
+  JP : 「ダメダメッ！ / 僕ならお宝にまみれて / 暮らしていきたいってもんよ
+  LIT: No, no! Me, I want to live buried in treasure.
+  RE : No, no! Me, I want to live buried
+       in treasure.
+
+[US#3182] (treasure hunter)
+  JP : 「そのためにも / まずはトレジャーコールを探さんとな
+  LIT: And for that, first I have to find the Booty Call.
+  RE : And for that, first I must find
+       the Booty Call.
+
+[US#3183] (townsperson)
+  JP : 「だったら / あんたたちに / まかせておけば安心だ
+  LIT: In that case, leaving it to you people puts my mind at ease.
+  RE : In that case, leaving it to you
+       puts my mind at ease.
+
+[US#3184] (townsperson)
+  JP : 「〜でも、そうでないのなら / 僕たちは誰を頼ればいい〜？ / だからみんな不安なんだよ
+  LIT: But if not, who are we supposed to rely on? That's why everyone's uneasy.
+  RE : But if not, who are we to rely
+       on? That's why everyone's uneasy.
+
+[US#3185] (townsperson)
+  JP : 「もしも〜 / ファルガイアのどこかで爆発していたら / いったいどうなっていたのだろう〜
+  LIT: If it had exploded somewhere in Filgaia, whatever would have become of us?
+  RE : If it had exploded somewhere in
+       Filgaia, what would have become
+       of us?
+
+[US#3186] (townsperson)
+  JP : 「じゃあ、いったい / 誰がこの空を取り締まるんだ？
+  LIT: Then who on earth polices this sky?
+  RE : Then who on earth polices this
+       sky?
+
+[US#3187] (constable)
+  JP : 「でも、今は〜 / この１０数間 / 人に向かって撃ってないのが自慢だな
+  LIT: But these days, my pride is that I haven't fired at a person in ten-odd years.
+  RE : These days my pride is I haven't
+       fired at a person in ten-odd
+       years.
+
+[US#3188] (miner NPC)
+  JP : 「このまま / 渓谷の心までもが / 枯れちまわなきゃいいんだがな
+  LIT: I just hope the valley's heart doesn't wither away like this too.
+  RE : I just hope the valley's heart
+       doesn't wither away like this
+       too.
+
+[US#3190] (constable)
+  JP : 「テロリストの連絡は / あんたたち、ＡＲＭＳに / おまかせしているよ
+  LIT: Terrorist business I gladly leave to you ARMS folks.
+  RE : Terrorist business I gladly leave
+       to you ARMS folks.
+
+[US#3191] (townsperson)
+  JP : 「ひとつは / 飛空機艇の発着場を備えた / エアプレーンポートとして
+  LIT: For one, as an airplane port equipped with a landing field for aircraft.
+  RE : For one, as an airplane port with
+       a landing field for aircraft.
+
+[US#3193] (constable)
+  JP : 「きびしく取り締まったら / あんたらだって / 充分、あやしいんだぞ
+  LIT: If I cracked down hard, you lot would look plenty suspicious yourselves.
+  RE : If I cracked down hard, you lot
+       would look plenty suspicious
+       yourselves.
+
+[US#3196] (constable)
+  JP : 「少しでもあやしいと判断した人物は / アレコレ難癖つけてでも / しょっぴくべきなのかッ！
+  LIT: Should I haul in anyone who looks the least bit suspicious on whatever pretext I can find?!
+  RE : Should I haul in anyone who looks
+       the least bit suspicious, on any
+       pretext?!
+
+[US#3197] (townsperson)
+  JP : 「でもよ、まだファルガイアに / 生き残る可能性が少しでもあるんだったら / 僕も、力になってやるつもりだぜ
+  LIT: But if there's even a small chance Filgaia survives, I mean to lend my strength too.
+  RE : But if there's even a small chance
+       Filgaia survives, I mean to help
+       out too.
+
+[US#3198] (townsperson)
+  JP : 「でも、飛空機艇が着陸できないほどの / 枯れ地に囲まれているから / どうやって行けばいいのやら〜
+  LIT: But it's ringed by wasteland too rough for aircraft to land; how is anyone to get there?
+  RE : But it's ringed by wasteland too
+       rough for aircraft. How is anyone
+       to get there?
+
+[US#3199] (miner NPC)
+  JP : 「渓谷場の剣なら / ああ、なりたいもんだぜ
+  LIT: A guardian of the valley? Yeah, that I'd like to be.
+  RE : A guardian of the valley? Yeah,
+       that I'd like to be.
+
+[US#3201] (townsperson)
+  JP : 「聞いた事あるぜ / あんた、[05]きさんだろ？ / 『左占い』でバッチリ抜けてんだろうな
+  LIT: I've heard of you; you're {4}, right? You must ace it with that "left-hand divination."
+  RE : I've heard of you. You're {4},
+       right? You must ace it with that
+       left-hand divination.
+
+[US#3203] (townsperson)
+  JP : 「年に一度、たくさんの信応谷を持って / トンネルの中を行き来したもんだぜ
+  LIT: Once a year we'd go back and forth through the tunnel carrying loads of Empathite.
+  RE : Once a year we'd cross the tunnel
+       carrying loads of Empathite.
+
+[US#3204] (townsperson)
+  JP : 「ダムツェンの復興のためにも / あのトンネルは / 閉鎖しない方がよかったんじゃないか？
+  LIT: For Damzen's recovery too, wouldn't it have been better not to close that tunnel?
+  RE : For Damzen's recovery, wouldn't it
+       have been better not to close
+       that tunnel?
+
+[US#3205] (townsperson)
+  JP : 「なにが目的かはわからんが / まあ、せいぜい頑張ってくれ
+  LIT: Don't know what you're after, but well, good luck to you.
+  RE : Don't know what you're after, but
+       well, good luck to you.
+
+[US#3206] (Telepath Tower NPC)
+  JP : 「でもそれは / 信応谷に頼ったものではないんだ
+  LIT: But that isn't something that relies on Empathite.
+  RE : But that isn't something that
+       relies on Empathite.
+
+[US#3207] (Telepath Tower NPC)
+  JP : 「〜うまく言えないな〜
+  LIT: It's hard to put into words.
+  RE : It's hard to put into words.
+
+[US#3208] (Telepath Tower NPC)
+  JP : 「強く生きるための、強い『想い』〜 / それで注がることができれば / 人はもっと強くなれる
+  LIT: A strong "feeling" for living strongly; if we can be joined by that, people can grow stronger still.
+  RE : A strong will to live, if we can
+       be joined by that, people can
+       grow stronger still.
+
+[US#3209] (Telepath Tower NPC)
+  JP : 「〜違うかな
+  LIT: Am I wrong?
+  RE : Am I wrong?
+
+[US#3210] (Telepath Tower NPC)
+  JP : 「心を注いで / 不安を抱えることができるなら / うちのタワーが役に立つんだけど〜
+  LIT: If joining hearts could hold back the fear, our Tower would be of use.
+  RE : If joining hearts could hold back
+       the fear, our Tower would be of
+       use.
+
+[US#3211] (Telepath Tower NPC)
+  JP : 「でも、もっと重要なのは / 念話を伝えようとする / その人の概念力の強さだぜ
+  LIT: But more important still is the strength of will of the one sending the thought.
+  RE : More important still is the will
+       of the one sending the thought.
+
+[US#3212] (Telepath Tower NPC)
+  JP : 「でも、個人間の連絡くらいなら / 手の平サイズの信応谷で / 充分事たりるぞ
+  LIT: But for person-to-person contact, a palm-sized Empathite is plenty.
+  RE : For person-to-person contact, a
+       palm-sized Empathite is plenty.
+
+[US#3215] (townsperson)
+  JP : 「それよりもッ！ / あのテロリストどうするつもりなんだ？ / 何とかしてくれよッ！
+  LIT: Never mind that! What are you going to do about those terrorists? Do something!
+  RE : Never mind that! What about those
+       terrorists? Do something!
+
+[US#3216] (townsperson)
+  JP : 「あの連中〜 / 勝手に入って何をするつもりか知らないけど / やめてほしいぜ
+  LIT: That lot, I don't know what they mean to do barging in, but I wish they'd stop.
+  RE : That lot, whatever they mean to
+       do barging in, I wish they'd
+       stop.
+
+[US#3217] (townsperson)
+  JP : 「寂いじゃないか〜
+  LIT: Isn't it scary?
+  RE : Isn't it scary?
+
+[US#3218] (townsperson)
+  JP : 「そいつらが来てから / タワー街にモンスターも出没するんで / 近づくこともできやしない
+  LIT: Since they came, monsters prowl around the Tower too; we can't even go near it.
+  RE : Since they came, monsters prowl
+       the Tower grounds. We can't even
+       go near it.
+
+[US#3219] (townsperson)
+  JP : 「何なんだ？ / あいつらは？
+  LIT: What is with those people?
+  RE : What is with those people?
+
+[US#3221] (townsperson)
+  JP : 「ファルガイアも / この異世事態を乗り抱えて / もっと素素らしい世界になれれば〜
+  LIT: If only Filgaia can weather this crisis and become an even finer world...
+  RE : If only Filgaia can weather this
+       crisis and become a finer world...
+
+[US#3222] (Telepath Tower keeper)
+  JP : 「大きくて、純度の高い信応谷を使ってますが / テレパスタワーも / すいぶん古くなってしまいましたから〜
+  LIT: We use a large, high-purity Empathite, but the Telepath Tower has grown quite old.
+  RE : We use a large, high-purity
+       Empathite, but the Telepath Tower
+       has grown quite old.
+
+[US#3223] (Telepath Tower keeper)
+  JP : 「信応谷のメンテナンスが / やりにくくなってしまいました
+  LIT: Maintaining the Empathite has become difficult.
+  RE : Maintaining the Empathite has
+       become difficult.
+
+[US#3224] (Telepath Tower keeper)
+  JP : 「やっぱり / 我が身の責任なんでしょうか？
+  LIT: Is it our family's responsibility after all?
+  RE : Is it our family's responsibility
+       after all?
+
+[US#3225] (Telepath Tower keeper)
+  JP : 「どうしましょう〜 / 何か良くないことが / 起きなければいいのですが〜
+  LIT: What shall we do? I only hope nothing bad comes of it.
+  RE : What shall we do? I only hope
+       nothing bad comes of it.
+
+[US#3226] (elder NPC)
+  JP : 「まだまだなヤツだが / わしもあのくらいの腕には / あんなもんだったしな
+  LIT: He's still green, but at that age my skills were about the same.
+  RE : He's still green, but at that age
+       my skills were about the same.
+
+[US#3227] (elder NPC)
+  JP : 「だが、まだまだだな〜
+  LIT: But he's still got a long way to go.
+  RE : But he's still got a long way to
+       go.
+
+[US#3228] (elder NPC)
+  JP : 「ウジウジしているのは / 見ていて腹が立ってくるッ！
+  LIT: All that moping gets my blood up just watching!
+  RE : All that moping gets my blood up
+       just watching!
+
+[US#3229] (townsperson)
+  JP : 「タワーのみならず / あそこに保設しておいたトレジャーコールが / 悪用されなければよいが〜
+  LIT: Not just the Tower; I hope the Booty Call stored there isn't put to ill use.
+  RE : Not just the Tower. I hope the
+       Booty Call stored there isn't put
+       to ill use.
+
+# --- SKIPPED (system/demo/covered elsewhere) ---
+[US#3147] SKIPPED - font/system table box (no dialogue)
+[US#3148] SKIPPED - empty box
+[US#3149] SKIPPED - examine prompt "Do you want to read it?" (system)
+[US#3152] SKIPPED - no decoded JP (demo-notice slot)
+[US#3153] SKIPPED - no decoded JP (demo-notice slot)
+[US#3154] SKIPPED - no decoded JP (demo-notice slot)
+[US#3158] SKIPPED - no content box in decode
+[US#3164] SKIPPED - no content box in decode
+[US#3166] SKIPPED - no content box in decode
+[US#3177] SKIPPED - no content box in decode
+[US#3189] SKIPPED - no content box in decode
+[US#3192] SKIPPED - no content box in decode
+[US#3194] SKIPPED - no content box in decode
+[US#3195] SKIPPED - no content box in decode
+[US#3200] SKIPPED - no content box in decode
+[US#3202] SKIPPED - no content box in decode
+[US#3213] SKIPPED - no content box in decode
+[US#3214] SKIPPED - no content box in decode
+[US#3220] SKIPPED - no content box in decode
