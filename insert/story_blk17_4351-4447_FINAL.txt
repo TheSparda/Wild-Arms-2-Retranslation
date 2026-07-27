@@ -1,0 +1,522 @@
+# WA2 — Block 17, US#4351-4447 — FINAL (Sielje part 3: study panels, Lilka's sister, data-tablet chase — block 17 complete)
+# =========================================================================================
+# Sielje close: Dragon/Mystic/Combined-Spell/SOR study panels, McGregor's data-tablet analysis
+# (Protect-shielded tablets, energy-refinement intel), the ARMS briefing + pursuit through Gate
+# Bridge, Brad's traitor suspicion (parenthetical thoughts), the school-rival's showdown promise,
+# and Lilka's midnight museum scene, her sister's memory, the "you won't leave me?" promise, and
+# her charm-to-make-people-smile vow. The thermonuclear-comet report closes the block. JP-primary.
+
+[US#4351] (study panel)
+  JP : ＊強力な<b:8adf>体を持つ長<b:8b52>の<b:8b4e><b:8aed>にありがちな / <b:8af2>対<b:8b54>体年の少なさから / 目撃<8943>も少なく伝説の<b:8b4e><b:8aed>とされている
+  LIT: As is common with long-lived races of mighty body, their absolute numbers are few; sightings are rare, and they are held to be legend.
+  RE : As with long-lived races, their
+       numbers are few. Sightings are
+       rare; they are held legend.
+
+[US#4352] (study panel)
+  JP : ＊近数では空想上の<b:8b4e><b:8aed>であった / とする、説も広がりつつある
+  LIT: In recent years, the view that they were an imaginary race has been spreading.
+  RE : In recent years, the view that
+       they were an imaginary race has
+       been spreading.
+
+[US#4353] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4354] (study panel)
+  JP : ＊『幻獣ドラゴン』は / ファルガイアにおいて / 結異な存在だといえる
+  LIT: The "Dragons" are a singular existence within Filgaia.
+  RE : The |Dragons| are a singular
+       existence within Filgaia.
+
+[US#4355] (study panel)
+  JP : ＊大きな結<b:8b55>として / 機艇と<b:8b56><b:8adf>を持った生命体との / <b:8b57>合体であることである
+  LIT: Their great peculiarity is being a fusion of machine and a living body of flesh.
+  RE : Their great peculiarity is being
+       a fusion of machine and a living
+       body of flesh.
+
+[US#4356] (study panel)
+  JP : ＊その<b:8adf>体は我々の知る / どのような生物にも当てはまらない / 『規<b:8ae1>外』の生き物なのだ
+  LIT: Their bodies match no creature we know; they are beings "outside the standard."
+  RE : Their bodies match no creature we
+       know. They are beings outside the
+       standard.
+
+[US#4357] (study panel)
+  JP : ＊ファルガイアに元来いた<b:8b4e><b:8aed>なのか / それとも魔法による『キメラ』なのか / いまはしる術はない
+  LIT: Whether a race native to Filgaia or a magic-made "chimera," there is now no way to know.
+  RE : Whether a race native to Filgaia
+       or a magic-made chimera, there is
+       now no way to know.
+
+[US#4358] (study panel)
+  JP : ＊『幻獣ドラゴン』を渡した表面において / その力は、ガーディアンにも<b:8b58>相すると / されている
+  LIT: In texts that record the Dragons, their power is held to rival even the Guardians.
+  RE : In texts that record the Dragons,
+       their power is held to rival even
+       the Guardians.
+
+[US#4359] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4360] (study panel)
+  JP : ＊これは / アイテムの隠された力を解放し / より高い効果を発揮させる力である
+  LIT: This is the power to release an item's hidden strength and draw out a higher effect.
+  RE : This is the power to release an
+       item's hidden strength and draw
+       out a higher effect.
+
+[US#4361] (study panel)
+  JP : ＊『ヒールベリー』を使い / パーティー全<b:8b11>の回復するなど / 回復に使われることが多い
+  LIT: It is often used for healing, such as using a Heal Berry to restore the whole party.
+  RE : It is often used for healing,
+       such as a Heal Berry restoring
+       the whole party.
+
+[US#4362] (study panel)
+  JP : ＊しかし、他にも隠された能力を持った / アイテムが年多く存在している
+  LIT: But many other items exist that hold hidden abilities.
+  RE : But many other items exist that
+       hold hidden abilities.
+
+[US#4363] (study panel)
+  JP : ＊消<b:8b38>アイテムに / ミスティック効果があることが多いが / 装備品などにも効果のあるものがある
+  LIT: Consumables often carry a Mystic effect, but some equipment does as well.
+  RE : Consumables often carry a Mystic
+       effect, but some equipment does
+       as well.
+
+[US#4364] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4365] (study panel)
+  JP : ＊同属性の魔法の連続使用 / 反属性の魔法の連続使用 / しかし、その効果は実<b:8b59>されていない
+  LIT: Successive same-attribute casts; successive opposed-attribute casts; but their effect is unproven.
+  RE : Successive same-attribute casts,
+       or opposed-attribute casts. But
+       their effect is unproven.
+
+[US#4366] (study panel)
+  JP : ＊クレストソーサラーであれば / 誰もが一度は考える『合体魔法』 / その効果を実<b:8b59>したものはいない
+  LIT: Every Crest Sorcerer ponders "Combined Spells" at least once; none has proven their effect.
+  RE : Every Crest Sorcerer ponders
+       |Combined Spells| once. None has
+       proven their effect.
+
+[US#4367] (study panel)
+  JP : ＊もし、『合体魔法』の法<b:8b5a>性を見つけたなら / シエルジェはおろか、魔法<b:8b5b>に残る / 大きな発見となるだろう
+  LIT: Should one find the law of Combined Spells, it would be a discovery to mark not just Sielje but magic history.
+  RE : Find the law of Combined Spells,
+       and it would mark not just Sielje
+       but magic history.
+
+[US#4368] (study panel)
+  JP : ＊現存するレベル１魔法での組み合わせは / 全て試されたといってもいい
+  LIT: One may say every combination of extant Level 1 spells has been tried.
+  RE : One may say every combination of
+       extant Level 1 spells has been
+       tried.
+
+[US#4369] (study panel)
+  JP : ＊残る<b:8b5c><b:8af6>は / 古代の魔法、レベル２魔法復活による / 組み合わせの多方合しかないだろう
+  LIT: The remaining hope lies only in reviving the ancient Level 2 magic and multiplying the combinations.
+  RE : The remaining hope lies in
+       reviving the ancient Level 2
+       magic and its combinations.
+
+[US#4370] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4371] (study panel)
+  JP : ＊同じ魔法でも / 『ＳＯＲ』の高い術者の方が / より高い効果が得られるのである
+  LIT: The same spell yields a higher effect from a caster with higher "SOR."
+  RE : The same spell yields a higher
+       effect from a caster with higher
+       |SOR|.
+
+[US#4372] (study panel)
+  JP : ＊高い魔法効果を得たいのであれば / 装備品やミーディアムを装備することで / 一時的に『ＳＯＲ』を高めるのも手である
+  LIT: To gain higher spell effect, temporarily raising "SOR" with equipment or a Medium is one way.
+  RE : To gain higher spell effect,
+       raising |SOR| with equipment or a
+       Medium is one way.
+
+[US#4373] (study panel)
+  JP : ＊しかし、装備品やミーディアムによって / 一時的に魔力が高くなっても所<b:8b5d>は / 『<b:8a9a>り物』の能力でしかないことを知れ
+  LIT: But know that magic raised by equipment or Mediums is, in the end, only a "borrowed" power.
+  RE : But know that magic raised by
+       equipment or Mediums is, in the
+       end, only borrowed power.
+
+[US#4374] (study panel)
+  JP : ＊魔力を上げる<b:8b5e><b:8b5f>を<b:8b60>れば / それは全て自分に<b:8a67>ってくるのである
+  LIT: Neglect the discipline that raises your magic, and it all comes back upon you.
+  RE : Neglect the discipline that
+       raises your magic, and it all
+       comes back upon you.
+
+[US#4375] (Lilka)
+  JP : 「ねぇ、急いで / データタブレットの解放を / すませちゃおうよ
+  LIT: Come on, let's hurry and finish the data tablets' analysis!
+  RE : Come on, let's hurry and finish
+       the data tablets' analysis!
+
+[US#4378] (drifter NPC)
+  JP : 「何ていうか、その〜 / 貴<b:8b1c><b:8b63><b:8b64>、<b:8b2f>者<b:8af8>業〜
+  LIT: How to put it... wandering my homeland, honing my skills...
+  RE : How to put it... wandering my
+       homeland, honing my skills...
+
+[US#4379] (Lilka)
+  JP : 「ええっと〜
+  LIT: Let's see...
+  RE : Let's see...
+
+[US#4381] (Lilka)
+  JP : 「いっつもわたしに / ちょっかい出してくるし
+  LIT: And you're always pestering me!
+  RE : And you're always pestering me!
+
+[US#4382] (Lilka)
+  JP : 「このあいだ、たまたま、わたしの方が / 試験でいい帯出したからって / 勝負、勝負ってうるさいし〜
+  LIT: And just because I happened to score better on that one test, it's "showdown, showdown" nonstop!
+  RE : And because I happened to score
+       better on one test, it's
+       "showdown, showdown" nonstop!
+
+[US#4384] (party)
+  JP : 「<8847>当技術者に / <b:8afd>いたいのだが〜
+  LIT: We'd like to meet your scientist in charge.
+  RE : We'd like to meet your scientist
+       in charge.
+
+[US#4385] (student)
+  JP : 「それでしたら / マクレガー教<b:8aac>を / <b:8aeb>ねることをおすすめします
+  LIT: In that case, I recommend calling on Professor McGregor.
+  RE : In that case, I recommend calling
+       on Professor McGregor.
+
+[US#4386] (student rival)
+  JP : 「俺がひと足先に / お話を通してみます
+  LIT: I'll go on ahead and put in a word.
+  RE : I'll go on ahead and put in a
+       word.
+
+[US#4387] (student rival)
+  JP : 「みなさんは / 後でいらしてください
+  LIT: The rest of you, please come along after.
+  RE : The rest of you, please come
+       along after.
+
+[US#4388] (Lilka)
+  JP : 「ちょっと、アレだけど
+  LIT: He's a bit... you know, but...
+  RE : He's a bit... you know, but...
+
+[US#4389] (McGregor)
+  JP : 「さっそく、解放に入るとしよう
+  LIT: Let us begin the analysis at once.
+  RE : Let us begin the analysis at
+       once.
+
+[US#4390] (McGregor)
+  JP : 「今すぐ用意するとしよう
+  LIT: I shall prepare one right away.
+  RE : I shall prepare one right away.
+
+[US#4391] (McGregor)
+  JP : 「３<b:8b6a>のデータタブレットには / 実に強<8947>なプロテクトがかかっておった / さしもの私もこれには<8845>いたな
+  LIT: All three data tablets bore a truly formidable Protect; even I was taken aback by it.
+  RE : All three data tablets bore a
+       truly formidable Protect. Even I
+       was taken aback.
+
+[US#4392] (McGregor)
+  JP : 「だが、それが結果的に / 私の技術者魂に / 枯をつけたこととなったのであり〜
+  LIT: But that, in the end, is what set my engineer's soul alight, for...
+  RE : But that, in the end, set my
+       engineer's soul alight, for...
+
+[US#4393] (McGregor)
+  JP : 「では、あらためて〜
+  LIT: Now then, as I was saying...
+  RE : Now then, as I was saying...
+
+[US#4397] (McGregor)
+  JP : 「高質<886f>の / エネルギー概<b:8b1d>データが / タブレット街からうかがえる
+  LIT: High-grade energy-refinement data can be glimpsed within the tablets.
+  RE : High-grade energy-refinement data
+       can be glimpsed within the
+       tablets.
+
+[US#4398] (party)
+  JP : 「でも、よくわからないな / そんな危険なところをアジトにしたら / もしもの時にドッカンだぞ
+  LIT: But I don't get it; make your hideout somewhere that dangerous and one slip means kaboom.
+  RE : But I don't get it. Make your
+       hideout somewhere that dangerous
+       and one slip means kaboom.
+
+[US#4399] (commander)
+  JP : ＞〜〜〜〜
+  LIT: (Hmm...)
+  RE : Hmm......
+
+[US#4400] (commander)
+  JP : ＞これは、またとない機式だな / 私たちが<b:8b6b>らに先んじて / 行動が取れそうだ〜
+  LIT: This is a chance like no other; it seems we can act ahead of them for once.
+  RE : This is a chance like no other.
+       It seems we can act ahead of them
+       for once.
+
+[US#4402] (party)
+  JP : 「相手の<b:8b1a>合を / 気にしないですむな
+  LIT: We won't have to dance to their tune.
+  RE : We won't have to dance to their
+       tune.
+
+[US#4403] (McGregor)
+  JP : 「データタブレットから / これ以上の情報を招き出すには / あと一回必要だ
+  LIT: To draw any more from the data tablets, I need one more day.
+  RE : To draw any more from the data
+       tablets, I need one more day.
+
+[US#4404] (commander)
+  JP : ＞そうだな、ＡＲＭＳの貴様も / 次回に備えて休んでいてくれ / 休<89e2>も任務のひとつだ
+  LIT: Indeed; you of ARMS as well, rest for tomorrow; rest too is part of the mission.
+  RE : Indeed. You of ARMS as well, rest
+       for tomorrow. Rest too is part of
+       the mission.
+
+[US#4405] (commander)
+  JP : ＞では、解<b:8b0f>だ
+  LIT: Very well: dismissed.
+  RE : Very well: dismissed.
+
+[US#4409] (rival)
+  JP : 「キミの魔法の技<886f>では / いずれ、大ケガではすまなくなる
+  LIT: With your level of magic skill, someday it won't end at just a bad injury.
+  RE : With your level of magic skill,
+       someday it won't end at just a
+       bad injury.
+
+[US#4411] (Lilka)
+  JP : 「やっぱり、わたしって / 現場向きなのよ
+  LIT: See? I really am built for fieldwork.
+  RE : See? I really am built for
+       fieldwork.
+
+[US#4412] (Lilka)
+  JP : 「<b:8b6d>一、[0a]せに勝った / あの時のテストだって / 実地テストだったし〜
+  LIT: The one time I beat you, {5}, that test was a field test too, you know.
+  RE : The one time I beat you, {5},
+       that test was a field test too,
+       you know.
+
+[US#4413] (rival)
+  JP : 「その〜
+  LIT: Well, I...
+  RE : Well, I...
+
+[US#4414] (rival)
+  JP : 「俺との勝負は / どうなるんだッ！
+  LIT: What about our showdown?!
+  RE : What about our showdown?!
+
+[US#4415] (rival)
+  JP : 「[05]かは〜 / キミのお姉さんとは / 違うんだぞ〜
+  LIT: {2}... you're not the same as your big sister, you know...
+  RE : {2}... you're not the same as
+       your big sister, you know...
+
+[US#4416] (Lilka)
+  JP : 「何だかわくわくしてくる / 不思議な<b:8b10>物<899b>の<b:8b50>〜 / えへへ〜
+  LIT: Somehow it's thrilling: a museum of wonders by night! Ehehe.
+  RE : Somehow it's thrilling: a museum
+       of wonders by night! Ehehe.
+
+[US#4417] (Lilka)
+  JP : 「この時間のここはね / わたしの大好きな人しか / 知らないんだよ
+  LIT: This place at this hour: only the person I loved most knew of it.
+  RE : This place at this hour: only the
+       person I loved most knew of it.
+
+[US#4418] (Lilka)
+  JP : 「ずっと、ふたりいっしょだった / いちばん大好きだった / お姉ちゃん〜
+  LIT: We were always together, the two of us; my most beloved big sister.
+  RE : We were always together, the two
+       of us. My most beloved big
+       sister.
+
+[US#4420] (Lilka)
+  JP : 「大好きなひとと / 遠く離れてしまうのがこんなに<b:8b70>しいのなら / もう、誰も好きにならないって決めたの
+  LIT: If being parted from someone you love hurts this much, I decided never to love anyone again.
+  RE : If losing someone you love hurts
+       this much, I decided never to
+       love anyone again.
+
+[US#4422] (Lilka)
+  JP : 「[05]ぉは / 遠くに行ったりしないよね？
+  LIT: {1}, you won't go far away, will you?
+  RE : {1}, you won't go far away, will
+       you?
+
+[US#4423] (Ashley)
+  JP : 「もちろん〜 / [05]おも、[05]がも / [0a]ぉさんも、そしてみんなも〜
+  LIT: Of course not; nor will {1}, nor {3}, nor {0}, nor any of us.
+  RE : Of course not. Nor will {1}, nor
+       {3}, nor {0}, nor any of us.
+
+[US#4424] (Lilka)
+  JP : 「<b:8b71>重してよ。でないと〜 / わたしは一生 / 誰も好きになれないよ
+  LIT: Promise me. Or else I'll never be able to love anyone my whole life.
+  RE : Promise me. Or else I'll never be
+       able to love anyone my whole
+       life.
+
+[US#4425] (Lilka)
+  JP : 「お姉ちゃんに / 教えてもらったんだ
+  LIT: My big sister taught it to me.
+  RE : My big sister taught it to me.
+
+[US#4426] (Lilka)
+  JP : 「わたしも、お姉ちゃんみたいになるんだ / 誰かを<b:8a5b>探にさせる / おまじないを見つけるんだ〜
+  LIT: I'll become like my big sister: I'll find a charm that makes people smile.
+  RE : I'll become like my big sister.
+       I'll find a charm that makes
+       people smile.
+
+[US#4427] (Lilka)
+  JP : 「じゃあ / そうと決まれば急がなくっちゃッ！
+  LIT: Well then, now that it's decided, we'd better hurry!
+  RE : Well then, now that it's decided,
+       we'd better hurry!
+
+[US#4428] (McGregor)
+  JP : 「ちょっと<b:8b19><b:8a9a>するの
+  LIT: Let me borrow a look at that a moment.
+  RE : Let me borrow a look at that a
+       moment.
+
+[US#4429] (Lilka)
+  JP : 「あっれ〜 / おかしいな〜
+  LIT: Huh? That's odd...
+  RE : Huh? That's odd...
+
+[US#4431] (commander)
+  JP : ＞こんなことができるのは / ヤツらしかいない
+  LIT: Only that lot could have pulled this off.
+  RE : Only that lot could have pulled
+       this off.
+
+[US#4432] (commander)
+  JP : ＞貴様らの出番だ
+  LIT: It's your turn to act.
+  RE : It's your turn to act.
+
+[US#4433] (commander)
+  JP : ＞データタブレットから<b:8b73>知される / <8947>作パターンは / シエルジェより[11]お先東の方<894b>[11]ぉに移動中
+  LIT: The pattern sensed from the data tablets is moving from Sielje toward the region yonder-east.
+  RE : The pattern sensed from the data
+       tablets is moving from Sielje
+       toward the |east yonder|.
+
+[US#4434] (commander)
+  JP : ＞ただちに / 追跡にあたってほしい
+  LIT: I want you to begin pursuit at once.
+  RE : I want you to begin pursuit at
+       once.
+
+[US#4435] (party)
+  JP : 「そうかッ！ / ゲートブリッジを抜けるつもりだな
+  LIT: I see! They mean to slip through the Gate Bridge!
+  RE : I see! They mean to slip through
+       the Gate Bridge!
+
+[US#4436] (NPC)
+  JP : 「こいつがゲートを渡るのに必要なカギだ / 持っていくがいいよ
+  LIT: This is the key you need to cross the Gate; take it with you.
+  RE : This is the key you need to cross
+       the Gate. Take it with you.
+
+[US#4437] (Brad, thinking)
+  JP : （それよりも〜 / シエルジェ自分領に<b:8b74>れている事が / 連中にわかったのだろう〜？
+  LIT: (More to the point: how did they know we were staying in the Sielje domain?)
+  RE : (More to the point: how did they
+       know we were staying in the
+       Sielje domain?)
+
+[US#4438] (Brad, thinking)
+  JP : （まさか、街通者が〜 / いや、そんなことは<b:8af2>対に〜）
+  LIT: (Could there be an informer? No; that could never be...)
+  RE : (Could there be an informer? No.
+       That could never be...)
+
+[US#4439] (rival)
+  JP : 「異世界に<b:8b6c>発の<b:8b72>撃を / <b:8a85>移させる結単な魔法<b:8b6c><b:8b29>〜 / 授業で<b:8a8a>っただろ？
+  LIT: A simple Spell Bomb that shunts the blast into another dimension; we learned it in class, right?
+  RE : A simple Spell Bomb that shunts
+       the blast into another dimension.
+       We learned it in class!
+
+[US#4441] (rival)
+  JP : 「無事に帰って来いよ / 帰ってきたら / 俺と勝負するんだッ！
+  LIT: Come back safe; and when you do, you're facing me in a showdown!
+  RE : Come back safe. And when you do,
+       you're facing me in a showdown!
+
+[US#4442] (rival)
+  JP : 「そして今度こそは〜
+  LIT: And this time, for sure...
+  RE : And this time, for sure...
+
+[US#4443] (Lilka)
+  JP : 「こんなところで / 立ち止まってられないの
+  LIT: I can't be standing still in a place like this!
+  RE : I can't be standing still in a
+       place like this!
+
+[US#4444] (Lilka)
+  JP : 「じゃあねッ！
+  LIT: See you!
+  RE : See you!
+
+[US#4445] (observer)
+  JP : 「〜そして、何度やっても / 特待結果は同じです〜
+  LIT: And no matter how many times we measure, the result is the same.
+  RE : And no matter how many times we
+       measure, the result is the same.
+
+[US#4446] (observer)
+  JP : 「ゆりかご<8860>方<b:8a76>、３２６付近に / <88bf>大な<8868>核反応を確認ッ！ / 現在、ファルガイアに向かって搭近中
+  LIT: A massive thermonuclear reaction confirmed near Sector 326, Cradle quadrant! Now closing on Filgaia!
+  RE : A massive thermonuclear reaction
+       near Sector 326, Cradle quadrant!
+       Now closing on Filgaia!
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#4376] SKIPPED - no content box in decode
+[US#4377] SKIPPED - no content box in decode
+[US#4380] SKIPPED - no content box in decode
+[US#4383] SKIPPED - no content box in decode
+[US#4394] SKIPPED - no content box in decode
+[US#4395] SKIPPED - no content box in decode
+[US#4396] SKIPPED - no content box in decode
+[US#4401] SKIPPED - no content box in decode
+[US#4406] SKIPPED - no content box in decode
+[US#4407] SKIPPED - no content box in decode
+[US#4408] SKIPPED - no content box in decode
+[US#4410] SKIPPED - no content box in decode
+[US#4419] SKIPPED - no content box in decode
+[US#4421] SKIPPED - no content box in decode
+[US#4430] SKIPPED - no content box in decode
+[US#4440] SKIPPED - no content box in decode
+[US#4447] SKIPPED - no content box in decode
