@@ -1,0 +1,299 @@
+# WA2 — Block 19, US#4595-4645 — FINAL (Slayheim ruins: Angel Halo / Iscariot Treaty lore + Brad's memory + Kanon — block 19 complete)
+# =========================================================================================
+# The salt-buried Slayheim castle ruins: puzzle prompts (straighten the picture / press the
+# switch), the deep Slayheim lore panels (Super Weapons dug from Lost Technology made Slayheim
+# a military power, the road to ruin, Sir Iscariot's arms-restriction "Treaty of Iscariot,"
+# the doomsday weapon "Angel Halo" that would turn all Slayheim to salt flats, the King ready
+# to use it, the Liberation Army led by Vinsfeld and "the hero"), Brad's private memory (their
+# last mission, the friend who made it back, the thing he's holding for him), and a Kanon beat
+# (she'll slay the "monster" within Ashley; the left-handed hero clue; "you're my prey").
+# JP-primary; Angel Halo kept.
+
+[US#4595] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4596] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#4597] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#4605] (prompt)
+  JP : ＊左右のズレをなおしますか？ / １．はい / ２．いいえ[1a]か
+  LIT: Straighten the crooked picture? 1. Yes 2. No
+  RE : Straighten the crooked picture?
+       1. Yes 2. No
+
+[US#4606] (prompt)
+  JP : ＊スイッチを発してみますか？ / １．はい / ２．いいえ[1a]か
+  LIT: Try pressing the switch? 1. Yes 2. No
+  RE : Try pressing the switch? 1. Yes
+       2. No
+
+[US#4607] (prompt)
+  JP : ＊スイッチを発しますか？ / １．はい / ２．いいえ[1a]か
+  LIT: Press the switch? 1. Yes 2. No
+  RE : Press the switch? 1. Yes 2. No
+
+[US#4608] (lore panel)
+  JP : ＊その出土品の中には / ロストテクノロジーで作られた / 幻同時も年帯<b:8a40>まれていた
+  LIT: Among the excavated relics were several Super Weapons made with Lost Technology.
+  RE : Among the excavated relics were
+       several Super Weapons made with
+       Lost Technology.
+
+[US#4609] (lore panel)
+  JP : ＊それらの幻同時を手にしたことで / スレイハイムの軍事国<b:8a41>合に / <b:8a42><8a04>度を増していくこととなったのだ
+  LIT: Gaining those Super Weapons accelerated Slayheim's rise into a military power.
+  RE : Gaining those Super Weapons
+       accelerated Slayheim's rise into
+       a military power.
+
+[US#4610] (lore panel)
+  JP : ＊他国に対し / その幻同時を使うことはなかったものの / 世界の脅威になるには充分すぎた
+  LIT: Though never turned against another nation, the Super Weapons were more than enough to threaten the world.
+  RE : Though never turned against
+       another nation, the Super Weapons
+       more than threatened the world.
+
+[US#4611] (lore panel)
+  JP : ＊人は、強き力を手に入れることで / 道を<b:8a44>ることもある / 国においても同方なのだ
+  LIT: Coming into great power can lead a person astray; the same holds for nations.
+  RE : Coming into great power can lead
+       a person astray; the same holds
+       for nations.
+
+[US#4612] (lore panel)
+  JP : ＊過ぎた力を手に入れたスレイハイムは / 滅びに向かう道を / <b:8a45>み始めていたといえるだろう
+  LIT: Slayheim, having gained excessive power, had begun walking the road to ruin.
+  RE : Slayheim, having gained excessive
+       power, had begun walking the road
+       to ruin.
+
+[US#4613] (lore panel)
+  JP : ＊それを<b:8a4d>いた / スレイハイムの上<8872>貴<b:8a4f> / イスカリオテ<b:8a50>がひとつの<b:8a51><b:8a52>をした
+  LIT: Grieved by this, a high Slayheim noble, Sir Iscariot, put forward a proposal.
+  RE : Grieved by this, a high Slayheim
+       noble, Sir Iscariot, put forward
+       a proposal.
+
+[US#4614] (lore panel)
+  JP : ＊それが『幻同時の使用制限条約』 / 後に、『イスカリオテ条約』と呼ばれる / 同時の使用に関わる条約である
+  LIT: That was the "Super Weapon Use Restriction Treaty," later called the "Treaty of Iscariot," governing weapon use.
+  RE : That was the Super Weapon
+       Restriction Treaty, later called
+       the |Treaty of Iscariot|.
+
+[US#4615] (lore panel)
+  JP : ＊イスカリオテ<b:8a50>の領地街にて / 条約の締結を行い / その条約の<b:8a55>果を<b:8a56><89aa>とした
+  LIT: In Sir Iscariot's own domain the treaty was concluded and its force made permanent.
+  RE : In Sir Iscariot's own domain the
+       treaty was concluded and made
+       permanent.
+
+[US#4616] (lore panel)
+  JP : ＊国を滅ぼし、世界の平和を脅かす / 幻同時の使用制限を行い
+  LIT: By restricting the use of Super Weapons that could ruin nations and threaten world peace,
+  RE : By restricting the Super Weapons
+       that could ruin nations and
+       threaten world peace,
+
+[US#4617] (lore panel)
+  JP : ＊<b:8a59>び、軍事力増強の制限も設け / 世界を平和最<89ab>先とする / 事実上の軍備<b:8a5a>小<b:8a5b>言である
+  LIT: and by curbing the buildup of arms, it was in effect a declaration of disarmament, placing world peace first.
+  RE : and curbing the arms buildup, it
+       was in effect a disarmament
+       pact, placing world peace first.
+
+[US#4619] (lore panel)
+  JP : ＊その<b:8a60>いは / 制圧軍のそれを<b:8a61>かに上回るほどである
+  LIT: The movement's momentum far outstripped that of the suppression forces.
+  RE : The movement's momentum far
+       outstripped that of the
+       suppression forces.
+
+[US#4620] (lore panel)
+  JP : ＊その力の<8869>が / 解放軍リーダーと<b:8a62><b:8a63>と呼ばれる / たったふたりによるものとは信じかたい
+  LIT: It's hard to believe that force sprang from just two men: the Liberation Army leader and the one called "the hero."
+  RE : Hard to believe that force sprang
+       from just two men: the Liberation
+       leader and the one called |hero|.
+
+[US#4621] (lore panel)
+  JP : ＊しかし、この<b:8a64>人によってまとめられた / 解放軍の<b:8a60>力を無視することはできない / それは<895e>れもない事実なのだ
+  LIT: Yet the might of the Liberation Army those two rallied cannot be ignored; that is undeniable fact.
+  RE : Yet the might of the Liberation
+       Army those two rallied cannot be
+       ignored; undeniable fact.
+
+[US#4622] (lore panel)
+  JP : ＊戦況は<88d2>分<88d2>分 / どちらが勝利を手にするか / それを知るは、勝利の女<b:8a66>だけだろう
+  LIT: The war was evenly matched; which side would take the victory, only the Goddess of Victory could know.
+  RE : The war was evenly matched; which
+       side would win, only the Goddess
+       of Victory could know.
+
+[US#4623] (lore panel)
+  JP : ＊その威力は、<b:8a68>世代の同時の中でも / 最強の部<b:8a69>といえるだろう
+  LIT: Its power ranks among the very strongest of the ancient generation's weapons.
+  RE : Its power ranks among the very
+       strongest of the ancient
+       generation's weapons.
+
+[US#4624] (lore panel)
+  JP : ＊輝<b:8a6a>することになれば / おそらく、スレイハイム国の国土全てを / 塩の原野と合すのは間違いない
+  LIT: Were it detonated, it would beyond doubt turn all of Slayheim's land into salt flats.
+  RE : Were it detonated, it would
+       beyond doubt turn all of Slayheim
+       into salt flats.
+
+[US#4625] (lore panel)
+  JP : ＊スレイハイム王は / もしものときには、その使用さえ / <b:8a6d>さぬ信<b:8a6e>のようだ
+  LIT: The King of Slayheim seems resolved to permit even its use, should the worst come.
+  RE : The King of Slayheim seems
+       resolved to permit even its use,
+       should the worst come.
+
+[US#4626] (lore panel)
+  JP : ＊スレイハイム国に生きる者として / 『エンゼルハイロゥ』が使用されないことを / 心から願うばかりである
+  LIT: As one who lives in Slayheim, I can only pray from the heart that the "Angel Halo" is never used.
+  RE : As one who lives in Slayheim, I
+       can only pray the |Angel Halo| is
+       never used.
+
+[US#4627] (lore panel)
+  JP : ＊しかし、それもすべて / 解放軍との戦いにかかっているだろう
+  LIT: Yet all of that likely hinges on how the war with the Liberation Army goes.
+  RE : Yet all of that likely hinges on
+       how the war with the Liberation
+       Army goes.
+
+[US#4628] (soldier)
+  JP : 「生きて、帰るしかないんだッ！[16]くぉ[16]くぉ[16]くぉ[16]くぉ[16]くぉ[17]
+  LIT: We've no choice but to make it back alive!
+  RE : We've no choice but to make it
+       back alive!
+
+[US#4629] (Brad, thinking)
+  JP : （そう… / あれがあいつとの最後の作戦だった…）
+  LIT: (Yes... that was the last mission I shared with him...)
+  RE : (Yes... that was the last mission
+       I shared with him...)
+
+[US#4630] (Brad, thinking)
+  JP : （『エンゼルハイロゥ』の輝<b:8a6a>を知ったとき / 正<8865>、また生きて式えるとは思わなかった）
+  LIT: (When I learned the "Angel Halo" had gone off, honestly I never thought I'd see him alive again.)
+  RE : (When the |Angel Halo| went off,
+       honestly I never thought I'd see
+       him alive again.)
+
+[US#4631] (Brad, thinking)
+  JP : （だが、あいつは生きて帰ってきた…）
+  LIT: (But he made it back alive...)
+  RE : (But he made it back alive...)
+
+[US#4632] (Brad, thinking)
+  JP : （だから、僕もこの戦いが終わったとき / あいつから<b:8a82>かったモノを<b:8a6f>すため / 生きなければいけない…）
+  LIT: (So when this war is over, I have to be alive to give back the thing he entrusted to me...)
+  RE : (So when this war is over, I have
+       to be alive to give back what he
+       entrusted to me...)
+
+[US#4633] (Kanon)
+  JP : 「この世ならざる生を受けしは / 彼<b:8a87>らと貴方も同じことよ〜
+  LIT: You share it with them: a life not of this world.
+  RE : You share it with them: a life
+       not of this world.
+
+[US#4634] (Kanon)
+  JP : 「ここは、お前の在るべき世界ではない〜
+  LIT: This is not the world where you belong.
+  RE : This is not the world where you
+       belong.
+
+[US#4635] (Kanon)
+  JP : 「あたしを<b:8a8d>るなど / やつらとて<b:8a8e>わぬことさ
+  LIT: As for binding me, even they could never manage it.
+  RE : As for binding me, even they
+       could never manage it.
+
+[US#4636] (Kanon)
+  JP : 「貴方に<b:8a8f>みはないが / その身に<b:8a90>みし『魔』を斬るのもまた / あたしの<b:8a8c>命ッ！
+  LIT: I bear you no grudge; but to cut down the "demon" steeped in your body is also my destiny!
+  RE : I bear you no grudge; but to cut
+       down the |demon| within you is
+       also my destiny!
+
+[US#4637] (Kanon)
+  JP : 「ジャマする者であれば / 何であろうと<b:8a93>り<b:8a94>てるッ！
+  LIT: Anyone who gets in my way, whatever they are, I'll cut down!
+  RE : Anyone who gets in my way,
+       whatever they are, I'll cut down!
+
+[US#4638] (Kanon)
+  JP : 「貴方が<8943>えどこへいようとも / 追いかけて、追いつめてやるッ！
+  LIT: No matter where you flee, I'll hunt you and run you to ground!
+  RE : No matter where you flee, I'll
+       hunt you and run you to ground!
+
+[US#4639] (Kanon)
+  JP : 「それまでは / 貴方も生き<b:8a98>びろ
+  LIT: Until then, you'd better stay alive.
+  RE : Until then, you'd better stay
+       alive.
+
+[US#4640] (Kanon)
+  JP : 「ひとつ伝えておこう〜 / ヴィンスフェルトが言うに / ５数前の<b:8a62><b:8a63>は<b:8a99>利きらしいぞ〜
+  LIT: Let me tell you one thing: by Vinsfeld's word, the hero of five years ago was left-handed.
+  RE : Let me tell you one thing: by
+       Vinsfeld's word, the hero of five
+       years ago was left-handed.
+
+[US#4641] (Kanon)
+  JP : 「<89a3>中から攻われぬよう心しておけ / 貴方はあたしの<b:8a9a>物〜 / 誰にも渡さないッ！
+  LIT: Mind your back from now on; you are my prey, and I won't hand you to anyone!
+  RE : Mind your back from now on; you
+       are my prey, and I won't hand you
+       to anyone!
+
+[US#4642] (party)
+  JP : 「この館… / 中は塩に侵食されていないんだ / 時間はありそうだから調べてみるか
+  LIT: This castle; inside, the salt hasn't eaten in yet. We seem to have time, so shall we look around?
+  RE : This castle; inside, the salt
+       hasn't eaten in yet. We have
+       time, so let's look around.
+
+[US#4643] (Brad)
+  JP : 「まさか / また戻ってくることになるとはな…
+  LIT: I never dreamed I'd end up coming back here again...
+  RE : I never dreamed I'd end up coming
+       back here again...
+
+[US#4644] (party)
+  JP : 「これからどうしようか？
+  LIT: So what do we do now?
+  RE : So what do we do now?
+
+[US#4645] (party)
+  JP : 「ここでどんな魔物を / <b:8a9c><b:8a9d>するつもりなんだろう…
+  LIT: I wonder what sort of demon she means to exorcise here...
+  RE : I wonder what sort of demon she
+       means to exorcise here...
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#4598] SKIPPED - no content box in decode
+[US#4599] SKIPPED - no content box in decode
+[US#4600] SKIPPED - no content box in decode
+[US#4601] SKIPPED - no content box in decode
+[US#4602] SKIPPED - no content box in decode
+[US#4603] SKIPPED - no content box in decode
+[US#4604] SKIPPED - no content box in decode
+[US#4618] SKIPPED - no content box in decode
