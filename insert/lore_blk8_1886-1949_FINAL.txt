@@ -1,0 +1,345 @@
+# WA2 — Block 8, US#1886-1949 — FINAL (Heimdal Gazzo assault briefing + Gias reveal + Kanon resolve)
+# =========================================================================================
+# The climax of the Chateau arc: Filgaia-unity examine panels close out, then the Guild Galad
+# escort mission, the |Gias| neck-bomb reveal (Slayheim hero / {1} Evans), Kanon/Aisha's
+# <Sword Magess>-blood resolve, the Silhouette Arm system explainer, and the commander's
+# Heimdal Gazzo assault briefing: silence the four |Diablo Pillars|, end the war with Odessa,
+# and the core theme, "fight to win, but live and return." JP-primary; unreadable spans [?].
+# FILL boxes (1886,1887,1889,1909,1916-18,1920,1939) left for propagation. Hand-done (fleet API limit).
+
+[US#1888] (examine panel)
+  JP : ＊作無もいわせぬ恐<b:8a93>か？ / 抗うことのできない力か？ / 統一された思想か？
+  LIT: Terror that brooks no dissent? A power none can resist? One unified creed?
+  RE : Terror that allows no dissent? A
+       power none can resist? One unified
+       creed?
+
+[US#1890] (examine panel)
+  JP : ＊<b:8bde><b:8bdf>において、統一を試みた者たちはいた / しかしながら、その全てが / うたかたの理となりて<b:8bed>っていった
+  LIT: In ages past, some tried for unity; yet all of it faded away like fleeting foam.
+  RE : In ages past, some sought unity.
+       Yet all of it faded like fleeting
+       foam.
+
+[US#1891] (examine panel)
+  JP : ＊そもそも、一人の支配者のもとに / 統一されることは可能なのか？
+  LIT: Is it even possible to be unified under a single ruler?
+  RE : Is it even possible to unite
+       under a single ruler?
+
+[US#1892] (examine panel)
+  JP : ＊もし、世界がまとまる時が来たとしたら / それは、世界の人々がそれを望む状況に / なったときだろう
+  LIT: If a time of unity ever comes, it will be when the world's people themselves desire it.
+  RE : If the world ever unites, it will
+       be when its people themselves
+       desire it.
+
+[US#1893] (examine panel)
+  JP : ＊現在は、定<8943>で少数に一度開催されるが / 緊急時には、非世開催も行われる
+  LIT: Now it's held on a set cycle every few years, but emergencies bring extraordinary sessions too.
+  RE : It's held on a set cycle every few
+       years, with emergency sessions in
+       a crisis.
+
+[US#1894] (examine panel)
+  JP : ＊スレイハイムの崩滅の<89d2>には / 今後の世界情報について協議されるため / 非世開催されることとなった
+  LIT: At Slayheim's fall, an extraordinary session was convened to discuss the world's future.
+  RE : At Slayheim's fall, an emergency
+       session was called to weigh the
+       world's future.
+
+[US#1895] (examine panel)
+  JP : ＊この時には、注目<b:8bf0><b:8bf1>でもある / 『イスカリオテ<b:8bf0><b:8bf1>』について / <b:8bc9>めて話し合われた
+  LIT: At that time the Treaty of Iscariot, a peace treaty, was taken up for discussion once more.
+  RE : At that time the Treaty of
+       Iscariot was taken up for
+       discussion once more.
+
+[US#1896] (examine panel)
+  JP : ＊自共の利<b:8bf2>だけでなく / 世界の注目のためについて話し合われる / それがファルガイアサミットである
+  LIT: Not just each nation's gain, but the good of the whole world is discussed; that is the Filgaia Summit.
+  RE : Not just each land's gain, but the
+       whole world's good is debated.
+       That is the Filgaia Summit.
+
+[US#1898] (commander/Irving)
+  JP : 「それから、その地帯の情報を / クアトリーにて入手できるかもしれん / 情報斬集も<b:8b69>るな
+  LIT: Also, you may be able to get intel on that region at Quartly; don't neglect gathering information.
+  RE : You may find intel on that region
+       at Quartly. Don't neglect
+       gathering it.
+
+[US#1899] (commander)
+  JP : 「ギルドグラードマスターのご家<89e2>の護衛だ / なるべく<8a0c>相のないようにな
+  LIT: You're guarding the Guild Galad Master's family; try to make no mistakes.
+  RE : You're guarding the Guild Galad
+       Master's kin. Make no mistakes.
+
+[US#1900] (Brad)
+  JP : 「<b:8aa2>知された / パターンから<88c1>待するに / 『ギアス』の〜
+  LIT: Judging from the [detected] pattern, it was a "Gias"...
+  RE : Judging from the pattern we
+       detected, it was a |Gias|...
+
+[US#1901] (Brad)
+  JP : 「[05]お・エヴァンスの / <b:8bf3>部に<89db>め込まれた小型爆弾 / 『ギアス』の爆発にまちがいない
+  LIT: It was surely the blast of "Gias," the small bomb implanted in {1} Evans' neck.
+  RE : It was surely the |Gias|, the
+       small bomb set in {1} Evans'
+       neck, going off.
+
+[US#1902] (Chateau NPC)
+  JP : 「<8979>が一の生存確<b:8bf4>は？ / ゼロじゃないんだろう〜
+  LIT: Any chance of survival? It's not zero, is it?
+  RE : Any chance he survived? It's not
+       zero, is it?
+
+[US#1903] (Chateau NPC)
+  JP : 「生存の可能性など / 考えるだけムダだ〜
+  LIT: The odds of survival aren't even worth considering.
+  RE : The odds of survival aren't worth
+       considering.
+
+[US#1904] (Chateau NPC)
+  JP : 「俺は、いっときでも / 中いの目で / お前を見てしまった〜
+  LIT: For a moment, I looked at you with doubt in my eyes.
+  RE : For a time, I looked on you with
+       doubt.
+
+[US#1905] (Chateau NPC)
+  JP : 「なのに、お前は〜
+  LIT: And yet you...
+  RE : And yet you...
+
+[US#1906] (Chateau NPC)
+  JP : 「そして、注目な回世を取り戻す
+  LIT: And to win back the days of peace.
+  RE : And to win back the days of
+       peace.
+
+[US#1907] (Chateau NPC)
+  JP : 「[05]おを<b:8bf6>うのは / これしかない〜
+  LIT: This is the only way to mourn {1}.
+  RE : This is the only way to mourn
+       {1}.
+
+[US#1908] (Chateau NPC)
+  JP : 「それが、いちばんなんだよね？
+  LIT: That's the best way, isn't it?
+  RE : That's the best way, isn't it?
+
+[US#1910] (kid/NPC)
+  JP : 「ごめんなさい〜 / もう、注気です〜
+  LIT: I'm sorry. I'm all right now.
+  RE : I'm sorry. I'm all right now.
+
+[US#1911] (commander)
+  JP : 「ギルドグラードマスターの家<89e2>を / 保り抜き、本共まで着ることである
+  LIT: The mission is to guard the Guild Galad Master's kin and see them safely to their homeland.
+  RE : Guard the Guild Galad Master's
+       kin and see them safely home.
+
+[US#1912] (Kanon)
+  JP : 「わたしたちＡＲＭＳを / 便利乗か何かと思ってるんじゃない？
+  LIT: Does he think we ARMS are some kind of convenient errand service?
+  RE : Does he think we ARMS are some
+       errand service?
+
+[US#1913] (Kanon)
+  JP : 「どこまでも / <b:8bf7>たらしいヤツねッ！
+  LIT: What an insufferable man, through and through!
+  RE : What an insufferable man, through
+       and through!
+
+[US#1914] (commander)
+  JP : 「ステーションの級置は / クアトリーの北方、谷<b:8bf8>地<89e8>のふもとにある / そこで、彼らと合流の期定だ
+  LIT: The station lies north of Quartly, at the foot of the valley mountains; you're to rendezvous with them there.
+  RE : The station lies north of Quartly,
+       at the mountains' foot. Meet them
+       there.
+
+[US#1915] (Kanon)
+  JP : 「それは、実<89d2>に / 強相として<b:8bfa>を交えた / 貴様らの方がよくわかってると思う
+  LIT: You who once crossed blades with her as a fierce foe know that better than anyone.
+  RE : You who once crossed blades with
+       her know that better than anyone.
+
+[US#1919] (Chateau NPC)
+  JP : 「やられないように気をつけなくちゃな
+  LIT: I'll have to watch my back.
+  RE : I'll have to watch my back.
+
+[US#1921] (Chateau NPC)
+  JP : 「クアトリーの先方に広がる<88db><88dc>に向かって / エネルギーパイプラインが / <8c01>びていたのだ
+  LIT: An energy pipeline stretched toward the desert spreading beyond Quartly.
+  RE : An energy pipeline stretched into
+       the desert beyond Quartly.
+
+[US#1922] (Chateau NPC)
+  JP : 「おそらくは〜
+  LIT: That most likely means...
+  RE : That most likely means...
+
+[US#1923] (Chateau NPC)
+  JP : 「いったい、どんなモノを / 手に入れようとしているのでしょうか〜
+  LIT: Just what could they be trying to obtain?
+  RE : Just what are they trying to
+       obtain?
+
+[US#1924] (commander)
+  JP : 「状況によっては / 阻止することを命じるッ！
+  LIT: Depending on the situation, I order you to stop them!
+  RE : If the situation warrants, I order
+       you to stop them!
+
+[US#1925] (Kanon)
+  JP : 「あたしは、この身に流れる / ＜剣の聖女＞の血の<b:8b04>命に / <8911>ったまでのこと
+  LIT: I merely followed the destiny of the <Sword Magess> blood that flows in me.
+  RE : I merely followed the destiny of
+       the <Sword Magess> blood in my
+       veins.
+
+[US#1926] (Kanon)
+  JP : 「こだわりすぎているのではないか？ / アイシャ・ベルナデット？
+  LIT: Aren't you taking this too far, Aisha Bernadette?
+  RE : Aren't you taking this too far,
+       Aisha Bernadette?
+
+[US#1927] (Kanon)
+  JP : 「＜剣の聖女＞の<b:8bb8><b:8bb9>として〜 / 『英雄』として在るためにッ！
+  LIT: As heir to the <Sword Magess>, to stand as a "hero"!
+  RE : As heir to the <Sword Magess>,
+       to stand as a |hero|!
+
+[US#1928] (system explainer)
+  JP : ＊オリジナルパワー『シルエットアーム』は / 体街に街<8c03>された暗時を用いたり / エネルギーを放出する<8c04>撃コマンドです
+  LIT: The original power "Silhouette Arm" is an attack command using implanted [devices] or releasing energy.
+  RE : The Silhouette Arm is an attack
+       command using implanted tech or
+       releasing raw energy.
+
+[US#1929] (system explainer)
+  JP : ＊バトルの中でシルエットアームを使用すると / 義体のリミッターが解<8c05>されて / 新たなワザが使用可能になる場合もあります
+  LIT: Using the Silhouette Arm in battle can release the bionic body's limiter, sometimes unlocking new techniques.
+  RE : Using it in battle can release the
+       bionic body's limiter, sometimes
+       unlocking new techniques.
+
+[US#1930] (system explainer)
+  JP : ＊また、<8c06>の義<8c07>には、発見可能なアイテムや / マップシンボルをキャッチする / 探知ソナー能力が備わっています
+  LIT: Also, her artificial [eye] has a sonar function that catches findable items and map symbols.
+  RE : Her artificial eye also has a
+       sonar that catches items and map
+       symbols.
+
+[US#1931] (system explainer)
+  JP : ＊ファルガイアマップ上にある / アイテムを<8a08><8a07>い輝帯 / マップシンボルを<8c08>の輝帯で表示します
+  LIT: Items on the Filgaia map show as one colored light, map symbols as another.
+  RE : Items on the Filgaia map show as
+       one colored light, map symbols as
+       another.
+
+[US#1932] (commander)
+  JP : 「相空中要<885e>、ヘイムダル・ガッツォーは / 調調不<b:8a4d>分にして / <b:8acc>滅を<889a>っている
+  LIT: The enemy aerial fortress Heimdal Gazzo is in poor condition and courting destruction.
+  RE : The enemy fortress Heimdal Gazzo
+       is damaged and courting ruin.
+
+[US#1933] (commander)
+  JP : 「この機をのがしてはならないッ！ / ＡＲＭＳの全戦力をもって / テロリスト・オデッサを<8c09>くッ！
+  LIT: We must not miss this chance! With all of ARMS' strength, we strike the terrorists Odessa!
+  RE : We must not miss this chance!
+       With all ARMS' strength, we
+       strike Odessa!
+
+[US#1934] (commander)
+  JP : 「それが『魔界鍵』〜 / キミたちが手に入れてきた情報にあった / エネルギージェネレイターだ
+  LIT: That's the "Demon Realm Key," the energy generator from the intel you brought back.
+  RE : That's the |Demon Realm Key|, the
+       energy generator from the intel
+       you brought.
+
+[US#1935] (commander)
+  JP : 「魔界鍵は<88d1>本存在し / それぞれがヘイムダル・ガッツォーの / 維持にあてられていると<88c1>待される
+  LIT: There are four Demon Realm Keys, each believed to help maintain Heimdal Gazzo.
+  RE : There are four Demon Realm Keys,
+       each thought to help hold Heimdal
+       Gazzo aloft.
+
+[US#1936] (commander)
+  JP : 「ウィザードリィステルス機能が / <887c><887d>されているとなると / あらゆる<887e>相方法が制限されてくる
+  LIT: If they have the Wizardry Stealth function, every means of detection is limited.
+  RE : If they have Wizardry Stealth,
+       every means of detection is
+       limited.
+
+[US#1937] (commander)
+  JP : 「が〜 / ウィザードリィステルスも<8979>能ではない
+  LIT: However, even Wizardry Stealth is not all-powerful.
+  RE : However, even Wizardry Stealth
+       is not all-powerful.
+
+[US#1938] (commander)
+  JP : 「世に身にまとうためには / 大<886f>のエネルギーを / 消費せざるを得ないのだ
+  LIT: To keep itself cloaked, it must expend a great deal of energy.
+  RE : To keep itself cloaked, it must
+       burn a great deal of energy.
+
+[US#1940] (commander)
+  JP : 「貴様らは / 魔界鍵と<895b>されるジェネレイター<88d1>軒を / 完全に<898f><8990>させてほしい
+  LIT: I want you to completely silence the four generators called Demon Realm Keys.
+  RE : Silence all four generators, the
+       Demon Realm Keys, completely.
+
+[US#1941] (commander)
+  JP : 「エネルギーの族<898d>を断たれた / ヘイムダル・ガッツォーは / 我々の前に威殺をさらけ出すこととなるッ！
+  LIT: Cut off from its energy, Heimdal Gazzo will lay itself bare before us!
+  RE : Cut off from its energy, Heimdal
+       Gazzo will lie bare before us!
+
+[US#1942] (commander)
+  JP : 「その時こそ / オデッサとの戦いに / <b:8bd3>をおろす時であるッ！
+  LIT: That will be the moment to bring our war with Odessa to a close!
+  RE : That is when our long war with
+       Odessa comes to a close!
+
+[US#1943] (commander)
+  JP : 「こころしてあたってほしいッ！
+  LIT: Steel yourselves and see it through!
+  RE : Steel yourselves and see it
+       through!
+
+[US#1944] (party)
+  JP : 「わかったッ！
+  LIT: Understood!
+  RE : Understood!
+
+[US#1945] (commander)
+  JP : 「作戦は次<8c0a>、ヒトマルマルマルより決行 / それまでは / <b:8ab0>自、自由行動だ
+  LIT: The operation begins tomorrow at 1000 hours; until then, you're at liberty.
+  RE : The operation begins tomorrow at
+       ten hundred hours. Until then,
+       you're free.
+
+[US#1946] (commander)
+  JP : 「だがッ！ / これで戦いが / 終るわけではないッ！
+  LIT: But! This will not be the end of the fighting!
+  RE : But this will not be the end of
+       the fighting!
+
+[US#1947] (commander)
+  JP : 「ファルガイアの未来が続くかぎり / 貴様らの戦いは / 終りなどはしないッ！
+  LIT: As long as Filgaia's future goes on, your battles will never end!
+  RE : As long as Filgaia's future goes
+       on, your battles will never end!
+
+[US#1948] (commander)
+  JP : 「だから〜 / 戦って、勝利をつかんだら / 生きて帰ってこいッ！
+  LIT: So, when you've fought and seized victory, come back alive!
+  RE : So, when you've fought and won,
+       come back alive!
+
+[US#1949] (commander)
+  JP : 「〜たのんだぞ、みんな〜
+  LIT: I'm counting on you, all of you.
+  RE : I'm counting on you, all of you.
