@@ -1,0 +1,210 @@
+# WA2 — Block 12, US#3380-3444 — FINAL (Damzen part 4: legends, Ley Points, Marivel's tip — block 12 complete)
+# =========================================================================================
+# Damzen closing run: Argetlahm/Blaze-of-Disaster legend talk, the scorched-land mystery, Mt.
+# Chug-Chug's absurd "real name" gag, Ley Line/Raypoint geography (Holst threatened by Odessa),
+# the inn charge, and the masked Marivel dropping the Slayheim-aircraft tip while dodging
+# "who are you?" (mascot-suit gag, UV rays). US#3410-3444 are verbatim JP repeats of
+# 3380-3409 (the game reuses this NPC pool) — marked DUP, translations identical.
+# Marivel: archaic register (わらわ). JP-primary. SKIPPED slots at end.
+
+[US#3380] (townsperson)
+  JP : 「今に残る伝説を / もっと、ひもといてみないと〜
+  LIT: We ought to unravel the legends that remain today a little more.
+  RE : We ought to unravel the legends
+       that remain today a little more.
+
+[US#3381] (townsperson)
+  JP : 「あんなスゴイものをもってしても / ご先祖方たちは『救の啓示』を / 授けることができなかったんだね〜
+  LIT: Even wielding something that mighty, our ancestors couldn't be granted the "revelation of salvation."
+  RE : Even wielding something that
+       mighty, our ancestors weren't
+       granted the |revelation|.
+
+[US#3382] (townsperson)
+  JP : 「このダムツェンのまわりに / たくさんの木や草が生えていたって / ちょっと想像つかないね
+  LIT: Trees and grass growing thick around this Damzen; hard to picture, isn't it?
+  RE : Trees and grass growing thick
+       around this Damzen? Hard to
+       picture, isn't it?
+
+[US#3383] (townsperson)
+  JP : 「あっという間に / 焼き払われたってのはわかるけど〜
+  LIT: I get that it was all burned away in an instant, but...
+  RE : I get that it was all burned away
+       in an instant, but...
+
+[US#3384] (townsperson)
+  JP : 「あれから時間は流れているのに / どうして空が元に戻らないんだろう？
+  LIT: Time has passed since then, so why hasn't the sky gone back to normal?
+  RE : Time has passed since then, so
+       why hasn't the sky gone back to
+       normal?
+
+[US#3385] (kid)
+  JP : 「[11]おこの場のずっと側[11]ぉにある渓谷〜 / 『ポンポコ谷』の正儀な名前は / ケルテペッキョシルトリンゲロン谷なんだ
+  LIT: The mine way off from here: Mt. Chug-Chug's proper name is Mt. Keltepekkyo-Siltringelon.
+  RE : The mine |way off from here|, Mt.
+       Chug-Chug's proper name, is Mt.
+       Keltepekkyosiltringelon.
+
+[US#3386] (kid)
+  JP : 「もう、おぼえたよね？
+  LIT: You've memorized it by now, right?
+  RE : You've memorized it by now,
+       right?
+
+[US#3387] (kid)
+  JP : 「〜ファルガイアの中心から / 始まってるんじゃないかな？
+  LIT: Doesn't it start from the very center of Filgaia, maybe?
+  RE : Doesn't it start from the very
+       center of Filgaia, maybe?
+
+[US#3389] (kid)
+  JP : 「これって〜 / 何か絶対にあると思うよッ！
+  LIT: I just KNOW there's something to this!
+  RE : I just KNOW there's something to
+       this!
+
+[US#3390] (townsperson)
+  JP : 「そのレイラインの先には / 『レイポイント』と呼ばれる / 強力な気溜りがあるらしいね
+  LIT: At the Ley Lines' ends, they say, lie powerful energy pools called "Raypoints."
+  RE : At the Ley Lines' ends, they say,
+       lie powerful pools called
+       |Raypoints|.
+
+[US#3391] (townsperson)
+  JP : 「[11]おダムツェンの北東[11]ぉにも / レイポイントのひとつが確認されているけど / どうやったら行けるのかわからないんだよ
+  LIT: One Raypoint's been confirmed northeast of Damzen too, but nobody knows how to reach it.
+  RE : One Raypoint's confirmed
+       |northeast of Damzen| too, but
+       nobody knows how to reach it.
+
+[US#3394] (townsperson)
+  JP : 「全部で４つあるうちのひとつは / 道からにょっきり建っているそうだ
+  LIT: Of the four in all, one is said to rise straight up out of the sea.
+  RE : Of the four in all, one is said
+       to rise straight up out of the
+       sea.
+
+[US#3395] (townsperson)
+  JP : 「その場の名はホルスト〜 / でも、聞いた話じゃ / オデッサにねらわれているんだってさ
+  LIT: The place is called Holst; but from what I hear, Odessa has its eye on it.
+  RE : The place is called Holst. But
+       from what I hear, Odessa has its
+       eye on it.
+
+[US#3397] (townsperson)
+  JP : 「[11]お祈原の真ん中[11]ぉに結界を張って / 誰にも術式施行のジャマを / されないようにしているらしいね
+  LIT: They've raised a barrier in the middle of the snowfield so no one disturbs their spellcraft.
+  RE : They've raised a barrier |mid-
+       snowfield| so no one disturbs
+       their spellcraft.
+
+[US#3398] (Luca)
+  JP : 「ポンポコ谷がクサイと / あたいはにらんだね
+  LIT: Mt. Chug-Chug smells fishy to me; that's my hunch.
+  RE : Mt. Chug-Chug smells fishy to me.
+       That's my hunch.
+
+[US#3399] (loner NPC)
+  JP : 「ひとりはいいよ〜 / いつでも自由だし / 何より気ままで、肩がこらない
+  LIT: Being alone is great: free whenever, easygoing above all, no stiff shoulders.
+  RE : Being alone is great. Free
+       whenever, easygoing, and no stiff
+       shoulders.
+
+[US#3400] (innkeeper)
+  JP : 「おひとり方につき一緒[02]ギャラ / [02]人方ですので、[02]ギャラとなりますが / よろしいですか？[18]か
+  LIT: It's {2} Gella per guest per night; for {2} people that comes to {2} Gella. All right?
+  RE : It's {2} Gella per guest a night.
+       For your party, that's {2} Gella.
+       All right?
+
+[US#3401] (Marivel, masked)
+  JP : 「だったら / わらわの言うことを聞くがよい
+  LIT: Then you would do well to heed my words.
+  RE : Then you would do well to heed my
+       words.
+
+[US#3402] (Marivel, masked)
+  JP : 「わらわの知る権り / スレイハイム解放戦役以降 / あの面儀の飛空機艇を保作している者は無い
+  LIT: To my knowledge, none has kept aircraft of that make since the Slayheim liberation war.
+  RE : To my knowledge, none has flown
+       craft of that make since the
+       Slayheim liberation war.
+
+[US#3405] (Ashley)
+  JP : 「〜いや、それ以前に / キミは、いったい誰なんだ？
+  LIT: No, before any of that: just who are you?
+  RE : No, before any of that, just who
+       are you?
+
+[US#3406] (Marivel, masked)
+  JP : 「紫外線はおハダの大相ゆえ / 着ぐるみ抱しにチラっと / 探と名前をサービスじゃッ！
+  LIT: Ultraviolet rays are the skin's great foe; so from within this suit, a glimpse of face and name, my treat!
+  RE : Ultraviolet is the skin's great
+       foe. So from in this suit, face
+       and name, my treat!
+
+[US#3407] (Marivel, masked)
+  JP : 「思い出すがよい
+  LIT: You would do well to remember.
+  RE : You would do well to remember.
+
+[US#3408] (Ashley)
+  JP : 「それなのに / なぜ、キミは俺の名前を〜？
+  LIT: Then why is it that you know my name?
+  RE : Then why is it that you know my
+       name?
+
+[US#3409] (Marivel, masked)
+  JP : 「いたしかたあるまい〜 / それよりも / ヤツらのこと任せたぞ
+  LIT: It cannot be helped. More to the point, I leave that lot to you.
+  RE : It cannot be helped. More to the
+       point, I leave that lot to you.
+
+# --- DUP: US#3410-3444 are verbatim JP repeats of the 3380-3409 pool (NPC line reuse). ---
+# Use the same RE as the matching line above at insertion time:
+[US#3410] DUP of 3379 (revelation of salvation / divine beast)
+[US#3411] DUP of 3380
+[US#3412] DUP of 3381
+[US#3413] DUP of 3382
+[US#3414] DUP of 3383
+[US#3415] DUP of 3384
+[US#3416] DUP of 3385
+[US#3417] DUP of 3386
+[US#3418] DUP of 3387
+[US#3420] DUP of 3389
+[US#3421] DUP of 3390
+[US#3422] DUP of 3391
+[US#3425] DUP of 3394
+[US#3426] DUP of 3395
+[US#3428] DUP of 3397
+[US#3429] DUP of 3398
+[US#3430] DUP of 3399
+[US#3431] DUP of 3400
+[US#3432] DUP of 3401
+[US#3433] DUP of 3402
+[US#3436] DUP of 3405
+[US#3437] DUP of 3406
+[US#3438] DUP of 3407
+[US#3439] DUP of 3408
+[US#3440] DUP of 3409
+[US#3441] DUP of 3379
+[US#3442] DUP of 3380
+[US#3443] DUP of 3381
+[US#3444] DUP of 3382
+
+# --- SKIPPED (non-content slots) ---
+[US#3388] SKIPPED - no content box in decode
+[US#3392] SKIPPED - no content box in decode
+[US#3393] SKIPPED - no content box in decode
+[US#3396] SKIPPED - no content box in decode
+[US#3403] SKIPPED - no content box in decode
+[US#3404] SKIPPED - no content box in decode
+[US#3419] SKIPPED - no content box in decode
+[US#3423] SKIPPED - no content box in decode
+[US#3424] SKIPPED - no content box in decode
+[US#3427] SKIPPED - no content box in decode
+[US#3434] SKIPPED - no content box in decode
+[US#3435] SKIPPED - no content box in decode
