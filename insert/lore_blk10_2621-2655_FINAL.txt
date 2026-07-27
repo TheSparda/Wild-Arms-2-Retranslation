@@ -1,0 +1,218 @@
+# WA2 — Block 10, US#2621-2655 — FINAL (Ashley/Lilka "Welcome home" farewell)
+# =========================================================================================
+# The emotional core: Kanon frozen and doubting her heroism, Ashley (Lord Blazer rising within)
+# begging Lilka to flee before he loses himself, and Lilka's vow, to guard the place he comes
+# home to and to say "Welcome home," no matter what. Key uncompressed scene; aligned EN tracks
+# JP closely (used as confirmation, JP primary). Name-slot codes {0}/{1}/{2}/{4}/[05]/[0a]
+# preserved verbatim. Unreadable spans [?]. Hand-done (main thread, alongside running agents).
+
+[US#2621] (Kanon)
+  JP : 「なぜ、動けぬ〜 / なぜ、<b:8b5f><b:8b82>いのワザが出せぬ〜 / 〜なぜ、あたしは戦えないのだ〜
+  LIT: Why can't I move? Why can't I loose the killing blow? Why can't I fight?
+  RE : Why can't I move? Why can't I
+       strike the killing blow? Why can't
+       I fight?
+
+[US#2622] (Kanon)
+  JP : 「いっしょに戦ってきた仲間を〜 / 大<b:8b83>きな人を<b:8aa3>つけることが / 『英雄』の使命なんですかッ！
+  LIT: Is it a "hero's" duty to strike down a comrade you fought beside, someone you care for?
+  RE : Is it a |hero|'s duty to cut down
+       a comrade you fought beside, one
+       you hold dear?
+
+[US#2623] (Kanon)
+  JP : 「[05]きさんだって / わかっているはずです〜
+  LIT: {4}, surely you understand that too.
+  RE : {4}, surely you understand that
+       too.
+
+[US#2624] (Kanon)
+  JP : 「だから〜
+  LIT: That's why...
+  RE : That's why...
+
+[US#2625] (Lilka)
+  JP : 「彼は今、[05]ぉであって / [05]ぉでないッ！
+  LIT: Right now he is {1}, and yet he is not {1}!
+  RE : Right now he is {1}, and yet he
+       is not {1}!
+
+[US#2626] (Lilka)
+  JP : 「この空のように / 彼の心は / <88bf>大な魔<b:8b3f>に食われようとしている
+  LIT: Just like this sky, his heart is being devoured by the great god.
+  RE : Just like this sky, his heart is
+       being devoured by the god.
+
+[US#2627] (Lilka)
+  JP : 「だからッ！
+  LIT: That's why!
+  RE : That's why!
+
+[US#2628] (Lilka)
+  JP : 「いつもカッコ悪いくらい / ボロボロになって戦っている / [05]ぉの〜
+  LIT: {1}, who always fights until he's battered, almost pitifully worn out...
+  RE : {1}, who always fights till he's
+       battered, worn near to breaking...
+
+[US#2629] (Lilka)
+  JP : 「そんな[05]ぉの / 帰ってくる場所を保るのは / わたしって決めたんです
+  LIT: I decided that I would be the one to guard the place he comes home to.
+  RE : I decided that I would guard the
+       place {1} comes home to.
+
+[US#2630] (Lilka)
+  JP : 「大<b:8b83>きな人に / 『おかえりなさい』って言うのが / わたしの役目なんです
+  LIT: To say "Welcome home" to the one I love, that is my role.
+  RE : To say |Welcome home| to the one
+       I love, that is my role.
+
+[US#2631] (Lilka)
+  JP : 「<8943>えどんなことがあっても / [05]ぉと<b:8b84>いだ手は / もう、離さないって
+  LIT: No matter what happens, I won't let go of the hand I've joined with {1}'s.
+  RE : Whatever happens, I won't let go
+       of the hand I've joined with
+       {1}'s.
+
+[US#2632] (Ashley)
+  JP : 「俺が、俺でなくなる前に / 早くここから離れるんだ / でないと〜
+  LIT: Get away from here before I stop being me. If you don't...
+  RE : Get away from here before I stop
+       being me. If you don't...
+
+[US#2633] (Ashley)
+  JP : 「俺の街に<b:8b85>んでいた / ロードブレイザーが目信めようとしている今 / その能力が、考えが、俺にも伝わって来る〜
+  LIT: Now that Lord Blazer, dwelling within me, is awakening, his power and thoughts flow into me too.
+  RE : Now that Lord Blazer, dwelling in
+       me, is waking, his power and mind
+       flow into me too.
+
+[US#2634] (Ashley)
+  JP : 「ロードブレイザーは / 圧倒的な破滅能力をもって / ファルガイアを滅ぼすつもりなんだ
+  LIT: Lord Blazer means to destroy Filgaia with overwhelming power of ruin.
+  RE : Lord Blazer means to destroy
+       Filgaia with overwhelming power
+       of ruin.
+
+[US#2635] (Ashley)
+  JP : 「俺が<b:8b7d>えているうちに / ここで<b:8b86>らないと / すべてが<b:8b87><b:8b88>に帰してしまう〜
+  LIT: If you don't [end it] here while I'm holding him back, everything will turn to ash.
+  RE : If you don't end it here while I
+       hold him back, all will turn to
+       ash.
+
+[US#2636] (Ashley)
+  JP : 「わかるだろう、[0a]か〜 / ファルガイアは<88bf>大な脅威にさらされている
+  LIT: You understand, don't you, {2}? Filgaia faces an immense threat.
+  RE : You understand, don't you, {2}?
+       Filgaia faces an immense threat.
+
+[US#2637] (Ashley)
+  JP : 「ロードブレイザーを信<b:8b7b>させて / これ以上、戦況を悪合させることは / 人類の存亡に関わることなんだ〜
+  LIT: Letting Lord Blazer wake and worsening things further, it's a matter of humanity's survival.
+  RE : Letting Lord Blazer wake and
+       worsening this is a matter of
+       humanity's survival.
+
+[US#2638] (Ashley)
+  JP : 「俺は、人類に<b:8b89>をむく / 脅威そのものなんだよ〜
+  LIT: I'm the very threat that turns its fangs on humanity.
+  RE : I am the very threat that turns
+       its fangs on humanity.
+
+[US#2639] (Ashley)
+  JP : 「[05]ぉ・ウィンチェスターで / なくなる前に / もういちど話せてよかった〜
+  LIT: I'm glad I could speak with you once more before I cease to be {1} Winchester.
+  RE : I'm glad I could speak with you
+       once more before I cease to be
+       {1} Winchester.
+
+[US#2640] (Lilka)
+  JP : 「そんなコトしたらホントに〜 / ホントに / 悪者になってしまうんだよッ！
+  LIT: If I did that, you really, truly would become the villain!
+  RE : If I did that, you really, truly
+       would become the villain!
+
+[US#2641] (Lilka)
+  JP : 「だから、やめてッ！
+  LIT: So please, stop!
+  RE : So please, stop!
+
+[US#2642] (Lilka)
+  JP : 「〜そう、なんだ〜
+  LIT: ...I see now...
+  RE : ...I see now...
+
+[US#2643] (Lilka)
+  JP : 「ファル、ガイアを、滅、そうとする / 脅威の、中で[05]ぉは / たったひと、り〜
+  LIT: Amid the threat that would destroy Filgaia, {1} stood all alone...
+  RE : Amid the threat that would destroy
+       Filgaia, {1} stood all alone...
+
+[US#2644] (Lilka)
+  JP : 「わたし、たちのため、に戦ってくれた / たった、ひとり、の / 悪者、だったんだね〜
+  LIT: You were the one lone villain, who fought for our sake, weren't you?
+  RE : You were the one lone villain who
+       fought for our sake, weren't you?
+
+[US#2645] (Lilka)
+  JP : 「信応、谷なんて、使わなくたって〜 / わたしには[05]ぉの想いが〜 / やさしさが、わかるよ
+  LIT: Even without Empathite, I can feel {1}'s feelings, his kindness.
+  RE : Even without Empathite, I can feel
+       {1}'s heart, his kindness.
+
+[US#2646] (Lilka)
+  JP : 「〜ありがとう〜
+  LIT: ...Thank you...
+  RE : ...Thank you...
+
+[US#2647] (Lilka)
+  JP : 「わたしにとって、[05]ぉは / [05]ぉなんだから、ね〜
+  LIT: To me, {1} will always be {1}.
+  RE : To me, {1} will always be {1}.
+
+[US#2648] (Lilka)
+  JP : 「だい、じょうぶだよ / ふたり、どんなに、離れていても / [05]ぉを見失ったりしないよ
+  LIT: It's all right. However far apart we are, I'll never lose sight of {1}.
+  RE : It's all right. However far apart
+       we are, I'll never lose sight of
+       {1}.
+
+[US#2649] (Lilka)
+  JP : 「だから〜 / [05]ぉも、見失わないで〜 / 自分の、帰る、場所を〜
+  LIT: So you too, {1}, don't lose sight of the place you come home to.
+  RE : So you too, {1}, never lose sight
+       of the place you come home to.
+
+[US#2650] (Ashley)
+  JP : 「〜オオ、オォォオォ、オオ〜ッ！
+  LIT: ...Aaah, aaaahh, aaah!
+  RE : ...Aaah, aaaahh, aaah!
+
+[US#2651] (Lilka)
+  JP : 「どんなに政っても / わたしは / あなたを信じて待っていてあげる
+  LIT: No matter what, I will believe in you and wait for you.
+  RE : No matter what, I will believe in
+       you and wait.
+
+[US#2652] (Lilka)
+  JP : 「あなたの帰る場所を / 保っていてあげる〜
+  LIT: I'll keep the place you come home to safe.
+  RE : I'll keep the place you come home
+       to safe.
+
+[US#2653] (Lilka)
+  JP : 「だから、まっすぐに飛び込んできて
+  LIT: So come flying straight back to me.
+  RE : So come flying straight back to
+       me.
+
+[US#2654] (Lilka)
+  JP : 「『おかえりなさい』〜
+  LIT: "Welcome home."
+  RE : |Welcome home.|
+
+[US#2655] (Lilka)
+  JP : 「[05]ぉといっしょなら / いつでも、そう言ってあげられるくらい / わたしも強くなれるよ〜
+  LIT: With {1}, I can grow strong enough to say those words anytime you need.
+  RE : With {1}, I can grow strong enough
+       to say it anytime you need.
