@@ -1,0 +1,584 @@
+# WA2 — Block 26, US#5133-5236 — FINAL (ARMS barracks chatter + Argetlahm/Sword Magess lore + the sword-taking scene — block 26 complete)
+# =========================================================================================
+# Three strands: (1) ARMS soldiers' barracks talk (the sword being drawn = a hero needed = a
+# disaster coming, front-line assignments, Slayheim vets, the comet omen), (2) the deep
+# Argetlahm/Sword Magess lore-panel set (blood doesn't make a hero, hero and disaster are two
+# sides of one coin, the Sword Magess sealed the Blaze of Disaster with her life, Lucied the
+# Black Wolf shielding her), and (3) the transformation-horror scene: a comrade turned monster
+# ("IS THIS ME... will I turn to dust... will I go home again?"), the tempter's voice offering
+# power, and the Sword Magess's spirit inviting Ashley Vold Valeria to take Argetlahm as fate.
+# JP-primary; Blaze of Disaster = 業の魔神; keep the katakana-horror register in all-caps.
+
+[US#5133] (soldier)
+  JP : 「もしかしたら抜けるんじゃないかって / 俺も一<b:8a39>、思ってしまったくらいさ
+  LIT: For a moment even I thought maybe it could be drawn.
+  RE : For a moment even I thought maybe
+       it could be drawn.
+
+[US#5134] (soldier)
+  JP : 「あの<b:8a3b>が抜けるようなことがあるってことは / それなりの理由があるってことだろ？
+  LIT: If that sword can be drawn at all, it must mean there's some reason for it, right?
+  RE : If that sword can be drawn at
+       all, it must mean there's some
+       reason for it, right?
+
+[US#5135] (soldier)
+  JP : 「『勇者』が<890c>生するってことは / 『勇者』を必要とする / 何らかの戦<8945>があるってことじゃないか
+  LIT: A "hero" being born means there's some upheaval that needs a "hero," doesn't it?
+  RE : A |hero| being born means there's
+       some upheaval that needs a
+       |hero|, doesn't it?
+
+[US#5136] (soldier)
+  JP : 「でも、まあ〜 / そんなモンかもしれないな〜
+  LIT: But well... maybe that's just how it is.
+  RE : But well... maybe that's just how
+       it is.
+
+[US#5137] (soldier)
+  JP : 「<b:8a3e>いなんか / 誰も望んじゃいないんだから
+  LIT: After all, nobody wants war.
+  RE : After all, nobody wants war.
+
+[US#5139] (soldier)
+  JP : 「あの<b:8a43>は、『合谷』と呼ばれる / 古代の遺<b:8a44>を用いて / <89e1>自の機艇<b:8a45>術を発<b:8a47>させたのさ
+  LIT: That nation used ancient relics called "Fossils" to develop its own machine technology.
+  RE : That nation used ancient relics
+       called |Fossils| to develop its
+       own machine technology.
+
+[US#5140] (soldier)
+  JP : 「なーんか、ヤなんだよな / 『<b:8a43><b:8a4c>の<b:8a4b>』ってなカンジでさ / キミはどう思う？
+  LIT: Something about it rubs me wrong; feels like "the nation's watchdog." What do you think?
+  RE : Something about it rubs me wrong;
+       feels like |the nation's
+       watchdog|. What do you think?
+
+[US#5141] (soldier)
+  JP : 「だけどまあ〜 / すぐにお話はかかるだろう
+  LIT: But well, some booming order will come down soon enough.
+  RE : But well, some booming order will
+       come down soon enough.
+
+[US#5142] (soldier)
+  JP : 「何たって僕たちは / 最前<b:8a4d>に配備されるのが / 決まっているようなモンだからな
+  LIT: After all, it's as good as decided we'll be posted to the very front line.
+  RE : After all, it's as good as
+       decided we'll be posted to the
+       very front line.
+
+[US#5143] (soldier)
+  JP : 「<b:8a4e>備しなおすだけで / 戦術に<b:8a4f>ができるんだから / <b:8a50>利なもんだよな
+  LIT: Just refitting us opens up new tactics; awfully convenient, isn't it.
+  RE : Just refitting us opens up new
+       tactics. Awfully convenient,
+       isn't it.
+
+[US#5144] (soldier)
+  JP : 「５数前の / スレイハイム解放戦にも<b:8a56><b:8a57>したんだぜ / もちろん解放<b:8a48>としてだ
+  LIT: I fought in the Slayheim liberation war five years back; for the Liberation Army, of course.
+  RE : I fought in the Slayheim
+       liberation war five years back;
+       for the Liberation Army, of course.
+
+[US#5145] (soldier)
+  JP : 「そういやあ、うちのバア方が / <b:8a59>星は<b:8a5c><b:8a5d>の現れだって / 言ってたっけな〜
+  LIT: Come to think of it, my grandma used to say comets were an omen of evil.
+  RE : Come to think of it, my grandma
+       used to say comets were an omen
+       of evil.
+
+[US#5146] (soldier)
+  JP : 「だけど、モンスターは / どんどん<b:8a5e><b:8a57>しているんだ
+  LIT: But the monsters just keep multiplying.
+  RE : But the monsters just keep
+       multiplying.
+
+[US#5147] (soldier)
+  JP : 「やつらはいったい / どこからやってきているんだ〜
+  LIT: Where in the world are they all coming from?
+  RE : Where in the world are they all
+       coming from?
+
+[US#5148] (soldier)
+  JP : 「僕なんて、生まれてこのかた / そんなメンドーなモンは / 一度たりともできたこたぁねぇよッ！
+  LIT: Me, my whole life long I've never once managed anything so troublesome!
+  RE : Me, my whole life long I've never
+       once managed anything so
+       troublesome!
+
+[US#5149] (soldier)
+  JP : 「で、おめぇはどうなのよ？
+  LIT: So, what about you?
+  RE : So, what about you?
+
+[US#5150] (soldier)
+  JP : 「つまりは / 一番危険な戦場に配備されるってことだ
+  LIT: In short, it means we're being posted to the most dangerous battlefield.
+  RE : In short, it means we're being
+       posted to the most dangerous
+       battlefield.
+
+[US#5151] (soldier)
+  JP : 「さあて、<89a7>数後までに / 何人生き残っていることやら〜
+  LIT: Well, I wonder how many of us will still be alive six months from now.
+  RE : Well, I wonder how many of us
+       will still be alive six months
+       from now.
+
+[US#5152] (soldier)
+  JP : 「だから、<b:8a67>りを見渡してみろよ / <b:8a68><b:8a69><b:8a6a>そうな連中が / けっこう<b:8a6b>じっているだろう？
+  LIT: So look around you; there's a fair share of rough-looking types mixed in, isn't there?
+  RE : So look around you; there's a
+       fair share of rough-looking types
+       mixed in, isn't there?
+
+[US#5153] (soldier)
+  JP : 「ここに選抜された隊<b:8a6c>は / <b:8a6d>、出身がバラバラなんだ
+  LIT: The soldiers picked for here come from all over the place.
+  RE : The soldiers picked for here come
+       from all over the place.
+
+[US#5154] (soldier)
+  JP : 「結定の<b:8a43><b:8a4c>にとらわれることなく / <b:8a6e>動することを強調しているからな
+  LIT: They stress acting free of any fixed nationality.
+  RE : They stress acting free of any
+       fixed nationality.
+
+[US#5155] (lore panel)
+  JP : ＊これにより、＜<b:8a3b>の少女＞の血筋を / 『勇者』の血筋を見なす / <89f9><89fc>が高まっていくことになる
+  LIT: Thereafter, the belief grew that the <Sword Magess>'s line was the line of the "hero."
+  RE : Thereafter grew the belief that
+       the <Sword Magess>'s line was the
+       line of the |hero|.
+
+[US#5156] (lore panel)
+  JP : ＊しかし、＜<b:8a3b>の少女＞自身の / 血を招きし者は / この世には存在しない
+  LIT: Yet no one in this world carries the <Sword Magess>'s own direct blood.
+  RE : Yet no one in this world carries
+       the <Sword Magess>'s own direct
+       blood.
+
+[US#5157] (lore panel)
+  JP : ＊<b:8a4c>としての血筋を招く者は多く / 血は<b:8a79>れ、年多の『勇者』の家<b:8a7a>を / 地に<b:8a7b>れさせた
+  LIT: Many carried on the family line, the blood thinning and scattering many "hero" houses across the land.
+  RE : Many carried on the line, the
+       blood thinning and scattering
+       many |hero| houses across the land.
+
+[US#5158] (lore panel)
+  JP : ＊『血』にいかほどの<b:8a7c><8875>があろうか / ＜<b:8a3b>の少女＞自身がそれを物<b:8a7d>っている / 血によって『勇者』は為らず
+  LIT: What worth is there in "blood"? The <Sword Magess> herself proves it: blood does not make a "hero."
+  RE : What worth is in |blood|? The
+       <Sword Magess> herself proves it:
+       blood does not make a |hero|.
+
+[US#5159] (lore panel)
+  JP : ＊その<89c1>も部り / 『勇者』現れるるとき、『災厄』あり / 『勇者』と『災厄』は表<b:8a80>一体
+  LIT: The reverse holds too: where a "hero" appears, "disaster" is; hero and disaster are two sides of one body.
+  RE : The reverse holds too: where a
+       |hero| appears, |disaster| is.
+       They are two sides of one coin.
+
+[US#5160] (lore panel)
+  JP : ＊『勇者』は生まれついてのものでなし / 何を為したかによってあるものと知れ
+  LIT: Know that a "hero" is not born, but is made by what he does.
+  RE : Know that a |hero| is not born,
+       but is made by what he does.
+
+[US#5161] (lore panel)
+  JP : ＊<b:8a87>多の<b:8a88>胞、<b:8a89>者が / アガートラームを手にすべく<897b>み / ことごとく<b:8a8a>わず
+  LIT: Countless knights and heroes strove to take up the Argetlahm, and every one failed.
+  RE : Countless knights and heroes
+       strove to take up the Argetlahm,
+       and every one failed.
+
+[US#5162] (lore panel)
+  JP : ＊＜<b:8a3b>の少女＞の血筋のものですら / 抜くことは不可能であった
+  LIT: Even those of the <Sword Magess>'s own line found it impossible to draw.
+  RE : Even those of the <Sword
+       Magess>'s own line found it
+       impossible to draw.
+
+[US#5163] (lore panel)
+  JP : ＊大地に刺さりしアガートラームは / ＜<b:8a3b>の少女＞以外を<b:8a8b>むかのように / 大地に<b:8a8c>む
+  LIT: The Argetlahm thrust into the earth clings to it, as if refusing all but the <Sword Magess>.
+  RE : The Argetlahm thrust into the
+       earth clings there, as if
+       refusing all but the <Sword Magess>.
+
+[US#5164] (lore panel)
+  JP : ＊＜<b:8a3b>の少女＞を<b:8a8d>りし大少<b:8a8e>に安置すべく / <b:8a60><8860>となりし<b:8a8f><89cd>ごと / 大地より切り取られることになった
+  LIT: To enshrine it in the great cathedral of the <Sword Magess>, the pedestal-stone itself was cut from the earth.
+  RE : To enshrine it in the <Sword
+       Magess>'s cathedral, the pedestal
+       stone itself was cut from the earth.
+
+[US#5165] (lore panel)
+  JP : ＊＜<b:8a3b>の少女＞が / アガートラームに<b:8a91>かれて / 手にした地
+  LIT: This is the land the <Sword Magess> gained, drawn on by the Argetlahm.
+  RE : This is the land the <Sword
+       Magess> gained, drawn on by the
+       Argetlahm.
+
+[US#5166] (lore panel)
+  JP : ＊世界を<b:8a92>う災厄を<b:8a93>うべく / 希望の輝が世界に向かって / 放たれた地である
+  LIT: It is the land from which a light of hope was loosed toward a world veiled in disaster.
+  RE : It is the land from which a light
+       of hope was loosed toward a world
+       veiled in disaster.
+
+[US#5167] (lore panel)
+  JP : ＊世界を救った『勇者』<890c>生の地として / 多くの礼<b:8a95>者たちが<b:8a96>れている
+  LIT: As the birthplace of the "hero" who saved the world, many pilgrims visit here.
+  RE : As the birthplace of the |hero|
+       who saved the world, many
+       pilgrims visit here.
+
+[US#5168] (lore panel)
+  JP : ＊礼<b:8a95>者のために、数に年度 / アガートラームが一<b:8a97><b:8a98>開される
+  LIT: For the pilgrims, the Argetlahm is put on public display a few times a year.
+  RE : For the pilgrims, the Argetlahm
+       is put on public display a few
+       times a year.
+
+[US#5169] (lore panel)
+  JP : ＊<b:8a9d>一人、魔神と対<b:8a9e>し / ＜<b:8a3b>の少女＞は / 一人で全てを<89a3>負ったのである
+  LIT: Alone she faced the demon; the <Sword Magess> shouldered it all by herself.
+  RE : Alone she faced the demon; the
+       <Sword Magess> shouldered it all
+       by herself.
+
+[US#5170] (lore panel)
+  JP : ＊しかし、<b:8a81>の魔神を / 倒すに至らなかった＜<b:8a3b>の少女＞は / その命を以て封じた
+  LIT: But unable to destroy the Blaze demon, the <Sword Magess> sealed it away with her own life.
+  RE : But unable to destroy the Blaze
+       of Disaster, the <Sword Magess>
+       sealed it away with her own life.
+
+[US#5171] (lore panel)
+  JP : ＊＜<b:8a3b>の少女＞は / 世界の平和と招き<8864>えに / <b:8a99>げられた『生け<b:8aa2>』である
+  LIT: The <Sword Magess> was a "living sacrifice" offered in exchange for the world's peace.
+  RE : The <Sword Magess> was a |living
+       sacrifice| offered in exchange
+       for the world's peace.
+
+[US#5172] (lore panel)
+  JP : ＊ロストテクノロジーを以て / 作られた幻同<b:8aa3>でさえ / <b:8a81>の魔神には<b:8aa4><89f9>のごとし
+  LIT: Even the fabled weapons made with Lost Technology were like a cool breeze to the Blaze demon.
+  RE : Even the fabled weapons of Lost
+       Technology were like a cool
+       breeze to the Blaze of Disaster.
+
+[US#5173] (lore panel)
+  JP : ＊アガートラームを携えし / ＜<b:8a3b>の少女＞だけが / その対抗しうる全て
+  LIT: Only the <Sword Magess>, bearing the Argetlahm, was the whole of what could stand against it.
+  RE : Only the <Sword Magess>, bearing
+       the Argetlahm, could stand
+       against it at all.
+
+[US#5174] (lore panel)
+  JP : ＊なぜ、＜<b:8a3b>の少女＞のみが / <b:8a81>の魔神と対<b:8a52>に戦えたのか / それはいま以て<b:8aa6>とされている
+  LIT: Why only the <Sword Magess> could fight the Blaze demon on equal terms remains a mystery to this day.
+  RE : Why only the <Sword Magess> could
+       fight the Blaze of Disaster as an
+       equal remains a mystery.
+
+[US#5175] (lore panel)
+  JP : ＊彼のものは / 『倒された』のではなく / 『封じられた』ことである
+  LIT: That being was not "destroyed" but only "sealed."
+  RE : That being was not |destroyed|
+       but only |sealed|.
+
+[US#5176] (lore panel)
+  JP : ＊封<b:8a84>はいずれ解き放たれる…
+  LIT: The seal will one day be undone...
+  RE : The seal will one day be
+       undone...
+
+[US#5177] (lore panel)
+  JP : ＊＜<b:8a3b>の少女＞亡きファルガイアは / <b:8a81>の魔神に<b:8aa7><b:8aa8>される
+  LIT: A Filgaia without the <Sword Magess> will be crushed beneath the Blaze demon.
+  RE : A Filgaia without the <Sword
+       Magess> will be crushed beneath
+       the Blaze of Disaster.
+
+[US#5178] (lore panel)
+  JP : ＊その封<b:8a84>がいつ破られるかなど / 何人もしらない
+  LIT: When that seal will break, no one knows.
+  RE : When that seal will break, no one
+       knows.
+
+[US#5179] (lore panel)
+  JP : ＊１００数後か１０００数後 / それとも次回か / 我々に抗う術はない
+  LIT: A hundred years hence, a thousand, or tomorrow; we have no means to resist.
+  RE : A hundred years hence, a
+       thousand, or tomorrow; we have no
+       means to resist.
+
+[US#5180] (lore panel)
+  JP : ＊広がる負の信情は / とどまることを知らず
+  LIT: The spreading tide of negative feeling knows no stopping.
+  RE : The spreading tide of negative
+       feeling knows no stopping.
+
+[US#5181] (lore panel)
+  JP : ＊ゆえに、尽きることなく / 『災厄』は広がり続ける
+  LIT: And so, without end, "disaster" keeps on spreading.
+  RE : And so, without end, |disaster|
+       keeps on spreading.
+
+[US#5182] (lore panel)
+  JP : ＊希望の輝が<b:8a9c>さぬ / 負の信情のその先には / 待つは『破滅』への道のみ
+  LIT: Where no light of hope shines, beyond the negative feeling waits only the road to "ruin."
+  RE : Where no light of hope shines,
+       beyond that darkness waits only
+       the road to |ruin|.
+
+[US#5183] (lore panel)
+  JP : ＊<b:8aaa>が<888a>を<b:8aab>めるのは / 負の信情と知れ
+  LIT: Know that what strangles you in the end is your own negative feeling.
+  RE : Know that what strangles you in
+       the end is your own negative
+       feeling.
+
+[US#5184] (lore panel)
+  JP : ＊戦いに概通した<b:8aac>指の戦胞でもない / <b:8a43>に<b:8aad><b:8aae>を<b:8aaf>った<b:8a88>胞でもない / ただの<b:8a75>、それが＜<b:8a3b>の少女＞
+  LIT: Not a peerless soldier versed in war, not a knight sworn to a nation; just a girl. That was the <Sword Magess>.
+  RE : Not a peerless soldier, not a
+       knight sworn to a nation; just a
+       girl. That was the <Sword Magess>.
+
+[US#5185] (lore panel)
+  JP : ＊アガートラームが抜けぬ事実が / 『選ばれし者』の<b:8ab0>質の<b:8aa6>を願める
+  LIT: The fact that the Argetlahm cannot be drawn deepens the mystery of the "chosen one's" nature.
+  RE : The fact the Argetlahm cannot be
+       drawn deepens the mystery of the
+       |chosen one|.
+
+[US#5186] (lore panel)
+  JP : ＊<b:8ab1>び、アガートラームを / 手にする者が現れたとき / その<b:8aa6>も解けるだろう
+  LIT: When once more someone appears who can take up the Argetlahm, that mystery too will be solved.
+  RE : When once more someone can take
+       up the Argetlahm, that mystery
+       too will be solved.
+
+[US#5187] (lore panel)
+  JP : ＊生きる者のいない / 死せる大地へ
+  LIT: To a dead land where no living thing remains.
+  RE : To a dead land where no living
+       thing remains.
+
+[US#5188] (lore panel)
+  JP : ＊大地は血に眠く<b:8ab6>られ / <b:8ab2><b:8ab7>の<b:8ab8>が全てを<b:8ab9>き尽くす / さながら、<b:8ab2>に<b:8aba>まりし世界
+  LIT: The earth stained deep with blood, crimson-lotus flames burning all; a world dyed red.
+  RE : The earth stained deep with
+       blood, crimson-lotus flames
+       burning all; a world dyed red.
+
+[US#5189] (lore panel)
+  JP : ＊その世界に一帯の希望の輝も無し / 待つは『死』という / 彼方への<b:8abb>立ち
+  LIT: In that world not one ray of hope; what waits is "death," the setting-out to the far shore.
+  RE : In that world not one ray of
+       hope; what waits is |death|, the
+       journey to the far shore.
+
+[US#5190] (lore panel)
+  JP : ＊『希望』なきは暗暗の世界 / 人の<b:8abc>きが<b:8abd>き、暗<b:8abe>立ちこめ / 人の心を発に閉ざす
+  LIT: Without "hope," a world of darkness; people's cries echo, dark clouds gather, and hearts are sealed in grief.
+  RE : Without |hope|, a world of dark:
+       cries echo, dark clouds gather,
+       and hearts seal shut in grief.
+
+[US#5191] (lore panel)
+  JP : ＊アガートラームは / あらゆる災厄を<b:8abf>け
+  LIT: The Argetlahm wards off every disaster.
+  RE : The Argetlahm wards off every
+       disaster.
+
+[US#5192] (lore panel)
+  JP : ＊暗き魔<b:8a76>・ルシエドは / あらゆる災厄より / 少女の身を守る<b:8ac1>となる
+  LIT: The dark demon-wolf Lucied became the shield guarding the girl from every disaster.
+  RE : The dark demon-wolf Lucied became
+       the shield guarding the girl from
+       every disaster.
+
+[US#5193] (lore panel)
+  JP : ＊＜<b:8a3b>の少女＞の戦う<b:8a61> / それはまさに、戦の女神さながらに / 人々に希望の輝を与えたもうた
+  LIT: The <Sword Magess> in battle, like the very goddess of war, gave the people a light of hope.
+  RE : The <Sword Magess> in battle,
+       like the very goddess of war,
+       gave the people a light of hope.
+
+[US#5195] (officer)
+  JP : 「どうせ、すぐに<b:8ac3>しくなるんだ / <b:8ac4>べる時に<b:8ac4>んでおけよ
+  LIT: You'll be swamped soon enough; play while you can play.
+  RE : You'll be swamped soon enough.
+       Play while you can play.
+
+[US#5196] (officer)
+  JP : 「後で、『休みが無い』なんて<b:8ac5>き言は / 聞く<b:8ac6>持たんからな
+  LIT: I won't hear any whining later about "we never get a day off."
+  RE : I won't hear any whining later
+       about |we never get a day off|.
+
+[US#5197] (officer)
+  JP : 「これからの制度<b:8ac8>正で / やがては<b:8a43><b:8a4c>間の<b:8ac9><b:8aca>を<b:8acb>えて / 平和<b:8acc>持<b:8a6e>動を行う期定だ
+  LIT: Under the coming reforms, we're set to reach beyond national borders into peacekeeping work.
+  RE : Under the coming reforms, we're
+       set to reach beyond borders into
+       peacekeeping work.
+
+[US#5198] (officer)
+  JP : 「その時のために我々ＡＲＭＳは / 世に<b:8acd>ずかしくない / <b:8a6e>動を続けていかなくてはな
+  LIT: For that day, we ARMS must keep to conduct we need never be ashamed of.
+  RE : For that day, we ARMS must keep
+       to conduct we need never be
+       ashamed of.
+
+[US#5200] (officer)
+  JP : 「そんなことよりも / <b:8ace>いモンがたくさんあるんだ / 今回は楽しんでおけ
+  LIT: Never mind that; there's plenty of good food, so enjoy yourself today.
+  RE : Never mind that; there's plenty
+       of good food, so enjoy yourself
+       today.
+
+[US#5201] (officer)
+  JP : 「次回からはまた / 最前<b:8a4d>だと心しておけよ
+  LIT: From tomorrow it's back to the front line; brace yourself.
+  RE : From tomorrow it's back to the
+       front line; brace yourself.
+
+[US#5207] (party)
+  JP : 「正置ゲートまで / 駆け抜けるぞッ！
+  LIT: We're breaking through to the front gate!
+  RE : We're breaking through to the
+       front gate!
+
+[US#5213] (tempter)
+  JP : 「他の<b:8a51>らを招き<b:8ad2>いて、<b:8ad3>み<b:8ad4>いて〜 / 最後に立っているのがお前ならば / 何の誓認も無いではないか
+  LIT: Tear the others apart, devour them; if you're the last one standing, where's the harm?
+  RE : Tear the others apart, devour
+       them; if you're the last one
+       standing, where's the harm?
+
+[US#5214] (soldier)
+  JP : 「それに、あの怪物は〜 / もともとは人間だったんだ〜 / 俺の<b:8ad5>間だったんだッ！
+  LIT: Besides, that monster; it was human once. It was my comrade!
+  RE : Besides, that monster; it was
+       human once. It was my comrade!
+
+[US#5215] (tempter)
+  JP : 「いいだろう〜 / それらをすべて<b:8ad7>えるよう / 私が『力』を<b:8ad8>けよう
+  LIT: Very well; so you can wipe them all away, I'll lend you "power."
+  RE : Very well; so you can wipe them
+       all away, I'll lend you |power|.
+
+[US#5217] (soldier)
+  JP : 「だ、誰なんだ？ / 俺の心の中に<b:8a7d>りかけてくるのはッ！
+  LIT: Wh-who are you? Who is it speaking inside my heart?!
+  RE : Wh-who are you? Who is it
+       speaking inside my heart?!
+
+[US#5218] (monster voice)
+  JP : 「『私』は『お前』〜 / もうすぐ『私』になる / 『お前』にほかならない〜
+  LIT: "I" am "you"; soon to become "me"; none other than "you."
+  RE : |I| am |you|. Soon to become
+       |me|. None other than |you|.
+
+[US#5219] (soldier)
+  JP : 「〜〜ご、ごめん、[0a]か〜〜
+  LIT: ...S-sorry, {2}...
+  RE : ...S-sorry, {2}...
+
+[US#5223] (transformed comrade)
+  JP : 「コレガ、ボク、ナノカ〜
+  LIT: IS... THIS... ME?
+  RE : IS... THIS... ME?
+
+[US#5224] (transformed comrade)
+  JP : 「サッキノ、カイブツノヨウニ / ボクノカラダモ、チリノヨウニ / コワレテイクシカナイノカ〜〜
+  LIT: LIKE THAT MONSTER JUST NOW, MUST MY BODY TOO CRUMBLE AWAY LIKE DUST?
+  RE : LIKE THAT MONSTER JUST NOW, MUST
+       MY BODY TOO CRUMBLE AWAY LIKE
+       DUST?
+
+[US#5225] (transformed comrade)
+  JP : 「モウ、カエルコトハ、デキナイノカ〜
+  LIT: CAN I NEVER GO HOME AGAIN?
+  RE : CAN I NEVER GO HOME AGAIN?
+
+[US#5229] (Sword Magess spirit)
+  JP : 「わたしは、この<b:8a3b>を手にする人が / <b:8ada>度と現れなければいいと思っていた
+  LIT: I had hoped no one who could take up this sword would ever appear again.
+  RE : I had hoped no one who could take
+       up this sword would ever appear
+       again.
+
+[US#5230] (Sword Magess spirit)
+  JP : 「こんなにもつらい想いをするのは / わたしひとりで充分だと〜
+  LIT: That I alone should bear such painful thoughts was, I believed, enough.
+  RE : That I alone should bear such
+       painful thoughts was, I believed,
+       enough.
+
+[US#5231] (Sword Magess spirit)
+  JP : 「もしも〜 / あなたが全てを<b:8adb>け入れる信<b:8adc>なら〜
+  LIT: If... you have the resolve to accept it all...
+  RE : If... you have the resolve to
+       accept it all...
+
+[US#5232] (Sword Magess spirit)
+  JP : 「全てを<b:8add><b:8ade>にしてでも / <b:8ad9>重を果たしたいと思うのなら / <b:8a3b>を、『アガートラーム』を手にして〜
+  LIT: If you would keep your promise even at the cost of everything, take up the sword, the "Argetlahm."
+  RE : If you would keep your promise
+       even at the cost of all, take up
+       the sword, the |Argetlahm|.
+
+[US#5233] (Ashley)
+  JP : 「〜でも、俺にとっては / どうしても守らなきゃいけない / <b:8ad9>重なんだ〜
+  LIT: ...But to me, it's a promise I absolutely have to keep.
+  RE : ...But to me, it's a promise I
+       absolutely have to keep.
+
+[US#5234] (Sword Magess spirit)
+  JP : 「[0a]ぉ・フォルド・ヴァレリア / お前という<b:8adf><b:8ae0><b:8ae1>を<89a3>負う剣だッ！
+  LIT: {0} Vold Valeria: it is the sword that bears the cross that is you!
+  RE : {0} Vold Valeria: it is the sword
+       that bears the cross that is you!
+
+[US#5235] (Sword Magess spirit)
+  JP : 「この<b:8ae2>は過<b:8ae3>から未<b:8ae4>に続く / たったひとつの可能性
+  LIT: This bond is the one single possibility that runs from the past into the future.
+  RE : This bond is the one single
+       possibility that runs from past
+       into future.
+
+[US#5236] (Sword Magess spirit)
+  JP : 「言い<8864>えるなら、この世界の上で / 私たちが出<b:8ae5>った / 『運命』そのものなのだッ！
+  LIT: Put another way, it is "fate" itself, that we met here upon this world!
+  RE : Put another way, it is |fate|
+       itself, that we met here upon
+       this world!
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#5138] SKIPPED - no content box in decode
+[US#5194] SKIPPED - no content box in decode
+[US#5199] SKIPPED - no content box in decode
+[US#5202] SKIPPED - no content box in decode
+[US#5203] SKIPPED - no content box in decode
+[US#5204] SKIPPED - no content box in decode
+[US#5205] SKIPPED - no content box in decode
+[US#5206] SKIPPED - no content box in decode
+[US#5208] SKIPPED - no content box in decode
+[US#5209] SKIPPED - no content box in decode
+[US#5210] SKIPPED - no content box in decode
+[US#5211] SKIPPED - no content box in decode
+[US#5212] SKIPPED - no content box in decode
+[US#5216] SKIPPED - no content box in decode
+[US#5220] SKIPPED - no content box in decode
+[US#5221] SKIPPED - no content box in decode
+[US#5222] SKIPPED - no content box in decode
+[US#5226] SKIPPED - no content box in decode
+[US#5227] SKIPPED - no content box in decode
+[US#5228] SKIPPED - no content box in decode
