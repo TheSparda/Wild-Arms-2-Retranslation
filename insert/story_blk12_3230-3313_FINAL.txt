@@ -1,0 +1,419 @@
+# WA2 — Block 12, US#3230-3313 — FINAL (Damzen City part 2: doctor, bar, miners' loyalty)
+# =========================================================================================
+# Damzen mining-town NPCs: the creepy old doctor and his "gentle eyes" bit, the cave-in gossip,
+# the barkeep and his tomboy little sister Luca (異種種族 gag: not blood-related), the sunrise
+# island mystery, and the miners rallying when they learn the King of Meria Boule still
+# remembers them (tunnel-opening scene, "top man at Mt. Chug-Chug" proof). Mt. Chug-Chug =
+# ポンポコ谷. JP-primary; EN drift mild (~1-2 boxes), used as cross-check. Voice: rough miners,
+# hammy old doctor. Non-content slots listed as SKIPPED at end.
+
+[US#3230] (NPC)
+  JP : 「ブツブツ〜
+  LIT: *grumble grumble*
+  RE : *grumble grumble*
+
+[US#3233] (elder NPC)
+  JP : 「わしには / それがわからんッ！
+  LIT: That, I just don't understand!
+  RE : That, I just don't understand!
+
+[US#3234] (townsperson)
+  JP : 「渓谷の抜け道なんて / 危なっかしい信じがしますが / 本当のところはどうなんでしょう？
+  LIT: A secret path through the mine sounds risky to me; what's it really like, I wonder?
+  RE : A secret path through the mine
+       sounds risky to me. What's it
+       really like, I wonder?
+
+[US#3235] (townsperson)
+  JP : 「よければ、ポンポコ谷の抜け道が / どこに通じていたか / 教えてもらえませんか？
+  LIT: If you don't mind, would you tell me where the Mt. Chug-Chug passage led?
+  RE : If you don't mind, would you tell
+       me where the Chug-Chug passage
+       led?
+
+[US#3236] (townsperson)
+  JP : 「一度に多くの人々に対してアピールする / その手段として、テレパスタワーは / 最も効果を発揮する場所ですから
+  LIT: As a means of appealing to many people at once, the Telepath Tower is the most effective place there is.
+  RE : To reach many people at once, the
+       Telepath Tower is the most
+       effective place there is.
+
+[US#3238] (doctor)
+  JP : 「死んでしまったら / やさしげな若者にも / お手上げなんじゃい〜
+  LIT: Once you're dead, even a kindly young doctor can do nothing.
+  RE : Once you're dead, even a kindly
+       young doctor can do nothing.
+
+[US#3239] (doctor)
+  JP : 「ほどよいケガ人と / やさしげな若者のまなざし / 未来に必要なのは、このふたつじゃ
+  LIT: Moderately injured patients, and a kindly young man's gaze: the future needs these two things.
+  RE : Mildly injured patients, and a
+       kindly doctor's gaze. The future
+       needs both.
+
+[US#3240] (doctor)
+  JP : 「悪いことは言わんから / おとなしく / わしにいじられてみないかね？
+  LIT: Take my word for it: why not sit still and let me poke at you?
+  RE : Take my word for it. Why not sit
+       still and let me have a poke at
+       you?
+
+[US#3241] (doctor)
+  JP : 「寂がらなくてもいい〜 / わしにいじられるのは / むしろ、カラダにエエくらいじゃ
+  LIT: No need to be scared; being poked at by me is, if anything, good for the body.
+  RE : No need to be scared. My poking
+       is, if anything, good for the
+       body.
+
+[US#3242] (doctor)
+  JP : 「『目は、口ほどにモノを言う』ッ！ / この、やさしー目で若者を呼び込むんじゃ
+  LIT: "The eyes speak as much as the mouth!" These gentle eyes are what draw the patients in.
+  RE : |Eyes speak as much as the mouth|!
+       These gentle eyes draw the
+       patients in.
+
+[US#3243] (doctor)
+  JP : 「わしの、やさしー目〜 / 世間性があると思わんか〜
+  LIT: My gentle eyes... don't you think they have a certain charm?
+  RE : My gentle eyes... don't you think
+       they have a certain charm?
+
+[US#3244] (doctor)
+  JP : 「アンダートラフィックスの / 崩落事故埋合め〜 / わしの悪口をいろんな所で吹抜してやがる
+  LIT: Those buried in the Under Traffic cave-in go around bad-mouthing me everywhere.
+  RE : Those from the Under Traffic
+       cave-in go around bad-mouthing me
+       everywhere.
+
+[US#3245] (doctor)
+  JP : 「どうしてサッパリ / 客足が途絶えているんだろうか？
+  LIT: Why on earth have the patients stopped coming entirely?
+  RE : Why on earth have the patients
+       stopped coming entirely?
+
+[US#3246] (doctor)
+  JP : 「こりゃまた / 楽しくなってきそうじゃわい / うっし、うっしッ！
+  LIT: Well now, things are about to get fun. Heh heh!
+  RE : Well now, things are about to get
+       fun. Heh heh!
+
+[US#3248] (doctor)
+  JP : 「どうせなら / もっとワクワクするような若者を / 連れてきてほしいもんじゃ
+  LIT: If you're going to bring someone, bring me a more exciting patient.
+  RE : If you're going to bring someone,
+       bring me a more exciting patient.
+
+[US#3252] (townsperson)
+  JP : 「それと、もうひとつ〜 / 人の話を抜いたのです / たぶん、まちがいありません〜
+  LIT: And one more thing: I heard human voices. I'm almost certain of it.
+  RE : And one more thing. I heard human
+       voices. I'm almost certain of it.
+
+[US#3253] (townsperson)
+  JP : 「何者かのしわざと / 考えられないこともないが〜
+  LIT: It could be somebody's doing, I suppose.
+  RE : It could be somebody's doing, I
+       suppose.
+
+[US#3254] (party/kid)
+  JP : 「通信機で / [0a]ぉさんに / 連絡とってみようよ
+  LIT: Let's try contacting {2} on the communicator.
+  RE : Let's try contacting {2} on the
+       communicator.
+
+[US#3255] (elder NPC)
+  JP : 「青空に目標〜 / そんな、何でもない回世が / どれほど安心信を与えていたことか
+  LIT: The sun in a blue sky: how much peace of mind such an ordinary day used to give us.
+  RE : The sun in a blue sky. How much
+       peace such an ordinary day used
+       to give us.
+
+[US#3257] (elder NPC)
+  JP : 「時代は、このジジイに / 何を見せようというのかッ！
+  LIT: What is this age planning to show an old man like me?!
+  RE : What is this age planning to show
+       an old man like me?!
+
+[US#3258] (elder NPC)
+  JP : 「考えていたら / おっかなくなって来おった〜
+  LIT: Just thinking about it has me spooked now.
+  RE : Just thinking about it has me
+       spooked now.
+
+[US#3259] (elder NPC)
+  JP : 「連絡のアジトとは / そういうモノじゃからのう
+  LIT: That's what a communications hideout is, you see.
+  RE : That's what a communications
+       hideout is, you see.
+
+[US#3261] (elder NPC)
+  JP : 「まあ、たいがいのヤツは / ポンポコ谷の地辺から / シエルジェに向かっているみたいじゃがのう
+  LIT: Well, most folks seem to head for Sielje through the tunnel under Mt. Chug-Chug.
+  RE : Most folks seem to head for Sielje
+       through the tunnel under Mt.
+       Chug-Chug.
+
+[US#3262] (elder NPC)
+  JP : 「まあ、たいがいのヤツは / アンダートラフィックスから / やって来ているみたいじゃがのう
+  LIT: Well, most folks seem to come here by way of the Under Traffic.
+  RE : Most folks seem to come here by
+       way of the Under Traffic.
+
+[US#3263] (elder NPC)
+  JP : 「信応谷という不思議な渓物によって / 遠く離れた者と意思を交わすことのできる / なかなか便利な機艇じゃて
+  LIT: Thanks to that mysterious ore called Empathite, you can trade thoughts with someone far away; a handy device indeed.
+  RE : With that mysterious ore,
+       Empathite, you can trade thoughts
+       across any distance.
+
+[US#3265] (barkeep)
+  JP : 「何か飲んでくかい？[18]か
+  LIT: Want something to drink?
+  RE : Want something to drink?
+
+[US#3266] (barkeep)
+  JP : 「ちょうど、ダムツェンから[11]お北側[11]ぉに / 変な建物があるらしいんだ / ま、何があるか自分の目で確かめてみなよ
+  LIT: Just north of Damzen there's said to be a strange building; go see for yourself what's there.
+  RE : Just |north| of Damzen there's
+       said to be a strange building. Go
+       see for yourself.
+
+[US#3270] (barkeep)
+  JP : 「何か困っているんだったら / 僕に話してみないか？ / こう見えても僕とルカは〜
+  LIT: If something's troubling you, why not tell me? Believe it or not, Luca and I...
+  RE : If something's troubling you, why
+       not tell me? Believe it or not,
+       Luca and I...
+
+[US#3272] (barkeep)
+  JP : 「ま、僕がこんなところで手伝わせているのが / イケナイのかもしれないが〜
+  LIT: Well, maybe it's my fault for making her help out in a place like this.
+  RE : Well, maybe it's my fault for
+       making her help out in a place
+       like this.
+
+[US#3273] (barkeep)
+  JP : 「あんなに、おてんばだと嫁の貰い手が / つくかどうか心配でな〜
+  LIT: With a tomboy like that, I worry whether she'll ever find a husband.
+  RE : With a tomboy like that, I worry
+       whether she'll ever find a
+       husband.
+
+[US#3276] (barkeep)
+  JP : 「キミのように / 少しは可愛らしくしてくれれば / いいんだがね〜
+  LIT: If only she'd act a bit more adorable, like you.
+  RE : If only she'd act a bit more
+       adorable, like you.
+
+[US#3278] (barkeep)
+  JP : 「関係ないけど、僕たちは異種種族なんだ / ま、本当の種族のように / ルカが僕を慕ってくれるから助かってるけど
+  LIT: Not that it matters, but we're not actually blood relations; though Luca adores me like real family, which helps.
+  RE : Not that it matters, but we're not
+       blood kin. Though Luca adores me
+       like real family.
+
+[US#3282] (miner)
+  JP : 「まだ、ポンポコ谷で / 信応谷がたくさん通れていた頃〜
+  LIT: Back when Mt. Chug-Chug still yielded plenty of Empathite...
+  RE : Back when Mt. Chug-Chug still
+       yielded plenty of Empathite...
+
+[US#3283] (miner)
+  JP : 「素れた時、目標の方向に目を凝らすと / 小さな他に、小さな建物の起が / ボンヤリと見える事があったんだ
+  LIT: On clear days, if you strained your eyes toward the sun, you could faintly see a small building on a small island.
+  RE : On clear days, eyes strained
+       toward the sun, you could faintly
+       see a building on a small isle.
+
+[US#3284] (miner)
+  JP : 「あれはいったい / 何だったんだろうな〜
+  LIT: What on earth was that, I wonder?
+  RE : What on earth was that, I wonder?
+
+[US#3285] (townsperson)
+  JP : 「だとしたら / 辛いんだろうな〜 / 苦しいんだろうな〜
+  LIT: If that's so, there must be pain... there must be suffering...
+  RE : If that's so, there must be
+       pain... there must be suffering...
+
+[US#3286] (miner)
+  JP : 「そんなすげぇトコならば / 渓谷なんかも / たくさん通れるんじゃないか？
+  LIT: If it's such an amazing place, wouldn't there be plenty of ore to mine too?
+  RE : If it's such an amazing place,
+       wouldn't there be plenty of ore
+       to mine too?
+
+[US#3287] (miner)
+  JP : 「いったい、どこにあるのやら〜
+  LIT: Wherever could it be?
+  RE : Wherever could it be?
+
+[US#3288] (miner)
+  JP : 「この得体の知れない不気味さは / どうにもならねぇな〜
+  LIT: This creeping strangeness of it all; nothing to be done about it.
+  RE : This creeping strangeness of it
+       all. Nothing to be done about it.
+
+[US#3289] (miner)
+  JP : 「そういうのを放っておくと / やがてモンスターたちが棲みついて / どうにもならない状態になるんだ
+  LIT: Leave places like that alone and before long monsters settle in, and then it's beyond fixing.
+  RE : Leave such places alone and
+       monsters settle in, and then it's
+       beyond fixing.
+
+[US#3290] (miner)
+  JP : 「連中がねらうとすれば / ダムツェンよりも / むしろ、ホルストだな〜
+  LIT: If that lot targets anything, it'd be Holst before Damzen.
+  RE : If that lot targets anything,
+       it'd be Holst before Damzen.
+
+[US#3291] (miner)
+  JP : 「連中にとっても / うまみの少ないダムツェンじゃ / 情報もなかなか集まってこないんだ
+  LIT: Damzen's slim pickings for them too, so word about them is hard to come by.
+  RE : Damzen's slim pickings for them
+       too, so word about them is hard
+       to come by.
+
+[US#3292] (mine boss)
+  JP : 「そう、メリアブールの王方が言ったのかい？ / ホントに、そう言ったんだな？
+  LIT: The King of Meria Boule said that? He really said that?
+  RE : The King of Meria Boule said
+       that? He really said that?
+
+[US#3293] (mine boss)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+[US#3294] (mine boss)
+  JP : 「ポンポコ谷が、さびれていく一方だから / てっきり僕たちは / 王方に見捨てられたと思いこんでいたよ
+  LIT: With Mt. Chug-Chug only declining, we were sure the King had abandoned us.
+  RE : With Chug-Chug only declining, we
+       were sure the King had abandoned
+       us.
+
+[US#3295] (mine boss)
+  JP : 「まだ、僕たちのことを / おぼえていてくれたなんて〜
+  LIT: To think he still remembered us...
+  RE : To think he still remembered
+       us...
+
+[US#3296] (mine boss)
+  JP : 「いや、こんなおいしい場所で / また使ってくれるなんて / ありがたい話だよ
+  LIT: No, to be given work again, and at such a fine spot; it's something to be grateful for.
+  RE : To be given work again, at such a
+       fine spot, it's something to be
+       grateful for.
+
+[US#3297] (mine boss)
+  JP : 「僕たちダムツェンの渓谷は / あんたたちに協力するぜ
+  LIT: We Damzen miners will back you up.
+  RE : We Damzen miners will back you
+       up.
+
+[US#3298] (mine boss)
+  JP : 「いっしょに戦っていこうッ！ / まずは、ポンポコ谷地辺トンネルの開放だな / こいつを持って行きなッ！
+  LIT: Let's fight together! First is opening the tunnel under Mt. Chug-Chug. Take this with you!
+  RE : Let's fight together! First we
+       open the Chug-Chug tunnel. Take
+       this with you!
+
+[US#3299] (mine boss)
+  JP : 「その別、メリアブールの王方からもらった / ポンポコ谷で / いちばん強いヤツの証だッ！
+  LIT: That's the proof, given by the King of Meria Boule, that I'm the strongest man at Mt. Chug-Chug!
+  RE : Proof from the King of Meria
+       Boule that I'm the strongest man
+       at Chug-Chug!
+
+[US#3300] (miner)
+  JP : 「シエルジェは / [11]お祈原の中央[11]ぉに級置している自分領だ / 政いやすいから気をつけろよ
+  LIT: Sielje is a domain set in the middle of the snowfield; easy to get lost, so take care.
+  RE : Sielje is a domain set |mid-
+       snowfield|. Easy to get lost, so
+       take care.
+
+[US#3301] (miner)
+  JP : 「僕たちでできることなら / いくらでも協力するつもりだぜ
+  LIT: If it's something we can do, we'll help as much as you need.
+  RE : If it's something we can do,
+       we'll help as much as you need.
+
+[US#3302] (miner)
+  JP : 「メリアブールの王方から / ポンポコ谷の地辺トンネルの設理を / まかされていた時期もあったんだ
+  LIT: There was a time the King of Meria Boule entrusted us with maintaining the Chug-Chug tunnel.
+  RE : There was a time the King
+       entrusted us with maintaining the
+       Chug-Chug tunnel.
+
+[US#3303] (miner)
+  JP : 「もっとも〜 / 脱出する信応谷が無ければ / 何の役に立たないトンネルだけどな
+  LIT: Though without Empathite to ship out, it's a tunnel with no use at all.
+  RE : Though without Empathite to ship
+       out, it's a tunnel with no use at
+       all.
+
+[US#3306] (miner)
+  JP : 「信応谷が通れなくなった今〜 / 脱出する必要が無いってのに / いったい誰が飛空機艇を飛ばしているんだ？
+  LIT: Now that the Empathite's mined out, with nothing to ship, who on earth is flying aircraft?
+  RE : With the Empathite mined out and
+       nothing to ship, who on earth is
+       flying aircraft?
+
+[US#3309] (miner)
+  JP : 「かといって / ほかになにもすることがないしなぁ〜〜
+  LIT: Then again, there's nothing else to do around here.
+  RE : Then again, there's nothing else
+       to do around here.
+
+[US#3310] (miner)
+  JP : 「なぁあんた / どこかで渓谷が見つかったとかいう話 / 聞いたことないかい？
+  LIT: Say, you haven't heard talk of a new mine being found somewhere, have you?
+  RE : Say, you haven't heard talk of a
+       new mine found somewhere, have
+       you?
+
+[US#3311] (miner)
+  JP : 「あまりの静かさに / 気が滅入ってきそうだ / 気素らしに酒を飲むくらいしかないよ
+  LIT: It's so quiet it gets you down; nothing to lift the mood but drink.
+  RE : It's so quiet it gets you down.
+       Nothing to lift the mood but
+       drink.
+
+[US#3312] (townsperson)
+  JP : 「こんなことなら / 捕まえてとっちめとけば / よかったよ
+  LIT: If I'd known, I should have caught them and given them what for.
+  RE : If I'd known, I should have caught
+       them and given them what for.
+
+[US#3313] (townsperson)
+  JP : 「で、奴らの正体は何なんだ / あんた知ってんだろう？ / ちょっとくらい教えてくれよ
+  LIT: So what are they, really? You know, don't you? Tell me a little at least.
+  RE : So what are they, really? You
+       know, don't you? Tell me a little
+       at least.
+
+# --- SKIPPED (non-content slots in this range) ---
+[US#3231] SKIPPED - no content box in decode
+[US#3232] SKIPPED - no content box in decode
+[US#3237] SKIPPED - no content box in decode
+[US#3247] SKIPPED - no content box in decode
+[US#3249] SKIPPED - no content box in decode
+[US#3250] SKIPPED - control code only
+[US#3251] SKIPPED - control code [17] only
+[US#3256] SKIPPED - no content box in decode
+[US#3260] SKIPPED - no content box in decode
+[US#3264] SKIPPED - no content box in decode
+[US#3267] SKIPPED - duplicate of 3266 (repeat gossip line)
+[US#3268] SKIPPED - duplicate of 3266 (repeat gossip line)
+[US#3269] SKIPPED - duplicate of 3266 (repeat gossip line)
+[US#3271] SKIPPED - no content box in decode
+[US#3274] SKIPPED - duplicate of 3272
+[US#3275] SKIPPED - duplicate of 3273
+[US#3277] SKIPPED - no content box in decode
+[US#3279] SKIPPED - no content box in decode
+[US#3280] SKIPPED - no content box in decode
+[US#3281] SKIPPED - no content box in decode
+[US#3304] SKIPPED - no content box in decode
+[US#3305] SKIPPED - no content box in decode
+[US#3307] SKIPPED - no content box in decode
+[US#3308] SKIPPED - no content box in decode
