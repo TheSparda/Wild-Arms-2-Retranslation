@@ -1,0 +1,511 @@
+# WA2 — Block 3, US#294-489 (remaining slots) — FINAL (Town Meria opening: ceremony, gratitude, tutorials, Ashley's awakening — block 3 complete)
+# =========================================================================================
+# Early Town Meria (opening arc): Marina's bakery warmth, townsfolk urging Ashley to the
+# ceremony at Sword Cathedral (NW, foot of the mountain), the roof-access/hole-in-wall gag,
+# the flirty/gossip townsfolk, kids grateful the party saved Tim ({5}), reward-givers, the
+# Personal-Skill / ARM-upgrade / Drifter tutorial panels (shared with block 4), the Encounter
+# Cancel tutorial, the Sword Cathedral / Sword Magess legend, and Ashley's transformation-
+# awakening scene (the tempter's "you'll lose 'you' and become 'me'", his fractured memory,
+# waking to Marina). Warm small-town register; Ashley earnest. JP-primary; Drifters kept.
+
+[US#294] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#295] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#318] (courtier)
+  JP : 「自分たちで取り戻せないのに / メンツも何も、あったものではないと / 思うのですが〜
+  LIT: Since we couldn't retrieve it ourselves, I'd think there's no honor left to speak of.
+  RE : Since we couldn't retrieve it
+       ourselves, there's no honor left
+       to speak of, I'd think.
+
+[US#321] (elder)
+  JP : 「ワシも若い頃は〜（以辺、雄弁）
+  LIT: In my own youth, I... (and on he goes, at length)
+  RE : In my own youth, I... (and on he
+       goes, at length)
+
+[US#322] (elder)
+  JP : 「ワシも若い頃は〜（以辺、雄弁）
+  LIT: In my own youth, I... (and on he goes, at length)
+  RE : In my own youth, I... (and on he
+       goes, at length)
+
+[US#323] (elder)
+  JP : 「ワシも若い頃は〜（以辺、雄弁）
+  LIT: In my own youth, I... (and on he goes, at length)
+  RE : In my own youth, I... (and on he
+       goes, at length)
+
+[US#325] (elder)
+  JP : 「ワシも若い頃は〜（以辺、雄弁）
+  LIT: In my own youth, I... (and on he goes, at length)
+  RE : In my own youth, I... (and on he
+       goes, at length)
+
+[US#326] (townswoman)
+  JP : 「いやだわ〜
+  LIT: Oh, how awful.
+  RE : Oh, how awful.
+
+[US#327] (elder)
+  JP : 「あんまり、[0a]かちゃんを / 心配させないようになぁ
+  LIT: Now don't go worrying {2} too much, you hear.
+  RE : Now don't go worrying {2} too
+       much, you hear.
+
+[US#328] (elder)
+  JP : 「オマエさんからも言ってやってくれ / 『あんまりムチャをするなって』
+  LIT: You tell him too, would you: "don't go overdoing it."
+  RE : You tell him too, would you:
+       |don't go overdoing it|.
+
+[US#331] (townsperson)
+  JP : 「あとは、いくつかの自分領が / 各地にあるみたいだな
+  LIT: And besides those, there seem to be several autonomous regions here and there.
+  RE : And besides those, there seem to
+       be several autonomous regions
+       here and there.
+
+[US#332] (townsperson)
+  JP : 「ここに住んでいる王方って / 政家になったりしないのか？
+  LIT: The king who lives there; doesn't he ever get lost inside?
+  RE : The king who lives there; doesn't
+       he ever get lost inside?
+
+[US#335] (tutorial NPC)
+  JP : 「カンタンだろ？ / これが『エンカウントキャンセル』さ / うまく使ってくれよな
+  LIT: Simple, right? That's the "Encounter Cancel"; make good use of it.
+  RE : Simple, right? That's |Encounter
+       Cancel|. Make good use of it.
+
+[US#340] (gossip girl)
+  JP : 「もしも、[0a]かが知ったら〜 / [05]ぉの命はないわね〜 / ああ、でもそんな三<894b>関係に惚れちゃうかも
+  LIT: If {2} found out, {1}'d be a dead man; ooh, but I could just fall for a love triangle like that.
+  RE : If {2} found out, {1}'d be a dead
+       man; ooh, but I could just fall
+       for a love triangle like that.
+
+[US#345] (girl)
+  JP : 「ねぇ、今度わたしを連れていってよ
+  LIT: Say, next time take me along, won't you?
+  RE : Say, next time take me along,
+       won't you?
+
+[US#346] (townswoman)
+  JP : 「あぁ〜 / いったい私たちは / どうなってしまうのかしら〜
+  LIT: Oh my... whatever will become of us?
+  RE : Oh my... whatever will become of
+       us?
+
+[US#347] (townswoman)
+  JP : 「こわいモンスターが / たくさんいるからキケンだって / いつも<88f7>意しているのに〜
+  LIT: I keep warning that it's dangerous, with so many scary monsters about; and yet...
+  RE : I keep warning that it's
+       dangerous, with so many scary
+       monsters about; and yet...
+
+[US#352] (gossip girl)
+  JP : 「ねぇ、聞いてよぉ / １．やめときます / ２．いいよ[1a]か
+  LIT: Come on, listen! 1. I'll pass. 2. Sure.
+  RE : Come on, listen! 1. I'll pass.
+       2. Sure.
+
+[US#355] (gossip girl)
+  JP : 「なんていうか / ビビッドなカンジよね
+  LIT: How to put it: they're so vivid, you know?
+  RE : How to put it: they're so vivid,
+       you know?
+
+[US#356] (gossip girl)
+  JP : 「尊重してくれる？
+  LIT: You'll promise me, won't you?
+  RE : You'll promise me, won't you?
+
+[US#357] (gossip girl)
+  JP : 「あんにゅい
+  LIT: Ennui, as the French say.
+  RE : Ennui, as the French say.
+
+[US#358] (elder)
+  JP : 「＜剣の聖女＞が / 救世のための救世を授かった地に / 彼女をたたえる神殿場を建てたそうじゃ
+  LIT: On the land where the <Sword Magess> received her oracle of salvation, they built a temple in her honor.
+  RE : On the land where the <Sword
+       Magess> received her oracle, they
+       built a temple in her honor.
+
+[US#359] (elder)
+  JP : 「それが今の『剣の大聖堂』〜 / と、いうわけなんじゃ
+  LIT: And that is the "Sword Cathedral" as it stands today; so goes the tale.
+  RE : And that is the |Sword Cathedral|
+       as it stands today; so goes the
+       tale.
+
+[US#362] (elder)
+  JP : 「何たってワシは / 物分かりのいいジジイじゃからのう
+  LIT: After all, I'm a pretty understanding old geezer, see.
+  RE : After all, I'm a pretty
+       understanding old geezer, see.
+
+[US#363] (elder)
+  JP : 「気<89f8>も悪くないし / モンスターの<889a><889b>も / 比較的、少ないみたいだ
+  LIT: The climate's not bad, and monster damage seems relatively light there.
+  RE : The climate's not bad, and
+       monster damage seems relatively
+       light there.
+
+[US#365] (worrier)
+  JP : 「〜いや、まてよ〜 / <89c1>に、あの穴は / もしもの時の脱出口に使えないか？
+  LIT: No, wait: conversely, couldn't that hole serve as an escape route in a pinch?
+  RE : No, wait: conversely, couldn't
+       that hole serve as an escape
+       route in a pinch?
+
+[US#366] (worrier)
+  JP : 「そうだとしたら元の部屋の方が〜 / いや、しかし〜やっぱり、そこから〜でも〜 / 〜う〜う〜ん〜〜
+  LIT: In that case the old room would be... no, but... then again, from there... but... hmm... hmmmm...
+  RE : In that case the old room would
+       be... no, but... then again...
+       hmm... hmmmm...
+
+[US#367] (worrier)
+  JP : 「って、あんたに / 聞いてもしょうがなかったんだな
+  LIT: ...Then again, no point asking you, was there.
+  RE : ...Then again, no point asking
+       you, was there.
+
+[US#370] (roof man)
+  JP : 「父ならこの辺にいるはずだ / こういうおもしろいことなら / 僕はいつでも力になるぜ
+  LIT: My dad should be around here; for something fun like this, I'm always glad to help.
+  RE : My dad should be around here; for
+       something fun like this, I'm
+       always glad to help.
+
+[US#371] (roof man)
+  JP : 「うちのは、みっともないって言うけれど / 屋根から出入りできるなんて / 便利だと思わないか？
+  LIT: My wife says it's unsightly, but being able to come and go by the roof; handy, don't you think?
+  RE : My wife says it's unsightly, but
+       coming and going by the roof;
+       handy, don't you think?
+
+[US#372] (roof man)
+  JP : 「この僕方に考案があるんだ / ムフフ〜 / 屋根の修理なんてやってる場合じゃないな
+  LIT: I've got a little scheme of my own; heh heh; this is no time to be repairing the roof.
+  RE : I've got a little scheme of my
+       own; heh heh; no time to be
+       repairing the roof.
+
+[US#373] (roof man)
+  JP : 「この僕方に考案があるんだ / ムフフ〜 / 屋根の修理なんてやってる場合じゃないな
+  LIT: I've got a little scheme of my own; heh heh; this is no time to be repairing the roof.
+  RE : I've got a little scheme of my
+       own; heh heh; no time to be
+       repairing the roof.
+
+[US#375] (shy boy)
+  JP : 「えーと〜 あの〜 / いいお天気ですね〜〜〜
+  LIT: Um... er... n-nice weather we're having...
+  RE : Um... er... n-nice weather we're
+       having...
+
+[US#376] (shy boy)
+  JP : 「えッ！ / 魔法がつかえるんですか？ / す、すごくうらやましいです
+  LIT: What! You can use magic? I-I'm so envious!
+  RE : What! You can use magic? I-I'm so
+       envious!
+
+[US#378] (shy boy)
+  JP : 「あ、すみません / けっして、お母さんがおばあさんという / 意味ではなくて〜〜
+  LIT: Ah, sorry! I didn't at all mean that you're an old granny, miss...!
+  RE : Ah, sorry! I didn't at all mean
+       that you're an old granny,
+       miss...!
+
+[US#380] (kid)
+  JP : 「せっかくのお休みなのに / ボクたちのお願いを / 聞いてもらって〜
+  LIT: On your day off, no less, hearing out a favor from us...
+  RE : On your day off, no less, hearing
+       out a favor from us...
+
+[US#382] (tutorial panel)
+  JP : ＊一度、設定したパーソナルスキルは / 二度と変更が効かないので / <88f7>意が必要である
+  LIT: Once set, a Personal Skill can never be changed; take care.
+  RE : Once set, a Personal Skill can
+       never be changed. Take care.
+
+[US#383] (tutorial panel)
+  JP : ＊キャラクターのレベルの上方は９９〜 / すなわちＰＳポイントの上方も / ９９ポイントとなっている
+  LIT: The character level cap is 99; hence the PS point cap is also 99.
+  RE : The character level cap is 99.
+       Hence the PS point cap is also
+       99.
+
+[US#385] (tutorial panel)
+  JP : ＊与えられた範囲で / そのキャラにあった理想的なカタチを / エディットする必要があるのだ
+  LIT: Within the given bounds, you must shape the ideal form suited to that character.
+  RE : Within the given bounds, you must
+       shape the ideal form suited to
+       that character.
+
+[US#388] (tutorial panel)
+  JP : 「すべては / プレイヤーの手に委ねられているのだ
+  LIT: All of it is entrusted to the player's hands.
+  RE : All of it is entrusted to the
+       player's hands.
+
+[US#389] (tutorial panel)
+  JP : ＊１．情報は聞いて探せッ！ / ２．アイテムの補充を忘れるなッ！ / ３．相を甘く見るなッ！
+  LIT: 1. Walk and ask for information! 2. Never forget to restock items! 3. Never underestimate the foe!
+  RE : 1. Walk and ask for information!
+       2. Never forget to restock items!
+       3. Never underestimate the foe!
+
+[US#390] (tutorial panel)
+  JP : ＊生き残るためには / 多少は干渉な方がいい / 無謀と勇気をはき違えるな
+  LIT: To survive, a little caution is better; don't mistake recklessness for courage.
+  RE : To survive, a little caution is
+       better. Don't mistake
+       recklessness for courage.
+
+[US#395] (tutorial panel)
+  JP : ＊一度改造すると、元に戻せないので / 改造には特独性が重要となる
+  LIT: An upgrade once made cannot be undone, so planning matters in upgrading.
+  RE : An upgrade once made cannot be
+       undone, so planning matters in
+       upgrading.
+
+[US#398] (tutorial panel)
+  JP : ＊もう一つは、人々の<8923>頼を受け / モンスターを倒したり、護衛をしたり / それによって報酬を得るものたち
+  LIT: The other takes people's requests, slaying monsters or guarding, and earns their pay thereby.
+  RE : The other takes people's
+       requests, slaying monsters or
+       guarding, and earns pay thereby.
+
+[US#400] (tutorial panel)
+  JP : ＊ゆえに、自分たちの行動いかんによって / その評判が上辺する / その責任の重さも知っておくのだ
+  LIT: Hence their repute rises or falls by their own conduct; know too the weight of that responsibility.
+  RE : Their repute rises or falls by
+       their own conduct. Know too the
+       weight of that responsibility.
+
+[US#408] (girl)
+  JP : 「えっと〜
+  LIT: Um...
+  RE : Um...
+
+[US#411] (kid)
+  JP : 「大好きな[0a]ぎくんが無事で / ホントによかった / [05]ぉさんありがとう
+  LIT: I'm so glad our dear {5} is safe; thank you, {1}.
+  RE : I'm so glad our dear {5} is safe.
+       Thank you, {1}.
+
+[US#420] (kid)
+  JP : 「うん、わかったよ / でもさ、アン時のお礼くらいは / 受け取ってくれよな
+  LIT: Yeah, okay; but at least let me thank you for that time; here, take it.
+  RE : Yeah, okay; but at least let me
+       thank you for that time; here,
+       take it.
+
+[US#423] (courtier)
+  JP : 「これは、[0a]ぎ様を / 助けてくれたお礼ですから / ぜひ受け取ってください
+  LIT: This is our thanks for saving young {5}; please, do take it.
+  RE : This is our thanks for saving
+       young {5}; please, do take it.
+
+[US#426] (kid)
+  JP : 「あともうひとつ〜 / ミーディアムには単の力があるって / 母さんが言っていたのだけれど…
+  LIT: And one more thing; Mom said a Medium has another power too, but...
+  RE : And one more thing; Mom said a
+       Medium has another power too,
+       but...
+
+[US#427] (kid)
+  JP : 「ごめんなさい / …忘れてしまいました…
+  LIT: Sorry; ...I've forgotten what it was...
+  RE : Sorry; ...I've forgotten what it
+       was...
+
+[US#429] (courtier)
+  JP : 「わたくしなりの結論といたしましては / これでメンツも / 保たれたことでしょう
+  LIT: In my own estimation, our honor should now be preserved by this.
+  RE : In my own estimation, our honor
+       should now be preserved by this.
+
+[US#431] (kid)
+  JP : 「だから、あんちゃんにあげるよ / とりかえしてくれた / お礼だと思って、受け取ってくれよッ！
+  LIT: So I'm giving it to you, mister; think of it as thanks for getting it back, and take it!
+  RE : So I'm giving it to you, mister;
+       think of it as thanks for getting
+       it back, and take it!
+
+[US#434] (courtier)
+  JP : 「これは、[0a]ぎ様を / 助けてくれたお礼ですから / ぜひ受け取ってください
+  LIT: This is our thanks for saving young {5}; please, do take it.
+  RE : This is our thanks for saving
+       young {5}; please, do take it.
+
+[US#437] (kid)
+  JP : 「あともうひとつ〜 / ミーディアムには単の力があるって / 母さんが言っていたのだけれど…
+  LIT: And one more thing; Mom said a Medium has another power too, but...
+  RE : And one more thing; Mom said a
+       Medium has another power too,
+       but...
+
+[US#439] (young soldier)
+  JP : 「今度、新設される / 結単部隊への配属が / 決定したみたい〜だ
+  LIT: It seems I've been assigned to the special unit that's just being formed.
+  RE : It seems I've been assigned to
+       the special unit that's just
+       being formed.
+
+[US#440] (young soldier)
+  JP : 「すごい、すごいぞ〜 / まるで<b:8a4c>物語の中の英雄みたいだ
+  LIT: Amazing, just amazing; it's like being a hero out of an old tale.
+  RE : Amazing, just amazing; it's like
+       being a hero out of an old tale.
+
+[US#443] (young soldier)
+  JP : 「どうして / 俺がこんなすごい事に選ばれたのか / そして〜
+  LIT: Why was I chosen for something this grand? And besides...
+  RE : Why was I chosen for something
+       this grand? And besides...
+
+[US#451] (townsperson)
+  JP : 「剣物儀式式場〜 / 『剣の大聖堂』は[11]おこの場からずっと北東〜[11]ぉ / 谷のふもとにあるんだ
+  LIT: The sword ceremony hall; "Sword Cathedral" lies far to the [11]northeast[11] of town, at the mountain's foot.
+  RE : The ceremony hall, |Sword
+       Cathedral|, lies far [11]northeast[11]
+       of town, at the mountain's foot.
+
+[US#452] (townsperson)
+  JP : 「気をつけていくんだぞ / 最近はこの岸りも / モンスターの<889a><889b>が費えてきたからな
+  LIT: Take care on the way; monster damage has been growing around these parts lately.
+  RE : Take care on the way; monster
+       damage has been growing around
+       these parts lately.
+
+[US#454] (Ashley)
+  JP : 「尊重する
+  LIT: I promise.
+  RE : I promise.
+
+[US#456] (young soldier)
+  JP : 「やったッ！ やったよッ！ / ほら、ここを進んでみてよ / 隊長が俺を<88c1>推してくれたみたいだッ！
+  LIT: I did it! I did it! Here, read this; it seems the captain recommended me!
+  RE : I did it! I did it! Here, read
+       this; it seems the captain
+       recommended me!
+
+[US#461] (Ashley)
+  JP : 「身体が<8868>い〜 / 何かに突き動かされる〜
+  LIT: My body's burning... something's driving me on...
+  RE : My body's burning... something's
+       driving me on...
+
+[US#462] (Ashley)
+  JP : 「全身の信信がマヒしているのに / どんな<b:8af4><8a12>な<b:8af5><89f8>も信じ取るような〜 / そんな〜 違和信〜 異物信〜
+  LIT: My whole body's senses are numb, yet I feel I could catch the faintest thing; such a wrongness, a foreignness...
+  RE : My senses are all numb, yet I
+       feel I'd catch the faintest
+       thing; such a wrongness inside...
+
+[US#463] (Ashley)
+  JP : 「〜俺は〜 〜俺は〜 〜俺は〜 〜俺は〜
+  LIT: ...I... I... I... I am...
+  RE : ...I... I... I... I am...
+
+[US#464] (tempter)
+  JP : 「だが、それももう長くはない〜
+  LIT: But that will not last much longer.
+  RE : But that will not last much
+       longer.
+
+[US#465] (tempter)
+  JP : 「お前は『お前』を捨て / やがては『私』へと至る〜
+  LIT: You will cast off "you," and in time become "me."
+  RE : You will cast off |you|, and in
+       time become |me|.
+
+[US#467] (tempter)
+  JP : 「それは、『私』へと至る過程の一部 / お前が『お前』を喪失していくことの / 痛みそのもの〜
+  LIT: That is part of the path to becoming "me"; the very pain of you losing "you."
+  RE : That is part of the path to
+       becoming |me|; the very pain of
+       you losing |you|.
+
+[US#468] (Ashley)
+  JP : 「わからない〜 / 俺が『俺』を失うコト〜 / 俺が『俺』じゃなくなるイミ〜
+  LIT: I don't understand; me losing "me"; what it means for me to stop being "me"...
+  RE : I don't understand; me losing
+       |me|; what it means to stop being
+       |me|...
+
+[US#469] (Ashley)
+  JP : 「〜俺は〜 〜俺は〜 〜俺は〜 〜俺は〜？
+  LIT: ...Who... who... who... who am I?
+  RE : ...Who... who... who... who am I?
+
+[US#472] (Marina)
+  JP : 「このままずっと / 起きてこないんじゃないかって / わたし〜
+  LIT: I was so afraid you'd never wake up again...
+  RE : I was so afraid you'd never wake
+       up again...
+
+[US#477] (Ashley)
+  JP : 「そうだ、確かに俺は / ヴァレリアと名乗る剣に出会った〜 / そして〜 そして〜
+  LIT: That's right; I did meet a man who called himself Valeria; and then... and then...
+  RE : That's right; I did meet a man
+       who called himself Valeria; and
+       then... and then...
+
+[US#478] (Ashley)
+  JP : 「どうしたんだ〜？ / 渡録が断目的でしかない / 〜うまく、思い出せない〜〜
+  LIT: What's wrong with me? My memory comes only in fragments; I can't recall it clearly...
+  RE : What's wrong with me? My memory
+       comes only in fragments; I can't
+       recall it clearly...
+
+[US#482] (girl)
+  JP : 「ようやく聞いて / この場までたどり着けたんです
+  LIT: I finally asked the way and made it all the way to this town.
+  RE : I finally asked the way and made
+       it all the way to this town.
+
+[US#485] (girl)
+  JP : 「〜〜でも〜〜
+  LIT: ...But...
+  RE : ...But...
+
+[US#486] (girl)
+  JP : 「だから、お腹の空きかたも / ちょーっと人より早いかなー〜って
+  LIT: So I get hungry just a liiittle faster than most folks, I suppose.
+  RE : So I get hungry just a liiittle
+       faster than most folks, I
+       suppose.
+
+[US#487] (girl)
+  JP : 「〜ずびばぜん
+  LIT: ...Thangk you zo much.
+  RE : ...Thangk you zo much.
+
+[US#488] (girl)
+  JP : 「あ、そうだッ！ / ヤキソバパンのお礼に / ぜひ、わたしに出街させてください
+  LIT: Oh, I know! To thank you for the yakisoba bun, please let me guide you there!
+  RE : Oh, I know! To thank you for the
+       yakisoba bun, please let me guide
+       you there!
+
+[US#489] (girl)
+  JP : 「でも、だいたいの場所ならわかるんです / 〜だから、いっしょに探しましょうッ！ / そうしましょうッ！
+  LIT: But I do know roughly where it is; so let's search together! Let's do that!
+  RE : But I do know roughly where it
+       is; so let's search together!
+       Let's do that!
