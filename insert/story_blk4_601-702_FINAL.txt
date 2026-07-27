@@ -1,0 +1,528 @@
+# WA2 — Block 4, US#601-702 — FINAL (Meria part 2: Ashley/Marina heart-to-heart — block 4 complete)
+# =========================================================================================
+# The emotional heart of block 4: town gossip and the room-changer gag, the tutorial panels
+# (Personal Skills / ARM upgrades / Drifter types), Tim's thank-you to Marina, Ashley's "they
+# called me a hero" boast, Marina cutting through it ("does the Hero have to do it? Are you
+# still {1}?"), the Empathite shard gift, her insecurity confession, and Irving's summons to
+# Valeria Chateau. Drifters restored (EN: Mercs). JP-primary; EN aligns well.
+
+[US#601] (gossip girl)
+  JP : 「そっかぁ〜 / だれかいい人がいるのねぇ〜 / <b:8ab9>は、女性がキレイになるキホンだよね
+  LIT: I get it! There's someone special, isn't there! Love is the basis of a woman's beauty, after all.
+  RE : I get it! There's someone
+       special, isn't there! Love makes
+       a woman beautiful, after all.
+
+[US#602] (gossip girl)
+  JP : 「アハハ〜ッ！ / ジョウダンだよ / でも仕事に<b:8ada>える剣の人の<89a3>中って<b:8a6a>相よ
+  LIT: Ahaha! Just teasing! But the back of a man devoted to his work does look fine.
+  RE : Ahaha! Just teasing! But the back
+       of a man devoted to his work does
+       look fine.
+
+[US#603] (gossip girl)
+  JP : 「助からなかった人たちは残念だったけど〜
+  LIT: It's a shame about the ones who couldn't be saved, though...
+  RE : It's a shame about the ones who
+       couldn't be saved, though...
+
+[US#604] (gossip girl)
+  JP : 「でもね、彼方 / <b:8a86>しんだり / 落ち込んだりするだけじゃ、ダメなんだよ
+  LIT: But you know, mister, just grieving and moping won't do.
+  RE : But you know, mister, just
+       grieving and moping won't do.
+
+[US#605] (gossip girl)
+  JP : 「その人たちのことをずっと忘れずに / アタシたちは、次るく楽しく生きなくちゃ / いけないんだと思うの。 いい？
+  LIT: Never forgetting those people, we have to live on bright and glad; that's what I think. Got it?
+  RE : Never forgetting those people, we
+       have to live on bright and glad.
+       Got it?
+
+[US#606] (gossip girl)
+  JP : 「〜そうだ / ついでにアタシのグチ聞いてくれない？
+  LIT: Oh, that's right: while you're at it, will you hear my gripe?
+  RE : Oh, that's right: while you're at
+       it, will you hear my gripe?
+
+[US#607] (gossip girl)
+  JP : 「ねぇ、聞いてよぉ / １．やめときます / ２．いいよ[1a]か
+  LIT: Come on, listen! 1. I'll pass. 2. Sure.
+  RE : Come on, listen! 1. I'll pass.
+       2. Sure.
+
+[US#608] (gossip girl)
+  JP : 「捕まったあと、ヴァレリアシャトーの / 場所とか、面についてながながと / 話しがはじまっちゃうの〜
+  LIT: Once she corners you, the endless talk starts: Valeria Chateau's location, its shape...
+  RE : Once she corners you, the endless
+       talk starts: the Chateau's
+       location, its shape...
+
+[US#609] (gossip girl)
+  JP : 「つらいわぁ〜
+  LIT: It's exhausting.
+  RE : It's exhausting.
+
+[US#610] (gossip girl)
+  JP : 「なんていうか / ビビッドなカンジよね
+  LIT: How to put it: they're so vivid, you know?
+  RE : How to put it: they're so vivid,
+       you know?
+
+[US#611] (elder)
+  JP : 「〜<b:8adf>がちょっぴりな / こう、グキッときてのぉ〜 / 無念じゃったわい〜
+  LIT: My back went crick, just like that; such a shame it was.
+  RE : My back went crick, just like
+       that. Such a shame it was.
+
+[US#612] (elder)
+  JP : 「まあ、<88a9>しくは分からないから / パレスヴィレッジで聞いてみるといいかもね
+  LIT: Well, I don't know the details; you might ask at Palace Village.
+  RE : Well, I don't know the details.
+       You might ask at Palace Village.
+
+[US#614] (townsperson)
+  JP : 「キミたちはハルメッツの / 人たちを助けてくれたそうだね / ありがとう。俺からも礼を言わせてもらうよ
+  LIT: I hear you saved the people of Halmetz; thank you; let me add my own thanks.
+  RE : I hear you saved the people of
+       Halmetz. Thank you. Let me add my
+       own thanks.
+
+[US#615] (townsperson)
+  JP : 「ＡＲＭＳでも、正<b:8a91><b:8a9f>胞団でも、<b:8aa0>胞隊でも / 何でもいいから / 早く何とかしてほしいもんだ
+  LIT: ARMS, the knights, the musketeers, whoever; I just want someone to do something soon.
+  RE : ARMS, the knights, the
+       musketeers, whoever. I just want
+       someone to do something soon.
+
+[US#616] (worrier)
+  JP : 「〜う〜う〜ん〜〜
+  LIT: Hmm... hmmmm...
+  RE : Hmm... hmmmm...
+
+[US#617] (worrier)
+  JP : 「もしテロがここに侵入するとしたら / あの<b:8af2>からくるかもしれないからね / やっぱり部左をかえてもらって正解だったな
+  LIT: If terrorists broke in here, they might come through that hole; changing rooms was the right call.
+  RE : If terrorists broke in here, they
+       might come through that hole.
+       Changing rooms was right.
+
+[US#618] (worrier)
+  JP : 「いや、まてよ〜 / <89c1>に、あの<b:8af2>は / もしもの時の脱出口に使えないか？
+  LIT: No, wait: conversely, couldn't that hole serve as an escape route in a pinch?
+  RE : No, wait: conversely, couldn't
+       that hole serve as an escape
+       route in a pinch?
+
+[US#619] (worrier)
+  JP : 「そうだとしたら元の部左の方が〜 / いや、しかし〜やっぱり、そこから〜でも〜 / 〜う〜う〜ん〜〜
+  LIT: In that case the old room would be... no, but... then again, from there... but... hmm... hmmmm...
+  RE : In that case the old room would
+       be... no, but... then again...
+       hmm... hmmmm...
+
+[US#620] (worrier)
+  JP : 「って、あんたに / 聞いてもしょうがなかったんだな
+  LIT: ...Then again, no point asking you, was there.
+  RE : ...Then again, no point asking
+       you, was there.
+
+[US#621] (shy boy)
+  JP : 「人をたすけたんですよね / 人の命をすくったんですよね / そんな、力があるなんてうらやましいです
+  LIT: You helped people, saved lives, didn't you? I envy strength like that.
+  RE : You helped people, saved lives,
+       didn't you? I envy strength like
+       that.
+
+[US#622] (shy boy)
+  JP : 「ボク、みなさんのように / 勇気がもてたらいいなって思ってます
+  LIT: I hope I can find courage like all of yours.
+  RE : I hope I can find courage like
+       all of yours.
+
+[US#623] (townsperson)
+  JP : 「モンスター以外にも / テロリストなんてモノにまで / 気をつけなくちゃいけないなんて〜
+  LIT: To think we must beware not just monsters but even terrorists now...
+  RE : To think we must beware not just
+       monsters but even terrorists
+       now...
+
+[US#624] (shy boy)
+  JP : 「えーと〜 あの〜 / いいお<b:8af4>気ですね〜〜〜
+  LIT: Um... er... n-nice weather we're having...
+  RE : Um... er... n-nice weather we're
+       having...
+
+[US#625] (shy boy)
+  JP : 「えッ！ / 魔法がつかえるんですか？ / す、すごくうらやましいです
+  LIT: What! You can use magic? I-I'm so envious!
+  RE : What! You can use magic? I-I'm so
+       envious!
+
+[US#626] (shy boy)
+  JP : 「〜でも、魔法使いって / おばあさんとかのイメージがありました〜
+  LIT: But I always pictured magic users as, like, old grannies...
+  RE : But I always pictured magic users
+       as, like, old grannies...
+
+[US#627] (shy boy)
+  JP : 「あ、すみません / けっして、お<b:8af5>さんがおばあさんという / 意<b:8a7a>ではなくて〜〜
+  LIT: Ah, sorry! I didn't at all mean that you're an old granny, miss...!
+  RE : Ah, sorry! I didn't at all mean
+       that you're an old granny,
+       miss...!
+
+[US#628] (tutorial panel)
+  JP : ＊バトル時に<b:8af7>果を発揮する / この<b:8a51>能は / ＰＳポイントを消<b:8af8>することで<b:8af9>得できる
+  LIT: These abilities take effect in battle and are acquired by spending PS points.
+  RE : These abilities take effect in
+       battle and are acquired by
+       spending PS points.
+
+[US#629] (tutorial panel)
+  JP : ＊一度、設定したパーソナルスキルは / <b:8afa>度と変更が<b:8af7>かないので / <88f7>意が必要である
+  LIT: Once set, a Personal Skill can never be changed; take care.
+  RE : Once set, a Personal Skill can
+       never be changed. Take care.
+
+[US#630] (tutorial panel)
+  JP : ＊キャラクターのレベルの上方は９９〜 / すなわちＰＳポイントの上方も / ９９ポイントとなっている
+  LIT: The character level cap is 99; hence the PS point cap is also 99.
+  RE : The character level cap is 99.
+       Hence the PS point cap is also
+       99.
+
+[US#631] (tutorial panel)
+  JP : ＊しかし、すべてのパーソナルスキルを / <b:8af9>得するためには、９９ポイント以上の / ＰＳポイントが必要と設定されている
+  LIT: But acquiring every Personal Skill is set to require more than 99 PS points.
+  RE : But acquiring every Personal
+       Skill is set to require more than
+       99 PS points.
+
+[US#632] (tutorial panel)
+  JP : ＊<b:8afb>えられた<b:8afc><b:8afd>で / そのキャラにあった理想的なカタチを / エディットする必要があるのだ
+  LIT: Within the given bounds, you must shape the ideal form suited to that character.
+  RE : Within the given bounds, you must
+       shape the ideal form suited to
+       that character.
+
+[US#633] (tutorial panel)
+  JP : ＊だが、すべてのスキルが / ＰＳポイント１で<b:8af9>得できるのではない
+  LIT: But not every skill can be acquired for a single PS point.
+  RE : But not every skill can be
+       acquired for a single PS point.
+
+[US#634] (tutorial panel)
+  JP : ＊お手<b:8b02>なパーソナルスキルを / たくさん設定するか / <b:8af7>果の高いスキルを地道に設定するか〜
+  LIT: Take many easy Personal Skills, or save steadily for the high-effect ones...
+  RE : Take many easy Personal Skills,
+       or save steadily for the
+       high-effect ones...
+
+[US#635] (tutorial panel)
+  JP : 「すべては / プレイヤーの手に<b:8b03>ねられているのだ
+  LIT: All of it is entrusted to the player's hands.
+  RE : All of it is entrusted to the
+       player's hands.
+
+[US#636] (tutorial panel)
+  JP : ＊１．情報は<b:8ab3>いて探せッ！ / ２．アイテムの<b:8a3a>充を忘れるなッ！ / ３．相を<b:8b04>く見るなッ！
+  LIT: 1. Walk and ask for information! 2. Never forget to restock items! 3. Never underestimate the foe!
+  RE : 1. Walk and ask for information!
+       2. Never forget to restock items!
+       3. Never underestimate the foe!
+
+[US#637] (tutorial panel)
+  JP : ＊生き残るためには / 多少は<b:8b05>渉な方がいい / 無<b:8a97>と勇<b:8b06>をはき違えるな
+  LIT: To survive, a little caution is better; don't mistake recklessness for courage.
+  RE : To survive, a little caution is
+       better. Don't mistake
+       recklessness for courage.
+
+[US#638] (tutorial panel)
+  JP : ＊最後に / ただ<b:8b07>きはするなッ！
+  LIT: Lastly: never work for free!
+  RE : Lastly: never work for free!
+
+[US#639] (tutorial panel)
+  JP : ＊<b:8b08>撃力を<b:8a49>めるのか / 命中<b:8b09>を<b:8a49>めるのか / それとも、<b:8a38>年を<b:8ac8>やすのか
+  LIT: Raise attack power, raise accuracy, or increase ammo count?
+  RE : Raise attack power, raise
+       accuracy, or increase ammo count?
+
+[US#640] (tutorial panel)
+  JP : ＊どのようなアームにしたいのかを決め / <b:8af7><b:8b09>のよい置発をおすすめする
+  LIT: Decide what kind of ARM you want, then upgrade efficiently; that is the recommendation.
+  RE : Decide what kind of ARM you want,
+       then upgrade efficiently. That is
+       the recommendation.
+
+[US#641] (tutorial panel)
+  JP : ＊すべてを<b:8a75><b:8b0a>的に / パワーアップしようとすると / 使い<b:8a8a>手の悪いアームになることがある
+  LIT: Trying to power up everything evenly can yield an ARM that handles poorly.
+  RE : Trying to power up everything
+       evenly can yield an ARM that
+       handles poorly.
+
+[US#642] (tutorial panel)
+  JP : ＊一度置発すると、元に戻せないので / 置発には特<b:8a72>性が重要となる
+  LIT: An upgrade once made cannot be undone, so planning matters in upgrading.
+  RE : An upgrade once made cannot be
+       undone, so planning matters in
+       upgrading.
+
+[US#643] (tutorial panel)
+  JP : ＊『渡り<b:8a4d>』は / 大きく分けると<b:8afa>つのタイプに分かれる
+  LIT: "Drifters" divide broadly into two types.
+  RE : |Drifters| divide broadly into
+       two types.
+
+[US#644] (tutorial panel)
+  JP : ＊一つは、遺跡に<b:8b0b>り、探<b:8b0c>しながら / 遺跡にある<b:8b0d>物を手に入れようとするタイプ
+  LIT: One type delves the ruins, exploring to claim the treasures within.
+  RE : One type delves the ruins,
+       exploring to claim the treasures
+       within.
+
+[US#645] (tutorial panel)
+  JP : ＊もう一つは、人々の<8923>頼を受け / モンスターを倒したり、護衛をしたり / それによって報<b:8b0e>を得るものたち
+  LIT: The other takes people's requests, slaying monsters or guarding, and earns their pay thereby.
+  RE : The other takes people's
+       requests, slaying monsters or
+       guarding, and earns pay thereby.
+
+[US#646] (tutorial panel)
+  JP : ＊どちらにせよ、世間一<b:8b0f>の人々から見れば / ならず者と大差ないことを / 知っておく必要がある
+  LIT: Either way, know that in the public's eye they differ little from ruffians.
+  RE : Either way, know that in the
+       public's eye they differ little
+       from ruffians.
+
+[US#647] (tutorial panel)
+  JP : ＊ゆえに、自分たちの行動いかんによって / その<b:8a8e>判が上辺する / その<b:8b10>任の重さも知っておくのだ
+  LIT: Hence their repute rises or falls by their own conduct; know too the weight of that responsibility.
+  RE : Their repute rises or falls by
+       their own conduct. Know too the
+       weight of that responsibility.
+
+[US#648] (innkeeper)
+  JP : 「おひとり方につき一緒[02]ギャラ / [02]人方ですので、[02]ギャラとなります / よろしいですか？[18]か
+  LIT: It's {2} Gella per guest; for {2} people, that's {2} Gella; all right?
+  RE : It's {2} Gella per guest a night.
+       For your party, that's {2} Gella.
+       All right?
+
+[US#649] (townsperson)
+  JP : 「それに、[0a]くッ！ / [05]がもッ！ / みんな元気してたかッ！
+  LIT: And {6}! And {3} too! Have you all been well?!
+  RE : And {6}! And {3} too! Have you
+       all been well?!
+
+[US#650] (townsperson)
+  JP : 「元気すぎて / [05]がなんか、なあ？
+  LIT: A little too well, eh, {3}?
+  RE : A little too well, eh, {3}?
+
+[US#651] (Tim)
+  JP : 「ボクはただ / その時のお礼がしたくて〜
+  LIT: I just wanted to thank her for that time...
+  RE : I just wanted to thank her for
+       that time...
+
+[US#652] (townsperson)
+  JP : 「おい、[0a]く / たのむ、なんとかしてくれよ
+  LIT: Hey, {6}, please, do something about this.
+  RE : Hey, {6}, please, do something
+       about this.
+
+[US#653] (townsperson)
+  JP : 「いいえ〜 / [0a]かさんに / <b:8b19>いにきたのではありませんか？
+  LIT: No... you came to see {2}, did you not?
+  RE : No... you came to see {2}, did
+       you not?
+
+[US#654] (Ashley)
+  JP : 「俺と[0a]かは / そんなんじゃないよ〜
+  LIT: {2} and I, it's not like that.
+  RE : {2} and I, it's not like that.
+
+[US#655] (townsperson)
+  JP : 「どうやら、[05]ぉさん / クラスチェンジ前と見ましたが / いかがなものでしょう〜
+  LIT: It would seem {1} is on the verge of a class change; what say you?
+  RE : It would seem {1} is on the verge
+       of a class change. What say you?
+
+[US#656] (Tim)
+  JP : 「それより、[0a]か / これ〜
+  LIT: Anyway, {2}, here...
+  RE : Anyway, {2}, here...
+
+[US#657] (Tim)
+  JP : 「ひとの想いを伝える<b:8af7>力が / <b:8b1b>められているって聞いたよ / もっとも、こんな欠<b:8b1c>じゃ無理みたいだけど
+  LIT: They say it holds the power to convey people's feelings; though a shard this small likely can't.
+  RE : They say it holds the power to
+       convey people's feelings. Though
+       a shard this small likely can't.
+
+[US#658] (Tim)
+  JP : 「〜ほら
+  LIT: ...Here.
+  RE : ...Here.
+
+[US#659] (Ashley)
+  JP : 「だいじょうぶだよ / 心配しないで、[0a]か
+  LIT: It's all right; don't worry, {2}.
+  RE : It's all right. Don't worry, {2}.
+
+[US#660] (Ashley)
+  JP : 「そうだ[0a]かに話してあげるよ / 俺たちのやっていること / 今までの行動をッ！
+  LIT: That's right, {2}, let me tell you: what we've been doing, everything so far!
+  RE : That's right, {2}, let me tell
+       you: what we've been doing,
+       everything so far!
+
+[US#661] (Ashley)
+  JP : 「それくらい / いろいろなことが / 俺たちを通り過ぎていったんだ〜
+  LIT: That's how much has passed us by; so many things.
+  RE : That's how much has passed us by.
+       So many things.
+
+[US#662] (Ashley)
+  JP : 「たしかにツライよ / でもね、誰かを助けた時の / 気持ちは何物にも代えられないんだ
+  LIT: It's hard, true; but the feeling when you've saved someone can't be traded for anything.
+  RE : It's hard, true. But the feeling
+       when you've saved someone can't
+       be traded for anything.
+
+[US#663] (Ashley)
+  JP : 「そう、このあいだね / 俺は『英雄』って呼ばれたんだ
+  LIT: In fact, just the other day, they called me a "hero."
+  RE : In fact, just the other day, they
+       called me a |hero|.
+
+[US#664] (Ashley)
+  JP : 「〜俺自身の力で / そう呼ばれたわけではないけどね
+  LIT: ...Not that I earned the name by my own strength alone.
+  RE : ...Not that I earned the name by
+       my own strength alone.
+
+[US#665] (Ashley)
+  JP : 「でも、オデッサに立ち向かう / 『英雄』って言われたんだ / 悪い気はしなかったな〜
+  LIT: But being called the "hero" who stands against Odessa; it didn't feel bad.
+  RE : But being called the |hero| who
+       stands against Odessa; it didn't
+       feel bad.
+
+[US#667] (Marina)
+  JP : 「わたしには、そうは聞こえないよ
+  LIT: That's not how it sounds to me.
+  RE : That's not how it sounds to me.
+
+[US#668] (Marina)
+  JP : 「たしかに今、ファルガイアに / 大変なことが起こっているわ
+  LIT: It's true that terrible things are happening to Filgaia now.
+  RE : It's true that terrible things
+       are happening to Filgaia now.
+
+[US#669] (Marina)
+  JP : 「でも、それは / [05]ぉが〜 / 『英雄』が何とかしなくちゃいけないの？
+  LIT: But is that something {1}, the "hero," has to fix?
+  RE : But is that something {1}, the
+       |hero|, has to fix?
+
+[US#676] (Marina)
+  JP : 「すれ違いが続くよ〜
+  LIT: We keep missing each other...
+  RE : We keep missing each other...
+
+[US#677] (Marina)
+  JP : 「なのに、今までよりも / 遠くにあなたを信じるの〜
+  LIT: And yet I feel you farther away than ever...
+  RE : And yet I feel you farther away
+       than ever...
+
+[US#678] (Marina)
+  JP : 「ねぇ〜 / あなたは本当に[05]ぉなの？
+  LIT: Tell me... are you really still {1}?
+  RE : Tell me... are you really still
+       {1}?
+
+[US#680] (Ashley)
+  JP : 「[0a]か〜 / 俺は〜
+  LIT: {2}... I...
+  RE : {2}... I...
+
+[US#681] (Marina)
+  JP : 「そんなこと、わかっている / でも、不安になるから困らせてしまう
+  LIT: I know all that; but the worry makes me trouble you anyway.
+  RE : I know all that. But the worry
+       makes me trouble you anyway.
+
+[US#684] (NPC)
+  JP : 「それがキミをいっそう / 不安にさせている〜
+  LIT: And that only deepens your unease.
+  RE : And that only deepens your
+       unease.
+
+[US#685] (NPC)
+  JP : 「何なら、俺が相手になってやろうか？
+  LIT: If you like, shall I be your opponent?
+  RE : If you like, shall I be your
+       opponent?
+
+[US#688] (Marina)
+  JP : 「ただ、みんなそろって / 無事に帰ってこれますようにって〜
+  LIT: Only that everyone, all together, may come home safe...
+  RE : Only that everyone, all together,
+       may come home safe...
+
+[US#690] (Marina)
+  JP : 「[05]ぉ〜
+  LIT: {1}...
+  RE : {1}...
+
+[US#699] (Irving)
+  JP : 「現状では / 何とも言えないんだけれどね〜
+  LIT: As things stand, I can't say anything for certain.
+  RE : As things stand, I can't say
+       anything for certain.
+
+[US#700] (Irving)
+  JP : 「いっしょに / ヴァレリアシャトーまで / 来てほしいんだ
+  LIT: I'd like you to come with us to Valeria Chateau.
+  RE : I'd like you to come with us to
+       Valeria Chateau.
+
+[US#701] (sleeper)
+  JP : 「〜[16]がぉ〜[16]がぉ〜[16]がぉ〜
+  LIT: (snoring) zzz... zzz... zzz...
+  RE : zzz... zzz... zzz...
+
+[US#702] (party)
+  JP : 「わかりました / お願いします〜
+  LIT: Understood; please, lead the way.
+  RE : Understood. Please, lead the way.
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#613] SKIPPED - no content box in decode
+[US#666] SKIPPED - no content box in decode
+[US#670] SKIPPED - no content box in decode
+[US#671] SKIPPED - no content box in decode
+[US#672] SKIPPED - no content box in decode
+[US#673] SKIPPED - no content box in decode
+[US#674] SKIPPED - no content box in decode
+[US#675] SKIPPED - no content box in decode
+[US#679] SKIPPED - no content box in decode
+[US#682] SKIPPED - no content box in decode
+[US#683] SKIPPED - no content box in decode
+[US#686] SKIPPED - no content box in decode
+[US#687] SKIPPED - no content box in decode
+[US#689] SKIPPED - no content box in decode
+[US#691] SKIPPED - no content box in decode
+[US#692] SKIPPED - no content box in decode
+[US#693] SKIPPED - no content box in decode
+[US#694] SKIPPED - no content box in decode
+[US#695] SKIPPED - no content box in decode
+[US#696] SKIPPED - no content box in decode
+[US#697] SKIPPED - no content box in decode
+[US#698] SKIPPED - no content box in decode
