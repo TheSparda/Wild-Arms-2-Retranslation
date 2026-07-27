@@ -1,0 +1,260 @@
+# WA2 — Block 11, US#3069-3110 — FINAL (Kuiper Belt / Trapezohedron war-council + "use Ashley as the Vessel")
+# =========================================================================================
+# Endgame council after the failed first strike: the nations now share Live Reflectors and fight
+# together; Amy ("Mee-chan") reports the Raypoint Mana nearly spent; Irving explains the plan to
+# trap the Kuiper Belt (a |Being|, not a |World|) in a living |Vessel|, the Trapezohedron having
+# fallen short; and the turn to the only remaining option, {1} Winchester himself as the Vessel.
+# JP-primary (EN drifts). Unreadable spans [?]. Name codes {0}/{1}/[05]/[0a] preserved. Hand-done.
+
+[US#3069] (Irving)
+  JP : 「貴様の任務は、現地に急行し / 原因を行次することだ / 〜頼んだぞ
+  LIT: Your mission is to rush to the site and investigate the cause. I'm counting on you.
+  RE : Your mission: rush to the site and
+       find the cause. I'm counting on
+       you.
+
+[US#3071] (Chateau NPC)
+  JP : 「何だか、まだ信じられません / メリアブール、シルヴァラント / それに、ギルドグラードが〜
+  LIT: It's still hard to believe: Meria Boule, Sylvaland, and Guild Galad...
+  RE : It's still hard to believe. Meria
+       Boule, Sylvaland, and Guild
+       Galad...
+
+[US#3072] (Chateau NPC)
+  JP : 「族共がお<b:8bf8>いのライブリフレクターを解放し / 共闘しているなんて〜 / 少し前の状況では考えられないことでした
+  LIT: The nations opening their Live Reflectors to each other and fighting together, unthinkable not long ago.
+  RE : The nations sharing their Live
+       Reflectors and fighting together,
+       unthinkable not long ago.
+
+[US#3073] (Lilka)
+  JP : 「みんないっしょにガンバローって信じに / いつのまにかなってたもんね
+  LIT: Before we knew it, everyone came to believe in pulling together.
+  RE : Before we knew it, everyone came
+       to believe in pulling together.
+
+[US#3074] (Lilka)
+  JP : 「みんなのファルガイアが / 大ピンチなんだもん / そりゃ、みんなでがんばらなくっちゃねッ！
+  LIT: Everyone's Filgaia is in dire straits, so of course we all have to do our best!
+  RE : Everyone's Filgaia is in peril, so
+       of course we all have to try our
+       best!
+
+[US#3075] (Amy)
+  JP : 「さて、ミーちゃんも / お仕事がんばらなくっちゃ
+  LIT: Now then, Mee-chan had best get to work too.
+  RE : Now then, Mee-chan had best get
+       to work too.
+
+[US#3076] (Amy)
+  JP : 「レイポイントの / テレジオダイナミクサーの<b:8b73><b:8bf9><b:8bf6>８４％ / マナの族<898d><b:8bf5>調ッ！
+  LIT: The Raypoint's Teleodynamixer is at 84% output; Mana flow steady!
+  RE : Raypoint Teleodynamixer at 84%
+       output. Mana flow steady!
+
+[US#3077] (Amy)
+  JP : 「も<f045>、いいカンジで / どんどんいっちゃってます
+  LIT: It's going great, moving right along!
+  RE : It's going great, moving right
+       along!
+
+[US#3078] (Amy)
+  JP : 「封右領標街の / カイバーベルトの捕謎<b:8bf6>は〜
+  LIT: As for capturing the Kuiper Belt in the sealed zone...
+  RE : As for trapping the Kuiper Belt
+       in the sealed zone...
+
+[US#3079] (Amy)
+  JP : 「あれ？ / あれれれれ？
+  LIT: Huh? Wh-what?
+  RE : Huh? Wh-what?
+
+[US#3080] (Amy)
+  JP : 「ミーちゃんの / 所為じゃありませんよぉ〜
+  LIT: It's not Mee-chan's fault!
+  RE : It's not Mee-chan's fault!
+
+[US#3081] (party)
+  JP : 「どうする？
+  LIT: What do we do?
+  RE : What do we do?
+
+[US#3082] (Irving)
+  JP : 「〜未知の危険だが仕方がない
+  LIT: There may be unforeseen danger, but there's no choice.
+  RE : There may be unforeseen danger,
+       but there's no choice.
+
+[US#3083] (Irving)
+  JP : 「現在、カイバーベルトは封右領標の中心にて / ライブエネルギー『マナ』の<b:8bfa>に<8965>われ / <8972><8973>生命体としてマテリアライズされている
+  LIT: Now the Kuiper Belt, caged in Mana at the sealed zone's center, is materialized as a living being.
+  RE : Now the Kuiper Belt, caged in Mana
+       at the zone's center, is
+       materialized as a living being.
+
+[US#3084] (Irving)
+  JP : 「つまり、『世界』などという / <b:8a47>念存在の<b:8bfb>を<b:8bfc>ぎ取られた状態なのだ / そこに、倒すべき実体があるッ！
+  LIT: In other words, it's stripped of its abstract nature as a "World"; there is a real body to strike!
+  RE : It's stripped of its nature as a
+       |World|. There is now a real body
+       to strike!
+
+[US#3085] (Irving)
+  JP : 「この機を逃すことは / <b:8bfd>遠にヤツを / 倒す機式を失ってしまうということだ
+  LIT: To miss this chance is to lose forever any means of defeating it.
+  RE : Miss this chance and we lose, for
+       good, any means to defeat it.
+
+[US#3086] (Irving)
+  JP : 「ＡＲＭＳは / 封右領標街に<b:8bf3>入 / カイバーベルトを壊滅するッ！
+  LIT: ARMS will enter the sealed zone and annihilate the Kuiper Belt!
+  RE : ARMS will enter the sealed zone
+       and annihilate the Kuiper Belt!
+
+[US#3087] (Irving)
+  JP : 「降辺地帯は『滅死の大地』〜 / 元スレイハイム領の隣の原野の / ほぼ中<8c01>付近と思われますッ！
+  LIT: The landing zone is the "Land of Death and Ruin," near the center of the wildlands by old Slayheim.
+  RE : The landing zone is the |Land of
+       Death and Ruin|, near old
+       Slayheim's wilds.
+
+[US#3088] (Irving)
+  JP : 「未だファルガイアの空は / 回<b:8ac7>の<b:8b5a>しを見せず / 人々の心までも、暗く閉ざしている
+  LIT: Filgaia's sky still shows no sign of recovery, and even people's hearts stay dark and closed.
+  RE : Filgaia's sky shows no sign of
+       recovery, and people's hearts stay
+       dark and closed.
+
+[US#3089] (Irving)
+  JP : 「トラペゾヘドロンによる / カイバーベルトの<8972><8973>生命合は / すべて失<893d>に終ったのか〜？
+  LIT: Did the Trapezohedron's materialization of the Kuiper Belt end in utter failure?
+  RE : Did the Trapezohedron's plan for
+       the Kuiper Belt end in utter
+       failure?
+
+[US#3090] (Irving)
+  JP : 「だが、あくまでも『<893d>北』であり / すべてが『失<893d>』に / 終ったわけではない〜
+  LIT: But it was a "defeat," not a total "failure."
+  RE : But it was a defeat, not a total
+       failure.
+
+[US#3091] (Irving)
+  JP : 「この暗<b:8ae1>の中〜 / たったひとつ / 我々が手にした成果がある
+  LIT: In this darkness, there is one single result we've gained.
+  RE : In this darkness, we gained one
+       thing.
+
+[US#3092] (Irving)
+  JP : 「そう〜 / カイバーベルトの捕謎方法に / <b:8a46>りはなかったッ！
+  LIT: Yes: there was no error in the method of trapping the Kuiper Belt!
+  RE : Yes. There was no error in the way
+       we trap the Kuiper Belt!
+
+[US#3093] (Irving)
+  JP : 「『世界』をひとつの<8c03><8c04>に見立てることで / 生命の『時』に封じること自体は / 対カイバーベルトの作<b:8af4>案だったのだ
+  LIT: Treating a "World" as a vessel, sealing it in the "time" of a life, that itself was the plan against the Kuiper Belt.
+  RE : Treating a |World| as a vessel,
+       sealing it in a life, that plan
+       itself was sound.
+
+[US#3094] (Lilka)
+  JP : 「もういちど、トラペゾヘドロンに / 封<b:8b7e>すればいいんじゃないの？
+  LIT: Couldn't we just seal it in the Trapezohedron once more?
+  RE : Couldn't we just seal it in the
+       Trapezohedron again?
+
+[US#3095] (Irving)
+  JP : 「今度こそ、カイバーベルトの本体を / トラペゾヘドロンに / 捕らえることができれば〜
+  LIT: If only we could trap the Kuiper Belt's true body in the Trapezohedron this time...
+  RE : If only we could trap the Kuiper
+       Belt's true body in the
+       Trapezohedron this time...
+
+[US#3096] (Lilka)
+  JP : 「うん、わたしたちだって / もっときっと / うまくやれるわよッ！
+  LIT: Yeah, surely we can do even better this time!
+  RE : Yeah, surely we can do even better
+       this time!
+
+[US#3097] (Altaecia)
+  JP : 「〜『鍵』を受け<b:8b36>いだ時から / うっすらと視（み）えていた / 世界の<b:8b89>きが消えかかっています
+  LIT: Ever since I inherited the "Key," I've faintly seen it: the world's light is fading out.
+  RE : Since I inherited the |Key|, I've
+       faintly seen it. The world's light
+       is fading.
+
+[US#3098] (Altaecia)
+  JP : 「たぶん〜 / ファルガイアから / マナが大<886f>に消費されたからです
+  LIT: It's likely because a great deal of Mana has been spent from Filgaia.
+  RE : Likely because so much Mana has
+       been spent from Filgaia.
+
+[US#3100] (Altaecia)
+  JP : 「レイポイントに / あれほどのマナを<8c05>えるとしたら / 〜年<8c06>数はかかるのではないでしょうか？
+  LIT: To store that much Mana at a Raypoint again might take hundreds of years.
+  RE : To store that much Mana at a
+       Raypoint again might take
+       centuries.
+
+[US#3101] (Irving)
+  JP : 「何かある〜 / 何かあるはずだッ！
+  LIT: There's something. There has to be something!
+  RE : There's something. There has to
+       be something!
+
+[US#3102] (Irving)
+  JP : 「いや、何か手をうたないと / 俺たち、ファルガイアに生きる / すべての命は〜
+  LIT: No, if we don't do something, all of us, every life in Filgaia...
+  RE : If we don't act, all of us, every
+       life in Filgaia...
+
+[US#3103] (Irving)
+  JP : 「<8c07><8a04>より<899c><8a0d>を選<b:8a8f>すべき時もある / あせらずに行こう / もう私たちには後が無いんだ
+  LIT: Sometimes it's better to choose sure over fast. Let's not rush. We've no room left for error.
+  RE : Sometimes sure beats fast. Let's
+       not rush. We've no room left for
+       error.
+
+[US#3104] (Irving)
+  JP : 「その身に<8c05><8c08>された<8c09>労も / <8c0a>視できないほどのはず
+  LIT: The fatigue built up in your bodies must be too great to ignore.
+  RE : The fatigue built up in you must
+       be too great to ignore.
+
+[US#3105] (Irving)
+  JP : 「今回は / 休んでほしい〜
+  LIT: This time, I want you to rest.
+  RE : This time, I want you to rest.
+
+[US#3106] (Irving)
+  JP : 「『世界』を<8c03><8c04>にみたてることで / 生命の『時』の中に封じ / 滅ぼすべき銃体を<b:8b14>える〜
+  LIT: By treating the "World" as a vessel, seal it in a life and give it a body to be destroyed.
+  RE : Treat the |World| as a vessel,
+       seal it in a life, and give it a
+       body to destroy.
+
+[US#3107] (Irving)
+  JP : 「この方法は、まちがっていない / いや、この方法しか / カイバーベルトを<b:8a48>る手段はないのだ
+  LIT: This method isn't wrong; no, it's the only means we have to defeat the Kuiper Belt.
+  RE : This method isn't wrong. It's the
+       only way we have to beat the
+       Kuiper Belt.
+
+[US#3108] (Irving)
+  JP : 「レイポイントに<8c05>えられた / ライブエネルギー『マナ』は<8c0b><8c0c>し / これ以上の消費は、星の死を<b:8b79>きかねない
+  LIT: The Mana stored at the Raypoints is nearly gone; spending more could bring about the planet's death.
+  RE : The Raypoints' Mana is nearly
+       gone. Spending more could bring
+       the planet's death.
+
+[US#3109] (Irving)
+  JP : 「マナの<8962><8963> / 『トラペゾヘドロン』を用いることは / 同時に、我らの住まうべき星を失ってしまう
+  LIT: Using the Mana crystal "Trapezohedron" would at the same time cost us the planet we must live on.
+  RE : Using the Mana crystal
+       |Trapezohedron| would cost us the
+       very planet we live on.
+
+[US#3110] (Irving)
+  JP : 「この案は、もう使えない〜
+  LIT: This plan can no longer be used.
+  RE : This plan can no longer be used.
