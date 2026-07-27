@@ -1,0 +1,159 @@
+# WA2 — Block 32, US#5408-5459 (remaining) — FINAL (Halmetz trap dungeon: captives, Judecca's public-execution plot, rescue — block 32 complete)
+# =========================================================================================
+# The Halmetz trap: the party wakes locked in a dungeon after the Trask ambush; the captured
+# soldier's account, Lilka's unease, Judecca's plot laid bare (spare Halmetz's people so they
+# witness the ARMS' public execution, advertising Odessa's terror; villagers held hostage,
+# "resist and they die"), the party's vow to rescue everyone safely, a Marivel-ish prophetic
+# aside ("the light of 'the end,' the light of 'the beginning'"), and the lever/hostage-cell
+# layout with the execution ground at the end. JP-primary; Judecca's glasses tic kept.
+
+[US#5408] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#5409] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#5410] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#5431] (Judecca)
+  JP : 「ククククク〜ッ
+  LIT: Heh heh heh heh...
+  RE : Heh heh heh heh...
+
+[US#5432] (Judecca)
+  JP : 「<b:8a56><b:8a57>がズリ落ちそうだ
+  LIT: My glasses are about to slide right off.
+  RE : My glasses are about to slide
+       right off.
+
+[US#5436] (Marivel, aside)
+  JP : （〜）
+  LIT: (...)
+  RE : (...)
+
+[US#5437] (Marivel, aside)
+  JP : （これは『終わり』を告げる / 『始まり』の輝〜 / でも、信じておるぞ）
+  LIT: (This is the light of a "beginning" that heralds an "end"; and yet, I do believe.)
+  RE : (This is the light of a
+       |beginning| that heralds an |end|;
+       and yet, I do believe.)
+
+[US#5438] (Marivel, aside)
+  JP : （それは、あの時出<b:8a63>った / <8933>かしい輝ゆえにな / そうじゃろ、[05]ぉ〜）
+  LIT: (For it is that nostalgic light I met back then; is it not so, {1}?)
+  RE : (For it is that nostalgic light I
+       met back then; is it not so,
+       {1}?)
+
+[US#5441] (Ashley)
+  JP : 「いや〜 違う〜 / 始まったんだな〜
+  LIT: No... that's not it... it's begun, hasn't it.
+  RE : No... that's not it... it's
+       begun, hasn't it.
+
+[US#5442] (Ashley)
+  JP : 「そうでなくては / これからの戦いを / <b:8a67>えて行くことなんてできはしないからな
+  LIT: It has to be so, or I could never get through the battles that lie ahead.
+  RE : It has to be so, or I could never
+       get through the battles that lie
+       ahead.
+
+[US#5444] (tutorial panel)
+  JP : ＊一部のブロックや谷<b:8a69>は / [0b]かを<b:8a6a>しながら方向キーを入れることで / 動かすことが可能です
+  LIT: Some blocks and statues can be moved by holding [0b] and pressing the directional keys.
+  RE : Some blocks and statues can be
+       moved by holding [0b] and pressing
+       the directional keys.
+
+[US#5446] (Tim)
+  JP : 「テロリストの非道から / みなさんを救うべく / 戦っているのです
+  LIT: We fight to save everyone from the terrorists' cruelty.
+  RE : We fight to save everyone from
+       the terrorists' cruelty.
+
+[US#5447] (Tim)
+  JP : 「必ずみなさんを / 無事に救出してみせますッ！
+  LIT: We will rescue every one of you safely, I promise!
+  RE : We will rescue every one of you
+       safely, I promise!
+
+[US#5448] (captive)
+  JP : 「それからは、<b:8a6d>もわからずに / この地辺<8962>に / 閉じ込められてしまったのです
+  LIT: After that, with no idea what was happening, we were shut away in this dungeon.
+  RE : After that, with no idea what was
+       happening, we were shut away in
+       this dungeon.
+
+[US#5449] (Tim)
+  JP : 「お兄ちゃんたちといっしょに / みんなの住む場に戻ろうね
+  LIT: Let's all go back to your village together with us.
+  RE : Let's all go back to your village
+       together with us.
+
+[US#5450] (party)
+  JP : 「安全を確認してから / みんなでいっきに脱出するぞ
+  LIT: Once we've confirmed it's safe, we all escape together at once.
+  RE : Once we've confirmed it's safe,
+       we all escape together at once.
+
+[US#5451] (Odessa officer)
+  JP : 「どうせ、おっ死ぬんだったら / 仲間といっしょが / よかったろうに〜
+  LIT: If you're going to die anyway, better it'd been alongside your comrades.
+  RE : If you're going to die anyway,
+       better it'd been alongside your
+       comrades.
+
+[US#5452] (party)
+  JP : （招き<b:8a72>して / 単の道をあたろう〜）
+  LIT: (Let's turn back and try a different way.)
+  RE : (Let's turn back and try a
+       different way.)
+
+[US#5455] (Brad)
+  JP : 「あの人だけは、仲間といえど / どうにも信じられねえな
+  LIT: That one man; ally or not, I just can't bring myself to trust him.
+  RE : That one man; ally or not, I just
+       can't bring myself to trust him.
+
+[US#5456] (captive)
+  JP : 「そこの<8a23>の<892a>に / 場のみんなが<8965>われているんだ
+  LIT: Behind that door there, all the villagers are being held prisoner.
+  RE : Behind that door there, all the
+       villagers are being held
+       prisoner.
+
+[US#5457] (captive)
+  JP : 「<8947>くて動かしにくいレバーだけど / キミたちなら何とかできると思う / みんなを助け出してくれ〜
+  LIT: The lever's heavy and hard to move, but I think you can manage; please, get everyone out.
+  RE : The lever's heavy and hard to
+       move, but I think you can manage.
+       Please, get everyone out.
+
+[US#5458] (captive)
+  JP : 「そんなところに / <8917><b:8a7c>されたんじゃ / 生きた心地はしないよ〜
+  LIT: Locked away in a place like that, you can't feel alive at all.
+  RE : Locked away in a place like that,
+       you can't feel alive at all.
+
+[US#5459] (captive)
+  JP : 「押左場は、この通<89ca>の先〜 / 外に出るには手っ取り早いけど / そん時、生きてられるのかな〜
+  LIT: The execution ground is at the end of this corridor; it's the quick way out, but will you still be alive by then?
+  RE : The execution ground is at the
+       end of this corridor; the quick
+       way out, if you're still alive.
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#5433] SKIPPED - no content box in decode
+[US#5434] SKIPPED - no content box in decode
+[US#5435] SKIPPED - no content box in decode
+[US#5439] SKIPPED - no content box in decode
+[US#5443] SKIPPED - no content box in decode
