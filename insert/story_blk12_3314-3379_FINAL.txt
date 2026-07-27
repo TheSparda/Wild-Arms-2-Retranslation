@@ -1,0 +1,346 @@
+# WA2 — Block 12, US#3314-3379 — FINAL (Damzen part 3: sailor, Marivel's Hob & Nob, waitress Luca, miners' dreams)
+# =========================================================================================
+# Damzen City NPCs continued: the sailor and the Gate Bridge/sea-color omen, Marivel's
+# 幻幻術-made companions Hob & Nob (Crimson Noble pride + the Sylvaland lab side-quest hook),
+# waitress Luca's brother-marriage banter and drinking boasts, and the miners weighing
+# Drifter dreams against staying with the dead mine. Terms: Drifters (渡り鳥), Crimson Nobles
+# (ノーブルレッド), Teleport Gem, Gate Bridge, Mt. Chug-Chug (ポンポコ谷). Marivel keeps her
+# archaic register (わらわ). JP-primary; EN cross-checked (~1-2 box drift). SKIPPED slots at end.
+
+[US#3314] (miner)
+  JP : 「渓谷は閉谷してしまったんだ / 何にも無い場だぜ、ここは
+  LIT: The mine's shut down; there's nothing at all here now.
+  RE : The mine's shut down. There's
+       nothing at all here now.
+
+[US#3316] (sailor)
+  JP : 「空に続いて / 道までも〜 / やっぱりもう、ダメなんですかい？
+  LIT: First the sky, and now the sea too... is it really all over, then?
+  RE : First the sky, and now the sea
+       too... is it really all over,
+       then?
+
+[US#3317] (sailor)
+  JP : 「一度だけ / ゲートブリッジが開放しているのを / 見たことがあるんですよ
+  LIT: Just once, I saw the Gate Bridge standing open.
+  RE : Just once, I saw the Gate Bridge
+       standing open.
+
+[US#3318] (sailor)
+  JP : 「それはそれは / 珍しいモンなんで / 思わず運んじまいました
+  LIT: It was such a rare sight that I found myself praying without meaning to.
+  RE : It was such a rare sight I found
+       myself praying without meaning
+       to.
+
+[US#3319] (sailor)
+  JP : 「さすがに / 空が無くなっちまうなんて / デタラメな事は初めてでさぁ
+  LIT: But the sky itself vanishing; outlandishness like that is a first even for me.
+  RE : But the sky itself vanishing?
+       Outlandishness like that is a
+       first even for me.
+
+[US#3321] (sailor)
+  JP : 「あっしが何か / 悪いことでもしたんでしょうか？
+  LIT: Did I do something to deserve this, I wonder?
+  RE : Did I do something to deserve
+       this, I wonder?
+
+[US#3324] (sailor)
+  JP : 「[11]お街道の中央付近[11]ぉにも / 小さな他がありましてね / そこも道難物の流れ先って話ですぜ
+  LIT: Near the middle of the inland sea there's a small island too; they say flotsam washes up there as well.
+  RE : Near the |middle of the inland
+       sea| is a small isle. They say
+       flotsam washes up there too.
+
+[US#3326] (miner)
+  JP : 「つまらないなんて / 言いっこ無しですよ
+  LIT: Now, no calling it boring.
+  RE : Now, no calling it boring.
+
+[US#3327] (miner)
+  JP : 「そこには / あっしらの渓谷（おやま）〜 / ポンポコ谷があるんですから
+  LIT: Because there stands our mountain, Mt. Chug-Chug.
+  RE : Because there stands our
+       mountain, Mt. Chug-Chug.
+
+[US#3328] (townsperson)
+  JP : 「そいつを使えば / 今まで行った場に瞬間移動できるって / 話じゃないですかい
+  LIT: Use that, and they say you can warp instantly to places you've already been.
+  RE : Use that, they say, and you warp
+       instantly to places you've
+       already been.
+
+[US#3329] (townsperson)
+  JP : 「もっとも、あっしは生まれてこのかた / ダムツェン以外の場を知らないので / 使っても意味が無いんですがね
+  LIT: Though I've never known anywhere but Damzen my whole life, so it'd be no use to me.
+  RE : Though I've never known anywhere
+       but Damzen my whole life, so it'd
+       be no use to me.
+
+[US#3331] (townsperson)
+  JP : 「気をつけてください
+  LIT: Please be careful.
+  RE : Please be careful.
+
+[US#3332] (Marivel)
+  JP : 「この家たちは / わらわの幻幻術でつくりあげた / アカとアオじゃッ！
+  LIT: These little ones are Hob and Nob, wrought by my phantasmagoric arts!
+  RE : These little ones are Hob and
+       Nob, wrought by my phantasmic
+       arts!
+
+[US#3333] (Luca/kid)
+  JP : 「えーとね、これは種種とアタイが / 渡り鳥みたいなコトをしてたときに / 聞いたことなんだけど〜
+  LIT: Let's see, this is something big bro and I heard back when we were playing at being Drifters...
+  RE : Let's see, this is something big
+       bro and I heard when we played at
+       being Drifters...
+
+[US#3334] (Luca/kid)
+  JP : 「[11]おシルヴァラントの先[11]ぉの / [11]お谷に囲まれた場所[11]ぉに変な施行所が / あるんだってさ
+  LIT: They say there's a strange lab in a place ringed by mountains beyond Sylvaland.
+  RE : They say a strange lab sits in a
+       place |ringed by mountains beyond
+       Sylvaland|.
+
+[US#3335] (kid)
+  JP : 「きっとそっちの方が幻幻術だってッ
+  LIT: I bet THAT one's the real phantasm-tech!
+  RE : I bet THAT one's the real
+       phantasm-tech!
+
+[US#3336] (Marivel)
+  JP : 「いいじゃろうッ / ノーブルレッドがファルガイアの / 真の支配者だと言うことを見せてやるわいッ
+  LIT: Very well! I shall show them that the Crimson Nobles are Filgaia's true rulers!
+  RE : Very well! I shall show them the
+       Crimson Nobles are Filgaia's true
+       rulers!
+
+[US#3337] (Marivel)
+  JP : 「では、さっそくその施行所を破滅〜〜 / もといッ、視参してくるとしようかのッ！ / 行くぞ[05]ぉッ！
+  LIT: Then let us go destroy that lab at once... I mean, inspect it! Come, {1}!
+  RE : Then let us go destroy that lab
+       at once... I mean, inspect it!
+       Come, {1}!
+
+[US#3338] (Luca/kid)
+  JP : 「場所は、[11]おシルヴァラントの先[11]ぉの / [11]お谷に囲まれた場所岸り[11]ぉだからね / ま、がんばってねぇ
+  LIT: The place is around that mountain-ringed spot beyond Sylvaland, remember. Well, good luck!
+  RE : It's around that |mountain-ringed
+       spot beyond Sylvaland|, remember.
+       Well, good luck!
+
+[US#3339] (Luca)
+  JP : 「アタイの好物の『サバの味噌煮』なんて / もう、ウマイのなんのって〜ッ！ / あんたたちも一度、食べてみなよッ！
+  LIT: My favorite, miso-simmered mackerel: it's just SO good! You all should try it sometime!
+  RE : My favorite, miso-simmered
+       mackerel, is just SO good! You
+       should try it sometime!
+
+[US#3341] (Luca)
+  JP : 「まったく、アタイに手伝わせる / 種種がイケナイんだ
+  LIT: Honestly, it's big bro's fault for making me help out.
+  RE : Honestly, it's big bro's fault
+       for making me help out.
+
+[US#3342] (Luca)
+  JP : 「ま、種種ひとりだと / この酒場つぶれちゃうからな / やっぱり、アタイがついてなきゃねぇ
+  LIT: Well, on his own this bar would go under; guess I've got to stick around after all.
+  RE : Well, on his own this bar would
+       go under. Guess I've got to stick
+       around.
+
+[US#3343] (Luca)
+  JP : 「ちなみに種種は２６腕なんだけどさ / はやく嫁さんでももらえば / アタイが手伝わなくてもすむのに〜
+  LIT: By the way, big bro's already 26; if he'd hurry up and find a wife, I wouldn't have to help out.
+  RE : Big bro's already 26, you know.
+       If he'd hurry and find a wife, I
+       wouldn't have to help.
+
+[US#3344] (Luca)
+  JP : 「あ、そうだ / あんた、ウチの種種どうだい？ / もらってくれないかな？
+  LIT: Oh, that's right! Say, how about our big bro? Won't you take him?
+  RE : Oh, that's right! Say, how about
+       our big bro? Won't you take him?
+
+[US#3345] (Luca)
+  JP : 「いざとなったら、アタイと種種で / なんとかしてみせるさ / らくしょーッ！ らくしょーッ！
+  LIT: If it comes to it, big bro and I will manage somehow. Easy! Easy!
+  RE : If it comes to it, big bro and I
+       will manage somehow. Easy! Easy!
+
+[US#3347] (Luca)
+  JP : 「でも、まだダメだよ / アタイみたく、もっと大人になってからだね / それまでは我慢、我慢ッ！
+  LIT: But not yet, you know; wait till you're more grown-up, like me. Till then: patience, patience!
+  RE : But not yet, you know. Wait till
+       you're more grown-up, like me.
+       Patience, patience!
+
+[US#3348] (barfly)
+  JP : 「いまを忘れて / 酔いつぶれるのも一興ってモンよ
+  LIT: Forgetting the present and drinking yourself under; that's its own kind of fun.
+  RE : Forgetting the present and
+       drinking yourself under is its
+       own kind of fun.
+
+[US#3349] (Luca)
+  JP : 「でも、アンタたちには / やらなきゃならないことがあるんだよね / それが終ってからゆっくりしていってよッ！
+  LIT: But you all have something you have to do, right? Once it's done, come take it easy here!
+  RE : But you all have something you
+       must do, right? Once it's done,
+       come take it easy here!
+
+[US#3352] (Luca)
+  JP : 「お酒は、いやなことをいっとき忘れさせ / うれしいことを / さらにうれしく信じさせてくれるんだよッ！
+  LIT: Drink makes you forget the bad for a while, and makes the happy things feel even happier!
+  RE : Drink makes you forget the bad
+       for a while, and makes happy
+       things happier!
+
+[US#3353] (Luca)
+  JP : 「でも、アタイぐらい / お酒の味がわかるには / まだまだ時間がかかりそうだねッ！
+  LIT: But it'll be a long while yet before you know the taste of drink like I do!
+  RE : But it'll be a long while yet
+       before you know the taste of
+       drink like I do!
+
+[US#3354] (Luca)
+  JP : 「よければこんど / アタイと飲み比べでもしてみないか？ / 言っとくけどアタイは強いよぉッ！
+  LIT: If you like, want to have a drinking contest with me sometime? Fair warning: I can hold mine!
+  RE : Want a drinking contest with me
+       sometime? Fair warning: I can
+       hold mine!
+
+[US#3355] (Luca)
+  JP : 「そのまえに / もっと自分を磨かなくちゃねッ！
+  LIT: But first, you've got to polish yourself up a bit more!
+  RE : But first, you've got to polish
+       yourself up a bit more!
+
+[US#3358] (townsperson)
+  JP : 「今回は、なんの用かな？ / 最近はこの前の放着の話ばかりだよね
+  LIT: What brings you this time? Lately it's all talk of that broadcast.
+  RE : What brings you this time? Lately
+       it's all talk of that broadcast.
+
+[US#3360] (townsperson)
+  JP : 「この場に何か目的があるとすれば / テレパスタワー〜〜 / あとはポンポコ谷ってとこかな
+  LIT: If they're after something here, it's the Telepath Tower... or maybe Mt. Chug-Chug.
+  RE : If they're after something here,
+       it's the Telepath Tower... or
+       maybe Mt. Chug-Chug.
+
+[US#3361] (Luca)
+  JP : 「今じゃすっかり酒場のウェイトレスが / 板についちゃったよ / アタイのエプロン姿なかなかのモンだろ？
+  LIT: These days I've settled right into the waitress life; my apron look's pretty sharp, don't you think?
+  RE : I've settled right into the
+       waitress life. My apron look's
+       pretty sharp, right?
+
+[US#3362] (townsperson)
+  JP : 「それからさ、たまにはウチに寄って行きなよ / お宝のシッポを / つかむチャンスがあるかもよ
+  LIT: And hey, drop by my place now and then; you might just catch the tail of a treasure.
+  RE : And hey, drop by my place now and
+       then. You might catch the tail of
+       a treasure.
+
+[US#3363] (miner)
+  JP : 「僕も渡り鳥なんて甘見ないで / 渓谷仲間がいる、このダムツェンで / 何とかやっていくよ
+  LIT: I won't chase sweet Drifter dreams; I'll make my way here in Damzen, with my mining friends.
+  RE : I won't chase sweet Drifter
+       dreams. I'll make my way here in
+       Damzen, with my friends.
+
+[US#3364] (miner)
+  JP : 「渡り鳥にデビューするには / いいチャンスかも知れんなッ！
+  LIT: This might be a good chance to make my debut as a Drifter!
+  RE : This might be a good chance to
+       make my debut as a Drifter!
+
+[US#3365] (miner)
+  JP : 「それに、道は広いから / お宝のチャンスとか / まだまだありそうだぜッ！
+  LIT: Besides, the sea is wide; there must be plenty of treasure chances left out there!
+  RE : Besides, the sea is wide. There
+       must be plenty of treasure
+       chances left out there!
+
+[US#3366] (miner)
+  JP : 「信応谷の通れない渓谷に / いつまでもしがみついているよりも / いっそ、遺跡でひとやま当てた方が〜
+  LIT: Rather than cling forever to a mine with no Empathite, better to strike it rich in some ruin.
+  RE : Rather than cling to a mine with
+       no Empathite, better to strike it
+       rich in some ruin.
+
+[US#3367] (miner)
+  JP : 「そう、お宝だよッ！ / 渡り鳥にでもなって / 渓谷ならぬ、お宝を掘りあてようかな？
+  LIT: That's right, treasure! Maybe I'll turn Drifter and dig up treasure instead of ore!
+  RE : That's right, treasure! Maybe
+       I'll turn Drifter and dig up
+       treasure instead of ore!
+
+[US#3369] (miner)
+  JP : 「お得意先だったシエルジェ自分領とは / 地辺のトンネルで / つながっていたんだよな
+  LIT: We were linked to our best customer, the Sielje domain, by the underground tunnel.
+  RE : We were linked to our best
+       customer, Sielje, by the
+       underground tunnel.
+
+[US#3370] (miner)
+  JP : 「まわりは何にもない枯れ地だが / ポンポコ谷から渓谷が通れなくなったから / 本当に何にも無い荒地になっちまった
+  LIT: It was barren land around here anyway, but with the mine dead, it's become truly empty wasteland.
+  RE : It was barren land anyway, but
+       with the mine dead it's become
+       truly empty wasteland.
+
+[US#3371] (townsperson)
+  JP : 「あたしだけじゃないッ！
+  LIT: It's not just me!
+  RE : It's not just me!
+
+[US#3372] (townsperson)
+  JP : 「戦う力は無くても / あんたらの力になりたいと考えている人間は / この世界中にたくさんいるはずさ
+  LIT: Even without the strength to fight, there must be many across this world who want to help you.
+  RE : Even without strength to fight,
+       many across this world must want
+       to help you.
+
+[US#3376] (townsperson)
+  JP : 「伝説のように / 依頼の出現を待たずとも / 何とかなるかもしれないッ！
+  LIT: We might just manage without waiting for a hero to appear, like in the legends!
+  RE : We might just manage without
+       waiting for a hero to appear,
+       like in the legends!
+
+[US#3377] (townsperson)
+  JP : 「オデッサなんかとは / 比物にならない未曾作の危機〜
+  LIT: An unprecedented crisis beyond any comparison with Odessa...
+  RE : An unprecedented crisis beyond
+       any comparison with Odessa...
+
+[US#3379] (townsperson)
+  JP : 「古代の幻同獣でもかなわなかった / 『救の啓示』を授けたんだから / すごい神獣なんだろうけれど〜
+  LIT: It granted the "revelation of salvation" that even the ancient beasts couldn't match, so it must be a mighty divine beast...
+  RE : It granted the |revelation of
+       salvation| beyond the old beasts,
+       so it must be mighty...
+
+# --- SKIPPED (non-content slots in this range) ---
+[US#3315] SKIPPED - no content box in decode
+[US#3320] SKIPPED - no content box in decode
+[US#3322] SKIPPED - no content box in decode
+[US#3323] SKIPPED - no content box in decode
+[US#3325] SKIPPED - no content box in decode
+[US#3330] SKIPPED - no content box in decode
+[US#3340] SKIPPED - no content box in decode
+[US#3346] SKIPPED - no content box in decode
+[US#3350] SKIPPED - no content box in decode
+[US#3351] SKIPPED - no content box in decode
+[US#3356] SKIPPED - no content box in decode
+[US#3357] SKIPPED - no content box in decode
+[US#3359] SKIPPED - no content box in decode
+[US#3368] SKIPPED - no content box in decode
+[US#3373] SKIPPED - no content box in decode
+[US#3374] SKIPPED - no content box in decode
+[US#3375] SKIPPED - no content box in decode
+[US#3378] SKIPPED - no content box in decode
