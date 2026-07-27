@@ -1,0 +1,572 @@
+# WA2 — Block 17, US#4149-4250 — FINAL (Sielje Region part 1: magic academy, Mr. Day, sleepy students)
+# =========================================================================================
+# Sielje magic-school arc: the アリマス-verbal-tic instructor awaiting Mr. Day's report, the
+# resurrection-ritual rules (undead on failure), the Eleniak Witch-Girl legacy following Lilka
+# (her sister's shadow), Crest Spell lessons, the schoolyard pranksters, the marathon sleepy
+# student gag (long 〜〜 pauses kept), and the Nuclear Dragon rumor. Voice: instructor keeps a
+# clipped military-polite tic ("...it is!"), students casual, Lilka-adjacent lines warm.
+# JP-primary; EN aligns well in this block. SKIPPED slots at end.
+
+[US#4149] (examine prompt)
+  JP : ＊進みますか？[18]か
+  LIT: Do you want to proceed?
+  RE : Do you want to proceed?
+
+[US#4150] (system: demo notice)
+  JP : 「でも、今回の体験版では / 残念ながら使用することができません
+  LIT: But in this trial version, it unfortunately cannot be used.
+  RE : But in this trial version, it
+       unfortunately cannot be used.
+
+[US#4151] (system: demo notice)
+  JP : ＊〜ですが、今回の体験版では / 残念ながら使用することができません
+  LIT: ...however, in this trial version it unfortunately cannot be used.
+  RE : ...however, in this trial version,
+       it unfortunately cannot be used.
+
+[US#4152] (instructor)
+  JP : 「飛ばされた〜 いや / 出発に出ているディーくんからの報告を / 心待ちに待っているでアリマス
+  LIT: Banished... no, I mean, I eagerly await the report from Mr. Day, who is out on assignment, it is!
+  RE : Banished... no, I mean, I eagerly
+       await word from Mr. Day, out on
+       assignment, it is!
+
+[US#4153] (instructor)
+  JP : 「陸<89ca>でも道<89ca>でも<89cb>りつけない出発所〜 / ホントに[11]お魔法でそこに飛ばされた[11]ぉ / ディーくんはちょっとかわいそうでアリマス
+  LIT: A posting unreachable by land or sea; truly sent there by magic; poor Mr. Day, it is.
+  RE : A posting |unreachable by land or
+       sea|, truly sent there by magic.
+       Poor Mr. Day, it is.
+
+[US#4154] (instructor)
+  JP : 「そうでアリマスか / ディーくんは、やったでアリマスねッ！
+  LIT: Is that so! Mr. Day pulled it off, he did!
+  RE : Is that so! Mr. Day pulled it
+       off, he did!
+
+[US#4155] (instructor)
+  JP : 「続けてくれてありがとうでアリマス / さっそく、<b:8a3b>地に新しい<b:8a3c><b:8a3d>魔法の<b:8a3e><b:8a3f>を / 伝えに行ってくるでアリマスッ！
+  LIT: Thank you for carrying on; I shall go at once to spread word of the new Crest Spells, I shall!
+  RE : Thank you for carrying on. I go
+       at once to spread word of the new
+       Crest Spells, I do!
+
+[US#4156] (instructor)
+  JP : 「ごきげんようでアリマス
+  LIT: Good day to you, it is!
+  RE : Good day to you, it is!
+
+[US#4157] (instructor)
+  JP : 「でも、ディーくんは休まずに / 更の研行に入ったでアリマス / 自分も負けてはいられないでアリマス
+  LIT: But Mr. Day has plunged into his next research without rest; I cannot fall behind, I cannot!
+  RE : But Mr. Day has plunged into his
+       next research without rest. I
+       cannot fall behind!
+
+[US#4158] (instructor)
+  JP : 「なんとッ！ / あなた方がその核ドラゴンを / <b:8a44>分したでアリマスかッ！
+  LIT: What! You are the ones who disposed of that Nuclear Dragon, you are?!
+  RE : What! You are the ones who
+       disposed of that Nuclear Dragon,
+       you are?!
+
+[US#4159] (instructor)
+  JP : 「それは、すごいでアリマス / <b:8a45><b:8a46>のまなざしでアリマスッ！
+  LIT: That is magnificent, it is! I gaze upon you with respect, I do!
+  RE : That is magnificent, it is! I
+       gaze upon you with respect, I do!
+
+[US#4160] (instructor)
+  JP : 「これから、このファルガイアが / どうなってしまうのか / 全く期想がつかないでアリマス〜
+  LIT: What will become of this Filgaia from here on, I cannot begin to guess, I cannot.
+  RE : What will become of this Filgaia
+       from here on, I cannot begin to
+       guess, I cannot.
+
+[US#4161] (instructor)
+  JP : 「オデッサも / 今回のエネルギーを<b:8a48>えるために / 大規域な<b:8a4a><b:8a4b>をひかえていたのでは？
+  LIT: Perhaps Odessa too was holding back a large-scale operation to secure this energy?
+  RE : Perhaps Odessa too was holding
+       back a large-scale operation to
+       secure this energy?
+
+[US#4162] (instructor)
+  JP : 「まず、保存状態のいい遺体が必要でアリマス / 遺体の<b:8a4e><b:8a4f>がひどかったり / 死後、しばらくたっていてはダメでアリマス
+  LIT: First, one needs a well-preserved body; badly damaged, or long dead, will not do, it will not.
+  RE : First, one needs a well-preserved
+       body. Badly damaged, or long
+       dead, will not do.
+
+[US#4163] (instructor)
+  JP : 「それから、完全に<b:8a50><b:8a51>された魂が / 必要でアリマス
+  LIT: Next, a fully summoned soul is required, it is.
+  RE : Next, a fully summoned soul is
+       required, it is.
+
+[US#4164] (instructor)
+  JP : 「さらに<b:8a3f>儀の最中に他の<b:8a53>に / <89d9>魔をされてもイカンでアリマス
+  LIT: Furthermore, no other spirit may interfere during the rite, it may not.
+  RE : Furthermore, no other spirit may
+       interfere during the rite, it may
+       not.
+
+[US#4165] (instructor)
+  JP : 「失<893d>すればアンデッドと / なって発るでアリマス〜 / 〜やりなおしはきかないのでアリマス
+  LIT: Should it fail, they rise as undead, they do; and there is no doing it over, there is not.
+  RE : Should it fail, they rise as
+       undead, they do. And there is no
+       doing it over.
+
+[US#4166] (instructor)
+  JP : 「そのディーくんが / なぜゆえに飛ばされたのか / わからないでアリマスッ
+  LIT: Why that Mr. Day was sent away, I cannot fathom, I cannot!
+  RE : Why that Mr. Day was sent away, I
+       cannot fathom, I cannot!
+
+[US#4167] (student)
+  JP : 「僕を心配させない為に / カラ元気を<b:8a5c>る<b:8a5d>っているんだろうけど / あんまり無理して<b:8a5e>しくないよな
+  LIT: He puts on false cheer so I won't worry, but I wish he wouldn't push himself so hard.
+  RE : He puts on false cheer so I won't
+       worry, but I wish he wouldn't
+       push himself so hard.
+
+[US#4168] (student)
+  JP : 「先生のほうが数上なのにな / 変な気持ちだ〜
+  LIT: Funny feeling, worrying about the teacher when he's the older one.
+  RE : Funny feeling, worrying about the
+       teacher when he's the older one.
+
+[US#4169] (student)
+  JP : 「先生さ一生<b:8a61>命、教えてくれるんだぜ / まぁ、ちょっとドジなところもあるけどね
+  LIT: The teacher gives it his all when he teaches; well, he's a bit of a klutz too.
+  RE : The teacher gives it his all when
+       he teaches. Well, he's a bit of a
+       klutz too.
+
+[US#4170] (student)
+  JP : 「僕もホントは魔法の授業を受けたいんだけど / そうすると先生の授業を受ける生命が / 一人もいなくなっちゃうだろ？
+  LIT: Truth is I'd like to take the magic class too, but then the teacher wouldn't have a single student left, right?
+  RE : Truth is I'd like the magic class
+       too, but then the teacher
+       wouldn't have one student left.
+
+[US#4171] (student)
+  JP : 「そうなると、あの先生がかわいそうじゃん / だからさ、僕だけでも / 授業を受けてあげようと思っているんだ
+  LIT: And that'd be too sad for him; so I figure I'll keep taking his class, even if it's just me.
+  RE : And that'd be too sad for him. So
+       I'll keep taking his class, even
+       if it's just me.
+
+[US#4172] (student)
+  JP : 「もうお前は、姉さんを<b:8a65>えたさ / 自分に自信を持てよッ！ / 姉さんだって必ず見てるはずだッ！
+  LIT: You've already surpassed your big sister; have confidence! She's surely watching, too!
+  RE : You've already surpassed your big
+       sister. Have confidence! She's
+       surely watching, too!
+
+[US#4173] (student)
+  JP : 「あッ！ / 俺がこんなコトを言っていたなんて / [05]かには街緒ですよ〜
+  LIT: Ah! Don't tell {2} I said any of that, all right?
+  RE : Ah! Don't tell {2} I said any of
+       that, all right?
+
+[US#4174] (student)
+  JP : 「ま、せいぜいがんばって / 姉さんを<b:8a65>えるくらいになれよ / ま、無理だと思うけどな〜
+  LIT: Well, do your best to surpass your big sister; not that I think you can.
+  RE : Well, do your best to surpass
+       your big sister. Not that I think
+       you can.
+
+[US#4175] (student)
+  JP : 「あッ！ / 単に[05]かの為を思って / 言っているんじゃないですからね
+  LIT: H-hey! It's not like I said that for {2}'s sake or anything!
+  RE : H-hey! It's not like I said that
+       for {2}'s sake or anything!
+
+[US#4176] (student)
+  JP : 「やっぱり『エレニアックの魔女っ家』の / <b:8a68>だけはあるなッ！
+  LIT: You really are the sister of the "Eleniak Witch-Girl" after all!
+  RE : You really are the sister of the
+       |Eleniak Witch-Girl| after all!
+
+[US#4177] (student)
+  JP : 「って、なんで俺は<b:8a69>めてるんだ？
+  LIT: ...Wait, why am I praising her?
+  RE : ...Wait, why am I praising her?
+
+[US#4178] (student)
+  JP : 「〜だったかな？
+  LIT: ...I think?
+  RE : ...I think?
+
+[US#4179] (student)
+  JP : 「〜だったかな？
+  LIT: ...I think?
+  RE : ...I think?
+
+[US#4180] (student)
+  JP : 「〜だったかな？
+  LIT: ...I think?
+  RE : ...I think?
+
+[US#4181] (student)
+  JP : 「そんなことしてたら / すぐにこっちがボロボロに / なっちゃうからな！
+  LIT: Keep that up and you'll be the one worn to tatters in no time!
+  RE : Keep that up and you'll be the
+       one worn to tatters in no time!
+
+[US#4182] (student)
+  JP : 「大人よりも家族 / 剣性よりも女性
+  LIT: Stronger in children than adults, in women than men.
+  RE : Stronger in children than adults,
+       in women than men.
+
+[US#4183] (student)
+  JP : 「〜それから、じゅ、<b:8a6e><b:8a6f>な<b:8a70>女ならさらに / 魔力が高くなる<b:8a71>向があります〜
+  LIT: And, um, p-pure maidens tend to have even higher magic power...
+  RE : And, um, p-pure maidens tend to
+       have even higher magic power...
+
+[US#4184] (student)
+  JP : 「くれぐれも回復魔法と<b:8a72><89c7>魔法を / 忘れるなよ / せ、戦<b:8a73>では<b:8a74>本なんだからなッ
+  LIT: Whatever you do, don't forget recovery and defensive magic; they're b-basics in battle!
+  RE : Whatever you do, don't forget
+       recovery and defensive magic.
+       They're b-basics in battle!
+
+[US#4185] (student)
+  JP : 「クレストグラフがない時は / 地<b:8a76>などに魔法<b:8a77>をかけば / 魔法を発動させることは可能です
+  LIT: When you have no Crest Graph, you can still invoke magic by drawing the sigil on the ground.
+  RE : With no Crest Graph, you can
+       still invoke magic by drawing the
+       sigil on the ground.
+
+[US#4186] (student)
+  JP : 「〜ですが、かいている間に / モンスターにやられてしまうかも / しれませんね〜
+  LIT: Though you might get done in by the monster while you're still drawing it.
+  RE : Though you might get done in by
+       the monster while you're still
+       drawing it.
+
+[US#4187] (student)
+  JP : 「でも、どうせ自分が / 『エレニアックの魔女っ家』とでも / <b:8a79>ついて配属されたんだろ？
+  LIT: But I bet you got placed here by fibbing you're the "Eleniak Witch-Girl," didn't you?
+  RE : But I bet you got placed here by
+       fibbing you're the |Eleniak
+       Witch-Girl|, didn't you?
+
+[US#4188] (student)
+  JP : 「コイツのお<b:8a5f>はさぞかし大変でしょう？ / まぁ、一応『エレニアックの魔女っ家』の / <b:8a68>なので長い目で見てやってください
+  LIT: She must be a handful, right? Well, she is the "Eleniak Witch-Girl"'s sister, so bear with her.
+  RE : She must be a handful, right?
+       Well, she is the Witch-Girl's
+       sister, so bear with her.
+
+[US#4189] (student)
+  JP : 「前のような失<893d>は / もう２度とゴメンだからね
+  LIT: I don't want a repeat of that last failure ever again.
+  RE : I don't want a repeat of that
+       last failure ever again.
+
+[US#4190] (prankster)
+  JP : 「<b:8a5a>生生活の<b:8a74>本中の<b:8a74>本なのにッ！ / やっぱり女家には、剣のロマンってモノが / わからないようだな
+  LIT: It's the basic of basics of student life! Girls just don't get a man's romance, do they.
+  RE : It's the basic of basics of
+       student life! Girls just don't
+       get a man's romance.
+
+[US#4191] (prankster)
+  JP : 「こう、イスの上に / セロハンテープをセットして〜っと / これで良しッ！
+  LIT: Like so: set the tape on the chair aaand... perfect!
+  RE : Like so: set the tape on the
+       chair aaand... perfect!
+
+[US#4192] (prankster)
+  JP : 「こう、イスの上に / セロハンテープをセットして〜っと / これで良しッ！
+  LIT: Like so: set the tape on the chair aaand... perfect!
+  RE : Like so: set the tape on the
+       chair aaand... perfect!
+
+[US#4193] (student)
+  JP : 「すでにその<b:8a73>技場のカゲも面もないんだけど / <b:8a73>技場で戦っていたモンスターたちは / まだ、その他にいるって話しだよ
+  LIT: The arena itself is long gone without a trace, but the monsters that fought there are said to remain on that island.
+  RE : The arena is long gone, but the
+       monsters that fought there are
+       said to remain on the isle.
+
+[US#4194] (student)
+  JP : 「だから / おもしろ<89a7>分に近づかない方がいいかもな / 様家危うきに近<b:8a88>らずってね
+  LIT: So best not to go near it for fun; the wise man keeps from danger, as they say.
+  RE : So best not to go near it for
+       fun. The wise man keeps from
+       danger, as they say.
+
+[US#4195] (student)
+  JP : 「まったく、<b:8a89>い空を見るために / サボリ〜とと / エスケープしていたのに〜
+  LIT: Honestly, I used to skip cla... er, escape, just to look at the blue sky.
+  RE : Honestly, I used to skip cla...
+       er, escape, just to look at the
+       blue sky.
+
+[US#4196] (student)
+  JP : 「僕にとって『エレニアックの魔女っ家』は / 生きる目<8861>だった〜 / それを見失った僕は、どうすれば〜
+  LIT: The "Eleniak Witch-Girl" was my reason for living; now that I've lost sight of her, what do I do?
+  RE : The |Eleniak Witch-Girl| was my
+       reason for living. Without her,
+       what do I do?
+
+[US#4197] (student)
+  JP : 「ちゃんと授業で<b:8a8a>ったコトを / おぼえているかい？
+  LIT: Do you remember what we learned in class properly?
+  RE : Do you remember what we learned
+       in class properly?
+
+[US#4198] (student)
+  JP : 「アンタたちみたいな魔法を使えない人には / 結構、重<b:8a8b>するんじゃないか？
+  LIT: For folks like you who can't use magic, that's pretty vital, isn't it?
+  RE : For folks like you who can't use
+       magic, that's pretty vital, isn't
+       it?
+
+[US#4199] (village woman)
+  JP : 「〜[05]かも / [0a]せくんを / 心配させちゃダメだよ
+  LIT: And {2}, don't you go worrying {5} either, all right?
+  RE : And {2}, don't you go worrying
+       {5} either, all right?
+
+[US#4200] (village woman)
+  JP : 「〜あなたもあなたを待っている人を / 心配させちゃダメだよ
+  LIT: And you too: don't worry the people waiting for you.
+  RE : And you too: don't worry the
+       people waiting for you.
+
+[US#4201] (woman)
+  JP : 「今度は / この空を元に戻す方法を / 探しに出発に出ちゃったの〜
+  LIT: And now he's gone off again, searching for a way to return this sky to normal.
+  RE : And now he's gone off again,
+       searching for a way to return
+       this sky to normal.
+
+[US#4204] (woman)
+  JP : 「あなたの事を待っている人はいないの？ / もしそうだとしたら、その人の為にも / 無事に帰ることだけを考えればいいわ
+  LIT: Is there no one waiting for you? If there is, then for their sake too, think only of coming home safe.
+  RE : Is there no one waiting for you?
+       If so, for their sake, think only
+       of coming home safe.
+
+[US#4202] (student)
+  JP : 「私の<b:8a8c>れの先生だけどね / 上級魔法を探し終わったから / 出発から帰って来るんだよッ！
+  LIT: My beloved teacher, you know: she's finished her search for Advanced Magic and is coming back!
+  RE : My beloved teacher has finished
+       her search for Advanced Magic and
+       is coming back!
+
+[US#4203] (student)
+  JP : 「早く帰ってこないかなぁ
+  LIT: I wish she'd hurry home...
+  RE : I wish she'd hurry home...
+
+[US#4205] (student)
+  JP : 「その先生と、<b:8a5a><b:8a62>まで一緒に<b:8a8e>く時間が / 私の一番大切な時間なの / とっても、<88a5>いけどね〜
+  LIT: The walk to school with the teacher is my most treasured time; brief as it is.
+  RE : The walk to school with the
+       teacher is my most treasured
+       time. Brief as it is.
+
+[US#4206] (student)
+  JP : 「ファイトッ！ 私
+  LIT: Fight on, me!
+  RE : Fight on, me!
+
+[US#4207] (student)
+  JP : 「〜あら、ごめんなさい / 『ごきげんよう』は私たちの<b:8a5a><b:8a62>の / <b:8a8f><b:8a90>なの
+  LIT: Oh, pardon me; "Good day" is our school's custom.
+  RE : Oh, pardon me. |Good day| is our
+       school's custom.
+
+[US#4208] (student)
+  JP : 「こんにちは、おはよう、さよなら、などの / <8864>わりに使ってるの
+  LIT: We use it in place of hello, good morning, goodbye, and so on.
+  RE : We use it in place of hello, good
+       morning, goodbye, and so on.
+
+[US#4209] (student)
+  JP : 「今まで、『<b:8a93>』だの『愛』だのなんて / くだらないと思ってた〜 / でも、ちょっと見<b:8a8a>わなくちゃ
+  LIT: Until now I thought "romance" and "love" were nonsense; but I may have to reconsider.
+  RE : Until now I thought romance and
+       love were nonsense. But I may
+       have to reconsider.
+
+[US#4210] (student)
+  JP : 「私も最強ばかりじゃ / イケナイのかもしれないわね〜
+  LIT: Maybe all study and nothing else isn't good for me either.
+  RE : Maybe all study and nothing else
+       isn't good for me either.
+
+[US#4211] (student)
+  JP : 「え？ / 空のこと？ / ああ、そんなことよりも最強の方が大事よ
+  LIT: Hm? The sky? Oh, studying matters more than that.
+  RE : Hm? The sky? Oh, studying matters
+       more than that.
+
+[US#4212] (student)
+  JP : 「今の時間は / それを探しに出発している先生の / 授業のハズなんだけど〜
+  LIT: This hour is supposed to be the class of the teacher who's out searching for it.
+  RE : This hour is supposed to be the
+       class of the teacher who's out
+       searching for it.
+
+[US#4213] (student)
+  JP : 「ね、[05]かも / そう思うでしょ？
+  LIT: Right, {2}? You think so too, don't you?
+  RE : Right, {2}? You think so too,
+       don't you?
+
+[US#4214] (sleepy student)
+  JP : 「〜〜空が暗いから<b:8a97>るの〜〜〜〜〜〜〜〜〜
+  LIT: ...sleeping because the sky's dark...
+  RE : ...sleeping 'cause the sky's
+       dark......
+
+[US#4215] (sleepy student)
+  JP : 「〜〜〜〜〜〜〜完<b:8a98>な大義名分よね〜〜〜〜
+  LIT: ...a perfect excuse, isn't it...
+  RE : ......a perfect excuse, isn't
+       it......
+
+[US#4216] (sleepy student)
+  JP : 「〜〜〜マクレガー先生〜〜〜〜〜〜〜〜〜〜
+  LIT: ...Mr. McGregor...
+  RE : ...Mr. McGregor.........
+
+[US#4217] (sleepy student)
+  JP : 「〜〜〜〜〜〜〜〜お話はもういいです〜〜
+  LIT: ...no more questions, please...
+  RE : ......no more questions,
+       please......
+
+[US#4218] (sleepy student)
+  JP : 「〜〜〜<b:8a97>かせてよ〜〜〜〜〜〜〜〜〜〜〜〜
+  LIT: ...let me sleep...
+  RE : ...let me sleep.........
+
+[US#4219] (sleepy student)
+  JP : 「〜〜〜〜〜〜〜ずっと、空が暗いんだもん〜
+  LIT: ...the sky's been dark forever...
+  RE : ......the sky's been dark
+       forever...
+
+[US#4220] (sleepy student)
+  JP : 「〜〜ほっといてよ〜〜〜〜〜〜〜〜〜〜〜〜
+  LIT: ...leave me alone...
+  RE : ...leave me alone.........
+
+[US#4221] (sleepy student)
+  JP : 「〜〜〜〜〜〜<b:8a99><89bb><b:8a5a><b:8a8a>してるんだから〜〜〜
+  LIT: ...I'm studying in my sleep, you know...
+  RE : ......I'm studying in my sleep,
+       you know......
+
+[US#4222] (sleepy student)
+  JP : 「〜〜〜[0a]せくぅん〜〜〜〜〜
+  LIT: ...{5}-kuuun...
+  RE : ...{5}-kuuun......
+
+[US#4223] (sleepy student)
+  JP : 「〜〜〜〜〜〜〜〜〜〜〜〜〜くすくす〜〜〜
+  LIT: ...tee-hee...
+  RE : .............tee-hee......
+
+[US#4224] (sleepy student)
+  JP : 「〜〜〜むにゃむにゃ〜〜〜〜〜〜〜〜〜〜〜
+  LIT: ...mumble mumble...
+  RE : ...mumble mumble.........
+
+[US#4225] (sleepy student)
+  JP : 「〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜はッ！
+  LIT: ...Wha!
+  RE : .................Wha!
+
+[US#4226] (sleepy student)
+  JP : 「す、すみませんッ！ / 起きてましたッ！
+  LIT: S-sorry! I was awake!
+  RE : S-sorry! I was awake!
+
+[US#4227] (sleepy student)
+  JP : 「あ、なんだ[05]かじゃない / もう、<8845>かさないでよ〜 / せっかく、苦労して立ったまま<b:8a97>てたのに〜
+  LIT: Oh, it's just you, {2}. Don't scare me! I'd finally managed to fall asleep standing up.
+  RE : Oh, it's just you, {2}. Don't
+       scare me! I'd finally fallen
+       asleep standing up.
+
+[US#4228] (sleepy student)
+  JP : 「〜〜〜むにゃむにゃ〜〜〜〜〜〜〜〜〜〜〜
+  LIT: ...mumble mumble...
+  RE : ...mumble mumble.........
+
+[US#4229] (sleepy student)
+  JP : 「〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜はッ！
+  LIT: ...Wha!
+  RE : .................Wha!
+
+[US#4230] (sleepy student)
+  JP : 「す、すみませんッ！ / 起きてましたッ！
+  LIT: S-sorry! I was awake!
+  RE : S-sorry! I was awake!
+
+[US#4231] (sleepy student)
+  JP : 「あ、先生じゃなかったんだ / もう、<8845>かさないでよ〜 / せっかく、苦労して立ったまま<b:8a97>てたのに〜
+  LIT: Oh, you're not the teacher. Don't scare me! I'd finally managed to fall asleep standing up.
+  RE : Oh, you're not the teacher. Don't
+       scare me! I'd finally fallen
+       asleep standing up.
+
+[US#4232] (scholar)
+  JP : 「私の知<b:8a9b>をご<b:8a9c><b:8a9d>いたしましょうか？[18]か
+  LIT: Shall I share my knowledge with you?
+  RE : Shall I share my knowledge with
+       you?
+
+[US#4233] (scholar)
+  JP : 「それはファルガイアの始まりへと<89cb>る道なり / このファルガイアの命の<8869>へと続く道なり / そう、<b:8a9f>のガーディアンへと至る道なり〜
+  LIT: It is a road back to Filgaia's beginning, a road to the wellspring of Filgaia's life; yes, a road to the Guardian of mud.
+  RE : It is a road to Filgaia's
+       beginning, to the wellspring of
+       its life: the Guardian of mud.
+
+[US#4236] (student)
+  JP : 「え？ 『核ドラゴン』ですか？ / それなら、古代表次にて開発された / 幻最終壊滅同時らしいですけど〜
+  LIT: Hm? The "Nuclear Dragon"? That's said to be an ultimate weapon developed by an ancient civilization.
+  RE : Hm? The |Nuclear Dragon|? That's
+       said to be an ultimate weapon of
+       an ancient civilization.
+
+[US#4238] (student)
+  JP : 「え？ 『核ドラゴン』ですか？ / それなら、古代表次にて開発された / 幻最終壊滅同時らしいですけど〜
+  LIT: Hm? The "Nuclear Dragon"? That's said to be an ultimate weapon developed by an ancient civilization.
+  RE : Hm? The |Nuclear Dragon|? That's
+       said to be an ultimate weapon of
+       an ancient civilization.
+
+[US#4250] (NPC)
+  JP : 「〜え？ 私？ / 私は、あいかわらず / このお気に入りのココにいつもいるよ
+  LIT: Hm? Me? Same as always: I'm always right here at my favorite spot.
+  RE : Hm? Me? Same as always. I'm
+       always right here at my favorite
+       spot.
+
+# --- SKIPPED (control/empty slots in range) ---
+[US#4234] SKIPPED - no content box in decode
+[US#4235] SKIPPED - no content box in decode
+[US#4237] SKIPPED - no content box in decode
+[US#4239] SKIPPED - no content box in decode
+[US#4240] SKIPPED - no content box in decode
+[US#4241] SKIPPED - no content box in decode
+[US#4242] SKIPPED - no content box in decode
+[US#4243] SKIPPED - no content box in decode
+[US#4244] SKIPPED - no content box in decode
+[US#4245] SKIPPED - no content box in decode
+[US#4246] SKIPPED - no content box in decode
+[US#4247] SKIPPED - no content box in decode
+[US#4248] SKIPPED - no content box in decode
+[US#4249] SKIPPED - no content box in decode
