@@ -124,3 +124,38 @@
   blk117 |  107 | @My Crest Sorcery can't do everything.
   blk118 |   62 | @The country's resource called a |Fossil| was used to deve
   blk119 |   15 | (demo-only)
+## Unmapped-block anchoring (2026-07-26 disc-1 scope pass)
+
+Identified by EN-sample reading. D1/D2 = disc; JUNK = demo-notice/system boilerplate, skip.
+
+| blk | boxes | id | anchor |
+|---|---|---|---|
+| 4 | 206 | D1 | Early ARMS/Odessa camp dialogue ("trust me", mission prep) — pre/post Illsveil arc |
+| 21 | 88 | D1 | Guardians lore panels + Marivel MapScope scene (twin-ish of lore cluster tail) |
+| 26 | 87 | D1 | Sword Magess / Blazing Demon lore panels + fate/bond scene (lore-adjacent) |
+| 22 | 59 | D1 | T'Bok/station family scene (father/mother) + Guild Galad directions |
+| 61 | 47 | D2 | Lombardia send-off ("off we go to the sea of stars") |
+| 19 | 43 | D1 | Slayheim Angel Halo lore + exorcism scene (Quartly/Slayheim arc) |
+| 93 | 42 | D2 | Marivel recruitment / magic gratitude scene |
+| 76 | 42 | D2 | Irving funding-file scene ("why would that name be listed here?") — the spoiler beat |
+| 36 | 41 | D1 | Odessa control-panel sabotage scene (Vinsfeld rage) |
+| 101 | 36 | D2 | post-game/epilogue chatter |
+| 95 | 36 | D2 | Demon Summoning aftermath council |
+| 68 | 33 | ? | Monster Card album + name-change NPC (service NPCs, either disc) |
+| 75 | 32 | D2 | Marina waiting-for-Ashley domestic scene |
+| 74 | 29 | D1 | Live Reflector trigger-timing action scene |
+| 35 | 28 | D1 | Odessa Varukisas briefing ("bury you in it") |
+| 48 | 23 | D1 | Liz&Ard or Judecca taunt scene ("small handicap") |
+| 65 | 16 | D2 | Wild Hunt specters (Wotan/Tiu) — optional dungeon flavor |
+| 71/72 | 23 | D1 | Illsveil extraction debrief + boss tutorial |
+| 45/47 | 32 | D1 | Lost City Archeim villain scenes (with 46) |
+| 69 | 17 | D1 | Ptolomea comic broadcast (already partially in FIRSTPASS) |
+| 28/30/37 | 29 | D1 | item/bayonet tutorials + Diablo Tower lore fragments |
+| 86/84/79 | 20 | ? | cave/egg/road-sign flavor text |
+| 97/102 | 15 | D2 | commander dismissal + protect-Filgaia vows |
+| 115 | 13 | JUNK | save-file system text |
+| 98/103/106/107/119/110/90 | ~109 | JUNK | "Do you want to read it?" + demo-notice boilerplate |
+| 73/78/80-83/85/94/96/99/100/105/109/114 | ~50 | JUNK | demo-notice boilerplate only |
+
+Net effect on disc-1 scope: +~600 real disc-1 boxes from unmapped (mostly blk 4, 21, 26, 22,
+19, 36, 74, 35, 48, 71, 72, 45, 47, 28, 30, 37), ~160 junk boxes excluded outright.
