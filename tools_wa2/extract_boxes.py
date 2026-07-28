@@ -38,8 +38,38 @@ def _is_jp_lead(b):
     return 0x81 <= b <= 0x9f or 0xe0 <= b <= 0xef
 
 
+def _decode_en(raw):
+    """Decode an EN payload run. Handles the box framings the earlier @-only pass missed:
+       @text                      classic
+       Speaker\rtext              speaker-prefixed (\x06 Musketeer A \x0d (Did you...))
+       \x05 N \r (text)           name-coded thought/paren box (\x06 \x05 0 \x0d (Draw...))
+    Returns (display_text, stray_control_count). \x05 N is a name/speaker selector (dropped),
+    \n-digit is a {n} name code (kept), \r is a line break (space), @ is the box-open (dropped)."""
+    out = []; j = 0; ctrl = 0
+    n = len(raw)
+    while j < n:
+        b = raw[j]
+        if b == 0x0a and j + 1 < n and 0x30 <= raw[j+1] <= 0x39:
+            out.append('{' + chr(raw[j+1]) + '}'); j += 2; continue
+        if b == 0x05 and j + 1 < n:              # name/speaker selector: drop marker + arg
+            j += 2; continue
+        if b == 0x40:                            # '@' box-open, not displayed
+            j += 1; continue
+        if 0x20 <= b < 0x7f:
+            out.append(chr(b)); j += 1; continue
+        if b == 0x0d:
+            out.append(' '); j += 1; continue
+        ctrl += 1; j += 1                         # any other control byte
+    return ' '.join(''.join(out).split()), ctrl
+
+
 def _extract(data, lo, hi, jp, blk=0):
-    """Return ordered list of dialogue boxes in [lo,hi). Each: {off, text, indexed, panel}."""
+    """Return ordered list of dialogue boxes in [lo,hi). Each: {off, text, indexed, panel}.
+
+    A box = a run from a frame byte (\x10\x0c idx / \x06 inline / \x0d cont) to NUL, split on
+    any internal \x10\x0c. Accepts ANY text run after the frame (not only @-led): speaker-
+    prefixed and name-coded parenthetical boxes were being dropped by the earlier @-only gate.
+    Binary/opcode runs are rejected by a letters>=3 + low stray-control-density test."""
     out = []; i = lo; hi = min(hi, len(data))
     while i < hi - 1:
         b = data[i]; frame = None
@@ -50,31 +80,31 @@ def _extract(data, lo, hi, jp, blk=0):
             s = i + 1
             if s >= hi:
                 i += 1; continue
-            ok = _is_jp_lead(data[s]) if jp else (data[s] == 0x40)
-            if ok:
-                if not jp: s += 1                        # skip the '@'
-                k = s
-                while k < hi and data[k] != 0x00: k += 1
-                chunk = data[s:k]
-                # a run may bundle several logical boxes separated by an internal \x10\x0c
-                # (JP especially: "逃亡者「...\x10\x0c「..."). Split so EN/JP box counts match.
-                for sub in chunk.split(b'\x10\x0c'):
-                    if not sub: continue
-                    if jp:
-                        t = ' '.join(W.decode_block(sub, blk).replace('\n', ' ').split())
-                        cjk = sum(1 for c in t if '぀' <= c <= 'ヿ' or '一' <= c <= '鿿')
-                        good = cjk >= 2
-                        panel = t.lstrip('「『 ').startswith('＊')
-                    else:
-                        # each sub may itself start with '@'; strip a leading one
-                        raw = sub[1:] if sub[:1] == b'@' else sub
-                        t = ''.join(chr(x) if 0x20 <= x < 0x7f else (' ' if x == 0x0d else '')
-                                    for x in raw)
-                        t = ' '.join(t.split())
-                        good = sum(c.isalpha() for c in t) >= 2
-                        panel = t.startswith('*')
-                    if good:
-                        out.append({'off': i, 'text': t, 'indexed': frame == 'idx', 'panel': panel})
+            k = s
+            while k < hi and data[k] != 0x00: k += 1
+            chunk = data[s:k]
+            emitted = False
+            for sub in chunk.split(b'\x10\x0c'):
+                if not sub: continue
+                if jp:
+                    # JP runs must start with an SJIS lead / kana / speaker-name char, else the
+                    # run is a binary/opcode gap (removing this gate ballooned JP ~3x with junk).
+                    if not (_is_jp_lead(sub[0]) if sub else False):
+                        continue
+                    t = ' '.join(W.decode_block(sub, blk).replace('\n', ' ').split())
+                    cjk = sum(1 for c in t if '぀' <= c <= 'ヿ' or '一' <= c <= '鿿')
+                    kana = sum(1 for c in t if '぀' <= c <= 'ゟ' or '゠' <= c <= 'ヿ')
+                    good = cjk >= 2 or kana >= 3
+                    panel = t.lstrip('「『 ').startswith('＊')
+                else:
+                    t, ctrl = _decode_en(sub)
+                    letters = sum(c.isalpha() for c in t)
+                    good = letters >= 3 and ctrl <= max(2, len(t) // 8)
+                    panel = t.lstrip('({ ').startswith('*')
+                if good:
+                    out.append({'off': i, 'text': t, 'indexed': frame == 'idx', 'panel': panel})
+                    emitted = True
+            if emitted and k > s:
                 i = k; continue
         i += 1
     return out
