@@ -118,25 +118,77 @@ def jp_boxes(jd, blk):
     return _extract(jd, blk * JBLK, (blk + 1) * JBLK, jp=True, blk=blk)
 
 
-def align(enb, jpb):
-    """Pair EN story boxes to JP story boxes by ORDERED position (best available, not perfect).
+import re as _re, unicodedata as _ud
 
-    VERIFIED on block 24: story boxes run in the same order in both languages and match 1:1
-    for long stretches (boxes 0-20 pair semantically exactly). Residual drift of +-1..2 appears
-    where JP splits a nameplate into its own box that EN inlines, so DO NOT trust the pairing
-    blindly deep in a block — the JP column is a strong hint to be eyeball-confirmed against the
-    EN at translation time, never an authoritative 1:1 map. (A content-based cross-language
-    aligner was attempted and abandoned: no reliable language-agnostic signal.) Panels are
-    paired within their own stream. Nameplate-only JP boxes (「-name lines) stay attached to the
-    following dialogue by the internal-\\x10\\x0c split already done in _extract."""
+
+def _digits(s):
+    return ''.join(_re.findall(r'\d', _ud.normalize('NFKC', s or '')))
+
+
+def _pair_score(en, jp):
+    """Language-agnostic EN<->JP box similarity. Deliberately weak: surface features only.
+    A shared multi-digit run (survives translation, e.g. Point 12 <-> ポイント１２) is near-certain;
+    length ratio is a faint hint. Empirically this tops out ~38% within +-1 (see align docstring)."""
+    de, dj = _digits(en), _digits(jp)
+    if de and dj and de == dj and len(de) >= 2:
+        return 3.0
+    le, lj = len(en), len(jp)
+    if le < 2 or lj < 2:
+        return 0.0
+    return max(0.0, 1 - abs(le / lj - 1.7) / 2.5) * 0.4
+
+
+def align(enb, jpb, diag=1.0, gap=-0.05):
+    """Monotonic DP alignment of EN<->JP story boxes. EN boxes are AUTHORITATIVE (never dropped);
+    each gets the JP box the DP pairs it to, or '' if the DP inserts a gap there.
+
+    HONEST ACCURACY: ~38% of pairs land within +-1 of the true match on a 285-pair hand-aligned
+    validation set (positional zip scored 0%). The drift between EN and JP box counts is monotonic
+    (JP boxes drop out progressively; 102/120 blocks differ by >2) but surface features are too
+    sparse to place the gaps reliably. So each pair carries a `conf`:
+      'anchor' — matched on a shared digit-run (trust it)
+      'approx' — DP's best guess (VERIFY against EN before using the JP)
+    A definitive pairing requires reading the text (LLM/human). Panels align within their own
+    stream. See memory: wa2-extraction-two-framings."""
     en_story = [b['text'] for b in enb if not b['panel']]
     jp_story = [b['text'] for b in jpb if not b['panel']]
+    n, m = len(en_story), len(jp_story)
+    NEG = -1e9
+    dp = [[NEG] * (m + 1) for _ in range(n + 1)]
+    bt = [[None] * (m + 1) for _ in range(n + 1)]
+    dp[0][0] = 0.0
+    for i in range(n + 1):
+        for j in range(m + 1):
+            c = dp[i][j]
+            if c == NEG and (i or j):
+                continue
+            if i < n and j < m:
+                s = _pair_score(en_story[i], jp_story[j])
+                pri = diag * (1 - abs(i / max(n, 1) - j / max(m, 1)))
+                v = c + s + pri
+                if v > dp[i+1][j+1]:
+                    dp[i+1][j+1] = v; bt[i+1][j+1] = (i, j)
+            if i < n and c + gap > dp[i+1][j]:
+                dp[i+1][j] = c + gap; bt[i+1][j] = (i, j)
+            if j < m and c + gap > dp[i][j+1]:
+                dp[i][j+1] = c + gap; bt[i][j+1] = (i, j)
+    mp = {}
+    i, j = n, m
+    while (i, j) != (0, 0):
+        pi, pj = bt[i][j]
+        if pi == i - 1 and pj == j - 1:
+            mp[i-1] = j-1
+        i, j = pi, pj
     pairs = []
-    for i in range(max(len(en_story), len(jp_story))):
-        pairs.append({'i': i,
-                      'en': en_story[i] if i < len(en_story) else '',
-                      'jp': jp_story[i] if i < len(jp_story) else ''})
-    return pairs, len(en_story), len(jp_story)
+    for i in range(n):
+        jj = mp.get(i)
+        jt = jp_story[jj] if jj is not None else ''
+        conf = ''
+        if jj is not None:
+            de, dj = _digits(en_story[i]), _digits(jt)
+            conf = 'anchor' if (de and de == dj and len(de) >= 2) else 'approx'
+        pairs.append({'i': i, 'en': en_story[i], 'jp': jt, 'conf': conf})
+    return pairs, n, m
 
 
 def main():
