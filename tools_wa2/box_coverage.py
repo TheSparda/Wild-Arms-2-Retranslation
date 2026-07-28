@@ -13,10 +13,11 @@ OUTPUT
   game_script/box_coverage.json  — {total, match, per_block:{blk:{total,match}}}
   (stdout) headline % + top untranslated blocks. --verify prints a block's gap sample.
 """
-import os, re, sys, json
+import os, re, sys, json, glob
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 GS   = os.path.join(ROOT, 'game_script')
+INS  = os.path.join(ROOT, 'insert')
 BOX  = os.path.join(GS, 'boxes.json')
 DB   = os.path.join(GS, 'wa2_db.json')
 OUT  = os.path.join(GS, 'box_coverage.json')
@@ -34,13 +35,27 @@ def is_demo(t):
 
 
 def translated_en():
-    """Normalized EN of every RE-bearing DB row (>=6 chars) = the 'already translated' set."""
+    """Normalized EN of everything that has an RE translation = the 'already translated' set.
+
+    Two sources, because inline/ambient boxes (\x06/\x0d-framed) have NO US# slot and so never
+    enter the US#-keyed DB: (1) RE-bearing DB rows, (2) any box in an insert/*_FINAL.txt that has
+    an `EN :` line followed by at least one `RE :` line. Keyed by normalized EN text — the only
+    bridge between the box set and the translation files."""
     s = set()
     for r in json.load(open(DB))['rows']:
         if r.get('re', '').strip():
             nt = norm(r['en'])
             if len(nt) >= 6:
                 s.add(nt)
+    for path in glob.glob(os.path.join(INS, '*_FINAL.txt')) + \
+                glob.glob(os.path.join(INS, 'firstpass', '*_FINAL.txt')):
+        cur_en = None
+        for ln in open(path, encoding='utf-8'):
+            m = re.match(r'^  EN :\s?(.*)', ln)
+            if m:
+                cur_en = norm(m.group(1)); continue
+            if ln.startswith('  RE :') and cur_en and len(cur_en) >= 6:
+                s.add(cur_en); cur_en = None
     return s
 
 

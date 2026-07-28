@@ -76,6 +76,7 @@ DISC_LABEL = {1: 'DISC 1', 2: 'DISC 2', 3: 'OPTIONAL AREAS'}
 SCENES = [
  ('ashley_opening_FINAL.txt','WR',"Withered Ruins prologue → rail-gun standoff",'70'),
  ('ashley_intro_ruins_FINAL.txt','WR',"Inside the ruins: Musketeer push + the kidnapper gang",'23'),
+ ('wr_ambient_gang_FINAL.txt','WR',"Withered Ruins inline/ambient: musketeers, medic, kidnapper gang",'23'),
  ('lilka_intro_FINAL.txt','MP',"Magic Lesson with her sister",'25'),
  ('brad_intro_FINAL.txt','BI',"Fugitive in the Rain",'24'),
  ('m1_meria_FINAL.txt','MR','Ceremony morning','3'),

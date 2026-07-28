@@ -1,0 +1,408 @@
+# =========================================================================================
+# Withered Ruins (block 23) — inline event + ambient boxes the old \x10\x0c dumper skipped.
+# Musketeer patrol chatter, the medic, save-point NPC, and the full kidnapper-gang scene
+# (Gangal / Zook / Gerg + the boy hostage). Complements ashley_intro_ruins_FINAL.txt (the
+# indexed story boxes) and ashley_opening_FINAL.txt (block 70 briefing + Rail Gun climax).
+#
+# NO US# SLOTS: these are \x06/\x0d-framed inline boxes, not \x10\x0c-indexed, so they have
+# no us_slots position. Tagged [WR-b23-Jnn] by their ORDERED JP story-box index (see
+# extract_boxes.py jp_boxes). Aligned to JP by CONTENT, verified against the official EN.
+# Em-dash-free, <=3 lines. Tutorial boilerplate (Continue/Gimel Coin, MEMORY CARD, Demo) is
+# left to its existing DB rows and NOT duplicated here.
+# =========================================================================================
+
+[WR-b23-J3] (Save-point NPC)
+  JP : 「あなたの冒険の足跡を / メモリーカードにセーブしますよ
+  LIT: I'll save the footprints of your adventure to a MEMORY CARD.
+  EN : I can store records of your adventure on a MEMORY CARD.
+  RE : I can save the trail of your journey
+       onto a MEMORY CARD for you.
+
+[WR-b23-J5] (Ashley)
+  JP : 「俺は事件解決のために / ここにやってきたんだ
+  LIT: I came here to solve the case.
+  EN : I came here to solve the case.
+  RE : I came here to crack this case.
+
+[WR-b23-J8] (Musketeer)
+  JP : 同胞隊置 「ここんところ / 出動回数が多くてまいるぜ
+  LIT: Lately there've been so many deployments, it's wearing me out.
+  EN : Lately, we've been moved around so much, I'm wiped out.
+  RE : So many call-outs lately, it's
+       wearing me down.
+
+[WR-b23-J10] (Musketeer)
+  JP : 同胞隊置 「何だって僕たち同胞隊が / こんなトコまで出張らなきゃいけないんだ
+  LIT: Why does our Musketeer troop have to be dispatched all the way out here?
+  EN : Why does our troop have to be the one to get shipped way out here?
+  RE : Why does our troop always get sent
+       all the way out to a place like this?
+
+[WR-b23-J13] (Musketeer)
+  JP : 「おっ、話せるじゃねェかッ！ / お前もそう思うのなら / さっさと引き上げちまおうぜ
+  LIT: Oh, now we're talking! If you feel the same, let's pull out right away!
+  EN : Now you're talking! If 0 agrees, we'll withdraw immediately!
+  RE : Now you get it! If you feel the same,
+       let's just pull out of here.
+
+[WR-b23-J14] (Musketeer)
+  JP : 「よせよせッ！ ここではりきってみたところで / 出世や給料には響きはしないぜ
+  LIT: Give it up! Busting your hump here won't do a thing for your rank or your pay.
+  EN : Forget it! Forget it! Going all out here isn't going to get you promoted.
+  RE : Give it up! Busting your hump out here
+       won't earn you rank or a raise.
+
+[WR-b23-J15] (Musketeer Captain)
+  JP : 衛生隊置 「任務の遂行も重要だが / 自分の命も守れないヤツは一人前ではない
+  LIT: Carrying out the mission matters, but a man who can't protect his own life isn't full-fledged.
+  EN : It's important to carry out your mission. Just don't kill yourself.
+  RE : The mission matters, but a soldier who
+       can't guard his own life isn't ready.
+
+[WR-b23-J16] (Musketeer Captain)
+  JP : 「無理をしないで / 倒れる前に、ここまで戻ってこい / お前たちの命を守るのが私の任務だ
+  LIT: Don't push it. Come back here before you drop. Protecting your lives is my duty.
+  EN : Don't overdo it. Return here before collapsing. My duty is to protect your lives.
+  RE : Don't push it. Fall back here before
+       you drop. Guarding your lives is my duty.
+
+[WR-b23-J17] (Musketeer)
+  JP : 同胞隊置 「さっき入った情報だ
+  LIT: This is information that just came in.
+  EN : This information just in...
+  RE : Here's word that just came in.
+
+[WR-b23-J19] (Musketeer)
+  JP : 同胞隊置 「犯人はもともと / スレイハイム国の出身らしい
+  LIT: The culprits are originally from the nation of Slayheim, it seems.
+  EN : The suspects are originally from Slayheim.
+  RE : Word is the culprits hail from
+       the nation of Slayheim.
+
+[WR-b23-J21] (Musketeer)
+  JP : 同胞隊置 「お前も気がついていると思うが / 最近、モンスターが増えてきているだろう？
+  LIT: You've noticed too, I bet: monsters have been increasing lately, right?
+  EN : Hasn't the number of monsters been increasing recently?
+  RE : You've noticed it too, right? The
+       monsters have been multiplying lately.
+
+[WR-b23-J29] (Musketeer)
+  JP : 同胞隊置 「この遺跡には / めぼしいお宝なんて残っていやしないぜ
+  LIT: There's no treasure worth mentioning left in these ruins.
+  EN : No valuable treasures remain here in these ruins.
+  RE : There's no treasure worth a thing
+       left in these ruins.
+
+[WR-b23-J32] (Musketeer)
+  JP : 同胞隊置 「どうやらこのあたりは / すでにモンスターのテリトリーらしい
+  LIT: It seems this area is already monster territory.
+  EN : Looks like this area has been taken over by monsters.
+  RE : Looks like this stretch is already
+       monster territory.
+
+[WR-b23-J33] (Musketeer)
+  JP : 「気を引き締めていくぞッ！
+  LIT: Steel yourself and let's move!
+  EN : Brace yourself!
+  RE : Stay sharp out there!
+
+[WR-b23-J34] (Musketeer)
+  JP : 同胞隊置 「すでに調査済みの遺跡だからって / 気は抜けないぞ
+  LIT: Don't drop your guard just because these ruins have already been surveyed.
+  EN : Don't relax your guard just because the area has already been searched.
+  RE : Don't slack off just because these
+       ruins were already surveyed.
+
+[WR-b23-J35] (Musketeer)
+  JP : 「この先、どんな仕掛けがあるのか / 見当もつかないからな
+  LIT: We've no idea what kind of traps lie further ahead.
+  EN : I can't even imagine what kind of traps lie ahead.
+  RE : No telling what traps are waiting
+       for us up ahead.
+
+[WR-b23-J36] (Fallen Musketeer)
+  JP : 同胞隊置 「すまない〜 / 世話をかけるな
+  LIT: Sorry... I'm being a bother.
+  EN : Sorry. I didn't mean to cause trouble.
+  RE : Sorry. Didn't mean to be
+       a burden.
+
+[WR-b23-J37] (Musketeer)
+  JP : 同胞隊置 「あのオッチョコチョイめ〜
+  LIT: That scatterbrained fool...
+  EN : That clumsy fool!
+  RE : That clumsy idiot...
+
+[WR-b23-J38] (Musketeer)
+  JP : 「やみくもに先走ったヤツが / そこの穴に転落してしまったのだ
+  LIT: The fellow who charged ahead blindly fell into that hole there.
+  EN : The first guy who ran through the fog fell into that hole there.
+  RE : The one who charged ahead blindly
+       fell into that hole over there.
+
+[WR-b23-J39] (Musketeer)
+  JP : 「悪いが、様子を見てきてくれないか？
+  LIT: Sorry to ask, but could you go check on him?
+  EN : Could you check it out?
+  RE : Sorry to ask, but could you go
+       check on him?
+
+[WR-b23-J40] (Musketeer)
+  JP : 同胞隊置 「ナイフくらい使いこなせないと / この先、カッコがつかないぞ
+  LIT: If you can't even handle a knife, you'll look bad from here on.
+  EN : If you can't even use a knife, you're not going to look too cool.
+  RE : Can't even work a knife? You'll
+       look pretty sad from here on.
+
+[WR-b23-J42] (Fallen Musketeer)
+  JP : 同胞隊置 「新入りか〜 / ちッ、ドジっちまったみたいだぜ
+  LIT: A new recruit, huh... Tch, looks like I botched it.
+  EN : A new recruit, huh? Looks like you messed up.
+  RE : A new recruit, huh. Tch, looks
+       like I really botched this.
+
+[WR-b23-J43] (Fallen Musketeer)
+  JP : 「ここで目立った手柄でもたてて / ウワサの新設部隊への / 転属なんかねらっちまうからこのザマだ
+  LIT: I tried to score a showy win here to angle for a transfer to that rumored new unit, and look at me now.
+  EN : It's because you tried to score big here so you'd be reassigned to the...
+  RE : Tried to score a big win for a
+       transfer to that new unit. Look at me now.
+
+[WR-b23-J44] (Musketeer)
+  JP : 「無理をするな / 救助が来るまでここにいた方がいい
+  LIT: Don't push yourself. Better to stay here until rescue arrives.
+  EN : Take it easy. Stay here until the rescue team arrives.
+  RE : Don't push it. Better you stay put
+       until rescue arrives.
+
+[WR-b23-J45] (Fallen Musketeer)
+  JP : 同胞隊置 「そうもしてらんねぇよ / ホラ、ちょっと見ておきなッ！
+  LIT: Can't just sit around. Here, take a look at this!
+  EN : We can't do that. Hey, look at that!
+  RE : Can't just sit around here. Here,
+       take a look at this!
+
+[WR-b23-J47] (Fallen Musketeer)
+  JP : 同胞隊置 「新入り、コイツは僕からの配属祝いだ / 取っときな〜
+  LIT: New guy, this is my little assignment gift to you. Hang onto it.
+  EN : Hey rookie, this is to celebrate your assignment. Hang onto it.
+  RE : New guy, a little gift for making
+       the roster. Hang onto it.
+
+[WR-b23-J48] (Fallen Musketeer)
+  JP : 同胞隊置 「ナイフはボタンで投げることができる
+  LIT: You can throw the knife with the button.
+  EN : The knife can be thrown with the 1.
+  RE : You can throw the knife with
+       the button.
+
+[WR-b23-J49] (Fallen Musketeer)
+  JP : 「さっきのようにスイッチを入れる以外にも / 使い道があるかもしれんな〜 / そいつは自分で探すことだ
+  LIT: Besides flipping switches like before, it may have other uses. That's for you to find out.
+  EN : It must have a use besides just turning the switch. You need to figure it out.
+  RE : It does more than flip switches like
+       before. Figuring out the rest is on you.
+
+[WR-b23-J50] (Ashley)
+  JP : 「わかった / やってみるよ
+  LIT: Understood. I'll give it a try.
+  EN : OK, I'll give it a try.
+  RE : Got it. I'll give it a try.
+
+[WR-b23-J51] (Fallen Musketeer)
+  JP : 同胞隊置 「ここの上の足場に気をつけろ / 崩れる前に注意を払うのだッ！
+  LIT: Watch the footing up above here. Pay attention before it gives way!
+  EN : Watch your footing above here. Watch for signs of it giving!
+  RE : Mind the footing up above. Watch
+       for it before it gives way!
+
+[WR-b23-J53] (Fallen Musketeer)
+  JP : 同胞隊置 「このあたりの足場は / 結構もろくなってるみたいだ
+  LIT: The footing around here seems pretty fragile.
+  EN : The footing around here in particular is unstable.
+  RE : The footing right around here
+       looks awfully fragile.
+
+[WR-b23-J55] (Musketeer Captain)
+  JP : 衛生隊置 「要救助者と / 犯人グループはこの奥だ
+  LIT: The one needing rescue and the culprit group are further in.
+  EN : The kidnappers and the hostage are in back.
+  RE : The one we're here to rescue, and the
+       culprits, are further in the back.
+
+[WR-b23-J56] (Fallen Musketeer)
+  JP : 「僕にできるのはこのくらいさ / あとはまかせたぞ
+  LIT: This is all I can do. The rest is up to you.
+  EN : I've done all I can do. I'm leaving the rest up to you.
+  RE : This is all I've got left in me.
+       The rest is up to you.
+
+[WR-b23-J57] (Gangal)
+  JP : ガンガル 「いったいどこのどいつだ！
+  LIT: Just who the hell are you!
+  EN : Who the heck are you!
+  RE : Just who the hell are you!?
+
+[WR-b23-J58] (Zook)
+  JP : 「ガキを誘拐すれば / 大金が転がりこむって言ったのはっ！？
+  LIT: Who was it that said snatching the kid would rake in a fortune!?
+  EN : Who said kidnapping would have us rolling in money!?
+  RE : Who was the one who said grabbing
+       the kid would rake in a fortune!?
+
+[WR-b23-J59] (Zook)
+  JP : ズク 「今回の特策は / ガンガル兄貴のアイデアなのに・・・
+  LIT: This whole scheme was big brother Gangal's idea, wasn't it...
+  EN : Wasn't this plan the boss Gangal's idea?
+  RE : This whole scheme was your idea,
+       big brother Gangal...
+
+[WR-b23-J61] (Gerg)
+  JP : ゲルグ 「ガキを誘拐したって / リスクばっかり大きいだけなのによ・・・
+  LIT: Snatching the kid is nothing but a big risk...
+  EN : The only big thing about kidnapping the kid is the risk.
+  RE : Grabbing that kid was all risk and
+       nothing else to show for it...
+
+[WR-b23-J62] (Gerg)
+  JP : 「オレを誘拐したからって / １ギャラの儲けにもなりゃしないのにな
+  LIT: Kidnapping me won't net you even 1 Gella in profit.
+  EN : You won't make even 1 Gella from my abduction.
+  RE : Snatching me won't earn you so much
+       as a single Gella.
+
+[WR-b23-J64] (Gangal)
+  JP : 「だぁーッ、何だってこんな / 大ごとなことになっちまうんだ
+  LIT: Argh, how did this blow up into such a huge deal!
+  EN : Whoa. How'd this get so blown out of proportion?
+  RE : Argh, how did this blow up into
+       such a mess!
+
+[WR-b23-J65] (Gangal)
+  JP : 「僕方はただ、つつましく誘拐なんかして / 今後の生活にゆとりとうるおいをだな〜
+  LIT: We just wanted a modest little kidnapping to bring some ease and comfort to our lives from here on...
+  EN : Our humble little abduction was to bring comfort to our lives.
+  RE : All we wanted was one modest little
+       snatch, a bit of ease in our lives...
+
+[WR-b23-J66] (Henchman)
+  JP : 家分Ａ 「そもそも、その誘拐ってのが / あっしらには無理だったんでヤンスよ
+  LIT: To begin with, this kidnapping was beyond us from the start.
+  EN : After much thought, it's clear that kidnapping isn't our answer.
+  RE : Truth is, a kidnapping was over our
+       heads from the very start.
+
+[WR-b23-J67] (Henchman)
+  JP : 「どうするんでヤンス、ガンガルの兄貴 / もうすぐ同胞隊のみなさん / 突入してくる頃でヤンスよ
+  LIT: What'll we do, big brother Gangal? The Musketeers will be storming in any moment now.
+  EN : What do you plan on doing, boss? It's about time those Musketeer boys...
+  RE : What now, big brother Gangal? The
+       Musketeers will storm in any minute.
+
+[WR-b23-J68] (Gangal)
+  JP : ガンガル 「うろたえるな、ズク / 何とかするのが男（オトコ）ってもんよ
+  LIT: Don't panic, Zook. A real man is one who finds a way.
+  EN : Oh, shut up, Zook. A real man would do something.
+  RE : Don't lose your nerve, Zook. A real
+       man finds a way through.
+
+[WR-b23-J69] (Gangal)
+  JP : 「おい、ゲルグ / 色々考えるのはおめぇの仕事だろうが
+  LIT: Hey, Gerg. Coming up with ideas is your job, isn't it.
+  EN : Hey, Gerg. Isn't it your job to come up with ideas?
+  RE : Hey, Gerg. Thinking up the plans
+       is your job, isn't it.
+
+[WR-b23-J70] (Gerg)
+  JP : ゲルグ 「色々考えた結果 / 僕らにゃ、誘拐なんて無理だってコト〜
+  LIT: After thinking it all over, the conclusion is a kidnapping's beyond us...
+  EN : After much thought, it's clear that kidnapping isn't our answer.
+  RE : I thought it all over, and the answer
+       is a kidnapping's just beyond us...
+
+[WR-b23-J72] (Gangal)
+  JP : ガンガル 「だぁーッ、おめぇはヤル前から / 結論を出しちまうってのかい？
+  LIT: Argh, you're handing me a conclusion before we've even tried!?
+  EN : What? You giving predictions of disaster before we even start?
+  RE : Argh, you're calling it quits before
+       we've even given it a shot!?
+
+[WR-b23-J73] (Gangal)
+  JP : 「そんなことじゃ / 男（オトコ）がすたっちまうぜ 〜ったくよぉ
+  LIT: Carry on like that and a man loses his honor. Sheesh.
+  EN : What a waste of man power, wimping out like that. Really!
+  RE : Keep that up and a man loses his
+       pride. Sheesh, honestly.
+
+[WR-b23-J75] (Gangal)
+  JP : ガンガル 「まあ、何にせよ / こっちには切り札があるんだ
+  LIT: Well, whatever the case, we've got our trump card.
+  EN : Well, regardless, we've got our trump card.
+  RE : Well, either way, we've still got
+       our trump card.
+
+[WR-b23-J76] (Gangal)
+  JP : 「逃げ切って見せるぜ
+  LIT: I'll make my getaway, you'll see.
+  EN : I'll get away no matter what.
+  RE : I'll slip away clean, you'll see.
+
+[WR-b23-J77] (Boy Hostage)
+  JP : 人質の少年 「お、僕を人質にしたって / 何にもいいことなんかねぇぞッ！
+  LIT: H-holding me hostage won't do you any good at all!
+  EN : Nothing good is going to come from holding me hostage!
+  RE : H-holding me hostage won't get you
+       anything good, you know!
+
+[WR-b23-J78] (Boy Hostage)
+  JP : 「万一、親のいねぇ僕を誘拐して / 誰から身代金をせしめるつもりなのかよッ！
+  LIT: On the off chance you snatch an orphan like me, who exactly do you plan to squeeze the ransom out of!?
+  EN : To start, I have no parents so who's paying the ransom?
+  RE : I've got no parents, so who's even
+       gonna pay a ransom for me, huh!?
+
+[WR-b23-J79] (Gerg)
+  JP : ゲルグ 「〜兄貴、ああ言ってますけど
+  LIT: Big brother... he's saying that, but...
+  EN : Hey boss, did you hear that?
+  RE : Big brother... he's got a point,
+       you know.
+
+[WR-b23-J80] (Gangal)
+  JP : ガンガル 「ああ〜 / ユメもチボーもありゃしねぇ〜
+  LIT: Aaah... there go my dreams and hopes...
+  EN : Oh... There go my hopes and dreams.
+  RE : Aaah... there go my dreams and
+       my hopes.
+
+[WR-b23-J93] (Boy Hostage)
+  JP : 「やいやい、おっさんッ！ / よくも僕をこんな目にあわせてくれたな
+  LIT: Hey, hey, old man! The nerve, putting me through all this.
+  EN : Hey, old man! How dare you treat me this way.
+  RE : Hey, hey, old man! The nerve,
+       dragging me through all this.
+
+[WR-b23-J95] (Gangal)
+  JP : ガンガル 「な、何だとぉッ！
+  LIT: Wh-what did you say!
+  EN : What'd you say?
+  RE : Wh-what did you just say!?
+
+[WR-b23-J96] (Gangal)
+  JP : 「お、おめぇら、このガキをとっつかまえて / だまらせろッ！
+  LIT: Y-you two, grab this brat and shut him up!
+  EN : Hey, you two, grab the brat and shut him up!!
+  RE : Y-you two, grab this brat and
+       shut him up!
+
+[WR-b23-J97] (Boy Hostage)
+  JP : 「こっこまでおいで／／ッ！
+  LIT: Come and get me, over heeere!
+  EN : Catch me if you can!
+  RE : Come and get me, if you can!
+
+[WR-b23-J98] (Ashley)
+  JP : 「そこまでだッ！
+  LIT: That's far enough!
+  EN : Hold it right there!
+  RE : That's far enough!
