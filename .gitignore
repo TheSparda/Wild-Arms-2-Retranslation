@@ -29,5 +29,3 @@ font_work/sys/
 web/tests/fixtures/*.bin
 web/tests/fixtures/*.ppf
 
-# --- netlify local link state (machine paths + site id) ---
-wiki_deploy/.netlify/

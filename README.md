@@ -20,7 +20,7 @@ what a shipped, hardware-proven patch of the US disc looks like.
 | `translation/` | Human working area: `blocks/` (per-block worksheets), `insert/` (insertion workspace), `drafts/`, `dumps_en/` + `dumps_jp/` (raw script dumps), `jp_quotes/`, `showcase/`. |
 | `docs/` | Research notes (`WA2_*.md`): encoding, scene structure, insertion model, style guide, character roster… |
 | `font_work/` | Font extraction artifacts + `block_tables.json` (per-block kanji tables). |
-| `wiki/`, `wiki_deploy/` | Generated script-comparison wiki (`tools/build_wiki.py`). |
+| `wiki/` | Generated script-comparison wiki (`tools/build_wiki.py` → `wiki/index.html`). Local artifact; not published. |
 
 ## Not in the repo (gitignored, kept locally)
 
