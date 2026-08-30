@@ -8,6 +8,9 @@ Game Files/
 WILDARM2.EXE
 *.EXE
 
+# --- third-party fan translation (gadesx Spanish patch): local ground-truth reference only, do not redistribute ---
+spanish_patch/
+
 # --- OS noise ---
 .DS_Store
 
