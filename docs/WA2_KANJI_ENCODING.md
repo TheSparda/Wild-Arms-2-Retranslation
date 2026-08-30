@@ -40,7 +40,7 @@ counterexample.
 
 ## 2. Where the data lives
 
-- **`tools_wa2/wa2_kanji_map.py`**
+- **`tools/wa2_kanji_map.py`**
   - `KANJI` — the **global** map (`0x8801`–`0x8a37` only). ~376 solved. **Never** put a `>=0x8a38`
     code here; the decoder ignores it and it will mislead any tool that reads `KANJI` directly.
   - `LEGACY_LOCAL` — 60 archived readings that were solved for *one block's* context before we
@@ -48,7 +48,7 @@ counterexample.
     Leads only (see §5). The decoder never reads this dict.
 - **`font_work/block_tables.json`** — the **block-local** subtables: `{ "<block>": { "<code>": "<kanji>" } }`.
   ~1,540 solved across ~58 blocks. Codes here are always `>=0x8a38`.
-- **`tools_wa2/wa2_jp_decode.py`** — `decode_block(bytes, block)` is the decoder. It intercepts
+- **`tools/wa2_jp_decode.py`** — `decode_block(bytes, block)` is the decoder. It intercepts
   `>=0x8a38` **before** consulting the global map, looks the code up in that block's subtable, and
   emits `<b:xxxx>` if unsolved. Global codes not in `KANJI` emit `<xxxx>`. So in any decode:
   - `<b:8a5c>` = an unsolved **block-local** code
@@ -67,7 +67,7 @@ solve via **okurigana** (trailing kana) and **2-kanji compounds**. Examples we s
 輝 集 遠 広 書 暗 渡 部 掘 許 故 概 恐 続 里 王 陸 原 領 政 品 団 構 断 駆 冒 願 起 完 礼 斬 告 記 録 救 視 期 逃 弱 認 緊.
 Verify each against a real word before committing (e.g. `無[視]して` → 無視 ✓, `亡き[王]妃` → 王妃 ✓).
 
-### Step 2 — twin propagation (`tools_wa2/twin_merge.py`)
+### Step 2 — twin propagation (`tools/twin_merge.py`)
 WA2 reuses whole scripts across blocks. Solving a local code in one twin solves it in all — if the
 byte **context fingerprint** (2 bytes before + 2 after) matches. Known clusters:
 ```
@@ -77,7 +77,7 @@ byte **context fingerprint** (2 bytes before + 2 after) matches. Known clusters:
 Run it **after** solving (it multiplies fresh solves). Conflicts (same code+context, different
 reading) are **removed**, never guessed.
 
-### Step 3 — witness solver (`tools_wa2/block_solve_v2.py`)
+### Step 3 — witness solver (`tools/block_solve_v2.py`)
 Statistical: twin-line propagation + compound witnesses to a fixpoint. Plateaus quickly. **It now
 MERGES** into `block_tables.json` (it was once destructive and wiped 1,151 solves — fixed; existing
 readings win on conflict). Re-run after a global round exposes new context.
@@ -89,7 +89,7 @@ with an already-solved neighbor *in that specific block* (守る, 味方, 岩場
 
 ### Step 5 — residue: solve-during-translation, or glyph-render
 Single-occurrence local codes with no witness are solved by hand while translating their scene.
-The last resort is reading the glyph bitmap from the font (`SY0.BIN`, `tools_wa2/wa2_font_extract.py`),
+The last resort is reading the glyph bitmap from the font (`SY0.BIN`, `tools/wa2_font_extract.py`),
 which needs a code→glyph-offset mapping worked out per block — a real RE task, not yet wired up.
 
 ---
@@ -147,13 +147,95 @@ Proven workflow (one session cleared ~62 blocks, +575 local solves, 25%→30% cl
 
 ---
 
-## 6. Current status (update as it moves)
+## 6. The `0xf0xx` glyph block (NOT kanji — solved separately)
 
-- Global map: ~388 solved (+ 88e9 corrected 新→正, a ~155-occurrence fix). Low-frequency tail remains.
-- Block-local: **~2,115 solved across ~76 blocks** (after the parallel-fleet run, §4b).
-- Overall decodability (DB `jp_clean`): **~2,572 / 8,516 boxes (30%)**.
+`0xf0` is a lead byte for a **typographic glyph block**, unrelated to the two kanji tiers. It is
+decoded by the `F0` table in `tools/wa2_jp_decode.py`, and unsolved codes print as `<f0xx>` — the
+same shape as an unsolved global kanji, which is why it spent a long time miscounted as kanji work.
 
-The remaining local tier is a genuine long tail (most slots occur once, or sit in control-byte /
-font-table / duplicate-line regions that can't be dual-witnessed), so it clears fastest *during*
-per-scene translation rather than by further bulk solving. The parallel fleet has already skimmed
-the dual-witnessable content off every high-value block.
+**Ellipsis run — `f040 [f041 ...] f042`, one `…` cell each.** The game draws `……` as a bracketed
+multi-cell run (left / repeatable middle / right) so the dots space evenly. Evidence over all 120
+blocks: `f040`→`f042` 763×, `f040`→`f041` 159×, `f041`→`f042` 178×; **913/925 (98.7%) of `f040`
+runs close on `f042`**; run lengths are 2 cells (763), 3 cells (147), 4–6 cells (3). `f040` is
+preceded by `「` 452× and by clause-final `は`/`て`/`が`; after `f042` normal kana resumes or the
+box ends. Substituting one `…` per cell yields grammatical Japanese in every sampled box:
+
+```
+「……でも、今回の体験版では 残念ながら使用することができません
+「………ほうほう、空を元に戻す為に レイポイントなるモノを探していると？
+「あれも魔法みたいなものよ ……わかる？
+```
+
+One cell = one `…` — that keeps the rendered **width** right, which the insertion budget depends on.
+
+**`f045` = `ー`** (long-vowel dash in hiragana context; katakana `ー` is the single byte `0xb0`).
+Evidence: `う<f045>ん`, `うぇ<f045>×5ん`, `ふぎゃ<f045>×15ッ！`, `ぐが<f045>×4んッ！`.
+
+Together these were **2,310 occurrences**, and solving them took the `f0xx` tail from 111 codes /
+2,869 occ to **40 codes / 321 occ**.
+
+The tail that remains splits in two, and only the first half is real:
+- **Sentence-final punctuation glyphs** — `f044`, `f04a`, `f059`, `f05a`, `f05b`, `f046`. All sit
+  after a sentence-ending particle (`ね`/`よ`/`わ`/`ッ`/`〜`/`ん`) and before end-of-box. `f059`
+  follows `ッ`/`！` and is probably another styled `！` (cf. `f056`–`f058`). **Not guessed** — §5
+  rule 1 applies; they need a witness.
+- **Binary-region noise** — `f0ef`, `f05f`, `f02f`, `f010`, `f011`, `f012`, `f002`. Always preceded
+  by the same mis-decoded byte (`繕`, `]`, `"`) inside a run full of `[a3]`-style escapes. These
+  are not text; they belong to the extractor problem below, not to decoding.
+
+---
+
+## 7. The Shift-JIS trail-byte gate (tokenizer correctness)
+
+Leads `0x81–0x9f` / `0xe0–0xef` are real Shift-JIS, so the trail byte **must** be legal
+(`0x40–0x7e` or `0x80–0xfc`). The decoder originally consumed two bytes on the lead alone, which
+swallowed **2,541 illegal pairs** — `91 06`, `98 10`, `e1 3c`, `96 10`, `8e 06` … Those are a
+single-byte code followed by an **event opcode** (`0x06` = inline-box frame, `0x10` = control
+lead), not text. Consuming them emitted plausible-looking kanji noise (`鶏`, `坐`, `剛`, `鮫`) that
+let binary runs pass `extract_boxes.py`'s `cjk>=2` gate and inflated the unsolved-code count.
+
+**The custom kanji block `0x88`–`0x8b` is exempt and must be matched first** — it is not Shift-JIS
+and legitimately uses trail bytes below `0x40` (the global tier starts at `0x8801`, the block-local
+tier at `0x8a38`). Getting that order wrong breaks every kanji decode.
+
+This fix alone removed **4,536 phantom `<xxxx>` markers** (global unsolved 8,106 → 3,570).
+
+---
+
+## 8. Current status (update as it moves)
+
+Measured on the corrected box model (`data/script/boxes.json`), not the superseded DB slots:
+
+| | before | after §6+§7 |
+|---|---|---|
+| JP boxes fully clean | 6,204 / 14,319 (43.3%) | **7,668 / 14,328 (53.5%)** |
+| unsolved global markers | 8,106 | **3,570** |
+| unsolved block-local | 9,103 | 9,101 |
+
+The older "30% / 8,516 boxes" figure came from the pre-migration DB and is superseded.
+
+**Residue, with the 1,353 binary-garbage boxes (9.4%) excluded:**
+
+| pile | size | how it closes |
+|---|---|---|
+| custom kanji, global tier | **169 codes / 2,476 occ** | §3 Step 1. Finite and closeable; one solve fixes all 118 blocks. Top: `88f7`×88, `8865`×59, `8a0b`×59, `89e2`×41 |
+| block-local | 5,757 slots / 9,043 occ | §3 Steps 2–4 + §4b. **5,425 slots (95%) have their code already solved in some other block** — a lead pool, not blind guessing. 1,647 slots recur 2+× in their own block, so they clear the dual-witness bar |
+| `f0xx` tail | 40 codes / 321 occ | §6 — half is punctuation needing a witness, half is not text |
+| SJIS gaps | 73 codes / 127 occ | `0xedxx`/`0xeaxx` PUA-range glyphs; trivial tail |
+
+Excluding the garbage boxes from the denominator too, clean coverage is **7,668 / 12,975 = 59.1%**.
+
+### Known-open: control-opcode arguments are decoded as text
+
+`decode_block`'s segment scanner treats `0x05 0a 0b 10 11 13 16 17 18` as **2-byte** opcodes, but
+`decode()` does not — it emits `[16]` and then decodes the *argument* byte as kana. So a real box
+keeps running past its text into event bytecode:
+
+```
+「生きて、帰るしかないんだッ！[16]くぉ[16]くぉ[16]くぉ[16]くぉ[16]くぉ[17]
+```
+
+This is why a byte-escape *density* filter is the wrong fix — it would drop genuine dialogue. The
+right fix is to terminate the box where text ends, which needs the opcode widths established
+first. Arg-byte distributions over whole blocks are too noisy to settle it (all leads show
+~250 distinct args); it needs measurement restricted to in-text occurrences. **Not yet done.**

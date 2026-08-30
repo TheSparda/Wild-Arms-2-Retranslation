@@ -47,6 +47,22 @@ F0 = {
     0x56: "！",   # f056 (99/101 after ッ)
     0x57: "！",   # f057 (198/198 after ッ) — styled exclamation
     0x58: "！",   # f058 (37/37 after ッ)
+    # --- ellipsis run: f040 [f041 ...] f042, one cell each -------------------
+    # The game draws …… as a bracketed multi-cell run (left / repeatable middle / right)
+    # so the dots space evenly. Evidence (all 120 blocks, data/script/boxes.json):
+    #   f040->f042 763x, f040->f041 159x, f041->f042 178x; 913/925 f040 runs close on
+    #   f042 (98.7%); run lengths 2 cells (763), 3 cells (147), 4-6 cells (3).
+    #   f040 is preceded by 「 452x and by clause-final は/て/が; after f042 normal
+    #   kana resumes (で/そ/あ) or the box ends.
+    # Substituting one … per cell yields grammatical Japanese in every sampled box, e.g.
+    #   「……でも、今回の体験版では / 「………ほうほう、空を元に戻す為に
+    # One cell = one … keeps the rendered WIDTH right, which the insertion budget depends on.
+    0x40: "…",   # f040 (925) ellipsis run, left cell
+    0x41: "…",   # f041 (223) ellipsis run, middle cell (repeatable)
+    0x42: "…",   # f042 (946) ellipsis run, right cell
+    # long-vowel dash in hiragana context (katakana ー is the single byte 0xb0).
+    # Evidence: う<f045>ん, うぇ<f045>x5ん, ふぎゃ<f045>x15ッ！, ぐが<f045>x4んッ！
+    0x45: "ー",   # f045 (216)
 }
 
 def decode(b):
@@ -61,9 +77,20 @@ def decode(b):
             code = b[i:i+2]
             if code in KANJI:
                 out.append(KANJI[code]); i += 2; continue
-            # 0x88-0x8a lead = game's custom kanji block; show as placeholder unless solved
-            if code[0] in (0x88, 0x89, 0x8a) and code != b"\x81\x40":
+            # 0x88-0x8b lead = game's custom kanji block; show as placeholder unless solved.
+            # This block is NOT Shift-JIS and legitimately uses trail bytes below 0x40
+            # (the global tier starts at 0x8801; the block-local tier at 0x8a38), so it must
+            # be matched BEFORE the trail-byte gate below.
+            if code[0] in (0x88, 0x89, 0x8a, 0x8b):
                 out.append("<%s>" % code.hex()); i += 2; continue
+            # Every other lead in 0x81-0x9f/0xe0-0xef is real Shift-JIS, so the trail byte
+            # must be legal (0x40-0x7e or 0x80-0xfc). Without this gate the decoder swallowed
+            # 2,541 illegal pairs -- 91 06, 98 10, e1 3c, 96 10 ... -- which are a single-byte
+            # code followed by an event opcode (0x06 = inline-box frame, 0x10 = control lead),
+            # not text. Consuming them emitted plausible-looking <xxxx>/kanji noise that let
+            # binary runs pass the extractor's cjk>=2 gate and inflated the unsolved count.
+            if not (0x40 <= b[i+1] <= 0x7e or 0x80 <= b[i+1] <= 0xfc):
+                out.append("[%02x]" % c); i += 1; continue
             try:
                 out.append(code.decode("shift_jis"))
             except Exception:
