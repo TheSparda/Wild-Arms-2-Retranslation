@@ -345,3 +345,89 @@ td button.revert, .row button.revert { margin:0 0 0 6px; vertical-align:middle; 
   border-radius:4px; padding:1px 5px; margin-left:4px; }
 .drop.filled { border-style:solid; }
 .warnline { color:#e5a13e; font-size:12px; margin-top:6px; }
+
+/* ===== side-by-side script editor (modeled on the wiki's 4-column view) ===== */
+@font-face { font-family:'WA2Font'; font-style:normal; font-weight:400; font-display:swap;
+  src:url('fonts/medievalsharp_latin.woff2') format('woff2'); }
+
+:root { --c-jp:#f0c674; --c-en:#c9a0ff; --c-es:#a7d29a; --c-re:#8fd0e8; }
+
+.chunk { border:1px solid var(--line,#453227); border-radius:8px; margin:14px 0; overflow:hidden; }
+.chunk-h { display:flex; gap:10px; align-items:center; flex-wrap:wrap; padding:6px 10px;
+  background:var(--panel2); font-size:12px; }
+.chunk-h .bar { flex:0 0 130px; height:8px; }
+.chunk-h .cap { font-variant-numeric:tabular-nums; opacity:.85; }
+
+.bx { border-top:1px dashed var(--line,#453227); padding:10px 12px; }
+.bx-h { display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin-bottom:8px; font-size:11px; }
+.bx-body { display:grid; grid-template-columns: minmax(0,1fr) auto; gap:16px; align-items:start; }
+
+/* reference columns */
+.cols { display:grid; gap:8px; min-width:0; }
+.cols.side { grid-template-columns: repeat(var(--ncol,3), minmax(0,1fr)); }
+.col { min-width:0; }
+.col .lab { display:block; font-size:10px; font-weight:700; letter-spacing:.07em; opacity:.55;
+  text-transform:uppercase; margin-bottom:2px; }
+.col .txt { font-size:13px; line-height:1.5; white-space:pre-wrap; word-break:break-word; }
+.col-jp .txt { color:var(--c-jp); }
+.col-en .txt { color:var(--c-en); }
+.col-es .txt { color:var(--c-es); }
+.col .txt.none { opacity:.35; font-style:italic; }
+
+/* retranslation editor */
+.re-wrap { grid-column:1 / -1; margin-top:8px; }
+.re-wrap textarea { width:100%; min-height:60px; resize:vertical; background:var(--panel);
+  color:var(--c-re); border:1px solid var(--line,#453227); border-radius:6px; padding:6px 8px;
+  font:13px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace; }
+.re-wrap textarea:focus { outline:1px solid var(--c-re); }
+.re-wrap textarea.over { border-color:#c0392b; }
+.re-wrap textarea:disabled { opacity:.4; }
+.fitline { display:flex; gap:12px; font-size:11px; margin-top:4px; opacity:.8; flex-wrap:wrap; }
+.fitline .bad { color:#e57373; font-weight:600; opacity:1; }
+.fitline .good { color:#81c784; }
+
+/* WA2 in-game dialogue window mockup (ported from the wiki) */
+.game { flex:0 0 auto; }
+.gname { display:inline-block; margin:0 0 -3px 6px; padding:2px 11px;
+  background:linear-gradient(180deg,#525c68,#3d454f); border:3px solid #8a6a3a; border-bottom:none;
+  border-radius:8px 8px 0 0; box-shadow:inset 0 0 0 2px #d8bd82; color:#ffe9b0;
+  font-family:'WA2Font',Georgia,serif; font-size:13px; text-shadow:1px 1px 1px rgba(0,0,0,.7);
+  position:relative; z-index:1; }
+.gwin { position:relative; background-color:#464f5a;
+  background-image:
+    repeating-linear-gradient(0deg, rgba(255,255,255,.035) 0 1px, transparent 1px 3px),
+    repeating-linear-gradient(90deg, rgba(0,0,0,.06) 0 1px, transparent 1px 3px),
+    linear-gradient(180deg,#525c68 0%,#3d454f 100%);
+  border:3px solid #8a6a3a; border-radius:12px; padding:12px 16px 18px;
+  box-shadow:0 3px 12px rgba(0,0,0,.55), inset 0 0 0 3px #d8bd82, inset 0 0 0 4px #b8955a;
+  width:max-content; }
+.gwin.over { box-shadow:0 3px 12px rgba(0,0,0,.55), inset 0 0 0 3px #ff6b6b, inset 0 0 0 4px #b8955a; }
+.gtext { --gfs:16px; color:#f2ead6; font-size:var(--gfs); line-height:1.5;
+  font-family:'WA2Font',Georgia,serif; text-shadow:1px 1px 1px rgba(0,0,0,.75);
+  white-space:pre; width:calc(35 * 0.52 * var(--gfs));
+  min-height:calc(3 * 1.5 * var(--gfs)); box-sizing:content-box; }
+.gtext .ph { opacity:.4; font-style:italic; }
+.gtext .spill { background:rgba(255,107,107,.3); border-bottom:2px solid #ff6b6b; }
+.gcursor { position:absolute; right:12px; bottom:7px; width:3px; height:14px;
+  background:#8fe07a; box-shadow:0 0 3px #8fe07a; animation:blink 1.1s steps(1) infinite; }
+.overtag { position:absolute; top:-9px; right:8px; background:#ff6b6b; color:#111; font-size:10px;
+  font-weight:700; padding:0 6px; border-radius:5px; }
+@keyframes blink { 50% { opacity:0; } }
+
+/* view modes */
+body.view-cols .game { display:none; }
+body.view-game .cols { display:none; }
+body.view-game .bx-body { grid-template-columns:1fr; }
+.viewbar { display:flex; gap:6px; align-items:center; flex-wrap:wrap; }
+.viewbar .pill.on { border-color:var(--c-re); color:var(--c-re); }
+.pager { display:flex; gap:8px; align-items:center; font-size:12px; margin:10px 0; }
+
+.badge { border-radius:4px; padding:0 5px; font-size:10px; font-weight:600; }
+.badge-ro { background:#555; color:#ddd; }
+.badge-panel { background:#37474f; color:#dfe7ea; }
+.badge-edit { background:#1d6b3f; color:#dff5e6; }
+.conf-anchor { background:#2e7d32; color:#fff; border-radius:4px; padding:0 5px; font-size:10px; }
+.conf-approx { background:#8d6e2f; color:#fff; border-radius:4px; padding:0 5px; font-size:10px; }
+.bid { font-family:ui-monospace,monospace; opacity:.55; }
+
+@media (max-width:1100px) { .bx-body { grid-template-columns:1fr; } .cols.side { grid-template-columns:1fr; } }

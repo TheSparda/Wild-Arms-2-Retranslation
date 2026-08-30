@@ -74,12 +74,24 @@
         <button class="pill" id="prevBlk">◀</button>
         <select id="blkSel"></select>
         <button class="pill" id="nextBlk">▶</button>
-        <input class="search" id="findBox" placeholder="find text in this block…">
-        <label class="muted" style="margin-left:auto">
-          <input type="checkbox" id="charmap"> allow gadesx accent glyphs (needs patched font)</label>
+        <input class="search" id="findBox" placeholder="find in EN / JP / ES / your text…">
+        <label class="muted"><input type="checkbox" id="onlyEdited"> only edited</label>
+        <label class="muted"><input type="checkbox" id="charmap"> gadesx accents</label>
+      </div>
+      <div class="toolbar viewbar">
+        <span class="muted">view</span>
+        <button class="pill on" data-view="both">Columns + preview</button>
+        <button class="pill" data-view="cols">Columns only</button>
+        <button class="pill" data-view="game">Game preview only</button>
+        <span class="muted" style="margin-left:12px">show</span>
+        <label class="muted"><input type="checkbox" class="coltog" data-col="jp" checked> JP</label>
+        <label class="muted"><input type="checkbox" class="coltog" data-col="en" checked> EN</label>
+        <label class="muted"><input type="checkbox" class="coltog" data-col="es" checked> ES</label>
       </div>
       <div class="muted" id="blkStats"></div>
+      <div class="pager" id="pagerTop"></div>
       <div id="chunkList"></div>
+      <div class="pager" id="pagerBot"></div>
     </div>
 
     <div class="card hidden" id="exportCard">

@@ -38,11 +38,30 @@ cd web && python3 -m http.server 8478   # then open http://localhost:8478/
    re-opens every disc (or none, if the origin still holds permission). Other browsers can't
    reopen files programmatically, so the bar lists the remembered names and the button re-opens
    the picker. *Forget* clears it. Translations autosave separately in localStorage.
-2. **Edit** — boxes are grouped into chunks with a live **byte budget**. The budget is exact:
-   chunk length is fixed on disc; shorter text is space-padded before the NUL (the shipped
-   gadesx model). Boxes with control codes the encoder doesn't handle yet are read-only.
-   `{0}`-style name codes and newlines are supported. The *gadesx accent glyphs* toggle allows
-   áéíóúñ¡¿ using his proven font slots (only readable in-game on a font-patched disc).
+2. **Edit** — a side-by-side view modeled on the project wiki: **JP · EN · ES** reference
+   columns beside a live **in-game window preview** of your translation, rendered in the game's
+   own textbox styling. Columns can be toggled individually, and the view switches between
+   *Columns + preview*, *Columns only*, and *Game preview only* (remembered across sessions).
+
+   Two **independent** budgets are shown live, because passing one does not mean passing the other:
+
+   | budget | limit | why |
+   |---|---|---|
+   | **bytes** | the chunk's capacity on disc | chunk length is fixed; shorter text is space-padded before the NUL (the shipped gadesx model). Over-budget chunks are refused. |
+   | **lines × columns** | 3 × 35 | the script carries **explicit** `\x0d` line breaks and the game does **not** auto-wrap, so text can fit the chunk and still run outside the visible window. 96.9% of shipped EN boxes sit inside 3×35 (asserted in `tests/core.test.mjs`). |
+
+   Overflow is shown where it happens: the exact columns past 35 and any 4th line are highlighted
+   inside the preview, and the window frame turns red.
+
+   Speaker nameplates come from the `\x05 N` selector — the only reliable speaker signal in the
+   disc bytes. Name codes (`{0}`) render with sample names in the preview *and* count at their
+   expanded width, so `{0}, wait!` is measured as the 13 columns "Ashley, wait!" really occupies.
+   Boxes with control codes the encoder can't rebuild are read-only. The *gadesx accents* toggle
+   allows áéíóúñ¡¿ via his proven font slots (only readable on a font-patched disc).
+
+   Blocks paginate at 60 boxes; search covers EN/JP/ES and your own text, and *only edited*
+   filters to your work.
+
 3. **Export** — translations autosave to localStorage; export/import the project as JSON.
    One patch file per loaded US disc (`…_EN1.ppf`, `…_EN2.ppf`).
    Patches: **PPF3** (with undo data), **xdelta** (VCDIFF; `xdelta3 -d -s original.bin patch out.bin`),

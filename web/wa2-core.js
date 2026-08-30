@@ -225,6 +225,32 @@
     return { bytes: out, total };
   }
 
+  // On-screen fit. Distinct from the BYTE budget: the script carries explicit \x0d line
+  // breaks (the game does not auto-wrap), so a box can sit inside its chunk capacity and still
+  // overflow the visible window. Measured over all 21,644 EN boxes: 99.5% are <=3 lines and
+  // the longest-line mass sits at <=39 chars, matching the 3 x ~35 standard box.
+  const FIT = { lines: 3, cols: 35 };
+  function fitReport(text) {
+    const lines = String(text == null ? "" : text).split("\n");
+    const longest = lines.reduce((m, l) => Math.max(m, l.length), 0);
+    return {
+      lines, nLines: lines.length, longest,
+      overLines: lines.length > FIT.lines,
+      overCols: longest > FIT.cols,
+      over: lines.length > FIT.lines || longest > FIT.cols,
+      maxLines: FIT.lines, maxCols: FIT.cols,
+    };
+  }
+
+  // Nameplate: a sub beginning \x05 N selects the speaker (N is an ASCII digit indexing the
+  // same runtime name table as the inline {n} codes). This is the only reliable speaker signal
+  // in the disc bytes -- a "short first \x0d segment" heuristic was tried and rejected, it
+  // mis-flagged examine panels like "*Handle with Care!" as speakers.
+  function speakerCode(raw) {
+    return (raw && raw.length > 1 && raw[0] === 0x05 && raw[1] >= 0x30 && raw[1] <= 0x39)
+      ? String.fromCharCode(raw[1]) : null;
+  }
+
   // Walk one block of user data into the chunk model the editor operates on.
   // chunk = frame byte(s) .. NUL; subs = \x10\x0c-splits of the content. Structure only —
   // display/gating live in decodeEnLossy/goodEn, editing in parseSub/rebuildChunk.
@@ -259,7 +285,7 @@
 
   const api = { RAW, USER, HDR, DISCS, nsec, rawSpan, rawToUser, userToRawOff,
                 edcCompute, sectorFix, ppfParse, ppfApplyWindow, ppfBuild,
-                ES_MAP, ES_REV, parseSub, encodeText, rebuildChunk, decodeEnLossy, goodEn, walkChunks };
+                ES_MAP, ES_REV, parseSub, encodeText, rebuildChunk, decodeEnLossy, goodEn, walkChunks, fitReport, speakerCode, FIT };
   if (typeof module !== "undefined" && module.exports) module.exports = api;
   else root.WA2Core = api;
 })(typeof globalThis !== "undefined" ? globalThis : this);

@@ -318,74 +318,168 @@ function blockModel(blk) {
 // ---------- rendering ----------
 function keyOf(blk, ch, row) { return `${blk}:${ch.off}:${row.si}`; }
 
+// Preview-only stand-ins for the runtime name codes. The real values are player-set at runtime
+// (Brad's given name literally is), so these exist to make the box preview readable and to make
+// length checks honest -- a {0} that renders as "Ashley" costs 6 columns, not 3.
+const NAME_SAMPLES = { "0": "Ashley", "1": "Brad", "2": "Lilka", "3": "Marina", "5": "Liz", "6": "Ard" };
+const subNames = (t) => String(t).replace(/\{([0-9])\}/g, (m, d) => NAME_SAMPLES[d] || m);
+
 function chunkBudget(blk, ch) {
   const useMap = $("#charmap").checked;
   const subs = ch.rows.map((row) => {
     const k = keyOf(blk, ch, row);
-    if (row.editable && S.tr[k] !== undefined)
-      return { prefix: row.parsed.prefix, text: S.tr[k] };
+    if (row.editable && S.tr[k] !== undefined) return { prefix: row.parsed.prefix, text: S.tr[k] };
     return { raw: row.sub };
   });
   return C.rebuildChunk(subs, ch.cap, useMap);
 }
 
+// live text for a row: the edit if present, else the box's own current text
+const rowText = (blk, ch, row) => {
+  const k = keyOf(blk, ch, row);
+  return S.tr[k] !== undefined ? S.tr[k] : (row.parsed && !row.parsed.raw ? row.parsed.text : row.disp);
+};
+
+function gameWindowHtml(text, speaker) {
+  const shown = subNames(text || "");
+  const fit = C.fitReport(shown);
+  const body = fit.lines.map((ln) => {
+    if (ln.length <= fit.maxCols) return esc(ln) || "&nbsp;";
+    // mark exactly the columns that fall outside the window
+    return esc(ln.slice(0, fit.maxCols)) + `<span class="spill">${esc(ln.slice(fit.maxCols))}</span>`;
+  }).map((h, i) => (i >= fit.maxLines ? `<span class="spill">${h}</span>` : h)).join("\n");
+  const name = speaker !== null && speaker !== undefined
+    ? `<div class="gname">${esc(NAME_SAMPLES[speaker] || "{" + speaker + "}")}</div>` : "";
+  return `<div class="game">${name}<div class="gwin${fit.over ? " over" : ""}">` +
+    (fit.over ? `<span class="overtag">over ${fit.maxLines}×${fit.maxCols}</span>` : "") +
+    `<div class="gtext">${body || '<span class="ph">(empty)</span>'}</div><span class="gcursor"></span></div></div>`;
+}
+
+function fitLineHtml(blk, ch, row) {
+  const fit = C.fitReport(subNames(rowText(blk, ch, row)));
+  const rb = chunkBudget(blk, ch);
+  const used = rb.err ? (rb.total || ch.cap) : (rb.total ?? ch.cap);
+  const cls = (bad) => (bad ? "bad" : "good");
+  return `<span class="${cls(!!rb.err)}">bytes ${used}/${ch.cap}</span>` +
+         `<span class="${cls(fit.overLines)}">lines ${fit.nLines}/${fit.maxLines}</span>` +
+         `<span class="${cls(fit.overCols)}">longest ${fit.longest}/${fit.maxCols}</span>` +
+         (rb.err ? `<span class="bad">${esc(rb.err)}</span>` : "");
+}
+
+const PAGE = 60;   // boxes per page — a block can hold 600+, and 600 live previews is not usable
+let page = 0;
+
+function visibleRows(model) {
+  const q = ($("#findBox").value || "").toLowerCase();
+  const onlyEd = $("#onlyEdited").checked;
+  const out = [];
+  for (const ch of model.chunks) for (const row of ch.rows) {
+    if (!row.good) continue;
+    const k = keyOf(S.blk, ch, row);
+    if (onlyEd && S.tr[k] === undefined) continue;
+    if (q && ![row.disp, row.es, row.jp, S.tr[k]].some((t) => t && t.toLowerCase().includes(q))) continue;
+    out.push({ ch, row });
+  }
+  return out;
+}
+
 function renderBlock() {
   if (!enPrimary()) return;
   const blk = S.blk, model = blockModel(blk);
-  const q = ($("#findBox").value || "").toLowerCase();
-  const list = $("#chunkList");
-  let nEd = 0, nBox = 0, html = [];
-  for (const ch of model.chunks) {
-    const rows = ch.rows.filter((r) => r.good);
-    if (!rows.length) continue;
-    if (q && !rows.some((r) => (r.disp + " " + (r.es || "") + " " + (r.jp || "")).toLowerCase().includes(q))) continue;
-    nBox += rows.length;
-    const rb = chunkBudget(blk, ch);
-    const used = rb.err ? (rb.total || ch.cap) : rb.total ?? ch.cap;
-    const pct = Math.min(100, Math.round(used / ch.cap * 100));
-    html.push(`<div class="chunk" data-off="${ch.off}">
-      <div class="chunk-h"><span class="tag">0x${ch.off.toString(16)}</span><span>${ch.frame}</span>
-        <div class="bar"><div class="bar-fill" style="width:${pct}%${rb.err ? ";background:#c0392b" : ""}"></div></div>
-        <span class="cap">${used}/${ch.cap} B</span>
-        ${rb.err ? `<span class="over-note">${esc(rb.err)}</span>` : ""}</div>`);
-    for (const row of ch.rows) {
-      if (!row.good) continue;
-      const k = keyOf(blk, ch, row);
-      const val = S.tr[k] !== undefined ? S.tr[k] : "";
-      if (S.tr[k] !== undefined) nEd++;
-      html.push(`<div class="boxrow">
-        <div class="refs">
-          <div class="ref-en">${row.panel ? '<span class="badge-panel">panel</span> ' : ""}${esc(row.disp)}</div>
-          ${row.es !== undefined ? `<div class="ref-es">ES ${esc(row.es || "—")}</div>` : ""}
-          ${row.jp !== undefined ? `<div class="ref-jp">${row.conf ? `<span class="conf-${row.conf}">${row.conf}</span> ` : ""}${esc(row.jp || "—")}</div>` : ""}
-        </div>
-        <div>
-          ${row.editable
-            ? `<textarea data-k="${k}" placeholder="${esc(row.parsed.text)}">${esc(val)}</textarea>`
-            : `<span class="badge-ro">read-only</span> <span class="muted">box contains control codes the editor can't re-encode yet</span>`}
-        </div></div>`);
-    }
-    html.push("</div>");
-  }
-  list.innerHTML = html.join("");
-  $("#blkStats").textContent = `block ${blk}: ${nBox} boxes shown · ${nEd} edited in this block`;
-  saveTr();
-  $$("#chunkList textarea").forEach((ta) => {
-    ta.addEventListener("input", () => {
-      const k = ta.dataset.k;
-      if (ta.value === "") delete S.tr[k]; else S.tr[k] = ta.value;
-      const ch = model.chunks.find((c2) => c2.off === +ta.closest(".chunk").dataset.off);
+  const rows = visibleRows(model);
+  const pages = Math.max(1, Math.ceil(rows.length / PAGE));
+  if (page >= pages) page = 0;
+  const slice = rows.slice(page * PAGE, page * PAGE + PAGE);
+
+  const cols = ["jp", "en", "es"].filter((c) => $(`.coltog[data-col="${c}"]`).checked);
+  const html = [];
+  let curChunk = null;
+  for (const { ch, row } of slice) {
+    if (ch !== curChunk) {
+      if (curChunk) html.push("</div>");
       const rb = chunkBudget(blk, ch);
-      const h = ta.closest(".chunk").querySelector(".chunk-h");
-      const used = rb.err ? (rb.total || ch.cap) : rb.total ?? ch.cap;
-      h.querySelector(".bar-fill").style.width = Math.min(100, Math.round(used / ch.cap * 100)) + "%";
-      h.querySelector(".bar-fill").style.background = rb.err ? "#c0392b" : "";
+      const used = rb.err ? (rb.total || ch.cap) : (rb.total ?? ch.cap);
+      html.push(`<div class="chunk" data-off="${ch.off}"><div class="chunk-h">
+        <span class="bid">0x${ch.off.toString(16)}</span><span class="muted">${ch.frame}</span>
+        <div class="bar"><div class="bar-fill" style="width:${Math.min(100, Math.round(used / ch.cap * 100))}%${rb.err ? ";background:#c0392b" : ""}"></div></div>
+        <span class="cap">${used}/${ch.cap} B</span></div>`);
+      curChunk = ch;
+    }
+    const k = keyOf(blk, ch, row);
+    const edited = S.tr[k] !== undefined;
+    const spk = row.parsed && !row.parsed.raw ? C.speakerCode(row.sub) : null;
+    const colHtml = cols.map((c) => {
+      const val = c === "en" ? row.disp : c === "es" ? row.es : row.jp;
+      const has = val !== undefined && val !== null && val !== "";
+      return `<div class="col col-${c}"><span class="lab">${c.toUpperCase()}${
+        c === "jp" && row.conf ? ` <span class="conf-${row.conf}">${row.conf}</span>` : ""}</span>` +
+        `<span class="txt${has ? "" : " none"}">${has ? esc(val) : (val === undefined ? "not loaded" : "—")}</span></div>`;
+    }).join("");
+    html.push(`<div class="bx" data-k="${k}">
+      <div class="bx-h"><span class="bid">#${row.si}</span>
+        ${row.panel ? '<span class="badge badge-panel">panel</span>' : ""}
+        ${edited ? '<span class="badge badge-edit">edited</span>' : ""}
+        ${row.editable ? "" : '<span class="badge badge-ro">read-only</span>'}</div>
+      <div class="bx-body">
+        <div class="cols side" style="--ncol:${cols.length || 1}">${colHtml}</div>
+        ${gameWindowHtml(rowText(blk, ch, row), spk)}
+        <div class="re-wrap">
+          ${row.editable
+            ? `<textarea data-k="${k}" rows="2" placeholder="${esc(row.parsed.text)}">${esc(S.tr[k] ?? "")}</textarea>
+               <div class="fitline">${fitLineHtml(blk, ch, row)}</div>`
+            : `<div class="muted" style="font-size:12px">read-only — this box carries control codes the encoder can't rebuild yet</div>`}
+        </div>
+      </div></div>`);
+  }
+  if (curChunk) html.push("</div>");
+  $("#chunkList").innerHTML = html.join("");
+
+  const nEd = rows.filter(({ ch, row }) => S.tr[keyOf(blk, ch, row)] !== undefined).length;
+  $("#blkStats").textContent =
+    `block ${blk}: ${rows.length} box${rows.length === 1 ? "" : "es"} match · ${nEd} edited` +
+    (pages > 1 ? ` · page ${page + 1}/${pages}` : "");
+  const pager = pages > 1
+    ? `<button class="pill" data-pg="-1" ${page === 0 ? "disabled" : ""}>◀ prev</button>
+       <span class="muted">page ${page + 1} of ${pages}</span>
+       <button class="pill" data-pg="1" ${page >= pages - 1 ? "disabled" : ""}>next ▶</button>` : "";
+  $("#pagerTop").innerHTML = pager; $("#pagerBot").innerHTML = pager;
+  $$("[data-pg]").forEach((b) => b.onclick = () => { page += +b.dataset.pg; renderBlock(); });
+  saveTr();
+  wireEditors(blk, model);
+}
+
+function wireEditors(blk, model) {
+  $$("#chunkList textarea").forEach((ta) => {
+    const bx = ta.closest(".bx");
+    const chOff = +ta.closest(".chunk").dataset.off;
+    const ch = model.chunks.find((c) => c.off === chOff);
+    const row = ch.rows.find((r) => keyOf(blk, ch, r) === ta.dataset.k);
+    const repaint = () => {
+      // live: game preview, fit line, chunk bar
+      const spk = row.parsed && !row.parsed.raw ? C.speakerCode(row.sub) : null;
+      const g = bx.querySelector(".game");
+      g.outerHTML = gameWindowHtml(rowText(blk, ch, row), spk);
+      bx.querySelector(".fitline").innerHTML = fitLineHtml(blk, ch, row);
+      const rb = chunkBudget(blk, ch);
+      const used = rb.err ? (rb.total || ch.cap) : (rb.total ?? ch.cap);
+      const h = bx.closest(".chunk").querySelector(".chunk-h");
+      const bar = h.querySelector(".bar-fill");
+      bar.style.width = Math.min(100, Math.round(used / ch.cap * 100)) + "%";
+      bar.style.background = rb.err ? "#c0392b" : "";
       h.querySelector(".cap").textContent = `${used}/${ch.cap} B`;
-      let note = h.querySelector(".over-note");
-      if (rb.err) { if (!note) { note = document.createElement("span"); note.className = "over-note"; h.appendChild(note); } note.textContent = rb.err; }
-      else if (note) note.remove();
-      ta.classList.toggle("over", !!rb.err);
-      saveTr();
+      ta.classList.toggle("over", !!rb.err || C.fitReport(subNames(rowText(blk, ch, row))).over);
+      const badge = bx.querySelector(".badge-edit");
+      const isEd = S.tr[ta.dataset.k] !== undefined;
+      if (isEd && !badge) bx.querySelector(".bx-h").insertAdjacentHTML("beforeend", '<span class="badge badge-edit">edited</span>');
+      if (!isEd && badge) badge.remove();
+    };
+    ta.addEventListener("input", () => {
+      if (ta.value === "") delete S.tr[ta.dataset.k]; else S.tr[ta.dataset.k] = ta.value;
+      repaint(); saveTr();
+    });
+    // Enter inserts the real line break the game uses (\x0d); the 3-line ceiling is shown live.
+    ta.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" && (e.metaKey || e.ctrlKey)) { e.preventDefault(); ta.blur(); }
     });
   });
 }
@@ -527,10 +621,23 @@ $("#importFile").onchange = async (ev) => {
 // ---------- nav ----------
 const blkSel = $("#blkSel");
 for (let b = 0; b < NBLK; b++) { const o = document.createElement("option"); o.value = b; o.textContent = "block " + b; blkSel.append(o); }
-blkSel.onchange = () => { S.blk = +blkSel.value; renderBlock(); };
-$("#prevBlk").onclick = () => { S.blk = (S.blk + NBLK - 1) % NBLK; blkSel.value = S.blk; renderBlock(); };
-$("#nextBlk").onclick = () => { S.blk = (S.blk + 1) % NBLK; blkSel.value = S.blk; renderBlock(); };
-$("#findBox").oninput = () => renderBlock();
+blkSel.onchange = () => { S.blk = +blkSel.value; page = 0; renderBlock(); };
+$("#prevBlk").onclick = () => { S.blk = (S.blk + NBLK - 1) % NBLK; blkSel.value = S.blk; page = 0; renderBlock(); };
+$("#nextBlk").onclick = () => { S.blk = (S.blk + 1) % NBLK; blkSel.value = S.blk; page = 0; renderBlock(); };
+$("#findBox").oninput = () => { page = 0; renderBlock(); };
+$("#onlyEdited").onchange = () => { page = 0; renderBlock(); };
+$$("[data-view]").forEach((b) => b.onclick = () => {
+  $$("[data-view]").forEach((x) => x.classList.toggle("on", x === b));
+  document.body.classList.remove("view-cols", "view-game", "view-both");
+  document.body.classList.add("view-" + b.dataset.view);
+  try { localStorage.setItem("wa2view", b.dataset.view); } catch (e) {}
+});
+$$(".coltog").forEach((c) => c.onchange = () => renderBlock());
+(() => {                                   // restore the saved view mode
+  let v = "both"; try { v = localStorage.getItem("wa2view") || "both"; } catch (e) {}
+  const btn = document.querySelector(`[data-view="${v}"]`);
+  if (btn) btn.click();
+})();
 $("#charmap").onchange = () => renderBlock();
 
 $$("[data-pick]").forEach((b) => b.onclick = () => pickFile(b.dataset.pick));

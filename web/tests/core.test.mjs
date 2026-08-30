@@ -111,5 +111,31 @@ if (fs.existsSync(PPF) && fs.existsSync(ES_BIN)) {
   }
 }
 
+// 6 ---- on-screen fit checker -----------------------------------------------
+// The BYTE budget and the VISUAL 3x35 ceiling are independent: the script carries explicit
+// \x0d breaks and the game does not auto-wrap, so a box can fit its chunk and still overflow.
+{
+  const f = (t) => C.fitReport(t);
+  ok(f("hi").nLines === 1 && !f("hi").over, "short line fits");
+  ok(!f(["x".repeat(35), "y".repeat(35), "z".repeat(35)].join("\n")).over, "exactly 3x35 fits");
+  ok(f("x".repeat(36)).overCols && !f("x".repeat(36)).overLines, "36 cols flags columns only");
+  ok(f("a\nb\nc\nd").overLines && !f("a\nb\nc\nd").overCols, "4 lines flags lines only");
+  ok(C.speakerCode(new Uint8Array([0x05, 0x31, 0x0d])) === "1", "\\x05 N yields the speaker code");
+  ok(C.speakerCode(new Uint8Array([0x40, 0x41])) === null, "'@'-led box has no speaker code");
+  // the 3x35 ceiling should describe the shipped script, not just our hopes
+  const ud = C.rawToUser(enRaw, C.DISCS.en.size);
+  let tot = 0, within = 0;
+  for (let blk = 0; blk < 120; blk++)
+    for (const ch of C.walkChunks(ud, blk * C.DISCS.en.blk, (blk + 1) * C.DISCS.en.blk))
+      for (const sub of ch.subs) {
+        const p = C.parseSub(sub, false);
+        if (p.raw || !p.text.trim()) continue;
+        tot++; if (!C.fitReport(p.text).over) within++;
+      }
+  const pct = within / tot * 100;
+  console.log(`fit: ${within}/${tot} shipped EN boxes (${pct.toFixed(1)}%) sit inside 3x35`);
+  ok(pct > 95, "the 3x35 ceiling matches the shipped script (>95% of boxes)");
+}
+
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);
