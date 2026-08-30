@@ -242,6 +242,66 @@
     };
   }
 
+  // House-style lint. These are not my opinions -- they are the hard rules in
+  // docs/WA2_RE_STYLE_GUIDE.md (§1-§3), which is the project's declared source of truth for how
+  // a retranslated line is written. Encoding them here means the editor enforces the same
+  // standard the offline FINAL-file workflow does, at the moment of typing.
+  const GLOSSARY_FIXES = [                       // official EN -> the project's decided RE term
+    [/\bmercs?\b/i, "|Wandering Crows| (the project's decided term for 渡り烏, not \"Mercs\")"],
+    [/\bsebok\b/i, "T'Bok (canonical spelling)"],
+    [/\bthe ruins\b/i, "\"ruins district\" where 遺跡街 is meant (JP 街 = district)"],
+  ];
+  const NAME_WORDS = [["ashley", "0"], ["brad", "1"], ["lilka", "2"], ["marina", "3"],
+                      ["kanon", "4"], ["liz", "5"], ["ard", "6"]];
+
+  function lintText(text, opts) {
+    const t = String(text == null ? "" : text);
+    const out = [];
+    if (!t.trim()) return out;
+    const add = (sev, rule, msg) => out.push({ sev, rule, msg });
+
+    // §2 punctuation
+    if (/—|(?:^|[^-])--(?:[^-]|$)/.test(t))
+      add("error", "em-dash", "no em dashes or `--` — they read as machine output; use a comma, a period, or two sentences");
+    for (const ln of t.split("\n")) {
+      const trimmed = ln.trim();
+      if (/,$/.test(trimmed))
+        add("error", "trailing-comma", "a box must not end a line on a comma — use `...` for a lead-in, or make it a complete sentence");
+      if (/\b(and|but|so|then)$/i.test(trimmed))
+        add("warn", "dangling-conj", `line ends on "${trimmed.split(/\s+/).pop()}" — finish the thought or end with \`...\``);
+    }
+    const commas = (t.match(/,/g) || []).length;
+    if (commas >= 3 && !/[.!?]/.test(t.replace(/\.\.\./g, "")))
+      add("warn", "run-on", `${commas} commas and no sentence end — break the clause chain into sentences`);
+
+    // §3 name codes: a renameable character spelled out where a {n} belongs
+    for (const [word, code] of NAME_WORDS) {
+      const re = new RegExp("\\b" + word + "\\b", "i");
+      if (re.test(t) && !t.includes("{" + code + "}"))
+        add("warn", "name-code", `"${word}" is player-renameable — use {${code}} instead of spelling it out`);
+    }
+    // emphasis markers must be balanced
+    const bars = (t.match(/\|/g) || []).length;
+    if (bars % 2) add("error", "emphasis", "unbalanced |emphasis| marker — the game's bars must come in pairs");
+
+    // glossary decisions
+    for (const [re, msg] of GLOSSARY_FIXES) if (re.test(t)) add("warn", "glossary", "prefer " + msg);
+
+    // §5 / insert README: an annotation inside the body gets reflowed into the box
+    if (/(^|\s)#\s/.test(t)) add("warn", "inline-note", "a `#` note belongs on its own line, never inside the box text");
+
+    // sanity against the source
+    if (opts && opts.en) {
+      const codes = (x) => (x.match(/\{[0-9]\}/g) || []).sort().join("");
+      if (codes(opts.en) !== codes(t))
+        add("warn", "codes-changed", `name codes differ from the original box (${codes(opts.en) || "none"} → ${codes(t) || "none"})`);
+      const star = (x) => x.trimStart().startsWith("*");
+      if (star(opts.en) !== star(t))
+        add("warn", "panel-marker", star(opts.en) ? "the original is an examine panel — keep the leading `*`" : "leading `*` marks an examine panel; the original isn't one");
+    }
+    return out;
+  }
+
   // Nameplate: a sub beginning \x05 N selects the speaker (N is an ASCII digit indexing the
   // same runtime name table as the inline {n} codes). This is the only reliable speaker signal
   // in the disc bytes -- a "short first \x0d segment" heuristic was tried and rejected, it
@@ -285,7 +345,7 @@
 
   const api = { RAW, USER, HDR, DISCS, nsec, rawSpan, rawToUser, userToRawOff,
                 edcCompute, sectorFix, ppfParse, ppfApplyWindow, ppfBuild,
-                ES_MAP, ES_REV, parseSub, encodeText, rebuildChunk, decodeEnLossy, goodEn, walkChunks, fitReport, speakerCode, FIT };
+                ES_MAP, ES_REV, parseSub, encodeText, rebuildChunk, decodeEnLossy, goodEn, walkChunks, fitReport, speakerCode, FIT, lintText };
   if (typeof module !== "undefined" && module.exports) module.exports = api;
   else root.WA2Core = api;
 })(typeof globalThis !== "undefined" ? globalThis : this);

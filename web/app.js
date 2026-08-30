@@ -299,6 +299,10 @@ function blockModel(blk) {
     const jpb = J.jpBoxes(jps.ud, blk);
     const res = J.align(enBoxes, jpb);
     pairs = res.pairs;
+    // Corroborate the DP against the curated katakana<->EN glossary. Cheap, high precision, and
+    // it both promotes pairs to 'term' and catches real drift ('conflict' + a suggested box).
+    J.verifyPairs(pairs, enBoxes.filter((b) => !b.panel).map((b) => b.text),
+                  jpb.filter((b) => !b.panel).map((b) => b.text));
     jpPanels = jpb.filter((b) => b.panel).map((b) => b.text);
   }
   // attach jp text to rows
@@ -307,7 +311,14 @@ function blockModel(blk) {
     for (const ch of chunks) for (const row of ch.rows) {
       if (!row.good) continue;
       if (row.panel) { row.jp = jpPanels[panel] || ""; row.conf = row.jp ? "approx" : ""; panel++; }
-      else { const p = pairs[story]; row.jp = p ? p.jp : ""; row.conf = p ? p.conf : ""; story++; }
+      else {
+        const p = pairs[story];
+        row.jp = p ? p.jp : ""; row.conf = p ? p.conf : "";
+        if (p && p.suggest !== undefined) row.suggest = p.suggest;
+        if (p && p.terms) row.terms = p.terms;
+        row.storyIdx = story;
+        story++;
+      }
     }
   }
   const model = { chunks };
@@ -321,7 +332,12 @@ function keyOf(blk, ch, row) { return `${blk}:${ch.off}:${row.si}`; }
 // Preview-only stand-ins for the runtime name codes. The real values are player-set at runtime
 // (Brad's given name literally is), so these exist to make the box preview readable and to make
 // length checks honest -- a {0} that renders as "Ashley" costs 6 columns, not 3.
-const NAME_SAMPLES = { "0": "Ashley", "1": "Brad", "2": "Lilka", "3": "Marina", "5": "Liz", "6": "Ard" };
+// docs/WA2_RE_STYLE_GUIDE.md S3 (which declares itself canonical over the other docs) lists
+// {0}Ashley {1}Brad {2}Lilka {3}Marina {4}Kanon {5}Liz {6}Ard. WA2_NAME_DICTIONARY.md disagrees
+// on {2}/{3} and omits {4}; the style guide's own precedence rule settles it. Preview only --
+// the real values are player-set at runtime, and a {n} must never be typed out as a name.
+const NAME_SAMPLES = { "0": "Ashley", "1": "Brad", "2": "Lilka", "3": "Marina",
+                       "4": "Kanon", "5": "Liz", "6": "Ard" };
 const subNames = (t) => String(t).replace(/\{([0-9])\}/g, (m, d) => NAME_SAMPLES[d] || m);
 
 function chunkBudget(blk, ch) {
@@ -356,14 +372,34 @@ function gameWindowHtml(text, speaker) {
 }
 
 function fitLineHtml(blk, ch, row) {
-  const fit = C.fitReport(subNames(rowText(blk, ch, row)));
+  const txt = rowText(blk, ch, row);
+  const fit = C.fitReport(subNames(txt));
   const rb = chunkBudget(blk, ch);
   const used = rb.err ? (rb.total || ch.cap) : (rb.total ?? ch.cap);
   const cls = (bad) => (bad ? "bad" : "good");
-  return `<span class="${cls(!!rb.err)}">bytes ${used}/${ch.cap}</span>` +
-         `<span class="${cls(fit.overLines)}">lines ${fit.nLines}/${fit.maxLines}</span>` +
-         `<span class="${cls(fit.overCols)}">longest ${fit.longest}/${fit.maxCols}</span>` +
-         (rb.err ? `<span class="bad">${esc(rb.err)}</span>` : "");
+  // docs/WA2_INSERTION_MODEL.md ("EARLIER-DOC CORRECTION"): a box has no stored size cap. The
+  // chunk length is the ceiling for a POINTER-SAFE, same-size overwrite only. Longer text is
+  // possible with a pointer-recalculating pass (what gadesx/CUE did) — so an over-budget box is
+  // "needs the repointer", not "impossible". We can't repoint yet, hence the export still
+  // refuses; but the editor should not teach a limit the format doesn't actually have.
+  // rb.err is either an over-budget chunk or an unencodable character — very different problems,
+  // so don't collapse them into one label.
+  const overBytes = rb.err && rb.err.startsWith("over budget");
+  const byteLabel = overBytes
+    ? `<span class="bad" title="No repointer exists yet, so patch export refuses this box. Tighten the English, or flag it for a future repointer pass.">bytes ${used}/${ch.cap} — needs repointer</span>`
+    : rb.err
+      ? `<span class="bad" title="${esc(rb.err)}">${esc(rb.err)}</span>`
+      : `<span class="good" title="Same-size or shorter: overwrites in place with no pointer changes.">bytes ${used}/${ch.cap} pointer-safe</span>`;
+  const lintMsgs = C.lintText(txt, { en: row.parsed && !row.parsed.raw ? row.parsed.text : row.disp });
+  const errs = lintMsgs.filter((m) => m.sev === "error").length;
+  const lintHtml = lintMsgs.length
+    ? `<div class="lint">${lintMsgs.map((m) =>
+        `<span class="lint-${m.sev}" title="${esc(m.msg)}">${esc(m.rule)}</span>`).join("")}</div>` : "";
+  return byteLabel +
+    `<span class="${cls(fit.overLines)}">lines ${fit.nLines}/${fit.maxLines}</span>` +
+    `<span class="${cls(fit.overCols)}">longest ${fit.longest}/${fit.maxCols}</span>` +
+    (errs ? `<span class="bad">${errs} style error${errs === 1 ? "" : "s"}</span>` : "") +
+    lintHtml;
 }
 
 const PAGE = 60;   // boxes per page — a block can hold 600+, and 600 live previews is not usable
@@ -372,12 +408,20 @@ let page = 0;
 function visibleRows(model) {
   const q = ($("#findBox").value || "").toLowerCase();
   const onlyEd = $("#onlyEdited").checked;
+  const onlyProb = $("#onlyProblems").checked;
   const out = [];
   for (const ch of model.chunks) for (const row of ch.rows) {
     if (!row.good) continue;
     const k = keyOf(S.blk, ch, row);
     if (onlyEd && S.tr[k] === undefined) continue;
     if (q && ![row.disp, row.es, row.jp, S.tr[k]].some((t) => t && t.toLowerCase().includes(q))) continue;
+    if (onlyProb) {
+      const txt = S.tr[k] !== undefined ? S.tr[k] : "";
+      const bad = row.conf === "conflict" ||
+        (txt && (C.fitReport(subNames(txt)).over ||
+                 C.lintText(txt, { en: row.disp }).some((m) => m.sev === "error")));
+      if (!bad) continue;
+    }
     out.push({ ch, row });
   }
   return out;
@@ -411,8 +455,16 @@ function renderBlock() {
     const colHtml = cols.map((c) => {
       const val = c === "en" ? row.disp : c === "es" ? row.es : row.jp;
       const has = val !== undefined && val !== null && val !== "";
-      return `<div class="col col-${c}"><span class="lab">${c.toUpperCase()}${
-        c === "jp" && row.conf ? ` <span class="conf-${row.conf}">${row.conf}</span>` : ""}</span>` +
+      let chip = "";
+      if (c === "jp" && row.conf) {
+        const title = row.conf === "term" ? `corroborated by glossary term: ${(row.terms || []).join(", ")}`
+          : row.conf === "conflict" ? `this JP names "${(row.terms || [])[0]}", which appears in box #${row.suggest} instead — the pairing is probably wrong`
+          : row.conf === "anchor" ? "matched on a shared digit run" : "DP guess — verify before trusting";
+        chip = ` <span class="conf-${row.conf}" title="${esc(title)}">${row.conf}</span>`;
+        if (row.conf === "conflict" && row.suggest !== undefined)
+          chip += ` <span class="suggest">→ likely box #${row.suggest}</span>`;
+      }
+      return `<div class="col col-${c}"><span class="lab">${c.toUpperCase()}${chip}</span>` +
         `<span class="txt${has ? "" : " none"}">${has ? esc(val) : (val === undefined ? "not loaded" : "—")}</span></div>`;
     }).join("");
     html.push(`<div class="bx" data-k="${k}">
@@ -801,6 +853,7 @@ $("#prevBlk").onclick = () => { S.blk = (S.blk + NBLK - 1) % NBLK; blkSel.value 
 $("#nextBlk").onclick = () => { S.blk = (S.blk + 1) % NBLK; blkSel.value = S.blk; page = 0; renderBlock(); };
 $("#findBox").oninput = () => { page = 0; renderBlock(); };
 $("#onlyEdited").onchange = () => { page = 0; renderBlock(); };
+$("#onlyProblems").onchange = () => { page = 0; renderBlock(); };
 $$("[data-view]").forEach((b) => b.onclick = () => {
   $$("[data-view]").forEach((x) => x.classList.toggle("on", x === b));
   document.body.classList.remove("view-cols", "view-game", "view-both");

@@ -104,10 +104,43 @@ Tests run from the repo root (they read your local discs; skipped when absent):
 node web/tests/core.test.mjs && node web/tests/jp.test.mjs
 ```
 
+## What the research docs taught this editor
+
+The editor encodes decisions already made and verified in `docs/` — it is not re-deciding them.
+
+- **The byte budget is not a hard box limit.** `WA2_INSERTION_MODEL.md` corrects an earlier
+  assumption: a box has no stored size cap. The chunk length is the ceiling for a *pointer-safe*
+  same-size overwrite; longer text is possible with a pointer-recalculating pass. The editor
+  therefore labels boxes **pointer-safe** or **needs repointer** rather than pretending the limit
+  is absolute. (Export still refuses over-budget boxes — no repointer exists yet.)
+- **3 × 35 is the real on-screen ceiling** and is independent of the byte budget (same doc,
+  verified there and re-measured here across all 21,644 boxes).
+- **House style is enforced live.** `WA2_RE_STYLE_GUIDE.md` §1–§3 are the project's hard rules;
+  the editor lints each line against them as you type — no em dashes or `--`, no box ending on a
+  comma or dangling conjunction, no run-on comma chains, balanced `|emphasis|` markers, `{n}`
+  codes instead of spelled-out renameable names, glossary decisions
+  (`Mercs` → `|Wandering Crows|`, `Sebok` → `T'Bok`), no `#` notes inside the box body, and the
+  `*` examine-panel marker preserved.
+- **The JP pairing is corroborated, not just guessed.** The DP aligner scores only digit runs and
+  length ratio, so it marks **9 of 15,732** pairs (0.1%) as anchored and the rest `approx`.
+  `verifyPairs` checks each pairing against the hand-verified katakana↔EN glossary
+  (`GUIDE_ANCHORS` + the character roster): **550 pairs** are now corroborated (`term`, 61× more
+  than before) and **78** are flagged `conflict` with a suggested box. Sampled conflicts were all
+  genuine drift of −3 to +20 boxes. Use *problems only* to review them.
+
+  > A note on method: the docs propose romanizing katakana and fuzzy-matching it to English. That
+  > was implemented and measured — it both over-fires (`otona` → skeleton `tn` collides with
+  > unrelated words) and under-fires (`damutsen` never reaches `damzen`), and every sampled
+  > "conflict" it produced was actually the DP being right. It was dropped in favour of the exact
+  > curated glossary, which trades recall for precision. A chip you can't trust is worse than none.
+- **`{4}` = Kanon.** The style guide (§3, canonical) and `WA2_NAME_DICTIONARY.md` disagree on
+  `{2}`/`{3}` and the dictionary omits `{4}`; the style guide's own precedence rule settles it.
+
 ## Known limits (v1)
 
-- EN↔JP pairing inherits the aligner's honest ~38%-within-±1 accuracy — `approx` chips mean
-  *verify against the EN before trusting the JP*; `anchor` chips (shared digit runs) are safe.
+- EN↔JP pairing inherits the aligner's honest ~38%-within-±1 accuracy. `approx` still means
+  *verify before trusting*; `term`/`anchor` are corroborated; `conflict` is probably misaligned.
+  Only ~3.5% of pairs can be corroborated at all — the glossary is 39 terms against 15,732 boxes.
 - Boxes containing item-ref/control opcodes (`07 30 11 …`) are read-only for now.
 - Text longer than a chunk needs pointer relocation (gadesx-style) — not yet supported; the
   editor refuses over-budget chunks rather than corrupting the event stream.

@@ -196,7 +196,79 @@
     return { pairs, n, m };
   }
 
-  const api = { init, decode, decodeBlock, jpBoxes, align, JBLK };
+  // ---- glossary verification of the DP's pairings ----------------------------
+  // docs/WA2_INSERTION_MODEL.md records that every positional / line-break / structural aligner
+  // tried here drifts, and proposes matching on katakana loanwords romanized to rough latin.
+  // That was implemented and MEASURED, and it does not hold up: consonant-skeleton matching both
+  // over-fires (otona -> "tn" collides with unrelated words) and under-fires (damutsen does not
+  // reach damzen), and inspection of its "conflicts" showed the DP was right in every sampled
+  // case. So romanization is NOT used. What is used instead is the curated katakana<->EN glossary
+  // that the project already verified by hand (GUIDE_ANCHORS in tools/align_v6.py plus the
+  // character roster): exact katakana on the JP side, exact word on the EN side, no fuzziness.
+  // Precision is the whole point -- a "verified" chip has to be worth trusting.
+  const GLOSSARY = [
+    ["ダムツェン", "damzen"], ["シルヴァラント", "sylvaland"], ["ヘイムダル", "heimdal"],
+    ["バスカー", "baskar"], ["ギルドグラード", "guild galad"], ["ハルメッツ", "halmetz"],
+    ["ホルスト", "holst"], ["シエルジェ", "sielje"], ["トラペゾヘドロン", "trapezohedron"],
+    ["グラウスヴァイン", "grauswein"], ["ロンバルディア", "lombardia"], ["アガートラーム", "argetlahm"],
+    ["テレパス", "telepath"], ["ゴルゴダ", "golgotha"], ["グリーンヘル", "greenhell"],
+    ["トロメア", "ptolomea"], ["カイバーベルト", "kuiper"], ["メリアブール", "meria boule"],
+    ["ギアス", "gias"], ["プーカ", "pooka"], ["クアトリー", "quartly"],
+    ["アシュレー", "ashley"], ["ブラッド", "brad"], ["リルカ", "lilka"], ["ティム", "tim"],
+    ["カノン", "kanon"], ["マリアベル", "marivel"], ["アーヴィング", "irving"],
+    ["ヴィンスフェルト", "vinsfeld"], ["オデッサ", "odessa"], ["コキュートス", "cocytus"],
+    ["ロードブレイザー", "lord blazer"], ["ナイトブレイザー", "knight blazer"],
+    ["ガーディアン", "guardian"], ["ラフティーナ", "raftina"], ["ジャスティーン", "justine"],
+    ["フィラス", "fira"], ["ヴァレリア", "valeria"], ["スレイハイム", "slayheim"],
+  ];
+  function glossaryTerms(jpText, enText) {
+    // returns the terms present on BOTH sides (the evidence for a pairing)
+    const out = [];
+    for (const [ja, en] of GLOSSARY)
+      if (jpText.includes(ja) && enText.toLowerCase().includes(en)) out.push(en);
+    return out;
+  }
+  function jpGlossary(jpText) {
+    const out = [];
+    for (const [ja, en] of GLOSSARY) if (jpText.includes(ja)) out.push(en);
+    return out;
+  }
+
+  // Annotates pairs in place. conf becomes:
+  //   'anchor'   digit run agreed (from align(), unchanged)
+  //   'term'     the JP and its paired EN share a curated glossary term -- corroborated
+  //   'conflict' the JP carries a glossary term its paired EN lacks, and exactly one other EN box
+  //              in the block has it -> pair.suggest is that index
+  //   'approx'   DP guess, nothing corroborates it
+  function verifyPairs(pairs, enStory, jpStory) {
+    const enHas = enStory.map((t) => t.toLowerCase());
+    let verified = 0, conflicts = 0;
+    pairs.forEach((p, i) => {
+      if (!p.jp) return;
+      const terms = jpGlossary(p.jp);
+      if (!terms.length) return;
+      const shared = terms.filter((t) => enHas[i].includes(t));
+      if (shared.length) {
+        if (p.conf !== "anchor") { p.conf = "term"; p.terms = shared; }
+        verified++;
+        return;
+      }
+      // the JP names something its EN does not. Only call it a conflict when exactly one other
+      // EN box in the block carries that term -- otherwise the localization simply dropped it,
+      // which is the documented dominant failure mode and is not an alignment error.
+      for (const t of terms) {
+        const where = [];
+        for (let e = 0; e < enHas.length; e++) if (enHas[e].includes(t)) where.push(e);
+        if (where.length === 1 && where[0] !== i) {
+          p.conf = "conflict"; p.suggest = where[0]; p.terms = [t]; conflicts++; return;
+        }
+      }
+    });
+    return { verified, conflicts };
+  }
+
+  const api = { init, decode, decodeBlock, jpBoxes, align, verifyPairs,
+                glossaryTerms, jpGlossary, GLOSSARY, JBLK };
   if (typeof module !== "undefined" && module.exports) module.exports = api;
   else root.WA2JP = api;
 })(typeof globalThis !== "undefined" ? globalThis : this);

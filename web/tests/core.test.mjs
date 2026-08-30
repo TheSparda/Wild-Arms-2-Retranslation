@@ -137,5 +137,41 @@ if (fs.existsSync(PPF) && fs.existsSync(ES_BIN)) {
   ok(pct > 95, "the 3x35 ceiling matches the shipped script (>95% of boxes)");
 }
 
+// 7 ---- house-style lint (docs/WA2_RE_STYLE_GUIDE.md §1-§3) --------------------
+{
+  const rules = (t, o) => C.lintText(t, o).map((m) => m.rule);
+  ok(rules("Well then,").includes("trailing-comma"), "§2: box may not end on a comma");
+  ok(rules("He was there — waiting.").includes("em-dash"), "§2: no em dashes");
+  ok(rules("A, then B, then C, and D").includes("run-on"), "§2: run-on comma chain");
+  ok(rules("Ashley, wait!").includes("name-code"), "§3: renameable name should be a {n} code");
+  ok(!rules("{0}, wait!").length, "§3: the {n} form is clean");
+  ok(rules("The |hero stands.").includes("emphasis"), "§2: unbalanced |emphasis| marker");
+  ok(rules("We hired Mercs.").includes("glossary"), "glossary: Mercs → |Wandering Crows|");
+  ok(!rules("It is done.").length, "a plain correct line lints clean");
+  ok(rules("Empty.", { en: "*It's empty!" }).includes("panel-marker"), "examine panel keeps its *");
+  ok(rules("Yes and", {}).includes("dangling-conj"), "§2: dangling conjunction");
+}
+
+// 8 ---- glossary verification of the aligner --------------------------------
+// The DP scores only digit runs + length ratio, so it self-reports 'anchor' on ~0.1% of pairs.
+// verifyPairs corroborates against the hand-verified katakana<->EN glossary and flags drift.
+{
+  if (!fs.existsSync("web/data/jp_tables.json")) console.log("jp tables missing — skipped");
+  else {
+    const JPm = require("../wa2-jp.js");
+    JPm.init(JSON.parse(fs.readFileSync("web/data/jp_tables.json", "utf8")));
+    ok(JPm.jpGlossary("「ダムツェンの復興のためにも").includes("damzen"), "katakana term detected in JP");
+    ok(JPm.glossaryTerms("ダムツェン", "Damzen City is quiet").includes("damzen"), "term shared by both sides");
+    const pairs = [{ i: 0, en: "nothing here", jp: "「アガートラーム", conf: "approx" },
+                   { i: 1, en: "There's no |Argetlahm| here", jp: "unrelated", conf: "approx" }];
+    const r = JPm.verifyPairs(pairs, ["nothing here", "There's no |Argetlahm| here"], ["「アガートラーム", "unrelated"]);
+    ok(pairs[0].conf === "conflict" && pairs[0].suggest === 1,
+       "a JP term appearing in exactly one other EN box flags a conflict + suggests it");
+    const ok2 = [{ i: 0, en: "There's no |Argetlahm| here", jp: "「アガートラーム", conf: "approx" }];
+    JPm.verifyPairs(ok2, ["There's no |Argetlahm| here"], ["「アガートラーム"]);
+    ok(ok2[0].conf === "term", "a shared term promotes the pair to 'term'");
+  }
+}
+
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);
