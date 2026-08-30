@@ -28,24 +28,44 @@
 
     <div class="card" id="loadCard">
       <h2>1 · Load discs</h2>
+      <div id="restoreBar" class="restore hidden">
+        <div><b>Last session:</b> <span id="restoreList"></span></div>
+        <button type="button" class="pill" id="restoreBtn">Reload these</button>
+        <button type="button" class="pill ghost" id="forgetBtn">Forget</button>
+      </div>
       <div class="grid" id="loaders">
-        <div class="drop" id="dropEN">
-          <b>US Disc 1 (.bin)</b> — required<br>
-          <button type="button" class="pill" id="pickEN">Choose file…</button>
-          <div class="muted" id="stEN">not loaded</div>
+        <div class="drop" data-slot="en1">
+          <b>US Disc 1</b> <span class="slot-tag">patch target</span>
+          <button type="button" class="pill" data-pick="en1">Choose file…</button>
+          <div class="muted" data-st="en1">not loaded</div>
         </div>
-        <div class="drop" id="dropJP">
-          <b>JP Disc 1 (.bin)</b> — optional, enables the JP column<br>
-          <button type="button" class="pill" id="pickJP">Choose file…</button>
-          <div class="muted" id="stJP">not loaded</div>
+        <div class="drop" data-slot="en2">
+          <b>US Disc 2</b> <span class="slot-tag">patch target</span>
+          <button type="button" class="pill" data-pick="en2">Choose file…</button>
+          <div class="muted" data-st="en2">not loaded</div>
         </div>
-        <div class="drop" id="dropES">
-          <b>Spanish (.ppf or patched .bin)</b> — optional ground truth<br>
-          <button type="button" class="pill" id="pickES">Choose file…</button>
-          <div class="muted" id="stES">not loaded</div>
+        <div class="drop" data-slot="jp1">
+          <b>JP Disc 1</b> <span class="slot-tag">source</span>
+          <button type="button" class="pill" data-pick="jp1">Choose file…</button>
+          <div class="muted" data-st="jp1">not loaded</div>
+        </div>
+        <div class="drop" data-slot="jp2">
+          <b>JP Disc 2</b> <span class="slot-tag">source</span>
+          <button type="button" class="pill" data-pick="jp2">Choose file…</button>
+          <div class="muted" data-st="jp2">not loaded</div>
+        </div>
+        <div class="drop" data-slot="es">
+          <b>Spanish patch</b> <span class="slot-tag">ground truth</span>
+          <button type="button" class="pill" data-pick="es">Choose .ppf / .bin…</button>
+          <div class="muted" data-st="es">not loaded</div>
         </div>
       </div>
-      <div class="muted" id="probe" style="margin-top:8px"></div>
+      <p class="muted" style="margin-top:10px">
+        <b>Both US discs carry the same script file</b> (<code>STGEVT.BIN</code> is byte-identical
+        across disc 1 and 2, verified at the sector level) — so a patch applied to only one disc
+        leaves the other running the original text. Load both and the exporter emits a patch for
+        each. The same holds for JP: either JP disc supplies the identical source script.
+      </p>
     </div>
 
     <div class="card hidden" id="navCard">
@@ -76,6 +96,7 @@
         <button class="pill" id="writeInPlace" disabled>Write disc in place</button>
         <button class="pill" id="saveCopy" disabled>Save patched copy…</button>
       </div>
+      <div class="muted" id="targetNote"></div>
       <div class="muted" id="exportStatus"></div>
     </div>
   </section>

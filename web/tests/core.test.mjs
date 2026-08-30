@@ -92,5 +92,24 @@ if (fs.existsSync(PPF) && fs.existsSync(ES_BIN)) {
   ok(identity === chunks, "parse->rebuild is byte-identity for every untouched chunk in block 3");
 }
 
+// 5 ---- disc 1 / disc 2 carry the SAME script container --------------------
+// The editor relies on this: it computes one patch and emits it for every loaded US disc.
+// If a future revision breaks the assumption, this test fails loudly rather than shipping
+// a patch that desyncs the pair.
+{
+  const PAIRS = [
+    ["EN", EN_BIN, "Game Files/Wild Arms 2 (USA) (Disc 2)/Wild Arms 2 (USA) (Disc 2).bin", C.DISCS.en],
+    ["JP", "Game Files/JP/Wild Arms - 2nd Ignition (Japan) (Disc 1)/Wild Arms - 2nd Ignition (Japan) (Disc 1).bin",
+           "Game Files/JP/Wild Arms - 2nd Ignition (Japan) (Disc 2)/Wild Arms - 2nd Ignition (Japan) (Disc 2).bin", C.DISCS.jp],
+  ];
+  for (const [tag, p1, p2, disc] of PAIRS) {
+    if (!fs.existsSync(p1) || !fs.existsSync(p2)) { console.log(`${tag} disc pair not present — skipped`); continue; }
+    const sp = C.rawSpan(disc);
+    const a = readSpan(p1, sp.start, sp.len), b = readSpan(p2, sp.start, sp.len);
+    ok(Buffer.compare(Buffer.from(a), Buffer.from(b)) === 0,
+       `${tag}: STGEVT raw region identical across disc 1 and disc 2 (one patch serves both)`);
+  }
+}
+
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);

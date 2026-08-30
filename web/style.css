@@ -336,3 +336,12 @@ td button.revert, .row button.revert { margin:0 0 0 6px; vertical-align:middle; 
 .over-note { color:#e57373; font-size:12px; margin-top:3px; }
 .okpad { color:#81c784; }
 @media (max-width: 860px) { .boxrow { grid-template-columns: 1fr; } }
+
+/* multi-disc loader + session restore */
+.restore { display:flex; gap:10px; align-items:center; flex-wrap:wrap; padding:8px 12px; margin-bottom:12px;
+  border:1px solid var(--line,#453227); border-radius:8px; background:var(--panel2); font-size:13px; }
+.restore .pill.ghost { opacity:.7; }
+.slot-tag { font-size:10px; text-transform:uppercase; letter-spacing:.06em; opacity:.6; border:1px solid var(--line,#453227);
+  border-radius:4px; padding:1px 5px; margin-left:4px; }
+.drop.filled { border-style:solid; }
+.warnline { color:#e5a13e; font-size:12px; margin-top:6px; }

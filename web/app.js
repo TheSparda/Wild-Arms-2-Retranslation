@@ -9,48 +9,113 @@ const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&
 const SUPPORTS_FS = "showOpenFilePicker" in window;
 const NBLK = 120;
 
+const SLOTS = {
+  en1: { lang: "en", label: "US Disc 1", role: "target" },
+  en2: { lang: "en", label: "US Disc 2", role: "target" },
+  jp1: { lang: "jp", label: "JP Disc 1", role: "source" },
+  jp2: { lang: "jp", label: "JP Disc 2", role: "source" },
+  es:  { lang: "es", label: "Spanish patch", role: "reference" },
+};
+
 const S = {
-  en: null,          // {file, handle|null, raw:Uint8Array(region), ud:Uint8Array}
-  jp: null,          // {jd}
-  es: null,          // {ud, from:'ppf'|'bin'}
+  d: {},             // slot -> {file, handle, raw, ud, name, codecOk}
   jpTables: false,
   blk: 0,
-  cache: {},         // blk -> model
-  tr: {},            // "blk:off:sub" -> text
+  cache: {},
+  tr: {},
 };
+// STGEVT.BIN is byte-identical across disc 1 and disc 2 (verified at the raw sector level for
+// both EN and JP), so any loaded disc of a language serves as that language's script, and an
+// edit at a given offset is valid for every disc of that language.
+const enPrimary = () => S.d.en1 || S.d.en2 || null;
+const jpSource  = () => S.d.jp1 || S.d.jp2 || null;
+const enTargets = () => ["en1", "en2"].filter((k) => S.d[k]).map((k) => ({ key: k, ...S.d[k] }));
 
 // ---------- persistence ----------
 const LS_KEY = "wa2tr-v1";
 function saveTr() {
   try { localStorage.setItem(LS_KEY, JSON.stringify(S.tr)); } catch (e) {}
-  $("#editCount").textContent = `${Object.keys(S.tr).length} edits`;
+  const n = Object.keys(S.tr).length;
+  const ec = $("#editCount"); if (ec) ec.textContent = `${n} edit${n === 1 ? "" : "s"}`;
 }
 try { S.tr = JSON.parse(localStorage.getItem(LS_KEY) || "{}"); } catch (e) { S.tr = {}; }
 
+// IndexedDB: FileSystemFileHandles are structured-cloneable, so on Chromium we can remember the
+// actual discs and re-open them next visit (after a permission click) instead of re-picking four
+// files. Elsewhere handles don't exist, so we remember names only and show them as a reminder.
+const IDB = (() => {
+  let dbp = null;
+  const open = () => dbp || (dbp = new Promise((res, rej) => {
+    const r = indexedDB.open("wa2-editor", 1);
+    r.onupgradeneeded = () => r.result.createObjectStore("kv");
+    r.onsuccess = () => res(r.result); r.onerror = () => rej(r.error);
+  }));
+  const tx = async (mode, fn) => {
+    const db = await open();
+    return new Promise((res, rej) => {
+      const t = db.transaction("kv", mode), st = t.objectStore("kv");
+      const out = fn(st);
+      t.oncomplete = () => res(out && out.result !== undefined ? out.result : undefined);
+      t.onerror = () => rej(t.error);
+    });
+  };
+  return {
+    get: (k) => tx("readonly", (st) => st.get(k)).catch(() => undefined),
+    set: (k, v) => tx("readwrite", (st) => st.put(v, k)).catch(() => {}),
+    del: (k) => tx("readwrite", (st) => st.delete(k)).catch(() => {}),
+  };
+})();
+
+async function rememberSlot(slot, file, handle) {
+  const meta = (await IDB.get("meta")) || {};
+  meta[slot] = { name: file.name, size: file.size, at: Date.now() };
+  await IDB.set("meta", meta);
+  if (handle) {
+    const hs = (await IDB.get("handles")) || {};
+    hs[slot] = handle;
+    await IDB.set("handles", hs);
+  }
+}
+async function forgetAll() {
+  await IDB.del("meta"); await IDB.del("handles");
+  $("#restoreBar").classList.add("hidden");
+}
+
 // ---------- file loading ----------
-async function pickFile(accept, cb, wantHandle) {
-  if (wantHandle && SUPPORTS_FS) {
+async function pickFile(slot) {
+  const wantHandle = SUPPORTS_FS;
+  if (wantHandle) {
     try {
-      const [h] = await window.showOpenFilePicker({ types: [{ description: "disc image", accept: { "application/octet-stream": accept } }] });
-      cb(await h.getFile(), h); return;
+      const [h] = await window.showOpenFilePicker({
+        types: [{ description: slot === "es" ? "PPF patch or disc image" : "disc image",
+                  accept: { "application/octet-stream": slot === "es" ? [".ppf", ".bin"] : [".bin", ".img", ".iso"] } }],
+      });
+      return loadSlot(slot, await h.getFile(), h);
     } catch (e) { if (e && e.name === "AbortError") return; }
   }
   const inp = document.createElement("input");
   inp.type = "file";
-  inp.onchange = () => inp.files[0] && cb(inp.files[0], null);
+  inp.onchange = () => inp.files[0] && loadSlot(slot, inp.files[0], null);
   inp.click();
+}
+
+const stEl = (slot) => document.querySelector(`[data-st="${slot}"]`);
+function setStatus(slot, html, filled) {
+  const el = stEl(slot); if (el) el.innerHTML = html;
+  const box = document.querySelector(`.drop[data-slot="${slot}"]`);
+  if (box) box.classList.toggle("filled", !!filled);
 }
 
 async function loadRegion(file, disc) {
   const span = C.rawSpan(disc);
-  if (file.size < span.start + span.len) throw new Error(`file too small for ${disc.name} (is this the right disc/format?)`);
+  if (file.size < span.start + span.len)
+    throw new Error(`file too small for ${disc.name} — wrong disc, or not a raw 2352-byte/sector .bin`);
   const raw = new Uint8Array(await file.slice(span.start, span.start + span.len).arrayBuffer());
   return { raw, ud: C.rawToUser(raw, disc.size) };
 }
 
 function codecSelfCheck(raw) {
-  // recompute EDC/ECC on untouched sectors; must match the disc byte-for-byte
-  let okc = 0, n = 64;
+  let okc = 0; const n = 64;
   for (let s = 0; s < n; s++) {
     const orig = raw.slice(s * C.RAW, (s + 1) * C.RAW);
     const work = orig.slice();
@@ -60,66 +125,138 @@ function codecSelfCheck(raw) {
   return okc === n;
 }
 
-async function loadEN(file, handle) {
-  $("#stEN").textContent = "reading…";
-  try {
-    const { raw, ud } = await loadRegion(file, C.DISCS.en);
-    const probeChunks = C.walkChunks(ud, 0, C.DISCS.en.blk);
-    if (probeChunks.length < 30) throw new Error("STGEVT structure not found — wrong disc, wrong region, or not a raw 2352-byte .bin");
+// Cross-check a newly loaded disc against an already-loaded disc of the same language.
+// They must match: same script container on both discs. A mismatch means an unexpected
+// revision/variant, and silently editing one would desync the pair.
+function crossCheck(slot) {
+  const lang = SLOTS[slot].lang;
+  const peers = Object.keys(S.d).filter((k) => k !== slot && SLOTS[k] && SLOTS[k].lang === lang && S.d[k].raw);
+  for (const p of peers) {
+    const a = S.d[slot].raw, b = S.d[p].raw;
+    if (a.length !== b.length) return `differs from ${SLOTS[p].label} (region size)`;
+    for (let i = 0; i < a.length; i++) if (a[i] !== b[i])
+      return `script region differs from ${SLOTS[p].label} at 0x${i.toString(16)} — unexpected variant; patches may desync`;
+  }
+  return null;
+}
+
+async function loadDisc(slot, file, handle) {
+  const lang = SLOTS[slot].lang;
+  const disc = C.DISCS[lang];
+  setStatus(slot, "reading…");
+  const { raw, ud } = await loadRegion(file, disc);
+  if (lang === "en") {
+    const probe = C.walkChunks(ud, 0, disc.blk);
+    if (probe.length < 30) throw new Error("STGEVT script structure not found — is this a US disc?");
     const codecOk = codecSelfCheck(raw);
-    S.en = { file, handle, raw, ud };
-    S.cache = {};
-    $("#stEN").innerHTML = `<b>${esc(file.name)}</b> ✓ · block 0: ${probeChunks.length} chunks · sector codec ${codecOk ? "verified ✓" : "<b style='color:#e57373'>MISMATCH — exports disabled</b>"}`;
-    S.codecOk = codecOk;
-    $("#writeInPlace").disabled = !(handle && codecOk);
-    $("#saveCopy").disabled = !codecOk || !("showSaveFilePicker" in window);
-    $("#navCard").classList.remove("hidden");
-    $("#exportCard").classList.remove("hidden");
-    renderBlock();
-  } catch (e) { $("#stEN").textContent = "✗ " + e.message; }
-}
-async function loadJP(file) {
-  $("#stJP").textContent = "reading…";
-  try {
-    if (!S.jpTables) {
-      J.init(await (await fetch("data/jp_tables.json")).json());
-      S.jpTables = true;
-    }
-    const { ud } = await loadRegion(file, C.DISCS.jp);
+    S.d[slot] = { file, handle, raw, ud, name: file.name, codecOk };
+    const warn = crossCheck(slot);
+    setStatus(slot, `<b>${esc(file.name)}</b> ✓ · ${probe.length} chunks in block 0 · sector codec ${
+      codecOk ? "verified" : "<b style='color:#e57373'>MISMATCH — exports disabled</b>"}` +
+      (warn ? `<div class="warnline">⚠ ${esc(warn)}</div>` : ""), true);
+  } else {
+    if (!S.jpTables) { J.init(await (await fetch("data/jp_tables.json")).json()); S.jpTables = true; }
     const probe = J.jpBoxes(ud, 0);
-    if (probe.length < 20) throw new Error("JP STGEVT structure not found — wrong disc?");
-    S.jp = { jd: ud };
-    S.cache = {};
-    $("#stJP").innerHTML = `<b>${esc(file.name)}</b> ✓ · block 0: ${probe.length} boxes`;
-    renderBlock();
-  } catch (e) { $("#stJP").textContent = "✗ " + e.message; }
+    if (probe.length < 20) throw new Error("JP STGEVT structure not found — is this a JP disc?");
+    S.d[slot] = { file, handle, raw, ud, name: file.name };
+    const warn = crossCheck(slot);
+    setStatus(slot, `<b>${esc(file.name)}</b> ✓ · ${probe.length} JP boxes in block 0` +
+      (warn ? `<div class="warnline">⚠ ${esc(warn)}</div>` : ""), true);
+  }
 }
-async function loadES(file) {
-  $("#stES").textContent = "reading…";
+
+async function loadES(slot, file) {
+  setStatus(slot, "reading…");
+  const en = enPrimary();
+  if (/\.ppf$/i.test(file.name)) {
+    if (!en) throw new Error("load a US disc first — the PPF is applied on top of it");
+    const ppf = C.ppfParse(new Uint8Array(await file.arrayBuffer()));
+    const span = C.rawSpan(C.DISCS.en);
+    const win = en.raw.slice();
+    const applied = C.ppfApplyWindow(ppf, win, span.start);
+    S.d.es = { ud: C.rawToUser(win, C.DISCS.en.size), from: "ppf", name: file.name };
+    setStatus(slot, `<b>${esc(file.name)}</b> ✓ · ${ppf.version} "${esc(ppf.desc)}" · ${applied} records in script region`, true);
+  } else {
+    const { ud } = await loadRegion(file, C.DISCS.en);
+    S.d.es = { ud, from: "bin", name: file.name };
+    setStatus(slot, `<b>${esc(file.name)}</b> ✓ (pre-patched disc)`, true);
+  }
+}
+
+async function loadSlot(slot, file, handle) {
   try {
-    if (/\.ppf$/i.test(file.name) || file.size < 64 * 1024 * 1024) {
-      if (!S.en) throw new Error("load the US disc first — the PPF is applied to it");
-      const ppf = C.ppfParse(new Uint8Array(await file.arrayBuffer()));
-      const span = C.rawSpan(C.DISCS.en);
-      const win = S.en.raw.slice();
-      const applied = C.ppfApplyWindow(ppf, win, span.start);
-      S.es = { ud: C.rawToUser(win, C.DISCS.en.size), from: "ppf" };
-      $("#stES").innerHTML = `<b>${esc(file.name)}</b> ✓ · ${ppf.version} "${esc(ppf.desc)}" · ${applied} records in script region`;
-    } else {
-      const { ud } = await loadRegion(file, C.DISCS.en);
-      S.es = { ud, from: "bin" };
-      $("#stES").innerHTML = `<b>${esc(file.name)}</b> ✓ (pre-patched bin)`;
-    }
+    if (slot === "es") await loadES(slot, file);
+    else await loadDisc(slot, file, handle);
+    await rememberSlot(slot, file, handle);
     S.cache = {};
+    refreshAvailability();
     renderBlock();
-  } catch (e) { $("#stES").textContent = "✗ " + e.message; }
+  } catch (e) {
+    setStatus(slot, "✗ " + esc(e.message));
+  }
+}
+
+function refreshAvailability() {
+  const en = enPrimary();
+  const on = !!en;
+  $("#navCard").classList.toggle("hidden", !on);
+  $("#exportCard").classList.toggle("hidden", !on);
+  const codecOk = enTargets().every((t) => t.codecOk);
+  const writable = enTargets().filter((t) => t.handle).length;
+  $("#writeInPlace").disabled = !(writable && codecOk);
+  $("#writeInPlace").textContent = writable > 1 ? `Write ${writable} discs in place` : "Write disc in place";
+  $("#saveCopy").disabled = !on || !codecOk || !("showSaveFilePicker" in window);
+  const tgt = enTargets();
+  $("#targetNote").innerHTML = tgt.length
+    ? `patch targets: <b>${tgt.map((t) => SLOTS[t.key].label).join(" + ")}</b>` +
+      (tgt.length === 1 ? ` — <span class="warnline">disc 2 not loaded; it will keep the original text</span>` : "")
+    : "";
+}
+
+// ---------- session restore ----------
+async function initRestore() {
+  const meta = (await IDB.get("meta")) || {};
+  const keys = Object.keys(meta);
+  if (!keys.length) return;
+  $("#restoreList").textContent = keys.map((k) => `${SLOTS[k] ? SLOTS[k].label : k}: ${meta[k].name}`).join(" · ");
+  $("#restoreBar").classList.remove("hidden");
+  const hs = (await IDB.get("handles")) || {};
+  if (!Object.keys(hs).length) {
+    $("#restoreBtn").textContent = "Re-pick files";
+    $("#restoreBtn").title = "this browser can't reopen files automatically — pick them again";
+    return;
+  }
+  // If the origin still holds permission, reload with no click at all.
+  let auto = true;
+  for (const k of Object.keys(hs)) {
+    try { if ((await hs[k].queryPermission({ mode: "read" })) !== "granted") auto = false; }
+    catch (e) { auto = false; }
+  }
+  if (auto) { $("#restoreBtn").textContent = "Reloading…"; await restoreAll(hs); }
+}
+
+async function restoreAll(hs) {
+  hs = hs || (await IDB.get("handles")) || {};
+  const order = ["en1", "en2", "jp1", "jp2", "es"];        // EN first: ES needs a disc loaded
+  let okN = 0, failN = 0;
+  for (const k of order) {
+    const h = hs[k]; if (!h) continue;
+    try {
+      if ((await h.queryPermission({ mode: "read" })) !== "granted" &&
+          (await h.requestPermission({ mode: "read" })) !== "granted") { failN++; continue; }
+      await loadSlot(k, await h.getFile(), h);
+      okN++;
+    } catch (e) { failN++; setStatus(k, "✗ could not reopen — pick it again"); }
+  }
+  $("#restoreBtn").textContent = "Reload these";
+  if (okN && !failN) $("#restoreBar").classList.add("hidden");
 }
 
 // ---------- block model ----------
 function blockModel(blk) {
   if (S.cache[blk]) return S.cache[blk];
   const BLK = C.DISCS.en.blk, lo = blk * BLK, hi = lo + BLK;
-  const chunks = C.walkChunks(S.en.ud, lo, hi);
+  const chunks = C.walkChunks(enPrimary().ud, lo, hi);
   // EN boxes in python order (good subs) + panel flag; story/panel ordinals for JP pairing
   const enBoxes = [];
   for (const ch of chunks) {
@@ -139,8 +276,8 @@ function blockModel(blk) {
       ch.rows.push(row);
     });
     // ES reference: same chunk window in the ES user data, good-sub ordinal pairing
-    if (S.es) {
-      const eseg = S.es.ud.slice(ch.start, ch.start + ch.cap);
+    if (S.d.es) {
+      const eseg = S.d.es.ud.slice(ch.start, ch.start + ch.cap);
       const esubs = []; let last = 0;
       for (let p = 0; p + 1 < eseg.length; p++)
         if (eseg[p] === 0x10 && eseg[p + 1] === 0x0c) { esubs.push(eseg.slice(last, p)); last = p + 2; p++; }
@@ -157,8 +294,9 @@ function blockModel(blk) {
   }
   // JP pairing
   let pairs = null, jpPanels = [];
-  if (S.jp) {
-    const jpb = J.jpBoxes(S.jp.jd, blk);
+  const jps = jpSource();
+  if (jps) {
+    const jpb = J.jpBoxes(jps.ud, blk);
     const res = J.align(enBoxes, jpb);
     pairs = res.pairs;
     jpPanels = jpb.filter((b) => b.panel).map((b) => b.text);
@@ -192,7 +330,7 @@ function chunkBudget(blk, ch) {
 }
 
 function renderBlock() {
-  if (!S.en) return;
+  if (!enPrimary()) return;
   const blk = S.blk, model = blockModel(blk);
   const q = ($("#findBox").value || "").toLowerCase();
   const list = $("#chunkList");
@@ -254,34 +392,34 @@ function renderBlock() {
 
 // ---------- patch building ----------
 function buildEdits() {
-  // returns [{off(abs raw file), bytes, old}] whole modified sectors, EDC/ECC fixed
+  // Compute the patched script region once. Every loaded US disc gets the SAME bytes at the
+  // SAME offsets — STGEVT.BIN is byte-identical across disc 1 and 2 — so one computation
+  // serves all targets; we just re-emit it per disc.
+  const en = enPrimary();
   const span = C.rawSpan(C.DISCS.en);
-  const newUd = S.en.ud.slice();
+  const newUd = en.ud.slice();
   const errors = [];
   for (let blk = 0; blk < NBLK; blk++) {
-    const hasEdit = Object.keys(S.tr).some((k) => k.startsWith(blk + ":"));
-    if (!hasEdit) continue;
+    if (!Object.keys(S.tr).some((k) => k.startsWith(blk + ":"))) continue;
     const model = blockModel(blk);
     for (const ch of model.chunks) {
       if (!ch.rows.some((r) => S.tr[keyOf(blk, ch, r)] !== undefined)) continue;
       const rb = chunkBudget(blk, ch);
-      if (rb.err) { errors.push(`0x${ch.off.toString(16)} (block ${blk}): ${rb.err}`); continue; }
+      if (rb.err) { errors.push(`block ${blk} 0x${ch.off.toString(16)}: ${rb.err}`); continue; }
       newUd.set(rb.bytes, ch.start);
     }
   }
-  // dirty sectors
   const dirty = new Set();
-  for (let u = 0; u < newUd.length; u++) {
-    if (newUd[u] !== S.en.ud[u]) { dirty.add(Math.floor(u / C.USER)); u = (Math.floor(u / C.USER) + 1) * C.USER - 1; }
-  }
-  const edits = [];
-  for (const s of [...dirty].sort((a, b) => a - b)) {
-    const secOff = s * C.RAW;
-    const sec = S.en.raw.slice(secOff, secOff + C.RAW);
-    sec.set(newUd.subarray(s * C.USER, (s + 1) * C.USER), C.HDR);
+  for (let u = 0; u < newUd.length; u++)
+    if (newUd[u] !== en.ud[u]) { dirty.add(Math.floor(u / C.USER)); u = (Math.floor(u / C.USER) + 1) * C.USER - 1; }
+  const sectors = [...dirty].sort((a, b) => a - b);
+  const edits = sectors.map((sn) => {
+    const secOff = sn * C.RAW;
+    const sec = en.raw.slice(secOff, secOff + C.RAW);
+    sec.set(newUd.subarray(sn * C.USER, (sn + 1) * C.USER), C.HDR);
     C.sectorFix(sec, 0);
-    edits.push({ off: span.start + secOff, bytes: sec, old: S.en.raw.slice(secOff, secOff + C.RAW) });
-  }
+    return { off: span.start + secOff, bytes: sec, old: en.raw.slice(secOff, secOff + C.RAW) };
+  });
   return { edits, errors };
 }
 
@@ -294,8 +432,9 @@ function download(name, bytes) {
 function exportStatus(msg) { $("#exportStatus").innerHTML = msg; }
 
 function withEdits(fn) {
-  if (!S.en) return;
-  if (!S.codecOk) return exportStatus("sector codec self-check failed on this disc — refusing to export");
+  if (!enPrimary()) return;
+  if (!enTargets().every((t) => t.codecOk))
+    return exportStatus("sector codec self-check failed on a loaded disc — refusing to export");
   const { edits, errors } = buildEdits();
   if (errors.length) return exportStatus(`<b style="color:#e57373">${errors.length} over-budget chunk(s):</b> ` + esc(errors.slice(0, 4).join(" · ")));
   if (!edits.length) return exportStatus("no changes to export");
@@ -303,46 +442,68 @@ function withEdits(fn) {
 }
 
 $("#dlPPF").onclick = () => withEdits((edits) => {
-  download("WA2_retranslation_CD1.ppf", C.ppfBuild("WA2 retranslation (web editor)", edits));
-  exportStatus(`PPF3 written · ${edits.length} sectors patched (undo data included)`);
+  const tgt = enTargets();
+  for (const t of tgt)
+    download(`WA2_retranslation_${t.key.toUpperCase()}.ppf`,
+             C.ppfBuild(`WA2 retranslation (${SLOTS[t.key].label})`, edits));
+  exportStatus(`${tgt.length} PPF3 patch${tgt.length > 1 ? "es" : ""} written · ${edits.length} sector${edits.length === 1 ? "" : "s"} each · ` +
+    `${tgt.map((t) => SLOTS[t.key].label).join(" + ")}` +
+    (tgt.length === 1 ? ` · <span class="warnline">only one disc loaded</span>` : ""));
 });
 $("#dlXdelta").onclick = () => withEdits((edits) => {
-  const patch = V.buildXdelta(S.en.file.size, edits.map((e) => ({ off: e.off, data: e.bytes })));
-  download("WA2_retranslation_CD1.xdelta", patch);
-  exportStatus(`xdelta written · ${edits.length} sectors patched · apply: xdelta3 -d -s original.bin patch out.bin`);
+  const tgt = enTargets();
+  for (const t of tgt) {
+    const patch = V.buildXdelta(t.file.size, edits.map((e) => ({ off: e.off, data: e.bytes })));
+    download(`WA2_retranslation_${t.key.toUpperCase()}.xdelta`, patch);
+  }
+  exportStatus(`${tgt.length} xdelta patch${tgt.length > 1 ? "es" : ""} written · ` +
+    `apply: xdelta3 -d -s &lt;disc&gt;.bin patch out.bin`);
 });
 $("#writeInPlace").onclick = () => withEdits(async (edits) => {
-  try {
-    const w = await S.en.handle.createWritable({ keepExistingData: true });
-    for (const e of edits) { await w.seek(e.off); await w.write(e.bytes); }
-    await w.close();
-    // refresh in-memory copies so budgets/old-bytes stay truthful
-    S.en.file = await S.en.handle.getFile();
-    const { raw, ud } = await loadRegion(S.en.file, C.DISCS.en);
-    S.en.raw = raw; S.en.ud = ud; S.cache = {};
-    exportStatus(`wrote ${edits.length} sectors in place ✓ (keep your PPF/xdelta as the shareable patch)`);
-    renderBlock();
-  } catch (e) { exportStatus("in-place write failed: " + esc(e.message)); }
+  const tgt = enTargets().filter((t) => t.handle);
+  let done = 0;
+  for (const t of tgt) {
+    try {
+      if ((await t.handle.queryPermission({ mode: "readwrite" })) !== "granted" &&
+          (await t.handle.requestPermission({ mode: "readwrite" })) !== "granted") {
+        exportStatus(`write permission denied for ${SLOTS[t.key].label}`); continue;
+      }
+      const w = await t.handle.createWritable({ keepExistingData: true });
+      for (const e of edits) { await w.seek(e.off); await w.write(e.bytes); }
+      await w.close();
+      const file = await t.handle.getFile();
+      const { raw, ud } = await loadRegion(file, C.DISCS.en);
+      S.d[t.key].file = file; S.d[t.key].raw = raw; S.d[t.key].ud = ud;
+      done++;
+      exportStatus(`wrote ${SLOTS[t.key].label} (${done}/${tgt.length})…`);
+    } catch (e) { exportStatus(`write failed on ${SLOTS[t.key].label}: ` + esc(e.message)); return; }
+  }
+  S.cache = {};
+  exportStatus(`wrote ${edits.length} sectors in place to ${done} disc${done === 1 ? "" : "s"} ✓ — keep a PPF/xdelta as the shareable patch`);
+  renderBlock();
 });
 $("#saveCopy").onclick = () => withEdits(async (edits) => {
   try {
-    const h = await window.showSaveFilePicker({ suggestedName: S.en.file.name.replace(/\.bin$/i, "") + ".patched.bin" });
+    const t = enTargets()[0];
+    const src = t.file;
+    const h = await window.showSaveFilePicker({ suggestedName: src.name.replace(/\.bin$/i, "") + ".patched.bin" });
     const w = await h.createWritable();
     const CH = 8 * 1024 * 1024;
     const em = new Map(edits.map((e) => [e.off, e]));
-    for (let p = 0; p < S.en.file.size; p += CH) {
-      const end = Math.min(p + CH, S.en.file.size);
-      const buf = new Uint8Array(await S.en.file.slice(p, end).arrayBuffer());
+    for (let p = 0; p < src.size; p += CH) {
+      const end = Math.min(p + CH, src.size);
+      const buf = new Uint8Array(await src.slice(p, end).arrayBuffer());
       for (const e of edits) {
         if (e.off + e.bytes.length <= p || e.off >= end) continue;
         const from = Math.max(e.off, p), to = Math.min(e.off + e.bytes.length, end);
         buf.set(e.bytes.subarray(from - e.off, to - e.off), from - p);
       }
       await w.write(buf);
-      exportStatus(`writing patched copy… ${Math.round(end / S.en.file.size * 100)}%`);
+      exportStatus(`writing patched copy of ${SLOTS[t.key].label}… ${Math.round(end / src.size * 100)}%`);
     }
     await w.close();
-    exportStatus(`patched copy saved ✓ (${edits.length} sectors changed)`);
+    exportStatus(`patched copy of ${SLOTS[t.key].label} saved ✓ (${edits.length} sectors changed)` +
+      (enTargets().length > 1 ? " — repeat for the other disc, or use the PPF/xdelta which covers both" : ""));
   } catch (e) { if (e.name !== "AbortError") exportStatus("save failed: " + esc(e.message)); }
 });
 
@@ -372,14 +533,17 @@ $("#nextBlk").onclick = () => { S.blk = (S.blk + 1) % NBLK; blkSel.value = S.blk
 $("#findBox").oninput = () => renderBlock();
 $("#charmap").onchange = () => renderBlock();
 
-$("#pickEN").onclick = () => pickFile({ ".bin": [".bin"] }, loadEN, true);
-$("#pickJP").onclick = () => pickFile({ ".bin": [".bin"] }, loadJP, false);
-$("#pickES").onclick = () => pickFile({ ".ppf/.bin": [".ppf", ".bin"] }, loadES, false);
-for (const [id, fn] of [["dropEN", loadEN], ["dropJP", loadJP], ["dropES", loadES]]) {
-  const el = $("#" + id);
+$$("[data-pick]").forEach((b) => b.onclick = () => pickFile(b.dataset.pick));
+$$(".drop[data-slot]").forEach((el) => {
   el.addEventListener("dragover", (e) => e.preventDefault());
-  el.addEventListener("drop", (e) => { e.preventDefault(); const f = e.dataTransfer.files[0]; if (f) fn(f, null); });
-}
+  el.addEventListener("drop", (e) => {
+    e.preventDefault();
+    const f = e.dataTransfer.files[0];
+    if (f) loadSlot(el.dataset.slot, f, null);
+  });
+});
+$("#restoreBtn").onclick = () => restoreAll();
+$("#forgetBtn").onclick = () => forgetAll();
 
 // mode tabs
 $$(".mtab").forEach((t) => t.onclick = () => {
@@ -387,6 +551,8 @@ $$(".mtab").forEach((t) => t.onclick = () => {
   $$(".mode").forEach((m) => m.classList.toggle("hidden", m.id !== "mode-" + t.dataset.mode));
 });
 saveTr();
+initRestore();
 
 // test hook: lets automated tests drive the app without native file pickers
-window.WA2App = { S, loadEN, loadJP, loadES, renderBlock, buildEdits, blockModel };
+window.WA2App = { S, SLOTS, loadSlot, renderBlock, buildEdits, blockModel, enPrimary, jpSource,
+                  enTargets, refreshAvailability, restoreAll, initRestore, forgetAll, IDB };
