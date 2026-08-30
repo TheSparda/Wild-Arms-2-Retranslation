@@ -50,8 +50,27 @@ const readRegion = (p, disc) => {
   fs.readSync(fd, b, 0, s.len, s.start); fs.closeSync(fd);
   return C.rawToUser(new Uint8Array(b), disc.size);
 };
-// the DB joins decoded JP lines with " / "; strip layout so equality is about the text
-const norm = (s) => String(s || "").replace(/\s+/g, "").replace(/[／\/]/g, "");
+/**
+ * Canonicalise decoded JP so a match survives DECODER CHANGES.
+ *
+ * The DB's `jp` was decoded when each FINAL file was written; the disc side is decoded now, and
+ * the decoder is actively improving. Resolving the f0xx ellipsis run to "…" and gating Shift-JIS
+ * trail bytes moved the JP box count 19,904 -> 19,919 and cost 107 anchors — purely because
+ * stored and fresh text stopped being byte-equal. Nothing about the script itself changed.
+ *
+ * So the old spelling is TRANSLATED into the new one rather than either being deleted. Two
+ * alternatives were tried and measured, both worse:
+ *   - deleting ellipsis entirely: collapses lines that differ only in ellipsis LENGTH into
+ *     collisions, and ambiguity rose from 1,260 to 1,435;
+ *   - also stripping 。、！？: erases what distinguishes short lines, no better.
+ * Mapping each ellipsis cell to one "…" preserves its length, so the texts stay distinguishable
+ * and both sides agree. Still-unresolved codes and layout are dropped from both.
+ */
+const norm = (s) => String(s || "")
+  .replace(/<f04[012]>/gi, "…")                                     // ellipsis run, old -> new
+  .replace(/<f045>/gi, "ー")                                        // long vowel, old -> new
+  .replace(/<b:[0-9a-f]{4}>|<[0-9a-f]{4}>|\[[0-9a-f]{2}\]/gi, "")   // still-unresolved codes
+  .replace(/[\s／\/]/g, "");                                        // layout
 
 function main() {
   J.init(JSON.parse(fs.readFileSync(path.join(ROOT, "web/data/jp_tables.json"), "utf8")));
