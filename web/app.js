@@ -601,21 +601,196 @@ $("#saveCopy").onclick = () => withEdits(async (edits) => {
   } catch (e) { if (e.name !== "AbortError") exportStatus("save failed: " + esc(e.message)); }
 });
 
-// ---------- project io ----------
-$("#exportProj").onclick = () => {
-  const proj = { app: "wa2-translation-editor", version: 1, disc: "US CD1",
-    key: "blk:chunkOffset:subIndex", translations: S.tr };
-  download("wa2_project.json", new TextEncoder().encode(JSON.stringify(proj, null, 1)));
-};
-$("#importProj").onclick = () => $("#importFile").click();
-$("#importFile").onchange = async (ev) => {
-  const f = ev.target.files[0]; if (!f) return;
+// ---------- strings JSON: full-corpus export / import ----------
+// The point of this format is OFFLINE work: someone exports, translates in a spreadsheet or a
+// script or with an LLM, and reimports. So every row must stand alone -- source text, context,
+// and both budgets -- not just the sparse key->text map the old "project" export produced,
+// which was unreadable away from the app.
+const CORPUS_VERSION = 2;
+
+// Cheap stable digest of a row's EN source. Import compares it and refuses rows whose source
+// has moved: a JSON built against a different disc/extraction would otherwise write good-looking
+// text into the wrong boxes, which is silent and very hard to notice later.
+function digest(str) {
+  let h = 0x811c9dc5;
+  for (let i = 0; i < str.length; i++) { h ^= str.charCodeAt(i); h = Math.imul(h, 0x01000193) >>> 0; }
+  return h.toString(16).padStart(8, "0");
+}
+
+function corpusRow(blk, ch, row) {
+  const k = keyOf(blk, ch, row);
+  const src = row.parsed && !row.parsed.raw ? row.parsed.text : row.disp;
+  const r = {
+    key: k, blk, off: ch.off, sub: row.si,
+    en: src,
+    enDigest: digest(src),
+    re: S.tr[k] !== undefined ? S.tr[k] : "",
+    editable: !!row.editable,
+    panel: !!row.panel,
+    chunk: `${blk}:${ch.off}`,
+    chunkBytes: ch.cap,
+  };
+  if (row.jp !== undefined) { r.jp = row.jp; r.jpConf = row.conf || ""; }
+  if (row.es !== undefined) r.es = row.es || "";
+  const spk = row.parsed && !row.parsed.raw ? C.speakerCode(row.sub) : null;
+  if (spk !== null) r.speaker = spk;
+  return r;
+}
+
+// Async so a 120-block sweep (each block runs the JP aligner) can report progress instead of
+// freezing the tab.
+async function buildCorpus(scope, todoOnly, onProgress) {
+  const blocks = scope === "block" ? [S.blk] : [...Array(NBLK).keys()];
+  const rows = [];
+  for (let i = 0; i < blocks.length; i++) {
+    const blk = blocks[i];
+    const model = blockModel(blk);
+    for (const ch of model.chunks) for (const row of ch.rows) {
+      if (!row.good) continue;
+      const k = keyOf(blk, ch, row);
+      if (scope === "edited" && S.tr[k] === undefined) continue;
+      if (todoOnly && S.tr[k] !== undefined && S.tr[k] !== "") continue;
+      rows.push(corpusRow(blk, ch, row));
+    }
+    if (onProgress && (i % 8 === 0 || i === blocks.length - 1)) {
+      onProgress(i + 1, blocks.length, rows.length);
+      await new Promise((r) => setTimeout(r, 0));
+    }
+  }
+  return {
+    app: "wa2-translation-editor",
+    version: CORPUS_VERSION,
+    kind: "strings",
+    scope, todoOnly: !!todoOnly,
+    disc: { lang: "en", label: "US (STGEVT.BIN)", blocks: blocks.length },
+    sources: Object.keys(S.d).filter((x) => SLOTS[x]).map((x) => `${SLOTS[x].label}: ${S.d[x].name || "?"}`),
+    fit: { lines: C.FIT.lines, cols: C.FIT.cols },
+    charmap: C.ES_MAP,
+    notes: [
+      "Edit the 're' field only. Everything else is context and is used to place your text back.",
+      "'en' is the current English; 'jp' the Japanese source; 'es' the gadesx Spanish reference.",
+      "Two independent budgets: 'chunkBytes' is the byte capacity SHARED by every row with the",
+      "same 'chunk' value, and fit.lines x fit.cols (3 x 35) is the on-screen ceiling — the game",
+      "does not auto-wrap, so use \\n in 're' for real line breaks.",
+      "Rows with editable:false cannot be written back (they carry control codes).",
+      "'enDigest' guards the mapping; do not edit key/blk/off/sub/enDigest.",
+    ],
+    rows,
+  };
+}
+
+function applyCorpus(obj, mode) {
+  if (!obj || obj.kind !== "strings" || !Array.isArray(obj.rows))
+    throw new Error("not a WA2 strings JSON (expected kind:\"strings\" and a rows array)");
+  if (obj.version > CORPUS_VERSION)
+    throw new Error(`file is version ${obj.version}, this editor understands up to ${CORPUS_VERSION}`);
+
+  // index the CURRENT disc so we can validate every incoming row against it
+  const cur = new Map();
+  const blocks = new Set(obj.rows.map((r) => r.blk).filter((b) => Number.isInteger(b)));
+  for (const blk of blocks) {
+    const model = blockModel(blk);
+    for (const ch of model.chunks) for (const row of ch.rows) {
+      if (!row.good) continue;
+      const src = row.parsed && !row.parsed.raw ? row.parsed.text : row.disp;
+      cur.set(keyOf(blk, ch, row), { editable: !!row.editable, src });
+    }
+  }
+
+  const rep = { total: obj.rows.length, applied: 0, cleared: 0, unchanged: 0, blank: 0,
+                unknown: [], drifted: [], readonly: [], overBytes: [], overFit: [] };
+  const next = mode === "replace" ? {} : { ...S.tr };
+
+  for (const r of obj.rows) {
+    if (!r || typeof r.key !== "string") { rep.unknown.push("(row without a key)"); continue; }
+    const c = cur.get(r.key);
+    if (!c) { rep.unknown.push(r.key); continue; }
+    if (r.enDigest && c.src !== undefined && digest(c.src) !== r.enDigest) { rep.drifted.push(r.key); continue; }
+    const re = typeof r.re === "string" ? r.re : "";
+    if (!re.trim()) {
+      rep.blank++;
+      if (mode === "replace") delete next[r.key];
+      else if (next[r.key] !== undefined && re === "") { /* keep existing on merge */ }
+      continue;
+    }
+    if (!c.editable) { rep.readonly.push(r.key); continue; }
+    if (next[r.key] === re) { rep.unchanged++; continue; }
+    next[r.key] = re;
+    rep.applied++;
+    const fit = C.fitReport(subNames(re));
+    if (fit.over) rep.overFit.push(`${r.key} (${fit.nLines}L/${fit.longest}c)`);
+  }
+
+  S.tr = next;
+  // chunk budgets can only be judged after everything is in place (a chunk is shared)
+  const seen = new Set();
+  for (const r of obj.rows) {
+    const [blk, off] = String(r.chunk || "").split(":").map(Number);
+    if (!Number.isInteger(blk) || seen.has(r.chunk)) continue;
+    seen.add(r.chunk);
+    const model = blockModel(blk);
+    const ch = model.chunks.find((c2) => c2.off === off);
+    if (!ch) continue;
+    const rb = chunkBudget(blk, ch);
+    if (rb.err) rep.overBytes.push(`${r.chunk} — ${rb.err}`);
+  }
+  return rep;
+}
+
+function reportHtml(rep) {
+  const li = (label, n, cls) => n ? `<tr><td class="n ${cls || ""}">${n}</td><td>${label}</td></tr>` : "";
+  const det = (label, arr, cls) => arr.length
+    ? `<details><summary class="${cls}">${arr.length} ${label}</summary><pre>${esc(arr.slice(0, 200).join("\n"))}${
+        arr.length > 200 ? `\n… and ${arr.length - 200} more` : ""}</pre></details>` : "";
+  return `<div class="iorep"><h4>Import result</h4><table>
+    ${li("rows in file", rep.total)}
+    ${li("translations applied", rep.applied, "ok")}
+    ${li("already matched (no change)", rep.unchanged)}
+    ${li("blank 're' (skipped)", rep.blank)}
+    </table>
+    ${det("keys not on this disc — skipped", rep.unknown, "warn")}
+    ${det("source text drifted — skipped, rebuilt against a different disc?", rep.drifted, "bad")}
+    ${det("read-only boxes — skipped", rep.readonly, "warn")}
+    ${det("now over the 3×35 on-screen ceiling", rep.overFit, "warn")}
+    ${det("chunks now over their byte budget — export will refuse these", rep.overBytes, "bad")}
+  </div>`;
+}
+
+const ioStatus = (h) => { $("#ioStatus").innerHTML = h; };
+
+$("#exportStrings").onclick = async () => {
+  if (!enPrimary()) return;
+  const scope = $("#expScope").value, todoOnly = $("#expTodo").checked;
+  $("#exportStrings").disabled = true;
   try {
-    const proj = JSON.parse(await f.text());
-    if (!proj.translations) throw new Error("no translations field");
-    S.tr = { ...S.tr, ...proj.translations };
-    saveTr(); renderBlock();
-  } catch (e) { alert("import failed: " + e.message); }
+    ioStatus("building…");
+    const corpus = await buildCorpus(scope, todoOnly,
+      (i, n, rows) => ioStatus(`building… block ${i}/${n} · ${rows.toLocaleString()} rows`));
+    const json = JSON.stringify(corpus, null, 1);
+    const name = `wa2_strings_${scope}${todoOnly ? "_todo" : ""}.json`;
+    download(name, new TextEncoder().encode(json));
+    ioStatus(`exported <b>${corpus.rows.length.toLocaleString()}</b> rows to ${esc(name)} ` +
+      `(${(json.length / 1048576).toFixed(1)} MB) · edit the <code>re</code> field, then import it back`);
+  } catch (e) { ioStatus(`<span style="color:#e57373">export failed: ${esc(e.message)}</span>`); }
+  finally { $("#exportStrings").disabled = false; }
+};
+
+$("#importStrings").onclick = () => $("#importFile").click();
+$("#importFile").onchange = async (ev) => {
+  const f = ev.target.files[0]; ev.target.value = "";
+  if (!f || !enPrimary()) return;
+  try {
+    ioStatus("reading…");
+    const obj = JSON.parse(await f.text());
+    const nEx = Object.keys(S.tr).length;
+    const mode = nEx && confirm(
+      `You have ${nEx} translation${nEx === 1 ? "" : "s"} in the editor.\n\n` +
+      `OK = merge (imported rows win; your other work is kept)\n` +
+      `Cancel = replace (discard everything not in this file)`) ? "merge" : (nEx ? "replace" : "merge");
+    const rep = applyCorpus(obj, mode);
+    saveTr(); S.cache = {}; renderBlock();
+    ioStatus(`<b>${mode}</b> from ${esc(f.name)}` + reportHtml(rep));
+  } catch (e) { ioStatus(`<span style="color:#e57373">import failed: ${esc(e.message)}</span>`); }
 };
 
 // ---------- nav ----------
@@ -662,4 +837,5 @@ initRestore();
 
 // test hook: lets automated tests drive the app without native file pickers
 window.WA2App = { S, SLOTS, loadSlot, renderBlock, buildEdits, blockModel, enPrimary, jpSource,
-                  enTargets, refreshAvailability, restoreAll, initRestore, forgetAll, IDB };
+                  enTargets, refreshAvailability, restoreAll, initRestore, forgetAll, IDB,
+                  buildCorpus, applyCorpus, digest, keyOf, chunkBudget };

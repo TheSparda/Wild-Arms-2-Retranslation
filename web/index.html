@@ -98,10 +98,18 @@
       <h2>3 · Project &amp; export</h2>
       <div class="toolbar">
         <span class="tag" id="editCount">0 edits</span>
-        <button class="pill" id="exportProj">Export project JSON</button>
-        <button class="pill" id="importProj">Import project</button>
-        <input type="file" id="importFile" class="hidden" accept=".json">
+        <span class="muted">scope</span>
+        <select id="expScope">
+          <option value="all">all blocks</option>
+          <option value="block">current block only</option>
+          <option value="edited">edited boxes only</option>
+        </select>
+        <label class="muted"><input type="checkbox" id="expTodo"> untranslated only</label>
+        <button class="pill" id="exportStrings">Export strings JSON</button>
+        <button class="pill" id="importStrings">Import strings JSON</button>
+        <input type="file" id="importFile" class="hidden" accept=".json,application/json">
       </div>
+      <div class="muted" id="ioStatus"></div>
       <div class="toolbar">
         <button class="pill" id="dlPPF">Download PPF3 patch</button>
         <button class="pill" id="dlXdelta">Download xdelta</button>

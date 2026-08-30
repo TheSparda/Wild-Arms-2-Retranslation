@@ -62,9 +62,30 @@ cd web && python3 -m http.server 8478   # then open http://localhost:8478/
    Blocks paginate at 60 boxes; search covers EN/JP/ES and your own text, and *only edited*
    filters to your work.
 
-3. **Export** — translations autosave to localStorage; export/import the project as JSON.
-   One patch file per loaded US disc (`…_EN1.ppf`, `…_EN2.ppf`).
-   Patches: **PPF3** (with undo data), **xdelta** (VCDIFF; `xdelta3 -d -s original.bin patch out.bin`),
+3. **Work offline (strings JSON)** — *Export strings JSON* writes the whole corpus as
+   self-contained rows so it can be translated anywhere — a spreadsheet, a script, an LLM — and
+   imported back. Scope it to all blocks, the current block, or only edited boxes, and optionally
+   only untranslated ones. A full-disc export is 20,652 rows / ~7.9 MB and takes a few seconds.
+
+   ```json
+   { "key": "3:275139:0", "blk": 3, "off": 275139, "sub": 0,
+     "en": "*It's empty!", "jp": "＊からっぽだ！", "jpConf": "approx", "es": "*¡Vacío!",
+     "re": "",                          // <- the only field you edit
+     "editable": true, "panel": true, "speaker": "1",
+     "chunk": "3:275139", "chunkBytes": 12, "enDigest": "dd2aa166" }
+   ```
+
+   Rows sharing a `chunk` share `chunkBytes`; use `\n` in `re` for real line breaks (3 × 35
+   ceiling). Import **validates rather than trusts** and reports counts for each outcome:
+   applied, unchanged, blank, keys not on this disc, **read-only** boxes, rows now over the
+   on-screen ceiling, and chunks now over their byte budget. `enDigest` guards the mapping —
+   a row whose English source no longer matches is **refused**, so a JSON built against a
+   different disc or extraction can't quietly write good-looking text into the wrong boxes.
+   Re-importing an untouched export is a no-op. With existing work in the editor you're asked to
+   merge or replace.
+
+4. **Export patches** — one patch file per loaded US disc (`…_EN1.ppf`, `…_EN2.ppf`).
+   **PPF3** (with undo data), **xdelta** (VCDIFF; `xdelta3 -d -s original.bin patch out.bin`),
    **in-place write** (desktop Chromium, needs the file opened via the picker), or a streamed
    **patched copy**. Every modified sector gets its Mode 2 Form 1 **EDC/ECC recomputed**.
 
