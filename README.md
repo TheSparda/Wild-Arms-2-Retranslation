@@ -1,5 +1,11 @@
 # Wild Arms 2 — Retranslation & Translation Toolkit
 
+### ▶ **[Open the Translation Editor](https://thesparda.github.io/Wild-Arms-2-Retranslation/)**
+
+Runs entirely in your browser — load your own discs, nothing is uploaded. No game data is
+included or served; you bring your own `.bin` images.
+
+
 Tooling and research for a retranslation of Wild Arms 2 (PS1), patched onto the **US** release
 using the **JP** script as source and the **gadesx Spanish fan translation** as ground truth for
 what a shipped, hardware-proven patch of the US disc looks like.

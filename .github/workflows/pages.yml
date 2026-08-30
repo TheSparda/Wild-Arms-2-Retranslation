@@ -1,0 +1,49 @@
+# Publishes the serverless translation editor (web/) to GitHub Pages.
+# Deploy-from-branch is not usable here: it only offers "/" or "/docs", and docs/ holds the
+# research notes. This uploads web/ as the site root instead — so data/jp_tables.json resolves
+# at the relative path app.js fetches, with no <base> juggling.
+name: Deploy editor to Pages
+
+on:
+  push:
+    branches: [main]
+    paths: ["web/**", ".github/workflows/pages.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Stage site
+        run: |
+          mkdir -p _site
+          cp -r web/. _site/
+          # tests/ is not part of the site — and its fixture holds decoded JP game script.
+          rm -rf _site/tests
+          # local launchers are for the downloaded repo, not the hosted site
+          rm -f "_site/Start Editor (Mac).command" "_site/Start Editor (Windows).bat" _site/gen_tables.py
+          echo "staged:"; find _site -type f | sort
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

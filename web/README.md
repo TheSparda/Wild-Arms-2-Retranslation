@@ -1,5 +1,9 @@
 # WA2 Translation Editor (web)
 
+**Hosted: <https://thesparda.github.io/Wild-Arms-2-Retranslation/>** (auto-deployed from `web/`
+by `.github/workflows/pages.yml`). You can also run it locally — see below.
+
+
 Serverless translation tool for Wild Arms 2 (PS1), modeled on the Suikoden III web editor:
 a static site that runs entirely in your browser — discs are read locally, nothing is uploaded.
 
