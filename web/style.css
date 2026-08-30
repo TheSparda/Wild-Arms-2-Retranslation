@@ -481,3 +481,12 @@ body.view-game .bx-body { grid-template-columns:1fr; }
 @media (max-width:900px){ .vp-grid { grid-template-columns:1fr; } .vp-side + .vp-side { border-left:none; border-top:1px solid var(--line,#453227); } }
 .vp-drift.vp-nocmp { background:rgba(150,150,150,.10); color:#cfcfcf; }
 .vp-drift.vp-nocmp b { color:#bdbdbd; }
+
+/* JP candidate picker */
+.cands { display:flex; flex-direction:column; gap:3px; }
+.cand { text-align:left; font:12.5px/1.45 inherit; color:var(--c-jp); background:var(--panel);
+  border:1px solid var(--line,#453227); border-radius:5px; padding:3px 7px; cursor:pointer; }
+.cand:hover { border-color:var(--c-jp); background:var(--panel2); }
+.cand.best { border-left:3px solid var(--c-jp); }
+.unconf { font-size:10px; background:transparent; border:1px solid var(--line,#453227);
+  color:var(--muted,#a08c76); border-radius:4px; padding:0 5px; cursor:pointer; margin-left:4px; }

@@ -23,6 +23,8 @@ const S = {
   blk: 0,
   cache: {},
   tr: {},
+  align: null,       // data/jp_en_alignment.json — EN key -> [jpBlk, jpOrd, radius, tier]
+  conf: {},          // EN key -> {jp_blk, jp_ord} — this translator's confirmed pairings
 };
 // STGEVT.BIN is byte-identical across disc 1 and disc 2 (verified at the raw sector level for
 // both EN and JP), so any loaded disc of a language serves as that language's script, and an
@@ -39,6 +41,23 @@ function saveTr() {
   const ec = $("#editCount"); if (ec) ec.textContent = `${n} edit${n === 1 ? "" : "s"}`;
 }
 try { S.tr = JSON.parse(localStorage.getItem(LS_KEY) || "{}"); } catch (e) { S.tr = {}; }
+const LS_CONF = "wa2conf-v1";
+try { S.conf = JSON.parse(localStorage.getItem(LS_CONF) || "{}"); } catch (e) { S.conf = {}; }
+function saveConf() {
+  try { localStorage.setItem(LS_CONF, JSON.stringify(S.conf)); } catch (e) {}
+  const n = Object.keys(S.conf).length;
+  const el = $("#confCount");
+  if (el) el.textContent = `${n} confirmed pairing${n === 1 ? "" : "s"}`;
+}
+
+// The alignment interpolated from verified anchors (tools/build_alignment.mjs). Hold-out tested
+// at 95.2% within +-1 against the old DP aligner's ~38%, so where it has an opinion it is used in
+// preference to the DP. Its `radius` is the honest uncertainty: 0 means exact, otherwise the true
+// JP box lies within that many boxes and the translator is offered the candidates.
+async function loadAlignment() {
+  try { S.align = (await (await fetch("data/jp_en_alignment.json")).json()).map; }
+  catch (e) { S.align = null; }
+}
 
 // IndexedDB: FileSystemFileHandles are structured-cloneable, so on Chromium we can remember the
 // actual discs and re-open them next visit (after a permission click) instead of re-picking four
@@ -305,6 +324,33 @@ function blockModel(blk) {
                   jpb.filter((b) => !b.panel).map((b) => b.text));
     jpPanels = jpb.filter((b) => b.panel).map((b) => b.text);
   }
+  // Alignment candidates. The DP pairing below stays as a fallback, but where the interpolated
+  // alignment covers a box it wins: radius 0 is an exact 1:1 mapping, and a radius>0 box gets a
+  // short candidate list for the translator to pick from. Each pick becomes an anchor worth a
+  // measured 1.22 exact boxes — itself plus a little spillover into its bracket.
+  if (S.align && jps) {
+    const jpCache = {};
+    const jpFor = (b) => (jpCache[b] || (jpCache[b] = J.jpBoxes(jps.ud, b)));
+    for (const ch of chunks) for (const row of ch.rows) {
+      if (!row.good) continue;
+      const key = keyOf(blk, ch, row);
+      const conf = S.conf[key];
+      const a = conf ? [conf.jp_blk, conf.jp_ord, 0, "h"] : S.align[key];
+      if (!a) continue;
+      const [jblk, jord, radius, tier] = a;
+      if (jblk < 0) continue;
+      const list = jpFor(jblk);
+      const cands = [];
+      for (let d = -radius; d <= radius; d++) {
+        const b = list[jord + d];
+        if (b) cands.push({ blk: jblk, ord: jord + d, text: b.text, best: d === 0 });
+      }
+      if (!cands.length) continue;
+      row.align = { tier, radius, cands, confirmed: !!conf,
+                    text: (list[jord] || {}).text || "" };
+    }
+  }
+
   // attach jp text to rows
   if (pairs) {
     let story = 0, panel = 0;
@@ -409,12 +455,14 @@ function visibleRows(model) {
   const q = ($("#findBox").value || "").toLowerCase();
   const onlyEd = $("#onlyEdited").checked;
   const onlyProb = $("#onlyProblems").checked;
+  const onlyAmb = $("#onlyAmbiguous") && $("#onlyAmbiguous").checked;
   const out = [];
   for (const ch of model.chunks) for (const row of ch.rows) {
     if (!row.good) continue;
     const k = keyOf(S.blk, ch, row);
     if (onlyEd && S.tr[k] === undefined) continue;
     if (q && ![row.disp, row.es, row.jp, S.tr[k]].some((t) => t && t.toLowerCase().includes(q))) continue;
+    if (onlyAmb && !(row.align && row.align.radius > 0 && !row.align.confirmed)) continue;
     if (onlyProb) {
       const txt = S.tr[k] !== undefined ? S.tr[k] : "";
       const bad = row.conf === "conflict" ||
@@ -455,6 +503,31 @@ function renderBlock() {
     const colHtml = cols.map((c) => {
       const val = c === "en" ? row.disp : c === "es" ? row.es : row.jp;
       const has = val !== undefined && val !== null && val !== "";
+      // The aligned JP replaces the DP guess where the alignment covers this box.
+      if (c === "jp" && row.align) {
+        const a = row.align;
+        const TIER = { a: ["anchor", "harvested from the translation corpus — exact"],
+                       h: ["confirmed", "you confirmed this pairing"],
+                       b: ["exact", "between two anchors that agree — 1:1, no edit inside"],
+                       o: ["±" + a.radius, "an edit lies inside this stretch; the true box is within " + a.radius],
+                       e: ["edge", "extrapolated past the block's outermost anchor — least reliable"] };
+        const [lbl, tip] = TIER[a.tier] || ["?", ""];
+        const cls = a.confirmed ? "conf-term" : (a.tier === "a" || a.tier === "b") ? "conf-anchor"
+                  : a.tier === "e" ? "conf-conflict" : "conf-approx";
+        let body;
+        if (a.radius === 0 || a.confirmed) {
+          body = `<span class="txt">${esc(a.text) || "—"}</span>`;
+        } else {
+          // offer the candidates rather than assert one; picking is one click and compounds
+          body = `<div class="cands">` + a.cands.map((cd) =>
+            `<button class="cand${cd.best ? " best" : ""}" data-k="${keyOf(blk, ch, row)}" ` +
+            `data-jb="${cd.blk}" data-jo="${cd.ord}" title="confirm this JP box as the source">` +
+            `${esc(cd.text.slice(0, 90)) || "(empty)"}</button>`).join("") + `</div>`;
+        }
+        return `<div class="col col-jp"><span class="lab">JP <span class="${cls}" title="${esc(tip)}">${esc(lbl)}</span>` +
+          (a.confirmed ? ` <button class="unconf" data-k="${keyOf(blk, ch, row)}" title="undo this confirmation">undo</button>` : "") +
+          `</span>${body}</div>`;
+      }
       let chip = "";
       if (c === "jp" && row.conf) {
         const title = row.conf === "term" ? `corroborated by glossary term: ${(row.terms || []).join(", ")}`
@@ -497,6 +570,13 @@ function renderBlock() {
   $("#pagerTop").innerHTML = pager; $("#pagerBot").innerHTML = pager;
   $$("[data-pg]").forEach((b) => b.onclick = () => { page += +b.dataset.pg; renderBlock(); });
   saveTr();
+  $$("#chunkList .cand").forEach((b) => b.onclick = () => {
+    S.conf[b.dataset.k] = { jp_blk: +b.dataset.jb, jp_ord: +b.dataset.jo };
+    saveConf(); S.cache = {}; renderBlock();
+  });
+  $$("#chunkList .unconf").forEach((b) => b.onclick = () => {
+    delete S.conf[b.dataset.k]; saveConf(); S.cache = {}; renderBlock();
+  });
   wireEditors(blk, model);
 }
 
@@ -804,6 +884,25 @@ function reportHtml(rep) {
 
 const ioStatus = (h) => { $("#ioStatus").innerHTML = h; };
 
+$("#exportConf").onclick = () => {
+  const rows = Object.entries(S.conf).map(([en_key, v]) => ({ en_key, jp_blk: v.jp_blk, jp_ord: v.jp_ord }));
+  const payload = {
+    app: "wa2-translation-editor", kind: "confirmed-anchors", version: 1,
+    what: "JP<->EN pairings a translator confirmed by eye in the editor",
+    how_to_use: [
+      "Save as data/confirmed_anchors.json, then rebuild:",
+      "  node tools/build_alignment.mjs",
+      "Each confirmation outranks the interpolation and splits its ambiguous bracket. MEASURED",
+      "yield: 1.22 exact boxes per correct confirmation (200 held-out anchors fed back gained",
+      "244 exact boxes) — real compounding, but modest. Budget roughly one confirmation per box",
+      "you want mapped, not one per stretch. Re-export the alignment to web/data/ and reload.",
+    ],
+    confirmations: rows,
+  };
+  download("confirmed_anchors.json", new TextEncoder().encode(JSON.stringify(payload, null, 1)));
+  ioStatus(`exported <b>${rows.length}</b> confirmed pairing(s) — save as <code>data/confirmed_anchors.json</code> and re-run <code>node tools/build_alignment.mjs</code>`);
+};
+
 $("#exportStrings").onclick = async () => {
   if (!enPrimary()) return;
   const scope = $("#expScope").value, todoOnly = $("#expTodo").checked;
@@ -848,6 +947,7 @@ $("#nextBlk").onclick = () => { S.blk = (S.blk + 1) % NBLK; blkSel.value = S.blk
 $("#findBox").oninput = () => { page = 0; renderBlock(); };
 $("#onlyEdited").onchange = () => { page = 0; renderBlock(); };
 $("#onlyProblems").onchange = () => { page = 0; renderBlock(); };
+$("#onlyAmbiguous").onchange = () => { page = 0; renderBlock(); };
 $$("[data-view]").forEach((b) => b.onclick = () => {
   $$("[data-view]").forEach((x) => x.classList.toggle("on", x === b));
   document.body.classList.remove("view-cols", "view-game", "view-both");
@@ -1021,10 +1121,12 @@ $$(".mtab").forEach((t) => t.onclick = () => {
   $$(".mode").forEach((m) => m.classList.toggle("hidden", m.id !== "mode-" + t.dataset.mode));
 });
 saveTr();
+saveConf();
+loadAlignment().then(() => renderBlock());
 initRestore();
 
 // test hook: lets automated tests drive the app without native file pickers
 window.WA2App = { S, SLOTS, loadSlot, renderBlock, buildEdits, blockModel, enPrimary, jpSource,
                   renderVoices, voiceBrief, voiceMarkdown, get VOICES() { return VOICES; },
                   enTargets, refreshAvailability, restoreAll, initRestore, forgetAll, IDB,
-                  buildCorpus, applyCorpus, digest, keyOf, chunkBudget };
+                  buildCorpus, applyCorpus, digest, keyOf, chunkBudget, loadAlignment, saveConf };
