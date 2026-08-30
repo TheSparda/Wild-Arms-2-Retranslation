@@ -479,3 +479,5 @@ body.view-game .bx-body { grid-template-columns:1fr; }
 .vp-conf.hi { background:#2e7d32; color:#fff; } .vp-conf.mid { background:#8d6e2f; color:#fff; }
 .vp-conf.lo { background:#8c3a2e; color:#fff; }
 @media (max-width:900px){ .vp-grid { grid-template-columns:1fr; } .vp-side + .vp-side { border-left:none; border-top:1px solid var(--line,#453227); } }
+.vp-drift.vp-nocmp { background:rgba(150,150,150,.10); color:#cfcfcf; }
+.vp-drift.vp-nocmp b { color:#bdbdbd; }

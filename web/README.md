@@ -124,8 +124,27 @@ speech, and the tool independently measures わらわ×14 and じゃ×15 for her
 be nearly uniform (contractions 4.7–5.9 per 100 words and ~10–11 words/line for characters as
 different as Ashley 俺, Kanon あたし and Tim ボク+です/ます) while the Japanese separates them
 sharply. So a character is flagged when their JP is strongly marked but their EN sits within
-0.75σ of the cast average on every measure. Current flags: **Marivel** (JP archaic, yet the EN is
-*more* contracted than average — register inverted), **Tim**, **Altaecia**.
+0.75σ of the cast average. Current flags: **Brad** (JP 僕×10 + お前×8, EN generic), **Tim**
+(JP polite, EN unusually casual), **Odessa officer**.
+
+**A drift claim requires the same rows on both sides.** Measuring a filtered Japanese corpus
+against an unfiltered English one is not like-for-like — it compared Ashley's Japanese on 75 rows
+against his English on 195. Drift now uses only **same-row pairs**: rows where the shipped English
+and the human literal of the Japanese still share content words, so both sides are trustworthy for
+that line. Only **42 of 80** profiles clear the 12-pair bar; the rest are labelled *not comparable*
+rather than silently showing no drift. Each side is still measured and displayed for those — for
+Marivel that non-comparability is itself the finding (her English and her Japanese diverge on 25
+of 30 judged rows).
+
+Those paired rows are, by construction, where the localization stayed close, so this is a
+**conservative floor** on drift, never an overstatement. Register — pronouns, politeness,
+contraction rate — is largely independent of whether content words survived, which is why the
+comparison remains worth making.
+
+**Characters recorded under more than one name are merged**, from a documented alias table:
+Toka and "Lizardian" → **Liz** (`WA2_NAME_DICTIONARY.md`: *Liz (トカ/Toka)*), "Vold Valeria" and
+"Sir Valeria / Irving" → **Irving** (*Irving Vold Valeria*). Before this, Irving was three
+profiles totalling 147 rows with a different measured first person in each.
 
 **Export voice brief** produces JSON (or Markdown) carrying the measured registers, the drift, and
 real JP/literal/English sample lines — evidence for an AI to work from rather than adjectives,

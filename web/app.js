@@ -904,16 +904,17 @@ function voiceCard(p) {
       <span class="kind">${p.kind}</span>
       <span class="cnt">EN ${p.lines_en} · JP ${p.lines_jp}</span>
       <span class="vp-conf ${confClass(p.en_lit_agreement)}"
-            title="Share of this character's rows where the shipped English and the human literal of the Japanese still share content words (${p.rows_agreeing}/${p.rows_checked}). A LOW score means EN and JP diverge — either the aligner mispaired the row, or the localization rewrote the line past recognition. Read the evidence.">
-        EN/JP agree ${Math.round(p.en_lit_agreement * 100)}%</span>
-      <span class="muted" style="font-size:10.5px">JP measured from ${esc(p.jp_register_from)}</span>
+            title="Share of this character's rows where the shipped English and the human literal of the Japanese still share content words (${p.rows_agreeing}/${p.rows_checked}).${p.agreement_reliable ? "" : " Only " + p.rows_checked + " rows could be judged, so this percentage is not reliable — shown with a ?."} A LOW score means EN and JP diverge — either the aligner mispaired the row, or the localization rewrote the line past recognition. Read the evidence.">
+        EN/JP agree ${Math.round(p.en_lit_agreement * 100)}%${p.agreement_reliable ? "" : "?"}</span>
+      <span class="muted" style="font-size:10.5px" title="Drift is computed only from rows where BOTH sides are trustworthy — the same lines on each side. Comparing a filtered JP corpus against an unfiltered EN one would not be like-for-like.">${p.paired_rows} same-row pairs</span>
       ${p.low_sample ? '<span class="badge badge-ro" title="under 25 lines — treat as indicative only">low sample</span>' : ""}
     </div>
     <div class="vp-grid">
       <div class="vp-side vp-jp"><h4>Japanese (source)</h4>${li(p.jp_register)}</div>
       <div class="vp-side vp-en"><h4>English (shipped)</h4>${li(p.en_register)}</div>
     </div>
-    ${p.drift.length ? `<div class="vp-drift"><b>voice drift:</b> ${p.drift.map(esc).join("<br>")}</div>` : ""}
+    ${p.drift.length ? `<div class="vp-drift${p.comparable ? "" : " vp-nocmp"}"><b>${
+      p.comparable ? "voice drift:" : "comparison:"}</b> ${p.drift.map(esc).join("<br>")}</div>` : ""}
     <details class="vp-ev"><summary>evidence — ${p.evidence.length} sampled lines</summary>${ev}</details>
   </div>`;
 }
@@ -923,12 +924,17 @@ function renderVoices() {
   const q = ($("#charFind").value || "").toLowerCase();
   const onlyC = $("#charOnlyChars").checked, onlyD = $("#charOnlyDrift").checked;
   const list = VOICES.profiles.filter((p) =>
-    (!onlyC || p.kind === "character") && (!onlyD || p.drift.length) &&
+    (!onlyC || p.kind === "character") && (!onlyD || (p.comparable && p.drift.length)) &&
     (!q || p.name.toLowerCase().includes(q)));
   $("#charList").innerHTML = list.map(voiceCard).join("");
-  const drifted = VOICES.profiles.filter((p) => p.drift.length).length;
+  const cmp = VOICES.profiles.filter((p) => p.comparable);
+  const drifted = cmp.filter((p) => p.drift.length).length;
+  const nocmp = VOICES.profiles.length - cmp.length;
   $("#charStatus").innerHTML =
-    `${list.length} shown of ${VOICES.profiles.length} profiles · ${drifted} with measured voice drift · ` +
+    `${list.length} shown of ${VOICES.profiles.length} profiles · ` +
+    `<b>${drifted}</b> with measured voice drift · ` +
+    `<span title="Drift needs at least 12 rows where the same line is trustworthy on both sides. Where the English and the Japanese diverge on nearly every row there is nothing valid to compare — each side is still measured, but no drift claim is made.">` +
+    `${nocmp} not comparable</span> · ` +
     `<span title="${esc(VOICES.caveat)}">source: the annotated script DB (hover for the data caveat)</span>`;
 }
 
@@ -961,7 +967,7 @@ function voiceBrief(profiles) {
       lines: { en: p.lines_en, jp: p.lines_jp },
       en_lit_agreement: p.en_lit_agreement, jp_register_measured_from: p.jp_register_from,
       japanese_register: p.jp_register, english_register: p.en_register,
-      voice_drift: p.drift,
+      voice_drift: p.drift, comparable: p.comparable, same_row_pairs: p.paired_rows,
       sample_lines: p.evidence.filter((e) => e.en).slice(0, 4)
         .map((e) => ({ us: e.us, jp: e.jp, literal: e.lit, shipped_en: e.en })),
     })),

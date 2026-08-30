@@ -181,7 +181,13 @@ def _mean_sd(xs):
     v = sum((x - m) ** 2 for x in xs) / n
     return m, (v ** 0.5) or 1e-9
 
-def drift(jf, ef, base):
+def comparable(jf, ef, paired_rows):
+    """One predicate for "can these two sides be compared at all", used both to gate drift and
+    to set the profile flag — they disagreed before, so a profile could be marked comparable and
+    still carry a NOT-COMPARABLE notice."""
+    return paired_rows >= 12 and jf['chars'] >= 400 and ef['words'] >= 120
+
+def drift(jf, ef, base, paired_rows):
     """EN/JP mismatches worth a human look. NOT verdicts — leads.
 
     The absolute-threshold version of this was replaced. Measured across the whole cast, the
@@ -191,8 +197,22 @@ def drift(jf, ef, base):
     threshold can't see it. So drift is measured RELATIVE to the corpus: a character whose JP is
     distinctive but whose EN sits on the corpus mean has had their voice flattened."""
     d = []
-    if jf['chars'] < 400 or ef['words'] < 120:
-        return d                                   # too little text to compare honestly
+    if not comparable(jf, ef, paired_rows):
+        # Silence here would read as "no drift found", which is not what we know. Say plainly
+        # that the comparison could not be made — for a character like Marivel that is itself
+        # the interesting fact: her EN and the literals of her JP diverge on almost every row.
+        return [f'NOT COMPARABLE — {paired_rows} same-row pairs / {ef["words"]} EN words. '
+                f'Each side is still measured on what it has (see the columns), but no like-for-'
+                f'like drift claim can be made. Low pairing means the English and the Japanese '
+                f'diverge here, which is worth reading the evidence for.']
+
+    # Selection-bias note, stated once here because it shapes how to read every flag below:
+    # the paired rows are those where the English and the literal still share content words, i.e.
+    # where the localization stayed close. That biases this measure toward finding LESS drift, so
+    # a flag is a conservative floor, never an overstatement. Register (pronouns, politeness,
+    # contraction rate) is largely independent of whether content words survived — a line can keep
+    # its nouns and still drop わらわ entirely — so the bias is far weaker on register than on
+    # meaning, which is why the comparison is still worth making.
 
     # how far this character's EN sits from the cast average, in standard deviations
     z = {}
@@ -230,9 +250,32 @@ def drift(jf, ef, base):
                  f"(z={z['contractions_per_100w']:+.2f})")
     return d
 
+# Characters the annotators labelled under more than one name. Every entry is sourced from the
+# project docs, not guessed — profiling one person twice splits their corpus and can produce two
+# DIFFERENT measured voices for the same character (Irving was split three ways: 103 + 31 + 13
+# rows, with different first-person readings in each).
+ALIASES = {
+    # WA2_NAME_DICTIONARY.md: "**Liz** (トカ/Toka — Lizardian talker; name-pun Liz+Ard=Lizard)"
+    'toka': 'Liz',
+    'lizardian': 'Liz',
+    # WA2_NAME_DICTIONARY.md: "**Irving Vold Valeria** (ARMS commander …)"
+    'vold valeria': 'Irving',
+    'sir valeria / irving': 'Irving',
+    'sir valeria': 'Irving',
+    # WA2_CHARACTER_ROSTER.md: JP マリアベル (Mariabel) localized "Marivel"
+    'mariabel': 'Marivel',
+}
+
 def canon(label):
     s = label.strip()
-    s = re.sub(r'\s*\(.*?\)\s*$', '', s)
+    s = re.sub(r'\s*\(.*?\)\s*$', '', s).strip()
+    key = s.lower()
+    if key in ALIASES: return ALIASES[key]
+    # "Name / role" forms (Erwin / chief pilot) — keep the personal name
+    if ' / ' in s:
+        head = s.split(' / ')[0].strip()
+        if head.lower() in ALIASES: return ALIASES[head.lower()]
+        if re.match(r'^[A-Z][a-z]+$', head): return head
     return s
 
 def build(min_lines=12):
@@ -247,7 +290,8 @@ def build(min_lines=12):
     # actually writes rather than against numbers I picked.
     prelim = []
     for sp, rs in byspk.items():
-        ls = [S(r, 'en').strip() for r in rs if S(r, 'en').strip()]
+        ok = [r for r in rs if en_lit_agree(r) is True]
+        ls = [S(r, 'en').strip() for r in ok if S(r, 'en').strip()]
         if len(ls) >= min_lines: prelim.append(en_features(ls))
     base = {k: _mean_sd([p[k] for p in prelim])
             for k in ('contractions_per_100w', 'exclaim_per_line', 'avg_sentence_words', 'ellipsis_per_line')}
@@ -267,6 +311,11 @@ def build(min_lines=12):
         jp_src = ok_rows if len(ok_rows) >= 12 else jp_rows
         jp_text = ' '.join(S(r, 'jp') for r in jp_src)
         jf, ef = jp_features(jp_text), en_features(en_lines)
+        # PAIRED corpora: the same rows on both sides. Comparing a filtered JP corpus against an
+        # unfiltered EN one is not a like-for-like comparison of a character — it was measuring
+        # Ashley's Japanese on 75 rows against his English on 195. Drift is computed from these.
+        pj = jp_features(' '.join(S(r, 'jp') for r in ok_rows))
+        pe = en_features([S(r, 'en').strip() for r in ok_rows if S(r, 'en').strip()])
         # prefer evidence from rows that pass the alignment check
         ev = sorted(rs, key=lambda r: (en_lit_agree(r) is not True, -len(S(r, 'en'))))[:6]
         profiles.append({
@@ -278,11 +327,14 @@ def build(min_lines=12):
             'rows_agreeing': len(ok_rows),
             'jp_register_from': 'rows where EN and the literal agree' if jp_src is ok_rows else 'all rows (too few agreed)',
             'en_lit_agreement': round(len(ok_rows) / judged, 2) if judged else 0.0,
+            'agreement_reliable': judged >= 8,
             'low_sample': len(en_lines) < 25,
             'en': ef, 'jp': jf,
+            'paired_rows': len(ok_rows), 'en_paired': pe, 'jp_paired': pj,
             'en_register': en_register(ef),
             'jp_register': jp_register(jf),
-            'drift': drift(jf, ef, base),
+            'drift': drift(pj, pe, base, len(ok_rows)),
+            'comparable': comparable(pj, pe, len(ok_rows)),
             'evidence': [{'us': r.get('us'), 'en': S(r, 'en')[:220],
                           'jp': S(r, 'jp')[:160], 'lit': S(r, 'lit')[:220],
                           'agrees': en_lit_agree(r)} for r in ev],
@@ -364,7 +416,10 @@ def main():
                'profiles': profs}, open(OUT, 'w'), ensure_ascii=False)
     chars = [p for p in profs if p['kind'] == 'character']
     print(f"wrote {OUT}: {len(profs)} profiles ({len(chars)} characters, {len(profs)-len(chars)} roles)")
-    print(f"  with drift flags: {sum(1 for p in profs if p['drift'])}")
+    cmpable = [p for p in profs if p['comparable']]
+    print(f"  comparable (>=12 same-row pairs): {len(cmpable)} of {len(profs)}")
+    print(f"  measured voice drift: {sum(1 for p in cmpable if p['drift'])}")
+    print(f"  not comparable (EN and JP diverge / too few rows): {len(profs) - len(cmpable)}")
 
 if __name__ == '__main__':
     main()
