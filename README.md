@@ -10,6 +10,14 @@ Tooling and research for a retranslation of Wild Arms 2 (PS1), patched onto the 
 using the **JP** script as source and the **gadesx Spanish fan translation** as ground truth for
 what a shipped, hardware-proven patch of the US disc looks like.
 
+## Roadmap
+
+Work is tracked in [issues](https://github.com/TheSparda/Wild-Arms-2-Retranslation/issues) —
+start at [#9, the roadmap](https://github.com/TheSparda/Wild-Arms-2-Retranslation/issues/9).
+Short version: **97.3% of the existing translation already fits without a repointer**, but it's
+keyed to a superseded box model and so invisible to the editor ([#1](https://github.com/TheSparda/Wild-Arms-2-Retranslation/issues/1)),
+and **no patch has ever been booted** ([#2](https://github.com/TheSparda/Wild-Arms-2-Retranslation/issues/2)).
+
 ## Layout
 
 | dir | what |
