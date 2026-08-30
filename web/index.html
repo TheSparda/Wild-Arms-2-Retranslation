@@ -77,6 +77,7 @@
         <input class="search" id="findBox" placeholder="find in EN / JP / ES / your text…">
         <label class="muted"><input type="checkbox" id="onlyEdited"> only edited</label>
         <label class="muted"><input type="checkbox" id="onlyProblems"> problems only</label>
+        <label class="muted"><input type="checkbox" id="onlyAmbiguous"> needs a JP pick</label>
         <label class="muted"><input type="checkbox" id="charmap"> gadesx accents</label>
       </div>
       <div class="toolbar viewbar">
@@ -106,6 +107,8 @@
           <option value="edited">edited boxes only</option>
         </select>
         <label class="muted"><input type="checkbox" id="expTodo"> untranslated only</label>
+        <span class="tag" id="confCount">0 confirmed pairings</span>
+        <button class="pill" id="exportConf">Export confirmed pairings</button>
         <button class="pill" id="exportStrings">Export strings JSON</button>
         <button class="pill" id="importStrings">Import strings JSON</button>
         <input type="file" id="importFile" class="hidden" accept=".json,application/json">

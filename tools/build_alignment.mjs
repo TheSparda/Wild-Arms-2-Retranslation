@@ -37,6 +37,7 @@ const J = require(path.join(ROOT, "web/wa2-jp.js"));
 const argv = process.argv.slice(2);
 const arg = (k, d) => (argv.includes(k) ? argv[argv.indexOf(k) + 1] : d);
 const ANCHORS = arg("--anchors", path.join(ROOT, "data/jp_en_anchors.json"));
+const CONFIRMED = arg("--confirmed", path.join(ROOT, "data/confirmed_anchors.json"));
 const OUT = arg("--out", path.join(ROOT, "data/jp_en_alignment.json"));
 const NBLK = 120;
 
@@ -111,8 +112,33 @@ function buildMap(anchors, enRange, jpRange) {
 
 function main() {
   const data = JSON.parse(fs.readFileSync(ANCHORS, "utf8"));
-  const all = data.anchors;
   const { jp, en, jpRange, enRange } = boxIndex();
+  const enKeyIdx = new Map(en.map((b, i) => [b.key, i]));
+
+  // Human confirmations outrank everything: a translator saying "this JP box is the source of
+  // this EN box" is the strongest evidence available. An anchor also splits its bracket in two,
+  // which spills over into neighbours — but only modestly. MEASURED by removing 200 anchors and
+  // feeding them back: +244 exact boxes, i.e. 1.22 per confirmation. Plan for roughly one
+  // confirmation per box you need mapped; do not expect a stretch to fall to a single pick.
+  let confirmed = [];
+  if (fs.existsSync(CONFIRMED)) {
+    // Tolerate an empty or malformed file rather than dying: this path is optional, and a broken
+    // confirmations file must not take the whole alignment down.
+    let raw = null;
+    try { raw = JSON.parse(fs.readFileSync(CONFIRMED, "utf8") || "{}"); }
+    catch (e) { console.error(`warning: ignoring ${path.basename(CONFIRMED)} — ${e.message}`); raw = {}; }
+    for (const c of (raw && raw.confirmations) || []) {
+      const ei = enKeyIdx.get(c.en_key);
+      const ji = jpRange[c.jp_blk] ? jpRange[c.jp_blk][0] + c.jp_ord : undefined;
+      if (ei === undefined || ji === undefined || !jp[ji]) continue;
+      confirmed.push({ en: ei, jp: ji, blk: en[ei].blk, key: c.en_key, human: true });
+    }
+  }
+  // A human confirmation replaces any harvested anchor on the same EN box.
+  const humanEn = new Set(confirmed.map((c) => c.en));
+  const all = [...data.anchors.filter((a) => !humanEn.has(a.en)), ...confirmed];
+  all.sort((a, b) => a.en - b.en);
+  if (confirmed.length) console.log(`merged ${confirmed.length} human confirmation(s) from ${path.basename(CONFIRMED)}`);
 
   if (argv.includes("--holdout")) {
     const frac = +arg("--holdout", 0.2);
@@ -151,6 +177,9 @@ function main() {
   const map = buildMap(all, enRange, jpRange);
   const tiers = {};
   for (const v of map.values()) tiers[v.tier] = (tiers[v.tier] || 0) + 1;
+  // Emit stable identities, not array positions: an EN box by its `blk:off:sub` key, and a JP box
+  // by (block, ordinal within block). The editor recomputes those from the discs; it cannot
+  // safely reconstruct a global index, and a confirmation must survive an extractor change.
   const out = { version: 1,
     what: "JP-box -> EN-box alignment interpolated from verified anchors (issue #4)",
     tiers: { anchor: "exact, harvested from the translation corpus",
@@ -158,7 +187,10 @@ function main() {
              bounded: "inside a disagreeing bracket: jp is a linear estimate, radius is the uncertainty",
              edge: "extrapolated past a block's outermost anchor; trust least" },
     counts: { ...tiers, en_boxes: en.length, jp_boxes: jp.length, covered: map.size },
-    map: Object.fromEntries([...map].map(([e, v]) => [e, [v.jp, v.radius, v.tier[0]]])) };
+    map: Object.fromEntries([...map].map(([e, v]) => {
+      const jb = jp[v.jp];
+      return [en[e].key, [jb ? jb.blk : -1, jb ? v.jp - jpRange[jb.blk][0] : -1, v.radius, v.tier[0]]];
+    })) };
   fs.writeFileSync(OUT, JSON.stringify(out));
   console.log(`EN boxes ${en.length.toLocaleString()}   JP boxes ${jp.length.toLocaleString()}`);
   console.log(`\naligned EN boxes: ${map.size.toLocaleString()} (${(map.size / en.length * 100).toFixed(1)}% of the disc)`);

@@ -100,13 +100,21 @@ function main() {
   };
 
   const align = JSON.parse(fs.readFileSync(ALIGN, "utf8")).map;
+  // The alignment is keyed by EN box key, with the JP box given as (block, ordinal) — stable
+  // identities rather than array positions. Rebuild the global JP index to match.
+  const jpBase = {};
+  { let n = 0; for (let blk = 0; blk < NBLK; blk++) { jpBase[blk] = n; n += J.jpBoxes(jd, blk).length; } }
   // invert: jp box -> the EN boxes claiming it, keeping the best tier
   const RANK = { a: 3, b: 2, o: 1, e: 0 };            // anchor, bracket, bounded, edge
   const jpToEn = new Map();
-  for (const [e, [j, r, t]] of Object.entries(align)) {
+  for (const [enKey, [jblk, jord, r, t]] of Object.entries(align)) {
+    if (jblk < 0) continue;
+    const j = jpBase[jblk] + jord;
+    const e = enIdx.get(enKey);
+    if (e === undefined) continue;
     const cur = jpToEn.get(j);
-    if (!cur || RANK[t] > RANK[cur.t]) jpToEn.set(j, { en: +e, r, t });
-    else if (cur && RANK[t] === RANK[cur.t] && cur.en !== +e) cur.ambiguous = true;
+    if (!cur || RANK[t] > RANK[cur.t]) jpToEn.set(j, { en: e, r, t });
+    else if (cur && RANK[t] === RANK[cur.t] && cur.en !== e) cur.ambiguous = true;
   }
 
   const db = new Map(JSON.parse(fs.readFileSync(DB, "utf8")).rows.map((r) => [r.us, r]));
