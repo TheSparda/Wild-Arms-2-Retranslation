@@ -18,7 +18,7 @@ what a shipped, hardware-proven patch of the US disc looks like.
 | `tools/` | Python pipeline: box extraction (`extract_boxes.py`), Spanish ground truth (`extract_es.py`), JP decoding (`wa2_jp_decode.py` + kanji map), alignment, insertion, wiki build. Run from repo root. |
 | `data/` | Derived, machine-readable: `script/` (boxes.json, es_boxes.json, wa2_db.json), filetables, string map, EN↔JP alignment. Regenerable from discs. |
 | `translation/` | Human working area: `blocks/` (per-block worksheets), `insert/` (insertion workspace), `drafts/`, `dumps_en/` + `dumps_jp/` (raw script dumps), `jp_quotes/`, `showcase/`. |
-| `docs/` | Research notes (`WA2_*.md`): encoding, scene structure, insertion model, style guide, character roster… |
+| `docs/` | Research notes (`WA2_*.md`): encoding, scene structure, insertion model, style guide, character roster, generated voice profiles… |
 | `font_work/` | Font extraction artifacts + `block_tables.json` (per-block kanji tables). |
 | `wiki/` | Generated script-comparison wiki (`tools/build_wiki.py` → `wiki/index.html`). Local artifact; not published. |
 

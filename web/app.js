@@ -880,6 +880,141 @@ $$(".drop[data-slot]").forEach((el) => {
 $("#restoreBtn").onclick = () => restoreAll();
 $("#forgetBtn").onclick = () => forgetAll();
 
+// ---------- character voice profiles ----------
+// Rendered from data/voices.json (built by tools/build_voices.py). The JP and EN halves are
+// measured independently so a mismatch is visible; the evidence lines are shown because the JP
+// on a row was attached by the aligner and a minority is wrong — never act on a profile without
+// reading the evidence.
+let VOICES = null;
+
+function confClass(c) { return c >= 0.85 ? "hi" : c >= 0.55 ? "mid" : "lo"; }
+
+function voiceCard(p) {
+  const li = (xs) => xs.length ? `<ul>${xs.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`
+                               : `<div class="muted" style="font-size:12px">nothing distinctive measured</div>`;
+  const ev = p.evidence.filter((e) => e.en || e.jp).slice(0, 4).map((e) => `
+    <table>
+      ${e.jp ? `<tr class="r-jp"><td class="lbl">JP</td><td>${esc(e.jp)}</td></tr>` : ""}
+      ${e.lit ? `<tr class="r-lit"><td class="lbl">LIT</td><td>${esc(e.lit)}</td></tr>` : ""}
+      ${e.en ? `<tr class="r-en"><td class="lbl">EN</td><td>${esc(e.en)}</td></tr>` : ""}
+    </table>`).join("");
+  return `<div class="vp" data-name="${esc(p.name)}">
+    <div class="vp-h">
+      <span class="nm">${esc(p.name)}</span>
+      <span class="kind">${p.kind}</span>
+      <span class="cnt">EN ${p.lines_en} · JP ${p.lines_jp}</span>
+      <span class="vp-conf ${confClass(p.en_lit_agreement)}"
+            title="Share of this character's rows where the shipped English and the human literal of the Japanese still share content words (${p.rows_agreeing}/${p.rows_checked}). A LOW score means EN and JP diverge — either the aligner mispaired the row, or the localization rewrote the line past recognition. Read the evidence.">
+        EN/JP agree ${Math.round(p.en_lit_agreement * 100)}%</span>
+      <span class="muted" style="font-size:10.5px">JP measured from ${esc(p.jp_register_from)}</span>
+      ${p.low_sample ? '<span class="badge badge-ro" title="under 25 lines — treat as indicative only">low sample</span>' : ""}
+    </div>
+    <div class="vp-grid">
+      <div class="vp-side vp-jp"><h4>Japanese (source)</h4>${li(p.jp_register)}</div>
+      <div class="vp-side vp-en"><h4>English (shipped)</h4>${li(p.en_register)}</div>
+    </div>
+    ${p.drift.length ? `<div class="vp-drift"><b>voice drift:</b> ${p.drift.map(esc).join("<br>")}</div>` : ""}
+    <details class="vp-ev"><summary>evidence — ${p.evidence.length} sampled lines</summary>${ev}</details>
+  </div>`;
+}
+
+function renderVoices() {
+  if (!VOICES) return;
+  const q = ($("#charFind").value || "").toLowerCase();
+  const onlyC = $("#charOnlyChars").checked, onlyD = $("#charOnlyDrift").checked;
+  const list = VOICES.profiles.filter((p) =>
+    (!onlyC || p.kind === "character") && (!onlyD || p.drift.length) &&
+    (!q || p.name.toLowerCase().includes(q)));
+  $("#charList").innerHTML = list.map(voiceCard).join("");
+  const drifted = VOICES.profiles.filter((p) => p.drift.length).length;
+  $("#charStatus").innerHTML =
+    `${list.length} shown of ${VOICES.profiles.length} profiles · ${drifted} with measured voice drift · ` +
+    `<span title="${esc(VOICES.caveat)}">source: the annotated script DB (hover for the data caveat)</span>`;
+}
+
+async function initVoices() {
+  try {
+    VOICES = await (await fetch("data/voices.json")).json();
+    renderVoices();
+  } catch (e) {
+    $("#charStatus").innerHTML = `<span style="color:#e57373">could not load data/voices.json — ` +
+      `run <code>python3 tools/build_voices.py</code> and copy it to web/data/</span>`;
+  }
+}
+
+// An AI brief must carry EVIDENCE, not adjectives: the measured registers plus real lines, and
+// the caveats, so the model can't be confidently wrong about a character it never saw speak.
+function voiceBrief(profiles) {
+  return {
+    app: "wa2-translation-editor", kind: "voice-brief", version: 1,
+    how_to_use: [
+      "Keep each character's retranslated English consistent with the JAPANESE register below —",
+      "that is the source. The English column is the shipped localization and is what we are fixing.",
+      "Where 'drift' is present, the localization changed or flattened the character: follow the JP.",
+      "These registers are measured counts from the script, not opinions. Evidence lines are real.",
+      "Obey docs/WA2_RE_STYLE_GUIDE.md: <=3 lines x 35 chars, no em dashes, no trailing comma,",
+      "keep {n} name codes and |emphasis| markers verbatim.",
+    ],
+    caveat: VOICES.caveat,
+    profiles: profiles.map((p) => ({
+      name: p.name, kind: p.kind,
+      lines: { en: p.lines_en, jp: p.lines_jp },
+      en_lit_agreement: p.en_lit_agreement, jp_register_measured_from: p.jp_register_from,
+      japanese_register: p.jp_register, english_register: p.en_register,
+      voice_drift: p.drift,
+      sample_lines: p.evidence.filter((e) => e.en).slice(0, 4)
+        .map((e) => ({ us: e.us, jp: e.jp, literal: e.lit, shipped_en: e.en })),
+    })),
+  };
+}
+
+function voiceMarkdown(profiles) {
+  const out = ["# WA2 — Character Voice Profiles (measured)", "",
+    "Japanese and English measured **independently** from the shipped script; a mismatch means",
+    "the localization changed the character. Counts are evidence, not opinion.", "",
+    `> ${VOICES.caveat}`, ""];
+  for (const p of profiles) {
+    out.push(`## ${p.name}  \`${p.kind}\``, "",
+      `EN lines ${p.lines_en} · JP lines ${p.lines_jp} · EN/JP agreement ${Math.round(p.en_lit_agreement * 100)}% · JP register from ${p.jp_register_from}`, "",
+      "| Japanese (source) | English (shipped) |", "|---|---|");
+    const n = Math.max(p.jp_register.length, p.en_register.length, 1);
+    for (let i = 0; i < n; i++)
+      out.push(`| ${(p.jp_register[i] || "").replace(/\|/g, "\\|")} | ${(p.en_register[i] || "").replace(/\|/g, "\\|")} |`);
+    out.push("");
+    if (p.drift.length) { out.push("**Voice drift:**", ...p.drift.map((d) => `- ${d}`), ""); }
+    const ev = p.evidence.filter((e) => e.en).slice(0, 3);
+    if (ev.length) {
+      out.push("<details><summary>evidence</summary>", "");
+      for (const e of ev) {
+        if (e.jp) out.push(`- **JP** ${e.jp}`);
+        if (e.lit) out.push(`  - *lit* ${e.lit}`);
+        out.push(`  - **EN** ${e.en}`);
+      }
+      out.push("", "</details>", "");
+    }
+  }
+  return out.join("\n");
+}
+
+function visibleVoices() {
+  const names = new Set($$("#charList .vp").map((e) => e.dataset.name));
+  return VOICES.profiles.filter((p) => names.has(p.name));
+}
+$("#charFind").oninput = () => renderVoices();
+$("#charOnlyChars").onchange = () => renderVoices();
+$("#charOnlyDrift").onchange = () => renderVoices();
+$("#charExport").onclick = () => {
+  const v = visibleVoices();
+  download("wa2_voice_brief.json", new TextEncoder().encode(JSON.stringify(voiceBrief(v), null, 1)));
+  $("#charStatus").innerHTML = `exported a voice brief for <b>${v.length}</b> profile(s) — paste it to an AI alongside the boxes you're translating`;
+};
+$("#charExportMd").onclick = () => {
+  const v = visibleVoices();
+  download("wa2_voice_profiles.md", new TextEncoder().encode(voiceMarkdown(v)));
+  $("#charStatus").innerHTML = `exported Markdown for <b>${v.length}</b> profile(s)`;
+};
+initVoices();
+
 // mode tabs
 $$(".mtab").forEach((t) => t.onclick = () => {
   $$(".mtab").forEach((x) => x.classList.toggle("on", x === t));
@@ -890,5 +1025,6 @@ initRestore();
 
 // test hook: lets automated tests drive the app without native file pickers
 window.WA2App = { S, SLOTS, loadSlot, renderBlock, buildEdits, blockModel, enPrimary, jpSource,
+                  renderVoices, voiceBrief, voiceMarkdown, get VOICES() { return VOICES; },
                   enTargets, refreshAvailability, restoreAll, initRestore, forgetAll, IDB,
                   buildCorpus, applyCorpus, digest, keyOf, chunkBudget };

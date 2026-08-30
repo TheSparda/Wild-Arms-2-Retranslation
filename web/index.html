@@ -123,9 +123,21 @@
   </section>
 
   <section id="mode-chars" class="mode hidden">
-    <div class="card"><h2>Characters</h2>
-      <p class="sub">Planned: party stats, growth, names — same load-your-disc model.
-      The box/text pipeline is proven; character tables are the next research target.</p></div>
+    <p class="sub">Voice profiles <b>measured</b> from the shipped script — the Japanese and the
+      English analysed <b>independently</b>, so where they disagree the localization changed the
+      character. Use these to keep a retranslation in voice, and to brief an AI with evidence
+      rather than adjectives. No disc needed; this reads the project's annotated script DB.</p>
+    <div class="card">
+      <div class="toolbar">
+        <input class="search" id="charFind" placeholder="find a character…">
+        <label class="muted"><input type="checkbox" id="charOnlyChars" checked> characters only</label>
+        <label class="muted"><input type="checkbox" id="charOnlyDrift"> voice drift only</label>
+        <button class="pill" id="charExport">Export voice brief (JSON)</button>
+        <button class="pill" id="charExportMd">Export brief (Markdown)</button>
+      </div>
+      <div class="muted" id="charStatus">loading…</div>
+    </div>
+    <div id="charList"></div>
   </section>
   <section id="mode-abil" class="mode hidden">
     <div class="card"><h2>Abilities</h2>

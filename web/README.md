@@ -104,6 +104,41 @@ Tests run from the repo root (they read your local discs; skipped when absent):
 node web/tests/core.test.mjs && node web/tests/jp.test.mjs
 ```
 
+## Characters tab — measured voice profiles
+
+A voice profile for every speaker with enough lines (54 characters + 29 role buckets), built by
+`tools/build_voices.py` into `data/voices.json`. The **Japanese and the English are measured
+independently** from the annotated script DB, so where they disagree the localization changed the
+character — which is exactly what the retranslation is for.
+
+Japanese marks register almost entirely in **kana** — first/second-person pronoun, です/ます
+politeness, sentence-final particles, copula — and our decoder solves kana completely even where
+kanji are still unsolved, so register survives the decode intact. Sentence-final particles are
+matched only in final position; counting bare じゃ anywhere reads every modern じゃない as archaic.
+
+Validated against a documented fact: `WA2_NAME_DICTIONARY.md` records Marivel as わらわ/〜じゃ
+speech, and the tool independently measures わらわ×14 and じゃ×15 for her.
+`python3 tools/build_voices.py --verify` asserts that and four other known registers.
+
+**Drift is measured against the cast, not against a threshold I picked.** The English turns out to
+be nearly uniform (contractions 4.7–5.9 per 100 words and ~10–11 words/line for characters as
+different as Ashley 俺, Kanon あたし and Tim ボク+です/ます) while the Japanese separates them
+sharply. So a character is flagged when their JP is strongly marked but their EN sits within
+0.75σ of the cast average on every measure. Current flags: **Marivel** (JP archaic, yet the EN is
+*more* contracted than average — register inverted), **Tim**, **Altaecia**.
+
+**Export voice brief** produces JSON (or Markdown) carrying the measured registers, the drift, and
+real JP/literal/English sample lines — evidence for an AI to work from rather than adjectives,
+plus the style-guide constraints. Filter first; the export follows what's on screen.
+
+> **`EN/JP agree`** on each card is a real per-row check: does the human literal of the Japanese
+> still share content words with the shipped English? A low score means the two diverge — *either*
+> the aligner mispaired the row *or* the localization rewrote the line past recognition, and the
+> check cannot separate those. Marivel is the type case: she scores 17%, yet her わらわ (used by
+> nobody else) appears 14 times, so the Japanese really is hers and it is the English that walked
+> away. Where enough rows agree, the JP register is measured from those rows only. Read the
+> evidence lines before acting on any profile.
+
 ## What the research docs taught this editor
 
 The editor encodes decisions already made and verified in `docs/` — it is not re-deciding them.

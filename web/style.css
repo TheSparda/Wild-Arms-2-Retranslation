@@ -451,3 +451,31 @@ body.view-game .bx-body { grid-template-columns:1fr; }
 .conf-term { background:#2e7d32; color:#fff; border-radius:4px; padding:0 5px; font-size:10px; cursor:help; }
 .conf-conflict { background:#b03a2e; color:#fff; border-radius:4px; padding:0 5px; font-size:10px; cursor:help; }
 .suggest { font-size:10px; opacity:.8; color:#e5a13e; }
+
+/* ===== character voice profiles ===== */
+.vp { border:1px solid var(--line,#453227); border-radius:10px; margin:12px 0; overflow:hidden; }
+.vp-h { display:flex; gap:10px; align-items:baseline; flex-wrap:wrap; padding:8px 12px; background:var(--panel2); }
+.vp-h .nm { font-weight:700; font-size:15px; }
+.vp-h .kind { font-size:10px; text-transform:uppercase; letter-spacing:.06em; opacity:.55;
+  border:1px solid var(--line,#453227); border-radius:4px; padding:0 5px; }
+.vp-h .cnt { font-size:11px; opacity:.7; font-variant-numeric:tabular-nums; }
+.vp-grid { display:grid; grid-template-columns:1fr 1fr; gap:0; }
+.vp-side { padding:10px 12px; }
+.vp-side + .vp-side { border-left:1px solid var(--line,#453227); }
+.vp-side h4 { margin:0 0 6px; font-size:11px; letter-spacing:.07em; text-transform:uppercase; opacity:.6; }
+.vp-jp h4 { color:var(--c-jp); } .vp-en h4 { color:var(--c-en); }
+.vp-side ul { margin:0; padding-left:16px; font-size:12.5px; line-height:1.6; }
+.vp-drift { padding:8px 12px; background:rgba(224,110,90,.10); border-top:1px solid var(--line,#453227);
+  font-size:12.5px; color:#ffc9bd; }
+.vp-drift b { color:#ff9b85; }
+.vp-ev { border-top:1px solid var(--line,#453227); padding:8px 12px; }
+.vp-ev summary { cursor:pointer; font-size:11px; opacity:.7; letter-spacing:.05em; text-transform:uppercase; }
+.vp-ev table { width:100%; border-collapse:collapse; margin-top:6px; font-size:12px; }
+.vp-ev td { padding:3px 8px 3px 0; vertical-align:top; }
+.vp-ev td.lbl { width:26px; font-size:10px; opacity:.5; }
+.vp-ev tr.r-jp td { color:var(--c-jp); } .vp-ev tr.r-en td { color:var(--c-en); }
+.vp-ev tr.r-lit td { color:var(--c-es); }
+.vp-conf { font-size:10px; border-radius:4px; padding:0 5px; }
+.vp-conf.hi { background:#2e7d32; color:#fff; } .vp-conf.mid { background:#8d6e2f; color:#fff; }
+.vp-conf.lo { background:#8c3a2e; color:#fff; }
+@media (max-width:900px){ .vp-grid { grid-template-columns:1fr; } .vp-side + .vp-side { border-left:none; border-top:1px solid var(--line,#453227); } }
