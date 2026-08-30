@@ -34,3 +34,6 @@ web/tests/fixtures/*.ppf
 #     Regenerate with tools/migrate_db_to_boxes.mjs; issue #3 decides what gets published.
 data/migrated_corpus*.json
 data/jp_en_alignment.json
+
+# --- generated translation worklists (derived; rebuild with tools/build_worklist.mjs) ---
+data/worklist_*.json
