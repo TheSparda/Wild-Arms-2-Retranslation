@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#141414">
+<title>Wild Arms 2 — Translation Editor</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Wild Arms 2 — Translation Editor</h1>
+    <span class="tag">web · runs on your device · nothing uploaded</span>
+  </header>
+
+  <nav class="modebar">
+    <button class="mtab on" data-mode="script">Script</button>
+    <button class="mtab" data-mode="chars">Characters</button>
+    <button class="mtab" data-mode="abil">Abilities</button>
+  </nav>
+
+  <section id="mode-script" class="mode">
+    <p class="sub">Load your own discs — <b>US Disc&nbsp;1</b> (the patch target), optionally the
+      <b>JP disc</b> (retranslation source) and the <b>gadesx Spanish patch</b> (ground truth /
+      reference). Edit dialogue boxes with a live byte budget, then export an in-place write,
+      a <b>PPF3</b> patch or an <b>xdelta</b>. Everything happens in your browser.</p>
+
+    <div class="card" id="loadCard">
+      <h2>1 · Load discs</h2>
+      <div class="grid" id="loaders">
+        <div class="drop" id="dropEN">
+          <b>US Disc 1 (.bin)</b> — required<br>
+          <button type="button" class="pill" id="pickEN">Choose file…</button>
+          <div class="muted" id="stEN">not loaded</div>
+        </div>
+        <div class="drop" id="dropJP">
+          <b>JP Disc 1 (.bin)</b> — optional, enables the JP column<br>
+          <button type="button" class="pill" id="pickJP">Choose file…</button>
+          <div class="muted" id="stJP">not loaded</div>
+        </div>
+        <div class="drop" id="dropES">
+          <b>Spanish (.ppf or patched .bin)</b> — optional ground truth<br>
+          <button type="button" class="pill" id="pickES">Choose file…</button>
+          <div class="muted" id="stES">not loaded</div>
+        </div>
+      </div>
+      <div class="muted" id="probe" style="margin-top:8px"></div>
+    </div>
+
+    <div class="card hidden" id="navCard">
+      <h2>2 · Edit script</h2>
+      <div class="toolbar">
+        <button class="pill" id="prevBlk">◀</button>
+        <select id="blkSel"></select>
+        <button class="pill" id="nextBlk">▶</button>
+        <input class="search" id="findBox" placeholder="find text in this block…">
+        <label class="muted" style="margin-left:auto">
+          <input type="checkbox" id="charmap"> allow gadesx accent glyphs (needs patched font)</label>
+      </div>
+      <div class="muted" id="blkStats"></div>
+      <div id="chunkList"></div>
+    </div>
+
+    <div class="card hidden" id="exportCard">
+      <h2>3 · Project &amp; export</h2>
+      <div class="toolbar">
+        <span class="tag" id="editCount">0 edits</span>
+        <button class="pill" id="exportProj">Export project JSON</button>
+        <button class="pill" id="importProj">Import project</button>
+        <input type="file" id="importFile" class="hidden" accept=".json">
+      </div>
+      <div class="toolbar">
+        <button class="pill" id="dlPPF">Download PPF3 patch</button>
+        <button class="pill" id="dlXdelta">Download xdelta</button>
+        <button class="pill" id="writeInPlace" disabled>Write disc in place</button>
+        <button class="pill" id="saveCopy" disabled>Save patched copy…</button>
+      </div>
+      <div class="muted" id="exportStatus"></div>
+    </div>
+  </section>
+
+  <section id="mode-chars" class="mode hidden">
+    <div class="card"><h2>Characters</h2>
+      <p class="sub">Planned: party stats, growth, names — same load-your-disc model.
+      The box/text pipeline is proven; character tables are the next research target.</p></div>
+  </section>
+  <section id="mode-abil" class="mode hidden">
+    <div class="card"><h2>Abilities</h2>
+      <p class="sub">Planned: Force abilities, ARMs, spell tables.</p></div>
+  </section>
+
+  <footer>
+    <span class="muted">WA2 Translation Editor · EN structure is authoritative · ES = gadesx ground truth ·
+      chunk budgets are byte-exact (space-padded, the shipped gadesx model)</span>
+  </footer>
+</div>
+<script src="wa2-core.js"></script>
+<script src="wa2-jp.js"></script>
+<script src="vcdiff.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

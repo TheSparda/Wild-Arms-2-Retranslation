@@ -24,3 +24,7 @@ __pycache__/
 # --- extracted font/VRAM dumps (copyrighted game data) ---
 font replacement/
 font_work/sys/
+
+# --- web test fixtures (game data / third-party patch, local only) ---
+web/tests/fixtures/*.bin
+web/tests/fixtures/*.ppf
