@@ -35,7 +35,18 @@
       if (((c >= 0x81 && c <= 0x9f) || (c >= 0xe0 && c <= 0xef)) && i + 1 < b.length) {
         const h = hex2(c) + hex2(b[i + 1]);
         if (T.kanji[h]) { out.push(T.kanji[h]); i += 2; continue; }
-        if ((c === 0x88 || c === 0x89 || c === 0x8a) && h !== "8140") { out.push(`<${h}>`); i += 2; continue; }
+        // 0x88-0x8b lead = the game's custom kanji block. It is NOT Shift-JIS and legitimately
+        // uses trail bytes below 0x40 (global tier from 0x8801, block-local from 0x8a38), so it
+        // must be matched BEFORE the trail-byte gate below.
+        if (c === 0x88 || c === 0x89 || c === 0x8a || c === 0x8b) { out.push(`<${h}>`); i += 2; continue; }
+        // Every other lead in 0x81-0x9f/0xe0-0xef is real Shift-JIS, so the trail byte must be
+        // legal (0x40-0x7e or 0x80-0xfc). Without this gate the decoder swallowed illegal pairs
+        // (91 06, 98 10, e1 3c ...) that are a single-byte code followed by an event opcode,
+        // emitting kanji-shaped noise. Mirrors tools/wa2_jp_decode.py.
+        const t = b[i + 1];
+        if (!((t >= 0x40 && t <= 0x7e) || (t >= 0x80 && t <= 0xfc))) {
+          out.push(`[${hex2(c)}]`); i += 1; continue;
+        }
         // CPython's shift_jis rejects leads 0xeb-0xef (IBM/NEC extension area); WHATWG maps
         // some of them. Match CPython so JS output stays identical to the tools.
         let s = null;
