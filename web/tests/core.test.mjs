@@ -141,6 +141,12 @@ if (fs.existsSync(PPF) && fs.existsSync(ES_BIN)) {
 {
   const rules = (t, o) => C.lintText(t, o).map((m) => m.rule);
   ok(rules("Well then,").includes("trailing-comma"), "§2: box may not end on a comma");
+  // §2 is about the BOX ending, not every line. An interior break may end on a comma — the
+  // sentence continues on the next line. Flagging every line rejected correct translations.
+  ok(!rules("Even if the sky goes dark,\nno one can stop my pranks!").includes("trailing-comma"),
+     "§2: an interior line MAY end on a comma");
+  ok(rules("first line is fine\nbut this one trails off,").includes("trailing-comma"),
+     "§2: a comma on the LAST line still errors");
   ok(rules("He was there — waiting.").includes("em-dash"), "§2: no em dashes");
   ok(rules("A, then B, then C, and D").includes("run-on"), "§2: run-on comma chain");
   ok(rules("Ashley, wait!").includes("name-code"), "§3: renameable name should be a {n} code");

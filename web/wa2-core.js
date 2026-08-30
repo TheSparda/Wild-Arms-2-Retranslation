@@ -273,13 +273,15 @@
     // §2 punctuation
     if (/—|(?:^|[^-])--(?:[^-]|$)/.test(t))
       add("error", "em-dash", "no em dashes or `--` — they read as machine output; use a comma, a period, or two sentences");
-    for (const ln of t.split("\n")) {
-      const trimmed = ln.trim();
-      if (/,$/.test(trimmed))
-        add("error", "trailing-comma", "a box must not end a line on a comma — use `...` for a lead-in, or make it a complete sentence");
-      if (/\b(and|but|so|then)$/i.test(trimmed))
-        add("warn", "dangling-conj", `line ends on "${trimmed.split(/\s+/).pop()}" — finish the thought or end with \`...\``);
-    }
+    // §2 forbids a BOX ending on a comma or a dangling conjunction, because the box closes there
+    // and reads as truncated. An interior line break may absolutely end on a comma — the sentence
+    // simply continues on the next line, which is normal in a 3-line box. Checking every line
+    // instead of the last was rejecting correct translations.
+    const lastLine = t.split("\n").map((x) => x.trim()).filter(Boolean).pop() || "";
+    if (/,$/.test(lastLine))
+      add("error", "trailing-comma", "a box must not END on a comma — use `...` for a lead-in, or make it a complete sentence");
+    if (/\b(and|but|so|then)$/i.test(lastLine))
+      add("warn", "dangling-conj", `box ends on "${lastLine.split(/\s+/).pop()}" — finish the thought or end with \`...\``);
     const commas = (t.match(/,/g) || []).length;
     if (commas >= 3 && !/[.!?]/.test(t.replace(/\.\.\./g, "")))
       add("warn", "run-on", `${commas} commas and no sentence end — break the clause chain into sentences`);
