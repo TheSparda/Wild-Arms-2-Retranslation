@@ -660,14 +660,8 @@ $("#saveCopy").onclick = () => withEdits(async (edits) => {
 // which was unreadable away from the app.
 const CORPUS_VERSION = 2;
 
-// Cheap stable digest of a row's EN source. Import compares it and refuses rows whose source
-// has moved: a JSON built against a different disc/extraction would otherwise write good-looking
-// text into the wrong boxes, which is silent and very hard to notice later.
-function digest(str) {
-  let h = 0x811c9dc5;
-  for (let i = 0; i < str.length; i++) { h ^= str.charCodeAt(i); h = Math.imul(h, 0x01000193) >>> 0; }
-  return h.toString(16).padStart(8, "0");
-}
+// digest lives in wa2-core.js so tools/migrate_db_to_boxes.mjs shares the exact implementation.
+const digest = C.digest;
 
 function corpusRow(blk, ch, row) {
   const k = keyOf(blk, ch, row);

@@ -225,6 +225,16 @@
     return { bytes: out, total };
   }
 
+  // Stable digest of a box's English source, used as the migration/import guard: a strings-JSON
+  // row whose `en` no longer matches the disc is refused rather than written to the wrong box.
+  // Lives here rather than in app.js so the editor and tools/migrate_db_to_boxes.mjs cannot
+  // drift apart — a mismatch would silently refuse every migrated row.
+  function digest(str) {
+    let h = 0x811c9dc5;
+    for (let i = 0; i < str.length; i++) { h ^= str.charCodeAt(i); h = Math.imul(h, 0x01000193) >>> 0; }
+    return h.toString(16).padStart(8, "0");
+  }
+
   // On-screen fit. Distinct from the BYTE budget: the script carries explicit \x0d line
   // breaks (the game does not auto-wrap), so a box can sit inside its chunk capacity and still
   // overflow the visible window. Measured over all 21,644 EN boxes: 99.5% are <=3 lines and
@@ -345,7 +355,7 @@
 
   const api = { RAW, USER, HDR, DISCS, nsec, rawSpan, rawToUser, userToRawOff,
                 edcCompute, sectorFix, ppfParse, ppfApplyWindow, ppfBuild,
-                ES_MAP, ES_REV, parseSub, encodeText, rebuildChunk, decodeEnLossy, goodEn, walkChunks, fitReport, speakerCode, FIT, lintText };
+                ES_MAP, ES_REV, parseSub, encodeText, rebuildChunk, decodeEnLossy, goodEn, walkChunks, fitReport, speakerCode, FIT, lintText, digest };
   if (typeof module !== "undefined" && module.exports) module.exports = api;
   else root.WA2Core = api;
 })(typeof globalThis !== "undefined" ? globalThis : this);

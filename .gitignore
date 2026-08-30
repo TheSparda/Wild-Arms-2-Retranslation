@@ -29,3 +29,7 @@ font_work/sys/
 web/tests/fixtures/*.bin
 web/tests/fixtures/*.ppf
 
+
+# --- migrated corpus: derived, 2 MB, and its placement quality is not shippable yet (issue #10).
+#     Regenerate with tools/migrate_db_to_boxes.mjs; issue #3 decides what gets published.
+data/migrated_corpus*.json
