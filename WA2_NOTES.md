@@ -190,3 +190,36 @@ Target discs (match ours): CD1 SCUS-94484 515,619,552 B (CRC 4321AA8D), CD2 SCUS
 - 0x9299C is very close to WILDARM2.EXE's item/skill text region — CONFIRMS text lives where we found it.
 - NEXT: apply PPF to a COPY of our disc, then diff clean-vs-Spanish to see EXACTLY which bytes/pointers
   gadesx changed for each string. That reverse-maps the pointer format for free.
+
+# SPANISH AS GROUND TRUTH (tools_wa2/extract_es.py)
+
+gadesx patched the **US** disc in place, so Spanish pairs to English by raw `(offset, sub)` key —
+**19,573 / 20,652 EN boxes (94.8%) join exactly**. No DP, no `conf` flag. This is the only exact
+alignment in the project (EN↔JP is ~38% within ±1).
+
+**Glyph slots gadesx proved repointable** — he reused unused ASCII symbol slots, not a font extension:
+
+| byte | ASCII | glyph | | byte | ASCII | glyph |
+|---|---|---|---|---|---|---|
+| `0x5c` | `\` | ¡ | | `0x7c` | `\|` | ó |
+| `0x5e` | `^` | ¿ | | `0x7d` | `}` | í |
+| `0x5f` | `_` | ñ | | `0x7e` | `~` | é |
+| `0x7b` | `{` | ú | | `0x7f` | DEL | á |
+
+Uppercase accents are unmapped; gadesx wrote capitals unaccented.
+
+**Fit budget (measured, `--fit`).** Median ES/EN length ratio **0.89**, p90 **1.02** — gadesx mostly
+had to *compress*, which tempers the "Spanish is longer so we have room" assumption. But 14.3% of
+boxes do exceed the English length and the longest shipped ES box is **359 chars**, so the EN length
+is demonstrably not the ceiling.
+
+**What ES cannot do:** it is a daughter of the English script. It carries zero Japanese information
+and can never arbitrate an EN-vs-JP divergence.
+
+**Segmentation audit (`--audit`).** The 5.2% of EN boxes with no ES box at the same key are leads on
+our own extractor: the sample is dominated by mangled `{0}`→`00 acquired.` decodes and mid-sentence
+fragments (`located in the forest.`, `forward, press the up directional button`). Worst blocks:
+26, 118, 14, 67, 6, 111.
+
+Input `WA2_CD1_spanish.bin` = US disc + gadesx PPF (PPF-o-matic 3). Both it and `spanish_patch/`
+are gitignored — gadesx's patch is his work, not ours.

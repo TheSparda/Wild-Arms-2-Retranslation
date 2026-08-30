@@ -38,13 +38,17 @@ def _is_jp_lead(b):
     return 0x81 <= b <= 0x9f or 0xe0 <= b <= 0xef
 
 
-def _decode_en(raw):
+def _decode_en(raw, cmap=None):
     """Decode an EN payload run. Handles the box framings the earlier @-only pass missed:
        @text                      classic
        Speaker\rtext              speaker-prefixed (\x06 Musketeer A \x0d (Did you...))
        \x05 N \r (text)           name-coded thought/paren box (\x06 \x05 0 \x0d (Draw...))
     Returns (display_text, stray_control_count). \x05 N is a name/speaker selector (dropped),
-    \n-digit is a {n} name code (kept), \r is a line break (space), @ is the box-open (dropped)."""
+    \n-digit is a {n} name code (kept), \r is a line break (space), @ is the box-open (dropped).
+
+    `cmap` remaps byte->glyph before the ASCII gate. The gadesx Spanish patch reuses the unused
+    ASCII symbol slots for accented glyphs (see ES_MAP in extract_es.py); without the map those
+    bytes fall through to the stray-control counter and the box gets rejected as binary."""
     out = []; j = 0; ctrl = 0
     n = len(raw)
     while j < n:
@@ -53,6 +57,8 @@ def _decode_en(raw):
             out.append('{' + chr(raw[j+1]) + '}'); j += 2; continue
         if b == 0x05 and j + 1 < n:              # name/speaker selector: drop marker + arg
             j += 2; continue
+        if cmap and b in cmap:                   # remapped glyph slot (e.g. ES accents)
+            out.append(cmap[b]); j += 1; continue
         if b == 0x40:                            # '@' box-open, not displayed
             j += 1; continue
         if 0x20 <= b < 0x7f:
@@ -63,7 +69,7 @@ def _decode_en(raw):
     return ' '.join(''.join(out).split()), ctrl
 
 
-def _extract(data, lo, hi, jp, blk=0):
+def _extract(data, lo, hi, jp, blk=0, cmap=None):
     """Return ordered list of dialogue boxes in [lo,hi). Each: {off, text, indexed, panel}.
 
     A box = a run from a frame byte (\x10\x0c idx / \x06 inline / \x0d cont) to NUL, split on
@@ -84,6 +90,7 @@ def _extract(data, lo, hi, jp, blk=0):
             while k < hi and data[k] != 0x00: k += 1
             chunk = data[s:k]
             emitted = False
+            nsub = 0
             for sub in chunk.split(b'\x10\x0c'):
                 if not sub: continue
                 if jp:
@@ -97,12 +104,17 @@ def _extract(data, lo, hi, jp, blk=0):
                     good = cjk >= 2 or kana >= 3
                     panel = t.lstrip('「『 ').startswith('＊')
                 else:
-                    t, ctrl = _decode_en(sub)
+                    t, ctrl = _decode_en(sub, cmap)
                     letters = sum(c.isalpha() for c in t)
                     good = letters >= 3 and ctrl <= max(2, len(t) // 8)
                     panel = t.lstrip('({ ').startswith('*')
                 if good:
-                    out.append({'off': i, 'text': t, 'indexed': frame == 'idx', 'panel': panel})
+                    # `off` is the FRAME byte, so every sub-box of one \x10\x0c chunk shares it
+                    # (36.6% of boxes). `sub` disambiguates -- (off, sub) is the real box key,
+                    # and it is what the EN<->ES offset join must pair on.
+                    out.append({'off': i, 'sub': nsub, 'text': t,
+                                'indexed': frame == 'idx', 'panel': panel})
+                    nsub += 1
                     emitted = True
             if emitted and k > s:
                 i = k; continue
@@ -110,8 +122,8 @@ def _extract(data, lo, hi, jp, blk=0):
     return out
 
 
-def en_boxes(ud, blk):
-    return _extract(ud, blk * UBLK, (blk + 1) * UBLK, jp=False)
+def en_boxes(ud, blk, cmap=None):
+    return _extract(ud, blk * UBLK, (blk + 1) * UBLK, jp=False, cmap=cmap)
 
 
 def jp_boxes(jd, blk):
