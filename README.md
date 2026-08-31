@@ -6,6 +6,9 @@ Runs entirely in your browser — load your own discs, nothing is uploaded. No g
 included or served; you bring your own `.bin` images.
 
 
+**New here? Read [docs/PROJECT_SUMMARY.md](docs/PROJECT_SUMMARY.md)** — what this is, what the
+editor does, and where the translation actually stands.
+
 Tooling and research for a retranslation of Wild Arms 2 (PS1), patched onto the **US** release
 using the **JP** script as source and the **gadesx Spanish fan translation** as ground truth for
 what a shipped, hardware-proven patch of the US disc looks like.
